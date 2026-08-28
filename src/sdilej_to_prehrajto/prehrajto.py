@@ -186,10 +186,15 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> s
     response.raise_for_status()
     wanted = display_name.casefold().strip()
     soup = BeautifulSoup(response.text, "html.parser")
-    for text_node in soup.find_all(string=True):
-        if text_node.get_text(" ", strip=True).casefold() != wanted:
+    for element in soup.find_all(["h1", "h2", "h3", "input"]):
+        visible_name = (
+            element.get("value", "") or element.get_text(" ", strip=True)
+        ).casefold()
+        visible_name = re.sub(r"\s*\(zpracovává se\)\s*$", "", visible_name)
+        visible_name = re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name).strip()
+        if visible_name != wanted:
             continue
-        node = text_node.parent
+        node = element
         for _level in range(8):
             if node is None:
                 break
