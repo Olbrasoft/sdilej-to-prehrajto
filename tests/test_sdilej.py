@@ -1,6 +1,11 @@
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
-from sdilej_to_prehrajto.sdilej import SdilejProvider, parse_detail_html, parse_search_html
+from sdilej_to_prehrajto.sdilej import (
+    SdilejProvider,
+    audio_language_hint,
+    parse_detail_html,
+    parse_search_html,
+)
 
 
 SEARCH_HTML = """
@@ -103,3 +108,37 @@ def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     discovered = provider.discover(film)
     assert rank_candidates(discovered)[0].language_tier == LanguageTier.CZECH_AUDIO
     assert len(detector.seen) == 2
+
+
+def test_audio_hint_distinguishes_dubbing_from_subtitles() -> None:
+    assert audio_language_hint("Schindleruv seznam 4K CZ.mkv") == "cs"
+    assert audio_language_hint("Schindleruv seznam CZ dubbing.mkv") == "cs"
+    assert audio_language_hint("Schindleruv seznam CZ titulky.mkv") is None
+
+
+class ConflictDetector:
+    def detect(self, _url: str) -> tuple[str, float]:
+        return "pl", 0.68
+
+    def detect_consensus(self, _url, _duration, **kwargs) -> tuple[str, float]:
+        assert kwargs["preferred_language"] == "cs"
+        return "cs", 0.88
+
+
+def test_discovery_resamples_explicit_czech_source_on_whisper_conflict() -> None:
+    class CzechNamedSession(FakeSession):
+        def get(self, url: str, **kwargs) -> FakeResponse:
+            response = super().get(url, **kwargs)
+            if "/s/video-" not in url:
+                response.text = response.text.replace(
+                    "Film (2000).mkv", "Film (2000) CZ dubbing.mkv"
+                )
+            return response
+
+    provider = SdilejProvider(
+        CzechNamedSession(), ConflictDetector(), max_candidates=1, request_gap_seconds=0
+    )
+    film = Film(1, "film", "Film", None, 2000, 100, "en")
+    discovered = provider.discover(film)
+    assert discovered[0].language_tier == LanguageTier.CZECH_AUDIO
+    assert discovered[0].language_evidence == "whisper_multisample_filename_conflict"

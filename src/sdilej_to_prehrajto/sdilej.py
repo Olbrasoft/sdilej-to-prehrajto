@@ -257,11 +257,27 @@ class SdilejProvider:
             try:
                 detail = parse_detail_html(self._get(candidate.url).text, candidate)
                 language, probability = self.language_detector.detect(detail.sample_url)
+                hint = audio_language_hint(detail.filename)
+                resampled = False
+                if hint and language_tier(language) != language_tier(hint):
+                    consensus = getattr(self.language_detector, "detect_consensus", None)
+                    if consensus:
+                        resampled = True
+                        language, probability = consensus(
+                            detail.sample_url,
+                            detail.duration_sec,
+                            initial=(language, probability),
+                            preferred_language=hint,
+                        )
             except (SdilejError, LanguageDetectionError, requests.RequestException):
                 continue
             detail.audio_language = language
             detail.language_probability = probability
-            detail.language_evidence = "whisper_remote_sample"
+            detail.language_evidence = (
+                "whisper_multisample_filename_conflict"
+                if resampled
+                else "whisper_remote_sample"
+            )
             if probability < self.minimum_language_probability:
                 continue
             detail.language_tier = language_tier(language)
@@ -271,3 +287,13 @@ class SdilejProvider:
             if detail.language_tier == LanguageTier.CZECH_AUDIO:
                 break
         return resolved
+
+def audio_language_hint(filename: str | None) -> str | None:
+    normalized = re.sub(r"[^a-z0-9]+", " ", (filename or "").lower()).strip()
+    if re.search(r"\b(?:cz|cze|czech|cesky)\s+(?:tit|titulky|sub)\b", normalized):
+        return None
+    if re.search(r"\b(?:cz|cze|czech|cesky)(?:\s+(?:dab|dabing|dubbing))?\b", normalized):
+        return "cs"
+    if re.search(r"\b(?:sk|svk|slovak)(?:\s+(?:dab|dabing|dubbing))?\b", normalized):
+        return "sk"
+    return None

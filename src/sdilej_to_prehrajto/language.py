@@ -3,6 +3,7 @@ from __future__ import annotations
 import os
 import subprocess
 import tempfile
+from collections import defaultdict
 from pathlib import Path
 
 
@@ -29,7 +30,7 @@ class WhisperLanguageDetector:
         )
         return self._model
 
-    def detect(self, media_url: str) -> tuple[str, float]:
+    def _detect_at(self, media_url: str, offset: int) -> tuple[str, float]:
         with tempfile.TemporaryDirectory() as temporary_directory:
             sample = Path(temporary_directory) / "sample.wav"
             command = [
@@ -39,7 +40,7 @@ class WhisperLanguageDetector:
                 "-loglevel",
                 "error",
                 "-ss",
-                os.environ.get("WHISPER_SAMPLE_OFFSET", "180"),
+                str(offset),
                 "-t",
                 str(self.seconds),
                 "-i",
@@ -69,3 +70,35 @@ class WhisperLanguageDetector:
             if not language:
                 raise LanguageDetectionError("Whisper returned no language")
             return language, probability
+
+    def detect(self, media_url: str) -> tuple[str, float]:
+        return self._detect_at(
+            media_url, int(os.environ.get("WHISPER_SAMPLE_OFFSET", "180"))
+        )
+
+    def detect_consensus(
+        self,
+        media_url: str,
+        duration_sec: int | None,
+        *,
+        initial: tuple[str, float] | None = None,
+        preferred_language: str | None = None,
+    ) -> tuple[str, float]:
+        """Resolve a filename/Whisper conflict from dispersed movie samples."""
+        duration = max(int(duration_sec or 0), 900)
+        offsets = [int(duration * fraction) for fraction in (0.25, 0.5, 0.75)]
+        samples = ([initial] if initial else []) + [
+            self._detect_at(media_url, offset) for offset in offsets
+        ]
+        grouped: dict[str, list[float]] = defaultdict(list)
+        for language, probability in samples:
+            grouped[language.lower()].append(float(probability))
+        preferred = (preferred_language or "").lower()
+        if preferred in grouped and max(grouped[preferred]) >= 0.55:
+            probabilities = grouped[preferred]
+            return preferred, max(probabilities)
+        winner, probabilities = max(
+            grouped.items(),
+            key=lambda item: (len(item[1]), sum(item[1]), item[0]),
+        )
+        return winner, sum(probabilities) / len(probabilities)
