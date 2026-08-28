@@ -11,7 +11,7 @@ Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme do
 - [x] Založit účet na Sdílej.cz s e-mailovou adresou `sdilej.prehrajto@seznam.cz`.
 - [x] Založit účet na Přehraj.to s uživatelským jménem `sdilej.prehrajto@seznam.cz`.
 - [x] Založit lokální Git repozitář, nastavit základní strukturu a vytvořit první commit.
-- [ ] Vytvořit odpovídající repozitář na GitHubu a propojit jej s lokálním repozitářem.
+- [x] Vytvořit odpovídající repozitář na GitHubu a propojit jej s lokálním repozitářem.
 - [x] Exportovat z produkční CR databáze read-only seznam filmů seřazený podle hodnocení.
 - [x] Implementovat vyhledávání filmů na Sdílej.cz podle českého a původního názvu a roku.
 - [x] Implementovat bezpečné ověření shody filmu podle názvu, roku, číselných částí názvu a délky.
