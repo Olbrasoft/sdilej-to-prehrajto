@@ -99,10 +99,7 @@ class SyncPipeline:
             if self.state.uploaded(film.cr_film_id):
                 continue
             candidate = Candidate.from_dict(row["selected"])
-            refreshed = self.source_provider.refresh_approved(candidate)
-            if refreshed.source_id != candidate.source_id or refreshed.url != candidate.url:
-                raise ValueError("Approved source identity changed while refreshing")
-            self._selected[film.cr_film_id] = refreshed
+            self._selected[film.cr_film_id] = candidate
             self.state.record_plan(film.cr_film_id, row)
 
     def build_plan(
@@ -294,6 +291,35 @@ class SyncPipeline:
                 print(f"upload_skipped=claimed cr_film_id={film.cr_film_id}", flush=True)
                 continue
             candidate = self._selected[film.cr_film_id]
+            refresh = getattr(self.source_provider, "refresh_approved", None)
+            if refresh:
+                try:
+                    refreshed = refresh(candidate, session=source_session)
+                except Exception as error:
+                    self.state.record_upload_failure(
+                        film.cr_film_id,
+                        {
+                            "status": "source_refresh_failed",
+                            "source_id": candidate.source_id,
+                            "reason": type(error).__name__,
+                            "permanent": False,
+                        },
+                    )
+                    continue
+                if (
+                    refreshed.source_id != candidate.source_id
+                    or refreshed.url != candidate.url
+                ):
+                    self.state.record_upload_failure(
+                        film.cr_film_id,
+                        {
+                            "status": "source_identity_changed",
+                            "source_id": candidate.source_id,
+                            "permanent": True,
+                        },
+                    )
+                    continue
+                candidate = refreshed
             existing_video_id = self._target_id_by_name(
                 target_session, row["display_name"]
             )

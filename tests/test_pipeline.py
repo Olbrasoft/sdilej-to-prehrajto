@@ -83,3 +83,58 @@ def test_execute_distributes_rows_across_four_session_shards(
     pipeline.execute(plan, session_pairs=pairs)
     assert set(used_sources) == {f"source-{index}" for index in range(4)}
     assert all(state.uploaded(film_id) for film_id in range(1, 5))
+
+
+def test_execute_refreshes_fast_url_immediately_with_worker_session(
+    tmp_path, monkeypatch
+) -> None:
+    refreshed_with = []
+
+    class Provider:
+        def refresh_approved(self, candidate, *, session):
+            refreshed_with.append(session)
+            candidate.download_url = "https://data.sdilej.cz/current-fast-url"
+            return candidate
+
+    state = StateStore(tmp_path / "state.json")
+    pipeline = SyncPipeline(
+        source_provider=Provider(),
+        source_session="default-source",
+        target_session="default-target",
+        state=state,
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    film = Film(1, "film", "Film", None, 2000, 90, "en")
+    selected = Candidate(
+        "1",
+        "https://sdilej.cz/1/film.mkv",
+        "Film",
+        width=1920,
+        height=1080,
+        language_tier=LanguageTier.CZECH_AUDIO,
+        match_tier=MatchTier.STRONG,
+        filename="film.mkv",
+    )
+    pipeline._selected[1] = selected
+    plan = [
+        {
+            "film": film.to_dict(),
+            "selected": selected.to_dict(),
+            "display_name": "Film (2000) 1080p CZ Dabing",
+            "needs_czech_subtitles": False,
+        }
+    ]
+
+    def fake_relay(_target, _source, candidate, *_args, **kwargs):
+        assert candidate.download_url.endswith("current-fast-url")
+        kwargs["on_prepared"]("777", 100)
+        return UploadResult("777", 100, 100)
+
+    monkeypatch.setattr("sdilej_to_prehrajto.pipeline.relay_upload", fake_relay)
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.pipeline.uploaded_video_id_by_name",
+        lambda _session, _name: None,
+    )
+    pipeline.execute(plan, session_pairs=[("worker-source", "worker-target")])
+    assert refreshed_with == ["worker-source"]

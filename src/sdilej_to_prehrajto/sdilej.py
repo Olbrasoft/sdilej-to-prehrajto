@@ -3,6 +3,7 @@ from __future__ import annotations
 import html
 import mimetypes
 import re
+import threading
 import time
 import unicodedata
 import urllib.parse
@@ -203,17 +204,21 @@ class SdilejProvider:
         self.minimum_language_probability = minimum_language_probability
         self.request_gap_seconds = request_gap_seconds
         self._last_request = 0.0
+        self._request_lock = threading.RLock()
 
-    def _get(self, url: str) -> requests.Response:
-        wait = self.request_gap_seconds - (time.monotonic() - self._last_request)
-        if wait > 0:
-            time.sleep(wait)
-        try:
-            response = self.session.get(url, timeout=45)
-        except requests.RequestException as error:
-            raise SdilejError(f"Request failed for {safe_url(url)}") from error
-        finally:
-            self._last_request = time.monotonic()
+    def _get(
+        self, url: str, *, session: requests.Session | None = None
+    ) -> requests.Response:
+        with self._request_lock:
+            wait = self.request_gap_seconds - (time.monotonic() - self._last_request)
+            if wait > 0:
+                time.sleep(wait)
+            try:
+                response = (session or self.session).get(url, timeout=45)
+            except requests.RequestException as error:
+                raise SdilejError(f"Request failed for {safe_url(url)}") from error
+            finally:
+                self._last_request = time.monotonic()
         response.raise_for_status()
         return response
 
@@ -221,9 +226,16 @@ class SdilejProvider:
         url = f"{BASE_URL}/{slugify(query)}/s/video-"
         return parse_search_html(self._get(url).text, query=query)
 
-    def refresh_approved(self, candidate: Candidate) -> Candidate:
+    def refresh_approved(
+        self,
+        candidate: Candidate,
+        *,
+        session: requests.Session | None = None,
+    ) -> Candidate:
         """Refresh expiring URLs without repeating search or language analysis."""
-        return parse_detail_html(self._get(candidate.url).text, candidate)
+        return parse_detail_html(
+            self._get(candidate.url, session=session).text, candidate
+        )
 
     def discover(self, film: Film) -> list[Candidate]:
         candidates: dict[str, Candidate] = {}
