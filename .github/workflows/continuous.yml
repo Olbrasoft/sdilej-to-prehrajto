@@ -2,11 +2,20 @@ name: continuous-sync
 
 on:
   workflow_dispatch:
+    inputs:
+      workers:
+        description: "Parallel upload workers"
+        required: false
+        type: choice
+        default: "4"
+        options:
+          - "1"
+          - "4"
   schedule:
     - cron: "17 * * * *"
 
 concurrency:
-  group: sdilej-to-prehrajto-transfer
+  group: sdilej-to-prehrajto-continuous-transfer
   cancel-in-progress: false
 
 jobs:
@@ -18,7 +27,7 @@ jobs:
       contents: write
     env:
       CONTINUOUS_ENABLED: ${{ vars.CONTINUOUS_ENABLED }}
-      UPLOAD_WORKERS: "4"
+      UPLOAD_WORKERS: ${{ inputs.workers || '4' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
