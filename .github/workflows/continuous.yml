@@ -17,7 +17,7 @@ jobs:
     permissions:
       contents: write
     env:
-      HF_HOME: ${{ runner.temp }}/huggingface
+      HF_HOME: /tmp/huggingface
       CONTINUOUS_ENABLED: ${{ vars.CONTINUOUS_ENABLED }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}

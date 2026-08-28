@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 180
     env:
-      HF_HOME: ${{ runner.temp }}/huggingface
+      HF_HOME: /tmp/huggingface
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
