@@ -1,0 +1,62 @@
+name: pilot-upload
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Must match the reviewed plan"
+        required: true
+        type: choice
+        default: "1"
+        options:
+          - "1"
+          - "10"
+      approved_plan_sha:
+        description: "SHA-256 copied from the reviewed pilot-plan artifact"
+        required: true
+        type: string
+
+concurrency:
+  group: sdilej-to-prehrajto-transfer
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: write
+    env:
+      HF_HOME: ${{ runner.temp }}/huggingface
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Install runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install ".[whisper]"
+      - name: Configure durable state commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Execute reviewed pilot
+        run: >-
+          sdilej-sync upload
+          --limit "${{ inputs.batch_size }}"
+          --approved-plan-sha "${{ inputs.approved_plan_sha }}"
+          --persist-git-state

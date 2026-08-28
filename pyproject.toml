@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sdilej-to-prehrajto"
+version = "0.1.0"
+description = "Verified Sdilej.cz to Prehraj.to film mirroring pipeline"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "psycopg2-binary>=2.9",
+  "requests>=2.32",
+  "requests-toolbelt>=1.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+whisper = ["faster-whisper>=1.0"]
+
+[project.scripts]
+sdilej-sync = "sdilej_to_prehrajto.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]

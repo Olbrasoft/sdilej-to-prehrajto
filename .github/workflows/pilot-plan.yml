@@ -1,0 +1,58 @@
+name: pilot-plan
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "Pilot size"
+        required: true
+        type: choice
+        default: "1"
+        options:
+          - "1"
+          - "10"
+
+concurrency:
+  group: sdilej-to-prehrajto-transfer
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      HF_HOME: ${{ runner.temp }}/huggingface
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Install runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install ".[whisper]"
+      - name: Build upload plan without uploading
+        run: sdilej-sync plan --limit "${{ inputs.batch_size }}"
+      - name: Publish approval digest
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          data = json.load(open("artifacts/plan.json", encoding="utf-8"))
+          print(f"Plan SHA-256: `{data['plan_sha']}`")
+          print(f"\nPlanned films: {len(data['films'])}")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pilot-plan-${{ inputs.batch_size }}
+          path: artifacts/
+          if-no-files-found: error

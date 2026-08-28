@@ -1,0 +1,47 @@
+# Plán projektu
+
+Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme doplňovat, upřesňovat a označovat podle postupu.
+
+## Úkoly
+
+- [x] Založit e-mailovou schránku `sdilej.prehrajto@seznam.cz` na Seznamu.
+- [x] Nastavit přeposílání příchozích e-mailů na primární adresu `tuma.rsrobot@gmail.com`.
+- [x] Ověřit přeposílání: odeslat testovací e-mail z jiné adresy na `sdilej.prehrajto@seznam.cz` a potvrdit jeho doručení na primární adresu.
+- [ ] Změnit heslo e-mailové schránky za náhodně vygenerované a jedinečné.
+- [x] Založit účet na Sdílej.cz s e-mailovou adresou `sdilej.prehrajto@seznam.cz`.
+- [x] Založit účet na Přehraj.to s uživatelským jménem `sdilej.prehrajto@seznam.cz`.
+- [x] Založit lokální Git repozitář, nastavit základní strukturu a vytvořit první commit.
+- [ ] Vytvořit odpovídající repozitář na GitHubu a propojit jej s lokálním repozitářem.
+- [x] Exportovat z produkční CR databáze read-only seznam filmů seřazený podle hodnocení.
+- [x] Implementovat vyhledávání filmů na Sdílej.cz podle českého a původního názvu a roku.
+- [x] Implementovat bezpečné ověření shody filmu podle názvu, roku, číselných částí názvu a délky.
+- [x] Implementovat jazykovou kontrolu kandidátů pomocí Whisperu.
+- [x] Implementovat výběr zdroje podle priority jazyka a následně kvality.
+- [x] Implementovat tvorbu cílového názvu podle původu filmu a ověřeného jazyka.
+- [x] Implementovat průchozí streamování ze Sdílej.cz do multipart uploadu Přehraj.to bez uložení celého filmu na disk.
+- [x] Implementovat oddělené GitHub Actions workflow pro plán, pilotní upload a explicitně povolený kontinuální provoz.
+- [x] Ukládat po úspěšném uploadu stabilní detailovou URL vybraného zdroje pro budoucí upload na další účet.
+- [ ] Spustit a ručně ověřit pilot jednoho filmu.
+- [ ] Po úspěšném prvním pilotu spustit a ověřit pilot deseti filmů.
+- [ ] Po obou pilotech zapnout repository variable `CONTINUOUS_ENABLED=true`.
+
+## Poznámky a rozhodnutí
+
+- Pro získání původního souboru/streamu ze Sdílej.cz nelze spoléhat na URL z webového přehrávače, protože přehrávač může používat zmenšený transkódovaný stream.
+- Download URL je potřeba hledat pod tlačítky `Stáhnout pomalu` nebo `Stáhnout rychle`. Varianta `Stáhnout rychle` vyžaduje zaplacený/premium přístup, aby šla plně ověřit a používat.
+- Backlog obsahuje pouze filmy z tabulky `films` a získává se v databázové relaci s vynuceným read-only režimem.
+- Pořadí backlogu používá IMDb hodnocení, při jeho absenci ČSFD a následně TMDB. Hodnocení je vážené počtem hlasů, aby několik jednotlivých hlasů neposouvalo obskurní titul před všeobecně uznávané filmy.
+- Vyhledávání na Sdílej.cz musí používat český i původní název a rok. Fuzzy podobnost sama nestačí; číslované díly filmu se nesmí zaměnit a při dostupných datech se kontroluje také délka.
+- Nejednoznačná shoda se automaticky nenahrává a musí skončit ve frontě k ruční kontrole.
+- Jazyková priorita je potvrzená čeština, poté slovenština a nakonec jiný jazyk. Kvalita rozhoduje až mezi kandidáty stejné jazykové priority.
+- Jazyk se neodvozuje pouze z názvu souboru. Název slouží jako předběžný hint a skutečný jazyk zvuku ověřuje Whisper.
+- Cílový název používá formát `Název filmu (rok) Rozlišení Jazyková varianta`. Český původní film nemá jazykový přídomek, zahraniční film s českým zvukem má `CZ Dabing`, slovenský původní film má `SK` a film s cizím zvukem má `CZ Titulky`.
+- Rozlišení musí být součástí cílového názvu, protože Přehraj.to je v přehledu videí nezobrazuje tak jako Sdílej.cz. Uvádí se ověřené rozlišení původního souboru ze Sdílej.cz, nikoli rozlišení transkódovaného webového přehrávače.
+- Normalizované štítky rozlišení jsou `4K` pro šířku alespoň 3840 px, `1440p` pro alespoň 2560 px, `1080p` pro alespoň 1920 px, `720p` pro alespoň 1280 px a `SD` pro nižší rozlišení.
+- Backlog zahrnuje všech 28 775 filmů z tabulky `films`; předem se neomezuje podle obsahu jiných Přehraj.to účtů.
+- Každý cizojazyčný zdroj bez českého dabingu dostane cílový název s příponou `CZ Titulky`, i když titulky ještě nejsou v okamžiku uploadu k dispozici. Chybějící titulky se musí zapsat do trvalé follow-up fronty a následně získat z jiného zdroje nebo vytvořit.
+- Položka označená `CZ Titulky` není dokončená pouze uploadem videa. Za dokončenou se považuje až po úspěšném připojení českých titulků na Přehraj.to; do té doby musí zůstat ve stavu čekajícím na titulky.
+- Celý zdrojový film se nemá ukládat na disk runneru. Runner funguje jako průchozí relé mezi autorizovaným download streamem Sdílej.cz a multipart uploadem Přehraj.to; před přenosem musí znát přesnou velikost, název a MIME typ.
+- Průchozí přenos musí používat omezenou paměť, hlídat minimální rychlost a timeout a zapsat úspěch až po potvrzení dokončeného uploadu Přehraj.to.
+- Produkční workflow poběží na GitHub Actions stejně jako předchozí synchronizační projekty. Přihlašovací údaje budou pouze v GitHub Secrets a zdrojový detail se znovu vyřeší těsně před přenosem.
+- Po úspěšném uploadu se k filmu uloží stabilní detailová URL vybraného souboru ze Sdílej.cz (např. `https://sdilej.cz/32460472/...mkv`) do verzovaného manifestu. Dočasná URL z tlačítka `Stáhnout rychle` se nikdy neukládá; při uploadu na další účet se z detailu vyřeší znovu.
