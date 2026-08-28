@@ -32,7 +32,7 @@ jobs:
       actions: read
       contents: write
     env:
-      HF_HOME: /tmp/huggingface
+      UPLOAD_WORKERS: "4"
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}

@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import tempfile
+import threading
 from pathlib import Path
 from typing import Any
 
@@ -15,41 +16,106 @@ class SelectedSourceStore:
 
     def __init__(self, path: Path):
         self.path = path
+        self._lock = threading.RLock()
+        self._rows = self._load()
 
     def _load(self) -> dict[int, dict[str, Any]]:
-        if not self.path.exists():
-            return {}
         rows: dict[int, dict[str, Any]] = {}
-        with self.path.open(encoding="utf-8") as handle:
-            for line in handle:
-                if line.strip():
-                    row = json.loads(line)
-                    rows[int(row["cr_film_id"])] = row
+        if self.path.exists():
+            with self.path.open(encoding="utf-8") as handle:
+                for line in handle:
+                    if line.strip():
+                        row = json.loads(line)
+                        rows[int(row["cr_film_id"])] = row
         return rows
 
     def record(self, row: dict[str, Any]) -> None:
-        if "download_url" in row or "sample_url" in row:
-            raise ValueError("Ephemeral authenticated URLs must not be persisted")
-        rows = self._load()
-        film_id = int(row["cr_film_id"])
-        rows[film_id] = {**row, "cr_film_id": film_id, "verified_at": now_iso()}
-        self.path.parent.mkdir(parents=True, exist_ok=True)
+        with self._lock:
+            if "download_url" in row or "sample_url" in row:
+                raise ValueError("Ephemeral authenticated URLs must not be persisted")
+            film_id = int(row["cr_film_id"])
+            existing = self._rows.get(film_id, {})
+            record = {
+                **existing,
+                **row,
+                "cr_film_id": film_id,
+                "verified_at": existing.get("verified_at", now_iso()),
+                "updated_at": now_iso(),
+            }
+            self._rows[film_id] = record
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            with self.path.open("a", encoding="utf-8") as handle:
+                handle.write(json.dumps(record, ensure_ascii=False) + "\n")
+                handle.flush()
+                os.fsync(handle.fileno())
+
+    def compact(self) -> None:
+        """Atomically keep only the latest result row for every film."""
+        with self._lock:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            fd, temporary_name = tempfile.mkstemp(
+                prefix=f".{self.path.name}.", dir=self.path.parent
+            )
+            try:
+                with os.fdopen(fd, "w", encoding="utf-8") as handle:
+                    for film_id in sorted(self._rows):
+                        handle.write(
+                            json.dumps(self._rows[film_id], ensure_ascii=False) + "\n"
+                        )
+                    handle.flush()
+                    os.fsync(handle.fileno())
+                os.replace(temporary_name, self.path)
+            finally:
+                if os.path.exists(temporary_name):
+                    os.unlink(temporary_name)
+
+    def get(self, film_id: int) -> dict[str, Any] | None:
+        with self._lock:
+            row = self._rows.get(int(film_id))
+            return dict(row) if row else None
+
+    def uploaded(self, film_id: int) -> bool:
+        row = self.get(film_id)
+        return bool(row and row.get("upload_status") == "success")
+
+    def export_results(self, state_path: Path, output_path: Path) -> None:
+        """Create the single final source-and-upload catalog."""
+        state = (
+            json.loads(state_path.read_text(encoding="utf-8"))
+            if state_path.exists()
+            else {"films": {}}
+        )
+        results: list[dict[str, Any]] = []
+        with self._lock:
+            for film_id in sorted(self._rows):
+                result = dict(self._rows[film_id])
+                transfer = state.get("films", {}).get(str(film_id), {})
+                upload = transfer.get("upload") or {}
+                result["upload_status"] = (
+                    "success" if upload.get("target_video_id") else "pending"
+                )
+                if upload.get("target_video_id"):
+                    result["target_video_id"] = str(upload["target_video_id"])
+                    result["uploaded_at"] = upload.get("uploaded_at")
+                attempts = transfer.get("attempts") or []
+                if attempts and result["upload_status"] != "success":
+                    result["last_upload_error"] = attempts[-1]
+                results.append(result)
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
         fd, temporary_name = tempfile.mkstemp(
-            prefix=f".{self.path.name}.", dir=self.path.parent
+            prefix=f".{output_path.name}.", dir=output_path.parent
         )
         try:
             with os.fdopen(fd, "w", encoding="utf-8") as handle:
-                for key in sorted(rows):
-                    handle.write(json.dumps(rows[key], ensure_ascii=False) + "\n")
+                for result in results:
+                    handle.write(json.dumps(result, ensure_ascii=False) + "\n")
                 handle.flush()
                 os.fsync(handle.fileno())
-            os.replace(temporary_name, self.path)
+            os.replace(temporary_name, output_path)
         finally:
             if os.path.exists(temporary_name):
                 os.unlink(temporary_name)
-
-    def get(self, film_id: int) -> dict[str, Any] | None:
-        return self._load().get(int(film_id))
 
     def candidate(self, film_id: int) -> Candidate | None:
         row = self.get(film_id)

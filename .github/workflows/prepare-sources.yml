@@ -1,24 +1,22 @@
-name: continuous-sync
+name: prepare-sources
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "7 */6 * * *"
 
 concurrency:
-  group: sdilej-to-prehrajto-transfer
+  group: sdilej-to-prehrajto-source-preparation
   cancel-in-progress: false
 
 jobs:
-  sync:
-    if: vars.CONTINUOUS_ENABLED == 'true'
+  prepare:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     permissions:
       contents: write
     env:
-      CONTINUOUS_ENABLED: ${{ vars.CONTINUOUS_ENABLED }}
-      UPLOAD_WORKERS: "4"
+      HF_HOME: /tmp/huggingface
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
@@ -32,14 +30,22 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - name: Install runtime
-        run: pip install "."
-      - name: Configure durable state commits
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Install preparation runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install ".[whisper]"
+      - name: Configure durable source checkpoints
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Upload next verified batch
+      - name: Continuously fill verified source queue
         run: >-
-          sdilej-sync continuous
-          --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '25' }}"
+          sdilej-sync prepare
+          --limit 200
+          --max-scan 2000
           --persist-git-state

@@ -10,6 +10,7 @@ from sdilej_to_prehrajto.prehrajto import (
     RemoteReader,
     relay_upload,
     response_total_size,
+    uploaded_video_id_by_name,
 )
 from sdilej_to_prehrajto.state import StateStore
 
@@ -54,6 +55,23 @@ def test_remote_reader_reports_remaining_length() -> None:
 def test_content_range_has_priority_over_chunk_length() -> None:
     response = Response(b"", {"Content-Range": "bytes 0-99/1000", "Content-Length": "100"})
     assert response_total_size(response) == 1000
+
+
+def test_uploaded_video_lookup_requires_exact_display_name() -> None:
+    class ListingSession:
+        def get(self, *_args, **_kwargs):
+            return Response(
+                text=(
+                    '<div data-video-id="777"><span>Film (2000) 4K CZ Dabing</span></div>'
+                    '<div data-video-id="778"><span>Film (2000) 4K</span></div>'
+                )
+            )
+
+    assert (
+        uploaded_video_id_by_name(ListingSession(), "Film (2000) 4K CZ Dabing")
+        == "777"
+    )
+    assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") is None
 
 
 def test_candidate_round_trip_restores_enum_values() -> None:
@@ -158,6 +176,27 @@ def test_success_replaces_prepared_state(tmp_path) -> None:
     state.record_success(1, {"target_video_id": "777"})
     assert state.uploaded(1)
     assert not state.pending_prepared(1)
+
+
+def test_upload_claim_blocks_other_worker_until_lease_expires(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    claimed_at = datetime(2026, 1, 1, tzinfo=UTC)
+    assert state.claim_upload(1, "shard-0", at=claimed_at)
+    assert not state.claim_upload(1, "shard-0", at=claimed_at + timedelta(hours=1))
+    assert not state.claim_upload(1, "shard-1", at=claimed_at + timedelta(hours=5))
+    assert state.claim_upload(1, "shard-1", at=claimed_at + timedelta(hours=7))
+    assert state.snapshot(1)["claim"]["worker_id"] == "shard-1"
+
+
+def test_upload_failure_releases_claim_and_prepared_checkpoint(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    assert state.claim_upload(1, "shard-0")
+    state.record_prepared(1, "777", 123)
+    state.record_upload_failure(1, {"status": "upload_failed"})
+    row = state.snapshot(1)
+    assert "claim" not in row
+    assert "prepared" not in row
+    assert row["attempts"][-1]["status"] == "upload_failed"
 
 
 def test_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> None:

@@ -2,10 +2,19 @@ from __future__ import annotations
 
 import hashlib
 import json
+import threading
+import uuid
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from .models import Candidate, Film, LanguageTier
-from .prehrajto import PrehrajtoError, relay_upload
+from .prehrajto import (
+    PrehrajtoError,
+    relay_upload,
+    uploaded_video_confirmed,
+    uploaded_video_count,
+    uploaded_video_id_by_name,
+)
 from .ranking import display_name, rank_candidates
 from .state import StateStore, now_iso
 from .subtitles import SubtitleQueue
@@ -52,10 +61,12 @@ class SyncPipeline:
         self.subtitle_queue = subtitle_queue
         self.selected_sources = selected_sources
         self._selected: dict[int, Candidate] = {}
+        self._completion_lock = threading.RLock()
 
     def _record_verified_source(
         self, film: Film, candidate: Candidate, selected_name: str
     ) -> None:
+        existing = self.selected_sources.get(film.cr_film_id) or {}
         self.selected_sources.record(
             {
                 "cr_film_id": film.cr_film_id,
@@ -76,6 +87,8 @@ class SyncPipeline:
                 "query": candidate.query,
                 "mime_type": candidate.mime_type,
                 "display_name": selected_name,
+                "source_status": "verified",
+                "upload_status": existing.get("upload_status", "pending"),
             }
         )
 
@@ -88,20 +101,24 @@ class SyncPipeline:
             if refreshed.source_id != candidate.source_id or refreshed.url != candidate.url:
                 raise ValueError("Approved source identity changed while refreshing")
             self._selected[film.cr_film_id] = refreshed
-            self._record_verified_source(film, refreshed, row["display_name"])
             self.state.record_plan(film.cr_film_id, row)
 
     def build_plan(
-        self, films: list[Film], limit: int, *, max_scan: int | None = None
+        self,
+        films: list[Film],
+        limit: int,
+        *,
+        max_scan: int | None = None,
+        verified_only: bool = False,
     ) -> list[dict]:
         if limit < 1:
             raise ValueError("Limit must be positive")
         plan: list[dict] = []
         inspected = 0
         for film in films:
-            if self.state.uploaded(film.cr_film_id):
-                continue
-            if self.state.pending_prepared(film.cr_film_id):
+            if self.state.uploaded(film.cr_film_id) or self.selected_sources.uploaded(
+                film.cr_film_id
+            ):
                 continue
             if self.state.deferred(film.cr_film_id):
                 continue
@@ -110,6 +127,7 @@ class SyncPipeline:
             inspected += 1
             cached = self.selected_sources.candidate(film.cr_film_id)
             selected = None
+            source_was_discovered = False
             if cached is not None:
                 try:
                     selected = self.source_provider.refresh_approved(cached)
@@ -117,6 +135,8 @@ class SyncPipeline:
                     selected = None
             ranked = []
             if selected is None:
+                if verified_only:
+                    continue
                 discovered = self.source_provider.discover(film)
                 ranked = rank_candidates(discovered)
             if not ranked:
@@ -132,6 +152,7 @@ class SyncPipeline:
                     continue
             else:
                 selected = ranked[0]
+                source_was_discovered = True
             assert selected is not None
             self._selected[film.cr_film_id] = selected
             row = {
@@ -141,29 +162,180 @@ class SyncPipeline:
                 "needs_czech_subtitles": selected.language_tier
                 == LanguageTier.FOREIGN_AUDIO,
             }
-            self._record_verified_source(film, selected, row["display_name"])
+            if source_was_discovered:
+                self._record_verified_source(film, selected, row["display_name"])
+                self.state.persist_external("source")
             plan.append(row)
             self.state.record_plan(film.cr_film_id, row)
             if len(plan) >= limit:
                 break
         return plan
 
-    def execute(self, plan: list[dict]) -> None:
-        for row in plan:
-            film = Film.from_dict(row["film"])
-            if self.state.uploaded(film.cr_film_id):
+    def prepare_sources(
+        self, films: list[Film], limit: int, *, max_scan: int | None = None
+    ) -> list[dict]:
+        """Continuously fill the verified-source manifest without uploading."""
+        prepared: list[dict] = []
+        inspected = 0
+        for film in films:
+            if self.state.uploaded(film.cr_film_id) or self.selected_sources.uploaded(
+                film.cr_film_id
+            ):
                 continue
-            if self.state.pending_prepared(film.cr_film_id):
-                print(
-                    f"upload_skipped=pending_prepared cr_film_id={film.cr_film_id}",
-                    flush=True,
+            if self.selected_sources.get(film.cr_film_id) is not None:
+                continue
+            if self.state.deferred(film.cr_film_id):
+                continue
+            if max_scan is not None and inspected >= max_scan:
+                break
+            inspected += 1
+            ranked = rank_candidates(self.source_provider.discover(film))
+            if not ranked:
+                self.state.record_attempt(
+                    film.cr_film_id,
+                    {
+                        "status": "no_acceptable_source",
+                        "permanent": False,
+                        "reason": "No identity-, language-, and quality-verified source",
+                    },
                 )
                 continue
+            selected = ranked[0]
+            row = {
+                "film": film.to_dict(),
+                "selected": selected.to_dict(),
+                "display_name": display_name(film, selected),
+                "needs_czech_subtitles": selected.language_tier
+                == LanguageTier.FOREIGN_AUDIO,
+            }
+            self._record_verified_source(film, selected, row["display_name"])
+            self.state.persist_external("source")
+            prepared.append(row)
+            if len(prepared) >= limit:
+                break
+        return prepared
+
+    def _upload_record(
+        self,
+        row: dict,
+        candidate: Candidate,
+        *,
+        video_id: str,
+        size_bytes: int,
+        completion_evidence: str,
+    ) -> dict:
+        return {
+            "target_video_id": video_id,
+            "display_name": row["display_name"],
+            "source_id": candidate.source_id,
+            "source_url": candidate.url,
+            "source_filename": candidate.filename,
+            "size_bytes": size_bytes,
+            "width": candidate.width,
+            "height": candidate.height,
+            "audio_language": candidate.audio_language,
+            "language_probability": candidate.language_probability,
+            "language_tier": candidate.language_tier.name.lower(),
+            "needs_czech_subtitles": row["needs_czech_subtitles"],
+            "completion_evidence": completion_evidence,
+        }
+
+    @staticmethod
+    def _target_confirmed(target_session, video_id: str, name: str) -> bool:
+        try:
+            return uploaded_video_count(target_session) is not None and (
+                uploaded_video_confirmed(target_session, video_id, name)
+            )
+        except Exception:
+            return False
+
+    @staticmethod
+    def _target_id_by_name(target_session, name: str) -> str | None:
+        try:
+            video_id = uploaded_video_id_by_name(target_session, name)
+            if video_id and uploaded_video_count(target_session) is not None:
+                return video_id
+        except Exception:
+            pass
+        return None
+
+    def _finish_success(
+        self, film: Film, candidate: Candidate, row: dict, upload: dict
+    ) -> None:
+        with self._completion_lock:
+            if row["needs_czech_subtitles"]:
+                self.subtitle_queue.enqueue(
+                    {
+                        "cr_film_id": film.cr_film_id,
+                        "target_video_id": upload["target_video_id"],
+                        "display_name": row["display_name"],
+                        "status": "pending",
+                        "queued_at": now_iso(),
+                    }
+                )
+            self.state.record_success(film.cr_film_id, upload)
+
+    def _execute_shard(
+        self,
+        rows: list[dict],
+        source_session,
+        target_session,
+        worker_id: str,
+    ) -> None:
+        for row in rows:
+            film = Film.from_dict(row["film"])
+            if self.state.uploaded(film.cr_film_id) or self.selected_sources.uploaded(
+                film.cr_film_id
+            ):
+                continue
+            if not self.state.claim_upload(film.cr_film_id, worker_id):
+                print(f"upload_skipped=claimed cr_film_id={film.cr_film_id}", flush=True)
+                continue
             candidate = self._selected[film.cr_film_id]
+            existing_video_id = self._target_id_by_name(
+                target_session, row["display_name"]
+            )
+            if existing_video_id:
+                upload = self._upload_record(
+                    row,
+                    candidate,
+                    video_id=existing_video_id,
+                    size_bytes=int(candidate.size_bytes or 0),
+                    completion_evidence="reconciled_exact_uploaded_name",
+                )
+                self._finish_success(film, candidate, row, upload)
+                continue
+            checkpoint = self.state.snapshot(film.cr_film_id)
+            prepared = checkpoint.get("prepared")
+            if prepared:
+                video_id = str(prepared["target_video_id"])
+                if self._target_confirmed(
+                    target_session, video_id, row["display_name"]
+                ):
+                    upload = self._upload_record(
+                        row,
+                        candidate,
+                        video_id=video_id,
+                        size_bytes=int(prepared["size_bytes"]),
+                        completion_evidence="reconciled_statistics_and_uploaded_listing",
+                    )
+                    self._finish_success(film, candidate, row, upload)
+                else:
+                    self.state.record_upload_failure(
+                        film.cr_film_id,
+                        {
+                            "status": "stale_prepared_released",
+                            "source_id": candidate.source_id,
+                            "target_video_id": video_id,
+                            "reason": "Prepared video is absent from uploaded listing",
+                            "permanent": False,
+                        },
+                    )
+                continue
             try:
                 result = relay_upload(
-                    self.target_session,
-                    self.source_session,
+                    target_session,
+                    source_session,
                     candidate,
                     row["display_name"],
                     film.description,
@@ -175,44 +347,66 @@ class SyncPipeline:
                 target_video_id = (
                     error.target_video_id if isinstance(error, PrehrajtoError) else None
                 )
-                self.state.record_attempt(
-                    film.cr_film_id,
-                    {
-                        "status": "upload_failed",
-                        "source_id": candidate.source_id,
-                        "reason": type(error).__name__,
-                        "permanent": False,
-                        "target_video_id": target_video_id,
-                    },
-                )
+                prepared = self.state.snapshot(film.cr_film_id).get("prepared") or {}
+                target_video_id = target_video_id or prepared.get("target_video_id")
+                if target_video_id and self._target_confirmed(
+                    target_session, str(target_video_id), row["display_name"]
+                ):
+                    upload = self._upload_record(
+                        row,
+                        candidate,
+                        video_id=str(target_video_id),
+                        size_bytes=int(prepared.get("size_bytes") or candidate.size_bytes or 0),
+                        completion_evidence="reconciled_after_relay_error",
+                    )
+                    self._finish_success(film, candidate, row, upload)
+                else:
+                    self.state.record_upload_failure(
+                        film.cr_film_id,
+                        {
+                            "status": "upload_failed",
+                            "source_id": candidate.source_id,
+                            "reason": type(error).__name__,
+                            "permanent": False,
+                            "target_video_id": target_video_id,
+                        },
+                    )
                 continue
 
-            upload = {
-                "target_video_id": result.video_id,
-                "display_name": row["display_name"],
-                "source_id": candidate.source_id,
-                "source_url": candidate.url,
-                "source_filename": candidate.filename,
-                "size_bytes": result.size_bytes,
-                "width": candidate.width,
-                "height": candidate.height,
-                "audio_language": candidate.audio_language,
-                "language_probability": candidate.language_probability,
-                "language_tier": candidate.language_tier.name.lower(),
-                "needs_czech_subtitles": row["needs_czech_subtitles"],
-            }
-            self._record_verified_source(film, candidate, row["display_name"])
-            if row["needs_czech_subtitles"]:
-                self.subtitle_queue.enqueue(
-                    {
-                        "cr_film_id": film.cr_film_id,
-                        "target_video_id": result.video_id,
-                        "display_name": row["display_name"],
-                        "status": "pending",
-                        "queued_at": now_iso(),
-                    }
+            upload = self._upload_record(
+                row,
+                candidate,
+                video_id=result.video_id,
+                size_bytes=result.size_bytes,
+                completion_evidence="relay_completed",
+            )
+            self._finish_success(film, candidate, row, upload)
+
+    def execute(
+        self,
+        plan: list[dict],
+        *,
+        session_pairs: list[tuple[object, object]] | None = None,
+    ) -> None:
+        pairs = session_pairs or [(self.source_session, self.target_session)]
+        execution_id = uuid.uuid4().hex
+        shards = [plan[index :: len(pairs)] for index in range(len(pairs))]
+        with ThreadPoolExecutor(max_workers=len(pairs)) as executor:
+            futures = [
+                executor.submit(
+                    self._execute_shard,
+                    shard,
+                    source_session,
+                    target_session,
+                    f"{execution_id}-shard-{index}",
                 )
-            self.state.record_success(film.cr_film_id, upload)
+                for index, (shard, (source_session, target_session)) in enumerate(
+                    zip(shards, pairs, strict=True)
+                )
+                if shard
+            ]
+            for future in futures:
+                future.result()
 
 
 def write_plan(path: Path, plan: list[dict]) -> str:

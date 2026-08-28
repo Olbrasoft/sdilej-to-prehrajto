@@ -180,6 +180,26 @@ def uploaded_video_confirmed(
     )
 
 
+def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> str | None:
+    """Return an existing target ID only when its listing row has the exact name."""
+    response = session.get(BASE_URL + "/profil/nahrana-videa", timeout=30)
+    response.raise_for_status()
+    wanted = display_name.casefold().strip()
+    soup = BeautifulSoup(response.text, "html.parser")
+    for text_node in soup.find_all(string=True):
+        if text_node.get_text(" ", strip=True).casefold() != wanted:
+            continue
+        node = text_node.parent
+        for _level in range(8):
+            if node is None:
+                break
+            match = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
+            if match:
+                return match.group(1)
+            node = node.parent
+    return None
+
+
 def uploaded_video_count(session: requests.Session) -> int | None:
     response = session.get(BASE_URL + "/profil/statistiky", timeout=30)
     response.raise_for_status()

@@ -27,9 +27,11 @@ def test_selected_source_manifest_upserts_stable_detail_url(tmp_path) -> None:
             "height": 1632,
         }
     )
+    store.compact()
     rows = [json.loads(line) for line in path.read_text().splitlines()]
     assert len(rows) == 1
-    assert rows[0]["source_url"].endswith("angelika-a-kral.mkv")
+    saved = rows[0]
+    assert saved["source_url"].endswith("angelika-a-kral.mkv")
 
 
 def test_selected_source_manifest_rejects_authenticated_url(tmp_path) -> None:
@@ -65,3 +67,36 @@ def test_selected_source_manifest_restores_verified_candidate(tmp_path) -> None:
     assert candidate.url == "https://sdilej.cz/32460472/angelika.mkv"
     assert candidate.language_tier == LanguageTier.CZECH_AUDIO
     assert candidate.match_tier == MatchTier.STRONG
+
+
+def test_export_results_merges_upload_status_into_one_catalog(tmp_path) -> None:
+    source_path = tmp_path / "selected-sources.jsonl"
+    state_path = tmp_path / "sync.json"
+    output_path = tmp_path / "film-results.jsonl"
+    store = SelectedSourceStore(source_path)
+    store.record(
+        {
+            "cr_film_id": 1,
+            "source_id": "32460472",
+            "source_url": "https://sdilej.cz/32460472/angelika.mkv",
+        }
+    )
+    state_path.write_text(
+        json.dumps(
+            {
+                "films": {
+                    "1": {
+                        "upload": {
+                            "target_video_id": "777",
+                            "uploaded_at": "2026-08-28T12:00:00+00:00",
+                        }
+                    }
+                }
+            }
+        )
+    )
+    store.export_results(state_path, output_path)
+    result = json.loads(output_path.read_text().strip())
+    assert result["source_url"].endswith("angelika.mkv")
+    assert result["upload_status"] == "success"
+    assert result["target_video_id"] == "777"
