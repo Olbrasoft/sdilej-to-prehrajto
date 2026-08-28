@@ -15,7 +15,17 @@ from .sources import SelectedSourceStore
 from .subtitles import SubtitleQueue
 
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
+def repo_root() -> Path:
+    workspace = os.environ.get("GITHUB_WORKSPACE")
+    if workspace:
+        return Path(workspace).resolve()
+    current = Path.cwd().resolve()
+    if (current / "backlog/films.jsonl.gz").exists():
+        return current
+    return Path(__file__).resolve().parents[2]
+
+
+REPO_ROOT = repo_root()
 MAX_CONTINUOUS_FILMS = 50
 
 
