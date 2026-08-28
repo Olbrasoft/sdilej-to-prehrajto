@@ -24,8 +24,8 @@ Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme do
 - [x] Implementovat oddělené GitHub Actions workflow pro plán, pilotní upload a explicitně povolený kontinuální provoz.
 - [x] Ukládat po úspěšném uploadu stabilní detailovou URL vybraného zdroje pro budoucí upload na další účet.
 - [x] Spustit a ručně ověřit pilot jednoho filmu.
-- [ ] Po úspěšném prvním pilotu spustit a ověřit pilot deseti filmů.
-- [ ] Po obou pilotech zapnout repository variable `CONTINUOUS_ENABLED=true`.
+- [x] Po úspěšném prvním pilotu spustit a ověřit pilot deseti filmů.
+- [x] Po obou pilotech zapnout repository variable `CONTINUOUS_ENABLED=true`.
 
 ## Poznámky a rozhodnutí
 
