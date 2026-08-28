@@ -129,10 +129,13 @@ class SyncPipeline:
             selected = None
             source_was_discovered = False
             if cached is not None:
-                try:
-                    selected = self.source_provider.refresh_approved(cached)
-                except Exception:
-                    selected = None
+                if verified_only:
+                    selected = cached
+                else:
+                    try:
+                        selected = self.source_provider.refresh_approved(cached)
+                    except Exception:
+                        selected = None
             ranked = []
             if selected is None:
                 if verified_only:
