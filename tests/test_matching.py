@@ -43,6 +43,25 @@ def test_rejects_wrong_cut_even_when_title_and_year_match() -> None:
     assert result.reason == "wrong_runtime"
 
 
+def test_rejects_incomplete_release_shorter_by_more_than_quarter() -> None:
+    result = classify_candidate(
+        film(),
+        "Angelika 3 Angelika a král (1966) 4K.mkv",
+        duration_sec=3600 * 1 + 14 * 60,
+    )
+    assert result.tier == MatchTier.REJECT
+    assert result.reason == "wrong_runtime"
+
+
+def test_accepts_longer_extended_cut_with_matching_title_and_year() -> None:
+    result = classify_candidate(
+        film(),
+        "Angelika 3 Angelika a král (1966) Extended 4K.mkv",
+        duration_sec=130 * 60,
+    )
+    assert result.tier == MatchTier.SOLID
+
+
 def test_title_only_match_is_not_uploadable() -> None:
     result = classify_candidate(film(), "Angelika a král.mkv")
     assert result.tier == MatchTier.AMBIGUOUS

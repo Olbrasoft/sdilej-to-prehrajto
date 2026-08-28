@@ -10,6 +10,7 @@ from .models import Film, MatchTier
 
 YEAR_TOLERANCE = 0
 RUNTIME_TOLERANCE = 0.20
+RUNTIME_SHORTFALL_REJECT = 0.25
 RUNTIME_HARD_REJECT = 0.40
 SIMILARITY_GATE = 0.58
 EPISODE_RE = re.compile(r"\bS\d{1,2}E\d{1,3}\b|\b\d{1,2}x\d{1,3}\b", re.I)
@@ -81,8 +82,12 @@ def classify_candidate(
 
     runtime_delta = None
     if film.runtime_min and duration_sec:
-        runtime_delta = abs(duration_sec / 60 - film.runtime_min) / film.runtime_min
-        if runtime_delta >= RUNTIME_HARD_REJECT:
+        runtime_ratio = duration_sec / 60 / film.runtime_min
+        runtime_delta = abs(runtime_ratio - 1)
+        if (
+            runtime_ratio <= 1 - RUNTIME_SHORTFALL_REJECT
+            or runtime_delta >= RUNTIME_HARD_REJECT
+        ):
             return MatchResult(
                 MatchTier.REJECT,
                 score,
