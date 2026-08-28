@@ -60,7 +60,11 @@ def test_content_range_has_priority_over_chunk_length() -> None:
 
 def test_uploaded_video_lookup_requires_exact_display_name() -> None:
     class ListingSession:
-        def get(self, *_args, **_kwargs):
+        def __init__(self):
+            self.params = None
+
+        def get(self, *_args, **kwargs):
+            self.params = kwargs.get("params")
             return Response(
                 text=(
                     '<div data-video-id="777"><h3>Film (2000) 4K CZ Dabing.mkv '
@@ -69,10 +73,9 @@ def test_uploaded_video_lookup_requires_exact_display_name() -> None:
                 )
             )
 
-    assert (
-        uploaded_video_id_by_name(ListingSession(), "Film (2000) 4K CZ Dabing")
-        == "777"
-    )
+    session = ListingSession()
+    assert uploaded_video_id_by_name(session, "Film (2000) 4K CZ Dabing") == "777"
+    assert session.params == {"searchPhrase": "Film (2000) 4K CZ Dabing"}
     assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") is None
 
 

@@ -175,7 +175,11 @@ def uploaded_video_confirmed(
     video_id: str,
     display_name: str,
 ) -> bool:
-    response = session.get(BASE_URL + "/profil/nahrana-videa", timeout=30)
+    response = session.get(
+        BASE_URL + "/profil/nahrana-videa",
+        params={"searchPhrase": display_name},
+        timeout=30,
+    )
     response.raise_for_status()
     return (
         f"videoId={video_id}" in response.text
@@ -185,7 +189,11 @@ def uploaded_video_confirmed(
 
 def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> str | None:
     """Return an existing target ID only when its listing row has the exact name."""
-    response = session.get(BASE_URL + "/profil/nahrana-videa", timeout=30)
+    response = session.get(
+        BASE_URL + "/profil/nahrana-videa",
+        params={"searchPhrase": display_name},
+        timeout=30,
+    )
     response.raise_for_status()
     wanted = display_name.casefold().strip()
     soup = BeautifulSoup(response.text, "html.parser")
