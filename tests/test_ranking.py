@@ -1,5 +1,5 @@
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
-from sdilej_to_prehrajto.ranking import display_name, rank_candidates
+from sdilej_to_prehrajto.ranking import display_name, rank_candidates, resolution_label
 
 
 def candidate(language: LanguageTier, width: int) -> Candidate:
@@ -34,3 +34,7 @@ def test_display_names_include_verified_resolution_and_language() -> None:
     assert display_name(film("cs"), candidate(LanguageTier.CZECH_AUDIO, 3840)) == "Film (2000) 4K"
     assert display_name(film("en"), candidate(LanguageTier.CZECH_AUDIO, 1920)) == "Film (2000) 1080p CZ Dabing"
     assert display_name(film("en"), candidate(LanguageTier.FOREIGN_AUDIO, 1920)) == "Film (2000) 1080p CZ Titulky"
+
+
+def test_resolution_label_uses_height_for_cropped_1080p_video() -> None:
+    assert resolution_label(1808, 1080) == "1080p"

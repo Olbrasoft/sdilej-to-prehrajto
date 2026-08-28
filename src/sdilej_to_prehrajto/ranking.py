@@ -38,13 +38,13 @@ def rank_candidates(candidates: list[Candidate]) -> list[Candidate]:
 
 
 def resolution_label(width: int, height: int = 0) -> str:
-    if width >= 3840:
+    if width >= 3840 or height >= 2160:
         return "4K"
-    if width >= 2560:
+    if width >= 2560 or height >= 1440:
         return "1440p"
-    if width >= 1920:
+    if width >= 1920 or height >= 1080:
         return "1080p"
-    if width >= 1280:
+    if width >= 1280 or height >= 720:
         return "720p"
     return "SD"
 
