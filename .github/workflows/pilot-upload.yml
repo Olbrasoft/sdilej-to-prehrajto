@@ -15,6 +15,10 @@ on:
         description: "SHA-256 copied from the reviewed pilot-plan artifact"
         required: true
         type: string
+      approved_plan_run_id:
+        description: "Run ID of the reviewed pilot-plan artifact"
+        required: true
+        type: string
 
 concurrency:
   group: sdilej-to-prehrajto-transfer
@@ -25,6 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     permissions:
+      actions: read
       contents: write
     env:
       HF_HOME: /tmp/huggingface
@@ -41,15 +46,15 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - uses: actions/cache@v4
+      - name: Download reviewed plan
+        uses: actions/download-artifact@v4
         with:
-          path: ${{ env.HF_HOME }}
-          key: whisper-small-${{ runner.os }}-v1
+          name: pilot-plan-${{ inputs.batch_size }}
+          path: approved-plan
+          github-token: ${{ github.token }}
+          run-id: ${{ inputs.approved_plan_run_id }}
       - name: Install runtime
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-          pip install ".[whisper]"
+        run: pip install "."
       - name: Configure durable state commits
         run: |
           git config user.name "github-actions[bot]"
@@ -59,4 +64,5 @@ jobs:
           sdilej-sync upload
           --limit "${{ inputs.batch_size }}"
           --approved-plan-sha "${{ inputs.approved_plan_sha }}"
+          --approved-plan-file approved-plan/plan.json
           --persist-git-state

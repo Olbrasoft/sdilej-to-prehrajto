@@ -4,7 +4,7 @@ from datetime import UTC, datetime, timedelta
 
 import pytest
 
-from sdilej_to_prehrajto.models import Candidate
+from sdilej_to_prehrajto.models import Candidate, LanguageTier, MatchTier
 from sdilej_to_prehrajto.prehrajto import (
     PrehrajtoError,
     RemoteReader,
@@ -54,6 +54,18 @@ def test_remote_reader_reports_remaining_length() -> None:
 def test_content_range_has_priority_over_chunk_length() -> None:
     response = Response(b"", {"Content-Range": "bytes 0-99/1000", "Content-Length": "100"})
     assert response_total_size(response) == 1000
+
+
+def test_candidate_round_trip_restores_enum_values() -> None:
+    original = Candidate(
+        "1",
+        "https://sdilej.cz/1/film.mkv",
+        "Film",
+        language_tier=LanguageTier.CZECH_AUDIO,
+        match_tier=MatchTier.STRONG,
+    )
+    restored = Candidate.from_dict(original.to_dict())
+    assert restored == original
 
 
 def test_remote_reader_rejects_truncated_source() -> None:

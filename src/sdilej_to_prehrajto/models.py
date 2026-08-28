@@ -72,6 +72,17 @@ class Candidate:
     download_url: str | None = None
     sample_url: str | None = None
 
+    @classmethod
+    def from_dict(cls, row: dict[str, Any]) -> Candidate:
+        data = dict(row)
+        language = data.get("language_tier", "unknown")
+        if isinstance(language, str):
+            data["language_tier"] = LanguageTier[language.upper()]
+        match = data.get("match_tier", "reject")
+        if isinstance(match, str):
+            data["match_tier"] = MatchTier(match)
+        return cls(**data)
+
     @property
     def resolution_pixels(self) -> int:
         return self.width * self.height

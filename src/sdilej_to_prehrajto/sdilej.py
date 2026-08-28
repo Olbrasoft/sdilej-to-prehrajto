@@ -221,6 +221,10 @@ class SdilejProvider:
         url = f"{BASE_URL}/{slugify(query)}/s/video-"
         return parse_search_html(self._get(url).text, query=query)
 
+    def refresh_approved(self, candidate: Candidate) -> Candidate:
+        """Refresh expiring URLs without repeating search or language analysis."""
+        return parse_detail_html(self._get(candidate.url).text, candidate)
+
     def discover(self, film: Film) -> list[Candidate]:
         candidates: dict[str, Candidate] = {}
         for title in dict.fromkeys(

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 from pathlib import Path
 
@@ -41,6 +42,7 @@ def parser() -> argparse.ArgumentParser:
     result.add_argument("mode", choices=("plan", "upload", "continuous"))
     result.add_argument("--limit", type=int, default=1)
     result.add_argument("--approved-plan-sha")
+    result.add_argument("--approved-plan-file", type=Path)
     result.add_argument("--backlog", type=Path, default=REPO_ROOT / "backlog/films.jsonl.gz")
     result.add_argument("--state", type=Path, default=REPO_ROOT / "state/sync.json")
     result.add_argument("--plan-out", type=Path, default=REPO_ROOT / "artifacts/plan.json")
@@ -81,19 +83,34 @@ def main() -> int:
     )
     if args.max_scan < args.limit:
         raise ValueError("--max-scan must be at least --limit")
-    plan = pipeline.build_plan(
-        load_backlog(args.backlog), args.limit, max_scan=args.max_scan
-    )
-    digest = write_plan(args.plan_out, plan)
-    write_report(args.report_out, plan, digest)
-    print(f"planned={len(plan)} plan_sha={digest}")
+    if args.mode == "upload" and args.approved_plan_file:
+        approved = json.loads(args.approved_plan_file.read_text(encoding="utf-8"))
+        plan = approved["films"]
+        digest = plan_sha(plan)
+        if approved.get("plan_sha") != digest:
+            raise ValueError("Approved plan file digest is invalid")
+        if not args.approved_plan_sha:
+            raise ValueError("--approved-plan-sha is required for upload")
+        if args.approved_plan_sha != digest:
+            raise ValueError("Approved plan SHA does not match the reviewed plan")
+        if len(plan) != args.limit:
+            raise ValueError("Approved plan size does not match --limit")
+        pipeline.load_approved_plan(plan)
+        print(f"approved_plan_loaded={len(plan)} plan_sha={digest}")
+    else:
+        plan = pipeline.build_plan(
+            load_backlog(args.backlog), args.limit, max_scan=args.max_scan
+        )
+        digest = write_plan(args.plan_out, plan)
+        write_report(args.report_out, plan, digest)
+        print(f"planned={len(plan)} plan_sha={digest}")
     if args.mode == "plan":
         return 0
     if args.mode == "upload":
         if not args.approved_plan_sha:
             raise ValueError("--approved-plan-sha is required for upload")
-        if args.approved_plan_sha != plan_sha(plan):
-            raise ValueError("Approved plan SHA does not match the freshly resolved plan")
+        if args.approved_plan_sha != digest:
+            raise ValueError("Approved plan SHA does not match the reviewed plan")
     pipeline.execute(plan)
     return 0
 

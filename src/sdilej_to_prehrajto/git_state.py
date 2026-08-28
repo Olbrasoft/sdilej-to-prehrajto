@@ -11,7 +11,7 @@ class GitStateError(RuntimeError):
 class GitStatePersister:
     """Commit durable transfer checkpoints from an Actions runner."""
 
-    DURABLE_EVENTS = {"prepared", "attempt", "success"}
+    DURABLE_EVENTS = {"plan", "prepared", "attempt", "success"}
 
     def __init__(self, repo_root: Path, extra_paths: tuple[Path, ...] = ()):
         self.repo_root = repo_root.resolve()

@@ -20,6 +20,8 @@ jobs:
   plan:
     runs-on: ubuntu-latest
     timeout-minutes: 180
+    permissions:
+      contents: write
     env:
       HF_HOME: /tmp/huggingface
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
@@ -28,6 +30,9 @@ jobs:
       PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -41,8 +46,15 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           pip install ".[whisper]"
+      - name: Configure durable source checkpoints
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Build upload plan without uploading
-        run: sdilej-sync plan --limit "${{ inputs.batch_size }}"
+        run: >-
+          sdilej-sync plan
+          --limit "${{ inputs.batch_size }}"
+          --persist-git-state
       - name: Publish approval digest
         run: |
           python - <<'PY' >> "$GITHUB_STEP_SUMMARY"

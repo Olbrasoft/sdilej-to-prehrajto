@@ -53,6 +53,44 @@ class SyncPipeline:
         self.selected_sources = selected_sources
         self._selected: dict[int, Candidate] = {}
 
+    def _record_verified_source(
+        self, film: Film, candidate: Candidate, selected_name: str
+    ) -> None:
+        self.selected_sources.record(
+            {
+                "cr_film_id": film.cr_film_id,
+                "source_id": candidate.source_id,
+                "source_url": candidate.url,
+                "source_title": candidate.title,
+                "source_filename": candidate.filename,
+                "size_bytes": candidate.size_bytes,
+                "duration_sec": candidate.duration_sec,
+                "width": candidate.width,
+                "height": candidate.height,
+                "audio_language": candidate.audio_language,
+                "language_probability": candidate.language_probability,
+                "language_evidence": candidate.language_evidence,
+                "language_tier": candidate.language_tier.name.lower(),
+                "match_tier": candidate.match_tier.value,
+                "match_evidence": candidate.match_evidence,
+                "query": candidate.query,
+                "mime_type": candidate.mime_type,
+                "display_name": selected_name,
+            }
+        )
+
+    def load_approved_plan(self, plan: list[dict]) -> None:
+        """Load reviewed stable sources and refresh only their expiring URLs."""
+        for row in plan:
+            film = Film.from_dict(row["film"])
+            candidate = Candidate.from_dict(row["selected"])
+            refreshed = self.source_provider.refresh_approved(candidate)
+            if refreshed.source_id != candidate.source_id or refreshed.url != candidate.url:
+                raise ValueError("Approved source identity changed while refreshing")
+            self._selected[film.cr_film_id] = refreshed
+            self._record_verified_source(film, refreshed, row["display_name"])
+            self.state.record_plan(film.cr_film_id, row)
+
     def build_plan(
         self, films: list[Film], limit: int, *, max_scan: int | None = None
     ) -> list[dict]:
@@ -70,19 +108,31 @@ class SyncPipeline:
             if max_scan is not None and inspected >= max_scan:
                 break
             inspected += 1
-            discovered = self.source_provider.discover(film)
-            ranked = rank_candidates(discovered)
+            cached = self.selected_sources.candidate(film.cr_film_id)
+            selected = None
+            if cached is not None:
+                try:
+                    selected = self.source_provider.refresh_approved(cached)
+                except Exception:
+                    selected = None
+            ranked = []
+            if selected is None:
+                discovered = self.source_provider.discover(film)
+                ranked = rank_candidates(discovered)
             if not ranked:
-                self.state.record_attempt(
-                    film.cr_film_id,
-                    {
-                        "status": "no_acceptable_source",
-                        "permanent": False,
-                        "reason": "No identity-, language-, and quality-verified source",
-                    },
-                )
-                continue
-            selected = ranked[0]
+                if selected is None:
+                    self.state.record_attempt(
+                        film.cr_film_id,
+                        {
+                            "status": "no_acceptable_source",
+                            "permanent": False,
+                            "reason": "No identity-, language-, and quality-verified source",
+                        },
+                    )
+                    continue
+            else:
+                selected = ranked[0]
+            assert selected is not None
             self._selected[film.cr_film_id] = selected
             row = {
                 "film": film.to_dict(),
@@ -91,6 +141,7 @@ class SyncPipeline:
                 "needs_czech_subtitles": selected.language_tier
                 == LanguageTier.FOREIGN_AUDIO,
             }
+            self._record_verified_source(film, selected, row["display_name"])
             plan.append(row)
             self.state.record_plan(film.cr_film_id, row)
             if len(plan) >= limit:
@@ -101,6 +152,12 @@ class SyncPipeline:
         for row in plan:
             film = Film.from_dict(row["film"])
             if self.state.uploaded(film.cr_film_id):
+                continue
+            if self.state.pending_prepared(film.cr_film_id):
+                print(
+                    f"upload_skipped=pending_prepared cr_film_id={film.cr_film_id}",
+                    flush=True,
+                )
                 continue
             candidate = self._selected[film.cr_film_id]
             try:
@@ -144,21 +201,7 @@ class SyncPipeline:
                 "language_tier": candidate.language_tier.name.lower(),
                 "needs_czech_subtitles": row["needs_czech_subtitles"],
             }
-            self.selected_sources.record(
-                {
-                    "cr_film_id": film.cr_film_id,
-                    "source_id": candidate.source_id,
-                    "source_url": candidate.url,
-                    "source_filename": candidate.filename,
-                    "width": candidate.width,
-                    "height": candidate.height,
-                    "audio_language": candidate.audio_language,
-                    "language_probability": candidate.language_probability,
-                    "language_tier": candidate.language_tier.name.lower(),
-                    "match_tier": candidate.match_tier.value,
-                    "display_name": row["display_name"],
-                }
-            )
+            self._record_verified_source(film, candidate, row["display_name"])
             if row["needs_czech_subtitles"]:
                 self.subtitle_queue.enqueue(
                     {

@@ -2,6 +2,7 @@ import json
 
 import pytest
 
+from sdilej_to_prehrajto.models import LanguageTier, MatchTier
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 
 
@@ -41,3 +42,26 @@ def test_selected_source_manifest_rejects_authenticated_url(tmp_path) -> None:
                 "download_url": "https://data.sdilej.cz/x?session=secret",
             }
         )
+
+
+def test_selected_source_manifest_restores_verified_candidate(tmp_path) -> None:
+    store = SelectedSourceStore(tmp_path / "selected-sources.jsonl")
+    store.record(
+        {
+            "cr_film_id": 1,
+            "source_id": "32460472",
+            "source_url": "https://sdilej.cz/32460472/angelika.mkv",
+            "source_filename": "Angelika.mkv",
+            "duration_sec": 6000,
+            "width": 3840,
+            "height": 1632,
+            "audio_language": "cs",
+            "language_tier": "czech_audio",
+            "match_tier": "strong",
+        }
+    )
+    candidate = store.candidate(1)
+    assert candidate is not None
+    assert candidate.url == "https://sdilej.cz/32460472/angelika.mkv"
+    assert candidate.language_tier == LanguageTier.CZECH_AUDIO
+    assert candidate.match_tier == MatchTier.STRONG
