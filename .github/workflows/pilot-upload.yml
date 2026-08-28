@@ -21,7 +21,8 @@ on:
         type: string
 
 concurrency:
-  group: sdilej-to-prehrajto-transfer
+  # The target account must never receive a pilot and continuous batch at once.
+  group: sdilej-to-prehrajto-target-transfer
   cancel-in-progress: false
 
 jobs:

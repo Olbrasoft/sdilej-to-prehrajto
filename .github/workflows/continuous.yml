@@ -15,7 +15,8 @@ on:
     - cron: "17 * * * *"
 
 concurrency:
-  group: sdilej-to-prehrajto-continuous-transfer
+  # Share the target upload slots with the manually reviewed pilot workflow.
+  group: sdilej-to-prehrajto-target-transfer
   cancel-in-progress: false
 
 jobs:
