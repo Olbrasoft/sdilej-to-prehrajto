@@ -3,7 +3,7 @@ name: continuous-sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
 
 concurrency:
   group: sdilej-to-prehrajto-transfer
@@ -38,8 +38,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Upload next verified batch
-        run: >-
-          sdilej-sync continuous
-          --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '25' }}"
-          --persist-git-state
+      - name: Continuously drain verified source queue
+        shell: bash
+        run: |
+          sync_deadline_epoch=$(( $(date +%s) + 19800 ))
+          while [ "$(date +%s)" -lt "$sync_deadline_epoch" ]; do
+            git pull --rebase origin main
+            sync_output=$(sdilej-sync continuous \
+              --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '25' }}" \
+              --persist-git-state 2>&1 | tee /dev/stderr)
+            if grep -q "planned=0" <<<"$sync_output"; then
+              sleep 120
+            else
+              sleep 5
+            fi
+          done

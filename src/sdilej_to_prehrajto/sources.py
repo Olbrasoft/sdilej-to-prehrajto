@@ -29,6 +29,10 @@ class SelectedSourceStore:
                         rows[int(row["cr_film_id"])] = row
         return rows
 
+    def __len__(self) -> int:
+        with self._lock:
+            return len(self._rows)
+
     def record(self, row: dict[str, Any]) -> None:
         with self._lock:
             if "download_url" in row or "sample_url" in row:

@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import threading
+import time
 import uuid
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -171,12 +172,19 @@ class SyncPipeline:
         return plan
 
     def prepare_sources(
-        self, films: list[Film], limit: int, *, max_scan: int | None = None
+        self,
+        films: list[Film],
+        limit: int,
+        *,
+        max_scan: int | None = None,
+        deadline_monotonic: float | None = None,
     ) -> list[dict]:
         """Continuously fill the verified-source manifest without uploading."""
         prepared: list[dict] = []
         inspected = 0
         for film in films:
+            if deadline_monotonic is not None and time.monotonic() >= deadline_monotonic:
+                break
             if self.state.uploaded(film.cr_film_id) or self.selected_sources.uploaded(
                 film.cr_film_id
             ):

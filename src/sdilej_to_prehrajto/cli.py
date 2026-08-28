@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import time
 from pathlib import Path
 
 from .backlog import load_backlog
@@ -57,6 +58,7 @@ def parser() -> argparse.ArgumentParser:
     )
     result.add_argument("--persist-git-state", action="store_true")
     result.add_argument("--max-scan", type=int, default=200)
+    result.add_argument("--prepare-runtime-minutes", type=int, default=0)
     result.add_argument(
         "--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "4"))
     )
@@ -84,6 +86,8 @@ def main() -> int:
         raise RuntimeError("Continuous mode requires CONTINUOUS_ENABLED=true")
     if not 1 <= args.workers <= 4:
         raise ValueError("--workers must be between 1 and 4")
+    if not 0 <= args.prepare_runtime_minutes <= 330:
+        raise ValueError("--prepare-runtime-minutes must be between 0 and 330")
     default_state = REPO_ROOT / "state/sync.json"
     if args.mode in {"plan", "prepare"} and args.state.resolve() == default_state:
         args.state = REPO_ROOT / "state/source-scan.json"
@@ -117,13 +121,33 @@ def main() -> int:
     if args.max_scan < args.limit:
         raise ValueError("--max-scan must be at least --limit")
     if args.mode == "prepare":
-        plan = pipeline.prepare_sources(
-            load_backlog(args.backlog), args.limit, max_scan=args.max_scan
+        backlog = load_backlog(args.backlog)
+        deadline = (
+            time.monotonic() + args.prepare_runtime_minutes * 60
+            if args.prepare_runtime_minutes
+            else None
         )
+        plan: list[dict] = []
+        while True:
+            before = (len(pipeline.selected_sources), state.tracked_films())
+            batch = pipeline.prepare_sources(
+                backlog,
+                args.limit,
+                max_scan=args.max_scan,
+                deadline_monotonic=deadline,
+            )
+            plan.extend(batch)
+            pipeline.selected_sources.compact()
+            state.persist_external("flush")
+            after = (len(pipeline.selected_sources), state.tracked_films())
+            if (
+                deadline is None
+                or time.monotonic() >= deadline
+                or after == before
+            ):
+                break
         digest = write_plan(args.plan_out, plan)
         write_report(args.report_out, plan, digest)
-        pipeline.selected_sources.compact()
-        state.persist_external("flush")
         print(f"prepared={len(plan)} plan_sha={digest}")
         return 0
     if args.mode == "upload" and args.approved_plan_file:

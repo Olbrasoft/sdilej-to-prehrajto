@@ -3,7 +3,7 @@ name: prepare-sources
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7 */6 * * *"
+    - cron: "7 * * * *"
 
 concurrency:
   group: sdilej-to-prehrajto-source-preparation
@@ -48,4 +48,5 @@ jobs:
           sdilej-sync prepare
           --limit 200
           --max-scan 2000
+          --prepare-runtime-minutes 330
           --persist-git-state

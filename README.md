@@ -14,7 +14,14 @@ přepošle do multipart uploadu Přehraj.to. Celý film se na runner neukládá.
 5. Nech workflow `prepare-sources` průběžně plnit frontu ověřených zdrojů.
 6. Teprve po obou úspěšných pilotech nastav repository variable
    `CONTINUOUS_ENABLED=true`. Volitelná `CONTINUOUS_BATCH_SIZE` může být 1–50,
-   výchozí dávka je 25 filmů každých šest hodin.
+   výchozí dílčí dávka je 25 filmů.
+
+Příprava a upload jsou dva nezávislé dlouhodobé procesy. Producer opakuje
+vyhledávání a jazykové ověřování po dobu až 330 minut jednoho runneru a může
+postupně připravit celý backlog. Uploader po stejnou dobu opakovaně odebírá
+připravené dávky po čtyřech přenosech současně. Pokud je fronta krátce prázdná,
+čeká dvě minuty a znovu načte nové checkpointy produceru. Oba hodinové triggery
+se díky vlastním concurrency skupinám průběžně střídají bez vzájemného blokování.
 
 Kontinuální workflow bez explicitní hodnoty `CONTINUOUS_ENABLED=true` upload
 vůbec nespustí. Lokální stav se zapisuje atomicky a Git checkpointy se slučují
@@ -35,8 +42,8 @@ vyřeší znovu.
 
 Repozitář nevytváří soubor pro každý film. Provozní `state/sync.json` obsahuje
 jen krátké uploadové stavy, nejvýše tři poslední chyby a dočasné claimy;
-`state/source-scan.json` odděleně drží cooldown neúspěšných hledání. Po dokončení celé
-migrace se zdrojový manifest a uploadové příznaky sloučí do jediného výsledného
+`state/source-scan.json` odděleně drží cooldown neúspěšných hledání. Po dokončení
+celé migrace se zdrojový manifest a uploadové příznaky sloučí do jediného výsledného
 JSONL katalogu a provozní stav se odstraní. Při současné velikosti záznamů má
 výsledný katalog pro 28 775 filmů odhad přibližně 26 MB, tedy hluboko pod limitem
 100 MB na jeden GitHub soubor.

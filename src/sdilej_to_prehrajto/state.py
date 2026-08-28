@@ -58,6 +58,10 @@ class StateStore:
     def film(self, film_id: int) -> dict[str, Any]:
         return self.data["films"].setdefault(str(film_id), {"attempts": []})
 
+    def tracked_films(self) -> int:
+        with self._lock:
+            return len(self.data["films"])
+
     def uploaded(self, film_id: int) -> bool:
         with self._lock:
             return bool(self.film(film_id).get("upload", {}).get("target_video_id"))
