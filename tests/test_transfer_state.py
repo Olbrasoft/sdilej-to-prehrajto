@@ -22,11 +22,13 @@ class Response:
         *,
         status_code: int = 200,
         payload: dict | None = None,
+        text: str = "",
     ):
         self.raw = io.BytesIO(data)
         self.headers = headers or {}
         self.status_code = status_code
         self._payload = payload
+        self.text = text
 
     def raise_for_status(self) -> None:
         if self.status_code >= 400:
@@ -120,6 +122,7 @@ def test_relay_upload_streams_payload_and_renames() -> None:
         candidate,
         "Film (2000) 4K",
         on_prepared=lambda video_id, size: prepared.append((video_id, size)),
+        upload_requester=target.post,
     )
     assert result.video_id == "777"
     assert result.source_bytes_read == len(source_payload)

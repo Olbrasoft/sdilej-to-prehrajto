@@ -21,7 +21,7 @@ Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme do
 - [x] Implementovat průchozí streamování ze Sdílej.cz do multipart uploadu Přehraj.to bez uložení celého filmu na disk.
 - [x] Implementovat oddělené GitHub Actions workflow pro plán, pilotní upload a explicitně povolený kontinuální provoz.
 - [x] Ukládat po úspěšném uploadu stabilní detailovou URL vybraného zdroje pro budoucí upload na další účet.
-- [ ] Spustit a ručně ověřit pilot jednoho filmu.
+- [x] Spustit a ručně ověřit pilot jednoho filmu.
 - [ ] Po úspěšném prvním pilotu spustit a ověřit pilot deseti filmů.
 - [ ] Po obou pilotech zapnout repository variable `CONTINUOUS_ENABLED=true`.
 
