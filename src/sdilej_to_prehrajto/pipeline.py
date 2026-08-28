@@ -96,6 +96,8 @@ class SyncPipeline:
         """Load reviewed stable sources and refresh only their expiring URLs."""
         for row in plan:
             film = Film.from_dict(row["film"])
+            if self.state.uploaded(film.cr_film_id):
+                continue
             candidate = Candidate.from_dict(row["selected"])
             refreshed = self.source_provider.refresh_approved(candidate)
             if refreshed.source_id != candidate.source_id or refreshed.url != candidate.url:
