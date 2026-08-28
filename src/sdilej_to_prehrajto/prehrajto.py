@@ -81,6 +81,7 @@ class RemoteReader:
         self.total = total
         self.position = 0
         self.started_at = time.monotonic()
+        self.last_progress_at = self.started_at
         self.progress_interval = progress_interval
         self._next_progress = progress_interval
 
@@ -101,6 +102,8 @@ class RemoteReader:
                 f"Source ended after {self.position} of {self.total} bytes"
             )
         self.position += len(data)
+        if data:
+            self.last_progress_at = time.monotonic()
         if self.position >= self._next_progress or self.position == self.total:
             elapsed = max(time.monotonic() - self.started_at, 0.001)
             speed_mib = self.position / elapsed / 1024 / 1024
@@ -229,6 +232,8 @@ def relay_upload(
     *,
     on_prepared: Callable[[str, int], None] | None = None,
     upload_requester: Callable[..., requests.Response] | None = None,
+    stall_timeout_seconds: float = 300,
+    monitor_interval_seconds: float = 10,
 ) -> UploadResult:
     if not candidate.download_url:
         raise PrehrajtoError("Candidate has no authenticated download URL")
@@ -307,7 +312,7 @@ def relay_upload(
         threading.Thread(target=send_upload, daemon=True).start()
         response = None
         while True:
-            if upload_done.wait(10):
+            if upload_done.wait(monitor_interval_seconds):
                 if "error" in upload_result:
                     raise PrehrajtoError(
                         "Target upload request failed", target_video_id=video_id
@@ -315,6 +320,11 @@ def relay_upload(
                 response = upload_result["response"]
                 break
             if reader.position < size:
+                if time.monotonic() - reader.last_progress_at >= stall_timeout_seconds:
+                    raise PrehrajtoError(
+                        "Relay upload made no progress before timeout",
+                        target_video_id=video_id,
+                    )
                 continue
             current_count = uploaded_video_count(target_session)
             count_confirmed = (
@@ -330,6 +340,11 @@ def relay_upload(
                     flush=True,
                 )
                 return UploadResult(video_id, size, reader.position)
+            if time.monotonic() - reader.last_progress_at >= stall_timeout_seconds:
+                raise PrehrajtoError(
+                    "Target did not confirm completed relay before timeout",
+                    target_video_id=video_id,
+                )
 
         assert isinstance(response, requests.Response) or hasattr(
             response, "status_code"

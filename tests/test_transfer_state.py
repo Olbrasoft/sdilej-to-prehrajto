@@ -1,5 +1,6 @@
 import io
 import json
+import threading
 from datetime import UTC, datetime, timedelta
 
 import pytest
@@ -160,6 +161,38 @@ def test_relay_upload_streams_payload_and_renames() -> None:
     assert source_payload in target.uploaded_body
     assert prepared == [("777", len(source_payload))]
     assert target.renamed_to == "Film (2000) 4K"
+
+
+def test_relay_upload_rejects_a_stalled_target_request() -> None:
+    source_payload = b"small-video-payload"
+    target = TargetSession()
+    release = threading.Event()
+    candidate = Candidate(
+        "1",
+        "https://sdilej.cz/1/film.mkv",
+        "film",
+        filename="film.mkv",
+        mime_type="video/x-matroska",
+        download_url="https://data.sdilej.cz/file",
+    )
+
+    def stalled_request(*_args, **_kwargs):
+        release.wait(1)
+        return Response(status_code=201)
+
+    try:
+        with pytest.raises(PrehrajtoError, match="made no progress"):
+            relay_upload(
+                target,
+                SourceSession(source_payload),
+                candidate,
+                "Film (2000) 4K",
+                upload_requester=stalled_request,
+                stall_timeout_seconds=0.01,
+                monitor_interval_seconds=0.01,
+            )
+    finally:
+        release.set()
 
 
 def test_prepared_state_blocks_automatic_duplicate_retry(tmp_path) -> None:
