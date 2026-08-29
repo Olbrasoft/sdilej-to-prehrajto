@@ -69,6 +69,7 @@ class Candidate:
     query: str | None = None
     filename: str | None = None
     mime_type: str | None = None
+    video_codec: str | None = None
     download_url: str | None = None
     sample_url: str | None = None
 
@@ -86,6 +87,12 @@ class Candidate:
     @property
     def resolution_pixels(self) -> int:
         return self.width * self.height
+
+    @property
+    def average_bitrate_mbps(self) -> float | None:
+        if not self.size_bytes or not self.duration_sec:
+            return None
+        return self.size_bytes * 8 / self.duration_sec / 1_000_000
 
     def to_dict(self, *, sensitive: bool = False) -> dict[str, Any]:
         data = asdict(self)

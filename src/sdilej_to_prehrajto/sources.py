@@ -8,6 +8,7 @@ from pathlib import Path
 from typing import Any
 
 from .models import Candidate
+from .ranking import SELECTION_POLICY
 from .state import now_iso
 
 
@@ -123,7 +124,7 @@ class SelectedSourceStore:
 
     def candidate(self, film_id: int) -> Candidate | None:
         row = self.get(film_id)
-        if not row:
+        if not row or row.get("selection_policy") != SELECTION_POLICY:
             return None
         return Candidate.from_dict(
             {
@@ -145,5 +146,6 @@ class SelectedSourceStore:
                 "query": row.get("query"),
                 "filename": row.get("source_filename"),
                 "mime_type": row.get("mime_type"),
+                "video_codec": row.get("video_codec"),
             }
         )

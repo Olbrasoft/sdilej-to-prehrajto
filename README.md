@@ -40,6 +40,15 @@ film. Manifest neobsahuje dočasný autorizovaný download odkaz. Při budoucím
 uploadu na jiný účet se detail znovu načte a aktuální odkaz „Stáhnout rychle“ se
 vyřeší znovu.
 
+Výběr zdroje nepoužívá pravidlo „největší soubor je nejlepší“. Sdílej.cz se
+prohledává po kvalitativních třídách 4K, 1080p a 720p, vždy mezi videosoubory
+seřazenými od nejmenšího. Po ověření filmu, délky a jazyka se spočítá průměrný
+datový tok z velikosti a délky. Kandidáti pod minimem pro své rozlišení a kodek
+se odmítnou a z ostatních se vezme nejmenší. Pro H.265/HEVC a AV1 platí nižší
+minimum než pro H.264, VC-1 nebo neznámý kodek. Stabilní manifest obsahuje také
+verzi této výběrové politiky; položky vytvořené starším pravidlem se před dalším
+uploadem musí znovu vyhodnotit producerem.
+
 Repozitář nevytváří soubor pro každý film. Provozní `state/sync.json` obsahuje
 jen krátké uploadové stavy, nejvýše tři poslední chyby a dočasné claimy;
 `state/source-scan.json` odděleně drží cooldown neúspěšných hledání. Po dokončení

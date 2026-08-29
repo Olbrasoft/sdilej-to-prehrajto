@@ -36,6 +36,9 @@ Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme do
 - Vyhledávání na Sdílej.cz musí používat český i původní název a rok. Fuzzy podobnost sama nestačí; číslované díly filmu se nesmí zaměnit a při dostupných datech se kontroluje také délka.
 - Nejednoznačná shoda se automaticky nenahrává a musí skončit ve frontě k ruční kontrole.
 - Jazyková priorita je potvrzená čeština, poté slovenština a nakonec jiný jazyk. Kvalita rozhoduje až mezi kandidáty stejné jazykové priority.
+- V rámci stejného jazyka se bere nejvyšší dostupná třída rozlišení a následně nejmenší soubor, který splní minimální průměrný datový tok pro dané rozlišení a kodek. Nejmenší soubor bez kvalitativní hranice ani automaticky největší soubor se nevybírá.
+- Kratší varianta se odmítne při zkrácení přibližně o pět procent nebo více proti katalogové délce. Delší oficiální sestřih může zůstat jako solidní shoda.
+- Vyhledávání využívá video filtr Sdílej.cz, řazení od nejmenšího a postupné kvalitativní filtry 4K, 1080p a 720p. Údaje z výsledků se před výběrem znovu ověří na detailu.
 - Jazyk se neodvozuje pouze z názvu souboru. Název slouží jako předběžný hint a skutečný jazyk zvuku ověřuje Whisper.
 - Cílový název používá formát `Název filmu (rok) Rozlišení Jazyková varianta`. Český původní film nemá jazykový přídomek, zahraniční film s českým zvukem má `CZ Dabing`, slovenský původní film má `SK` a film s cizím zvukem má `CZ Titulky`.
 - Rozlišení musí být součástí cílového názvu, protože Přehraj.to je v přehledu videí nezobrazuje tak jako Sdílej.cz. Uvádí se ověřené rozlišení původního souboru ze Sdílej.cz, nikoli rozlišení transkódovaného webového přehrávače.

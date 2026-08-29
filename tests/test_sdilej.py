@@ -69,16 +69,20 @@ class FakeResponse:
 
 
 class FakeSession:
+    def __init__(self):
+        self.seen_urls = []
+
     def get(self, url: str, **_kwargs) -> FakeResponse:
+        self.seen_urls.append(url)
         if "/s/video-" in url:
             return FakeResponse(
                 """
                 <div class="videobox"><a href="/10/film-4k.mkv" title="Film (2000) 4K"></a>
-                <p>Délka 01:40:00 / 4K</p></div>
+                <p>15GB / Délka 01:40:00 / 4K</p></div>
                 <div class="videobox"><a href="/20/film-hd.mkv" title="Film (2000) 720p"></a>
-                <p>Délka 01:40:00 / 720p</p></div>
+                <p>3GB / Délka 01:40:00 / 720p</p></div>
                 <div class="videobox"><a href="/30/film-sd.mkv" title="Film (2000) 480p"></a>
-                <p>Délka 01:40:00 / 480p</p></div>
+                <p>1GB / Délka 01:40:00 / 480p</p></div>
                 """
             )
         source_id = url.split("/")[3]
@@ -108,6 +112,19 @@ def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     discovered = provider.discover(film)
     assert rank_candidates(discovered)[0].language_tier == LanguageTier.CZECH_AUDIO
     assert len(detector.seen) == 2
+
+
+def test_search_uses_video_smallest_and_quality_filters() -> None:
+    session = FakeSession()
+    provider = SdilejProvider(session, FakeDetector(), request_gap_seconds=0)
+
+    provider.search("Film 2000", "4k")
+    provider.search("Film 2000", "1080")
+
+    assert session.seen_urls == [
+        "https://sdilej.cz/film-2000/s/video-2-4k",
+        "https://sdilej.cz/film-2000/s/video-2-1080",
+    ]
 
 
 def test_audio_hint_distinguishes_dubbing_from_subtitles() -> None:

@@ -53,6 +53,16 @@ def test_rejects_incomplete_release_shorter_by_more_than_quarter() -> None:
     assert result.reason == "wrong_runtime"
 
 
+def test_rejects_shorter_cut_even_when_difference_is_under_twenty_percent() -> None:
+    result = classify_candidate(
+        film(),
+        "Angelika 3 Angelika a král (1966) 1080p.mkv",
+        duration_sec=83 * 60,
+    )
+    assert result.tier == MatchTier.REJECT
+    assert result.reason == "wrong_runtime"
+
+
 def test_accepts_longer_extended_cut_with_matching_title_and_year() -> None:
     result = classify_candidate(
         film(),

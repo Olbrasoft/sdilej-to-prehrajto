@@ -14,7 +14,12 @@ from bs4 import BeautifulSoup
 
 from .matching import classify_candidate
 from .models import Candidate, Film, LanguageTier, MatchTier
-from .ranking import language_tier
+from .ranking import (
+    infer_video_codec,
+    language_tier,
+    quality_acceptable,
+    resolution_rank,
+)
 from .security import redact, safe_url
 from .language import LanguageDetectionError
 
@@ -157,6 +162,7 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
         height=height or candidate.height,
         filename=filename,
         mime_type=mime_type,
+        video_codec=infer_video_codec(filename),
         download_url=fast_link,
         sample_url=player_match.group(0).replace("&amp;", "&"),
     )
@@ -222,8 +228,9 @@ class SdilejProvider:
         response.raise_for_status()
         return response
 
-    def search(self, query: str) -> list[Candidate]:
-        url = f"{BASE_URL}/{slugify(query)}/s/video-"
+    def search(self, query: str, quality: str | None = None) -> list[Candidate]:
+        quality_suffix = quality or ""
+        url = f"{BASE_URL}/{slugify(query)}/s/video-2-{quality_suffix}"
         return parse_search_html(self._get(url).text, query=query)
 
     def refresh_approved(
@@ -239,65 +246,83 @@ class SdilejProvider:
 
     def discover(self, film: Film) -> list[Candidate]:
         candidates: dict[str, Candidate] = {}
-        for title in dict.fromkeys(
-            item for item in (film.title, film.original_title) if item
-        ):
-            query = f"{title} {film.year}" if film.year else title
-            for candidate in self.search(query):
-                matched = classify_candidate(
-                    film,
-                    candidate.title,
-                    duration_sec=candidate.duration_sec,
-                )
-                candidate.match_tier = matched.tier
-                candidate.match_evidence = matched.evidence
-                if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
-                    candidates.setdefault(candidate.source_id, candidate)
-
-        ordered = sorted(
-            candidates.values(),
-            key=lambda item: (
-                -item.resolution_pixels,
-                -(item.size_bytes or 0),
-                item.source_id,
-            ),
-        )
-        if self.max_candidates is not None:
-            ordered = ordered[: self.max_candidates]
         resolved: list[Candidate] = []
-        for candidate in ordered:
-            try:
-                detail = parse_detail_html(self._get(candidate.url).text, candidate)
-                language, probability = self.language_detector.detect(detail.sample_url)
-                hint = audio_language_hint(detail.filename)
-                resampled = False
-                if hint and language_tier(language) != language_tier(hint):
-                    consensus = getattr(self.language_detector, "detect_consensus", None)
-                    if consensus:
-                        resampled = True
-                        language, probability = consensus(
-                            detail.sample_url,
-                            detail.duration_sec,
-                            initial=(language, probability),
-                            preferred_language=hint,
-                        )
-            except (SdilejError, LanguageDetectionError, requests.RequestException):
-                continue
-            detail.audio_language = language
-            detail.language_probability = probability
-            detail.language_evidence = (
-                "whisper_multisample_filename_conflict"
-                if resampled
-                else "whisper_remote_sample"
+        inspected = 0
+        titles = dict.fromkeys(
+            item for item in (film.title, film.original_title) if item
+        )
+        for quality in ("4k", "1080", "720", None):
+            newly_matched: list[Candidate] = []
+            for title in titles:
+                query = f"{title} {film.year}" if film.year else title
+                for candidate in self.search(query, quality):
+                    if candidate.source_id in candidates:
+                        continue
+                    candidates[candidate.source_id] = candidate
+                    matched = classify_candidate(
+                        film,
+                        candidate.title,
+                        duration_sec=candidate.duration_sec,
+                    )
+                    candidate.match_tier = matched.tier
+                    candidate.match_evidence = matched.evidence
+                    if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
+                        newly_matched.append(candidate)
+
+            ordered = sorted(
+                newly_matched,
+                key=lambda item: (
+                    -resolution_rank(item.width, item.height),
+                    item.size_bytes or 0,
+                    item.source_id,
+                ),
             )
-            if probability < self.minimum_language_probability:
-                continue
-            detail.language_tier = language_tier(language)
-            resolved.append(detail)
-            # Candidates are ordered by quality. Once Czech audio is confirmed,
-            # no lower-quality result can outrank it.
-            if detail.language_tier == LanguageTier.CZECH_AUDIO:
-                break
+            for candidate in ordered:
+                if self.max_candidates is not None and inspected >= self.max_candidates:
+                    return resolved
+                inspected += 1
+                try:
+                    detail = parse_detail_html(self._get(candidate.url).text, candidate)
+                    if not quality_acceptable(detail):
+                        continue
+                    language, probability = self.language_detector.detect(
+                        detail.sample_url
+                    )
+                    hint = audio_language_hint(detail.filename)
+                    resampled = False
+                    if hint and language_tier(language) != language_tier(hint):
+                        consensus = getattr(
+                            self.language_detector, "detect_consensus", None
+                        )
+                        if consensus:
+                            resampled = True
+                            language, probability = consensus(
+                                detail.sample_url,
+                                detail.duration_sec,
+                                initial=(language, probability),
+                                preferred_language=hint,
+                            )
+                except (
+                    SdilejError,
+                    LanguageDetectionError,
+                    requests.RequestException,
+                ):
+                    continue
+                detail.audio_language = language
+                detail.language_probability = probability
+                detail.language_evidence = (
+                    "whisper_multisample_filename_conflict"
+                    if resampled
+                    else "whisper_remote_sample"
+                )
+                if probability < self.minimum_language_probability:
+                    continue
+                detail.language_tier = language_tier(language)
+                resolved.append(detail)
+                # This tier is ordered from smallest to largest. Once Czech audio
+                # passes the quality floor, no later candidate can outrank it.
+                if detail.language_tier == LanguageTier.CZECH_AUDIO:
+                    return resolved
         return resolved
 
 def audio_language_hint(filename: str | None) -> str | None:

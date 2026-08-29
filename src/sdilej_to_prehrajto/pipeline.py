@@ -16,7 +16,12 @@ from .prehrajto import (
     uploaded_video_count,
     uploaded_video_id_by_name,
 )
-from .ranking import display_name, rank_candidates
+from .ranking import (
+    SELECTION_POLICY,
+    display_name,
+    minimum_bitrate_mbps,
+    rank_candidates,
+)
 from .state import StateStore, now_iso
 from .subtitles import SubtitleQueue
 from .sources import SelectedSourceStore
@@ -87,6 +92,10 @@ class SyncPipeline:
                 "match_evidence": candidate.match_evidence,
                 "query": candidate.query,
                 "mime_type": candidate.mime_type,
+                "video_codec": candidate.video_codec,
+                "average_bitrate_mbps": candidate.average_bitrate_mbps,
+                "minimum_bitrate_mbps": minimum_bitrate_mbps(candidate),
+                "selection_policy": SELECTION_POLICY,
                 "display_name": selected_name,
                 "source_status": "verified",
                 "upload_status": existing.get("upload_status", "pending"),
@@ -192,7 +201,7 @@ class SyncPipeline:
                 film.cr_film_id
             ):
                 continue
-            if self.selected_sources.get(film.cr_film_id) is not None:
+            if self.selected_sources.candidate(film.cr_film_id) is not None:
                 continue
             if self.state.deferred(film.cr_film_id):
                 continue
