@@ -114,7 +114,7 @@ def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     film = Film(1, "film", "Film", None, 2000, 100, "en")
     discovered = provider.discover(film)
     assert rank_candidates(discovered)[0].language_tier == LanguageTier.CZECH_AUDIO
-    assert len(detector.seen) == 2
+    assert len(detector.seen) == 3
 
 
 def test_discovery_stops_at_4k_when_czech_audio_is_verified() -> None:
@@ -255,6 +255,49 @@ def test_discovery_does_not_fall_back_when_4k_verification_is_transient() -> Non
     discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
 
     assert discovered == []
+
+
+def test_discovery_ignores_mislabeled_4k_until_real_4k_is_verified() -> None:
+    class MislabeledQualitySession:
+        def get(self, url: str, **_kwargs) -> FakeResponse:
+            if "/s/video-2-4k" in url:
+                return FakeResponse(
+                    '<div class="videobox"><a href="/10/small-fake-4k.mkv" '
+                    'title="Film (2000) 4K CZ"></a>'
+                    '<p>3GB / Délka 01:40:00 / 4K</p></div>'
+                    '<div class="videobox"><a href="/20/real-4k.mkv" '
+                    'title="Film (2000) 4K CZ"></a>'
+                    '<p>6GB / Délka 01:40:00 / 4K</p></div>'
+                )
+            if "/s/video-" in url:
+                return FakeResponse("")
+            source_id = url.split("/")[3]
+            dimensions = "1920x1080" if source_id == "10" else "3840x1600"
+            return FakeResponse(
+                f'<h1>Film (2000) CZ.mkv</h1><div>Délka 01:40:00</div>'
+                f'<div>{dimensions}</div>'
+                f'<a href="https://data.sdilej.cz/sdilej_profi.php?id={source_id}">Stáhnout rychle</a>'
+                f'<script>https://stream2.sdilej.cz/sdilej_profi.php?id={source_id}&amp;stream=1</script>'
+            )
+
+    class AlwaysCzechDetector:
+        def detect(self, _url: str) -> tuple[str, float]:
+            return "cs", 0.99
+
+    provider = SdilejProvider(
+        MislabeledQualitySession(),
+        AlwaysCzechDetector(),
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert rank_candidates(discovered)[0].source_id == "20"
+    assert (rank_candidates(discovered)[0].width, rank_candidates(discovered)[0].height) == (
+        3840,
+        1600,
+    )
 
 
 def test_discovery_retries_transient_language_failure_for_best_source() -> None:

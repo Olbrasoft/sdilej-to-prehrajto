@@ -342,6 +342,7 @@ class SdilejProvider:
             item for item in (film.title, film.original_title) if item
         )
         for quality in ("4k", "1080", "720", None):
+            minimum_tier_rank = {"4k": 5, "1080": 3, "720": 2}.get(quality, 0)
             newly_matched: list[Candidate] = []
             for title in titles:
                 query = f"{title} {film.year}" if film.year else title
@@ -393,7 +394,11 @@ class SdilejProvider:
                 resolved.append(detail)
                 # This tier is ordered from smallest to largest. Once Czech audio
                 # passes the quality floor, no later candidate can outrank it.
-                if detail.language_tier == LanguageTier.CZECH_AUDIO:
+                if (
+                    detail.language_tier == LanguageTier.CZECH_AUDIO
+                    and resolution_rank(detail.width, detail.height)
+                    >= minimum_tier_rank
+                ):
                     return resolved
             if unresolved_in_tier:
                 # A failed 4K (or other higher-tier) verification leaves its
