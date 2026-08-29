@@ -256,6 +256,49 @@ class SdilejProvider:
         self._last_request = 0.0
         self._request_lock = threading.RLock()
 
+    def _verify_candidate(self, film: Film, candidate: Candidate) -> Candidate | None:
+        detail = parse_detail_html(self._get(candidate.url).text, candidate)
+        media = self.media_probe(detail.download_url)
+        detail.video_codec = media.get("video_codec") or detail.video_codec
+        detail.width = int(media.get("width") or detail.width)
+        detail.height = int(media.get("height") or detail.height)
+        detail.duration_sec = int(media.get("duration_sec") or detail.duration_sec or 0)
+        verified_match = classify_candidate(
+            film,
+            detail.title,
+            duration_sec=detail.duration_sec,
+        )
+        detail.match_tier = verified_match.tier
+        detail.match_evidence = verified_match.evidence
+        if verified_match.tier not in (MatchTier.STRONG, MatchTier.SOLID):
+            return None
+        if not quality_acceptable(detail):
+            return None
+        language, probability = self.language_detector.detect(detail.sample_url)
+        hint = audio_language_hint(detail.filename)
+        resampled = False
+        if hint and language_tier(language) != language_tier(hint):
+            consensus = getattr(self.language_detector, "detect_consensus", None)
+            if consensus:
+                resampled = True
+                language, probability = consensus(
+                    detail.sample_url,
+                    detail.duration_sec,
+                    initial=(language, probability),
+                    preferred_language=hint,
+                )
+        detail.audio_language = language
+        detail.language_probability = probability
+        detail.language_evidence = (
+            "whisper_multisample_filename_conflict"
+            if resampled
+            else "whisper_remote_sample"
+        )
+        if probability < self.minimum_language_probability:
+            return None
+        detail.language_tier = language_tier(language)
+        return detail
+
     def _get(
         self, url: str, *, session: requests.Session | None = None
     ) -> requests.Response:
@@ -325,59 +368,19 @@ class SdilejProvider:
                 if self.max_candidates is not None and inspected >= self.max_candidates:
                     return resolved
                 inspected += 1
-                try:
-                    detail = parse_detail_html(self._get(candidate.url).text, candidate)
-                    media = self.media_probe(detail.download_url)
-                    detail.video_codec = media.get("video_codec") or detail.video_codec
-                    detail.width = int(media.get("width") or detail.width)
-                    detail.height = int(media.get("height") or detail.height)
-                    detail.duration_sec = int(
-                        media.get("duration_sec") or detail.duration_sec or 0
-                    )
-                    verified_match = classify_candidate(
-                        film,
-                        detail.title,
-                        duration_sec=detail.duration_sec,
-                    )
-                    detail.match_tier = verified_match.tier
-                    detail.match_evidence = verified_match.evidence
-                    if verified_match.tier not in (MatchTier.STRONG, MatchTier.SOLID):
+                detail = None
+                for _attempt in range(3):
+                    try:
+                        detail = self._verify_candidate(film, candidate)
+                        break
+                    except (
+                        SdilejError,
+                        LanguageDetectionError,
+                        requests.RequestException,
+                    ):
                         continue
-                    if not quality_acceptable(detail):
-                        continue
-                    language, probability = self.language_detector.detect(
-                        detail.sample_url
-                    )
-                    hint = audio_language_hint(detail.filename)
-                    resampled = False
-                    if hint and language_tier(language) != language_tier(hint):
-                        consensus = getattr(
-                            self.language_detector, "detect_consensus", None
-                        )
-                        if consensus:
-                            resampled = True
-                            language, probability = consensus(
-                                detail.sample_url,
-                                detail.duration_sec,
-                                initial=(language, probability),
-                                preferred_language=hint,
-                            )
-                except (
-                    SdilejError,
-                    LanguageDetectionError,
-                    requests.RequestException,
-                ):
+                if detail is None:
                     continue
-                detail.audio_language = language
-                detail.language_probability = probability
-                detail.language_evidence = (
-                    "whisper_multisample_filename_conflict"
-                    if resampled
-                    else "whisper_remote_sample"
-                )
-                if probability < self.minimum_language_probability:
-                    continue
-                detail.language_tier = language_tier(language)
                 resolved.append(detail)
                 # This tier is ordered from smallest to largest. Once Czech audio
                 # passes the quality floor, no later candidate can outrank it.

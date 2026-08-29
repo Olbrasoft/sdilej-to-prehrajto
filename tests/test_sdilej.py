@@ -1,3 +1,4 @@
+from sdilej_to_prehrajto.language import LanguageDetectionError
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
@@ -218,3 +219,29 @@ def test_discovery_uses_probed_original_media_metadata() -> None:
     assert discovered[0].video_codec == "h265"
     assert (discovered[0].width, discovered[0].height) == (3840, 1600)
     assert discovered[0].duration_sec == 6997
+
+
+def test_discovery_retries_transient_language_failure_for_best_source() -> None:
+    class FlakyDetector:
+        def __init__(self) -> None:
+            self.calls = 0
+
+        def detect(self, _url: str) -> tuple[str, float]:
+            self.calls += 1
+            if self.calls == 1:
+                raise LanguageDetectionError("temporary sample failure")
+            return "cs", 0.99
+
+    detector = FlakyDetector()
+    provider = SdilejProvider(
+        FakeSession(),
+        detector,
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert detector.calls == 2
+    assert len(discovered) == 1
+    assert (discovered[0].width, discovered[0].height) == (3840, 2160)
