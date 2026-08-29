@@ -1,0 +1,42 @@
+name: diagnose-sdilej
+
+on:
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install runtime
+        run: pip install "."
+      - name: Probe authenticated source detail
+        run: |
+          python - <<'PY'
+          import os
+          import time
+
+          from sdilej_to_prehrajto.sdilej import login
+
+          started = time.monotonic()
+          session = login(os.environ["SDILEJ_EMAIL"], os.environ["SDILEJ_PASSWORD"])
+          print(f"login_seconds={time.monotonic() - started:.2f}")
+          started = time.monotonic()
+          response = session.get(
+              "https://sdilej.cz/31912791/zelena-kniha--2018-komedie-usa-czdab-uhd.mkv",
+              timeout=45,
+          )
+          print(
+              f"detail_status={response.status_code} "
+              f"detail_seconds={time.monotonic() - started:.2f} "
+              f"body_bytes={len(response.content)}"
+          )
+          response.raise_for_status()
+          PY
