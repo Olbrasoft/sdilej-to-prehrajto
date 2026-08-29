@@ -157,6 +157,22 @@ def test_search_uses_exact_sdilej_quality_filter_urls() -> None:
     ]
 
 
+def test_discovery_deadline_defers_film_without_searching() -> None:
+    session = FakeSession()
+    provider = SdilejProvider(
+        session,
+        FakeDetector(),
+        discovery_timeout_seconds=0,
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert discovered == []
+    assert session.seen_urls == []
+
+
 def test_audio_hint_distinguishes_dubbing_from_subtitles() -> None:
     assert audio_language_hint("Schindleruv seznam 4K CZ.mkv") == "cs"
     assert audio_language_hint("Schindleruv seznam CZ dubbing.mkv") == "cs"

@@ -243,6 +243,7 @@ class SdilejProvider:
         language_detector,
         *,
         max_candidates: int | None = None,
+        discovery_timeout_seconds: float = 300,
         minimum_language_probability: float = 0.65,
         request_gap_seconds: float = 2.0,
         media_probe: Callable[[str | None], dict[str, Any]] = probe_media,
@@ -250,6 +251,7 @@ class SdilejProvider:
         self.session = session
         self.language_detector = language_detector
         self.max_candidates = max_candidates
+        self.discovery_timeout_seconds = discovery_timeout_seconds
         self.minimum_language_probability = minimum_language_probability
         self.request_gap_seconds = request_gap_seconds
         self.media_probe = media_probe
@@ -341,6 +343,7 @@ class SdilejProvider:
         )
 
     def discover(self, film: Film) -> list[Candidate]:
+        deadline = time.monotonic() + self.discovery_timeout_seconds
         candidates: dict[str, Candidate] = {}
         matched_by_rank: dict[int, list[Candidate]] = {}
         resolved: list[Candidate] = []
@@ -354,6 +357,8 @@ class SdilejProvider:
                 if item
             )
             for query in queries:
+                if time.monotonic() >= deadline:
+                    return []
                 for candidate in self.search_by_quality(query):
                     if candidate.source_id in candidates:
                         continue
@@ -379,6 +384,8 @@ class SdilejProvider:
             )
             unresolved_in_tier = False
             for candidate in ordered:
+                if time.monotonic() >= deadline:
+                    return []
                 if self.max_candidates is not None and inspected >= self.max_candidates:
                     return resolved
                 inspected += 1
@@ -388,6 +395,8 @@ class SdilejProvider:
                 # attempts cover a transient failure without blocking source
                 # preparation for tens of minutes on the same candidate.
                 for _attempt in range(2):
+                    if time.monotonic() >= deadline:
+                        return []
                     try:
                         detail = self._verify_candidate(film, candidate)
                         verification_completed = True
