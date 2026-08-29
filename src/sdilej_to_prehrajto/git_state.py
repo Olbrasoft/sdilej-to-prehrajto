@@ -21,6 +21,7 @@ class GitStatePersister:
         self.extra_paths = extra_paths
         self._lock = threading.RLock()
         self._pending: dict[str, int] = {}
+        self._initial_source_persisted = False
 
     def _run(self, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
         result = subprocess.run(
@@ -42,6 +43,11 @@ class GitStatePersister:
                 return
             interval = self.CHECKPOINT_INTERVALS.get(event)
             if interval is None:
+                return
+            if event == "source" and not self._initial_source_persisted:
+                self._persist(state_path, event)
+                self._initial_source_persisted = True
+                self._pending.clear()
                 return
             self._pending[event] = self._pending.get(event, 0) + 1
             if self._pending[event] < interval:
