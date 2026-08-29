@@ -13,6 +13,7 @@ class GitStatePersister:
     """Commit durable transfer checkpoints from an Actions runner."""
 
     MAX_TRACKED_FILE_BYTES = 90 * 1024 * 1024
+    PUSH_ATTEMPTS = 5
     CHECKPOINT_INTERVALS = {"source": 25, "attempt": 25, "failure": 25, "success": 25}
 
     def __init__(self, repo_root: Path, extra_paths: tuple[Path, ...] = ()):
@@ -73,13 +74,57 @@ class GitStatePersister:
         if self._run("diff", "--cached", "--quiet", check=False).returncode == 0:
             return
         self._run("commit", "-m", f"chore(sync): persist {event} checkpoint")
-        for _attempt in range(3):
-            pushed = self._run(
-                "push", "origin", "HEAD:main", check=False
-            )
+        last_error = "concurrent update"
+        for attempt in range(self.PUSH_ATTEMPTS):
+            pushed = self._run("push", "origin", "HEAD:main", check=False)
             if pushed.returncode == 0:
                 return
-            rebased = self._run("pull", "--rebase", "origin", "main", check=False)
-            if rebased.returncode != 0:
-                raise GitStateError("git pull --rebase failed while retrying state push")
-        raise GitStateError("git push failed after concurrent update retries")
+            last_error = self._failure_detail(pushed)
+            if attempt + 1 < self.PUSH_ATTEMPTS:
+                rebased, detail = self._rebase_checkpoint(relative_paths)
+                if not rebased:
+                    last_error = detail
+        raise GitStateError(
+            "git push failed after concurrent update retries: " + last_error
+        )
+
+    def _rebase_checkpoint(self, checkpoint_paths: list[str]) -> tuple[bool, str]:
+        # A killed retry must not poison a later checkpoint in the same runner.
+        self._run("rebase", "--abort", check=False)
+        fetched = self._run("fetch", "origin", "main", check=False)
+        if fetched.returncode != 0:
+            return False, self._failure_detail(fetched)
+
+        rebased = self._run("rebase", "--autostash", "origin/main", check=False)
+        if rebased.returncode == 0:
+            return True, ""
+
+        conflicts_result = self._run(
+            "diff", "--name-only", "--diff-filter=U", check=False
+        )
+        conflicts = [
+            path.strip() for path in conflicts_result.stdout.splitlines() if path.strip()
+        ]
+        if conflicts and set(conflicts).issubset(checkpoint_paths):
+            # During a rebase, "theirs" is the checkpoint commit being replayed.
+            restored = self._run("checkout", "--theirs", "--", *conflicts, check=False)
+            if restored.returncode == 0:
+                self._run("add", "--", *conflicts)
+                continued = self._run(
+                    "-c", "core.editor=true", "rebase", "--continue", check=False
+                )
+                if continued.returncode == 0:
+                    return True, ""
+                detail = self._failure_detail(continued)
+            else:
+                detail = self._failure_detail(restored)
+        else:
+            detail = self._failure_detail(rebased)
+
+        self._run("rebase", "--abort", check=False)
+        return False, detail
+
+    @staticmethod
+    def _failure_detail(result: subprocess.CompletedProcess[str]) -> str:
+        detail = (result.stderr or result.stdout).strip().splitlines()
+        return detail[-1] if detail else "unknown git error"
