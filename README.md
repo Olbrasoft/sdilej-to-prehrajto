@@ -45,7 +45,9 @@ prohledává po kvalitativních třídách 4K, 1080p a 720p, vždy mezi videosou
 seřazenými od nejmenšího. Po ověření filmu, délky a jazyka se spočítá průměrný
 datový tok z velikosti a délky. Kandidáti pod minimem pro své rozlišení a kodek
 se odmítnou a z ostatních se vezme nejmenší. Pro H.265/HEVC a AV1 platí nižší
-minimum než pro H.264, VC-1 nebo neznámý kodek. Stabilní manifest obsahuje také
+minimum než pro výslovně rozpoznané H.264 nebo VC-1. Neznámý kodek u 4K se
+posuzuje kompaktním limitem, aby se moderní 4K zdroj bez kodeku v názvu
+nesprávně nezahodil. Stabilní manifest obsahuje také
 verzi této výběrové politiky; položky vytvořené starším pravidlem se před dalším
 uploadem musí znovu vyhodnotit producerem.
 

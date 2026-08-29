@@ -65,6 +65,23 @@ def test_efficient_codec_allows_lower_bitrate() -> None:
     assert quality_acceptable(efficient) is True
 
 
+def test_unknown_4k_codec_uses_compact_floor_and_beats_1080p() -> None:
+    compact_4k = candidate(LanguageTier.CZECH_AUDIO, 3840)
+    compact_4k.source_id = "compact-4k"
+    compact_4k.size_bytes = 9_259_169_705
+    compact_4k.duration_sec = 8554
+    compact_4k.video_codec = None
+    large_1080 = candidate(LanguageTier.CZECH_AUDIO, 1920)
+    large_1080.source_id = "large-1080"
+    large_1080.size_bytes = 12_400_000_000
+    large_1080.duration_sec = 8554
+
+    ranked = rank_candidates([large_1080, compact_4k])
+
+    assert quality_acceptable(compact_4k) is True
+    assert ranked[0] is compact_4k
+
+
 def test_codec_inference_accepts_common_punctuation() -> None:
     assert infer_video_codec("Film.2160p.H.265.mkv") == "h265"
     assert infer_video_codec("Film 4K HEVC.mkv") == "h265"
