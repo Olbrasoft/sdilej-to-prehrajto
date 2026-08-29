@@ -1,4 +1,10 @@
-from sdilej_to_prehrajto.cli import exclude_uploaded_films
+from sdilej_to_prehrajto.cli import additional_worker_count, exclude_uploaded_films
+
+
+def test_empty_plan_does_not_create_additional_workers() -> None:
+    assert additional_worker_count(4, 0) == 0
+    assert additional_worker_count(4, 1) == 0
+    assert additional_worker_count(4, 4) == 3
 from sdilej_to_prehrajto.models import Film
 from sdilej_to_prehrajto.state import StateStore
 

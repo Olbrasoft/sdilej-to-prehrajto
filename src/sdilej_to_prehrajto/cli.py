@@ -40,6 +40,10 @@ def exclude_uploaded_films(
     return [film for film in films if not upload_state.uploaded(film.cr_film_id)]
 
 
+def additional_worker_count(workers: int, plan_size: int) -> int:
+    return max(0, min(workers, plan_size) - 1)
+
+
 def required_env(name: str) -> str:
     value = os.environ.get(name)
     if not value:
@@ -194,7 +198,7 @@ def main() -> int:
         if args.approved_plan_sha != digest:
             raise ValueError("Approved plan SHA does not match the reviewed plan")
     session_pairs = [(source_session, target_session)]
-    additional_workers = min(args.workers, len(plan)) - 1
+    additional_workers = additional_worker_count(args.workers, len(plan))
     if additional_workers:
         # Every login pair performs several independent network requests. Doing
         # three pairs serially can leave a four-worker run apparently idle for
