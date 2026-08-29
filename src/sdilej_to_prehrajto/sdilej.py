@@ -295,7 +295,10 @@ class SdilejProvider:
             else "whisper_remote_sample"
         )
         if probability < self.minimum_language_probability:
-            return None
+            # An uncertain language sample is not proof that a higher-resolution
+            # source is unsuitable. Treat it as retryable so discovery never
+            # silently falls back to a lower quality tier.
+            raise LanguageDetectionError("Whisper language confidence is too low")
         detail.language_tier = language_tier(language)
         return detail
 
@@ -364,14 +367,17 @@ class SdilejProvider:
                     item.source_id,
                 ),
             )
+            unresolved_in_tier = False
             for candidate in ordered:
                 if self.max_candidates is not None and inspected >= self.max_candidates:
                     return resolved
                 inspected += 1
                 detail = None
+                verification_completed = False
                 for _attempt in range(3):
                     try:
                         detail = self._verify_candidate(film, candidate)
+                        verification_completed = True
                         break
                     except (
                         SdilejError,
@@ -379,6 +385,9 @@ class SdilejProvider:
                         requests.RequestException,
                     ):
                         continue
+                if not verification_completed:
+                    unresolved_in_tier = True
+                    continue
                 if detail is None:
                     continue
                 resolved.append(detail)
@@ -386,6 +395,12 @@ class SdilejProvider:
                 # passes the quality floor, no later candidate can outrank it.
                 if detail.language_tier == LanguageTier.CZECH_AUDIO:
                     return resolved
+            if unresolved_in_tier:
+                # A failed 4K (or other higher-tier) verification leaves its
+                # language unknown. Falling through could upload 1080p even
+                # though that unresolved source is Czech 4K. Defer the film and
+                # retry it in a later preparation pass instead.
+                return []
         return resolved
 
 def audio_language_hint(filename: str | None) -> str | None:

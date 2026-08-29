@@ -221,6 +221,42 @@ def test_discovery_uses_probed_original_media_metadata() -> None:
     assert discovered[0].duration_sec == 6997
 
 
+def test_discovery_does_not_fall_back_when_4k_verification_is_transient() -> None:
+    class QualityAwareSession:
+        def get(self, url: str, **_kwargs) -> FakeResponse:
+            if "/s/video-2-4k" in url:
+                return FakeResponse(
+                    '<div class="videobox"><a href="/10/film-4k.mkv" '
+                    'title="Film (2000) 4K CZ"></a>'
+                    '<p>6GB / Délka 01:40:00 / 4K</p></div>'
+                )
+            if "/s/video-2-1080" in url:
+                return FakeResponse(
+                    '<div class="videobox"><a href="/20/film-1080.mkv" '
+                    'title="Film (2000) 1080p CZ"></a>'
+                    '<p>4GB / Délka 01:40:00 / 1080p</p></div>'
+                )
+            if "/10/" in url:
+                raise LanguageDetectionError("temporary 4K sampling failure")
+            return FakeResponse(
+                '<h1>Film (2000) 1080p CZ.mkv</h1><div>Délka 01:40:00</div>'
+                '<div>1920x1080</div>'
+                '<a href="https://data.sdilej.cz/sdilej_profi.php?id=20">Stáhnout rychle</a>'
+                '<script>https://stream2.sdilej.cz/sdilej_profi.php?id=20&amp;stream=1</script>'
+            )
+
+    provider = SdilejProvider(
+        QualityAwareSession(),
+        FakeDetector(),
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert discovered == []
+
+
 def test_discovery_retries_transient_language_failure_for_best_source() -> None:
     class FlakyDetector:
         def __init__(self) -> None:
