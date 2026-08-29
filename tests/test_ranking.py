@@ -103,6 +103,37 @@ def test_compact_hevc_cropped_4k_source_meets_quality_floor() -> None:
     assert quality_acceptable(compact_4k) is True
 
 
+def test_compact_h264_4k_source_beats_oversized_hevc_source() -> None:
+    compact = candidate(LanguageTier.CZECH_AUDIO, 3840)
+    compact.source_id = "compact-h264"
+    compact.size_bytes = 6_380_000_000
+    compact.duration_sec = 9948
+    compact.height = 1606
+    compact.video_codec = "h264"
+    oversized = candidate(LanguageTier.CZECH_AUDIO, 3840)
+    oversized.source_id = "oversized-hevc"
+    oversized.size_bytes = 32_370_000_000
+    oversized.duration_sec = 9948
+    oversized.height = 1606
+    oversized.video_codec = "h265"
+
+    ranked = rank_candidates([oversized, compact])
+
+    assert quality_acceptable(compact) is True
+    assert ranked[0] is compact
+
+
+def test_cropped_compact_full_hd_source_keeps_1080p_rank() -> None:
+    compact = candidate(LanguageTier.CZECH_AUDIO, 1918)
+    compact.size_bytes = 2_500_000_000
+    compact.duration_sec = 8256
+    compact.height = 808
+    compact.video_codec = "h265"
+
+    assert quality_acceptable(compact) is True
+    assert resolution_label(compact.width, compact.height) == "1080p"
+
+
 def test_codec_inference_accepts_common_punctuation() -> None:
     assert infer_video_codec("Film.2160p.H.265.mkv") == "h265"
     assert infer_video_codec("Film 4K HEVC.mkv") == "h265"

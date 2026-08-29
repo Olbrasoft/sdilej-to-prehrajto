@@ -7,7 +7,7 @@ from .models import Candidate, Film, LanguageTier, MatchTier
 
 CZECH_CODES = {"cs", "cz", "ces", "cze", "czech"}
 SLOVAK_CODES = {"sk", "slk", "slo", "slovak"}
-SELECTION_POLICY = "compact-quality-v4"
+SELECTION_POLICY = "compact-quality-v5"
 EFFICIENT_CODECS = {"av1", "h265", "hevc", "x265"}
 INEFFICIENT_CODECS = {"h264", "vc1"}
 
@@ -31,7 +31,9 @@ def resolution_rank(width: int, height: int = 0) -> int:
         return 5
     if width >= 2560 or height >= 1440:
         return 4
-    if width >= 1920 or height >= 1080:
+    # Allow the small encoder padding/cropping differences commonly reported
+    # for Full HD sources (for example 1918x808).
+    if width >= 1900 or height >= 1060:
         return 3
     if width >= 1280 or height >= 720:
         return 2
@@ -42,9 +44,11 @@ def minimum_bitrate_mbps(candidate: Candidate) -> float:
     efficient = candidate.video_codec in EFFICIENT_CODECS
     inefficient = candidate.video_codec in INEFFICIENT_CODECS
     return {
-        5: 16.0 if inefficient else 5.0,
+        # Resolution has priority over codec efficiency. Keep only an absolute
+        # floor so a compact, complete 4K encode can beat an oversized remux.
+        5: 5.0,
         4: 9.0 if inefficient else 5.0,
-        3: 2.5 if efficient else 2.75,
+        3: 2.4 if efficient else 2.75,
         2: 1.5 if efficient else 2.5,
         1: 0.8 if efficient else 1.2,
     }.get(resolution_rank(candidate.width, candidate.height), float("inf"))
