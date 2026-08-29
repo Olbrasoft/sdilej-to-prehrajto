@@ -4,6 +4,7 @@ import argparse
 import json
 import os
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from .backlog import load_backlog
@@ -193,13 +194,24 @@ def main() -> int:
         if args.approved_plan_sha != digest:
             raise ValueError("Approved plan SHA does not match the reviewed plan")
     session_pairs = [(source_session, target_session)]
-    for _index in range(1, min(args.workers, len(plan))):
-        session_pairs.append(
-            (
+    additional_workers = min(args.workers, len(plan)) - 1
+    if additional_workers:
+        # Every login pair performs several independent network requests. Doing
+        # three pairs serially can leave a four-worker run apparently idle for
+        # minutes before the first target video is prepared.
+        def login_worker_pair() -> tuple[object, object]:
+            return (
                 login_sdilej(source_email, source_password),
                 login_prehrajto(target_email, target_password),
             )
-        )
+
+        with ThreadPoolExecutor(max_workers=additional_workers) as executor:
+            session_pairs.extend(
+                executor.map(
+                    lambda _index: login_worker_pair(),
+                    range(additional_workers),
+                )
+            )
     try:
         pipeline.execute(plan, session_pairs=session_pairs)
     finally:
