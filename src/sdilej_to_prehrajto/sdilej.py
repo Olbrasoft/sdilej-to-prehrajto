@@ -323,6 +323,12 @@ class SdilejProvider:
         url = f"{BASE_URL}/{slugify(query)}/s/{suffix}"
         return parse_search_html(self._get(url).text, query=query)
 
+    def search_by_quality(self, query: str) -> list[Candidate]:
+        return parse_search_html(
+            self._get(f"{BASE_URL}/{slugify(query)}/s/-6").text,
+            query=query,
+        )
+
     def refresh_approved(
         self,
         candidate: Candidate,
@@ -336,38 +342,37 @@ class SdilejProvider:
 
     def discover(self, film: Film) -> list[Candidate]:
         candidates: dict[str, Candidate] = {}
+        matched_by_rank: dict[int, list[Candidate]] = {}
         resolved: list[Candidate] = []
         inspected = 0
         titles = dict.fromkeys(
             item for item in (film.title, film.original_title) if item
         )
-        for quality in ("4k", "1080", "720", None):
-            minimum_tier_rank = {"4k": 5, "1080": 3, "720": 2}.get(quality, 0)
-            newly_matched: list[Candidate] = []
-            for title in titles:
-                queries = dict.fromkeys(
-                    item for item in (f"{title} {film.year}" if film.year else title, title)
-                    if item
-                )
-                for query in queries:
-                    for candidate in self.search(query, quality):
-                        if candidate.source_id in candidates:
-                            continue
-                        candidates[candidate.source_id] = candidate
-                        matched = classify_candidate(
-                            film,
-                            candidate.title,
-                            duration_sec=candidate.duration_sec,
-                        )
-                        candidate.match_tier = matched.tier
-                        candidate.match_evidence = matched.evidence
-                        if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
-                            newly_matched.append(candidate)
+        for title in titles:
+            queries = dict.fromkeys(
+                item for item in (f"{title} {film.year}" if film.year else title, title)
+                if item
+            )
+            for query in queries:
+                for candidate in self.search_by_quality(query):
+                    if candidate.source_id in candidates:
+                        continue
+                    candidates[candidate.source_id] = candidate
+                    matched = classify_candidate(
+                        film,
+                        candidate.title,
+                        duration_sec=candidate.duration_sec,
+                    )
+                    candidate.match_tier = matched.tier
+                    candidate.match_evidence = matched.evidence
+                    if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
+                        rank = resolution_rank(candidate.width, candidate.height)
+                        matched_by_rank.setdefault(rank, []).append(candidate)
 
+        for minimum_tier_rank in sorted(matched_by_rank, reverse=True):
             ordered = sorted(
-                newly_matched,
+                matched_by_rank[minimum_tier_rank],
                 key=lambda item: (
-                    -resolution_rank(item.width, item.height),
                     item.size_bytes or 0,
                     item.source_id,
                 ),
