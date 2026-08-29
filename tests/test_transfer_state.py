@@ -242,3 +242,18 @@ def test_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> None:
     attempted = datetime.fromisoformat(state.film(1)["attempts"][-1]["attempted_at"])
     assert state.deferred(1, at=attempted + timedelta(days=29))
     assert not state.deferred(1, at=attempted + timedelta(days=31))
+
+
+def test_failure_cooldown_does_not_block_replacement_source(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_upload_failure(
+        1,
+        {
+            "status": "source_refresh_failed",
+            "source_id": "oversized-old",
+            "permanent": False,
+        },
+    )
+
+    assert state.deferred(1, source_id="oversized-old")
+    assert not state.deferred(1, source_id="compact-new")

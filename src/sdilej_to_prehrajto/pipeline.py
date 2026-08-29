@@ -129,12 +129,15 @@ class SyncPipeline:
                 film.cr_film_id
             ):
                 continue
-            if self.state.deferred(film.cr_film_id):
+            cached = self.selected_sources.candidate(film.cr_film_id)
+            if self.state.deferred(
+                film.cr_film_id,
+                source_id=cached.source_id if cached is not None else None,
+            ):
                 continue
             if max_scan is not None and inspected >= max_scan:
                 break
             inspected += 1
-            cached = self.selected_sources.candidate(film.cr_film_id)
             selected = None
             source_was_discovered = False
             if cached is not None:

@@ -71,6 +71,49 @@ def test_prepare_replaces_candidate_from_old_selection_policy(tmp_path) -> None:
     assert selected_sources.get(1)["selection_policy"] == SELECTION_POLICY
 
 
+def test_continuous_plan_uses_replacement_after_old_source_failure(tmp_path) -> None:
+    selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    selected_sources.record(
+        {
+            "cr_film_id": 1,
+            "source_id": "compact-new",
+            "source_url": "https://sdilej.cz/2/compact.mkv",
+            "source_filename": "Film (2000) 4K H265 CZ.mkv",
+            "size_bytes": 4_900_000_000,
+            "duration_sec": 6000,
+            "width": 3840,
+            "height": 1600,
+            "audio_language": "cs",
+            "language_tier": "czech_audio",
+            "match_tier": "strong",
+            "selection_policy": SELECTION_POLICY,
+            "display_name": "Film (2000) 4K CZ Dabing",
+        }
+    )
+    state = StateStore(tmp_path / "state.json")
+    state.record_upload_failure(
+        1,
+        {
+            "status": "source_refresh_failed",
+            "source_id": "oversized-old",
+            "permanent": False,
+        },
+    )
+    pipeline = SyncPipeline(
+        source_provider=object(),
+        source_session=object(),
+        target_session=object(),
+        state=state,
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=selected_sources,
+    )
+    film = Film(1, "film", "Film", None, 2000, 100, "en")
+
+    plan = pipeline.build_plan([film], 1, verified_only=True)
+
+    assert plan[0]["selected"]["source_id"] == "compact-new"
+
+
 def test_execute_distributes_rows_across_four_session_shards(
     tmp_path, monkeypatch
 ) -> None:

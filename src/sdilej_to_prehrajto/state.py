@@ -101,12 +101,20 @@ class StateStore:
             self.save("claim")
             return True
 
-    def deferred(self, film_id: int, *, at: datetime | None = None) -> bool:
+    def deferred(
+        self,
+        film_id: int,
+        *,
+        source_id: str | None = None,
+        at: datetime | None = None,
+    ) -> bool:
         with self._lock:
             attempts = self.film(film_id).get("attempts", [])
             if not attempts:
                 return False
             latest = attempts[-1]
+            if source_id is not None and latest.get("source_id") != source_id:
+                return False
             if latest.get("permanent"):
                 return True
             timestamp = latest.get("attempted_at")
