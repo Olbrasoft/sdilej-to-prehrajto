@@ -135,6 +135,11 @@ class SyncPipeline:
                 source_id=cached.source_id if cached is not None else None,
             ):
                 continue
+            # In queue-draining mode, films without a prepared source are not
+            # inspected candidates. Counting them against max_scan can starve
+            # verified sources lower in the prioritized backlog forever.
+            if verified_only and cached is None:
+                continue
             if max_scan is not None and inspected >= max_scan:
                 break
             inspected += 1
@@ -150,8 +155,6 @@ class SyncPipeline:
                         selected = None
             ranked = []
             if selected is None:
-                if verified_only:
-                    continue
                 discovered = self.source_provider.discover(film)
                 ranked = rank_candidates(discovered)
             if not ranked:

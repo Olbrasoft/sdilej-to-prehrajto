@@ -160,6 +160,48 @@ def test_continuous_plan_uses_replacement_after_old_source_failure(tmp_path) -> 
     assert plan[0]["selected"]["source_id"] == "compact-new"
 
 
+def test_continuous_scan_skips_films_without_prepared_sources(tmp_path) -> None:
+    selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    selected_sources.record(
+        {
+            "cr_film_id": 4,
+            "source_id": "prepared-fourth",
+            "source_url": "https://sdilej.cz/4/film.mkv",
+            "source_filename": "Film 4 (2000) 4K H265 CZ.mkv",
+            "size_bytes": 4_900_000_000,
+            "duration_sec": 6000,
+            "width": 3840,
+            "height": 1600,
+            "audio_language": "cs",
+            "language_tier": "czech_audio",
+            "match_tier": "strong",
+            "selection_policy": SELECTION_POLICY,
+            "display_name": "Film 4 (2000) 4K CZ Dabing",
+        }
+    )
+    pipeline = SyncPipeline(
+        source_provider=object(),
+        source_session=object(),
+        target_session=object(),
+        state=StateStore(tmp_path / "state.json"),
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=selected_sources,
+    )
+    films = [
+        Film(film_id, f"film-{film_id}", f"Film {film_id}", None, 2000, 100, "en")
+        for film_id in range(1, 5)
+    ]
+
+    plan = pipeline.build_plan(
+        films,
+        1,
+        max_scan=1,
+        verified_only=True,
+    )
+
+    assert plan[0]["selected"]["source_id"] == "prepared-fourth"
+
+
 def test_execute_distributes_rows_across_four_session_shards(
     tmp_path, monkeypatch
 ) -> None:
