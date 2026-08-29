@@ -384,7 +384,10 @@ class SdilejProvider:
                 inspected += 1
                 detail = None
                 verification_completed = False
-                for _attempt in range(3):
+                # A broken remote media endpoint is usually deterministic. Two
+                # attempts cover a transient failure without blocking source
+                # preparation for tens of minutes on the same candidate.
+                for _attempt in range(2):
                     try:
                         detail = self._verify_candidate(film, candidate)
                         verification_completed = True

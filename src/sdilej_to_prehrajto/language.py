@@ -33,12 +33,19 @@ class WhisperLanguageDetector:
     def _detect_at(self, media_url: str, offset: int) -> tuple[str, float]:
         with tempfile.TemporaryDirectory() as temporary_directory:
             sample = Path(temporary_directory) / "sample.wav"
+            ffmpeg_timeout = max(
+                self.seconds + 30,
+                int(os.environ.get("WHISPER_FFMPEG_TIMEOUT_SECONDS", "120")),
+            )
             command = [
                 "ffmpeg",
                 "-y",
+                "-nostdin",
                 "-hide_banner",
                 "-loglevel",
                 "error",
+                "-rw_timeout",
+                str(ffmpeg_timeout * 1_000_000),
                 "-ss",
                 str(offset),
                 "-t",
@@ -56,7 +63,7 @@ class WhisperLanguageDetector:
                 command,
                 capture_output=True,
                 text=True,
-                timeout=max(self.seconds * 4, 300),
+                timeout=ffmpeg_timeout,
                 check=False,
             )
             if result.returncode != 0 or not sample.exists() or sample.stat().st_size == 0:
