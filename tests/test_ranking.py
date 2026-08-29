@@ -82,6 +82,17 @@ def test_unknown_4k_codec_uses_compact_floor_and_beats_1080p() -> None:
     assert ranked[0] is compact_4k
 
 
+def test_compact_hevc_cropped_4k_source_meets_quality_floor() -> None:
+    compact_4k = candidate(LanguageTier.CZECH_AUDIO, 3840)
+    compact_4k.size_bytes = 4_900_000_000
+    compact_4k.duration_sec = 6997
+    compact_4k.height = 1600
+    compact_4k.video_codec = "h265"
+
+    assert 5.5 < (compact_4k.average_bitrate_mbps or 0) < 5.7
+    assert quality_acceptable(compact_4k) is True
+
+
 def test_codec_inference_accepts_common_punctuation() -> None:
     assert infer_video_codec("Film.2160p.H.265.mkv") == "h265"
     assert infer_video_codec("Film 4K HEVC.mkv") == "h265"

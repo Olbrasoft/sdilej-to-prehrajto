@@ -107,7 +107,9 @@ class FakeDetector:
 
 def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     detector = FakeDetector()
-    provider = SdilejProvider(FakeSession(), detector, request_gap_seconds=0)
+    provider = SdilejProvider(
+        FakeSession(), detector, request_gap_seconds=0, media_probe=lambda _url: {}
+    )
     film = Film(1, "film", "Film", None, 2000, 100, "en")
     discovered = provider.discover(film)
     assert rank_candidates(discovered)[0].language_tier == LanguageTier.CZECH_AUDIO
@@ -116,7 +118,12 @@ def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
 
 def test_search_uses_video_smallest_and_quality_filters() -> None:
     session = FakeSession()
-    provider = SdilejProvider(session, FakeDetector(), request_gap_seconds=0)
+    provider = SdilejProvider(
+        session,
+        FakeDetector(),
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
 
     provider.search("Film 2000", "4k")
     provider.search("Film 2000", "1080")
@@ -153,9 +160,41 @@ def test_discovery_resamples_explicit_czech_source_on_whisper_conflict() -> None
             return response
 
     provider = SdilejProvider(
-        CzechNamedSession(), ConflictDetector(), max_candidates=1, request_gap_seconds=0
+        CzechNamedSession(),
+        ConflictDetector(),
+        max_candidates=1,
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
     )
     film = Film(1, "film", "Film", None, 2000, 100, "en")
     discovered = provider.discover(film)
     assert discovered[0].language_tier == LanguageTier.CZECH_AUDIO
     assert discovered[0].language_evidence == "whisper_multisample_filename_conflict"
+
+
+def test_discovery_uses_probed_original_media_metadata() -> None:
+    seen_urls: list[str | None] = []
+
+    def probe(url: str | None) -> dict[str, object]:
+        seen_urls.append(url)
+        return {
+            "video_codec": "h265",
+            "width": 3840,
+            "height": 1600,
+            "duration_sec": 6997,
+        }
+
+    provider = SdilejProvider(
+        FakeSession(),
+        FakeDetector(),
+        max_candidates=1,
+        request_gap_seconds=0,
+        media_probe=probe,
+    )
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert len(discovered) == 1
+    assert seen_urls == ["https://data.sdilej.cz/sdilej_profi.php?id=10"]
+    assert discovered[0].video_codec == "h265"
+    assert (discovered[0].width, discovered[0].height) == (3840, 1600)
+    assert discovered[0].duration_sec == 6997

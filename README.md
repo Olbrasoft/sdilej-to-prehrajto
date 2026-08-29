@@ -47,7 +47,9 @@ datový tok z velikosti a délky. Kandidáti pod minimem pro své rozlišení a 
 se odmítnou a z ostatních se vezme nejmenší. Pro H.265/HEVC a AV1 platí nižší
 minimum než pro výslovně rozpoznané H.264 nebo VC-1. Neznámý kodek u 4K se
 posuzuje kompaktním limitem, aby se moderní 4K zdroj bez kodeku v názvu
-nesprávně nezahodil. Stabilní manifest obsahuje také
+nesprávně nezahodil. Před rozhodnutím `ffprobe` načte z autorizovaného
+originálního streamu pomocí HTTP rozsahů skutečný kodek, rozlišení a délku;
+celý film se kvůli kontrole nestahuje. Stabilní manifest obsahuje také
 verzi této výběrové politiky; položky vytvořené starším pravidlem se před dalším
 uploadem musí znovu vyhodnotit producerem.
 

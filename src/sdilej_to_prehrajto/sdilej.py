@@ -1,13 +1,16 @@
 from __future__ import annotations
 
 import html
+import json
 import mimetypes
 import re
+import subprocess
 import threading
 import time
 import unicodedata
 import urllib.parse
 from dataclasses import replace
+from typing import Any, Callable
 
 import requests
 from bs4 import BeautifulSoup
@@ -162,10 +165,49 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
         height=height or candidate.height,
         filename=filename,
         mime_type=mime_type,
-        video_codec=infer_video_codec(filename),
+        video_codec=infer_video_codec(filename) or candidate.video_codec,
         download_url=fast_link,
         sample_url=player_match.group(0).replace("&amp;", "&"),
     )
+
+
+def probe_media(download_url: str | None) -> dict[str, Any]:
+    """Read original metadata through HTTP ranges without downloading the film."""
+    if not download_url:
+        return {}
+    try:
+        result = subprocess.run(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-select_streams",
+                "v:0",
+                "-show_entries",
+                "stream=codec_name,width,height:format=duration",
+                "-of",
+                "json",
+                download_url,
+            ],
+            text=True,
+            capture_output=True,
+            timeout=60,
+            check=False,
+        )
+        if result.returncode:
+            return {}
+        payload = json.loads(result.stdout)
+        stream = (payload.get("streams") or [{}])[0]
+        codec = stream.get("codec_name")
+        duration = (payload.get("format") or {}).get("duration")
+        return {
+            "video_codec": {"hevc": "h265", "avc": "h264"}.get(codec, codec),
+            "width": int(stream.get("width") or 0),
+            "height": int(stream.get("height") or 0),
+            "duration_sec": int(float(duration)) if duration else None,
+        }
+    except (OSError, subprocess.SubprocessError, ValueError, json.JSONDecodeError):
+        return {}
 
 
 def login(
@@ -203,12 +245,14 @@ class SdilejProvider:
         max_candidates: int | None = None,
         minimum_language_probability: float = 0.65,
         request_gap_seconds: float = 2.0,
+        media_probe: Callable[[str | None], dict[str, Any]] = probe_media,
     ):
         self.session = session
         self.language_detector = language_detector
         self.max_candidates = max_candidates
         self.minimum_language_probability = minimum_language_probability
         self.request_gap_seconds = request_gap_seconds
+        self.media_probe = media_probe
         self._last_request = 0.0
         self._request_lock = threading.RLock()
 
@@ -283,6 +327,22 @@ class SdilejProvider:
                 inspected += 1
                 try:
                     detail = parse_detail_html(self._get(candidate.url).text, candidate)
+                    media = self.media_probe(detail.download_url)
+                    detail.video_codec = media.get("video_codec") or detail.video_codec
+                    detail.width = int(media.get("width") or detail.width)
+                    detail.height = int(media.get("height") or detail.height)
+                    detail.duration_sec = int(
+                        media.get("duration_sec") or detail.duration_sec or 0
+                    )
+                    verified_match = classify_candidate(
+                        film,
+                        detail.title,
+                        duration_sec=detail.duration_sec,
+                    )
+                    detail.match_tier = verified_match.tier
+                    detail.match_evidence = verified_match.evidence
+                    if verified_match.tier not in (MatchTier.STRONG, MatchTier.SOLID):
+                        continue
                     if not quality_acceptable(detail):
                         continue
                     language, probability = self.language_detector.detect(
