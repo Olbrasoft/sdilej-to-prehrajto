@@ -204,9 +204,15 @@ class SyncPipeline:
                 film.cr_film_id
             ):
                 continue
-            if self.selected_sources.candidate(film.cr_film_id) is not None:
+            current_source = self.selected_sources.candidate(film.cr_film_id)
+            if current_source is not None:
                 continue
-            if self.state.deferred(film.cr_film_id):
+            stored_source = self.selected_sources.get(film.cr_film_id)
+            policy_changed = bool(
+                stored_source
+                and stored_source.get("selection_policy") != SELECTION_POLICY
+            )
+            if not policy_changed and self.state.deferred(film.cr_film_id):
                 continue
             if max_scan is not None and inspected >= max_scan:
                 break

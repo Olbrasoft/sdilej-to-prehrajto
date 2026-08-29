@@ -55,11 +55,20 @@ def test_prepare_replaces_candidate_from_old_selection_policy(tmp_path) -> None:
         def discover(self, _film):
             return [replacement]
 
+    state = StateStore(tmp_path / "state.json")
+    state.record_upload_failure(
+        1,
+        {
+            "status": "source_refresh_failed",
+            "source_id": "oversized-old",
+            "permanent": False,
+        },
+    )
     pipeline = SyncPipeline(
         source_provider=Provider(),
         source_session=object(),
         target_session=object(),
-        state=StateStore(tmp_path / "state.json"),
+        state=state,
         subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
         selected_sources=selected_sources,
     )
