@@ -16,15 +16,16 @@ def test_git_checkpoints_batch_events_and_ignore_claims(tmp_path, monkeypatch) -
 
     for _index in range(100):
         persister(state_path, "claim")
-    persister(state_path, "source")
-    assert persisted == [(state_path, "source")]
+    for _index in range(4):
+        persister(state_path, "source")
+    assert persisted == [(state_path, "source")] * 4
 
     for _index in range(24):
         persister(state_path, "source")
-    assert persisted == [(state_path, "source")]
+    assert persisted == [(state_path, "source")] * 4
 
     persister(state_path, "source")
-    assert persisted == [(state_path, "source"), (state_path, "source")]
+    assert persisted == [(state_path, "source")] * 5
 
 
 def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:

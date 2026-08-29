@@ -14,6 +14,7 @@ class GitStatePersister:
 
     MAX_TRACKED_FILE_BYTES = 90 * 1024 * 1024
     PUSH_ATTEMPTS = 5
+    INITIAL_SOURCE_CHECKPOINTS = 4
     CHECKPOINT_INTERVALS = {"source": 25, "attempt": 25, "failure": 25, "success": 25}
 
     def __init__(self, repo_root: Path, extra_paths: tuple[Path, ...] = ()):
@@ -21,7 +22,7 @@ class GitStatePersister:
         self.extra_paths = extra_paths
         self._lock = threading.RLock()
         self._pending: dict[str, int] = {}
-        self._initial_source_persisted = False
+        self._source_checkpoints = 0
 
     def _run(self, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
         result = subprocess.run(
@@ -44,9 +45,12 @@ class GitStatePersister:
             interval = self.CHECKPOINT_INTERVALS.get(event)
             if interval is None:
                 return
-            if event == "source" and not self._initial_source_persisted:
+            if (
+                event == "source"
+                and self._source_checkpoints < self.INITIAL_SOURCE_CHECKPOINTS
+            ):
                 self._persist(state_path, event)
-                self._initial_source_persisted = True
+                self._source_checkpoints += 1
                 self._pending.clear()
                 return
             self._pending[event] = self._pending.get(event, 0) + 1
