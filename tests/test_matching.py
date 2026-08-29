@@ -96,3 +96,23 @@ def test_rejects_sequel_subtitle_without_year_for_one_word_film() -> None:
 
     assert result.tier == MatchTier.REJECT
     assert result.reason == "unexpected_title_extension"
+
+
+def test_year_between_filename_underscores_is_recognized() -> None:
+    trainspotting = Film(
+        cr_film_id=230,
+        slug="trainspotting",
+        title="Trainspotting",
+        original_title="Trainspotting",
+        year=1996,
+        runtime_min=94,
+        original_language="en",
+    )
+
+    result = classify_candidate(
+        trainspotting,
+        "Trainspotting_1996_2160p_CZ_Dabing_h265.mkv",
+        duration_sec=5640,
+    )
+
+    assert result.tier == MatchTier.STRONG

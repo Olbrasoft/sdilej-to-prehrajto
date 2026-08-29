@@ -14,7 +14,7 @@ RUNTIME_SHORTFALL_REJECT = 0.05
 RUNTIME_HARD_REJECT = 0.40
 SIMILARITY_GATE = 0.58
 EPISODE_RE = re.compile(r"\bS\d{1,2}E\d{1,3}\b|\b\d{1,2}x\d{1,3}\b", re.I)
-YEAR_RE = re.compile(r"\b(19\d{2}|20\d{2})\b")
+YEAR_RE = re.compile(r"(?<!\d)(19\d{2}|20\d{2})(?!\d)")
 RELEASE_NOISE_RE = re.compile(
     r"\b(?:4320p|2160p|1440p|1080p|720p|576p|480p|4k|uhd|full[ ._-]?hd|"
     r"bluray|bdrip|webrip|web[ ._-]?dl|hdrip|dvdrip|hdtv|remux|"
