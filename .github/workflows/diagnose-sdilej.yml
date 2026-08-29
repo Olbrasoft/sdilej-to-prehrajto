@@ -10,6 +10,8 @@ jobs:
     env:
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,6 +26,10 @@ jobs:
           import time
 
           from sdilej_to_prehrajto.models import Candidate
+          from sdilej_to_prehrajto.prehrajto import (
+              login as login_prehrajto,
+              uploaded_video_count,
+          )
           from sdilej_to_prehrajto.sdilej import login, parse_detail_html
 
           started = time.monotonic()
@@ -63,4 +69,16 @@ jobs:
           )
           download.raise_for_status()
           download.close()
+          started = time.monotonic()
+          target = login_prehrajto(
+              os.environ["PREHRAJTO_EMAIL"],
+              os.environ["PREHRAJTO_PASSWORD"],
+          )
+          print(f"target_login_seconds={time.monotonic() - started:.2f}")
+          started = time.monotonic()
+          count = uploaded_video_count(target)
+          print(
+              f"target_stats_count={count} "
+              f"target_stats_seconds={time.monotonic() - started:.2f}"
+          )
           PY
