@@ -75,7 +75,7 @@ class FakeSession:
 
     def get(self, url: str, **_kwargs) -> FakeResponse:
         self.seen_urls.append(url)
-        if "/s/video-" in url:
+        if "/s/" in url:
             return FakeResponse(
                 """
                 <div class="videobox"><a href="/10/film-4k.mkv" title="Film (2000) 4K"></a>
@@ -137,7 +137,7 @@ def test_discovery_stops_at_4k_when_czech_audio_is_verified() -> None:
     assert len(detector.seen) == 1
 
 
-def test_search_uses_video_smallest_and_quality_filters() -> None:
+def test_search_uses_exact_sdilej_quality_filter_urls() -> None:
     session = FakeSession()
     provider = SdilejProvider(
         session,
@@ -150,8 +150,8 @@ def test_search_uses_video_smallest_and_quality_filters() -> None:
     provider.search("Film 2000", "1080")
 
     assert session.seen_urls == [
-        "https://sdilej.cz/film-2000/s/video-2-4k",
-        "https://sdilej.cz/film-2000/s/video-2-1080",
+        "https://sdilej.cz/film-2000/s/--4k",
+        "https://sdilej.cz/film-2000/s/--1080",
     ]
 
 
@@ -174,7 +174,7 @@ def test_discovery_resamples_explicit_czech_source_on_whisper_conflict() -> None
     class CzechNamedSession(FakeSession):
         def get(self, url: str, **kwargs) -> FakeResponse:
             response = super().get(url, **kwargs)
-            if "/s/video-" not in url:
+            if "/s/" not in url:
                 response.text = response.text.replace(
                     "Film (2000).mkv", "Film (2000) CZ dubbing.mkv"
                 )
@@ -221,16 +221,57 @@ def test_discovery_uses_probed_original_media_metadata() -> None:
     assert discovered[0].duration_sec == 6997
 
 
+def test_discovery_searches_title_with_and_without_year() -> None:
+    class YearlessResultSession:
+        def __init__(self) -> None:
+            self.seen_urls: list[str] = []
+
+        def get(self, url: str, **_kwargs) -> FakeResponse:
+            self.seen_urls.append(url)
+            if "/film-2000/s/" in url:
+                return FakeResponse("")
+            if "/film/s/--4k" in url:
+                return FakeResponse(
+                    '<div class="videobox"><a href="/10/film-4k-cz.mkv" '
+                    'title="Film 4K CZ"></a>'
+                    '<p>6GB / Délka 01:40:00 / 4K</p></div>'
+                )
+            return FakeResponse(
+                '<h1>Film 4K CZ.mkv</h1><div>Délka 01:40:00</div>'
+                '<div>3840x1600</div>'
+                '<a href="https://data.sdilej.cz/sdilej_profi.php?id=10">Stáhnout rychle</a>'
+                '<script>https://stream2.sdilej.cz/sdilej_profi.php?id=10&amp;stream=1</script>'
+            )
+
+    class AlwaysCzechDetector:
+        def detect(self, _url: str) -> tuple[str, float]:
+            return "cs", 0.99
+
+    session = YearlessResultSession()
+    provider = SdilejProvider(
+        session,
+        AlwaysCzechDetector(),
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert discovered[0].source_id == "10"
+    assert "https://sdilej.cz/film-2000/s/--4k" in session.seen_urls
+    assert "https://sdilej.cz/film/s/--4k" in session.seen_urls
+
+
 def test_discovery_does_not_fall_back_when_4k_verification_is_transient() -> None:
     class QualityAwareSession:
         def get(self, url: str, **_kwargs) -> FakeResponse:
-            if "/s/video-2-4k" in url:
+            if "/s/--4k" in url:
                 return FakeResponse(
                     '<div class="videobox"><a href="/10/film-4k.mkv" '
                     'title="Film (2000) 4K CZ"></a>'
                     '<p>6GB / Délka 01:40:00 / 4K</p></div>'
                 )
-            if "/s/video-2-1080" in url:
+            if "/s/--1080" in url:
                 return FakeResponse(
                     '<div class="videobox"><a href="/20/film-1080.mkv" '
                     'title="Film (2000) 1080p CZ"></a>'
@@ -260,7 +301,7 @@ def test_discovery_does_not_fall_back_when_4k_verification_is_transient() -> Non
 def test_discovery_does_not_choose_larger_same_tier_after_smaller_failure() -> None:
     class SameTierSession:
         def get(self, url: str, **_kwargs) -> FakeResponse:
-            if "/s/video-2-4k" in url:
+            if "/s/--4k" in url:
                 return FakeResponse(
                     '<div class="videobox"><a href="/10/small-4k.mkv" '
                     'title="Film (2000) 4K CZ"></a>'
@@ -297,7 +338,7 @@ def test_discovery_does_not_choose_larger_same_tier_after_smaller_failure() -> N
 def test_discovery_ignores_mislabeled_4k_until_real_4k_is_verified() -> None:
     class MislabeledQualitySession:
         def get(self, url: str, **_kwargs) -> FakeResponse:
-            if "/s/video-2-4k" in url:
+            if "/s/--4k" in url:
                 return FakeResponse(
                     '<div class="videobox"><a href="/10/small-fake-4k.mkv" '
                     'title="Film (2000) 4K CZ"></a>'
@@ -306,7 +347,7 @@ def test_discovery_ignores_mislabeled_4k_until_real_4k_is_verified() -> None:
                     'title="Film (2000) 4K CZ"></a>'
                     '<p>6GB / Délka 01:40:00 / 4K</p></div>'
                 )
-            if "/s/video-" in url:
+            if "/s/" in url:
                 return FakeResponse("")
             source_id = url.split("/")[3]
             dimensions = "1920x1080" if source_id == "10" else "3840x1600"

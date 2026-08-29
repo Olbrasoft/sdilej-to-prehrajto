@@ -7,7 +7,7 @@ from .models import Candidate, Film, LanguageTier, MatchTier
 
 CZECH_CODES = {"cs", "cz", "ces", "cze", "czech"}
 SLOVAK_CODES = {"sk", "slk", "slo", "slovak"}
-SELECTION_POLICY = "compact-quality-v9"
+SELECTION_POLICY = "compact-quality-v10"
 EFFICIENT_CODECS = {"av1", "h265", "hevc", "x265"}
 INEFFICIENT_CODECS = {"h264", "vc1"}
 

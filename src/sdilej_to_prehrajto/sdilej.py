@@ -319,8 +319,8 @@ class SdilejProvider:
         return response
 
     def search(self, query: str, quality: str | None = None) -> list[Candidate]:
-        quality_suffix = quality or ""
-        url = f"{BASE_URL}/{slugify(query)}/s/video-2-{quality_suffix}"
+        suffix = f"--{quality}" if quality else ""
+        url = f"{BASE_URL}/{slugify(query)}/s/{suffix}"
         return parse_search_html(self._get(url).text, query=query)
 
     def refresh_approved(
@@ -345,20 +345,24 @@ class SdilejProvider:
             minimum_tier_rank = {"4k": 5, "1080": 3, "720": 2}.get(quality, 0)
             newly_matched: list[Candidate] = []
             for title in titles:
-                query = f"{title} {film.year}" if film.year else title
-                for candidate in self.search(query, quality):
-                    if candidate.source_id in candidates:
-                        continue
-                    candidates[candidate.source_id] = candidate
-                    matched = classify_candidate(
-                        film,
-                        candidate.title,
-                        duration_sec=candidate.duration_sec,
-                    )
-                    candidate.match_tier = matched.tier
-                    candidate.match_evidence = matched.evidence
-                    if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
-                        newly_matched.append(candidate)
+                queries = dict.fromkeys(
+                    item for item in (f"{title} {film.year}" if film.year else title, title)
+                    if item
+                )
+                for query in queries:
+                    for candidate in self.search(query, quality):
+                        if candidate.source_id in candidates:
+                            continue
+                        candidates[candidate.source_id] = candidate
+                        matched = classify_candidate(
+                            film,
+                            candidate.title,
+                            duration_sec=candidate.duration_sec,
+                        )
+                        candidate.match_tier = matched.tier
+                        candidate.match_evidence = matched.evidence
+                        if matched.tier in (MatchTier.STRONG, MatchTier.SOLID):
+                            newly_matched.append(candidate)
 
             ordered = sorted(
                 newly_matched,
