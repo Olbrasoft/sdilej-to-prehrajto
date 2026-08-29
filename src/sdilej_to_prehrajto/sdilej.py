@@ -307,6 +307,18 @@ class SdilejProvider:
     def _get(
         self, url: str, *, session: requests.Session | None = None
     ) -> requests.Response:
+        # Upload workers use independent authenticated sessions. Serializing
+        # those detail refreshes behind the discovery rate-limit lock turns one
+        # slow 45-second request into a three-minute four-worker startup gap.
+        # Keep discovery throttled, but allow independent worker sessions to
+        # refresh their already-approved source URLs concurrently.
+        if session is not None:
+            try:
+                response = session.get(url, timeout=45)
+            except requests.RequestException as error:
+                raise SdilejError(f"Request failed for {safe_url(url)}") from error
+            response.raise_for_status()
+            return response
         with self._request_lock:
             wait = self.request_gap_seconds - (time.monotonic() - self._last_request)
             if wait > 0:
