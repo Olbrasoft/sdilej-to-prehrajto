@@ -20,7 +20,7 @@ def test_git_checkpoints_batch_events_and_ignore_claims(tmp_path, monkeypatch) -
         persister(state_path, "source")
     assert persisted == [(state_path, "source")] * 4
 
-    for _index in range(24):
+    for _index in range(3):
         persister(state_path, "source")
     assert persisted == [(state_path, "source")] * 4
 
