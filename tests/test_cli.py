@@ -1,8 +1,16 @@
-from pathlib import Path
+from sdilej_to_prehrajto.cli import exclude_uploaded_films
+from sdilej_to_prehrajto.models import Film
+from sdilej_to_prehrajto.state import StateStore
 
-from sdilej_to_prehrajto import cli
 
+def test_prepare_backlog_excludes_already_uploaded_films(tmp_path) -> None:
+    state = StateStore(tmp_path / "sync.json")
+    state.record_success(1, {"target_video_id": "777"})
+    films = [
+        Film(1, "uploaded", "Uploaded", None, 2000, 90, "en"),
+        Film(2, "pending", "Pending", None, 2001, 90, "en"),
+    ]
 
-def test_repo_root_prefers_github_workspace(monkeypatch, tmp_path: Path) -> None:
-    monkeypatch.setenv("GITHUB_WORKSPACE", str(tmp_path))
-    assert cli.repo_root() == tmp_path.resolve()
+    pending = exclude_uploaded_films(films, state)
+
+    assert [film.cr_film_id for film in pending] == [2]

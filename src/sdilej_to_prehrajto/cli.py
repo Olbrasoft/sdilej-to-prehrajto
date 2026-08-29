@@ -9,6 +9,7 @@ from pathlib import Path
 from .backlog import load_backlog
 from .git_state import GitStatePersister
 from .language import WhisperLanguageDetector
+from .models import Film
 from .pipeline import MAX_PILOT_FILMS, SyncPipeline, plan_sha, write_plan, write_report
 from .prehrajto import login as login_prehrajto
 from .sdilej import SdilejProvider, login as login_sdilej
@@ -30,6 +31,12 @@ def repo_root() -> Path:
 REPO_ROOT = repo_root()
 MAX_CONTINUOUS_FILMS = 50
 MAX_PREPARE_FILMS = 200
+
+
+def exclude_uploaded_films(
+    films: list[Film], upload_state: StateStore
+) -> list[Film]:
+    return [film for film in films if not upload_state.uploaded(film.cr_film_id)]
 
 
 def required_env(name: str) -> str:
@@ -121,7 +128,9 @@ def main() -> int:
     if args.max_scan < args.limit:
         raise ValueError("--max-scan must be at least --limit")
     if args.mode == "prepare":
-        backlog = load_backlog(args.backlog)
+        backlog = exclude_uploaded_films(
+            load_backlog(args.backlog), StateStore(default_state)
+        )
         deadline = (
             time.monotonic() + args.prepare_runtime_minutes * 60
             if args.prepare_runtime_minutes
