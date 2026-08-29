@@ -27,6 +27,13 @@ def test_git_checkpoints_batch_events_and_ignore_claims(tmp_path, monkeypatch) -
     persister(state_path, "source")
     assert persisted == [(state_path, "source")] * 5
 
+    for _index in range(3):
+        persister(state_path, "success")
+    assert persisted == [(state_path, "source")] * 5
+
+    persister(state_path, "success")
+    assert persisted == [(state_path, "source")] * 5 + [(state_path, "success")]
+
 
 def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:
     persister = GitStatePersister(tmp_path)

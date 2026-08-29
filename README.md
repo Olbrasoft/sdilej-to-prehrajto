@@ -24,9 +24,10 @@ připravené dávky po čtyřech přenosech současně. Pokud je fronta krátce 
 se díky vlastním concurrency skupinám průběžně střídají bez vzájemného blokování.
 
 Kontinuální workflow bez explicitní hodnoty `CONTINUOUS_ENABLED=true` upload
-vůbec nespustí. Lokální stav se zapisuje atomicky a Git checkpointy se slučují
-po 25 změnách plus jednou na konci workflow, aby Git historie nerostla o commit
-pro každý claim. Před opakováním se přesný název ověří v nahraných videích, takže
+vůbec nespustí. Lokální stav se zapisuje atomicky. Úspěšné uploady a nové zdroje
+se checkpointují po čtyřech, pokusy a chyby po 25 změnách a vše se ještě jednou
+uloží na konci workflow, aby Git historie nerostla o commit pro každý claim.
+Před opakováním se přesný název ověří v nahraných videích, takže
 ani poslední necommitnutá dávka po pádu nevytvoří tichý duplicitní upload.
 Upload běží ve čtyřech nezávislých workerech. Před převzetím filmu
 worker atomicky uloží šestihodinový lease; ostatní workery jej přeskočí. Úspěch
