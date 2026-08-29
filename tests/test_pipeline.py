@@ -80,6 +80,43 @@ def test_prepare_replaces_candidate_from_old_selection_policy(tmp_path) -> None:
     assert selected_sources.get(1)["selection_policy"] == SELECTION_POLICY
 
 
+def test_prepare_defers_failed_attempt_from_current_policy(tmp_path) -> None:
+    selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    selected_sources.record(
+        {
+            "cr_film_id": 1,
+            "source_id": "old",
+            "source_url": "https://sdilej.cz/1/old.mkv",
+            "selection_policy": "old-policy",
+        }
+    )
+
+    class Provider:
+        calls = 0
+
+        def discover(self, _film):
+            self.calls += 1
+            return []
+
+    provider = Provider()
+    state = StateStore(tmp_path / "state.json")
+    pipeline = SyncPipeline(
+        source_provider=provider,
+        source_session=object(),
+        target_session=object(),
+        state=state,
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=selected_sources,
+    )
+    film = Film(1, "film", "Film", None, 2000, 100, "en")
+
+    assert pipeline.prepare_sources([film], 1) == []
+    assert pipeline.prepare_sources([film], 1) == []
+
+    assert provider.calls == 1
+    assert state.snapshot(1)["attempts"][-1]["selection_policy"] == SELECTION_POLICY
+
+
 def test_continuous_plan_uses_replacement_after_old_source_failure(tmp_path) -> None:
     selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
     selected_sources.record(

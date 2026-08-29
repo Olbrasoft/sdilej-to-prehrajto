@@ -161,6 +161,7 @@ class SyncPipeline:
                         {
                             "status": "no_acceptable_source",
                             "permanent": False,
+                            "selection_policy": SELECTION_POLICY,
                             "reason": "No identity-, language-, and quality-verified source",
                         },
                     )
@@ -207,12 +208,9 @@ class SyncPipeline:
             current_source = self.selected_sources.candidate(film.cr_film_id)
             if current_source is not None:
                 continue
-            stored_source = self.selected_sources.get(film.cr_film_id)
-            policy_changed = bool(
-                stored_source
-                and stored_source.get("selection_policy") != SELECTION_POLICY
-            )
-            if not policy_changed and self.state.deferred(film.cr_film_id):
+            if self.state.deferred(
+                film.cr_film_id, selection_policy=SELECTION_POLICY
+            ):
                 continue
             if max_scan is not None and inspected >= max_scan:
                 break
@@ -224,6 +222,7 @@ class SyncPipeline:
                     {
                         "status": "no_acceptable_source",
                         "permanent": False,
+                        "selection_policy": SELECTION_POLICY,
                         "reason": "No identity-, language-, and quality-verified source",
                     },
                 )

@@ -244,6 +244,21 @@ def test_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> None:
     assert not state.deferred(1, at=attempted + timedelta(days=31))
 
 
+def test_policy_specific_defer_ignores_attempt_from_old_policy(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_attempt(
+        1,
+        {
+            "status": "no_acceptable_source",
+            "permanent": False,
+            "selection_policy": "old-policy",
+        },
+    )
+
+    assert state.deferred(1, selection_policy="old-policy")
+    assert not state.deferred(1, selection_policy="new-policy")
+
+
 def test_failure_cooldown_does_not_block_replacement_source(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     state.record_upload_failure(

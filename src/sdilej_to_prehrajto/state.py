@@ -106,6 +106,7 @@ class StateStore:
         film_id: int,
         *,
         source_id: str | None = None,
+        selection_policy: str | None = None,
         at: datetime | None = None,
     ) -> bool:
         with self._lock:
@@ -114,6 +115,11 @@ class StateStore:
                 return False
             latest = attempts[-1]
             if source_id is not None and latest.get("source_id") != source_id:
+                return False
+            if (
+                selection_policy is not None
+                and latest.get("selection_policy") != selection_policy
+            ):
                 return False
             if latest.get("permanent"):
                 return True
