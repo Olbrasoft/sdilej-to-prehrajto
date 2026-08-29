@@ -116,6 +116,26 @@ def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     assert len(detector.seen) == 2
 
 
+def test_discovery_stops_at_4k_when_czech_audio_is_verified() -> None:
+    class AlwaysCzechDetector(FakeDetector):
+        def detect(self, url: str) -> tuple[str, float]:
+            self.seen.append(url)
+            return "cs", 0.99
+
+    detector = AlwaysCzechDetector()
+    provider = SdilejProvider(
+        FakeSession(), detector, request_gap_seconds=0, media_probe=lambda _url: {}
+    )
+    film = Film(1, "film", "Film", None, 2000, 100, "en")
+
+    discovered = provider.discover(film)
+
+    assert len(discovered) == 1
+    assert (discovered[0].width, discovered[0].height) == (3840, 2160)
+    assert discovered[0].language_tier == LanguageTier.CZECH_AUDIO
+    assert len(detector.seen) == 1
+
+
 def test_search_uses_video_smallest_and_quality_filters() -> None:
     session = FakeSession()
     provider = SdilejProvider(
