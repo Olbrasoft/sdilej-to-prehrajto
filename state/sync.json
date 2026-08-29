@@ -2246,20 +2246,9 @@
     },
     "239": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "21216094",
-        "display_name": "Četa (1986) 4K CZ Dabing",
-        "planned_at": "2026-08-29T19:29:36.195253+00:00"
-      },
-      "claim": {
-        "worker_id": "ee6e4aa795944bfab266e53d17fbe026-shard-3",
-        "claimed_at": "2026-08-29T19:29:39.709793+00:00",
-        "lease_expires_at": "2026-08-30T01:29:39.709793+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28936301",
-        "size_bytes": 16502867388,
-        "prepared_at": "2026-08-29T19:29:43.060282+00:00"
+        "uploaded_at": "2026-08-29T20:23:58.718896+00:00"
       }
     },
     "271": {
@@ -2354,10 +2343,9 @@
     },
     "263": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "23547476",
-        "display_name": "V rytmu srdce (2021) 4K CZ Titulky",
-        "planned_at": "2026-08-29T19:29:36.209276+00:00"
+      "upload": {
+        "target_video_id": "28936926",
+        "uploaded_at": "2026-08-29T20:41:27.756390+00:00"
       }
     },
     "11731": {
@@ -2440,10 +2428,9 @@
     },
     "22157": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32448804",
-        "display_name": "Motýlek (1973) 4K CZ Dabing",
-        "planned_at": "2026-08-29T19:29:36.229305+00:00"
+      "upload": {
+        "target_video_id": "28936824",
+        "uploaded_at": "2026-08-29T20:32:33.712146+00:00"
       }
     },
     "25000": {
@@ -2538,20 +2525,9 @@
     },
     "18299": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "21842659",
-        "display_name": "Píseň moře (2014) 1080p CZ Dabing",
-        "planned_at": "2026-08-29T19:29:36.239693+00:00"
-      },
-      "claim": {
-        "worker_id": "ee6e4aa795944bfab266e53d17fbe026-shard-0",
-        "claimed_at": "2026-08-29T20:02:34.462626+00:00",
-        "lease_expires_at": "2026-08-30T02:02:34.462626+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28936705",
-        "size_bytes": 3856474523,
-        "prepared_at": "2026-08-29T20:02:38.237220+00:00"
+        "uploaded_at": "2026-08-29T20:15:17.562276+00:00"
       }
     },
     "270": {
@@ -2594,7 +2570,15 @@
       "attempts": []
     },
     "21304": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34176337",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-29T20:33:18.737062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34176337",
         "display_name": "Dědička (1949) 1080p CZ Dabing",
@@ -2698,7 +2682,15 @@
       "attempts": []
     },
     "401": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32467481",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-29T20:16:02.617658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32467481",
         "display_name": "Iron Man (2008) 4K CZ Dabing",
@@ -2706,5 +2698,5 @@
       }
     }
   },
-  "updated_at": "2026-08-29T20:14:05.901093+00:00"
+  "updated_at": "2026-08-29T20:41:27.756400+00:00"
 }
