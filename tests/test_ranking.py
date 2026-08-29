@@ -65,6 +65,16 @@ def test_efficient_codec_allows_lower_bitrate() -> None:
     assert quality_acceptable(efficient) is True
 
 
+def test_compact_1080p_senna_source_meets_quality_floor() -> None:
+    senna = candidate(LanguageTier.CZECH_AUDIO, 1920)
+    senna.size_bytes = 2_200_000_000
+    senna.duration_sec = 6097
+    senna.video_codec = "h264"
+
+    assert 2.8 < (senna.average_bitrate_mbps or 0) < 3.0
+    assert quality_acceptable(senna) is True
+
+
 def test_unknown_4k_codec_uses_compact_floor_and_beats_1080p() -> None:
     compact_4k = candidate(LanguageTier.CZECH_AUDIO, 3840)
     compact_4k.source_id = "compact-4k"

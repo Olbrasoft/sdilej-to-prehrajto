@@ -7,7 +7,7 @@ from .models import Candidate, Film, LanguageTier, MatchTier
 
 CZECH_CODES = {"cs", "cz", "ces", "cze", "czech"}
 SLOVAK_CODES = {"sk", "slk", "slo", "slovak"}
-SELECTION_POLICY = "compact-quality-v3"
+SELECTION_POLICY = "compact-quality-v4"
 EFFICIENT_CODECS = {"av1", "h265", "hevc", "x265"}
 INEFFICIENT_CODECS = {"h264", "vc1"}
 
@@ -44,7 +44,7 @@ def minimum_bitrate_mbps(candidate: Candidate) -> float:
     return {
         5: 16.0 if inefficient else 5.0,
         4: 9.0 if inefficient else 5.0,
-        3: 2.5 if efficient else 4.5,
+        3: 2.5 if efficient else 2.75,
         2: 1.5 if efficient else 2.5,
         1: 0.8 if efficient else 1.2,
     }.get(resolution_rank(candidate.width, candidate.height), float("inf"))
