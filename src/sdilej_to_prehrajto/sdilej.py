@@ -398,6 +398,7 @@ class SdilejProvider:
                     detail.language_tier == LanguageTier.CZECH_AUDIO
                     and resolution_rank(detail.width, detail.height)
                     >= minimum_tier_rank
+                    and not unresolved_in_tier
                 ):
                     return resolved
             if unresolved_in_tier:
