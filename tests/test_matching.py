@@ -75,3 +75,24 @@ def test_accepts_longer_extended_cut_with_matching_title_and_year() -> None:
 def test_title_only_match_is_not_uploadable() -> None:
     result = classify_candidate(film(), "Angelika a král.mkv")
     assert result.tier == MatchTier.AMBIGUOUS
+
+
+def test_rejects_sequel_subtitle_without_year_for_one_word_film() -> None:
+    avengers = Film(
+        cr_film_id=324,
+        slug="avengers",
+        title="Avengers",
+        original_title="The Avengers",
+        year=2012,
+        runtime_min=143,
+        original_language="en",
+    )
+
+    result = classify_candidate(
+        avengers,
+        "Avengers - Age of Ultron.mkv",
+        duration_sec=8478,
+    )
+
+    assert result.tier == MatchTier.REJECT
+    assert result.reason == "unexpected_title_extension"

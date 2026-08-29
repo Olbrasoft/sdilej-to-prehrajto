@@ -80,6 +80,35 @@ def classify_candidate(
             "wrong_year",
         )
 
+    # A missing year must not let a sequel/subtitle masquerade as a one-word
+    # film merely because its runtime happens to match.  For example,
+    # "Avengers - Age of Ultron" is not "Avengers" (2012).
+    if candidate_year is None:
+        for alias in aliases:
+            normalized_alias = normalize_title(alias)
+            if len(normalized_alias.split()) != 1:
+                continue
+            remaining = re.sub(
+                rf"\b{re.escape(normalized_alias)}\b",
+                " ",
+                normalized_candidate,
+                count=1,
+            )
+            meaningful_extra = [
+                token for token in remaining.split() if not token.isdigit()
+            ]
+            if len(meaningful_extra) >= 2:
+                return MatchResult(
+                    MatchTier.REJECT,
+                    score,
+                    {
+                        "film_year": film.year,
+                        "candidate_year": candidate_year,
+                        "unexpected_title_tokens": meaningful_extra,
+                    },
+                    "unexpected_title_extension",
+                )
+
     runtime_delta = None
     if film.runtime_min and duration_sec:
         runtime_ratio = duration_sec / 60 / film.runtime_min

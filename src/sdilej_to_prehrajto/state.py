@@ -114,6 +114,8 @@ class StateStore:
             if not attempts:
                 return False
             latest = attempts[-1]
+            if latest.get("status") == "target_requires_review":
+                return True
             if source_id is not None and latest.get("source_id") != source_id:
                 return False
             if (

@@ -272,3 +272,22 @@ def test_failure_cooldown_does_not_block_replacement_source(tmp_path) -> None:
 
     assert state.deferred(1, source_id="oversized-old")
     assert not state.deferred(1, source_id="compact-new")
+
+
+def test_target_review_blocks_replacement_source_and_new_policy(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_attempt(
+        1,
+        {
+            "status": "target_requires_review",
+            "source_id": "wrong-film",
+            "selection_policy": "old-policy",
+            "permanent": True,
+        },
+    )
+
+    assert state.deferred(
+        1,
+        source_id="replacement-film",
+        selection_policy="new-policy",
+    )
