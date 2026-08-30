@@ -61,6 +61,25 @@ class GitStatePersister:
             self._persist(state_path, event)
             self._pending.clear()
 
+    def read_remote_file(self, relative_path: str) -> str:
+        """Read a fresh origin/main file while serializing local git operations."""
+        if relative_path.startswith("/") or ".." in Path(relative_path).parts:
+            raise GitStateError("Remote path must stay inside the repository")
+        with self._lock:
+            fetched = self._run("fetch", "origin", "main", check=False)
+            if fetched.returncode != 0:
+                raise GitStateError(
+                    "git fetch failed while refreshing queue: "
+                    + self._failure_detail(fetched)
+                )
+            shown = self._run("show", f"FETCH_HEAD:{relative_path}", check=False)
+            if shown.returncode != 0:
+                raise GitStateError(
+                    "git show failed while refreshing queue: "
+                    + self._failure_detail(shown)
+                )
+            return shown.stdout
+
     def _persist(self, state_path: Path, event: str) -> None:
         paths = [state_path, *self.extra_paths]
         relative_paths: list[str] = []

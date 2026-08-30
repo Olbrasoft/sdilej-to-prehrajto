@@ -145,13 +145,13 @@ def main() -> int:
     source_session = login_sdilej(source_email, source_password)
     target_session = login_prehrajto(target_email, target_password)
     subtitle_path = REPO_ROOT / "plans/subtitle-followup.jsonl"
+    persisted_extras = [subtitle_path]
+    if args.mode in {"plan", "prepare"}:
+        persisted_extras.append(source_manifest_path)
     persister = (
         GitStatePersister(
             REPO_ROOT,
-            (
-                subtitle_path,
-                source_manifest_path,
-            ),
+            tuple(persisted_extras),
         )
         if args.persist_git_state
         else None
@@ -241,8 +241,9 @@ def main() -> int:
         pipeline.load_approved_plan(plan)
         print(f"approved_plan_loaded={len(plan)} plan_sha={digest}")
     else:
+        backlog = load_backlog(args.backlog)
         plan = pipeline.build_plan(
-            load_backlog(args.backlog),
+            backlog,
             args.limit,
             max_scan=args.max_scan,
             verified_only=args.mode == "continuous",
@@ -278,10 +279,31 @@ def main() -> int:
                     range(additional_workers),
                 )
             )
+    refill_plan = None
+    if args.mode == "continuous":
+        def refill_plan() -> list[dict]:
+            payload = (
+                persister.read_remote_file("manifests/selected-sources.jsonl")
+                if persister is not None
+                else source_manifest_path.read_text(encoding="utf-8")
+            )
+            merged = pipeline.selected_sources.merge_jsonl(payload)
+            if merged:
+                print(f"verified_sources_refreshed={merged}", flush=True)
+            return pipeline.build_plan(
+                backlog,
+                args.limit,
+                max_scan=args.max_scan,
+                verified_only=True,
+            )
+
     try:
-        pipeline.execute(plan, session_pairs=session_pairs)
+        pipeline.execute(
+            plan,
+            session_pairs=session_pairs,
+            refill_plan=refill_plan,
+        )
     finally:
-        pipeline.selected_sources.compact()
         state.persist_external("flush")
     return 0
 

@@ -34,6 +34,21 @@ class SelectedSourceStore:
         with self._lock:
             return len(self._rows)
 
+    def merge_jsonl(self, payload: str) -> int:
+        """Merge a producer snapshot into memory without rewriting its manifest."""
+        incoming: dict[int, dict[str, Any]] = {}
+        for line in payload.splitlines():
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            if "download_url" in row or "sample_url" in row:
+                raise ValueError("Authenticated URLs must not be loaded from manifest")
+            incoming[int(row["cr_film_id"])] = row
+        with self._lock:
+            changed = sum(self._rows.get(film_id) != row for film_id, row in incoming.items())
+            self._rows.update(incoming)
+            return changed
+
     def record(self, row: dict[str, Any]) -> None:
         with self._lock:
             if "download_url" in row or "sample_url" in row:

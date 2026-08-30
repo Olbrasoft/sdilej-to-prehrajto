@@ -50,6 +50,28 @@ def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:
     assert persisted == [(state_path, "flush")]
 
 
+def test_git_state_reads_fresh_remote_file_without_touching_worktree(
+    tmp_path, monkeypatch
+) -> None:
+    persister = GitStatePersister(tmp_path)
+    commands = []
+
+    def fake_run(*args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
+        commands.append(args)
+        stdout = '{"cr_film_id": 1}\n' if args[0] == "show" else ""
+        return subprocess.CompletedProcess(args, 0, stdout, "")
+
+    monkeypatch.setattr(persister, "_run", fake_run)
+
+    payload = persister.read_remote_file("manifests/selected-sources.jsonl")
+
+    assert payload == '{"cr_film_id": 1}\n'
+    assert commands == [
+        ("fetch", "origin", "main"),
+        ("show", "FETCH_HEAD:manifests/selected-sources.jsonl"),
+    ]
+
+
 def test_git_checkpoint_rejects_file_near_github_hard_limit(
     tmp_path, monkeypatch
 ) -> None:

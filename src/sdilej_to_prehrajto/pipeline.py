@@ -8,6 +8,7 @@ import uuid
 from collections import deque
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from typing import Callable
 
 from .models import Candidate, Film, LanguageTier
 from .prehrajto import (
@@ -452,39 +453,82 @@ class SyncPipeline:
         plan: list[dict],
         *,
         session_pairs: list[tuple[object, object]] | None = None,
+        refill_plan: Callable[[], list[dict]] | None = None,
+        refill_interval_seconds: float = 15,
     ) -> None:
         pairs = session_pairs or [(self.source_session, self.target_session)]
         execution_id = uuid.uuid4().hex
         worker_count = min(len(pairs), len(plan))
         if worker_count == 0:
             return
-        pending = deque(plan[worker_count:])
-        pending_lock = threading.Lock()
+        pending = deque(plan)
+        queue_condition = threading.Condition()
+        in_flight = 0
+        refilling = False
+
+        def take_next_row() -> dict | None:
+            nonlocal in_flight, refilling
+            while True:
+                refill_leader = False
+                with queue_condition:
+                    if pending:
+                        in_flight += 1
+                        return pending.popleft()
+                    if refill_plan is None or in_flight == 0:
+                        return None
+                    if not refilling:
+                        refilling = True
+                        refill_leader = True
+                    else:
+                        queue_condition.wait()
+                        continue
+                if refill_leader:
+                    refill_rows: list[dict] = []
+                    try:
+                        refill_rows = refill_plan()
+                    except Exception as error:
+                        print(
+                            f"queue_refill_failed={type(error).__name__}",
+                            flush=True,
+                        )
+                    if refill_rows:
+                        with queue_condition:
+                            pending.extend(refill_rows)
+                            refilling = False
+                            queue_condition.notify_all()
+                        print(f"queue_refilled={len(refill_rows)}", flush=True)
+                    else:
+                        time.sleep(refill_interval_seconds)
+                        with queue_condition:
+                            refilling = False
+                            queue_condition.notify_all()
 
         def execute_worker(
-            first_row: dict,
             source_session,
             target_session,
             worker_id: str,
         ) -> None:
-            row = first_row
+            nonlocal in_flight
             while True:
-                self._execute_shard(
-                    [row], source_session, target_session, worker_id
-                )
-                with pending_lock:
-                    if not pending:
-                        return
-                    row = pending.popleft()
+                row = take_next_row()
+                if row is None:
+                    return
+                try:
+                    self._execute_shard(
+                        [row], source_session, target_session, worker_id
+                    )
+                finally:
+                    with queue_condition:
+                        in_flight -= 1
+                        queue_condition.notify_all()
 
-        # Give every worker one initial row, then let whichever worker becomes
-        # free first drain the shared queue. Static 7/6/6/6 shards leave upload
-        # capacity idle when one shard happens to contain much larger 4K files.
+        # Workers that empty the current snapshot keep polling the producer and
+        # refill the shared queue while any slow transfer is still in flight.
+        # This prevents one large tail item from idling the other five workers.
         with ThreadPoolExecutor(max_workers=worker_count) as executor:
             futures = [
                 executor.submit(
                     execute_worker,
-                    plan[index],
                     source_session,
                     target_session,
                     f"{execution_id}-shard-{index}",

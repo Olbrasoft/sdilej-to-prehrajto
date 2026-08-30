@@ -85,6 +85,26 @@ def test_old_selection_policy_is_not_restored_for_upload(tmp_path) -> None:
     assert store.candidate(1) is None
 
 
+def test_selected_source_store_merges_producer_snapshot_in_memory(tmp_path) -> None:
+    path = tmp_path / "selected-sources.jsonl"
+    store = SelectedSourceStore(path)
+
+    changed = store.merge_jsonl(
+        json.dumps(
+            {
+                "cr_film_id": 2,
+                "source_id": "fresh",
+                "source_url": "https://sdilej.cz/2/fresh.mkv",
+                "selection_policy": SELECTION_POLICY,
+            }
+        )
+    )
+
+    assert changed == 1
+    assert store.get(2)["source_id"] == "fresh"
+    assert not path.exists()
+
+
 def test_export_results_merges_upload_status_into_one_catalog(tmp_path) -> None:
     source_path = tmp_path / "selected-sources.jsonl"
     state_path = tmp_path / "sync.json"

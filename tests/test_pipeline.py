@@ -338,6 +338,58 @@ def test_execute_uses_shared_queue_after_initial_worker_rows(
     assert (6, "source-0") in processed
 
 
+def test_execute_refills_fast_workers_while_slow_tail_is_running(
+    tmp_path, monkeypatch
+) -> None:
+    pipeline = SyncPipeline(
+        source_provider=object(),
+        source_session="source-default",
+        target_session="target-default",
+        state=StateStore(tmp_path / "state.json"),
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    initial = [{"film": {"cr_film_id": film_id}} for film_id in (1, 2, 3)]
+    replenished = [{"film": {"cr_film_id": film_id}} for film_id in (4, 5)]
+    slow_finished = threading.Event()
+    refill_seen = threading.Event()
+    initial_started = threading.Barrier(2)
+    processed: list[tuple[int, str]] = []
+    refill_calls = 0
+    refilled_while_slow = False
+
+    def fake_execute_shard(rows, source, _target, _worker_id):
+        film_id = rows[0]["film"]["cr_film_id"]
+        processed.append((film_id, source))
+        if film_id in {1, 2}:
+            initial_started.wait(1)
+        if film_id == 2:
+            assert refill_seen.wait(1)
+            slow_finished.set()
+
+    def refill_plan():
+        nonlocal refill_calls, refilled_while_slow
+        refill_calls += 1
+        if refill_calls == 1:
+            refilled_while_slow = not slow_finished.is_set()
+            refill_seen.set()
+            return replenished
+        return []
+
+    monkeypatch.setattr(pipeline, "_execute_shard", fake_execute_shard)
+
+    pipeline.execute(
+        initial,
+        session_pairs=[("source-0", "target-0"), ("source-1", "target-1")],
+        refill_plan=refill_plan,
+        refill_interval_seconds=0.001,
+    )
+
+    assert slow_finished.is_set()
+    assert refilled_while_slow
+    assert {film_id for film_id, _source in processed} == {1, 2, 3, 4, 5}
+
+
 def test_execute_refreshes_fast_url_immediately_with_worker_session(
     tmp_path, monkeypatch
 ) -> None:
