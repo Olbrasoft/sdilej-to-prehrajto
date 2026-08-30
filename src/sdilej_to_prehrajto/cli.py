@@ -213,12 +213,15 @@ def main() -> int:
             pipeline.selected_sources.compact()
             state.persist_external("flush")
             after = (len(pipeline.selected_sources), state.tracked_films())
-            if (
-                deadline is None
-                or time.monotonic() >= deadline
-                or after == before
-            ):
+            if deadline is None or time.monotonic() >= deadline:
                 break
+            if after == before:
+                # A no-change batch does not mean the 28k-film backlog is
+                # exhausted. Previously inspected films may now be deferred,
+                # allowing the next pass to reach a lower backlog segment.
+                # Avoid a hot loop only when every remaining film is deferred.
+                remaining = max(0.0, deadline - time.monotonic())
+                time.sleep(min(5.0, remaining))
         digest = write_plan(args.plan_out, plan)
         write_report(args.report_out, plan, digest)
         print(f"prepared={len(plan)} plan_sha={digest}")
