@@ -44,6 +44,34 @@ def additional_worker_count(workers: int, plan_size: int) -> int:
     return max(0, min(workers, plan_size) - 1)
 
 
+def prepare_source_batch(
+    pipelines: list[SyncPipeline],
+    films: list[Film],
+    limit: int,
+    *,
+    max_scan: int,
+    deadline_monotonic: float | None,
+) -> list[dict]:
+    """Search disjoint backlog slices concurrently and merge their results."""
+    worker_count = min(len(pipelines), limit)
+    base_limit, extra = divmod(limit, worker_count)
+
+    def prepare(worker_index: int) -> list[dict]:
+        worker_limit = base_limit + (1 if worker_index < extra else 0)
+        return pipelines[worker_index].prepare_sources(
+            films[worker_index::worker_count],
+            worker_limit,
+            max_scan=max_scan,
+            deadline_monotonic=deadline_monotonic,
+        )
+
+    if worker_count == 1:
+        return prepare(0)
+    with ThreadPoolExecutor(max_workers=worker_count) as executor:
+        batches = executor.map(prepare, range(worker_count))
+        return [row for batch in batches for row in batch]
+
+
 def required_env(name: str) -> str:
     value = os.environ.get(name)
     if not value:
@@ -71,6 +99,11 @@ def parser() -> argparse.ArgumentParser:
     result.add_argument("--persist-git-state", action="store_true")
     result.add_argument("--max-scan", type=int, default=200)
     result.add_argument("--prepare-runtime-minutes", type=int, default=0)
+    result.add_argument(
+        "--prepare-workers",
+        type=int,
+        default=int(os.environ.get("PREPARE_WORKERS", "1")),
+    )
     result.add_argument(
         "--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "4"))
     )
@@ -100,6 +133,8 @@ def main() -> int:
         raise ValueError("--workers must be between 1 and 4")
     if not 0 <= args.prepare_runtime_minutes <= 330:
         raise ValueError("--prepare-runtime-minutes must be between 0 and 330")
+    if not 1 <= args.prepare_workers <= 2:
+        raise ValueError("--prepare-workers must be between 1 and 2")
     default_state = REPO_ROOT / "state/sync.json"
     if args.mode in {"plan", "prepare"} and args.state.resolve() == default_state:
         args.state = REPO_ROOT / "state/source-scan.json"
@@ -128,17 +163,34 @@ def main() -> int:
         )
         if released_claims:
             print(f"released_orphaned_claims={released_claims}", flush=True)
+    subtitle_queue = SubtitleQueue(subtitle_path)
+    selected_sources = SelectedSourceStore(source_manifest_path)
     pipeline = SyncPipeline(
         source_provider=SdilejProvider(source_session, WhisperLanguageDetector()),
         source_session=source_session,
         target_session=target_session,
         state=state,
-        subtitle_queue=SubtitleQueue(subtitle_path),
-        selected_sources=SelectedSourceStore(source_manifest_path),
+        subtitle_queue=subtitle_queue,
+        selected_sources=selected_sources,
     )
     if args.max_scan < args.limit:
         raise ValueError("--max-scan must be at least --limit")
     if args.mode == "prepare":
+        prepare_pipelines = [pipeline]
+        for _worker_index in range(1, args.prepare_workers):
+            worker_session = login_sdilej(source_email, source_password)
+            prepare_pipelines.append(
+                SyncPipeline(
+                    source_provider=SdilejProvider(
+                        worker_session, WhisperLanguageDetector()
+                    ),
+                    source_session=worker_session,
+                    target_session=target_session,
+                    state=state,
+                    subtitle_queue=subtitle_queue,
+                    selected_sources=selected_sources,
+                )
+            )
         backlog = exclude_uploaded_films(
             load_backlog(args.backlog), StateStore(default_state)
         )
@@ -150,7 +202,8 @@ def main() -> int:
         plan: list[dict] = []
         while True:
             before = (len(pipeline.selected_sources), state.tracked_films())
-            batch = pipeline.prepare_sources(
+            batch = prepare_source_batch(
+                prepare_pipelines,
                 backlog,
                 args.limit,
                 max_scan=args.max_scan,

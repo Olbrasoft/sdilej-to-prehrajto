@@ -48,5 +48,6 @@ jobs:
           sdilej-sync prepare
           --limit 200
           --max-scan 2000
+          --prepare-workers 2
           --prepare-runtime-minutes 330
           --persist-git-state
