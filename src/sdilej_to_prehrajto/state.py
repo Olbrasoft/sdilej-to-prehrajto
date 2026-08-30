@@ -166,11 +166,21 @@ class StateStore:
             if not timestamp:
                 return False
             attempted_at = datetime.fromisoformat(timestamp)
-            cooldown = (
-                timedelta(days=30)
-                if latest.get("status") == "no_acceptable_source"
-                else timedelta(hours=6)
-            )
+            status = latest.get("status")
+            if status == "no_acceptable_source":
+                cooldown = timedelta(days=30)
+            elif status in {
+                "source_refresh_failed",
+                "stale_prepared_released",
+                "upload_failed",
+            }:
+                # Transfer failures are usually an expired fast-download URL or
+                # a temporary source/target network fault. A six-hour retry
+                # delay can drain the verified queue even though exact-name
+                # reconciliation and leases make a prompt retry safe.
+                cooldown = timedelta(minutes=30)
+            else:
+                cooldown = timedelta(hours=6)
             return (at or datetime.now(UTC)) < attempted_at + cooldown
 
     def record_plan(self, film_id: int, plan: dict) -> None:

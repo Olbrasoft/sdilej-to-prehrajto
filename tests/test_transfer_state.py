@@ -297,6 +297,30 @@ def test_failure_cooldown_does_not_block_replacement_source(tmp_path) -> None:
     assert not state.deferred(1, source_id="compact-new")
 
 
+def test_transient_transfer_failure_is_retried_after_thirty_minutes(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_upload_failure(
+        1,
+        {
+            "status": "source_refresh_failed",
+            "source_id": "verified-source",
+            "permanent": False,
+        },
+    )
+    attempted = datetime.fromisoformat(state.film(1)["attempts"][-1]["attempted_at"])
+
+    assert state.deferred(
+        1,
+        source_id="verified-source",
+        at=attempted + timedelta(minutes=29),
+    )
+    assert not state.deferred(
+        1,
+        source_id="verified-source",
+        at=attempted + timedelta(minutes=31),
+    )
+
+
 def test_target_review_blocks_replacement_source_and_new_policy(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     state.record_attempt(
