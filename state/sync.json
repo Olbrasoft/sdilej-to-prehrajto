@@ -5618,21 +5618,9 @@
     },
     "22088": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "26227237",
-        "display_name": "Vysvobození (1972) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.195726+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-1",
-        "claimed_at": "2026-08-30T09:31:59.728857+00:00",
-        "lease_expires_at": "2026-08-30T15:31:59.728857+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28951277",
-        "size_bytes": 9055679893,
-        "prepared_at": "2026-08-30T09:32:03.130154+00:00"
+        "uploaded_at": "2026-08-30T09:56:19.553558+00:00"
       }
     },
     "10812": {
@@ -5678,21 +5666,9 @@
     },
     "32012": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "12471900",
-        "display_name": "Duel Frost/Nixon (2008) SD CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.458938+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-0",
-        "claimed_at": "2026-08-30T09:37:35.011957+00:00",
-        "lease_expires_at": "2026-08-30T15:37:35.011957+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28951385",
-        "size_bytes": 1388429312,
-        "prepared_at": "2026-08-30T09:37:37.865365+00:00"
+        "uploaded_at": "2026-08-30T09:41:05.609891+00:00"
       }
     },
     "790": {
@@ -5711,7 +5687,15 @@
       "attempts": []
     },
     "28273": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11763714",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T09:41:40.655607+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11763714",
         "display_name": "Philomena (2013) 1080p CZ Dabing",
@@ -5732,10 +5716,9 @@
     },
     "21585": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "30466382",
-        "display_name": "U konce s dechem (1960) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.636588+00:00"
+      "upload": {
+        "target_video_id": "28951461",
+        "uploaded_at": "2026-08-30T09:51:24.282861+00:00"
       }
     },
     "720": {
@@ -5746,10 +5729,9 @@
     },
     "753": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34563578",
-        "display_name": "Hrdinové ohně (2017) 4K CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.725567+00:00"
+      "upload": {
+        "target_video_id": "28951470",
+        "uploaded_at": "2026-08-30T10:01:45.461808+00:00"
       }
     },
     "11047": {
@@ -5773,10 +5755,29 @@
         "source_id": "25404711",
         "display_name": "Přímo nad hlavou (1949) 1080p CZ Dabing",
         "planned_at": "2026-08-30T09:22:01.814225+00:00"
+      },
+      "claim": {
+        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-0",
+        "claimed_at": "2026-08-30T09:51:24.381837+00:00",
+        "lease_expires_at": "2026-08-30T15:51:24.381837+00:00",
+        "run_id": "33299159457"
+      },
+      "prepared": {
+        "target_video_id": "28951672",
+        "size_bytes": 4069629783,
+        "prepared_at": "2026-08-30T09:51:27.424287+00:00"
       }
     },
     "25012": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22063087",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T09:57:04.801457+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22063087",
         "display_name": "Přednosta (2003) 1080p CZ Dabing",
@@ -5798,6 +5799,17 @@
         "source_id": "31018756",
         "display_name": "Příliš dlouhé zásnuby (2004) 720p CZ Dabing",
         "planned_at": "2026-08-30T09:22:01.992239+00:00"
+      },
+      "claim": {
+        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-1",
+        "claimed_at": "2026-08-30T09:57:04.899731+00:00",
+        "lease_expires_at": "2026-08-30T15:57:04.899731+00:00",
+        "run_id": "33299159457"
+      },
+      "prepared": {
+        "target_video_id": "28951769",
+        "size_bytes": 4179844011,
+        "prepared_at": "2026-08-30T09:57:08.219774+00:00"
       }
     },
     "35520": {
@@ -88578,5 +88590,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-08-30T09:40:53.433086+00:00"
+  "updated_at": "2026-08-30T10:01:45.461823+00:00"
 }
