@@ -5854,21 +5854,9 @@
     },
     "22011": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "11876351",
-        "display_name": "Kellyho hrdinové (1970) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:02.170273+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-3",
-        "claimed_at": "2026-08-30T10:02:32.887020+00:00",
-        "lease_expires_at": "2026-08-30T16:02:32.887020+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28951877",
-        "size_bytes": 3417522754,
-        "prepared_at": "2026-08-30T10:02:35.952641+00:00"
+        "uploaded_at": "2026-08-30T10:12:02.722250+00:00"
       }
     },
     "33323": {
@@ -5924,21 +5912,9 @@
     },
     "21364": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "15390142",
-        "display_name": "Odtud až na věčnost (1953) SD CZ Dabing",
-        "planned_at": "2026-08-30T09:22:02.524612+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-1",
-        "claimed_at": "2026-08-30T10:10:50.495909+00:00",
-        "lease_expires_at": "2026-08-30T16:10:50.495909+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28952018",
-        "size_bytes": 1797940600,
-        "prepared_at": "2026-08-30T10:10:54.354385+00:00"
+        "uploaded_at": "2026-08-30T10:15:41.956099+00:00"
       }
     },
     "31690": {
@@ -5961,14 +5937,21 @@
     },
     "22192": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32576065",
-        "display_name": "Zrození pana účetního (1975) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:02.614535+00:00"
+      "upload": {
+        "target_video_id": "28952026",
+        "uploaded_at": "2026-08-30T10:16:32.513393+00:00"
       }
     },
     "23430": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33744304",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T10:12:47.931524+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33744304",
         "display_name": "Prostřihy (1993) 1080p CZ Dabing",
@@ -5993,6 +5976,17 @@
         "source_id": "34716887",
         "display_name": "Pozoruhodně bystrá stvoření (2026) 4K CZ Dabing",
         "planned_at": "2026-08-30T09:22:02.792391+00:00"
+      },
+      "claim": {
+        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-3",
+        "claimed_at": "2026-08-30T10:12:48.034986+00:00",
+        "lease_expires_at": "2026-08-30T16:12:48.034986+00:00",
+        "run_id": "33299159457"
+      },
+      "prepared": {
+        "target_video_id": "28952055",
+        "size_bytes": 5458251521,
+        "prepared_at": "2026-08-30T10:12:51.082974+00:00"
       }
     },
     "10717": {
@@ -6027,10 +6021,9 @@
     },
     "21618": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33514490",
-        "display_name": "Práskač (1962) 720p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:02.881436+00:00"
+      "upload": {
+        "target_video_id": "28952100",
+        "uploaded_at": "2026-08-30T10:21:31.748537+00:00"
       }
     },
     "21188": {
@@ -6040,7 +6033,15 @@
       "attempts": []
     },
     "33520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "15059122",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T10:17:17.751487+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15059122",
         "display_name": "Šmírák (1960) 1080p CZ Dabing",
@@ -88602,5 +88603,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-08-30T10:11:08.068451+00:00"
+  "updated_at": "2026-08-30T10:21:31.748555+00:00"
 }
