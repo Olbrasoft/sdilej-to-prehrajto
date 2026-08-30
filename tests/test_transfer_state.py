@@ -225,6 +225,15 @@ def test_upload_claim_blocks_other_worker_until_lease_expires(tmp_path) -> None:
     assert state.snapshot(1)["claim"]["worker_id"] == "shard-1"
 
 
+def test_active_claim_reports_only_unexpired_lease(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    claimed_at = datetime(2026, 1, 1, tzinfo=UTC)
+    assert state.claim_upload(1, "shard-0", at=claimed_at)
+
+    assert state.actively_claimed(1, at=claimed_at + timedelta(hours=5))
+    assert not state.actively_claimed(1, at=claimed_at + timedelta(hours=7))
+
+
 def test_upload_failure_releases_claim_and_prepared_checkpoint(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     assert state.claim_upload(1, "shard-0")

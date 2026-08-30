@@ -129,6 +129,11 @@ class SyncPipeline:
                 film.cr_film_id
             ):
                 continue
+            # A killed runner can leave a durable lease behind. Do not spend a
+            # plan slot on it only to have execute() reject it; keep scanning so
+            # all upload shards receive runnable work from farther in the queue.
+            if self.state.actively_claimed(film.cr_film_id):
+                continue
             cached = self.selected_sources.candidate(film.cr_film_id)
             if self.state.deferred(
                 film.cr_film_id,

@@ -71,6 +71,20 @@ class StateStore:
             row = self.film(film_id)
             return bool(row.get("prepared") and not row.get("upload"))
 
+    def actively_claimed(
+        self,
+        film_id: int,
+        *,
+        at: datetime | None = None,
+    ) -> bool:
+        """Return whether another upload attempt still owns a live lease."""
+        with self._lock:
+            claim = self.film(film_id).get("claim")
+            if not claim or not claim.get("lease_expires_at"):
+                return False
+            expires_at = datetime.fromisoformat(claim["lease_expires_at"])
+            return expires_at > (at or datetime.now(UTC))
+
     def snapshot(self, film_id: int) -> dict[str, Any]:
         with self._lock:
             return deepcopy(self.film(film_id))
