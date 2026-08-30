@@ -7150,21 +7150,9 @@
     },
     "1013": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "14793770",
-        "display_name": "Chaplin (1992) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T20:33:15.718372+00:00"
-      },
-      "claim": {
-        "worker_id": "4b1eaa3ef0a54025816d3d06247a7737-shard-5",
-        "claimed_at": "2026-08-30T20:49:55.945161+00:00",
-        "lease_expires_at": "2026-08-31T02:49:55.945161+00:00",
-        "run_id": "33333931271"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28962538",
-        "size_bytes": 5512975930,
-        "prepared_at": "2026-08-30T20:50:00.238486+00:00"
+        "uploaded_at": "2026-08-30T21:08:49.023685+00:00"
       }
     },
     "948": {
@@ -7357,40 +7345,16 @@
     },
     "11114": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34822418",
-        "display_name": "Dlouhé loučení (1973) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T20:33:16.268299+00:00"
-      },
-      "claim": {
-        "worker_id": "4b1eaa3ef0a54025816d3d06247a7737-shard-2",
-        "claimed_at": "2026-08-30T21:01:43.715102+00:00",
-        "lease_expires_at": "2026-08-31T03:01:43.715102+00:00",
-        "run_id": "33333931271"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28962749",
-        "size_bytes": 3078533340,
-        "prepared_at": "2026-08-30T21:01:47.963637+00:00"
+        "uploaded_at": "2026-08-30T21:13:04.858120+00:00"
       }
     },
     "19384": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32999900",
-        "display_name": "Vlasy (1979) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T20:33:16.359255+00:00"
-      },
-      "claim": {
-        "worker_id": "4b1eaa3ef0a54025816d3d06247a7737-shard-3",
-        "claimed_at": "2026-08-30T21:02:07.460388+00:00",
-        "lease_expires_at": "2026-08-31T03:02:07.460388+00:00",
-        "run_id": "33333931271"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28962755",
-        "size_bytes": 2608750030,
-        "prepared_at": "2026-08-30T21:02:12.146804+00:00"
+        "uploaded_at": "2026-08-30T21:11:39.488211+00:00"
       }
     },
     "32202": {
@@ -7415,7 +7379,15 @@
       "attempts": []
     },
     "12642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26238672",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T21:06:44.297416+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26238672",
         "display_name": "Dálnice 60 (2002) 1080p CZ Dabing",
@@ -7427,10 +7399,9 @@
     },
     "13699": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "30817306",
-        "display_name": "Brendan a tajemství Kellsu (2009) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T20:33:16.541892+00:00"
+      "upload": {
+        "target_video_id": "28962841",
+        "uploaded_at": "2026-08-30T21:14:49.626977+00:00"
       }
     },
     "36631": {
@@ -7440,7 +7411,15 @@
       "attempts": []
     },
     "22045": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29355844",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T21:09:34.269420+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29355844",
         "display_name": "Kapsy plné dynamitu (1971) 1080p CZ Dabing",
@@ -7453,10 +7432,29 @@
         "source_id": "29515698",
         "display_name": "Lék (1997) 4K CZ Dabing",
         "planned_at": "2026-08-30T20:33:16.724754+00:00"
+      },
+      "claim": {
+        "worker_id": "4b1eaa3ef0a54025816d3d06247a7737-shard-5",
+        "claimed_at": "2026-08-30T21:09:34.384438+00:00",
+        "lease_expires_at": "2026-08-31T03:09:34.384438+00:00",
+        "run_id": "33333931271"
+      },
+      "prepared": {
+        "target_video_id": "28962888",
+        "size_bytes": 14470019865,
+        "prepared_at": "2026-08-30T21:09:38.374120+00:00"
       }
     },
     "11035": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30149612",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T21:12:24.719528+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30149612",
         "display_name": "Tora! Tora! Tora! (1970) 1080p CZ Dabing",
@@ -7478,6 +7476,17 @@
         "source_id": "13070049",
         "display_name": "Mladé vlny (2019) 1080p CZ Titulky",
         "planned_at": "2026-08-30T20:33:16.907937+00:00"
+      },
+      "claim": {
+        "worker_id": "4b1eaa3ef0a54025816d3d06247a7737-shard-3",
+        "claimed_at": "2026-08-30T21:12:24.816461+00:00",
+        "lease_expires_at": "2026-08-31T03:12:24.816461+00:00",
+        "run_id": "33333931271"
+      },
+      "prepared": {
+        "target_video_id": "28962930",
+        "size_bytes": 2776388259,
+        "prepared_at": "2026-08-30T21:12:28.703506+00:00"
       }
     },
     "35348": {
@@ -7505,7 +7514,15 @@
       "attempts": []
     },
     "952": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32111527",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T21:13:50.100801+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32111527",
         "display_name": "Veřejný nepřítel č. 1 (2008) 1080p CZ Dabing",
@@ -7533,6 +7550,17 @@
         "source_id": "14087175",
         "display_name": "Sin Nombre (2009) 720p CZ Dabing",
         "planned_at": "2026-08-30T20:33:17.090316+00:00"
+      },
+      "claim": {
+        "worker_id": "4b1eaa3ef0a54025816d3d06247a7737-shard-2",
+        "claimed_at": "2026-08-30T21:13:50.200994+00:00",
+        "lease_expires_at": "2026-08-31T03:13:50.200994+00:00",
+        "run_id": "33333931271"
+      },
+      "prepared": {
+        "target_video_id": "28962950",
+        "size_bytes": 1827780566,
+        "prepared_at": "2026-08-30T21:13:54.573584+00:00"
       }
     },
     "11204": {
@@ -89384,5 +89412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-08-30T21:05:56.377097+00:00"
+  "updated_at": "2026-08-30T21:14:49.626993+00:00"
 }
