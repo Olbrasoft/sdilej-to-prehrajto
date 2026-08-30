@@ -5,6 +5,7 @@ import json
 import threading
 import time
 import uuid
+from collections import deque
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -454,20 +455,43 @@ class SyncPipeline:
     ) -> None:
         pairs = session_pairs or [(self.source_session, self.target_session)]
         execution_id = uuid.uuid4().hex
-        shards = [plan[index :: len(pairs)] for index in range(len(pairs))]
-        with ThreadPoolExecutor(max_workers=len(pairs)) as executor:
+        worker_count = min(len(pairs), len(plan))
+        if worker_count == 0:
+            return
+        pending = deque(plan[worker_count:])
+        pending_lock = threading.Lock()
+
+        def execute_worker(
+            first_row: dict,
+            source_session,
+            target_session,
+            worker_id: str,
+        ) -> None:
+            row = first_row
+            while True:
+                self._execute_shard(
+                    [row], source_session, target_session, worker_id
+                )
+                with pending_lock:
+                    if not pending:
+                        return
+                    row = pending.popleft()
+
+        # Give every worker one initial row, then let whichever worker becomes
+        # free first drain the shared queue. Static 7/6/6/6 shards leave upload
+        # capacity idle when one shard happens to contain much larger 4K files.
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
             futures = [
                 executor.submit(
-                    self._execute_shard,
-                    shard,
+                    execute_worker,
+                    plan[index],
                     source_session,
                     target_session,
                     f"{execution_id}-shard-{index}",
                 )
-                for index, (shard, (source_session, target_session)) in enumerate(
-                    zip(shards, pairs, strict=True)
+                for index, (source_session, target_session) in enumerate(
+                    pairs[:worker_count]
                 )
-                if shard
             ]
             for future in futures:
                 future.result()

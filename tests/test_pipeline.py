@@ -1,3 +1,5 @@
+import threading
+
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.pipeline import SyncPipeline, plan_sha
 from sdilej_to_prehrajto.prehrajto import UploadResult
@@ -300,6 +302,40 @@ def test_execute_distributes_rows_across_four_session_shards(
     pipeline.execute(plan, session_pairs=pairs)
     assert set(used_sources) == {f"source-{index}" for index in range(4)}
     assert all(state.uploaded(film_id) for film_id in range(1, 5))
+
+
+def test_execute_uses_shared_queue_after_initial_worker_rows(
+    tmp_path, monkeypatch
+) -> None:
+    pipeline = SyncPipeline(
+        source_provider=object(),
+        source_session="source-default",
+        target_session="target-default",
+        state=StateStore(tmp_path / "state.json"),
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    plan = [{"film": {"cr_film_id": film_id}} for film_id in range(1, 7)]
+    release_slow_workers = threading.Event()
+    processed: list[tuple[int, str]] = []
+    processed_lock = threading.Lock()
+
+    def fake_execute_shard(rows, source, _target, _worker_id):
+        film_id = rows[0]["film"]["cr_film_id"]
+        with processed_lock:
+            processed.append((film_id, source))
+        if source != "source-0":
+            assert release_slow_workers.wait(1)
+        if film_id == 6:
+            release_slow_workers.set()
+
+    monkeypatch.setattr(pipeline, "_execute_shard", fake_execute_shard)
+    pairs = [(f"source-{index}", f"target-{index}") for index in range(4)]
+
+    pipeline.execute(plan, session_pairs=pairs)
+
+    assert (5, "source-0") in processed
+    assert (6, "source-0") in processed
 
 
 def test_execute_refreshes_fast_url_immediately_with_worker_session(
