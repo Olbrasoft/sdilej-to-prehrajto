@@ -2689,20 +2689,9 @@
           "attempted_at": "2026-08-29T20:16:02.617658+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32467481",
-        "display_name": "Iron Man (2008) 4K CZ Dabing",
-        "planned_at": "2026-08-30T02:44:34.810861+00:00"
-      },
-      "claim": {
-        "worker_id": "1fdb2dc25d5541049583a6c52f9c38d9-shard-0",
-        "claimed_at": "2026-08-30T03:12:26.017762+00:00",
-        "lease_expires_at": "2026-08-30T09:12:26.017762+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28943618",
-        "size_bytes": 5419228040,
-        "prepared_at": "2026-08-30T03:12:30.161483+00:00"
+        "uploaded_at": "2026-08-30T03:30:29.391766+00:00"
       }
     },
     "22153": {
@@ -3405,7 +3394,15 @@
       "attempts": []
     },
     "503": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31649316",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T03:31:14.591588+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31649316",
         "display_name": "Soumrak mrtvých (2004) 4K CZ Dabing",
@@ -3490,6 +3487,16 @@
         "source_id": "31218016",
         "display_name": "Krotitelé duchů (1984) 4K CZ Dabing",
         "planned_at": "2026-08-30T02:44:35.531263+00:00"
+      },
+      "claim": {
+        "worker_id": "1fdb2dc25d5541049583a6c52f9c38d9-shard-0",
+        "claimed_at": "2026-08-30T03:31:14.682370+00:00",
+        "lease_expires_at": "2026-08-30T09:31:14.682370+00:00"
+      },
+      "prepared": {
+        "target_video_id": "28943917",
+        "size_bytes": 4987727093,
+        "prepared_at": "2026-08-30T03:31:18.600089+00:00"
       }
     },
     "449": {
@@ -3533,20 +3540,9 @@
     },
     "500": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33846131",
-        "display_name": "Uprchlík (1993) 4K CZ Dabing",
-        "planned_at": "2026-08-30T02:44:35.621386+00:00"
-      },
-      "claim": {
-        "worker_id": "1fdb2dc25d5541049583a6c52f9c38d9-shard-1",
-        "claimed_at": "2026-08-30T03:12:48.180886+00:00",
-        "lease_expires_at": "2026-08-30T09:12:48.180886+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28943619",
-        "size_bytes": 5739233792,
-        "prepared_at": "2026-08-30T03:12:51.798296+00:00"
+        "uploaded_at": "2026-08-30T03:31:37.312910+00:00"
       }
     },
     "430": {
@@ -3582,20 +3578,9 @@
     },
     "12841": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "31912326",
-        "display_name": "Tygr a drak (2000) 4K CZ Dabing",
-        "planned_at": "2026-08-30T02:44:35.801728+00:00"
-      },
-      "claim": {
-        "worker_id": "1fdb2dc25d5541049583a6c52f9c38d9-shard-3",
-        "claimed_at": "2026-08-30T03:13:45.844042+00:00",
-        "lease_expires_at": "2026-08-30T09:13:45.844042+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28943633",
-        "size_bytes": 5805645457,
-        "prepared_at": "2026-08-30T03:13:49.333053+00:00"
+        "uploaded_at": "2026-08-30T03:33:10.413615+00:00"
       }
     },
     "472": {
@@ -3643,7 +3628,15 @@
       "attempts": []
     },
     "22773": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30074417",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T03:32:22.539156+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30074417",
         "display_name": "Brazil (1985) 1080p CZ Dabing",
@@ -3680,10 +3673,9 @@
     },
     "11869": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "14643765",
-        "display_name": "Čas probuzení (1990) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T02:44:36.163466+00:00"
+      "upload": {
+        "target_video_id": "28943957",
+        "uploaded_at": "2026-08-30T03:40:05.451247+00:00"
       }
     },
     "19553": {
@@ -87905,5 +87897,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-08-30T03:24:40.523039+00:00"
+  "updated_at": "2026-08-30T03:40:05.451265+00:00"
 }
