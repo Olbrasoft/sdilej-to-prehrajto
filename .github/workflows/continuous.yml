@@ -56,7 +56,7 @@ jobs:
           while [ "$(date +%s)" -lt "$sync_deadline_epoch" ]; do
             git pull --rebase origin main
             sync_output=$(sdilej-sync continuous \
-              --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '25' }}" \
+              --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '50' }}" \
               --persist-git-state 2>&1 | tee /dev/stderr)
             if grep -q "planned=0" <<<"$sync_output"; then
               sleep 120
