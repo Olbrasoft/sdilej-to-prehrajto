@@ -110,8 +110,18 @@ class TargetSession:
     def __init__(self):
         self.uploaded_body = b""
         self.renamed_to = None
+        self.uploaded_count = 0
 
-    def get(self, *_args, **_kwargs) -> Response:
+    def get(self, url, *_args, **_kwargs) -> Response:
+        if "statistiky" in url:
+            return Response(text=f"Nahráno videí celkem {self.uploaded_count}")
+        if "nahrana-videa" in url and self.renamed_to:
+            return Response(
+                text=(
+                    f'<div data-video-id="777"><h3>{self.renamed_to}</h3>'
+                    "videoId=777</div>"
+                )
+            )
         return Response()
 
     def post(self, url, **kwargs) -> Response:
@@ -134,6 +144,7 @@ class TargetSession:
                     break
                 chunks.append(chunk)
             self.uploaded_body = b"".join(chunks)
+            self.uploaded_count += 1
             return Response(status_code=201)
         self.renamed_to = kwargs["data"]["uploadedVideoListing-name"]
         return Response()
@@ -196,6 +207,35 @@ def test_relay_upload_rejects_a_stalled_target_request() -> None:
             )
     finally:
         release.set()
+
+
+def test_relay_upload_requires_target_statistics_confirmation() -> None:
+    source_payload = b"small-video-payload"
+    target = TargetSession()
+    candidate = Candidate(
+        "1",
+        "https://sdilej.cz/1/film.mkv",
+        "film",
+        filename="film.mkv",
+        mime_type="video/x-matroska",
+        download_url="https://data.sdilej.cz/file",
+    )
+
+    def upload_without_statistics(*args, **kwargs):
+        response = target.post(*args, **kwargs)
+        target.uploaded_count = 0
+        return response
+
+    with pytest.raises(PrehrajtoError, match="statistics did not confirm"):
+        relay_upload(
+            target,
+            SourceSession(source_payload),
+            candidate,
+            "Film (2000) 4K",
+            upload_requester=upload_without_statistics,
+            confirmation_timeout_seconds=0.01,
+            confirmation_interval_seconds=0.001,
+        )
 
 
 def test_prepared_state_blocks_automatic_duplicate_retry(tmp_path) -> None:

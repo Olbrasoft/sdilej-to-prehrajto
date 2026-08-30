@@ -224,6 +224,21 @@ def uploaded_video_count(session: requests.Session) -> int | None:
     return int(match.group(1)) if match else None
 
 
+def upload_confirmed_after_baseline(
+    session: requests.Session,
+    video_id: str,
+    display_name: str,
+    baseline_count: int | None,
+) -> bool:
+    current_count = uploaded_video_count(session)
+    return (
+        baseline_count is not None
+        and current_count is not None
+        and current_count >= baseline_count + 1
+        and uploaded_video_confirmed(session, video_id, display_name)
+    )
+
+
 @dataclass(frozen=True)
 class UploadResult:
     video_id: str
@@ -242,6 +257,8 @@ def relay_upload(
     upload_requester: Callable[..., requests.Response] | None = None,
     stall_timeout_seconds: float = 300,
     monitor_interval_seconds: float = 10,
+    confirmation_timeout_seconds: float = 300,
+    confirmation_interval_seconds: float = 5,
 ) -> UploadResult:
     if not candidate.download_url:
         raise PrehrajtoError("Candidate has no authenticated download URL")
@@ -334,14 +351,8 @@ def relay_upload(
                         target_video_id=video_id,
                     )
                 continue
-            current_count = uploaded_video_count(target_session)
-            count_confirmed = (
-                baseline_count is not None
-                and current_count is not None
-                and current_count >= baseline_count + 1
-            )
-            if count_confirmed and uploaded_video_confirmed(
-                target_session, video_id, display_name
+            if upload_confirmed_after_baseline(
+                target_session, video_id, display_name, baseline_count
             ):
                 print(
                     "upload_confirmed=statistics_and_uploaded_listing",
@@ -368,6 +379,17 @@ def relay_upload(
                 target_video_id=video_id,
             )
         rename_video(target_session, video_id, display_name)
+        confirmation_deadline = time.monotonic() + confirmation_timeout_seconds
+        while not upload_confirmed_after_baseline(
+            target_session, video_id, display_name, baseline_count
+        ):
+            if time.monotonic() >= confirmation_deadline:
+                raise PrehrajtoError(
+                    "Target statistics did not confirm completed relay",
+                    target_video_id=video_id,
+                )
+            time.sleep(confirmation_interval_seconds)
+        print("upload_confirmed=statistics_and_uploaded_listing", flush=True)
         return UploadResult(video_id, size, reader.position)
     finally:
         source_response.close()
