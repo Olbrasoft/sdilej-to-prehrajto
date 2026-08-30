@@ -3483,20 +3483,9 @@
     },
     "11516": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "31218016",
-        "display_name": "Krotitelé duchů (1984) 4K CZ Dabing",
-        "planned_at": "2026-08-30T02:44:35.531263+00:00"
-      },
-      "claim": {
-        "worker_id": "1fdb2dc25d5541049583a6c52f9c38d9-shard-0",
-        "claimed_at": "2026-08-30T03:31:14.682370+00:00",
-        "lease_expires_at": "2026-08-30T09:31:14.682370+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28943917",
-        "size_bytes": 4987727093,
-        "prepared_at": "2026-08-30T03:31:18.600089+00:00"
+        "uploaded_at": "2026-08-30T03:44:58.699917+00:00"
       }
     },
     "449": {
@@ -3591,10 +3580,9 @@
     },
     "11907": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32689558",
-        "display_name": "Misery nechce zemřít (1990) 4K CZ Dabing",
-        "planned_at": "2026-08-30T02:44:35.891133+00:00"
+      "upload": {
+        "target_video_id": "28944367",
+        "uploaded_at": "2026-08-30T03:57:47.993166+00:00"
       }
     },
     "10899": {
@@ -3694,7 +3682,15 @@
       "attempts": []
     },
     "457": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32806833",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T03:58:33.184583+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32806833",
         "display_name": "Kramerová versus Kramer (1979) 4K CZ Dabing",
@@ -87897,5 +87893,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-08-30T03:40:05.451265+00:00"
+  "updated_at": "2026-08-30T03:58:33.184601+00:00"
 }
