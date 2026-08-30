@@ -309,7 +309,7 @@ class SdilejProvider:
     ) -> requests.Response:
         # Upload workers use independent authenticated sessions. Serializing
         # those detail refreshes behind the discovery rate-limit lock turns one
-        # slow 45-second request into a three-minute four-worker startup gap.
+        # slow 45-second request into a several-minute six-worker startup gap.
         # Keep discovery throttled, but allow independent worker sessions to
         # refresh their already-approved source URLs concurrently.
         if session is not None:

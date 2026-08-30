@@ -33,7 +33,7 @@ jobs:
       actions: read
       contents: write
     env:
-      UPLOAD_WORKERS: "4"
+      UPLOAD_WORKERS: "6"
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}

@@ -19,7 +19,7 @@ přepošle do multipart uploadu Přehraj.to. Celý film se na runner neukládá.
 Příprava a upload jsou dva nezávislé dlouhodobé procesy. Producer opakuje
 vyhledávání a jazykové ověřování po dobu až 330 minut jednoho runneru a může
 postupně připravit celý backlog. Uploader po stejnou dobu opakovaně odebírá
-připravené dávky po čtyřech přenosech současně. Pokud je fronta krátce prázdná,
+připravené dávky po šesti přenosech současně. Pokud je fronta krátce prázdná,
 čeká dvě minuty a znovu načte nové checkpointy produceru. Oba hodinové triggery
 se díky vlastním concurrency skupinám průběžně střídají bez vzájemného blokování.
 
@@ -29,7 +29,7 @@ se checkpointují po čtyřech, pokusy a chyby po 25 změnách a vše se ještě
 uloží na konci workflow, aby Git historie nerostla o commit pro každý claim.
 Před opakováním se přesný název ověří v nahraných videích, takže
 ani poslední necommitnutá dávka po pádu nevytvoří tichý duplicitní upload.
-Upload běží ve čtyřech nezávislých workerech. Před převzetím filmu
+Upload běží v šesti nezávislých workerech. Před převzetím filmu
 worker atomicky uloží šestihodinový lease; ostatní workery jej přeskočí. Úspěch
 claim odstraní, běžná chyba jej okamžitě uvolní a po pádu procesu jej lze znovu
 převzít až po vypršení lease.

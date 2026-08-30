@@ -105,7 +105,7 @@ def parser() -> argparse.ArgumentParser:
         default=int(os.environ.get("PREPARE_WORKERS", "1")),
     )
     result.add_argument(
-        "--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "4"))
+        "--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "6"))
     )
     return result
 
@@ -129,8 +129,8 @@ def main() -> int:
         raise ValueError(f"Limit must be between 1 and {maximum}")
     if args.mode == "continuous" and os.environ.get("CONTINUOUS_ENABLED") != "true":
         raise RuntimeError("Continuous mode requires CONTINUOUS_ENABLED=true")
-    if not 1 <= args.workers <= 4:
-        raise ValueError("--workers must be between 1 and 4")
+    if not 1 <= args.workers <= 6:
+        raise ValueError("--workers must be between 1 and 6")
     if not 0 <= args.prepare_runtime_minutes <= 330:
         raise ValueError("--prepare-runtime-minutes must be between 0 and 330")
     if not 1 <= args.prepare_workers <= 2:
@@ -263,7 +263,7 @@ def main() -> int:
     additional_workers = additional_worker_count(args.workers, len(plan))
     if additional_workers:
         # Every login pair performs several independent network requests. Doing
-        # three pairs serially can leave a four-worker run apparently idle for
+        # five pairs serially can leave a six-worker run apparently idle for
         # minutes before the first target video is prepared.
         def login_worker_pair() -> tuple[object, object]:
             return (

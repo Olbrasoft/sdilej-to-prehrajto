@@ -257,7 +257,7 @@ def test_execute_distributes_rows_across_four_session_shards(
         selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
     )
     plan = []
-    for film_id in range(1, 5):
+    for film_id in range(1, 7):
         film = Film(film_id, f"film-{film_id}", f"Film {film_id}", None, 2000, 90, "en")
         selected = Candidate(
             str(film_id),
@@ -298,10 +298,10 @@ def test_execute_distributes_rows_across_four_session_shards(
         "sdilej_to_prehrajto.pipeline.uploaded_video_id_by_name",
         lambda _session, _name: None,
     )
-    pairs = [(f"source-{index}", f"target-{index}") for index in range(4)]
+    pairs = [(f"source-{index}", f"target-{index}") for index in range(6)]
     pipeline.execute(plan, session_pairs=pairs)
-    assert set(used_sources) == {f"source-{index}" for index in range(4)}
-    assert all(state.uploaded(film_id) for film_id in range(1, 5))
+    assert set(used_sources) == {f"source-{index}" for index in range(6)}
+    assert all(state.uploaded(film_id) for film_id in range(1, 7))
 
 
 def test_execute_uses_shared_queue_after_initial_worker_rows(

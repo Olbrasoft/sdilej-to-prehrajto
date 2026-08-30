@@ -20,7 +20,7 @@ Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme do
 - [x] Implementovat tvorbu cílového názvu podle původu filmu a ověřeného jazyka.
 - [x] Implementovat průchozí streamování ze Sdílej.cz do multipart uploadu Přehraj.to bez uložení celého filmu na disk.
 - [x] Implementovat průběžnou přípravu ověřených zdrojů nezávisle na uploadu.
-- [x] Implementovat čtyři paralelní upload workery s atomickými lease claimy, okamžitým uvolněním po chybě a expirací po pádu procesu.
+- [x] Implementovat šest paralelních upload workerů s atomickými lease claimy, okamžitým uvolněním po chybě a expirací po pádu procesu.
 - [x] Implementovat oddělené GitHub Actions workflow pro plán, pilotní upload a explicitně povolený kontinuální provoz.
 - [x] Ukládat po úspěšném uploadu stabilní detailovou URL vybraného zdroje pro budoucí upload na další účet.
 - [x] Spustit a ručně ověřit pilot jednoho filmu.
@@ -50,7 +50,7 @@ Tento soubor slouží jako průběžný plán práce. Jednotlivé body budeme do
 - Průchozí přenos musí používat omezenou paměť, hlídat minimální rychlost a timeout a zapsat úspěch až po potvrzení dokončeného uploadu Přehraj.to.
 - Produkční workflow poběží na GitHub Actions stejně jako předchozí synchronizační projekty. Přihlašovací údaje budou pouze v GitHub Secrets a zdrojový detail se znovu vyřeší těsně před přenosem.
 - Po úspěšném uploadu se k filmu uloží stabilní detailová URL vybraného souboru ze Sdílej.cz (např. `https://sdilej.cz/32460472/...mkv`) do verzovaného manifestu. Dočasná URL z tlačítka `Stáhnout rychle` se nikdy neukládá; při uploadu na další účet se z detailu vyřeší znovu.
-- Ověřený zdroj se ukládá atomicky ihned po výběru, ještě před uploadem. Samostatné přípravné workflow proto může kontinuálně plnit frontu, zatímco čtyři upload workery současně přenášejí už připravené položky.
+- Ověřený zdroj se ukládá atomicky ihned po výběru, ještě před uploadem. Samostatné přípravné workflow proto může kontinuálně plnit frontu, zatímco šest upload workerů současně přenáší už připravené položky.
 - Producer i uploader jsou samostatné dlouhodobé smyčky. Producer může bez pevného počtu připravovat celý zbývající backlog; uploader opakovaně odebírá ověřenou frontu a při jejím krátkém vyprázdnění ji znovu načítá, aniž by ukončil runner.
 - Každý upload worker musí před přenosem získat výhradní šestihodinový lease. Aktivní lease brání dvojímu převzetí, úspěch nebo zachycená chyba jej odstraní a po tvrdém pádu se položka odblokuje expirací.
 - Repozitář nesmí vytvářet desetitisíce per-film souborů ani commit po každém claimu. Ověřené zdroje se vedou v jediném průběžně kompaktovaném JSONL manifestu. Zdroje a úspěšné uploady se checkpointují po čtyřech, méně důležité pokusy a chyby po 25 změnách. Po dokončení migrace se dočasný stav sloučí s manifestem do jednoho výsledného katalogu a odstraní.
