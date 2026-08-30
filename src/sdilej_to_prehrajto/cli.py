@@ -122,6 +122,12 @@ def main() -> int:
         else None
     )
     state = StateStore(args.state, on_persist=persister)
+    if args.mode in {"upload", "continuous"}:
+        released_claims = state.release_claims_from_other_run(
+            os.environ.get("GITHUB_RUN_ID")
+        )
+        if released_claims:
+            print(f"released_orphaned_claims={released_claims}", flush=True)
     pipeline = SyncPipeline(
         source_provider=SdilejProvider(source_session, WhisperLanguageDetector()),
         source_session=source_session,

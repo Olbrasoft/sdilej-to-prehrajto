@@ -234,6 +234,20 @@ def test_active_claim_reports_only_unexpired_lease(tmp_path) -> None:
     assert not state.actively_claimed(1, at=claimed_at + timedelta(hours=7))
 
 
+def test_new_actions_run_releases_only_orphaned_claims(tmp_path, monkeypatch) -> None:
+    state = StateStore(tmp_path / "state.json")
+    monkeypatch.setenv("GITHUB_RUN_ID", "old-run")
+    assert state.claim_upload(1, "old-worker")
+    monkeypatch.setenv("GITHUB_RUN_ID", "current-run")
+    assert state.claim_upload(2, "current-worker")
+
+    released = state.release_claims_from_other_run("current-run")
+
+    assert released == 1
+    assert "claim" not in state.snapshot(1)
+    assert state.snapshot(2)["claim"]["run_id"] == "current-run"
+
+
 def test_upload_failure_releases_claim_and_prepared_checkpoint(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     assert state.claim_upload(1, "shard-0")

@@ -112,8 +112,31 @@ class StateStore:
                 "claimed_at": now.isoformat(),
                 "lease_expires_at": (now + lease).isoformat(),
             }
+            if run_id := os.environ.get("GITHUB_RUN_ID"):
+                row["claim"]["run_id"] = run_id
             self.save("claim")
             return True
+
+    def release_claims_from_other_run(self, current_run_id: str | None) -> int:
+        """Release leases left by a completed Actions runner.
+
+        The upload workflow has a repository-wide concurrency lock, so once a
+        new run starts no previous uploader can still own a live transfer.
+        Claims without a run ID predate this ownership marker and are orphaned
+        as well.
+        """
+        if not current_run_id:
+            return 0
+        with self._lock:
+            released = 0
+            for row in self.data["films"].values():
+                claim = row.get("claim")
+                if claim and claim.get("run_id") != current_run_id:
+                    row.pop("claim", None)
+                    released += 1
+            if released:
+                self.save("orphan_claims")
+            return released
 
     def deferred(
         self,
