@@ -3537,21 +3537,9 @@
           "attempted_at": "2026-08-30T03:15:08.103619+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34846817",
-        "display_name": "Posedlost (2026) 4K CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.015805+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-2",
-        "claimed_at": "2026-08-30T09:22:06.355618+00:00",
-        "lease_expires_at": "2026-08-30T15:22:06.355618+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28951035",
-        "size_bytes": 17549747631,
-        "prepared_at": "2026-08-30T09:22:09.342251+00:00"
+        "uploaded_at": "2026-08-30T10:11:08.068432+00:00"
       }
     },
     "516": {
@@ -5751,21 +5739,9 @@
     },
     "21310": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "25404711",
-        "display_name": "Přímo nad hlavou (1949) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.814225+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-0",
-        "claimed_at": "2026-08-30T09:51:24.381837+00:00",
-        "lease_expires_at": "2026-08-30T15:51:24.381837+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28951672",
-        "size_bytes": 4069629783,
-        "prepared_at": "2026-08-30T09:51:27.424287+00:00"
+        "uploaded_at": "2026-08-30T10:05:18.216499+00:00"
       }
     },
     "25012": {
@@ -5795,21 +5771,9 @@
     },
     "25025": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "31018756",
-        "display_name": "Příliš dlouhé zásnuby (2004) 720p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:01.992239+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-1",
-        "claimed_at": "2026-08-30T09:57:04.899731+00:00",
-        "lease_expires_at": "2026-08-30T15:57:04.899731+00:00",
-        "run_id": "33299159457"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28951769",
-        "size_bytes": 4179844011,
-        "prepared_at": "2026-08-30T09:57:08.219774+00:00"
+        "uploaded_at": "2026-08-30T10:10:05.167493+00:00"
       }
     },
     "35520": {
@@ -5867,7 +5831,15 @@
       "attempts": []
     },
     "21318": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25404956",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T10:02:32.789282+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25404956",
         "display_name": "Pistolník (1950) 1080p CZ Dabing",
@@ -5886,6 +5858,17 @@
         "source_id": "11876351",
         "display_name": "Kellyho hrdinové (1970) 1080p CZ Dabing",
         "planned_at": "2026-08-30T09:22:02.170273+00:00"
+      },
+      "claim": {
+        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-3",
+        "claimed_at": "2026-08-30T10:02:32.887020+00:00",
+        "lease_expires_at": "2026-08-30T16:02:32.887020+00:00",
+        "run_id": "33299159457"
+      },
+      "prepared": {
+        "target_video_id": "28951877",
+        "size_bytes": 3417522754,
+        "prepared_at": "2026-08-30T10:02:35.952641+00:00"
       }
     },
     "33323": {
@@ -5893,10 +5876,9 @@
     },
     "11586": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "29944571",
-        "display_name": "Purpurová růže z Káhiry (1985) 1080p CZ Dabing",
-        "planned_at": "2026-08-30T09:22:02.258943+00:00"
+      "upload": {
+        "target_video_id": "28951926",
+        "uploaded_at": "2026-08-30T10:09:12.361228+00:00"
       }
     },
     "23193": {
@@ -5908,10 +5890,29 @@
         "source_id": "27422437",
         "display_name": "Bílé Vánoce (1954) 1080p CZ Dabing",
         "planned_at": "2026-08-30T09:22:02.347411+00:00"
+      },
+      "claim": {
+        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-0",
+        "claimed_at": "2026-08-30T10:09:12.459473+00:00",
+        "lease_expires_at": "2026-08-30T16:09:12.459473+00:00",
+        "run_id": "33299159457"
+      },
+      "prepared": {
+        "target_video_id": "28951992",
+        "size_bytes": 5320069464,
+        "prepared_at": "2026-08-30T10:09:15.610712+00:00"
       }
     },
     "16378": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33876920",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-08-30T10:10:50.393593+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33876920",
         "display_name": "Léto s Marnie (2014) 1080p CZ Dabing",
@@ -5927,6 +5928,17 @@
         "source_id": "15390142",
         "display_name": "Odtud až na věčnost (1953) SD CZ Dabing",
         "planned_at": "2026-08-30T09:22:02.524612+00:00"
+      },
+      "claim": {
+        "worker_id": "2ff9310e85cf4ae1a77193ef819eb653-shard-1",
+        "claimed_at": "2026-08-30T10:10:50.495909+00:00",
+        "lease_expires_at": "2026-08-30T16:10:50.495909+00:00",
+        "run_id": "33299159457"
+      },
+      "prepared": {
+        "target_video_id": "28952018",
+        "size_bytes": 1797940600,
+        "prepared_at": "2026-08-30T10:10:54.354385+00:00"
       }
     },
     "31690": {
@@ -88590,5 +88602,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-08-30T10:01:45.461823+00:00"
+  "updated_at": "2026-08-30T10:11:08.068451+00:00"
 }
