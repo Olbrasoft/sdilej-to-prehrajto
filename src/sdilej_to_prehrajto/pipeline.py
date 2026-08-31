@@ -458,7 +458,13 @@ class SyncPipeline:
     ) -> None:
         pairs = session_pairs or [(self.source_session, self.target_session)]
         execution_id = uuid.uuid4().hex
-        worker_count = min(len(pairs), len(plan))
+        # A continuous run may start with only one verified source while the
+        # producer is still filling the queue. Keep every configured worker
+        # available so newly verified sources can be consumed immediately
+        # instead of leaving the uploader single-threaded for the whole batch.
+        worker_count = (
+            len(pairs) if refill_plan is not None else min(len(pairs), len(plan))
+        )
         if worker_count == 0:
             return
         pending = deque(plan)

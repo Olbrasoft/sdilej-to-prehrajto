@@ -390,6 +390,57 @@ def test_execute_refills_fast_workers_while_slow_tail_is_running(
     assert {film_id for film_id, _source in processed} == {1, 2, 3, 4, 5}
 
 
+def test_execute_keeps_all_workers_available_for_continuous_refill(
+    tmp_path, monkeypatch
+) -> None:
+    pipeline = SyncPipeline(
+        source_provider=object(),
+        source_session="source-default",
+        target_session="target-default",
+        state=StateStore(tmp_path / "state.json"),
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    initial = [{"film": {"cr_film_id": 1}}]
+    replenished = [{"film": {"cr_film_id": film_id}} for film_id in (2, 3)]
+    initial_finished = threading.Event()
+    refill_seen = threading.Event()
+    processed: list[tuple[int, str]] = []
+    refill_calls = 0
+
+    def fake_execute_shard(rows, source, _target, _worker_id):
+        film_id = rows[0]["film"]["cr_film_id"]
+        processed.append((film_id, source))
+        if film_id == 1:
+            assert refill_seen.wait(1)
+            initial_finished.set()
+
+    def refill_plan():
+        nonlocal refill_calls
+        refill_calls += 1
+        if refill_calls == 1:
+            assert not initial_finished.is_set()
+            refill_seen.set()
+            return replenished
+        return []
+
+    monkeypatch.setattr(pipeline, "_execute_shard", fake_execute_shard)
+
+    pipeline.execute(
+        initial,
+        session_pairs=[
+            ("source-0", "target-0"),
+            ("source-1", "target-1"),
+            ("source-2", "target-2"),
+        ],
+        refill_plan=refill_plan,
+        refill_interval_seconds=0.001,
+    )
+
+    assert {film_id for film_id, _source in processed} == {1, 2, 3}
+    assert refill_calls >= 1
+
+
 def test_execute_refreshes_fast_url_immediately_with_worker_session(
     tmp_path, monkeypatch
 ) -> None:
