@@ -54970,21 +54970,9 @@
           "attempted_at": "2026-09-01T06:11:23.618959+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33876837",
-        "display_name": "Rambo II (1985) 4K CZ Dabing",
-        "planned_at": "2026-09-01T06:41:30.433442+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-2",
-        "claimed_at": "2026-09-01T06:41:30.595530+00:00",
-        "lease_expires_at": "2026-09-01T12:41:30.595530+00:00",
-        "run_id": "33466636431"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28993939",
-        "size_bytes": 4850022001,
-        "prepared_at": "2026-09-01T06:41:38.935737+00:00"
+        "uploaded_at": "2026-09-01T06:53:39.972101+00:00"
       }
     },
     "4053": {
@@ -55610,12 +55598,19 @@
           "reason": "SdilejError",
           "permanent": false,
           "attempted_at": "2026-09-01T06:26:56.099027+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12076499",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:57:44.793017+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12076499",
         "display_name": "Ptačí průvodce pro všechno (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T06:26:10.442129+00:00"
+        "planned_at": "2026-09-01T06:56:59.330685+00:00"
       }
     },
     "21823": {
@@ -55923,7 +55918,11 @@
       "attempts": []
     },
     "17130": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "28994237",
+        "uploaded_at": "2026-09-01T06:59:20.679442+00:00"
+      }
     },
     "25200": {
       "attempts": []
@@ -56053,7 +56052,20 @@
       }
     },
     "24023": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29918025",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:58:16.495008+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29918025",
+        "display_name": "Nevím nic, ale řeknu všechno (1973) 720p CZ Dabing",
+        "planned_at": "2026-09-01T06:57:30.993407+00:00"
+      }
     },
     "22393": {
       "attempts": []
@@ -56641,21 +56653,9 @@
     },
     "6177": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34794548",
-        "display_name": "Modrous (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T06:45:23.093019+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-0",
-        "claimed_at": "2026-09-01T06:45:23.608226+00:00",
-        "lease_expires_at": "2026-09-01T12:45:23.608226+00:00",
-        "run_id": "33466636431"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28994029",
-        "size_bytes": 3062619125,
-        "prepared_at": "2026-09-01T06:45:27.528003+00:00"
+        "uploaded_at": "2026-09-01T06:52:15.880992+00:00"
       }
     },
     "28513": {
@@ -92719,5 +92719,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-01T06:47:53.441389+00:00"
+  "updated_at": "2026-09-01T06:59:20.679459+00:00"
 }
