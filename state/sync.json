@@ -61718,6 +61718,17 @@
         "source_id": "32453423",
         "display_name": "Godzilla (2014) 4K CZ Dabing",
         "planned_at": "2026-09-01T17:20:01.518113+00:00"
+      },
+      "claim": {
+        "worker_id": "92db94e705cc45f0a21d3879b432ab15-shard-2",
+        "claimed_at": "2026-09-01T17:20:08.708731+00:00",
+        "lease_expires_at": "2026-09-01T23:20:08.708731+00:00",
+        "run_id": "33519670358"
+      },
+      "prepared": {
+        "target_video_id": "29007248",
+        "size_bytes": 5207011740,
+        "prepared_at": "2026-09-01T17:20:12.525390+00:00"
       }
     },
     "4744": {
@@ -61741,21 +61752,9 @@
     },
     "4786": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "11502755",
-        "display_name": "Lucy (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-01T15:21:42.026040+00:00"
-      },
-      "claim": {
-        "worker_id": "92db94e705cc45f0a21d3879b432ab15-shard-5",
-        "claimed_at": "2026-09-01T16:01:46.517430+00:00",
-        "lease_expires_at": "2026-09-01T22:01:46.517430+00:00",
-        "run_id": "33519670358"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29006036",
-        "size_bytes": 13213391248,
-        "prepared_at": "2026-09-01T16:01:52.102207+00:00"
+        "uploaded_at": "2026-09-01T17:21:00.180936+00:00"
       }
     },
     "25096": {
@@ -61800,10 +61799,9 @@
           "attempted_at": "2026-09-01T14:58:54.445346+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33204800",
-        "display_name": "Banánový Joe (1982) 4K CZ Dabing",
-        "planned_at": "2026-09-01T17:20:01.575850+00:00"
+      "upload": {
+        "target_video_id": "29007263",
+        "uploaded_at": "2026-09-01T17:45:44.320140+00:00"
       }
     },
     "9260": {
@@ -61993,10 +61991,9 @@
           "attempted_at": "2026-09-01T15:05:43.537339+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22878321",
-        "display_name": "Skvělý plán (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T17:20:01.649168+00:00"
+      "upload": {
+        "target_video_id": "29007400",
+        "uploaded_at": "2026-09-01T17:43:38.749060+00:00"
       }
     },
     "16716": {
@@ -62683,6 +62680,17 @@
         "source_id": "30779610",
         "display_name": "Hájili jsme hrad (1969) 1080p CZ Dabing",
         "planned_at": "2026-09-01T17:20:01.795861+00:00"
+      },
+      "claim": {
+        "worker_id": "92db94e705cc45f0a21d3879b432ab15-shard-1",
+        "claimed_at": "2026-09-01T17:33:48.996956+00:00",
+        "lease_expires_at": "2026-09-01T23:33:48.996956+00:00",
+        "run_id": "33519670358"
+      },
+      "prepared": {
+        "target_video_id": "29007433",
+        "size_bytes": 8710068657,
+        "prepared_at": "2026-09-01T17:33:53.141706+00:00"
       }
     },
     "32006": {
@@ -62712,6 +62720,17 @@
         "source_id": "33745769",
         "display_name": "Sedm neohrožených (1983) 1080p CZ Dabing",
         "planned_at": "2026-09-01T17:20:01.852934+00:00"
+      },
+      "claim": {
+        "worker_id": "92db94e705cc45f0a21d3879b432ab15-shard-0",
+        "claimed_at": "2026-09-01T17:43:38.834178+00:00",
+        "lease_expires_at": "2026-09-01T23:43:38.834178+00:00",
+        "run_id": "33519670358"
+      },
+      "prepared": {
+        "target_video_id": "29007585",
+        "size_bytes": 2510076198,
+        "prepared_at": "2026-09-01T17:43:42.999063+00:00"
       }
     },
     "26344": {
@@ -62886,21 +62905,9 @@
     },
     "26186": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "30069934",
-        "display_name": "Řezník (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T15:21:44.293511+00:00"
-      },
-      "claim": {
-        "worker_id": "92db94e705cc45f0a21d3879b432ab15-shard-1",
-        "claimed_at": "2026-09-01T17:06:44.245420+00:00",
-        "lease_expires_at": "2026-09-01T23:06:44.245420+00:00",
-        "run_id": "33519670358"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29007057",
-        "size_bytes": 4476384044,
-        "prepared_at": "2026-09-01T17:06:47.970877+00:00"
+        "uploaded_at": "2026-09-01T17:33:48.871818+00:00"
       }
     },
     "14684": {
@@ -63086,22 +63093,20 @@
       "attempts": []
     },
     "15516": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "34699724",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29007164",
+          "attempted_at": "2026-09-01T17:31:53.760607+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34699724",
         "display_name": "Elvis & Nixon (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-01T15:21:44.506736+00:00"
-      },
-      "claim": {
-        "worker_id": "92db94e705cc45f0a21d3879b432ab15-shard-0",
-        "claimed_at": "2026-09-01T17:14:17.380758+00:00",
-        "lease_expires_at": "2026-09-01T23:14:17.380758+00:00",
-        "run_id": "33519670358"
-      },
-      "prepared": {
-        "target_video_id": "29007164",
-        "size_bytes": 1804767450,
-        "prepared_at": "2026-09-01T17:14:21.233072+00:00"
       }
     },
     "12149": {
@@ -94165,5 +94170,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-01T17:20:06.135863+00:00"
+  "updated_at": "2026-09-01T17:45:44.320155+00:00"
 }
