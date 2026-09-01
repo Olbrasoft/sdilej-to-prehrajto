@@ -61235,21 +61235,9 @@
     },
     "15294": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "31247857",
-        "display_name": "Vřískot 6 (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-01T13:45:47.202641+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-3",
-        "claimed_at": "2026-09-01T14:06:07.901968+00:00",
-        "lease_expires_at": "2026-09-01T20:06:07.901968+00:00",
-        "run_id": "33487816884"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29003694",
-        "size_bytes": 5594052947,
-        "prepared_at": "2026-09-01T14:06:11.578878+00:00"
+        "uploaded_at": "2026-09-01T14:36:20.832558+00:00"
       }
     },
     "25475": {
@@ -61361,21 +61349,9 @@
     },
     "14868": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "23187406",
-        "display_name": "Mupeti Haunted Mansion: Strašidelný dům (2021) 4K CZ Dabing",
-        "planned_at": "2026-09-01T13:45:47.742522+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-4",
-        "claimed_at": "2026-09-01T14:22:13.467244+00:00",
-        "lease_expires_at": "2026-09-01T20:22:13.467244+00:00",
-        "run_id": "33487816884"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29003911",
-        "size_bytes": 6448650747,
-        "prepared_at": "2026-09-01T14:22:17.421632+00:00"
+        "uploaded_at": "2026-09-01T14:55:28.533143+00:00"
       }
     },
     "20989": {
@@ -61483,21 +61459,9 @@
     },
     "4678": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "27557469",
-        "display_name": "Země zítřka (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T13:45:47.953097+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-2",
-        "claimed_at": "2026-09-01T14:23:47.744069+00:00",
-        "lease_expires_at": "2026-09-01T20:23:47.744069+00:00",
-        "run_id": "33487816884"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29003928",
-        "size_bytes": 2703577837,
-        "prepared_at": "2026-09-01T14:23:51.960785+00:00"
+        "uploaded_at": "2026-09-01T14:38:13.036216+00:00"
       }
     },
     "12136": {
@@ -61514,7 +61478,15 @@
       "attempts": []
     },
     "4777": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28393730",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T14:26:18.573380+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28393730",
         "display_name": "Trestná lavice (2005) 1080p CZ Dabing",
@@ -61523,10 +61495,9 @@
     },
     "6566": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32832395",
-        "display_name": "Šedovlasý pán (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T13:45:48.167148+00:00"
+      "upload": {
+        "target_video_id": "29003954",
+        "uploaded_at": "2026-09-01T14:36:13.512827+00:00"
       }
     },
     "4839": {
@@ -61563,7 +61534,15 @@
       "attempts": []
     },
     "15923": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31675206",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T14:36:58.743448+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31675206",
         "display_name": "Sáně smrti (2023) 1080p CZ Dabing",
@@ -61604,7 +61583,15 @@
       "attempts": []
     },
     "4642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31064498",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T14:37:06.074599+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31064498",
         "display_name": "Rychle a zběsile: Hobbs a Shaw (2019) 4K CZ Dabing",
@@ -61620,6 +61607,17 @@
         "source_id": "32457317",
         "display_name": "Predátoři (2010) 4K CZ Dabing",
         "planned_at": "2026-09-01T13:45:48.493142+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-1",
+        "claimed_at": "2026-09-01T14:36:58.847716+00:00",
+        "lease_expires_at": "2026-09-01T20:36:58.847716+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "29004087",
+        "size_bytes": 5012352934,
+        "prepared_at": "2026-09-01T14:37:02.951259+00:00"
       }
     },
     "27257": {
@@ -61643,6 +61641,17 @@
         "source_id": "34355554",
         "display_name": "Mimoni (2015) 4K CZ Dabing",
         "planned_at": "2026-09-01T13:45:48.603888+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-3",
+        "claimed_at": "2026-09-01T14:37:06.180496+00:00",
+        "lease_expires_at": "2026-09-01T20:37:06.180496+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "29004089",
+        "size_bytes": 4283062854,
+        "prepared_at": "2026-09-01T14:37:10.308374+00:00"
       }
     },
     "4850": {
@@ -61661,7 +61670,15 @@
       "attempts": []
     },
     "4762": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34058865",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T14:38:58.297226+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34058865",
         "display_name": "Grinch (2000) 4K CZ Dabing",
@@ -61683,6 +61700,17 @@
         "source_id": "33443659",
         "display_name": "Mumie se vrací (2001) 4K CZ Dabing",
         "planned_at": "2026-09-01T13:45:48.817490+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-2",
+        "claimed_at": "2026-09-01T14:38:58.407164+00:00",
+        "lease_expires_at": "2026-09-01T20:38:58.407164+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "29004107",
+        "size_bytes": 21030894455,
+        "prepared_at": "2026-09-01T14:39:02.384237+00:00"
       }
     },
     "27507": {
@@ -93858,5 +93886,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-01T14:25:30.173344+00:00"
+  "updated_at": "2026-09-01T14:55:28.533169+00:00"
 }
