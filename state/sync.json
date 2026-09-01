@@ -55329,21 +55329,9 @@
     },
     "4368": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32798596",
-        "display_name": "Den poté (2004) 4K CZ Dabing",
-        "planned_at": "2026-09-01T06:16:32.953175+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-0",
-        "claimed_at": "2026-09-01T06:16:33.397680+00:00",
-        "lease_expires_at": "2026-09-01T12:16:33.397680+00:00",
-        "run_id": "33466636431"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28993508",
-        "size_bytes": 5866010226,
-        "prepared_at": "2026-09-01T06:16:36.888188+00:00"
+        "uploaded_at": "2026-09-01T06:36:20.921065+00:00"
       }
     },
     "4339": {
@@ -55616,7 +55604,20 @@
       "attempts": []
     },
     "15133": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12076499",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:26:56.099027+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "12076499",
+        "display_name": "Ptačí průvodce pro všechno (2013) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T06:26:10.442129+00:00"
+      }
     },
     "21823": {
       "attempts": []
@@ -55646,7 +55647,11 @@
       "attempts": []
     },
     "21767": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "28993657",
+        "uploaded_at": "2026-09-01T06:34:21.416675+00:00"
+      }
     },
     "22614": {
       "attempts": [],
@@ -55656,7 +55661,23 @@
       }
     },
     "11679": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32097303",
+        "display_name": "Polda (1988) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T06:34:22.137628+00:00"
+      },
+      "claim": {
+        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-4",
+        "claimed_at": "2026-09-01T06:34:22.453473+00:00",
+        "lease_expires_at": "2026-09-01T12:34:22.453473+00:00",
+        "run_id": "33466636431"
+      },
+      "prepared": {
+        "target_video_id": "28993816",
+        "size_bytes": 4761117967,
+        "prepared_at": "2026-09-01T06:34:26.091412+00:00"
+      }
     },
     "4998": {
       "attempts": []
@@ -55966,12 +55987,19 @@
           "reason": "SdilejError",
           "permanent": false,
           "attempted_at": "2026-09-01T06:04:10.274984+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24605243",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:37:06.183975+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24605243",
         "display_name": "Léto All Exclusive (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T06:03:24.579899+00:00"
+        "planned_at": "2026-09-01T06:34:22.271162+00:00"
       }
     },
     "28353": {
@@ -56286,7 +56314,11 @@
       "attempts": []
     },
     "13562": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "28993658",
+        "uploaded_at": "2026-09-01T06:38:01.135504+00:00"
+      }
     },
     "22118": {
       "attempts": []
@@ -56310,7 +56342,11 @@
       "attempts": []
     },
     "25333": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "28993681",
+        "uploaded_at": "2026-09-01T06:37:07.555833+00:00"
+      }
     },
     "21384": {
       "attempts": []
@@ -92649,5 +92685,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-01T06:25:32.662092+00:00"
+  "updated_at": "2026-09-01T06:38:01.135517+00:00"
 }
