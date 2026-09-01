@@ -54973,7 +54973,18 @@
       "last_plan": {
         "source_id": "33876837",
         "display_name": "Rambo II (1985) 4K CZ Dabing",
-        "planned_at": "2026-09-01T06:10:38.300724+00:00"
+        "planned_at": "2026-09-01T06:41:30.433442+00:00"
+      },
+      "claim": {
+        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-2",
+        "claimed_at": "2026-09-01T06:41:30.595530+00:00",
+        "lease_expires_at": "2026-09-01T12:41:30.595530+00:00",
+        "run_id": "33466636431"
+      },
+      "prepared": {
+        "target_video_id": "28993939",
+        "size_bytes": 4850022001,
+        "prepared_at": "2026-09-01T06:41:38.935737+00:00"
       }
     },
     "4053": {
@@ -55381,21 +55392,9 @@
     },
     "19431": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34847518",
-        "display_name": "Star Wars: Epizoda I - Skrytá hrozba (1999) 4K CZ Dabing",
-        "planned_at": "2026-09-01T06:16:33.064945+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-3",
-        "claimed_at": "2026-09-01T06:16:33.502480+00:00",
-        "lease_expires_at": "2026-09-01T12:16:33.502480+00:00",
-        "run_id": "33466636431"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28993510",
-        "size_bytes": 6397508438,
-        "prepared_at": "2026-09-01T06:16:37.184267+00:00"
+        "uploaded_at": "2026-09-01T06:38:03.602714+00:00"
       }
     },
     "5296": {
@@ -55662,21 +55661,9 @@
     },
     "11679": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32097303",
-        "display_name": "Polda (1988) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T06:34:22.137628+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-4",
-        "claimed_at": "2026-09-01T06:34:22.453473+00:00",
-        "lease_expires_at": "2026-09-01T12:34:22.453473+00:00",
-        "run_id": "33466636431"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28993816",
-        "size_bytes": 4761117967,
-        "prepared_at": "2026-09-01T06:34:26.091412+00:00"
+        "uploaded_at": "2026-09-01T06:47:53.441373+00:00"
       }
     },
     "4998": {
@@ -55725,7 +55712,11 @@
       "attempts": []
     },
     "22454": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "28993904",
+        "uploaded_at": "2026-09-01T06:44:09.315099+00:00"
+      }
     },
     "17600": {
       "attempts": []
@@ -55765,7 +55756,20 @@
       "attempts": []
     },
     "21789": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26598978",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:39:56.246913+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "26598978",
+        "display_name": "Grošák (1966) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T06:39:10.508697+00:00"
+      }
     },
     "10112": {
       "attempts": []
@@ -56281,21 +56285,9 @@
     },
     "21808": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32453481",
-        "display_name": "Četník v New Yorku (1965) 4K CZ Dabing",
-        "planned_at": "2026-09-01T06:21:00.711116+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-1",
-        "claimed_at": "2026-09-01T06:21:00.848975+00:00",
-        "lease_expires_at": "2026-09-01T12:21:00.848975+00:00",
-        "run_id": "33466636431"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28993578",
-        "size_bytes": 7942656118,
-        "prepared_at": "2026-09-01T06:21:04.423565+00:00"
+        "uploaded_at": "2026-09-01T06:45:32.206754+00:00"
       }
     },
     "15145": {
@@ -56484,7 +56476,20 @@
       "attempts": []
     },
     "34695": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32152272",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:39:56.384202+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32152272",
+        "display_name": "Šok a úžas (2017) 720p CZ Dabing",
+        "planned_at": "2026-09-01T06:39:10.621580+00:00"
+      }
     },
     "23369": {
       "attempts": []
@@ -56616,13 +56621,42 @@
       "attempts": []
     },
     "10842": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32203556",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T06:46:08.620140+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32203556",
+        "display_name": "Old Shatterhand (1964) 4K CZ Dabing",
+        "planned_at": "2026-09-01T06:45:22.970009+00:00"
+      }
     },
     "28948": {
       "attempts": []
     },
     "6177": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34794548",
+        "display_name": "Modrous (2022) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T06:45:23.093019+00:00"
+      },
+      "claim": {
+        "worker_id": "a1b76f3bfdd54f5cbef599efc1337e44-shard-0",
+        "claimed_at": "2026-09-01T06:45:23.608226+00:00",
+        "lease_expires_at": "2026-09-01T12:45:23.608226+00:00",
+        "run_id": "33466636431"
+      },
+      "prepared": {
+        "target_video_id": "28994029",
+        "size_bytes": 3062619125,
+        "prepared_at": "2026-09-01T06:45:27.528003+00:00"
+      }
     },
     "28513": {
       "attempts": []
@@ -92685,5 +92719,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-01T06:38:01.135517+00:00"
+  "updated_at": "2026-09-01T06:47:53.441389+00:00"
 }
