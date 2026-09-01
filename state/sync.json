@@ -58334,21 +58334,9 @@
           "attempted_at": "2026-09-01T09:44:53.911626+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34724560",
-        "display_name": "Pravda nebo lež (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T10:22:49.019228+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-4",
-        "claimed_at": "2026-09-01T10:22:49.309539+00:00",
-        "lease_expires_at": "2026-09-01T16:22:49.309539+00:00",
-        "run_id": "33487816884"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28998360",
-        "size_bytes": 4346490150,
-        "prepared_at": "2026-09-01T10:22:54.366239+00:00"
+        "uploaded_at": "2026-09-01T10:37:29.936582+00:00"
       }
     },
     "10498": {
@@ -58867,7 +58855,18 @@
       "last_plan": {
         "source_id": "28991408",
         "display_name": "Osudová láska (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T10:01:09.314552+00:00"
+        "planned_at": "2026-09-01T10:37:30.109742+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-4",
+        "claimed_at": "2026-09-01T10:37:30.655005+00:00",
+        "lease_expires_at": "2026-09-01T16:37:30.655005+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "28998569",
+        "size_bytes": 3027899973,
+        "prepared_at": "2026-09-01T10:37:34.506792+00:00"
       }
     },
     "7178": {
@@ -58898,21 +58897,9 @@
           "attempted_at": "2026-09-01T09:21:40.250955+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30819375",
-        "display_name": "Vražda na Eigeru (1975) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T09:51:48.721715+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-3",
-        "claimed_at": "2026-09-01T09:51:48.885981+00:00",
-        "lease_expires_at": "2026-09-01T15:51:48.885981+00:00",
-        "run_id": "33487816884"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "28997851",
-        "size_bytes": 9515851421,
-        "prepared_at": "2026-09-01T09:51:53.239252+00:00"
+        "uploaded_at": "2026-09-01T10:40:14.362175+00:00"
       }
     },
     "25367": {
@@ -58959,10 +58946,9 @@
           "attempted_at": "2026-09-01T09:59:02.497465+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30184961",
-        "display_name": "Vítej v Monster High (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-01T09:58:16.929655+00:00"
+      "upload": {
+        "target_video_id": "28998570",
+        "uploaded_at": "2026-09-01T10:47:46.090485+00:00"
       }
     },
     "14495": {
@@ -59144,22 +59130,20 @@
       "attempts": []
     },
     "34426": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "34871159",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "28998285",
+          "attempted_at": "2026-09-01T10:37:29.539146+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34871159",
         "display_name": "Minions & Monsters (2026) 4K CZ Dabing",
         "planned_at": "2026-09-01T10:09:05.152630+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-2",
-        "claimed_at": "2026-09-01T10:17:08.232338+00:00",
-        "lease_expires_at": "2026-09-01T16:17:08.232338+00:00",
-        "run_id": "33487816884"
-      },
-      "prepared": {
-        "target_video_id": "28998285",
-        "size_bytes": 16762895655,
-        "prepared_at": "2026-09-01T10:17:13.997366+00:00"
       }
     },
     "36881": {
@@ -59352,7 +59336,23 @@
       "attempts": []
     },
     "15392": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34602930",
+        "display_name": "Yamada, samuraj z Ayothaye (2010) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T10:37:30.313422+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-2",
+        "claimed_at": "2026-09-01T10:37:30.863668+00:00",
+        "lease_expires_at": "2026-09-01T16:37:30.863668+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "28998568",
+        "size_bytes": 3143378407,
+        "prepared_at": "2026-09-01T10:37:34.407217+00:00"
+      }
     },
     "8505": {
       "attempts": []
@@ -59625,17 +59625,19 @@
       "attempts": []
     },
     "22992": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33730767",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T10:37:41.518337+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33730767",
         "display_name": "Mystic Pizza (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-01T10:27:18.829477+00:00"
-      },
-      "claim": {
-        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-1",
-        "claimed_at": "2026-09-01T10:36:56.413829+00:00",
-        "lease_expires_at": "2026-09-01T16:36:56.413829+00:00",
-        "run_id": "33487816884"
       }
     },
     "4942": {
@@ -59738,7 +59740,11 @@
       "attempts": []
     },
     "27828": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "28998573",
+        "uploaded_at": "2026-09-01T10:41:26.144027+00:00"
+      }
     },
     "4453": {
       "attempts": []
@@ -59750,7 +59756,20 @@
       "attempts": []
     },
     "22965": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32572399",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-01T10:40:59.598380+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32572399",
+        "display_name": "Úplněk v modré vodě (1988) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T10:37:30.520347+00:00"
+      }
     },
     "26068": {
       "attempts": []
@@ -59930,7 +59949,23 @@
       "attempts": []
     },
     "11831": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32298735",
+        "display_name": "Kriminál (1989) 4K CZ Dabing",
+        "planned_at": "2026-09-01T10:45:24.040478+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-1",
+        "claimed_at": "2026-09-01T10:45:24.293857+00:00",
+        "lease_expires_at": "2026-09-01T16:45:24.293857+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "28998712",
+        "size_bytes": 5329610775,
+        "prepared_at": "2026-09-01T10:45:28.413227+00:00"
+      }
     },
     "12075": {
       "attempts": []
@@ -59954,7 +59989,23 @@
       "attempts": []
     },
     "24700": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26843237",
+        "display_name": "Hodná holka (2002) 1080p CZ Dabing",
+        "planned_at": "2026-09-01T10:45:24.156238+00:00"
+      },
+      "claim": {
+        "worker_id": "1883c9b075c74dbeb70eb4b78aad78d5-shard-3",
+        "claimed_at": "2026-09-01T10:45:24.396555+00:00",
+        "lease_expires_at": "2026-09-01T16:45:24.396555+00:00",
+        "run_id": "33487816884"
+      },
+      "prepared": {
+        "target_video_id": "28998713",
+        "size_bytes": 3769257432,
+        "prepared_at": "2026-09-01T10:45:28.523888+00:00"
+      }
     },
     "21883": {
       "attempts": []
@@ -93209,5 +93260,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-01T10:37:26.580518+00:00"
+  "updated_at": "2026-09-01T10:47:46.090508+00:00"
 }
