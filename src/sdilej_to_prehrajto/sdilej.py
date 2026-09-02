@@ -143,7 +143,9 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
         (
             urllib.parse.urljoin(BASE_URL, anchor.get("href", ""))
             for anchor in soup.select("a[href]")
-            if anchor.get_text(" ", strip=True).casefold() == "stáhnout rychle"
+            # The current site wraps "rychle" in a nested span, so relying on
+            # one flattened text node rejects a valid authenticated download.
+            if " ".join(anchor.stripped_strings).casefold() == "stáhnout rychle"
             and "sdilej_profi.php" in anchor.get("href", "")
         ),
         None,

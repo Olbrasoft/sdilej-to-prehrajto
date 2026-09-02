@@ -26,7 +26,7 @@ DETAIL_HTML = """
 <h1>Angelika 3 Angelika a král (1966) 4K h265 AC3 5.1 CZ.mkv</h1>
 <div>Velikost 6.2 GB</div><div>Délka 01:40:05</div>
 <div>Rozlišení 3840x1632</div>
-<a href="https://data8.sdilej.cz/sdilej_profi.php?id=32460472&amp;session=secret">Stáhnout rychle</a>
+<a href="https://data8.sdilej.cz/sdilej_profi.php?id=32460472&amp;session=secret">Stáhnout<span>rychle</span></a>
 <script>var src="https://stream2.sdilej.cz/sdilej_profi.php?id=32460472&amp;stream=1&amp;session=secret";</script>
 """
 
