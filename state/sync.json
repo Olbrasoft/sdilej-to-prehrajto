@@ -12944,21 +12944,9 @@
     },
     "32319": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34609546",
-        "display_name": "Savior (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T16:36:09.949116+00:00"
-      },
-      "claim": {
-        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-5",
-        "claimed_at": "2026-09-03T16:36:10.251308+00:00",
-        "lease_expires_at": "2026-09-03T22:36:10.251308+00:00",
-        "run_id": "33767109114"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29064367",
-        "size_bytes": 13900063775,
-        "prepared_at": "2026-09-03T16:36:13.453312+00:00"
+        "uploaded_at": "2026-09-03T17:31:24.320497+00:00"
       }
     },
     "25057": {
@@ -13343,21 +13331,9 @@
     },
     "2114": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33852788",
-        "display_name": "Transformers (2007) 4K CZ Dabing",
-        "planned_at": "2026-09-03T16:52:40.680031+00:00"
-      },
-      "claim": {
-        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-0",
-        "claimed_at": "2026-09-03T16:53:11.594552+00:00",
-        "lease_expires_at": "2026-09-03T22:53:11.594552+00:00",
-        "run_id": "33767109114"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29064562",
-        "size_bytes": 6781721212,
-        "prepared_at": "2026-09-03T16:53:14.662330+00:00"
+        "uploaded_at": "2026-09-03T17:21:19.833156+00:00"
       }
     },
     "11759": {
@@ -13617,7 +13593,15 @@
       "attempts": []
     },
     "1853": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34893287",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T17:19:59.113423+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34893287",
         "display_name": "Hříšný tanec (1987) 4K CZ Dabing",
@@ -13626,10 +13610,9 @@
     },
     "19552": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34094997",
-        "display_name": "Vicky Cristina Barcelona (2008) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T16:52:41.956380+00:00"
+      "upload": {
+        "target_video_id": "29064860",
+        "uploaded_at": "2026-09-03T17:29:56.270468+00:00"
       }
     },
     "1920": {
@@ -13654,7 +13637,15 @@
       "attempts": []
     },
     "2092": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34355399",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T17:22:05.102467+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355399",
         "display_name": "Croodsovi (2013) 4K CZ Dabing",
@@ -13663,10 +13654,9 @@
     },
     "2015": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33339664",
-        "display_name": "Na dotek (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T16:52:42.295277+00:00"
+      "upload": {
+        "target_video_id": "29064873",
+        "uploaded_at": "2026-09-03T17:30:08.484458+00:00"
       }
     },
     "2029": {
@@ -13675,6 +13665,17 @@
         "source_id": "11493247",
         "display_name": "Everest (2015) 4K CZ Dabing",
         "planned_at": "2026-09-03T16:52:42.409283+00:00"
+      },
+      "claim": {
+        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-2",
+        "claimed_at": "2026-09-03T17:29:56.394628+00:00",
+        "lease_expires_at": "2026-09-03T23:29:56.394628+00:00",
+        "run_id": "33767109114"
+      },
+      "prepared": {
+        "target_video_id": "29064966",
+        "size_bytes": 15523590116,
+        "prepared_at": "2026-09-03T17:30:00.299551+00:00"
       }
     },
     "2102": {
@@ -13683,6 +13684,17 @@
         "source_id": "32258736",
         "display_name": "Základní instinkt (1992) 4K CZ Dabing",
         "planned_at": "2026-09-03T16:52:42.516671+00:00"
+      },
+      "claim": {
+        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-0",
+        "claimed_at": "2026-09-03T17:30:08.592323+00:00",
+        "lease_expires_at": "2026-09-03T23:30:08.592323+00:00",
+        "run_id": "33767109114"
+      },
+      "prepared": {
+        "target_video_id": "29064969",
+        "size_bytes": 5703818501,
+        "prepared_at": "2026-09-03T17:30:13.254898+00:00"
       }
     },
     "2130": {
@@ -98239,5 +98251,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-03T17:19:09.943929+00:00"
+  "updated_at": "2026-09-03T17:31:24.320525+00:00"
 }
