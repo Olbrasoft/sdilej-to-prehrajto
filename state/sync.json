@@ -82408,13 +82408,6 @@
           "source_id": "32202415",
           "reason": "SdilejError",
           "permanent": false,
-          "attempted_at": "2026-09-02T22:35:37.748408+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32202415",
-          "reason": "SdilejError",
-          "permanent": false,
           "attempted_at": "2026-09-02T23:06:34.080543+00:00"
         },
         {
@@ -82423,12 +82416,19 @@
           "reason": "SdilejError",
           "permanent": false,
           "attempted_at": "2026-09-02T23:39:04.682750+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32202415",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T00:19:06.682444+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32202415",
         "display_name": "Jack (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-02T23:38:19.194807+00:00"
+        "planned_at": "2026-09-03T00:18:20.474252+00:00"
       }
     },
     "24908": {
@@ -83775,7 +83775,18 @@
       "last_plan": {
         "source_id": "32249882",
         "display_name": "Děda, postrach rodiny (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-02T23:31:52.547979+00:00"
+        "planned_at": "2026-09-03T00:18:20.613178+00:00"
+      },
+      "claim": {
+        "worker_id": "87c4553789a84d81934c233c420368e1-shard-1",
+        "claimed_at": "2026-09-03T00:18:54.429704+00:00",
+        "lease_expires_at": "2026-09-03T06:18:54.429704+00:00",
+        "run_id": "33679348861"
+      },
+      "prepared": {
+        "target_video_id": "29039520",
+        "size_bytes": 2086612580,
+        "prepared_at": "2026-09-03T00:18:58.206533+00:00"
       }
     },
     "20616": {
@@ -84000,21 +84011,9 @@
     },
     "14346": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "24210664",
-        "display_name": "Hlasiťákovi o Vánocích (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-02T23:59:42.369476+00:00"
-      },
-      "claim": {
-        "worker_id": "87c4553789a84d81934c233c420368e1-shard-5",
-        "claimed_at": "2026-09-02T23:59:52.788670+00:00",
-        "lease_expires_at": "2026-09-03T05:59:52.788670+00:00",
-        "run_id": "33679348861"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29039201",
-        "size_bytes": 4681658934,
-        "prepared_at": "2026-09-02T23:59:58.616853+00:00"
+        "uploaded_at": "2026-09-03T00:19:09.744057+00:00"
       }
     },
     "35579": {
@@ -84113,21 +84112,9 @@
     },
     "34971": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33786482",
-        "display_name": "Krvavá Amazonka (1985) 1080p CZ Dabing",
-        "planned_at": "2026-09-02T23:59:42.891367+00:00"
-      },
-      "claim": {
-        "worker_id": "87c4553789a84d81934c233c420368e1-shard-2",
-        "claimed_at": "2026-09-03T00:09:36.389036+00:00",
-        "lease_expires_at": "2026-09-03T06:09:36.389036+00:00",
-        "run_id": "33679348861"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29039361",
-        "size_bytes": 2167069004,
-        "prepared_at": "2026-09-03T00:09:39.890468+00:00"
+        "uploaded_at": "2026-09-03T00:18:19.841791+00:00"
       }
     },
     "27400": {
@@ -84144,21 +84131,9 @@
     },
     "22525": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34189408",
-        "display_name": "Nahá bomba (1980) 1080p CZ Dabing",
-        "planned_at": "2026-09-02T23:59:43.020704+00:00"
-      },
-      "claim": {
-        "worker_id": "87c4553789a84d81934c233c420368e1-shard-0",
-        "claimed_at": "2026-09-03T00:10:38.629035+00:00",
-        "lease_expires_at": "2026-09-03T06:10:38.629035+00:00",
-        "run_id": "33679348861"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29039375",
-        "size_bytes": 3622905347,
-        "prepared_at": "2026-09-03T00:10:42.256931+00:00"
+        "uploaded_at": "2026-09-03T00:24:53.326166+00:00"
       }
     },
     "16556": {
@@ -84235,7 +84210,15 @@
       "attempts": []
     },
     "14930": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32925596",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T00:18:54.319344+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32925596",
         "display_name": "5 dnů války (2011) 1080p CZ Dabing",
@@ -84279,7 +84262,11 @@
       "attempts": []
     },
     "7268": {
-      "attempts": []
+      "attempts": [],
+      "upload": {
+        "target_video_id": "29039531",
+        "uploaded_at": "2026-09-03T00:27:00.071946+00:00"
+      }
     },
     "24679": {
       "attempts": []
@@ -84312,7 +84299,20 @@
       "attempts": []
     },
     "24621": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34255385",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T00:19:54.972334+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34255385",
+        "display_name": "Bubliňák (2001) 1080p CZ Dabing",
+        "planned_at": "2026-09-03T00:18:20.873216+00:00"
+      }
     },
     "27303": {
       "attempts": []
@@ -84333,7 +84333,23 @@
       "attempts": []
     },
     "7255": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19059185",
+        "display_name": "Cry Macho (2021) 4K CZ Dabing",
+        "planned_at": "2026-09-03T00:18:21.003033+00:00"
+      },
+      "claim": {
+        "worker_id": "87c4553789a84d81934c233c420368e1-shard-5",
+        "claimed_at": "2026-09-03T00:19:55.084693+00:00",
+        "lease_expires_at": "2026-09-03T06:19:55.084693+00:00",
+        "run_id": "33679348861"
+      },
+      "prepared": {
+        "target_video_id": "29039546",
+        "size_bytes": 14442855292,
+        "prepared_at": "2026-09-03T00:19:59.226539+00:00"
+      }
     },
     "23711": {
       "attempts": []
@@ -84375,7 +84391,23 @@
       "attempts": []
     },
     "8157": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28581793",
+        "display_name": "Divoká řeka (2023) 1080p CZ Dabing",
+        "planned_at": "2026-09-03T00:18:21.121549+00:00"
+      },
+      "claim": {
+        "worker_id": "87c4553789a84d81934c233c420368e1-shard-0",
+        "claimed_at": "2026-09-03T00:24:53.450669+00:00",
+        "lease_expires_at": "2026-09-03T06:24:53.450669+00:00",
+        "run_id": "33679348861"
+      },
+      "prepared": {
+        "target_video_id": "29039624",
+        "size_bytes": 1938834159,
+        "prepared_at": "2026-09-03T00:24:57.187360+00:00"
+      }
     },
     "29028": {
       "attempts": []
@@ -84429,13 +84461,23 @@
       "attempts": []
     },
     "23551": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33732228",
+        "display_name": "Nebezpečné pády (1994) 1080p CZ Dabing",
+        "planned_at": "2026-09-03T00:18:21.261755+00:00"
+      }
     },
     "28116": {
       "attempts": []
     },
     "7922": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33775581",
+        "display_name": "Rozmarný duch (2020) 1080p CZ Dabing",
+        "planned_at": "2026-09-03T00:18:21.388452+00:00"
+      }
     },
     "20659": {
       "attempts": []
@@ -96756,5 +96798,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-03T00:18:05.877998+00:00"
+  "updated_at": "2026-09-03T00:27:00.071962+00:00"
 }
