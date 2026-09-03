@@ -6882,13 +6882,6 @@
     "11731": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-29T23:05:03.818956+00:00"
-        },
-        {
           "status": "source_discovery_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v12",
@@ -6901,6 +6894,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "DeepScanRequired",
           "attempted_at": "2026-09-03T15:06:47.552665+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "SdilejError",
+          "attempted_at": "2026-09-03T15:22:07.504106+00:00"
         }
       ]
     },
@@ -6999,13 +6999,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-29T23:07:36.143137+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
@@ -7017,6 +7010,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "DeepScanRequired",
           "attempted_at": "2026-09-03T15:08:57.550696+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "SdilejError",
+          "attempted_at": "2026-09-03T15:22:20.334603+00:00"
         }
       ]
     },
@@ -11319,12 +11319,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-28T22:20:34.863611+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T01:05:44.268696+00:00"
@@ -11336,6 +11330,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:35:00.065954+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:22:01.872434+00:00"
         }
       ]
     },
@@ -11679,12 +11680,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-28T22:26:07.549378+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T01:12:18.610057+00:00"
@@ -11696,6 +11691,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:31:32.632651+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:21:53.114096+00:00"
         }
       ]
     },
@@ -11818,6 +11820,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:33:53.780016+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:22:08.284382+00:00"
         }
       ]
     },
@@ -11856,6 +11865,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:33:27.432650+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:22:08.632285+00:00"
         }
       ]
     },
@@ -11916,12 +11932,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-28T22:29:33.604764+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T01:17:20.879948+00:00"
@@ -11933,6 +11943,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:35:34.231431+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:22:22.970395+00:00"
         }
       ]
     },
@@ -11977,6 +11994,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:31:52.002900+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:22:25.716641+00:00"
         }
       ]
     },
@@ -12829,6 +12853,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:32:50.965602+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:21:57.817915+00:00"
         }
       ]
     },
@@ -12848,6 +12879,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T14:34:31.648497+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T15:22:31.421413+00:00"
         }
       ]
     },
@@ -312313,5 +312351,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-03T15:21:45.687457+00:00"
+  "updated_at": "2026-09-03T15:22:31.421439+00:00"
 }
