@@ -24,6 +24,7 @@ from .ranking import (
     minimum_bitrate_mbps,
     rank_candidates,
 )
+from .sdilej import SdilejError
 from .state import StateStore, now_iso
 from .subtitles import SubtitleQueue
 from .sources import SelectedSourceStore
@@ -225,7 +226,23 @@ class SyncPipeline:
             if max_scan is not None and inspected >= max_scan:
                 break
             inspected += 1
-            ranked = rank_candidates(self.source_provider.discover(film))
+            try:
+                discovered = self.source_provider.discover(film)
+            except SdilejError as error:
+                # A long-running preparation job must not lose hours of useful
+                # work because one search request was disconnected. Record a
+                # short, policy-specific defer and continue with the backlog.
+                self.state.record_attempt(
+                    film.cr_film_id,
+                    {
+                        "status": "source_discovery_failed",
+                        "permanent": error.permanent,
+                        "selection_policy": SELECTION_POLICY,
+                        "reason": type(error).__name__,
+                    },
+                )
+                continue
+            ranked = rank_candidates(discovered)
             if not ranked:
                 self.state.record_attempt(
                     film.cr_film_id,

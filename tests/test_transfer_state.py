@@ -361,6 +361,32 @@ def test_transient_transfer_failure_is_retried_after_thirty_minutes(tmp_path) ->
     )
 
 
+def test_transient_source_discovery_failure_is_retried_after_thirty_minutes(
+    tmp_path,
+) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_attempt(
+        1,
+        {
+            "status": "source_discovery_failed",
+            "selection_policy": "current-policy",
+            "permanent": False,
+        },
+    )
+    attempted = datetime.fromisoformat(state.film(1)["attempts"][-1]["attempted_at"])
+
+    assert state.deferred(
+        1,
+        selection_policy="current-policy",
+        at=attempted + timedelta(minutes=29),
+    )
+    assert not state.deferred(
+        1,
+        selection_policy="current-policy",
+        at=attempted + timedelta(minutes=31),
+    )
+
+
 def test_target_review_blocks_replacement_source_and_new_policy(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     state.record_attempt(

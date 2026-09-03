@@ -170,6 +170,7 @@ class StateStore:
             if status == "no_acceptable_source":
                 cooldown = timedelta(days=30)
             elif status in {
+                "source_discovery_failed",
                 "source_refresh_failed",
                 "stale_prepared_released",
                 "upload_failed",

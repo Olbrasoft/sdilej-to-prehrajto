@@ -4,6 +4,7 @@ from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.pipeline import SyncPipeline, plan_sha
 from sdilej_to_prehrajto.prehrajto import UploadResult
 from sdilej_to_prehrajto.ranking import SELECTION_POLICY
+from sdilej_to_prehrajto.sdilej import SdilejError
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.subtitles import SubtitleQueue
@@ -117,6 +118,50 @@ def test_prepare_defers_failed_attempt_from_current_policy(tmp_path) -> None:
 
     assert provider.calls == 1
     assert state.snapshot(1)["attempts"][-1]["selection_policy"] == SELECTION_POLICY
+
+
+def test_prepare_continues_after_transient_source_discovery_failure(tmp_path) -> None:
+    candidate = Candidate(
+        "prepared-two",
+        "https://sdilej.cz/2/film-two.mkv",
+        "Film Two (2000) 1080p CZ",
+        size_bytes=4_000_000_000,
+        duration_sec=6000,
+        width=1920,
+        height=1080,
+        language_tier=LanguageTier.CZECH_AUDIO,
+        audio_language="cs",
+        match_tier=MatchTier.STRONG,
+        filename="film-two.mkv",
+        video_codec="h264",
+    )
+
+    class Provider:
+        def discover(self, film):
+            if film.cr_film_id == 1:
+                raise SdilejError("Temporary search disconnect")
+            return [candidate]
+
+    state = StateStore(tmp_path / "state.json")
+    pipeline = SyncPipeline(
+        source_provider=Provider(),
+        source_session=object(),
+        target_session=object(),
+        state=state,
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    films = [
+        Film(1, "film-one", "Film One", None, 2000, 100, "en"),
+        Film(2, "film-two", "Film Two", None, 2000, 100, "en"),
+    ]
+
+    prepared = pipeline.prepare_sources(films, 1)
+
+    assert prepared[0]["film"]["cr_film_id"] == 2
+    attempt = state.snapshot(1)["attempts"][-1]
+    assert attempt["status"] == "source_discovery_failed"
+    assert attempt["selection_policy"] == SELECTION_POLICY
 
 
 def test_continuous_plan_uses_replacement_after_old_source_failure(tmp_path) -> None:
