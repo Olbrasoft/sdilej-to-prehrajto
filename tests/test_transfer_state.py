@@ -299,12 +299,26 @@ def test_upload_failure_releases_claim_and_prepared_checkpoint(tmp_path) -> None
     assert row["attempts"][-1]["status"] == "upload_failed"
 
 
-def test_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> None:
+def test_completed_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
-    state.record_attempt(1, {"status": "no_acceptable_source", "permanent": False})
+    state.record_attempt(
+        1,
+        {
+            "status": "no_acceptable_source",
+            "permanent": False,
+            "discovery_complete": True,
+        },
+    )
     attempted = datetime.fromisoformat(state.film(1)["attempts"][-1]["attempted_at"])
     assert state.deferred(1, at=attempted + timedelta(days=29))
     assert not state.deferred(1, at=attempted + timedelta(days=31))
+
+
+def test_ambiguous_legacy_no_source_attempt_is_retried(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_attempt(1, {"status": "no_acceptable_source", "permanent": False})
+
+    assert not state.deferred(1)
 
 
 def test_policy_specific_defer_ignores_attempt_from_old_policy(tmp_path) -> None:
@@ -314,6 +328,7 @@ def test_policy_specific_defer_ignores_attempt_from_old_policy(tmp_path) -> None
         {
             "status": "no_acceptable_source",
             "permanent": False,
+            "discovery_complete": True,
             "selection_policy": "old-policy",
         },
     )

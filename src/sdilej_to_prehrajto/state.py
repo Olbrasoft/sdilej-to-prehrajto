@@ -168,6 +168,12 @@ class StateStore:
             attempted_at = datetime.fromisoformat(timestamp)
             status = latest.get("status")
             if status == "no_acceptable_source":
+                # Older discovery code used the same status for a genuinely
+                # empty search and for interrupted candidate verification.
+                # Retry those ambiguous legacy records once; new records carry
+                # an explicit proof that discovery completed.
+                if not latest.get("discovery_complete"):
+                    return False
                 cooldown = timedelta(days=30)
             elif status in {
                 "source_discovery_failed",
@@ -175,10 +181,9 @@ class StateStore:
                 "stale_prepared_released",
                 "upload_failed",
             }:
-                # Transfer failures are usually an expired fast-download URL or
-                # a temporary source/target network fault. A six-hour retry
-                # delay can drain the verified queue even though exact-name
-                # reconciliation and leases make a prompt retry safe.
+                # Discovery and transfer failures are usually temporary remote
+                # faults. Retry them promptly; reconciliation and leases keep
+                # repeated transfer attempts safe.
                 cooldown = timedelta(minutes=30)
             else:
                 cooldown = timedelta(hours=6)

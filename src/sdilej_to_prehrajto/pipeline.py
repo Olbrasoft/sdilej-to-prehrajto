@@ -172,6 +172,7 @@ class SyncPipeline:
                         {
                             "status": "no_acceptable_source",
                             "permanent": False,
+                            "discovery_complete": True,
                             "selection_policy": SELECTION_POLICY,
                             "reason": "No identity-, language-, and quality-verified source",
                         },
@@ -249,6 +250,7 @@ class SyncPipeline:
                     {
                         "status": "no_acceptable_source",
                         "permanent": False,
+                        "discovery_complete": True,
                         "selection_policy": SELECTION_POLICY,
                         "reason": "No identity-, language-, and quality-verified source",
                     },

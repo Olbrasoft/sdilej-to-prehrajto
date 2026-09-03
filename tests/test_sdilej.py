@@ -1,7 +1,10 @@
+import pytest
+
 from sdilej_to_prehrajto.language import LanguageDetectionError
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
+    SdilejError,
     SdilejProvider,
     audio_language_hint,
     parse_detail_html,
@@ -167,9 +170,8 @@ def test_discovery_deadline_defers_film_without_searching() -> None:
         media_probe=lambda _url: {},
     )
 
-    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
-
-    assert discovered == []
+    with pytest.raises(SdilejError, match="deadline"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
     assert session.seen_urls == []
 
 
@@ -308,9 +310,8 @@ def test_discovery_does_not_fall_back_when_4k_verification_is_transient() -> Non
         media_probe=lambda _url: {},
     )
 
-    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
-
-    assert discovered == []
+    with pytest.raises(SdilejError, match="could not be fully verified"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
 
 
 def test_discovery_does_not_choose_larger_same_tier_after_smaller_failure() -> None:
@@ -345,9 +346,8 @@ def test_discovery_does_not_choose_larger_same_tier_after_smaller_failure() -> N
         media_probe=lambda _url: {},
     )
 
-    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
-
-    assert discovered == []
+    with pytest.raises(SdilejError, match="could not be fully verified"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
 
 
 def test_discovery_ignores_mislabeled_4k_until_real_4k_is_verified() -> None:

@@ -117,7 +117,9 @@ def test_prepare_defers_failed_attempt_from_current_policy(tmp_path) -> None:
     assert pipeline.prepare_sources([film], 1) == []
 
     assert provider.calls == 1
-    assert state.snapshot(1)["attempts"][-1]["selection_policy"] == SELECTION_POLICY
+    attempt = state.snapshot(1)["attempts"][-1]
+    assert attempt["selection_policy"] == SELECTION_POLICY
+    assert attempt["discovery_complete"] is True
 
 
 def test_prepare_continues_after_transient_source_discovery_failure(tmp_path) -> None:

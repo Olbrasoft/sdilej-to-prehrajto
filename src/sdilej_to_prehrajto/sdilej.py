@@ -372,7 +372,7 @@ class SdilejProvider:
             )
             for query in queries:
                 if time.monotonic() >= deadline:
-                    return []
+                    raise SdilejError("Discovery deadline expired before search completed")
                 for candidate in self.search_by_quality(query):
                     if candidate.source_id in candidates:
                         continue
@@ -399,8 +399,14 @@ class SdilejProvider:
             unresolved_in_tier = False
             for candidate in ordered:
                 if time.monotonic() >= deadline:
-                    return []
+                    raise SdilejError(
+                        "Discovery deadline expired before verification completed"
+                    )
                 if self.max_candidates is not None and inspected >= self.max_candidates:
+                    if not resolved:
+                        raise SdilejError(
+                            "Candidate limit reached before verification completed"
+                        )
                     return resolved
                 inspected += 1
                 detail = None
@@ -441,7 +447,9 @@ class SdilejProvider:
                 # language unknown. Falling through could upload 1080p even
                 # though that unresolved source is Czech 4K. Defer the film and
                 # retry it in a later preparation pass instead.
-                return []
+                raise SdilejError(
+                    "A preferred quality tier could not be fully verified"
+                )
         return resolved
 
 def audio_language_hint(filename: str | None) -> str | None:
