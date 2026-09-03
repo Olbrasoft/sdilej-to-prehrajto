@@ -63417,13 +63417,6 @@
     "22756": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T15:38:19.469919+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -63436,6 +63429,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-03T16:36:36.921625+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "SdilejError",
+          "attempted_at": "2026-09-03T18:35:49.171596+00:00"
         }
       ]
     },
@@ -117822,6 +117822,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T22:01:07.240043+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:58.289240+00:00"
         }
       ]
     },
@@ -120524,6 +120531,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T22:31:17.638468+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:41.446180+00:00"
         }
       ]
     },
@@ -123714,6 +123728,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:02:31.040923+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:36:03.532479+00:00"
         }
       ]
     },
@@ -126067,6 +126088,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:30:22.542568+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:36:00.774226+00:00"
         }
       ]
     },
@@ -126108,6 +126136,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:30:57.947505+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:53.114335+00:00"
         }
       ]
     },
@@ -126936,6 +126971,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:39:11.711581+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:32.468800+00:00"
         }
       ]
     },
@@ -127131,6 +127173,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:42:23.262536+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:39.839427+00:00"
         }
       ]
     },
@@ -127238,6 +127287,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:43:09.327364+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:48.762556+00:00"
         }
       ]
     },
@@ -127951,6 +128007,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-30T23:50:55.460677+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T18:35:34.327850+00:00"
         }
       ]
     },
@@ -128517,6 +128580,14 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-31T00:00:33.895318+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-09-03T18:35:37.870387+00:00"
         }
       ]
     },
@@ -358993,5 +359064,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-03T18:35:28.048899+00:00"
+  "updated_at": "2026-09-03T18:36:03.532495+00:00"
 }
