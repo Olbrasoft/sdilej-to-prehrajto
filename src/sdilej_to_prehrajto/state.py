@@ -160,6 +160,11 @@ class StateStore:
                 and latest.get("selection_policy") != selection_policy
             ):
                 return False
+            if latest.get("status") in {
+                "source_deep_scan_needed",
+                "source_deep_scan_failed",
+            }:
+                return True
             if latest.get("permanent"):
                 return True
             timestamp = latest.get("attempted_at")
@@ -188,6 +193,33 @@ class StateStore:
             else:
                 cooldown = timedelta(hours=6)
             return (at or datetime.now(UTC)) < attempted_at + cooldown
+
+    def deep_scan_ready(
+        self,
+        film_id: int,
+        *,
+        selection_policy: str,
+        at: datetime | None = None,
+    ) -> bool:
+        """Return whether a film is waiting for the dedicated deep lane."""
+        with self._lock:
+            row = self.data["films"].get(str(film_id), {})
+            attempts = row.get("attempts", [])
+            if not attempts:
+                return False
+            latest = attempts[-1]
+            if latest.get("selection_policy") != selection_policy:
+                return False
+            status = latest.get("status")
+            if status == "source_deep_scan_needed":
+                return True
+            if status != "source_deep_scan_failed":
+                return False
+            timestamp = latest.get("attempted_at")
+            if not timestamp:
+                return True
+            attempted_at = datetime.fromisoformat(timestamp)
+            return (at or datetime.now(UTC)) >= attempted_at + timedelta(minutes=30)
 
     def record_plan(self, film_id: int, plan: dict) -> None:
         with self._lock:
@@ -218,7 +250,12 @@ class StateStore:
                 {**attempt, "attempted_at": now_iso()}
             )
             self.film(film_id)["attempts"] = self.film(film_id)["attempts"][-3:]
-            self.save("attempt")
+            event = (
+                "deep_scan"
+                if attempt.get("status", "").startswith("source_deep_scan_")
+                else "attempt"
+            )
+            self.save(event)
 
     def record_upload_failure(self, film_id: int, attempt: dict) -> None:
         with self._lock:

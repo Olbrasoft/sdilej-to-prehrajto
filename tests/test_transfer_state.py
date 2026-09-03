@@ -402,6 +402,43 @@ def test_transient_source_discovery_failure_is_retried_after_thirty_minutes(
     )
 
 
+def test_deep_scan_queue_is_policy_specific_and_retries_failures(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    state.record_attempt(
+        1,
+        {
+            "status": "source_deep_scan_needed",
+            "selection_policy": "current-policy",
+            "permanent": True,
+        },
+    )
+
+    assert state.deferred(1, selection_policy="current-policy")
+    assert not state.deferred(1, selection_policy="new-policy")
+    assert state.deep_scan_ready(1, selection_policy="current-policy")
+    assert not state.deep_scan_ready(1, selection_policy="new-policy")
+
+    state.record_attempt(
+        1,
+        {
+            "status": "source_deep_scan_failed",
+            "selection_policy": "current-policy",
+            "permanent": False,
+        },
+    )
+    attempted = datetime.fromisoformat(state.film(1)["attempts"][-1]["attempted_at"])
+    assert not state.deep_scan_ready(
+        1,
+        selection_policy="current-policy",
+        at=attempted + timedelta(minutes=29),
+    )
+    assert state.deep_scan_ready(
+        1,
+        selection_policy="current-policy",
+        at=attempted + timedelta(minutes=31),
+    )
+
+
 def test_target_review_blocks_replacement_source_and_new_policy(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     state.record_attempt(

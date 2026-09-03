@@ -54,6 +54,10 @@ class SdilejError(RuntimeError):
         self.permanent = permanent
 
 
+class DeepScanRequired(SdilejError):
+    """The fast discovery lane found work that needs exhaustive verification."""
+
+
 def slugify(value: str) -> str:
     normalized = unicodedata.normalize("NFKD", value)
     normalized = "".join(
@@ -375,7 +379,12 @@ class SdilejProvider:
             )
             for query in queries:
                 if time.monotonic() >= deadline:
-                    raise SdilejError("Discovery deadline expired before search completed")
+                    error_type = (
+                        DeepScanRequired
+                        if self.max_candidates is not None
+                        else SdilejError
+                    )
+                    raise error_type("Discovery deadline expired before search completed")
                 for candidate in self.search_by_quality(query):
                     if candidate.source_id in candidates:
                         continue
@@ -402,15 +411,20 @@ class SdilejProvider:
             unresolved_in_tier = False
             for candidate in ordered:
                 if time.monotonic() >= deadline:
-                    raise SdilejError(
+                    error_type = (
+                        DeepScanRequired
+                        if self.max_candidates is not None
+                        else SdilejError
+                    )
+                    raise error_type(
                         "Discovery deadline expired before verification completed"
                     )
                 if self.max_candidates is not None and inspected >= self.max_candidates:
-                    if not resolved:
-                        raise SdilejError(
-                            "Candidate limit reached before verification completed"
-                        )
-                    return resolved
+                    # A partial result is not safe to upload: an unchecked
+                    # candidate may still have Czech audio or better quality.
+                    raise DeepScanRequired(
+                        "Candidate limit reached before verification completed"
+                    )
                 inspected += 1
                 detail = None
                 verification_completed = False
@@ -422,7 +436,12 @@ class SdilejProvider:
                         # An expired verification is not proof that no source
                         # exists. Let the caller record a short retry instead
                         # of incorrectly deferring this film for 30 days.
-                        raise SdilejError(
+                        error_type = (
+                            DeepScanRequired
+                            if self.max_candidates is not None
+                            else SdilejError
+                        )
+                        raise error_type(
                             "Discovery deadline expired before verification completed"
                         )
                     try:
@@ -455,7 +474,12 @@ class SdilejProvider:
                 # language unknown. Falling through could upload 1080p even
                 # though that unresolved source is Czech 4K. Defer the film and
                 # retry it in a later preparation pass instead.
-                raise SdilejError(
+                error_type = (
+                    DeepScanRequired
+                    if self.max_candidates is not None
+                    else SdilejError
+                )
+                raise error_type(
                     "A preferred quality tier could not be fully verified"
                 )
         return resolved

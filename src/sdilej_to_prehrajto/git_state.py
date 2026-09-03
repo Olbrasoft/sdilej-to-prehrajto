@@ -24,6 +24,7 @@ class GitStatePersister:
     CHECKPOINT_INTERVALS = {
         "source": 4,
         "attempt": 250,
+        "deep_scan": 10,
         "failure": 25,
         "success": 4,
     }

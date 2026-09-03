@@ -33,6 +33,8 @@ REPO_ROOT = repo_root()
 MAX_CONTINUOUS_FILMS = 50
 MAX_PREPARE_FILMS = 200
 MAX_PREPARE_WORKERS = 6
+FAST_DISCOVERY_CANDIDATES = 3
+FAST_DISCOVERY_TIMEOUT_SECONDS = 90
 
 
 def exclude_uploaded_films(
@@ -57,6 +59,7 @@ def prepare_source_batch(
     *,
     max_scan: int,
     deadline_monotonic: float | None,
+    deep_scan_only: bool = False,
 ) -> list[dict]:
     """Search disjoint backlog slices concurrently and merge their results."""
     worker_count = min(len(pipelines), limit)
@@ -64,11 +67,13 @@ def prepare_source_batch(
 
     def prepare(worker_index: int) -> list[dict]:
         worker_limit = base_limit + (1 if worker_index < extra else 0)
+        lane_options = {"deep_scan_only": True} if deep_scan_only else {}
         return pipelines[worker_index].prepare_sources(
             films[worker_index::worker_count],
             worker_limit,
             max_scan=max_scan,
             deadline_monotonic=deadline_monotonic,
+            **lane_options,
         )
 
     if worker_count == 1:
@@ -114,6 +119,38 @@ def parser() -> argparse.ArgumentParser:
         "--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "6"))
     )
     return result
+
+
+def prepare_source_lane(
+    pipelines: list[SyncPipeline],
+    films: list[Film],
+    limit: int,
+    *,
+    max_scan: int,
+    deadline_monotonic: float | None,
+    deep_scan_only: bool = False,
+) -> list[dict]:
+    """Keep one preparation lane active until its workflow deadline."""
+    plan: list[dict] = []
+    pipeline = pipelines[0]
+    while True:
+        batch = prepare_source_batch(
+            pipelines,
+            films,
+            limit,
+            max_scan=max_scan,
+            deadline_monotonic=deadline_monotonic,
+            deep_scan_only=deep_scan_only,
+        )
+        plan.extend(batch)
+        pipeline.selected_sources.compact()
+        pipeline.state.persist_external("flush")
+        if deadline_monotonic is None or time.monotonic() >= deadline_monotonic:
+            break
+        if not batch:
+            remaining = max(0.0, deadline_monotonic - time.monotonic())
+            time.sleep(min(5.0, remaining))
+    return plan
 
 
 def main() -> int:
@@ -184,13 +221,26 @@ def main() -> int:
     if args.max_scan < args.limit:
         raise ValueError("--max-scan must be at least --limit")
     if args.mode == "prepare":
+        if args.prepare_workers > 1:
+            pipeline.source_provider.max_candidates = FAST_DISCOVERY_CANDIDATES
+            pipeline.source_provider.discovery_timeout_seconds = (
+                FAST_DISCOVERY_TIMEOUT_SECONDS
+            )
         prepare_pipelines = [pipeline]
-        for _worker_index in range(1, args.prepare_workers):
+        for worker_index in range(1, args.prepare_workers):
             worker_session = login_sdilej(source_email, source_password)
+            deep_worker = worker_index == args.prepare_workers - 1
             prepare_pipelines.append(
                 SyncPipeline(
                     source_provider=SdilejProvider(
-                        worker_session, WhisperLanguageDetector()
+                        worker_session,
+                        WhisperLanguageDetector(),
+                        max_candidates=(
+                            None if deep_worker else FAST_DISCOVERY_CANDIDATES
+                        ),
+                        discovery_timeout_seconds=(
+                            300 if deep_worker else FAST_DISCOVERY_TIMEOUT_SECONDS
+                        ),
                     ),
                     source_session=worker_session,
                     target_session=target_session,
@@ -207,29 +257,38 @@ def main() -> int:
             if args.prepare_runtime_minutes
             else None
         )
-        plan: list[dict] = []
-        while True:
-            before = (len(pipeline.selected_sources), state.tracked_films())
-            batch = prepare_source_batch(
+        if len(prepare_pipelines) == 1:
+            plan = prepare_source_lane(
                 prepare_pipelines,
                 backlog,
                 args.limit,
                 max_scan=args.max_scan,
                 deadline_monotonic=deadline,
             )
-            plan.extend(batch)
-            pipeline.selected_sources.compact()
-            state.persist_external("flush")
-            after = (len(pipeline.selected_sources), state.tracked_films())
-            if deadline is None or time.monotonic() >= deadline:
-                break
-            if after == before:
-                # A no-change batch does not mean the 28k-film backlog is
-                # exhausted. Previously inspected films may now be deferred,
-                # allowing the next pass to reach a lower backlog segment.
-                # Avoid a hot loop only when every remaining film is deferred.
-                remaining = max(0.0, deadline - time.monotonic())
-                time.sleep(min(5.0, remaining))
+        else:
+            # Keep one worker on difficult films while the remaining workers
+            # continue supplying easy, quickly verified sources.
+            deep_limit = max(1, args.limit // len(prepare_pipelines))
+            fast_limit = max(1, args.limit - deep_limit)
+            with ThreadPoolExecutor(max_workers=2) as executor:
+                fast_future = executor.submit(
+                    prepare_source_lane,
+                    prepare_pipelines[:-1],
+                    backlog,
+                    fast_limit,
+                    max_scan=args.max_scan,
+                    deadline_monotonic=deadline,
+                )
+                deep_future = executor.submit(
+                    prepare_source_lane,
+                    [prepare_pipelines[-1]],
+                    backlog,
+                    deep_limit,
+                    max_scan=args.max_scan,
+                    deadline_monotonic=deadline,
+                    deep_scan_only=True,
+                )
+                plan = fast_future.result() + deep_future.result()
         digest = write_plan(args.plan_out, plan)
         write_report(args.report_out, plan, digest)
         print(f"prepared={len(plan)} plan_sha={digest}")

@@ -4,7 +4,7 @@ from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.pipeline import SyncPipeline, plan_sha
 from sdilej_to_prehrajto.prehrajto import UploadResult
 from sdilej_to_prehrajto.ranking import SELECTION_POLICY
-from sdilej_to_prehrajto.sdilej import SdilejError
+from sdilej_to_prehrajto.sdilej import DeepScanRequired, SdilejError
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.subtitles import SubtitleQueue
@@ -164,6 +164,52 @@ def test_prepare_continues_after_transient_source_discovery_failure(tmp_path) ->
     attempt = state.snapshot(1)["attempts"][-1]
     assert attempt["status"] == "source_discovery_failed"
     assert attempt["selection_policy"] == SELECTION_POLICY
+
+
+def test_fast_prepare_delegates_difficult_film_to_deep_lane(tmp_path) -> None:
+    candidate = Candidate(
+        "deep-source",
+        "https://sdilej.cz/2/deep-source.mkv",
+        "Film One (2000) 1080p CZ",
+        size_bytes=4_000_000_000,
+        duration_sec=6000,
+        width=1920,
+        height=1080,
+        language_tier=LanguageTier.CZECH_AUDIO,
+        audio_language="cs",
+        match_tier=MatchTier.STRONG,
+        filename="deep-source.mkv",
+        video_codec="h264",
+    )
+
+    class FastProvider:
+        def discover(self, _film):
+            raise DeepScanRequired("Too many candidates")
+
+    class DeepProvider:
+        def discover(self, _film):
+            return [candidate]
+
+    state = StateStore(tmp_path / "state.json")
+    selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    common = {
+        "source_session": object(),
+        "target_session": object(),
+        "state": state,
+        "subtitle_queue": SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        "selected_sources": selected_sources,
+    }
+    fast = SyncPipeline(source_provider=FastProvider(), **common)
+    deep = SyncPipeline(source_provider=DeepProvider(), **common)
+    film = Film(1, "film-one", "Film One", None, 2000, 100, "en")
+
+    assert fast.prepare_sources([film], 1) == []
+    assert state.snapshot(1)["attempts"][-1]["status"] == "source_deep_scan_needed"
+
+    prepared = deep.prepare_sources([film], 1, deep_scan_only=True)
+
+    assert prepared[0]["selected"]["source_id"] == "deep-source"
+    assert selected_sources.get(1)["selection_policy"] == SELECTION_POLICY
 
 
 def test_continuous_plan_uses_replacement_after_old_source_failure(tmp_path) -> None:

@@ -24,7 +24,7 @@ from .ranking import (
     minimum_bitrate_mbps,
     rank_candidates,
 )
-from .sdilej import SdilejError
+from .sdilej import DeepScanRequired, SdilejError
 from .state import StateStore, now_iso
 from .subtitles import SubtitleQueue
 from .sources import SelectedSourceStore
@@ -206,6 +206,7 @@ class SyncPipeline:
         *,
         max_scan: int | None = None,
         deadline_monotonic: float | None = None,
+        deep_scan_only: bool = False,
     ) -> list[dict]:
         """Continuously fill the verified-source manifest without uploading."""
         prepared: list[dict] = []
@@ -220,7 +221,12 @@ class SyncPipeline:
             current_source = self.selected_sources.candidate(film.cr_film_id)
             if current_source is not None:
                 continue
-            if self.state.deferred(
+            if deep_scan_only:
+                if not self.state.deep_scan_ready(
+                    film.cr_film_id, selection_policy=SELECTION_POLICY
+                ):
+                    continue
+            elif self.state.deferred(
                 film.cr_film_id, selection_policy=SELECTION_POLICY
             ):
                 continue
@@ -229,6 +235,17 @@ class SyncPipeline:
             inspected += 1
             try:
                 discovered = self.source_provider.discover(film)
+            except DeepScanRequired as error:
+                self.state.record_attempt(
+                    film.cr_film_id,
+                    {
+                        "status": "source_deep_scan_needed",
+                        "permanent": True,
+                        "selection_policy": SELECTION_POLICY,
+                        "reason": type(error).__name__,
+                    },
+                )
+                continue
             except SdilejError as error:
                 # A long-running preparation job must not lose hours of useful
                 # work because one search request was disconnected. Record a
@@ -236,7 +253,11 @@ class SyncPipeline:
                 self.state.record_attempt(
                     film.cr_film_id,
                     {
-                        "status": "source_discovery_failed",
+                        "status": (
+                            "source_deep_scan_failed"
+                            if deep_scan_only
+                            else "source_discovery_failed"
+                        ),
                         "permanent": error.permanent,
                         "selection_policy": SELECTION_POLICY,
                         "reason": type(error).__name__,

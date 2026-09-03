@@ -4,6 +4,7 @@ from sdilej_to_prehrajto.language import LanguageDetectionError
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
+    DeepScanRequired,
     SdilejError,
     SdilejProvider,
     audio_language_hint,
@@ -258,7 +259,11 @@ def test_discovery_uses_probed_original_media_metadata() -> None:
 
     provider = SdilejProvider(
         FakeSession(),
-        FakeDetector(),
+        type(
+            "AlwaysCzechDetector",
+            (),
+            {"detect": lambda self, _url: ("cs", 0.99)},
+        )(),
         max_candidates=1,
         request_gap_seconds=0,
         media_probe=probe,
@@ -378,6 +383,19 @@ def test_discovery_does_not_choose_larger_same_tier_after_smaller_failure() -> N
     )
 
     with pytest.raises(SdilejError, match="could not be fully verified"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+
+def test_fast_discovery_delegates_after_candidate_budget() -> None:
+    provider = SdilejProvider(
+        FakeSession(),
+        FakeDetector(),
+        max_candidates=1,
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    with pytest.raises(DeepScanRequired, match="Candidate limit"):
         provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
 
 

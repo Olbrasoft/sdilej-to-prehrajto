@@ -52,6 +52,13 @@ def test_git_checkpoints_batch_negative_discovery_results(tmp_path, monkeypatch)
     persister(state_path, "attempt")
     assert persisted == [(state_path, "attempt")]
 
+    for _index in range(9):
+        persister(state_path, "deep_scan")
+    assert persisted == [(state_path, "attempt")]
+
+    persister(state_path, "deep_scan")
+    assert persisted == [(state_path, "attempt"), (state_path, "deep_scan")]
+
 
 def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:
     persister = GitStatePersister(tmp_path)
