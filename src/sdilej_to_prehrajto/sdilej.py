@@ -36,7 +36,10 @@ USER_AGENT = (
 )
 VIDEO_URL_RE = re.compile(r"^https://sdilej\.cz/(?P<id>\d+)/")
 VIDEO_EXTENSIONS = {"avi", "m2ts", "m4v", "mkv", "mov", "mp4", "mpeg", "mpg", "ts", "webm", "wmv"}
-SIZE_RE = re.compile(r"(?P<value>\d+(?:[.,]\d+)?)\s*(?P<unit>KB|MB|GB)", re.I)
+SIZE_RE = re.compile(
+    r"(?P<value>\d+(?:[.,]\d+)?)\s*(?P<unit>KB|MB|GB)(?![A-Za-z])",
+    re.I,
+)
 DURATION_RE = re.compile(r"(?:Délka:\s*)?(?P<time>\d{1,2}:\d{2}:\d{2})", re.I)
 DIMENSIONS_RE = re.compile(r"(?P<width>\d{3,4})\s*[x×]\s*(?P<height>\d{3,4})", re.I)
 PLAYER_URL_RE = re.compile(

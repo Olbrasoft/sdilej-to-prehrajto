@@ -9,6 +9,7 @@ from sdilej_to_prehrajto.sdilej import (
     audio_language_hint,
     parse_detail_html,
     parse_search_html,
+    parse_size,
 )
 
 
@@ -41,6 +42,12 @@ def test_search_parser_reads_quality_size_and_runtime() -> None:
     assert rows[0].size_bytes == 6_200_000_000
     assert rows[0].duration_sec == 6005
     assert (rows[0].width, rows[0].height) == (3840, 2160)
+
+
+def test_size_parser_does_not_treat_gbr_country_code_as_gigabytes() -> None:
+    page_text = "Network (1976 GBR) Velikost 1.8 GB"
+
+    assert parse_size(page_text) == 1_800_000_000
 
 
 def test_detail_parser_uses_original_metadata_and_fast_link() -> None:
