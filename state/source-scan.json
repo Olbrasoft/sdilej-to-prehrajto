@@ -1566,13 +1566,6 @@
     "173": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-29T20:08:26.271561+00:00"
-        },
-        {
           "status": "source_discovery_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v12",
@@ -1585,6 +1578,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-03T14:56:49.487766+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T20:43:01.912391+00:00"
         }
       ]
     },
@@ -63646,13 +63646,6 @@
     "715": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "DeepScanRequired",
-          "attempted_at": "2026-09-03T16:33:57.228032+00:00"
-        },
-        {
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
@@ -63665,6 +63658,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-03T18:38:52.061231+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "SdilejError",
+          "attempted_at": "2026-09-03T20:43:03.979170+00:00"
         }
       ]
     },
@@ -143867,6 +143867,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-31T03:07:36.183451+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T20:43:02.711668+00:00"
         }
       ]
     },
@@ -145879,6 +145886,13 @@
           "selection_policy": "compact-quality-v12",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-08-31T03:15:14.497115+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "DeepScanRequired",
+          "attempted_at": "2026-09-03T20:43:09.225023+00:00"
         }
       ]
     },
@@ -366171,5 +366185,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-03T20:42:36.777939+00:00"
+  "updated_at": "2026-09-03T20:43:09.225063+00:00"
 }
