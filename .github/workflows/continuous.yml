@@ -59,7 +59,10 @@ jobs:
               --limit "${{ vars.CONTINUOUS_BATCH_SIZE || '50' }}" \
               --persist-git-state 2>&1 | tee /dev/stderr)
             if grep -q "planned=0" <<<"$sync_output"; then
-              sleep 120
+              # Source preparation publishes small verified batches. Poll
+              # frequently enough that an empty queue does not add another
+              # multi-minute gap before the next relay starts.
+              sleep 30
             else
               sleep 5
             fi

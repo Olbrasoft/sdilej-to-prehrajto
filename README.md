@@ -22,7 +22,7 @@ postupně připravit celý backlog. Pět rychlých přípravných workerů kontr
 první tři kandidáty jednoho filmu. Kandidátsky náročný film pak uloží do trvalé
 hluboké fronty, kterou souběžně zpracovává šestý worker bez omezení počtu
 kandidátů. Uploader po stejnou dobu opakovaně odebírá připravené dávky po šesti
-přenosech současně. Pokud je fronta krátce prázdná, čeká dvě minuty a znovu
+přenosech současně. Pokud je fronta krátce prázdná, čeká 30 sekund a znovu
 načte nové checkpointy produceru. Oba hodinové triggery se díky vlastním
 concurrency skupinám průběžně střídají bez vzájemného blokování.
 
