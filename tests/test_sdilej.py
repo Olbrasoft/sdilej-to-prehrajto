@@ -175,6 +175,30 @@ def test_discovery_deadline_defers_film_without_searching() -> None:
     assert session.seen_urls == []
 
 
+def test_discovery_deadline_during_verification_is_retryable(monkeypatch) -> None:
+    provider = SdilejProvider(
+        FakeSession(),
+        FakeDetector(),
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+    expired = False
+
+    def fail_verification(_film, _candidate):
+        nonlocal expired
+        expired = True
+        raise LanguageDetectionError("temporary sample failure")
+
+    monkeypatch.setattr(provider, "_verify_candidate", fail_verification)
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.sdilej.time.monotonic",
+        lambda: 301.0 if expired else 0.0,
+    )
+
+    with pytest.raises(SdilejError, match="verification completed"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+
 def test_audio_hint_distinguishes_dubbing_from_subtitles() -> None:
     assert audio_language_hint("Schindleruv seznam 4K CZ.mkv") == "cs"
     assert audio_language_hint("Schindleruv seznam CZ dubbing.mkv") == "cs"

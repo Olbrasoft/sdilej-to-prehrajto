@@ -35,6 +35,24 @@ def test_git_checkpoints_batch_events_and_ignore_claims(tmp_path, monkeypatch) -
     assert persisted == [(state_path, "source")] * 5 + [(state_path, "success")]
 
 
+def test_git_checkpoints_batch_negative_discovery_results(tmp_path, monkeypatch) -> None:
+    persister = GitStatePersister(tmp_path)
+    persisted = []
+    monkeypatch.setattr(
+        persister,
+        "_persist",
+        lambda state_path, event: persisted.append((state_path, event)),
+    )
+    state_path = tmp_path / "state.json"
+
+    for _index in range(249):
+        persister(state_path, "attempt")
+    assert persisted == []
+
+    persister(state_path, "attempt")
+    assert persisted == [(state_path, "attempt")]
+
+
 def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:
     persister = GitStatePersister(tmp_path)
     persisted = []

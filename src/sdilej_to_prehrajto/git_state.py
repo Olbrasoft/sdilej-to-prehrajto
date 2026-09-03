@@ -16,8 +16,17 @@ class GitStatePersister:
     PUSH_ATTEMPTS = 5
     INITIAL_SOURCE_CHECKPOINTS = 4
     # Publish one upload-shard-sized source batch at a time. Keeping 25 sources
-    # only inside a producer runner starves the four upload workers for too long.
-    CHECKPOINT_INTERVALS = {"source": 4, "attempt": 25, "failure": 25, "success": 4}
+    # only inside a producer runner starves the six upload workers for too long.
+    # Negative discovery results are cheap and common during a full backlog
+    # rescan. Persist them in larger batches so six preparation workers do not
+    # create a bot commit every few seconds. Verified sources and uploads still
+    # use small batches because those checkpoints feed the live upload queue.
+    CHECKPOINT_INTERVALS = {
+        "source": 4,
+        "attempt": 250,
+        "failure": 25,
+        "success": 4,
+    }
 
     def __init__(self, repo_root: Path, extra_paths: tuple[Path, ...] = ()):
         self.repo_root = repo_root.resolve()

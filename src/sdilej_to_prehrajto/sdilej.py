@@ -416,7 +416,12 @@ class SdilejProvider:
                 # preparation for tens of minutes on the same candidate.
                 for _attempt in range(2):
                     if time.monotonic() >= deadline:
-                        return []
+                        # An expired verification is not proof that no source
+                        # exists. Let the caller record a short retry instead
+                        # of incorrectly deferring this film for 30 days.
+                        raise SdilejError(
+                            "Discovery deadline expired before verification completed"
+                        )
                     try:
                         detail = self._verify_candidate(film, candidate)
                         verification_completed = True
