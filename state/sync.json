@@ -14603,21 +14603,9 @@
           "attempted_at": "2026-09-03T20:07:28.590470+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32945753",
-        "display_name": "Dravé ryby (1983) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T20:40:14.089182+00:00"
-      },
-      "claim": {
-        "worker_id": "acf731ccb64b4332b505039ce33c5296-shard-3",
-        "claimed_at": "2026-09-03T20:40:27.221779+00:00",
-        "lease_expires_at": "2026-09-04T02:40:27.221779+00:00",
-        "run_id": "33802191147"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29067769",
-        "size_bytes": 2021522774,
-        "prepared_at": "2026-09-03T20:40:30.359874+00:00"
+        "uploaded_at": "2026-09-03T20:50:51.236700+00:00"
       }
     },
     "1989": {
@@ -14760,7 +14748,15 @@
       "attempts": []
     },
     "20441": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32254490",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T20:50:27.771321+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32254490",
         "display_name": "Dokonalá sousedka (2025) 1080p CZ Dabing",
@@ -14790,10 +14786,9 @@
     },
     "19939": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "17904416",
-        "display_name": "Sbohem Kryštůfku Robine (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T20:40:14.604413+00:00"
+      "upload": {
+        "target_video_id": "29067664",
+        "uploaded_at": "2026-09-03T20:50:29.589059+00:00"
       }
     },
     "1649": {
@@ -14807,10 +14802,9 @@
     },
     "19811": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "27903559",
-        "display_name": "Medvídek Pú (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T20:40:14.707196+00:00"
+      "upload": {
+        "target_video_id": "29067672",
+        "uploaded_at": "2026-09-03T20:50:32.764364+00:00"
       }
     },
     "15887": {
@@ -14831,6 +14825,17 @@
         "source_id": "34849578",
         "display_name": "Spálené vzpomínky (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-03T20:40:14.810292+00:00"
+      },
+      "claim": {
+        "worker_id": "acf731ccb64b4332b505039ce33c5296-shard-5",
+        "claimed_at": "2026-09-03T20:50:32.897395+00:00",
+        "lease_expires_at": "2026-09-04T02:50:32.897395+00:00",
+        "run_id": "33802191147"
+      },
+      "prepared": {
+        "target_video_id": "29067944",
+        "size_bytes": 2689308900,
+        "prepared_at": "2026-09-03T20:50:35.983896+00:00"
       }
     },
     "18989": {
@@ -14880,10 +14885,9 @@
     },
     "21525": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "32710855",
-        "display_name": "Moucha (1958) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T20:40:14.914826+00:00"
+      "upload": {
+        "target_video_id": "29067743",
+        "uploaded_at": "2026-09-03T20:50:53.062397+00:00"
       }
     },
     "22605": {
@@ -98745,5 +98749,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-03T20:49:37.924240+00:00"
+  "updated_at": "2026-09-03T20:50:53.062414+00:00"
 }
