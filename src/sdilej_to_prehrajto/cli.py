@@ -32,6 +32,7 @@ def repo_root() -> Path:
 REPO_ROOT = repo_root()
 MAX_CONTINUOUS_FILMS = 50
 MAX_PREPARE_FILMS = 200
+MAX_PREPARE_WORKERS = 6
 
 
 def exclude_uploaded_films(
@@ -138,8 +139,10 @@ def main() -> int:
         raise ValueError("--workers must be between 1 and 6")
     if not 0 <= args.prepare_runtime_minutes <= 330:
         raise ValueError("--prepare-runtime-minutes must be between 0 and 330")
-    if not 1 <= args.prepare_workers <= 2:
-        raise ValueError("--prepare-workers must be between 1 and 2")
+    if not 1 <= args.prepare_workers <= MAX_PREPARE_WORKERS:
+        raise ValueError(
+            f"--prepare-workers must be between 1 and {MAX_PREPARE_WORKERS}"
+        )
     default_state = REPO_ROOT / "state/sync.json"
     if args.mode in {"plan", "prepare"} and args.state.resolve() == default_state:
         args.state = REPO_ROOT / "state/source-scan.json"

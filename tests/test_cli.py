@@ -1,8 +1,11 @@
 from sdilej_to_prehrajto.cli import (
+    MAX_PREPARE_WORKERS,
     additional_worker_count,
     exclude_uploaded_films,
     prepare_source_batch,
 )
+from sdilej_to_prehrajto.models import Film
+from sdilej_to_prehrajto.state import StateStore
 
 
 def test_empty_plan_does_not_create_additional_workers() -> None:
@@ -12,8 +15,10 @@ def test_empty_plan_does_not_create_additional_workers() -> None:
     assert additional_worker_count(6, 6) == 5
     assert additional_worker_count(6, 0, refill_enabled=True) == 0
     assert additional_worker_count(6, 1, refill_enabled=True) == 5
-from sdilej_to_prehrajto.models import Film
-from sdilej_to_prehrajto.state import StateStore
+
+
+def test_preparation_supports_six_independent_workers() -> None:
+    assert MAX_PREPARE_WORKERS == 6
 
 
 def test_prepare_backlog_excludes_already_uploaded_films(tmp_path) -> None:

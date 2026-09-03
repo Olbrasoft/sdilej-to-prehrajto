@@ -27,6 +27,8 @@ class WhisperLanguageDetector:
             os.environ.get("WHISPER_MODEL", "small"),
             device=os.environ.get("WHISPER_DEVICE", "cpu"),
             compute_type=os.environ.get("WHISPER_COMPUTE_TYPE", "int8"),
+            cpu_threads=int(os.environ.get("WHISPER_CPU_THREADS", "0")),
+            num_workers=int(os.environ.get("WHISPER_NUM_WORKERS", "1")),
         )
         return self._model
 
