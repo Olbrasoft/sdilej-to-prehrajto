@@ -14361,21 +14361,9 @@
     },
     "23020": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33652005",
-        "display_name": "Dobrodružství Barona Prášila (1988) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T18:17:52.999733+00:00"
-      },
-      "claim": {
-        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-3",
-        "claimed_at": "2026-09-03T19:52:59.298318+00:00",
-        "lease_expires_at": "2026-09-04T01:52:59.298318+00:00",
-        "run_id": "33767109114"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29067112",
-        "size_bytes": 3015855892,
-        "prepared_at": "2026-09-03T19:53:02.460726+00:00"
+        "uploaded_at": "2026-09-03T20:06:43.334722+00:00"
       }
     },
     "20671": {
@@ -14416,21 +14404,9 @@
     },
     "11088": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "18541497",
-        "display_name": "Dobrodružství Poseidonu (1972) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T18:17:53.118817+00:00"
-      },
-      "claim": {
-        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-5",
-        "claimed_at": "2026-09-03T19:53:34.726742+00:00",
-        "lease_expires_at": "2026-09-04T01:53:34.726742+00:00",
-        "run_id": "33767109114"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29067119",
-        "size_bytes": 2543312968,
-        "prepared_at": "2026-09-03T19:53:37.906162+00:00"
+        "uploaded_at": "2026-09-03T20:05:18.882287+00:00"
       }
     },
     "19618": {
@@ -14521,10 +14497,9 @@
     },
     "22168": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33940325",
-        "display_name": "Spáč (1973) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T18:17:53.476063+00:00"
+      "upload": {
+        "target_video_id": "29067249",
+        "uploaded_at": "2026-09-03T20:12:38.282308+00:00"
       }
     },
     "25040": {
@@ -14537,7 +14512,15 @@
       "attempts": []
     },
     "14578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25671141",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T20:06:04.145489+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25671141",
         "display_name": "Slepý muž, který neviděl Titanic (2021) 1080p CZ Dabing",
@@ -14579,10 +14562,9 @@
     },
     "11729": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "29859187",
-        "display_name": "Znásilnění (1988) 1080p CZ Dabing",
-        "planned_at": "2026-09-03T18:17:53.705509+00:00"
+      "upload": {
+        "target_video_id": "29067260",
+        "uploaded_at": "2026-09-03T20:12:00.916983+00:00"
       }
     },
     "1936": {
@@ -14604,7 +14586,15 @@
       "attempts": []
     },
     "22699": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32945753",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-03T20:07:28.590470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32945753",
         "display_name": "Dravé ryby (1983) 1080p CZ Dabing",
@@ -14629,6 +14619,17 @@
         "source_id": "34864327",
         "display_name": "Démanty noci (1964) 1080p CZ Dabing",
         "planned_at": "2026-09-03T18:17:53.945094+00:00"
+      },
+      "claim": {
+        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-3",
+        "claimed_at": "2026-09-03T20:07:28.709303+00:00",
+        "lease_expires_at": "2026-09-04T02:07:28.709303+00:00",
+        "run_id": "33767109114"
+      },
+      "prepared": {
+        "target_video_id": "29067283",
+        "size_bytes": 3090994274,
+        "prepared_at": "2026-09-03T20:07:32.273416+00:00"
       }
     },
     "25857": {
@@ -14658,6 +14659,17 @@
         "source_id": "18134018",
         "display_name": "Angel-A (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-03T18:17:54.060298+00:00"
+      },
+      "claim": {
+        "worker_id": "a639d6994d2f464dbf306bcaf77d9676-shard-5",
+        "claimed_at": "2026-09-03T20:12:01.019959+00:00",
+        "lease_expires_at": "2026-09-04T02:12:01.019959+00:00",
+        "run_id": "33767109114"
+      },
+      "prepared": {
+        "target_video_id": "29067350",
+        "size_bytes": 7897103720,
+        "prepared_at": "2026-09-03T20:12:04.636020+00:00"
       }
     },
     "1955": {
@@ -98533,5 +98545,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-03T20:05:05.556004+00:00"
+  "updated_at": "2026-09-03T20:12:38.282326+00:00"
 }
