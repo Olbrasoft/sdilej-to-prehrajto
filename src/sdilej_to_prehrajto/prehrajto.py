@@ -216,6 +216,11 @@ def _uploaded_video_id_from_html(
     soup = BeautifulSoup(html_text, "html.parser")
     named_elements = soup.find_all(["h1", "h2", "h3", "input"])
     for element in named_elements:
+        # Rename forms keep an extension-free input value while the visible
+        # heading still says "(Zpracovává se)". Only visible headings are
+        # authoritative proof that target processing has finished.
+        if not include_processing and element.name == "input":
+            continue
         visible_name = PROCESSING_SUFFIX_RE.sub(
             "", _visible_uploaded_name(element)
         ).casefold().strip()

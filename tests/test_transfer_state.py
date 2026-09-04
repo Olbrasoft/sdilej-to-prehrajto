@@ -68,8 +68,10 @@ def test_uploaded_video_lookup_requires_exact_display_name() -> None:
             self.params = kwargs.get("params")
             return Response(
                 text=(
-                    '<div data-video-id="777"><h3>Film (2000) 4K CZ Dabing.mkv '
-                    '(Zpracovává se)</h3></div>'
+                    '<div data-video-id="777">'
+                    '<h3>Film (2000) 4K CZ Dabing.mkv (Zpracovává se)</h3>'
+                    '<input value="Film (2000) 4K CZ Dabing">'
+                    "</div>"
                     '<div data-video-id="778"><input value="Film (2000) 4K.mkv"></div>'
                 )
             )
