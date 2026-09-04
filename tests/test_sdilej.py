@@ -5,6 +5,7 @@ from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
     DeepScanRequired,
+    PremiumRequiredError,
     SdilejError,
     SdilejProvider,
     audio_language_hint,
@@ -64,12 +65,9 @@ def test_detail_parser_uses_original_metadata_and_fast_link() -> None:
 def test_detail_parser_rejects_nonpremium_button() -> None:
     candidate = Candidate("1", "https://sdilej.cz/1/x", "x")
     html = '<h1>x.mkv</h1><a href="/cenik">Stáhnout rychle</a>'
-    try:
+
+    with pytest.raises(PremiumRequiredError, match="premium"):
         parse_detail_html(html, candidate)
-    except Exception as error:
-        assert "premium" in str(error).lower()
-    else:
-        raise AssertionError("non-premium link was accepted")
 
 
 class FakeResponse:

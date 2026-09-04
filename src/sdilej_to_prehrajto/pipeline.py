@@ -24,7 +24,7 @@ from .ranking import (
     minimum_bitrate_mbps,
     rank_candidates,
 )
-from .sdilej import DeepScanRequired, SdilejError
+from .sdilej import DeepScanRequired, PremiumRequiredError, SdilejError
 from .state import StateStore, now_iso
 from .subtitles import SubtitleQueue
 from .sources import SelectedSourceStore
@@ -235,6 +235,10 @@ class SyncPipeline:
             inspected += 1
             try:
                 discovered = self.source_provider.discover(film)
+            except PremiumRequiredError:
+                # Missing fast-download entitlement affects every source.
+                # Fail the workflow visibly instead of scanning the backlog.
+                raise
             except DeepScanRequired as error:
                 self.state.record_attempt(
                     film.cr_film_id,
@@ -376,13 +380,28 @@ class SyncPipeline:
             if refresh:
                 try:
                     refreshed = refresh(candidate, session=source_session)
+                except PremiumRequiredError as error:
+                    self.state.record_upload_failure(
+                        film.cr_film_id,
+                        {
+                            "status": "source_premium_required",
+                            "source_id": candidate.source_id,
+                            "reason": str(error),
+                            "permanent": False,
+                        },
+                    )
+                    raise
                 except Exception as error:
                     self.state.record_upload_failure(
                         film.cr_film_id,
                         {
                             "status": "source_refresh_failed",
                             "source_id": candidate.source_id,
-                            "reason": type(error).__name__,
+                            "reason": (
+                                str(error)
+                                if isinstance(error, SdilejError)
+                                else type(error).__name__
+                            ),
                             "permanent": False,
                         },
                     )

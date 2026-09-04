@@ -58,6 +58,10 @@ class DeepScanRequired(SdilejError):
     """The fast discovery lane found work that needs exhaustive verification."""
 
 
+class PremiumRequiredError(SdilejError):
+    """The authenticated source account cannot access fast downloads."""
+
+
 def slugify(value: str) -> str:
     normalized = unicodedata.normalize("NFKD", value)
     normalized = "".join(
@@ -158,7 +162,7 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
         None,
     )
     if not fast_link:
-        raise SdilejError(
+        raise PremiumRequiredError(
             "Authenticated fast download link is unavailable; premium login is required"
         )
     player_match = PLAYER_URL_RE.search(html.unescape(html_text))
@@ -450,6 +454,10 @@ class SdilejProvider:
                         detail = self._verify_candidate(film, candidate)
                         verification_completed = True
                         break
+                    except PremiumRequiredError:
+                        # This is an account-wide prerequisite, not a broken
+                        # candidate. Retrying other films only burns the runner.
+                        raise
                     except (
                         SdilejError,
                         LanguageDetectionError,
