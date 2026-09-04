@@ -507057,13 +507057,6 @@
           "permanent": false,
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
-          "attempted_at": "2026-09-04T06:58:05.763538+00:00"
-        },
-        {
-          "status": "source_deep_scan_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "SdilejError",
           "attempted_at": "2026-09-04T08:00:05.568581+00:00"
         },
         {
@@ -507072,6 +507065,14 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-04T10:13:20.136351+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-09-04T10:44:26.162846+00:00"
         }
       ]
     },
@@ -512468,13 +512469,6 @@
     "9896": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "DeepScanRequired",
-          "attempted_at": "2026-09-04T06:54:39.788921+00:00"
-        },
-        {
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
@@ -512487,6 +512481,14 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-04T08:12:05.762537+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-09-04T10:45:27.602334+00:00"
         }
       ]
     },
@@ -546045,5 +546047,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-04T10:43:33.308894+00:00"
+  "updated_at": "2026-09-04T10:45:27.602358+00:00"
 }
