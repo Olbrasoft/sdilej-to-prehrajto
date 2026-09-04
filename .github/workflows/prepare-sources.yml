@@ -17,8 +17,8 @@ jobs:
       contents: write
     env:
       HF_HOME: /tmp/huggingface
-      # Five fast discovery shards keep the upload queue supplied while one
-      # deep shard handles candidate-heavy films. Limit each Whisper model to
+      # Three fast discovery shards keep the upload queue supplied while three
+      # deep shards drain candidate-heavy films. Limit each Whisper model to
       # one CPU thread to avoid 6x oversubscription.
       WHISPER_CPU_THREADS: "1"
       WHISPER_NUM_WORKERS: "1"

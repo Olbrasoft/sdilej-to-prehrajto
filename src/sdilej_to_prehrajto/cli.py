@@ -33,6 +33,7 @@ REPO_ROOT = repo_root()
 MAX_CONTINUOUS_FILMS = 50
 MAX_PREPARE_FILMS = 200
 MAX_PREPARE_WORKERS = 6
+MAX_DEEP_PREPARE_WORKERS = 3
 FAST_DISCOVERY_CANDIDATES = 3
 FAST_DISCOVERY_TIMEOUT_SECONDS = 90
 
@@ -50,6 +51,11 @@ def additional_worker_count(
         return 0
     capacity = workers if refill_enabled else min(workers, plan_size)
     return max(0, capacity - 1)
+
+
+def deep_prepare_worker_count(workers: int) -> int:
+    """Reserve fast capacity while scaling the accumulated deep queue."""
+    return min(MAX_DEEP_PREPARE_WORKERS, max(0, workers - 1))
 
 
 def prepare_source_batch(
@@ -226,6 +232,7 @@ def main() -> int:
     if args.max_scan < args.limit:
         raise ValueError("--max-scan must be at least --limit")
     if args.mode == "prepare":
+        deep_workers = deep_prepare_worker_count(args.prepare_workers)
         if args.prepare_workers > 1:
             pipeline.source_provider.max_candidates = FAST_DISCOVERY_CANDIDATES
             pipeline.source_provider.discovery_timeout_seconds = (
@@ -234,7 +241,7 @@ def main() -> int:
         prepare_pipelines = [pipeline]
         for worker_index in range(1, args.prepare_workers):
             worker_session = login_sdilej(source_email, source_password)
-            deep_worker = worker_index == args.prepare_workers - 1
+            deep_worker = worker_index >= args.prepare_workers - deep_workers
             prepare_pipelines.append(
                 SyncPipeline(
                     source_provider=SdilejProvider(
@@ -272,14 +279,16 @@ def main() -> int:
                 deadline_monotonic=deadline,
             )
         else:
-            # Keep one worker on difficult films while the remaining workers
-            # continue supplying easy, quickly verified sources.
+            # Keep dedicated workers on difficult films while the remaining
+            # workers continue supplying easy, quickly verified sources.
+            fast_pipelines = prepare_pipelines[:-deep_workers]
+            deep_pipelines = prepare_pipelines[-deep_workers:]
             deep_limit = max(1, args.limit // len(prepare_pipelines))
             fast_limit = max(1, args.limit - deep_limit)
             with ThreadPoolExecutor(max_workers=2) as executor:
                 fast_future = executor.submit(
                     prepare_source_lane,
-                    prepare_pipelines[:-1],
+                    fast_pipelines,
                     backlog,
                     fast_limit,
                     max_scan=args.max_scan,
@@ -287,7 +296,7 @@ def main() -> int:
                 )
                 deep_future = executor.submit(
                     prepare_source_lane,
-                    [prepare_pipelines[-1]],
+                    deep_pipelines,
                     backlog,
                     deep_limit,
                     max_scan=args.max_scan,

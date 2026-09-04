@@ -1,6 +1,7 @@
 from sdilej_to_prehrajto.cli import (
     MAX_PREPARE_WORKERS,
     additional_worker_count,
+    deep_prepare_worker_count,
     exclude_uploaded_films,
     prepare_source_batch,
     prepare_source_lane,
@@ -20,6 +21,13 @@ def test_empty_plan_does_not_create_additional_workers() -> None:
 
 def test_preparation_supports_six_independent_workers() -> None:
     assert MAX_PREPARE_WORKERS == 6
+
+
+def test_preparation_reserves_three_workers_for_deep_queue() -> None:
+    assert deep_prepare_worker_count(1) == 0
+    assert deep_prepare_worker_count(2) == 1
+    assert deep_prepare_worker_count(4) == 3
+    assert deep_prepare_worker_count(6) == 3
 
 
 def test_prepare_backlog_excludes_already_uploaded_films(tmp_path) -> None:
