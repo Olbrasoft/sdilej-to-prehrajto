@@ -184,6 +184,7 @@ class StateStore:
                 "source_discovery_failed",
                 "source_refresh_failed",
                 "stale_prepared_released",
+                "target_processing",
                 "upload_failed",
             }:
                 # Discovery and transfer failures are usually temporary remote
@@ -267,6 +268,36 @@ class StateStore:
             row.pop("prepared", None)
             row.pop("claim", None)
             self.save("failure")
+
+    def record_target_processing(
+        self,
+        film_id: int,
+        *,
+        video_id: str,
+        size: int,
+        source_id: str,
+    ) -> None:
+        """Keep an accepted upload pending until target processing finishes."""
+        with self._lock:
+            row = self.film(film_id)
+            prepared_at = row.get("prepared", {}).get("prepared_at") or now_iso()
+            row["prepared"] = {
+                "target_video_id": video_id,
+                "size_bytes": size,
+                "prepared_at": prepared_at,
+            }
+            row.setdefault("attempts", []).append(
+                {
+                    "status": "target_processing",
+                    "source_id": source_id,
+                    "target_video_id": video_id,
+                    "permanent": False,
+                    "attempted_at": now_iso(),
+                }
+            )
+            row["attempts"] = row["attempts"][-3:]
+            row.pop("claim", None)
+            self.save("processing")
 
     def record_success(self, film_id: int, upload: dict) -> None:
         with self._lock:

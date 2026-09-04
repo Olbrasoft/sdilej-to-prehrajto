@@ -1,5 +1,7 @@
 import threading
 
+import pytest
+
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.pipeline import SyncPipeline, plan_sha
 from sdilej_to_prehrajto.prehrajto import UploadResult
@@ -589,3 +591,60 @@ def test_execute_refreshes_fast_url_immediately_with_worker_session(
     )
     pipeline.execute(plan, session_pairs=[("worker-source", "worker-target")])
     assert refreshed_with == ["worker-source"]
+
+
+def test_execute_keeps_existing_processing_video_pending(
+    tmp_path, monkeypatch
+) -> None:
+    state = StateStore(tmp_path / "state.json")
+    pipeline = SyncPipeline(
+        source_provider=object(),
+        source_session="source",
+        target_session="target",
+        state=state,
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    film = Film(1, "film", "Film", None, 2000, 90, "en")
+    selected = Candidate(
+        "source-1",
+        "https://sdilej.cz/1/film.mkv",
+        "Film",
+        size_bytes=123,
+        width=1920,
+        height=1080,
+        language_tier=LanguageTier.CZECH_AUDIO,
+        match_tier=MatchTier.STRONG,
+        filename="film.mkv",
+    )
+    pipeline._selected[1] = selected
+    plan = [
+        {
+            "film": film.to_dict(),
+            "selected": selected.to_dict(),
+            "display_name": "Film (2000) 1080p CZ Dabing",
+            "needs_czech_subtitles": False,
+        }
+    ]
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.pipeline.uploaded_video_id_by_name",
+        lambda _session, _name: "777",
+    )
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.pipeline.uploaded_video_confirmed",
+        lambda _session, _video_id, _name: False,
+    )
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.pipeline.uploaded_video_count",
+        lambda _session: 2375,
+    )
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.pipeline.relay_upload",
+        lambda *_args, **_kwargs: pytest.fail("processing video must not be reuploaded"),
+    )
+
+    pipeline.execute(plan)
+
+    assert state.pending_prepared(1)
+    assert not state.uploaded(1)
+    assert state.snapshot(1)["attempts"][-1]["status"] == "target_processing"

@@ -424,14 +424,24 @@ class SyncPipeline:
                 target_session, row["display_name"]
             )
             if existing_video_id:
-                upload = self._upload_record(
-                    row,
-                    candidate,
-                    video_id=existing_video_id,
-                    size_bytes=int(candidate.size_bytes or 0),
-                    completion_evidence="reconciled_exact_uploaded_name",
-                )
-                self._finish_success(film, candidate, row, upload)
+                if self._target_confirmed(
+                    target_session, existing_video_id, row["display_name"]
+                ):
+                    upload = self._upload_record(
+                        row,
+                        candidate,
+                        video_id=existing_video_id,
+                        size_bytes=int(candidate.size_bytes or 0),
+                        completion_evidence="reconciled_exact_uploaded_name",
+                    )
+                    self._finish_success(film, candidate, row, upload)
+                else:
+                    self.state.record_target_processing(
+                        film.cr_film_id,
+                        video_id=existing_video_id,
+                        size=int(candidate.size_bytes or 0),
+                        source_id=candidate.source_id,
+                    )
                 continue
             checkpoint = self.state.snapshot(film.cr_film_id)
             prepared = checkpoint.get("prepared")
@@ -448,6 +458,15 @@ class SyncPipeline:
                         completion_evidence="reconciled_statistics_and_uploaded_listing",
                     )
                     self._finish_success(film, candidate, row, upload)
+                elif self._target_id_by_name(
+                    target_session, row["display_name"]
+                ) == video_id:
+                    self.state.record_target_processing(
+                        film.cr_film_id,
+                        video_id=video_id,
+                        size=int(prepared["size_bytes"]),
+                        source_id=candidate.source_id,
+                    )
                 else:
                     self.state.record_upload_failure(
                         film.cr_film_id,
@@ -488,6 +507,15 @@ class SyncPipeline:
                         completion_evidence="reconciled_after_relay_error",
                     )
                     self._finish_success(film, candidate, row, upload)
+                elif target_video_id and self._target_id_by_name(
+                    target_session, row["display_name"]
+                ) == str(target_video_id):
+                    self.state.record_target_processing(
+                        film.cr_film_id,
+                        video_id=str(target_video_id),
+                        size=int(prepared.get("size_bytes") or candidate.size_bytes or 0),
+                        source_id=candidate.source_id,
+                    )
                 else:
                     self.state.record_upload_failure(
                         film.cr_film_id,
@@ -508,7 +536,15 @@ class SyncPipeline:
                 size_bytes=result.size_bytes,
                 completion_evidence="relay_completed",
             )
-            self._finish_success(film, candidate, row, upload)
+            if result.completed:
+                self._finish_success(film, candidate, row, upload)
+            else:
+                self.state.record_target_processing(
+                    film.cr_film_id,
+                    video_id=result.video_id,
+                    size=result.size_bytes,
+                    source_id=candidate.source_id,
+                )
 
     def execute(
         self,

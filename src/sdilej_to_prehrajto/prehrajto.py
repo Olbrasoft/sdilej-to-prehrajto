@@ -181,23 +181,44 @@ def uploaded_video_confirmed(
         timeout=30,
     )
     response.raise_for_status()
-    return _uploaded_video_id_from_html(response.text, display_name) == video_id
+    return (
+        _uploaded_video_id_from_html(
+            response.text,
+            display_name,
+            include_processing=False,
+        )
+        == video_id
+    )
+
+
+PROCESSING_SUFFIX_RE = re.compile(r"\s*\(zpracovává se\)\s*$", re.I)
+
+
+def _visible_uploaded_name(element) -> str:
+    return (element.get("value", "") or element.get_text(" ", strip=True)).strip()
 
 
 def _normalized_uploaded_name(element) -> str:
-    visible_name = (element.get("value", "") or element.get_text(" ", strip=True))
-    visible_name = visible_name.casefold()
-    visible_name = re.sub(r"\s*\(zpracovává se\)\s*$", "", visible_name)
-    return re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name).strip()
+    visible_name = PROCESSING_SUFFIX_RE.sub("", _visible_uploaded_name(element))
+    return re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name).casefold().strip()
 
 
-def _uploaded_video_id_from_html(html_text: str, display_name: str) -> str | None:
+def _uploaded_video_id_from_html(
+    html_text: str,
+    display_name: str,
+    *,
+    include_processing: bool = True,
+) -> str | None:
     """Find an exact uploaded name and ID belonging to the same listing row."""
     wanted = display_name.casefold().strip()
     soup = BeautifulSoup(html_text, "html.parser")
     named_elements = soup.find_all(["h1", "h2", "h3", "input"])
     for element in named_elements:
         if _normalized_uploaded_name(element) != wanted:
+            continue
+        if not include_processing and PROCESSING_SUFFIX_RE.search(
+            _visible_uploaded_name(element)
+        ):
             continue
         node = element
         for _level in range(8):
@@ -253,11 +274,28 @@ def upload_confirmed_after_baseline(
     )
 
 
+def upload_present_after_baseline(
+    session: requests.Session,
+    video_id: str,
+    display_name: str,
+    baseline_count: int | None,
+) -> bool:
+    """Return whether the target accepted the upload, even if still processing."""
+    current_count = uploaded_video_count(session)
+    return (
+        baseline_count is not None
+        and current_count is not None
+        and current_count >= baseline_count + 1
+        and uploaded_video_id_by_name(session, display_name) == video_id
+    )
+
+
 @dataclass(frozen=True)
 class UploadResult:
     video_id: str
     size_bytes: int
     source_bytes_read: int
+    completed: bool = True
 
 
 def relay_upload(
@@ -365,7 +403,7 @@ def relay_upload(
                         target_video_id=video_id,
                     )
                 continue
-            if upload_confirmed_after_baseline(
+            if upload_present_after_baseline(
                 target_session, video_id, display_name, baseline_count
             ):
                 # The API can finish ingesting and publish the video before
@@ -376,7 +414,15 @@ def relay_upload(
                     "upload_confirmed=statistics_and_uploaded_listing",
                     flush=True,
                 )
-                return UploadResult(video_id, size, reader.position)
+                completed = uploaded_video_confirmed(
+                    target_session, video_id, display_name
+                )
+                return UploadResult(
+                    video_id,
+                    size,
+                    reader.position,
+                    completed=completed,
+                )
             if time.monotonic() - reader.last_progress_at >= stall_timeout_seconds:
                 raise PrehrajtoError(
                     "Target did not confirm completed relay before timeout",
@@ -401,6 +447,16 @@ def relay_upload(
         while not upload_confirmed_after_baseline(
             target_session, video_id, display_name, baseline_count
         ):
+            if upload_present_after_baseline(
+                target_session, video_id, display_name, baseline_count
+            ):
+                print("upload_pending=target_processing", flush=True)
+                return UploadResult(
+                    video_id,
+                    size,
+                    reader.position,
+                    completed=False,
+                )
             if time.monotonic() >= confirmation_deadline:
                 raise PrehrajtoError(
                     "Target statistics did not confirm completed relay",

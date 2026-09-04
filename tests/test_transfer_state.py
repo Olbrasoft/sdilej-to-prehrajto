@@ -76,6 +76,9 @@ def test_uploaded_video_lookup_requires_exact_display_name() -> None:
 
     session = ListingSession()
     assert uploaded_video_id_by_name(session, "Film (2000) 4K CZ Dabing") == "777"
+    assert not uploaded_video_confirmed(
+        session, "777", "Film (2000) 4K CZ Dabing"
+    )
     assert session.params == {"searchPhrase": "Film (2000) 4K CZ Dabing"}
     assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") is None
 
@@ -242,6 +245,43 @@ def test_relay_upload_renames_when_listing_confirms_before_request_returns() -> 
     assert target.renamed_to == "Film (2000) 4K"
 
 
+def test_relay_upload_reports_target_processing_as_pending() -> None:
+    source_payload = b"small-video-payload"
+    target = TargetSession()
+    candidate = Candidate(
+        "1",
+        "https://sdilej.cz/1/film.mkv",
+        "film",
+        filename="film.mkv",
+        mime_type="video/x-matroska",
+        download_url="https://data.sdilej.cz/file",
+    )
+    original_get = target.get
+
+    def processing_listing(url, *_args, **_kwargs):
+        if "nahrana-videa" in url and target.renamed_to:
+            return Response(
+                text=(
+                    '<div data-video-id="777"><h3>'
+                    f"{target.renamed_to}.mkv (Zpracovává se)"
+                    "</h3></div>"
+                )
+            )
+        return original_get(url, *_args, **_kwargs)
+
+    target.get = processing_listing
+    result = relay_upload(
+        target,
+        SourceSession(source_payload),
+        candidate,
+        "Film (2000) 4K",
+        upload_requester=target.post,
+    )
+
+    assert result.video_id == "777"
+    assert not result.completed
+
+
 def test_relay_upload_rejects_a_stalled_target_request() -> None:
     source_payload = b"small-video-payload"
     target = TargetSession()
@@ -318,6 +358,23 @@ def test_success_replaces_prepared_state(tmp_path) -> None:
     state.record_success(1, {"target_video_id": "777"})
     assert state.uploaded(1)
     assert not state.pending_prepared(1)
+
+
+def test_target_processing_keeps_prepared_state_and_releases_claim(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    assert state.claim_upload(1, "shard-0")
+    state.record_target_processing(
+        1,
+        video_id="777",
+        size=123,
+        source_id="source-1",
+    )
+
+    row = state.snapshot(1)
+    assert row["prepared"]["target_video_id"] == "777"
+    assert row["attempts"][-1]["status"] == "target_processing"
+    assert "claim" not in row
+    assert not state.uploaded(1)
 
 
 def test_upload_claim_blocks_other_worker_until_lease_expires(tmp_path) -> None:
