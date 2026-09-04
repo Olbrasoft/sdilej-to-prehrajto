@@ -253,6 +253,7 @@ class SdilejProvider:
         *,
         max_candidates: int | None = None,
         discovery_timeout_seconds: float = 300,
+        allow_unresolved_fallback: bool = False,
         minimum_language_probability: float = 0.65,
         request_gap_seconds: float = 2.0,
         media_probe: Callable[[str | None], dict[str, Any]] = probe_media,
@@ -261,6 +262,7 @@ class SdilejProvider:
         self.language_detector = language_detector
         self.max_candidates = max_candidates
         self.discovery_timeout_seconds = discovery_timeout_seconds
+        self.allow_unresolved_fallback = allow_unresolved_fallback
         self.minimum_language_probability = minimum_language_probability
         self.request_gap_seconds = request_gap_seconds
         self.media_probe = media_probe
@@ -474,14 +476,15 @@ class SdilejProvider:
                 # language unknown. Falling through could upload 1080p even
                 # though that unresolved source is Czech 4K. Defer the film and
                 # retry it in a later preparation pass instead.
-                error_type = (
-                    DeepScanRequired
-                    if self.max_candidates is not None
-                    else SdilejError
-                )
-                raise error_type(
-                    "A preferred quality tier could not be fully verified"
-                )
+                if not self.allow_unresolved_fallback:
+                    error_type = (
+                        DeepScanRequired
+                        if self.max_candidates is not None
+                        else SdilejError
+                    )
+                    raise error_type(
+                        "A preferred quality tier could not be fully verified"
+                    )
         return resolved
 
 def audio_language_hint(filename: str | None) -> str | None:

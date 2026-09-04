@@ -246,6 +246,7 @@ def main() -> int:
                         discovery_timeout_seconds=(
                             300 if deep_worker else FAST_DISCOVERY_TIMEOUT_SECONDS
                         ),
+                        allow_unresolved_fallback=deep_worker,
                     ),
                     source_session=worker_session,
                     target_session=target_session,

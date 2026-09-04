@@ -350,6 +350,40 @@ def test_discovery_does_not_fall_back_when_4k_verification_is_transient() -> Non
         provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
 
 
+def test_deep_discovery_uses_verified_fallback_after_4k_failure() -> None:
+    class QualityAwareSession:
+        def get(self, url: str, **_kwargs) -> FakeResponse:
+            if "/s/-6" in url:
+                return FakeResponse(
+                    '<div class="videobox"><a href="/10/film-4k.mkv" '
+                    'title="Film (2000) 4K CZ"></a>'
+                    '<p>6GB / Délka 01:40:00 / 4K</p></div>'
+                    '<div class="videobox"><a href="/20/film-1080.mkv" '
+                    'title="Film (2000) 1080p CZ"></a>'
+                    '<p>4GB / Délka 01:40:00 / 1080p</p></div>'
+                )
+            if "/10/" in url:
+                raise LanguageDetectionError("unavailable 4K source")
+            return FakeResponse(
+                '<h1>Film (2000) 1080p CZ.mkv</h1><div>Délka 01:40:00</div>'
+                '<div>1920x1080</div>'
+                '<a href="https://data.sdilej.cz/sdilej_profi.php?id=20">Stáhnout rychle</a>'
+                '<script>https://stream2.sdilej.cz/sdilej_profi.php?id=20&amp;stream=1</script>'
+            )
+
+    provider = SdilejProvider(
+        QualityAwareSession(),
+        FakeDetector(),
+        allow_unresolved_fallback=True,
+        request_gap_seconds=0,
+        media_probe=lambda _url: {},
+    )
+
+    discovered = provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+    assert [candidate.source_id for candidate in discovered] == ["20"]
+
+
 def test_discovery_does_not_choose_larger_same_tier_after_smaller_failure() -> None:
     class SameTierSession:
         def get(self, url: str, **_kwargs) -> FakeResponse:
