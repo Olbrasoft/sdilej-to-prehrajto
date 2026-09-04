@@ -186,6 +186,7 @@ def uploaded_video_confirmed(
             response.text,
             display_name,
             include_processing=False,
+            allow_filename_extension=False,
         )
         == video_id
     )
@@ -208,13 +209,22 @@ def _uploaded_video_id_from_html(
     display_name: str,
     *,
     include_processing: bool = True,
+    allow_filename_extension: bool = True,
 ) -> str | None:
     """Find an exact uploaded name and ID belonging to the same listing row."""
     wanted = display_name.casefold().strip()
     soup = BeautifulSoup(html_text, "html.parser")
     named_elements = soup.find_all(["h1", "h2", "h3", "input"])
     for element in named_elements:
-        if _normalized_uploaded_name(element) != wanted:
+        visible_name = PROCESSING_SUFFIX_RE.sub(
+            "", _visible_uploaded_name(element)
+        ).casefold().strip()
+        compared_name = (
+            _normalized_uploaded_name(element)
+            if allow_filename_extension
+            else visible_name
+        )
+        if compared_name != wanted:
             continue
         if not include_processing and PROCESSING_SUFFIX_RE.search(
             _visible_uploaded_name(element)

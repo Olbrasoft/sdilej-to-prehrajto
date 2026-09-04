@@ -14,6 +14,7 @@ from .models import Candidate, Film, LanguageTier
 from .prehrajto import (
     PrehrajtoError,
     relay_upload,
+    rename_video,
     uploaded_video_confirmed,
     uploaded_video_count,
     uploaded_video_id_by_name,
@@ -333,6 +334,19 @@ class SyncPipeline:
         except Exception:
             return False
 
+    @classmethod
+    def _target_completed_and_named(
+        cls, target_session, video_id: str, name: str
+    ) -> bool:
+        """Retry the final rename once transcoding no longer blocks it."""
+        if cls._target_confirmed(target_session, video_id, name):
+            return True
+        try:
+            rename_video(target_session, video_id, name)
+        except Exception:
+            return False
+        return cls._target_confirmed(target_session, video_id, name)
+
     @staticmethod
     def _target_id_by_name(target_session, name: str) -> str | None:
         try:
@@ -424,7 +438,7 @@ class SyncPipeline:
                 target_session, row["display_name"]
             )
             if existing_video_id:
-                if self._target_confirmed(
+                if self._target_completed_and_named(
                     target_session, existing_video_id, row["display_name"]
                 ):
                     upload = self._upload_record(
@@ -447,7 +461,7 @@ class SyncPipeline:
             prepared = checkpoint.get("prepared")
             if prepared:
                 video_id = str(prepared["target_video_id"])
-                if self._target_confirmed(
+                if self._target_completed_and_named(
                     target_session, video_id, row["display_name"]
                 ):
                     upload = self._upload_record(
@@ -496,7 +510,7 @@ class SyncPipeline:
                 )
                 prepared = self.state.snapshot(film.cr_film_id).get("prepared") or {}
                 target_video_id = target_video_id or prepared.get("target_video_id")
-                if target_video_id and self._target_confirmed(
+                if target_video_id and self._target_completed_and_named(
                     target_session, str(target_video_id), row["display_name"]
                 ):
                     upload = self._upload_record(

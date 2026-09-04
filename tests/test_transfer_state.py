@@ -89,7 +89,7 @@ def test_uploaded_video_confirmation_requires_id_from_the_matching_row() -> None
             return Response(
                 text=(
                     '<div data-video-id="777"><h3>Different Film.mkv</h3></div>'
-                    '<div data-video-id="778"><h3>Film (2000) 4K.mkv</h3></div>'
+                    '<div data-video-id="778"><h3>Film (2000) 4K</h3></div>'
                 )
             )
 
