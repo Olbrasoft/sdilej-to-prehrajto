@@ -525175,13 +525175,6 @@
     "26883": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-03T12:47:24.812690+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -525194,6 +525187,14 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-04T08:19:42.963206+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-09-04T10:56:03.492655+00:00"
         }
       ]
     },
@@ -546054,5 +546055,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-04T10:52:57.059480+00:00"
+  "updated_at": "2026-09-04T10:56:03.492681+00:00"
 }
