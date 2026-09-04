@@ -4,7 +4,7 @@ from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.git_state import GitStateError
 
 
-def test_git_checkpoints_batch_events_and_ignore_claims(tmp_path, monkeypatch) -> None:
+def test_git_checkpoints_batch_sources_and_persist_transfers(tmp_path, monkeypatch) -> None:
     persister = GitStatePersister(tmp_path)
     persisted = []
     monkeypatch.setattr(
@@ -27,12 +27,16 @@ def test_git_checkpoints_batch_events_and_ignore_claims(tmp_path, monkeypatch) -
     persister(state_path, "source")
     assert persisted == [(state_path, "source")] * 5
 
-    for _index in range(3):
-        persister(state_path, "success")
-    assert persisted == [(state_path, "source")] * 5
-
+    persister(state_path, "prepared")
+    persister(state_path, "processing")
+    persister(state_path, "failure")
     persister(state_path, "success")
-    assert persisted == [(state_path, "source")] * 5 + [(state_path, "success")]
+    assert persisted == [(state_path, "source")] * 5 + [
+        (state_path, "prepared"),
+        (state_path, "processing"),
+        (state_path, "failure"),
+        (state_path, "success"),
+    ]
 
 
 def test_git_checkpoints_batch_negative_discovery_results(tmp_path, monkeypatch) -> None:
@@ -77,7 +81,7 @@ def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:
     )
     state_path = tmp_path / "state.json"
 
-    persister(state_path, "success")
+    persister(state_path, "attempt")
     persister(state_path, "flush")
     assert persisted == [(state_path, "flush")]
 

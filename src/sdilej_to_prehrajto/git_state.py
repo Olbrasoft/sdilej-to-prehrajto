@@ -22,12 +22,16 @@ class GitStatePersister:
     # rescan. Persist them in larger batches so six preparation workers do not
     # create a bot commit every few seconds. Verified sources and uploads still
     # use small batches because those checkpoints feed the live upload queue.
+    # Transfer checkpoints are written immediately: losing a prepared target
+    # ID can duplicate a multi-gigabyte upload after a runner restart.
     CHECKPOINT_INTERVALS = {
         "source": 4,
         "attempt": 250,
         "deep_scan": 10,
-        "failure": 25,
-        "success": 4,
+        "prepared": 1,
+        "processing": 1,
+        "failure": 1,
+        "success": 1,
     }
 
     def __init__(self, repo_root: Path, extra_paths: tuple[Path, ...] = ()):
