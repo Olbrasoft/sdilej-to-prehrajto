@@ -204,7 +204,9 @@ def test_fast_prepare_delegates_difficult_film_to_deep_lane(tmp_path) -> None:
     film = Film(1, "film-one", "Film One", None, 2000, 100, "en")
 
     assert fast.prepare_sources([film], 1) == []
-    assert state.snapshot(1)["attempts"][-1]["status"] == "source_deep_scan_needed"
+    delegated = state.snapshot(1)["attempts"][-1]
+    assert delegated["status"] == "source_deep_scan_needed"
+    assert delegated["reason"] == "Too many candidates"
 
     prepared = deep.prepare_sources([film], 1, deep_scan_only=True)
 

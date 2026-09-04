@@ -242,7 +242,7 @@ class SyncPipeline:
                         "status": "source_deep_scan_needed",
                         "permanent": True,
                         "selection_policy": SELECTION_POLICY,
-                        "reason": type(error).__name__,
+                        "reason": str(error),
                     },
                 )
                 continue
@@ -260,7 +260,10 @@ class SyncPipeline:
                         ),
                         "permanent": error.permanent,
                         "selection_policy": SELECTION_POLICY,
-                        "reason": type(error).__name__,
+                        # SdilejError redacts authenticated query values. Keep
+                        # the safe message so persistent failures can be
+                        # diagnosed instead of all appearing as "SdilejError".
+                        "reason": str(error),
                     },
                 )
                 continue

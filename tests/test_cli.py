@@ -3,6 +3,7 @@ from sdilej_to_prehrajto.cli import (
     additional_worker_count,
     exclude_uploaded_films,
     prepare_source_batch,
+    prepare_source_lane,
 )
 from sdilej_to_prehrajto.models import Film
 from sdilej_to_prehrajto.state import StateStore
@@ -73,3 +74,46 @@ def test_prepare_workers_search_disjoint_backlog_slices() -> None:
         (1, [2, 4, 6], 2, 20, 123.0),
     ]
     assert {row["film"] for row in rows} == {1, 2, 3, 4}
+
+
+def test_prepare_lane_flushes_only_when_lane_stops(monkeypatch) -> None:
+    class Counter:
+        def __init__(self):
+            self.calls = 0
+
+        def compact(self):
+            self.calls += 1
+
+        def persist_external(self, event):
+            assert event == "flush"
+            self.calls += 1
+
+    class Pipeline:
+        def __init__(self):
+            self.selected_sources = Counter()
+            self.state = Counter()
+            self.prepares = 0
+
+        def prepare_sources(self, _films, _limit, **_kwargs):
+            self.prepares += 1
+            return []
+
+    pipeline = Pipeline()
+    clock = iter([0.0, 0.0, 11.0])
+    monkeypatch.setattr(
+        "sdilej_to_prehrajto.cli.time.monotonic", lambda: next(clock)
+    )
+    monkeypatch.setattr("sdilej_to_prehrajto.cli.time.sleep", lambda _seconds: None)
+
+    result = prepare_source_lane(
+        [pipeline],
+        [],
+        1,
+        max_scan=1,
+        deadline_monotonic=10.0,
+    )
+
+    assert result == []
+    assert pipeline.prepares == 2
+    assert pipeline.selected_sources.calls == 1
+    assert pipeline.state.calls == 1

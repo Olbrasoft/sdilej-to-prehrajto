@@ -133,23 +133,28 @@ def prepare_source_lane(
     """Keep one preparation lane active until its workflow deadline."""
     plan: list[dict] = []
     pipeline = pipelines[0]
-    while True:
-        batch = prepare_source_batch(
-            pipelines,
-            films,
-            limit,
-            max_scan=max_scan,
-            deadline_monotonic=deadline_monotonic,
-            deep_scan_only=deep_scan_only,
-        )
-        plan.extend(batch)
+    try:
+        while True:
+            batch = prepare_source_batch(
+                pipelines,
+                films,
+                limit,
+                max_scan=max_scan,
+                deadline_monotonic=deadline_monotonic,
+                deep_scan_only=deep_scan_only,
+            )
+            plan.extend(batch)
+            if deadline_monotonic is None or time.monotonic() >= deadline_monotonic:
+                break
+            if not batch:
+                remaining = max(0.0, deadline_monotonic - time.monotonic())
+                time.sleep(min(5.0, remaining))
+    finally:
+        # Source, deep-queue and negative-result events already have bounded
+        # durable checkpoint intervals. Flushing every empty polling pass
+        # defeats those intervals and floods main with operational commits.
         pipeline.selected_sources.compact()
         pipeline.state.persist_external("flush")
-        if deadline_monotonic is None or time.monotonic() >= deadline_monotonic:
-            break
-        if not batch:
-            remaining = max(0.0, deadline_monotonic - time.monotonic())
-            time.sleep(min(5.0, remaining))
     return plan
 
 
