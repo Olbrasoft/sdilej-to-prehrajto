@@ -361,7 +361,11 @@ class SdilejProvider:
             # proof that a film has no sources. Only accept an explicit empty
             # search response from the source site.
             if "Na tvůj dotaz jsme nic nenašli" not in soup.get_text(" ", strip=True):
-                raise SdilejError("Unrecognized search response; refusing empty result")
+                title = soup.title.get_text(" ", strip=True)[:120] if soup.title else "missing"
+                raise SdilejError(
+                    f"Unrecognized search response; refusing empty result; title={title!r}; "
+                    f"bytes={len(response.text)}"
+                )
         return rows
 
     def refresh_approved(
