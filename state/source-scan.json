@@ -540551,13 +540551,6 @@
     "13375": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-03T13:04:13.081467+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -540570,6 +540563,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "SdilejError",
           "attempted_at": "2026-09-04T08:49:46.088252+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Discovery deadline expired before verification completed",
+          "attempted_at": "2026-09-04T11:04:43.524155+00:00"
         }
       ]
     },
@@ -546072,5 +546072,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-04T11:01:58.611923+00:00"
+  "updated_at": "2026-09-04T11:04:43.524179+00:00"
 }
