@@ -40905,21 +40905,9 @@
     },
     "11167": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "29311587",
-        "display_name": "Francouzská spojka : Dopadení (1975) 720p CZ Dabing",
-        "planned_at": "2026-09-04T00:37:00.405188+00:00"
-      },
-      "claim": {
-        "worker_id": "acf731ccb64b4332b505039ce33c5296-shard-2",
-        "claimed_at": "2026-09-04T01:06:22.151299+00:00",
-        "lease_expires_at": "2026-09-04T07:06:22.151299+00:00",
-        "run_id": "33802191147"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29072164",
-        "size_bytes": 3427167228,
-        "prepared_at": "2026-09-04T01:06:25.278729+00:00"
+        "uploaded_at": "2026-09-04T01:19:32.067184+00:00"
       }
     },
     "13038": {
@@ -41119,21 +41107,9 @@
     },
     "25702": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34454587",
-        "display_name": "Zahřívací kolo (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-04T00:37:00.885525+00:00"
-      },
-      "claim": {
-        "worker_id": "acf731ccb64b4332b505039ce33c5296-shard-3",
-        "claimed_at": "2026-09-04T01:17:06.862672+00:00",
-        "lease_expires_at": "2026-09-04T07:17:06.862672+00:00",
-        "run_id": "33802191147"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29072318",
-        "size_bytes": 3992926133,
-        "prepared_at": "2026-09-04T01:17:11.129082+00:00"
+        "uploaded_at": "2026-09-04T01:33:46.671036+00:00"
       }
     },
     "17229": {
@@ -41147,10 +41123,9 @@
     },
     "16363": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "33254794",
-        "display_name": "Skutečné vraždy: Návod na vraždu (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-04T00:37:00.996491+00:00"
+      "upload": {
+        "target_video_id": "29072329",
+        "uploaded_at": "2026-09-04T01:26:15.653660+00:00"
       }
     },
     "3247": {
@@ -41182,10 +41157,9 @@
     },
     "13668": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "34898015",
-        "display_name": "Po hlavě do prdele (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-04T00:37:01.123311+00:00"
+      "upload": {
+        "target_video_id": "29072365",
+        "uploaded_at": "2026-09-04T01:29:46.258534+00:00"
       }
     },
     "3384": {
@@ -41216,7 +41190,15 @@
       "attempts": []
     },
     "11585": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "15939294",
+          "reason": "SdilejError",
+          "permanent": false,
+          "attempted_at": "2026-09-04T01:27:00.891923+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15939294",
         "display_name": "Čest rodiny Prizziů (1985) 1080p CZ Dabing",
@@ -41241,6 +41223,17 @@
         "source_id": "19775054",
         "display_name": "Fantastická výměna (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-04T00:37:01.420780+00:00"
+      },
+      "claim": {
+        "worker_id": "acf731ccb64b4332b505039ce33c5296-shard-1",
+        "claimed_at": "2026-09-04T01:27:01.027273+00:00",
+        "lease_expires_at": "2026-09-04T07:27:01.027273+00:00",
+        "run_id": "33802191147"
+      },
+      "prepared": {
+        "target_video_id": "29072483",
+        "size_bytes": 3230624786,
+        "prepared_at": "2026-09-04T01:27:05.112002+00:00"
       }
     },
     "26609": {
@@ -41270,6 +41263,17 @@
         "source_id": "34528013",
         "display_name": "Signál (2012) 1080p",
         "planned_at": "2026-09-04T00:37:01.567752+00:00"
+      },
+      "claim": {
+        "worker_id": "acf731ccb64b4332b505039ce33c5296-shard-2",
+        "claimed_at": "2026-09-04T01:29:46.370438+00:00",
+        "lease_expires_at": "2026-09-04T07:29:46.370438+00:00",
+        "run_id": "33802191147"
+      },
+      "prepared": {
+        "target_video_id": "29072518",
+        "size_bytes": 3925378476,
+        "prepared_at": "2026-09-04T01:29:49.783902+00:00"
       }
     },
     "11369": {
@@ -99610,5 +99614,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-04T01:17:31.029784+00:00"
+  "updated_at": "2026-09-04T01:33:46.671053+00:00"
 }
