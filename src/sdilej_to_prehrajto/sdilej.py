@@ -362,9 +362,14 @@ class SdilejProvider:
             # search response from the source site.
             if "Na tvůj dotaz jsme nic nenašli" not in soup.get_text(" ", strip=True):
                 title = soup.title.get_text(" ", strip=True)[:120] if soup.title else "missing"
+                for element in soup.select("script, style, header, footer, form"):
+                    element.decompose()
+                visible = soup.get_text(" ", strip=True)
+                marker = visible.find("Kvalita")
+                excerpt = visible[marker:marker + 650] if marker >= 0 else "no search controls"
                 raise SdilejError(
                     f"Unrecognized search response; refusing empty result; title={title!r}; "
-                    f"bytes={len(response.text)}"
+                    f"bytes={len(response.text)}; notice={excerpt}"
                 )
         return rows
 
