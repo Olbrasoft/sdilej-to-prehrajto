@@ -11,6 +11,7 @@ from sdilej_to_prehrajto.prehrajto import (
     RemoteReader,
     relay_upload,
     response_total_size,
+    uploaded_video_confirmed,
     uploaded_video_id_by_name,
 )
 from sdilej_to_prehrajto.state import StateStore
@@ -77,6 +78,21 @@ def test_uploaded_video_lookup_requires_exact_display_name() -> None:
     assert uploaded_video_id_by_name(session, "Film (2000) 4K CZ Dabing") == "777"
     assert session.params == {"searchPhrase": "Film (2000) 4K CZ Dabing"}
     assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") is None
+
+
+def test_uploaded_video_confirmation_requires_id_from_the_matching_row() -> None:
+    class ListingSession:
+        def get(self, *_args, **_kwargs):
+            return Response(
+                text=(
+                    '<div data-video-id="777"><h3>Different Film.mkv</h3></div>'
+                    '<div data-video-id="778"><h3>Film (2000) 4K.mkv</h3></div>'
+                )
+            )
+
+    session = ListingSession()
+    assert not uploaded_video_confirmed(session, "777", "Film (2000) 4K")
+    assert uploaded_video_confirmed(session, "778", "Film (2000) 4K")
 
 
 def test_candidate_round_trip_restores_enum_values() -> None:
@@ -174,6 +190,55 @@ def test_relay_upload_streams_payload_and_renames() -> None:
     assert result.source_bytes_read == len(source_payload)
     assert source_payload in target.uploaded_body
     assert prepared == [("777", len(source_payload))]
+    assert target.renamed_to == "Film (2000) 4K"
+
+
+def test_relay_upload_renames_when_listing_confirms_before_request_returns() -> None:
+    source_payload = b"small-video-payload"
+    target = TargetSession()
+    upload_read = threading.Event()
+    release_response = threading.Event()
+    candidate = Candidate(
+        "1",
+        "https://sdilej.cz/1/film.mkv",
+        "film",
+        filename="film.mkv",
+        mime_type="video/x-matroska",
+        download_url="https://data.sdilej.cz/file",
+    )
+
+    original_get = target.get
+
+    def get_with_unrenamed_listing(url, *_args, **_kwargs):
+        if "nahrana-videa" in url and upload_read.is_set():
+            name = target.renamed_to or "Film (2000) 4K.mkv"
+            return Response(text=f'<div data-video-id="777"><h3>{name}</h3></div>')
+        return original_get(url, *_args, **_kwargs)
+
+    target.get = get_with_unrenamed_listing
+
+    def delayed_response(*_args, **kwargs):
+        encoder = kwargs["data"]
+        while encoder.read(7):
+            pass
+        target.uploaded_count += 1
+        upload_read.set()
+        release_response.wait(1)
+        return Response(status_code=201)
+
+    try:
+        result = relay_upload(
+            target,
+            SourceSession(source_payload),
+            candidate,
+            "Film (2000) 4K",
+            upload_requester=delayed_response,
+            monitor_interval_seconds=0.001,
+        )
+    finally:
+        release_response.set()
+
+    assert result.video_id == "777"
     assert target.renamed_to == "Film (2000) 4K"
 
 

@@ -181,10 +181,42 @@ def uploaded_video_confirmed(
         timeout=30,
     )
     response.raise_for_status()
-    return (
-        f"videoId={video_id}" in response.text
-        and display_name.casefold() in response.text.casefold()
-    )
+    return _uploaded_video_id_from_html(response.text, display_name) == video_id
+
+
+def _normalized_uploaded_name(element) -> str:
+    visible_name = (element.get("value", "") or element.get_text(" ", strip=True))
+    visible_name = visible_name.casefold()
+    visible_name = re.sub(r"\s*\(zpracovává se\)\s*$", "", visible_name)
+    return re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name).strip()
+
+
+def _uploaded_video_id_from_html(html_text: str, display_name: str) -> str | None:
+    """Find an exact uploaded name and ID belonging to the same listing row."""
+    wanted = display_name.casefold().strip()
+    soup = BeautifulSoup(html_text, "html.parser")
+    named_elements = soup.find_all(["h1", "h2", "h3", "input"])
+    for element in named_elements:
+        if _normalized_uploaded_name(element) != wanted:
+            continue
+        node = element
+        for _level in range(8):
+            if node is None:
+                break
+            # Do not climb into a shared listing container and accidentally
+            # associate this title with an ID from a different video row.
+            other_names = {
+                _normalized_uploaded_name(item)
+                for item in node.find_all(["h1", "h2", "h3", "input"])
+                if item is not element and _normalized_uploaded_name(item)
+            }
+            if other_names - {wanted}:
+                break
+            match = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
+            if match:
+                return match.group(1)
+            node = node.parent
+    return None
 
 
 def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> str | None:
@@ -195,25 +227,7 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> s
         timeout=30,
     )
     response.raise_for_status()
-    wanted = display_name.casefold().strip()
-    soup = BeautifulSoup(response.text, "html.parser")
-    for element in soup.find_all(["h1", "h2", "h3", "input"]):
-        visible_name = (
-            element.get("value", "") or element.get_text(" ", strip=True)
-        ).casefold()
-        visible_name = re.sub(r"\s*\(zpracovává se\)\s*$", "", visible_name)
-        visible_name = re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name).strip()
-        if visible_name != wanted:
-            continue
-        node = element
-        for _level in range(8):
-            if node is None:
-                break
-            match = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
-            if match:
-                return match.group(1)
-            node = node.parent
-    return None
+    return _uploaded_video_id_from_html(response.text, display_name)
 
 
 def uploaded_video_count(session: requests.Session) -> int | None:
@@ -354,6 +368,10 @@ def relay_upload(
             if upload_confirmed_after_baseline(
                 target_session, video_id, display_name, baseline_count
             ):
+                # The API can finish ingesting and publish the video before
+                # its upload request returns. Preserve that recovery path, but
+                # still apply the final extension-free display name.
+                rename_video(target_session, video_id, display_name)
                 print(
                     "upload_confirmed=statistics_and_uploaded_listing",
                     flush=True,
