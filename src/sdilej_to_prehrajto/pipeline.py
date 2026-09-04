@@ -234,6 +234,11 @@ class SyncPipeline:
             if max_scan is not None and inspected >= max_scan:
                 break
             inspected += 1
+            if deep_scan_only:
+                print(
+                    f"deep_scan_started cr_film_id={film.cr_film_id}",
+                    flush=True,
+                )
             try:
                 discovered = self.source_provider.discover(film)
             except PremiumRequiredError:
@@ -271,6 +276,12 @@ class SyncPipeline:
                         "reason": str(error),
                     },
                 )
+                if deep_scan_only:
+                    print(
+                        f"deep_scan_failed cr_film_id={film.cr_film_id} "
+                        f"reason={type(error).__name__}",
+                        flush=True,
+                    )
                 continue
             ranked = rank_candidates(discovered)
             if not ranked:
