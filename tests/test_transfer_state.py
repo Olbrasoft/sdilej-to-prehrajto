@@ -445,6 +445,15 @@ def test_ambiguous_legacy_no_source_attempt_is_retried(tmp_path) -> None:
     assert not state.deferred(1)
 
 
+def test_legacy_empty_deep_scan_is_rechecked_once(tmp_path):
+    state = StateStore(tmp_path / "state.json")
+    state.record_attempt(1, {"status": "source_deep_scan_needed", "selection_policy": "current"})
+    state.record_attempt(1, {"status": "no_acceptable_source", "discovery_complete": True, "selection_policy": "current"})
+    assert state.deep_scan_ready(1, selection_policy="current")
+    state.record_attempt(1, {"status": "no_acceptable_source", "discovery_complete": True, "search_response_validated": True, "selection_policy": "current"})
+    assert not state.deep_scan_ready(1, selection_policy="current")
+
+
 def test_policy_specific_defer_ignores_attempt_from_old_policy(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     state.record_attempt(

@@ -218,6 +218,18 @@ class StateStore:
             status = latest.get("status")
             if status == "source_deep_scan_needed":
                 return True
+            if (
+                status == "no_acceptable_source"
+                and not latest.get("search_response_validated")
+                and any(
+                    attempt.get("selection_policy") == selection_policy
+                    and attempt.get("status", "").startswith("source_deep_scan_")
+                    for attempt in attempts[:-1]
+                )
+            ):
+                # Older deep workers incorrectly turned failed verification
+                # or unrecognized search pages into conclusive empty results.
+                return True
             if status != "source_deep_scan_failed":
                 return False
             timestamp = latest.get("attempted_at")

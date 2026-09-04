@@ -353,10 +353,16 @@ class SdilejProvider:
         return parse_search_html(self._get(url).text, query=query)
 
     def search_by_quality(self, query: str) -> list[Candidate]:
-        return parse_search_html(
-            self._get(f"{BASE_URL}/{slugify(query)}/s/-6").text,
-            query=query,
-        )
+        response = self._get(f"{BASE_URL}/{slugify(query)}/s/-6")
+        soup = BeautifulSoup(response.text, "html.parser")
+        rows = parse_search_html(response.text, query=query)
+        if not rows and not soup.select("div.videobox"):
+            # A challenge, rate-limit page or expired-session redirect is not
+            # proof that a film has no sources. Only accept an explicit empty
+            # search response from the source site.
+            if "Na tvůj dotaz jsme nic nenašli" not in soup.get_text(" ", strip=True):
+                raise SdilejError("Unrecognized search response; refusing empty result")
+        return rows
 
     def refresh_approved(
         self,
@@ -374,6 +380,7 @@ class SdilejProvider:
         candidates: dict[str, Candidate] = {}
         matched_by_rank: dict[int, list[Candidate]] = {}
         resolved: list[Candidate] = []
+        verification_failed = False
         inspected = 0
         titles = dict.fromkeys(
             item for item in (film.title, film.original_title) if item
@@ -465,6 +472,7 @@ class SdilejProvider:
                     ):
                         continue
                 if not verification_completed:
+                    verification_failed = True
                     unresolved_in_tier = True
                     continue
                 if detail is None:
@@ -493,6 +501,8 @@ class SdilejProvider:
                     raise error_type(
                         "A preferred quality tier could not be fully verified"
                     )
+        if verification_failed and not resolved:
+            raise SdilejError("Candidate verification failed; no source was ruled out conclusively")
         return resolved
 
 def audio_language_hint(filename: str | None) -> str | None:

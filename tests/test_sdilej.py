@@ -28,6 +28,22 @@ SEARCH_HTML = """
 """
 
 
+def test_search_rejects_successful_http_challenge_page(monkeypatch):
+    provider = SdilejProvider(FakeSession(), None)
+    monkeypatch.setattr(provider, "_get", lambda _url: FakeResponse("<h1>Checking your browser</h1>"))
+    with pytest.raises(SdilejError, match="Unrecognized search response"):
+        provider.search_by_quality("Film")
+
+
+def test_deep_scan_does_not_treat_failed_verification_as_empty(monkeypatch):
+    provider = SdilejProvider(FakeSession(), None, allow_unresolved_fallback=True, request_gap_seconds=0)
+    def fail(*_args):
+        raise LanguageDetectionError("sample unavailable")
+    monkeypatch.setattr(provider, "_verify_candidate", fail)
+    with pytest.raises(SdilejError, match="verification failed"):
+        provider.discover(Film(1, "film", "Film", None, 2000, 100, "en"))
+
+
 DETAIL_HTML = """
 <h1>Angelika 3 Angelika a král (1966) 4K h265 AC3 5.1 CZ.mkv</h1>
 <div>Velikost 6.2 GB</div><div>Délka 01:40:05</div>
@@ -283,7 +299,7 @@ def test_discovery_searches_title_with_and_without_year() -> None:
         def get(self, url: str, **_kwargs) -> FakeResponse:
             self.seen_urls.append(url)
             if "/film-2000/s/" in url:
-                return FakeResponse("")
+                return FakeResponse("Na tvůj dotaz jsme nic nenašli.")
             if "/film/s/-6" in url:
                 return FakeResponse(
                     '<div class="videobox"><a href="/10/film-4k-cz.mkv" '

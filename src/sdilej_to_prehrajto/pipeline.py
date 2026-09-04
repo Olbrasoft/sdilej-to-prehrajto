@@ -291,6 +291,7 @@ class SyncPipeline:
                         "status": "no_acceptable_source",
                         "permanent": False,
                         "discovery_complete": True,
+                        "search_response_validated": True,
                         "selection_policy": SELECTION_POLICY,
                         "reason": "No identity-, language-, and quality-verified source",
                     },
