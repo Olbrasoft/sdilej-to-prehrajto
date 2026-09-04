@@ -423,7 +423,7 @@ def test_upload_failure_releases_claim_and_prepared_checkpoint(tmp_path) -> None
     assert row["attempts"][-1]["status"] == "upload_failed"
 
 
-def test_completed_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> None:
+def test_completed_no_source_attempt_is_retried_after_six_hours(tmp_path) -> None:
     state = StateStore(tmp_path / "state.json")
     state.record_attempt(
         1,
@@ -434,8 +434,8 @@ def test_completed_no_source_attempt_is_deferred_for_thirty_days(tmp_path) -> No
         },
     )
     attempted = datetime.fromisoformat(state.film(1)["attempts"][-1]["attempted_at"])
-    assert state.deferred(1, at=attempted + timedelta(days=29))
-    assert not state.deferred(1, at=attempted + timedelta(days=31))
+    assert state.deferred(1, at=attempted + timedelta(hours=5, minutes=59))
+    assert not state.deferred(1, at=attempted + timedelta(hours=6, minutes=1))
 
 
 def test_ambiguous_legacy_no_source_attempt_is_retried(tmp_path) -> None:

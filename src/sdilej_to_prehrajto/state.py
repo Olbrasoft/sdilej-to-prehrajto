@@ -179,7 +179,11 @@ class StateStore:
                 # an explicit proof that discovery completed.
                 if not latest.get("discovery_complete"):
                     return False
-                cooldown = timedelta(days=30)
+                # Sdilej.cz is a live catalog. A complete empty result is
+                # trustworthy for the current scan, but treating it as final
+                # for a month leaves the uploader starved when a source is
+                # added later the same day.
+                cooldown = timedelta(hours=6)
             elif status in {
                 "source_discovery_failed",
                 "source_refresh_failed",
