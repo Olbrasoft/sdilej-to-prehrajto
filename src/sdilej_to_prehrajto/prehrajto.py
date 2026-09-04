@@ -420,12 +420,16 @@ def relay_upload(
                 # its upload request returns. Preserve that recovery path, but
                 # still apply the final extension-free display name.
                 rename_video(target_session, video_id, display_name)
-                print(
-                    "upload_confirmed=statistics_and_uploaded_listing",
-                    flush=True,
-                )
                 completed = uploaded_video_confirmed(
                     target_session, video_id, display_name
+                )
+                print(
+                    (
+                        "upload_confirmed=statistics_and_uploaded_listing"
+                        if completed
+                        else "upload_pending=target_processing"
+                    ),
+                    flush=True,
                 )
                 return UploadResult(
                     video_id,
