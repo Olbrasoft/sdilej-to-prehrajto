@@ -15,6 +15,7 @@ class GitStatePersister:
     MAX_TRACKED_FILE_BYTES = 90 * 1024 * 1024
     PUSH_ATTEMPTS = 5
     INITIAL_SOURCE_CHECKPOINTS = 4
+    INITIAL_DEEP_CHECKPOINTS = 1
     # Publish one upload-shard-sized source batch at a time. Keeping 25 sources
     # only inside a producer runner starves the six upload workers for too long.
     # Negative discovery results are cheap and common during a full backlog
@@ -35,6 +36,7 @@ class GitStatePersister:
         self._lock = threading.RLock()
         self._pending: dict[str, int] = {}
         self._source_checkpoints = 0
+        self._deep_checkpoints = 0
 
     def _run(self, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
         result = subprocess.run(
@@ -63,6 +65,16 @@ class GitStatePersister:
             ):
                 self._persist(state_path, event)
                 self._source_checkpoints += 1
+                self._pending.clear()
+                return
+            if (
+                event == "deep_scan"
+                and self._deep_checkpoints < self.INITIAL_DEEP_CHECKPOINTS
+            ):
+                # Publish one diagnostic result immediately after startup;
+                # subsequent deep results remain batched to protect history.
+                self._persist(state_path, event)
+                self._deep_checkpoints += 1
                 self._pending.clear()
                 return
             self._pending[event] = self._pending.get(event, 0) + 1
