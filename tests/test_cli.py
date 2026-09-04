@@ -1,4 +1,5 @@
 from sdilej_to_prehrajto.cli import (
+    DEEP_DISCOVERY_TIMEOUT_SECONDS,
     MAX_PREPARE_WORKERS,
     additional_worker_count,
     deep_prepare_worker_count,
@@ -28,6 +29,7 @@ def test_preparation_reserves_three_workers_for_deep_queue() -> None:
     assert deep_prepare_worker_count(2) == 1
     assert deep_prepare_worker_count(4) == 3
     assert deep_prepare_worker_count(6) == 3
+    assert DEEP_DISCOVERY_TIMEOUT_SECONDS == 900
 
 
 def test_prepare_backlog_excludes_already_uploaded_films(tmp_path) -> None:

@@ -36,6 +36,7 @@ MAX_PREPARE_WORKERS = 6
 MAX_DEEP_PREPARE_WORKERS = 3
 FAST_DISCOVERY_CANDIDATES = 3
 FAST_DISCOVERY_TIMEOUT_SECONDS = 90
+DEEP_DISCOVERY_TIMEOUT_SECONDS = 900
 
 
 def exclude_uploaded_films(
@@ -251,7 +252,9 @@ def main() -> int:
                             None if deep_worker else FAST_DISCOVERY_CANDIDATES
                         ),
                         discovery_timeout_seconds=(
-                            300 if deep_worker else FAST_DISCOVERY_TIMEOUT_SECONDS
+                            DEEP_DISCOVERY_TIMEOUT_SECONDS
+                            if deep_worker
+                            else FAST_DISCOVERY_TIMEOUT_SECONDS
                         ),
                         allow_unresolved_fallback=deep_worker,
                     ),
