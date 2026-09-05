@@ -10630,12 +10630,18 @@
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-05T17:24:10.679103+00:00"
+        "planned_at": "2026-09-05T17:55:49.196763+00:00"
       },
       "prepared": {
         "target_video_id": "29136383",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-5",
+        "claimed_at": "2026-09-05T17:55:49.944540+00:00",
+        "lease_expires_at": "2026-09-05T23:55:49.944540+00:00",
+        "run_id": "33971629049"
       }
     },
     "1249": {
@@ -21242,12 +21248,18 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:24:11.150448+00:00"
+        "planned_at": "2026-09-05T17:55:49.312407+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-05T16:23:58.063425+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-3",
+        "claimed_at": "2026-09-05T17:55:50.058809+00:00",
+        "lease_expires_at": "2026-09-05T23:55:50.058809+00:00",
+        "run_id": "33971629049"
       }
     },
     "21454": {
@@ -34625,12 +34637,18 @@
       "last_plan": {
         "source_id": "33158292",
         "display_name": "Jezero ztracené lásky (2026) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:24:26.979761+00:00"
+        "planned_at": "2026-09-05T17:55:49.435912+00:00"
       },
       "prepared": {
         "target_video_id": "29129225",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T16:24:07.588950+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-4",
+        "claimed_at": "2026-09-05T17:55:50.187192+00:00",
+        "lease_expires_at": "2026-09-05T23:55:50.187192+00:00",
+        "run_id": "33971629049"
       }
     },
     "28400": {
@@ -34837,7 +34855,21 @@
       "attempts": []
     },
     "16333": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "33726991",
+          "reason": "ConnectionError",
+          "permanent": false,
+          "target_video_id": null,
+          "attempted_at": "2026-09-05T17:56:47.193308+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33726991",
+        "display_name": "Bubák (2025) 1080p CZ Dabing",
+        "planned_at": "2026-09-05T17:55:49.549842+00:00"
+      }
     },
     "31155": {
       "attempts": []
@@ -34897,7 +34929,12 @@
       "attempts": []
     },
     "37540": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28307613",
+        "display_name": "Yellowstonský supervulkán (2021) 1080p CZ Dabing",
+        "planned_at": "2026-09-05T17:55:49.659996+00:00"
+      }
     },
     "37508": {
       "attempts": []
@@ -45604,6 +45641,12 @@
         "target_video_id": "29129473",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T10:16:25.002637+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-2",
+        "claimed_at": "2026-09-05T17:55:49.082950+00:00",
+        "lease_expires_at": "2026-09-05T23:55:49.082950+00:00",
+        "run_id": "33971629049"
       }
     },
     "15956": {
@@ -104986,7 +105029,7 @@
       "last_plan": {
         "source_id": "28040189",
         "display_name": "Plán útěku 2 (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:24:27.157573+00:00"
+        "planned_at": "2026-09-05T17:55:49.833605+00:00"
       },
       "prepared": {
         "target_video_id": "29098566",
@@ -105999,5 +106042,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T17:55:47.680676+00:00"
+  "updated_at": "2026-09-05T17:56:47.193324+00:00"
 }
