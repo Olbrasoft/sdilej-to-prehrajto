@@ -45650,14 +45650,6 @@
     "5772": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34209434",
-          "target_video_id": "29133090",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T14:35:00.013658+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34209434",
           "target_video_id": "29136612",
@@ -45671,12 +45663,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-05T16:16:19.113108+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34209434",
+          "reason": "Request failed for https://sdilej.cz/34209434/2018-certi-brko-pohadka-64-.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-05T16:47:18.795214+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34209434",
         "display_name": "Čertí brko (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T16:16:15.574822+00:00"
+        "planned_at": "2026-09-05T16:46:33.376101+00:00"
       }
     },
     "3203": {
@@ -105902,5 +105901,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T16:45:44.516206+00:00"
+  "updated_at": "2026-09-05T16:47:18.795234+00:00"
 }
