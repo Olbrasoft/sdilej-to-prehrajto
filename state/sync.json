@@ -35330,13 +35330,6 @@
     "26762": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34469451",
-          "reason": "Request failed for https://sdilej.cz/34469451/zelene-obzory-1962-cz.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-05T19:56:55.173193+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34469451",
           "target_video_id": "29140603",
@@ -35349,6 +35342,13 @@
           "target_video_id": "29140603",
           "permanent": false,
           "attempted_at": "2026-09-05T23:27:17.948945+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34469451",
+          "target_video_id": "29140603",
+          "permanent": false,
+          "attempted_at": "2026-09-05T23:57:24.645248+00:00"
         }
       ],
       "last_plan": {
@@ -35360,12 +35360,6 @@
         "target_video_id": "29140603",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T20:27:19.517750+00:00"
-      },
-      "claim": {
-        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-3",
-        "claimed_at": "2026-09-05T23:57:20.002786+00:00",
-        "lease_expires_at": "2026-09-06T05:57:20.002786+00:00",
-        "run_id": "33989985456"
       }
     },
     "33951": {
@@ -107808,5 +107802,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T23:57:23.080352+00:00"
+  "updated_at": "2026-09-05T23:57:24.645279+00:00"
 }
