@@ -19040,14 +19040,6 @@
     "1713": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31105084",
-          "target_video_id": "29131417",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T12:30:00.884229+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31105084",
           "target_video_id": "29133188",
@@ -19060,12 +19052,19 @@
           "target_video_id": "29133188",
           "permanent": false,
           "attempted_at": "2026-09-05T13:35:21.692965+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31105084",
+          "target_video_id": "29133188",
+          "permanent": false,
+          "attempted_at": "2026-09-05T14:05:54.139117+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T13:35:18.283074+00:00"
+        "planned_at": "2026-09-05T14:05:47.613888+00:00"
       },
       "prepared": {
         "target_video_id": "29133188",
@@ -61683,12 +61682,18 @@
       "last_plan": {
         "source_id": "16493620",
         "display_name": "Roztříštění (2019) 1080p CZ Titulky",
-        "planned_at": "2026-09-05T13:20:59.840257+00:00"
+        "planned_at": "2026-09-05T14:05:47.765826+00:00"
       },
       "prepared": {
         "target_video_id": "29133762",
         "size_bytes": 3050184260,
         "prepared_at": "2026-09-05T13:21:04.306116+00:00"
+      },
+      "claim": {
+        "worker_id": "f19cd137878d47e5b0eaf2490580bfec-shard-1",
+        "claimed_at": "2026-09-05T14:05:51.373483+00:00",
+        "lease_expires_at": "2026-09-05T20:05:51.373483+00:00",
+        "run_id": "33957897411"
       }
     },
     "4063": {
@@ -105545,5 +105550,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T14:04:51.542261+00:00"
+  "updated_at": "2026-09-05T14:05:54.139133+00:00"
 }
