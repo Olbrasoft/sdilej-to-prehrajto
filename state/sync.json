@@ -1266,13 +1266,6 @@
           "source_id": "26592290",
           "target_video_id": "28927371",
           "permanent": false,
-          "attempted_at": "2026-09-05T01:56:00.676878+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26592290",
-          "target_video_id": "28927371",
-          "permanent": false,
           "attempted_at": "2026-09-05T02:36:10.300297+00:00"
         },
         {
@@ -1281,23 +1274,19 @@
           "target_video_id": "28927371",
           "permanent": false,
           "attempted_at": "2026-09-05T03:42:16.873502+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26592290",
+          "reason": "Request failed for https://sdilej.cz/26592290/nelitostny-souboj-heat-krimi.us.1995.tvrip.cz.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-05T05:32:35.814780+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Nelítostný souboj (1995) 1080p CZ Dabing",
         "planned_at": "2026-09-05T05:31:40.946933+00:00"
-      },
-      "prepared": {
-        "target_video_id": "28927371",
-        "size_bytes": 3700000000,
-        "prepared_at": "2026-09-05T00:14:32.776870+00:00"
-      },
-      "claim": {
-        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-4",
-        "claimed_at": "2026-09-05T05:31:50.674253+00:00",
-        "lease_expires_at": "2026-09-05T11:31:50.674253+00:00",
-        "run_id": "33941975064"
       }
     },
     "116": {
@@ -2320,6 +2309,12 @@
         "target_video_id": "29116528",
         "size_bytes": 3939352424,
         "prepared_at": "2026-09-05T02:11:03.481075+00:00"
+      },
+      "claim": {
+        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-2",
+        "claimed_at": "2026-09-05T05:32:34.380940+00:00",
+        "lease_expires_at": "2026-09-05T11:32:34.380940+00:00",
+        "run_id": "33941975064"
       }
     },
     "19931": {
@@ -102790,5 +102785,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T05:32:32.871447+00:00"
+  "updated_at": "2026-09-05T05:32:35.814810+00:00"
 }
