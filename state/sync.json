@@ -2026,13 +2026,6 @@
     "181": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29291192",
-          "reason": "Request failed for https://sdilej.cz/29291192/pad-treti-rise-1080p-.mp4",
-          "permanent": false,
-          "attempted_at": "2026-09-05T12:25:10.223220+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29291192",
           "target_video_id": "29115742",
@@ -2045,12 +2038,19 @@
           "target_video_id": "29115742",
           "permanent": false,
           "attempted_at": "2026-09-05T13:25:45.283205+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29291192",
+          "target_video_id": "29115742",
+          "permanent": false,
+          "attempted_at": "2026-09-05T13:56:14.993495+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Pád Třetí říše (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T13:25:41.926342+00:00"
+        "planned_at": "2026-09-05T13:56:08.228888+00:00"
       },
       "prepared": {
         "target_video_id": "29115742",
@@ -10148,12 +10148,18 @@
       "last_plan": {
         "source_id": "29297028",
         "display_name": "Strážní loď Sand Pebbles (1966) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T13:25:42.055435+00:00"
+        "planned_at": "2026-09-05T13:56:08.346102+00:00"
       },
       "prepared": {
         "target_video_id": "29117207",
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
+      },
+      "claim": {
+        "worker_id": "e32f9c214f3c4fdd9809c7ec385c26ce-shard-1",
+        "claimed_at": "2026-09-05T13:56:12.201953+00:00",
+        "lease_expires_at": "2026-09-05T19:56:12.201953+00:00",
+        "run_id": "33957897411"
       }
     },
     "25815": {
@@ -105541,5 +105547,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T13:55:50.582586+00:00"
+  "updated_at": "2026-09-05T13:56:14.993512+00:00"
 }
