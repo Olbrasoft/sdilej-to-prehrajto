@@ -14358,13 +14358,6 @@
           "source_id": "34152297",
           "target_video_id": "29128416",
           "permanent": false,
-          "attempted_at": "2026-09-05T11:40:16.112757+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34152297",
-          "target_video_id": "29128416",
-          "permanent": false,
           "attempted_at": "2026-09-05T12:10:46.043130+00:00"
         },
         {
@@ -14373,12 +14366,24 @@
           "reason": "Request failed for https://sdilej.cz/34152297/kouzelna-vymena-2026-pucci-4k-cz-a-eng-daning-pucci-film-4k.mp4",
           "permanent": false,
           "attempted_at": "2026-09-05T12:41:43.216192+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34152297",
+          "target_video_id": "29128416",
+          "permanent": false,
+          "attempted_at": "2026-09-05T13:11:59.936219+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34152297",
         "display_name": "Kouzelná výměna (2026) 4K CZ Dabing",
-        "planned_at": "2026-09-05T12:40:57.373576+00:00"
+        "planned_at": "2026-09-05T13:11:55.991934+00:00"
+      },
+      "prepared": {
+        "target_video_id": "29128416",
+        "size_bytes": 6100000000,
+        "prepared_at": "2026-09-05T13:11:59.936206+00:00"
       }
     },
     "1405": {
@@ -34881,7 +34886,13 @@
       "last_plan": {
         "source_id": "33996150",
         "display_name": "Já bych se tak ráda vdávala (1977) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T12:40:57.536361+00:00"
+        "planned_at": "2026-09-05T13:11:56.123483+00:00"
+      },
+      "claim": {
+        "worker_id": "09b2d4a009cc4d6a8a9e8d45dc720195-shard-4",
+        "claimed_at": "2026-09-05T13:11:56.880564+00:00",
+        "lease_expires_at": "2026-09-05T19:11:56.880564+00:00",
+        "run_id": "33957897411"
       }
     },
     "22421": {
@@ -34921,7 +34932,13 @@
       "last_plan": {
         "source_id": "13804247",
         "display_name": "Muž a stín (2007) 720p CZ Dabing",
-        "planned_at": "2026-09-05T12:40:57.675595+00:00"
+        "planned_at": "2026-09-05T13:11:56.232258+00:00"
+      },
+      "claim": {
+        "worker_id": "09b2d4a009cc4d6a8a9e8d45dc720195-shard-5",
+        "claimed_at": "2026-09-05T13:11:56.725118+00:00",
+        "lease_expires_at": "2026-09-05T19:11:56.725118+00:00",
+        "run_id": "33957897411"
       }
     },
     "31060": {
@@ -104398,12 +104415,18 @@
       "last_plan": {
         "source_id": "28040189",
         "display_name": "Plán útěku 2 (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T12:40:57.877585+00:00"
+        "planned_at": "2026-09-05T13:11:56.403957+00:00"
       },
       "prepared": {
         "target_video_id": "29098566",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T11:09:43.665715+00:00"
+      },
+      "claim": {
+        "worker_id": "09b2d4a009cc4d6a8a9e8d45dc720195-shard-1",
+        "claimed_at": "2026-09-05T13:11:56.994613+00:00",
+        "lease_expires_at": "2026-09-05T19:11:56.994613+00:00",
+        "run_id": "33957897411"
       }
     },
     "25786": {
@@ -105411,5 +105434,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T13:11:12.235511+00:00"
+  "updated_at": "2026-09-05T13:11:59.936225+00:00"
 }
