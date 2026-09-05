@@ -2510,14 +2510,6 @@
     "21312": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-03T14:53:30.780159+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -2531,6 +2523,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-04T23:26:20.643693+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T01:27:27.838208+00:00"
         }
       ]
     },
@@ -2590,14 +2589,6 @@
     "10669": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-03T14:53:24.160968+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -2611,6 +2602,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-04T23:26:30.979656+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T01:27:50.742374+00:00"
         }
       ]
     },
@@ -2680,14 +2678,6 @@
     "29712": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-03T14:53:35.431609+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -2701,6 +2691,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-04T23:26:35.590573+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T01:28:07.933623+00:00"
         }
       ]
     },
@@ -30343,13 +30340,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:56:04.101619+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -30361,18 +30351,18 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Gangy New Yorku 2002 online | Sdilej.cz'; bytes=186526; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:42.409031+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:27:15.362157+00:00"
         }
       ]
     },
     "867": {
       "attempts": [
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:58:10.063832+00:00"
-        },
         {
           "status": "no_acceptable_source",
           "permanent": false,
@@ -30387,6 +30377,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Scott Pilgrim Proti Zbytku Sveta 2010 online | Sdilej.cz'; bytes=186883; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:06.035460+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:27:09.170180+00:00"
         }
       ]
     },
@@ -30421,13 +30418,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:58:26.320220+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -30439,18 +30429,18 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Be With You 2018 online | Sdilej.cz'; bytes=186442; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:44.694064+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:27:32.189967+00:00"
         }
       ]
     },
     "950": {
       "attempts": [
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:56:46.287361+00:00"
-        },
         {
           "status": "no_acceptable_source",
           "permanent": false,
@@ -30465,6 +30455,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Collateral 2004 online | Sdilej.cz'; bytes=186421; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:08.323216+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:27:37.633993+00:00"
         }
       ]
     },
@@ -30499,13 +30496,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:56:51.349228+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -30517,18 +30507,20 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Pina 2011 online | Sdilej.cz'; bytes=186295; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:47.038788+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-09-05T01:27:39.654801+00:00"
         }
       ]
     },
     "962": {
       "attempts": [
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:59:27.146938+00:00"
-        },
         {
           "status": "no_acceptable_source",
           "permanent": false,
@@ -30543,6 +30535,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Kmotr Iii 1990 online | Sdilej.cz'; bytes=186400; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:10.656453+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:28:03.756436+00:00"
         }
       ]
     },
@@ -30589,13 +30588,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:00:29.172022+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -30607,6 +30599,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Samsara 2002 online | Sdilej.cz'; bytes=186358; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:49.377297+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=203398; notice=no search controls",
+          "attempted_at": "2026-09-05T01:27:51.250242+00:00"
         }
       ]
     },
@@ -31752,13 +31751,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:31:45.265141+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -31770,6 +31762,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Kukuska 2002 online | Sdilej.cz'; bytes=186358; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:02.788279+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:27:41.719730+00:00"
         }
       ]
     },
@@ -31826,13 +31825,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:32:25.213045+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -31844,6 +31836,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Zachrante Pana Bankse 2013 online | Sdilej.cz'; bytes=186652; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:05.119179+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:28:17.853723+00:00"
         }
       ]
     },
@@ -548204,5 +548203,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-05T01:26:45.713639+00:00"
+  "updated_at": "2026-09-05T01:28:17.853743+00:00"
 }
