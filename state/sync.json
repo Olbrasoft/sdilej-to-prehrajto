@@ -1375,13 +1375,6 @@
     "124": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "18329991",
-          "reason": "Request failed for https://sdilej.cz/18329991/tenkrat-v-americe-vtedy-v-amerike-1984.extended.1080p.brrip.x264-cz-dab.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-05T10:20:41.359468+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "18329991",
           "target_video_id": "28928664",
@@ -1394,12 +1387,19 @@
           "target_video_id": "28928664",
           "permanent": false,
           "attempted_at": "2026-09-05T11:24:03.098749+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18329991",
+          "target_video_id": "28928664",
+          "permanent": false,
+          "attempted_at": "2026-09-05T11:54:21.476007+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18329991",
         "display_name": "Tenkrát v Americe (1984) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T11:23:53.406351+00:00"
+        "planned_at": "2026-09-05T11:54:17.376011+00:00"
       },
       "prepared": {
         "target_video_id": "28928664",
@@ -1485,12 +1485,18 @@
       "last_plan": {
         "source_id": "30793920",
         "display_name": "Ponorka (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T11:24:00.301320+00:00"
+        "planned_at": "2026-09-05T11:54:17.508101+00:00"
       },
       "prepared": {
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-04T22:38:22.072250+00:00"
+      },
+      "claim": {
+        "worker_id": "a1814844d50b409ab523c6443ccc6f21-shard-4",
+        "claimed_at": "2026-09-05T11:54:18.196546+00:00",
+        "lease_expires_at": "2026-09-05T17:54:18.196546+00:00",
+        "run_id": "33957897411"
       }
     },
     "21354": {
@@ -1538,12 +1544,18 @@
       "last_plan": {
         "source_id": "7430975",
         "display_name": "Dangal (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-05T11:24:05.943749+00:00"
+        "planned_at": "2026-09-05T11:54:17.617704+00:00"
       },
       "prepared": {
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-04T22:38:21.932080+00:00"
+      },
+      "claim": {
+        "worker_id": "a1814844d50b409ab523c6443ccc6f21-shard-5",
+        "claimed_at": "2026-09-05T11:54:18.428747+00:00",
+        "lease_expires_at": "2026-09-05T17:54:18.428747+00:00",
+        "run_id": "33957897411"
       }
     },
     "21587": {
@@ -2045,12 +2057,18 @@
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Pád Třetí říše (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T11:24:06.069505+00:00"
+        "planned_at": "2026-09-05T11:54:17.740349+00:00"
       },
       "prepared": {
         "target_video_id": "29115742",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-05T01:34:10.910548+00:00"
+      },
+      "claim": {
+        "worker_id": "a1814844d50b409ab523c6443ccc6f21-shard-3",
+        "claimed_at": "2026-09-05T11:54:18.308962+00:00",
+        "lease_expires_at": "2026-09-05T17:54:18.308962+00:00",
+        "run_id": "33957897411"
       }
     },
     "10684": {
@@ -2233,7 +2251,7 @@
       "last_plan": {
         "source_id": "24225122",
         "display_name": "Koe no katači (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-05T11:24:12.028858+00:00"
+        "planned_at": "2026-09-05T11:54:17.856412+00:00"
       },
       "prepared": {
         "target_video_id": "29115694",
@@ -105143,5 +105161,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T11:54:06.909385+00:00"
+  "updated_at": "2026-09-05T11:54:21.476023+00:00"
 }
