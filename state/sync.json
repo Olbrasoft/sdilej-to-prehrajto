@@ -23061,17 +23061,19 @@
       "attempts": []
     },
     "12550": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32263750",
+          "target_video_id": "29130024",
+          "permanent": false,
+          "attempted_at": "2026-09-05T10:49:16.842976+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32263750",
         "display_name": "Návrat idiota (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-05T10:39:11.731465+00:00"
-      },
-      "claim": {
-        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-4",
-        "claimed_at": "2026-09-05T10:43:15.885432+00:00",
-        "lease_expires_at": "2026-09-05T16:43:15.885432+00:00",
-        "run_id": "33957897411"
       },
       "prepared": {
         "target_video_id": "29130024",
@@ -34384,6 +34386,12 @@
         "target_video_id": "29129228",
         "size_bytes": 1217782932,
         "prepared_at": "2026-09-05T10:06:12.045318+00:00"
+      },
+      "claim": {
+        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-1",
+        "claimed_at": "2026-09-05T10:49:14.660731+00:00",
+        "lease_expires_at": "2026-09-05T16:49:14.660731+00:00",
+        "run_id": "33957897411"
       }
     },
     "29900": {
@@ -104933,5 +104941,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T10:49:11.550563+00:00"
+  "updated_at": "2026-09-05T10:49:16.842992+00:00"
 }
