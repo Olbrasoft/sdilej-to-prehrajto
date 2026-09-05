@@ -63754,6 +63754,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T16:24:17.653266+00:00"
+        },
+        {
+          "status": "source_discovery_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=203554; notice=no search controls",
+          "attempted_at": "2026-09-05T05:19:58.269105+00:00"
         }
       ]
     },
@@ -65503,13 +65510,6 @@
     "11353": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T15:19:55.366421+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -65523,6 +65523,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-03T18:26:28.756787+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T05:20:10.021387+00:00"
         }
       ]
     },
@@ -553508,5 +553515,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-05T05:19:43.510478+00:00"
+  "updated_at": "2026-09-05T05:20:10.021407+00:00"
 }
