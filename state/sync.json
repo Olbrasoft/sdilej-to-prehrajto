@@ -2686,7 +2686,15 @@
       }
     },
     "250": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15052978",
+          "target_video_id": "29116988",
+          "permanent": false,
+          "attempted_at": "2026-09-05T03:42:58.055403+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15052978",
         "display_name": "Gran Torino (2008) 1080p CZ Dabing",
@@ -2694,14 +2702,8 @@
       },
       "prepared": {
         "target_video_id": "29116988",
-        "size_bytes": 2747808333,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T02:36:45.891209+00:00"
-      },
-      "claim": {
-        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-4",
-        "claimed_at": "2026-09-05T03:42:52.983703+00:00",
-        "lease_expires_at": "2026-09-05T09:42:52.983703+00:00",
-        "run_id": "33941975064"
       }
     },
     "214": {
@@ -8032,6 +8034,12 @@
         "source_id": "32941579",
         "display_name": "Bokovka (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-05T03:42:04.646511+00:00"
+      },
+      "claim": {
+        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-5",
+        "claimed_at": "2026-09-05T03:42:57.953006+00:00",
+        "lease_expires_at": "2026-09-05T09:42:57.953006+00:00",
+        "run_id": "33941975064"
       }
     },
     "855": {
@@ -101766,5 +101774,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T03:42:56.390594+00:00"
+  "updated_at": "2026-09-05T03:42:58.055414+00:00"
 }
