@@ -43593,14 +43593,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34941645",
-          "target_video_id": "29140212",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T19:22:52.372823+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34941645",
           "target_video_id": "29141090",
@@ -43614,18 +43606,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-05T21:01:02.800357+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29144415",
+          "permanent": false,
+          "attempted_at": "2026-09-05T23:59:21.217458+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-05T23:33:02.582082+00:00"
-      },
-      "claim": {
-        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-4",
-        "claimed_at": "2026-09-05T23:46:17.426796+00:00",
-        "lease_expires_at": "2026-09-06T05:46:17.426796+00:00",
-        "run_id": "33989985456"
       },
       "prepared": {
         "target_video_id": "29144415",
@@ -107804,5 +107797,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T23:58:21.335477+00:00"
+  "updated_at": "2026-09-05T23:59:21.217480+00:00"
 }
