@@ -2403,6 +2403,12 @@
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-2",
+        "claimed_at": "2026-09-05T19:03:14.755093+00:00",
+        "lease_expires_at": "2026-09-06T01:03:14.755093+00:00",
+        "run_id": "33971629049"
       }
     },
     "29255": {
@@ -35670,18 +35676,19 @@
           "reason": "Request failed for https://sdilej.cz/34673665/pozdni-laska-1935-pro-pametniky-drama-romanticky-cz.mkv",
           "permanent": false,
           "attempted_at": "2026-09-05T18:20:17.093157+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34673665",
+          "target_video_id": "29140356",
+          "permanent": false,
+          "attempted_at": "2026-09-05T19:03:15.664583+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34673665",
         "display_name": "Pozdní láska (1935) 1080p CZ Dabing",
         "planned_at": "2026-09-05T18:50:32.120736+00:00"
-      },
-      "claim": {
-        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-5",
-        "claimed_at": "2026-09-05T18:50:32.545007+00:00",
-        "lease_expires_at": "2026-09-06T00:50:32.545007+00:00",
-        "run_id": "33971629049"
       },
       "prepared": {
         "target_video_id": "29140356",
@@ -106343,5 +106350,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T19:03:13.398535+00:00"
+  "updated_at": "2026-09-05T19:03:15.664600+00:00"
 }
