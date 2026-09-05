@@ -11374,17 +11374,19 @@
       "attempts": []
     },
     "1378": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31089335",
+          "reason": "Request failed for https://sdilej.cz/31089335/spider-man-daleko-od-domova-2019-uhdrdv-cz-en.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-05T04:40:09.875879+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31089335",
         "display_name": "Spider-Man: Daleko od domova (2019) 4K CZ Dabing",
         "planned_at": "2026-09-05T03:43:43.611585+00:00"
-      },
-      "claim": {
-        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-0",
-        "claimed_at": "2026-09-05T04:39:24.745049+00:00",
-        "lease_expires_at": "2026-09-05T10:39:24.745049+00:00",
-        "run_id": "33941975064"
       }
     },
     "1511": {
@@ -11436,6 +11438,12 @@
         "source_id": "26440330",
         "display_name": "Není čas zemřít (2021) 4K CZ Dabing",
         "planned_at": "2026-09-05T03:43:43.838153+00:00"
+      },
+      "claim": {
+        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-1",
+        "claimed_at": "2026-09-05T04:39:30.700952+00:00",
+        "lease_expires_at": "2026-09-05T10:39:30.700952+00:00",
+        "run_id": "33941975064"
       }
     },
     "20782": {
@@ -102469,5 +102477,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T04:39:29.227912+00:00"
+  "updated_at": "2026-09-05T04:40:09.875898+00:00"
 }
