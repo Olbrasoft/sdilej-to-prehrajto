@@ -24093,6 +24093,12 @@
         "target_video_id": "29142146",
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-05T21:13:51.579360+00:00"
+      },
+      "claim": {
+        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-1",
+        "claimed_at": "2026-09-05T23:32:26.291221+00:00",
+        "lease_expires_at": "2026-09-06T05:32:26.291221+00:00",
+        "run_id": "33989985456"
       }
     },
     "35057": {
@@ -24190,6 +24196,12 @@
         "target_video_id": "29141641",
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-05T20:36:50.331632+00:00"
+      },
+      "claim": {
+        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-3",
+        "claimed_at": "2026-09-05T23:32:26.488757+00:00",
+        "lease_expires_at": "2026-09-06T05:32:26.488757+00:00",
+        "run_id": "33989985456"
       }
     },
     "16195": {
@@ -34805,17 +34817,19 @@
       "attempts": []
     },
     "10658": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34083806",
+          "target_video_id": "29143970",
+          "permanent": false,
+          "attempted_at": "2026-09-05T23:32:26.590858+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34083806",
         "display_name": "Hacker (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-05T22:23:59.775758+00:00"
-      },
-      "claim": {
-        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-4",
-        "claimed_at": "2026-09-05T23:18:07.898417+00:00",
-        "lease_expires_at": "2026-09-06T05:18:07.898417+00:00",
-        "run_id": "33989985456"
       },
       "prepared": {
         "target_video_id": "29143970",
@@ -107683,5 +107697,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T23:32:24.850063+00:00"
+  "updated_at": "2026-09-05T23:32:26.590876+00:00"
 }
