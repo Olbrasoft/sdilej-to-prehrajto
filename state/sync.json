@@ -9497,17 +9497,24 @@
       "attempts": []
     },
     "1135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33222005",
+          "target_video_id": "29117448",
+          "permanent": false,
+          "attempted_at": "2026-09-05T03:43:25.985800+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33222005",
         "display_name": "Sully: Zázrak na řece Hudson (2016) 4K CZ Dabing",
         "planned_at": "2026-09-05T03:42:05.998680+00:00"
       },
-      "claim": {
-        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-5",
-        "claimed_at": "2026-09-05T03:43:17.582248+00:00",
-        "lease_expires_at": "2026-09-05T09:43:17.582248+00:00",
-        "run_id": "33941975064"
+      "prepared": {
+        "target_video_id": "29117448",
+        "size_bytes": 4400000000,
+        "prepared_at": "2026-09-05T03:43:25.985785+00:00"
       }
     },
     "1201": {
@@ -101784,5 +101791,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T03:43:24.414478+00:00"
+  "updated_at": "2026-09-05T03:43:25.985806+00:00"
 }
