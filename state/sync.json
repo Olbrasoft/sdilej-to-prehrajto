@@ -10606,14 +10606,6 @@
     "1061": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "33258563",
-          "target_video_id": "29130242",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T11:40:13.201520+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33258563",
           "target_video_id": "29131847",
@@ -10627,18 +10619,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-05T12:58:05.642747+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33258563",
+          "target_video_id": "29133904",
+          "permanent": false,
+          "attempted_at": "2026-09-05T13:51:33.074054+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
         "planned_at": "2026-09-05T13:28:20.056769+00:00"
-      },
-      "claim": {
-        "worker_id": "323948da2bdb45ee96184a9d732a1497-shard-4",
-        "claimed_at": "2026-09-05T13:28:20.364882+00:00",
-        "lease_expires_at": "2026-09-05T19:28:20.364882+00:00",
-        "run_id": "33957897411"
       },
       "prepared": {
         "target_video_id": "29133904",
@@ -105547,5 +105540,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T13:51:07.720251+00:00"
+  "updated_at": "2026-09-05T13:51:33.074070+00:00"
 }
