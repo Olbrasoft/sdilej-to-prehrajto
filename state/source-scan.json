@@ -370,14 +370,6 @@
     "10680": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-04T10:32:01.635274+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -391,6 +383,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-04T23:23:21.600241+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T00:58:03.628196+00:00"
         }
       ]
     },
@@ -509,14 +508,6 @@
     "32484": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-04T02:14:37.974583+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -530,18 +521,18 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-04T23:23:26.688601+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T00:58:15.393607+00:00"
         }
       ]
     },
     "20746": {
       "attempts": [
-        {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "A preferred quality tier could not be fully verified",
-          "attempted_at": "2026-09-04T22:09:35.789157+00:00"
-        },
         {
           "status": "no_acceptable_source",
           "permanent": false,
@@ -556,6 +547,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Kimi No Na Wa 2016 online | Sdilej.cz'; bytes=186484",
           "attempted_at": "2026-09-04T23:49:29.820335+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T00:58:34.578695+00:00"
         }
       ]
     },
@@ -621,13 +619,6 @@
     "17371": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "A preferred quality tier could not be fully verified",
-          "attempted_at": "2026-09-04T22:09:54.517026+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -641,6 +632,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Kafarnaum 2018 online | Sdilej.cz'; bytes=186400",
           "attempted_at": "2026-09-04T23:49:33.223088+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=203434; notice=no search controls",
+          "attempted_at": "2026-09-05T00:58:46.137140+00:00"
         }
       ]
     },
@@ -709,13 +707,6 @@
     "26873": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Candidate limit reached before verification completed",
-          "attempted_at": "2026-09-04T22:10:26.391329+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -729,6 +720,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Zatoka 2009 online | Sdilej.cz'; bytes=186337",
           "attempted_at": "2026-09-04T23:49:38.948111+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T00:58:58.564998+00:00"
         }
       ]
     },
@@ -1059,13 +1057,6 @@
     "99": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "A preferred quality tier could not be fully verified",
-          "attempted_at": "2026-09-04T22:13:13.829909+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -1079,6 +1070,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Princezna Mononoke 1997 online | Sdilej.cz'; bytes=186589",
           "attempted_at": "2026-09-04T23:49:43.339322+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=203416; notice=no search controls",
+          "attempted_at": "2026-09-05T00:57:54.857875+00:00"
         }
       ]
     },
@@ -24868,13 +24866,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T08:45:31.995373+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -24886,6 +24877,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Barton Fink 1991 online | Sdilej.cz'; bytes=186442",
           "attempted_at": "2026-09-04T23:48:42.753392+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T00:57:55.657877+00:00"
         }
       ]
     },
@@ -24950,13 +24948,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T08:46:14.235471+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -24968,6 +24959,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='West Side Story 1961 online | Sdilej.cz'; bytes=186526",
           "attempted_at": "2026-09-04T23:48:45.118213+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T00:58:38.572341+00:00"
         }
       ]
     },
@@ -25144,13 +25142,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T08:50:15.694776+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -25162,6 +25153,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Volver 2006 online | Sdilej.cz'; bytes=186337",
           "attempted_at": "2026-09-04T23:48:11.319805+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T00:57:59.285048+00:00"
         }
       ]
     },
@@ -26718,13 +26716,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T09:16:50.240981+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -26736,6 +26727,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Kokuhaku 2010 online | Sdilej.cz'; bytes=186379",
           "attempted_at": "2026-09-04T23:48:10.465308+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T00:58:33.802151+00:00"
         }
       ]
     },
@@ -548188,5 +548186,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-05T00:57:46.400615+00:00"
+  "updated_at": "2026-09-05T00:58:58.565018+00:00"
 }
