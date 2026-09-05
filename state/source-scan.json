@@ -3133,14 +3133,6 @@
     "33102": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-09-03T14:57:53.450489+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -3154,6 +3146,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-09-04T23:27:28.226969+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-09-05T01:32:29.525969+00:00"
         }
       ]
     },
@@ -31069,13 +31068,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:14:09.150581+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -31087,6 +31079,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Parfem Pribeh Vraha 2006 online | Sdilej.cz'; bytes=186610; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:54:04.724614+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:32:35.936864+00:00"
         }
       ]
     },
@@ -31153,13 +31152,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:14:18.292931+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -31171,18 +31163,18 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='V Hlave 2 2024 online | Sdilej.cz'; bytes=186400; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:54:07.066927+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:33:02.473435+00:00"
         }
       ]
     },
     "945": {
       "attempts": [
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:22:04.538638+00:00"
-        },
         {
           "status": "no_acceptable_source",
           "permanent": false,
@@ -31197,6 +31189,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Master Commander Odvracena Strana Sveta 2003 online | Sdilej.cz'; bytes=187030; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:34.242937+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:32:49.386453+00:00"
         }
       ]
     },
@@ -31231,13 +31230,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:22:26.190203+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -31249,18 +31241,18 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Spaci 1996 online | Sdilej.cz'; bytes=186316; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:54:09.635505+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:33:26.317547+00:00"
         }
       ]
     },
     "13489": {
       "attempts": [
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:15:27.122455+00:00"
-        },
         {
           "status": "no_acceptable_source",
           "permanent": false,
@@ -31275,6 +31267,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Mnichov 2005 online | Sdilej.cz'; bytes=186358; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:36.437269+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:33:32.439098+00:00"
         }
       ]
     },
@@ -31338,13 +31337,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:21:11.274458+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -31356,6 +31348,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Upgrade 2018 online | Sdilej.cz'; bytes=186358; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:39.097471+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:33:49.687472+00:00"
         }
       ]
     },
@@ -32421,13 +32420,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:41:57.298497+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -32439,6 +32431,15 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Lolita 1962 online | Sdilej.cz'; bytes=186337; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:23.896266+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-09-05T01:32:19.082932+00:00"
         }
       ]
     },
@@ -32492,13 +32493,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:50:42.646302+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -32510,6 +32504,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Lovci Hlav 2011 online | Sdilej.cz'; bytes=186421; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:29.583143+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:32:57.789052+00:00"
         }
       ]
     },
@@ -32568,13 +32569,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:45:32.065065+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -32586,6 +32580,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Kluci Neplacou 1999 online | Sdilej.cz'; bytes=186505; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:30.914251+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-09-05T01:33:50.156569+00:00"
         }
       ]
     },
@@ -32641,13 +32642,6 @@
         {
           "status": "no_acceptable_source",
           "permanent": false,
-          "selection_policy": "compact-quality-v12",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-08-30T10:46:24.287644+00:00"
-        },
-        {
-          "status": "no_acceptable_source",
-          "permanent": false,
           "discovery_complete": true,
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
@@ -32659,6 +32653,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result; title='Poznamenani 1948 online | Sdilej.cz'; bytes=186442; notice=Kvalita Vše 4K 1080p+ 720p+",
           "attempted_at": "2026-09-04T23:53:33.683921+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-09-05T01:34:17.328101+00:00"
         }
       ]
     },
@@ -548201,5 +548202,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-05T01:32:13.034628+00:00"
+  "updated_at": "2026-09-05T01:34:17.328122+00:00"
 }
