@@ -13051,12 +13051,18 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrint (1986) 4K CZ Dabing",
-        "planned_at": "2026-09-05T20:04:34.774393+00:00"
+        "planned_at": "2026-09-05T20:34:57.884236+00:00"
       },
       "prepared": {
         "target_video_id": "29127917",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-05T09:17:42.572509+00:00"
+      },
+      "claim": {
+        "worker_id": "425dddac465f496fa918c783c6e7ac66-shard-1",
+        "claimed_at": "2026-09-05T20:34:58.363762+00:00",
+        "lease_expires_at": "2026-09-06T02:34:58.363762+00:00",
+        "run_id": "33971629049"
       }
     },
     "20525": {
@@ -13412,7 +13418,7 @@
       "last_plan": {
         "source_id": "26314149",
         "display_name": "Zpívej 2 (2021) 4K CZ Dabing",
-        "planned_at": "2026-09-05T20:04:45.647309+00:00"
+        "planned_at": "2026-09-05T20:34:58.023021+00:00"
       },
       "prepared": {
         "target_video_id": "29127237",
@@ -13732,7 +13738,7 @@
       "last_plan": {
         "source_id": "28393777",
         "display_name": "Třináct dní (2000) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T20:04:45.754831+00:00"
+        "planned_at": "2026-09-05T20:34:58.157763+00:00"
       },
       "prepared": {
         "target_video_id": "29128092",
@@ -46247,13 +46253,6 @@
     "5772": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34209434",
-          "target_video_id": "29140093",
-          "permanent": false,
-          "attempted_at": "2026-09-05T18:48:10.236810+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34209434",
           "target_video_id": "29140093",
@@ -46267,17 +46266,20 @@
           "target_video_id": "29140978",
           "permanent": false,
           "attempted_at": "2026-09-05T20:04:44.098462+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34209434",
+          "target_video_id": "29140978",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-05T20:35:00.485266+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34209434",
         "display_name": "Čertí brko (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-05T20:34:46.185658+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29140978",
-        "size_bytes": 3361441276,
-        "prepared_at": "2026-09-05T19:48:23.999566+00:00"
       }
     },
     "3203": {
@@ -106503,5 +106505,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T20:34:56.200552+00:00"
+  "updated_at": "2026-09-05T20:35:00.485283+00:00"
 }
