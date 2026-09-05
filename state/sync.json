@@ -45322,6 +45322,12 @@
         "target_video_id": "29129473",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T10:16:25.002637+00:00"
+      },
+      "claim": {
+        "worker_id": "95d8ca554bb148e68b67bae71dd78b24-shard-0",
+        "claimed_at": "2026-09-05T15:53:28.095920+00:00",
+        "lease_expires_at": "2026-09-05T21:53:28.095920+00:00",
+        "run_id": "33971629049"
       }
     },
     "15956": {
@@ -55066,13 +55072,6 @@
     "20179": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31061813",
-          "reason": "Request failed for https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-05T14:21:03.905559+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31061813",
           "target_video_id": "29133738",
@@ -55085,6 +55084,13 @@
           "target_video_id": "29133738",
           "permanent": false,
           "attempted_at": "2026-09-05T15:23:16.724567+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31061813",
+          "target_video_id": "29133738",
+          "permanent": false,
+          "attempted_at": "2026-09-05T15:53:31.449053+00:00"
         }
       ],
       "last_plan": {
@@ -105685,5 +105691,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T15:53:26.626659+00:00"
+  "updated_at": "2026-09-05T15:53:31.449070+00:00"
 }
