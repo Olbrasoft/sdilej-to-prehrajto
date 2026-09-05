@@ -9703,17 +9703,24 @@
       "attempts": []
     },
     "1071": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31966350",
+          "target_video_id": "29118025",
+          "permanent": false,
+          "attempted_at": "2026-09-05T03:43:41.076983+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31966350",
         "display_name": "Superman (1978) 4K CZ Dabing",
         "planned_at": "2026-09-05T03:42:06.722033+00:00"
       },
-      "claim": {
-        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-2",
-        "claimed_at": "2026-09-05T03:43:31.116686+00:00",
-        "lease_expires_at": "2026-09-05T09:43:31.116686+00:00",
-        "run_id": "33941975064"
+      "prepared": {
+        "target_video_id": "29118025",
+        "size_bytes": 5600000000,
+        "prepared_at": "2026-09-05T03:43:41.076969+00:00"
       }
     },
     "21835": {
@@ -101932,5 +101939,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T03:43:39.497289+00:00"
+  "updated_at": "2026-09-05T03:43:41.076989+00:00"
 }
