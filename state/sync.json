@@ -10561,13 +10561,6 @@
     "1061": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33258563",
-          "target_video_id": "29118545",
-          "permanent": false,
-          "attempted_at": "2026-09-05T04:07:36.430656+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33258563",
           "target_video_id": "29118545",
@@ -10581,17 +10574,20 @@
           "target_video_id": "29127812",
           "permanent": false,
           "attempted_at": "2026-09-05T09:27:43.172330+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "33258563",
+          "target_video_id": "29127812",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-05T10:20:39.933169+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
         "planned_at": "2026-09-05T10:19:35.355834+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29127812",
-        "size_bytes": 5597294092,
-        "prepared_at": "2026-09-05T09:12:19.789468+00:00"
       }
     },
     "1249": {
@@ -104679,5 +104675,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T10:20:35.597474+00:00"
+  "updated_at": "2026-09-05T10:20:39.933184+00:00"
 }
