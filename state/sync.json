@@ -10601,13 +10601,6 @@
     "1061": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33258563",
-          "target_video_id": "29136383",
-          "permanent": false,
-          "attempted_at": "2026-09-05T15:22:45.060411+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33258563",
           "reason": "Request failed for https://sdilej.cz/33258563/bugonia-2025-en-cz-dabing-uhdrdv.mkv",
@@ -10620,12 +10613,19 @@
           "target_video_id": "29136383",
           "permanent": false,
           "attempted_at": "2026-09-05T16:23:56.627069+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33258563",
+          "target_video_id": "29136383",
+          "permanent": false,
+          "attempted_at": "2026-09-05T16:54:09.574543+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-05T16:23:53.259821+00:00"
+        "planned_at": "2026-09-05T16:54:06.390979+00:00"
       },
       "prepared": {
         "target_video_id": "29136383",
@@ -21230,12 +21230,18 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T16:23:53.413897+00:00"
+        "planned_at": "2026-09-05T16:54:06.518476+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-05T16:23:58.063425+00:00"
+      },
+      "claim": {
+        "worker_id": "e157457f9da7443f85426cda57267e1f-shard-4",
+        "claimed_at": "2026-09-05T16:54:07.032801+00:00",
+        "lease_expires_at": "2026-09-05T22:54:07.032801+00:00",
+        "run_id": "33971629049"
       }
     },
     "21454": {
@@ -104913,12 +104919,18 @@
       "last_plan": {
         "source_id": "28040189",
         "display_name": "Plán útěku 2 (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T16:23:53.752442+00:00"
+        "planned_at": "2026-09-05T16:54:06.713582+00:00"
       },
       "prepared": {
         "target_video_id": "29098566",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T11:09:43.665715+00:00"
+      },
+      "claim": {
+        "worker_id": "e157457f9da7443f85426cda57267e1f-shard-2",
+        "claimed_at": "2026-09-05T16:54:07.210270+00:00",
+        "lease_expires_at": "2026-09-05T22:54:07.210270+00:00",
+        "run_id": "33971629049"
       }
     },
     "25786": {
@@ -105926,5 +105938,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T16:53:49.642757+00:00"
+  "updated_at": "2026-09-05T16:54:09.574561+00:00"
 }
