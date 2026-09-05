@@ -7718,17 +7718,24 @@
       }
     },
     "1036": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355444",
+          "target_video_id": "29117180",
+          "permanent": false,
+          "attempted_at": "2026-09-05T03:42:56.390588+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355444",
         "display_name": "Doba ledová (2002) 4K CZ Dabing",
         "planned_at": "2026-09-05T03:42:04.335366+00:00"
       },
-      "claim": {
-        "worker_id": "4ba469497fd8474eb560bc5e6455ed7b-shard-2",
-        "claimed_at": "2026-09-05T03:42:51.291242+00:00",
-        "lease_expires_at": "2026-09-05T09:42:51.291242+00:00",
-        "run_id": "33941975064"
+      "prepared": {
+        "target_video_id": "29117180",
+        "size_bytes": 3400000000,
+        "prepared_at": "2026-09-05T03:42:56.390577+00:00"
       }
     },
     "700": {
@@ -101759,5 +101766,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T03:42:54.843756+00:00"
+  "updated_at": "2026-09-05T03:42:56.390594+00:00"
 }
