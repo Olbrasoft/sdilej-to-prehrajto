@@ -44718,12 +44718,18 @@
       "last_plan": {
         "source_id": "26738481",
         "display_name": "Jižní hlídka (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T09:32:22.472595+00:00"
+        "planned_at": "2026-09-05T11:02:39.692319+00:00"
       },
       "prepared": {
         "target_video_id": "29129365",
         "size_bytes": 6270213944,
         "prepared_at": "2026-09-05T10:11:31.913960+00:00"
+      },
+      "claim": {
+        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-1",
+        "claimed_at": "2026-09-05T11:02:39.884139+00:00",
+        "lease_expires_at": "2026-09-05T17:02:39.884139+00:00",
+        "run_id": "33957897411"
       }
     },
     "14759": {
@@ -44803,18 +44809,19 @@
           "reason": "Request failed for https://sdilej.cz/31417258/le-mans-1971-cz-en-.mkv",
           "permanent": false,
           "attempted_at": "2026-09-05T10:16:19.993178+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31417258",
+          "target_video_id": "29130187",
+          "permanent": false,
+          "attempted_at": "2026-09-05T11:02:41.153313+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31417258",
         "display_name": "Le Mans (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-05T10:49:25.372702+00:00"
-      },
-      "claim": {
-        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-2",
-        "claimed_at": "2026-09-05T10:51:44.221857+00:00",
-        "lease_expires_at": "2026-09-05T16:51:44.221857+00:00",
-        "run_id": "33957897411"
       },
       "prepared": {
         "target_video_id": "29130187",
@@ -105074,5 +105081,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T11:02:37.910024+00:00"
+  "updated_at": "2026-09-05T11:02:41.153329+00:00"
 }
