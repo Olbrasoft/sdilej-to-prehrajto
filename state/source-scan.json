@@ -209,13 +209,6 @@
     "31195": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "A preferred quality tier could not be fully verified",
-          "attempted_at": "2026-09-04T22:07:14.772909+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -229,6 +222,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Unrecognized search response; refusing empty result",
           "attempted_at": "2026-09-04T23:44:57.669570+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Unrecognized search response; refusing empty result; title='Sdilej.cz - sdílej soubory zdarma - náhrada za ulož to'; bytes=203461; notice=no search controls",
+          "attempted_at": "2026-09-05T00:54:12.099203+00:00"
         }
       ]
     },
@@ -548189,5 +548189,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-04T23:54:19.474507+00:00"
+  "updated_at": "2026-09-05T00:54:12.099223+00:00"
 }
