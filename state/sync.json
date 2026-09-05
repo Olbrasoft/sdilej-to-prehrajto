@@ -13926,12 +13926,18 @@
       "last_plan": {
         "source_id": "32497639",
         "display_name": "Co s Péťou? (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T14:04:17.171787+00:00"
+        "planned_at": "2026-09-05T14:34:52.930377+00:00"
       },
       "prepared": {
         "target_video_id": "29128168",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-05T14:04:23.538775+00:00"
+      },
+      "claim": {
+        "worker_id": "e78af73e141c42e099442569cedc2338-shard-0",
+        "claimed_at": "2026-09-05T14:34:56.379533+00:00",
+        "lease_expires_at": "2026-09-05T20:34:56.379533+00:00",
+        "run_id": "33957897411"
       }
     },
     "1539": {
@@ -45314,13 +45320,6 @@
           "source_id": "34209434",
           "target_video_id": "29133090",
           "permanent": false,
-          "attempted_at": "2026-09-05T13:04:27.301035+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34209434",
-          "target_video_id": "29133090",
-          "permanent": false,
           "attempted_at": "2026-09-05T13:34:34.897879+00:00"
         },
         {
@@ -45329,17 +45328,20 @@
           "target_video_id": "29133090",
           "permanent": false,
           "attempted_at": "2026-09-05T14:04:51.542244+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34209434",
+          "target_video_id": "29133090",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-05T14:35:00.013658+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34209434",
         "display_name": "Čertí brko (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T14:04:45.383053+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29133090",
-        "size_bytes": 3400000000,
-        "prepared_at": "2026-09-05T12:57:19.863642+00:00"
+        "planned_at": "2026-09-05T14:34:53.069750+00:00"
       }
     },
     "3203": {
@@ -105540,5 +105542,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T14:29:21.126435+00:00"
+  "updated_at": "2026-09-05T14:35:00.013676+00:00"
 }
