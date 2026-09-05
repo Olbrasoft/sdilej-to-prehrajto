@@ -42090,13 +42090,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34941645",
-          "target_video_id": "29138525",
-          "permanent": false,
-          "attempted_at": "2026-09-05T17:08:15.728610+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34941645",
           "target_video_id": "29138525",
@@ -42110,18 +42103,19 @@
           "reason": "Request failed for https://sdilej.cz/34941645/gangster-ka-2015-.mkv",
           "permanent": false,
           "attempted_at": "2026-09-05T18:10:59.121133+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29140212",
+          "permanent": false,
+          "attempted_at": "2026-09-05T18:52:37.403935+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-05T18:41:11.228797+00:00"
-      },
-      "claim": {
-        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-3",
-        "claimed_at": "2026-09-05T18:41:11.420676+00:00",
-        "lease_expires_at": "2026-09-06T00:41:11.420676+00:00",
-        "run_id": "33971629049"
       },
       "prepared": {
         "target_video_id": "29140212",
@@ -106299,5 +106293,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T18:51:06.585907+00:00"
+  "updated_at": "2026-09-05T18:52:37.403951+00:00"
 }
