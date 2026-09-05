@@ -12881,13 +12881,6 @@
     "1436": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "29125921",
-          "permanent": false,
-          "attempted_at": "2026-09-05T16:29:26.771019+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34357032",
           "reason": "Request failed for https://sdilej.cz/34357032/zruda-2003-krimi-drama-usa-charlize-theron-czdab.uhd.mkv",
@@ -12900,12 +12893,19 @@
           "target_video_id": "29125921",
           "permanent": false,
           "attempted_at": "2026-09-05T17:30:30.502751+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "29125921",
+          "permanent": false,
+          "attempted_at": "2026-09-05T18:00:42.566655+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Zrůda (2003) 4K CZ Dabing",
-        "planned_at": "2026-09-05T17:30:25.859192+00:00"
+        "planned_at": "2026-09-05T18:00:39.473130+00:00"
       },
       "prepared": {
         "target_video_id": "29125921",
@@ -13768,12 +13768,18 @@
       "last_plan": {
         "source_id": "33854170",
         "display_name": "Bohové musejí být šílení (1980) 4K CZ Dabing",
-        "planned_at": "2026-09-05T17:30:25.968737+00:00"
+        "planned_at": "2026-09-05T18:00:39.588000+00:00"
       },
       "prepared": {
         "target_video_id": "29128110",
         "size_bytes": 20300000000,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-0",
+        "claimed_at": "2026-09-05T18:00:40.128357+00:00",
+        "lease_expires_at": "2026-09-06T00:00:40.128357+00:00",
+        "run_id": "33971629049"
       }
     },
     "22282": {
@@ -30304,12 +30310,18 @@
       "last_plan": {
         "source_id": "11740260",
         "display_name": "7 životů (2017) 4K CZ Dabing",
-        "planned_at": "2026-09-05T17:30:26.098287+00:00"
+        "planned_at": "2026-09-05T18:00:39.717068+00:00"
       },
       "prepared": {
         "target_video_id": "29136607",
         "size_bytes": 13200000000,
         "prepared_at": "2026-09-05T15:22:58.228127+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-1",
+        "claimed_at": "2026-09-05T18:00:40.273071+00:00",
+        "lease_expires_at": "2026-09-06T00:00:40.273071+00:00",
+        "run_id": "33971629049"
       }
     },
     "2988": {
@@ -106051,5 +106063,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T18:00:16.809066+00:00"
+  "updated_at": "2026-09-05T18:00:42.566671+00:00"
 }
