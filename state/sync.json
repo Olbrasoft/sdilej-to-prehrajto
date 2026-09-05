@@ -10606,13 +10606,6 @@
     "1061": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33258563",
-          "target_video_id": "29131847",
-          "permanent": false,
-          "attempted_at": "2026-09-05T12:27:58.068812+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33258563",
           "target_video_id": "29131847",
@@ -10626,17 +10619,19 @@
           "target_video_id": "29133904",
           "permanent": false,
           "attempted_at": "2026-09-05T13:51:33.074054+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33258563",
+          "reason": "Request failed for https://sdilej.cz/33258563/bugonia-2025-en-cz-dabing-uhdrdv.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-05T14:22:23.770352+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-05T13:28:20.056769+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29133904",
-        "size_bytes": 5597294092,
-        "prepared_at": "2026-09-05T13:28:25.853582+00:00"
+        "planned_at": "2026-09-05T14:21:38.348484+00:00"
       }
     },
     "1249": {
@@ -105563,5 +105558,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T14:21:25.375139+00:00"
+  "updated_at": "2026-09-05T14:22:23.770373+00:00"
 }
