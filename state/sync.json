@@ -1014,13 +1014,6 @@
     "10687": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "23143444",
-          "reason": "SdilejError",
-          "permanent": false,
-          "attempted_at": "2026-08-29T05:57:04.236230+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "23143444",
           "target_video_id": "29113554",
@@ -1033,12 +1026,19 @@
           "target_video_id": "29113554",
           "permanent": false,
           "attempted_at": "2026-09-05T01:23:28.262556+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23143444",
+          "target_video_id": "29113554",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:55:54.863478+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23143444",
         "display_name": "Diktátor (1940) 4K CZ Titulky",
-        "planned_at": "2026-09-05T01:23:23.705050+00:00"
+        "planned_at": "2026-09-05T01:55:50.136677+00:00"
       },
       "prepared": {
         "target_video_id": "29113554",
@@ -1116,15 +1116,9 @@
           "attempted_at": "2026-09-05T01:19:08.211424+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34430968",
-        "display_name": "Přísahám, že za to nemůžu (2025) 1080p CZ Titulky",
-        "planned_at": "2026-09-05T01:19:03.930856+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29113572",
-        "size_bytes": 5600000000,
-        "prepared_at": "2026-09-05T00:00:08.802406+00:00"
+        "uploaded_at": "2026-09-05T01:55:57.465761+00:00"
       }
     },
     "31549": {
@@ -1278,13 +1272,6 @@
           "source_id": "26592290",
           "target_video_id": "28927371",
           "permanent": false,
-          "attempted_at": "2026-09-05T00:14:32.776886+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26592290",
-          "target_video_id": "28927371",
-          "permanent": false,
           "attempted_at": "2026-09-05T00:44:44.344428+00:00"
         },
         {
@@ -1293,12 +1280,19 @@
           "target_video_id": "28927371",
           "permanent": false,
           "attempted_at": "2026-09-05T01:19:11.330889+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26592290",
+          "target_video_id": "28927371",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:56:00.676878+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Nelítostný souboj (1995) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T01:19:04.042815+00:00"
+        "planned_at": "2026-09-05T01:55:50.385022+00:00"
       },
       "prepared": {
         "target_video_id": "28927371",
@@ -1351,13 +1345,6 @@
           "source_id": "30836489",
           "target_video_id": "28927212",
           "permanent": false,
-          "attempted_at": "2026-09-05T00:14:32.636817+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30836489",
-          "target_video_id": "28927212",
-          "permanent": false,
           "attempted_at": "2026-09-05T00:44:44.484752+00:00"
         },
         {
@@ -1366,12 +1353,19 @@
           "target_video_id": "28927212",
           "permanent": false,
           "attempted_at": "2026-09-05T01:19:14.923423+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30836489",
+          "target_video_id": "28927212",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:56:03.967596+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30836489",
         "display_name": "Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu (1964) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T01:19:04.158315+00:00"
+        "planned_at": "2026-09-05T01:55:50.510126+00:00"
       },
       "prepared": {
         "target_video_id": "28927212",
@@ -1396,13 +1390,6 @@
           "source_id": "18329991",
           "target_video_id": "28928664",
           "permanent": false,
-          "attempted_at": "2026-09-05T00:02:23.750472+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18329991",
-          "target_video_id": "28928664",
-          "permanent": false,
           "attempted_at": "2026-09-05T00:32:28.440312+00:00"
         },
         {
@@ -1411,6 +1398,13 @@
           "target_video_id": "28928664",
           "permanent": false,
           "attempted_at": "2026-09-05T01:11:29.797293+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18329991",
+          "target_video_id": "28928664",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:47:44.449555+00:00"
         }
       ],
       "last_plan": {
@@ -1422,12 +1416,6 @@
         "target_video_id": "28928664",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-04T22:31:51.328746+00:00"
-      },
-      "claim": {
-        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-1",
-        "claimed_at": "2026-09-05T01:47:39.393165+00:00",
-        "lease_expires_at": "2026-09-05T07:47:39.393165+00:00",
-        "run_id": "33920836602"
       }
     },
     "21566": {
@@ -1487,13 +1475,6 @@
           "source_id": "30793920",
           "target_video_id": "28928358",
           "permanent": false,
-          "attempted_at": "2026-09-05T00:09:06.893943+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
           "attempted_at": "2026-09-05T00:39:18.128075+00:00"
         },
         {
@@ -1502,6 +1483,13 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-09-05T01:11:33.031318+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30793920",
+          "target_video_id": "28928358",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:47:44.552731+00:00"
         }
       ],
       "last_plan": {
@@ -1513,12 +1501,6 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-04T22:38:22.072250+00:00"
-      },
-      "claim": {
-        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-4",
-        "claimed_at": "2026-09-05T01:47:39.504027+00:00",
-        "lease_expires_at": "2026-09-05T07:47:39.504027+00:00",
-        "run_id": "33920836602"
       }
     },
     "21354": {
@@ -1546,13 +1528,6 @@
           "source_id": "7430975",
           "target_video_id": "29111363",
           "permanent": false,
-          "attempted_at": "2026-09-05T00:12:11.663080+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7430975",
-          "target_video_id": "29111363",
-          "permanent": false,
           "attempted_at": "2026-09-05T00:42:23.865782+00:00"
         },
         {
@@ -1561,12 +1536,19 @@
           "target_video_id": "29111363",
           "permanent": false,
           "attempted_at": "2026-09-05T01:19:18.166579+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7430975",
+          "target_video_id": "29111363",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:56:07.162333+00:00"
         }
       ],
       "last_plan": {
         "source_id": "7430975",
         "display_name": "Dangal (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-05T01:19:04.274975+00:00"
+        "planned_at": "2026-09-05T01:55:50.632698+00:00"
       },
       "prepared": {
         "target_video_id": "29111363",
@@ -1664,21 +1646,9 @@
           "attempted_at": "2026-09-05T01:12:48.561458+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32726544",
-        "display_name": "Prokletý ostrov (2010) 4K CZ Dabing",
-        "planned_at": "2026-09-05T01:47:38.376687+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29114706",
-        "size_bytes": 6301586812,
-        "prepared_at": "2026-09-05T00:49:08.040205+00:00"
-      },
-      "claim": {
-        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-2",
-        "claimed_at": "2026-09-05T01:47:39.830486+00:00",
-        "lease_expires_at": "2026-09-05T07:47:39.830486+00:00",
-        "run_id": "33920836602"
+        "uploaded_at": "2026-09-05T01:47:44.986441+00:00"
       }
     },
     "171": {
@@ -1785,15 +1755,9 @@
           "attempted_at": "2026-09-05T01:21:40.236035+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34240636",
-        "display_name": "Oppenheimer (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-05T00:49:04.482858+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29114709",
-        "size_bytes": 8454799621,
-        "prepared_at": "2026-09-05T00:49:08.644894+00:00"
+        "uploaded_at": "2026-09-05T01:56:09.654599+00:00"
       }
     },
     "179": {
@@ -1804,6 +1768,13 @@
           "target_video_id": "29115000",
           "permanent": false,
           "attempted_at": "2026-09-05T01:11:23.805261+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31102322",
+          "target_video_id": "29115000",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:47:44.662392+00:00"
         }
       ],
       "last_plan": {
@@ -1813,14 +1784,8 @@
       },
       "prepared": {
         "target_video_id": "29115000",
-        "size_bytes": 2671589048,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T01:01:52.340034+00:00"
-      },
-      "claim": {
-        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-5",
-        "claimed_at": "2026-09-05T01:47:39.724555+00:00",
-        "lease_expires_at": "2026-09-05T07:47:39.724555+00:00",
-        "run_id": "33920836602"
       }
     },
     "135": {
@@ -1858,13 +1823,6 @@
           "source_id": "21028004",
           "target_video_id": "29112582",
           "permanent": false,
-          "attempted_at": "2026-09-05T00:12:42.795793+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21028004",
-          "target_video_id": "29112582",
-          "permanent": false,
           "attempted_at": "2026-09-05T00:42:55.333199+00:00"
         },
         {
@@ -1873,12 +1831,19 @@
           "target_video_id": "29112582",
           "permanent": false,
           "attempted_at": "2026-09-05T01:19:23.939472+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21028004",
+          "target_video_id": "29112582",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:56:12.870321+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21028004",
         "display_name": "Mechanický pomeranč (1971) 4K CZ Titulky",
-        "planned_at": "2026-09-05T01:19:04.495207+00:00"
+        "planned_at": "2026-09-05T01:55:50.886125+00:00"
       },
       "prepared": {
         "target_video_id": "29112582",
@@ -1924,15 +1889,9 @@
           "attempted_at": "2026-09-05T01:18:57.351463+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24591601",
-        "display_name": "Olověná vesta (1987) 1080p CZ Titulky",
-        "planned_at": "2026-09-05T01:01:48.406207+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29115148",
-        "size_bytes": 2789173537,
-        "prepared_at": "2026-09-05T01:07:40.455403+00:00"
+        "uploaded_at": "2026-09-05T01:56:15.385706+00:00"
       }
     },
     "101": {
@@ -1976,7 +1935,7 @@
       "last_plan": {
         "source_id": "24661078",
         "display_name": "L.A. – Přísně tajné (1997) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T01:01:48.538684+00:00"
+        "planned_at": "2026-09-05T01:55:51.132225+00:00"
       },
       "prepared": {
         "target_video_id": "29115219",
@@ -2051,7 +2010,7 @@
       "last_plan": {
         "source_id": "34237308",
         "display_name": "Spasitel (2026) 4K CZ Dabing",
-        "planned_at": "2026-09-05T01:19:04.720522+00:00"
+        "planned_at": "2026-09-05T01:55:51.252404+00:00"
       },
       "prepared": {
         "target_video_id": "29110877",
@@ -2456,11 +2415,24 @@
       "attempts": []
     },
     "158": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31765062",
+          "target_video_id": "29116032",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:52:33.754365+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31765062",
         "display_name": "Temple Grandinová (2010) SD CZ Dabing",
         "planned_at": "2026-09-05T01:47:38.687469+00:00"
+      },
+      "prepared": {
+        "target_video_id": "29116032",
+        "size_bytes": 1256817728,
+        "prepared_at": "2026-09-05T01:47:48.126504+00:00"
       }
     },
     "29311": {
@@ -2489,6 +2461,17 @@
         "source_id": "32448945",
         "display_name": "Chyť mě, když to dokážeš (2002) 4K CZ Dabing",
         "planned_at": "2026-09-05T01:47:38.791274+00:00"
+      },
+      "claim": {
+        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-1",
+        "claimed_at": "2026-09-05T01:47:44.875302+00:00",
+        "lease_expires_at": "2026-09-05T07:47:44.875302+00:00",
+        "run_id": "33920836602"
+      },
+      "prepared": {
+        "target_video_id": "29116031",
+        "size_bytes": 6013388164,
+        "prepared_at": "2026-09-05T01:47:48.020613+00:00"
       }
     },
     "193": {
@@ -2523,7 +2506,12 @@
       }
     },
     "223": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34814926",
+        "display_name": "Příšerky s.r.o. (2001) 4K CZ Dabing",
+        "planned_at": "2026-09-05T01:55:51.366822+00:00"
+      }
     },
     "198": {
       "attempts": []
@@ -2534,6 +2522,17 @@
         "source_id": "33372459",
         "display_name": "Harry Potter a Relikvie smrti – část 2 (2011) 4K CZ Dabing",
         "planned_at": "2026-09-05T01:47:38.893110+00:00"
+      },
+      "claim": {
+        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-4",
+        "claimed_at": "2026-09-05T01:47:45.303102+00:00",
+        "lease_expires_at": "2026-09-05T07:47:45.303102+00:00",
+        "run_id": "33920836602"
+      },
+      "prepared": {
+        "target_video_id": "29116035",
+        "size_bytes": 6103012272,
+        "prepared_at": "2026-09-05T01:47:48.451642+00:00"
       }
     },
     "231": {
@@ -2543,7 +2542,12 @@
       "attempts": []
     },
     "224": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34483447",
+        "display_name": "Ratatouille (2007) 4K CZ Dabing",
+        "planned_at": "2026-09-05T01:55:51.491561+00:00"
+      }
     },
     "216": {
       "attempts": []
@@ -7836,6 +7840,17 @@
         "source_id": "32614955",
         "display_name": "Vánoční prázdniny (1989) 4K CZ Dabing",
         "planned_at": "2026-09-05T01:47:39.002832+00:00"
+      },
+      "claim": {
+        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-5",
+        "claimed_at": "2026-09-05T01:47:45.090928+00:00",
+        "lease_expires_at": "2026-09-05T07:47:45.090928+00:00",
+        "run_id": "33920836602"
+      },
+      "prepared": {
+        "target_video_id": "29116033",
+        "size_bytes": 4572963140,
+        "prepared_at": "2026-09-05T01:47:48.233934+00:00"
       }
     },
     "941": {
@@ -8004,6 +8019,17 @@
         "source_id": "34922737",
         "display_name": "Hřiště snů (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-05T01:47:39.106728+00:00"
+      },
+      "claim": {
+        "worker_id": "46b616653ffc4433bf9802047e6c4092-shard-2",
+        "claimed_at": "2026-09-05T01:47:45.194336+00:00",
+        "lease_expires_at": "2026-09-05T07:47:45.194336+00:00",
+        "run_id": "33920836602"
+      },
+      "prepared": {
+        "target_video_id": "29116034",
+        "size_bytes": 2503078580,
+        "prepared_at": "2026-09-05T01:47:48.341881+00:00"
       }
     },
     "893": {
@@ -8314,7 +8340,12 @@
       "attempts": []
     },
     "37129": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29677483",
+        "display_name": "Odd Man Out (1947) 1080p CZ Dabing",
+        "planned_at": "2026-09-05T01:55:51.617242+00:00"
+      }
     },
     "23459": {
       "attempts": []
@@ -8499,11 +8530,24 @@
       "attempts": []
     },
     "34167": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11917637",
+          "target_video_id": "29116146",
+          "permanent": false,
+          "attempted_at": "2026-09-05T01:55:48.772182+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11917637",
         "display_name": "Medvídek Pú: Nejlepší dobrodružstvÍ (1977) SD CZ Dabing",
         "planned_at": "2026-09-05T01:47:39.210665+00:00"
+      },
+      "prepared": {
+        "target_video_id": "29116146",
+        "size_bytes": 935494865,
+        "prepared_at": "2026-09-05T01:52:37.163812+00:00"
       }
     },
     "20483": {
@@ -101394,5 +101438,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T01:47:42.179170+00:00"
+  "updated_at": "2026-09-05T01:56:15.385718+00:00"
 }
