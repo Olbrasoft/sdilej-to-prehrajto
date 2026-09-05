@@ -2514,13 +2514,6 @@
     "237": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "12902823",
-          "reason": "Request failed for https://sdilej.cz/12902823/zmizela-2014-cz-dabing.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-05T17:59:07.254689+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12902823",
           "target_video_id": "29115993",
@@ -2533,6 +2526,13 @@
           "target_video_id": "29115993",
           "permanent": false,
           "attempted_at": "2026-09-05T19:03:22.748835+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12902823",
+          "target_video_id": "29115993",
+          "permanent": false,
+          "attempted_at": "2026-09-05T19:33:40.111426+00:00"
         }
       ],
       "last_plan": {
@@ -2544,12 +2544,6 @@
         "target_video_id": "29115993",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-05T18:33:16.338254+00:00"
-      },
-      "claim": {
-        "worker_id": "9a1e272737104f29adec34e90f672510-shard-5",
-        "claimed_at": "2026-09-05T19:33:32.044521+00:00",
-        "lease_expires_at": "2026-09-06T01:33:32.044521+00:00",
-        "run_id": "33971629049"
       }
     },
     "223": {
@@ -106401,5 +106395,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T19:33:38.789016+00:00"
+  "updated_at": "2026-09-05T19:33:40.111446+00:00"
 }
