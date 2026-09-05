@@ -10606,13 +10606,6 @@
     "1061": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33258563",
-          "reason": "Request failed for https://sdilej.cz/33258563/bugonia-2025-en-cz-dabing-uhdrdv.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-05T15:53:38.588061+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33258563",
           "target_video_id": "29136383",
@@ -10625,12 +10618,19 @@
           "target_video_id": "29136383",
           "permanent": false,
           "attempted_at": "2026-09-05T16:54:09.574543+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33258563",
+          "target_video_id": "29136383",
+          "permanent": false,
+          "attempted_at": "2026-09-05T17:24:13.705929+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-05T16:54:06.390979+00:00"
+        "planned_at": "2026-09-05T17:24:10.679103+00:00"
       },
       "prepared": {
         "target_video_id": "29136383",
@@ -21226,12 +21226,18 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T16:54:06.518476+00:00"
+        "planned_at": "2026-09-05T17:24:11.150448+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-05T16:23:58.063425+00:00"
+      },
+      "claim": {
+        "worker_id": "fef0e611f8ed451b9b257e686c68a1d4-shard-2",
+        "claimed_at": "2026-09-05T17:24:11.347590+00:00",
+        "lease_expires_at": "2026-09-05T23:24:11.347590+00:00",
+        "run_id": "33971629049"
       }
     },
     "21454": {
@@ -105972,5 +105978,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T17:23:59.083307+00:00"
+  "updated_at": "2026-09-05T17:24:13.705946+00:00"
 }
