@@ -22290,13 +22290,6 @@
           "source_id": "33531199",
           "target_video_id": "29136430",
           "permanent": false,
-          "attempted_at": "2026-09-05T17:23:42.564026+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33531199",
-          "target_video_id": "29136430",
-          "permanent": false,
           "attempted_at": "2026-09-05T17:53:50.037707+00:00"
         },
         {
@@ -22305,23 +22298,19 @@
           "target_video_id": "29136430",
           "permanent": false,
           "attempted_at": "2026-09-05T18:24:06.043413+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33531199",
+          "reason": "Request failed for https://sdilej.cz/33531199/obycejni-hrdinove-2004-fhd-cz-en.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-05T18:54:55.515242+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33531199",
         "display_name": "Obyčejní hrdinové (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-05T18:54:09.903610+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29136430",
-        "size_bytes": 2700000000,
-        "prepared_at": "2026-09-05T15:00:10.805580+00:00"
-      },
-      "claim": {
-        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-3",
-        "claimed_at": "2026-09-05T18:54:10.308317+00:00",
-        "lease_expires_at": "2026-09-06T00:54:10.308317+00:00",
-        "run_id": "33971629049"
       }
     },
     "27493": {
@@ -106304,5 +106293,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T18:54:44.493711+00:00"
+  "updated_at": "2026-09-05T18:54:55.515262+00:00"
 }
