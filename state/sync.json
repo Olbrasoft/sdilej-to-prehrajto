@@ -1490,12 +1490,18 @@
       "last_plan": {
         "source_id": "30793920",
         "display_name": "Ponorka (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:27:33.146096+00:00"
+        "planned_at": "2026-09-05T17:58:09.531416+00:00"
       },
       "prepared": {
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T16:57:32.467731+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-4",
+        "claimed_at": "2026-09-05T17:58:10.350019+00:00",
+        "lease_expires_at": "2026-09-05T23:58:10.350019+00:00",
+        "run_id": "33971629049"
       }
     },
     "21354": {
@@ -2056,12 +2062,18 @@
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Pád Třetí říše (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:27:48.967012+00:00"
+        "planned_at": "2026-09-05T17:58:09.640769+00:00"
       },
       "prepared": {
         "target_video_id": "29115742",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-05T12:55:26.780341+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-2",
+        "claimed_at": "2026-09-05T17:58:10.456236+00:00",
+        "lease_expires_at": "2026-09-05T23:58:10.456236+00:00",
+        "run_id": "33971629049"
       }
     },
     "10684": {
@@ -2403,12 +2415,18 @@
       "last_plan": {
         "source_id": "34257579",
         "display_name": "Dárek do cely č.7 (2019) 1080p SK Dabing",
-        "planned_at": "2026-09-05T17:27:18.066050+00:00"
+        "planned_at": "2026-09-05T17:58:09.748265+00:00"
       },
       "prepared": {
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-5",
+        "claimed_at": "2026-09-05T17:58:10.571500+00:00",
+        "lease_expires_at": "2026-09-05T23:58:10.571500+00:00",
+        "run_id": "33971629049"
       }
     },
     "29255": {
@@ -2544,7 +2562,7 @@
       "last_plan": {
         "source_id": "12902823",
         "display_name": "Zmizelá (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:27:18.195595+00:00"
+        "planned_at": "2026-09-05T17:58:09.866420+00:00"
       },
       "prepared": {
         "target_video_id": "29115993",
@@ -8891,7 +8909,7 @@
       "last_plan": {
         "source_id": "30641618",
         "display_name": "Nepřítel před branami (2001) 4K CZ Dabing",
-        "planned_at": "2026-09-05T17:27:18.321485+00:00"
+        "planned_at": "2026-09-05T17:58:10.026785+00:00"
       },
       "prepared": {
         "target_video_id": "29116000",
@@ -10160,7 +10178,7 @@
       "last_plan": {
         "source_id": "29297028",
         "display_name": "Strážní loď Sand Pebbles (1966) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T17:28:04.849519+00:00"
+        "planned_at": "2026-09-05T17:58:10.157337+00:00"
       },
       "prepared": {
         "target_video_id": "29117207",
@@ -19039,14 +19057,6 @@
     "1713": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31105084",
-          "target_video_id": "29136606",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T16:09:50.227531+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31105084",
           "target_video_id": "29138243",
@@ -19060,18 +19070,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-05T17:18:47.344752+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31105084",
+          "target_video_id": "29139420",
+          "permanent": false,
+          "attempted_at": "2026-09-05T17:58:12.090515+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-05T17:48:47.345040+00:00"
-      },
-      "claim": {
-        "worker_id": "0f52a9dbebb640949c68da27f9d87d87-shard-0",
-        "claimed_at": "2026-09-05T17:48:50.539499+00:00",
-        "lease_expires_at": "2026-09-05T23:48:50.539499+00:00",
-        "run_id": "33971629049"
       },
       "prepared": {
         "target_video_id": "29139420",
@@ -106039,5 +106050,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T17:58:08.160157+00:00"
+  "updated_at": "2026-09-05T17:58:12.090529+00:00"
 }
