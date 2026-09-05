@@ -13930,6 +13930,12 @@
         "target_video_id": "29128168",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-05T20:26:10.233538+00:00"
+      },
+      "claim": {
+        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-3",
+        "claimed_at": "2026-09-05T23:31:56.939836+00:00",
+        "lease_expires_at": "2026-09-06T05:31:56.939836+00:00",
+        "run_id": "33989985456"
       }
     },
     "1539": {
@@ -19021,13 +19027,6 @@
     "1713": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31105084",
-          "target_video_id": "29141465",
-          "permanent": false,
-          "attempted_at": "2026-09-05T20:23:41.320711+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "31105084",
           "target_video_id": "29141465",
@@ -19041,17 +19040,20 @@
           "target_video_id": "29142778",
           "permanent": false,
           "attempted_at": "2026-09-05T22:11:43.983485+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31105084",
+          "target_video_id": "29142778",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-05T23:32:00.157968+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-05T23:30:25.146286+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29142778",
-        "size_bytes": 2093897340,
-        "prepared_at": "2026-09-05T22:02:11.716074+00:00"
       }
     },
     "15980": {
@@ -107670,5 +107672,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T23:31:55.370279+00:00"
+  "updated_at": "2026-09-05T23:32:00.157989+00:00"
 }
