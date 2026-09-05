@@ -34516,12 +34516,18 @@
       "last_plan": {
         "source_id": "33158292",
         "display_name": "Jezero ztracené lásky (2026) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T13:19:53.785438+00:00"
+        "planned_at": "2026-09-05T13:50:01.779459+00:00"
       },
       "prepared": {
         "target_video_id": "29129225",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T10:06:06.181592+00:00"
+      },
+      "claim": {
+        "worker_id": "323948da2bdb45ee96184a9d732a1497-shard-2",
+        "claimed_at": "2026-09-05T13:50:01.957319+00:00",
+        "lease_expires_at": "2026-09-05T19:50:01.957319+00:00",
+        "run_id": "33957897411"
       }
     },
     "28400": {
@@ -54945,18 +54951,19 @@
           "reason": "Request failed for https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv",
           "permanent": false,
           "attempted_at": "2026-09-05T12:49:47.117619+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31061813",
+          "target_video_id": "29133738",
+          "permanent": false,
+          "attempted_at": "2026-09-05T13:50:08.893389+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31061813",
         "display_name": "Nymfomanka, část II. (2013) SD CZ Titulky",
         "planned_at": "2026-09-05T13:19:53.914639+00:00"
-      },
-      "claim": {
-        "worker_id": "323948da2bdb45ee96184a9d732a1497-shard-1",
-        "claimed_at": "2026-09-05T13:19:57.434668+00:00",
-        "lease_expires_at": "2026-09-05T19:19:57.434668+00:00",
-        "run_id": "33957897411"
       },
       "prepared": {
         "target_video_id": "29133738",
@@ -105544,5 +105551,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T13:49:18.310645+00:00"
+  "updated_at": "2026-09-05T13:50:08.893410+00:00"
 }
