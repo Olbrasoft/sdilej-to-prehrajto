@@ -13691,7 +13691,15 @@
       "attempts": []
     },
     "24030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28393777",
+          "target_video_id": "29128092",
+          "permanent": false,
+          "attempted_at": "2026-09-05T09:32:41.965175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28393777",
         "display_name": "Třináct dní (2000) 1080p CZ Dabing",
@@ -13699,14 +13707,8 @@
       },
       "prepared": {
         "target_video_id": "29128092",
-        "size_bytes": 2786919093,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
-      },
-      "claim": {
-        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-3",
-        "claimed_at": "2026-09-05T09:32:38.948522+00:00",
-        "lease_expires_at": "2026-09-05T15:32:38.948522+00:00",
-        "run_id": "33957897411"
       }
     },
     "32926": {
@@ -13726,6 +13728,12 @@
         "target_video_id": "29128110",
         "size_bytes": 20257841080,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
+      },
+      "claim": {
+        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-4",
+        "claimed_at": "2026-09-05T09:32:41.746884+00:00",
+        "lease_expires_at": "2026-09-05T15:32:41.746884+00:00",
+        "run_id": "33957897411"
       }
     },
     "22282": {
@@ -13848,6 +13856,12 @@
         "target_video_id": "29128168",
         "size_bytes": 1658058765,
         "prepared_at": "2026-09-05T09:28:37.163831+00:00"
+      },
+      "claim": {
+        "worker_id": "a43020a42ad84006b53dd30dffc928e8-shard-1",
+        "claimed_at": "2026-09-05T09:32:41.859714+00:00",
+        "lease_expires_at": "2026-09-05T15:32:41.859714+00:00",
+        "run_id": "33957897411"
       }
     },
     "1539": {
@@ -104275,5 +104289,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T09:32:40.399792+00:00"
+  "updated_at": "2026-09-05T09:32:41.965192+00:00"
 }
