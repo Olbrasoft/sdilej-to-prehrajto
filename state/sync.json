@@ -10604,13 +10604,6 @@
     "1061": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33258563",
-          "target_video_id": "29127812",
-          "permanent": false,
-          "attempted_at": "2026-09-05T09:27:43.172330+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33258563",
           "target_video_id": "29127812",
@@ -10624,17 +10617,20 @@
           "target_video_id": "29130242",
           "permanent": false,
           "attempted_at": "2026-09-05T11:09:33.578874+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "33258563",
+          "target_video_id": "29130242",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-05T11:40:13.201520+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-05T10:52:49.638458+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29130242",
-        "size_bytes": 5597294092,
-        "prepared_at": "2026-09-05T10:54:31.344823+00:00"
+        "planned_at": "2026-09-05T11:40:06.779498+00:00"
       }
     },
     "1249": {
@@ -14404,12 +14400,18 @@
       "last_plan": {
         "source_id": "34152297",
         "display_name": "Kouzelná výměna (2026) 4K CZ Dabing",
-        "planned_at": "2026-09-05T11:09:35.306982+00:00"
+        "planned_at": "2026-09-05T11:40:06.892032+00:00"
       },
       "prepared": {
         "target_video_id": "29128416",
         "size_bytes": 6100000000,
         "prepared_at": "2026-09-05T09:38:33.038862+00:00"
+      },
+      "claim": {
+        "worker_id": "8b718d9dc623472c883b8d20b3b5b739-shard-1",
+        "claimed_at": "2026-09-05T11:40:10.416575+00:00",
+        "lease_expires_at": "2026-09-05T17:40:10.416575+00:00",
+        "run_id": "33957897411"
       }
     },
     "1405": {
@@ -104128,12 +104130,18 @@
       "last_plan": {
         "source_id": "28040189",
         "display_name": "Plán útěku 2 (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-05T11:09:35.534499+00:00"
+        "planned_at": "2026-09-05T11:40:07.081339+00:00"
       },
       "prepared": {
         "target_video_id": "29098566",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T11:09:43.665715+00:00"
+      },
+      "claim": {
+        "worker_id": "8b718d9dc623472c883b8d20b3b5b739-shard-2",
+        "claimed_at": "2026-09-05T11:40:10.587729+00:00",
+        "lease_expires_at": "2026-09-05T17:40:10.587729+00:00",
+        "run_id": "33957897411"
       }
     },
     "25786": {
@@ -105141,5 +105149,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-05T11:38:36.614620+00:00"
+  "updated_at": "2026-09-05T11:40:13.201536+00:00"
 }
