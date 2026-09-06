@@ -47522,14 +47522,6 @@
     "5772": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34209434",
-          "target_video_id": "29140093",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T19:18:13.604411+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34209434",
           "target_video_id": "29140978",
@@ -47543,18 +47535,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-05T20:35:00.485266+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34209434",
+          "target_video_id": "29144425",
+          "permanent": false,
+          "attempted_at": "2026-09-06T00:01:57.756731+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34209434",
         "display_name": "Čertí brko (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-05T23:33:02.857037+00:00"
-      },
-      "claim": {
-        "worker_id": "d6a871ef31794de1b8b6f295d6626c90-shard-2",
-        "claimed_at": "2026-09-05T23:47:07.277583+00:00",
-        "lease_expires_at": "2026-09-06T05:47:07.277583+00:00",
-        "run_id": "33989985456"
       },
       "prepared": {
         "target_video_id": "29144425",
@@ -107785,5 +107778,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T00:01:56.272067+00:00"
+  "updated_at": "2026-09-06T00:01:57.756755+00:00"
 }
