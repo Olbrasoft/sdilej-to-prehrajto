@@ -27620,12 +27620,18 @@
       "last_plan": {
         "source_id": "34827840",
         "display_name": "Robin Hood: Král zbojníků (1991) 4K CZ Dabing",
-        "planned_at": "2026-09-06T21:26:10.632745+00:00"
+        "planned_at": "2026-09-06T21:59:13.082105+00:00"
       },
       "prepared": {
         "target_video_id": "29141641",
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-05T20:36:50.331632+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-1",
+        "claimed_at": "2026-09-06T21:59:13.636113+00:00",
+        "lease_expires_at": "2026-09-07T03:59:13.636113+00:00",
+        "run_id": "34051725600"
       }
     },
     "16195": {
@@ -27885,12 +27891,18 @@
       "last_plan": {
         "source_id": "27567617",
         "display_name": "Alpha Dog (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T21:26:10.771880+00:00"
+        "planned_at": "2026-09-06T21:59:13.205361+00:00"
       },
       "prepared": {
         "target_video_id": "29141791",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-3",
+        "claimed_at": "2026-09-06T21:59:13.761687+00:00",
+        "lease_expires_at": "2026-09-07T03:59:13.761687+00:00",
+        "run_id": "34051725600"
       }
     },
     "2558": {
@@ -34869,12 +34881,18 @@
       "last_plan": {
         "source_id": "33159897",
         "display_name": "Zelená zóna (2010) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T21:26:10.936482+00:00"
+        "planned_at": "2026-09-06T21:59:13.330567+00:00"
       },
       "prepared": {
         "target_video_id": "29141887",
         "size_bytes": 4700000000,
         "prepared_at": "2026-09-05T20:57:18.923455+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-2",
+        "claimed_at": "2026-09-06T21:59:14.003759+00:00",
+        "lease_expires_at": "2026-09-07T03:59:14.003759+00:00",
+        "run_id": "34051725600"
       }
     },
     "2806": {
@@ -35309,12 +35327,18 @@
       "last_plan": {
         "source_id": "34062310",
         "display_name": "Dluh (2010) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T21:26:11.072318+00:00"
+        "planned_at": "2026-09-06T21:59:13.448933+00:00"
       },
       "prepared": {
         "target_video_id": "29143591",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-05T22:50:37.552598+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-4",
+        "claimed_at": "2026-09-06T21:59:13.879912+00:00",
+        "lease_expires_at": "2026-09-07T03:59:13.879912+00:00",
+        "run_id": "34051725600"
       }
     },
     "11796": {
@@ -56244,17 +56268,19 @@
       }
     },
     "22203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34580361",
+          "reason": "Request failed for https://sdilej.cz/34580361/1974-zazraky-se-deji-dobrodruzny-drama-73-susan-penhaligon.avi",
+          "permanent": false,
+          "attempted_at": "2026-09-06T21:59:15.930326+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34580361",
         "display_name": "Zázraky se dějí (1974) 1080p CZ Dabing",
         "planned_at": "2026-09-06T21:58:19.922007+00:00"
-      },
-      "claim": {
-        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-5",
-        "claimed_at": "2026-09-06T21:58:30.034076+00:00",
-        "lease_expires_at": "2026-09-07T03:58:30.034076+00:00",
-        "run_id": "34051725600"
       }
     },
     "31215": {
@@ -112360,5 +112386,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T21:59:02.836989+00:00"
+  "updated_at": "2026-09-06T21:59:15.930346+00:00"
 }
