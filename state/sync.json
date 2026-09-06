@@ -16296,6 +16296,12 @@
         "target_video_id": "29161092",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-06T12:31:01.918341+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-2",
+        "claimed_at": "2026-09-06T18:51:44.292935+00:00",
+        "lease_expires_at": "2026-09-07T00:51:44.292935+00:00",
+        "run_id": "34051725600"
       }
     },
     "1693": {
@@ -59520,17 +59526,19 @@
       "attempts": []
     },
     "21830": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29319025",
+          "target_video_id": "29167803",
+          "permanent": false,
+          "attempted_at": "2026-09-06T18:51:44.513710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29319025",
         "display_name": "Sympatický dareba (1966) 1080p CZ Dabing",
         "planned_at": "2026-09-06T18:37:09.517081+00:00"
-      },
-      "claim": {
-        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-0",
-        "claimed_at": "2026-09-06T18:37:25.486960+00:00",
-        "lease_expires_at": "2026-09-07T00:37:25.486960+00:00",
-        "run_id": "34051725600"
       },
       "prepared": {
         "target_video_id": "29167803",
@@ -111651,5 +111659,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T18:51:42.696184+00:00"
+  "updated_at": "2026-09-06T18:51:44.513733+00:00"
 }
