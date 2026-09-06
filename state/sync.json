@@ -20104,14 +20104,6 @@
     "1713": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31105084",
-          "target_video_id": "29142778",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-05T23:32:00.157968+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31105084",
           "target_video_id": "29144655",
@@ -20124,18 +20116,19 @@
           "reason": "Authenticated fast download link is unavailable; premium login is required",
           "permanent": false,
           "attempted_at": "2026-09-06T00:42:14.832750+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31105084",
+          "target_video_id": "29154137",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:03:13.859723+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-06T06:56:30.720533+00:00"
-      },
-      "claim": {
-        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-1",
-        "claimed_at": "2026-09-06T06:56:57.978593+00:00",
-        "lease_expires_at": "2026-09-06T12:56:57.978593+00:00",
-        "run_id": "34016950549"
       },
       "prepared": {
         "target_video_id": "29154137",
@@ -22981,6 +22974,12 @@
         "source_id": "17778509",
         "display_name": "Muž se srdcem kovboje (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-06T07:00:30.895982+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-3",
+        "claimed_at": "2026-09-06T07:03:11.715051+00:00",
+        "lease_expires_at": "2026-09-06T13:03:11.715051+00:00",
+        "run_id": "34016950549"
       }
     },
     "28081": {
@@ -109056,5 +109055,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:03:10.062842+00:00"
+  "updated_at": "2026-09-06T07:03:13.859740+00:00"
 }
