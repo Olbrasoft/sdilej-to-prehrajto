@@ -31,6 +31,34 @@ def test_plan_approval_digest_ignores_nondeterministic_probability() -> None:
     assert plan_sha([row(0.91)]) == plan_sha([row(0.99)])
 
 
+@pytest.mark.parametrize("completed", [False, True])
+def test_target_reconciliation_does_not_require_available_source(tmp_path, monkeypatch, completed):
+    class OfflineProvider:
+        def refresh_approved(self, *_args, **_kwargs):
+            pytest.fail("Existing target must be reconciled without fetching its source")
+
+    state = StateStore(tmp_path / "state.json")
+    state.record_prepared(1, "777", 100)
+    pipeline = SyncPipeline(
+        source_provider=OfflineProvider(), source_session=object(), target_session=object(),
+        state=state, subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    candidate = Candidate("10", "https://sdilej.cz/10/film.mkv", "Film", size_bytes=100)
+    film = Film(1, "film", "Film", None, 2000, 100, "en")
+    pipeline._selected[1] = candidate
+    ids = iter([None, "777"])
+    monkeypatch.setattr(pipeline, "_target_id_by_name", lambda *_: next(ids))
+    monkeypatch.setattr(pipeline, "_target_completed_and_named", lambda *_: completed)
+    pipeline._execute_shard(
+        [{"film": film.to_dict(), "display_name": "Film", "needs_czech_subtitles": False}],
+        pipeline.source_session, pipeline.target_session, "worker",
+    )
+    assert state.uploaded(1) == completed
+    if not completed:
+        assert state.snapshot(1)["prepared"]["target_video_id"] == "777"
+
+
 def test_prepare_replaces_candidate_from_old_selection_policy(tmp_path) -> None:
     selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
     selected_sources.record(
