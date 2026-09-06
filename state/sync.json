@@ -59390,13 +59390,6 @@
           "source_id": "32991210",
           "target_video_id": "29167729",
           "permanent": false,
-          "attempted_at": "2026-09-06T19:07:35.129251+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32991210",
-          "target_video_id": "29167729",
-          "permanent": false,
           "attempted_at": "2026-09-06T19:40:56.459751+00:00"
         },
         {
@@ -59405,6 +59398,13 @@
           "target_video_id": "29167729",
           "permanent": false,
           "attempted_at": "2026-09-06T20:11:06.880324+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32991210",
+          "target_video_id": "29167729",
+          "permanent": false,
+          "attempted_at": "2026-09-06T20:41:23.012070+00:00"
         }
       ],
       "last_plan": {
@@ -59574,6 +59574,12 @@
         "target_video_id": "29167781",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-06T18:35:04.790145+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-1",
+        "claimed_at": "2026-09-06T20:41:20.705898+00:00",
+        "lease_expires_at": "2026-09-07T02:41:20.705898+00:00",
+        "run_id": "34051725600"
       }
     },
     "3903": {
@@ -59904,12 +59910,18 @@
       "last_plan": {
         "source_id": "34857360",
         "display_name": "Na max (2026) 4K CZ Dabing",
-        "planned_at": "2026-09-06T20:11:10.470754+00:00"
+        "planned_at": "2026-09-06T20:41:20.875302+00:00"
       },
       "prepared": {
         "target_video_id": "29167991",
         "size_bytes": 10000000000,
         "prepared_at": "2026-09-06T18:44:14.953942+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-5",
+        "claimed_at": "2026-09-06T20:41:21.055503+00:00",
+        "lease_expires_at": "2026-09-07T02:41:21.055503+00:00",
+        "run_id": "34051725600"
       }
     },
     "3810": {
@@ -112040,5 +112052,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T20:41:18.738738+00:00"
+  "updated_at": "2026-09-06T20:41:23.012087+00:00"
 }
