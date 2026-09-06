@@ -3337,13 +3337,6 @@
     "17889": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "22687388",
-          "reason": "Request failed for https://sdilej.cz/22687388/mary-a-max.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-05T06:27:34.046859+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "22687388",
           "target_video_id": "29160548",
@@ -3356,12 +3349,19 @@
           "target_video_id": "29160548",
           "permanent": false,
           "attempted_at": "2026-09-06T12:43:43.148339+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22687388",
+          "target_video_id": "29160548",
+          "permanent": false,
+          "attempted_at": "2026-09-06T13:13:50.020208+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22687388",
         "display_name": "Mary a Max (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T12:43:40.250116+00:00"
+        "planned_at": "2026-09-06T13:13:46.321020+00:00"
       },
       "prepared": {
         "target_video_id": "29160548",
@@ -19749,7 +19749,18 @@
       }
     },
     "1940": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34232109",
+        "display_name": "Ladíme! (2012) 4K CZ Dabing",
+        "planned_at": "2026-09-06T13:13:46.427933+00:00"
+      },
+      "claim": {
+        "worker_id": "c100b2c20ad94f07b0da18c5890ccfbd-shard-2",
+        "claimed_at": "2026-09-06T13:13:46.983000+00:00",
+        "lease_expires_at": "2026-09-06T19:13:46.983000+00:00",
+        "run_id": "34033411603"
+      }
     },
     "1888": {
       "attempts": []
@@ -111143,5 +111154,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T13:11:17.146156+00:00"
+  "updated_at": "2026-09-06T13:13:50.020225+00:00"
 }
