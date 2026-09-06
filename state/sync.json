@@ -60140,17 +60140,19 @@
       "attempts": []
     },
     "13236": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26238421",
+          "reason": "Request failed for https://sdilej.cz/26238421/chladnokrevne-2003-.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-06T18:57:13.637164+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26238421",
         "display_name": "Chladnokrevně (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-06T18:56:27.462114+00:00"
-      },
-      "claim": {
-        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-2",
-        "claimed_at": "2026-09-06T18:56:27.896855+00:00",
-        "lease_expires_at": "2026-09-07T00:56:27.896855+00:00",
-        "run_id": "34051725600"
       }
     },
     "3593": {
@@ -111715,5 +111717,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T18:56:32.362245+00:00"
+  "updated_at": "2026-09-06T18:57:13.637183+00:00"
 }
