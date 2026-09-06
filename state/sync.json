@@ -2021,13 +2021,6 @@
     "181": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "29291192",
-          "target_video_id": "29115742",
-          "permanent": false,
-          "attempted_at": "2026-09-06T01:36:46.683695+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29291192",
           "reason": "Request failed for https://sdilej.cz/29291192/pad-treti-rise-1080p-.mp4",
@@ -2040,23 +2033,19 @@
           "target_video_id": "29115742",
           "permanent": false,
           "attempted_at": "2026-09-06T02:38:14.890711+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29291192",
+          "reason": "Request failed for https://sdilej.cz/29291192/pad-treti-rise-1080p-.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-06T03:09:08.937126+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Pád Třetí říše (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-06T03:08:20.988528+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29115742",
-        "size_bytes": 3700000000,
-        "prepared_at": "2026-09-06T02:38:14.890696+00:00"
-      },
-      "claim": {
-        "worker_id": "27d6c593b17c4e2aa8dae6d157d78a09-shard-4",
-        "claimed_at": "2026-09-06T03:08:21.624180+00:00",
-        "lease_expires_at": "2026-09-06T09:08:21.624180+00:00",
-        "run_id": "34002999198"
       }
     },
     "10684": {
@@ -13853,6 +13842,12 @@
         "target_video_id": "29128092",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
+      },
+      "claim": {
+        "worker_id": "27d6c593b17c4e2aa8dae6d157d78a09-shard-2",
+        "claimed_at": "2026-09-06T03:09:08.825925+00:00",
+        "lease_expires_at": "2026-09-06T09:09:08.825925+00:00",
+        "run_id": "34002999198"
       }
     },
     "32926": {
@@ -107956,5 +107951,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T03:09:07.067768+00:00"
+  "updated_at": "2026-09-06T03:09:08.937142+00:00"
 }
