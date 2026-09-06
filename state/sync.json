@@ -18242,6 +18242,12 @@
         "target_video_id": "29154134",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T06:57:00.841971+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-2",
+        "claimed_at": "2026-09-06T08:35:09.131529+00:00",
+        "lease_expires_at": "2026-09-06T14:35:09.131529+00:00",
+        "run_id": "34016950549"
       }
     },
     "32554": {
@@ -20320,17 +20326,19 @@
       "attempts": []
     },
     "1890": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31424798",
+          "target_video_id": "29155813",
+          "permanent": false,
+          "attempted_at": "2026-09-06T08:35:09.533194+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31424798",
         "display_name": "NYAD (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-06T08:24:31.671892+00:00"
-      },
-      "claim": {
-        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-0",
-        "claimed_at": "2026-09-06T08:24:32.190710+00:00",
-        "lease_expires_at": "2026-09-06T14:24:32.190710+00:00",
-        "run_id": "34016950549"
       },
       "prepared": {
         "target_video_id": "29155813",
@@ -109797,5 +109805,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T08:35:07.494752+00:00"
+  "updated_at": "2026-09-06T08:35:09.533210+00:00"
 }
