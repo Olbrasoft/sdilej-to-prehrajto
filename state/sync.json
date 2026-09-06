@@ -21266,14 +21266,6 @@
     "1713": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31105084",
-          "target_video_id": "29168861",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-06T20:03:28.469786+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31105084",
           "target_video_id": "29170292",
@@ -21287,18 +21279,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-06T21:12:18.319915+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31105084",
+          "target_video_id": "29171512",
+          "permanent": false,
+          "attempted_at": "2026-09-06T21:56:05.216661+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-06T21:46:38.068030+00:00"
-      },
-      "claim": {
-        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-1",
-        "claimed_at": "2026-09-06T21:46:40.433517+00:00",
-        "lease_expires_at": "2026-09-07T03:46:40.433517+00:00",
-        "run_id": "34051725600"
       },
       "prepared": {
         "target_video_id": "29171512",
@@ -112348,5 +112341,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T21:55:42.784555+00:00"
+  "updated_at": "2026-09-06T21:56:05.216680+00:00"
 }
