@@ -45220,6 +45220,12 @@
         "target_video_id": "29147106",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T04:31:25.582207+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-2",
+        "claimed_at": "2026-09-06T07:33:45.178009+00:00",
+        "lease_expires_at": "2026-09-06T13:33:45.178009+00:00",
+        "run_id": "34016950549"
       }
     },
     "17488": {
@@ -49130,13 +49136,6 @@
     "5772": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34209434",
-          "reason": "Request failed for https://sdilej.cz/34209434/2018-certi-brko-pohadka-64-.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-06T05:37:50.259316+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34209434",
           "target_video_id": "29147147",
@@ -49149,6 +49148,13 @@
           "target_video_id": "29147147",
           "permanent": false,
           "attempted_at": "2026-09-06T07:03:24.876501+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34209434",
+          "target_video_id": "29147147",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:33:47.315014+00:00"
         }
       ],
       "last_plan": {
@@ -109385,5 +109391,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:33:43.421145+00:00"
+  "updated_at": "2026-09-06T07:33:47.315030+00:00"
 }
