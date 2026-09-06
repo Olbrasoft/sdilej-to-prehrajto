@@ -22949,13 +22949,6 @@
     "13284": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "17778509",
-          "target_video_id": "29150645",
-          "permanent": false,
-          "attempted_at": "2026-09-06T04:51:13.642475+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "17778509",
           "reason": "Request failed for https://sdilej.cz/17778509/muz-se-srdcem-kovboje-monte-walsh-2003-1080p-cz-dabing.mkv",
@@ -22968,6 +22961,13 @@
           "reason": "Request failed for https://sdilej.cz/17778509/muz-se-srdcem-kovboje-monte-walsh-2003-1080p-cz-dabing.mkv",
           "permanent": false,
           "attempted_at": "2026-09-06T06:29:09.671430+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17778509",
+          "target_video_id": "29150645",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:03:15.406960+00:00"
         }
       ],
       "last_plan": {
@@ -22975,11 +22975,10 @@
         "display_name": "Muž se srdcem kovboje (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-06T07:00:30.895982+00:00"
       },
-      "claim": {
-        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-3",
-        "claimed_at": "2026-09-06T07:03:11.715051+00:00",
-        "lease_expires_at": "2026-09-06T13:03:11.715051+00:00",
-        "run_id": "34016950549"
+      "prepared": {
+        "target_video_id": "29150645",
+        "size_bytes": 2900000000,
+        "prepared_at": "2026-09-06T07:03:15.406946+00:00"
       }
     },
     "28081": {
@@ -109055,5 +109054,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:03:13.859740+00:00"
+  "updated_at": "2026-09-06T07:03:15.406967+00:00"
 }
