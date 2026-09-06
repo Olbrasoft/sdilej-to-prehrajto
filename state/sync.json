@@ -1466,13 +1466,6 @@
     "11368": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
-          "attempted_at": "2026-09-06T01:36:34.452174+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30793920",
           "reason": "Request failed for https://sdilej.cz/30793920/ponorka-hraji-jurgen-prochnow-1981-cz-dab-leg.mkv",
@@ -1485,23 +1478,19 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-09-06T02:37:39.932180+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30793920",
+          "reason": "Request failed for https://sdilej.cz/30793920/ponorka-hraji-jurgen-prochnow-1981-cz-dab-leg.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-06T03:08:36.968287+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30793920",
         "display_name": "Ponorka (1981) 1080p CZ Dabing",
         "planned_at": "2026-09-06T03:07:48.472246+00:00"
-      },
-      "prepared": {
-        "target_video_id": "28928358",
-        "size_bytes": 4000000000,
-        "prepared_at": "2026-09-06T02:37:39.932166+00:00"
-      },
-      "claim": {
-        "worker_id": "27d6c593b17c4e2aa8dae6d157d78a09-shard-1",
-        "claimed_at": "2026-09-06T03:07:49.042269+00:00",
-        "lease_expires_at": "2026-09-06T09:07:49.042269+00:00",
-        "run_id": "34002999198"
       }
     },
     "21354": {
@@ -107973,5 +107962,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T03:08:35.477670+00:00"
+  "updated_at": "2026-09-06T03:08:36.968306+00:00"
 }
