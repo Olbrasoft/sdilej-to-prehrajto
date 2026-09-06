@@ -54130,17 +54130,19 @@
       "attempts": []
     },
     "8092": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32932670",
+          "reason": "Request failed for https://sdilej.cz/32932670/odvazna-emma-2024-animovany-rodinny-usa-cina-irsko-czdab-1080p.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-06T21:12:07.903141+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32932670",
         "display_name": "Odvážná Emma (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-06T21:06:31.725355+00:00"
-      },
-      "claim": {
-        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-3",
-        "claimed_at": "2026-09-06T21:11:22.239058+00:00",
-        "lease_expires_at": "2026-09-07T03:11:22.239058+00:00",
-        "run_id": "34051725600"
       }
     },
     "15615": {
@@ -54348,6 +54350,12 @@
         "source_id": "34021316",
         "display_name": "Návrat matky (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-06T21:06:31.859920+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-1",
+        "claimed_at": "2026-09-06T21:11:45.444589+00:00",
+        "lease_expires_at": "2026-09-07T03:11:45.444589+00:00",
+        "run_id": "34051725600"
       }
     },
     "4050": {
@@ -112195,5 +112203,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T21:11:43.744244+00:00"
+  "updated_at": "2026-09-06T21:12:07.903158+00:00"
 }
