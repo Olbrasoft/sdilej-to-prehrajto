@@ -11138,6 +11138,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "4b6f0903d6f8491698869a007648a387-shard-0",
+        "claimed_at": "2026-09-06T06:31:11.367007+00:00",
+        "lease_expires_at": "2026-09-06T12:31:11.367007+00:00",
+        "run_id": "34002999198"
       }
     },
     "22983": {
@@ -17683,17 +17689,19 @@
       "attempts": []
     },
     "30428": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18627287",
+          "target_video_id": "29153671",
+          "permanent": false,
+          "attempted_at": "2026-09-06T06:31:15.214641+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18627287",
         "display_name": "Klub (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-06T06:10:31.817562+00:00"
-      },
-      "claim": {
-        "worker_id": "4b6f0903d6f8491698869a007648a387-shard-2",
-        "claimed_at": "2026-09-06T06:24:03.153171+00:00",
-        "lease_expires_at": "2026-09-06T12:24:03.153171+00:00",
-        "run_id": "34002999198"
       },
       "prepared": {
         "target_video_id": "29153671",
@@ -108696,5 +108704,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T06:31:07.767361+00:00"
+  "updated_at": "2026-09-06T06:31:15.214660+00:00"
 }
