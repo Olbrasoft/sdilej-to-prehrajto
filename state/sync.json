@@ -23024,13 +23024,6 @@
           "source_id": "32964623",
           "reason": "Request failed for https://sdilej.cz/32964623/mladi-v-trapu-old-school-2003-cz-bdrip-hevc-1080p.mp4",
           "permanent": false,
-          "attempted_at": "2026-09-06T10:02:49.955714+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32964623",
-          "reason": "Request failed for https://sdilej.cz/32964623/mladi-v-trapu-old-school-2003-cz-bdrip-hevc-1080p.mp4",
-          "permanent": false,
           "attempted_at": "2026-09-06T10:51:00.447924+00:00"
         },
         {
@@ -23039,6 +23032,13 @@
           "target_video_id": "29159651",
           "permanent": false,
           "attempted_at": "2026-09-06T11:27:23.298904+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32964623",
+          "target_video_id": "29159651",
+          "permanent": false,
+          "attempted_at": "2026-09-06T11:57:34.795092+00:00"
         }
       ],
       "last_plan": {
@@ -23048,14 +23048,8 @@
       },
       "prepared": {
         "target_video_id": "29159651",
-        "size_bytes": 2150079640,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T11:21:09.690533+00:00"
-      },
-      "claim": {
-        "worker_id": "bbc636fa66e541728a50eb49df8b7199-shard-0",
-        "claimed_at": "2026-09-06T11:57:31.147334+00:00",
-        "lease_expires_at": "2026-09-06T17:57:31.147334+00:00",
-        "run_id": "34016950549"
       }
     },
     "13730": {
@@ -110941,5 +110935,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T11:57:33.192543+00:00"
+  "updated_at": "2026-09-06T11:57:34.795108+00:00"
 }
