@@ -28565,14 +28565,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28441201",
-          "target_video_id": "29168767",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-06T19:57:50.890067+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "28441201",
           "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv",
@@ -28585,17 +28577,20 @@
           "target_video_id": "29170813",
           "permanent": false,
           "attempted_at": "2026-09-06T21:06:26.883988+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "28441201",
+          "target_video_id": "29170813",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-06T21:38:08.365797+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T20:58:53.771314+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29170813",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-06T20:58:58.541393+00:00"
+        "planned_at": "2026-09-06T21:38:05.586988+00:00"
       }
     },
     "19162": {
@@ -30976,7 +30971,7 @@
       "last_plan": {
         "source_id": "9245219",
         "display_name": "Křižáci (1960) SD CZ Dabing",
-        "planned_at": "2026-09-06T21:06:31.418767+00:00"
+        "planned_at": "2026-09-06T21:38:05.750880+00:00"
       }
     },
     "33176": {
@@ -112318,5 +112313,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T21:38:03.527216+00:00"
+  "updated_at": "2026-09-06T21:38:08.365813+00:00"
 }
