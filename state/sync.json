@@ -7370,6 +7370,12 @@
         "target_video_id": "29145772",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-06T06:10:41.307404+00:00"
+      },
+      "claim": {
+        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-5",
+        "claimed_at": "2026-09-06T11:18:51.334713+00:00",
+        "lease_expires_at": "2026-09-06T17:18:51.334713+00:00",
+        "run_id": "34016950549"
       }
     },
     "776": {
@@ -7430,6 +7436,12 @@
         "target_video_id": "29154219",
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-06T07:01:13.638765+00:00"
+      },
+      "claim": {
+        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-3",
+        "claimed_at": "2026-09-06T11:18:51.580272+00:00",
+        "lease_expires_at": "2026-09-06T17:18:51.580272+00:00",
+        "run_id": "34016950549"
       }
     },
     "17903": {
@@ -7620,6 +7632,12 @@
         "target_video_id": "29154102",
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-06T06:54:34.838119+00:00"
+      },
+      "claim": {
+        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-2",
+        "claimed_at": "2026-09-06T11:18:51.460037+00:00",
+        "lease_expires_at": "2026-09-06T17:18:51.460037+00:00",
+        "run_id": "34016950549"
       }
     },
     "733": {
@@ -23553,17 +23571,19 @@
       "attempts": []
     },
     "23791": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32903068",
+          "target_video_id": "29158212",
+          "permanent": false,
+          "attempted_at": "2026-09-06T11:18:51.713895+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32903068",
         "display_name": "Únos (1997) 4K CZ Dabing",
         "planned_at": "2026-09-06T10:25:44.262754+00:00"
-      },
-      "claim": {
-        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-1",
-        "claimed_at": "2026-09-06T10:26:58.686424+00:00",
-        "lease_expires_at": "2026-09-06T16:26:58.686424+00:00",
-        "run_id": "34016950549"
       },
       "prepared": {
         "target_video_id": "29158212",
@@ -110757,5 +110777,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T11:18:49.802889+00:00"
+  "updated_at": "2026-09-06T11:18:51.713912+00:00"
 }
