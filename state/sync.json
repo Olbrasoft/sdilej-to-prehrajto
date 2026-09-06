@@ -22582,17 +22582,19 @@
       "attempts": []
     },
     "12264": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29074976",
+          "target_video_id": "29163647",
+          "permanent": false,
+          "attempted_at": "2026-09-06T14:32:38.311209+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29074976",
         "display_name": "Letci z Tuskegee (1995) 1080p CZ Dabing",
         "planned_at": "2026-09-06T14:21:10.786562+00:00"
-      },
-      "claim": {
-        "worker_id": "3739ee84f3334a9793d49fe7338f8ff8-shard-2",
-        "claimed_at": "2026-09-06T14:21:10.941206+00:00",
-        "lease_expires_at": "2026-09-06T20:21:10.941206+00:00",
-        "run_id": "34033411603"
       },
       "prepared": {
         "target_video_id": "29163647",
@@ -39862,6 +39864,12 @@
         "target_video_id": "29139998",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T18:27:16.283405+00:00"
+      },
+      "claim": {
+        "worker_id": "3739ee84f3334a9793d49fe7338f8ff8-shard-0",
+        "claimed_at": "2026-09-06T14:32:37.489296+00:00",
+        "lease_expires_at": "2026-09-06T20:32:37.489296+00:00",
+        "run_id": "34033411603"
       }
     },
     "37508": {
@@ -111248,5 +111256,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T14:32:35.982712+00:00"
+  "updated_at": "2026-09-06T14:32:38.311225+00:00"
 }
