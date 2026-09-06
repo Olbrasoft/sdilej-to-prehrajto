@@ -37457,13 +37457,6 @@
           "source_id": "33817621",
           "target_video_id": "29129228",
           "permanent": false,
-          "attempted_at": "2026-09-06T05:12:21.438780+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33817621",
-          "target_video_id": "29129228",
-          "permanent": false,
           "attempted_at": "2026-09-06T05:50:36.603808+00:00"
         },
         {
@@ -37472,12 +37465,24 @@
           "reason": "Request failed for https://sdilej.cz/33817621/1959-jak-se-franta-naucil-bat-pohadka-komedie-66-josef-kemr.avi",
           "permanent": false,
           "attempted_at": "2026-09-06T06:37:43.511869+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33817621",
+          "target_video_id": "29129228",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:07:54.097467+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát (1959) 1080p",
-        "planned_at": "2026-09-06T06:33:43.016785+00:00"
+        "planned_at": "2026-09-06T07:07:51.245115+00:00"
+      },
+      "prepared": {
+        "target_video_id": "29129228",
+        "size_bytes": 1200000000,
+        "prepared_at": "2026-09-06T07:07:54.097453+00:00"
       }
     },
     "29900": {
@@ -37722,12 +37727,18 @@
       "last_plan": {
         "source_id": "28307613",
         "display_name": "Yellowstonský supervulkán (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T06:33:43.160800+00:00"
+        "planned_at": "2026-09-06T07:07:51.361339+00:00"
       },
       "prepared": {
         "target_video_id": "29139998",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T18:27:16.283405+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-1",
+        "claimed_at": "2026-09-06T07:07:51.910739+00:00",
+        "lease_expires_at": "2026-09-06T13:07:51.910739+00:00",
+        "run_id": "34016950549"
       }
     },
     "37508": {
@@ -109118,5 +109129,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:07:29.336492+00:00"
+  "updated_at": "2026-09-06T07:07:54.097473+00:00"
 }
