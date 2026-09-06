@@ -6881,13 +6881,6 @@
     "566": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27010128",
-          "reason": "Request failed for https://sdilej.cz/27010128/zvuk-metalu-sound-of-metal-2019-bluray-dd-5.1-cz-dabing.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-06T11:52:25.114725+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27010128",
           "target_video_id": "29160907",
@@ -6900,12 +6893,19 @@
           "target_video_id": "29160907",
           "permanent": false,
           "attempted_at": "2026-09-06T13:16:59.721384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27010128",
+          "target_video_id": "29160907",
+          "permanent": false,
+          "attempted_at": "2026-09-06T13:47:11.285490+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27010128",
         "display_name": "Zvuk metalu (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T13:16:55.085423+00:00"
+        "planned_at": "2026-09-06T13:47:04.644566+00:00"
       },
       "prepared": {
         "target_video_id": "29160907",
@@ -14727,12 +14727,18 @@
       "last_plan": {
         "source_id": "33747143",
         "display_name": "Žít a zemřít v L. A. (1985) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T13:16:55.256903+00:00"
+        "planned_at": "2026-09-06T13:47:04.745367+00:00"
       },
       "prepared": {
         "target_video_id": "29161230",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-06T12:38:33.993154+00:00"
+      },
+      "claim": {
+        "worker_id": "7566a4b51d244e1fb8bc76a0d29a6ea9-shard-1",
+        "claimed_at": "2026-09-06T13:47:09.114831+00:00",
+        "lease_expires_at": "2026-09-06T19:47:09.114831+00:00",
+        "run_id": "34033411603"
       }
     },
     "12090": {
@@ -16355,12 +16361,18 @@
       "last_plan": {
         "source_id": "34359010",
         "display_name": "Odstřelovač (2007) 4K CZ Dabing",
-        "planned_at": "2026-09-06T13:16:55.352411+00:00"
+        "planned_at": "2026-09-06T13:47:04.840052+00:00"
       },
       "prepared": {
         "target_video_id": "29161092",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-06T12:31:01.918341+00:00"
+      },
+      "claim": {
+        "worker_id": "7566a4b51d244e1fb8bc76a0d29a6ea9-shard-2",
+        "claimed_at": "2026-09-06T13:47:09.356169+00:00",
+        "lease_expires_at": "2026-09-06T19:47:09.356169+00:00",
+        "run_id": "34033411603"
       }
     },
     "1693": {
@@ -21428,12 +21440,18 @@
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T13:09:14.141023+00:00"
+        "planned_at": "2026-09-06T13:47:04.937548+00:00"
       },
       "prepared": {
         "target_video_id": "29162056",
         "size_bytes": 2093897340,
         "prepared_at": "2026-09-06T13:09:19.093039+00:00"
+      },
+      "claim": {
+        "worker_id": "7566a4b51d244e1fb8bc76a0d29a6ea9-shard-3",
+        "claimed_at": "2026-09-06T13:47:09.261229+00:00",
+        "lease_expires_at": "2026-09-06T19:47:09.261229+00:00",
+        "run_id": "34033411603"
       }
     },
     "15980": {
@@ -111182,5 +111200,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T13:46:07.953942+00:00"
+  "updated_at": "2026-09-06T13:47:11.285508+00:00"
 }
