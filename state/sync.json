@@ -3996,13 +3996,6 @@
           "source_id": "26239565",
           "target_video_id": "29124911",
           "permanent": false,
-          "attempted_at": "2026-09-06T17:10:52.296439+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "29124911",
-          "permanent": false,
           "attempted_at": "2026-09-06T17:41:01.915919+00:00"
         },
         {
@@ -4011,6 +4004,13 @@
           "target_video_id": "29124911",
           "permanent": false,
           "attempted_at": "2026-09-06T18:19:51.394287+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "29124911",
+          "permanent": false,
+          "attempted_at": "2026-09-06T18:50:04.925186+00:00"
         }
       ],
       "last_plan": {
@@ -6762,6 +6762,12 @@
         "target_video_id": "29153883",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-06T06:38:52.929424+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-2",
+        "claimed_at": "2026-09-06T18:50:02.895286+00:00",
+        "lease_expires_at": "2026-09-07T00:50:02.895286+00:00",
+        "run_id": "34051725600"
       }
     },
     "614": {
@@ -6869,12 +6875,18 @@
       "last_plan": {
         "source_id": "27010128",
         "display_name": "Zvuk metalu (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T18:19:06.077804+00:00"
+        "planned_at": "2026-09-06T18:50:03.094814+00:00"
       },
       "prepared": {
         "target_video_id": "29160907",
         "size_bytes": 15200000000,
         "prepared_at": "2026-09-06T12:22:30.375256+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-5",
+        "claimed_at": "2026-09-06T18:50:03.472471+00:00",
+        "lease_expires_at": "2026-09-07T00:50:03.472471+00:00",
+        "run_id": "34051725600"
       }
     },
     "11046": {
@@ -7781,7 +7793,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible Odplata – První část (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-06T18:19:06.170283+00:00"
+        "planned_at": "2026-09-06T18:50:03.220398+00:00"
       },
       "prepared": {
         "target_video_id": "29154102",
@@ -111619,5 +111631,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T18:50:00.847332+00:00"
+  "updated_at": "2026-09-06T18:50:04.925203+00:00"
 }
