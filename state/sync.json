@@ -1384,13 +1384,6 @@
           "source_id": "18329991",
           "target_video_id": "28928664",
           "permanent": false,
-          "attempted_at": "2026-09-06T17:33:09.135440+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18329991",
-          "target_video_id": "28928664",
-          "permanent": false,
           "attempted_at": "2026-09-06T18:19:22.694253+00:00"
         },
         {
@@ -1399,6 +1392,13 @@
           "target_video_id": "28928664",
           "permanent": false,
           "attempted_at": "2026-09-06T18:49:32.857500+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18329991",
+          "target_video_id": "28928664",
+          "permanent": false,
+          "attempted_at": "2026-09-06T19:19:44.749888+00:00"
         }
       ],
       "last_plan": {
@@ -1496,6 +1496,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-4",
+        "claimed_at": "2026-09-06T19:19:42.594639+00:00",
+        "lease_expires_at": "2026-09-07T01:19:42.594639+00:00",
+        "run_id": "34051725600"
       }
     },
     "21354": {
@@ -1543,12 +1549,18 @@
       "last_plan": {
         "source_id": "7430975",
         "display_name": "Dangal (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-06T18:49:30.317103+00:00"
+        "planned_at": "2026-09-06T19:19:42.794394+00:00"
       },
       "prepared": {
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "e21a83bf6f2e4959892b2d527fa21db0-shard-2",
+        "claimed_at": "2026-09-06T19:19:43.326703+00:00",
+        "lease_expires_at": "2026-09-07T01:19:43.326703+00:00",
+        "run_id": "34051725600"
       }
     },
     "21587": {
@@ -2050,7 +2062,7 @@
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Pád Třetí říše (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T18:49:38.089153+00:00"
+        "planned_at": "2026-09-06T19:19:42.916176+00:00"
       },
       "prepared": {
         "target_video_id": "29115742",
@@ -2238,7 +2250,7 @@
       "last_plan": {
         "source_id": "24225122",
         "display_name": "Koe no katači (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-06T18:49:38.228888+00:00"
+        "planned_at": "2026-09-06T19:19:43.069594+00:00"
       },
       "prepared": {
         "target_video_id": "29115694",
@@ -111815,5 +111827,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T19:19:40.610976+00:00"
+  "updated_at": "2026-09-06T19:19:44.749907+00:00"
 }
