@@ -6473,7 +6473,18 @@
       "attempts": []
     },
     "631": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33822186",
+        "display_name": "Bournův mýtus (2004) 4K CZ Dabing",
+        "planned_at": "2026-09-06T11:46:36.106925+00:00"
+      },
+      "claim": {
+        "worker_id": "bbc636fa66e541728a50eb49df8b7199-shard-4",
+        "claimed_at": "2026-09-06T11:46:36.820677+00:00",
+        "lease_expires_at": "2026-09-06T17:46:36.820677+00:00",
+        "run_id": "34016950549"
+      }
     },
     "24530": {
       "attempts": [],
@@ -22997,13 +23008,6 @@
     "2447": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34707817",
-          "reason": "Request failed for https://sdilej.cz/34707817/riddick-1-cernocerna-tma-2000-4k-h265-cz.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-06T09:50:09.575863+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34707817",
           "target_video_id": "29158197",
@@ -23016,12 +23020,19 @@
           "target_video_id": "29158197",
           "permanent": false,
           "attempted_at": "2026-09-06T11:16:31.879897+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34707817",
+          "target_video_id": "29158197",
+          "permanent": false,
+          "attempted_at": "2026-09-06T11:46:39.520102+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34707817",
         "display_name": "Černočerná tma (2000) 4K CZ Dabing",
-        "planned_at": "2026-09-06T11:16:26.795173+00:00"
+        "planned_at": "2026-09-06T11:46:36.278487+00:00"
       },
       "prepared": {
         "target_video_id": "29158197",
@@ -24087,7 +24098,7 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T11:16:26.934050+00:00"
+        "planned_at": "2026-09-06T11:46:36.438907+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
@@ -24137,7 +24148,7 @@
       "last_plan": {
         "source_id": "32997472",
         "display_name": "Šílení (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T11:16:27.075607+00:00"
+        "planned_at": "2026-09-06T11:46:36.589301+00:00"
       },
       "prepared": {
         "target_video_id": "29136447",
@@ -110928,5 +110939,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T11:46:22.514283+00:00"
+  "updated_at": "2026-09-06T11:46:39.520120+00:00"
 }
