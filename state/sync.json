@@ -7360,12 +7360,18 @@
       "last_plan": {
         "source_id": "34374972",
         "display_name": "Americké psycho (2000) 4K CZ Dabing",
-        "planned_at": "2026-09-06T03:23:19.973555+00:00"
+        "planned_at": "2026-09-06T03:53:35.631140+00:00"
       },
       "prepared": {
         "target_video_id": "29145772",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-06T01:08:18.147974+00:00"
+      },
+      "claim": {
+        "worker_id": "fe1d86831eac49b5a9b13322564c2eed-shard-3",
+        "claimed_at": "2026-09-06T03:53:35.827605+00:00",
+        "lease_expires_at": "2026-09-06T09:53:35.827605+00:00",
+        "run_id": "34002999198"
       }
     },
     "776": {
@@ -25161,17 +25167,19 @@
       }
     },
     "24597": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31543295",
+          "target_video_id": "29150755",
+          "permanent": false,
+          "attempted_at": "2026-09-06T03:53:37.067655+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31543295",
         "display_name": "Srdce v Atlantidě (2001) 1080p CZ Dabing",
         "planned_at": "2026-09-06T03:46:48.457357+00:00"
-      },
-      "claim": {
-        "worker_id": "fe1d86831eac49b5a9b13322564c2eed-shard-1",
-        "claimed_at": "2026-09-06T03:46:48.647312+00:00",
-        "lease_expires_at": "2026-09-06T09:46:48.647312+00:00",
-        "run_id": "34002999198"
       },
       "prepared": {
         "target_video_id": "29150755",
@@ -108011,5 +108019,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T03:50:25.534210+00:00"
+  "updated_at": "2026-09-06T03:53:37.067671+00:00"
 }
