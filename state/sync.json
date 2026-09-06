@@ -16056,13 +16056,6 @@
           "source_id": "32817651",
           "reason": "Request failed for https://sdilej.cz/32817651/finding-dory-hleda-se-dory-2016-2160p-cz-dabing-ac3-en-dts-hd-atmos.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-06T08:40:22.830885+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32817651",
-          "reason": "Request failed for https://sdilej.cz/32817651/finding-dory-hleda-se-dory-2016-2160p-cz-dabing-ac3-en-dts-hd-atmos.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-06T09:11:21.082607+00:00"
         },
         {
@@ -16071,6 +16064,13 @@
           "target_video_id": "29157149",
           "permanent": false,
           "attempted_at": "2026-09-06T11:04:29.557832+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32817651",
+          "target_video_id": "29157149",
+          "permanent": false,
+          "attempted_at": "2026-09-06T11:35:05.718108+00:00"
         }
       ],
       "last_plan": {
@@ -16080,14 +16080,8 @@
       },
       "prepared": {
         "target_video_id": "29157149",
-        "size_bytes": 23127822557,
+        "size_bytes": 23100000000,
         "prepared_at": "2026-09-06T09:41:29.569964+00:00"
-      },
-      "claim": {
-        "worker_id": "ca9f9ed02a4940a089b230445751e991-shard-0",
-        "claimed_at": "2026-09-06T11:35:01.459215+00:00",
-        "lease_expires_at": "2026-09-06T17:35:01.459215+00:00",
-        "run_id": "34016950549"
       }
     },
     "1772": {
@@ -110835,5 +110829,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T11:35:04.118363+00:00"
+  "updated_at": "2026-09-06T11:35:05.718126+00:00"
 }
