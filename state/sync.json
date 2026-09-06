@@ -16251,13 +16251,6 @@
     "1614": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34378972",
-          "reason": "Request failed for https://sdilej.cz/34378972/hruby-strih-2022-krimi-drama-usa-czdab.uhdr.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-06T05:20:30.164462+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34378972",
           "target_video_id": "29153207",
@@ -16270,12 +16263,19 @@
           "target_video_id": "29153207",
           "permanent": false,
           "attempted_at": "2026-09-06T06:38:15.649106+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34378972",
+          "target_video_id": "29153207",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:08:27.093638+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34378972",
         "display_name": "Hrubý střih (2022) 4K CZ Dabing",
-        "planned_at": "2026-09-06T06:38:11.576583+00:00"
+        "planned_at": "2026-09-06T07:08:24.203897+00:00"
       },
       "prepared": {
         "target_video_id": "29153207",
@@ -41461,12 +41461,18 @@
       "last_plan": {
         "source_id": "29163089",
         "display_name": "Popelka z velkoměsta (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T06:33:43.721736+00:00"
+        "planned_at": "2026-09-06T07:08:24.346339+00:00"
       },
       "prepared": {
         "target_video_id": "29137549",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T16:05:58.248524+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-5",
+        "claimed_at": "2026-09-06T07:08:24.907750+00:00",
+        "lease_expires_at": "2026-09-06T13:08:24.907750+00:00",
+        "run_id": "34016950549"
       }
     },
     "12723": {
@@ -109123,5 +109129,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:08:16.130264+00:00"
+  "updated_at": "2026-09-06T07:08:27.093654+00:00"
 }
