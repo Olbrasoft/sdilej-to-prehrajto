@@ -13612,17 +13612,19 @@
       "attempts": []
     },
     "13576": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14383682",
+          "reason": "Request failed for https://sdilej.cz/14383682/kralovna-prokletych.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:31:48.010759+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14383682",
         "display_name": "Královna (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-06T07:30:50.640844+00:00"
-      },
-      "claim": {
-        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-4",
-        "claimed_at": "2026-09-06T07:31:01.015812+00:00",
-        "lease_expires_at": "2026-09-06T13:31:01.015812+00:00",
-        "run_id": "34016950549"
       }
     },
     "12051": {
@@ -109369,5 +109371,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:31:46.444834+00:00"
+  "updated_at": "2026-09-06T07:31:48.010775+00:00"
 }
