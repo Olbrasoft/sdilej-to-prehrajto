@@ -10374,6 +10374,12 @@
         "target_video_id": "29117207",
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
+      },
+      "claim": {
+        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-5",
+        "claimed_at": "2026-09-06T10:24:08.640124+00:00",
+        "lease_expires_at": "2026-09-06T16:24:08.640124+00:00",
+        "run_id": "34016950549"
       }
     },
     "25815": {
@@ -10888,6 +10894,12 @@
         "target_video_id": "29136383",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
+      },
+      "claim": {
+        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-1",
+        "claimed_at": "2026-09-06T10:24:08.765136+00:00",
+        "lease_expires_at": "2026-09-06T16:24:08.765136+00:00",
+        "run_id": "34016950549"
       }
     },
     "1249": {
@@ -23062,17 +23074,19 @@
       "attempts": []
     },
     "17736": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33885266",
+          "target_video_id": "29157605",
+          "permanent": false,
+          "attempted_at": "2026-09-06T10:24:10.858026+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33885266",
         "display_name": "Odplata (1999) 4K CZ Dabing",
         "planned_at": "2026-09-06T09:59:23.713969+00:00"
-      },
-      "claim": {
-        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-0",
-        "claimed_at": "2026-09-06T10:06:48.218971+00:00",
-        "lease_expires_at": "2026-09-06T16:06:48.218971+00:00",
-        "run_id": "34016950549"
       },
       "prepared": {
         "target_video_id": "29157605",
@@ -110347,5 +110361,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T10:24:07.063294+00:00"
+  "updated_at": "2026-09-06T10:24:10.858040+00:00"
 }
