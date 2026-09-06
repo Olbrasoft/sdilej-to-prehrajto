@@ -11209,6 +11209,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-1",
+        "claimed_at": "2026-09-06T07:03:54.113662+00:00",
+        "lease_expires_at": "2026-09-06T13:03:54.113662+00:00",
+        "run_id": "34016950549"
       }
     },
     "1109": {
@@ -11247,6 +11253,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-0",
+        "claimed_at": "2026-09-06T07:03:54.377046+00:00",
+        "lease_expires_at": "2026-09-06T13:03:54.377046+00:00",
+        "run_id": "34016950549"
       }
     },
     "22983": {
@@ -12912,13 +12924,6 @@
           "source_id": "32970502",
           "target_video_id": "29125882",
           "permanent": false,
-          "attempted_at": "2026-09-06T05:10:35.810256+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32970502",
-          "target_video_id": "29125882",
-          "permanent": false,
           "attempted_at": "2026-09-06T05:45:45.227085+00:00"
         },
         {
@@ -12927,12 +12932,24 @@
           "reason": "Request failed for https://sdilej.cz/32970502/nouzovy-vychod-2008-uhdr-cz-en.mkv",
           "permanent": false,
           "attempted_at": "2026-09-06T06:32:03.464295+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32970502",
+          "target_video_id": "29125882",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:03:56.462021+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32970502",
         "display_name": "Nouzový východ (2008) 4K CZ Dabing",
         "planned_at": "2026-09-06T07:03:29.459684+00:00"
+      },
+      "prepared": {
+        "target_video_id": "29125882",
+        "size_bytes": 5400000000,
+        "prepared_at": "2026-09-06T07:03:56.462007+00:00"
       }
     },
     "24202": {
@@ -109055,5 +109072,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:03:52.450914+00:00"
+  "updated_at": "2026-09-06T07:03:56.462027+00:00"
 }
