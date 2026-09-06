@@ -22627,13 +22627,6 @@
     "2376": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29834151",
-          "reason": "Request failed for https://sdilej.cz/29834151/lovingovi.webrip.cz.en.2016.1080p.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-06T05:49:08.178665+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29834151",
           "target_video_id": "29136439",
@@ -22646,6 +22639,13 @@
           "target_video_id": "29136439",
           "permanent": false,
           "attempted_at": "2026-09-06T07:04:34.970860+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29834151",
+          "target_video_id": "29136439",
+          "permanent": false,
+          "attempted_at": "2026-09-06T07:35:03.073660+00:00"
         }
       ],
       "last_plan": {
@@ -22657,12 +22657,6 @@
         "target_video_id": "29136439",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-06T06:32:20.158962+00:00"
-      },
-      "claim": {
-        "worker_id": "8c4af9cc83804ad79847b4f518eb009d-shard-4",
-        "claimed_at": "2026-09-06T07:34:58.882301+00:00",
-        "lease_expires_at": "2026-09-06T13:34:58.882301+00:00",
-        "run_id": "34016950549"
       }
     },
     "21454": {
@@ -109405,5 +109399,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T07:35:01.110588+00:00"
+  "updated_at": "2026-09-06T07:35:03.073676+00:00"
 }
