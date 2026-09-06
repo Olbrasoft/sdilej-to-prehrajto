@@ -13386,13 +13386,6 @@
           "source_id": "26222304",
           "reason": "Request failed for https://sdilej.cz/26222304/gejsa-2005-.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-06T07:31:46.444816+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "26222304",
-          "reason": "Request failed for https://sdilej.cz/26222304/gejsa-2005-.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-06T08:02:34.159605+00:00"
         },
         {
@@ -13401,6 +13394,13 @@
           "target_video_id": "29155946",
           "permanent": false,
           "attempted_at": "2026-09-06T08:50:02.412974+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26222304",
+          "target_video_id": "29155946",
+          "permanent": false,
+          "attempted_at": "2026-09-06T09:20:20.126602+00:00"
         }
       ],
       "last_plan": {
@@ -13410,14 +13410,8 @@
       },
       "prepared": {
         "target_video_id": "29155946",
-        "size_bytes": 4521738639,
+        "size_bytes": 4500000000,
         "prepared_at": "2026-09-06T08:32:45.186423+00:00"
-      },
-      "claim": {
-        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-5",
-        "claimed_at": "2026-09-06T09:20:16.034133+00:00",
-        "lease_expires_at": "2026-09-06T15:20:16.034133+00:00",
-        "run_id": "34016950549"
       }
     },
     "22278": {
@@ -110038,5 +110032,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T09:20:18.477917+00:00"
+  "updated_at": "2026-09-06T09:20:20.126618+00:00"
 }
