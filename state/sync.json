@@ -23347,17 +23347,19 @@
       "attempts": []
     },
     "20340": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14998829",
+          "reason": "Request failed for https://sdilej.cz/14998829/cesta-nadeje.cz-dabing.bluray.2014.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-06T10:26:55.539066+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14998829",
         "display_name": "Cesta naděje (2014) 720p CZ Dabing",
         "planned_at": "2026-09-06T10:25:44.141418+00:00"
-      },
-      "claim": {
-        "worker_id": "61b9eac1c295476189ec2e37bad356c0-shard-1",
-        "claimed_at": "2026-09-06T10:26:07.201903+00:00",
-        "lease_expires_at": "2026-09-06T16:26:07.201903+00:00",
-        "run_id": "34016950549"
       }
     },
     "2455": {
@@ -110459,5 +110461,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T10:26:08.933467+00:00"
+  "updated_at": "2026-09-06T10:26:55.539082+00:00"
 }
