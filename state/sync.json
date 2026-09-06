@@ -1324,23 +1324,22 @@
       "last_plan": {
         "source_id": "18471418",
         "display_name": "Old Boy (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T04:08:44.073765+00:00"
+        "planned_at": "2026-09-06T04:39:06.032404+00:00"
       },
       "prepared": {
         "target_video_id": "28927315",
         "size_bytes": 16399999999,
         "prepared_at": "2026-09-06T02:07:47.280122+00:00"
+      },
+      "claim": {
+        "worker_id": "2bc0df9209d442faa114325e4d001bf6-shard-0",
+        "claimed_at": "2026-09-06T04:39:10.313169+00:00",
+        "lease_expires_at": "2026-09-06T10:39:10.313169+00:00",
+        "run_id": "34002999198"
       }
     },
     "21690": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "30836489",
-          "target_video_id": "28927212",
-          "permanent": false,
-          "attempted_at": "2026-09-06T03:07:55.095980+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "30836489",
@@ -1354,12 +1353,24 @@
           "reason": "Request failed for https://sdilej.cz/30836489/dr-divnolaska-aneb-jak-jsem-se-naucil-nedelat-si-starosti-a-mit-rad-bombu-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964-cz-en-1080p-.mkv",
           "permanent": false,
           "attempted_at": "2026-09-06T04:08:58.127852+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30836489",
+          "target_video_id": "28927212",
+          "permanent": false,
+          "attempted_at": "2026-09-06T04:39:14.354746+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30836489",
         "display_name": "Dr. Divnoláska aneb Jak jsem se naučil nedělat si starosti a mít rád bombu (1964) 1080p CZ Dabing",
-        "planned_at": "2026-09-06T04:08:12.323968+00:00"
+        "planned_at": "2026-09-06T04:39:06.144707+00:00"
+      },
+      "prepared": {
+        "target_video_id": "28927212",
+        "size_bytes": 5200000000,
+        "prepared_at": "2026-09-06T04:39:14.354732+00:00"
       }
     },
     "99": {
@@ -1533,12 +1544,18 @@
       "last_plan": {
         "source_id": "7430975",
         "display_name": "Dangal (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-06T04:08:44.294553+00:00"
+        "planned_at": "2026-09-06T04:39:06.255442+00:00"
       },
       "prepared": {
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "2bc0df9209d442faa114325e4d001bf6-shard-2",
+        "claimed_at": "2026-09-06T04:39:10.865626+00:00",
+        "lease_expires_at": "2026-09-06T10:39:10.865626+00:00",
+        "run_id": "34002999198"
       }
     },
     "21587": {
@@ -108044,5 +108061,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-06T04:38:44.706619+00:00"
+  "updated_at": "2026-09-06T04:39:14.354753+00:00"
 }
