@@ -5994,12 +5994,18 @@
       "last_plan": {
         "source_id": "26861102",
         "display_name": "Divoká banda (1969) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T19:38:04.612186+00:00"
+        "planned_at": "2026-09-07T20:31:22.426132+00:00"
       },
       "prepared": {
         "target_video_id": "29195943",
         "size_bytes": 4278003501,
         "prepared_at": "2026-09-07T19:38:50.338061+00:00"
+      },
+      "claim": {
+        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-2",
+        "claimed_at": "2026-09-07T20:31:22.788761+00:00",
+        "lease_expires_at": "2026-09-08T02:31:22.788761+00:00",
+        "run_id": "34147414979"
       }
     },
     "10935": {
@@ -65524,13 +65530,6 @@
     "11956": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33974106",
-          "target_video_id": "29194250",
-          "permanent": false,
-          "attempted_at": "2026-09-07T18:17:21.139894+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33974106",
           "target_video_id": "29194250",
@@ -65544,17 +65543,20 @@
           "target_video_id": "29195633",
           "permanent": false,
           "attempted_at": "2026-09-07T20:01:21.613246+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "33974106",
+          "target_video_id": "29195633",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-07T20:31:26.434402+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33974106",
         "display_name": "Hlava rodiny (1991) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T19:17:30.732026+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29195633",
-        "size_bytes": 8516493363,
-        "prepared_at": "2026-09-07T19:17:37.882724+00:00"
+        "planned_at": "2026-09-07T20:31:22.611113+00:00"
       }
     },
     "15341": {
@@ -116657,5 +116659,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T20:27:16.171642+00:00"
+  "updated_at": "2026-09-07T20:31:26.434421+00:00"
 }
