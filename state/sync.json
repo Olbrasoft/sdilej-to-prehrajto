@@ -23760,12 +23760,18 @@
       "last_plan": {
         "source_id": "27678444",
         "display_name": "Asterix v Británii (1986) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:11:51.973878+00:00"
+        "planned_at": "2026-09-07T18:42:37.991209+00:00"
       },
       "prepared": {
         "target_video_id": "29174967",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-07T00:24:08.111176+00:00"
+      },
+      "claim": {
+        "worker_id": "e85ae51025e74deab06ab40186d4c3fd-shard-0",
+        "claimed_at": "2026-09-07T18:42:39.842045+00:00",
+        "lease_expires_at": "2026-09-08T00:42:39.842045+00:00",
+        "run_id": "34147414979"
       }
     },
     "35732": {
@@ -24324,7 +24330,7 @@
       "last_plan": {
         "source_id": "30543468",
         "display_name": "Odsun (2010) 4K CZ Dabing",
-        "planned_at": "2026-09-07T18:11:52.173684+00:00"
+        "planned_at": "2026-09-07T18:42:38.151278+00:00"
       },
       "prepared": {
         "target_video_id": "29179360",
@@ -24736,7 +24742,7 @@
       "last_plan": {
         "source_id": "24916658",
         "display_name": "Dvanáct vánočních zastavení (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:11:52.338621+00:00"
+        "planned_at": "2026-09-07T18:42:38.307336+00:00"
       },
       "prepared": {
         "target_video_id": "29156718",
@@ -26306,7 +26312,7 @@
       "last_plan": {
         "source_id": "21693134",
         "display_name": "Na ostří nože (1997) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:12:15.151728+00:00"
+        "planned_at": "2026-09-07T18:42:38.495012+00:00"
       },
       "prepared": {
         "target_video_id": "29179786",
@@ -26654,7 +26660,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Servírka (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:12:15.294328+00:00"
+        "planned_at": "2026-09-07T18:42:38.637726+00:00"
       },
       "prepared": {
         "target_video_id": "29158387",
@@ -26838,7 +26844,7 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:12:15.446029+00:00"
+        "planned_at": "2026-09-07T18:42:38.808961+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
@@ -26888,7 +26894,7 @@
       "last_plan": {
         "source_id": "32997472",
         "display_name": "Šílení (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:12:15.597769+00:00"
+        "planned_at": "2026-09-07T18:42:38.957632+00:00"
       },
       "prepared": {
         "target_video_id": "29136447",
@@ -28033,7 +28039,7 @@
       "last_plan": {
         "source_id": "33531199",
         "display_name": "Obyčejní hrdinové (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T18:12:15.745070+00:00"
+        "planned_at": "2026-09-07T18:42:39.133951+00:00"
       },
       "prepared": {
         "target_video_id": "29136430",
@@ -29601,7 +29607,7 @@
       "last_plan": {
         "source_id": "32453575",
         "display_name": "Sám doma 2: Ztracen v New Yorku (1992) 4K CZ Dabing",
-        "planned_at": "2026-09-07T18:12:15.903286+00:00"
+        "planned_at": "2026-09-07T18:42:39.283644+00:00"
       },
       "prepared": {
         "target_video_id": "29141949",
@@ -29639,7 +29645,7 @@
       "last_plan": {
         "source_id": "33542180",
         "display_name": "Zloba – Královna černé magie (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-07T18:12:16.050436+00:00"
+        "planned_at": "2026-09-07T18:42:39.425123+00:00"
       },
       "prepared": {
         "target_video_id": "29142078",
@@ -29683,7 +29689,7 @@
       "last_plan": {
         "source_id": "34623455",
         "display_name": "Lovci pokladů (2004) 4K CZ Dabing",
-        "planned_at": "2026-09-07T18:12:16.200594+00:00"
+        "planned_at": "2026-09-07T18:42:39.583946+00:00"
       },
       "prepared": {
         "target_video_id": "29142079",
@@ -50555,13 +50561,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30104045",
-          "target_video_id": "29192683",
-          "permanent": false,
-          "attempted_at": "2026-09-07T17:01:42.159249+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30104045",
           "target_video_id": "29192683",
@@ -50575,17 +50574,20 @@
           "target_video_id": "29194458",
           "permanent": false,
           "attempted_at": "2026-09-07T18:12:07.219735+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30104045",
+          "target_video_id": "29194458",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-07T18:42:40.379053+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-07T18:42:08.496061+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29194458",
-        "size_bytes": 3220672907,
-        "prepared_at": "2026-09-07T18:02:24.740415+00:00"
       }
     },
     "16220": {
@@ -116418,5 +116420,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T18:42:35.950685+00:00"
+  "updated_at": "2026-09-07T18:42:40.379069+00:00"
 }
