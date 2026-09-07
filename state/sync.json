@@ -42816,6 +42816,12 @@
         "target_video_id": "29132740",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T12:44:11.204285+00:00"
+      },
+      "claim": {
+        "worker_id": "2f1369368df24a1da676cc8fc13d3e35-shard-1",
+        "claimed_at": "2026-09-07T15:42:06.894793+00:00",
+        "lease_expires_at": "2026-09-07T21:42:06.894793+00:00",
+        "run_id": "34116558265"
       }
     },
     "34893": {
@@ -68948,17 +68954,19 @@
       "attempts": []
     },
     "11733": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767255",
+          "target_video_id": "29190432",
+          "permanent": false,
+          "attempted_at": "2026-09-07T15:42:07.577306+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767255",
         "display_name": "BAT 21 (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-07T15:33:56.591538+00:00"
-      },
-      "claim": {
-        "worker_id": "2f1369368df24a1da676cc8fc13d3e35-shard-0",
-        "claimed_at": "2026-09-07T15:34:00.179757+00:00",
-        "lease_expires_at": "2026-09-07T21:34:00.179757+00:00",
-        "run_id": "34116558265"
       },
       "prepared": {
         "target_video_id": "29190432",
@@ -116241,5 +116249,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T15:42:05.168035+00:00"
+  "updated_at": "2026-09-07T15:42:07.577327+00:00"
 }
