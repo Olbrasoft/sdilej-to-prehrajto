@@ -37202,13 +37202,6 @@
           "source_id": "33159897",
           "target_video_id": "29141887",
           "permanent": false,
-          "attempted_at": "2026-09-07T15:41:31.835436+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33159897",
-          "target_video_id": "29141887",
-          "permanent": false,
           "attempted_at": "2026-09-07T16:11:44.601437+00:00"
         },
         {
@@ -37217,6 +37210,13 @@
           "target_video_id": "29141887",
           "permanent": false,
           "attempted_at": "2026-09-07T16:41:56.345866+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33159897",
+          "target_video_id": "29141887",
+          "permanent": false,
+          "attempted_at": "2026-09-07T17:12:13.678231+00:00"
         }
       ],
       "last_plan": {
@@ -37668,6 +37668,12 @@
         "target_video_id": "29143591",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-05T22:50:37.552598+00:00"
+      },
+      "claim": {
+        "worker_id": "564232a93f044bc4a60767f2d0655dfc-shard-5",
+        "claimed_at": "2026-09-07T17:12:11.639268+00:00",
+        "lease_expires_at": "2026-09-07T23:12:11.639268+00:00",
+        "run_id": "34116558265"
       }
     },
     "11796": {
@@ -40425,12 +40431,18 @@
       "last_plan": {
         "source_id": "34872056",
         "display_name": "Na kolejích čeká vrah (1970) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T16:41:53.695837+00:00"
+        "planned_at": "2026-09-07T17:12:11.785107+00:00"
       },
       "prepared": {
         "target_video_id": "29141933",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-05T21:00:10.792347+00:00"
+      },
+      "claim": {
+        "worker_id": "564232a93f044bc4a60767f2d0655dfc-shard-0",
+        "claimed_at": "2026-09-07T17:12:11.986050+00:00",
+        "lease_expires_at": "2026-09-07T23:12:11.986050+00:00",
+        "run_id": "34116558265"
       }
     },
     "16214": {
@@ -116370,5 +116382,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T17:12:09.579183+00:00"
+  "updated_at": "2026-09-07T17:12:13.678249+00:00"
 }
