@@ -56901,14 +56901,6 @@
     "5615": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31624572",
-          "target_video_id": "29180734",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T08:22:42.781812+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31624572",
           "target_video_id": "29182043",
@@ -56922,18 +56914,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T09:35:13.585102+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31624572",
+          "target_video_id": "29182978",
+          "permanent": false,
+          "attempted_at": "2026-09-07T10:14:51.617283+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31624572",
         "display_name": "Bezva ženská na krku (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-07T10:05:23.266355+00:00"
-      },
-      "claim": {
-        "worker_id": "59d68cdea1ac41e080c40f43841dfd65-shard-0",
-        "claimed_at": "2026-09-07T10:05:23.763266+00:00",
-        "lease_expires_at": "2026-09-07T16:05:23.763266+00:00",
-        "run_id": "34086893653"
       },
       "prepared": {
         "target_video_id": "29182978",
@@ -115799,5 +115792,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T10:14:21.924075+00:00"
+  "updated_at": "2026-09-07T10:14:51.617306+00:00"
 }
