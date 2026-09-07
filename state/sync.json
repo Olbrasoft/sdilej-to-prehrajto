@@ -6060,7 +6060,7 @@
       "last_plan": {
         "source_id": "26861102",
         "display_name": "Divoká banda (1969) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T21:31:59.387459+00:00"
+        "planned_at": "2026-09-07T22:03:23.880955+00:00"
       },
       "prepared": {
         "target_video_id": "29195943",
@@ -23223,17 +23223,19 @@
       "attempts": []
     },
     "1850": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34617371",
+          "reason": "Request failed for https://sdilej.cz/34617371/velka-cervena-jednicka-the-big-red-one-1980-.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-07T22:03:24.029044+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34617371",
         "display_name": "Velká červená jednička (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-07T21:58:44.202610+00:00"
-      },
-      "claim": {
-        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-0",
-        "claimed_at": "2026-09-07T22:02:38.160722+00:00",
-        "lease_expires_at": "2026-09-08T04:02:38.160722+00:00",
-        "run_id": "34147414979"
       }
     },
     "36845": {
@@ -116883,5 +116885,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T22:03:21.502186+00:00"
+  "updated_at": "2026-09-07T22:03:24.029057+00:00"
 }
