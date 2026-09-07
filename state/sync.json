@@ -23169,17 +23169,19 @@
       }
     },
     "18303": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26337848",
+          "reason": "Request failed for https://sdilej.cz/26337848/kriz-cti-into-the-white-2012-1080p-cz-titulky.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-07T22:03:15.651339+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26337848",
         "display_name": "Kříž cti (2012) 1080p CZ Titulky",
         "planned_at": "2026-09-07T21:58:43.929813+00:00"
-      },
-      "claim": {
-        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-1",
-        "claimed_at": "2026-09-07T22:02:29.347692+00:00",
-        "lease_expires_at": "2026-09-08T04:02:29.347692+00:00",
-        "run_id": "34147414979"
       }
     },
     "1713": {
@@ -23226,6 +23228,12 @@
         "source_id": "34617371",
         "display_name": "Velká červená jednička (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-07T21:58:44.202610+00:00"
+      },
+      "claim": {
+        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-0",
+        "claimed_at": "2026-09-07T22:02:38.160722+00:00",
+        "lease_expires_at": "2026-09-08T04:02:38.160722+00:00",
+        "run_id": "34147414979"
       }
     },
     "36845": {
@@ -116875,5 +116883,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T22:02:36.538016+00:00"
+  "updated_at": "2026-09-07T22:03:15.651359+00:00"
 }
