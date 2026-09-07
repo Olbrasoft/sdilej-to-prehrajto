@@ -10145,12 +10145,18 @@
       "last_plan": {
         "source_id": "30641618",
         "display_name": "Nepřítel před branami (2001) 4K CZ Dabing",
-        "planned_at": "2026-09-07T19:53:29.552827+00:00"
+        "planned_at": "2026-09-07T20:25:25.742717+00:00"
       },
       "prepared": {
         "target_video_id": "29116000",
         "size_bytes": 14700000000,
         "prepared_at": "2026-09-05T01:45:38.119064+00:00"
+      },
+      "claim": {
+        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-4",
+        "claimed_at": "2026-09-07T20:25:26.087095+00:00",
+        "lease_expires_at": "2026-09-08T02:25:26.087095+00:00",
+        "run_id": "34147414979"
       }
     },
     "32415": {
@@ -11414,12 +11420,18 @@
       "last_plan": {
         "source_id": "29297028",
         "display_name": "Strážní loď Sand Pebbles (1966) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T19:53:29.684856+00:00"
+        "planned_at": "2026-09-07T20:25:25.872727+00:00"
       },
       "prepared": {
         "target_video_id": "29117207",
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
+      },
+      "claim": {
+        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-2",
+        "claimed_at": "2026-09-07T20:25:26.456906+00:00",
+        "lease_expires_at": "2026-09-08T02:25:26.456906+00:00",
+        "run_id": "34147414979"
       }
     },
     "25815": {
@@ -50114,13 +50126,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34941645",
-          "reason": "Request failed for https://sdilej.cz/34941645/gangster-ka-2015-.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-07T18:00:41.893477+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34941645",
           "target_video_id": "29194983",
@@ -50134,18 +50139,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T19:12:18.888739+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29196300",
+          "permanent": false,
+          "attempted_at": "2026-09-07T20:25:26.890015+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-07T19:57:14.617821+00:00"
-      },
-      "claim": {
-        "worker_id": "1f9ca26b6de1472cb5e21dbee4989ab6-shard-3",
-        "claimed_at": "2026-09-07T20:07:49.286796+00:00",
-        "lease_expires_at": "2026-09-08T02:07:49.286796+00:00",
-        "run_id": "34147414979"
       },
       "prepared": {
         "target_video_id": "29196300",
@@ -116663,5 +116669,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T20:25:24.083171+00:00"
+  "updated_at": "2026-09-07T20:25:26.890036+00:00"
 }
