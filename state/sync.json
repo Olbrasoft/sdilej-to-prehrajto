@@ -23653,13 +23653,6 @@
           "source_id": "27678444",
           "target_video_id": "29174967",
           "permanent": false,
-          "attempted_at": "2026-09-07T10:26:38.777750+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27678444",
-          "target_video_id": "29174967",
-          "permanent": false,
           "attempted_at": "2026-09-07T10:56:57.012861+00:00"
         },
         {
@@ -23668,6 +23661,13 @@
           "target_video_id": "29174967",
           "permanent": false,
           "attempted_at": "2026-09-07T11:27:14.891990+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27678444",
+          "target_video_id": "29174967",
+          "permanent": false,
+          "attempted_at": "2026-09-07T11:57:23.414687+00:00"
         }
       ],
       "last_plan": {
@@ -24227,6 +24227,12 @@
         "target_video_id": "29179360",
         "size_bytes": 14000000000,
         "prepared_at": "2026-09-07T06:15:07.416318+00:00"
+      },
+      "claim": {
+        "worker_id": "d39c87c0d777409eaeda48d47d497d88-shard-2",
+        "claimed_at": "2026-09-07T11:57:21.571150+00:00",
+        "lease_expires_at": "2026-09-07T17:57:21.571150+00:00",
+        "run_id": "34086893653"
       }
     },
     "15426": {
@@ -24633,12 +24639,18 @@
       "last_plan": {
         "source_id": "24916658",
         "display_name": "Dvanáct vánočních zastavení (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T11:27:16.421317+00:00"
+        "planned_at": "2026-09-07T11:57:21.776829+00:00"
       },
       "prepared": {
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "d39c87c0d777409eaeda48d47d497d88-shard-1",
+        "claimed_at": "2026-09-07T11:57:22.161715+00:00",
+        "lease_expires_at": "2026-09-07T17:57:22.161715+00:00",
+        "run_id": "34086893653"
       }
     },
     "1871": {
@@ -26523,7 +26535,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Servírka (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T11:27:02.126930+00:00"
+        "planned_at": "2026-09-07T11:57:21.883231+00:00"
       },
       "prepared": {
         "target_video_id": "29158387",
@@ -26707,7 +26719,7 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T11:27:16.614854+00:00"
+        "planned_at": "2026-09-07T11:57:22.004542+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
@@ -115975,5 +115987,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T11:57:19.831706+00:00"
+  "updated_at": "2026-09-07T11:57:23.414704+00:00"
 }
