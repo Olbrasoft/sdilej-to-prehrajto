@@ -17218,6 +17218,12 @@
         "target_video_id": "29161093",
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-06T12:31:03.847228+00:00"
+      },
+      "claim": {
+        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-0",
+        "claimed_at": "2026-09-07T13:05:03.709831+00:00",
+        "lease_expires_at": "2026-09-07T19:05:03.709831+00:00",
+        "run_id": "34116558265"
       }
     },
     "1814": {
@@ -65252,17 +65258,19 @@
       "attempts": []
     },
     "3708": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33325721",
+          "target_video_id": "29184903",
+          "permanent": false,
+          "attempted_at": "2026-09-07T13:05:05.462226+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33325721",
         "display_name": "Sběratel polibků (1997) 4K CZ Dabing",
         "planned_at": "2026-09-07T12:37:42.153849+00:00"
-      },
-      "claim": {
-        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-4",
-        "claimed_at": "2026-09-07T12:37:42.449767+00:00",
-        "lease_expires_at": "2026-09-07T18:37:42.449767+00:00",
-        "run_id": "34116558265"
       },
       "prepared": {
         "target_video_id": "29184903",
@@ -116131,5 +116139,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T13:05:02.110399+00:00"
+  "updated_at": "2026-09-07T13:05:05.462244+00:00"
 }
