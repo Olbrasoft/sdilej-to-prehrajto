@@ -50492,13 +50492,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30104045",
-          "target_video_id": "29190510",
-          "permanent": false,
-          "attempted_at": "2026-09-07T15:51:49.738111+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30104045",
           "target_video_id": "29190510",
@@ -50512,23 +50505,20 @@
           "target_video_id": "29192683",
           "permanent": false,
           "attempted_at": "2026-09-07T17:01:42.159249+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30104045",
+          "target_video_id": "29192683",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-07T17:32:04.515694+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-07T17:31:55.408699+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29192683",
-        "size_bytes": 3220672907,
-        "prepared_at": "2026-09-07T16:52:50.122692+00:00"
-      },
-      "claim": {
-        "worker_id": "50f1a393f47540d98d0664cf1b68aadc-shard-0",
-        "claimed_at": "2026-09-07T17:31:59.265403+00:00",
-        "lease_expires_at": "2026-09-07T23:31:59.265403+00:00",
-        "run_id": "34116558265"
       }
     },
     "16220": {
@@ -116345,5 +116335,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T17:32:02.796536+00:00"
+  "updated_at": "2026-09-07T17:32:04.515719+00:00"
 }
