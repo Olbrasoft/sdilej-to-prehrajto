@@ -49814,14 +49814,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34941645",
-          "target_video_id": "29190483",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T16:20:23.634077+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34941645",
           "target_video_id": "29192647",
@@ -49835,12 +49827,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T17:29:48.264754+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34941645",
+          "reason": "Request failed for https://sdilej.cz/34941645/gangster-ka-2015-.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-07T18:00:41.893477+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T17:29:42.150143+00:00"
+        "planned_at": "2026-09-07T17:59:55.567271+00:00"
       }
     },
     "17488": {
@@ -116329,5 +116328,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T17:55:18.342493+00:00"
+  "updated_at": "2026-09-07T18:00:41.893505+00:00"
 }
