@@ -57143,14 +57143,6 @@
     "5615": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31624572",
-          "target_video_id": "29193000",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T17:47:47.038081+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31624572",
           "target_video_id": "29194770",
@@ -57164,6 +57156,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T18:55:55.616531+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31624572",
+          "reason": "Request failed for https://sdilej.cz/31624572/bezva-zenska-na-krku-2016-cz-komedie-romanticky.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-07T19:36:50.979404+00:00"
         }
       ],
       "last_plan": {
@@ -116510,5 +116509,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T19:36:01.436411+00:00"
+  "updated_at": "2026-09-07T19:36:50.979459+00:00"
 }
