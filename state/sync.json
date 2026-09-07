@@ -4654,6 +4654,12 @@
         "target_video_id": "29178613",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T05:31:31.834627+00:00"
+      },
+      "claim": {
+        "worker_id": "56d3cb6241fe45deb6e0fc025ca6ada3-shard-1",
+        "claimed_at": "2026-09-07T07:09:50.318365+00:00",
+        "lease_expires_at": "2026-09-07T13:09:50.318365+00:00",
+        "run_id": "34086893653"
       }
     },
     "13389": {
@@ -4831,6 +4837,12 @@
         "target_video_id": "29179105",
         "size_bytes": 5300000000,
         "prepared_at": "2026-09-07T06:02:21.308933+00:00"
+      },
+      "claim": {
+        "worker_id": "56d3cb6241fe45deb6e0fc025ca6ada3-shard-0",
+        "claimed_at": "2026-09-07T07:09:50.217207+00:00",
+        "lease_expires_at": "2026-09-07T13:09:50.217207+00:00",
+        "run_id": "34086893653"
       }
     },
     "22042": {
@@ -25966,17 +25978,19 @@
       "attempts": []
     },
     "37296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355543",
+          "target_video_id": "29179863",
+          "permanent": false,
+          "attempted_at": "2026-09-07T07:09:50.438277+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355543",
         "display_name": "Polda a bandita (1977) 4K CZ Dabing",
         "planned_at": "2026-09-07T06:41:46.395437+00:00"
-      },
-      "claim": {
-        "worker_id": "56d3cb6241fe45deb6e0fc025ca6ada3-shard-3",
-        "claimed_at": "2026-09-07T06:54:18.706322+00:00",
-        "lease_expires_at": "2026-09-07T12:54:18.706322+00:00",
-        "run_id": "34086893653"
       },
       "prepared": {
         "target_video_id": "29179863",
@@ -115114,5 +115128,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T07:09:48.845877+00:00"
+  "updated_at": "2026-09-07T07:09:50.438293+00:00"
 }
