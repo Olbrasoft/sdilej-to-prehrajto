@@ -50517,12 +50517,18 @@
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-07T16:52:45.942537+00:00"
+        "planned_at": "2026-09-07T17:31:55.408699+00:00"
       },
       "prepared": {
         "target_video_id": "29192683",
         "size_bytes": 3220672907,
         "prepared_at": "2026-09-07T16:52:50.122692+00:00"
+      },
+      "claim": {
+        "worker_id": "50f1a393f47540d98d0664cf1b68aadc-shard-0",
+        "claimed_at": "2026-09-07T17:31:59.265403+00:00",
+        "lease_expires_at": "2026-09-07T23:31:59.265403+00:00",
+        "run_id": "34116558265"
       }
     },
     "16220": {
@@ -51884,13 +51890,6 @@
     "17559": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "24980147",
-          "target_video_id": "29190564",
-          "permanent": false,
-          "attempted_at": "2026-09-07T15:52:23.996943+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "24980147",
           "target_video_id": "29190564",
@@ -51904,17 +51903,20 @@
           "target_video_id": "29192684",
           "permanent": false,
           "attempted_at": "2026-09-07T17:01:56.367158+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "24980147",
+          "target_video_id": "29192684",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-07T17:32:02.796514+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T16:52:46.066445+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29192684",
-        "size_bytes": 2949749060,
-        "prepared_at": "2026-09-07T16:52:52.583072+00:00"
+        "planned_at": "2026-09-07T17:31:59.780085+00:00"
       }
     },
     "4989": {
@@ -116343,5 +116345,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T17:29:48.264776+00:00"
+  "updated_at": "2026-09-07T17:32:02.796536+00:00"
 }
