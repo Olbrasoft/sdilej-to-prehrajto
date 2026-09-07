@@ -8395,6 +8395,12 @@
         "target_video_id": "29154102",
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-06T06:54:34.838119+00:00"
+      },
+      "claim": {
+        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-3",
+        "claimed_at": "2026-09-07T14:38:22.276226+00:00",
+        "lease_expires_at": "2026-09-07T20:38:22.276226+00:00",
+        "run_id": "34116558265"
       }
     },
     "733": {
@@ -8479,12 +8485,18 @@
       "last_plan": {
         "source_id": "28172188",
         "display_name": "Patrola (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T14:08:08.990165+00:00"
+        "planned_at": "2026-09-07T14:38:22.393633+00:00"
       },
       "prepared": {
         "target_video_id": "29154104",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T06:54:37.939767+00:00"
+      },
+      "claim": {
+        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-5",
+        "claimed_at": "2026-09-07T14:38:22.990249+00:00",
+        "lease_expires_at": "2026-09-07T20:38:22.990249+00:00",
+        "run_id": "34116558265"
       }
     },
     "754": {
@@ -9874,12 +9886,18 @@
       "last_plan": {
         "source_id": "30641618",
         "display_name": "Nepřítel před branami (2001) 4K CZ Dabing",
-        "planned_at": "2026-09-07T14:08:09.109905+00:00"
+        "planned_at": "2026-09-07T14:38:22.519356+00:00"
       },
       "prepared": {
         "target_video_id": "29116000",
         "size_bytes": 14700000000,
         "prepared_at": "2026-09-05T01:45:38.119064+00:00"
+      },
+      "claim": {
+        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-0",
+        "claimed_at": "2026-09-07T14:38:23.114044+00:00",
+        "lease_expires_at": "2026-09-07T20:38:23.114044+00:00",
+        "run_id": "34116558265"
       }
     },
     "32415": {
@@ -11143,7 +11161,7 @@
       "last_plan": {
         "source_id": "29297028",
         "display_name": "Strážní loď Sand Pebbles (1966) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T14:08:09.225853+00:00"
+        "planned_at": "2026-09-07T14:38:22.658691+00:00"
       },
       "prepared": {
         "target_video_id": "29117207",
@@ -11326,7 +11344,7 @@
       "last_plan": {
         "source_id": "34846875",
         "display_name": "Looper: Nájemný zabiják (2012) 4K CZ Dabing",
-        "planned_at": "2026-09-07T14:08:09.345734+00:00"
+        "planned_at": "2026-09-07T14:38:22.784480+00:00"
       },
       "prepared": {
         "target_video_id": "29154105",
@@ -50430,14 +50448,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30104045",
-          "target_video_id": "29184268",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T12:33:27.214737+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30104045",
           "target_video_id": "29185423",
@@ -50451,18 +50461,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T13:53:14.191917+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30104045",
+          "target_video_id": "29189237",
+          "permanent": false,
+          "attempted_at": "2026-09-07T14:38:26.284733+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-07T14:23:25.057639+00:00"
-      },
-      "claim": {
-        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-4",
-        "claimed_at": "2026-09-07T14:23:25.347461+00:00",
-        "lease_expires_at": "2026-09-07T20:23:25.347461+00:00",
-        "run_id": "34116558265"
       },
       "prepared": {
         "target_video_id": "29189237",
@@ -116201,5 +116212,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T14:38:20.081893+00:00"
+  "updated_at": "2026-09-07T14:38:26.284752+00:00"
 }
