@@ -5520,17 +5520,19 @@
       }
     },
     "29914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7416051",
+          "target_video_id": "29182594",
+          "permanent": false,
+          "attempted_at": "2026-09-07T09:55:15.467788+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7416051",
         "display_name": "Hrdina (2002) 720p CZ Dabing",
         "planned_at": "2026-09-07T09:36:53.202416+00:00"
-      },
-      "claim": {
-        "worker_id": "59d68cdea1ac41e080c40f43841dfd65-shard-1",
-        "claimed_at": "2026-09-07T09:37:49.811196+00:00",
-        "lease_expires_at": "2026-09-07T15:37:49.811196+00:00",
-        "run_id": "34086893653"
       },
       "prepared": {
         "target_video_id": "29182594",
@@ -12039,6 +12041,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "59d68cdea1ac41e080c40f43841dfd65-shard-4",
+        "claimed_at": "2026-09-07T09:55:14.240889+00:00",
+        "lease_expires_at": "2026-09-07T15:55:14.240889+00:00",
+        "run_id": "34086893653"
       }
     },
     "1109": {
@@ -115813,5 +115821,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T09:55:12.709149+00:00"
+  "updated_at": "2026-09-07T09:55:15.467804+00:00"
 }
