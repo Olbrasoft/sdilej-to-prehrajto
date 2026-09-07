@@ -23740,6 +23740,12 @@
         "target_video_id": "29174967",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-07T00:24:08.111176+00:00"
+      },
+      "claim": {
+        "worker_id": "50a0d9f37e5d4f87b2a8c9fea02a5732-shard-2",
+        "claimed_at": "2026-09-07T18:12:07.066218+00:00",
+        "lease_expires_at": "2026-09-08T00:12:07.066218+00:00",
+        "run_id": "34147414979"
       }
     },
     "35732": {
@@ -50499,14 +50505,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30104045",
-          "target_video_id": "29190510",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T16:22:30.491574+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30104045",
           "target_video_id": "29192683",
@@ -50520,18 +50518,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T17:32:04.515694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30104045",
+          "target_video_id": "29194458",
+          "permanent": false,
+          "attempted_at": "2026-09-07T18:12:07.219735+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-07T18:02:18.004219+00:00"
-      },
-      "claim": {
-        "worker_id": "50a0d9f37e5d4f87b2a8c9fea02a5732-shard-5",
-        "claimed_at": "2026-09-07T18:02:18.313233+00:00",
-        "lease_expires_at": "2026-09-08T00:02:18.313233+00:00",
-        "run_id": "34147414979"
       },
       "prepared": {
         "target_video_id": "29194458",
@@ -116370,5 +116369,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T18:12:05.385328+00:00"
+  "updated_at": "2026-09-07T18:12:07.219752+00:00"
 }
