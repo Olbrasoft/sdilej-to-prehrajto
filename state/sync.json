@@ -51953,13 +51953,6 @@
     "17559": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "24980147",
-          "target_video_id": "29192684",
-          "permanent": false,
-          "attempted_at": "2026-09-07T17:01:56.367158+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "24980147",
           "target_video_id": "29192684",
@@ -51973,17 +51966,20 @@
           "target_video_id": "29194457",
           "permanent": false,
           "attempted_at": "2026-09-07T18:11:09.636460+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "24980147",
+          "target_video_id": "29194457",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-07T18:41:36.537182+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-07T18:41:22.637631+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29194457",
-        "size_bytes": 2949749060,
-        "prepared_at": "2026-09-07T18:02:23.078601+00:00"
       }
     },
     "4989": {
@@ -116428,5 +116424,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T18:41:32.728196+00:00"
+  "updated_at": "2026-09-07T18:41:36.537198+00:00"
 }
