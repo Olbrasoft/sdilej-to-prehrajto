@@ -50679,13 +50679,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31626940",
-          "target_video_id": "29179729",
-          "permanent": false,
-          "attempted_at": "2026-09-07T06:47:29.180156+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "31626940",
           "target_video_id": "29179729",
@@ -50699,17 +50692,20 @@
           "target_video_id": "29180725",
           "permanent": false,
           "attempted_at": "2026-09-07T07:52:16.891744+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31626940",
+          "target_video_id": "29180725",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-07T08:22:27.639120+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T07:49:15.662409+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29180725",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-07T07:49:21.086379+00:00"
+        "planned_at": "2026-09-07T08:22:24.617305+00:00"
       }
     },
     "33003": {
@@ -115637,5 +115633,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T08:22:02.114830+00:00"
+  "updated_at": "2026-09-07T08:22:27.639140+00:00"
 }
