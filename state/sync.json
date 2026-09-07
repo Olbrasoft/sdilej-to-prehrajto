@@ -50844,14 +50844,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31626940",
-          "target_video_id": "29182977",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T10:44:35.866985+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31626940",
           "target_video_id": "29183841",
@@ -50865,18 +50857,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T11:52:24.865211+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31626940",
+          "target_video_id": "29184706",
+          "permanent": false,
+          "attempted_at": "2026-09-07T12:32:50.456055+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-07T12:22:50.125081+00:00"
-      },
-      "claim": {
-        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-0",
-        "claimed_at": "2026-09-07T12:22:53.705175+00:00",
-        "lease_expires_at": "2026-09-07T18:22:53.705175+00:00",
-        "run_id": "34116558265"
       },
       "prepared": {
         "target_video_id": "29184706",
@@ -51840,12 +51833,18 @@
       "last_plan": {
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-07T11:49:07.165396+00:00"
+        "planned_at": "2026-09-07T12:32:49.899250+00:00"
       },
       "prepared": {
         "target_video_id": "29184284",
         "size_bytes": 2949749060,
         "prepared_at": "2026-09-07T11:49:10.798230+00:00"
+      },
+      "claim": {
+        "worker_id": "e3043cb69b0a4fca92181219f3378d86-shard-5",
+        "claimed_at": "2026-09-07T12:32:50.071058+00:00",
+        "lease_expires_at": "2026-09-07T18:32:50.071058+00:00",
+        "run_id": "34116558265"
       }
     },
     "4989": {
@@ -115991,5 +115990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T12:32:43.246078+00:00"
+  "updated_at": "2026-09-07T12:32:50.456074+00:00"
 }
