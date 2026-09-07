@@ -5043,6 +5043,12 @@
         "target_video_id": "29179268",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
+      },
+      "claim": {
+        "worker_id": "56d3cb6241fe45deb6e0fc025ca6ada3-shard-1",
+        "claimed_at": "2026-09-07T07:41:06.346630+00:00",
+        "lease_expires_at": "2026-09-07T13:41:06.346630+00:00",
+        "run_id": "34086893653"
       }
     },
     "20410": {
@@ -7167,6 +7173,12 @@
         "target_video_id": "29153883",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-06T06:38:52.929424+00:00"
+      },
+      "claim": {
+        "worker_id": "56d3cb6241fe45deb6e0fc025ca6ada3-shard-3",
+        "claimed_at": "2026-09-07T07:41:06.451201+00:00",
+        "lease_expires_at": "2026-09-07T13:41:06.451201+00:00",
+        "run_id": "34086893653"
       }
     },
     "614": {
@@ -13154,17 +13166,19 @@
       }
     },
     "33333": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29236841",
+          "target_video_id": "29180453",
+          "permanent": false,
+          "attempted_at": "2026-09-07T07:41:08.213611+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29236841",
         "display_name": "A také déšť (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-07T07:34:55.309418+00:00"
-      },
-      "claim": {
-        "worker_id": "56d3cb6241fe45deb6e0fc025ca6ada3-shard-5",
-        "claimed_at": "2026-09-07T07:34:56.702111+00:00",
-        "lease_expires_at": "2026-09-07T13:34:56.702111+00:00",
-        "run_id": "34086893653"
       },
       "prepared": {
         "target_video_id": "29180453",
@@ -115418,5 +115432,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-07T07:41:04.883895+00:00"
+  "updated_at": "2026-09-07T07:41:08.213627+00:00"
 }
