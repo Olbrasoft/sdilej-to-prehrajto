@@ -26976,6 +26976,12 @@
         "target_video_id": "29179360",
         "size_bytes": 14000000000,
         "prepared_at": "2026-09-07T06:15:07.416318+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-4",
+        "claimed_at": "2026-09-08T19:27:04.323798+00:00",
+        "lease_expires_at": "2026-09-09T01:27:04.323798+00:00",
+        "run_id": "34256997132"
       }
     },
     "15426": {
@@ -27412,6 +27418,12 @@
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-0",
+        "claimed_at": "2026-09-08T19:27:04.183263+00:00",
+        "lease_expires_at": "2026-09-09T01:27:04.183263+00:00",
+        "run_id": "34256997132"
       }
     },
     "1871": {
@@ -71826,17 +71838,19 @@
       "attempts": []
     },
     "19200": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32616189",
+          "target_video_id": "29221761",
+          "permanent": false,
+          "attempted_at": "2026-09-08T19:27:05.940703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32616189",
         "display_name": "Pokušení Joyce Mitchellové (2017) 720p CZ Dabing",
         "planned_at": "2026-09-08T18:58:30.198647+00:00"
-      },
-      "claim": {
-        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-5",
-        "claimed_at": "2026-09-08T19:21:15.005126+00:00",
-        "lease_expires_at": "2026-09-09T01:21:15.005126+00:00",
-        "run_id": "34256997132"
       },
       "prepared": {
         "target_video_id": "29221761",
@@ -123972,5 +123986,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T19:27:02.482632+00:00"
+  "updated_at": "2026-09-08T19:27:05.940722+00:00"
 }
