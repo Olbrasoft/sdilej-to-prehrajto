@@ -39276,13 +39276,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "27436084",
-          "target_video_id": "29224613",
-          "permanent": false,
-          "attempted_at": "2026-09-08T21:54:29.440929+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27436084",
           "target_video_id": "29224613",
@@ -39296,17 +39289,20 @@
           "target_video_id": "29226076",
           "permanent": false,
           "attempted_at": "2026-09-08T22:59:12.122877+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "27436084",
+          "target_video_id": "29226076",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T23:29:15.437414+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T22:54:54.557587+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29226076",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-08T22:54:59.003137+00:00"
+        "planned_at": "2026-09-08T23:29:12.523755+00:00"
       }
     },
     "32220": {
@@ -124412,5 +124408,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T23:27:43.121099+00:00"
+  "updated_at": "2026-09-08T23:29:15.437435+00:00"
 }
