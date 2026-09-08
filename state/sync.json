@@ -58242,13 +58242,6 @@
     "5615": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31624572",
-          "reason": "Request failed for https://sdilej.cz/31624572/bezva-zenska-na-krku-2016-cz-komedie-romanticky.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-07T21:11:11.627452+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31624572",
           "target_video_id": "29198042",
@@ -58262,18 +58255,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-08T00:22:05.289907+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31624572",
+          "target_video_id": "29201325",
+          "permanent": false,
+          "attempted_at": "2026-09-08T01:22:47.700333+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31624572",
         "display_name": "Bezva ženská na krku (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-08T01:14:07.692035+00:00"
-      },
-      "claim": {
-        "worker_id": "a5f8d20ce73b4259ab585e81e8a4f033-shard-4",
-        "claimed_at": "2026-09-08T01:14:20.114137+00:00",
-        "lease_expires_at": "2026-09-08T07:14:20.114137+00:00",
-        "run_id": "34169860894"
       },
       "prepared": {
         "target_video_id": "29201325",
@@ -117777,5 +117771,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T01:22:26.003584+00:00"
+  "updated_at": "2026-09-08T01:22:47.700357+00:00"
 }
