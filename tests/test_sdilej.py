@@ -86,6 +86,14 @@ def test_detail_parser_rejects_nonpremium_button() -> None:
         parse_detail_html(html, candidate)
 
 
+def test_detail_without_player_samples_authenticated_original() -> None:
+    candidate = Candidate("1", "https://sdilej.cz/1/film.mkv", "Film")
+    detail = '<h1>Film.mkv</h1><a href="https://data8.sdilej.cz/sdilej_profi.php?id=1&amp;session=test">Stáhnout rychle</a>'
+    result = parse_detail_html(detail, candidate)
+    assert result.sample_url == result.download_url
+    assert result.sample_url == "https://data8.sdilej.cz/sdilej_profi.php?id=1&session=test"
+
+
 class FakeResponse:
     def __init__(self, text: str):
         self.text = text

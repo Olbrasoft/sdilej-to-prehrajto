@@ -166,8 +166,10 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
             "Authenticated fast download link is unavailable; premium login is required"
         )
     player_match = PLAYER_URL_RE.search(html.unescape(html_text))
-    if not player_match:
-        raise SdilejError("Player URL for language sampling is unavailable")
+    # Some downloadable originals have no browser-player rendition. Sample
+    # their original audio through the authenticated fast-download URL; the
+    # detector retains the same bounded extraction and language checks.
+    sample_url = player_match.group(0).replace("&amp;", "&") if player_match else fast_link
     mime_type = mimetypes.guess_type(filename)[0] or "application/octet-stream"
     return replace(
         candidate,
@@ -180,7 +182,7 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
         mime_type=mime_type,
         video_codec=infer_video_codec(filename) or candidate.video_codec,
         download_url=fast_link,
-        sample_url=player_match.group(0).replace("&amp;", "&"),
+        sample_url=sample_url,
     )
 
 
