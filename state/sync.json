@@ -52721,14 +52721,6 @@
     "17559": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "24980147",
-          "target_video_id": "29200892",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-08T01:34:56.032286+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "24980147",
           "target_video_id": "29201961",
@@ -52742,18 +52734,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-08T02:44:58.780385+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24980147",
+          "target_video_id": "29203089",
+          "permanent": false,
+          "attempted_at": "2026-09-08T03:26:39.758284+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-08T03:15:13.131510+00:00"
-      },
-      "claim": {
-        "worker_id": "928ca46672cf440899746e7f25a36443-shard-1",
-        "claimed_at": "2026-09-08T03:15:17.649828+00:00",
-        "lease_expires_at": "2026-09-08T09:15:17.649828+00:00",
-        "run_id": "34169860894"
       },
       "prepared": {
         "target_video_id": "29203089",
@@ -117755,5 +117748,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T03:23:31.245873+00:00"
+  "updated_at": "2026-09-08T03:26:39.758301+00:00"
 }
