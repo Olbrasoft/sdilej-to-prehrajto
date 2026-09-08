@@ -2062,13 +2062,6 @@
           "source_id": "29291192",
           "target_video_id": "29115742",
           "permanent": false,
-          "attempted_at": "2026-09-08T05:19:17.804636+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29291192",
-          "target_video_id": "29115742",
-          "permanent": false,
           "attempted_at": "2026-09-08T05:49:21.618296+00:00"
         },
         {
@@ -2077,6 +2070,13 @@
           "target_video_id": "29115742",
           "permanent": false,
           "attempted_at": "2026-09-08T06:19:32.100618+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29291192",
+          "target_video_id": "29115742",
+          "permanent": false,
+          "attempted_at": "2026-09-08T06:49:54.446256+00:00"
         }
       ],
       "last_plan": {
@@ -2294,6 +2294,12 @@
         "target_video_id": "29115694",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-1",
+        "claimed_at": "2026-09-08T06:49:51.878768+00:00",
+        "lease_expires_at": "2026-09-08T12:49:51.878768+00:00",
+        "run_id": "34195718500"
       }
     },
     "10669": {
@@ -2441,12 +2447,18 @@
       "last_plan": {
         "source_id": "34257579",
         "display_name": "Dárek do cely č.7 (2019) 1080p SK Dabing",
-        "planned_at": "2026-09-08T06:19:43.518216+00:00"
+        "planned_at": "2026-09-08T06:49:52.020444+00:00"
       },
       "prepared": {
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-0",
+        "claimed_at": "2026-09-08T06:49:52.470516+00:00",
+        "lease_expires_at": "2026-09-08T12:49:52.470516+00:00",
+        "run_id": "34195718500"
       }
     },
     "29255": {
@@ -63984,7 +63996,13 @@
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T06:18:55.100539+00:00"
+        "planned_at": "2026-09-08T06:49:52.153091+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-3",
+        "claimed_at": "2026-09-08T06:49:52.841713+00:00",
+        "lease_expires_at": "2026-09-08T12:49:52.841713+00:00",
+        "run_id": "34195718500"
       }
     },
     "32120": {
@@ -118154,5 +118172,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T06:49:50.141968+00:00"
+  "updated_at": "2026-09-08T06:49:54.446276+00:00"
 }
