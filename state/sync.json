@@ -30747,6 +30747,12 @@
         "target_video_id": "29213387",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-08T12:33:41.525834+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-0",
+        "claimed_at": "2026-09-08T17:02:40.584357+00:00",
+        "lease_expires_at": "2026-09-08T23:02:40.584357+00:00",
+        "run_id": "34227106454"
       }
     },
     "2216": {
@@ -30795,6 +30801,12 @@
         "target_video_id": "29213400",
         "size_bytes": 12200000000,
         "prepared_at": "2026-09-08T12:34:21.300435+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-2",
+        "claimed_at": "2026-09-08T17:02:40.447935+00:00",
+        "lease_expires_at": "2026-09-08T23:02:40.447935+00:00",
+        "run_id": "34227106454"
       }
     },
     "21186": {
@@ -65387,17 +65399,19 @@
       "attempts": []
     },
     "7007": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20141450",
+          "target_video_id": "29218283",
+          "permanent": false,
+          "attempted_at": "2026-09-08T17:02:42.020660+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20141450",
         "display_name": "Abulele (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-08T16:25:50.453802+00:00"
-      },
-      "claim": {
-        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-4",
-        "claimed_at": "2026-09-08T16:54:49.935729+00:00",
-        "lease_expires_at": "2026-09-08T22:54:49.935729+00:00",
-        "run_id": "34227106454"
       },
       "prepared": {
         "target_video_id": "29218283",
@@ -122747,5 +122761,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T17:02:38.812632+00:00"
+  "updated_at": "2026-09-08T17:02:42.020677+00:00"
 }
