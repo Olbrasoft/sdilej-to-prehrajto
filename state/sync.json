@@ -38709,6 +38709,12 @@
         "target_video_id": "29214020",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-08T13:15:27.523178+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-1",
+        "claimed_at": "2026-09-08T20:12:55.562243+00:00",
+        "lease_expires_at": "2026-09-09T02:12:55.562243+00:00",
+        "run_id": "34256997132"
       }
     },
     "26626": {
@@ -39261,13 +39267,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "27436084",
-          "target_video_id": "29219861",
-          "permanent": false,
-          "attempted_at": "2026-09-08T18:09:18.420967+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27436084",
           "target_video_id": "29219861",
@@ -39281,17 +39280,20 @@
           "target_video_id": "29221891",
           "permanent": false,
           "attempted_at": "2026-09-08T19:33:34.603789+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "27436084",
+          "target_video_id": "29221891",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T20:12:57.899594+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-08T20:11:14.106703+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29221891",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-08T19:29:31.310465+00:00"
       }
     },
     "32220": {
@@ -39333,6 +39335,12 @@
         "target_video_id": "29214591",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-08T13:38:54.683807+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-2",
+        "claimed_at": "2026-09-08T20:12:55.702365+00:00",
+        "lease_expires_at": "2026-09-09T02:12:55.702365+00:00",
+        "run_id": "34256997132"
       }
     },
     "30630": {
@@ -124273,5 +124281,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T20:12:53.615445+00:00"
+  "updated_at": "2026-09-08T20:12:57.899612+00:00"
 }
