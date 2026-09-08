@@ -39280,7 +39280,13 @@
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T23:29:12.523755+00:00"
+        "planned_at": "2026-09-08T23:59:23.574775+00:00"
+      },
+      "claim": {
+        "worker_id": "0ded279b39ed4821945297a9d14cda51-shard-2",
+        "claimed_at": "2026-09-08T23:59:23.913149+00:00",
+        "lease_expires_at": "2026-09-09T05:59:23.913149+00:00",
+        "run_id": "34285703698"
       }
     },
     "32220": {
@@ -55608,13 +55614,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30104045",
-          "target_video_id": "29224928",
-          "permanent": false,
-          "attempted_at": "2026-09-08T22:17:45.817324+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30104045",
           "target_video_id": "29224928",
@@ -55628,17 +55627,20 @@
           "target_video_id": "29226477",
           "permanent": false,
           "attempted_at": "2026-09-08T23:29:22.851878+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30104045",
+          "target_video_id": "29226477",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T23:59:26.842563+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-08T23:18:01.907098+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29226477",
-        "size_bytes": 3220672907,
-        "prepared_at": "2026-09-08T23:18:08.406216+00:00"
+        "planned_at": "2026-09-08T23:59:23.725366+00:00"
       }
     },
     "16220": {
@@ -124382,5 +124384,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T23:56:21.051330+00:00"
+  "updated_at": "2026-09-08T23:59:26.842583+00:00"
 }
