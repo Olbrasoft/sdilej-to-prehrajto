@@ -24371,13 +24371,6 @@
     "21133": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29436328",
-          "reason": "Request failed for https://sdilej.cz/29436328/neboztici-preji-lasce-1972-1080p-5.1-cze.eng.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-07T23:03:26.923481+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29436328",
           "target_video_id": "29200845",
@@ -24390,12 +24383,19 @@
           "target_video_id": "29200845",
           "permanent": false,
           "attempted_at": "2026-09-08T01:40:49.309341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29436328",
+          "target_video_id": "29200845",
+          "permanent": false,
+          "attempted_at": "2026-09-08T02:10:56.926260+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29436328",
         "display_name": "Nebožtíci přejí lásce (1972) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T01:40:40.782621+00:00"
+        "planned_at": "2026-09-08T02:10:54.116325+00:00"
       },
       "prepared": {
         "target_video_id": "29200845",
@@ -63726,12 +63726,18 @@
       "last_plan": {
         "source_id": "23681455",
         "display_name": "Hromotluk (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T01:40:41.054586+00:00"
+        "planned_at": "2026-09-08T02:10:54.265978+00:00"
       },
       "prepared": {
         "target_video_id": "29167687",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-06T18:23:50.224650+00:00"
+      },
+      "claim": {
+        "worker_id": "7b5f5fe2241248409f829c4008527f28-shard-1",
+        "claimed_at": "2026-09-08T02:10:54.689706+00:00",
+        "lease_expires_at": "2026-09-08T08:10:54.689706+00:00",
+        "run_id": "34169860894"
       }
     },
     "15665": {
@@ -63846,12 +63852,18 @@
       "last_plan": {
         "source_id": "29660043",
         "display_name": "Probuzení (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T01:40:41.174139+00:00"
+        "planned_at": "2026-09-08T02:10:54.399375+00:00"
       },
       "prepared": {
         "target_video_id": "29183602",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-07T10:56:24.066699+00:00"
+      },
+      "claim": {
+        "worker_id": "7b5f5fe2241248409f829c4008527f28-shard-5",
+        "claimed_at": "2026-09-08T02:10:54.824219+00:00",
+        "lease_expires_at": "2026-09-08T08:10:54.824219+00:00",
+        "run_id": "34169860894"
       }
     },
     "36999": {
@@ -117765,5 +117777,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T02:08:37.464394+00:00"
+  "updated_at": "2026-09-08T02:10:56.926279+00:00"
 }
