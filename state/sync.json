@@ -41256,6 +41256,12 @@
         "target_video_id": "29141933",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-05T21:00:10.792347+00:00"
+      },
+      "claim": {
+        "worker_id": "a5f8d20ce73b4259ab585e81e8a4f033-shard-2",
+        "claimed_at": "2026-09-08T00:50:25.331192+00:00",
+        "lease_expires_at": "2026-09-08T06:50:25.331192+00:00",
+        "run_id": "34169860894"
       }
     },
     "16214": {
@@ -58336,17 +58342,19 @@
       "attempts": []
     },
     "37444": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34662213",
+          "target_video_id": "29200663",
+          "permanent": false,
+          "attempted_at": "2026-09-08T00:50:27.011671+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34662213",
         "display_name": "Muž, který viděl medvěda (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-07T23:30:34.712560+00:00"
-      },
-      "claim": {
-        "worker_id": "a5f8d20ce73b4259ab585e81e8a4f033-shard-1",
-        "claimed_at": "2026-09-08T00:33:02.802472+00:00",
-        "lease_expires_at": "2026-09-08T06:33:02.802472+00:00",
-        "run_id": "34169860894"
       },
       "prepared": {
         "target_video_id": "29200663",
@@ -117599,5 +117607,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T00:50:23.842741+00:00"
+  "updated_at": "2026-09-08T00:50:27.011688+00:00"
 }
