@@ -30394,6 +30394,12 @@
         "target_video_id": "29141949",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-05T21:01:39.932584+00:00"
+      },
+      "claim": {
+        "worker_id": "7b5f5fe2241248409f829c4008527f28-shard-3",
+        "claimed_at": "2026-09-08T01:50:24.507293+00:00",
+        "lease_expires_at": "2026-09-08T07:50:24.507293+00:00",
+        "run_id": "34169860894"
       }
     },
     "2681": {
@@ -30426,12 +30432,18 @@
       "last_plan": {
         "source_id": "33542180",
         "display_name": "Zloba – Královna černé magie (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-08T01:20:11.496703+00:00"
+        "planned_at": "2026-09-08T01:50:24.650233+00:00"
       },
       "prepared": {
         "target_video_id": "29142078",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T21:10:28.377542+00:00"
+      },
+      "claim": {
+        "worker_id": "7b5f5fe2241248409f829c4008527f28-shard-5",
+        "claimed_at": "2026-09-08T01:50:25.422652+00:00",
+        "lease_expires_at": "2026-09-08T07:50:25.422652+00:00",
+        "run_id": "34169860894"
       }
     },
     "2525": {
@@ -30470,12 +30482,18 @@
       "last_plan": {
         "source_id": "34623455",
         "display_name": "Lovci pokladů (2004) 4K CZ Dabing",
-        "planned_at": "2026-09-08T01:20:11.651246+00:00"
+        "planned_at": "2026-09-08T01:50:24.768010+00:00"
       },
       "prepared": {
         "target_video_id": "29142079",
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-05T21:10:29.724457+00:00"
+      },
+      "claim": {
+        "worker_id": "7b5f5fe2241248409f829c4008527f28-shard-2",
+        "claimed_at": "2026-09-08T01:50:25.567733+00:00",
+        "lease_expires_at": "2026-09-08T07:50:25.567733+00:00",
+        "run_id": "34169860894"
       }
     },
     "19573": {
@@ -30550,12 +30568,18 @@
       "last_plan": {
         "source_id": "34061939",
         "display_name": "Ace Ventura: Zvířecí detektiv (1994) 4K CZ Dabing",
-        "planned_at": "2026-09-08T01:20:11.775181+00:00"
+        "planned_at": "2026-09-08T01:50:24.916501+00:00"
       },
       "prepared": {
         "target_video_id": "29129778",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T13:45:12.274869+00:00"
+      },
+      "claim": {
+        "worker_id": "7b5f5fe2241248409f829c4008527f28-shard-1",
+        "claimed_at": "2026-09-08T01:50:25.715900+00:00",
+        "lease_expires_at": "2026-09-08T07:50:25.715900+00:00",
+        "run_id": "34169860894"
       }
     },
     "2691": {
@@ -30727,7 +30751,7 @@
       "last_plan": {
         "source_id": "34827840",
         "display_name": "Robin Hood: Král zbojníků (1991) 4K CZ Dabing",
-        "planned_at": "2026-09-08T01:20:11.932241+00:00"
+        "planned_at": "2026-09-08T01:50:25.062092+00:00"
       },
       "prepared": {
         "target_video_id": "29141641",
@@ -30992,7 +31016,7 @@
       "last_plan": {
         "source_id": "27567617",
         "display_name": "Alpha Dog (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T01:20:12.095899+00:00"
+        "planned_at": "2026-09-08T01:50:25.197278+00:00"
       },
       "prepared": {
         "target_video_id": "29141791",
@@ -58116,13 +58140,6 @@
     "3516": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34274273",
-          "reason": "Request failed for https://sdilej.cz/34274273/x-men-6-the-wolverine-2013-4k-h265-cz-akcni-scifi.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-07T22:37:22.404381+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34274273",
           "target_video_id": "29200537",
@@ -58135,6 +58152,13 @@
           "target_video_id": "29200537",
           "permanent": false,
           "attempted_at": "2026-09-08T01:20:13.368737+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274273",
+          "target_video_id": "29200537",
+          "permanent": false,
+          "attempted_at": "2026-09-08T01:50:26.534368+00:00"
         }
       ],
       "last_plan": {
@@ -117772,5 +117796,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T01:50:22.850116+00:00"
+  "updated_at": "2026-09-08T01:50:26.534387+00:00"
 }
