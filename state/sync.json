@@ -2219,6 +2219,12 @@
         "target_video_id": "29206443",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T06:48:33.321229+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-4",
+        "claimed_at": "2026-09-08T13:16:56.234198+00:00",
+        "lease_expires_at": "2026-09-08T19:16:56.234198+00:00",
+        "run_id": "34227106454"
       }
     },
     "11126": {
@@ -37911,17 +37917,19 @@
       "attempts": []
     },
     "24069": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34705327",
+          "target_video_id": "29213921",
+          "permanent": false,
+          "attempted_at": "2026-09-08T13:16:58.012934+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34705327",
         "display_name": "Valentin Dobrotivý (1942) 1080p CZ Dabing",
         "planned_at": "2026-09-08T12:39:40.342812+00:00"
-      },
-      "claim": {
-        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-3",
-        "claimed_at": "2026-09-08T13:10:02.189803+00:00",
-        "lease_expires_at": "2026-09-08T19:10:02.189803+00:00",
-        "run_id": "34227106454"
       },
       "prepared": {
         "target_video_id": "29213921",
@@ -120648,5 +120656,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T13:16:54.636323+00:00"
+  "updated_at": "2026-09-08T13:16:58.012952+00:00"
 }
