@@ -51049,13 +51049,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34941645",
-          "target_video_id": "29204155",
-          "permanent": false,
-          "attempted_at": "2026-09-08T04:39:34.187960+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34941645",
           "target_video_id": "29204155",
@@ -51069,17 +51062,20 @@
           "target_video_id": "29205217",
           "permanent": false,
           "attempted_at": "2026-09-08T05:56:52.766834+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34941645",
+          "target_video_id": "29205217",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T06:27:09.274755+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:48:25.264683+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29205217",
-        "size_bytes": 3005702481,
-        "prepared_at": "2026-09-08T05:48:39.558000+00:00"
+        "planned_at": "2026-09-08T06:27:06.347961+00:00"
       }
     },
     "17488": {
@@ -53141,12 +53137,18 @@
       "last_plan": {
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:48:25.386170+00:00"
+        "planned_at": "2026-09-08T06:27:06.489120+00:00"
       },
       "prepared": {
         "target_video_id": "29205218",
         "size_bytes": 2949749060,
         "prepared_at": "2026-09-08T05:48:41.170764+00:00"
+      },
+      "claim": {
+        "worker_id": "22a9d3050e39485089dd2b111e6aa6fe-shard-1",
+        "claimed_at": "2026-09-08T06:27:07.007077+00:00",
+        "lease_expires_at": "2026-09-08T12:27:07.007077+00:00",
+        "run_id": "34187195670"
       }
     },
     "4989": {
@@ -118136,5 +118138,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T06:26:40.101130+00:00"
+  "updated_at": "2026-09-08T06:27:09.274769+00:00"
 }
