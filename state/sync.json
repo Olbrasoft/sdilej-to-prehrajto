@@ -1458,6 +1458,12 @@
         "target_video_id": "28928664",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T04:39:45.085335+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-4",
+        "claimed_at": "2026-09-08T19:24:21.487625+00:00",
+        "lease_expires_at": "2026-09-09T01:24:21.487625+00:00",
+        "run_id": "34256997132"
       }
     },
     "21566": {
@@ -1544,6 +1550,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-3",
+        "claimed_at": "2026-09-08T19:24:21.351830+00:00",
+        "lease_expires_at": "2026-09-09T01:24:21.351830+00:00",
+        "run_id": "34256997132"
       }
     },
     "21354": {
@@ -71185,17 +71197,19 @@
       "attempts": []
     },
     "12015": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33685832",
+          "target_video_id": "29221620",
+          "permanent": false,
+          "attempted_at": "2026-09-08T19:24:23.487402+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33685832",
         "display_name": "Hoffa (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-08T18:58:29.468949+00:00"
-      },
-      "claim": {
-        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-0",
-        "claimed_at": "2026-09-08T19:13:02.903291+00:00",
-        "lease_expires_at": "2026-09-09T01:13:02.903291+00:00",
-        "run_id": "34256997132"
       },
       "prepared": {
         "target_video_id": "29221620",
@@ -123952,5 +123966,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T19:24:19.575691+00:00"
+  "updated_at": "2026-09-08T19:24:23.487420+00:00"
 }
