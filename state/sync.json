@@ -53348,13 +53348,6 @@
     "17559": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "24980147",
-          "target_video_id": "29205218",
-          "permanent": false,
-          "attempted_at": "2026-09-08T05:56:54.325054+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "24980147",
           "target_video_id": "29205218",
@@ -53368,17 +53361,20 @@
           "target_video_id": "29206616",
           "permanent": false,
           "attempted_at": "2026-09-08T07:08:04.026590+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "24980147",
+          "target_video_id": "29206616",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T07:38:22.025332+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-08T07:38:11.921644+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29206616",
-        "size_bytes": 2949749060,
-        "prepared_at": "2026-09-08T06:57:16.931029+00:00"
       }
     },
     "4989": {
@@ -54691,6 +54687,12 @@
         "target_video_id": "29171807",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-06T22:08:16.783675+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-3",
+        "claimed_at": "2026-09-08T07:38:19.860583+00:00",
+        "lease_expires_at": "2026-09-08T13:38:19.860583+00:00",
+        "run_id": "34195718500"
       }
     },
     "31678": {
@@ -55537,6 +55539,12 @@
         "target_video_id": "29129473",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T10:16:25.002637+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-0",
+        "claimed_at": "2026-09-08T07:38:19.614861+00:00",
+        "lease_expires_at": "2026-09-08T13:38:19.614861+00:00",
+        "run_id": "34195718500"
       }
     },
     "15956": {
@@ -118357,5 +118365,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T07:38:17.837981+00:00"
+  "updated_at": "2026-09-08T07:38:22.025348+00:00"
 }
