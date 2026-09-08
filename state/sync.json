@@ -3259,6 +3259,12 @@
         "target_video_id": "29122398",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T06:00:28.711519+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-1",
+        "claimed_at": "2026-09-08T17:58:30.034059+00:00",
+        "lease_expires_at": "2026-09-08T23:58:30.034059+00:00",
+        "run_id": "34227106454"
       }
     },
     "22398": {
@@ -69523,17 +69529,19 @@
       "attempts": []
     },
     "16730": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12922061",
+          "target_video_id": "29219599",
+          "permanent": false,
+          "attempted_at": "2026-09-08T17:58:31.277896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12922061",
         "display_name": "Znovu nalezená (2015) SD CZ Dabing",
         "planned_at": "2026-09-08T17:08:18.388465+00:00"
-      },
-      "claim": {
-        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-0",
-        "claimed_at": "2026-09-08T17:53:49.731660+00:00",
-        "lease_expires_at": "2026-09-08T23:53:49.731660+00:00",
-        "run_id": "34227106454"
       },
       "prepared": {
         "target_video_id": "29219599",
@@ -123396,5 +123404,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T17:58:28.200976+00:00"
+  "updated_at": "2026-09-08T17:58:31.277913+00:00"
 }
