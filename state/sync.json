@@ -50642,14 +50642,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34941645",
-          "target_video_id": "29196300",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-07T20:57:03.191670+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34941645",
           "target_video_id": "29197668",
@@ -50663,18 +50655,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-07T23:13:12.892672+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29200883",
+          "permanent": false,
+          "attempted_at": "2026-09-08T01:04:41.282725+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-08T00:50:52.676545+00:00"
-      },
-      "claim": {
-        "worker_id": "a5f8d20ce73b4259ab585e81e8a4f033-shard-5",
-        "claimed_at": "2026-09-08T00:51:15.544198+00:00",
-        "lease_expires_at": "2026-09-08T06:51:15.544198+00:00",
-        "run_id": "34169860894"
       },
       "prepared": {
         "target_video_id": "29200883",
@@ -63313,6 +63306,12 @@
         "source_id": "22520185",
         "display_name": "Paříž 36 (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-08T00:50:59.246499+00:00"
+      },
+      "claim": {
+        "worker_id": "a5f8d20ce73b4259ab585e81e8a4f033-shard-1",
+        "claimed_at": "2026-09-08T01:04:40.434325+00:00",
+        "lease_expires_at": "2026-09-08T07:04:40.434325+00:00",
+        "run_id": "34169860894"
       }
     },
     "17200": {
@@ -117675,5 +117674,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T01:04:37.520006+00:00"
+  "updated_at": "2026-09-08T01:04:41.282744+00:00"
 }
