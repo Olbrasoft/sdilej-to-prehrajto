@@ -32062,13 +32062,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28441201",
-          "target_video_id": "29204357",
-          "permanent": false,
-          "attempted_at": "2026-09-08T04:54:30.047736+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28441201",
           "target_video_id": "29204357",
@@ -32082,17 +32075,20 @@
           "target_video_id": "29205329",
           "permanent": false,
           "attempted_at": "2026-09-08T05:59:49.518269+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "28441201",
+          "target_video_id": "29205329",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T06:29:54.179146+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:54:47.713562+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29205329",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-08T05:54:51.996419+00:00"
+        "planned_at": "2026-09-08T06:29:49.675425+00:00"
       }
     },
     "19162": {
@@ -44539,12 +44535,18 @@
       "last_plan": {
         "source_id": "31513493",
         "display_name": "Dědečkem proti své vůli (1939) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:59:37.244159+00:00"
+        "planned_at": "2026-09-08T06:29:49.818380+00:00"
       },
       "prepared": {
         "target_video_id": "29136445",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T15:02:31.127606+00:00"
+      },
+      "claim": {
+        "worker_id": "22a9d3050e39485089dd2b111e6aa6fe-shard-3",
+        "claimed_at": "2026-09-08T06:29:50.656227+00:00",
+        "lease_expires_at": "2026-09-08T12:29:50.656227+00:00",
+        "run_id": "34187195670"
       }
     },
     "12690": {
@@ -44580,12 +44582,18 @@
       "last_plan": {
         "source_id": "30450442",
         "display_name": "Jak se krade milión (1967) SD CZ Dabing",
-        "planned_at": "2026-09-08T05:59:37.376184+00:00"
+        "planned_at": "2026-09-08T06:29:49.947142+00:00"
       },
       "prepared": {
         "target_video_id": "29136456",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
+      },
+      "claim": {
+        "worker_id": "22a9d3050e39485089dd2b111e6aa6fe-shard-4",
+        "claimed_at": "2026-09-08T06:29:50.908832+00:00",
+        "lease_expires_at": "2026-09-08T12:29:50.908832+00:00",
+        "run_id": "34187195670"
       }
     },
     "24046": {
@@ -47487,12 +47495,18 @@
       "last_plan": {
         "source_id": "29163089",
         "display_name": "Popelka z velkoměsta (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:59:37.510379+00:00"
+        "planned_at": "2026-09-08T06:29:50.079148+00:00"
       },
       "prepared": {
         "target_video_id": "29137549",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T16:05:58.248524+00:00"
+      },
+      "claim": {
+        "worker_id": "22a9d3050e39485089dd2b111e6aa6fe-shard-2",
+        "claimed_at": "2026-09-08T06:29:50.784692+00:00",
+        "lease_expires_at": "2026-09-08T12:29:50.784692+00:00",
+        "run_id": "34187195670"
       }
     },
     "12723": {
@@ -48850,12 +48864,18 @@
       "last_plan": {
         "source_id": "34791759",
         "display_name": "Cirkus bude! (1954) SD CZ Dabing",
-        "planned_at": "2026-09-08T05:59:37.642100+00:00"
+        "planned_at": "2026-09-08T06:29:50.210982+00:00"
       },
       "prepared": {
         "target_video_id": "29140505",
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-06T07:00:02.401149+00:00"
+      },
+      "claim": {
+        "worker_id": "22a9d3050e39485089dd2b111e6aa6fe-shard-1",
+        "claimed_at": "2026-09-08T06:29:51.037178+00:00",
+        "lease_expires_at": "2026-09-08T12:29:51.037178+00:00",
+        "run_id": "34187195670"
       }
     },
     "20915": {
@@ -50076,7 +50096,7 @@
       "last_plan": {
         "source_id": "25586153",
         "display_name": "Vraždy odvedle: Falešné obvinění (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:59:37.765400+00:00"
+        "planned_at": "2026-09-08T06:29:50.342638+00:00"
       },
       "prepared": {
         "target_video_id": "29175998",
@@ -118128,5 +118148,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T06:29:38.129093+00:00"
+  "updated_at": "2026-09-08T06:29:54.179161+00:00"
 }
