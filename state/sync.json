@@ -73115,13 +73115,6 @@
     "11956": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33974106",
-          "target_video_id": "29223316",
-          "permanent": false,
-          "attempted_at": "2026-09-08T21:17:06.340154+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33974106",
           "target_video_id": "29223316",
@@ -73135,23 +73128,20 @@
           "target_video_id": "29225242",
           "permanent": false,
           "attempted_at": "2026-09-08T22:51:39.599202+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "33974106",
+          "target_video_id": "29225242",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T23:21:43.723454+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33974106",
         "display_name": "Hlava rodiny (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-08T23:21:39.836551+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29225242",
-        "size_bytes": 8516493363,
-        "prepared_at": "2026-09-08T22:17:25.026316+00:00"
-      },
-      "claim": {
-        "worker_id": "cc83f4b887254a8cae98039335e2edef-shard-1",
-        "claimed_at": "2026-09-08T23:21:40.233174+00:00",
-        "lease_expires_at": "2026-09-09T05:21:40.233174+00:00",
-        "run_id": "34285703698"
       }
     },
     "15341": {
@@ -124400,5 +124390,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T23:21:42.180910+00:00"
+  "updated_at": "2026-09-08T23:21:43.723479+00:00"
 }
