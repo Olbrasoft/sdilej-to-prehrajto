@@ -69046,13 +69046,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34876843",
-          "target_video_id": "29219439",
-          "permanent": false,
-          "attempted_at": "2026-09-08T18:00:35.885035+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34876843",
           "target_video_id": "29219439",
@@ -69066,17 +69059,20 @@
           "target_video_id": "29221880",
           "permanent": false,
           "attempted_at": "2026-09-08T19:41:41.366133+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34876843",
+          "target_video_id": "29221880",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T20:15:27.325813+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-08T20:13:21.049227+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29221880",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-08T19:28:22.388894+00:00"
       }
     },
     "32120": {
@@ -69220,6 +69216,12 @@
         "target_video_id": "29167687",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-06T18:23:50.224650+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-1",
+        "claimed_at": "2026-09-08T20:15:25.295659+00:00",
+        "lease_expires_at": "2026-09-09T02:15:25.295659+00:00",
+        "run_id": "34256997132"
       }
     },
     "15665": {
@@ -69377,7 +69379,7 @@
       "last_plan": {
         "source_id": "29660043",
         "display_name": "Probuzení (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:26:32.135623+00:00"
+        "planned_at": "2026-09-08T20:15:25.609063+00:00"
       },
       "prepared": {
         "target_video_id": "29183602",
@@ -69458,7 +69460,7 @@
       "last_plan": {
         "source_id": "12922061",
         "display_name": "Znovu nalezená (2015) SD CZ Dabing",
-        "planned_at": "2026-09-08T19:26:32.282813+00:00"
+        "planned_at": "2026-09-08T20:15:25.789183+00:00"
       },
       "prepared": {
         "target_video_id": "29219599",
@@ -69510,7 +69512,7 @@
       "last_plan": {
         "source_id": "33664516",
         "display_name": "Neonová cesta (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:26:32.429349+00:00"
+        "planned_at": "2026-09-08T20:15:25.928420+00:00"
       },
       "prepared": {
         "target_video_id": "29220276",
@@ -69634,7 +69636,7 @@
       "last_plan": {
         "source_id": "34694970",
         "display_name": "Tlapková patrola slaví Vánoce (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:26:32.911133+00:00"
+        "planned_at": "2026-09-08T20:15:26.124996+00:00"
       },
       "prepared": {
         "target_video_id": "29220435",
@@ -69668,7 +69670,7 @@
       "last_plan": {
         "source_id": "32831311",
         "display_name": "Dva kopečky lásky (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:26:33.059213+00:00"
+        "planned_at": "2026-09-08T20:15:26.315752+00:00"
       },
       "prepared": {
         "target_video_id": "29220516",
@@ -69756,7 +69758,7 @@
       "last_plan": {
         "source_id": "34734180",
         "display_name": "Les Crevettes pailletées (2019) SD CZ Titulky",
-        "planned_at": "2026-09-08T19:26:33.204022+00:00"
+        "planned_at": "2026-09-08T20:15:26.478524+00:00"
       },
       "prepared": {
         "target_video_id": "29220527",
@@ -69790,7 +69792,7 @@
       "last_plan": {
         "source_id": "34694187",
         "display_name": "Sweet on You (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:26:33.351519+00:00"
+        "planned_at": "2026-09-08T20:15:26.630491+00:00"
       },
       "prepared": {
         "target_video_id": "29220558",
@@ -69842,7 +69844,7 @@
       "last_plan": {
         "source_id": "34851062",
         "display_name": "T.M.A. (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:26:33.488369+00:00"
+        "planned_at": "2026-09-08T20:15:26.823389+00:00"
       },
       "prepared": {
         "target_video_id": "29220630",
@@ -69936,7 +69938,7 @@
       "last_plan": {
         "source_id": "31068827",
         "display_name": "Mimo-zemšťané 2 (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:29:06.479983+00:00"
+        "planned_at": "2026-09-08T20:15:26.967424+00:00"
       },
       "prepared": {
         "target_video_id": "29220629",
@@ -70293,7 +70295,7 @@
       "last_plan": {
         "source_id": "26569147",
         "display_name": "Pekelný dům (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T19:29:07.550386+00:00"
+        "planned_at": "2026-09-08T20:15:27.132939+00:00"
       },
       "prepared": {
         "target_video_id": "29220982",
@@ -124257,5 +124259,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T20:15:23.286560+00:00"
+  "updated_at": "2026-09-08T20:15:27.325834+00:00"
 }
