@@ -50191,12 +50191,18 @@
       "last_plan": {
         "source_id": "32730288",
         "display_name": "Vražda na splátky (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:29:37.598794+00:00"
+        "planned_at": "2026-09-08T05:59:51.282689+00:00"
       },
       "prepared": {
         "target_video_id": "29144872",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T00:14:41.266553+00:00"
+      },
+      "claim": {
+        "worker_id": "3176fd24abee4fd0b0dee96e1d677596-shard-4",
+        "claimed_at": "2026-09-08T05:59:51.722161+00:00",
+        "lease_expires_at": "2026-09-08T11:59:51.722161+00:00",
+        "run_id": "34187195670"
       }
     },
     "12784": {
@@ -50493,12 +50499,18 @@
       "last_plan": {
         "source_id": "14024650",
         "display_name": "Vraždy podle Solveig: Fjord smrti (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:29:37.721080+00:00"
+        "planned_at": "2026-09-08T05:59:51.402299+00:00"
       },
       "prepared": {
         "target_video_id": "29137611",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T18:50:04.440797+00:00"
+      },
+      "claim": {
+        "worker_id": "3176fd24abee4fd0b0dee96e1d677596-shard-3",
+        "claimed_at": "2026-09-08T05:59:52.049565+00:00",
+        "lease_expires_at": "2026-09-08T11:59:52.049565+00:00",
+        "run_id": "34187195670"
       }
     },
     "14932": {
@@ -50875,12 +50887,18 @@
       "last_plan": {
         "source_id": "31963280",
         "display_name": "Terezín: Láska za zdí (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T05:29:37.843422+00:00"
+        "planned_at": "2026-09-08T05:59:51.544736+00:00"
       },
       "prepared": {
         "target_video_id": "29137913",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T17:33:42.441521+00:00"
+      },
+      "claim": {
+        "worker_id": "3176fd24abee4fd0b0dee96e1d677596-shard-5",
+        "claimed_at": "2026-09-08T05:59:52.220018+00:00",
+        "lease_expires_at": "2026-09-08T11:59:52.220018+00:00",
+        "run_id": "34187195670"
       }
     },
     "12345": {
@@ -52124,13 +52142,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31626940",
-          "target_video_id": "29203972",
-          "permanent": false,
-          "attempted_at": "2026-09-08T04:20:49.850803+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "31626940",
           "target_video_id": "29203972",
@@ -52144,23 +52155,20 @@
           "target_video_id": "29204817",
           "permanent": false,
           "attempted_at": "2026-09-08T05:29:27.645244+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31626940",
+          "target_video_id": "29204817",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T05:59:52.928758+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-08T05:59:37.891449+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29204817",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-08T05:21:47.619653+00:00"
-      },
-      "claim": {
-        "worker_id": "3176fd24abee4fd0b0dee96e1d677596-shard-1",
-        "claimed_at": "2026-09-08T05:59:49.397724+00:00",
-        "lease_expires_at": "2026-09-08T11:59:49.397724+00:00",
-        "run_id": "34187195670"
       }
     },
     "33003": {
@@ -118108,5 +118116,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T05:59:49.518283+00:00"
+  "updated_at": "2026-09-08T05:59:52.928776+00:00"
 }
