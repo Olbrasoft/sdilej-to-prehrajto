@@ -2250,12 +2250,18 @@
       "last_plan": {
         "source_id": "24225122",
         "display_name": "Koe no katači (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-08T03:47:24.770281+00:00"
+        "planned_at": "2026-09-08T04:17:38.434404+00:00"
       },
       "prepared": {
         "target_video_id": "29115694",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
+      },
+      "claim": {
+        "worker_id": "04d5ba9ea5994f68a86ee6f4cd00b45d-shard-4",
+        "claimed_at": "2026-09-08T04:17:39.031409+00:00",
+        "lease_expires_at": "2026-09-08T10:17:39.031409+00:00",
+        "run_id": "34169860894"
       }
     },
     "10669": {
@@ -2544,12 +2550,18 @@
       "last_plan": {
         "source_id": "12902823",
         "display_name": "Zmizelá (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T03:47:24.905725+00:00"
+        "planned_at": "2026-09-08T04:17:38.554412+00:00"
       },
       "prepared": {
         "target_video_id": "29115993",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-05T18:33:16.338254+00:00"
+      },
+      "claim": {
+        "worker_id": "04d5ba9ea5994f68a86ee6f4cd00b45d-shard-1",
+        "claimed_at": "2026-09-08T04:17:39.172561+00:00",
+        "lease_expires_at": "2026-09-08T10:17:39.172561+00:00",
+        "run_id": "34169860894"
       }
     },
     "223": {
@@ -3087,12 +3099,18 @@
       "last_plan": {
         "source_id": "32317767",
         "display_name": "Hotel Rwanda (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T03:47:25.034842+00:00"
+        "planned_at": "2026-09-08T04:17:38.675669+00:00"
       },
       "prepared": {
         "target_video_id": "29122398",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T06:00:28.711519+00:00"
+      },
+      "claim": {
+        "worker_id": "04d5ba9ea5994f68a86ee6f4cd00b45d-shard-2",
+        "claimed_at": "2026-09-08T04:17:39.440100+00:00",
+        "lease_expires_at": "2026-09-08T10:17:39.440100+00:00",
+        "run_id": "34169860894"
       }
     },
     "22398": {
@@ -3688,12 +3706,18 @@
       "last_plan": {
         "source_id": "33494074",
         "display_name": "Jean od Floretty (1986) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T03:47:25.161593+00:00"
+        "planned_at": "2026-09-08T04:17:38.819430+00:00"
       },
       "prepared": {
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "04d5ba9ea5994f68a86ee6f4cd00b45d-shard-5",
+        "claimed_at": "2026-09-08T04:17:39.317958+00:00",
+        "lease_expires_at": "2026-09-08T10:17:39.317958+00:00",
+        "run_id": "34169860894"
       }
     },
     "21939": {
@@ -31808,13 +31832,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28441201",
-          "target_video_id": "29202400",
-          "permanent": false,
-          "attempted_at": "2026-09-08T02:40:42.112409+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28441201",
           "target_video_id": "29202400",
@@ -31828,17 +31845,20 @@
           "target_video_id": "29203429",
           "permanent": false,
           "attempted_at": "2026-09-08T03:47:22.879744+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "28441201",
+          "target_video_id": "29203429",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T04:17:40.277562+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-08T04:17:27.921939+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29203429",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-08T03:40:59.301498+00:00"
       }
     },
     "19162": {
@@ -117879,5 +117899,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T04:17:36.728064+00:00"
+  "updated_at": "2026-09-08T04:17:40.277581+00:00"
 }
