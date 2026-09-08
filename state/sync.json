@@ -36989,6 +36989,12 @@
         "target_video_id": "29215958",
         "size_bytes": 4632584803,
         "prepared_at": "2026-09-08T14:51:04.131548+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-5",
+        "claimed_at": "2026-09-08T15:49:53.549369+00:00",
+        "lease_expires_at": "2026-09-08T21:49:53.549369+00:00",
+        "run_id": "34227106454"
       }
     },
     "36709": {
@@ -37497,6 +37503,12 @@
         "target_video_id": "29216153",
         "size_bytes": 4223947028,
         "prepared_at": "2026-09-08T14:59:09.206168+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-2",
+        "claimed_at": "2026-09-08T15:49:53.679310+00:00",
+        "lease_expires_at": "2026-09-08T21:49:53.679310+00:00",
+        "run_id": "34227106454"
       }
     },
     "2367": {
@@ -47062,17 +47074,19 @@
       "attempts": []
     },
     "28921": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23691551",
+          "target_video_id": "29217012",
+          "permanent": false,
+          "attempted_at": "2026-09-08T15:49:53.808151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23691551",
         "display_name": "Čertova nevěsta (1975) 1080p CZ Dabing",
         "planned_at": "2026-09-08T15:33:00.134070+00:00"
-      },
-      "claim": {
-        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-3",
-        "claimed_at": "2026-09-08T15:42:16.633060+00:00",
-        "lease_expires_at": "2026-09-08T21:42:16.633060+00:00",
-        "run_id": "34227106454"
       },
       "prepared": {
         "target_video_id": "29217012",
@@ -122086,5 +122100,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T15:49:51.899476+00:00"
+  "updated_at": "2026-09-08T15:49:53.808171+00:00"
 }
