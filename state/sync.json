@@ -24942,13 +24942,6 @@
           "source_id": "31470565",
           "target_video_id": "29173980",
           "permanent": false,
-          "attempted_at": "2026-09-08T18:54:02.176125+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31470565",
-          "target_video_id": "29173980",
-          "permanent": false,
           "attempted_at": "2026-09-08T19:26:26.989901+00:00"
         },
         {
@@ -24957,6 +24950,13 @@
           "target_video_id": "29173980",
           "permanent": false,
           "attempted_at": "2026-09-08T20:11:06.570872+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31470565",
+          "target_video_id": "29173980",
+          "permanent": false,
+          "attempted_at": "2026-09-08T20:41:19.686792+00:00"
         }
       ],
       "last_plan": {
@@ -25009,6 +25009,12 @@
         "target_video_id": "29174349",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-06T23:53:09.984429+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-5",
+        "claimed_at": "2026-09-08T20:41:17.606810+00:00",
+        "lease_expires_at": "2026-09-09T02:41:17.606810+00:00",
+        "run_id": "34256997132"
       }
     },
     "34330": {
@@ -25092,12 +25098,18 @@
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Vratné lahve (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T20:11:08.292614+00:00"
+        "planned_at": "2026-09-08T20:41:17.823301+00:00"
       },
       "prepared": {
         "target_video_id": "29179298",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T06:12:13.418549+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-3",
+        "claimed_at": "2026-09-08T20:41:18.032081+00:00",
+        "lease_expires_at": "2026-09-09T02:41:18.032081+00:00",
+        "run_id": "34256997132"
       }
     },
     "15980": {
@@ -124406,5 +124418,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T20:41:15.564938+00:00"
+  "updated_at": "2026-09-08T20:41:19.686811+00:00"
 }
