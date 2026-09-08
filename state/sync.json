@@ -13325,13 +13325,6 @@
           "source_id": "29297028",
           "target_video_id": "29117207",
           "permanent": false,
-          "attempted_at": "2026-09-08T22:11:11.221034+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29297028",
-          "target_video_id": "29117207",
-          "permanent": false,
           "attempted_at": "2026-09-08T22:41:25.383859+00:00"
         },
         {
@@ -13340,6 +13333,13 @@
           "target_video_id": "29117207",
           "permanent": false,
           "attempted_at": "2026-09-08T23:11:43.477143+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29297028",
+          "target_video_id": "29117207",
+          "permanent": false,
+          "attempted_at": "2026-09-08T23:42:07.533019+00:00"
         }
       ],
       "last_plan": {
@@ -13534,6 +13534,12 @@
         "target_video_id": "29154105",
         "size_bytes": 11800000000,
         "prepared_at": "2026-09-06T06:54:41.375975+00:00"
+      },
+      "claim": {
+        "worker_id": "cc83f4b887254a8cae98039335e2edef-shard-0",
+        "claimed_at": "2026-09-08T23:42:05.353907+00:00",
+        "lease_expires_at": "2026-09-09T05:42:05.353907+00:00",
+        "run_id": "34285703698"
       }
     },
     "1172": {
@@ -13859,12 +13865,18 @@
       "last_plan": {
         "source_id": "33258563",
         "display_name": "Bugonia (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-08T23:11:48.112239+00:00"
+        "planned_at": "2026-09-08T23:42:05.554126+00:00"
       },
       "prepared": {
         "target_video_id": "29136383",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
+      },
+      "claim": {
+        "worker_id": "cc83f4b887254a8cae98039335e2edef-shard-2",
+        "claimed_at": "2026-09-08T23:42:06.247098+00:00",
+        "lease_expires_at": "2026-09-09T05:42:06.247098+00:00",
+        "run_id": "34285703698"
       }
     },
     "1249": {
@@ -14111,7 +14123,7 @@
       "last_plan": {
         "source_id": "26735241",
         "display_name": "Zvěřinec časopisu National Lampoon (1978) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T23:11:48.240756+00:00"
+        "planned_at": "2026-09-08T23:42:05.718904+00:00"
       },
       "prepared": {
         "target_video_id": "29118333",
@@ -14146,7 +14158,7 @@
       "last_plan": {
         "source_id": "34040589",
         "display_name": "Velké vítězství (1992) 4K CZ Dabing",
-        "planned_at": "2026-09-08T23:11:48.369421+00:00"
+        "planned_at": "2026-09-08T23:42:05.843090+00:00"
       },
       "prepared": {
         "target_video_id": "29118389",
@@ -14196,7 +14208,7 @@
       "last_plan": {
         "source_id": "33527395",
         "display_name": "Tootsie (1982) 4K CZ Dabing",
-        "planned_at": "2026-09-08T23:11:48.512229+00:00"
+        "planned_at": "2026-09-08T23:42:05.993623+00:00"
       },
       "prepared": {
         "target_video_id": "29118413",
@@ -124400,5 +124412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T23:42:03.527404+00:00"
+  "updated_at": "2026-09-08T23:42:07.533039+00:00"
 }
