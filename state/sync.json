@@ -27535,6 +27535,12 @@
         "target_video_id": "29198848",
         "size_bytes": 895300000,
         "prepared_at": "2026-09-07T22:23:38.236879+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-0",
+        "claimed_at": "2026-09-08T17:02:10.109984+00:00",
+        "lease_expires_at": "2026-09-08T23:02:10.109984+00:00",
+        "run_id": "34227106454"
       }
     },
     "35276": {
@@ -65267,17 +65273,19 @@
       "attempts": []
     },
     "4926": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34659558",
+          "target_video_id": "29218253",
+          "permanent": false,
+          "attempted_at": "2026-09-08T17:02:10.412914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34659558",
         "display_name": "Smečky (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-08T16:25:50.027471+00:00"
-      },
-      "claim": {
-        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-2",
-        "claimed_at": "2026-09-08T16:53:18.182580+00:00",
-        "lease_expires_at": "2026-09-08T22:53:18.182580+00:00",
-        "run_id": "34227106454"
       },
       "prepared": {
         "target_video_id": "29218253",
@@ -122745,5 +122753,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T17:02:08.514200+00:00"
+  "updated_at": "2026-09-08T17:02:10.412930+00:00"
 }
