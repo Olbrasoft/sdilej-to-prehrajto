@@ -56781,13 +56781,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30673323",
-          "target_video_id": "29217543",
-          "permanent": false,
-          "attempted_at": "2026-09-08T16:17:15.907581+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30673323",
           "target_video_id": "29217543",
@@ -56801,17 +56794,20 @@
           "target_video_id": "29220159",
           "permanent": false,
           "attempted_at": "2026-09-08T18:22:07.634331+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30673323",
+          "target_video_id": "29220159",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T18:58:14.493706+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-08T18:55:38.096656+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29220159",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-08T18:16:07.596944+00:00"
       }
     },
     "14505": {
@@ -57343,6 +57339,12 @@
         "source_id": "24980147",
         "display_name": "Hodinový manžel (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-08T18:55:38.248448+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-1",
+        "claimed_at": "2026-09-08T18:58:12.312114+00:00",
+        "lease_expires_at": "2026-09-09T00:58:12.312114+00:00",
+        "run_id": "34256997132"
       }
     },
     "4989": {
@@ -123724,5 +123726,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T18:58:10.361464+00:00"
+  "updated_at": "2026-09-08T18:58:14.493726+00:00"
 }
