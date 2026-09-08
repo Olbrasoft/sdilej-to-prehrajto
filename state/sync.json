@@ -26454,13 +26454,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34933768",
-          "target_video_id": "29212972",
-          "permanent": false,
-          "attempted_at": "2026-09-08T12:18:09.050837+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34933768",
           "target_video_id": "29212972",
@@ -26474,17 +26467,20 @@
           "target_video_id": "29215275",
           "permanent": false,
           "attempted_at": "2026-09-08T14:25:59.250192+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34933768",
+          "target_video_id": "29215275",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T15:05:25.307543+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-08T15:04:50.052060+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29215275",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-08T14:17:49.542103+00:00"
       }
     },
     "31638": {
@@ -26940,6 +26936,12 @@
         "target_video_id": "29179360",
         "size_bytes": 14000000000,
         "prepared_at": "2026-09-07T06:15:07.416318+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-0",
+        "claimed_at": "2026-09-08T15:05:23.310973+00:00",
+        "lease_expires_at": "2026-09-08T21:05:23.310973+00:00",
+        "run_id": "34227106454"
       }
     },
     "15426": {
@@ -27376,6 +27378,12 @@
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-3",
+        "claimed_at": "2026-09-08T15:05:23.579579+00:00",
+        "lease_expires_at": "2026-09-08T21:05:23.579579+00:00",
+        "run_id": "34227106454"
       }
     },
     "1871": {
@@ -121705,5 +121713,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T15:05:21.577990+00:00"
+  "updated_at": "2026-09-08T15:05:25.307561+00:00"
 }
