@@ -32177,14 +32177,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28441201",
-          "target_video_id": "29204357",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-08T05:24:37.923192+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28441201",
           "target_video_id": "29205329",
@@ -32198,18 +32190,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-08T06:29:54.179146+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28441201",
+          "target_video_id": "29206757",
+          "permanent": false,
+          "attempted_at": "2026-09-08T07:07:41.555185+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-08T07:00:08.460428+00:00"
-      },
-      "claim": {
-        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-4",
-        "claimed_at": "2026-09-08T07:03:32.782331+00:00",
-        "lease_expires_at": "2026-09-08T13:03:32.782331+00:00",
-        "run_id": "34195718500"
       },
       "prepared": {
         "target_video_id": "29206757",
@@ -118262,5 +118255,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T07:06:57.859450+00:00"
+  "updated_at": "2026-09-08T07:07:41.555202+00:00"
 }
