@@ -7786,17 +7786,19 @@
       }
     },
     "443": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34403943",
+          "target_video_id": "29211514",
+          "permanent": false,
+          "attempted_at": "2026-09-08T10:59:20.869593+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34403943",
         "display_name": "Training Day (2001) 4K CZ Dabing",
         "planned_at": "2026-09-08T09:37:11.668977+00:00"
-      },
-      "claim": {
-        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-1",
-        "claimed_at": "2026-09-08T10:33:13.619910+00:00",
-        "lease_expires_at": "2026-09-08T16:33:13.619910+00:00",
-        "run_id": "34195718500"
       },
       "prepared": {
         "target_video_id": "29211514",
@@ -119395,5 +119397,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T10:54:29.161512+00:00"
+  "updated_at": "2026-09-08T10:59:20.869613+00:00"
 }
