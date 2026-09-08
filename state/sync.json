@@ -25573,6 +25573,12 @@
         "target_video_id": "29173370",
         "size_bytes": 7200000000,
         "prepared_at": "2026-09-06T23:16:21.974128+00:00"
+      },
+      "claim": {
+        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-0",
+        "claimed_at": "2026-09-08T18:54:17.691997+00:00",
+        "lease_expires_at": "2026-09-09T00:54:17.691997+00:00",
+        "run_id": "34256997132"
       }
     },
     "20999": {
@@ -70081,17 +70087,19 @@
       "attempts": []
     },
     "6904": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17633352",
+          "target_video_id": "29220787",
+          "permanent": false,
+          "attempted_at": "2026-09-08T18:54:18.427494+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17633352",
         "display_name": "Piráti odvedle (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-08T18:30:59.303020+00:00"
-      },
-      "claim": {
-        "worker_id": "244cff047e714387bf915f7d25ca85f2-shard-2",
-        "claimed_at": "2026-09-08T18:38:09.237770+00:00",
-        "lease_expires_at": "2026-09-09T00:38:09.237770+00:00",
-        "run_id": "34256997132"
       },
       "prepared": {
         "target_video_id": "29220787",
@@ -123686,5 +123694,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T18:54:15.291905+00:00"
+  "updated_at": "2026-09-08T18:54:18.427514+00:00"
 }
