@@ -24242,13 +24242,6 @@
           "source_id": "28552319",
           "target_video_id": "29174881",
           "permanent": false,
-          "attempted_at": "2026-09-08T05:21:28.801775+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28552319",
-          "target_video_id": "29174881",
-          "permanent": false,
           "attempted_at": "2026-09-08T05:52:26.489436+00:00"
         },
         {
@@ -24257,6 +24250,13 @@
           "target_video_id": "29174881",
           "permanent": false,
           "attempted_at": "2026-09-08T06:22:37.218403+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28552319",
+          "target_video_id": "29174881",
+          "permanent": false,
+          "attempted_at": "2026-09-08T06:52:54.035889+00:00"
         }
       ],
       "last_plan": {
@@ -24346,6 +24346,12 @@
         "target_video_id": "29174916",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-07T00:20:27.095531+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-5",
+        "claimed_at": "2026-09-08T06:52:51.833431+00:00",
+        "lease_expires_at": "2026-09-08T12:52:51.833431+00:00",
+        "run_id": "34195718500"
       }
     },
     "33160": {
@@ -24409,6 +24415,12 @@
         "target_video_id": "29174940",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-07T00:22:19.618941+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-4",
+        "claimed_at": "2026-09-08T06:52:51.676815+00:00",
+        "lease_expires_at": "2026-09-08T12:52:51.676815+00:00",
+        "run_id": "34195718500"
       }
     },
     "16614": {
@@ -59099,12 +59111,18 @@
       "last_plan": {
         "source_id": "25834193",
         "display_name": "Shoky & Morthy: Poslední velká akce (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-08T06:22:33.730471+00:00"
+        "planned_at": "2026-09-08T06:52:52.093814+00:00"
       },
       "prepared": {
         "target_video_id": "29180229",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-07T07:19:28.903505+00:00"
+      },
+      "claim": {
+        "worker_id": "577821d11c544ee79c18259d10ff1d88-shard-2",
+        "claimed_at": "2026-09-08T06:52:52.337321+00:00",
+        "lease_expires_at": "2026-09-08T12:52:52.337321+00:00",
+        "run_id": "34195718500"
       }
     },
     "33574": {
@@ -118181,5 +118199,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T06:52:49.508148+00:00"
+  "updated_at": "2026-09-08T06:52:54.035906+00:00"
 }
