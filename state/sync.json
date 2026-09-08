@@ -56045,14 +56045,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31626940",
-          "target_video_id": "29206853",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-08T15:50:12.256117+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31626940",
           "target_video_id": "29217796",
@@ -56066,18 +56058,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-08T17:04:52.558258+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31626940",
+          "target_video_id": "29219988",
+          "permanent": false,
+          "attempted_at": "2026-09-08T18:19:25.128851+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-08T18:08:24.675919+00:00"
-      },
-      "claim": {
-        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-2",
-        "claimed_at": "2026-09-08T18:09:51.973266+00:00",
-        "lease_expires_at": "2026-09-09T00:09:51.973266+00:00",
-        "run_id": "34227106454"
       },
       "prepared": {
         "target_video_id": "29219988",
@@ -65486,6 +65479,12 @@
         "target_video_id": "29218637",
         "size_bytes": 2295310531,
         "prepared_at": "2026-09-08T17:10:19.425040+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-5",
+        "claimed_at": "2026-09-08T18:19:24.434972+00:00",
+        "lease_expires_at": "2026-09-09T00:19:24.434972+00:00",
+        "run_id": "34227106454"
       }
     },
     "5057": {
@@ -123325,5 +123324,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T18:19:22.721329+00:00"
+  "updated_at": "2026-09-08T18:19:25.128870+00:00"
 }
