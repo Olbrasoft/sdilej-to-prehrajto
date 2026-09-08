@@ -54771,6 +54771,12 @@
         "target_video_id": "29137913",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T17:33:42.441521+00:00"
+      },
+      "claim": {
+        "worker_id": "30b760ad5e174f37835c5d94074fb442-shard-1",
+        "claimed_at": "2026-09-08T16:26:06.828820+00:00",
+        "lease_expires_at": "2026-09-08T22:26:06.828820+00:00",
+        "run_id": "34227106454"
       }
     },
     "12345": {
@@ -54911,13 +54917,6 @@
     "16604": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34941645",
-          "target_video_id": "29206615",
-          "permanent": false,
-          "attempted_at": "2026-09-08T07:03:58.495660+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34941645",
           "target_video_id": "29206615",
@@ -54931,17 +54930,20 @@
           "target_video_id": "29217039",
           "permanent": false,
           "attempted_at": "2026-09-08T15:53:34.021560+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34941645",
+          "target_video_id": "29217039",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T16:26:08.577071+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34941645",
         "display_name": "Gangster Ka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-08T16:25:44.521146+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29217039",
-        "size_bytes": 3005702481,
-        "prepared_at": "2026-09-08T15:44:34.648871+00:00"
       }
     },
     "17488": {
@@ -122455,5 +122457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T16:26:05.064700+00:00"
+  "updated_at": "2026-09-08T16:26:08.577089+00:00"
 }
