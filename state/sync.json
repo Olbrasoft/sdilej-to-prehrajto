@@ -58611,13 +58611,6 @@
     "5615": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31624572",
-          "target_video_id": "29203298",
-          "permanent": false,
-          "attempted_at": "2026-09-08T03:39:38.304403+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "31624572",
           "target_video_id": "29203298",
@@ -58631,17 +58624,20 @@
           "target_video_id": "29204273",
           "permanent": false,
           "attempted_at": "2026-09-08T04:47:04.826404+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31624572",
+          "target_video_id": "29204273",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-08T05:20:21.595588+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31624572",
         "display_name": "Bezva ženská na krku (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-08T05:19:07.877288+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29204273",
-        "size_bytes": 2045134629,
-        "prepared_at": "2026-09-08T04:40:01.682651+00:00"
       }
     },
     "14445": {
@@ -64106,6 +64102,12 @@
         "target_video_id": "29167687",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-06T18:23:50.224650+00:00"
+      },
+      "claim": {
+        "worker_id": "101b3566afca4dbab9db882cd12799aa-shard-3",
+        "claimed_at": "2026-09-08T05:20:19.081536+00:00",
+        "lease_expires_at": "2026-09-08T11:20:19.081536+00:00",
+        "run_id": "34187195670"
       }
     },
     "15665": {
@@ -64226,6 +64228,12 @@
         "target_video_id": "29183602",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-07T10:56:24.066699+00:00"
+      },
+      "claim": {
+        "worker_id": "101b3566afca4dbab9db882cd12799aa-shard-5",
+        "claimed_at": "2026-09-08T05:20:18.839857+00:00",
+        "lease_expires_at": "2026-09-08T11:20:18.839857+00:00",
+        "run_id": "34187195670"
       }
     },
     "36999": {
@@ -64930,6 +64938,12 @@
         "target_video_id": "29167695",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-06T18:24:58.311609+00:00"
+      },
+      "claim": {
+        "worker_id": "101b3566afca4dbab9db882cd12799aa-shard-4",
+        "claimed_at": "2026-09-08T05:20:19.201495+00:00",
+        "lease_expires_at": "2026-09-08T11:20:19.201495+00:00",
+        "run_id": "34187195670"
       }
     },
     "28555": {
@@ -64989,6 +65003,12 @@
         "target_video_id": "29167730",
         "size_bytes": 20400000000,
         "prepared_at": "2026-09-06T18:29:24.837720+00:00"
+      },
+      "claim": {
+        "worker_id": "101b3566afca4dbab9db882cd12799aa-shard-2",
+        "claimed_at": "2026-09-08T05:20:19.322399+00:00",
+        "lease_expires_at": "2026-09-08T11:20:19.322399+00:00",
+        "run_id": "34187195670"
       }
     },
     "20499": {
@@ -118132,5 +118152,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-08T05:20:17.172138+00:00"
+  "updated_at": "2026-09-08T05:20:21.595605+00:00"
 }
