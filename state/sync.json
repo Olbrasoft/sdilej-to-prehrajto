@@ -26486,13 +26486,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34933768",
-          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-09T14:02:55.083102+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34933768",
           "reason": "PrehrajtoError",
@@ -26506,17 +26499,20 @@
           "target_video_id": "29244802",
           "permanent": false,
           "attempted_at": "2026-09-09T15:20:48.108862+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34933768",
+          "target_video_id": "29244802",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:51:02.677704+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:16:46.660095+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29244802",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-09T15:17:04.229620+00:00"
+        "planned_at": "2026-09-09T15:50:59.072102+00:00"
       }
     },
     "31638": {
@@ -27402,12 +27398,18 @@
       "last_plan": {
         "source_id": "24916658",
         "display_name": "Dvanáct vánočních zastavení (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:20:39.957595+00:00"
+        "planned_at": "2026-09-09T15:50:59.230197+00:00"
       },
       "prepared": {
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T15:50:59.992960+00:00",
+        "lease_expires_at": "2026-09-09T21:50:59.992960+00:00",
+        "run_id": "34340286311"
       }
     },
     "1871": {
@@ -27566,12 +27568,18 @@
       "last_plan": {
         "source_id": "14853845",
         "display_name": "Lessie se vrací (1943) SD CZ Dabing",
-        "planned_at": "2026-09-09T15:20:56.308454+00:00"
+        "planned_at": "2026-09-09T15:50:59.389238+00:00"
       },
       "prepared": {
         "target_video_id": "29198848",
         "size_bytes": 895300000,
         "prepared_at": "2026-09-07T22:23:38.236879+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T15:51:00.246471+00:00",
+        "lease_expires_at": "2026-09-09T21:51:00.246471+00:00",
+        "run_id": "34340286311"
       }
     },
     "35276": {
@@ -128447,5 +128455,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:50:48.031281+00:00"
+  "updated_at": "2026-09-09T15:51:02.677720+00:00"
 }
