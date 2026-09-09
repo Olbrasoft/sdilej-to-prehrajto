@@ -80875,13 +80875,6 @@
           "source_id": "29411154",
           "reason": "Request failed for https://sdilej.cz/29411154/pod-kopyty-stad-1966-william-holden-janice-rule-richard-widmark-cz-dab..mkv",
           "permanent": false,
-          "attempted_at": "2026-09-09T13:06:47.107529+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "29411154",
-          "reason": "Request failed for https://sdilej.cz/29411154/pod-kopyty-stad-1966-william-holden-janice-rule-richard-widmark-cz-dab..mkv",
-          "permanent": false,
           "attempted_at": "2026-09-09T13:51:00.938366+00:00"
         },
         {
@@ -80890,6 +80883,13 @@
           "target_video_id": "29243691",
           "permanent": false,
           "attempted_at": "2026-09-09T14:27:22.090815+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29411154",
+          "target_video_id": "29243691",
+          "permanent": false,
+          "attempted_at": "2026-09-09T14:57:32.448551+00:00"
         }
       ],
       "last_plan": {
@@ -80899,14 +80899,8 @@
       },
       "prepared": {
         "target_video_id": "29243691",
-        "size_bytes": 2442941222,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-09T14:22:41.505280+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
-        "claimed_at": "2026-09-09T14:57:28.341816+00:00",
-        "lease_expires_at": "2026-09-09T20:57:28.341816+00:00",
-        "run_id": "34340286311"
       }
     },
     "36801": {
@@ -128472,5 +128466,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:57:30.688325+00:00"
+  "updated_at": "2026-09-09T14:57:32.448575+00:00"
 }
