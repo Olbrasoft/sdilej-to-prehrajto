@@ -30839,6 +30839,12 @@
         "target_video_id": "29213400",
         "size_bytes": 12200000000,
         "prepared_at": "2026-09-08T12:34:21.300435+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-1",
+        "claimed_at": "2026-09-09T05:02:37.189303+00:00",
+        "lease_expires_at": "2026-09-09T11:02:37.189303+00:00",
+        "run_id": "34311232195"
       }
     },
     "21186": {
@@ -30880,6 +30886,12 @@
         "target_video_id": "29213405",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T12:34:28.343392+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-4",
+        "claimed_at": "2026-09-09T05:02:37.407276+00:00",
+        "lease_expires_at": "2026-09-09T11:02:37.407276+00:00",
+        "run_id": "34311232195"
       }
     },
     "31147": {
@@ -30928,6 +30940,12 @@
         "target_video_id": "29213453",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-08T12:36:55.407238+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-3",
+        "claimed_at": "2026-09-09T05:02:37.513235+00:00",
+        "lease_expires_at": "2026-09-09T11:02:37.513235+00:00",
+        "run_id": "34311232195"
       }
     },
     "18118": {
@@ -30961,14 +30979,6 @@
           "source_id": "31064718",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29229049",
-          "attempted_at": "2026-09-09T01:50:23.127911+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31064718",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29230070",
           "attempted_at": "2026-09-09T02:50:09.668058+00:00"
         },
@@ -30979,6 +30989,13 @@
           "permanent": false,
           "target_video_id": "29232092",
           "attempted_at": "2026-09-09T04:13:50.885827+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31064718",
+          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T05:02:37.928313+00:00"
         }
       ],
       "last_plan": {
@@ -31408,6 +31425,12 @@
         "target_video_id": "29136430",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T19:25:12.220553+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-2",
+        "claimed_at": "2026-09-09T05:02:37.082065+00:00",
+        "lease_expires_at": "2026-09-09T11:02:37.082065+00:00",
+        "run_id": "34311232195"
       }
     },
     "27493": {
@@ -125793,5 +125816,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T05:02:35.281169+00:00"
+  "updated_at": "2026-09-09T05:02:37.928326+00:00"
 }
