@@ -33556,14 +33556,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29242785",
-          "attempted_at": "2026-09-09T13:45:12.115821+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32222414",
           "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv",
@@ -33577,18 +33569,19 @@
           "permanent": false,
           "target_video_id": "29244142",
           "attempted_at": "2026-09-09T15:03:47.656959+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32222414",
+          "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:34:47.462946+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-09T15:34:01.088249+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
-        "claimed_at": "2026-09-09T15:34:01.322365+00:00",
-        "lease_expires_at": "2026-09-09T21:34:01.322365+00:00",
-        "run_id": "34340286311"
       }
     },
     "2571": {
@@ -35654,12 +35647,18 @@
       "last_plan": {
         "source_id": "34253762",
         "display_name": "Život a smrt Petera Sellerse (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:04:37.001442+00:00"
+        "planned_at": "2026-09-09T15:34:45.526552+00:00"
       },
       "prepared": {
         "target_video_id": "29215910",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T14:48:37.859810+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
+        "claimed_at": "2026-09-09T15:34:46.320756+00:00",
+        "lease_expires_at": "2026-09-09T21:34:46.320756+00:00",
+        "run_id": "34340286311"
       }
     },
     "31093": {
@@ -35746,7 +35745,7 @@
       "last_plan": {
         "source_id": "25775847",
         "display_name": "Sněženky a machři (1982) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:04:37.141976+00:00"
+        "planned_at": "2026-09-09T15:34:45.720480+00:00"
       },
       "prepared": {
         "target_video_id": "29180133",
@@ -37494,7 +37493,7 @@
       "last_plan": {
         "source_id": "32962082",
         "display_name": "Vypečené zločiny: Zakázané ovoce (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:04:37.280115+00:00"
+        "planned_at": "2026-09-09T15:34:45.891822+00:00"
       },
       "prepared": {
         "target_video_id": "29171374",
@@ -92026,7 +92025,7 @@
       "last_plan": {
         "source_id": "6516668",
         "display_name": "Osudný svah v Aspenu (1993) SD CZ Dabing",
-        "planned_at": "2026-09-09T15:04:37.455093+00:00"
+        "planned_at": "2026-09-09T15:34:46.109564+00:00"
       },
       "prepared": {
         "target_video_id": "29242733",
@@ -128474,5 +128473,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:34:42.239452+00:00"
+  "updated_at": "2026-09-09T15:34:47.462964+00:00"
 }
