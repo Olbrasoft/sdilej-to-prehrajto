@@ -55883,13 +55883,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30104045",
-          "target_video_id": "29246109",
-          "permanent": false,
-          "attempted_at": "2026-09-09T16:19:08.346135+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30104045",
           "target_video_id": "29246109",
@@ -55903,17 +55896,20 @@
           "target_video_id": "29248113",
           "permanent": false,
           "attempted_at": "2026-09-09T17:35:49.106415+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30104045",
+          "target_video_id": "29248113",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T18:05:56.855707+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-09T17:19:51.580909+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29248113",
-        "size_bytes": 3220672907,
-        "prepared_at": "2026-09-09T17:21:37.943728+00:00"
+        "planned_at": "2026-09-09T18:05:54.188967+00:00"
       }
     },
     "16220": {
@@ -92033,7 +92029,7 @@
       "last_plan": {
         "source_id": "6516668",
         "display_name": "Osudný svah v Aspenu (1993) SD CZ Dabing",
-        "planned_at": "2026-09-09T17:26:20.126432+00:00"
+        "planned_at": "2026-09-09T18:05:54.335453+00:00"
       },
       "prepared": {
         "target_video_id": "29242733",
@@ -128481,5 +128477,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T18:03:46.950300+00:00"
+  "updated_at": "2026-09-09T18:05:56.855722+00:00"
 }
