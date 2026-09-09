@@ -13773,6 +13773,12 @@
         "target_video_id": "29254677",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-09T21:30:03.930117+00:00"
+      },
+      "claim": {
+        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-3",
+        "claimed_at": "2026-09-09T23:22:31.946010+00:00",
+        "lease_expires_at": "2026-09-10T05:22:31.946010+00:00",
+        "run_id": "34411990920"
       }
     },
     "1202": {
@@ -13825,6 +13831,12 @@
         "target_video_id": "29254713",
         "size_bytes": 6054933831,
         "prepared_at": "2026-09-09T21:32:07.856172+00:00"
+      },
+      "claim": {
+        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-1",
+        "claimed_at": "2026-09-09T23:22:32.066374+00:00",
+        "lease_expires_at": "2026-09-10T05:22:32.066374+00:00",
+        "run_id": "34411990920"
       }
     },
     "1253": {
@@ -37537,17 +37549,19 @@
       "attempts": []
     },
     "25639": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25837816",
+          "target_video_id": "29256878",
+          "permanent": false,
+          "attempted_at": "2026-09-09T23:22:32.213086+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25837816",
         "display_name": "Deset kánoí (2006) SD CZ Titulky",
         "planned_at": "2026-09-09T22:34:47.096995+00:00"
-      },
-      "claim": {
-        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-4",
-        "claimed_at": "2026-09-09T23:20:15.707299+00:00",
-        "lease_expires_at": "2026-09-10T05:20:15.707299+00:00",
-        "run_id": "34411990920"
       },
       "prepared": {
         "target_video_id": "29256878",
@@ -129586,5 +129600,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T23:22:30.320206+00:00"
+  "updated_at": "2026-09-09T23:22:32.213103+00:00"
 }
