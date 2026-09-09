@@ -34750,14 +34750,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29241692",
-          "attempted_at": "2026-09-09T12:53:02.152081+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28441201",
           "target_video_id": "29242790",
@@ -34771,18 +34763,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T14:07:22.684889+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28441201",
+          "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T14:38:11.986360+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-09T14:37:26.014008+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
-        "claimed_at": "2026-09-09T14:37:26.281807+00:00",
-        "lease_expires_at": "2026-09-09T20:37:26.281807+00:00",
-        "run_id": "34340286311"
       }
     },
     "19162": {
@@ -55905,7 +55898,13 @@
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-09T14:06:58.810828+00:00"
+        "planned_at": "2026-09-09T14:37:58.801111+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T14:37:59.395631+00:00",
+        "lease_expires_at": "2026-09-09T20:37:59.395631+00:00",
+        "run_id": "34340286311"
       }
     },
     "16220": {
@@ -61136,7 +61135,7 @@
       "last_plan": {
         "source_id": "33575963",
         "display_name": "To, co dýchám (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T14:07:43.959037+00:00"
+        "planned_at": "2026-09-09T14:37:58.946699+00:00"
       },
       "prepared": {
         "target_video_id": "29176547",
@@ -61368,7 +61367,7 @@
       "last_plan": {
         "source_id": "31820907",
         "display_name": "Říše drog (1991) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T14:07:44.099722+00:00"
+        "planned_at": "2026-09-09T14:37:59.078271+00:00"
       },
       "prepared": {
         "target_video_id": "29199525",
@@ -61506,7 +61505,7 @@
       "last_plan": {
         "source_id": "29133513",
         "display_name": "Zaříkávač koní (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T14:07:50.801175+00:00"
+        "planned_at": "2026-09-09T14:37:59.209099+00:00"
       },
       "prepared": {
         "target_video_id": "29199524",
@@ -128491,5 +128490,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:37:56.440211+00:00"
+  "updated_at": "2026-09-09T14:38:11.986381+00:00"
 }
