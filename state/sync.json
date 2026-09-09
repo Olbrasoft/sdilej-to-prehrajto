@@ -24961,6 +24961,12 @@
         "target_video_id": "29173980",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T23:37:43.994455+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T13:09:59.325946+00:00",
+        "lease_expires_at": "2026-09-09T19:09:59.325946+00:00",
+        "run_id": "34340286311"
       }
     },
     "2112": {
@@ -80503,18 +80509,19 @@
           "reason": "Request failed for https://sdilej.cz/32138633/venom-3-posledni-tanec-2024-cz-dabing-ultra-hd-2160p-4k.mkv",
           "permanent": false,
           "attempted_at": "2026-09-09T12:19:36.304791+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32138633",
+          "target_video_id": "29242142",
+          "permanent": false,
+          "attempted_at": "2026-09-09T13:09:59.609167+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32138633",
         "display_name": "Poslední tanec (2024) 4K CZ Dabing",
         "planned_at": "2026-09-09T12:56:58.277320+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T13:01:13.083619+00:00",
-        "lease_expires_at": "2026-09-09T19:01:13.083619+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29242142",
@@ -128138,5 +128145,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T13:09:57.537158+00:00"
+  "updated_at": "2026-09-09T13:09:59.609187+00:00"
 }
