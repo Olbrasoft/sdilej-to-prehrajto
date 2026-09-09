@@ -26500,13 +26500,6 @@
           "source_id": "34933768",
           "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-09T13:31:56.262229+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34933768",
-          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-09T14:02:55.083102+00:00"
         },
         {
@@ -26516,18 +26509,19 @@
           "permanent": false,
           "target_video_id": "29243877",
           "attempted_at": "2026-09-09T14:46:32.670799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34933768",
+          "target_video_id": "29244802",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:20:48.108862+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-09T15:16:46.660095+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
-        "claimed_at": "2026-09-09T15:16:56.699663+00:00",
-        "lease_expires_at": "2026-09-09T21:16:56.699663+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29244802",
@@ -128463,5 +128457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:20:44.438825+00:00"
+  "updated_at": "2026-09-09T15:20:48.108878+00:00"
 }
