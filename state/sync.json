@@ -73556,14 +73556,6 @@
     "3585": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32946455",
-          "target_video_id": "29235821",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T08:03:14.159478+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32946455",
           "target_video_id": "29237188",
@@ -73577,18 +73569,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T11:13:58.647634+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32946455",
+          "target_video_id": "29240930",
+          "permanent": false,
+          "attempted_at": "2026-09-09T12:15:22.492806+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32946455",
         "display_name": "Fénické spiknutí (2025) 4K CZ Dabing",
         "planned_at": "2026-09-09T11:56:37.245614+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
-        "claimed_at": "2026-09-09T11:58:54.181095+00:00",
-        "lease_expires_at": "2026-09-09T17:58:54.181095+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29240930",
@@ -78971,6 +78964,12 @@
         "source_id": "31536198",
         "display_name": "Panda a já (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-09T12:03:30.825550+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
+        "claimed_at": "2026-09-09T12:15:21.970035+00:00",
+        "lease_expires_at": "2026-09-09T18:15:21.970035+00:00",
+        "run_id": "34340286311"
       }
     },
     "14177": {
@@ -128159,5 +128158,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T12:15:20.265463+00:00"
+  "updated_at": "2026-09-09T12:15:22.492823+00:00"
 }
