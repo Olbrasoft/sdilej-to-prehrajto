@@ -90836,14 +90836,6 @@
     "23717": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34751728",
-          "target_video_id": "29244493",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T15:44:05.413300+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34751728",
           "reason": "Request failed for https://sdilej.cz/34751728/hustler-white-1996-cz-titulky.mp4",
@@ -90856,17 +90848,20 @@
           "target_video_id": "29247136",
           "permanent": false,
           "attempted_at": "2026-09-09T17:08:03.282156+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34751728",
+          "target_video_id": "29247136",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T17:38:15.891493+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34751728",
         "display_name": "Hustler White (1996) 1080p CZ Titulky",
-        "planned_at": "2026-09-09T16:45:13.508821+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29247136",
-        "size_bytes": 4964022046,
-        "prepared_at": "2026-09-09T16:45:22.564582+00:00"
+        "planned_at": "2026-09-09T17:38:12.850925+00:00"
       }
     },
     "27019": {
@@ -128472,5 +128467,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T17:38:04.361636+00:00"
+  "updated_at": "2026-09-09T17:38:15.891512+00:00"
 }
