@@ -17771,13 +17771,6 @@
           "source_id": "32497639",
           "target_video_id": "29128168",
           "permanent": false,
-          "attempted_at": "2026-09-09T07:46:21.593580+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32497639",
-          "target_video_id": "29128168",
-          "permanent": false,
           "attempted_at": "2026-09-09T08:28:26.588551+00:00"
         },
         {
@@ -17786,6 +17779,13 @@
           "target_video_id": "29128168",
           "permanent": false,
           "attempted_at": "2026-09-09T10:45:34.979055+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32497639",
+          "target_video_id": "29128168",
+          "permanent": false,
+          "attempted_at": "2026-09-09T11:44:02.363900+00:00"
         }
       ],
       "last_plan": {
@@ -19355,6 +19355,12 @@
         "target_video_id": "29161092",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-06T12:31:01.918341+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
+        "claimed_at": "2026-09-09T11:44:00.344142+00:00",
+        "lease_expires_at": "2026-09-09T17:44:00.344142+00:00",
+        "run_id": "34340286311"
       }
     },
     "1693": {
@@ -19430,6 +19436,12 @@
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-09T11:40:00.110543+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
+        "claimed_at": "2026-09-09T11:44:00.196595+00:00",
+        "lease_expires_at": "2026-09-09T17:44:00.196595+00:00",
+        "run_id": "34340286311"
       }
     },
     "1814": {
@@ -21464,6 +21476,12 @@
         "target_video_id": "29153323",
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T11:44:00.493617+00:00",
+        "lease_expires_at": "2026-09-09T17:44:00.493617+00:00",
+        "run_id": "34340286311"
       }
     },
     "29761": {
@@ -127961,5 +127979,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T11:43:56.005501+00:00"
+  "updated_at": "2026-09-09T11:44:02.363916+00:00"
 }
