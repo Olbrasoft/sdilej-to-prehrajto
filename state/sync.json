@@ -5555,13 +5555,6 @@
           "source_id": "12889255",
           "target_video_id": "29179268",
           "permanent": false,
-          "attempted_at": "2026-09-09T13:46:34.196676+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12889255",
-          "target_video_id": "29179268",
-          "permanent": false,
           "attempted_at": "2026-09-09T14:16:43.077733+00:00"
         },
         {
@@ -5570,6 +5563,13 @@
           "target_video_id": "29179268",
           "permanent": false,
           "attempted_at": "2026-09-09T14:46:55.298081+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12889255",
+          "target_video_id": "29179268",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:17:08.430233+00:00"
         }
       ],
       "last_plan": {
@@ -5879,6 +5879,12 @@
         "target_video_id": "29196549",
         "size_bytes": 42900000000,
         "prepared_at": "2026-09-07T20:17:35.671910+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T15:17:06.352597+00:00",
+        "lease_expires_at": "2026-09-09T21:17:06.352597+00:00",
+        "run_id": "34340286311"
       }
     },
     "32992": {
@@ -5987,12 +5993,18 @@
       "last_plan": {
         "source_id": "18595816",
         "display_name": "Manon od pramene (1986) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T14:46:53.471071+00:00"
+        "planned_at": "2026-09-09T15:17:06.501952+00:00"
       },
       "prepared": {
         "target_video_id": "29203262",
         "size_bytes": 13100000000,
         "prepared_at": "2026-09-08T03:30:17.562857+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T15:17:06.919031+00:00",
+        "lease_expires_at": "2026-09-09T21:17:06.919031+00:00",
+        "run_id": "34340286311"
       }
     },
     "388": {
@@ -6058,7 +6070,7 @@
       "last_plan": {
         "source_id": "27112677",
         "display_name": "Strážci Galaxie: Volume 3 (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-09T14:46:59.830211+00:00"
+        "planned_at": "2026-09-09T15:17:06.646038+00:00"
       },
       "prepared": {
         "target_video_id": "29195641",
@@ -128464,5 +128476,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:17:04.229641+00:00"
+  "updated_at": "2026-09-09T15:17:08.430249+00:00"
 }
