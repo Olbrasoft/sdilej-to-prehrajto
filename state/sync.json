@@ -33183,6 +33183,12 @@
         "target_video_id": "29142078",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T21:10:28.377542+00:00"
+      },
+      "claim": {
+        "worker_id": "0ded279b39ed4821945297a9d14cda51-shard-4",
+        "claimed_at": "2026-09-09T01:31:33.733714+00:00",
+        "lease_expires_at": "2026-09-09T07:31:33.733714+00:00",
+        "run_id": "34285703698"
       }
     },
     "2525": {
@@ -83673,17 +83679,19 @@
       "attempts": []
     },
     "31676": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25770950",
+          "target_video_id": "29228771",
+          "permanent": false,
+          "attempted_at": "2026-09-09T01:31:33.887039+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25770950",
         "display_name": "Eskorta (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-09T00:32:14.173846+00:00"
-      },
-      "claim": {
-        "worker_id": "0ded279b39ed4821945297a9d14cda51-shard-3",
-        "claimed_at": "2026-09-09T01:14:37.682217+00:00",
-        "lease_expires_at": "2026-09-09T07:14:37.682217+00:00",
-        "run_id": "34285703698"
       },
       "prepared": {
         "target_video_id": "29228771",
@@ -124825,5 +124833,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T01:31:32.049701+00:00"
+  "updated_at": "2026-09-09T01:31:33.887057+00:00"
 }
