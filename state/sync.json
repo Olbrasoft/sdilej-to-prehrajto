@@ -56230,14 +56230,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31626940",
-          "target_video_id": "29233573",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T07:00:38.976022+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31626940",
           "reason": "PrehrajtoError",
@@ -56252,18 +56244,19 @@
           "permanent": false,
           "target_video_id": "29237067",
           "attempted_at": "2026-09-09T08:51:44.823566+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31626940",
+          "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T11:11:51.844415+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-09T11:10:55.157295+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
-        "claimed_at": "2026-09-09T11:11:04.305567+00:00",
-        "lease_expires_at": "2026-09-09T17:11:04.305567+00:00",
-        "run_id": "34340286311"
       }
     },
     "33003": {
@@ -63694,6 +63687,12 @@
         "target_video_id": "29182161",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-07T09:03:47.551081+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T11:11:51.534767+00:00",
+        "lease_expires_at": "2026-09-09T17:11:51.534767+00:00",
+        "run_id": "34340286311"
       }
     },
     "3714": {
@@ -64712,6 +64711,12 @@
         "target_video_id": "29218008",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-08T16:38:45.738122+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T11:11:51.693230+00:00",
+        "lease_expires_at": "2026-09-09T17:11:51.693230+00:00",
+        "run_id": "34340286311"
       }
     },
     "31087": {
@@ -127502,5 +127507,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T11:11:49.517926+00:00"
+  "updated_at": "2026-09-09T11:11:51.844433+00:00"
 }
