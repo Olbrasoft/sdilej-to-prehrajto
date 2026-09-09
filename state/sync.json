@@ -17576,7 +17576,7 @@
       "last_plan": {
         "source_id": "33854170",
         "display_name": "Bohové musejí být šílení (1980) 4K CZ Dabing",
-        "planned_at": "2026-09-09T15:19:23.062651+00:00"
+        "planned_at": "2026-09-09T15:49:47.020907+00:00"
       },
       "prepared": {
         "target_video_id": "29128110",
@@ -17738,7 +17738,7 @@
       "last_plan": {
         "source_id": "33747143",
         "display_name": "Žít a zemřít v L. A. (1985) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:19:23.227561+00:00"
+        "planned_at": "2026-09-09T15:49:47.204914+00:00"
       },
       "prepared": {
         "target_video_id": "29161230",
@@ -17791,7 +17791,7 @@
       "last_plan": {
         "source_id": "32497639",
         "display_name": "Co s Péťou? (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:19:35.533135+00:00"
+        "planned_at": "2026-09-09T15:49:47.362277+00:00"
       },
       "prepared": {
         "target_video_id": "29128168",
@@ -69279,13 +69279,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34876843",
-          "target_video_id": "29242903",
-          "permanent": false,
-          "attempted_at": "2026-09-09T13:46:59.478967+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34876843",
           "target_video_id": "29242903",
@@ -69300,23 +69293,20 @@
           "permanent": false,
           "target_video_id": "29244166",
           "attempted_at": "2026-09-09T15:05:08.326298+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29245220",
+          "attempted_at": "2026-09-09T15:49:47.540283+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-09T15:35:29.750734+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
-        "claimed_at": "2026-09-09T15:35:38.679099+00:00",
-        "lease_expires_at": "2026-09-09T21:35:38.679099+00:00",
-        "run_id": "34340286311"
-      },
-      "prepared": {
-        "target_video_id": "29245220",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-09T15:35:47.885585+00:00"
       }
     },
     "32120": {
@@ -128446,5 +128436,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:49:36.661730+00:00"
+  "updated_at": "2026-09-09T15:49:47.540302+00:00"
 }
