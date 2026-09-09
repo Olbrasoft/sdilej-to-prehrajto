@@ -19406,13 +19406,6 @@
           "source_id": "32908053",
           "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-09T12:33:49.094561+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32908053",
-          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-09T13:10:34.154428+00:00"
         },
         {
@@ -19422,23 +19415,20 @@
           "permanent": false,
           "target_video_id": "29243009",
           "attempted_at": "2026-09-09T13:54:27.154506+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32908053",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29243755",
+          "attempted_at": "2026-09-09T14:40:46.070230+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-09T14:26:46.480404+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T14:26:47.176019+00:00",
-        "lease_expires_at": "2026-09-09T20:26:47.176019+00:00",
-        "run_id": "34340286311"
-      },
-      "prepared": {
-        "target_video_id": "29243755",
-        "size_bytes": 6447191434,
-        "prepared_at": "2026-09-09T14:26:50.806066+00:00"
       }
     },
     "1814": {
@@ -128494,5 +128484,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:40:33.320060+00:00"
+  "updated_at": "2026-09-09T14:40:46.070246+00:00"
 }
