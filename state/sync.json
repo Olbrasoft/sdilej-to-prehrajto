@@ -79021,12 +79021,18 @@
       "last_plan": {
         "source_id": "31536198",
         "display_name": "Panda a já (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T13:48:12.920241+00:00"
+        "planned_at": "2026-09-09T14:27:20.808079+00:00"
       },
       "prepared": {
         "target_video_id": "29243051",
         "size_bytes": 3662827005,
         "prepared_at": "2026-09-09T13:49:51.710944+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T14:27:21.015812+00:00",
+        "lease_expires_at": "2026-09-09T20:27:21.015812+00:00",
+        "run_id": "34340286311"
       }
     },
     "14177": {
@@ -80900,13 +80906,6 @@
           "source_id": "29411154",
           "reason": "Request failed for https://sdilej.cz/29411154/pod-kopyty-stad-1966-william-holden-janice-rule-richard-widmark-cz-dab..mkv",
           "permanent": false,
-          "attempted_at": "2026-09-09T11:35:17.060330+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "29411154",
-          "reason": "Request failed for https://sdilej.cz/29411154/pod-kopyty-stad-1966-william-holden-janice-rule-richard-widmark-cz-dab..mkv",
-          "permanent": false,
           "attempted_at": "2026-09-09T13:06:47.107529+00:00"
         },
         {
@@ -80915,18 +80914,19 @@
           "reason": "Request failed for https://sdilej.cz/29411154/pod-kopyty-stad-1966-william-holden-janice-rule-richard-widmark-cz-dab..mkv",
           "permanent": false,
           "attempted_at": "2026-09-09T13:51:00.938366+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29411154",
+          "target_video_id": "29243691",
+          "permanent": false,
+          "attempted_at": "2026-09-09T14:27:22.090815+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29411154",
         "display_name": "Pod kopyty stád (1966) 1080p CZ Dabing",
         "planned_at": "2026-09-09T14:22:12.433787+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
-        "claimed_at": "2026-09-09T14:22:38.567885+00:00",
-        "lease_expires_at": "2026-09-09T20:22:38.567885+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29243691",
@@ -128474,5 +128474,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:27:02.853557+00:00"
+  "updated_at": "2026-09-09T14:27:22.090837+00:00"
 }
