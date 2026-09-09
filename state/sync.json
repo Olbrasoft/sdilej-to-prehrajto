@@ -1352,13 +1352,6 @@
           "source_id": "18471418",
           "target_video_id": "28927315",
           "permanent": false,
-          "attempted_at": "2026-09-09T14:08:32.458718+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18471418",
-          "target_video_id": "28927315",
-          "permanent": false,
           "attempted_at": "2026-09-09T14:38:50.590038+00:00"
         },
         {
@@ -1367,12 +1360,19 @@
           "target_video_id": "28927315",
           "permanent": false,
           "attempted_at": "2026-09-09T15:09:02.315727+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18471418",
+          "target_video_id": "28927315",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:39:05.574042+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18471418",
         "display_name": "Old Boy (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:08:59.496855+00:00"
+        "planned_at": "2026-09-09T15:39:03.100818+00:00"
       },
       "prepared": {
         "target_video_id": "28927315",
@@ -61753,12 +61753,18 @@
       "last_plan": {
         "source_id": "25275828",
         "display_name": "Sólista (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:08:43.058313+00:00"
+        "planned_at": "2026-09-09T15:39:03.283950+00:00"
       },
       "prepared": {
         "target_video_id": "29199678",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T23:21:27.589014+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T15:39:03.767752+00:00",
+        "lease_expires_at": "2026-09-09T21:39:03.767752+00:00",
+        "run_id": "34340286311"
       }
     },
     "17581": {
@@ -62602,12 +62608,18 @@
       "last_plan": {
         "source_id": "34026417",
         "display_name": "Pomocnice (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-09T15:08:43.190163+00:00"
+        "planned_at": "2026-09-09T15:39:03.425386+00:00"
       },
       "prepared": {
         "target_video_id": "29198921",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-07T22:31:41.821310+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T15:39:03.910439+00:00",
+        "lease_expires_at": "2026-09-09T21:39:03.910439+00:00",
+        "run_id": "34340286311"
       }
     },
     "24797": {
@@ -128461,5 +128473,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:38:49.744813+00:00"
+  "updated_at": "2026-09-09T15:39:05.574057+00:00"
 }
