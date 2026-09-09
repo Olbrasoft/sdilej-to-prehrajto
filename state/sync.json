@@ -26497,14 +26497,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34933768",
-          "target_video_id": "29226992",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T00:17:54.991325+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34933768",
           "target_video_id": "29229037",
@@ -26518,18 +26510,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T02:13:07.728763+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34933768",
+          "target_video_id": "29232070",
+          "permanent": false,
+          "attempted_at": "2026-09-09T04:05:11.392838+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-09T03:58:03.845020+00:00"
-      },
-      "claim": {
-        "worker_id": "0ded279b39ed4821945297a9d14cda51-shard-4",
-        "claimed_at": "2026-09-09T03:58:43.435309+00:00",
-        "lease_expires_at": "2026-09-09T09:58:43.435309+00:00",
-        "run_id": "34285703698"
       },
       "prepared": {
         "target_video_id": "29232070",
@@ -47680,6 +47673,12 @@
         "target_video_id": "29139998",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T18:27:16.283405+00:00"
+      },
+      "claim": {
+        "worker_id": "0ded279b39ed4821945297a9d14cda51-shard-1",
+        "claimed_at": "2026-09-09T04:05:09.802460+00:00",
+        "lease_expires_at": "2026-09-09T10:05:09.802460+00:00",
+        "run_id": "34285703698"
       }
     },
     "37508": {
@@ -125637,5 +125636,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T04:05:08.175503+00:00"
+  "updated_at": "2026-09-09T04:05:11.392858+00:00"
 }
