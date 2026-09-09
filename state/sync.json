@@ -47368,6 +47368,12 @@
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-09T13:31:06.241749+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
+        "claimed_at": "2026-09-09T13:35:02.677798+00:00",
+        "lease_expires_at": "2026-09-09T19:35:02.677798+00:00",
+        "run_id": "34340286311"
       }
     },
     "32933": {
@@ -91723,17 +91729,19 @@
       "attempts": []
     },
     "12376": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34466734",
+          "target_video_id": "29242620",
+          "permanent": false,
+          "attempted_at": "2026-09-09T13:35:12.483676+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34466734",
         "display_name": "Herkules a Xena Bitva o Olymp (1998) 1080p CZ Dabing",
         "planned_at": "2026-09-09T13:12:15.177627+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
-        "claimed_at": "2026-09-09T13:22:42.902242+00:00",
-        "lease_expires_at": "2026-09-09T19:22:42.902242+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29242620",
@@ -128360,5 +128368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T13:35:00.747439+00:00"
+  "updated_at": "2026-09-09T13:35:12.483692+00:00"
 }
