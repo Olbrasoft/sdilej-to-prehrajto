@@ -91639,17 +91639,19 @@
       "attempts": []
     },
     "33545": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34781071",
+          "reason": "Request failed for https://sdilej.cz/34781071/cropsey-2009-.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-09T13:22:40.284824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34781071",
         "display_name": "Cropsey (2009) 720p CZ Titulky",
         "planned_at": "2026-09-09T13:12:14.883514+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
-        "claimed_at": "2026-09-09T13:21:54.640361+00:00",
-        "lease_expires_at": "2026-09-09T19:21:54.640361+00:00",
-        "run_id": "34340286311"
       }
     },
     "11604": {
@@ -128251,5 +128253,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T13:22:03.667526+00:00"
+  "updated_at": "2026-09-09T13:22:40.284841+00:00"
 }
