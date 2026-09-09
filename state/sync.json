@@ -29209,6 +29209,12 @@
         "target_video_id": "29179786",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T06:45:23.104183+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T13:48:31.319718+00:00",
+        "lease_expires_at": "2026-09-09T19:48:31.319718+00:00",
+        "run_id": "34340286311"
       }
     },
     "2399": {
@@ -29563,6 +29569,12 @@
         "target_video_id": "29204451",
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-08T04:57:53.039599+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
+        "claimed_at": "2026-09-09T13:48:31.818605+00:00",
+        "lease_expires_at": "2026-09-09T19:48:31.818605+00:00",
+        "run_id": "34340286311"
       }
     },
     "27924": {
@@ -29601,6 +29613,12 @@
         "target_video_id": "29158387",
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-06T10:38:30.131424+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
+        "claimed_at": "2026-09-09T13:48:31.636720+00:00",
+        "lease_expires_at": "2026-09-09T19:48:31.636720+00:00",
+        "run_id": "34340286311"
       }
     },
     "2305": {
@@ -29672,6 +29690,12 @@
         "target_video_id": "29204469",
         "size_bytes": 14500000000,
         "prepared_at": "2026-09-08T04:59:41.132927+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T13:48:31.481077+00:00",
+        "lease_expires_at": "2026-09-09T19:48:31.481077+00:00",
+        "run_id": "34340286311"
       }
     },
     "22635": {
@@ -73683,14 +73707,6 @@
     "3740": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "17515039",
-          "target_video_id": "29237187",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T11:13:56.829072+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "17515039",
           "target_video_id": "29240938",
@@ -73704,18 +73720,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T12:55:58.611235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17515039",
+          "target_video_id": "29242977",
+          "permanent": false,
+          "attempted_at": "2026-09-09T13:48:31.996682+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17515039",
         "display_name": "Ulice strachu – 3. část: 1666 (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-09T13:38:07.503963+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T13:45:29.515293+00:00",
-        "lease_expires_at": "2026-09-09T19:45:29.515293+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29242977",
@@ -128349,5 +128366,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T13:48:29.782382+00:00"
+  "updated_at": "2026-09-09T13:48:31.996703+00:00"
 }
