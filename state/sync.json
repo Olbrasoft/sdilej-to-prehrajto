@@ -26503,13 +26503,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34933768",
-          "target_video_id": "29229037",
-          "permanent": false,
-          "attempted_at": "2026-09-09T01:38:42.756309+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34933768",
           "target_video_id": "29229037",
@@ -26523,23 +26516,20 @@
           "target_video_id": "29232070",
           "permanent": false,
           "attempted_at": "2026-09-09T04:05:11.392838+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34933768",
+          "target_video_id": "29232070",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T05:02:07.074808+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-09T05:01:18.982793+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29232070",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-09T03:58:48.585104+00:00"
-      },
-      "claim": {
-        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-3",
-        "claimed_at": "2026-09-09T05:01:59.495681+00:00",
-        "lease_expires_at": "2026-09-09T11:01:59.495681+00:00",
-        "run_id": "34311232195"
       }
     },
     "31638": {
@@ -27431,6 +27421,12 @@
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-4",
+        "claimed_at": "2026-09-09T05:02:06.967691+00:00",
+        "lease_expires_at": "2026-09-09T11:02:06.967691+00:00",
+        "run_id": "34311232195"
       }
     },
     "1871": {
@@ -27595,6 +27591,12 @@
         "target_video_id": "29198848",
         "size_bytes": 895300000,
         "prepared_at": "2026-09-07T22:23:38.236879+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-0",
+        "claimed_at": "2026-09-09T05:02:06.859959+00:00",
+        "lease_expires_at": "2026-09-09T11:02:06.859959+00:00",
+        "run_id": "34311232195"
       }
     },
     "35276": {
@@ -125809,5 +125811,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T05:02:05.179376+00:00"
+  "updated_at": "2026-09-09T05:02:07.074828+00:00"
 }
