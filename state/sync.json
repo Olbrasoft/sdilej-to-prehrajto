@@ -30949,14 +30949,6 @@
           "source_id": "31064718",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29236230",
-          "attempted_at": "2026-09-09T07:44:43.293706+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31064718",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29236895",
           "attempted_at": "2026-09-09T08:40:15.235926+00:00"
         },
@@ -30967,18 +30959,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T10:51:50.474176+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31064718",
+          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T11:47:50.157445+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-09T11:44:27.595347+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T11:46:56.951060+00:00",
-        "lease_expires_at": "2026-09-09T17:46:56.951060+00:00",
-        "run_id": "34340286311"
       }
     },
     "14755": {
@@ -33541,6 +33534,12 @@
         "target_video_id": "29239927",
         "size_bytes": 5450933884,
         "prepared_at": "2026-09-09T10:52:03.253320+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T11:47:49.630400+00:00",
+        "lease_expires_at": "2026-09-09T17:47:49.630400+00:00",
+        "run_id": "34340286311"
       }
     },
     "2531": {
@@ -33568,6 +33567,12 @@
         "target_video_id": "29239930",
         "size_bytes": 4677714461,
         "prepared_at": "2026-09-09T10:52:08.452090+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
+        "claimed_at": "2026-09-09T11:47:49.763288+00:00",
+        "lease_expires_at": "2026-09-09T17:47:49.763288+00:00",
+        "run_id": "34340286311"
       }
     },
     "2571": {
@@ -33610,6 +33615,12 @@
         "target_video_id": "29239928",
         "size_bytes": 2301901546,
         "prepared_at": "2026-09-09T10:52:05.038670+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
+        "claimed_at": "2026-09-09T11:47:50.023880+00:00",
+        "lease_expires_at": "2026-09-09T17:47:50.023880+00:00",
+        "run_id": "34340286311"
       }
     },
     "2648": {
@@ -33637,6 +33648,12 @@
         "target_video_id": "29239926",
         "size_bytes": 5775536116,
         "prepared_at": "2026-09-09T10:52:01.467399+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T11:47:49.891514+00:00",
+        "lease_expires_at": "2026-09-09T17:47:49.891514+00:00",
+        "run_id": "34340286311"
       }
     },
     "2561": {
@@ -127977,5 +127994,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T11:47:47.963199+00:00"
+  "updated_at": "2026-09-09T11:47:50.157463+00:00"
 }
