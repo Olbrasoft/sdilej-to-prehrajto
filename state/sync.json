@@ -14235,13 +14235,6 @@
           "source_id": "30039193",
           "target_video_id": "29118434",
           "permanent": false,
-          "attempted_at": "2026-09-09T15:18:00.677755+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30039193",
-          "target_video_id": "29118434",
-          "permanent": false,
           "attempted_at": "2026-09-09T15:48:09.120967+00:00"
         },
         {
@@ -14250,6 +14243,13 @@
           "target_video_id": "29118434",
           "permanent": false,
           "attempted_at": "2026-09-09T16:18:33.003375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30039193",
+          "target_video_id": "29118434",
+          "permanent": false,
+          "attempted_at": "2026-09-09T16:48:48.644743+00:00"
         }
       ],
       "last_plan": {
@@ -14299,6 +14299,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "e29f820585794c2da87c58882ad2f5ae-shard-5",
+        "claimed_at": "2026-09-09T16:48:46.149832+00:00",
+        "lease_expires_at": "2026-09-09T22:48:46.149832+00:00",
+        "run_id": "34377002869"
       }
     },
     "22983": {
@@ -16280,12 +16286,18 @@
       "last_plan": {
         "source_id": "32970502",
         "display_name": "Nouzový východ (2008) 4K CZ Dabing",
-        "planned_at": "2026-09-09T16:18:35.174824+00:00"
+        "planned_at": "2026-09-09T16:48:46.327739+00:00"
       },
       "prepared": {
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
+      },
+      "claim": {
+        "worker_id": "e29f820585794c2da87c58882ad2f5ae-shard-3",
+        "claimed_at": "2026-09-09T16:48:46.619521+00:00",
+        "lease_expires_at": "2026-09-09T22:48:46.619521+00:00",
+        "run_id": "34377002869"
       }
     },
     "24202": {
@@ -16578,7 +16590,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Zrůda (2003) 4K CZ Dabing",
-        "planned_at": "2026-09-09T16:18:35.314278+00:00"
+        "planned_at": "2026-09-09T16:48:46.445051+00:00"
       },
       "prepared": {
         "target_video_id": "29125921",
@@ -128450,5 +128462,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T16:48:43.831023+00:00"
+  "updated_at": "2026-09-09T16:48:48.644762+00:00"
 }
