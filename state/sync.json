@@ -26486,14 +26486,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34933768",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29243877",
-          "attempted_at": "2026-09-09T14:46:32.670799+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34933768",
           "target_video_id": "29244802",
@@ -26507,23 +26499,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T15:51:02.677704+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29246396",
+          "attempted_at": "2026-09-09T16:30:11.143329+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-09T16:21:24.910529+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T16:21:31.327163+00:00",
-        "lease_expires_at": "2026-09-09T22:21:31.327163+00:00",
-        "run_id": "34340286311"
-      },
-      "prepared": {
-        "target_video_id": "29246396",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-09T16:21:35.904626+00:00"
       }
     },
     "31638": {
@@ -56306,7 +56295,13 @@
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:50:02.640867+00:00"
+        "planned_at": "2026-09-09T16:29:57.851114+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
+        "claimed_at": "2026-09-09T16:29:58.065646+00:00",
+        "lease_expires_at": "2026-09-09T22:29:58.065646+00:00",
+        "run_id": "34340286311"
       }
     },
     "33003": {
@@ -128435,5 +128430,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T16:28:50.462863+00:00"
+  "updated_at": "2026-09-09T16:30:11.143346+00:00"
 }
