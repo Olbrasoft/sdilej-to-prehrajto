@@ -74471,6 +74471,12 @@
         "target_video_id": "29233196",
         "size_bytes": 4762687261,
         "prepared_at": "2026-09-09T04:47:12.046514+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-2",
+        "claimed_at": "2026-09-09T05:13:47.535198+00:00",
+        "lease_expires_at": "2026-09-09T11:13:47.535198+00:00",
+        "run_id": "34311232195"
       }
     },
     "3942": {
@@ -74526,6 +74532,12 @@
         "target_video_id": "29233399",
         "size_bytes": 5245995554,
         "prepared_at": "2026-09-09T04:56:36.040063+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-3",
+        "claimed_at": "2026-09-09T05:13:47.751526+00:00",
+        "lease_expires_at": "2026-09-09T11:13:47.751526+00:00",
+        "run_id": "34311232195"
       }
     },
     "4006": {
@@ -74682,7 +74694,15 @@
       }
     },
     "14603": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34194881",
+          "target_video_id": "29233435",
+          "permanent": false,
+          "attempted_at": "2026-09-09T05:13:51.016964+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34194881",
         "display_name": "Americká děvčata: Odvážná Chrissa (2009) 720p CZ Dabing",
@@ -74690,7 +74710,7 @@
       },
       "prepared": {
         "target_video_id": "29233435",
-        "size_bytes": 2720044213,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-09T04:58:18.162955+00:00"
       }
     },
@@ -125959,5 +125979,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T05:13:45.924115+00:00"
+  "updated_at": "2026-09-09T05:13:51.016979+00:00"
 }
