@@ -162,8 +162,20 @@ def parse_detail_html(html_text: str, candidate: Candidate) -> Candidate:
         None,
     )
     if not fast_link:
-        raise PremiumRequiredError(
-            "Authenticated fast download link is unavailable; premium login is required"
+        # A missing file or an unexpected response is not evidence that the
+        # entire account lost its entitlement. Only an explicit purchase
+        # button should stop all source workers.
+        premium_required = any(
+            " ".join(anchor.stripped_strings).casefold() == "stáhnout rychle"
+            and urllib.parse.urlparse(anchor.get("href", "")).path.rstrip("/") == "/cenik"
+            for anchor in soup.select("a[href]")
+        )
+        if premium_required:
+            raise PremiumRequiredError(
+                "Authenticated fast download link is unavailable; premium login is required"
+            )
+        raise SdilejError(
+            f"Source detail has no authenticated download link; source_id={candidate.source_id}"
         )
     player_match = PLAYER_URL_RE.search(html.unescape(html_text))
     # Some downloadable originals have no browser-player rendition. Sample

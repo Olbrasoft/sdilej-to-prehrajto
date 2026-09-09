@@ -94,6 +94,14 @@ def test_detail_without_player_samples_authenticated_original() -> None:
     assert result.sample_url == "https://data8.sdilej.cz/sdilej_profi.php?id=1&session=test"
 
 
+@pytest.mark.parametrize("detail", ["<h1>File unavailable</h1>", "<h1>Checking your browser</h1>", "<h1>Film.mkv</h1>"])
+def test_missing_download_does_not_imply_account_wide_premium_failure(detail):
+    candidate = Candidate("1", "https://sdilej.cz/1/film.mkv", "Film")
+    with pytest.raises(SdilejError, match="source_id=1") as error:
+        parse_detail_html(detail, candidate)
+    assert not isinstance(error.value, PremiumRequiredError)
+
+
 class FakeResponse:
     def __init__(self, text: str):
         self.text = text
