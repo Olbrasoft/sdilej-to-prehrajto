@@ -39449,14 +39449,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "27436084",
-          "target_video_id": "29233543",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T06:54:45.573166+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27436084",
           "reason": "PrehrajtoError",
@@ -39471,18 +39463,19 @@
           "permanent": false,
           "target_video_id": "29236930",
           "attempted_at": "2026-09-09T08:40:01.724245+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27436084",
+          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-09T11:10:00.256238+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-09T10:51:38.684968+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
-        "claimed_at": "2026-09-09T11:09:14.687885+00:00",
-        "lease_expires_at": "2026-09-09T17:09:14.687885+00:00",
-        "run_id": "34340286311"
       }
     },
     "32220": {
@@ -47282,6 +47275,12 @@
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-09T10:51:39.874413+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
+        "claimed_at": "2026-09-09T11:09:56.148387+00:00",
+        "lease_expires_at": "2026-09-09T17:09:56.148387+00:00",
+        "run_id": "34340286311"
       }
     },
     "32933": {
@@ -127493,5 +127492,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T11:09:54.452231+00:00"
+  "updated_at": "2026-09-09T11:10:00.256256+00:00"
 }
