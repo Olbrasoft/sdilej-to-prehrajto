@@ -3925,13 +3925,6 @@
           "source_id": "33494074",
           "target_video_id": "29175005",
           "permanent": false,
-          "attempted_at": "2026-09-09T15:16:49.032784+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33494074",
-          "target_video_id": "29175005",
-          "permanent": false,
           "attempted_at": "2026-09-09T15:46:57.006489+00:00"
         },
         {
@@ -3940,6 +3933,13 @@
           "target_video_id": "29175005",
           "permanent": false,
           "attempted_at": "2026-09-09T16:17:16.070876+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33494074",
+          "target_video_id": "29175005",
+          "permanent": false,
+          "attempted_at": "2026-09-09T16:47:29.894299+00:00"
         }
       ],
       "last_plan": {
@@ -4324,12 +4324,18 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Krvavý diamant (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T16:17:02.913259+00:00"
+        "planned_at": "2026-09-09T16:47:27.131732+00:00"
       },
       "prepared": {
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "e29f820585794c2da87c58882ad2f5ae-shard-5",
+        "claimed_at": "2026-09-09T16:47:27.421343+00:00",
+        "lease_expires_at": "2026-09-09T22:47:27.421343+00:00",
+        "run_id": "34377002869"
       }
     },
     "327": {
@@ -4842,12 +4848,18 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T16:17:03.096125+00:00"
+        "planned_at": "2026-09-09T16:47:27.244618+00:00"
       },
       "prepared": {
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "e29f820585794c2da87c58882ad2f5ae-shard-3",
+        "claimed_at": "2026-09-09T16:47:27.532621+00:00",
+        "lease_expires_at": "2026-09-09T22:47:27.532621+00:00",
+        "run_id": "34377002869"
       }
     },
     "10690": {
@@ -128450,5 +128462,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T16:47:24.714471+00:00"
+  "updated_at": "2026-09-09T16:47:29.894315+00:00"
 }
