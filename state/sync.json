@@ -55862,13 +55862,6 @@
           "source_id": "30104045",
           "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-09T15:09:46.258371+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "30104045",
-          "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-09T15:40:38.742257+00:00"
         },
         {
@@ -55877,17 +55870,20 @@
           "target_video_id": "29246109",
           "permanent": false,
           "attempted_at": "2026-09-09T16:19:08.346135+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30104045",
+          "target_video_id": "29246109",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T16:49:14.114404+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-09T16:10:39.481330+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29246109",
-        "size_bytes": 3220672907,
-        "prepared_at": "2026-09-09T16:10:44.314075+00:00"
+        "planned_at": "2026-09-09T16:49:10.747911+00:00"
       }
     },
     "16220": {
@@ -128450,5 +128446,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T16:48:55.530288+00:00"
+  "updated_at": "2026-09-09T16:49:14.114422+00:00"
 }
