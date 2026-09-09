@@ -55869,13 +55869,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30104045",
-          "target_video_id": "29240804",
-          "permanent": false,
-          "attempted_at": "2026-09-09T12:02:36.411751+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30104045",
           "target_video_id": "29240804",
@@ -55889,18 +55882,19 @@
           "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
           "permanent": false,
           "attempted_at": "2026-09-09T13:36:51.618279+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30104045",
+          "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T14:07:44.730286+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-09T14:06:58.810828+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
-        "claimed_at": "2026-09-09T14:06:59.170130+00:00",
-        "lease_expires_at": "2026-09-09T20:06:59.170130+00:00",
-        "run_id": "34340286311"
       }
     },
     "16220": {
@@ -61131,12 +61125,18 @@
       "last_plan": {
         "source_id": "33575963",
         "display_name": "To, co dýchám (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T13:31:09.945126+00:00"
+        "planned_at": "2026-09-09T14:07:43.959037+00:00"
       },
       "prepared": {
         "target_video_id": "29176547",
         "size_bytes": 7700000000,
         "prepared_at": "2026-09-07T02:46:32.246093+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
+        "claimed_at": "2026-09-09T14:07:44.296219+00:00",
+        "lease_expires_at": "2026-09-09T20:07:44.296219+00:00",
+        "run_id": "34340286311"
       }
     },
     "11797": {
@@ -61363,7 +61363,7 @@
       "last_plan": {
         "source_id": "31820907",
         "display_name": "Říše drog (1991) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T13:31:10.092826+00:00"
+        "planned_at": "2026-09-09T14:07:44.099722+00:00"
       },
       "prepared": {
         "target_video_id": "29199525",
@@ -128476,5 +128476,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:07:41.750546+00:00"
+  "updated_at": "2026-09-09T14:07:44.730305+00:00"
 }
