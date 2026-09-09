@@ -73607,13 +73607,6 @@
     "3585": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "32946455",
-          "target_video_id": "29240930",
-          "permanent": false,
-          "attempted_at": "2026-09-09T12:15:22.492806+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "32946455",
           "target_video_id": "29240930",
@@ -73627,18 +73620,19 @@
           "reason": "Request failed for https://sdilej.cz/32946455/fenicke-spiknuti-2025-uhdrdv-cz-en.mkv",
           "permanent": false,
           "attempted_at": "2026-09-09T13:46:15.040074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32946455",
+          "target_video_id": "29243590",
+          "permanent": false,
+          "attempted_at": "2026-09-09T14:26:44.408883+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32946455",
         "display_name": "Fénické spiknutí (2025) 4K CZ Dabing",
         "planned_at": "2026-09-09T14:16:18.226764+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T14:16:26.250549+00:00",
-        "lease_expires_at": "2026-09-09T20:16:26.250549+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29243590",
@@ -128461,5 +128455,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:26:42.436796+00:00"
+  "updated_at": "2026-09-09T14:26:44.408898+00:00"
 }
