@@ -52998,12 +52998,18 @@
       "last_plan": {
         "source_id": "34791759",
         "display_name": "Cirkus bude! (1954) SD CZ Dabing",
-        "planned_at": "2026-09-09T15:36:43.190729+00:00"
+        "planned_at": "2026-09-09T16:06:55.869026+00:00"
       },
       "prepared": {
         "target_video_id": "29140505",
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-06T07:00:02.401149+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T16:06:56.462938+00:00",
+        "lease_expires_at": "2026-09-09T22:06:56.462938+00:00",
+        "run_id": "34340286311"
       }
     },
     "20915": {
@@ -54669,7 +54675,7 @@
       "last_plan": {
         "source_id": "14024650",
         "display_name": "Vraždy podle Solveig: Fjord smrti (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:36:43.376609+00:00"
+        "planned_at": "2026-09-09T16:06:56.047738+00:00"
       },
       "prepared": {
         "target_video_id": "29137611",
@@ -55051,7 +55057,7 @@
       "last_plan": {
         "source_id": "31963280",
         "display_name": "Terezín: Láska za zdí (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T15:36:43.551439+00:00"
+        "planned_at": "2026-09-09T16:06:56.222093+00:00"
       },
       "prepared": {
         "target_video_id": "29137913",
@@ -82836,14 +82842,6 @@
           "source_id": "31648533",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29243134",
-          "attempted_at": "2026-09-09T14:08:24.904531+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31648533",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29243982",
           "attempted_at": "2026-09-09T14:53:16.216244+00:00"
         },
@@ -82854,18 +82852,19 @@
           "permanent": false,
           "target_video_id": "29244953",
           "attempted_at": "2026-09-09T15:35:26.678169+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31648533",
+          "reason": "Request failed for https://sdilej.cz/31648533/blazniva-strela-33-a-1-3-posledni-trapas-1994-4k-cz-en.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-09T16:06:57.920270+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31648533",
         "display_name": "Bláznivá střela 33 ⅓: Poslední trapas (1994) 4K CZ Dabing",
         "planned_at": "2026-09-09T16:05:46.734515+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
-        "claimed_at": "2026-09-09T16:06:12.090749+00:00",
-        "lease_expires_at": "2026-09-09T22:06:12.090749+00:00",
-        "run_id": "34340286311"
       }
     },
     "17426": {
@@ -128463,5 +128462,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T16:06:53.635897+00:00"
+  "updated_at": "2026-09-09T16:06:57.920290+00:00"
 }
