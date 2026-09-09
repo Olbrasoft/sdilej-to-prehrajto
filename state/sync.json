@@ -30863,12 +30863,18 @@
       "last_plan": {
         "source_id": "34076515",
         "display_name": "Valmont (1989) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T06:42:27.801502+00:00"
+        "planned_at": "2026-09-09T07:18:08.302353+00:00"
       },
       "prepared": {
         "target_video_id": "29213405",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T12:34:28.343392+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-2",
+        "claimed_at": "2026-09-09T07:18:08.643928+00:00",
+        "lease_expires_at": "2026-09-09T13:18:08.643928+00:00",
+        "run_id": "34311232195"
       }
     },
     "31147": {
@@ -30911,12 +30917,18 @@
       "last_plan": {
         "source_id": "34648559",
         "display_name": "Ženou z boží vůle (2017) 1080p CZ Titulky",
-        "planned_at": "2026-09-09T06:42:27.911719+00:00"
+        "planned_at": "2026-09-09T07:18:08.471161+00:00"
       },
       "prepared": {
         "target_video_id": "29213453",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-08T12:36:55.407238+00:00"
+      },
+      "claim": {
+        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-3",
+        "claimed_at": "2026-09-09T07:18:09.012286+00:00",
+        "lease_expires_at": "2026-09-09T13:18:09.012286+00:00",
+        "run_id": "34311232195"
       }
     },
     "18118": {
@@ -69034,13 +69046,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "source_premium_required",
-          "source_id": "34876843",
-          "reason": "Authenticated fast download link is unavailable; premium login is required",
-          "permanent": false,
-          "attempted_at": "2026-09-08T22:04:13.164917+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34876843",
           "target_video_id": "29232284",
@@ -69054,23 +69059,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T05:11:26.816398+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29235802",
+          "attempted_at": "2026-09-09T07:18:10.415745+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-09T07:02:18.215307+00:00"
-      },
-      "claim": {
-        "worker_id": "2835a30f64b947c0a7fa94f8487a4050-shard-4",
-        "claimed_at": "2026-09-09T07:02:32.821937+00:00",
-        "lease_expires_at": "2026-09-09T13:02:32.821937+00:00",
-        "run_id": "34311232195"
-      },
-      "prepared": {
-        "target_video_id": "29235802",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-09T07:02:37.102352+00:00"
       }
     },
     "32120": {
@@ -126124,5 +126126,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T07:18:06.500013+00:00"
+  "updated_at": "2026-09-09T07:18:10.415763+00:00"
 }
