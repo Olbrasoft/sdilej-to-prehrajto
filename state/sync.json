@@ -74247,17 +74247,19 @@
       "attempts": []
     },
     "12500": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767521",
+          "target_video_id": "29233001",
+          "permanent": false,
+          "attempted_at": "2026-09-09T04:56:30.447351+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767521",
         "display_name": "8 MM (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-09T04:07:14.020649+00:00"
-      },
-      "claim": {
-        "worker_id": "0ded279b39ed4821945297a9d14cda51-shard-0",
-        "claimed_at": "2026-09-09T04:37:44.199279+00:00",
-        "lease_expires_at": "2026-09-09T10:37:44.199279+00:00",
-        "run_id": "34285703698"
       },
       "prepared": {
         "target_video_id": "29233001",
@@ -125788,5 +125790,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T04:48:39.787722+00:00"
+  "updated_at": "2026-09-09T04:56:30.447370+00:00"
 }
