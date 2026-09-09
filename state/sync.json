@@ -56762,13 +56762,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30673323",
-          "target_video_id": "29233577",
-          "permanent": false,
-          "attempted_at": "2026-09-09T05:19:38.805144+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30673323",
           "target_video_id": "29233577",
@@ -56783,23 +56776,20 @@
           "permanent": false,
           "target_video_id": "29236254",
           "attempted_at": "2026-09-09T07:46:58.235874+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29237069",
+          "attempted_at": "2026-09-09T08:52:50.316796+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-09T08:29:17.602494+00:00"
-      },
-      "claim": {
-        "worker_id": "6f19dea038bb4ce1876ecaadc9114b44-shard-3",
-        "claimed_at": "2026-09-09T08:40:53.053551+00:00",
-        "lease_expires_at": "2026-09-09T14:40:53.053551+00:00",
-        "run_id": "34311232195"
-      },
-      "prepared": {
-        "target_video_id": "29237069",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-09T08:40:56.972725+00:00"
       }
     },
     "14505": {
@@ -81818,6 +81808,12 @@
         "source_id": "31648533",
         "display_name": "Bláznivá střela 33 ⅓: Poslední trapas (1994) 4K CZ Dabing",
         "planned_at": "2026-09-09T08:46:18.253339+00:00"
+      },
+      "claim": {
+        "worker_id": "6f19dea038bb4ce1876ecaadc9114b44-shard-5",
+        "claimed_at": "2026-09-09T08:52:47.904789+00:00",
+        "lease_expires_at": "2026-09-09T14:52:47.904789+00:00",
+        "run_id": "34311232195"
       }
     },
     "17426": {
@@ -126622,5 +126618,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T08:52:46.099390+00:00"
+  "updated_at": "2026-09-09T08:52:50.316811+00:00"
 }
