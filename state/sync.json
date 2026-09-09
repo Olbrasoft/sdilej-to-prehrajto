@@ -17797,6 +17797,12 @@
         "target_video_id": "29128168",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-05T20:26:10.233538+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-0",
+        "claimed_at": "2026-09-09T12:32:55.183262+00:00",
+        "lease_expires_at": "2026-09-09T18:32:55.183262+00:00",
+        "run_id": "34340286311"
       }
     },
     "1539": {
@@ -19355,6 +19361,12 @@
         "target_video_id": "29161092",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-06T12:31:01.918341+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
+        "claimed_at": "2026-09-09T12:32:55.335374+00:00",
+        "lease_expires_at": "2026-09-09T18:32:55.335374+00:00",
+        "run_id": "34340286311"
       }
     },
     "1693": {
@@ -80507,17 +80519,19 @@
       "attempts": []
     },
     "6763": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34888975",
+          "target_video_id": "29241266",
+          "permanent": false,
+          "attempted_at": "2026-09-09T12:32:56.382708+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34888975",
         "display_name": "Utopit se na suchu (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-09T12:03:32.175915+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
-        "claimed_at": "2026-09-09T12:19:39.701241+00:00",
-        "lease_expires_at": "2026-09-09T18:19:39.701241+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29241266",
@@ -128217,5 +128231,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T12:32:53.480955+00:00"
+  "updated_at": "2026-09-09T12:32:56.382729+00:00"
 }
