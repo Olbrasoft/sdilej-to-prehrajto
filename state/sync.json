@@ -73563,13 +73563,6 @@
     "3585": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "32946455",
-          "target_video_id": "29235821",
-          "permanent": false,
-          "attempted_at": "2026-09-09T07:20:16.751835+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "32946455",
           "target_video_id": "29235821",
@@ -73583,23 +73576,20 @@
           "target_video_id": "29237188",
           "permanent": false,
           "attempted_at": "2026-09-09T09:03:26.953991+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "32946455",
+          "target_video_id": "29237188",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T11:13:58.647634+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32946455",
         "display_name": "Fénické spiknutí (2025) 4K CZ Dabing",
         "planned_at": "2026-09-09T11:13:19.080824+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29237188",
-        "size_bytes": 4827270828,
-        "prepared_at": "2026-09-09T08:47:43.035130+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
-        "claimed_at": "2026-09-09T11:13:53.338054+00:00",
-        "lease_expires_at": "2026-09-09T17:13:53.338054+00:00",
-        "run_id": "34340286311"
       }
     },
     "15897": {
@@ -127652,5 +127642,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T11:13:56.829089+00:00"
+  "updated_at": "2026-09-09T11:13:58.647651+00:00"
 }
