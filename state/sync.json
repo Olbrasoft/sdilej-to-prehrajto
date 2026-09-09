@@ -73705,13 +73705,6 @@
     "3740": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "17515039",
-          "target_video_id": "29240938",
-          "permanent": false,
-          "attempted_at": "2026-09-09T12:04:16.597290+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "17515039",
           "target_video_id": "29240938",
@@ -73725,17 +73718,20 @@
           "target_video_id": "29242977",
           "permanent": false,
           "attempted_at": "2026-09-09T13:48:31.996682+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "17515039",
+          "target_video_id": "29242977",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T14:21:22.934949+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17515039",
         "display_name": "Ulice strachu – 3. část: 1666 (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-09T14:19:41.316407+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29242977",
-        "size_bytes": 2695694777,
-        "prepared_at": "2026-09-09T13:45:33.455410+00:00"
       }
     },
     "34423": {
@@ -128481,5 +128477,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T14:21:18.884417+00:00"
+  "updated_at": "2026-09-09T14:21:22.934966+00:00"
 }
