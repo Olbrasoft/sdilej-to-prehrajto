@@ -28001,6 +28001,12 @@
         "target_video_id": "29199336",
         "size_bytes": 9100000000,
         "prepared_at": "2026-09-07T23:03:39.777432+00:00"
+      },
+      "claim": {
+        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-4",
+        "claimed_at": "2026-09-09T23:24:16.954457+00:00",
+        "lease_expires_at": "2026-09-10T05:24:16.954457+00:00",
+        "run_id": "34411990920"
       }
     },
     "14551": {
@@ -28168,6 +28174,12 @@
         "target_video_id": "29255529",
         "size_bytes": 1431582467,
         "prepared_at": "2026-09-09T22:06:22.283428+00:00"
+      },
+      "claim": {
+        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-3",
+        "claimed_at": "2026-09-09T23:24:17.102529+00:00",
+        "lease_expires_at": "2026-09-10T05:24:17.102529+00:00",
+        "run_id": "34411990920"
       }
     },
     "20214": {
@@ -37440,17 +37452,19 @@
       "attempts": []
     },
     "30684": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34774353",
+          "target_video_id": "29256811",
+          "permanent": false,
+          "attempted_at": "2026-09-09T23:24:17.223800+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34774353",
         "display_name": "Dejte jim trávu (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-09T22:34:46.852607+00:00"
-      },
-      "claim": {
-        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-0",
-        "claimed_at": "2026-09-09T23:15:18.909842+00:00",
-        "lease_expires_at": "2026-09-10T05:15:18.909842+00:00",
-        "run_id": "34411990920"
       },
       "prepared": {
         "target_video_id": "29256811",
@@ -129673,5 +129687,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T23:24:15.290878+00:00"
+  "updated_at": "2026-09-09T23:24:17.223813+00:00"
 }
