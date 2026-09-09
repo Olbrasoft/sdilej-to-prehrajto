@@ -33134,13 +33134,6 @@
           "source_id": "33542180",
           "target_video_id": "29142078",
           "permanent": false,
-          "attempted_at": "2026-09-09T14:20:54.486117+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33542180",
-          "target_video_id": "29142078",
-          "permanent": false,
           "attempted_at": "2026-09-09T14:51:57.599450+00:00"
         },
         {
@@ -33149,6 +33142,13 @@
           "target_video_id": "29142078",
           "permanent": false,
           "attempted_at": "2026-09-09T15:22:08.872948+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33542180",
+          "target_video_id": "29142078",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:52:24.094370+00:00"
         }
       ],
       "last_plan": {
@@ -33204,6 +33204,12 @@
         "target_video_id": "29142079",
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-05T21:10:29.724457+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
+        "claimed_at": "2026-09-09T15:52:21.983714+00:00",
+        "lease_expires_at": "2026-09-09T21:52:21.983714+00:00",
+        "run_id": "34340286311"
       }
     },
     "19573": {
@@ -33278,12 +33284,18 @@
       "last_plan": {
         "source_id": "34061939",
         "display_name": "Ace Ventura: Zvířecí detektiv (1994) 4K CZ Dabing",
-        "planned_at": "2026-09-09T15:22:06.177163+00:00"
+        "planned_at": "2026-09-09T15:52:22.153555+00:00"
       },
       "prepared": {
         "target_video_id": "29129778",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T13:45:12.274869+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T15:52:22.393256+00:00",
+        "lease_expires_at": "2026-09-09T21:52:22.393256+00:00",
+        "run_id": "34340286311"
       }
     },
     "2691": {
@@ -128443,5 +128455,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:52:19.754457+00:00"
+  "updated_at": "2026-09-09T15:52:24.094387+00:00"
 }
