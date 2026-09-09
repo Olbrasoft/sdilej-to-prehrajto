@@ -30958,13 +30958,6 @@
     "17625": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31064718",
-          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-09T05:02:37.928313+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31064718",
           "reason": "PrehrajtoError",
@@ -30979,23 +30972,20 @@
           "permanent": false,
           "target_video_id": "29236230",
           "attempted_at": "2026-09-09T07:44:43.293706+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31064718",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29236895",
+          "attempted_at": "2026-09-09T08:40:15.235926+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-09T08:29:12.811991+00:00"
-      },
-      "claim": {
-        "worker_id": "6f19dea038bb4ce1876ecaadc9114b44-shard-3",
-        "claimed_at": "2026-09-09T08:29:58.821099+00:00",
-        "lease_expires_at": "2026-09-09T14:29:58.821099+00:00",
-        "run_id": "34311232195"
-      },
-      "prepared": {
-        "target_video_id": "29236895",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-09T08:30:03.137238+00:00"
       }
     },
     "14755": {
@@ -48457,6 +48447,12 @@
         "target_video_id": "29136445",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T15:02:31.127606+00:00"
+      },
+      "claim": {
+        "worker_id": "6f19dea038bb4ce1876ecaadc9114b44-shard-5",
+        "claimed_at": "2026-09-09T08:40:13.466420+00:00",
+        "lease_expires_at": "2026-09-09T14:40:13.466420+00:00",
+        "run_id": "34311232195"
       }
     },
     "12690": {
@@ -48498,6 +48494,12 @@
         "target_video_id": "29136456",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
+      },
+      "claim": {
+        "worker_id": "6f19dea038bb4ce1876ecaadc9114b44-shard-2",
+        "claimed_at": "2026-09-09T08:40:13.600366+00:00",
+        "lease_expires_at": "2026-09-09T14:40:13.600366+00:00",
+        "run_id": "34311232195"
       }
     },
     "24046": {
@@ -126610,5 +126612,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T08:40:11.641531+00:00"
+  "updated_at": "2026-09-09T08:40:15.235942+00:00"
 }
