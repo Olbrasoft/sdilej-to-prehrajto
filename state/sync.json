@@ -73697,14 +73697,6 @@
     "3740": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "17515039",
-          "target_video_id": "29242977",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-09T14:21:22.934949+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "17515039",
           "target_video_id": "29244296",
@@ -73718,18 +73710,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-09T15:26:56.015049+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17515039",
+          "target_video_id": "29245784",
+          "permanent": false,
+          "attempted_at": "2026-09-09T16:03:45.031849+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17515039",
         "display_name": "Ulice strachu – 3. část: 1666 (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-09T15:57:11.421025+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
-        "claimed_at": "2026-09-09T15:57:12.092627+00:00",
-        "lease_expires_at": "2026-09-09T21:57:12.092627+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29245784",
@@ -128464,5 +128457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T16:01:58.565252+00:00"
+  "updated_at": "2026-09-09T16:03:45.031865+00:00"
 }
