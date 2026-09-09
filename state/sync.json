@@ -73614,7 +73614,13 @@
       "last_plan": {
         "source_id": "32946455",
         "display_name": "Fénické spiknutí (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-09T14:56:45.117514+00:00"
+        "planned_at": "2026-09-09T15:26:53.685628+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-1",
+        "claimed_at": "2026-09-09T15:26:53.914215+00:00",
+        "lease_expires_at": "2026-09-09T21:26:53.914215+00:00",
+        "run_id": "34340286311"
       }
     },
     "15897": {
@@ -73665,13 +73671,6 @@
     "3740": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "17515039",
-          "target_video_id": "29242977",
-          "permanent": false,
-          "attempted_at": "2026-09-09T13:48:31.996682+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "17515039",
           "target_video_id": "29242977",
@@ -73685,17 +73684,20 @@
           "target_video_id": "29244296",
           "permanent": false,
           "attempted_at": "2026-09-09T14:56:42.798503+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "17515039",
+          "target_video_id": "29244296",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-09T15:26:56.015049+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17515039",
         "display_name": "Ulice strachu – 3. část: 1666 (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T14:52:12.264522+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29244296",
-        "size_bytes": 2695694777,
-        "prepared_at": "2026-09-09T14:52:26.399677+00:00"
+        "planned_at": "2026-09-09T15:26:52.444072+00:00"
       }
     },
     "34423": {
@@ -91093,12 +91095,18 @@
       "last_plan": {
         "source_id": "33872399",
         "display_name": "Valerian a město tisíce planet (2017) 4K CZ Dabing",
-        "planned_at": "2026-09-09T14:56:38.068247+00:00"
+        "planned_at": "2026-09-09T15:26:52.610112+00:00"
       },
       "prepared": {
         "target_video_id": "29239607",
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-09T10:36:25.273314+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-3",
+        "claimed_at": "2026-09-09T15:26:53.481396+00:00",
+        "lease_expires_at": "2026-09-09T21:26:53.481396+00:00",
+        "run_id": "34340286311"
       }
     },
     "4777": {
@@ -91156,12 +91164,18 @@
       "last_plan": {
         "source_id": "30998148",
         "display_name": "Únos vlaku 1 2 3 (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-09T14:56:45.304035+00:00"
+        "planned_at": "2026-09-09T15:26:52.761461+00:00"
       },
       "prepared": {
         "target_video_id": "29239615",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-09T10:37:06.742328+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-4",
+        "claimed_at": "2026-09-09T15:26:53.228819+00:00",
+        "lease_expires_at": "2026-09-09T21:26:53.228819+00:00",
+        "run_id": "34340286311"
       }
     },
     "4768": {
@@ -128458,5 +128472,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T15:26:41.529102+00:00"
+  "updated_at": "2026-09-09T15:26:56.015065+00:00"
 }
