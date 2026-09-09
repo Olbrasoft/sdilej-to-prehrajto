@@ -33534,17 +33534,19 @@
       "attempts": []
     },
     "2499": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32222414",
+          "target_video_id": "29239930",
+          "permanent": false,
+          "attempted_at": "2026-09-09T11:09:21.547417+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-09T10:51:36.320673+00:00"
-      },
-      "claim": {
-        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-2",
-        "claimed_at": "2026-09-09T10:51:59.121903+00:00",
-        "lease_expires_at": "2026-09-09T16:51:59.121903+00:00",
-        "run_id": "34340286311"
       },
       "prepared": {
         "target_video_id": "29239930",
@@ -39475,6 +39477,12 @@
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-09T10:51:38.684968+00:00"
+      },
+      "claim": {
+        "worker_id": "c8ecf37322c54a34b32ce35002f23fc2-shard-5",
+        "claimed_at": "2026-09-09T11:09:14.687885+00:00",
+        "lease_expires_at": "2026-09-09T17:09:14.687885+00:00",
+        "run_id": "34340286311"
       }
     },
     "32220": {
@@ -127485,5 +127493,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-09T11:09:13.051968+00:00"
+  "updated_at": "2026-09-09T11:09:21.547433+00:00"
 }
