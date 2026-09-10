@@ -88692,14 +88692,6 @@
     "4040": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31648533",
-          "target_video_id": "29276490",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T17:22:36.922009+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31648533",
           "reason": "PrehrajtoError",
@@ -88714,6 +88706,13 @@
           "permanent": false,
           "target_video_id": "29283523",
           "attempted_at": "2026-09-10T22:49:25.128466+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31648533",
+          "reason": "Request failed for https://sdilej.cz/31648533/blazniva-strela-33-a-1-3-posledni-trapas-1994-4k-cz-en.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T23:48:54.397017+00:00"
         }
       ],
       "last_plan": {
@@ -137648,5 +137647,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T23:48:06.956478+00:00"
+  "updated_at": "2026-09-10T23:48:54.397036+00:00"
 }
