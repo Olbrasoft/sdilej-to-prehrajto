@@ -27369,14 +27369,6 @@
           "source_id": "34933768",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29258404",
-          "attempted_at": "2026-09-10T01:17:37.211711+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34933768",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29259588",
           "attempted_at": "2026-09-10T02:22:18.057890+00:00"
         },
@@ -27387,18 +27379,19 @@
           "permanent": false,
           "target_video_id": "29261822",
           "attempted_at": "2026-09-10T04:18:58.574552+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34933768",
+          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T04:58:32.944250+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-10T04:57:30.805208+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-4",
-        "claimed_at": "2026-09-10T04:57:47.109697+00:00",
-        "lease_expires_at": "2026-09-10T10:57:47.109697+00:00",
-        "run_id": "34433636759"
       }
     },
     "31638": {
@@ -32278,6 +32271,12 @@
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-10T04:57:31.085036+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-0",
+        "claimed_at": "2026-09-10T04:58:26.204127+00:00",
+        "lease_expires_at": "2026-09-10T10:58:26.204127+00:00",
+        "run_id": "34433636759"
       }
     },
     "14755": {
@@ -131226,5 +131225,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T04:58:24.384283+00:00"
+  "updated_at": "2026-09-10T04:58:32.944267+00:00"
 }
