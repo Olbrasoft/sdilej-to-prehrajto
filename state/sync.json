@@ -101840,17 +101840,19 @@
       "attempts": []
     },
     "11577": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33551416",
+          "reason": "Request failed for https://sdilej.cz/33551416/africka-legenda-1985-cz-dab-1080p.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T14:42:33.777637+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33551416",
         "display_name": "Legenda (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-10T14:24:55.854695+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-4",
-        "claimed_at": "2026-09-10T14:41:48.142269+00:00",
-        "lease_expires_at": "2026-09-10T20:41:48.142269+00:00",
-        "run_id": "34460867727"
       }
     },
     "5186": {
@@ -101892,6 +101894,12 @@
         "source_id": "31285634",
         "display_name": "Kung Fu Panda 4 (2024) 4K CZ Dabing",
         "planned_at": "2026-09-10T14:24:56.025128+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T14:42:32.291525+00:00",
+        "lease_expires_at": "2026-09-10T20:42:32.291525+00:00",
+        "run_id": "34460867727"
       }
     },
     "27616": {
@@ -134977,5 +134985,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T14:42:29.665510+00:00"
+  "updated_at": "2026-09-10T14:42:33.777655+00:00"
 }
