@@ -6064,6 +6064,12 @@
         "target_video_id": "29195641",
         "size_bytes": 22900000000,
         "prepared_at": "2026-09-07T19:18:09.679179+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
+        "claimed_at": "2026-09-10T11:12:27.806169+00:00",
+        "lease_expires_at": "2026-09-10T17:12:27.806169+00:00",
+        "run_id": "34460867727"
       }
     },
     "13259": {
@@ -9572,6 +9578,12 @@
         "target_video_id": "29153883",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-06T06:38:52.929424+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T11:12:27.970805+00:00",
+        "lease_expires_at": "2026-09-10T17:12:27.970805+00:00",
+        "run_id": "34460867727"
       }
     },
     "614": {
@@ -98190,17 +98202,19 @@
       "attempts": []
     },
     "26160": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34113443",
+          "target_video_id": "29271072",
+          "permanent": false,
+          "attempted_at": "2026-09-10T11:12:28.660817+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34113443",
         "display_name": "Rock ze střední (2009) SD CZ Dabing",
         "planned_at": "2026-09-10T10:28:45.584390+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-1",
-        "claimed_at": "2026-09-10T11:09:32.686599+00:00",
-        "lease_expires_at": "2026-09-10T17:09:32.686599+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29271072",
@@ -133604,5 +133618,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T11:12:26.169884+00:00"
+  "updated_at": "2026-09-10T11:12:28.660839+00:00"
 }
