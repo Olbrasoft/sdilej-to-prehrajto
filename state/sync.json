@@ -36271,13 +36271,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28441201",
-          "target_video_id": "29269165",
-          "permanent": false,
-          "attempted_at": "2026-09-10T09:31:24.437227+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28441201",
           "target_video_id": "29269165",
@@ -36291,23 +36284,20 @@
           "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv",
           "permanent": false,
           "attempted_at": "2026-09-10T11:27:09.710835+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29271812",
+          "attempted_at": "2026-09-10T12:12:00.778511+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-10T11:59:37.568076+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
-        "claimed_at": "2026-09-10T12:00:37.666550+00:00",
-        "lease_expires_at": "2026-09-10T18:00:37.666550+00:00",
-        "run_id": "34460867727"
-      },
-      "prepared": {
-        "target_video_id": "29271812",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-10T12:00:40.956234+00:00"
       }
     },
     "19162": {
@@ -133840,5 +133830,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T12:11:13.046786+00:00"
+  "updated_at": "2026-09-10T12:12:00.778527+00:00"
 }
