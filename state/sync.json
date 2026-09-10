@@ -2422,6 +2422,12 @@
         "target_video_id": "29115694",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-1",
+        "claimed_at": "2026-09-10T20:56:44.163929+00:00",
+        "lease_expires_at": "2026-09-11T02:56:44.163929+00:00",
+        "run_id": "34495695760"
       }
     },
     "10669": {
@@ -2611,6 +2617,12 @@
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
+        "claimed_at": "2026-09-10T20:56:43.862390+00:00",
+        "lease_expires_at": "2026-09-11T02:56:43.862390+00:00",
+        "run_id": "34495695760"
       }
     },
     "29255": {
@@ -69535,17 +69547,19 @@
       }
     },
     "35666": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34737709",
+          "target_video_id": "29282010",
+          "permanent": false,
+          "attempted_at": "2026-09-10T20:56:46.778649+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34737709",
         "display_name": "No Beast So Fierce (2016) 720p CZ Titulky",
         "planned_at": "2026-09-10T20:21:05.222345+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-5",
-        "claimed_at": "2026-09-10T20:51:32.498470+00:00",
-        "lease_expires_at": "2026-09-11T02:51:32.498470+00:00",
-        "run_id": "34495695760"
       },
       "prepared": {
         "target_video_id": "29282010",
@@ -136717,5 +136731,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T20:56:42.152380+00:00"
+  "updated_at": "2026-09-10T20:56:46.778669+00:00"
 }
