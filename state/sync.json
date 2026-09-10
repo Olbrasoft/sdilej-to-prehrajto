@@ -35211,14 +35211,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32222414",
-          "target_video_id": "29271866",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T13:03:08.690155+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -35232,23 +35224,20 @@
           "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv",
           "permanent": false,
           "attempted_at": "2026-09-10T15:11:32.470782+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29276058",
+          "attempted_at": "2026-09-10T16:02:45.198918+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-10T15:43:23.657875+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
-        "claimed_at": "2026-09-10T15:44:08.009500+00:00",
-        "lease_expires_at": "2026-09-10T21:44:08.009500+00:00",
-        "run_id": "34460867727"
-      },
-      "prepared": {
-        "target_video_id": "29276058",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-10T15:44:10.864888+00:00"
       }
     },
     "2571": {
@@ -80714,6 +80703,12 @@
         "target_video_id": "29233921",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-09T05:23:23.697827+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
+        "claimed_at": "2026-09-10T16:02:43.492378+00:00",
+        "lease_expires_at": "2026-09-10T22:02:43.492378+00:00",
+        "run_id": "34460867727"
       }
     },
     "33436": {
@@ -135611,5 +135606,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T16:02:41.765739+00:00"
+  "updated_at": "2026-09-10T16:02:45.198935+00:00"
 }
