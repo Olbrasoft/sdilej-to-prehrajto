@@ -72675,13 +72675,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34876843",
-          "reason": "Request failed for https://sdilej.cz/34876843/padesatka-2015-cz-dabing-1080p-fhd.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T08:50:36.320207+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34876843",
           "reason": "PrehrajtoError",
@@ -72696,18 +72689,19 @@
           "permanent": false,
           "target_video_id": "29270420",
           "attempted_at": "2026-09-10T10:46:53.880967+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34876843",
+          "target_video_id": "29271553",
+          "permanent": false,
+          "attempted_at": "2026-09-10T11:50:40.412283+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-10T11:36:13.602115+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-1",
-        "claimed_at": "2026-09-10T11:37:21.165890+00:00",
-        "lease_expires_at": "2026-09-10T17:37:21.165890+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29271553",
@@ -91495,6 +91489,12 @@
         "source_id": "23107925",
         "display_name": "Těžká rozhodnutí (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-10T11:39:01.385471+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T11:50:37.396354+00:00",
+        "lease_expires_at": "2026-09-10T17:50:37.396354+00:00",
+        "run_id": "34460867727"
       }
     },
     "25421": {
@@ -133574,5 +133574,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T11:50:35.767535+00:00"
+  "updated_at": "2026-09-10T11:50:40.412306+00:00"
 }
