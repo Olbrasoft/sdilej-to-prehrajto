@@ -5018,6 +5018,12 @@
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-4",
+        "claimed_at": "2026-09-10T19:59:23.236983+00:00",
+        "lease_expires_at": "2026-09-11T01:59:23.236983+00:00",
+        "run_id": "34495695760"
       }
     },
     "13803": {
@@ -5377,6 +5383,12 @@
         "target_video_id": "29179105",
         "size_bytes": 5300000000,
         "prepared_at": "2026-09-07T06:02:21.308933+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
+        "claimed_at": "2026-09-10T19:59:23.366896+00:00",
+        "lease_expires_at": "2026-09-11T01:59:23.366896+00:00",
+        "run_id": "34495695760"
       }
     },
     "22042": {
@@ -67927,17 +67939,19 @@
       "attempts": []
     },
     "11224": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673470",
+          "target_video_id": "29280497",
+          "permanent": false,
+          "attempted_at": "2026-09-10T19:59:23.506707+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673470",
         "display_name": "Corleone (1978) 1080p CZ Dabing",
         "planned_at": "2026-09-10T19:22:09.820101+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-1",
-        "claimed_at": "2026-09-10T19:49:40.653436+00:00",
-        "lease_expires_at": "2026-09-11T01:49:40.653436+00:00",
-        "run_id": "34495695760"
       },
       "prepared": {
         "target_video_id": "29280497",
@@ -136381,5 +136395,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T19:59:21.231378+00:00"
+  "updated_at": "2026-09-10T19:59:23.506724+00:00"
 }
