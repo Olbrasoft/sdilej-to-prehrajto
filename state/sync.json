@@ -57933,14 +57933,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30104045",
-          "target_video_id": "29266988",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T08:47:21.447313+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30104045",
           "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
@@ -57953,6 +57945,13 @@
           "target_video_id": "29269961",
           "permanent": false,
           "attempted_at": "2026-09-10T10:13:57.381504+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30104045",
+          "target_video_id": "29269961",
+          "permanent": false,
+          "attempted_at": "2026-09-10T11:29:40.822533+00:00"
         }
       ],
       "last_plan": {
@@ -133653,5 +133652,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T11:29:36.109211+00:00"
+  "updated_at": "2026-09-10T11:29:40.822548+00:00"
 }
