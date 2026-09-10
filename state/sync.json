@@ -58365,6 +58365,12 @@
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:10:10.429668+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-0",
+        "claimed_at": "2026-09-10T10:11:56.437401+00:00",
+        "lease_expires_at": "2026-09-10T16:11:56.437401+00:00",
+        "run_id": "34433636759"
       }
     },
     "33003": {
@@ -89003,17 +89009,19 @@
       "attempts": []
     },
     "22302": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34122391",
+          "target_video_id": "29269640",
+          "permanent": false,
+          "attempted_at": "2026-09-10T10:12:29.654162+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34122391",
         "display_name": "Poslední ostří hoši (1976) 1080p CZ Dabing",
         "planned_at": "2026-09-10T09:32:07.659235+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-5",
-        "claimed_at": "2026-09-10T09:54:02.147094+00:00",
-        "lease_expires_at": "2026-09-10T15:54:02.147094+00:00",
-        "run_id": "34433636759"
       },
       "prepared": {
         "target_video_id": "29269640",
@@ -133014,5 +133022,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:11:54.601481+00:00"
+  "updated_at": "2026-09-10T10:12:29.654180+00:00"
 }
