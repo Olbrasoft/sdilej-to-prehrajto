@@ -1544,6 +1544,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-3",
+        "claimed_at": "2026-09-10T08:04:29.381420+00:00",
+        "lease_expires_at": "2026-09-10T14:04:29.381420+00:00",
+        "run_id": "34433636759"
       }
     },
     "21354": {
@@ -57886,14 +57892,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30104045",
-          "target_video_id": "29262286",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T05:29:57.916811+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30104045",
           "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
@@ -57906,18 +57904,19 @@
           "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
           "permanent": false,
           "attempted_at": "2026-09-10T07:15:59.222247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30104045",
+          "target_video_id": "29266988",
+          "permanent": false,
+          "attempted_at": "2026-09-10T08:04:30.640151+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30104045",
         "display_name": "Noční klid (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-10T07:52:03.558860+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-4",
-        "claimed_at": "2026-09-10T07:56:59.002405+00:00",
-        "lease_expires_at": "2026-09-10T13:56:59.002405+00:00",
-        "run_id": "34433636759"
       },
       "prepared": {
         "target_video_id": "29266988",
@@ -132227,5 +132226,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T08:04:27.296806+00:00"
+  "updated_at": "2026-09-10T08:04:30.640169+00:00"
 }
