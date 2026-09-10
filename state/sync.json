@@ -3622,17 +3622,19 @@
       "attempts": []
     },
     "21505": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32215590",
+          "target_video_id": "29282104",
+          "permanent": false,
+          "attempted_at": "2026-09-10T20:59:43.889277+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32215590",
         "display_name": "Lesní jahody (1957) SD CZ Titulky",
         "planned_at": "2026-09-10T20:56:10.757588+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
-        "claimed_at": "2026-09-10T20:56:54.585208+00:00",
-        "lease_expires_at": "2026-09-11T02:56:54.585208+00:00",
-        "run_id": "34495695760"
       },
       "prepared": {
         "target_video_id": "29282104",
@@ -15379,6 +15381,12 @@
         "target_video_id": "29260125",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-10T02:31:57.475955+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-4",
+        "claimed_at": "2026-09-10T20:59:43.761187+00:00",
+        "lease_expires_at": "2026-09-11T02:59:43.761187+00:00",
+        "run_id": "34495695760"
       }
     },
     "35068": {
@@ -136771,5 +136779,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T20:59:42.056539+00:00"
+  "updated_at": "2026-09-10T20:59:43.889294+00:00"
 }
