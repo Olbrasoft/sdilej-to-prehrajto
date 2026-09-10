@@ -93690,6 +93690,12 @@
         "target_video_id": "29238524",
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-09T09:37:22.890375+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
+        "claimed_at": "2026-09-10T16:03:21.807341+00:00",
+        "lease_expires_at": "2026-09-10T22:03:21.807341+00:00",
+        "run_id": "34460867727"
       }
     },
     "4923": {
@@ -96151,14 +96157,6 @@
     "23717": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34751728",
-          "target_video_id": "29270885",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T12:03:53.809672+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34751728",
           "reason": "Request failed for https://sdilej.cz/34751728/hustler-white-1996-cz-titulky.mp4",
@@ -96171,17 +96169,20 @@
           "target_video_id": "29274239",
           "permanent": false,
           "attempted_at": "2026-09-10T14:24:41.740510+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34751728",
+          "target_video_id": "29274239",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-10T16:03:23.685201+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34751728",
         "display_name": "Hustler White (1996) 1080p CZ Titulky",
         "planned_at": "2026-09-10T15:43:29.752193+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29274239",
-        "size_bytes": 4964022046,
-        "prepared_at": "2026-09-10T14:11:53.145816+00:00"
       }
     },
     "27019": {
@@ -135626,5 +135627,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T16:03:19.993038+00:00"
+  "updated_at": "2026-09-10T16:03:23.685217+00:00"
 }
