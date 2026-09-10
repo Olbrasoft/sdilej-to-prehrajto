@@ -77115,6 +77115,12 @@
         "target_video_id": "29268437",
         "size_bytes": 6610884624,
         "prepared_at": "2026-09-10T08:55:37.093437+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T10:16:11.367782+00:00",
+        "lease_expires_at": "2026-09-10T16:16:11.367782+00:00",
+        "run_id": "34460867727"
       }
     },
     "35307": {
@@ -77312,6 +77318,12 @@
         "target_video_id": "29246919",
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-09T16:37:40.807143+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-1",
+        "claimed_at": "2026-09-10T10:16:11.682108+00:00",
+        "lease_expires_at": "2026-09-10T16:16:11.682108+00:00",
+        "run_id": "34460867727"
       }
     },
     "15897": {
@@ -77362,14 +77374,6 @@
     "3740": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "17515039",
-          "target_video_id": "29252268",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T00:46:29.330226+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "17515039",
           "target_video_id": "29267597",
@@ -77383,6 +77387,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-10T09:33:52.040195+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "17515039",
+          "reason": "Request failed for https://sdilej.cz/17515039/fear.street.part.3.1666.2021.1080p.webrip.cz.dabing.5.1.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T10:16:12.141883+00:00"
         }
       ],
       "last_plan": {
@@ -133030,5 +133041,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:16:09.763502+00:00"
+  "updated_at": "2026-09-10T10:16:12.141896+00:00"
 }
