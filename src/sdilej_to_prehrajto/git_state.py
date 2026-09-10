@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import subprocess
+import re
 import threading
 from pathlib import Path
 
@@ -128,9 +129,10 @@ class GitStatePersister:
                 f"Refusing to persist files above 90 MiB: {', '.join(oversized)}"
             )
         self._run("add", "--", *existing)
-        if self._run("diff", "--cached", "--quiet", check=False).returncode == 0:
-            return
-        self._run("commit", "-m", f"chore(sync): persist {event} checkpoint")
+        if self._run("diff", "--cached", "--quiet", check=False).returncode != 0:
+            self._run("commit", "-m", f"chore(sync): persist {event} checkpoint")
+        # A previous push may have failed after committing. An unchanged
+        # worktree does not mean the durable checkpoint reached the remote.
         last_error = "concurrent update"
         for attempt in range(self.PUSH_ATTEMPTS):
             pushed = self._run("push", "origin", "HEAD:main", check=False)
@@ -140,7 +142,7 @@ class GitStatePersister:
             if attempt + 1 < self.PUSH_ATTEMPTS:
                 rebased, detail = self._rebase_checkpoint(relative_paths)
                 if not rebased:
-                    last_error = detail
+                    last_error = "push: " + last_error + "; rebase: " + detail
         raise GitStateError(
             "git push failed after concurrent update retries: " + last_error
         )
@@ -156,13 +158,18 @@ class GitStatePersister:
         if rebased.returncode == 0:
             return True, ""
 
-        conflicts_result = self._run(
-            "diff", "--name-only", "--diff-filter=U", check=False
-        )
-        conflicts = [
-            path.strip() for path in conflicts_result.stdout.splitlines() if path.strip()
-        ]
-        if conflicts and set(conflicts).issubset(checkpoint_paths):
+        # More than one unpublished checkpoint can conflict during replay.
+        # Resolve each owned checkpoint, not just the first commit.
+        detail = self._failure_detail(rebased)
+        for _ in range(100):
+            conflicts_result = self._run(
+                "diff", "--name-only", "--diff-filter=U", check=False
+            )
+            conflicts = [
+                path.strip() for path in conflicts_result.stdout.splitlines() if path.strip()
+            ]
+            if not conflicts or not set(conflicts).issubset(checkpoint_paths):
+                break
             # During a rebase, "theirs" is the checkpoint commit being replayed.
             restored = self._run("checkout", "--theirs", "--", *conflicts, check=False)
             if restored.returncode == 0:
@@ -175,8 +182,7 @@ class GitStatePersister:
                 detail = self._failure_detail(continued)
             else:
                 detail = self._failure_detail(restored)
-        else:
-            detail = self._failure_detail(rebased)
+                break
 
         self._run("rebase", "--abort", check=False)
         return False, detail
@@ -184,4 +190,6 @@ class GitStatePersister:
     @staticmethod
     def _failure_detail(result: subprocess.CompletedProcess[str]) -> str:
         detail = (result.stderr or result.stdout).strip().splitlines()
-        return detail[-1] if detail else "unknown git error"
+        # The final line often only says "failed to push some refs", hiding
+        # the actual remote rejection. Never include authenticated URLs.
+        return re.sub(r"https?://\S+", "[remote]", " | ".join(detail[-8:])) if detail else "unknown git error"

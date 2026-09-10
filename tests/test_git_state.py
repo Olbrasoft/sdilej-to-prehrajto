@@ -4,6 +4,44 @@ from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.git_state import GitStateError
 
 
+def test_flush_retries_push_when_checkpoint_is_already_committed(tmp_path, monkeypatch):
+    (tmp_path / "state.json").write_text("{}")
+    persister = GitStatePersister(tmp_path)
+    commands = []
+    def run(*args, **kwargs):
+        commands.append(args)
+        return subprocess.CompletedProcess(args, 0, "", "")
+    monkeypatch.setattr(persister, "_run", run)
+    persister(tmp_path / "state.json", "flush")
+    assert ("push", "origin", "HEAD:main") in commands
+    assert not any(args[0] == "commit" for args in commands)
+
+
+def test_rebase_resolves_multiple_owned_checkpoints(tmp_path, monkeypatch):
+    persister = GitStatePersister(tmp_path)
+    continuations = []
+    def run(*args, **kwargs):
+        code, out = 0, ""
+        if args[:2] == ("rebase", "--autostash"):
+            code = 1
+        if args[:2] == ("diff", "--name-only"):
+            out = "state.json\n"
+        if "--continue" in args:
+            continuations.append(args)
+            code = int(len(continuations) == 1)
+        return subprocess.CompletedProcess(args, code, out, "conflict" if code else "")
+    monkeypatch.setattr(persister, "_run", run)
+    assert persister._rebase_checkpoint(["state.json"]) == (True, "")
+    assert len(continuations) == 2
+
+
+def test_push_diagnostics_keep_cause_and_redact_urls():
+    result = subprocess.CompletedProcess([], 1, "", "remote: rejected oversized file\nerror: failed to push https://user:secret@example.com/repo")
+    detail = GitStatePersister._failure_detail(result)
+    assert "oversized file" in detail
+    assert "secret" not in detail
+
+
 def test_git_checkpoints_batch_sources_and_persist_transfers(tmp_path, monkeypatch) -> None:
     persister = GitStatePersister(tmp_path)
     persisted = []
