@@ -97618,17 +97618,19 @@
       "attempts": []
     },
     "27422": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24211455",
+          "reason": "Request failed for https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi",
+          "permanent": false,
+          "attempted_at": "2026-09-10T10:55:33.516616+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24211455",
         "display_name": "Něco od Tiffanyho (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-10T10:28:42.795550+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-4",
-        "claimed_at": "2026-09-10T10:54:47.943790+00:00",
-        "lease_expires_at": "2026-09-10T16:54:47.943790+00:00",
-        "run_id": "34460867727"
       }
     },
     "4949": {
@@ -97668,6 +97670,12 @@
         "source_id": "22815223",
         "display_name": "Winx Club - Výprava do ztraceného království (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:28:42.974766+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
+        "claimed_at": "2026-09-10T10:54:51.793973+00:00",
+        "lease_expires_at": "2026-09-10T16:54:51.793973+00:00",
+        "run_id": "34460867727"
       }
     },
     "32474": {
@@ -133423,5 +133431,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:54:50.158935+00:00"
+  "updated_at": "2026-09-10T10:55:33.516634+00:00"
 }
