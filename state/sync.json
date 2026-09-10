@@ -14613,6 +14613,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
+        "claimed_at": "2026-09-10T17:29:44.475137+00:00",
+        "lease_expires_at": "2026-09-10T23:29:44.475137+00:00",
+        "run_id": "34495695760"
       }
     },
     "1109": {
@@ -14651,6 +14657,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
+        "claimed_at": "2026-09-10T17:29:44.696110+00:00",
+        "lease_expires_at": "2026-09-10T23:29:44.696110+00:00",
+        "run_id": "34495695760"
       }
     },
     "22983": {
@@ -101276,18 +101288,19 @@
           "reason": "Request failed for https://sdilej.cz/34661822/hlasitakovi-ve-filmu-2021-cz-dabing.mp4",
           "permanent": false,
           "attempted_at": "2026-09-10T14:21:39.015357+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34661822",
+          "target_video_id": "29278297",
+          "permanent": false,
+          "attempted_at": "2026-09-10T17:29:45.529828+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34661822",
         "display_name": "Hlasiťákovi ve filmu (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-10T17:15:35.959708+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-5",
-        "claimed_at": "2026-09-10T17:26:03.004827+00:00",
-        "lease_expires_at": "2026-09-10T23:26:03.004827+00:00",
-        "run_id": "34495695760"
       },
       "prepared": {
         "target_video_id": "29278297",
@@ -135849,5 +135862,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T17:29:42.497786+00:00"
+  "updated_at": "2026-09-10T17:29:45.529844+00:00"
 }
