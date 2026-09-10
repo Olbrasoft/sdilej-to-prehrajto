@@ -74469,14 +74469,6 @@
           "source_id": "34876843",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29279552",
-          "attempted_at": "2026-09-10T19:08:22.355989+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29282417",
           "attempted_at": "2026-09-10T21:34:49.421921+00:00"
         },
@@ -74487,18 +74479,19 @@
           "permanent": false,
           "target_video_id": "29283454",
           "attempted_at": "2026-09-10T22:48:24.887472+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34876843",
+          "reason": "Request failed for https://sdilej.cz/34876843/padesatka-2015-cz-dabing-1080p-fhd.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T23:45:52.451004+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-10T23:37:50.634980+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-1",
-        "claimed_at": "2026-09-10T23:45:06.626042+00:00",
-        "lease_expires_at": "2026-09-11T05:45:06.626042+00:00",
-        "run_id": "34531773054"
       }
     },
     "32120": {
@@ -75871,6 +75864,12 @@
         "target_video_id": "29220982",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-08T18:44:41.584400+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-4",
+        "claimed_at": "2026-09-10T23:45:51.387628+00:00",
+        "lease_expires_at": "2026-09-11T05:45:51.387628+00:00",
+        "run_id": "34531773054"
       }
     },
     "3587": {
@@ -76097,6 +76096,12 @@
         "target_video_id": "29167695",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-06T18:24:58.311609+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
+        "claimed_at": "2026-09-10T23:45:51.560569+00:00",
+        "lease_expires_at": "2026-09-11T05:45:51.560569+00:00",
+        "run_id": "34531773054"
       }
     },
     "28555": {
@@ -137625,5 +137630,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T23:45:49.751052+00:00"
+  "updated_at": "2026-09-10T23:45:52.451022+00:00"
 }
