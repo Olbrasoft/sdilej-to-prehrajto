@@ -95670,14 +95670,6 @@
     "23717": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34751728",
-          "target_video_id": "29252457",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T09:11:18.928681+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34751728",
           "target_video_id": "29270885",
@@ -95691,6 +95683,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-10T12:03:53.809672+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34751728",
+          "reason": "Request failed for https://sdilej.cz/34751728/hustler-white-1996-cz-titulky.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:15:07.328613+00:00"
         }
       ],
       "last_plan": {
@@ -134170,5 +134169,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:14:20.091694+00:00"
+  "updated_at": "2026-09-10T13:15:07.328632+00:00"
 }
