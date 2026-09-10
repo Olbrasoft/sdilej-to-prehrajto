@@ -41706,14 +41706,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29271394",
-          "attempted_at": "2026-09-10T11:37:08.529792+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27436084",
           "target_video_id": "29272878",
@@ -41727,6 +41719,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-10T13:57:19.105709+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27436084",
+          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T15:17:14.400459+00:00"
         }
       ],
       "last_plan": {
@@ -135252,5 +135251,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T15:16:26.894346+00:00"
+  "updated_at": "2026-09-10T15:17:14.400479+00:00"
 }
