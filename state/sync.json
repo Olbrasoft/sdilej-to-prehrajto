@@ -25429,6 +25429,12 @@
         "target_video_id": "29263627",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-10T05:17:24.012120+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-4",
+        "claimed_at": "2026-09-10T08:42:56.750119+00:00",
+        "lease_expires_at": "2026-09-10T14:42:56.750119+00:00",
+        "run_id": "34433636759"
       }
     },
     "2001": {
@@ -89753,17 +89759,19 @@
       "attempts": []
     },
     "33078": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34780331",
+          "target_video_id": "29267930",
+          "permanent": false,
+          "attempted_at": "2026-09-10T08:42:57.120462+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34780331",
         "display_name": "Hrdličky (2011) SD CZ Titulky",
         "planned_at": "2026-09-10T08:19:07.119137+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-0",
-        "claimed_at": "2026-09-10T08:39:15.326667+00:00",
-        "lease_expires_at": "2026-09-10T14:39:15.326667+00:00",
-        "run_id": "34433636759"
       },
       "prepared": {
         "target_video_id": "29267930",
@@ -132513,5 +132521,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T08:42:54.855931+00:00"
+  "updated_at": "2026-09-10T08:42:57.120480+00:00"
 }
