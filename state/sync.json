@@ -32472,13 +32472,6 @@
           "source_id": "31064718",
           "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-10T13:52:03.782579+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31064718",
-          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-10T14:25:43.788605+00:00"
         },
         {
@@ -32488,23 +32481,20 @@
           "permanent": false,
           "target_video_id": "29275413",
           "attempted_at": "2026-09-10T15:14:51.972262+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31064718",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29276555",
+          "attempted_at": "2026-09-10T16:18:11.424314+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-10T16:04:21.214390+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
-        "claimed_at": "2026-09-10T16:05:40.375429+00:00",
-        "lease_expires_at": "2026-09-10T22:05:40.375429+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29276555",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-10T16:05:52.323449+00:00"
       }
     },
     "14755": {
@@ -135704,5 +135694,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T16:16:57.293507+00:00"
+  "updated_at": "2026-09-10T16:18:11.424331+00:00"
 }
