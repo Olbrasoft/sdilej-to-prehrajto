@@ -101242,17 +101242,19 @@
       "attempts": []
     },
     "25147": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34706875",
+          "target_video_id": "29273783",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:46:56.303552+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34706875",
         "display_name": "Jane má schůzku (2003) SD CZ Dabing",
         "planned_at": "2026-09-10T13:16:34.616893+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
-        "claimed_at": "2026-09-10T13:44:44.872891+00:00",
-        "lease_expires_at": "2026-09-10T19:44:44.872891+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29273783",
@@ -101281,6 +101283,12 @@
         "source_id": "34695156",
         "display_name": "365 Days (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-10T13:16:34.763659+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T13:46:23.918628+00:00",
+        "lease_expires_at": "2026-09-10T19:46:23.918628+00:00",
+        "run_id": "34460867727"
       }
     },
     "14934": {
@@ -134645,5 +134653,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:46:21.107396+00:00"
+  "updated_at": "2026-09-10T13:46:56.303567+00:00"
 }
