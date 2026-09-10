@@ -23765,6 +23765,12 @@
         "target_video_id": "29184036",
         "size_bytes": 12600000000,
         "prepared_at": "2026-09-07T11:28:16.847116+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
+        "claimed_at": "2026-09-10T11:13:32.346470+00:00",
+        "lease_expires_at": "2026-09-10T17:13:32.346470+00:00",
+        "run_id": "34460867727"
       }
     },
     "2131": {
@@ -23912,6 +23918,12 @@
         "target_video_id": "29261139",
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-10T03:27:11.788654+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T11:13:32.183022+00:00",
+        "lease_expires_at": "2026-09-10T17:13:32.183022+00:00",
+        "run_id": "34460867727"
       }
     },
     "2054": {
@@ -25872,17 +25884,19 @@
       }
     },
     "21660": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27827139",
+          "target_video_id": "29270380",
+          "permanent": false,
+          "attempted_at": "2026-09-10T11:13:32.502541+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27827139",
         "display_name": "Jak byl dobyt Západ (1962) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:28:36.732482+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
-        "claimed_at": "2026-09-10T10:28:45.957936+00:00",
-        "lease_expires_at": "2026-09-10T16:28:45.957936+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29270380",
@@ -133617,5 +133631,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T11:13:30.593897+00:00"
+  "updated_at": "2026-09-10T11:13:32.502558+00:00"
 }
