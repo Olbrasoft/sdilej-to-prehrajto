@@ -72663,14 +72663,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29266574",
-          "attempted_at": "2026-09-10T07:51:09.083783+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34876843",
           "reason": "Request failed for https://sdilej.cz/34876843/padesatka-2015-cz-dabing-1080p-fhd.mkv",
@@ -72684,23 +72676,20 @@
           "permanent": false,
           "target_video_id": "29269213",
           "attempted_at": "2026-09-10T09:50:53.281661+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29270420",
+          "attempted_at": "2026-09-10T10:46:53.880967+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:28:37.140078+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-4",
-        "claimed_at": "2026-09-10T10:30:18.881195+00:00",
-        "lease_expires_at": "2026-09-10T16:30:18.881195+00:00",
-        "run_id": "34460867727"
-      },
-      "prepared": {
-        "target_video_id": "29270420",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-10T10:30:22.046544+00:00"
       }
     },
     "32120": {
@@ -133318,5 +133307,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:41:51.266949+00:00"
+  "updated_at": "2026-09-10T10:46:53.880985+00:00"
 }
