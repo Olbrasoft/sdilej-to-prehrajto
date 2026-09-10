@@ -74226,6 +74226,12 @@
         "target_video_id": "29167695",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-06T18:24:58.311609+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-2",
+        "claimed_at": "2026-09-10T09:19:28.833787+00:00",
+        "lease_expires_at": "2026-09-10T15:19:28.833787+00:00",
+        "run_id": "34433636759"
       }
     },
     "28555": {
@@ -74285,6 +74291,12 @@
         "target_video_id": "29167730",
         "size_bytes": 20400000000,
         "prepared_at": "2026-09-06T18:29:24.837720+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-4",
+        "claimed_at": "2026-09-10T09:19:29.015509+00:00",
+        "lease_expires_at": "2026-09-10T15:19:29.015509+00:00",
+        "run_id": "34433636759"
       }
     },
     "20499": {
@@ -90158,17 +90170,19 @@
       "attempts": []
     },
     "16446": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33853167",
+          "target_video_id": "29268580",
+          "permanent": false,
+          "attempted_at": "2026-09-10T09:19:29.180741+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33853167",
         "display_name": "Rodina McMullenů (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-10T08:48:27.548249+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-1",
-        "claimed_at": "2026-09-10T09:00:43.436711+00:00",
-        "lease_expires_at": "2026-09-10T15:00:43.436711+00:00",
-        "run_id": "34433636759"
       },
       "prepared": {
         "target_video_id": "29268580",
@@ -132669,5 +132683,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T09:19:27.046094+00:00"
+  "updated_at": "2026-09-10T09:19:29.180757+00:00"
 }
