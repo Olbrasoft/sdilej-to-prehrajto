@@ -88718,17 +88718,19 @@
       }
     },
     "14100": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34685639",
+          "reason": "Request failed for https://sdilej.cz/34685639/vanoce-na-zamku-2011-cz-dabing.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T09:53:51.613261+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34685639",
         "display_name": "Vánoce na zámku (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-10T09:32:06.831031+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-1",
-        "claimed_at": "2026-09-10T09:53:05.862502+00:00",
-        "lease_expires_at": "2026-09-10T15:53:05.862502+00:00",
-        "run_id": "34433636759"
       }
     },
     "22991": {
@@ -132860,5 +132862,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T09:53:19.005453+00:00"
+  "updated_at": "2026-09-10T09:53:51.613279+00:00"
 }
