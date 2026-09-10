@@ -14632,6 +14632,12 @@
         "target_video_id": "29118413",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-2",
+        "claimed_at": "2026-09-10T18:53:23.053516+00:00",
+        "lease_expires_at": "2026-09-11T00:53:23.053516+00:00",
+        "run_id": "34495695760"
       }
     },
     "14460": {
@@ -14709,6 +14715,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
+        "claimed_at": "2026-09-10T18:53:22.934530+00:00",
+        "lease_expires_at": "2026-09-11T00:53:22.934530+00:00",
+        "run_id": "34495695760"
       }
     },
     "1109": {
@@ -41876,14 +41888,6 @@
           "source_id": "27436084",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29276580",
-          "attempted_at": "2026-09-10T16:16:25.906731+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29277841",
           "attempted_at": "2026-09-10T17:14:18.262145+00:00"
         },
@@ -41894,23 +41898,20 @@
           "permanent": false,
           "target_video_id": "29278843",
           "attempted_at": "2026-09-10T18:06:14.084742+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29279435",
+          "attempted_at": "2026-09-10T18:53:24.513637+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-10T18:38:30.995777+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
-        "claimed_at": "2026-09-10T18:43:22.047254+00:00",
-        "lease_expires_at": "2026-09-11T00:43:22.047254+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29279435",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-10T18:43:25.996118+00:00"
       }
     },
     "32220": {
@@ -136050,5 +136051,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T18:53:20.925843+00:00"
+  "updated_at": "2026-09-10T18:53:24.513654+00:00"
 }
