@@ -95007,13 +95007,6 @@
     "23717": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34751728",
-          "target_video_id": "29249502",
-          "permanent": false,
-          "attempted_at": "2026-09-09T18:46:23.849368+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34751728",
           "target_video_id": "29249502",
@@ -95027,17 +95020,20 @@
           "target_video_id": "29252457",
           "permanent": false,
           "attempted_at": "2026-09-09T20:38:34.743550+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34751728",
+          "target_video_id": "29252457",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-10T09:11:18.928681+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34751728",
         "display_name": "Hustler White (1996) 1080p CZ Titulky",
         "planned_at": "2026-09-10T08:48:28.676543+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29252457",
-        "size_bytes": 4964022046,
-        "prepared_at": "2026-09-09T20:19:28.139691+00:00"
       }
     },
     "27019": {
@@ -132643,5 +132639,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T09:11:14.172129+00:00"
+  "updated_at": "2026-09-10T09:11:18.928696+00:00"
 }
