@@ -58872,13 +58872,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31626940",
-          "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T13:59:23.415927+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31626940",
           "reason": "PrehrajtoError",
@@ -58893,23 +58886,20 @@
           "permanent": false,
           "target_video_id": "29276871",
           "attempted_at": "2026-09-10T16:29:31.025209+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31626940",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29277994",
+          "attempted_at": "2026-09-10T17:22:49.212220+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-10T17:12:51.196862+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-1",
-        "claimed_at": "2026-09-10T17:12:57.269210+00:00",
-        "lease_expires_at": "2026-09-10T23:12:57.269210+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29277994",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-10T17:13:01.293715+00:00"
       }
     },
     "33003": {
@@ -91790,6 +91780,12 @@
         "target_video_id": "29236093",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-09T07:25:19.335479+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
+        "claimed_at": "2026-09-10T17:22:47.355979+00:00",
+        "lease_expires_at": "2026-09-10T23:22:47.355979+00:00",
+        "run_id": "34495695760"
       }
     },
     "19076": {
@@ -93943,6 +93939,12 @@
         "target_video_id": "29238524",
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-09T09:37:22.890375+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-2",
+        "claimed_at": "2026-09-10T17:22:47.480111+00:00",
+        "lease_expires_at": "2026-09-10T23:22:47.480111+00:00",
+        "run_id": "34495695760"
       }
     },
     "4923": {
@@ -135874,5 +135876,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T17:22:45.375137+00:00"
+  "updated_at": "2026-09-10T17:22:49.212237+00:00"
 }
