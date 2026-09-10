@@ -35086,13 +35086,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32222414",
-          "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T10:10:21.883292+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -35106,17 +35099,20 @@
           "target_video_id": "29271866",
           "permanent": false,
           "attempted_at": "2026-09-10T12:21:57.525995+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "32222414",
+          "target_video_id": "29271866",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:03:08.690155+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-10T13:01:15.433063+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29271866",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-10T12:04:54.422638+00:00"
       }
     },
     "2571": {
@@ -35262,6 +35258,12 @@
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-10T13:01:15.606215+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
+        "claimed_at": "2026-09-10T13:03:06.250917+00:00",
+        "lease_expires_at": "2026-09-10T19:03:06.250917+00:00",
+        "run_id": "34460867727"
       }
     },
     "18861": {
@@ -35517,6 +35519,12 @@
         "target_video_id": "29141791",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
+        "claimed_at": "2026-09-10T13:03:06.422700+00:00",
+        "lease_expires_at": "2026-09-10T19:03:06.422700+00:00",
+        "run_id": "34460867727"
       }
     },
     "2558": {
@@ -134228,5 +134236,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:03:04.339869+00:00"
+  "updated_at": "2026-09-10T13:03:08.690173+00:00"
 }
