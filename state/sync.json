@@ -31002,6 +31002,12 @@
         "target_video_id": "29158387",
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-06T10:38:30.131424+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-4",
+        "claimed_at": "2026-09-10T17:04:45.046343+00:00",
+        "lease_expires_at": "2026-09-10T23:04:45.046343+00:00",
+        "run_id": "34495695760"
       }
     },
     "2305": {
@@ -31085,6 +31091,12 @@
         "target_video_id": "29204469",
         "size_bytes": 14500000000,
         "prepared_at": "2026-09-08T04:59:41.132927+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
+        "claimed_at": "2026-09-10T17:04:44.934414+00:00",
+        "lease_expires_at": "2026-09-10T23:04:44.934414+00:00",
+        "run_id": "34495695760"
       }
     },
     "22635": {
@@ -32469,13 +32481,6 @@
     "17625": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31064718",
-          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T14:25:43.788605+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31064718",
           "reason": "PrehrajtoError",
@@ -32490,23 +32495,20 @@
           "permanent": false,
           "target_video_id": "29276555",
           "attempted_at": "2026-09-10T16:18:11.424314+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31064718",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29277577",
+          "attempted_at": "2026-09-10T17:04:46.627086+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-10T16:52:21.034078+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-5",
-        "claimed_at": "2026-09-10T16:54:13.381036+00:00",
-        "lease_expires_at": "2026-09-10T22:54:13.381036+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29277577",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-10T16:54:19.082463+00:00"
       }
     },
     "14755": {
@@ -135937,5 +135939,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T17:04:42.771198+00:00"
+  "updated_at": "2026-09-10T17:04:46.627103+00:00"
 }
