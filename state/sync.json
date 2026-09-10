@@ -35228,13 +35228,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32222414",
-          "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T15:11:32.470782+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -35249,18 +35242,19 @@
           "permanent": false,
           "target_video_id": "29277580",
           "attempted_at": "2026-09-10T17:11:30.013854+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32222414",
+          "target_video_id": "29278657",
+          "permanent": false,
+          "attempted_at": "2026-09-10T17:57:08.224938+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-10T17:44:10.862239+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
-        "claimed_at": "2026-09-10T17:44:41.351697+00:00",
-        "lease_expires_at": "2026-09-10T23:44:41.351697+00:00",
-        "run_id": "34495695760"
       },
       "prepared": {
         "target_video_id": "29278657",
@@ -135942,5 +135936,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T17:57:03.128681+00:00"
+  "updated_at": "2026-09-10T17:57:08.224956+00:00"
 }
