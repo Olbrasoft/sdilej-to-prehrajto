@@ -35231,13 +35231,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27669370",
-          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T09:17:44.001779+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27669370",
           "target_video_id": "29269912",
@@ -35252,18 +35245,19 @@
           "permanent": false,
           "target_video_id": "29271146",
           "attempted_at": "2026-09-10T12:20:08.155132+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27669370",
+          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:03:51.963303+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-10T13:01:15.606215+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
-        "claimed_at": "2026-09-10T13:03:06.250917+00:00",
-        "lease_expires_at": "2026-09-10T19:03:06.250917+00:00",
-        "run_id": "34460867727"
       }
     },
     "18861": {
@@ -40247,6 +40241,12 @@
         "target_video_id": "29216460",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-08T15:13:12.356548+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
+        "claimed_at": "2026-09-10T13:03:50.465693+00:00",
+        "lease_expires_at": "2026-09-10T19:03:50.465693+00:00",
+        "run_id": "34460867727"
       }
     },
     "37443": {
@@ -134236,5 +134236,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:03:48.769390+00:00"
+  "updated_at": "2026-09-10T13:03:51.963370+00:00"
 }
