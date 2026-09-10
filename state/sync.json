@@ -101594,17 +101594,19 @@
       "attempts": []
     },
     "6287": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26202496",
+          "reason": "Request failed for https://sdilej.cz/26202496/zamilovany-bohac.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T14:37:24.660982+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26202496",
         "display_name": "Zamilovaný boháč (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-10T14:24:54.858288+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
-        "claimed_at": "2026-09-10T14:36:39.030762+00:00",
-        "lease_expires_at": "2026-09-10T20:36:39.030762+00:00",
-        "run_id": "34460867727"
       }
     },
     "5115": {
@@ -101637,6 +101639,12 @@
         "source_id": "34920954",
         "display_name": "Birth/Rebirth (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-10T14:24:55.031016+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-1",
+        "claimed_at": "2026-09-10T14:36:43.329527+00:00",
+        "lease_expires_at": "2026-09-10T20:36:43.329527+00:00",
+        "run_id": "34460867727"
       }
     },
     "24627": {
@@ -134914,5 +134922,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T14:36:41.619308+00:00"
+  "updated_at": "2026-09-10T14:37:24.660998+00:00"
 }
