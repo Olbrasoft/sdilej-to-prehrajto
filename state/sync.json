@@ -99661,17 +99661,19 @@
       "attempts": []
     },
     "15909": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34724888",
+          "reason": "Request failed for https://sdilej.cz/34724888/no-entres-2024-cz-titulky.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T12:45:06.223658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34724888",
         "display_name": "No entres (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-10T12:04:49.277912+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
-        "claimed_at": "2026-09-10T12:44:20.657988+00:00",
-        "lease_expires_at": "2026-09-10T18:44:20.657988+00:00",
-        "run_id": "34460867727"
       }
     },
     "29287": {
@@ -134092,5 +134094,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T12:44:28.835052+00:00"
+  "updated_at": "2026-09-10T12:45:06.223677+00:00"
 }
