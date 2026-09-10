@@ -93151,17 +93151,19 @@
       "attempts": []
     },
     "23003": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33681652",
+          "reason": "Request failed for https://sdilej.cz/33681652/had-a-duha-smrtici-voodoo-1988-1080p-cz.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T10:49:48.656605+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33681652",
         "display_name": "Had a duha (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:28:40.655280+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
-        "claimed_at": "2026-09-10T10:49:02.958023+00:00",
-        "lease_expires_at": "2026-09-10T16:49:02.958023+00:00",
-        "run_id": "34460867727"
       }
     },
     "11263": {
@@ -93295,6 +93297,12 @@
         "source_id": "34721280",
         "display_name": "Zrádný obdivovatel (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:28:41.017014+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
+        "claimed_at": "2026-09-10T10:49:40.828222+00:00",
+        "lease_expires_at": "2026-09-10T16:49:40.828222+00:00",
+        "run_id": "34460867727"
       }
     },
     "4554": {
@@ -133360,5 +133368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:49:39.154152+00:00"
+  "updated_at": "2026-09-10T10:49:48.656622+00:00"
 }
