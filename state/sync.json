@@ -77374,14 +77374,6 @@
     "3740": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "17515039",
-          "target_video_id": "29267597",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T09:33:52.040195+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "17515039",
           "reason": "Request failed for https://sdilej.cz/17515039/fear.street.part.3.1666.2021.1080p.webrip.cz.dabing.5.1.mkv",
@@ -77394,23 +77386,20 @@
           "target_video_id": "29271573",
           "permanent": false,
           "attempted_at": "2026-09-10T11:47:35.555972+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "17515039",
+          "target_video_id": "29271573",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:12:45.008500+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17515039",
         "display_name": "Ulice strachu – 3. část: 1666 (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-10T13:12:25.975668+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29271573",
-        "size_bytes": 2695694777,
-        "prepared_at": "2026-09-10T11:39:12.145804+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
-        "claimed_at": "2026-09-10T13:12:40.764938+00:00",
-        "lease_expires_at": "2026-09-10T19:12:40.764938+00:00",
-        "run_id": "34460867727"
       }
     },
     "34423": {
@@ -134228,5 +134217,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:12:43.189765+00:00"
+  "updated_at": "2026-09-10T13:12:45.008518+00:00"
 }
