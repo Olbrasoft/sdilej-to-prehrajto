@@ -71747,13 +71747,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "29955764",
-          "target_video_id": "29270020",
-          "permanent": false,
-          "attempted_at": "2026-09-10T10:21:08.420296+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "29955764",
           "target_video_id": "29270020",
@@ -71767,17 +71760,20 @@
           "target_video_id": "29272931",
           "permanent": false,
           "attempted_at": "2026-09-10T13:16:01.177067+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "29955764",
+          "target_video_id": "29272931",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-10T14:00:58.413890+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-10T13:59:44.381590+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29272931",
-        "size_bytes": 2375786446,
-        "prepared_at": "2026-09-10T13:07:38.076495+00:00"
       }
     },
     "34620": {
@@ -134700,5 +134696,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T14:00:54.270289+00:00"
+  "updated_at": "2026-09-10T14:00:58.413908+00:00"
 }
