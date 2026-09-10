@@ -49360,14 +49360,6 @@
     "24733": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34706261",
-          "target_video_id": "29269944",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T10:14:03.689313+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34706261",
           "reason": "Request failed for https://sdilej.cz/34706261/pani-kacka-zasahuje...-1939-cz.mp4",
@@ -49381,23 +49373,20 @@
           "permanent": false,
           "target_video_id": "29271843",
           "attempted_at": "2026-09-10T12:10:56.844169+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34706261",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29272881",
+          "attempted_at": "2026-09-10T13:11:56.319401+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-10T13:03:23.285524+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-5",
-        "claimed_at": "2026-09-10T13:04:20.955872+00:00",
-        "lease_expires_at": "2026-09-10T19:04:20.955872+00:00",
-        "run_id": "34460867727"
-      },
-      "prepared": {
-        "target_video_id": "29272881",
-        "size_bytes": 867827396,
-        "prepared_at": "2026-09-10T13:04:26.451714+00:00"
       }
     },
     "32933": {
@@ -74889,6 +74878,12 @@
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-10T13:06:22.551996+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
+        "claimed_at": "2026-09-10T13:11:13.111876+00:00",
+        "lease_expires_at": "2026-09-10T19:11:13.111876+00:00",
+        "run_id": "34460867727"
       }
     },
     "32728": {
@@ -134246,5 +134241,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:11:11.289373+00:00"
+  "updated_at": "2026-09-10T13:11:56.319429+00:00"
 }
