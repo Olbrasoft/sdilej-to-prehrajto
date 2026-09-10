@@ -18377,6 +18377,12 @@
         "target_video_id": "29128168",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-05T20:26:10.233538+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-0",
+        "claimed_at": "2026-09-10T07:29:14.696032+00:00",
+        "lease_expires_at": "2026-09-10T13:29:14.696032+00:00",
+        "run_id": "34433636759"
       }
     },
     "1539": {
@@ -19947,6 +19953,12 @@
         "target_video_id": "29161092",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-06T12:31:01.918341+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-5",
+        "claimed_at": "2026-09-10T07:29:14.535846+00:00",
+        "lease_expires_at": "2026-09-10T13:29:14.535846+00:00",
+        "run_id": "34433636759"
       }
     },
     "1693": {
@@ -22054,6 +22066,12 @@
         "target_video_id": "29153323",
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-2",
+        "claimed_at": "2026-09-10T07:29:14.391593+00:00",
+        "lease_expires_at": "2026-09-10T13:29:14.391593+00:00",
+        "run_id": "34433636759"
       }
     },
     "29761": {
@@ -58264,14 +58282,6 @@
           "source_id": "31626940",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29260554",
-          "attempted_at": "2026-09-10T03:09:54.922044+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31626940",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29262287",
           "attempted_at": "2026-09-10T04:33:24.799823+00:00"
         },
@@ -58282,23 +58292,20 @@
           "permanent": false,
           "target_video_id": "29263918",
           "attempted_at": "2026-09-10T05:42:50.481728+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31626940",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29266148",
+          "attempted_at": "2026-09-10T07:29:16.658394+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-10T07:00:40.278539+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-4",
-        "claimed_at": "2026-09-10T07:15:20.251804+00:00",
-        "lease_expires_at": "2026-09-10T13:15:20.251804+00:00",
-        "run_id": "34433636759"
-      },
-      "prepared": {
-        "target_video_id": "29266148",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-10T07:15:24.406917+00:00"
       }
     },
     "33003": {
@@ -131909,5 +131916,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T07:29:12.700267+00:00"
+  "updated_at": "2026-09-10T07:29:16.658411+00:00"
 }
