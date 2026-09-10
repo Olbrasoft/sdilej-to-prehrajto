@@ -100475,13 +100475,6 @@
           "source_id": "24709903",
           "reason": "Request failed for https://sdilej.cz/24709903/holka-s-prknem-2011.mkv",
           "permanent": false,
-          "attempted_at": "2026-09-10T12:46:05.982588+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "24709903",
-          "reason": "Request failed for https://sdilej.cz/24709903/holka-s-prknem-2011.mkv",
-          "permanent": false,
           "attempted_at": "2026-09-10T13:23:15.836544+00:00"
         },
         {
@@ -100490,6 +100483,13 @@
           "target_video_id": "29274277",
           "permanent": false,
           "attempted_at": "2026-09-10T14:19:48.546836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24709903",
+          "target_video_id": "29274277",
+          "permanent": false,
+          "attempted_at": "2026-09-10T17:23:40.059110+00:00"
         }
       ],
       "last_plan": {
@@ -100499,14 +100499,8 @@
       },
       "prepared": {
         "target_video_id": "29274277",
-        "size_bytes": 1948949479,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-10T14:14:17.651896+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
-        "claimed_at": "2026-09-10T17:23:37.797710+00:00",
-        "lease_expires_at": "2026-09-10T23:23:37.797710+00:00",
-        "run_id": "34495695760"
       }
     },
     "15572": {
@@ -100758,6 +100752,12 @@
         "target_video_id": "29273063",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-10T13:22:37.360092+00:00"
+      },
+      "claim": {
+        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-2",
+        "claimed_at": "2026-09-10T17:23:39.805305+00:00",
+        "lease_expires_at": "2026-09-10T23:23:39.805305+00:00",
+        "run_id": "34495695760"
       }
     },
     "12258": {
@@ -135855,5 +135855,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T17:23:37.909805+00:00"
+  "updated_at": "2026-09-10T17:23:40.059131+00:00"
 }
