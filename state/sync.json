@@ -41544,14 +41544,6 @@
           "source_id": "27436084",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29265972",
-          "attempted_at": "2026-09-10T07:22:46.438505+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29267277",
           "attempted_at": "2026-09-10T08:18:40.386811+00:00"
         },
@@ -41562,18 +41554,19 @@
           "permanent": false,
           "target_video_id": "29269007",
           "attempted_at": "2026-09-10T09:26:19.499540+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27436084",
+          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T10:11:15.821264+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-10T10:10:05.809094+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-2",
-        "claimed_at": "2026-09-10T10:10:28.746807+00:00",
-        "lease_expires_at": "2026-09-10T16:10:28.746807+00:00",
-        "run_id": "34433636759"
       }
     },
     "32220": {
@@ -50728,6 +50721,12 @@
         "target_video_id": "29136445",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T15:02:31.127606+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-0",
+        "claimed_at": "2026-09-10T10:11:13.456165+00:00",
+        "lease_expires_at": "2026-09-10T16:11:13.456165+00:00",
+        "run_id": "34433636759"
       }
     },
     "12690": {
@@ -133010,5 +133009,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:11:11.710824+00:00"
+  "updated_at": "2026-09-10T10:11:15.821283+00:00"
 }
