@@ -101461,17 +101461,19 @@
       "attempts": []
     },
     "23793": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34558406",
+          "reason": "Request failed for https://sdilej.cz/34558406/pohrben-zaziva.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T14:35:47.258398+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34558406",
         "display_name": "Pohřbeni zaživa (1997) 1080p CZ Dabing",
         "planned_at": "2026-09-10T14:24:54.186232+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-4",
-        "claimed_at": "2026-09-10T14:35:01.542842+00:00",
-        "lease_expires_at": "2026-09-10T20:35:01.542842+00:00",
-        "run_id": "34460867727"
       }
     },
     "23758": {
@@ -101486,6 +101488,12 @@
         "source_id": "33744811",
         "display_name": "Před svatbou ne! (2001) 1080p CZ Dabing",
         "planned_at": "2026-09-10T14:24:54.359166+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T14:35:05.462201+00:00",
+        "lease_expires_at": "2026-09-10T20:35:05.462201+00:00",
+        "run_id": "34460867727"
       }
     },
     "9164": {
@@ -134873,5 +134881,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T14:35:03.083623+00:00"
+  "updated_at": "2026-09-10T14:35:47.258416+00:00"
 }
