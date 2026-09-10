@@ -14536,6 +14536,12 @@
         "target_video_id": "29118413",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
+      },
+      "claim": {
+        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-4",
+        "claimed_at": "2026-09-10T00:17:22.188475+00:00",
+        "lease_expires_at": "2026-09-10T06:17:22.188475+00:00",
+        "run_id": "34411990920"
       }
     },
     "14460": {
@@ -38416,17 +38422,19 @@
       "attempts": []
     },
     "14718": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34733076",
+          "target_video_id": "29257529",
+          "permanent": false,
+          "attempted_at": "2026-09-10T00:17:24.292624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34733076",
         "display_name": "Komplic (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-09T23:37:36.967460+00:00"
-      },
-      "claim": {
-        "worker_id": "0b86072f0bdf47d09affc604e020192b-shard-1",
-        "claimed_at": "2026-09-10T00:06:37.472785+00:00",
-        "lease_expires_at": "2026-09-10T06:06:37.472785+00:00",
-        "run_id": "34411990920"
       },
       "prepared": {
         "target_video_id": "29257529",
@@ -130004,5 +130012,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T00:17:20.559593+00:00"
+  "updated_at": "2026-09-10T00:17:24.292658+00:00"
 }
