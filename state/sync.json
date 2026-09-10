@@ -35449,14 +35449,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32222414",
-          "target_video_id": "29278657",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T18:34:22.893835+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -35471,23 +35463,20 @@
           "permanent": false,
           "target_video_id": "29281042",
           "attempted_at": "2026-09-10T20:17:44.367500+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29282181",
+          "attempted_at": "2026-09-10T21:25:42.959919+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-10T21:00:09.107759+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-0",
-        "claimed_at": "2026-09-10T21:02:21.852565+00:00",
-        "lease_expires_at": "2026-09-11T03:02:21.852565+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29282181",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-10T21:02:28.297942+00:00"
       }
     },
     "2571": {
@@ -136841,5 +136830,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T21:22:50.401797+00:00"
+  "updated_at": "2026-09-10T21:25:42.959936+00:00"
 }
