@@ -59067,13 +59067,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30673323",
-          "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4",
-          "permanent": false,
-          "attempted_at": "2026-09-10T09:33:22.925225+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "30673323",
           "reason": "PrehrajtoError",
@@ -59088,18 +59081,19 @@
           "permanent": false,
           "target_video_id": "29271485",
           "attempted_at": "2026-09-10T11:45:11.311482+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30673323",
+          "target_video_id": "29272895",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:13:28.314416+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-10T13:03:26.396599+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
-        "claimed_at": "2026-09-10T13:05:20.413999+00:00",
-        "lease_expires_at": "2026-09-10T19:05:20.413999+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29272895",
@@ -134211,5 +134205,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:13:26.542854+00:00"
+  "updated_at": "2026-09-10T13:13:28.314434+00:00"
 }
