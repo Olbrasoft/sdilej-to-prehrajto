@@ -62902,17 +62902,19 @@
       "attempts": []
     },
     "12501": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29292566",
+          "reason": "Request failed for https://sdilej.cz/29292566/mystery-aljaska-1999-1940-.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T04:42:49.875478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29292566",
         "display_name": "Mystery, Aljaška (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-10T04:41:55.530624+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-3",
-        "claimed_at": "2026-09-10T04:42:02.622957+00:00",
-        "lease_expires_at": "2026-09-10T10:42:02.622957+00:00",
-        "run_id": "34433636759"
       }
     },
     "36704": {
@@ -131161,5 +131163,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T04:42:48.173261+00:00"
+  "updated_at": "2026-09-10T04:42:49.875495+00:00"
 }
