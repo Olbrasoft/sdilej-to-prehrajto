@@ -31856,17 +31856,19 @@
       "attempts": []
     },
     "22492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28966003",
+          "reason": "Request failed for https://sdilej.cz/28966003/cas-po-case-1979-fantasy-cz.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T07:31:44.232250+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28966003",
         "display_name": "Čas po čase (1979) SD CZ Dabing",
         "planned_at": "2026-09-10T07:29:33.458707+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-5",
-        "claimed_at": "2026-09-10T07:30:58.534348+00:00",
-        "lease_expires_at": "2026-09-10T13:30:58.534348+00:00",
-        "run_id": "34433636759"
       }
     },
     "30348": {
@@ -131941,5 +131943,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T07:31:37.773650+00:00"
+  "updated_at": "2026-09-10T07:31:44.232266+00:00"
 }
