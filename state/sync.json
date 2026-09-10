@@ -71540,17 +71540,19 @@
       "attempts": []
     },
     "30223": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31586871",
+          "reason": "Request failed for https://sdilej.cz/31586871/mec-a-ruze-1953-czdabing-dvdrip.x264-jrk.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T06:32:37.945708+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31586871",
         "display_name": "Meč a růže (1953) SD CZ Dabing",
         "planned_at": "2026-09-10T06:12:32.606766+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-5",
-        "claimed_at": "2026-09-10T06:31:52.243867+00:00",
-        "lease_expires_at": "2026-09-10T12:31:52.243867+00:00",
-        "run_id": "34433636759"
       }
     },
     "24171": {
@@ -71615,6 +71617,12 @@
         "source_id": "34687205",
         "display_name": "Nájemník (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-10T06:12:32.891771+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-4",
+        "claimed_at": "2026-09-10T06:32:35.593440+00:00",
+        "lease_expires_at": "2026-09-10T12:32:35.593440+00:00",
+        "run_id": "34433636759"
       }
     },
     "15262": {
@@ -131736,5 +131744,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T06:32:33.856479+00:00"
+  "updated_at": "2026-09-10T06:32:37.945726+00:00"
 }
