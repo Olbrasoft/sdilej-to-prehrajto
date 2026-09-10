@@ -49141,6 +49141,12 @@
         "source_id": "34781295",
         "display_name": "Heinrich Himmler: Profil masového vraha (2008) SD CZ Dabing",
         "planned_at": "2026-09-10T15:43:23.976438+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-4",
+        "claimed_at": "2026-09-10T15:45:37.685725+00:00",
+        "lease_expires_at": "2026-09-10T21:45:37.685725+00:00",
+        "run_id": "34460867727"
       }
     },
     "26545": {
@@ -72987,13 +72993,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34876843",
-          "target_video_id": "29271553",
-          "permanent": false,
-          "attempted_at": "2026-09-10T11:50:40.412283+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34876843",
           "target_video_id": "29271553",
@@ -73008,23 +73007,20 @@
           "permanent": false,
           "target_video_id": "29274091",
           "attempted_at": "2026-09-10T14:18:22.007988+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29275807",
+          "attempted_at": "2026-09-10T15:46:08.400092+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-10T15:23:06.664922+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
-        "claimed_at": "2026-09-10T15:25:41.490992+00:00",
-        "lease_expires_at": "2026-09-10T21:25:41.490992+00:00",
-        "run_id": "34460867727"
-      },
-      "prepared": {
-        "target_video_id": "29275807",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-10T15:25:44.821531+00:00"
       }
     },
     "32120": {
@@ -135427,5 +135423,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T15:45:35.766318+00:00"
+  "updated_at": "2026-09-10T15:46:08.400110+00:00"
 }
