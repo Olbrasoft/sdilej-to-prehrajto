@@ -59772,13 +59772,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30673323",
-          "target_video_id": "29276910",
-          "permanent": false,
-          "attempted_at": "2026-09-10T16:26:52.182659+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30673323",
           "target_video_id": "29276910",
@@ -59793,23 +59786,20 @@
           "permanent": false,
           "target_video_id": "29278902",
           "attempted_at": "2026-09-10T18:12:58.404970+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29279615",
+          "attempted_at": "2026-09-10T19:10:39.438948+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-10T18:54:26.232591+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-3",
-        "claimed_at": "2026-09-10T18:55:39.696686+00:00",
-        "lease_expires_at": "2026-09-11T00:55:39.696686+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29279615",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-10T18:55:49.497987+00:00"
       }
     },
     "14505": {
@@ -136183,5 +136173,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T19:09:58.297369+00:00"
+  "updated_at": "2026-09-10T19:10:39.438964+00:00"
 }
