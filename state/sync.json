@@ -14485,6 +14485,12 @@
         "target_video_id": "29118389",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:06.554745+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
+        "claimed_at": "2026-09-10T15:00:11.287754+00:00",
+        "lease_expires_at": "2026-09-10T21:00:11.287754+00:00",
+        "run_id": "34460867727"
       }
     },
     "1128": {
@@ -101918,17 +101924,19 @@
       "attempts": []
     },
     "6819": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27818678",
+          "target_video_id": "29275139",
+          "permanent": false,
+          "attempted_at": "2026-09-10T15:00:12.974907+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27818678",
         "display_name": "Britský deník (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-10T14:24:56.191027+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-4",
-        "claimed_at": "2026-09-10T14:42:35.662474+00:00",
-        "lease_expires_at": "2026-09-10T20:42:35.662474+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29275139",
@@ -135079,5 +135087,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T15:00:08.615581+00:00"
+  "updated_at": "2026-09-10T15:00:12.974922+00:00"
 }
