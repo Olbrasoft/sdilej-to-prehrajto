@@ -73706,14 +73706,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29275807",
-          "attempted_at": "2026-09-10T15:46:08.400092+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34876843",
           "target_video_id": "29278028",
@@ -73727,23 +73719,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-10T18:06:34.807339+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29279552",
+          "attempted_at": "2026-09-10T19:08:22.355989+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-10T18:38:34.585468+00:00"
-      },
-      "claim": {
-        "worker_id": "17327b4fd3f3450486ca04039c088047-shard-1",
-        "claimed_at": "2026-09-10T18:51:16.649984+00:00",
-        "lease_expires_at": "2026-09-11T00:51:16.649984+00:00",
-        "run_id": "34495695760"
-      },
-      "prepared": {
-        "target_video_id": "29279552",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-10T18:51:21.075037+00:00"
       }
     },
     "32120": {
@@ -136159,5 +136148,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T19:07:33.990204+00:00"
+  "updated_at": "2026-09-10T19:08:22.356007+00:00"
 }
