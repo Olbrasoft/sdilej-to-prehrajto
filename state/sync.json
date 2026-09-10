@@ -50071,17 +50071,19 @@
       "attempts": []
     },
     "29522": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30662914",
+          "reason": "Request failed for https://sdilej.cz/30662914/kresadlo.avi",
+          "permanent": false,
+          "attempted_at": "2026-09-10T15:56:51.128610+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30662914",
         "display_name": "Křesadlo (1968) SD CZ Dabing",
         "planned_at": "2026-09-10T15:43:25.173090+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-1",
-        "claimed_at": "2026-09-10T15:56:05.566478+00:00",
-        "lease_expires_at": "2026-09-10T21:56:05.566478+00:00",
-        "run_id": "34460867727"
       }
     },
     "34829": {
@@ -135544,5 +135546,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T15:56:34.253081+00:00"
+  "updated_at": "2026-09-10T15:56:51.128627+00:00"
 }
