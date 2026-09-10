@@ -58360,14 +58360,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "31626940",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29269009",
-          "attempted_at": "2026-09-10T09:27:54.373042+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31626940",
           "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv",
@@ -58380,23 +58372,20 @@
           "target_video_id": "29271437",
           "permanent": false,
           "attempted_at": "2026-09-10T11:35:53.973909+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31626940",
+          "target_video_id": "29271437",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-10T13:05:18.586704+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-10T13:03:26.072531+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29271437",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-10T11:29:49.898894+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-1",
-        "claimed_at": "2026-09-10T13:05:14.483257+00:00",
-        "lease_expires_at": "2026-09-10T19:05:14.483257+00:00",
-        "run_id": "34460867727"
       }
     },
     "33003": {
@@ -134253,5 +134242,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T13:05:16.856976+00:00"
+  "updated_at": "2026-09-10T13:05:18.586724+00:00"
 }
