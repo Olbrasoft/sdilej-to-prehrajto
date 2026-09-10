@@ -25510,17 +25510,19 @@
       "attempts": []
     },
     "14794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26384683",
+          "reason": "Request failed for https://sdilej.cz/26384683/konference-the-conference-1080p-webrip-x264-ac3-5.1-de-ac3-cz-2022-.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T05:26:35.053398+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26384683",
         "display_name": "Konference (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-10T05:16:27.384491+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-3",
-        "claimed_at": "2026-09-10T05:25:49.404256+00:00",
-        "lease_expires_at": "2026-09-10T11:25:49.404256+00:00",
-        "run_id": "34433636759"
       }
     },
     "2129": {
@@ -25535,6 +25537,12 @@
         "source_id": "18897937",
         "display_name": "Five More Minutes (2021) 720p CZ Titulky",
         "planned_at": "2026-09-10T05:16:27.521560+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-5",
+        "claimed_at": "2026-09-10T05:26:18.138324+00:00",
+        "lease_expires_at": "2026-09-10T11:26:18.138324+00:00",
+        "run_id": "34433636759"
       }
     },
     "26511": {
@@ -131399,5 +131407,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T05:26:16.320298+00:00"
+  "updated_at": "2026-09-10T05:26:35.053415+00:00"
 }
