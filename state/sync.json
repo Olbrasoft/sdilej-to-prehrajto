@@ -35061,14 +35061,6 @@
           "source_id": "32222414",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29265810",
-          "attempted_at": "2026-09-10T07:25:03.771177+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29267269",
           "attempted_at": "2026-09-10T08:23:47.280680+00:00"
         },
@@ -35079,18 +35071,19 @@
           "permanent": false,
           "target_video_id": "29268915",
           "attempted_at": "2026-09-10T09:36:22.782182+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32222414",
+          "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T10:10:21.883292+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-10T10:07:40.417477+00:00"
-      },
-      "claim": {
-        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-1",
-        "claimed_at": "2026-09-10T10:09:34.048027+00:00",
-        "lease_expires_at": "2026-09-10T16:09:34.048027+00:00",
-        "run_id": "34433636759"
       }
     },
     "2571": {
@@ -39672,6 +39665,12 @@
         "target_video_id": "29262068",
         "size_bytes": 1000000000,
         "prepared_at": "2026-09-10T04:14:03.788497+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-2",
+        "claimed_at": "2026-09-10T10:10:21.557155+00:00",
+        "lease_expires_at": "2026-09-10T16:10:21.557155+00:00",
+        "run_id": "34433636759"
       }
     },
     "22551": {
@@ -40223,6 +40222,12 @@
         "target_video_id": "29216460",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-08T15:13:12.356548+00:00"
+      },
+      "claim": {
+        "worker_id": "343398fe69484cfdbf54103daaefe1a2-shard-0",
+        "claimed_at": "2026-09-10T10:10:21.713872+00:00",
+        "lease_expires_at": "2026-09-10T16:10:21.713872+00:00",
+        "run_id": "34433636759"
       }
     },
     "37443": {
@@ -133000,5 +133005,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T10:10:19.754192+00:00"
+  "updated_at": "2026-09-10T10:10:21.883308+00:00"
 }
