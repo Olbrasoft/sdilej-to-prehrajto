@@ -50787,6 +50787,12 @@
         "target_video_id": "29136456",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T12:03:15.077414+00:00",
+        "lease_expires_at": "2026-09-10T18:03:15.077414+00:00",
+        "run_id": "34460867727"
       }
     },
     "24046": {
@@ -92404,18 +92410,19 @@
           "reason": "Request failed for https://sdilej.cz/21015797/duvera-se-nevyplaci-hon-na-krale-kryptomen-trust-no-one-the-hunt-for-the-crypto-king-cz-1080p-2022-malasorte.mkv",
           "permanent": false,
           "attempted_at": "2026-09-10T10:47:42.567779+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21015797",
+          "target_video_id": "29271759",
+          "permanent": false,
+          "attempted_at": "2026-09-10T12:03:16.079781+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21015797",
         "display_name": "Důvěra se nevyplácí: Hon na krále kryptoměn (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-10T11:53:46.950673+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
-        "claimed_at": "2026-09-10T11:55:58.306956+00:00",
-        "lease_expires_at": "2026-09-10T17:55:58.306956+00:00",
-        "run_id": "34460867727"
       },
       "prepared": {
         "target_video_id": "29271759",
@@ -133649,5 +133656,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T12:03:13.281044+00:00"
+  "updated_at": "2026-09-10T12:03:16.079798+00:00"
 }
