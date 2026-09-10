@@ -39599,17 +39599,19 @@
       "attempts": []
     },
     "10714": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22063012",
+          "reason": "Request failed for https://sdilej.cz/22063012/chleb-laska-a-fantazie.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T15:33:38.548611+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22063012",
         "display_name": "Chléb, láska a fantasie (1953) 1080p CZ Dabing",
         "planned_at": "2026-09-10T15:30:31.787103+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-0",
-        "claimed_at": "2026-09-10T15:32:52.998099+00:00",
-        "lease_expires_at": "2026-09-10T21:32:52.998099+00:00",
-        "run_id": "34460867727"
       }
     },
     "32709": {
@@ -135302,5 +135304,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T15:33:00.286077+00:00"
+  "updated_at": "2026-09-10T15:33:38.548629+00:00"
 }
