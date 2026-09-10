@@ -57928,13 +57928,6 @@
     "9464": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30104045",
-          "reason": "Request failed for https://sdilej.cz/30104045/nocni-klid.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-10T09:25:53.593911+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30104045",
           "target_video_id": "29269961",
@@ -57947,6 +57940,13 @@
           "target_video_id": "29269961",
           "permanent": false,
           "attempted_at": "2026-09-10T11:29:40.822533+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30104045",
+          "target_video_id": "29269961",
+          "permanent": false,
+          "attempted_at": "2026-09-10T12:03:44.627924+00:00"
         }
       ],
       "last_plan": {
@@ -93407,6 +93407,12 @@
         "target_video_id": "29270802",
         "size_bytes": 1998947186,
         "prepared_at": "2026-09-10T10:49:53.382528+00:00"
+      },
+      "claim": {
+        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-3",
+        "claimed_at": "2026-09-10T12:03:42.623018+00:00",
+        "lease_expires_at": "2026-09-10T18:03:42.623018+00:00",
+        "run_id": "34460867727"
       }
     },
     "4606": {
@@ -133650,5 +133656,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T12:03:40.843220+00:00"
+  "updated_at": "2026-09-10T12:03:44.627941+00:00"
 }
