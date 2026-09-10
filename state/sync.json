@@ -90081,14 +90081,6 @@
     "34820": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "24192800",
-          "target_video_id": "29271645",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-10T13:13:34.711628+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "24192800",
           "reason": "Request failed for https://sdilej.cz/24192800/ztraceny-poklad-templarskych-rytiru-2-2007-.avi",
@@ -90101,6 +90093,13 @@
           "target_video_id": "29276491",
           "permanent": false,
           "attempted_at": "2026-09-10T17:22:38.932789+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24192800",
+          "target_video_id": "29276491",
+          "permanent": false,
+          "attempted_at": "2026-09-10T18:27:04.854971+00:00"
         }
       ],
       "last_plan": {
@@ -136032,5 +136031,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T18:27:00.630780+00:00"
+  "updated_at": "2026-09-10T18:27:04.854993+00:00"
 }
