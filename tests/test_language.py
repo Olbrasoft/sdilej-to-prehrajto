@@ -1,5 +1,7 @@
 from pathlib import Path
 from types import SimpleNamespace
+import subprocess
+import traceback
 
 import pytest
 
@@ -75,3 +77,24 @@ def test_stuck_whisper_worker_is_killed_after_timeout(tmp_path) -> None:
     assert connection.closed
     assert process.killed
     assert process.joined
+
+
+def test_ffmpeg_timeout_is_recoverable_and_does_not_expose_session(monkeypatch):
+    sample_paths = []
+
+    def timeout(command, **kwargs):
+        sample_paths.append(Path(command[-1]))
+        sample_paths[-1].write_bytes(b"partial")
+        raise subprocess.TimeoutExpired(command, kwargs["timeout"])
+
+    monkeypatch.setattr("subprocess.run", timeout)
+    monkeypatch.delenv("WHISPER_FFMPEG_TIMEOUT_SECONDS", raising=False)
+    detector = WhisperLanguageDetector(seconds=75)
+    media_url = "https://source.example/video?session=private-token"
+    with pytest.raises(LanguageDetectionError, match="timed out after 120 seconds") as caught:
+        detector.detect(media_url)
+
+    diagnostic = "".join(traceback.format_exception(caught.value))
+    assert "private-token" not in diagnostic
+    assert "source.example" not in diagnostic
+    assert not sample_paths[0].parent.exists()

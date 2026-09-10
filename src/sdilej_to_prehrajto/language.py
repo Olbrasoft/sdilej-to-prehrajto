@@ -200,13 +200,20 @@ class WhisperLanguageDetector:
                 "16000",
                 str(sample),
             ]
-            result = subprocess.run(
-                command,
-                capture_output=True,
-                text=True,
-                timeout=ffmpeg_timeout,
-                check=False,
-            )
+            try:
+                result = subprocess.run(
+                    command,
+                    capture_output=True,
+                    text=True,
+                    timeout=ffmpeg_timeout,
+                    check=False,
+                )
+            except subprocess.TimeoutExpired:
+                # Discovery handles this as a failed candidate. Suppress the
+                # original exception, whose command contains a session URL.
+                raise LanguageDetectionError(
+                    f"ffmpeg audio sampling timed out after {ffmpeg_timeout} seconds"
+                ) from None
             if result.returncode != 0 or not sample.exists() or sample.stat().st_size == 0:
                 raise LanguageDetectionError("ffmpeg could not create an audio sample")
             language, probability = self._transcribe(sample)
