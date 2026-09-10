@@ -20223,14 +20223,6 @@
           "source_id": "32908053",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29281440",
-          "attempted_at": "2026-09-10T20:44:15.784042+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29282366",
           "attempted_at": "2026-09-10T21:43:15.031206+00:00"
         },
@@ -20240,18 +20232,19 @@
           "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv",
           "permanent": false,
           "attempted_at": "2026-09-10T22:19:54.610044+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32908053",
+          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-10T23:28:33.817005+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-10T23:27:40.943567+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-2",
-        "claimed_at": "2026-09-10T23:27:48.103120+00:00",
-        "lease_expires_at": "2026-09-11T05:27:48.103120+00:00",
-        "run_id": "34531773054"
       }
     },
     "1814": {
@@ -27297,6 +27290,12 @@
         "target_video_id": "29174916",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-07T00:20:27.095531+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-3",
+        "claimed_at": "2026-09-10T23:28:33.140860+00:00",
+        "lease_expires_at": "2026-09-11T05:28:33.140860+00:00",
+        "run_id": "34531773054"
       }
     },
     "33160": {
@@ -27386,6 +27385,12 @@
         "target_video_id": "29174940",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-07T00:22:19.618941+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
+        "claimed_at": "2026-09-10T23:28:32.966207+00:00",
+        "lease_expires_at": "2026-09-11T05:28:32.966207+00:00",
+        "run_id": "34531773054"
       }
     },
     "16614": {
@@ -137606,5 +137611,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T23:28:31.173210+00:00"
+  "updated_at": "2026-09-10T23:28:33.817020+00:00"
 }
