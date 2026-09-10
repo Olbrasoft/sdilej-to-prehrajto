@@ -99452,17 +99452,19 @@
       "attempts": []
     },
     "34371": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34751153",
+          "reason": "Request failed for https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-10T12:37:12.184600+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34751153",
         "display_name": "Sauna (2008) SD CZ Titulky",
         "planned_at": "2026-09-10T12:04:48.219751+00:00"
-      },
-      "claim": {
-        "worker_id": "3fc95fed40e34d1a9de0ac03835d0abe-shard-2",
-        "claimed_at": "2026-09-10T12:36:26.568365+00:00",
-        "lease_expires_at": "2026-09-10T18:36:26.568365+00:00",
-        "run_id": "34460867727"
       }
     },
     "13302": {
@@ -134019,5 +134021,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-10T12:36:45.681725+00:00"
+  "updated_at": "2026-09-10T12:37:12.184615+00:00"
 }
