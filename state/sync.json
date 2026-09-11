@@ -6943,17 +6943,19 @@
       "attempts": []
     },
     "28830": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34774971",
+          "reason": "Request failed for https://sdilej.cz/34774971/sing-street-2016-.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-11T02:48:55.302876+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34774971",
         "display_name": "Sing Street (2016) SD CZ Titulky",
         "planned_at": "2026-09-11T02:46:49.473446+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-1",
-        "claimed_at": "2026-09-11T02:48:09.625880+00:00",
-        "lease_expires_at": "2026-09-11T08:48:09.625880+00:00",
-        "run_id": "34531773054"
       }
     },
     "168": {
@@ -14446,6 +14448,12 @@
         "target_video_id": "29136383",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
+        "claimed_at": "2026-09-11T02:48:53.823494+00:00",
+        "lease_expires_at": "2026-09-11T08:48:53.823494+00:00",
+        "run_id": "34531773054"
       }
     },
     "1249": {
@@ -138380,5 +138388,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T02:48:52.109265+00:00"
+  "updated_at": "2026-09-11T02:48:55.302889+00:00"
 }
