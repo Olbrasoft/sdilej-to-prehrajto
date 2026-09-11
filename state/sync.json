@@ -20292,14 +20292,6 @@
           "source_id": "32908053",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29284855",
-          "attempted_at": "2026-09-11T00:29:46.733873+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29286383",
           "attempted_at": "2026-09-11T01:28:26.824113+00:00"
         },
@@ -20309,18 +20301,19 @@
           "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv",
           "permanent": false,
           "attempted_at": "2026-09-11T02:15:10.750982+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32908053",
+          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv",
+          "permanent": false,
+          "attempted_at": "2026-09-11T02:50:33.295004+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-11T02:49:21.504084+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
-        "claimed_at": "2026-09-11T02:49:47.619887+00:00",
-        "lease_expires_at": "2026-09-11T08:49:47.619887+00:00",
-        "run_id": "34531773054"
       }
     },
     "1814": {
@@ -26935,6 +26928,12 @@
         "target_video_id": "29173370",
         "size_bytes": 7200000000,
         "prepared_at": "2026-09-06T23:16:21.974128+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-1",
+        "claimed_at": "2026-09-11T02:50:31.982175+00:00",
+        "lease_expires_at": "2026-09-11T08:50:31.982175+00:00",
+        "run_id": "34531773054"
       }
     },
     "20999": {
@@ -138382,5 +138381,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T02:50:30.207372+00:00"
+  "updated_at": "2026-09-11T02:50:33.295022+00:00"
 }
