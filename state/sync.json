@@ -97515,14 +97515,6 @@
     "9575": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34661757",
-          "target_video_id": "29292788",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-11T07:40:24.319065+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34661757",
           "reason": "PrehrajtoError",
@@ -97537,23 +97529,20 @@
           "permanent": false,
           "target_video_id": "29296375",
           "attempted_at": "2026-09-11T09:34:35.643154+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34661757",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29297976",
+          "attempted_at": "2026-09-11T11:05:59.112392+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34661757",
         "display_name": "Všechno nebo nic (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-11T10:41:51.576223+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-4",
-        "claimed_at": "2026-09-11T10:50:18.388231+00:00",
-        "lease_expires_at": "2026-09-11T16:50:18.388231+00:00",
-        "run_id": "34584372560"
-      },
-      "prepared": {
-        "target_video_id": "29297976",
-        "size_bytes": 3282354148,
-        "prepared_at": "2026-09-11T10:50:22.818630+00:00"
       }
     },
     "30955": {
@@ -140186,5 +140175,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T11:03:29.417725+00:00"
+  "updated_at": "2026-09-11T11:05:59.112413+00:00"
 }
