@@ -18559,6 +18559,12 @@
         "target_video_id": "29128110",
         "size_bytes": 20300000000,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-2",
+        "claimed_at": "2026-09-11T10:04:59.543177+00:00",
+        "lease_expires_at": "2026-09-11T16:04:59.543177+00:00",
+        "run_id": "34584372560"
       }
     },
     "22282": {
@@ -18721,6 +18727,12 @@
         "target_video_id": "29161230",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-06T12:38:33.993154+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-5",
+        "claimed_at": "2026-09-11T10:04:59.759068+00:00",
+        "lease_expires_at": "2026-09-11T16:04:59.759068+00:00",
+        "run_id": "34584372560"
       }
     },
     "12090": {
@@ -109211,17 +109223,19 @@
       }
     },
     "5541": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30716691",
+          "target_video_id": "29296841",
+          "permanent": false,
+          "attempted_at": "2026-09-11T10:05:01.147309+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30716691",
         "display_name": "Tulipánová horečka (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-11T09:40:31.774441+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-1",
-        "claimed_at": "2026-09-11T09:50:17.887076+00:00",
-        "lease_expires_at": "2026-09-11T15:50:17.887076+00:00",
-        "run_id": "34584372560"
       },
       "prepared": {
         "target_video_id": "29296841",
@@ -140055,5 +140069,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T10:04:57.611164+00:00"
+  "updated_at": "2026-09-11T10:05:01.147328+00:00"
 }
