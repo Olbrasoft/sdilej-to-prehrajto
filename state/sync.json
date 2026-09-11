@@ -7801,6 +7801,12 @@
         "target_video_id": "29289637",
         "size_bytes": 11300000000,
         "prepared_at": "2026-09-11T03:27:30.973459+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-0",
+        "claimed_at": "2026-09-11T22:25:09.742015+00:00",
+        "lease_expires_at": "2026-09-12T04:25:09.742015+00:00",
+        "run_id": "34644205888"
       }
     },
     "18215": {
@@ -43923,14 +43929,6 @@
     "22880": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34755467",
-          "target_video_id": "29303898",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-11T17:33:08.511442+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34755467",
           "target_video_id": "29307542",
@@ -43944,18 +43942,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-11T20:54:12.557508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34755467",
+          "target_video_id": "29311351",
+          "permanent": false,
+          "attempted_at": "2026-09-11T22:25:11.854562+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755467",
         "display_name": "Playboy: Playmate Playoffs (1986) SD CZ Titulky",
         "planned_at": "2026-09-11T21:48:23.482380+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-3",
-        "claimed_at": "2026-09-11T22:21:37.685149+00:00",
-        "lease_expires_at": "2026-09-12T04:21:37.685149+00:00",
-        "run_id": "34644205888"
       },
       "prepared": {
         "target_video_id": "29311351",
@@ -142903,5 +142902,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T22:25:08.092685+00:00"
+  "updated_at": "2026-09-11T22:25:11.854578+00:00"
 }
