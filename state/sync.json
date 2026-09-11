@@ -42244,6 +42244,12 @@
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-11T00:47:11.934965+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-3",
+        "claimed_at": "2026-09-11T00:48:05.788887+00:00",
+        "lease_expires_at": "2026-09-11T06:48:05.788887+00:00",
+        "run_id": "34531773054"
       }
     },
     "32220": {
@@ -89598,17 +89604,19 @@
       }
     },
     "4388": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34957211",
+          "target_video_id": "29285791",
+          "permanent": false,
+          "attempted_at": "2026-09-11T00:48:48.498485+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34957211",
         "display_name": "Saltová (2010) 4K CZ Dabing",
         "planned_at": "2026-09-11T00:11:05.632558+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-1",
-        "claimed_at": "2026-09-11T00:32:22.119155+00:00",
-        "lease_expires_at": "2026-09-11T06:32:22.119155+00:00",
-        "run_id": "34531773054"
       },
       "prepared": {
         "target_video_id": "29285791",
@@ -138054,5 +138062,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T00:48:03.731493+00:00"
+  "updated_at": "2026-09-11T00:48:48.498500+00:00"
 }
