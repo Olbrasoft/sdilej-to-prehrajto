@@ -42348,13 +42348,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "27436084",
-          "target_video_id": "29295051",
-          "permanent": false,
-          "attempted_at": "2026-09-11T08:13:17.602340+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27436084",
           "target_video_id": "29295051",
@@ -42369,23 +42362,20 @@
           "permanent": false,
           "target_video_id": "29296551",
           "attempted_at": "2026-09-11T09:44:56.334893+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29297637",
+          "attempted_at": "2026-09-11T10:33:57.278322+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-11T10:22:42.742927+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-3",
-        "claimed_at": "2026-09-11T10:24:25.709659+00:00",
-        "lease_expires_at": "2026-09-11T16:24:25.709659+00:00",
-        "run_id": "34584372560"
-      },
-      "prepared": {
-        "target_video_id": "29297637",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-11T10:24:29.583348+00:00"
       }
     },
     "32220": {
@@ -74382,6 +74372,12 @@
         "target_video_id": "29266546",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-10T07:35:06.710581+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-4",
+        "claimed_at": "2026-09-11T10:33:55.296456+00:00",
+        "lease_expires_at": "2026-09-11T16:33:55.296456+00:00",
+        "run_id": "34584372560"
       }
     },
     "33063": {
@@ -74678,6 +74674,12 @@
         "target_video_id": "29183405",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-07T10:41:17.036420+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-2",
+        "claimed_at": "2026-09-11T10:33:55.030895+00:00",
+        "lease_expires_at": "2026-09-11T16:33:55.030895+00:00",
+        "run_id": "34584372560"
       }
     },
     "34092": {
@@ -74753,6 +74755,12 @@
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-11T10:22:48.049829+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-5",
+        "claimed_at": "2026-09-11T10:33:55.159856+00:00",
+        "lease_expires_at": "2026-09-11T16:33:55.159856+00:00",
+        "run_id": "34584372560"
       }
     },
     "32120": {
@@ -140065,5 +140073,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T10:33:53.260350+00:00"
+  "updated_at": "2026-09-11T10:33:57.278341+00:00"
 }
