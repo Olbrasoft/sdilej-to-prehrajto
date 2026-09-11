@@ -6570,6 +6570,12 @@
         "target_video_id": "29280093",
         "size_bytes": 10000000000,
         "prepared_at": "2026-09-10T19:22:31.785289+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-0",
+        "claimed_at": "2026-09-11T03:27:20.107857+00:00",
+        "lease_expires_at": "2026-09-11T09:27:20.107857+00:00",
+        "run_id": "34531773054"
       }
     },
     "362": {
@@ -6942,6 +6948,12 @@
         "source_id": "34774971",
         "display_name": "Sing Street (2016) SD CZ Titulky",
         "planned_at": "2026-09-11T03:25:58.883546+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-3",
+        "claimed_at": "2026-09-11T03:27:20.279479+00:00",
+        "lease_expires_at": "2026-09-11T09:27:20.279479+00:00",
+        "run_id": "34531773054"
       }
     },
     "168": {
@@ -102053,17 +102065,19 @@
       }
     },
     "5602": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31027278",
+          "target_video_id": "29289523",
+          "permanent": false,
+          "attempted_at": "2026-09-11T03:27:20.429045+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31027278",
         "display_name": "Detour (2016) SD CZ Dabing",
         "planned_at": "2026-09-11T03:03:10.611413+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-2",
-        "claimed_at": "2026-09-11T03:22:29.403202+00:00",
-        "lease_expires_at": "2026-09-11T09:22:29.403202+00:00",
-        "run_id": "34531773054"
       },
       "prepared": {
         "target_video_id": "29289523",
@@ -138617,5 +138631,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T03:27:18.523617+00:00"
+  "updated_at": "2026-09-11T03:27:20.429056+00:00"
 }
