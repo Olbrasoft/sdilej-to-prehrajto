@@ -35779,14 +35779,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32222414",
-          "target_video_id": "29289691",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-11T03:46:23.054986+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -35801,23 +35793,20 @@
           "permanent": false,
           "target_video_id": "29291685",
           "attempted_at": "2026-09-11T05:48:23.075438+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29294006",
+          "attempted_at": "2026-09-11T07:28:30.843963+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-11T07:15:14.009322+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-0",
-        "claimed_at": "2026-09-11T07:17:24.855343+00:00",
-        "lease_expires_at": "2026-09-11T13:17:24.855343+00:00",
-        "run_id": "34558715759"
-      },
-      "prepared": {
-        "target_video_id": "29294006",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-11T07:17:28.346571+00:00"
       }
     },
     "2571": {
@@ -65958,6 +65947,12 @@
         "target_video_id": "29279515",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-10T18:48:32.455426+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-5",
+        "claimed_at": "2026-09-11T07:28:29.117525+00:00",
+        "lease_expires_at": "2026-09-11T13:28:29.117525+00:00",
+        "run_id": "34558715759"
       }
     },
     "33936": {
@@ -139284,5 +139279,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T07:28:26.024376+00:00"
+  "updated_at": "2026-09-11T07:28:30.843982+00:00"
 }
