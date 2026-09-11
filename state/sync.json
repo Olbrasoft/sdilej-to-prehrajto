@@ -27710,6 +27710,12 @@
         "target_video_id": "29212917",
         "size_bytes": 20400000000,
         "prepared_at": "2026-09-08T12:07:32.868752+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-0",
+        "claimed_at": "2026-09-11T08:24:01.095254+00:00",
+        "lease_expires_at": "2026-09-11T14:24:01.095254+00:00",
+        "run_id": "34558715759"
       }
     },
     "25986": {
@@ -27792,6 +27798,12 @@
         "target_video_id": "29174967",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-07T00:24:08.111176+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-2",
+        "claimed_at": "2026-09-11T08:24:00.581223+00:00",
+        "lease_expires_at": "2026-09-11T14:24:00.581223+00:00",
+        "run_id": "34558715759"
       }
     },
     "35732": {
@@ -28415,6 +28427,12 @@
         "target_video_id": "29179360",
         "size_bytes": 14000000000,
         "prepared_at": "2026-09-07T06:15:07.416318+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-5",
+        "claimed_at": "2026-09-11T08:24:00.986874+00:00",
+        "lease_expires_at": "2026-09-11T14:24:00.986874+00:00",
+        "run_id": "34558715759"
       }
     },
     "15426": {
@@ -28851,6 +28869,12 @@
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-1",
+        "claimed_at": "2026-09-11T08:24:00.758804+00:00",
+        "lease_expires_at": "2026-09-11T14:24:00.758804+00:00",
+        "run_id": "34558715759"
       }
     },
     "1871": {
@@ -35765,14 +35789,6 @@
           "source_id": "32222414",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29290670",
-          "attempted_at": "2026-09-11T04:48:08.497966+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29291685",
           "attempted_at": "2026-09-11T05:48:23.075438+00:00"
         },
@@ -35783,23 +35799,20 @@
           "permanent": false,
           "target_video_id": "29294006",
           "attempted_at": "2026-09-11T07:28:30.843963+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29295024",
+          "attempted_at": "2026-09-11T08:24:02.574902+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-11T08:06:24.828079+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-3",
-        "claimed_at": "2026-09-11T08:06:32.508141+00:00",
-        "lease_expires_at": "2026-09-11T14:06:32.508141+00:00",
-        "run_id": "34558715759"
-      },
-      "prepared": {
-        "target_video_id": "29295024",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-11T08:06:35.894711+00:00"
       }
     },
     "2571": {
@@ -139443,5 +139456,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T08:23:58.868061+00:00"
+  "updated_at": "2026-09-11T08:24:02.574926+00:00"
 }
