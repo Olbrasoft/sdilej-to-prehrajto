@@ -33050,14 +33050,6 @@
           "source_id": "31064718",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29293893",
-          "attempted_at": "2026-09-11T07:18:20.347457+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31064718",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29294814",
           "attempted_at": "2026-09-11T08:07:40.981688+00:00"
         },
@@ -33068,23 +33060,20 @@
           "permanent": false,
           "target_video_id": "29295583",
           "attempted_at": "2026-09-11T08:47:31.447249+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31064718",
+          "target_video_id": "29296482",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-11T09:36:35.819160+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-11T09:36:15.652501+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29296482",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-11T09:32:31.784547+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-1",
-        "claimed_at": "2026-09-11T09:36:26.095335+00:00",
-        "lease_expires_at": "2026-09-11T15:36:26.095335+00:00",
-        "run_id": "34584372560"
       }
     },
     "14755": {
@@ -139779,5 +139768,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T09:36:34.049469+00:00"
+  "updated_at": "2026-09-11T09:36:35.819183+00:00"
 }
