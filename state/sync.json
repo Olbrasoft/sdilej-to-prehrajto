@@ -14872,6 +14872,12 @@
         "target_video_id": "29118413",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-0",
+        "claimed_at": "2026-09-11T22:26:07.081567+00:00",
+        "lease_expires_at": "2026-09-12T04:26:07.081567+00:00",
+        "run_id": "34644205888"
       }
     },
     "14460": {
@@ -14943,6 +14949,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-3",
+        "claimed_at": "2026-09-11T22:26:06.871539+00:00",
+        "lease_expires_at": "2026-09-12T04:26:06.871539+00:00",
+        "run_id": "34644205888"
       }
     },
     "1109": {
@@ -40631,17 +40643,19 @@
       "attempts": []
     },
     "31283": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34904096",
+          "target_video_id": "29311259",
+          "permanent": false,
+          "attempted_at": "2026-09-11T22:26:08.201368+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34904096",
         "display_name": "Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-11T21:48:22.432220+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-4",
-        "claimed_at": "2026-09-11T22:14:37.307407+00:00",
-        "lease_expires_at": "2026-09-12T04:14:37.307407+00:00",
-        "run_id": "34644205888"
       },
       "prepared": {
         "target_video_id": "29311259",
@@ -142878,5 +142892,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T22:26:05.262017+00:00"
+  "updated_at": "2026-09-11T22:26:08.201384+00:00"
 }
