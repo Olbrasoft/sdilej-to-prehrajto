@@ -37785,6 +37785,12 @@
         "target_video_id": "29215766",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-08T14:42:01.222674+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-4",
+        "claimed_at": "2026-09-11T13:47:08.015484+00:00",
+        "lease_expires_at": "2026-09-11T19:47:08.015484+00:00",
+        "run_id": "34584372560"
       }
     },
     "20421": {
@@ -77132,14 +77138,6 @@
           "source_id": "29628821",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29296222",
-          "attempted_at": "2026-09-11T09:27:18.886466+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "29628821",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29297802",
           "attempted_at": "2026-09-11T10:52:23.616140+00:00"
         },
@@ -77150,23 +77148,20 @@
           "permanent": false,
           "target_video_id": "29298796",
           "attempted_at": "2026-09-11T12:04:24.402909+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "29628821",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29300250",
+          "attempted_at": "2026-09-11T13:47:09.823777+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-11T13:29:11.997083+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-5",
-        "claimed_at": "2026-09-11T13:29:39.102793+00:00",
-        "lease_expires_at": "2026-09-11T19:29:39.102793+00:00",
-        "run_id": "34584372560"
-      },
-      "prepared": {
-        "target_video_id": "29300250",
-        "size_bytes": 3574555275,
-        "prepared_at": "2026-09-11T13:29:47.540914+00:00"
       }
     },
     "32728": {
@@ -140427,5 +140422,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T13:47:01.559366+00:00"
+  "updated_at": "2026-09-11T13:47:09.823797+00:00"
 }
