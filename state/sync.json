@@ -4992,6 +4992,12 @@
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-5",
+        "claimed_at": "2026-09-11T07:41:48.142612+00:00",
+        "lease_expires_at": "2026-09-11T13:41:48.142612+00:00",
+        "run_id": "34558715759"
       }
     },
     "10690": {
@@ -65124,14 +65130,6 @@
     "15913": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28404933",
-          "target_video_id": "29288876",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-11T03:48:15.479402+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "28404933",
           "reason": "PrehrajtoError",
@@ -65146,23 +65144,20 @@
           "permanent": false,
           "target_video_id": "29292254",
           "attempted_at": "2026-09-11T06:11:19.440527+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28404933",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29294164",
+          "attempted_at": "2026-09-11T07:41:49.987609+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-11T07:26:41.626346+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-3",
-        "claimed_at": "2026-09-11T07:27:20.031936+00:00",
-        "lease_expires_at": "2026-09-11T13:27:20.031936+00:00",
-        "run_id": "34558715759"
-      },
-      "prepared": {
-        "target_video_id": "29294164",
-        "size_bytes": 4353059444,
-        "prepared_at": "2026-09-11T07:27:23.389442+00:00"
       }
     },
     "23700": {
@@ -139272,5 +139267,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T07:41:46.521354+00:00"
+  "updated_at": "2026-09-11T07:41:49.987629+00:00"
 }
