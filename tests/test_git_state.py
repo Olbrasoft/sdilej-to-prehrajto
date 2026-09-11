@@ -1,7 +1,32 @@
 import subprocess
+import pytest
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.git_state import GitStateError
+
+
+@pytest.fixture(autouse=True)
+def no_retry_sleep(monkeypatch):
+    monkeypatch.setattr("sdilej_to_prehrajto.git_state.time.sleep", lambda _seconds: None)
+
+
+def test_push_survives_more_than_five_concurrent_updates(tmp_path, monkeypatch):
+    state = tmp_path / "state.json"
+    state.write_text("{}")
+    persister = GitStatePersister(tmp_path)
+    pushes, waits = [], []
+    def run(*args, **_kwargs):
+        code = 0
+        if args[0] == "push":
+            pushes.append(args)
+            code = int(len(pushes) <= 6)
+        return subprocess.CompletedProcess(args, code, "", "cannot lock ref" if code else "")
+    monkeypatch.setattr(persister, "_run", run)
+    monkeypatch.setattr("sdilej_to_prehrajto.git_state.time.sleep", waits.append)
+    monkeypatch.setattr("sdilej_to_prehrajto.git_state.random.uniform", lambda *_args: 1)
+    persister(state, "flush")
+    assert len(pushes) == 7
+    assert waits == [2, 3, 5, 9, 17, 31]
 
 
 def test_flush_retries_push_when_checkpoint_is_already_committed(tmp_path, monkeypatch):

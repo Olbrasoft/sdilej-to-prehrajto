@@ -344,9 +344,10 @@ class SdilejProvider:
         if session is not None:
             try:
                 response = session.get(url, timeout=45)
+                response.raise_for_status()
             except requests.RequestException as error:
-                raise SdilejError(f"Request failed for {safe_url(url)}") from error
-            response.raise_for_status()
+                status = getattr(error.response, "status_code", None)
+                raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
             return response
         with self._request_lock:
             wait = self.request_gap_seconds - (time.monotonic() - self._last_request)
@@ -354,11 +355,12 @@ class SdilejProvider:
                 time.sleep(wait)
             try:
                 response = (session or self.session).get(url, timeout=45)
+                response.raise_for_status()
             except requests.RequestException as error:
-                raise SdilejError(f"Request failed for {safe_url(url)}") from error
+                status = getattr(error.response, "status_code", None)
+                raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
             finally:
                 self._last_request = time.monotonic()
-        response.raise_for_status()
         return response
 
     def search(self, query: str, quality: str | None = None) -> list[Candidate]:

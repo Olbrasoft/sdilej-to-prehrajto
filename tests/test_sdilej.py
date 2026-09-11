@@ -1,4 +1,6 @@
 import pytest
+import requests
+import traceback
 
 from sdilej_to_prehrajto.language import LanguageDetectionError
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
@@ -26,6 +28,23 @@ SEARCH_HTML = """
   <p>382KB</p>
 </div>
 """
+
+
+@pytest.mark.parametrize("independent_session", [False, True])
+@pytest.mark.parametrize("status", [429, 500, 522])
+def test_http_failure_is_retryable_and_redacted(independent_session, status):
+    response = requests.Response()
+    response.status_code = status
+    response.url = "https://sdilej.cz/search?session=private-token"
+    class Session:
+        def get(self, *_args, **_kwargs):
+            return response
+    session = Session()
+    provider = SdilejProvider(session, None, request_gap_seconds=0)
+    with pytest.raises(SdilejError, match=f"HTTP {status}") as caught:
+        provider._get(response.url, session=session if independent_session else None)
+    assert not caught.value.permanent
+    assert "private-token" not in "".join(traceback.format_exception(caught.value))
 
 
 def test_search_rejects_successful_http_challenge_page(monkeypatch):

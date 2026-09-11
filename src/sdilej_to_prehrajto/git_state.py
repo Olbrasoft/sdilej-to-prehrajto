@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import subprocess
 import re
+import random
+import time
 import threading
 from pathlib import Path
 
@@ -14,7 +16,7 @@ class GitStatePersister:
     """Commit durable transfer checkpoints from an Actions runner."""
 
     MAX_TRACKED_FILE_BYTES = 90 * 1024 * 1024
-    PUSH_ATTEMPTS = 5
+    PUSH_ATTEMPTS = 12
     INITIAL_SOURCE_CHECKPOINTS = 4
     INITIAL_DEEP_CHECKPOINTS = 1
     # Publish one upload-shard-sized source batch at a time. Keeping 25 sources
@@ -140,6 +142,9 @@ class GitStatePersister:
                 return
             last_error = self._failure_detail(pushed)
             if attempt + 1 < self.PUSH_ATTEMPTS:
+                # Competing workers must not repeatedly retry in lockstep.
+                # Wait before fetching so the rebase uses a fresh remote tip.
+                time.sleep(min(2 ** attempt, 30) + random.uniform(0, 2))
                 rebased, detail = self._rebase_checkpoint(relative_paths)
                 if not rebased:
                     last_error = "push: " + last_error + "; rebase: " + detail
