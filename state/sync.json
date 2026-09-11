@@ -11059,6 +11059,12 @@
         "target_video_id": "29154104",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T06:54:37.939767+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-3",
+        "claimed_at": "2026-09-11T05:27:52.343461+00:00",
+        "lease_expires_at": "2026-09-11T11:27:52.343461+00:00",
+        "run_id": "34558715759"
       }
     },
     "754": {
@@ -101710,18 +101716,19 @@
           "reason": "Request failed for https://sdilej.cz/34772632/the-united-states-vs.-billie-holiday-2021-.mp4",
           "permanent": false,
           "attempted_at": "2026-09-11T03:20:19.618664+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34772632",
+          "target_video_id": "29291389",
+          "permanent": false,
+          "attempted_at": "2026-09-11T05:27:52.826993+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34772632",
         "display_name": "The United States vs. Billie Holiday (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-11T05:07:35.000325+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-1",
-        "claimed_at": "2026-09-11T05:18:04.186844+00:00",
-        "lease_expires_at": "2026-09-11T11:18:04.186844+00:00",
-        "run_id": "34558715759"
       },
       "prepared": {
         "target_video_id": "29291389",
@@ -138784,5 +138791,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T05:27:50.648484+00:00"
+  "updated_at": "2026-09-11T05:27:52.827010+00:00"
 }
