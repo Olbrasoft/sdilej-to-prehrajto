@@ -69075,14 +69075,6 @@
           "source_id": "32144558",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29281793",
-          "attempted_at": "2026-09-10T20:57:53.572894+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32144558",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29283341",
           "attempted_at": "2026-09-10T22:34:57.888870+00:00"
         },
@@ -69093,18 +69085,19 @@
           "permanent": false,
           "target_video_id": "29284538",
           "attempted_at": "2026-09-10T23:49:51.036128+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32144558",
+          "target_video_id": "29286226",
+          "permanent": false,
+          "attempted_at": "2026-09-11T00:59:29.438277+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32144558",
         "display_name": "Zakázané uvolnění (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-11T00:51:05.954385+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-0",
-        "claimed_at": "2026-09-11T00:52:42.310998+00:00",
-        "lease_expires_at": "2026-09-11T06:52:42.310998+00:00",
-        "run_id": "34531773054"
       },
       "prepared": {
         "target_video_id": "29286226",
@@ -74527,6 +74520,12 @@
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-11T00:51:10.923290+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
+        "claimed_at": "2026-09-11T00:59:26.933017+00:00",
+        "lease_expires_at": "2026-09-11T06:59:26.933017+00:00",
+        "run_id": "34531773054"
       }
     },
     "32120": {
@@ -138073,5 +138072,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T00:59:25.202704+00:00"
+  "updated_at": "2026-09-11T00:59:29.438293+00:00"
 }
