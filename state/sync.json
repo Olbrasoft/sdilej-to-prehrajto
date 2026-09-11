@@ -89266,14 +89266,6 @@
           "source_id": "34826416",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29296268",
-          "attempted_at": "2026-09-11T09:26:15.733251+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34826416",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29297879",
           "attempted_at": "2026-09-11T10:56:14.246481+00:00"
         },
@@ -89283,17 +89275,20 @@
           "target_video_id": "29298842",
           "permanent": false,
           "attempted_at": "2026-09-11T12:01:17.830537+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34826416",
+          "target_video_id": "29298842",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-11T13:32:47.990356+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34826416",
         "display_name": "Jedeme na teambuilding (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-11T13:29:21.266677+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29298842",
-        "size_bytes": 2638785764,
-        "prepared_at": "2026-09-11T11:53:32.117791+00:00"
       }
     },
     "29640": {
@@ -140393,5 +140388,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T13:32:41.234720+00:00"
+  "updated_at": "2026-09-11T13:32:47.990377+00:00"
 }
