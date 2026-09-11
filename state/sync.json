@@ -33741,6 +33741,12 @@
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-11T21:48:20.129823+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-0",
+        "claimed_at": "2026-09-11T21:52:37.692400+00:00",
+        "lease_expires_at": "2026-09-12T03:52:37.692400+00:00",
+        "run_id": "34644205888"
       }
     },
     "14755": {
@@ -34208,6 +34214,12 @@
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-11T21:48:20.319766+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-1",
+        "claimed_at": "2026-09-11T21:52:37.523746+00:00",
+        "lease_expires_at": "2026-09-12T03:52:37.523746+00:00",
+        "run_id": "34644205888"
       }
     },
     "10659": {
@@ -64339,17 +64351,19 @@
       "attempts": []
     },
     "14121": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34734874",
+          "target_video_id": "29310844",
+          "permanent": false,
+          "attempted_at": "2026-09-11T21:52:38.316964+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34734874",
         "display_name": "Absťák (2019) 720p CZ Titulky",
         "planned_at": "2026-09-11T21:22:50.581530+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-5",
-        "claimed_at": "2026-09-11T21:47:12.796674+00:00",
-        "lease_expires_at": "2026-09-12T03:47:12.796674+00:00",
-        "run_id": "34644205888"
       },
       "prepared": {
         "target_video_id": "29310844",
@@ -142725,5 +142739,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T21:52:35.892582+00:00"
+  "updated_at": "2026-09-11T21:52:38.316980+00:00"
 }
