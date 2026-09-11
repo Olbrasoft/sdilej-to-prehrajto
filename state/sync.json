@@ -38356,6 +38356,12 @@
         "target_video_id": "29256351",
         "size_bytes": 10300000000,
         "prepared_at": "2026-09-09T22:49:40.012044+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-1",
+        "claimed_at": "2026-09-11T08:36:23.606366+00:00",
+        "lease_expires_at": "2026-09-11T14:36:23.606366+00:00",
+        "run_id": "34558715759"
       }
     },
     "32407": {
@@ -65114,14 +65120,6 @@
           "source_id": "28404933",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29290960",
-          "attempted_at": "2026-09-11T05:07:01.858505+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28404933",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29292254",
           "attempted_at": "2026-09-11T06:11:19.440527+00:00"
         },
@@ -65132,23 +65130,20 @@
           "permanent": false,
           "target_video_id": "29294164",
           "attempted_at": "2026-09-11T07:41:49.987609+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28404933",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29295416",
+          "attempted_at": "2026-09-11T08:36:25.786639+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-11T08:23:21.813859+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-0",
-        "claimed_at": "2026-09-11T08:24:58.328419+00:00",
-        "lease_expires_at": "2026-09-11T14:24:58.328419+00:00",
-        "run_id": "34558715759"
-      },
-      "prepared": {
-        "target_video_id": "29295416",
-        "size_bytes": 4353059444,
-        "prepared_at": "2026-09-11T08:25:09.488646+00:00"
       }
     },
     "23700": {
@@ -139476,5 +139471,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T08:36:22.052249+00:00"
+  "updated_at": "2026-09-11T08:36:25.786657+00:00"
 }
