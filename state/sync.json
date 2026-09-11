@@ -35668,6 +35668,12 @@
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-11T02:31:44.730111+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-1",
+        "claimed_at": "2026-09-11T02:34:21.588254+00:00",
+        "lease_expires_at": "2026-09-11T08:34:21.588254+00:00",
+        "run_id": "34531773054"
       }
     },
     "2571": {
@@ -98083,17 +98089,19 @@
       "attempts": []
     },
     "11538": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33745572",
+          "target_video_id": "29288253",
+          "permanent": false,
+          "attempted_at": "2026-09-11T02:34:28.552714+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33745572",
         "display_name": "Rudý úsvit (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-11T02:16:30.401657+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
-        "claimed_at": "2026-09-11T02:26:02.372281+00:00",
-        "lease_expires_at": "2026-09-11T08:26:02.372281+00:00",
-        "run_id": "34531773054"
       },
       "prepared": {
         "target_video_id": "29288253",
@@ -138352,5 +138360,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T02:34:19.841091+00:00"
+  "updated_at": "2026-09-11T02:34:28.552728+00:00"
 }
