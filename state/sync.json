@@ -88853,13 +88853,6 @@
     "9032": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34826416",
-          "reason": "Request failed for https://sdilej.cz/34826416/jedeme-na-teambuilding-2023-komedie-cz.mp4",
-          "permanent": false,
-          "attempted_at": "2026-09-10T23:58:09.652382+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34826416",
           "target_video_id": "29286945",
@@ -88873,23 +88866,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-11T02:16:22.899691+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34826416",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29289033",
+          "attempted_at": "2026-09-11T03:15:10.725788+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34826416",
         "display_name": "Jedeme na teambuilding (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-11T02:56:53.664308+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-2",
-        "claimed_at": "2026-09-11T03:00:24.120672+00:00",
-        "lease_expires_at": "2026-09-11T09:00:24.120672+00:00",
-        "run_id": "34531773054"
-      },
-      "prepared": {
-        "target_video_id": "29289033",
-        "size_bytes": 2638785764,
-        "prepared_at": "2026-09-11T03:00:27.893583+00:00"
       }
     },
     "29640": {
@@ -97071,6 +97061,12 @@
         "target_video_id": "29284085",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-10T23:07:14.860442+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-1",
+        "claimed_at": "2026-09-11T03:15:08.295022+00:00",
+        "lease_expires_at": "2026-09-11T09:15:08.295022+00:00",
+        "run_id": "34531773054"
       }
     },
     "7814": {
@@ -138504,5 +138500,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T03:15:06.632010+00:00"
+  "updated_at": "2026-09-11T03:15:10.725802+00:00"
 }
