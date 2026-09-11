@@ -4450,6 +4450,12 @@
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-4",
+        "claimed_at": "2026-09-11T14:03:11.417560+00:00",
+        "lease_expires_at": "2026-09-11T20:03:11.417560+00:00",
+        "run_id": "34584372560"
       }
     },
     "327": {
@@ -4980,6 +4986,12 @@
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-1",
+        "claimed_at": "2026-09-11T14:03:11.551801+00:00",
+        "lease_expires_at": "2026-09-11T20:03:11.551801+00:00",
+        "run_id": "34584372560"
       }
     },
     "10690": {
@@ -59611,14 +59623,6 @@
           "source_id": "31626940",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29298125",
-          "attempted_at": "2026-09-11T11:13:11.426808+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31626940",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29298792",
           "attempted_at": "2026-09-11T12:01:08.680141+00:00"
         },
@@ -59629,23 +59633,20 @@
           "permanent": false,
           "target_video_id": "29299888",
           "attempted_at": "2026-09-11T13:13:30.049168+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31626940",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29300630",
+          "attempted_at": "2026-09-11T14:03:11.683844+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-11T13:50:33.146358+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-5",
-        "claimed_at": "2026-09-11T13:51:40.488274+00:00",
-        "lease_expires_at": "2026-09-11T19:51:40.488274+00:00",
-        "run_id": "34584372560"
-      },
-      "prepared": {
-        "target_video_id": "29300630",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-11T13:51:44.950922+00:00"
       }
     },
     "33003": {
@@ -140427,5 +140428,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T14:03:09.498999+00:00"
+  "updated_at": "2026-09-11T14:03:11.683871+00:00"
 }
