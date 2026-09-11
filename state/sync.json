@@ -17695,6 +17695,12 @@
         "target_video_id": "29127917",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-05T09:17:42.572509+00:00"
+      },
+      "claim": {
+        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-5",
+        "claimed_at": "2026-09-11T10:04:45.664933+00:00",
+        "lease_expires_at": "2026-09-11T16:04:45.664933+00:00",
+        "run_id": "34584372560"
       }
     },
     "20525": {
@@ -109327,17 +109333,19 @@
       "attempts": []
     },
     "36880": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30540717",
+          "target_video_id": "29297018",
+          "permanent": false,
+          "attempted_at": "2026-09-11T10:04:47.567972+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30540717",
         "display_name": "Raging Grace (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-11T09:40:32.523090+00:00"
-      },
-      "claim": {
-        "worker_id": "47e54b85a9f44384beb21c3a9df9df53-shard-2",
-        "claimed_at": "2026-09-11T09:58:11.305606+00:00",
-        "lease_expires_at": "2026-09-11T15:58:11.305606+00:00",
-        "run_id": "34584372560"
       },
       "prepared": {
         "target_video_id": "29297018",
@@ -140053,5 +140061,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T10:04:43.764648+00:00"
+  "updated_at": "2026-09-11T10:04:47.567991+00:00"
 }
