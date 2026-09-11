@@ -3295,6 +3295,12 @@
         "target_video_id": "29122398",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T06:00:28.711519+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-5",
+        "claimed_at": "2026-09-11T02:12:32.360967+00:00",
+        "lease_expires_at": "2026-09-11T08:12:32.360967+00:00",
+        "run_id": "34531773054"
       }
     },
     "22398": {
@@ -4023,6 +4029,12 @@
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-0",
+        "claimed_at": "2026-09-11T02:12:32.199038+00:00",
+        "lease_expires_at": "2026-09-11T08:12:32.199038+00:00",
+        "run_id": "34531773054"
       }
     },
     "21939": {
@@ -94323,17 +94335,19 @@
       }
     },
     "32138": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16620609",
+          "target_video_id": "29287829",
+          "permanent": false,
+          "attempted_at": "2026-09-11T02:12:33.847649+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16620609",
         "display_name": "Unleashing Mr. Darcy (2016) SD CZ Titulky",
         "planned_at": "2026-09-11T01:54:21.000382+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-3",
-        "claimed_at": "2026-09-11T02:08:16.367216+00:00",
-        "lease_expires_at": "2026-09-11T08:08:16.367216+00:00",
-        "run_id": "34531773054"
       },
       "prepared": {
         "target_video_id": "29287829",
@@ -138212,5 +138226,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T02:12:30.527967+00:00"
+  "updated_at": "2026-09-11T02:12:33.847664+00:00"
 }
