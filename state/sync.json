@@ -18756,6 +18756,12 @@
         "target_video_id": "29128168",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-05T20:26:10.233538+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-2",
+        "claimed_at": "2026-09-11T07:06:32.694281+00:00",
+        "lease_expires_at": "2026-09-11T13:06:32.694281+00:00",
+        "run_id": "34558715759"
       }
     },
     "1539": {
@@ -107771,17 +107777,19 @@
       "attempts": []
     },
     "5831": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33163060",
+          "target_video_id": "29293687",
+          "permanent": false,
+          "attempted_at": "2026-09-11T07:06:34.703383+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33163060",
         "display_name": "Skrytá místnost (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-11T06:12:40.518301+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-1",
-        "claimed_at": "2026-09-11T07:02:02.172696+00:00",
-        "lease_expires_at": "2026-09-11T13:02:02.172696+00:00",
-        "run_id": "34558715759"
       },
       "prepared": {
         "target_video_id": "29293687",
@@ -139193,5 +139201,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T07:06:31.066387+00:00"
+  "updated_at": "2026-09-11T07:06:34.703401+00:00"
 }
