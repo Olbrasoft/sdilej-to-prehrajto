@@ -69087,14 +69087,6 @@
     "16176": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "32144558",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29284538",
-          "attempted_at": "2026-09-10T23:49:51.036128+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32144558",
           "target_video_id": "29286226",
@@ -69108,18 +69100,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-11T01:51:08.558772+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32144558",
+          "reason": "Request failed for https://sdilej.cz/32144558/zakazane-uvolneni-2014-czdab-hd.mp4",
+          "permanent": false,
+          "attempted_at": "2026-09-11T02:55:03.892318+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32144558",
         "display_name": "Zakázané uvolnění (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-11T02:52:59.626591+00:00"
-      },
-      "claim": {
-        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-0",
-        "claimed_at": "2026-09-11T02:54:18.239995+00:00",
-        "lease_expires_at": "2026-09-11T08:54:18.239995+00:00",
-        "run_id": "34531773054"
       }
     },
     "16094": {
@@ -71919,6 +71912,12 @@
         "target_video_id": "29219143",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-08T17:33:14.067412+00:00"
+      },
+      "claim": {
+        "worker_id": "20ae32e32bb0469aa32e635903282f2f-shard-3",
+        "claimed_at": "2026-09-11T02:55:01.997886+00:00",
+        "lease_expires_at": "2026-09-11T08:55:01.997886+00:00",
+        "run_id": "34531773054"
       }
     },
     "10762": {
@@ -138388,5 +138387,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T02:55:00.215099+00:00"
+  "updated_at": "2026-09-11T02:55:03.892337+00:00"
 }
