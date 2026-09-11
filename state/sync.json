@@ -76923,13 +76923,6 @@
     "15473": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29628821",
-          "reason": "Request failed for https://sdilej.cz/29628821/cora-bora.webrip.cz.en.2023.720p.mkv",
-          "permanent": false,
-          "attempted_at": "2026-09-11T01:19:53.545003+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "29628821",
           "reason": "PrehrajtoError",
@@ -76944,23 +76937,20 @@
           "permanent": false,
           "target_video_id": "29288949",
           "attempted_at": "2026-09-11T03:19:20.016455+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "29628821",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29290376",
+          "attempted_at": "2026-09-11T04:23:03.662125+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-11T04:05:27.235564+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-5",
-        "claimed_at": "2026-09-11T04:08:19.457062+00:00",
-        "lease_expires_at": "2026-09-11T10:08:19.457062+00:00",
-        "run_id": "34558715759"
-      },
-      "prepared": {
-        "target_video_id": "29290376",
-        "size_bytes": 3574555275,
-        "prepared_at": "2026-09-11T04:08:23.223337+00:00"
       }
     },
     "32728": {
@@ -138746,5 +138736,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T04:22:46.747575+00:00"
+  "updated_at": "2026-09-11T04:23:03.662145+00:00"
 }
