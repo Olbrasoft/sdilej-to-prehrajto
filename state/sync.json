@@ -26106,6 +26106,12 @@
         "target_video_id": "29173920",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
+      },
+      "claim": {
+        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-1",
+        "claimed_at": "2026-09-11T08:58:28.688075+00:00",
+        "lease_expires_at": "2026-09-11T14:58:28.688075+00:00",
+        "run_id": "34558715759"
       }
     },
     "27248": {
@@ -108766,17 +108772,19 @@
       "attempts": []
     },
     "16801": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21005809",
+          "target_video_id": "29295866",
+          "permanent": false,
+          "attempted_at": "2026-09-11T08:58:28.803511+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21005809",
         "display_name": "Intensive Care (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-11T08:38:21.483203+00:00"
-      },
-      "claim": {
-        "worker_id": "aaa48b79a3e14a7da3ba9ddb496471d9-shard-3",
-        "claimed_at": "2026-09-11T08:54:35.497260+00:00",
-        "lease_expires_at": "2026-09-11T14:54:35.497260+00:00",
-        "run_id": "34558715759"
       },
       "prepared": {
         "target_video_id": "29295866",
@@ -139696,5 +139704,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T08:58:27.084599+00:00"
+  "updated_at": "2026-09-11T08:58:28.803526+00:00"
 }
