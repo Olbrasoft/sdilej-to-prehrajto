@@ -8879,17 +8879,19 @@
       }
     },
     "19554": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34416192",
+          "target_video_id": "29312377",
+          "permanent": false,
+          "attempted_at": "2026-09-11T23:36:49.869646+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34416192",
         "display_name": "Pozemšťan (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-11T23:16:04.352933+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-4",
-        "claimed_at": "2026-09-11T23:22:47.795962+00:00",
-        "lease_expires_at": "2026-09-12T05:22:47.795962+00:00",
-        "run_id": "34644205888"
       },
       "prepared": {
         "target_video_id": "29312377",
@@ -28522,6 +28524,12 @@
         "target_video_id": "29212917",
         "size_bytes": 20400000000,
         "prepared_at": "2026-09-08T12:07:32.868752+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-1",
+        "claimed_at": "2026-09-11T23:36:47.577854+00:00",
+        "lease_expires_at": "2026-09-12T05:36:47.577854+00:00",
+        "run_id": "34644205888"
       }
     },
     "25986": {
@@ -143162,5 +143170,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-11T23:36:45.949465+00:00"
+  "updated_at": "2026-09-11T23:36:49.869666+00:00"
 }
