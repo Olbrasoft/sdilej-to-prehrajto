@@ -54106,6 +54106,12 @@
         "source_id": "34838524",
         "display_name": "Návrat do Černobylu (2017) SD CZ Dabing",
         "planned_at": "2026-09-12T19:42:00.839127+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-5",
+        "claimed_at": "2026-09-12T19:52:08.695718+00:00",
+        "lease_expires_at": "2026-09-13T01:52:08.695718+00:00",
+        "run_id": "34699185543"
       }
     },
     "16270": {
@@ -65873,14 +65879,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "30673323",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29327489",
-          "attempted_at": "2026-09-12T16:53:31.786284+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30673323",
           "target_video_id": "29328294",
@@ -65894,23 +65892,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-12T18:40:15.548347+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29329966",
+          "attempted_at": "2026-09-12T19:52:18.327109+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-12T19:26:39.501156+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-4",
-        "claimed_at": "2026-09-12T19:39:53.468520+00:00",
-        "lease_expires_at": "2026-09-13T01:39:53.468520+00:00",
-        "run_id": "34699185543"
-      },
-      "prepared": {
-        "target_video_id": "29329966",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-12T19:39:59.013991+00:00"
       }
     },
     "14505": {
@@ -148134,5 +148129,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T19:52:03.399326+00:00"
+  "updated_at": "2026-09-12T19:52:18.327126+00:00"
 }
