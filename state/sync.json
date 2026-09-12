@@ -64982,14 +64982,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31626940",
-          "target_video_id": "29324955",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-12T15:44:38.878865+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31626940",
           "reason": "PrehrajtoError",
@@ -65004,6 +64996,13 @@
           "permanent": false,
           "target_video_id": "29328293",
           "attempted_at": "2026-09-12T18:01:32.980796+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31626940",
+          "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T18:39:59.636493+00:00"
         }
       ],
       "last_plan": {
@@ -147736,5 +147735,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T18:39:11.749180+00:00"
+  "updated_at": "2026-09-12T18:39:59.636510+00:00"
 }
