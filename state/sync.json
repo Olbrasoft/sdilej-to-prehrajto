@@ -10821,17 +10821,19 @@
       }
     },
     "593": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28178167",
+          "target_video_id": "29325476",
+          "permanent": false,
+          "attempted_at": "2026-09-12T14:11:17.539108+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28178167",
         "display_name": "Crash (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-12T13:56:54.473339+00:00"
-      },
-      "claim": {
-        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-5",
-        "claimed_at": "2026-09-12T14:04:38.904861+00:00",
-        "lease_expires_at": "2026-09-12T20:04:38.904861+00:00",
-        "run_id": "34683398014"
       },
       "prepared": {
         "target_video_id": "29325476",
@@ -33273,6 +33275,12 @@
         "target_video_id": "29323791",
         "size_bytes": 2797750317,
         "prepared_at": "2026-09-12T12:18:30.060284+00:00"
+      },
+      "claim": {
+        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-2",
+        "claimed_at": "2026-09-12T14:11:16.327072+00:00",
+        "lease_expires_at": "2026-09-12T20:11:16.327072+00:00",
+        "run_id": "34683398014"
       }
     },
     "31909": {
@@ -146884,5 +146892,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T14:11:02.437185+00:00"
+  "updated_at": "2026-09-12T14:11:17.539137+00:00"
 }
