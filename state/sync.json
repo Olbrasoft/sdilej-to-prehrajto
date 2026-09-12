@@ -10670,6 +10670,12 @@
         "source_id": "33333630",
         "display_name": "Harry Potter a Relikvie smrti – část 1 (2010) 4K CZ Dabing",
         "planned_at": "2026-09-12T13:56:54.351959+00:00"
+      },
+      "claim": {
+        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-4",
+        "claimed_at": "2026-09-12T14:04:35.338950+00:00",
+        "lease_expires_at": "2026-09-12T20:04:35.338950+00:00",
+        "run_id": "34683398014"
       }
     },
     "612": {
@@ -38951,14 +38957,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27669370",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29317915",
-          "attempted_at": "2026-09-12T07:28:50.099953+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27669370",
           "target_video_id": "29319643",
@@ -38973,23 +38971,20 @@
           "permanent": false,
           "target_video_id": "29322629",
           "attempted_at": "2026-09-12T12:18:18.525951+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29324182",
+          "attempted_at": "2026-09-12T14:04:37.141202+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-12T12:51:25.893658+00:00"
-      },
-      "claim": {
-        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-5",
-        "claimed_at": "2026-09-12T12:51:39.913421+00:00",
-        "lease_expires_at": "2026-09-12T18:51:39.913421+00:00",
-        "run_id": "34683398014"
-      },
-      "prepared": {
-        "target_video_id": "29324182",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-12T12:51:44.303216+00:00"
       }
     },
     "18861": {
@@ -146871,5 +146866,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T14:04:29.518333+00:00"
+  "updated_at": "2026-09-12T14:04:37.141219+00:00"
 }
