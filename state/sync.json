@@ -19906,6 +19906,12 @@
         "target_video_id": "29128092",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-3",
+        "claimed_at": "2026-09-12T17:46:21.147492+00:00",
+        "lease_expires_at": "2026-09-12T23:46:21.147492+00:00",
+        "run_id": "34699185543"
       }
     },
     "32926": {
@@ -19973,6 +19979,12 @@
         "target_video_id": "29128110",
         "size_bytes": 20300000000,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-5",
+        "claimed_at": "2026-09-12T17:46:20.698642+00:00",
+        "lease_expires_at": "2026-09-12T23:46:20.698642+00:00",
+        "run_id": "34699185543"
       }
     },
     "22282": {
@@ -20135,6 +20147,12 @@
         "target_video_id": "29161230",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-06T12:38:33.993154+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-0",
+        "claimed_at": "2026-09-12T17:46:20.998169+00:00",
+        "lease_expires_at": "2026-09-12T23:46:20.998169+00:00",
+        "run_id": "34699185543"
       }
     },
     "12090": {
@@ -20162,13 +20180,6 @@
           "source_id": "32497639",
           "target_video_id": "29128168",
           "permanent": false,
-          "attempted_at": "2026-09-12T15:50:03.000952+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32497639",
-          "target_video_id": "29128168",
-          "permanent": false,
           "attempted_at": "2026-09-12T16:26:24.553635+00:00"
         },
         {
@@ -20177,6 +20188,13 @@
           "target_video_id": "29128168",
           "permanent": false,
           "attempted_at": "2026-09-12T17:04:51.793209+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32497639",
+          "target_video_id": "29128168",
+          "permanent": false,
+          "attempted_at": "2026-09-12T17:46:23.138836+00:00"
         }
       ],
       "last_plan": {
@@ -147410,5 +147428,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T17:46:18.920902+00:00"
+  "updated_at": "2026-09-12T17:46:23.138855+00:00"
 }
