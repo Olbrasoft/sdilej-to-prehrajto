@@ -10229,17 +10229,19 @@
       }
     },
     "598": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34646961",
+          "target_video_id": "29319544",
+          "permanent": false,
+          "attempted_at": "2026-09-12T08:13:40.315656+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34646961",
         "display_name": "Ztraceno v překladu (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-12T08:05:07.837895+00:00"
-      },
-      "claim": {
-        "worker_id": "74863297b0984176bb96eef0f2b66422-shard-3",
-        "claimed_at": "2026-09-12T08:10:17.115742+00:00",
-        "lease_expires_at": "2026-09-12T14:10:17.115742+00:00",
-        "run_id": "34667996006"
       },
       "prepared": {
         "target_video_id": "29319544",
@@ -15667,6 +15669,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "74863297b0984176bb96eef0f2b66422-shard-1",
+        "claimed_at": "2026-09-12T08:13:39.740193+00:00",
+        "lease_expires_at": "2026-09-12T14:13:39.740193+00:00",
+        "run_id": "34667996006"
       }
     },
     "22983": {
@@ -145546,5 +145554,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T08:13:38.092503+00:00"
+  "updated_at": "2026-09-12T08:13:40.315672+00:00"
 }
