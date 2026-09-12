@@ -30103,6 +30103,12 @@
         "source_id": "31396269",
         "display_name": "The Execution of Private Slovik (1974) SD CZ Dabing",
         "planned_at": "2026-09-12T11:53:03.040298+00:00"
+      },
+      "claim": {
+        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-3",
+        "claimed_at": "2026-09-12T11:54:28.806578+00:00",
+        "lease_expires_at": "2026-09-12T17:54:28.806578+00:00",
+        "run_id": "34683398014"
       }
     },
     "28826": {
@@ -77216,17 +77222,19 @@
       "attempts": []
     },
     "22869": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31765407",
+          "target_video_id": "29323409",
+          "permanent": false,
+          "attempted_at": "2026-09-12T11:54:32.105424+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31765407",
         "display_name": "Momo (1986) SD CZ Dabing",
         "planned_at": "2026-09-12T11:38:24.640614+00:00"
-      },
-      "claim": {
-        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-4",
-        "claimed_at": "2026-09-12T11:50:03.095248+00:00",
-        "lease_expires_at": "2026-09-12T17:50:03.095248+00:00",
-        "run_id": "34683398014"
       },
       "prepared": {
         "target_video_id": "29323409",
@@ -146328,5 +146336,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T11:54:27.081236+00:00"
+  "updated_at": "2026-09-12T11:54:32.105441+00:00"
 }
