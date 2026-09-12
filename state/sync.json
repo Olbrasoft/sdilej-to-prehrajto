@@ -73920,14 +73920,6 @@
     "16176": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32144558",
-          "target_video_id": "29313408",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-12T03:09:08.760757+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32144558",
           "reason": "PrehrajtoError",
@@ -73942,6 +73934,13 @@
           "permanent": false,
           "target_video_id": "29318840",
           "attempted_at": "2026-09-12T07:37:32.204563+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32144558",
+          "target_video_id": "29320343",
+          "permanent": false,
+          "attempted_at": "2026-09-12T09:57:39.489924+00:00"
         }
       ],
       "last_plan": {
@@ -73951,7 +73950,7 @@
       },
       "prepared": {
         "target_video_id": "29320343",
-        "size_bytes": 1953140951,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-12T08:53:29.734843+00:00"
       }
     },
@@ -145943,5 +145942,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T09:57:35.094430+00:00"
+  "updated_at": "2026-09-12T09:57:39.489942+00:00"
 }
