@@ -53187,14 +53187,6 @@
     "24733": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34706261",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29313802",
-          "attempted_at": "2026-09-12T01:17:18.115558+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34706261",
           "reason": "Request failed for https://sdilej.cz/34706261/pani-kacka-zasahuje...-1939-cz.mp4 (HTTP None)",
@@ -53208,23 +53200,20 @@
           "permanent": false,
           "target_video_id": "29315206",
           "attempted_at": "2026-09-12T03:28:30.282094+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34706261",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29316073",
+          "attempted_at": "2026-09-12T04:28:14.834476+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-12T04:02:42.304574+00:00"
-      },
-      "claim": {
-        "worker_id": "74863297b0984176bb96eef0f2b66422-shard-2",
-        "claimed_at": "2026-09-12T04:21:40.265951+00:00",
-        "lease_expires_at": "2026-09-12T10:21:40.265951+00:00",
-        "run_id": "34667996006"
-      },
-      "prepared": {
-        "target_video_id": "29316073",
-        "size_bytes": 867827396,
-        "prepared_at": "2026-09-12T04:21:44.071808+00:00"
       }
     },
     "32933": {
@@ -53511,6 +53500,12 @@
         "target_video_id": "29129225",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T16:24:07.588950+00:00"
+      },
+      "claim": {
+        "worker_id": "74863297b0984176bb96eef0f2b66422-shard-4",
+        "claimed_at": "2026-09-12T04:28:12.866425+00:00",
+        "lease_expires_at": "2026-09-12T10:28:12.866425+00:00",
+        "run_id": "34667996006"
       }
     },
     "28400": {
@@ -144452,5 +144447,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T04:28:06.493279+00:00"
+  "updated_at": "2026-09-12T04:28:14.834490+00:00"
 }
