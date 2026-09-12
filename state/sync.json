@@ -96904,17 +96904,19 @@
       }
     },
     "4217": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30136238",
+          "reason": "Request failed for https://sdilej.cz/30136238/jezek.sonic-sonic.the.hedgehog.2020.2160p.4k.bluray.x265.10bit.cz.sk-fckr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T22:47:27.922883+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30136238",
         "display_name": "Ježek Sonic (2020) 4K CZ Dabing",
         "planned_at": "2026-09-12T22:25:53.070753+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-5",
-        "claimed_at": "2026-09-12T22:46:42.155739+00:00",
-        "lease_expires_at": "2026-09-13T04:46:42.155739+00:00",
-        "run_id": "34717065832"
       }
     },
     "16591": {
@@ -96948,6 +96950,12 @@
         "source_id": "30649499",
         "display_name": "Příručák (2024) 4K CZ Dabing",
         "planned_at": "2026-09-12T22:25:53.227696+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-3",
+        "claimed_at": "2026-09-12T22:46:46.343556+00:00",
+        "lease_expires_at": "2026-09-13T04:46:46.343556+00:00",
+        "run_id": "34717065832"
       }
     },
     "4215": {
@@ -148668,5 +148676,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T22:46:44.533055+00:00"
+  "updated_at": "2026-09-12T22:47:27.922901+00:00"
 }
