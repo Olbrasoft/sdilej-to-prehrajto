@@ -47980,17 +47980,19 @@
       "attempts": []
     },
     "11942": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33873663",
+          "reason": "Request failed for https://sdilej.cz/33873663/carodejky-1990-1080p-cz-dab.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T02:22:13.073161+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33873663",
         "display_name": "Čarodějky (1990) 1080p CZ Dabing",
         "planned_at": "2026-09-12T02:05:13.402273+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-3",
-        "claimed_at": "2026-09-12T02:21:25.999634+00:00",
-        "lease_expires_at": "2026-09-12T08:21:25.999634+00:00",
-        "run_id": "34644205888"
       }
     },
     "3098": {
@@ -143840,5 +143842,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T02:22:11.445358+00:00"
+  "updated_at": "2026-09-12T02:22:13.073177+00:00"
 }
