@@ -68627,13 +68627,6 @@
     "15913": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28404933",
-          "reason": "Request failed for https://sdilej.cz/28404933/libanky-2013-2160p-hdr-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T00:34:51.506930+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "28404933",
           "reason": "PrehrajtoError",
@@ -68648,23 +68641,20 @@
           "permanent": false,
           "target_video_id": "29315033",
           "attempted_at": "2026-09-12T03:21:45.529372+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28404933",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29317400",
+          "attempted_at": "2026-09-12T06:06:38.729513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-12T05:34:23.339587+00:00"
-      },
-      "claim": {
-        "worker_id": "74863297b0984176bb96eef0f2b66422-shard-2",
-        "claimed_at": "2026-09-12T05:53:10.255950+00:00",
-        "lease_expires_at": "2026-09-12T11:53:10.255950+00:00",
-        "run_id": "34667996006"
-      },
-      "prepared": {
-        "target_video_id": "29317400",
-        "size_bytes": 4353059444,
-        "prepared_at": "2026-09-12T05:53:13.529273+00:00"
       }
     },
     "23700": {
@@ -144894,5 +144884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T06:02:59.145868+00:00"
+  "updated_at": "2026-09-12T06:06:38.729530+00:00"
 }
