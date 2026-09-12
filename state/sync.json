@@ -34018,6 +34018,12 @@
         "target_video_id": "29255927",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-09T22:30:50.538589+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-0",
+        "claimed_at": "2026-09-12T18:29:49.994871+00:00",
+        "lease_expires_at": "2026-09-13T00:29:49.994871+00:00",
+        "run_id": "34699185543"
       }
     },
     "13028": {
@@ -34277,6 +34283,12 @@
         "target_video_id": "29179786",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T06:45:23.104183+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-1",
+        "claimed_at": "2026-09-12T18:29:50.181369+00:00",
+        "lease_expires_at": "2026-09-13T00:29:50.181369+00:00",
+        "run_id": "34699185543"
       }
     },
     "2399": {
@@ -94617,17 +94629,19 @@
       }
     },
     "12185": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24666387",
+          "target_video_id": "29328728",
+          "permanent": false,
+          "attempted_at": "2026-09-12T18:29:50.359624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24666387",
         "display_name": "Divoká řeka (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-12T17:55:45.037557+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-2",
-        "claimed_at": "2026-09-12T18:18:58.011968+00:00",
-        "lease_expires_at": "2026-09-13T00:18:58.011968+00:00",
-        "run_id": "34699185543"
       },
       "prepared": {
         "target_video_id": "29328728",
@@ -147693,5 +147707,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T18:29:48.215130+00:00"
+  "updated_at": "2026-09-12T18:29:50.359642+00:00"
 }
