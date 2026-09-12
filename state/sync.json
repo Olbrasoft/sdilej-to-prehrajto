@@ -54101,17 +54101,19 @@
       "attempts": []
     },
     "30814": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34838524",
+          "reason": "Request failed for https://sdilej.cz/34838524/navrat-do-cernobylu-2017-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T19:52:54.452492+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34838524",
         "display_name": "Návrat do Černobylu (2017) SD CZ Dabing",
         "planned_at": "2026-09-12T19:42:00.839127+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-5",
-        "claimed_at": "2026-09-12T19:52:08.695718+00:00",
-        "lease_expires_at": "2026-09-13T01:52:08.695718+00:00",
-        "run_id": "34699185543"
       }
     },
     "16270": {
@@ -54172,6 +54174,12 @@
         "source_id": "34675833",
         "display_name": "Kam doskáče ranní ptáče (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-12T19:42:01.047081+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-4",
+        "claimed_at": "2026-09-12T19:52:20.259600+00:00",
+        "lease_expires_at": "2026-09-13T01:52:20.259600+00:00",
+        "run_id": "34699185543"
       }
     },
     "31589": {
@@ -148129,5 +148137,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T19:52:18.327126+00:00"
+  "updated_at": "2026-09-12T19:52:54.452511+00:00"
 }
