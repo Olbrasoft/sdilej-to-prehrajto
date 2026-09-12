@@ -65933,14 +65933,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30673323",
-          "target_video_id": "29328294",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-12T18:40:15.548347+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "30673323",
           "reason": "PrehrajtoError",
@@ -65955,6 +65947,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-12T20:40:15.142407+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30673323",
+          "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T21:59:35.217181+00:00"
         }
       ],
       "last_plan": {
@@ -148557,5 +148556,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T21:58:47.594671+00:00"
+  "updated_at": "2026-09-12T21:59:35.217200+00:00"
 }
