@@ -28632,6 +28632,12 @@
         "target_video_id": "29174967",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-07T00:24:08.111176+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-2",
+        "claimed_at": "2026-09-12T01:49:35.313189+00:00",
+        "lease_expires_at": "2026-09-12T07:49:35.313189+00:00",
+        "run_id": "34644205888"
       }
     },
     "35732": {
@@ -28804,6 +28810,12 @@
         "target_video_id": "29313711",
         "size_bytes": 2264705939,
         "prepared_at": "2026-09-12T01:05:05.309498+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-5",
+        "claimed_at": "2026-09-12T01:49:35.477371+00:00",
+        "lease_expires_at": "2026-09-12T07:49:35.477371+00:00",
+        "run_id": "34644205888"
       }
     },
     "31638": {
@@ -101427,17 +101439,19 @@
       }
     },
     "4519": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32970470",
+          "target_video_id": "29314127",
+          "permanent": false,
+          "attempted_at": "2026-09-12T01:49:35.660896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32970470",
         "display_name": "Nová noční můra (1994) 4K CZ Dabing",
         "planned_at": "2026-09-12T01:05:01.508526+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-0",
-        "claimed_at": "2026-09-12T01:40:12.555166+00:00",
-        "lease_expires_at": "2026-09-12T07:40:12.555166+00:00",
-        "run_id": "34644205888"
       },
       "prepared": {
         "target_video_id": "29314127",
@@ -143445,5 +143459,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T01:49:33.775282+00:00"
+  "updated_at": "2026-09-12T01:49:35.660912+00:00"
 }
