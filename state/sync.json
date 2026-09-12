@@ -9342,14 +9342,6 @@
           "source_id": "26245114",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29322423",
-          "attempted_at": "2026-09-12T10:55:52.304525+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "26245114",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29323207",
           "attempted_at": "2026-09-12T11:46:16.112941+00:00"
         },
@@ -9359,17 +9351,20 @@
           "target_video_id": "29323908",
           "permanent": false,
           "attempted_at": "2026-09-12T12:36:51.962838+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "26245114",
+          "target_video_id": "29323908",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-12T13:33:52.993127+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-12T13:31:20.988101+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29323908",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-12T12:28:48.021115+00:00"
       }
     },
     "18349": {
@@ -146752,5 +146747,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T13:33:48.055101+00:00"
+  "updated_at": "2026-09-12T13:33:52.993141+00:00"
 }
