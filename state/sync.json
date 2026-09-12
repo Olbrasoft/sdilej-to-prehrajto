@@ -94150,17 +94150,19 @@
       "attempts": []
     },
     "30649": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34713623",
+          "reason": "Request failed for https://sdilej.cz/34713623/pisen-k-vanocum-2017-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T18:10:05.639470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713623",
         "display_name": "Píseň k Vánocům (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-12T17:55:42.577803+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-1",
-        "claimed_at": "2026-09-12T18:09:19.989502+00:00",
-        "lease_expires_at": "2026-09-13T00:09:19.989502+00:00",
-        "run_id": "34699185543"
       }
     },
     "32079": {
@@ -147543,5 +147545,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T18:09:45.330363+00:00"
+  "updated_at": "2026-09-12T18:10:05.639489+00:00"
 }
