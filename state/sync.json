@@ -30358,6 +30358,12 @@
         "target_video_id": "29174916",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-07T00:20:27.095531+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-3",
+        "claimed_at": "2026-09-12T16:10:38.076872+00:00",
+        "lease_expires_at": "2026-09-12T22:10:38.076872+00:00",
+        "run_id": "34699185543"
       }
     },
     "33160": {
@@ -46289,14 +46295,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29323848",
-          "attempted_at": "2026-09-12T12:33:04.988530+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27436084",
           "target_video_id": "29325608",
@@ -46310,23 +46308,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-12T15:13:45.303018+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29327142",
+          "attempted_at": "2026-09-12T16:10:40.047897+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-12T15:47:52.638082+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-2",
-        "claimed_at": "2026-09-12T15:59:44.551938+00:00",
-        "lease_expires_at": "2026-09-12T21:59:44.551938+00:00",
-        "run_id": "34699185543"
-      },
-      "prepared": {
-        "target_video_id": "29327142",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-12T15:59:49.118684+00:00"
       }
     },
     "32220": {
@@ -147250,5 +147245,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T16:10:36.155845+00:00"
+  "updated_at": "2026-09-12T16:10:40.047916+00:00"
 }
