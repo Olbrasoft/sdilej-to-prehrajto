@@ -44262,13 +44262,6 @@
     "22880": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34755467",
-          "target_video_id": "29311351",
-          "permanent": false,
-          "attempted_at": "2026-09-11T22:25:11.854562+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34755467",
           "target_video_id": "29311351",
@@ -44282,23 +44275,20 @@
           "target_video_id": "29313591",
           "permanent": false,
           "attempted_at": "2026-09-12T00:57:18.921913+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34755467",
+          "target_video_id": "29313591",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-12T01:55:35.435176+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755467",
         "display_name": "Playboy: Playmate Playoffs (1986) SD CZ Titulky",
         "planned_at": "2026-09-12T01:50:25.177395+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29313591",
-        "size_bytes": 1288484074,
-        "prepared_at": "2026-09-12T00:54:35.488317+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-4",
-        "claimed_at": "2026-09-12T01:55:32.816828+00:00",
-        "lease_expires_at": "2026-09-12T07:55:32.816828+00:00",
-        "run_id": "34644205888"
       }
     },
     "13285": {
@@ -44455,6 +44445,12 @@
         "target_video_id": "29302307",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-11T15:01:59.209128+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-1",
+        "claimed_at": "2026-09-12T01:55:35.182414+00:00",
+        "lease_expires_at": "2026-09-12T07:55:35.182414+00:00",
+        "run_id": "34644205888"
       }
     },
     "11675": {
@@ -143521,5 +143517,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T01:55:33.568314+00:00"
+  "updated_at": "2026-09-12T01:55:35.435200+00:00"
 }
