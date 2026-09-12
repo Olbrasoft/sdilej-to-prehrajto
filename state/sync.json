@@ -95164,17 +95164,19 @@
       "attempts": []
     },
     "34282": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33943762",
+          "reason": "Request failed for https://sdilej.cz/33943762/los.amigos-1973-czdab.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T19:10:19.010517+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33943762",
         "display_name": "Los Amigos (1973) 1080p CZ Dabing",
         "planned_at": "2026-09-12T18:53:04.576252+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-0",
-        "claimed_at": "2026-09-12T19:09:32.050286+00:00",
-        "lease_expires_at": "2026-09-13T01:09:32.050286+00:00",
-        "run_id": "34699185543"
       }
     },
     "27208": {
@@ -147910,5 +147912,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T19:10:17.148346+00:00"
+  "updated_at": "2026-09-12T19:10:19.010532+00:00"
 }
