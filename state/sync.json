@@ -53475,17 +53475,19 @@
       }
     },
     "15845": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30726013",
+          "target_video_id": "29329889",
+          "permanent": false,
+          "attempted_at": "2026-09-12T19:41:51.221001+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30726013",
         "display_name": "Samota (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-12T19:26:32.235094+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-1",
-        "claimed_at": "2026-09-12T19:32:34.268666+00:00",
-        "lease_expires_at": "2026-09-13T01:32:34.268666+00:00",
-        "run_id": "34699185543"
       },
       "prepared": {
         "target_video_id": "29329889",
@@ -72074,6 +72076,12 @@
         "target_video_id": "29284523",
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-10T23:42:41.719954+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-0",
+        "claimed_at": "2026-09-12T19:41:49.070886+00:00",
+        "lease_expires_at": "2026-09-13T01:41:49.070886+00:00",
+        "run_id": "34699185543"
       }
     },
     "3174": {
@@ -147994,5 +148002,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T19:41:47.290174+00:00"
+  "updated_at": "2026-09-12T19:41:51.221018+00:00"
 }
