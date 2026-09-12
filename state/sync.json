@@ -36421,13 +36421,6 @@
     "17625": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31064718",
-          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T16:47:24.554931+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31064718",
           "reason": "PrehrajtoError",
@@ -36441,23 +36434,20 @@
           "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-12T18:31:21.245619+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31064718",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29329668",
+          "attempted_at": "2026-09-12T19:32:21.920683+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-12T19:18:20.677463+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-0",
-        "claimed_at": "2026-09-12T19:18:45.668673+00:00",
-        "lease_expires_at": "2026-09-13T01:18:45.668673+00:00",
-        "run_id": "34699185543"
-      },
-      "prepared": {
-        "target_video_id": "29329668",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-12T19:18:51.823138+00:00"
       }
     },
     "14755": {
@@ -39199,6 +39189,12 @@
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-12T19:26:31.329565+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-1",
+        "claimed_at": "2026-09-12T19:31:39.381063+00:00",
+        "lease_expires_at": "2026-09-13T01:31:39.381063+00:00",
+        "run_id": "34699185543"
       }
     },
     "2571": {
@@ -147992,5 +147988,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T19:31:32.458255+00:00"
+  "updated_at": "2026-09-12T19:32:21.920699+00:00"
 }
