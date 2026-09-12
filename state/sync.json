@@ -56035,6 +56035,12 @@
         "target_video_id": "29129225",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T16:24:07.588950+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-4",
+        "claimed_at": "2026-09-12T16:35:45.835551+00:00",
+        "lease_expires_at": "2026-09-12T22:35:45.835551+00:00",
+        "run_id": "34699185543"
       }
     },
     "28400": {
@@ -75179,14 +75185,6 @@
     "16176": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "32144558",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29318840",
-          "attempted_at": "2026-09-12T07:37:32.204563+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32144558",
           "target_video_id": "29320343",
@@ -75200,23 +75198,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-12T11:16:43.582019+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32144558",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29327328",
+          "attempted_at": "2026-09-12T16:35:47.623674+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32144558",
         "display_name": "Zakázané uvolnění (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-12T16:12:56.490255+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-5",
-        "claimed_at": "2026-09-12T16:22:21.285586+00:00",
-        "lease_expires_at": "2026-09-12T22:22:21.285586+00:00",
-        "run_id": "34699185543"
-      },
-      "prepared": {
-        "target_video_id": "29327328",
-        "size_bytes": 1953140951,
-        "prepared_at": "2026-09-12T16:22:25.875919+00:00"
       }
     },
     "16094": {
@@ -147315,5 +147310,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T16:35:44.009144+00:00"
+  "updated_at": "2026-09-12T16:35:47.623689+00:00"
 }
