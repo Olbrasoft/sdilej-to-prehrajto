@@ -39154,14 +39154,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29328895",
-          "attempted_at": "2026-09-12T18:50:20.035367+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32222414",
           "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv (HTTP None)",
@@ -39175,18 +39167,19 @@
           "permanent": false,
           "target_video_id": "29330244",
           "attempted_at": "2026-09-12T20:29:12.956999+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32222414",
+          "target_video_id": "29331324",
+          "permanent": false,
+          "attempted_at": "2026-09-12T21:46:56.544880+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-12T21:31:15.940456+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-4",
-        "claimed_at": "2026-09-12T21:32:58.312316+00:00",
-        "lease_expires_at": "2026-09-13T03:32:58.312316+00:00",
-        "run_id": "34717065832"
       },
       "prepared": {
         "target_video_id": "29331324",
@@ -46518,6 +46511,12 @@
         "target_video_id": "29214640",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-08T13:41:18.290794+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-5",
+        "claimed_at": "2026-09-12T21:46:55.471767+00:00",
+        "lease_expires_at": "2026-09-13T03:46:55.471767+00:00",
+        "run_id": "34717065832"
       }
     },
     "11584": {
@@ -148557,5 +148556,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T21:46:53.741883+00:00"
+  "updated_at": "2026-09-12T21:46:56.544936+00:00"
 }
