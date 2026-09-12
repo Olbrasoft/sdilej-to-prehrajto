@@ -65901,13 +65901,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30673323",
-          "target_video_id": "29328294",
-          "permanent": false,
-          "attempted_at": "2026-09-12T17:57:21.443489+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "30673323",
           "target_video_id": "29328294",
@@ -65922,23 +65915,20 @@
           "permanent": false,
           "target_video_id": "29329966",
           "attempted_at": "2026-09-12T19:52:18.327109+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30673323",
+          "target_video_id": "29330461",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-12T20:40:15.142407+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-12T20:39:41.626765+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29330461",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-12T20:29:22.575899+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
-        "claimed_at": "2026-09-12T20:40:05.101911+00:00",
-        "lease_expires_at": "2026-09-13T02:40:05.101911+00:00",
-        "run_id": "34717065832"
       }
     },
     "14505": {
@@ -83757,6 +83747,12 @@
         "target_video_id": "29230807",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-09T03:05:40.611726+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-2",
+        "claimed_at": "2026-09-12T20:40:14.993468+00:00",
+        "lease_expires_at": "2026-09-13T02:40:14.993468+00:00",
+        "run_id": "34717065832"
       }
     },
     "10866": {
@@ -148184,5 +148180,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T20:40:13.337338+00:00"
+  "updated_at": "2026-09-12T20:40:15.142423+00:00"
 }
