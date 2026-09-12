@@ -9382,17 +9382,19 @@
       "attempts": []
     },
     "31250": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25780265",
+          "target_video_id": "29314819",
+          "permanent": false,
+          "attempted_at": "2026-09-12T02:52:25.039076+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25780265",
         "display_name": "Navalny (2022) SD CZ Titulky",
         "planned_at": "2026-09-12T02:42:14.277706+00:00"
-      },
-      "claim": {
-        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-1",
-        "claimed_at": "2026-09-12T02:50:47.680776+00:00",
-        "lease_expires_at": "2026-09-12T08:50:47.680776+00:00",
-        "run_id": "34644205888"
       },
       "prepared": {
         "target_video_id": "29314819",
@@ -17548,6 +17550,12 @@
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
+      },
+      "claim": {
+        "worker_id": "9e76d73ab3414ff3a0929741cadafa43-shard-3",
+        "claimed_at": "2026-09-12T02:52:23.414203+00:00",
+        "lease_expires_at": "2026-09-12T08:52:23.414203+00:00",
+        "run_id": "34644205888"
       }
     },
     "24202": {
@@ -144134,5 +144142,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T02:52:21.802068+00:00"
+  "updated_at": "2026-09-12T02:52:25.039093+00:00"
 }
