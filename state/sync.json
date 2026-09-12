@@ -44890,13 +44890,6 @@
     "22880": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34755467",
-          "target_video_id": "29314941",
-          "permanent": false,
-          "attempted_at": "2026-09-12T03:03:24.043914+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34755467",
           "target_video_id": "29314941",
@@ -44910,17 +44903,20 @@
           "target_video_id": "29316472",
           "permanent": false,
           "attempted_at": "2026-09-12T04:57:58.191545+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34755467",
+          "target_video_id": "29316472",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-12T05:43:51.763890+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755467",
         "display_name": "Playboy: Playmate Playoffs (1986) SD CZ Titulky",
         "planned_at": "2026-09-12T05:34:21.003836+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29316472",
-        "size_bytes": 1288484074,
-        "prepared_at": "2026-09-12T04:54:22.257315+00:00"
       }
     },
     "13285": {
@@ -144794,5 +144790,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T05:43:43.351247+00:00"
+  "updated_at": "2026-09-12T05:43:51.763908+00:00"
 }
