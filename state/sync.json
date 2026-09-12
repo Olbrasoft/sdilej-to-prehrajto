@@ -15237,6 +15237,12 @@
         "target_video_id": "29117207",
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
+      },
+      "claim": {
+        "worker_id": "61918a6bf823416b9799a371947bc296-shard-5",
+        "claimed_at": "2026-09-12T15:49:00.342146+00:00",
+        "lease_expires_at": "2026-09-12T21:49:00.342146+00:00",
+        "run_id": "34699185543"
       }
     },
     "25815": {
@@ -47990,23 +47996,20 @@
           "permanent": false,
           "target_video_id": "29325865",
           "attempted_at": "2026-09-12T14:44:30.626896+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34716525",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29326863",
+          "attempted_at": "2026-09-12T15:49:02.515068+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716525",
         "display_name": "LADY NINJA ～青い影～ (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-12T15:31:40.239034+00:00"
-      },
-      "claim": {
-        "worker_id": "61918a6bf823416b9799a371947bc296-shard-0",
-        "claimed_at": "2026-09-12T15:36:10.044984+00:00",
-        "lease_expires_at": "2026-09-12T21:36:10.044984+00:00",
-        "run_id": "34699185543"
-      },
-      "prepared": {
-        "target_video_id": "29326863",
-        "size_bytes": 2777775058,
-        "prepared_at": "2026-09-12T15:36:14.123383+00:00"
       }
     },
     "31730": {
@@ -147229,5 +147232,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T15:48:58.572119+00:00"
+  "updated_at": "2026-09-12T15:49:02.515084+00:00"
 }
