@@ -75922,14 +75922,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "29955764",
-          "target_video_id": "29300099",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-11T14:08:02.759490+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29955764",
           "target_video_id": "29303908",
@@ -75943,6 +75935,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-11T17:46:02.043356+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29955764",
+          "reason": "Request failed for https://sdilej.cz/29955764/temna-zrada-thriller-2021-cz-dab.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T00:46:31.704663+00:00"
         }
       ],
       "last_plan": {
@@ -143259,5 +143258,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T00:45:40.391909+00:00"
+  "updated_at": "2026-09-12T00:46:31.704687+00:00"
 }
