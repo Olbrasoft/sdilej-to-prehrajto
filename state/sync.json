@@ -21194,14 +21194,6 @@
     "1803": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32908053",
-          "target_video_id": "29314846",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-12T03:07:45.099058+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32908053",
           "reason": "PrehrajtoError",
@@ -21216,23 +21208,20 @@
           "permanent": false,
           "target_video_id": "29316298",
           "attempted_at": "2026-09-12T05:08:55.754843+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32908053",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29317592",
+          "attempted_at": "2026-09-12T06:32:11.700622+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-12T06:02:49.283658+00:00"
-      },
-      "claim": {
-        "worker_id": "74863297b0984176bb96eef0f2b66422-shard-2",
-        "claimed_at": "2026-09-12T06:07:41.075451+00:00",
-        "lease_expires_at": "2026-09-12T12:07:41.075451+00:00",
-        "run_id": "34667996006"
-      },
-      "prepared": {
-        "target_video_id": "29317592",
-        "size_bytes": 6447191434,
-        "prepared_at": "2026-09-12T06:07:45.857341+00:00"
       }
     },
     "1814": {
@@ -144886,5 +144875,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T06:31:11.015638+00:00"
+  "updated_at": "2026-09-12T06:32:11.700637+00:00"
 }
