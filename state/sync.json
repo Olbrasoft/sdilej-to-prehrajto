@@ -46343,13 +46343,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "27436084",
-          "target_video_id": "29325608",
-          "permanent": false,
-          "attempted_at": "2026-09-12T14:19:40.219483+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27436084",
           "target_video_id": "29325608",
@@ -46364,6 +46357,13 @@
           "permanent": false,
           "target_video_id": "29327142",
           "attempted_at": "2026-09-12T16:10:40.047897+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27436084",
+          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T16:45:42.072635+00:00"
         }
       ],
       "last_plan": {
@@ -147299,5 +147299,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T16:44:54.430308+00:00"
+  "updated_at": "2026-09-12T16:45:42.072655+00:00"
 }
