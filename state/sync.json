@@ -3307,6 +3307,12 @@
         "target_video_id": "29122398",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T06:00:28.711519+00:00"
+      },
+      "claim": {
+        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-2",
+        "claimed_at": "2026-09-12T11:33:26.668025+00:00",
+        "lease_expires_at": "2026-09-12T17:33:26.668025+00:00",
+        "run_id": "34683398014"
       }
     },
     "22398": {
@@ -4071,6 +4077,12 @@
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-0",
+        "claimed_at": "2026-09-12T11:33:26.537490+00:00",
+        "lease_expires_at": "2026-09-12T17:33:26.537490+00:00",
+        "run_id": "34683398014"
       }
     },
     "21939": {
@@ -4210,6 +4222,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-5",
+        "claimed_at": "2026-09-12T11:33:26.790456+00:00",
+        "lease_expires_at": "2026-09-12T17:33:26.790456+00:00",
+        "run_id": "34683398014"
       }
     },
     "304": {
@@ -10742,14 +10760,6 @@
           "source_id": "27650803",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29319584",
-          "attempted_at": "2026-09-12T08:23:13.149349+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27650803",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29320823",
           "attempted_at": "2026-09-12T09:34:17.049838+00:00"
         },
@@ -10760,23 +10770,20 @@
           "permanent": false,
           "target_video_id": "29322002",
           "attempted_at": "2026-09-12T10:40:57.777530+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27650803",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29322867",
+          "attempted_at": "2026-09-12T11:33:28.876231+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-12T11:13:09.788927+00:00"
-      },
-      "claim": {
-        "worker_id": "8e3bcf838cf848548db4b016c0534fdd-shard-4",
-        "claimed_at": "2026-09-12T11:13:40.247380+00:00",
-        "lease_expires_at": "2026-09-12T17:13:40.247380+00:00",
-        "run_id": "34683398014"
-      },
-      "prepared": {
-        "target_video_id": "29322867",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-12T11:13:45.232102+00:00"
       }
     },
     "21307": {
@@ -146194,5 +146201,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T11:33:24.828883+00:00"
+  "updated_at": "2026-09-12T11:33:28.876246+00:00"
 }
