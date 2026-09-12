@@ -97553,17 +97553,19 @@
       }
     },
     "21411": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34699686",
+          "reason": "Request failed for https://sdilej.cz/34699686/sedici-byk-1954-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-12T23:01:37.907730+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34699686",
         "display_name": "Sedící býk (1954) SD CZ Dabing",
         "planned_at": "2026-09-12T22:25:54.473377+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
-        "claimed_at": "2026-09-12T23:00:51.992096+00:00",
-        "lease_expires_at": "2026-09-13T05:00:51.992096+00:00",
-        "run_id": "34717065832"
       }
     },
     "35356": {
@@ -148767,5 +148769,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T23:00:57.126344+00:00"
+  "updated_at": "2026-09-12T23:01:37.907748+00:00"
 }
