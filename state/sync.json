@@ -74121,14 +74121,6 @@
           "source_id": "32144558",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29317475",
-          "attempted_at": "2026-09-12T06:07:06.436878+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32144558",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29318840",
           "attempted_at": "2026-09-12T07:37:32.204563+00:00"
         },
@@ -74138,17 +74130,20 @@
           "target_video_id": "29320343",
           "permanent": false,
           "attempted_at": "2026-09-12T09:57:39.489924+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "32144558",
+          "target_video_id": "29320343",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-12T11:16:43.582019+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32144558",
         "display_name": "Zakázané uvolnění (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-12T11:13:14.358212+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29320343",
-        "size_bytes": 2000000000,
-        "prepared_at": "2026-09-12T08:53:29.734843+00:00"
       }
     },
     "16094": {
@@ -146182,5 +146177,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-12T11:16:39.178400+00:00"
+  "updated_at": "2026-09-12T11:16:43.582034+00:00"
 }
