@@ -83867,13 +83867,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34876843",
-          "target_video_id": "29343814",
-          "permanent": false,
-          "attempted_at": "2026-09-13T08:08:15.094072+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34876843",
           "target_video_id": "29343814",
@@ -83888,6 +83881,13 @@
           "permanent": false,
           "target_video_id": "29348995",
           "attempted_at": "2026-09-13T12:25:10.222003+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34876843",
+          "reason": "Source detail has no authenticated download link; source_id=34876843",
+          "permanent": false,
+          "attempted_at": "2026-09-13T13:09:11.044156+00:00"
         }
       ],
       "last_plan": {
@@ -152217,5 +152217,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T13:09:01.133366+00:00"
+  "updated_at": "2026-09-13T13:09:11.044172+00:00"
 }
