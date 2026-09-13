@@ -8573,17 +8573,19 @@
       }
     },
     "430": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34646849",
+          "target_video_id": "29337450",
+          "permanent": false,
+          "attempted_at": "2026-09-13T03:30:09.349767+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34646849",
         "display_name": "Na západní frontě klid (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-13T03:14:29.612208+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-0",
-        "claimed_at": "2026-09-13T03:16:17.879693+00:00",
-        "lease_expires_at": "2026-09-13T09:16:17.879693+00:00",
-        "run_id": "34731042870"
       },
       "prepared": {
         "target_video_id": "29337450",
@@ -12966,6 +12968,12 @@
         "source_id": "27522937",
         "display_name": "Opravdová kuráž (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-13T03:22:48.526610+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
+        "claimed_at": "2026-09-13T03:29:26.562070+00:00",
+        "lease_expires_at": "2026-09-13T09:29:26.562070+00:00",
+        "run_id": "34731042870"
       }
     },
     "832": {
@@ -150556,5 +150564,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T03:29:24.546175+00:00"
+  "updated_at": "2026-09-13T03:30:09.349782+00:00"
 }
