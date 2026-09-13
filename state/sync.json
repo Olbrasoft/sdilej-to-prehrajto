@@ -11110,17 +11110,19 @@
       }
     },
     "601": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21366993",
+          "target_video_id": "29342566",
+          "permanent": false,
+          "attempted_at": "2026-09-13T06:50:37.820475+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21366993",
         "display_name": "Zkrocená hora (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-13T06:38:09.461318+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T06:39:58.832195+00:00",
-        "lease_expires_at": "2026-09-13T12:39:58.832195+00:00",
-        "run_id": "34731042870"
       },
       "prepared": {
         "target_video_id": "29342566",
@@ -12892,6 +12894,12 @@
         "target_video_id": "29335601",
         "size_bytes": 9900000000,
         "prepared_at": "2026-09-13T01:55:43.908501+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-3",
+        "claimed_at": "2026-09-13T06:50:37.622250+00:00",
+        "lease_expires_at": "2026-09-13T12:50:37.622250+00:00",
+        "run_id": "34731042870"
       }
     },
     "801": {
@@ -151478,5 +151486,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T06:50:35.864059+00:00"
+  "updated_at": "2026-09-13T06:50:37.820493+00:00"
 }
