@@ -4210,6 +4210,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-2",
+        "claimed_at": "2026-09-13T00:08:45.372721+00:00",
+        "lease_expires_at": "2026-09-13T06:08:45.372721+00:00",
+        "run_id": "34717065832"
       }
     },
     "304": {
@@ -4450,6 +4456,12 @@
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-4",
+        "claimed_at": "2026-09-13T00:08:45.543223+00:00",
+        "lease_expires_at": "2026-09-13T06:08:45.543223+00:00",
+        "run_id": "34717065832"
       }
     },
     "327": {
@@ -30102,17 +30114,19 @@
       }
     },
     "14238": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33750073",
+          "target_video_id": "29333570",
+          "permanent": false,
+          "attempted_at": "2026-09-13T00:08:48.078227+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33750073",
         "display_name": "Bez zvláštních znamení (2020) SD CZ Titulky",
         "planned_at": "2026-09-12T23:36:15.957197+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-5",
-        "claimed_at": "2026-09-13T00:05:33.454170+00:00",
-        "lease_expires_at": "2026-09-13T06:05:33.454170+00:00",
-        "run_id": "34717065832"
       },
       "prepared": {
         "target_video_id": "29333570",
@@ -149316,5 +149330,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T00:08:43.718529+00:00"
+  "updated_at": "2026-09-13T00:08:48.078242+00:00"
 }
