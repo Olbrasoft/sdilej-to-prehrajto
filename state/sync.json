@@ -34645,14 +34645,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34933768",
-          "target_video_id": "29350967",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-13T14:53:53.986056+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34933768",
           "reason": "PrehrajtoError",
@@ -34667,23 +34659,20 @@
           "permanent": false,
           "target_video_id": "29353689",
           "attempted_at": "2026-09-13T17:15:50.773453+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29354314",
+          "attempted_at": "2026-09-13T17:58:29.490022+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-13T17:48:51.520539+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-5",
-        "claimed_at": "2026-09-13T17:48:57.672135+00:00",
-        "lease_expires_at": "2026-09-13T23:48:57.672135+00:00",
-        "run_id": "34759682184"
-      },
-      "prepared": {
-        "target_video_id": "29354314",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-13T17:49:07.385855+00:00"
       }
     },
     "31638": {
@@ -85274,6 +85263,12 @@
         "target_video_id": "29219599",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-08T17:53:52.893882+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-0",
+        "claimed_at": "2026-09-13T17:58:28.790567+00:00",
+        "lease_expires_at": "2026-09-13T23:58:28.790567+00:00",
+        "run_id": "34759682184"
       }
     },
     "9468": {
@@ -153601,5 +153596,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T17:58:27.074537+00:00"
+  "updated_at": "2026-09-13T17:58:29.490041+00:00"
 }
