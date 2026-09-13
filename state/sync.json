@@ -21406,6 +21406,12 @@
         "target_video_id": "29128110",
         "size_bytes": 20300000000,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
+      },
+      "claim": {
+        "worker_id": "358d9ef4c67944b380f3606af293537a-shard-3",
+        "claimed_at": "2026-09-13T20:10:42.947639+00:00",
+        "lease_expires_at": "2026-09-14T02:10:42.947639+00:00",
+        "run_id": "34777431566"
       }
     },
     "22282": {
@@ -40673,14 +40679,6 @@
           "source_id": "30644750",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29354002",
-          "attempted_at": "2026-09-13T17:33:52.919902+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "30644750",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29354991",
           "attempted_at": "2026-09-13T18:35:00.096495+00:00"
         },
@@ -40691,23 +40689,20 @@
           "permanent": false,
           "target_video_id": "29355879",
           "attempted_at": "2026-09-13T19:27:01.087948+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29356759",
+          "attempted_at": "2026-09-13T20:10:44.527269+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T20:00:57.216431+00:00"
-      },
-      "claim": {
-        "worker_id": "358d9ef4c67944b380f3606af293537a-shard-0",
-        "claimed_at": "2026-09-13T20:01:26.618839+00:00",
-        "lease_expires_at": "2026-09-14T02:01:26.618839+00:00",
-        "run_id": "34777431566"
-      },
-      "prepared": {
-        "target_video_id": "29356759",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-13T20:01:33.250275+00:00"
       }
     },
     "10659": {
@@ -154717,5 +154712,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T20:10:41.093144+00:00"
+  "updated_at": "2026-09-13T20:10:44.527291+00:00"
 }
