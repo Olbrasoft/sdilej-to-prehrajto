@@ -6054,6 +6054,12 @@
         "target_video_id": "29196549",
         "size_bytes": 42900000000,
         "prepared_at": "2026-09-07T20:17:35.671910+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-3",
+        "claimed_at": "2026-09-13T19:32:15.465045+00:00",
+        "lease_expires_at": "2026-09-14T01:32:15.465045+00:00",
+        "run_id": "34759682184"
       }
     },
     "32992": {
@@ -45978,17 +45984,19 @@
       "attempts": []
     },
     "37375": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34471665",
+          "target_video_id": "29356052",
+          "permanent": false,
+          "attempted_at": "2026-09-13T19:32:16.510331+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34471665",
         "display_name": "Muž beze spánku (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-13T19:14:39.648073+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-2",
-        "claimed_at": "2026-09-13T19:27:31.762612+00:00",
-        "lease_expires_at": "2026-09-14T01:27:31.762612+00:00",
-        "run_id": "34759682184"
       },
       "prepared": {
         "target_video_id": "29356052",
@@ -154486,5 +154494,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T19:32:13.816557+00:00"
+  "updated_at": "2026-09-13T19:32:16.510350+00:00"
 }
