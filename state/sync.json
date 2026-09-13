@@ -37246,14 +37246,6 @@
     "11014": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "30644750",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29330334",
-          "attempted_at": "2026-09-12T20:30:42.865084+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30644750",
           "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
@@ -37267,23 +37259,20 @@
           "permanent": false,
           "target_video_id": "29331807",
           "attempted_at": "2026-09-12T22:20:26.098706+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29333686",
+          "attempted_at": "2026-09-13T00:28:35.149757+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:15:19.437369+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
-        "claimed_at": "2026-09-13T00:16:35.387164+00:00",
-        "lease_expires_at": "2026-09-13T06:16:35.387164+00:00",
-        "run_id": "34717065832"
-      },
-      "prepared": {
-        "target_video_id": "29333686",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-13T00:16:40.036806+00:00"
       }
     },
     "10659": {
@@ -41447,6 +41436,12 @@
         "target_video_id": "29215766",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-08T14:42:01.222674+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-5",
+        "claimed_at": "2026-09-13T00:28:32.730831+00:00",
+        "lease_expires_at": "2026-09-13T06:28:32.730831+00:00",
+        "run_id": "34717065832"
       }
     },
     "20421": {
@@ -149387,5 +149382,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T00:28:20.931917+00:00"
+  "updated_at": "2026-09-13T00:28:35.149773+00:00"
 }
