@@ -39680,14 +39680,6 @@
           "source_id": "30644750",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29348188",
-          "attempted_at": "2026-09-13T11:39:58.137688+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "30644750",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29349288",
           "attempted_at": "2026-09-13T12:37:41.154802+00:00"
         },
@@ -39698,23 +39690,20 @@
           "permanent": false,
           "target_video_id": "29350222",
           "attempted_at": "2026-09-13T13:32:23.734815+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "30644750",
+          "target_video_id": "29350989",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-13T14:10:48.480188+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T14:10:32.014650+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29350989",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-13T14:10:12.539511+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-4",
-        "claimed_at": "2026-09-13T14:10:41.735741+00:00",
-        "lease_expires_at": "2026-09-13T20:10:41.735741+00:00",
-        "run_id": "34759682184"
       }
     },
     "10659": {
@@ -152266,5 +152255,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T14:10:46.914388+00:00"
+  "updated_at": "2026-09-13T14:10:48.480214+00:00"
 }
