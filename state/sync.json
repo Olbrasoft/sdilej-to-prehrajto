@@ -26779,10 +26779,24 @@
         "source_id": "14570228",
         "display_name": "Očím skryté (2016) 720p CZ Dabing",
         "planned_at": "2026-09-13T04:33:59.696745+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-0",
+        "claimed_at": "2026-09-13T04:46:59.367680+00:00",
+        "lease_expires_at": "2026-09-13T10:46:59.367680+00:00",
+        "run_id": "34731042870"
       }
     },
     "1085": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30116104",
+          "reason": "Request failed for https://sdilej.cz/30116104/zazracna-mysl-out-of-my-mind-1080p-web.dl-x264-eac3-5.1-en-cz-2024.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T04:46:59.940611+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30116104",
         "display_name": "Zázračná mysl (2024) 1080p CZ Dabing",
@@ -150893,5 +150907,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T04:46:57.227659+00:00"
+  "updated_at": "2026-09-13T04:46:59.940623+00:00"
 }
