@@ -39290,13 +39290,6 @@
           "source_id": "30644750",
           "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-13T06:56:01.320794+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "30644750",
-          "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-13T07:39:29.906812+00:00"
         },
         {
@@ -39306,23 +39299,20 @@
           "permanent": false,
           "target_video_id": "29344352",
           "attempted_at": "2026-09-13T08:35:44.471244+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29345420",
+          "attempted_at": "2026-09-13T09:31:20.806809+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T09:14:51.400370+00:00"
-      },
-      "claim": {
-        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-5",
-        "claimed_at": "2026-09-13T09:17:38.063887+00:00",
-        "lease_expires_at": "2026-09-13T15:17:38.063887+00:00",
-        "run_id": "34745214792"
-      },
-      "prepared": {
-        "target_video_id": "29345420",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-13T09:17:52.685650+00:00"
       }
     },
     "10659": {
@@ -44219,6 +44209,12 @@
         "target_video_id": "29256351",
         "size_bytes": 10300000000,
         "prepared_at": "2026-09-09T22:49:40.012044+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-3",
+        "claimed_at": "2026-09-13T09:31:19.242380+00:00",
+        "lease_expires_at": "2026-09-13T15:31:19.242380+00:00",
+        "run_id": "34745214792"
       }
     },
     "32407": {
@@ -44657,6 +44653,12 @@
         "source_id": "16430496",
         "display_name": "Než skončí válka (2019) 720p CZ Dabing",
         "planned_at": "2026-09-13T09:14:52.783362+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-2",
+        "claimed_at": "2026-09-13T09:31:19.102459+00:00",
+        "lease_expires_at": "2026-09-13T15:31:19.102459+00:00",
+        "run_id": "34745214792"
       }
     },
     "32650": {
@@ -151773,5 +151775,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T09:31:17.403836+00:00"
+  "updated_at": "2026-09-13T09:31:20.806824+00:00"
 }
