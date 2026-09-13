@@ -9338,13 +9338,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T22:03:24.544965+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26245114",
           "target_video_id": "29333124",
@@ -9358,18 +9351,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-13T00:15:31.352267+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26245114",
+          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T00:50:55.712905+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:47:57.607865+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-4",
-        "claimed_at": "2026-09-13T00:50:09.918239+00:00",
-        "lease_expires_at": "2026-09-13T06:50:09.918239+00:00",
-        "run_id": "34717065832"
       }
     },
     "18349": {
@@ -12495,6 +12489,12 @@
         "target_video_id": "29154104",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T06:54:37.939767+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
+        "claimed_at": "2026-09-13T00:50:53.381740+00:00",
+        "lease_expires_at": "2026-09-13T06:50:53.381740+00:00",
+        "run_id": "34717065832"
       }
     },
     "754": {
@@ -149426,5 +149426,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T00:50:51.714415+00:00"
+  "updated_at": "2026-09-13T00:50:55.712925+00:00"
 }
