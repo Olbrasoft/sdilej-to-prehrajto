@@ -48552,13 +48552,6 @@
     "22880": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34755467",
-          "reason": "Request failed for https://sdilej.cz/34755467/playboy-playmate-playoffs-1986-cz-titulky.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T22:22:38.223499+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34755467",
           "target_video_id": "29333833",
@@ -48572,18 +48565,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-13T01:47:48.115206+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34755467",
+          "target_video_id": "29338523",
+          "permanent": false,
+          "attempted_at": "2026-09-13T04:05:25.120413+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755467",
         "display_name": "Playboy: Playmate Playoffs (1986) SD CZ Titulky",
         "planned_at": "2026-09-13T03:57:51.736642+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-3",
-        "claimed_at": "2026-09-13T04:01:58.302109+00:00",
-        "lease_expires_at": "2026-09-13T10:01:58.302109+00:00",
-        "run_id": "34731042870"
       },
       "prepared": {
         "target_video_id": "29338523",
@@ -150741,5 +150735,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T04:02:01.974568+00:00"
+  "updated_at": "2026-09-13T04:05:25.120428+00:00"
 }
