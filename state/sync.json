@@ -1378,6 +1378,12 @@
         "target_video_id": "28927315",
         "size_bytes": 16399999999,
         "prepared_at": "2026-09-06T02:07:47.280122+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-5",
+        "claimed_at": "2026-09-13T16:24:22.917256+00:00",
+        "lease_expires_at": "2026-09-13T22:24:22.917256+00:00",
+        "run_id": "34759682184"
       }
     },
     "21690": {
@@ -29884,17 +29890,19 @@
       "attempts": []
     },
     "31919": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13869352",
+          "target_video_id": "29352799",
+          "permanent": false,
+          "attempted_at": "2026-09-13T16:24:24.556567+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13869352",
         "display_name": "Dánská dívka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-13T15:51:57.355552+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-4",
-        "claimed_at": "2026-09-13T16:16:27.480235+00:00",
-        "lease_expires_at": "2026-09-13T22:16:27.480235+00:00",
-        "run_id": "34759682184"
       },
       "prepared": {
         "target_video_id": "29352799",
@@ -152959,5 +152967,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T16:24:18.876835+00:00"
+  "updated_at": "2026-09-13T16:24:24.556599+00:00"
 }
