@@ -11853,17 +11853,19 @@
       }
     },
     "13212": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34045226",
+          "reason": "Request failed for https://sdilej.cz/34045226/good-bye-lenin-2003-komedie-cz-dab.1080p-h.265-hevc.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T06:51:10.410589+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34045226",
         "display_name": "Good Bye, Lenin! (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-13T06:46:15.632762+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-0",
-        "claimed_at": "2026-09-13T06:50:18.898540+00:00",
-        "lease_expires_at": "2026-09-13T12:50:18.898540+00:00",
-        "run_id": "34731042870"
       }
     },
     "13040": {
@@ -151486,5 +151488,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T06:51:04.257870+00:00"
+  "updated_at": "2026-09-13T06:51:10.410610+00:00"
 }
