@@ -48795,13 +48795,6 @@
           "source_id": "27436084",
           "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-13T06:17:39.821188+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "27436084",
-          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-13T07:06:10.797841+00:00"
         },
         {
@@ -48810,17 +48803,20 @@
           "target_video_id": "29343601",
           "permanent": false,
           "attempted_at": "2026-09-13T07:45:54.587569+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "27436084",
+          "target_video_id": "29343601",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-13T08:26:45.222670+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-13T08:23:17.568022+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29343601",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-13T07:41:17.359233+00:00"
       }
     },
     "32220": {
@@ -151804,5 +151800,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T08:26:40.486516+00:00"
+  "updated_at": "2026-09-13T08:26:45.222687+00:00"
 }
