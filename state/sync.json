@@ -27174,6 +27174,12 @@
         "target_video_id": "29261139",
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-10T03:27:11.788654+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
+        "claimed_at": "2026-09-13T00:52:45.885777+00:00",
+        "lease_expires_at": "2026-09-13T06:52:45.885777+00:00",
+        "run_id": "34717065832"
       }
     },
     "2054": {
@@ -28535,6 +28541,12 @@
         "source_id": "34697288",
         "display_name": "Nic než pravda (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:51:39.575164+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-4",
+        "claimed_at": "2026-09-13T00:52:46.058559+00:00",
+        "lease_expires_at": "2026-09-13T06:52:46.058559+00:00",
+        "run_id": "34717065832"
       }
     },
     "20835": {
@@ -56269,14 +56281,6 @@
     "24733": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34706261",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29329894",
-          "attempted_at": "2026-09-12T19:40:36.931491+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34706261",
           "reason": "Request failed for https://sdilej.cz/34706261/pani-kacka-zasahuje...-1939-cz.mp4 (HTTP None)",
@@ -56290,23 +56294,20 @@
           "permanent": false,
           "target_video_id": "29331551",
           "attempted_at": "2026-09-12T22:00:28.213904+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34706261",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29334105",
+          "attempted_at": "2026-09-13T00:52:47.154675+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-13T00:37:55.253956+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-5",
-        "claimed_at": "2026-09-13T00:44:56.814461+00:00",
-        "lease_expires_at": "2026-09-13T06:44:56.814461+00:00",
-        "run_id": "34717065832"
-      },
-      "prepared": {
-        "target_video_id": "29334105",
-        "size_bytes": 867827396,
-        "prepared_at": "2026-09-13T00:45:01.163973+00:00"
       }
     },
     "32933": {
@@ -149420,5 +149421,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T00:52:44.176043+00:00"
+  "updated_at": "2026-09-13T00:52:47.154690+00:00"
 }
