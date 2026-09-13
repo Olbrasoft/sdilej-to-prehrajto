@@ -1609,6 +1609,12 @@
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-5",
+        "claimed_at": "2026-09-13T11:17:49.917555+00:00",
+        "lease_expires_at": "2026-09-13T17:17:49.917555+00:00",
+        "run_id": "34745214792"
       }
     },
     "21587": {
@@ -31534,17 +31540,19 @@
       "attempts": []
     },
     "18905": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14671447",
+          "target_video_id": "29347999",
+          "permanent": false,
+          "attempted_at": "2026-09-13T11:17:50.706469+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14671447",
         "display_name": "Batman vs. Robin (2015) SD CZ Dabing",
         "planned_at": "2026-09-13T10:37:49.395366+00:00"
-      },
-      "claim": {
-        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-3",
-        "claimed_at": "2026-09-13T11:15:29.195255+00:00",
-        "lease_expires_at": "2026-09-13T17:15:29.195255+00:00",
-        "run_id": "34745214792"
       },
       "prepared": {
         "target_video_id": "29347999",
@@ -152051,5 +152059,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T11:17:48.233712+00:00"
+  "updated_at": "2026-09-13T11:17:50.706485+00:00"
 }
