@@ -12587,17 +12587,19 @@
       "attempts": []
     },
     "780": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27048649",
+          "reason": "Request failed for https://sdilej.cz/27048649/the-reader.2008.bdrip.cz.en.-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T01:07:51.915892+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27048649",
         "display_name": "Předčítač (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:58:46.835396+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
-        "claimed_at": "2026-09-13T01:07:06.120382+00:00",
-        "lease_expires_at": "2026-09-13T07:07:06.120382+00:00",
-        "run_id": "34717065832"
       }
     },
     "781": {
@@ -37466,6 +37468,12 @@
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:58:47.665395+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-0",
+        "claimed_at": "2026-09-13T01:07:49.395051+00:00",
+        "lease_expires_at": "2026-09-13T07:07:49.395051+00:00",
+        "run_id": "34717065832"
       }
     },
     "10659": {
@@ -149553,5 +149561,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T01:07:47.617707+00:00"
+  "updated_at": "2026-09-13T01:07:51.915916+00:00"
 }
