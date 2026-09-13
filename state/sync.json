@@ -41053,6 +41053,12 @@
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-13T04:08:37.786643+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-4",
+        "claimed_at": "2026-09-13T04:12:06.610479+00:00",
+        "lease_expires_at": "2026-09-13T10:12:06.610479+00:00",
+        "run_id": "34731042870"
       }
     },
     "18861": {
@@ -48045,13 +48051,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27436084",
-          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T22:22:26.846881+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27436084",
           "target_video_id": "29333830",
@@ -48065,23 +48064,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-13T01:47:32.175783+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29338517",
+          "attempted_at": "2026-09-13T04:12:06.852581+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-13T03:57:51.187708+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T04:01:46.881700+00:00",
-        "lease_expires_at": "2026-09-13T10:01:46.881700+00:00",
-        "run_id": "34731042870"
-      },
-      "prepared": {
-        "target_video_id": "29338517",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-13T04:01:51.600575+00:00"
       }
     },
     "32220": {
@@ -150746,5 +150742,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T04:12:04.857285+00:00"
+  "updated_at": "2026-09-13T04:12:06.852596+00:00"
 }
