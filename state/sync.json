@@ -13480,13 +13480,6 @@
     "780": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27048649",
-          "reason": "Request failed for https://sdilej.cz/27048649/the-reader.2008.bdrip.cz.en.-1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-13T01:07:51.915892+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27048649",
           "target_video_id": "29336272",
@@ -13499,6 +13492,13 @@
           "target_video_id": "29336272",
           "permanent": false,
           "attempted_at": "2026-09-13T03:30:44.748526+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27048649",
+          "target_video_id": "29336272",
+          "permanent": false,
+          "attempted_at": "2026-09-13T04:10:06.549442+00:00"
         }
       ],
       "last_plan": {
@@ -13510,12 +13510,6 @@
         "target_video_id": "29336272",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-13T02:29:11.271768+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-1",
-        "claimed_at": "2026-09-13T04:10:03.482773+00:00",
-        "lease_expires_at": "2026-09-13T10:10:03.482773+00:00",
-        "run_id": "34731042870"
       }
     },
     "781": {
@@ -13875,6 +13869,12 @@
         "target_video_id": "29335093",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-13T01:29:45.799113+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-4",
+        "claimed_at": "2026-09-13T04:10:05.741995+00:00",
+        "lease_expires_at": "2026-09-13T10:10:05.741995+00:00",
+        "run_id": "34731042870"
       }
     },
     "21197": {
@@ -150752,5 +150752,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T04:10:03.921285+00:00"
+  "updated_at": "2026-09-13T04:10:06.549458+00:00"
 }
