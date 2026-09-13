@@ -17750,6 +17750,12 @@
         "target_video_id": "29118413",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-5",
+        "claimed_at": "2026-09-13T11:54:52.840377+00:00",
+        "lease_expires_at": "2026-09-13T17:54:52.840377+00:00",
+        "run_id": "34745214792"
       }
     },
     "14460": {
@@ -56835,13 +56841,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34272442",
-          "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-13T07:44:38.992058+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34272442",
           "reason": "PrehrajtoError",
@@ -56856,23 +56855,20 @@
           "permanent": false,
           "target_video_id": "29345887",
           "attempted_at": "2026-09-13T09:52:07.412565+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29348523",
+          "attempted_at": "2026-09-13T11:54:54.515400+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-13T11:41:36.311850+00:00"
-      },
-      "claim": {
-        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-2",
-        "claimed_at": "2026-09-13T11:45:29.489576+00:00",
-        "lease_expires_at": "2026-09-13T17:45:29.489576+00:00",
-        "run_id": "34745214792"
-      },
-      "prepared": {
-        "target_video_id": "29348523",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-13T11:45:32.538939+00:00"
       }
     },
     "24337": {
@@ -152167,5 +152163,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T11:54:51.160674+00:00"
+  "updated_at": "2026-09-13T11:54:54.515417+00:00"
 }
