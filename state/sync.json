@@ -13849,18 +13849,19 @@
           "reason": "Request failed for https://sdilej.cz/34194893/61-2001-cz-dab-720p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-13T02:49:53.042217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34194893",
+          "target_video_id": "29337826",
+          "permanent": false,
+          "attempted_at": "2026-09-13T03:51:34.542663+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34194893",
         "display_name": "61* (2001) 720p CZ Dabing",
         "planned_at": "2026-09-13T03:22:50.658713+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T03:30:46.798560+00:00",
-        "lease_expires_at": "2026-09-13T09:30:46.798560+00:00",
-        "run_id": "34731042870"
       },
       "prepared": {
         "target_video_id": "29337826",
@@ -25562,6 +25563,12 @@
         "target_video_id": "29318983",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-12T07:40:36.904891+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-1",
+        "claimed_at": "2026-09-13T03:51:32.842880+00:00",
+        "lease_expires_at": "2026-09-13T09:51:32.842880+00:00",
+        "run_id": "34731042870"
       }
     },
     "24818": {
@@ -150658,5 +150665,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T03:51:30.941321+00:00"
+  "updated_at": "2026-09-13T03:51:34.542679+00:00"
 }
