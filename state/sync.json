@@ -76389,13 +76389,6 @@
     "15913": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28404933",
-          "target_video_id": "29356605",
-          "permanent": false,
-          "attempted_at": "2026-09-13T20:03:02.687789+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28404933",
           "target_video_id": "29356605",
@@ -76410,23 +76403,20 @@
           "permanent": false,
           "target_video_id": "29359573",
           "attempted_at": "2026-09-13T22:26:48.202079+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28404933",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29361479",
+          "attempted_at": "2026-09-13T23:55:54.867761+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-13T23:39:13.443802+00:00"
-      },
-      "claim": {
-        "worker_id": "358d9ef4c67944b380f3606af293537a-shard-2",
-        "claimed_at": "2026-09-13T23:46:07.005465+00:00",
-        "lease_expires_at": "2026-09-14T05:46:07.005465+00:00",
-        "run_id": "34777431566"
-      },
-      "prepared": {
-        "target_video_id": "29361479",
-        "size_bytes": 4353059444,
-        "prepared_at": "2026-09-13T23:46:10.874811+00:00"
       }
     },
     "23700": {
@@ -155786,5 +155776,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T23:55:52.644689+00:00"
+  "updated_at": "2026-09-13T23:55:54.867783+00:00"
 }
