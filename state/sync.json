@@ -41377,14 +41377,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32222414",
-          "target_video_id": "29331324",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-12T22:20:00.696236+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -41399,6 +41391,13 @@
           "permanent": false,
           "target_video_id": "29337917",
           "attempted_at": "2026-09-13T03:59:29.996985+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32222414",
+          "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T06:03:27.887819+00:00"
         }
       ],
       "last_plan": {
@@ -151301,5 +151300,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T06:02:34.087889+00:00"
+  "updated_at": "2026-09-13T06:03:27.887835+00:00"
 }
