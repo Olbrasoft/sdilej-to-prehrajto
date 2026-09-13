@@ -8452,6 +8452,12 @@
         "target_video_id": "29211832",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-08T10:53:13.844748+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-0",
+        "claimed_at": "2026-09-13T10:36:57.419691+00:00",
+        "lease_expires_at": "2026-09-13T16:36:57.419691+00:00",
+        "run_id": "34745214792"
       }
     },
     "34379": {
@@ -9537,6 +9543,12 @@
         "target_video_id": "29317508",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-12T06:01:49.939726+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-5",
+        "claimed_at": "2026-09-13T10:36:57.679096+00:00",
+        "lease_expires_at": "2026-09-13T16:36:57.679096+00:00",
+        "run_id": "34745214792"
       }
     },
     "22047": {
@@ -9598,6 +9610,12 @@
         "target_video_id": "29319786",
         "size_bytes": 17600000000,
         "prepared_at": "2026-09-12T08:22:22.368273+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-2",
+        "claimed_at": "2026-09-13T10:36:57.546421+00:00",
+        "lease_expires_at": "2026-09-13T16:36:57.546421+00:00",
+        "run_id": "34745214792"
       }
     },
     "21229": {
@@ -33312,14 +33330,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34933768",
-          "target_video_id": "29342800",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-13T07:37:34.125872+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34933768",
           "reason": "PrehrajtoError",
@@ -33334,23 +33344,20 @@
           "permanent": false,
           "target_video_id": "29345419",
           "attempted_at": "2026-09-13T09:30:28.080892+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29346823",
+          "attempted_at": "2026-09-13T10:36:59.362636+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-13T10:03:37.564342+00:00"
-      },
-      "claim": {
-        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-1",
-        "claimed_at": "2026-09-13T10:18:28.816129+00:00",
-        "lease_expires_at": "2026-09-13T16:18:28.816129+00:00",
-        "run_id": "34745214792"
-      },
-      "prepared": {
-        "target_video_id": "29346823",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-13T10:18:33.109615+00:00"
       }
     },
     "31638": {
@@ -151758,5 +151765,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T10:36:55.551477+00:00"
+  "updated_at": "2026-09-13T10:36:59.362654+00:00"
 }
