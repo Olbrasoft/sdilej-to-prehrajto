@@ -5090,6 +5090,12 @@
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-5",
+        "claimed_at": "2026-09-13T18:59:11.293728+00:00",
+        "lease_expires_at": "2026-09-14T00:59:11.293728+00:00",
+        "run_id": "34759682184"
       }
     },
     "13803": {
@@ -5492,6 +5498,12 @@
         "target_video_id": "29179105",
         "size_bytes": 5300000000,
         "prepared_at": "2026-09-07T06:02:21.308933+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-0",
+        "claimed_at": "2026-09-13T18:59:11.412798+00:00",
+        "lease_expires_at": "2026-09-14T00:59:11.412798+00:00",
+        "run_id": "34759682184"
       }
     },
     "22042": {
@@ -44404,14 +44416,6 @@
           "source_id": "28441201",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29351838",
-          "attempted_at": "2026-09-13T15:18:24.002501+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29353261",
           "attempted_at": "2026-09-13T16:55:47.393092+00:00"
         },
@@ -44422,23 +44426,20 @@
           "permanent": false,
           "target_video_id": "29354157",
           "attempted_at": "2026-09-13T17:50:44.832354+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29355431",
+          "attempted_at": "2026-09-13T18:59:13.170511+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T18:34:41.486699+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-3",
-        "claimed_at": "2026-09-13T18:51:30.379941+00:00",
-        "lease_expires_at": "2026-09-14T00:51:30.379941+00:00",
-        "run_id": "34759682184"
-      },
-      "prepared": {
-        "target_video_id": "29355431",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-13T18:51:34.189681+00:00"
       }
     },
     "19162": {
@@ -154286,5 +154287,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T18:59:09.552304+00:00"
+  "updated_at": "2026-09-13T18:59:13.170532+00:00"
 }
