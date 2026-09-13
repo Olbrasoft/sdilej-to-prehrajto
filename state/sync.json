@@ -84422,17 +84422,19 @@
       "attempts": []
     },
     "24380": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30069934",
+          "reason": "Request failed for https://sdilej.cz/30069934/reznici.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T08:09:02.927225+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30069934",
         "display_name": "Věznice (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-13T08:06:29.253435+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T08:08:17.206341+00:00",
-        "lease_expires_at": "2026-09-13T14:08:17.206341+00:00",
-        "run_id": "34731042870"
       }
     },
     "26501": {
@@ -85858,6 +85860,12 @@
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-13T08:06:30.655641+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-0",
+        "claimed_at": "2026-09-13T08:08:55.320563+00:00",
+        "lease_expires_at": "2026-09-13T14:08:55.320563+00:00",
+        "run_id": "34731042870"
       }
     },
     "32728": {
@@ -151742,5 +151750,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T08:08:52.563600+00:00"
+  "updated_at": "2026-09-13T08:09:02.927241+00:00"
 }
