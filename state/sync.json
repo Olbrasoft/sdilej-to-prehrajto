@@ -26694,13 +26694,6 @@
     "37549": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34899546",
-          "reason": "Request failed for https://sdilej.cz/34899546/novak.djokovic.the.wolf.in.winter.2026.2160p.4k.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-13T05:46:19.744572+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34899546",
           "target_video_id": "29342177",
@@ -26713,6 +26706,13 @@
           "target_video_id": "29342177",
           "permanent": false,
           "attempted_at": "2026-09-13T07:09:03.360316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34899546",
+          "target_video_id": "29342177",
+          "permanent": false,
+          "attempted_at": "2026-09-13T07:40:49.413364+00:00"
         }
       ],
       "last_plan": {
@@ -26724,12 +26724,6 @@
         "target_video_id": "29342177",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-13T06:18:52.466781+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T07:40:45.098510+00:00",
-        "lease_expires_at": "2026-09-13T13:40:45.098510+00:00",
-        "run_id": "34731042870"
       }
     },
     "27465": {
@@ -151606,5 +151600,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T07:40:47.566318+00:00"
+  "updated_at": "2026-09-13T07:40:49.413379+00:00"
 }
