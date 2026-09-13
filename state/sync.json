@@ -4450,6 +4450,12 @@
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-5",
+        "claimed_at": "2026-09-13T18:17:20.326583+00:00",
+        "lease_expires_at": "2026-09-14T00:17:20.326583+00:00",
+        "run_id": "34759682184"
       }
     },
     "327": {
@@ -92787,17 +92793,19 @@
       "attempts": []
     },
     "23698": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34467173",
+          "target_video_id": "29354753",
+          "permanent": false,
+          "attempted_at": "2026-09-13T18:17:21.215728+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34467173",
         "display_name": "Ebola Syndrome (1996) 1080p CZ Titulky",
         "planned_at": "2026-09-13T17:59:39.368294+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-1",
-        "claimed_at": "2026-09-13T18:12:16.874191+00:00",
-        "lease_expires_at": "2026-09-14T00:12:16.874191+00:00",
-        "run_id": "34759682184"
       },
       "prepared": {
         "target_video_id": "29354753",
@@ -153826,5 +153834,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T18:17:18.701990+00:00"
+  "updated_at": "2026-09-13T18:17:21.215749+00:00"
 }
