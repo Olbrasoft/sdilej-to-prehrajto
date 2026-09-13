@@ -42049,14 +42049,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29333790",
-          "attempted_at": "2026-09-13T00:37:49.885809+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28441201",
           "target_video_id": "29335312",
@@ -42070,23 +42062,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-13T03:36:04.238336+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29338815",
+          "attempted_at": "2026-09-13T04:23:00.309688+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-13T04:08:38.158543+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T04:12:16.709921+00:00",
-        "lease_expires_at": "2026-09-13T10:12:16.709921+00:00",
-        "run_id": "34731042870"
-      },
-      "prepared": {
-        "target_video_id": "29338815",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-13T04:12:21.455186+00:00"
       }
     },
     "19162": {
@@ -68347,6 +68336,12 @@
         "target_video_id": "29262293",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-10T04:24:17.762308+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-2",
+        "claimed_at": "2026-09-13T04:22:58.184309+00:00",
+        "lease_expires_at": "2026-09-13T10:22:58.184309+00:00",
+        "run_id": "34731042870"
       }
     },
     "15311": {
@@ -150783,5 +150778,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T04:22:51.898065+00:00"
+  "updated_at": "2026-09-13T04:23:00.309704+00:00"
 }
