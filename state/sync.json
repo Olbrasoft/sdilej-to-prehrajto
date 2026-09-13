@@ -12962,17 +12962,19 @@
       "attempts": []
     },
     "23727": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34040158",
+          "reason": "Request failed for https://sdilej.cz/34040158/lost-highway-1997-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T01:29:40.180459+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34040158",
         "display_name": "Lost Highway (1997) 4K CZ Dabing",
         "planned_at": "2026-09-13T01:11:07.392048+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-5",
-        "claimed_at": "2026-09-13T01:28:54.457957+00:00",
-        "lease_expires_at": "2026-09-13T07:28:54.457957+00:00",
-        "run_id": "34717065832"
       }
     },
     "698": {
@@ -149713,5 +149715,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T01:28:58.620270+00:00"
+  "updated_at": "2026-09-13T01:29:40.180481+00:00"
 }
