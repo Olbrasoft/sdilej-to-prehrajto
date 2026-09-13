@@ -12028,17 +12028,19 @@
       "attempts": []
     },
     "19051": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14606682",
+          "target_video_id": "29334363",
+          "permanent": false,
+          "attempted_at": "2026-09-13T01:07:04.438029+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14606682",
         "display_name": "Diego Maradona (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:58:45.857566+00:00"
-      },
-      "claim": {
-        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-1",
-        "claimed_at": "2026-09-13T00:59:48.162291+00:00",
-        "lease_expires_at": "2026-09-13T06:59:48.162291+00:00",
-        "run_id": "34717065832"
       },
       "prepared": {
         "target_video_id": "29334363",
@@ -12496,6 +12498,12 @@
         "source_id": "27108133",
         "display_name": "Velryba (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-13T00:58:46.641387+00:00"
+      },
+      "claim": {
+        "worker_id": "0e5a6d2a269e405198d84f447a0800cf-shard-0",
+        "claimed_at": "2026-09-13T01:06:47.608310+00:00",
+        "lease_expires_at": "2026-09-13T07:06:47.608310+00:00",
+        "run_id": "34717065832"
       }
     },
     "836": {
@@ -149521,5 +149529,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T01:06:45.781113+00:00"
+  "updated_at": "2026-09-13T01:07:04.438044+00:00"
 }
