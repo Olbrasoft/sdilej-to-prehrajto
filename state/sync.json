@@ -32907,6 +32907,12 @@
         "target_video_id": "29173980",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T23:37:43.994455+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-1",
+        "claimed_at": "2026-09-13T19:03:17.351571+00:00",
+        "lease_expires_at": "2026-09-14T01:03:17.351571+00:00",
+        "run_id": "34759682184"
       }
     },
     "2112": {
@@ -32948,6 +32954,12 @@
         "target_video_id": "29174349",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-06T23:53:09.984429+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-0",
+        "claimed_at": "2026-09-13T19:03:17.483138+00:00",
+        "lease_expires_at": "2026-09-14T01:03:17.483138+00:00",
+        "run_id": "34759682184"
       }
     },
     "34330": {
@@ -33063,6 +33075,12 @@
         "target_video_id": "29179298",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T06:12:13.418549+00:00"
+      },
+      "claim": {
+        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-2",
+        "claimed_at": "2026-09-13T19:03:17.606516+00:00",
+        "lease_expires_at": "2026-09-14T01:03:17.606516+00:00",
+        "run_id": "34759682184"
       }
     },
     "15980": {
@@ -50566,14 +50584,6 @@
           "source_id": "27436084",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29351703",
-          "attempted_at": "2026-09-13T15:11:14.868168+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29353312",
           "attempted_at": "2026-09-13T16:55:53.162616+00:00"
         },
@@ -50584,23 +50594,20 @@
           "permanent": false,
           "target_video_id": "29354158",
           "attempted_at": "2026-09-13T17:48:16.864824+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29355549",
+          "attempted_at": "2026-09-13T19:03:19.261800+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-13T18:34:44.188837+00:00"
-      },
-      "claim": {
-        "worker_id": "58229d4d359c437996e5556ea81b54cd-shard-4",
-        "claimed_at": "2026-09-13T18:55:55.658197+00:00",
-        "lease_expires_at": "2026-09-14T00:55:55.658197+00:00",
-        "run_id": "34759682184"
-      },
-      "prepared": {
-        "target_video_id": "29355549",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-13T18:55:59.450061+00:00"
       }
     },
     "32220": {
@@ -154317,5 +154324,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T19:03:15.757918+00:00"
+  "updated_at": "2026-09-13T19:03:19.261820+00:00"
 }
