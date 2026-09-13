@@ -9356,13 +9356,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-13T00:50:55.712905+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "26245114",
           "reason": "PrehrajtoError",
@@ -9377,23 +9370,20 @@
           "permanent": false,
           "target_video_id": "29336547",
           "attempted_at": "2026-09-13T02:54:26.611212+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29337964",
+          "attempted_at": "2026-09-13T03:48:44.730375+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-13T03:36:06.485106+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-1",
-        "claimed_at": "2026-09-13T03:36:15.992034+00:00",
-        "lease_expires_at": "2026-09-13T09:36:15.992034+00:00",
-        "run_id": "34731042870"
-      },
-      "prepared": {
-        "target_video_id": "29337964",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-13T03:36:20.257252+00:00"
       }
     },
     "18349": {
@@ -13898,6 +13888,12 @@
         "target_video_id": "29336687",
         "size_bytes": 2742484992,
         "prepared_at": "2026-09-13T02:50:00.136585+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-3",
+        "claimed_at": "2026-09-13T03:48:42.051153+00:00",
+        "lease_expires_at": "2026-09-13T09:48:42.051153+00:00",
+        "run_id": "34731042870"
       }
     },
     "730": {
@@ -150653,5 +150649,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T03:48:39.993436+00:00"
+  "updated_at": "2026-09-13T03:48:44.730391+00:00"
 }
