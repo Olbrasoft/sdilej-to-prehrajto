@@ -49276,14 +49276,6 @@
     "22880": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34755467",
-          "target_video_id": "29338523",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-13T06:17:11.555680+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34755467",
           "target_video_id": "29342943",
@@ -49297,18 +49289,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-13T07:49:21.835349+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34755467",
+          "target_video_id": "29344424",
+          "permanent": false,
+          "attempted_at": "2026-09-13T08:32:14.946566+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755467",
         "display_name": "Playboy: Playmate Playoffs (1986) SD CZ Titulky",
         "planned_at": "2026-09-13T08:23:17.997981+00:00"
-      },
-      "claim": {
-        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-0",
-        "claimed_at": "2026-09-13T08:26:58.919489+00:00",
-        "lease_expires_at": "2026-09-13T14:26:58.919489+00:00",
-        "run_id": "34745214792"
       },
       "prepared": {
         "target_video_id": "29344424",
@@ -49807,6 +49800,12 @@
         "target_video_id": "29302498",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-11T15:10:38.375293+00:00"
+      },
+      "claim": {
+        "worker_id": "d8c657585da748bc91c319ce3b7b0a9b-shard-3",
+        "claimed_at": "2026-09-13T08:32:12.869681+00:00",
+        "lease_expires_at": "2026-09-13T14:32:12.869681+00:00",
+        "run_id": "34745214792"
       }
     },
     "30334": {
@@ -151800,5 +151799,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T08:32:11.101879+00:00"
+  "updated_at": "2026-09-13T08:32:14.946583+00:00"
 }
