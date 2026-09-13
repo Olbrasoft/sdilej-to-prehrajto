@@ -1544,6 +1544,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-0",
+        "claimed_at": "2026-09-13T03:14:53.606598+00:00",
+        "lease_expires_at": "2026-09-13T09:14:53.606598+00:00",
+        "run_id": "34731042870"
       }
     },
     "21354": {
@@ -1609,6 +1615,12 @@
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-1",
+        "claimed_at": "2026-09-13T03:14:53.802380+00:00",
+        "lease_expires_at": "2026-09-13T09:14:53.802380+00:00",
+        "run_id": "34731042870"
       }
     },
     "21587": {
@@ -32350,14 +32362,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34933768",
-          "target_video_id": "29331293",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-12T22:19:52.155913+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34933768",
           "target_video_id": "29333651",
@@ -32371,18 +32375,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-13T01:07:47.617691+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34933768",
+          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T03:14:54.007491+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-13T02:58:35.408363+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-2",
-        "claimed_at": "2026-09-13T03:14:07.394538+00:00",
-        "lease_expires_at": "2026-09-13T09:14:07.394538+00:00",
-        "run_id": "34731042870"
       }
     },
     "31638": {
@@ -150448,5 +150453,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T03:14:51.767249+00:00"
+  "updated_at": "2026-09-13T03:14:54.007508+00:00"
 }
