@@ -16680,6 +16680,12 @@
         "target_video_id": "29117207",
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
+      },
+      "claim": {
+        "worker_id": "358d9ef4c67944b380f3606af293537a-shard-1",
+        "claimed_at": "2026-09-13T23:12:46.701573+00:00",
+        "lease_expires_at": "2026-09-14T05:12:46.701573+00:00",
+        "run_id": "34777431566"
       }
     },
     "25815": {
@@ -16932,6 +16938,12 @@
         "target_video_id": "29154105",
         "size_bytes": 11800000000,
         "prepared_at": "2026-09-06T06:54:41.375975+00:00"
+      },
+      "claim": {
+        "worker_id": "358d9ef4c67944b380f3606af293537a-shard-3",
+        "claimed_at": "2026-09-13T23:12:46.576369+00:00",
+        "lease_expires_at": "2026-09-14T05:12:46.576369+00:00",
+        "run_id": "34777431566"
       }
     },
     "1172": {
@@ -95880,17 +95892,19 @@
       "attempts": []
     },
     "15491": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29321294",
+          "target_video_id": "29360647",
+          "permanent": false,
+          "attempted_at": "2026-09-13T23:12:47.009049+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29321294",
         "display_name": "Zatím tě miluju (2022) 720p CZ Titulky",
         "planned_at": "2026-09-13T22:56:52.954080+00:00"
-      },
-      "claim": {
-        "worker_id": "358d9ef4c67944b380f3606af293537a-shard-5",
-        "claimed_at": "2026-09-13T23:06:29.169063+00:00",
-        "lease_expires_at": "2026-09-14T05:06:29.169063+00:00",
-        "run_id": "34777431566"
       },
       "prepared": {
         "target_video_id": "29360647",
@@ -155827,5 +155841,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T23:12:44.623674+00:00"
+  "updated_at": "2026-09-13T23:12:47.009066+00:00"
 }
