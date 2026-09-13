@@ -26444,17 +26444,19 @@
       "attempts": []
     },
     "21017": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11387846",
+          "reason": "Request failed for https://sdilej.cz/11387846/manyeo-2018-cz-titulky-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-13T07:49:12.597207+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11387846",
         "display_name": "Manyeo (2018) SD CZ Titulky",
         "planned_at": "2026-09-13T07:48:17.414570+00:00"
-      },
-      "claim": {
-        "worker_id": "40b598e85f8649a39c484f6b909a2349-shard-5",
-        "claimed_at": "2026-09-13T07:48:26.785212+00:00",
-        "lease_expires_at": "2026-09-13T13:48:26.785212+00:00",
-        "run_id": "34731042870"
       }
     },
     "24900": {
@@ -151650,5 +151652,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-13T07:48:53.433118+00:00"
+  "updated_at": "2026-09-13T07:49:12.597224+00:00"
 }
