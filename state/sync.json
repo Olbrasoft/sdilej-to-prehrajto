@@ -44019,14 +44019,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29362958",
-          "attempted_at": "2026-09-14T01:07:40.607931+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32222414",
           "target_video_id": "29363930",
@@ -44040,23 +44032,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T02:30:38.637818+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29365478",
+          "attempted_at": "2026-09-14T03:20:01.483063+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-14T03:00:47.871248+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-3",
-        "claimed_at": "2026-09-14T03:05:24.315858+00:00",
-        "lease_expires_at": "2026-09-14T09:05:24.315858+00:00",
-        "run_id": "34796725524"
-      },
-      "prepared": {
-        "target_video_id": "29365478",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-14T03:05:29.685758+00:00"
       }
     },
     "2571": {
@@ -60396,6 +60385,12 @@
         "target_video_id": "29140504",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T23:21:26.126337+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-2",
+        "claimed_at": "2026-09-14T03:19:58.942118+00:00",
+        "lease_expires_at": "2026-09-14T09:19:58.942118+00:00",
+        "run_id": "34796725524"
       }
     },
     "28397": {
@@ -156121,5 +156116,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T03:19:57.197596+00:00"
+  "updated_at": "2026-09-14T03:20:01.483080+00:00"
 }
