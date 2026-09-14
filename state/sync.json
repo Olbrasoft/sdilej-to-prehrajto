@@ -99040,14 +99040,6 @@
     "7753": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "33811385",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29369314",
-          "attempted_at": "2026-09-14T06:05:19.184377+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33811385",
           "target_video_id": "29372015",
@@ -99061,23 +99053,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T10:08:08.972837+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33811385",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29377724",
+          "attempted_at": "2026-09-14T11:51:23.796523+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33811385",
         "display_name": "Tři bratři (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-14T11:41:19.490390+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
-        "claimed_at": "2026-09-14T11:42:50.486347+00:00",
-        "lease_expires_at": "2026-09-14T17:42:50.486347+00:00",
-        "run_id": "34818869324"
-      },
-      "prepared": {
-        "target_video_id": "29377724",
-        "size_bytes": 2169437358,
-        "prepared_at": "2026-09-14T11:42:55.798262+00:00"
       }
     },
     "27094": {
@@ -105247,6 +105236,12 @@
         "source_id": "33444342",
         "display_name": "Mayday (2023) 4K CZ Dabing",
         "planned_at": "2026-09-14T11:44:58.936973+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
+        "claimed_at": "2026-09-14T11:51:21.587565+00:00",
+        "lease_expires_at": "2026-09-14T17:51:21.587565+00:00",
+        "run_id": "34818869324"
       }
     },
     "33938": {
@@ -158292,5 +158287,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T11:51:13.386909+00:00"
+  "updated_at": "2026-09-14T11:51:23.796540+00:00"
 }
