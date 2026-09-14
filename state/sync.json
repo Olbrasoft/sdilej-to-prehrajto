@@ -20576,6 +20576,12 @@
         "target_video_id": "29125921",
         "size_bytes": 31200000000,
         "prepared_at": "2026-09-05T17:30:30.502734+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
+        "claimed_at": "2026-09-14T15:21:14.117744+00:00",
+        "lease_expires_at": "2026-09-14T21:21:14.117744+00:00",
+        "run_id": "34849483893"
       }
     },
     "1395": {
@@ -20755,6 +20761,12 @@
         "target_video_id": "29127917",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-05T09:17:42.572509+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
+        "claimed_at": "2026-09-14T15:21:14.286811+00:00",
+        "lease_expires_at": "2026-09-14T21:21:14.286811+00:00",
+        "run_id": "34849483893"
       }
     },
     "20525": {
@@ -61007,13 +61019,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34272442",
-          "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T11:17:12.096955+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34272442",
           "reason": "PrehrajtoError",
@@ -61028,23 +61033,20 @@
           "permanent": false,
           "target_video_id": "29380323",
           "attempted_at": "2026-09-14T13:48:10.604098+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29382428",
+          "attempted_at": "2026-09-14T15:21:16.010746+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-14T14:40:58.531429+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
-        "claimed_at": "2026-09-14T15:14:04.845426+00:00",
-        "lease_expires_at": "2026-09-14T21:14:04.845426+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29382428",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-14T15:14:08.322621+00:00"
       }
     },
     "24337": {
@@ -158742,5 +158744,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T15:21:11.971942+00:00"
+  "updated_at": "2026-09-14T15:21:16.010764+00:00"
 }
