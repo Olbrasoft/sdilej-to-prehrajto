@@ -98712,14 +98712,6 @@
           "source_id": "33811385",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29368290",
-          "attempted_at": "2026-09-14T05:15:52.228248+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "33811385",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29369314",
           "attempted_at": "2026-09-14T06:05:19.184377+00:00"
         },
@@ -98729,23 +98721,20 @@
           "target_video_id": "29372015",
           "permanent": false,
           "attempted_at": "2026-09-14T07:49:32.003237+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "33811385",
+          "target_video_id": "29372015",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:08:08.972837+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33811385",
         "display_name": "Tři bratři (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-14T10:03:57.119638+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29372015",
-        "size_bytes": 2200000000,
-        "prepared_at": "2026-09-14T07:40:15.827635+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
-        "claimed_at": "2026-09-14T10:07:56.634789+00:00",
-        "lease_expires_at": "2026-09-14T16:07:56.634789+00:00",
-        "run_id": "34818869324"
       }
     },
     "27094": {
@@ -157890,5 +157879,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:08:01.388738+00:00"
+  "updated_at": "2026-09-14T10:08:08.972864+00:00"
 }
