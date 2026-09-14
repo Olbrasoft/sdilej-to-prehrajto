@@ -4210,6 +4210,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-4",
+        "claimed_at": "2026-09-14T22:50:11.067432+00:00",
+        "lease_expires_at": "2026-09-15T04:50:11.067432+00:00",
+        "run_id": "34881250586"
       }
     },
     "304": {
@@ -4450,6 +4456,12 @@
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-3",
+        "claimed_at": "2026-09-14T22:50:11.280753+00:00",
+        "lease_expires_at": "2026-09-15T04:50:11.280753+00:00",
+        "run_id": "34881250586"
       }
     },
     "327": {
@@ -45497,14 +45509,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "27669370",
-          "target_video_id": "29387322",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-14T19:45:42.582706+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27669370",
           "reason": "PrehrajtoError",
@@ -45519,23 +45523,20 @@
           "permanent": false,
           "target_video_id": "29390397",
           "attempted_at": "2026-09-14T21:49:49.398121+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29391492",
+          "attempted_at": "2026-09-14T22:50:13.634049+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-14T22:27:05.245032+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
-        "claimed_at": "2026-09-14T22:27:48.347431+00:00",
-        "lease_expires_at": "2026-09-15T04:27:48.347431+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29391492",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-14T22:27:52.533165+00:00"
       }
     },
     "18861": {
@@ -159456,5 +159457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T22:50:09.291445+00:00"
+  "updated_at": "2026-09-14T22:50:13.634068+00:00"
 }
