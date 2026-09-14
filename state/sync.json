@@ -22079,13 +22079,6 @@
           "source_id": "21402313",
           "target_video_id": "29371641",
           "permanent": false,
-          "attempted_at": "2026-09-14T08:57:29.407678+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21402313",
-          "target_video_id": "29371641",
-          "permanent": false,
           "attempted_at": "2026-09-14T09:37:52.306124+00:00"
         },
         {
@@ -22094,17 +22087,20 @@
           "target_video_id": "29371641",
           "permanent": false,
           "attempted_at": "2026-09-14T10:16:30.988642+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "21402313",
+          "target_video_id": "29371641",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:58:13.552208+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21402313",
         "display_name": "Pokoj na koštěti (2012) SD CZ Dabing",
         "planned_at": "2026-09-14T10:57:06.109993+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29371641",
-        "size_bytes": 328500000,
-        "prepared_at": "2026-09-14T07:20:06.350540+00:00"
       }
     },
     "16050": {
@@ -158222,5 +158218,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:58:05.908135+00:00"
+  "updated_at": "2026-09-14T10:58:13.552225+00:00"
 }
