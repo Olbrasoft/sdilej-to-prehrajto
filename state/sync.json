@@ -87597,14 +87597,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "29955764",
-          "target_video_id": "29380915",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-14T15:52:10.505856+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29955764",
           "target_video_id": "29389107",
@@ -87618,18 +87610,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T21:27:30.240694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29955764",
+          "target_video_id": "29391873",
+          "permanent": false,
+          "attempted_at": "2026-09-14T22:48:15.142377+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-14T22:42:46.959106+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-2",
-        "claimed_at": "2026-09-14T22:46:00.480818+00:00",
-        "lease_expires_at": "2026-09-15T04:46:00.480818+00:00",
-        "run_id": "34881250586"
       },
       "prepared": {
         "target_video_id": "29391873",
@@ -88761,6 +88754,12 @@
         "target_video_id": "29167687",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-06T18:23:50.224650+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-3",
+        "claimed_at": "2026-09-14T22:48:14.545815+00:00",
+        "lease_expires_at": "2026-09-15T04:48:14.545815+00:00",
+        "run_id": "34881250586"
       }
     },
     "15665": {
@@ -159463,5 +159462,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T22:48:09.326755+00:00"
+  "updated_at": "2026-09-14T22:48:15.142396+00:00"
 }
