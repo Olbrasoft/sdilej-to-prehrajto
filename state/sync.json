@@ -60624,14 +60624,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34272442",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29375556",
-          "attempted_at": "2026-09-14T10:14:10.367915+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34272442",
           "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
@@ -60645,23 +60637,20 @@
           "permanent": false,
           "target_video_id": "29379006",
           "attempted_at": "2026-09-14T12:53:25.463792+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29380323",
+          "attempted_at": "2026-09-14T13:48:10.604098+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-14T13:38:00.620476+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
-        "claimed_at": "2026-09-14T13:39:55.762751+00:00",
-        "lease_expires_at": "2026-09-14T19:39:55.762751+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29380323",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-14T13:40:00.517742+00:00"
       }
     },
     "24337": {
@@ -158377,5 +158366,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T13:46:21.619228+00:00"
+  "updated_at": "2026-09-14T13:48:10.604117+00:00"
 }
