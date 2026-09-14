@@ -5675,6 +5675,12 @@
         "target_video_id": "29179228",
         "size_bytes": 5500000000,
         "prepared_at": "2026-09-07T06:09:08.221736+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
+        "claimed_at": "2026-09-14T12:18:37.705038+00:00",
+        "lease_expires_at": "2026-09-14T18:18:37.705038+00:00",
+        "run_id": "34818869324"
       }
     },
     "21203": {
@@ -5756,6 +5762,12 @@
         "target_video_id": "29179268",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
+        "claimed_at": "2026-09-14T12:18:37.898809+00:00",
+        "lease_expires_at": "2026-09-14T18:18:37.898809+00:00",
+        "run_id": "34818869324"
       }
     },
     "20410": {
@@ -106981,17 +106993,19 @@
       }
     },
     "14943": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26831902",
+          "target_video_id": "29378449",
+          "permanent": false,
+          "attempted_at": "2026-09-14T12:18:38.103482+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26831902",
         "display_name": "Miláček táta (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T11:45:10.336426+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
-        "claimed_at": "2026-09-14T12:13:54.377315+00:00",
-        "lease_expires_at": "2026-09-14T18:13:54.377315+00:00",
-        "run_id": "34818869324"
       },
       "prepared": {
         "target_video_id": "29378449",
@@ -158336,5 +158350,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T12:18:35.658906+00:00"
+  "updated_at": "2026-09-14T12:18:38.103504+00:00"
 }
