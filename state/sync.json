@@ -37005,6 +37005,12 @@
         "target_video_id": "29255540",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-09T22:06:56.396895+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-2",
+        "claimed_at": "2026-09-14T04:53:38.246003+00:00",
+        "lease_expires_at": "2026-09-14T10:53:38.246003+00:00",
+        "run_id": "34796725524"
       }
     },
     "31150": {
@@ -38069,6 +38075,12 @@
         "target_video_id": "29255726",
         "size_bytes": 12300000000,
         "prepared_at": "2026-09-09T22:18:04.363414+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-4",
+        "claimed_at": "2026-09-14T04:53:38.672166+00:00",
+        "lease_expires_at": "2026-09-14T10:53:38.672166+00:00",
+        "run_id": "34796725524"
       }
     },
     "2167": {
@@ -38518,6 +38530,12 @@
         "target_video_id": "29255918",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-09T22:30:17.312492+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-1",
+        "claimed_at": "2026-09-14T04:53:38.536889+00:00",
+        "lease_expires_at": "2026-09-14T10:53:38.536889+00:00",
+        "run_id": "34796725524"
       }
     },
     "2388": {
@@ -38675,6 +38693,12 @@
         "target_video_id": "29255927",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-09T22:30:50.538589+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-3",
+        "claimed_at": "2026-09-14T04:53:38.393093+00:00",
+        "lease_expires_at": "2026-09-14T10:53:38.393093+00:00",
+        "run_id": "34796725524"
       }
     },
     "13028": {
@@ -76847,14 +76871,6 @@
     "15913": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28404933",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29363322",
-          "attempted_at": "2026-09-14T01:27:51.764652+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28404933",
           "target_video_id": "29364260",
@@ -76868,23 +76884,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T03:31:17.561492+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28404933",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29367812",
+          "attempted_at": "2026-09-14T04:53:40.798442+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-14T04:40:59.469681+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-5",
-        "claimed_at": "2026-09-14T04:42:14.286932+00:00",
-        "lease_expires_at": "2026-09-14T10:42:14.286932+00:00",
-        "run_id": "34796725524"
-      },
-      "prepared": {
-        "target_video_id": "29367812",
-        "size_bytes": 4353059444,
-        "prepared_at": "2026-09-14T04:42:18.846046+00:00"
       }
     },
     "23700": {
@@ -156568,5 +156581,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T04:53:36.550448+00:00"
+  "updated_at": "2026-09-14T04:53:40.798458+00:00"
 }
