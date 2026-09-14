@@ -43584,14 +43584,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32222414",
-          "target_video_id": "29358794",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-13T22:43:33.531367+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -43606,23 +43598,20 @@
           "permanent": false,
           "target_video_id": "29361903",
           "attempted_at": "2026-09-14T00:17:24.765878+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29362958",
+          "attempted_at": "2026-09-14T01:07:40.607931+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-14T00:53:38.633743+00:00"
-      },
-      "claim": {
-        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-5",
-        "claimed_at": "2026-09-14T00:57:09.804076+00:00",
-        "lease_expires_at": "2026-09-14T06:57:09.804076+00:00",
-        "run_id": "34777431566"
-      },
-      "prepared": {
-        "target_video_id": "29362958",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-14T00:57:14.459965+00:00"
       }
     },
     "2571": {
@@ -53242,6 +53231,12 @@
         "source_id": "34716525",
         "display_name": "LADY NINJA ～青い影～ (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-14T01:06:22.452313+00:00"
+      },
+      "claim": {
+        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-4",
+        "claimed_at": "2026-09-14T01:07:37.258585+00:00",
+        "lease_expires_at": "2026-09-14T07:07:37.258585+00:00",
+        "run_id": "34777431566"
       }
     },
     "31730": {
@@ -155748,5 +155743,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T01:07:35.490604+00:00"
+  "updated_at": "2026-09-14T01:07:40.607949+00:00"
 }
