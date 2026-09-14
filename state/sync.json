@@ -28640,14 +28640,6 @@
           "source_id": "34817688",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29369067",
-          "attempted_at": "2026-09-14T05:55:27.182387+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29370596",
           "attempted_at": "2026-09-14T06:52:25.583275+00:00"
         },
@@ -28658,18 +28650,19 @@
           "permanent": false,
           "target_video_id": "29371732",
           "attempted_at": "2026-09-14T07:34:29.400464+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34817688",
+          "reason": "Request failed for https://sdilej.cz/34817688/apollo-10-1-2-dite-kosmickeho-veku-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T08:22:51.307650+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T08:19:52.724107+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
-        "claimed_at": "2026-09-14T08:22:05.528053+00:00",
-        "lease_expires_at": "2026-09-14T14:22:05.528053+00:00",
-        "run_id": "34818869324"
       }
     },
     "19227": {
@@ -33012,6 +33005,12 @@
         "target_video_id": "29347958",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-13T11:12:32.343405+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
+        "claimed_at": "2026-09-14T08:22:47.986280+00:00",
+        "lease_expires_at": "2026-09-14T14:22:47.986280+00:00",
+        "run_id": "34818869324"
       }
     },
     "1982": {
@@ -33390,6 +33389,12 @@
         "target_video_id": "29173920",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
+        "claimed_at": "2026-09-14T08:22:48.179725+00:00",
+        "lease_expires_at": "2026-09-14T14:22:48.179725+00:00",
+        "run_id": "34818869324"
       }
     },
     "27248": {
@@ -157204,5 +157209,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T08:22:46.105311+00:00"
+  "updated_at": "2026-09-14T08:22:51.307694+00:00"
 }
