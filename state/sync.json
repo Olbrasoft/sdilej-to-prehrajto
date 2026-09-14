@@ -1413,6 +1413,12 @@
         "target_video_id": "28927212",
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-06T04:39:14.354732+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
+        "claimed_at": "2026-09-14T12:17:36.234723+00:00",
+        "lease_expires_at": "2026-09-14T18:17:36.234723+00:00",
+        "run_id": "34818869324"
       }
     },
     "99": {
@@ -1458,6 +1464,12 @@
         "target_video_id": "28928664",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T04:39:45.085335+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
+        "claimed_at": "2026-09-14T12:17:36.047026+00:00",
+        "lease_expires_at": "2026-09-14T18:17:36.047026+00:00",
+        "run_id": "34818869324"
       }
     },
     "21566": {
@@ -45014,13 +45026,6 @@
           "source_id": "27669370",
           "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-14T09:22:49.105141+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "27669370",
-          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-14T10:02:50.899567+00:00"
         },
         {
@@ -45029,23 +45034,20 @@
           "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T10:50:26.209929+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29377609",
+          "attempted_at": "2026-09-14T12:17:38.581830+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-14T11:34:12.420594+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
-        "claimed_at": "2026-09-14T11:35:23.576529+00:00",
-        "lease_expires_at": "2026-09-14T17:35:23.576529+00:00",
-        "run_id": "34818869324"
-      },
-      "prepared": {
-        "target_video_id": "29377609",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-14T11:35:29.604683+00:00"
       }
     },
     "18861": {
@@ -158346,5 +158348,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T12:17:33.920228+00:00"
+  "updated_at": "2026-09-14T12:17:38.581850+00:00"
 }
