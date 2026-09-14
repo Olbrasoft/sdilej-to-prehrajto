@@ -108592,13 +108592,6 @@
     "14820": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27345611",
-          "reason": "Request failed for https://sdilej.cz/27345611/ztracena-rodina-2021-cz-dabing-hd-1080p.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T01:04:06.491743+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27345611",
           "reason": "PrehrajtoError",
@@ -108613,23 +108606,20 @@
           "permanent": false,
           "target_video_id": "29332820",
           "attempted_at": "2026-09-12T23:28:10.192317+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27345611",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29391101",
+          "attempted_at": "2026-09-14T22:09:41.314180+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27345611",
         "display_name": "Ztracená rodina (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-14T21:52:04.033714+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-2",
-        "claimed_at": "2026-09-14T22:02:29.756391+00:00",
-        "lease_expires_at": "2026-09-15T04:02:29.756391+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29391101",
-        "size_bytes": 2549552087,
-        "prepared_at": "2026-09-14T22:02:34.731174+00:00"
       }
     },
     "27697": {
@@ -159383,5 +159373,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T22:09:27.474941+00:00"
+  "updated_at": "2026-09-14T22:09:41.314207+00:00"
 }
