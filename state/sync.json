@@ -21838,6 +21838,12 @@
         "target_video_id": "29128110",
         "size_bytes": 20300000000,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
+        "claimed_at": "2026-09-14T22:15:05.341788+00:00",
+        "lease_expires_at": "2026-09-15T04:15:05.341788+00:00",
+        "run_id": "34881250586"
       }
     },
     "22282": {
@@ -22038,6 +22044,12 @@
         "target_video_id": "29161230",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-06T12:38:33.993154+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-5",
+        "claimed_at": "2026-09-14T22:15:05.522288+00:00",
+        "lease_expires_at": "2026-09-15T04:15:05.522288+00:00",
+        "run_id": "34881250586"
       }
     },
     "12090": {
@@ -108949,17 +108961,19 @@
       "attempts": []
     },
     "19886": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18389975",
+          "target_video_id": "29391202",
+          "permanent": false,
+          "attempted_at": "2026-09-14T22:15:05.702151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18389975",
         "display_name": "Britney vs. Spears (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-14T21:52:05.950798+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-1",
-        "claimed_at": "2026-09-14T22:08:33.195620+00:00",
-        "lease_expires_at": "2026-09-15T04:08:33.195620+00:00",
-        "run_id": "34881250586"
       },
       "prepared": {
         "target_video_id": "29391202",
@@ -159428,5 +159442,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T22:15:03.538601+00:00"
+  "updated_at": "2026-09-14T22:15:05.702172+00:00"
 }
