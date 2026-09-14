@@ -26557,6 +26557,12 @@
         "target_video_id": "29352239",
         "size_bytes": 8400000000,
         "prepared_at": "2026-09-13T15:37:54.387895+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-1",
+        "claimed_at": "2026-09-14T03:14:15.056019+00:00",
+        "lease_expires_at": "2026-09-14T09:14:15.056019+00:00",
+        "run_id": "34796725524"
       }
     },
     "31733": {
@@ -44793,14 +44799,6 @@
           "source_id": "6365016",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29362038",
-          "attempted_at": "2026-09-14T00:21:48.819082+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "6365016",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29363014",
           "attempted_at": "2026-09-14T01:10:17.231994+00:00"
         },
@@ -44811,23 +44809,20 @@
           "permanent": false,
           "target_video_id": "29363948",
           "attempted_at": "2026-09-14T02:02:57.052319+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29365481",
+          "attempted_at": "2026-09-14T03:14:17.218963+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-14T03:00:48.283284+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-5",
-        "claimed_at": "2026-09-14T03:05:36.152246+00:00",
-        "lease_expires_at": "2026-09-14T09:05:36.152246+00:00",
-        "run_id": "34796725524"
-      },
-      "prepared": {
-        "target_video_id": "29365481",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-14T03:05:41.454039+00:00"
       }
     },
     "24796": {
@@ -156104,5 +156099,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T03:14:13.307465+00:00"
+  "updated_at": "2026-09-14T03:14:17.218979+00:00"
 }
