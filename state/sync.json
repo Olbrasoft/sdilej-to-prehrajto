@@ -45616,14 +45616,6 @@
     "36727": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "6365016",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29376805",
-          "attempted_at": "2026-09-14T11:19:17.278281+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "6365016",
           "reason": "Request failed for https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv (HTTP None)",
@@ -45637,23 +45629,20 @@
           "permanent": false,
           "target_video_id": "29379534",
           "attempted_at": "2026-09-14T13:19:35.431711+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29380525",
+          "attempted_at": "2026-09-14T14:07:44.299843+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-14T13:51:14.319690+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
-        "claimed_at": "2026-09-14T13:51:40.938254+00:00",
-        "lease_expires_at": "2026-09-14T19:51:40.938254+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29380525",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-14T13:51:45.032061+00:00"
       }
     },
     "24796": {
@@ -158419,5 +158408,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T14:07:28.845341+00:00"
+  "updated_at": "2026-09-14T14:07:44.299858+00:00"
 }
