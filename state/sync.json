@@ -21211,13 +21211,6 @@
     "1468": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33771966",
-          "reason": "Request failed for https://sdilej.cz/33771966/oko-v-oblacich-2015-1080p-cz.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T10:30:51.904951+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33771966",
           "target_video_id": "29376734",
@@ -21230,6 +21223,13 @@
           "target_video_id": "29376734",
           "permanent": false,
           "attempted_at": "2026-09-14T11:37:41.455536+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33771966",
+          "target_video_id": "29376734",
+          "permanent": false,
+          "attempted_at": "2026-09-14T12:21:39.039656+00:00"
         }
       ],
       "last_plan": {
@@ -21241,12 +21241,6 @@
         "target_video_id": "29376734",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-14T11:02:51.020616+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
-        "claimed_at": "2026-09-14T12:21:34.196529+00:00",
-        "lease_expires_at": "2026-09-14T18:21:34.196529+00:00",
-        "run_id": "34818869324"
       }
     },
     "33010": {
@@ -158374,5 +158368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T12:21:37.023648+00:00"
+  "updated_at": "2026-09-14T12:21:39.039674+00:00"
 }
