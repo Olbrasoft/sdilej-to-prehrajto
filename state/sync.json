@@ -46333,13 +46333,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28441201",
-          "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T10:21:17.743038+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "28441201",
           "reason": "PrehrajtoError",
@@ -46354,23 +46347,20 @@
           "permanent": false,
           "target_video_id": "29378808",
           "attempted_at": "2026-09-14T12:48:13.661890+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "28441201",
+          "target_video_id": "29379927",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-14T13:39:53.775555+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-14T13:38:00.340643+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29379927",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-14T13:24:12.753113+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
-        "claimed_at": "2026-09-14T13:39:50.737426+00:00",
-        "lease_expires_at": "2026-09-14T19:39:50.737426+00:00",
-        "run_id": "34849483893"
       }
     },
     "19162": {
@@ -52895,6 +52885,12 @@
         "target_video_id": "29379976",
         "size_bytes": 1601184006,
         "prepared_at": "2026-09-14T13:26:38.835157+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
+        "claimed_at": "2026-09-14T13:39:53.530833+00:00",
+        "lease_expires_at": "2026-09-14T19:39:53.530833+00:00",
+        "run_id": "34849483893"
       }
     },
     "32220": {
@@ -158373,5 +158369,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T13:39:51.441279+00:00"
+  "updated_at": "2026-09-14T13:39:53.775573+00:00"
 }
