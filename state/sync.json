@@ -24381,6 +24381,12 @@
         "target_video_id": "29365135",
         "size_bytes": 9500000000,
         "prepared_at": "2026-09-14T02:48:24.368751+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-2",
+        "claimed_at": "2026-09-14T04:50:59.824031+00:00",
+        "lease_expires_at": "2026-09-14T10:50:59.824031+00:00",
+        "run_id": "34796725524"
       }
     },
     "30895": {
@@ -24422,6 +24428,12 @@
         "target_video_id": "29365138",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-14T02:48:32.765070+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-3",
+        "claimed_at": "2026-09-14T04:50:59.964316+00:00",
+        "lease_expires_at": "2026-09-14T10:50:59.964316+00:00",
+        "run_id": "34796725524"
       }
     },
     "1684": {
@@ -24572,6 +24584,12 @@
         "target_video_id": "29365155",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-14T02:49:14.237102+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-1",
+        "claimed_at": "2026-09-14T04:51:00.104971+00:00",
+        "lease_expires_at": "2026-09-14T10:51:00.104971+00:00",
+        "run_id": "34796725524"
       }
     },
     "1806": {
@@ -44905,14 +44923,6 @@
           "source_id": "6365016",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29363948",
-          "attempted_at": "2026-09-14T02:02:57.052319+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "6365016",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29365481",
           "attempted_at": "2026-09-14T03:14:17.218963+00:00"
         },
@@ -44923,23 +44933,20 @@
           "permanent": false,
           "target_video_id": "29366440",
           "attempted_at": "2026-09-14T03:59:01.308073+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29367806",
+          "attempted_at": "2026-09-14T04:51:02.355358+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-14T04:40:58.896620+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-4",
-        "claimed_at": "2026-09-14T04:41:59.406533+00:00",
-        "lease_expires_at": "2026-09-14T10:41:59.406533+00:00",
-        "run_id": "34796725524"
-      },
-      "prepared": {
-        "target_video_id": "29367806",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-14T04:42:05.980123+00:00"
       }
     },
     "24796": {
@@ -156582,5 +156589,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T04:50:58.164519+00:00"
+  "updated_at": "2026-09-14T04:51:02.355376+00:00"
 }
