@@ -46364,13 +46364,6 @@
     "2587": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33799060",
-          "reason": "Request failed for https://sdilej.cz/33799060/zahrobni-komando-1987-1080p-cz.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T08:45:47.667097+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33799060",
           "target_video_id": "29374564",
@@ -46383,6 +46376,13 @@
           "target_video_id": "29374564",
           "permanent": false,
           "attempted_at": "2026-09-14T10:05:18.082441+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33799060",
+          "target_video_id": "29374564",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:49:50.561023+00:00"
         }
       ],
       "last_plan": {
@@ -46803,6 +46803,12 @@
         "source_id": "33767242",
         "display_name": "Báječní Bakerovi hoši (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-14T10:38:18.140986+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-4",
+        "claimed_at": "2026-09-14T10:49:47.489617+00:00",
+        "lease_expires_at": "2026-09-14T16:49:47.489617+00:00",
+        "run_id": "34818869324"
       }
     },
     "23229": {
@@ -158215,5 +158221,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:49:45.299391+00:00"
+  "updated_at": "2026-09-14T10:49:50.561040+00:00"
 }
