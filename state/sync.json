@@ -9364,13 +9364,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T08:19:31.512597+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "26245114",
           "reason": "PrehrajtoError",
@@ -9384,18 +9377,19 @@
           "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T09:38:10.625345+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26245114",
+          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:14:30.049704+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-14T10:11:53.607473+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-4",
-        "claimed_at": "2026-09-14T10:13:44.300269+00:00",
-        "lease_expires_at": "2026-09-14T16:13:44.300269+00:00",
-        "run_id": "34818869324"
       }
     },
     "18349": {
@@ -11937,6 +11931,12 @@
         "target_video_id": "29338368",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
+        "claimed_at": "2026-09-14T10:14:27.666383+00:00",
+        "lease_expires_at": "2026-09-14T16:14:27.666383+00:00",
+        "run_id": "34818869324"
       }
     },
     "23132": {
@@ -12408,6 +12408,12 @@
         "source_id": "32713320",
         "display_name": "Africká královna (1951) 1080p CZ Dabing",
         "planned_at": "2026-09-14T10:11:56.132272+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
+        "claimed_at": "2026-09-14T10:14:27.477066+00:00",
+        "lease_expires_at": "2026-09-14T16:14:27.477066+00:00",
+        "run_id": "34818869324"
       }
     },
     "28421": {
@@ -157899,5 +157905,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:14:25.612327+00:00"
+  "updated_at": "2026-09-14T10:14:30.049721+00:00"
 }
