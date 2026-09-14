@@ -30656,6 +30656,12 @@
         "target_video_id": "29352818",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-13T16:17:34.926176+00:00"
+      },
+      "claim": {
+        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-3",
+        "claimed_at": "2026-09-14T01:28:38.227076+00:00",
+        "lease_expires_at": "2026-09-14T07:28:38.227076+00:00",
+        "run_id": "34777431566"
       }
     },
     "2005": {
@@ -30691,6 +30697,12 @@
         "target_video_id": "29358491",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-13T21:29:16.588939+00:00"
+      },
+      "claim": {
+        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-4",
+        "claimed_at": "2026-09-14T01:28:38.352435+00:00",
+        "lease_expires_at": "2026-09-14T07:28:38.352435+00:00",
+        "run_id": "34777431566"
       }
     },
     "2055": {
@@ -80729,14 +80741,6 @@
           "source_id": "32144558",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29359594",
-          "attempted_at": "2026-09-13T22:25:18.393821+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32144558",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29360458",
           "attempted_at": "2026-09-13T23:04:10.808876+00:00"
         },
@@ -80747,23 +80751,20 @@
           "permanent": false,
           "target_video_id": "29361579",
           "attempted_at": "2026-09-13T23:57:10.452306+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32144558",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29363369",
+          "attempted_at": "2026-09-14T01:28:40.786171+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32144558",
         "display_name": "Zakázané uvolnění (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-14T01:15:51.619467+00:00"
-      },
-      "claim": {
-        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-1",
-        "claimed_at": "2026-09-14T01:20:56.312490+00:00",
-        "lease_expires_at": "2026-09-14T07:20:56.312490+00:00",
-        "run_id": "34777431566"
-      },
-      "prepared": {
-        "target_video_id": "29363369",
-        "size_bytes": 1953140951,
-        "prepared_at": "2026-09-14T01:21:00.799040+00:00"
       }
     },
     "16094": {
@@ -155773,5 +155774,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T01:28:36.468944+00:00"
+  "updated_at": "2026-09-14T01:28:40.786193+00:00"
 }
