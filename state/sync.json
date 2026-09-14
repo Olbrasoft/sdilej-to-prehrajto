@@ -85639,14 +85639,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "29955764",
-          "target_video_id": "29364435",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-14T03:33:20.351663+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29955764",
           "target_video_id": "29368049",
@@ -85660,18 +85652,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T05:39:48.737677+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29955764",
+          "target_video_id": "29371302",
+          "permanent": false,
+          "attempted_at": "2026-09-14T07:08:15.321395+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-14T06:53:59.521588+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-2",
-        "claimed_at": "2026-09-14T07:05:26.578072+00:00",
-        "lease_expires_at": "2026-09-14T13:05:26.578072+00:00",
-        "run_id": "34796725524"
       },
       "prepared": {
         "target_video_id": "29371302",
@@ -88758,6 +88751,12 @@
         "target_video_id": "29167781",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-06T18:35:04.790145+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-4",
+        "claimed_at": "2026-09-14T07:08:15.148960+00:00",
+        "lease_expires_at": "2026-09-14T13:08:15.148960+00:00",
+        "run_id": "34796725524"
       }
     },
     "3903": {
@@ -89045,6 +89044,12 @@
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-14T06:54:02.957763+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-1",
+        "claimed_at": "2026-09-14T07:08:15.004106+00:00",
+        "lease_expires_at": "2026-09-14T13:08:15.004106+00:00",
+        "run_id": "34796725524"
       }
     },
     "32728": {
@@ -156697,5 +156702,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T07:08:13.311893+00:00"
+  "updated_at": "2026-09-14T07:08:15.321411+00:00"
 }
