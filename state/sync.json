@@ -2623,6 +2623,12 @@
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-2",
+        "claimed_at": "2026-09-14T17:55:41.586938+00:00",
+        "lease_expires_at": "2026-09-14T23:55:41.586938+00:00",
+        "run_id": "34849483893"
       }
     },
     "29255": {
@@ -45022,14 +45028,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27669370",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29377609",
-          "attempted_at": "2026-09-14T12:17:38.581830+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27669370",
           "target_video_id": "29379476",
@@ -45044,23 +45042,20 @@
           "permanent": false,
           "target_video_id": "29381349",
           "attempted_at": "2026-09-14T15:20:31.389287+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29383371",
+          "attempted_at": "2026-09-14T17:55:43.427904+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-14T15:52:19.012368+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
-        "claimed_at": "2026-09-14T15:55:05.522488+00:00",
-        "lease_expires_at": "2026-09-14T21:55:05.522488+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29383371",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-14T15:55:09.111532+00:00"
       }
     },
     "18861": {
@@ -158730,5 +158725,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T17:55:38.826281+00:00"
+  "updated_at": "2026-09-14T17:55:43.427925+00:00"
 }
