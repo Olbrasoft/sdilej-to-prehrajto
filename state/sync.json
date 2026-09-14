@@ -54765,6 +54765,12 @@
         "target_video_id": "29302498",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-11T15:10:38.375293+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
+        "claimed_at": "2026-09-14T21:37:22.529379+00:00",
+        "lease_expires_at": "2026-09-15T03:37:22.529379+00:00",
+        "run_id": "34881250586"
       }
     },
     "30334": {
@@ -88588,14 +88594,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29380940",
-          "attempted_at": "2026-09-14T14:24:22.738347+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34876843",
           "target_video_id": "29383436",
@@ -88609,23 +88607,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T20:09:19.385889+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29390489",
+          "attempted_at": "2026-09-14T21:37:24.159481+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-14T21:19:22.283834+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-4",
-        "claimed_at": "2026-09-14T21:27:46.989262+00:00",
-        "lease_expires_at": "2026-09-15T03:27:46.989262+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29390489",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-14T21:27:53.317998+00:00"
       }
     },
     "32120": {
@@ -159311,5 +159306,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T21:37:20.572656+00:00"
+  "updated_at": "2026-09-14T21:37:24.159502+00:00"
 }
