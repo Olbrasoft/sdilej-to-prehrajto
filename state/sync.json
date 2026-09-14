@@ -14263,6 +14263,12 @@
         "target_video_id": "29336687",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-13T02:50:00.136585+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-2",
+        "claimed_at": "2026-09-14T15:53:14.981113+00:00",
+        "lease_expires_at": "2026-09-14T21:53:14.981113+00:00",
+        "run_id": "34849483893"
       }
     },
     "730": {
@@ -72193,13 +72199,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31626940",
-          "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T11:18:47.490663+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31626940",
           "reason": "PrehrajtoError",
@@ -72214,23 +72213,20 @@
           "permanent": false,
           "target_video_id": "29380380",
           "attempted_at": "2026-09-14T13:52:41.768749+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31626940",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29383166",
+          "attempted_at": "2026-09-14T15:53:18.416451+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-14T15:36:46.559247+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
-        "claimed_at": "2026-09-14T15:45:08.434487+00:00",
-        "lease_expires_at": "2026-09-14T21:45:08.434487+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29383166",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-14T15:45:16.014601+00:00"
       }
     },
     "33003": {
@@ -158733,5 +158729,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T15:53:12.821796+00:00"
+  "updated_at": "2026-09-14T15:53:18.416470+00:00"
 }
