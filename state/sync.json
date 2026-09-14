@@ -62915,13 +62915,6 @@
     "24733": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34706261",
-          "reason": "Request failed for https://sdilej.cz/34706261/pani-kacka-zasahuje...-1939-cz.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T11:39:37.010130+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34706261",
           "reason": "PrehrajtoError",
@@ -62936,23 +62929,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T13:40:12.801394+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34706261",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29383043",
+          "attempted_at": "2026-09-14T15:46:15.429951+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-14T15:36:40.161344+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-2",
-        "claimed_at": "2026-09-14T15:39:15.411633+00:00",
-        "lease_expires_at": "2026-09-14T21:39:15.411633+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29383043",
-        "size_bytes": 867827396,
-        "prepared_at": "2026-09-14T15:39:19.502071+00:00"
       }
     },
     "32933": {
@@ -78183,6 +78173,12 @@
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-14T15:36:49.657231+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
+        "claimed_at": "2026-09-14T15:46:12.171848+00:00",
+        "lease_expires_at": "2026-09-14T21:46:12.171848+00:00",
+        "run_id": "34849483893"
       }
     },
     "23700": {
@@ -78253,6 +78249,12 @@
         "target_video_id": "29199525",
         "size_bytes": 8400000000,
         "prepared_at": "2026-09-07T23:13:39.054055+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-4",
+        "claimed_at": "2026-09-14T15:46:12.327096+00:00",
+        "lease_expires_at": "2026-09-14T21:46:12.327096+00:00",
+        "run_id": "34849483893"
       }
     },
     "24345": {
@@ -158727,5 +158729,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T15:46:10.084072+00:00"
+  "updated_at": "2026-09-14T15:46:15.429970+00:00"
 }
