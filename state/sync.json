@@ -22155,13 +22155,6 @@
           "source_id": "21402313",
           "target_video_id": "29371641",
           "permanent": false,
-          "attempted_at": "2026-09-14T09:37:52.306124+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21402313",
-          "target_video_id": "29371641",
-          "permanent": false,
           "attempted_at": "2026-09-14T10:16:30.988642+00:00"
         },
         {
@@ -22171,18 +22164,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T10:58:13.552208+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21402313",
+          "reason": "Request failed for https://sdilej.cz/21402313/pokoj-na-kosteti-room-on-the-broom-anim-2012-cz-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T11:32:44.857225+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21402313",
         "display_name": "Pokoj na koštěti (2012) SD CZ Dabing",
         "planned_at": "2026-09-14T11:31:38.730380+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
-        "claimed_at": "2026-09-14T11:31:59.128794+00:00",
-        "lease_expires_at": "2026-09-14T17:31:59.128794+00:00",
-        "run_id": "34818869324"
       }
     },
     "16050": {
@@ -33407,6 +33401,12 @@
         "target_video_id": "29347958",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-13T11:12:32.343405+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
+        "claimed_at": "2026-09-14T11:32:42.229074+00:00",
+        "lease_expires_at": "2026-09-14T17:32:42.229074+00:00",
+        "run_id": "34818869324"
       }
     },
     "1982": {
@@ -33785,6 +33785,12 @@
         "target_video_id": "29173920",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
+        "claimed_at": "2026-09-14T11:32:42.427358+00:00",
+        "lease_expires_at": "2026-09-14T17:32:42.427358+00:00",
+        "run_id": "34818869324"
       }
     },
     "27248": {
@@ -34154,6 +34160,12 @@
         "target_video_id": "29173980",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T23:37:43.994455+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-4",
+        "claimed_at": "2026-09-14T11:32:42.619679+00:00",
+        "lease_expires_at": "2026-09-14T17:32:42.619679+00:00",
+        "run_id": "34818869324"
       }
     },
     "2112": {
@@ -158257,5 +158269,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T11:32:40.304769+00:00"
+  "updated_at": "2026-09-14T11:32:44.857243+00:00"
 }
