@@ -22149,13 +22149,6 @@
     "15807": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "21402313",
-          "target_video_id": "29371641",
-          "permanent": false,
-          "attempted_at": "2026-09-14T10:16:30.988642+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "21402313",
           "target_video_id": "29371641",
@@ -22169,18 +22162,19 @@
           "reason": "Request failed for https://sdilej.cz/21402313/pokoj-na-kosteti-room-on-the-broom-anim-2012-cz-.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T11:32:44.857225+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21402313",
+          "target_video_id": "29378601",
+          "permanent": false,
+          "attempted_at": "2026-09-14T12:22:54.862750+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21402313",
         "display_name": "Pokoj na koštěti (2012) SD CZ Dabing",
         "planned_at": "2026-09-14T12:20:29.799045+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
-        "claimed_at": "2026-09-14T12:22:05.819633+00:00",
-        "lease_expires_at": "2026-09-14T18:22:05.819633+00:00",
-        "run_id": "34818869324"
       },
       "prepared": {
         "target_video_id": "29378601",
@@ -158351,5 +158345,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T12:22:52.914732+00:00"
+  "updated_at": "2026-09-14T12:22:54.862768+00:00"
 }
