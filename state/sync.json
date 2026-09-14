@@ -102539,17 +102539,19 @@
       }
     },
     "15656": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30135283",
+          "target_video_id": "29372421",
+          "permanent": false,
+          "attempted_at": "2026-09-14T08:07:29.552879+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30135283",
         "display_name": "Vánoční záhada (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T07:50:26.121755+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
-        "claimed_at": "2026-09-14T08:04:59.781699+00:00",
-        "lease_expires_at": "2026-09-14T14:04:59.781699+00:00",
-        "run_id": "34818869324"
       },
       "prepared": {
         "target_video_id": "29372421",
@@ -102798,6 +102800,12 @@
         "source_id": "22554309",
         "display_name": "Fotky zítřka (2014) SD CZ Titulky",
         "planned_at": "2026-09-14T07:50:26.862601+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
+        "claimed_at": "2026-09-14T08:07:12.362097+00:00",
+        "lease_expires_at": "2026-09-14T14:07:12.362097+00:00",
+        "run_id": "34818869324"
       }
     },
     "5786": {
@@ -157026,5 +157034,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T08:07:01.333900+00:00"
+  "updated_at": "2026-09-14T08:07:29.552895+00:00"
 }
