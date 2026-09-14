@@ -52857,14 +52857,6 @@
           "source_id": "27436084",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29375889",
-          "attempted_at": "2026-09-14T10:29:23.379872+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29376869",
           "attempted_at": "2026-09-14T11:17:04.218877+00:00"
         },
@@ -52874,23 +52866,20 @@
           "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T12:39:46.121108+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "27436084",
+          "target_video_id": "29379976",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-14T13:39:58.052708+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-14T13:38:00.484717+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29379976",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-14T13:26:38.835157+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
-        "claimed_at": "2026-09-14T13:39:53.530833+00:00",
-        "lease_expires_at": "2026-09-14T19:39:53.530833+00:00",
-        "run_id": "34849483893"
       }
     },
     "32220": {
@@ -60672,6 +60661,12 @@
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-14T13:38:00.620476+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
+        "claimed_at": "2026-09-14T13:39:55.762751+00:00",
+        "lease_expires_at": "2026-09-14T19:39:55.762751+00:00",
+        "run_id": "34849483893"
       }
     },
     "24337": {
@@ -158369,5 +158364,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T13:39:53.775573+00:00"
+  "updated_at": "2026-09-14T13:39:58.052726+00:00"
 }
