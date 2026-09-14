@@ -21198,17 +21198,19 @@
       }
     },
     "1468": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33771966",
+          "reason": "Request failed for https://sdilej.cz/33771966/oko-v-oblacich-2015-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:30:51.904951+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33771966",
         "display_name": "Oko v oblacích (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-14T10:28:49.156800+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
-        "claimed_at": "2026-09-14T10:30:06.136688+00:00",
-        "lease_expires_at": "2026-09-14T16:30:06.136688+00:00",
-        "run_id": "34818869324"
       }
     },
     "33010": {
@@ -21223,6 +21225,12 @@
         "source_id": "31679521",
         "display_name": "Pán velkoměsta (1981) 1080p CZ Dabing",
         "planned_at": "2026-09-14T10:28:49.364220+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
+        "claimed_at": "2026-09-14T10:30:11.404012+00:00",
+        "lease_expires_at": "2026-09-14T16:30:11.404012+00:00",
+        "run_id": "34818869324"
       }
     },
     "18620": {
@@ -157996,5 +158004,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:30:09.408009+00:00"
+  "updated_at": "2026-09-14T10:30:51.904968+00:00"
 }
