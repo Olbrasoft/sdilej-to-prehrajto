@@ -63940,17 +63940,19 @@
       "attempts": []
     },
     "32606": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30615736",
+          "target_video_id": "29390301",
+          "permanent": false,
+          "attempted_at": "2026-09-14T21:19:03.561771+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30615736",
         "display_name": "Kdo hledá, najde (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-14T21:12:11.501838+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-1",
-        "claimed_at": "2026-09-14T21:16:19.630554+00:00",
-        "lease_expires_at": "2026-09-15T03:16:19.630554+00:00",
-        "run_id": "34881250586"
       },
       "prepared": {
         "target_video_id": "29390301",
@@ -83091,6 +83093,12 @@
         "source_id": "32144558",
         "display_name": "Zakázané uvolnění (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-14T21:12:12.928772+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
+        "claimed_at": "2026-09-14T21:19:03.357600+00:00",
+        "lease_expires_at": "2026-09-15T03:19:03.357600+00:00",
+        "run_id": "34881250586"
       }
     },
     "16094": {
@@ -159289,5 +159297,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T21:19:01.536819+00:00"
+  "updated_at": "2026-09-14T21:19:03.561791+00:00"
 }
