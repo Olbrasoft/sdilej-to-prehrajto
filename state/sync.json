@@ -24473,17 +24473,19 @@
       }
     },
     "12613": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26226760",
+          "target_video_id": "29365155",
+          "permanent": false,
+          "attempted_at": "2026-09-14T02:54:10.382982+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26226760",
         "display_name": "Návrat do Cold Mountain (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-14T02:45:55.884176+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-3",
-        "claimed_at": "2026-09-14T02:49:10.154562+00:00",
-        "lease_expires_at": "2026-09-14T08:49:10.154562+00:00",
-        "run_id": "34796725524"
       },
       "prepared": {
         "target_video_id": "29365155",
@@ -36824,6 +36826,12 @@
         "target_video_id": "29255540",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-09T22:06:56.396895+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-1",
+        "claimed_at": "2026-09-14T02:54:07.556278+00:00",
+        "lease_expires_at": "2026-09-14T08:54:07.556278+00:00",
+        "run_id": "34796725524"
       }
     },
     "31150": {
@@ -156009,5 +156017,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T02:54:05.782127+00:00"
+  "updated_at": "2026-09-14T02:54:10.382999+00:00"
 }
