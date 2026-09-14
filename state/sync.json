@@ -9364,14 +9364,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "26245114",
-          "target_video_id": "29360457",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-13T23:39:20.262034+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "26245114",
           "reason": "PrehrajtoError",
@@ -9386,23 +9378,20 @@
           "permanent": false,
           "target_video_id": "29362854",
           "attempted_at": "2026-09-14T00:59:47.024285+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29363612",
+          "attempted_at": "2026-09-14T01:45:14.215309+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-14T01:34:09.575409+00:00"
-      },
-      "claim": {
-        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-1",
-        "claimed_at": "2026-09-14T01:34:34.723147+00:00",
-        "lease_expires_at": "2026-09-14T07:34:34.723147+00:00",
-        "run_id": "34777431566"
-      },
-      "prepared": {
-        "target_video_id": "29363612",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-14T01:34:38.898011+00:00"
       }
     },
     "18349": {
@@ -46964,6 +46953,12 @@
         "target_video_id": "29256351",
         "size_bytes": 10300000000,
         "prepared_at": "2026-09-09T22:49:40.012044+00:00"
+      },
+      "claim": {
+        "worker_id": "8b8387f2324a4b7e96352fdd844a68b8-shard-4",
+        "claimed_at": "2026-09-14T01:45:13.022885+00:00",
+        "lease_expires_at": "2026-09-14T07:45:13.022885+00:00",
+        "run_id": "34777431566"
       }
     },
     "32407": {
@@ -155845,5 +155840,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T01:45:11.156127+00:00"
+  "updated_at": "2026-09-14T01:45:14.215329+00:00"
 }
