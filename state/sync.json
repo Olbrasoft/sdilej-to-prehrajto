@@ -8361,6 +8361,12 @@
         "target_video_id": "29211798",
         "size_bytes": 7400000000,
         "prepared_at": "2026-09-08T10:50:07.610886+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-4",
+        "claimed_at": "2026-09-14T10:13:30.608183+00:00",
+        "lease_expires_at": "2026-09-14T16:13:30.608183+00:00",
+        "run_id": "34818869324"
       }
     },
     "11516": {
@@ -12347,18 +12353,19 @@
           "reason": "Request failed for https://sdilej.cz/31626178/smazena-zelena-rajcata-1991-komedie-usa-czdab-uhd.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T09:26:18.129085+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31626178",
+          "target_video_id": "29375491",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:13:32.933278+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626178",
         "display_name": "Smažená zelená rajčata (1991) 4K CZ Dabing",
         "planned_at": "2026-09-14T10:03:50.438221+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
-        "claimed_at": "2026-09-14T10:04:01.441361+00:00",
-        "lease_expires_at": "2026-09-14T16:04:01.441361+00:00",
-        "run_id": "34818869324"
       },
       "prepared": {
         "target_video_id": "29375491",
@@ -157903,5 +157910,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:13:28.488957+00:00"
+  "updated_at": "2026-09-14T10:13:32.933293+00:00"
 }
