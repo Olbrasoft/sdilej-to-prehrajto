@@ -6245,6 +6245,12 @@
         "target_video_id": "29195641",
         "size_bytes": 22900000000,
         "prepared_at": "2026-09-07T19:18:09.679179+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-2",
+        "claimed_at": "2026-09-14T04:47:59.735786+00:00",
+        "lease_expires_at": "2026-09-14T10:47:59.735786+00:00",
+        "run_id": "34796725524"
       }
     },
     "13259": {
@@ -71681,14 +71687,6 @@
           "source_id": "30673323",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29363308",
-          "attempted_at": "2026-09-14T01:24:55.787732+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "30673323",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29364224",
           "attempted_at": "2026-09-14T02:11:03.228175+00:00"
         },
@@ -71699,23 +71697,20 @@
           "permanent": false,
           "target_video_id": "29365812",
           "attempted_at": "2026-09-14T03:29:11.355139+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29367705",
+          "attempted_at": "2026-09-14T04:48:02.445709+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T04:28:43.235590+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-1",
-        "claimed_at": "2026-09-14T04:38:24.687356+00:00",
-        "lease_expires_at": "2026-09-14T10:38:24.687356+00:00",
-        "run_id": "34796725524"
-      },
-      "prepared": {
-        "target_video_id": "29367705",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-14T04:38:28.701046+00:00"
       }
     },
     "14505": {
@@ -156604,5 +156599,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T04:47:57.898856+00:00"
+  "updated_at": "2026-09-14T04:48:02.445726+00:00"
 }
