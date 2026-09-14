@@ -45619,13 +45619,6 @@
     "36727": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "6365016",
-          "reason": "Request failed for https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T10:21:15.774604+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "6365016",
           "reason": "PrehrajtoError",
@@ -45639,23 +45632,20 @@
           "reason": "Request failed for https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T12:32:17.998801+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29379534",
+          "attempted_at": "2026-09-14T13:19:35.431711+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-14T13:04:27.444408+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
-        "claimed_at": "2026-09-14T13:04:37.931509+00:00",
-        "lease_expires_at": "2026-09-14T19:04:37.931509+00:00",
-        "run_id": "34818869324"
-      },
-      "prepared": {
-        "target_video_id": "29379534",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-14T13:04:44.833028+00:00"
       }
     },
     "24796": {
@@ -107432,6 +107422,12 @@
         "source_id": "17458254",
         "display_name": "Duchové z Nantucketu (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-14T13:04:37.730278+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
+        "claimed_at": "2026-09-14T13:19:32.929356+00:00",
+        "lease_expires_at": "2026-09-14T19:19:32.929356+00:00",
+        "run_id": "34818869324"
       }
     },
     "29764": {
@@ -158337,5 +158333,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T13:19:30.876786+00:00"
+  "updated_at": "2026-09-14T13:19:35.431729+00:00"
 }
