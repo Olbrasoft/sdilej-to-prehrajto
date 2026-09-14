@@ -9368,13 +9368,6 @@
           "source_id": "26245114",
           "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-14T12:20:00.146049+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-14T12:55:28.777084+00:00"
         },
         {
@@ -9384,23 +9377,20 @@
           "permanent": false,
           "target_video_id": "29380193",
           "attempted_at": "2026-09-14T13:42:38.970938+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29381134",
+          "attempted_at": "2026-09-14T14:25:47.985451+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-14T14:15:06.668113+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
-        "claimed_at": "2026-09-14T14:17:03.839662+00:00",
-        "lease_expires_at": "2026-09-14T20:17:03.839662+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29381134",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-14T14:17:12.910223+00:00"
       }
     },
     "18349": {
@@ -41474,6 +41464,12 @@
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-14T14:21:06.195881+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
+        "claimed_at": "2026-09-14T14:25:44.421410+00:00",
+        "lease_expires_at": "2026-09-14T20:25:44.421410+00:00",
+        "run_id": "34849483893"
       }
     },
     "14755": {
@@ -41940,6 +41936,12 @@
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-14T14:21:06.415767+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
+        "claimed_at": "2026-09-14T14:25:44.567194+00:00",
+        "lease_expires_at": "2026-09-14T20:25:44.567194+00:00",
+        "run_id": "34849483893"
       }
     },
     "10659": {
@@ -158434,5 +158436,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T14:25:42.484616+00:00"
+  "updated_at": "2026-09-14T14:25:47.985470+00:00"
 }
