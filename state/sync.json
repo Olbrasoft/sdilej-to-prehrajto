@@ -62093,14 +62093,6 @@
           "source_id": "34706261",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29369567",
-          "attempted_at": "2026-09-14T06:16:18.181143+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34706261",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29371173",
           "attempted_at": "2026-09-14T07:07:07.906005+00:00"
         },
@@ -62111,18 +62103,19 @@
           "permanent": false,
           "target_video_id": "29372082",
           "attempted_at": "2026-09-14T07:52:51.360737+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34706261",
+          "reason": "Request failed for https://sdilej.cz/34706261/pani-kacka-zasahuje...-1939-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T09:24:25.553139+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-14T09:12:10.430897+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
-        "claimed_at": "2026-09-14T09:23:39.562360+00:00",
-        "lease_expires_at": "2026-09-14T15:23:39.562360+00:00",
-        "run_id": "34818869324"
       }
     },
     "32933": {
@@ -69446,6 +69439,12 @@
         "target_video_id": "29144872",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T00:14:41.266553+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
+        "claimed_at": "2026-09-14T09:24:22.812717+00:00",
+        "lease_expires_at": "2026-09-14T15:24:22.812717+00:00",
+        "run_id": "34818869324"
       }
     },
     "12784": {
@@ -69748,6 +69747,12 @@
         "target_video_id": "29137611",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T18:50:04.440797+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
+        "claimed_at": "2026-09-14T09:24:22.631852+00:00",
+        "lease_expires_at": "2026-09-14T15:24:22.631852+00:00",
+        "run_id": "34818869324"
       }
     },
     "14932": {
@@ -157744,5 +157749,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T09:24:20.663014+00:00"
+  "updated_at": "2026-09-14T09:24:25.553159+00:00"
 }
