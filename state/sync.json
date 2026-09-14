@@ -12056,13 +12056,6 @@
           "source_id": "32277811",
           "reason": "Request failed for https://sdilej.cz/32277811/jak-vycvicit-draka-2025-uhdr-dv-cz-en.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-14T09:13:01.649372+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32277811",
-          "reason": "Request failed for https://sdilej.cz/32277811/jak-vycvicit-draka-2025-uhdr-dv-cz-en.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-14T09:45:13.370080+00:00"
         },
         {
@@ -12071,17 +12064,20 @@
           "target_video_id": "29375763",
           "permanent": false,
           "attempted_at": "2026-09-14T10:28:43.343442+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "32277811",
+          "target_video_id": "29375763",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-14T11:02:49.080586+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-14T11:01:39.073716+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29375763",
-        "size_bytes": 6105495955,
-        "prepared_at": "2026-09-14T10:16:02.557567+00:00"
       }
     },
     "652": {
@@ -21220,6 +21216,12 @@
         "source_id": "33771966",
         "display_name": "Oko v oblacích (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-14T11:01:39.300370+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
+        "claimed_at": "2026-09-14T11:02:44.679841+00:00",
+        "lease_expires_at": "2026-09-14T17:02:44.679841+00:00",
+        "run_id": "34818869324"
       }
     },
     "33010": {
@@ -158207,5 +158209,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T11:02:42.609120+00:00"
+  "updated_at": "2026-09-14T11:02:49.080603+00:00"
 }
