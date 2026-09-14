@@ -28656,14 +28656,6 @@
     "1625": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29371732",
-          "attempted_at": "2026-09-14T07:34:29.400464+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34817688",
           "reason": "Request failed for https://sdilej.cz/34817688/apollo-10-1-2-dite-kosmickeho-veku-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
@@ -28676,18 +28668,19 @@
           "reason": "Request failed for https://sdilej.cz/34817688/apollo-10-1-2-dite-kosmickeho-veku-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T08:58:53.837680+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34817688",
+          "reason": "Request failed for https://sdilej.cz/34817688/apollo-10-1-2-dite-kosmickeho-veku-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T09:39:18.520729+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T09:37:16.170644+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
-        "claimed_at": "2026-09-14T09:38:26.870573+00:00",
-        "lease_expires_at": "2026-09-14T15:38:26.870573+00:00",
-        "run_id": "34818869324"
       }
     },
     "19227": {
@@ -157758,5 +157751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T09:39:16.668283+00:00"
+  "updated_at": "2026-09-14T09:39:18.520749+00:00"
 }
