@@ -3307,6 +3307,12 @@
         "target_video_id": "29122398",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T06:00:28.711519+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
+        "claimed_at": "2026-09-14T09:57:06.266731+00:00",
+        "lease_expires_at": "2026-09-14T15:57:06.266731+00:00",
+        "run_id": "34818869324"
       }
     },
     "22398": {
@@ -4071,6 +4077,12 @@
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
+        "claimed_at": "2026-09-14T09:57:06.459731+00:00",
+        "lease_expires_at": "2026-09-14T15:57:06.459731+00:00",
+        "run_id": "34818869324"
       }
     },
     "21939": {
@@ -86335,14 +86347,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "29955764",
-          "target_video_id": "29368049",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-14T05:39:48.737677+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29955764",
           "target_video_id": "29371302",
@@ -86356,18 +86360,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T07:45:55.834225+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29955764",
+          "target_video_id": "29375054",
+          "permanent": false,
+          "attempted_at": "2026-09-14T09:57:09.285959+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-14T09:44:23.574639+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-4",
-        "claimed_at": "2026-09-14T09:48:44.353001+00:00",
-        "lease_expires_at": "2026-09-14T15:48:44.353001+00:00",
-        "run_id": "34818869324"
       },
       "prepared": {
         "target_video_id": "29375054",
@@ -157868,5 +157873,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T09:57:04.216730+00:00"
+  "updated_at": "2026-09-14T09:57:09.285977+00:00"
 }
