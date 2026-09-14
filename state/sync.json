@@ -42557,13 +42557,6 @@
     "12459": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34871582",
-          "reason": "Request failed for https://sdilej.cz/34871582/morgiana-1972-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-14T08:25:32.659357+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34871582",
           "target_video_id": "29373801",
@@ -42576,6 +42569,13 @@
           "target_video_id": "29373801",
           "permanent": false,
           "attempted_at": "2026-09-14T09:45:30.151278+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34871582",
+          "target_video_id": "29373801",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:20:19.957993+00:00"
         }
       ],
       "last_plan": {
@@ -42587,12 +42587,6 @@
         "target_video_id": "29373801",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-14T09:00:00.008846+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
-        "claimed_at": "2026-09-14T10:20:14.272322+00:00",
-        "lease_expires_at": "2026-09-14T16:20:14.272322+00:00",
-        "run_id": "34818869324"
       }
     },
     "17730": {
@@ -157901,5 +157895,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:20:17.975780+00:00"
+  "updated_at": "2026-09-14T10:20:19.958013+00:00"
 }
