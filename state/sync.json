@@ -40427,6 +40427,12 @@
         "target_video_id": "29204451",
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-08T04:57:53.039599+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-4",
+        "claimed_at": "2026-09-14T21:00:59.395061+00:00",
+        "lease_expires_at": "2026-09-15T03:00:59.395061+00:00",
+        "run_id": "34881250586"
       }
     },
     "27924": {
@@ -55497,14 +55503,6 @@
           "source_id": "34716525",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29383594",
-          "attempted_at": "2026-09-14T16:35:36.257751+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34716525",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29386717",
           "attempted_at": "2026-09-14T18:31:18.698031+00:00"
         },
@@ -55515,23 +55513,20 @@
           "permanent": false,
           "target_video_id": "29388858",
           "attempted_at": "2026-09-14T20:03:30.758655+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34716525",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29389928",
+          "attempted_at": "2026-09-14T21:01:00.932571+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716525",
         "display_name": "LADY NINJA ～青い影～ (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-14T20:37:04.271854+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-1",
-        "claimed_at": "2026-09-14T20:50:17.490820+00:00",
-        "lease_expires_at": "2026-09-15T02:50:17.490820+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29389928",
-        "size_bytes": 2777775058,
-        "prepared_at": "2026-09-14T20:50:20.972808+00:00"
       }
     },
     "31730": {
@@ -159231,5 +159226,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T21:00:57.594783+00:00"
+  "updated_at": "2026-09-14T21:01:00.932590+00:00"
 }
