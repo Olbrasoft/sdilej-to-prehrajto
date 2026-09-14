@@ -72597,14 +72597,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "30673323",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29374865",
-          "attempted_at": "2026-09-14T09:51:35.762614+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30673323",
           "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
@@ -72617,23 +72609,20 @@
           "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T11:19:03.903774+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29379182",
+          "attempted_at": "2026-09-14T13:01:15.951113+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T12:47:36.996358+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
-        "claimed_at": "2026-09-14T12:49:15.190887+00:00",
-        "lease_expires_at": "2026-09-14T18:49:15.190887+00:00",
-        "run_id": "34818869324"
-      },
-      "prepared": {
-        "target_video_id": "29379182",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-14T12:49:20.279455+00:00"
       }
     },
     "14505": {
@@ -83810,6 +83799,12 @@
         "target_video_id": "29218933",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-08T17:23:26.899716+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-2",
+        "claimed_at": "2026-09-14T13:01:13.315394+00:00",
+        "lease_expires_at": "2026-09-14T19:01:13.315394+00:00",
+        "run_id": "34818869324"
       }
     },
     "31003": {
@@ -83878,6 +83873,12 @@
         "target_video_id": "29218970",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-08T17:24:42.405743+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-1",
+        "claimed_at": "2026-09-14T13:01:13.495572+00:00",
+        "lease_expires_at": "2026-09-14T19:01:13.495572+00:00",
+        "run_id": "34818869324"
       }
     },
     "17505": {
@@ -84055,6 +84056,12 @@
         "target_video_id": "29219070",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-08T17:29:27.070853+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
+        "claimed_at": "2026-09-14T13:01:13.700986+00:00",
+        "lease_expires_at": "2026-09-14T19:01:13.700986+00:00",
+        "run_id": "34818869324"
       }
     },
     "14541": {
@@ -158339,5 +158346,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T13:01:11.436209+00:00"
+  "updated_at": "2026-09-14T13:01:15.951132+00:00"
 }
