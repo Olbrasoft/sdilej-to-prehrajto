@@ -1458,6 +1458,12 @@
         "target_video_id": "28928664",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T04:39:45.085335+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-5",
+        "claimed_at": "2026-09-14T23:55:17.586759+00:00",
+        "lease_expires_at": "2026-09-15T05:55:17.586759+00:00",
+        "run_id": "34881250586"
       }
     },
     "21566": {
@@ -1544,6 +1550,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
+        "claimed_at": "2026-09-14T23:55:17.215961+00:00",
+        "lease_expires_at": "2026-09-15T05:55:17.215961+00:00",
+        "run_id": "34881250586"
       }
     },
     "21354": {
@@ -1609,6 +1621,12 @@
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-2",
+        "claimed_at": "2026-09-14T23:55:17.406721+00:00",
+        "lease_expires_at": "2026-09-15T05:55:17.406721+00:00",
+        "run_id": "34881250586"
       }
     },
     "21587": {
@@ -109480,17 +109498,19 @@
       }
     },
     "4455": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29623902",
+          "target_video_id": "29392836",
+          "permanent": false,
+          "attempted_at": "2026-09-14T23:55:19.224901+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29623902",
         "display_name": "Klub zázraků (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-14T23:41:13.832877+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-1",
-        "claimed_at": "2026-09-14T23:53:41.765393+00:00",
-        "lease_expires_at": "2026-09-15T05:53:41.765393+00:00",
-        "run_id": "34881250586"
       },
       "prepared": {
         "target_video_id": "29392836",
@@ -159565,5 +159585,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T23:55:15.527706+00:00"
+  "updated_at": "2026-09-14T23:55:19.224921+00:00"
 }
