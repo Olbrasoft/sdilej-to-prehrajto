@@ -46329,14 +46329,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29378808",
-          "attempted_at": "2026-09-14T12:48:13.661890+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28441201",
           "target_video_id": "29379927",
@@ -46351,23 +46343,20 @@
           "permanent": false,
           "target_video_id": "29381401",
           "attempted_at": "2026-09-14T14:40:44.892449+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29382968",
+          "attempted_at": "2026-09-14T15:44:05.612959+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-14T15:23:45.831193+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-4",
-        "claimed_at": "2026-09-14T15:35:28.348546+00:00",
-        "lease_expires_at": "2026-09-14T21:35:28.348546+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29382968",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-14T15:35:33.560471+00:00"
       }
     },
     "19162": {
@@ -63383,6 +63372,12 @@
         "target_video_id": "29129228",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-06T07:07:54.097453+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
+        "claimed_at": "2026-09-14T15:44:03.634109+00:00",
+        "lease_expires_at": "2026-09-14T21:44:03.634109+00:00",
+        "run_id": "34849483893"
       }
     },
     "29900": {
@@ -158742,5 +158737,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T15:44:01.159161+00:00"
+  "updated_at": "2026-09-14T15:44:05.612977+00:00"
 }
