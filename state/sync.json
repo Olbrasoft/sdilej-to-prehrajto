@@ -33000,6 +33000,12 @@
         "target_video_id": "29347958",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-13T11:12:32.343405+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-3",
+        "claimed_at": "2026-09-14T07:21:21.179588+00:00",
+        "lease_expires_at": "2026-09-14T13:21:21.179588+00:00",
+        "run_id": "34796725524"
       }
     },
     "1982": {
@@ -33378,6 +33384,12 @@
         "target_video_id": "29173920",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-0",
+        "claimed_at": "2026-09-14T07:21:21.332660+00:00",
+        "lease_expires_at": "2026-09-14T13:21:21.332660+00:00",
+        "run_id": "34796725524"
       }
     },
     "27248": {
@@ -86624,14 +86636,6 @@
           "source_id": "34876843",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29366241",
-          "attempted_at": "2026-09-14T03:54:27.391345+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29368052",
           "attempted_at": "2026-09-14T05:06:06.173542+00:00"
         },
@@ -86642,23 +86646,20 @@
           "permanent": false,
           "target_video_id": "29368998",
           "attempted_at": "2026-09-14T05:50:54.079278+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29371338",
+          "attempted_at": "2026-09-14T07:21:22.345575+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-14T06:54:00.385650+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-5",
-        "claimed_at": "2026-09-14T07:06:59.436659+00:00",
-        "lease_expires_at": "2026-09-14T13:06:59.436659+00:00",
-        "run_id": "34796725524"
-      },
-      "prepared": {
-        "target_video_id": "29371338",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-14T07:07:03.133643+00:00"
       }
     },
     "32120": {
@@ -156714,5 +156715,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T07:21:19.387821+00:00"
+  "updated_at": "2026-09-14T07:21:22.345592+00:00"
 }
