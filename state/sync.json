@@ -51663,17 +51663,19 @@
       "attempts": []
     },
     "16136": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6737529",
+          "target_video_id": "29382328",
+          "permanent": false,
+          "attempted_at": "2026-09-14T15:13:22.018029+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6737529",
         "display_name": "Drama (2012) SD CZ Dabing",
         "planned_at": "2026-09-14T14:40:53.549716+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-4",
-        "claimed_at": "2026-09-14T15:09:09.748598+00:00",
-        "lease_expires_at": "2026-09-14T21:09:09.748598+00:00",
-        "run_id": "34849483893"
       },
       "prepared": {
         "target_video_id": "29382328",
@@ -54983,6 +54985,12 @@
         "target_video_id": "29303508",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-11T15:49:20.701647+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
+        "claimed_at": "2026-09-14T15:13:19.995981+00:00",
+        "lease_expires_at": "2026-09-14T21:13:19.995981+00:00",
+        "run_id": "34849483893"
       }
     },
     "30577": {
@@ -158717,5 +158725,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T15:13:17.182877+00:00"
+  "updated_at": "2026-09-14T15:13:22.018049+00:00"
 }
