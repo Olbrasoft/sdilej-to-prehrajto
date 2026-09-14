@@ -20760,6 +20760,12 @@
         "target_video_id": "29127917",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-05T09:17:42.572509+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
+        "claimed_at": "2026-09-14T19:03:27.551006+00:00",
+        "lease_expires_at": "2026-09-15T01:03:27.551006+00:00",
+        "run_id": "34849483893"
       }
     },
     "20525": {
@@ -21147,6 +21153,12 @@
         "target_video_id": "29127237",
         "size_bytes": 18200000000,
         "prepared_at": "2026-09-05T08:47:19.185894+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
+        "claimed_at": "2026-09-14T19:03:27.277835+00:00",
+        "lease_expires_at": "2026-09-15T01:03:27.277835+00:00",
+        "run_id": "34849483893"
       }
     },
     "15056": {
@@ -21384,6 +21396,12 @@
         "target_video_id": "29376069",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T10:31:03.370582+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-2",
+        "claimed_at": "2026-09-14T19:03:27.882471+00:00",
+        "lease_expires_at": "2026-09-15T01:03:27.882471+00:00",
+        "run_id": "34849483893"
       }
     },
     "1448": {
@@ -21736,6 +21754,12 @@
         "target_video_id": "29128092",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-0",
+        "claimed_at": "2026-09-14T19:03:27.411657+00:00",
+        "lease_expires_at": "2026-09-15T01:03:27.411657+00:00",
+        "run_id": "34849483893"
       }
     },
     "32926": {
@@ -46432,14 +46456,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29382968",
-          "attempted_at": "2026-09-14T15:44:05.612959+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28441201",
           "target_video_id": "29385510",
@@ -46453,23 +46469,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-14T18:14:18.923075+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29387557",
+          "attempted_at": "2026-09-14T19:03:29.583635+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-14T18:46:39.576865+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-5",
-        "claimed_at": "2026-09-14T18:55:41.988947+00:00",
-        "lease_expires_at": "2026-09-15T00:55:41.988947+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29387557",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-14T18:55:46.338776+00:00"
       }
     },
     "19162": {
@@ -158797,5 +158810,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T19:03:25.212090+00:00"
+  "updated_at": "2026-09-14T19:03:29.583653+00:00"
 }
