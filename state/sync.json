@@ -11944,6 +11944,12 @@
         "target_video_id": "29338368",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-3",
+        "claimed_at": "2026-09-14T04:12:57.144322+00:00",
+        "lease_expires_at": "2026-09-14T10:12:57.144322+00:00",
+        "run_id": "34796725524"
       }
     },
     "23132": {
@@ -12082,6 +12088,12 @@
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-14T04:09:41.603947+00:00"
+      },
+      "claim": {
+        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-4",
+        "claimed_at": "2026-09-14T04:12:57.371034+00:00",
+        "lease_expires_at": "2026-09-14T10:12:57.371034+00:00",
+        "run_id": "34796725524"
       }
     },
     "652": {
@@ -98298,17 +98310,19 @@
       "attempts": []
     },
     "4158": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18634413",
+          "target_video_id": "29366938",
+          "permanent": false,
+          "attempted_at": "2026-09-14T04:12:57.531268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18634413",
         "display_name": "Překladatelé (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-14T03:45:45.349150+00:00"
-      },
-      "claim": {
-        "worker_id": "c68bb08f6e5944d29a7ee3f71306173f-shard-5",
-        "claimed_at": "2026-09-14T04:08:26.815193+00:00",
-        "lease_expires_at": "2026-09-14T10:08:26.815193+00:00",
-        "run_id": "34796725524"
       },
       "prepared": {
         "target_video_id": "29366938",
@@ -156501,5 +156515,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T04:12:55.387057+00:00"
+  "updated_at": "2026-09-14T04:12:57.531289+00:00"
 }
