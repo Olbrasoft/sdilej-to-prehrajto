@@ -4071,6 +4071,12 @@
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-3",
+        "claimed_at": "2026-09-14T20:35:04.675883+00:00",
+        "lease_expires_at": "2026-09-15T02:35:04.675883+00:00",
+        "run_id": "34881250586"
       }
     },
     "21939": {
@@ -4210,6 +4216,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-5",
+        "claimed_at": "2026-09-14T20:35:04.886527+00:00",
+        "lease_expires_at": "2026-09-15T02:35:04.886527+00:00",
+        "run_id": "34881250586"
       }
     },
     "304": {
@@ -105555,14 +105567,6 @@
           "source_id": "34722715",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29372591",
-          "attempted_at": "2026-09-14T08:25:41.921787+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34722715",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29377809",
           "attempted_at": "2026-09-14T12:09:37.165309+00:00"
         },
@@ -105572,23 +105576,20 @@
           "reason": "Request failed for https://sdilej.cz/34722715/lego-pribeh-2-2019-cz-dabing-2160p-uhd.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T13:07:29.230721+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34722715",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29389443",
+          "attempted_at": "2026-09-14T20:35:07.156084+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34722715",
         "display_name": "LEGO® příběh 2 (2019) 4K CZ Dabing",
         "planned_at": "2026-09-14T20:16:06.741330+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-4",
-        "claimed_at": "2026-09-14T20:21:09.653002+00:00",
-        "lease_expires_at": "2026-09-15T02:21:09.653002+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29389443",
-        "size_bytes": 4706803218,
-        "prepared_at": "2026-09-14T20:21:12.708259+00:00"
       }
     },
     "29490": {
@@ -159174,5 +159175,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T20:35:02.524100+00:00"
+  "updated_at": "2026-09-14T20:35:07.156103+00:00"
 }
