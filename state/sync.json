@@ -105530,14 +105530,6 @@
     "9032": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34826416",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29315263",
-          "attempted_at": "2026-09-12T03:34:49.434137+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34826416",
           "target_video_id": "29331007",
@@ -105551,6 +105543,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-12T22:38:53.895714+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34826416",
+          "reason": "Request failed for https://sdilej.cz/34826416/jedeme-na-teambuilding-2023-komedie-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T11:54:11.217239+00:00"
         }
       ],
       "last_plan": {
@@ -158299,5 +158298,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T11:53:20.369941+00:00"
+  "updated_at": "2026-09-14T11:54:11.217262+00:00"
 }
