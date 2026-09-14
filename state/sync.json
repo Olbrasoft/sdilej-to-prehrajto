@@ -45323,14 +45323,6 @@
           "source_id": "6365016",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29371545",
-          "attempted_at": "2026-09-14T07:25:17.492036+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "6365016",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29373355",
           "attempted_at": "2026-09-14T08:53:31.705885+00:00"
         },
@@ -45341,18 +45333,19 @@
           "permanent": false,
           "target_video_id": "29374418",
           "attempted_at": "2026-09-14T09:35:50.502593+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "6365016",
+          "reason": "Request failed for https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T10:21:15.774604+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-14T10:19:10.938321+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
-        "claimed_at": "2026-09-14T10:20:29.972067+00:00",
-        "lease_expires_at": "2026-09-14T16:20:29.972067+00:00",
-        "run_id": "34818869324"
       }
     },
     "24796": {
@@ -51271,6 +51264,12 @@
         "target_video_id": "29216512",
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-08T15:16:28.558567+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
+        "claimed_at": "2026-09-14T10:21:13.512332+00:00",
+        "lease_expires_at": "2026-09-14T16:21:13.512332+00:00",
+        "run_id": "34818869324"
       }
     },
     "13008": {
@@ -157943,5 +157942,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T10:21:11.463353+00:00"
+  "updated_at": "2026-09-14T10:21:15.774623+00:00"
 }
