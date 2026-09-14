@@ -11096,6 +11096,12 @@
         "target_video_id": "29325480",
         "size_bytes": 27600000000,
         "prepared_at": "2026-09-12T14:05:02.359601+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-4",
+        "claimed_at": "2026-09-14T18:13:58.233628+00:00",
+        "lease_expires_at": "2026-09-15T00:13:58.233628+00:00",
+        "run_id": "34849483893"
       }
     },
     "601": {
@@ -11214,6 +11220,12 @@
         "target_video_id": "29342565",
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-13T06:40:05.315180+00:00"
+      },
+      "claim": {
+        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-3",
+        "claimed_at": "2026-09-14T18:13:58.365890+00:00",
+        "lease_expires_at": "2026-09-15T00:13:58.365890+00:00",
+        "run_id": "34849483893"
       }
     },
     "12843": {
@@ -29045,14 +29057,6 @@
           "source_id": "34817688",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29381188",
-          "attempted_at": "2026-09-14T14:31:32.029065+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29382670",
           "attempted_at": "2026-09-14T15:45:24.231398+00:00"
         },
@@ -29063,23 +29067,20 @@
           "permanent": false,
           "target_video_id": "29384556",
           "attempted_at": "2026-09-14T17:17:37.178514+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34817688",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29386301",
+          "attempted_at": "2026-09-14T18:13:58.531637+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-14T17:49:25.488515+00:00"
-      },
-      "claim": {
-        "worker_id": "ea063b9adfe247c388dfbf990ccb6af8-shard-1",
-        "claimed_at": "2026-09-14T17:52:10.834897+00:00",
-        "lease_expires_at": "2026-09-14T23:52:10.834897+00:00",
-        "run_id": "34849483893"
-      },
-      "prepared": {
-        "target_video_id": "29386301",
-        "size_bytes": 4157137566,
-        "prepared_at": "2026-09-14T17:52:15.226797+00:00"
       }
     },
     "19227": {
@@ -158725,5 +158726,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T18:13:56.014813+00:00"
+  "updated_at": "2026-09-14T18:13:58.531664+00:00"
 }
