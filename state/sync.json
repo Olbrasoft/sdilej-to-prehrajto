@@ -24375,14 +24375,6 @@
           "source_id": "32908053",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29375768",
-          "attempted_at": "2026-09-14T10:34:02.191520+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29376954",
           "attempted_at": "2026-09-14T11:28:17.013807+00:00"
         },
@@ -24392,18 +24384,19 @@
           "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-14T12:23:12.014103+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32908053",
+          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-14T12:58:46.825423+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-14T12:56:07.305129+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-4",
-        "claimed_at": "2026-09-14T12:57:58.658428+00:00",
-        "lease_expires_at": "2026-09-14T18:57:58.658428+00:00",
-        "run_id": "34818869324"
       }
     },
     "1814": {
@@ -33773,6 +33766,12 @@
         "target_video_id": "29173920",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-0",
+        "claimed_at": "2026-09-14T12:58:46.637445+00:00",
+        "lease_expires_at": "2026-09-14T18:58:46.637445+00:00",
+        "run_id": "34818869324"
       }
     },
     "27248": {
@@ -158352,5 +158351,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T12:58:44.778134+00:00"
+  "updated_at": "2026-09-14T12:58:46.825440+00:00"
 }
