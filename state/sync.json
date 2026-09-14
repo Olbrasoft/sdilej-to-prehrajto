@@ -6600,6 +6600,12 @@
         "target_video_id": "29280093",
         "size_bytes": 10000000000,
         "prepared_at": "2026-09-10T19:22:31.785289+00:00"
+      },
+      "claim": {
+        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-3",
+        "claimed_at": "2026-09-14T08:55:00.753522+00:00",
+        "lease_expires_at": "2026-09-14T14:55:00.753522+00:00",
+        "run_id": "34818869324"
       }
     },
     "362": {
@@ -46120,17 +46126,19 @@
       "attempts": []
     },
     "23539": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27603306",
+          "target_video_id": "29373614",
+          "permanent": false,
+          "attempted_at": "2026-09-14T08:55:00.926244+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27603306",
         "display_name": "Nezvaný host (1994) 720p CZ Dabing",
         "planned_at": "2026-09-14T08:31:23.404382+00:00"
-      },
-      "claim": {
-        "worker_id": "cea679dc13a548fc9d01f704a0d882b5-shard-5",
-        "claimed_at": "2026-09-14T08:51:32.418919+00:00",
-        "lease_expires_at": "2026-09-14T14:51:32.418919+00:00",
-        "run_id": "34818869324"
       },
       "prepared": {
         "target_video_id": "29373614",
@@ -157519,5 +157527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-14T08:54:58.708908+00:00"
+  "updated_at": "2026-09-14T08:55:00.926265+00:00"
 }
