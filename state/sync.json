@@ -4210,6 +4210,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-3",
+        "claimed_at": "2026-09-15T23:35:18.361614+00:00",
+        "lease_expires_at": "2026-09-16T05:35:18.361614+00:00",
+        "run_id": "35007785513"
       }
     },
     "304": {
@@ -4450,6 +4456,12 @@
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-5",
+        "claimed_at": "2026-09-15T23:35:18.797424+00:00",
+        "lease_expires_at": "2026-09-16T05:35:18.797424+00:00",
+        "run_id": "35007785513"
       }
     },
     "327": {
@@ -4980,6 +4992,12 @@
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-2",
+        "claimed_at": "2026-09-15T23:35:18.637331+00:00",
+        "lease_expires_at": "2026-09-16T05:35:18.637331+00:00",
+        "run_id": "35007785513"
       }
     },
     "10690": {
@@ -5090,6 +5108,12 @@
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-1",
+        "claimed_at": "2026-09-15T23:35:18.495912+00:00",
+        "lease_expires_at": "2026-09-16T05:35:18.495912+00:00",
+        "run_id": "35007785513"
       }
     },
     "13803": {
@@ -48441,14 +48465,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "27669370",
-          "target_video_id": "29408834",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T18:49:02.897850+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27669370",
           "reason": "PrehrajtoError",
@@ -48463,23 +48479,20 @@
           "permanent": false,
           "target_video_id": "29411615",
           "attempted_at": "2026-09-15T22:29:48.756892+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29412175",
+          "attempted_at": "2026-09-15T23:35:20.823943+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-15T23:04:38.187870+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-15T23:04:55.555048+00:00",
-        "lease_expires_at": "2026-09-16T05:04:55.555048+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29412175",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-15T23:05:00.231123+00:00"
       }
     },
     "18861": {
@@ -163795,5 +163808,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T23:35:16.632928+00:00"
+  "updated_at": "2026-09-15T23:35:20.823959+00:00"
 }
