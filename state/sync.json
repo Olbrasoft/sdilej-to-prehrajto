@@ -57205,13 +57205,6 @@
     "13486": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33708286",
-          "reason": "Request failed for https://sdilej.cz/33708286/kam-slunce-nechodi-1971-1080p.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T12:53:42.518803+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "33708286",
           "reason": "PrehrajtoError",
@@ -57226,23 +57219,20 @@
           "permanent": false,
           "target_video_id": "29405694",
           "attempted_at": "2026-09-15T14:48:47.890643+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33708286",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29406360",
+          "attempted_at": "2026-09-15T15:44:36.757736+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T15:30:25.688796+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-2",
-        "claimed_at": "2026-09-15T15:36:49.879163+00:00",
-        "lease_expires_at": "2026-09-15T21:36:49.879163+00:00",
-        "run_id": "34969920467"
-      },
-      "prepared": {
-        "target_video_id": "29406360",
-        "size_bytes": 1484316578,
-        "prepared_at": "2026-09-15T15:36:54.663021+00:00"
       }
     },
     "35753": {
@@ -73768,6 +73758,12 @@
         "target_video_id": "29137913",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T17:33:42.441521+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-4",
+        "claimed_at": "2026-09-15T15:44:34.955471+00:00",
+        "lease_expires_at": "2026-09-15T21:44:34.955471+00:00",
+        "run_id": "34969920467"
       }
     },
     "12345": {
@@ -162531,5 +162527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T15:44:33.071762+00:00"
+  "updated_at": "2026-09-15T15:44:36.757753+00:00"
 }
