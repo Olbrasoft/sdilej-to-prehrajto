@@ -6180,6 +6180,12 @@
         "target_video_id": "29203262",
         "size_bytes": 13100000000,
         "prepared_at": "2026-09-08T03:30:17.562857+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
+        "claimed_at": "2026-09-15T10:05:27.304394+00:00",
+        "lease_expires_at": "2026-09-15T16:05:27.304394+00:00",
+        "run_id": "34938164822"
       }
     },
     "388": {
@@ -6245,6 +6251,12 @@
         "target_video_id": "29195641",
         "size_bytes": 22900000000,
         "prepared_at": "2026-09-07T19:18:09.679179+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T10:05:27.497012+00:00",
+        "lease_expires_at": "2026-09-15T16:05:27.497012+00:00",
+        "run_id": "34938164822"
       }
     },
     "13259": {
@@ -48100,14 +48112,6 @@
     "36727": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "6365016",
-          "target_video_id": "29400166",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T07:04:23.427554+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "6365016",
           "reason": "Request failed for https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv (HTTP None)",
@@ -48121,23 +48125,20 @@
           "permanent": false,
           "target_video_id": "29401474",
           "attempted_at": "2026-09-15T09:13:20.720879+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29402089",
+          "attempted_at": "2026-09-15T10:05:30.051144+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-15T09:47:48.309222+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
-        "claimed_at": "2026-09-15T09:55:09.442426+00:00",
-        "lease_expires_at": "2026-09-15T15:55:09.442426+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29402089",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-15T09:55:13.874828+00:00"
       }
     },
     "24796": {
@@ -162388,5 +162389,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T10:05:25.295043+00:00"
+  "updated_at": "2026-09-15T10:05:30.051162+00:00"
 }
