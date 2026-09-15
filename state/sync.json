@@ -90529,14 +90529,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34876843",
-          "target_video_id": "29398671",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T05:39:48.180377+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34876843",
           "reason": "PrehrajtoError",
@@ -90551,6 +90543,13 @@
           "permanent": false,
           "target_video_id": "29401606",
           "attempted_at": "2026-09-15T09:33:25.164749+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34876843",
+          "reason": "Request failed for https://sdilej.cz/34876843/padesatka-2015-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-15T10:18:24.836657+00:00"
         }
       ],
       "last_plan": {
@@ -162391,5 +162390,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T10:17:37.031544+00:00"
+  "updated_at": "2026-09-15T10:18:24.836677+00:00"
 }
