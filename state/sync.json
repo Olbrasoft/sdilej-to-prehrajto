@@ -108691,13 +108691,6 @@
     "4231": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34722715",
-          "reason": "Request failed for https://sdilej.cz/34722715/lego-pribeh-2-2019-cz-dabing-2160p-uhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T10:25:30.552483+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34722715",
           "reason": "PrehrajtoError",
@@ -108711,23 +108704,20 @@
           "reason": "Request failed for https://sdilej.cz/34722715/lego-pribeh-2-2019-cz-dabing-2160p-uhd.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-15T12:18:51.705156+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34722715",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29409568",
+          "attempted_at": "2026-09-15T19:44:45.375305+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34722715",
         "display_name": "LEGO® příběh 2 (2019) 4K CZ Dabing",
         "planned_at": "2026-09-15T19:11:50.782642+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-15T19:29:52.662520+00:00",
-        "lease_expires_at": "2026-09-16T01:29:52.662520+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29409568",
-        "size_bytes": 4706803218,
-        "prepared_at": "2026-09-15T19:29:55.965741+00:00"
       }
     },
     "29490": {
@@ -163320,5 +163310,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T19:44:32.281613+00:00"
+  "updated_at": "2026-09-15T19:44:45.375343+00:00"
 }
