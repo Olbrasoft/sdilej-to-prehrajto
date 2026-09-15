@@ -22187,6 +22187,12 @@
         "target_video_id": "29128092",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-3",
+        "claimed_at": "2026-09-15T15:54:51.839522+00:00",
+        "lease_expires_at": "2026-09-15T21:54:51.839522+00:00",
+        "run_id": "34969920467"
       }
     },
     "32926": {
@@ -74978,14 +74984,6 @@
           "source_id": "31626940",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29403899",
-          "attempted_at": "2026-09-15T12:43:13.717522+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31626940",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29404674",
           "attempted_at": "2026-09-15T13:38:01.035362+00:00"
         },
@@ -74996,23 +74994,20 @@
           "permanent": false,
           "target_video_id": "29405425",
           "attempted_at": "2026-09-15T14:27:30.566855+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31626940",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29406476",
+          "attempted_at": "2026-09-15T15:54:53.951835+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-15T15:38:39.680883+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-4",
-        "claimed_at": "2026-09-15T15:44:52.525723+00:00",
-        "lease_expires_at": "2026-09-15T21:44:52.525723+00:00",
-        "run_id": "34969920467"
-      },
-      "prepared": {
-        "target_video_id": "29406476",
-        "size_bytes": 1956167939,
-        "prepared_at": "2026-09-15T15:44:56.993297+00:00"
       }
     },
     "33003": {
@@ -162536,5 +162531,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T15:54:46.113213+00:00"
+  "updated_at": "2026-09-15T15:54:53.951852+00:00"
 }
