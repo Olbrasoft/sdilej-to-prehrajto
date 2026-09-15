@@ -35508,6 +35508,12 @@
         "target_video_id": "29263627",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-10T05:17:24.012120+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-5",
+        "claimed_at": "2026-09-15T04:12:56.433372+00:00",
+        "lease_expires_at": "2026-09-15T10:12:56.433372+00:00",
+        "run_id": "34915558459"
       }
     },
     "2001": {
@@ -108037,14 +108043,6 @@
           "source_id": "34826416",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29391067",
-          "attempted_at": "2026-09-14T22:07:29.131164+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34826416",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29392004",
           "attempted_at": "2026-09-14T23:04:46.843811+00:00"
         },
@@ -108055,23 +108053,20 @@
           "permanent": false,
           "target_video_id": "29392671",
           "attempted_at": "2026-09-14T23:55:15.527684+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34826416",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29397842",
+          "attempted_at": "2026-09-15T04:12:58.214202+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34826416",
         "display_name": "Jedeme na teambuilding (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-15T04:02:04.680557+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
-        "claimed_at": "2026-09-15T04:04:01.410312+00:00",
-        "lease_expires_at": "2026-09-15T10:04:01.410312+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29397842",
-        "size_bytes": 2638785764,
-        "prepared_at": "2026-09-15T04:04:05.312376+00:00"
       }
     },
     "29640": {
@@ -161255,5 +161250,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T04:12:50.071022+00:00"
+  "updated_at": "2026-09-15T04:12:58.214219+00:00"
 }
