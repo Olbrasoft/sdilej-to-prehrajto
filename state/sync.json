@@ -9598,6 +9598,12 @@
         "target_video_id": "29319786",
         "size_bytes": 17600000000,
         "prepared_at": "2026-09-12T08:22:22.368273+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-3",
+        "claimed_at": "2026-09-15T06:53:31.698914+00:00",
+        "lease_expires_at": "2026-09-15T12:53:31.698914+00:00",
+        "run_id": "34915558459"
       }
     },
     "21229": {
@@ -9749,6 +9755,12 @@
         "target_video_id": "29320008",
         "size_bytes": 16300000000,
         "prepared_at": "2026-09-12T08:34:24.881159+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-2",
+        "claimed_at": "2026-09-15T06:53:31.991918+00:00",
+        "lease_expires_at": "2026-09-15T12:53:31.991918+00:00",
+        "run_id": "34915558459"
       }
     },
     "23352": {
@@ -9997,6 +10009,12 @@
         "target_video_id": "29320282",
         "size_bytes": 6300000000,
         "prepared_at": "2026-09-12T08:48:50.160880+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
+        "claimed_at": "2026-09-15T06:53:31.832339+00:00",
+        "lease_expires_at": "2026-09-15T12:53:31.832339+00:00",
+        "run_id": "34915558459"
       }
     },
     "21858": {
@@ -25078,14 +25096,6 @@
           "source_id": "32908053",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29398315",
-          "attempted_at": "2026-09-15T04:33:51.352032+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29398981",
           "attempted_at": "2026-09-15T05:27:18.474283+00:00"
         },
@@ -25096,23 +25106,20 @@
           "permanent": false,
           "target_video_id": "29399635",
           "attempted_at": "2026-09-15T06:08:37.207073+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32908053",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29400048",
+          "attempted_at": "2026-09-15T06:53:33.630731+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-15T06:43:01.005021+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
-        "claimed_at": "2026-09-15T06:43:09.951690+00:00",
-        "lease_expires_at": "2026-09-15T12:43:09.951690+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29400048",
-        "size_bytes": 6447191434,
-        "prepared_at": "2026-09-15T06:43:14.846176+00:00"
       }
     },
     "1814": {
@@ -161864,5 +161871,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T06:53:30.014117+00:00"
+  "updated_at": "2026-09-15T06:53:33.630748+00:00"
 }
