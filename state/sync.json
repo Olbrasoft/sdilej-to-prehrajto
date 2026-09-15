@@ -63428,14 +63428,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34272442",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29400837",
-          "attempted_at": "2026-09-15T08:21:03.496732+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34272442",
           "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
@@ -63449,23 +63441,20 @@
           "permanent": false,
           "target_video_id": "29402159",
           "attempted_at": "2026-09-15T10:09:46.621000+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29402687",
+          "attempted_at": "2026-09-15T11:02:47.718227+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-15T10:51:00.571551+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
-        "claimed_at": "2026-09-15T10:53:45.335628+00:00",
-        "lease_expires_at": "2026-09-15T16:53:45.335628+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29402687",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-15T10:53:49.042179+00:00"
       }
     },
     "24337": {
@@ -78616,6 +78605,12 @@
         "target_video_id": "29129473",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T10:16:25.002637+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T11:02:44.752496+00:00",
+        "lease_expires_at": "2026-09-15T17:02:44.752496+00:00",
+        "run_id": "34938164822"
       }
     },
     "15956": {
@@ -162312,5 +162307,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T11:02:42.941139+00:00"
+  "updated_at": "2026-09-15T11:02:47.718260+00:00"
 }
