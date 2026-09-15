@@ -1458,6 +1458,12 @@
         "target_video_id": "28928664",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T04:39:45.085335+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T09:32:33.928711+00:00",
+        "lease_expires_at": "2026-09-15T15:32:33.928711+00:00",
+        "run_id": "34938164822"
       }
     },
     "21566": {
@@ -108319,14 +108325,6 @@
           "source_id": "34826416",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29398729",
-          "attempted_at": "2026-09-15T05:03:42.673825+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34826416",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29399524",
           "attempted_at": "2026-09-15T05:57:01.504747+00:00"
         },
@@ -108337,23 +108335,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T07:06:12.950260+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34826416",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29401678",
+          "attempted_at": "2026-09-15T09:32:36.993418+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34826416",
         "display_name": "Jedeme na teambuilding (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-15T09:15:55.916082+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
-        "claimed_at": "2026-09-15T09:18:24.077550+00:00",
-        "lease_expires_at": "2026-09-15T15:18:24.077550+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29401678",
-        "size_bytes": 2638785764,
-        "prepared_at": "2026-09-15T09:18:35.952274+00:00"
       }
     },
     "29640": {
@@ -162388,5 +162383,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T09:32:32.181080+00:00"
+  "updated_at": "2026-09-15T09:32:36.993434+00:00"
 }
