@@ -50054,6 +50054,12 @@
         "target_video_id": "29180133",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-07T07:11:46.147374+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-2",
+        "claimed_at": "2026-09-15T12:05:51.353536+00:00",
+        "lease_expires_at": "2026-09-15T18:05:51.353536+00:00",
+        "run_id": "34938164822"
       }
     },
     "23314": {
@@ -92905,13 +92911,6 @@
     "15473": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29628821",
-          "reason": "Request failed for https://sdilej.cz/29628821/cora-bora.webrip.cz.en.2023.720p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T09:16:52.207105+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "29628821",
           "reason": "PrehrajtoError",
@@ -92925,23 +92924,20 @@
           "reason": "Request failed for https://sdilej.cz/29628821/cora-bora.webrip.cz.en.2023.720p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-15T11:08:37.448507+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "29628821",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29403215",
+          "attempted_at": "2026-09-15T12:05:54.784011+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-15T11:48:36.516996+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
-        "claimed_at": "2026-09-15T11:50:40.827306+00:00",
-        "lease_expires_at": "2026-09-15T17:50:40.827306+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29403215",
-        "size_bytes": 3574555275,
-        "prepared_at": "2026-09-15T11:50:48.174892+00:00"
       }
     },
     "32728": {
@@ -162259,5 +162255,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T12:05:49.571924+00:00"
+  "updated_at": "2026-09-15T12:05:54.784029+00:00"
 }
