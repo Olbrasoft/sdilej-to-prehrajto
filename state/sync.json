@@ -47295,6 +47295,12 @@
         "target_video_id": "29142078",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T21:10:28.377542+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-5",
+        "claimed_at": "2026-09-15T19:02:42.734479+00:00",
+        "lease_expires_at": "2026-09-16T01:02:42.734479+00:00",
+        "run_id": "35007785513"
       }
     },
     "2525": {
@@ -47365,6 +47371,12 @@
         "target_video_id": "29142079",
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-05T21:10:29.724457+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-1",
+        "claimed_at": "2026-09-15T19:02:42.876083+00:00",
+        "lease_expires_at": "2026-09-16T01:02:42.876083+00:00",
+        "run_id": "35007785513"
       }
     },
     "19573": {
@@ -76401,14 +76413,6 @@
           "source_id": "30673323",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29404717",
-          "attempted_at": "2026-09-15T13:41:47.031630+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "30673323",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29405493",
           "attempted_at": "2026-09-15T14:30:10.023564+00:00"
         },
@@ -76419,23 +76423,20 @@
           "permanent": false,
           "target_video_id": "29406479",
           "attempted_at": "2026-09-15T15:55:58.373880+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29409089",
+          "attempted_at": "2026-09-15T19:02:45.329752+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-15T18:49:22.750581+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-15T18:54:47.399524+00:00",
-        "lease_expires_at": "2026-09-16T00:54:47.399524+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29409089",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-15T18:54:52.003758+00:00"
       }
     },
     "14505": {
@@ -163166,5 +163167,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T19:02:40.670846+00:00"
+  "updated_at": "2026-09-15T19:02:45.329772+00:00"
 }
