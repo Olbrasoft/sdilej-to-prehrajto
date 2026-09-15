@@ -12262,17 +12262,19 @@
       }
     },
     "25999": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6792821",
+          "target_video_id": "29395850",
+          "permanent": false,
+          "attempted_at": "2026-09-15T02:22:43.245437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6792821",
         "display_name": "Paprika (2006) 1080p CZ Titulky",
         "planned_at": "2026-09-15T02:19:50.198239+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-5",
-        "claimed_at": "2026-09-15T02:19:59.238584+00:00",
-        "lease_expires_at": "2026-09-15T08:19:59.238584+00:00",
-        "run_id": "34915558459"
       },
       "prepared": {
         "target_video_id": "29395850",
@@ -73656,6 +73658,12 @@
         "target_video_id": "29269961",
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-10T10:11:49.891757+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-3",
+        "claimed_at": "2026-09-15T02:22:42.501337+00:00",
+        "lease_expires_at": "2026-09-15T08:22:42.501337+00:00",
+        "run_id": "34915558459"
       }
     },
     "16220": {
@@ -73742,6 +73750,12 @@
         "target_video_id": "29179714",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-07T06:38:05.111923+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-2",
+        "claimed_at": "2026-09-15T02:22:42.642329+00:00",
+        "lease_expires_at": "2026-09-15T08:22:42.642329+00:00",
+        "run_id": "34915558459"
       }
     },
     "35306": {
@@ -160805,5 +160819,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T02:22:40.910935+00:00"
+  "updated_at": "2026-09-15T02:22:43.245454+00:00"
 }
