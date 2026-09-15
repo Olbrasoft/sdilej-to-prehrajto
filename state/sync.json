@@ -6245,6 +6245,12 @@
         "target_video_id": "29195641",
         "size_bytes": 22900000000,
         "prepared_at": "2026-09-07T19:18:09.679179+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-5",
+        "claimed_at": "2026-09-15T17:13:39.912771+00:00",
+        "lease_expires_at": "2026-09-15T23:13:39.912771+00:00",
+        "run_id": "34969920467"
       }
     },
     "13259": {
@@ -6600,6 +6606,12 @@
         "target_video_id": "29280093",
         "size_bytes": 10000000000,
         "prepared_at": "2026-09-10T19:22:31.785289+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-3",
+        "claimed_at": "2026-09-15T17:13:40.016820+00:00",
+        "lease_expires_at": "2026-09-15T23:13:40.016820+00:00",
+        "run_id": "34969920467"
       }
     },
     "362": {
@@ -25335,17 +25347,19 @@
       "attempts": []
     },
     "1687": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29122944",
+          "target_video_id": "29407722",
+          "permanent": false,
+          "attempted_at": "2026-09-15T17:13:40.121747+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29122944",
         "display_name": "Seznamte se, Joe Black (1998) 1080p CZ Dabing",
         "planned_at": "2026-09-15T16:41:44.487643+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-2",
-        "claimed_at": "2026-09-15T17:08:24.305239+00:00",
-        "lease_expires_at": "2026-09-15T23:08:24.305239+00:00",
-        "run_id": "34969920467"
       },
       "prepared": {
         "target_video_id": "29407722",
@@ -162701,5 +162715,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T17:13:37.883353+00:00"
+  "updated_at": "2026-09-15T17:13:40.121768+00:00"
 }
