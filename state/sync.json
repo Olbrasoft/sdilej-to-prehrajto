@@ -44483,6 +44483,12 @@
         "target_video_id": "29213387",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-08T12:33:41.525834+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-4",
+        "claimed_at": "2026-09-15T20:47:07.757858+00:00",
+        "lease_expires_at": "2026-09-16T02:47:07.757858+00:00",
+        "run_id": "35007785513"
       }
     },
     "2216": {
@@ -44531,6 +44537,12 @@
         "target_video_id": "29213400",
         "size_bytes": 12200000000,
         "prepared_at": "2026-09-08T12:34:21.300435+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-5",
+        "claimed_at": "2026-09-15T20:47:08.077188+00:00",
+        "lease_expires_at": "2026-09-16T02:47:08.077188+00:00",
+        "run_id": "35007785513"
       }
     },
     "21186": {
@@ -44572,6 +44584,12 @@
         "target_video_id": "29213405",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T12:34:28.343392+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-1",
+        "claimed_at": "2026-09-15T20:47:07.920687+00:00",
+        "lease_expires_at": "2026-09-16T02:47:07.920687+00:00",
+        "run_id": "35007785513"
       }
     },
     "31147": {
@@ -66620,14 +66638,6 @@
           "source_id": "34706261",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29406428",
-          "attempted_at": "2026-09-15T15:48:09.033167+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34706261",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29407195",
           "attempted_at": "2026-09-15T16:41:35.577890+00:00"
         },
@@ -66638,23 +66648,20 @@
           "permanent": false,
           "target_video_id": "29409039",
           "attempted_at": "2026-09-15T18:56:40.934472+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34706261",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29410657",
+          "attempted_at": "2026-09-15T20:47:09.983045+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-15T20:28:57.347041+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-15T20:39:14.436162+00:00",
-        "lease_expires_at": "2026-09-16T02:39:14.436162+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29410657",
-        "size_bytes": 867827396,
-        "prepared_at": "2026-09-15T20:39:19.268238+00:00"
       }
     },
     "32933": {
@@ -163520,5 +163527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T20:47:05.924188+00:00"
+  "updated_at": "2026-09-15T20:47:09.983066+00:00"
 }
