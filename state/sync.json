@@ -57112,6 +57112,12 @@
         "target_video_id": "29404171",
         "size_bytes": 2311258584,
         "prepared_at": "2026-09-15T12:52:59.942794+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-3",
+        "claimed_at": "2026-09-15T12:54:38.986838+00:00",
+        "lease_expires_at": "2026-09-15T18:54:38.986838+00:00",
+        "run_id": "34969920467"
       }
     },
     "12786": {
@@ -57240,7 +57246,15 @@
       "attempts": []
     },
     "11898": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30618962",
+          "target_video_id": "29404187",
+          "permanent": false,
+          "attempted_at": "2026-09-15T12:54:41.884531+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30618962",
         "display_name": "Jen o rodinných záležitostech (1991) SD CZ Dabing",
@@ -57248,7 +57262,7 @@
       },
       "prepared": {
         "target_video_id": "29404187",
-        "size_bytes": 1095956490,
+        "size_bytes": 1100000000,
         "prepared_at": "2026-09-15T12:53:48.420893+00:00"
       }
     },
@@ -57327,6 +57341,12 @@
         "target_video_id": "29404188",
         "size_bytes": 3473387352,
         "prepared_at": "2026-09-15T12:53:50.459456+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-2",
+        "claimed_at": "2026-09-15T12:54:39.191587+00:00",
+        "lease_expires_at": "2026-09-15T18:54:39.191587+00:00",
+        "run_id": "34969920467"
       }
     },
     "24883": {
@@ -162348,5 +162368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T12:54:37.188862+00:00"
+  "updated_at": "2026-09-15T12:54:41.884550+00:00"
 }
