@@ -1609,6 +1609,12 @@
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-4",
+        "claimed_at": "2026-09-15T05:30:14.185832+00:00",
+        "lease_expires_at": "2026-09-15T11:30:14.185832+00:00",
+        "run_id": "34915558459"
       }
     },
     "21587": {
@@ -48502,13 +48508,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28441201",
-          "target_video_id": "29396908",
-          "permanent": false,
-          "attempted_at": "2026-09-15T03:15:57.792044+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28441201",
           "target_video_id": "29396908",
@@ -48523,23 +48522,20 @@
           "permanent": false,
           "target_video_id": "29398469",
           "attempted_at": "2026-09-15T04:43:20.623066+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29399167",
+          "attempted_at": "2026-09-15T05:30:16.115852+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T05:18:27.784280+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
-        "claimed_at": "2026-09-15T05:22:57.156088+00:00",
-        "lease_expires_at": "2026-09-15T11:22:57.156088+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29399167",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-15T05:23:02.118956+00:00"
       }
     },
     "19162": {
@@ -161444,5 +161440,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T05:30:12.569036+00:00"
+  "updated_at": "2026-09-15T05:30:16.115870+00:00"
 }
