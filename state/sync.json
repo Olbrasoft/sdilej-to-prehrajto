@@ -1544,6 +1544,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-3",
+        "claimed_at": "2026-09-15T01:51:27.609239+00:00",
+        "lease_expires_at": "2026-09-15T07:51:27.609239+00:00",
+        "run_id": "34915558459"
       }
     },
     "21354": {
@@ -62669,14 +62675,6 @@
           "source_id": "34272442",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29391565",
-          "attempted_at": "2026-09-14T22:39:24.178717+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34272442",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29392204",
           "attempted_at": "2026-09-14T23:21:33.145154+00:00"
         },
@@ -62687,23 +62685,20 @@
           "permanent": false,
           "target_video_id": "29393602",
           "attempted_at": "2026-09-15T00:49:30.230357+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29394930",
+          "attempted_at": "2026-09-15T01:51:29.789880+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-15T01:29:08.882425+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
-        "claimed_at": "2026-09-15T01:44:48.648707+00:00",
-        "lease_expires_at": "2026-09-15T07:44:48.648707+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29394930",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-15T01:44:51.560087+00:00"
       }
     },
     "24337": {
@@ -160717,5 +160712,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T01:51:26.039828+00:00"
+  "updated_at": "2026-09-15T01:51:29.789898+00:00"
 }
