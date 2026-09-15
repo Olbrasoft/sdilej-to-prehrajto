@@ -11096,6 +11096,12 @@
         "target_video_id": "29325480",
         "size_bytes": 27600000000,
         "prepared_at": "2026-09-12T14:05:02.359601+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-3",
+        "claimed_at": "2026-09-15T21:25:02.877804+00:00",
+        "lease_expires_at": "2026-09-16T03:25:02.877804+00:00",
+        "run_id": "35007785513"
       }
     },
     "601": {
@@ -11203,6 +11209,12 @@
         "target_video_id": "29342565",
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-13T06:40:05.315180+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-2",
+        "claimed_at": "2026-09-15T21:25:02.728434+00:00",
+        "lease_expires_at": "2026-09-16T03:25:02.728434+00:00",
+        "run_id": "35007785513"
       }
     },
     "12843": {
@@ -45120,14 +45132,6 @@
           "source_id": "30644750",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29408702",
-          "attempted_at": "2026-09-15T18:37:54.621789+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "30644750",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29409484",
           "attempted_at": "2026-09-15T19:35:20.278090+00:00"
         },
@@ -45138,23 +45142,20 @@
           "permanent": false,
           "target_video_id": "29410135",
           "attempted_at": "2026-09-15T20:21:22.317532+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29411296",
+          "attempted_at": "2026-09-15T21:25:05.101603+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T21:02:50.985194+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-15T21:14:38.259783+00:00",
-        "lease_expires_at": "2026-09-16T03:14:38.259783+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29411296",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-15T21:14:41.458675+00:00"
       }
     },
     "10659": {
@@ -163589,5 +163590,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T21:25:01.005720+00:00"
+  "updated_at": "2026-09-15T21:25:05.101624+00:00"
 }
