@@ -5090,6 +5090,12 @@
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-2",
+        "claimed_at": "2026-09-15T09:33:21.833498+00:00",
+        "lease_expires_at": "2026-09-15T15:33:21.833498+00:00",
+        "run_id": "34938164822"
       }
     },
     "13803": {
@@ -5492,6 +5498,12 @@
         "target_video_id": "29179105",
         "size_bytes": 5300000000,
         "prepared_at": "2026-09-07T06:02:21.308933+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T09:33:22.194841+00:00",
+        "lease_expires_at": "2026-09-15T15:33:22.194841+00:00",
+        "run_id": "34938164822"
       }
     },
     "22042": {
@@ -5600,6 +5612,12 @@
         "target_video_id": "29179195",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-07T06:07:40.264000+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T09:33:22.006738+00:00",
+        "lease_expires_at": "2026-09-15T15:33:22.006738+00:00",
+        "run_id": "34938164822"
       }
     },
     "20578": {
@@ -90472,13 +90490,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34876843",
-          "target_video_id": "29398671",
-          "permanent": false,
-          "attempted_at": "2026-09-15T04:52:51.230465+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34876843",
           "target_video_id": "29398671",
@@ -90493,23 +90504,20 @@
           "permanent": false,
           "target_video_id": "29400084",
           "attempted_at": "2026-09-15T06:55:17.435331+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29401606",
+          "attempted_at": "2026-09-15T09:33:25.164749+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-15T09:12:51.477561+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
-        "claimed_at": "2026-09-15T09:14:33.022377+00:00",
-        "lease_expires_at": "2026-09-15T15:14:33.022377+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29401606",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-15T09:14:38.348601+00:00"
       }
     },
     "32120": {
@@ -162366,5 +162374,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T09:33:19.951263+00:00"
+  "updated_at": "2026-09-15T09:33:25.164766+00:00"
 }
