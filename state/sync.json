@@ -5756,6 +5756,12 @@
         "target_video_id": "29179268",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-4",
+        "claimed_at": "2026-09-15T11:20:14.736630+00:00",
+        "lease_expires_at": "2026-09-15T17:20:14.736630+00:00",
+        "run_id": "34938164822"
       }
     },
     "20410": {
@@ -6054,6 +6060,12 @@
         "target_video_id": "29196549",
         "size_bytes": 42900000000,
         "prepared_at": "2026-09-07T20:17:35.671910+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-1",
+        "claimed_at": "2026-09-15T11:20:14.925845+00:00",
+        "lease_expires_at": "2026-09-15T17:20:14.925845+00:00",
+        "run_id": "34938164822"
       }
     },
     "32992": {
@@ -90474,14 +90486,6 @@
           "source_id": "34876843",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29400084",
-          "attempted_at": "2026-09-15T06:55:17.435331+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29401606",
           "attempted_at": "2026-09-15T09:33:25.164749+00:00"
         },
@@ -90491,23 +90495,20 @@
           "reason": "Request failed for https://sdilej.cz/34876843/padesatka-2015-cz-dabing-1080p-fhd.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-15T10:18:24.836657+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34876843",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29402820",
+          "attempted_at": "2026-09-15T11:20:17.110631+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-15T11:04:30.773078+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
-        "claimed_at": "2026-09-15T11:05:11.462404+00:00",
-        "lease_expires_at": "2026-09-15T17:05:11.462404+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29402820",
-        "size_bytes": 4183822080,
-        "prepared_at": "2026-09-15T11:05:18.499969+00:00"
       }
     },
     "32120": {
@@ -162266,5 +162267,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T11:20:12.671601+00:00"
+  "updated_at": "2026-09-15T11:20:17.110649+00:00"
 }
