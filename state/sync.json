@@ -11126,14 +11126,6 @@
     "646": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27650803",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29399943",
-          "attempted_at": "2026-09-15T06:43:50.596888+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27650803",
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
@@ -11147,23 +11139,20 @@
           "permanent": false,
           "target_video_id": "29400630",
           "attempted_at": "2026-09-15T08:07:22.585880+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27650803",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29401378",
+          "attempted_at": "2026-09-15T09:12:26.845179+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-15T08:52:35.612265+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
-        "claimed_at": "2026-09-15T08:54:49.192778+00:00",
-        "lease_expires_at": "2026-09-15T14:54:49.192778+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29401378",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-15T08:54:55.255654+00:00"
       }
     },
     "21307": {
@@ -65740,6 +65729,12 @@
         "target_video_id": "29129225",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T16:24:07.588950+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T09:12:26.564602+00:00",
+        "lease_expires_at": "2026-09-15T15:12:26.564602+00:00",
+        "run_id": "34938164822"
       }
     },
     "28400": {
@@ -162383,5 +162378,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T09:12:24.598801+00:00"
+  "updated_at": "2026-09-15T09:12:26.845195+00:00"
 }
