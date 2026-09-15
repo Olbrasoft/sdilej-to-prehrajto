@@ -47303,14 +47303,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27669370",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29401990",
-          "attempted_at": "2026-09-15T10:20:35.891190+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27669370",
           "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
@@ -47324,18 +47316,19 @@
           "permanent": false,
           "target_video_id": "29403016",
           "attempted_at": "2026-09-15T12:10:30.601128+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27669370",
+          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-15T12:45:26.077924+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-15T12:44:12.420241+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
-        "claimed_at": "2026-09-15T12:44:40.263865+00:00",
-        "lease_expires_at": "2026-09-15T18:44:40.263865+00:00",
-        "run_id": "34938164822"
       }
     },
     "18861": {
@@ -50633,6 +50626,12 @@
         "target_video_id": "29356052",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-13T19:27:35.494123+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-4",
+        "claimed_at": "2026-09-15T12:45:25.680493+00:00",
+        "lease_expires_at": "2026-09-15T18:45:25.680493+00:00",
+        "run_id": "34938164822"
       }
     },
     "28005": {
@@ -162289,5 +162288,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T12:45:23.696312+00:00"
+  "updated_at": "2026-09-15T12:45:26.077942+00:00"
 }
