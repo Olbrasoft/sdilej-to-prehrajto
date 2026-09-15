@@ -31611,6 +31611,12 @@
         "target_video_id": "29326088",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-12T14:44:55.024703+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-3",
+        "claimed_at": "2026-09-15T15:55:56.276122+00:00",
+        "lease_expires_at": "2026-09-15T21:55:56.276122+00:00",
+        "run_id": "34969920467"
       }
     },
     "30097": {
@@ -32142,6 +32148,12 @@
         "target_video_id": "29352490",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-13T15:56:18.008261+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-4",
+        "claimed_at": "2026-09-15T15:55:56.375375+00:00",
+        "lease_expires_at": "2026-09-15T21:55:56.375375+00:00",
+        "run_id": "34969920467"
       }
     },
     "28711": {
@@ -75732,13 +75744,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30673323",
-          "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T12:41:39.849820+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "30673323",
           "reason": "PrehrajtoError",
@@ -75753,23 +75758,20 @@
           "permanent": false,
           "target_video_id": "29405493",
           "attempted_at": "2026-09-15T14:30:10.023564+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29406479",
+          "attempted_at": "2026-09-15T15:55:58.373880+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-15T15:38:39.881646+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-2",
-        "claimed_at": "2026-09-15T15:44:58.695780+00:00",
-        "lease_expires_at": "2026-09-15T21:44:58.695780+00:00",
-        "run_id": "34969920467"
-      },
-      "prepared": {
-        "target_video_id": "29406479",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-15T15:45:02.712789+00:00"
       }
     },
     "14505": {
@@ -162525,5 +162527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T15:55:54.581077+00:00"
+  "updated_at": "2026-09-15T15:55:58.373898+00:00"
 }
