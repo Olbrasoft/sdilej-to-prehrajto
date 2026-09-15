@@ -36444,6 +36444,12 @@
         "target_video_id": "29174881",
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-07T00:18:01.934991+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
+        "claimed_at": "2026-09-15T01:03:55.645265+00:00",
+        "lease_expires_at": "2026-09-15T07:03:55.645265+00:00",
+        "run_id": "34881250586"
       }
     },
     "1604": {
@@ -36522,6 +36528,12 @@
         "target_video_id": "29174916",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-07T00:20:27.095531+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-3",
+        "claimed_at": "2026-09-15T01:03:55.809370+00:00",
+        "lease_expires_at": "2026-09-15T07:03:55.809370+00:00",
+        "run_id": "34881250586"
       }
     },
     "33160": {
@@ -79358,14 +79370,6 @@
           "source_id": "28404933",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29390209",
-          "attempted_at": "2026-09-14T21:22:48.653835+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28404933",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29391753",
           "attempted_at": "2026-09-14T22:49:08.136837+00:00"
         },
@@ -79376,23 +79380,20 @@
           "permanent": false,
           "target_video_id": "29392306",
           "attempted_at": "2026-09-14T23:32:46.954522+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28404933",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29393790",
+          "attempted_at": "2026-09-15T01:03:58.278908+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-15T00:53:43.430663+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-1",
-        "claimed_at": "2026-09-15T00:55:05.936864+00:00",
-        "lease_expires_at": "2026-09-15T06:55:05.936864+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29393790",
-        "size_bytes": 4353059444,
-        "prepared_at": "2026-09-15T00:55:08.933687+00:00"
       }
     },
     "23700": {
@@ -160176,5 +160177,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T01:03:53.965996+00:00"
+  "updated_at": "2026-09-15T01:03:58.278928+00:00"
 }
