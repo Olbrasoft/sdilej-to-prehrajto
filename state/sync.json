@@ -89338,6 +89338,12 @@
         "target_video_id": "29265117",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-10T06:26:06.572415+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
+        "claimed_at": "2026-09-15T11:04:54.000212+00:00",
+        "lease_expires_at": "2026-09-15T17:04:54.000212+00:00",
+        "run_id": "34938164822"
       }
     },
     "5513": {
@@ -89546,14 +89552,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "29955764",
-          "target_video_id": "29399428",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T06:46:42.496149+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29955764",
           "reason": "Request failed for https://sdilej.cz/29955764/temna-zrada-thriller-2021-cz-dab.mp4 (HTTP None)",
@@ -89566,17 +89564,20 @@
           "target_video_id": "29402311",
           "permanent": false,
           "attempted_at": "2026-09-15T10:22:02.318680+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "29955764",
+          "target_video_id": "29402311",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-15T11:04:57.026780+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-15T11:04:29.696564+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29402311",
-        "size_bytes": 2375786446,
-        "prepared_at": "2026-09-15T10:17:08.708011+00:00"
       }
     },
     "34620": {
@@ -89655,6 +89656,12 @@
         "target_video_id": "29265296",
         "size_bytes": 782700000,
         "prepared_at": "2026-09-10T06:36:13.549191+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T11:04:54.167758+00:00",
+        "lease_expires_at": "2026-09-15T17:04:54.167758+00:00",
+        "run_id": "34938164822"
       }
     },
     "14250": {
@@ -162291,5 +162298,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T11:04:51.907179+00:00"
+  "updated_at": "2026-09-15T11:04:57.026796+00:00"
 }
