@@ -89829,13 +89829,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29955764",
-          "reason": "Request failed for https://sdilej.cz/29955764/temna-zrada-thriller-2021-cz-dab.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T11:49:15.615955+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29955764",
           "target_video_id": "29404381",
@@ -89849,18 +89842,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T14:25:01.885233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29955764",
+          "target_video_id": "29405923",
+          "permanent": false,
+          "attempted_at": "2026-09-15T15:08:57.609128+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-15T14:55:26.970317+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-2",
-        "claimed_at": "2026-09-15T15:01:32.857462+00:00",
-        "lease_expires_at": "2026-09-15T21:01:32.857462+00:00",
-        "run_id": "34969920467"
       },
       "prepared": {
         "target_video_id": "29405923",
@@ -162531,5 +162525,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T15:08:55.749793+00:00"
+  "updated_at": "2026-09-15T15:08:57.609147+00:00"
 }
