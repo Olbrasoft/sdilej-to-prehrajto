@@ -25735,14 +25735,6 @@
     "1610": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "25506189",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29410475",
-          "attempted_at": "2026-09-15T20:38:49.344300+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "25506189",
           "target_video_id": "29411413",
@@ -25756,23 +25748,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T22:24:44.246277+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "25506189",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29412151",
+          "attempted_at": "2026-09-15T23:11:11.313104+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Trojúhelník smutku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-15T22:59:44.521731+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-2",
-        "claimed_at": "2026-09-15T23:01:32.425484+00:00",
-        "lease_expires_at": "2026-09-16T05:01:32.425484+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29412151",
-        "size_bytes": 3179399157,
-        "prepared_at": "2026-09-15T23:01:36.036759+00:00"
       }
     },
     "27583": {
@@ -97758,6 +97747,12 @@
         "target_video_id": "29351013",
         "size_bytes": 48400000000,
         "prepared_at": "2026-09-13T14:11:55.934205+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-5",
+        "claimed_at": "2026-09-15T23:11:08.583269+00:00",
+        "lease_expires_at": "2026-09-16T05:11:08.583269+00:00",
+        "run_id": "35007785513"
       }
     },
     "22836": {
@@ -163796,5 +163791,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T23:11:06.686827+00:00"
+  "updated_at": "2026-09-15T23:11:11.313125+00:00"
 }
