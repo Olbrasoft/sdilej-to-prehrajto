@@ -48805,13 +48805,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28441201",
-          "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T10:53:43.359640+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "28441201",
           "reason": "PrehrajtoError",
@@ -48825,18 +48818,19 @@
           "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-15T12:11:22.663635+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28441201",
+          "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-15T12:45:33.800504+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T12:44:13.110146+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
-        "claimed_at": "2026-09-15T12:44:47.996618+00:00",
-        "lease_expires_at": "2026-09-15T18:44:47.996618+00:00",
-        "run_id": "34938164822"
       }
     },
     "19162": {
@@ -51455,6 +51449,12 @@
         "target_video_id": "29311434",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-11T22:30:08.688541+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T12:45:33.239524+00:00",
+        "lease_expires_at": "2026-09-15T18:45:33.239524+00:00",
+        "run_id": "34938164822"
       }
     },
     "31193": {
@@ -162288,5 +162288,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T12:45:31.292650+00:00"
+  "updated_at": "2026-09-15T12:45:33.800520+00:00"
 }
