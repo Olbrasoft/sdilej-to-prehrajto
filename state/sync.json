@@ -4071,6 +4071,12 @@
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-2",
+        "claimed_at": "2026-09-15T03:35:39.272803+00:00",
+        "lease_expires_at": "2026-09-15T09:35:39.272803+00:00",
+        "run_id": "34915558459"
       }
     },
     "21939": {
@@ -4210,6 +4216,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
+        "claimed_at": "2026-09-15T03:35:39.430314+00:00",
+        "lease_expires_at": "2026-09-15T09:35:39.430314+00:00",
+        "run_id": "34915558459"
       }
     },
     "304": {
@@ -9368,14 +9380,6 @@
           "source_id": "26245114",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29394315",
-          "attempted_at": "2026-09-15T01:32:17.195599+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "26245114",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29395428",
           "attempted_at": "2026-09-15T02:12:49.297925+00:00"
         },
@@ -9386,23 +9390,20 @@
           "permanent": false,
           "target_video_id": "29396361",
           "attempted_at": "2026-09-15T02:52:53.742851+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29397136",
+          "attempted_at": "2026-09-15T03:35:41.509722+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-15T03:25:52.752032+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
-        "claimed_at": "2026-09-15T03:25:59.672132+00:00",
-        "lease_expires_at": "2026-09-15T09:25:59.672132+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29397136",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-15T03:26:03.256028+00:00"
       }
     },
     "18349": {
@@ -161110,5 +161111,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T03:35:37.735041+00:00"
+  "updated_at": "2026-09-15T03:35:41.509741+00:00"
 }
