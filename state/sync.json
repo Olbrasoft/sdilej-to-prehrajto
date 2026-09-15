@@ -12067,14 +12067,6 @@
     "527": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32277811",
-          "target_video_id": "29407254",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T18:12:25.714390+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32277811",
           "target_video_id": "29408996",
@@ -12088,18 +12080,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T19:38:31.940106+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32277811",
+          "target_video_id": "29410159",
+          "permanent": false,
+          "attempted_at": "2026-09-15T20:22:42.400590+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-15T20:10:25.540303+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-3",
-        "claimed_at": "2026-09-15T20:11:26.778891+00:00",
-        "lease_expires_at": "2026-09-16T02:11:26.778891+00:00",
-        "run_id": "35007785513"
       },
       "prepared": {
         "target_video_id": "29410159",
@@ -25333,6 +25326,12 @@
         "target_video_id": "29407660",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-15T17:03:10.331195+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
+        "claimed_at": "2026-09-15T20:22:41.698703+00:00",
+        "lease_expires_at": "2026-09-16T02:22:41.698703+00:00",
+        "run_id": "35007785513"
       }
     },
     "1640": {
@@ -163627,5 +163626,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T20:22:39.923922+00:00"
+  "updated_at": "2026-09-15T20:22:42.400613+00:00"
 }
