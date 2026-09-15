@@ -13597,6 +13597,12 @@
         "target_video_id": "29335601",
         "size_bytes": 9900000000,
         "prepared_at": "2026-09-13T01:55:43.908501+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-1",
+        "claimed_at": "2026-09-15T16:41:19.117271+00:00",
+        "lease_expires_at": "2026-09-15T22:41:19.117271+00:00",
+        "run_id": "34969920467"
       }
     },
     "801": {
@@ -57209,14 +57215,6 @@
           "source_id": "33708286",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29404881",
-          "attempted_at": "2026-09-15T13:51:48.803122+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "33708286",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29405694",
           "attempted_at": "2026-09-15T14:48:47.890643+00:00"
         },
@@ -57227,23 +57225,20 @@
           "permanent": false,
           "target_video_id": "29406360",
           "attempted_at": "2026-09-15T15:44:36.757736+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33708286",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29407180",
+          "attempted_at": "2026-09-15T16:41:21.251071+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T16:19:03.141854+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-2",
-        "claimed_at": "2026-09-15T16:34:24.271287+00:00",
-        "lease_expires_at": "2026-09-15T22:34:24.271287+00:00",
-        "run_id": "34969920467"
-      },
-      "prepared": {
-        "target_video_id": "29407180",
-        "size_bytes": 1484316578,
-        "prepared_at": "2026-09-15T16:34:29.918370+00:00"
       }
     },
     "35753": {
@@ -162530,5 +162525,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T16:41:13.632417+00:00"
+  "updated_at": "2026-09-15T16:41:21.251088+00:00"
 }
