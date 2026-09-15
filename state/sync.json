@@ -5600,6 +5600,12 @@
         "target_video_id": "29179195",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-07T06:07:40.264000+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
+        "claimed_at": "2026-09-15T07:35:46.155877+00:00",
+        "lease_expires_at": "2026-09-15T13:35:46.155877+00:00",
+        "run_id": "34938164822"
       }
     },
     "20578": {
@@ -5675,6 +5681,12 @@
         "target_video_id": "29179228",
         "size_bytes": 5500000000,
         "prepared_at": "2026-09-07T06:09:08.221736+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T07:35:46.381747+00:00",
+        "lease_expires_at": "2026-09-15T13:35:46.381747+00:00",
+        "run_id": "34938164822"
       }
     },
     "21203": {
@@ -5756,6 +5768,12 @@
         "target_video_id": "29179268",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-4",
+        "claimed_at": "2026-09-15T07:35:46.610046+00:00",
+        "lease_expires_at": "2026-09-15T13:35:46.610046+00:00",
+        "run_id": "34938164822"
       }
     },
     "20410": {
@@ -118902,17 +118920,19 @@
       "attempts": []
     },
     "30676": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10101216",
+          "target_video_id": "29400447",
+          "permanent": false,
+          "attempted_at": "2026-09-15T07:35:47.024491+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10101216",
         "display_name": "Včelka Mája: Medové hry (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-15T07:14:24.183393+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
-        "claimed_at": "2026-09-15T07:32:40.285909+00:00",
-        "lease_expires_at": "2026-09-15T13:32:40.285909+00:00",
-        "run_id": "34938164822"
       },
       "prepared": {
         "target_video_id": "29400447",
@@ -162183,5 +162203,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T07:35:44.282530+00:00"
+  "updated_at": "2026-09-15T07:35:47.024505+00:00"
 }
