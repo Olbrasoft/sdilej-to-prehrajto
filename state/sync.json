@@ -2422,6 +2422,12 @@
         "target_video_id": "29115694",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T09:32:55.944446+00:00",
+        "lease_expires_at": "2026-09-15T15:32:55.944446+00:00",
+        "run_id": "34938164822"
       }
     },
     "10669": {
@@ -2623,6 +2629,12 @@
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T09:32:56.129381+00:00",
+        "lease_expires_at": "2026-09-15T15:32:56.129381+00:00",
+        "run_id": "34938164822"
       }
     },
     "29255": {
@@ -101863,14 +101875,6 @@
           "source_id": "33811385",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29398718",
-          "attempted_at": "2026-09-15T05:01:23.927052+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "33811385",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29399484",
           "attempted_at": "2026-09-15T05:52:12.528250+00:00"
         },
@@ -101881,23 +101885,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T07:06:05.194699+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33811385",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29401668",
+          "attempted_at": "2026-09-15T09:32:58.634563+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33811385",
         "display_name": "Tři bratři (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-15T09:15:53.926284+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-2",
-        "claimed_at": "2026-09-15T09:17:51.816750+00:00",
-        "lease_expires_at": "2026-09-15T15:17:51.816750+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29401668",
-        "size_bytes": 2169437358,
-        "prepared_at": "2026-09-15T09:17:56.803690+00:00"
       }
     },
     "27094": {
@@ -162377,5 +162378,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T09:32:53.942152+00:00"
+  "updated_at": "2026-09-15T09:32:58.634577+00:00"
 }
