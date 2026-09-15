@@ -101895,14 +101895,6 @@
     "7753": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "33811385",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29399484",
-          "attempted_at": "2026-09-15T05:52:12.528250+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33811385",
           "target_video_id": "29400145",
@@ -101917,18 +101909,19 @@
           "permanent": false,
           "target_video_id": "29401668",
           "attempted_at": "2026-09-15T09:32:58.634563+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33811385",
+          "reason": "Request failed for https://sdilej.cz/33811385/tri-bratri-2014-pohadka-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-15T10:24:42.280597+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33811385",
         "display_name": "Tři bratři (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-15T10:23:19.355153+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-2",
-        "claimed_at": "2026-09-15T10:23:53.681089+00:00",
-        "lease_expires_at": "2026-09-15T16:23:53.681089+00:00",
-        "run_id": "34938164822"
       }
     },
     "27094": {
@@ -162386,5 +162379,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T10:24:37.272598+00:00"
+  "updated_at": "2026-09-15T10:24:42.280615+00:00"
 }
