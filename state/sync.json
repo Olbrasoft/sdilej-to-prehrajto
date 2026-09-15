@@ -107487,14 +107487,6 @@
           "source_id": "34722715",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29397839",
-          "attempted_at": "2026-09-15T04:16:52.186374+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34722715",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29398728",
           "attempted_at": "2026-09-15T05:06:08.517855+00:00"
         },
@@ -107505,23 +107497,20 @@
           "permanent": false,
           "target_video_id": "29399495",
           "attempted_at": "2026-09-15T05:56:22.524353+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34722715",
+          "target_video_id": "29400149",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-15T07:06:07.123532+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34722715",
         "display_name": "LEGO® příběh 2 (2019) 4K CZ Dabing",
         "planned_at": "2026-09-15T07:03:42.679022+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29400149",
-        "size_bytes": 4706803218,
-        "prepared_at": "2026-09-15T06:58:34.068158+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-4",
-        "claimed_at": "2026-09-15T07:06:02.144358+00:00",
-        "lease_expires_at": "2026-09-15T13:06:02.144358+00:00",
-        "run_id": "34938164822"
       }
     },
     "29490": {
@@ -161879,5 +161868,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T07:06:05.194715+00:00"
+  "updated_at": "2026-09-15T07:06:07.123550+00:00"
 }
