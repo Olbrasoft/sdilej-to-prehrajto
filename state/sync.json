@@ -2635,6 +2635,12 @@
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-4",
+        "claimed_at": "2026-09-15T06:14:38.173262+00:00",
+        "lease_expires_at": "2026-09-15T12:14:38.173262+00:00",
+        "run_id": "34915558459"
       }
     },
     "29255": {
@@ -113934,17 +113940,19 @@
       }
     },
     "11062": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673039",
+          "target_video_id": "29399742",
+          "permanent": false,
+          "attempted_at": "2026-09-15T06:14:38.420930+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673039",
         "display_name": "Krvavá zátoka (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T05:57:49.292965+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-2",
-        "claimed_at": "2026-09-15T06:13:07.889882+00:00",
-        "lease_expires_at": "2026-09-15T12:13:07.889882+00:00",
-        "run_id": "34915558459"
       },
       "prepared": {
         "target_video_id": "29399742",
@@ -161707,5 +161715,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T06:14:36.449747+00:00"
+  "updated_at": "2026-09-15T06:14:38.420946+00:00"
 }
