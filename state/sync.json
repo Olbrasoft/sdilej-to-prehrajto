@@ -18419,6 +18419,12 @@
         "target_video_id": "29118413",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-3",
+        "claimed_at": "2026-09-15T22:39:53.550336+00:00",
+        "lease_expires_at": "2026-09-16T04:39:53.550336+00:00",
+        "run_id": "35007785513"
       }
     },
     "14460": {
@@ -18490,6 +18496,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-4",
+        "claimed_at": "2026-09-15T22:39:53.397088+00:00",
+        "lease_expires_at": "2026-09-16T04:39:53.397088+00:00",
+        "run_id": "35007785513"
       }
     },
     "1109": {
@@ -18528,6 +18540,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-2",
+        "claimed_at": "2026-09-15T22:39:53.243261+00:00",
+        "lease_expires_at": "2026-09-16T04:39:53.243261+00:00",
+        "run_id": "35007785513"
       }
     },
     "22983": {
@@ -23676,14 +23694,6 @@
           "source_id": "34185179",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29410349",
-          "attempted_at": "2026-09-15T20:28:24.722863+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34185179",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29411144",
           "attempted_at": "2026-09-15T21:10:46.819365+00:00"
         },
@@ -23694,23 +23704,20 @@
           "permanent": false,
           "target_video_id": "29411593",
           "attempted_at": "2026-09-15T21:53:50.350820+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34185179",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29411965",
+          "attempted_at": "2026-09-15T22:39:55.933282+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34185179",
         "display_name": "人狼 JIN-ROH (1999) SD CZ Titulky",
         "planned_at": "2026-09-15T22:27:40.504617+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-15T22:33:12.508656+00:00",
-        "lease_expires_at": "2026-09-16T04:33:12.508656+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29411965",
-        "size_bytes": 1452748746,
-        "prepared_at": "2026-09-15T22:33:17.735350+00:00"
       }
     },
     "27576": {
@@ -163772,5 +163779,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T22:39:51.429828+00:00"
+  "updated_at": "2026-09-15T22:39:55.933303+00:00"
 }
