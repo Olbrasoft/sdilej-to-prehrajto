@@ -75452,14 +75452,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30673323",
-          "target_video_id": "29399941",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T07:11:04.270834+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "30673323",
           "reason": "PrehrajtoError",
@@ -75473,23 +75465,20 @@
           "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-15T10:07:25.285281+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29402750",
+          "attempted_at": "2026-09-15T11:09:56.181511+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-15T10:57:53.920709+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-2",
-        "claimed_at": "2026-09-15T10:59:16.561550+00:00",
-        "lease_expires_at": "2026-09-15T16:59:16.561550+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29402750",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-15T10:59:20.565124+00:00"
       }
     },
     "14505": {
@@ -107204,6 +107193,12 @@
         "target_video_id": "29372539",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-14T08:09:43.764246+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
+        "claimed_at": "2026-09-15T11:09:55.898767+00:00",
+        "lease_expires_at": "2026-09-15T17:09:55.898767+00:00",
+        "run_id": "34938164822"
       }
     },
     "5440": {
@@ -162307,5 +162302,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T11:09:53.873294+00:00"
+  "updated_at": "2026-09-15T11:09:56.181528+00:00"
 }
