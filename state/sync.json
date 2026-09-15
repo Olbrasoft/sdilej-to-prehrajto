@@ -35918,6 +35918,12 @@
         "target_video_id": "29173920",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-3",
+        "claimed_at": "2026-09-15T06:02:34.135777+00:00",
+        "lease_expires_at": "2026-09-15T12:02:34.135777+00:00",
+        "run_id": "34915558459"
       }
     },
     "27248": {
@@ -108129,14 +108135,6 @@
           "source_id": "31648533",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29392685",
-          "attempted_at": "2026-09-14T23:55:20.863897+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31648533",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29397843",
           "attempted_at": "2026-09-15T04:13:24.882755+00:00"
         },
@@ -108147,23 +108145,20 @@
           "permanent": false,
           "target_video_id": "29398733",
           "attempted_at": "2026-09-15T05:03:56.157731+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31648533",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29399533",
+          "attempted_at": "2026-09-15T06:02:36.183226+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31648533",
         "display_name": "Bláznivá střela 33 ⅓: Poslední trapas (1994) 4K CZ Dabing",
         "planned_at": "2026-09-15T05:43:53.318391+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
-        "claimed_at": "2026-09-15T05:49:41.129415+00:00",
-        "lease_expires_at": "2026-09-15T11:49:41.129415+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29399533",
-        "size_bytes": 3556885880,
-        "prepared_at": "2026-09-15T05:49:45.180092+00:00"
       }
     },
     "17426": {
@@ -161488,5 +161483,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T06:02:32.422554+00:00"
+  "updated_at": "2026-09-15T06:02:36.183247+00:00"
 }
