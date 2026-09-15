@@ -1609,6 +1609,12 @@
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T10:04:18.969132+00:00",
+        "lease_expires_at": "2026-09-15T16:04:18.969132+00:00",
+        "run_id": "34938164822"
       }
     },
     "21587": {
@@ -48812,14 +48818,6 @@
           "source_id": "28441201",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29400192",
-          "attempted_at": "2026-09-15T07:12:08.300287+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29400775",
           "attempted_at": "2026-09-15T08:19:47.051729+00:00"
         },
@@ -48830,23 +48828,20 @@
           "permanent": false,
           "target_video_id": "29401491",
           "attempted_at": "2026-09-15T09:13:05.915689+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29402098",
+          "attempted_at": "2026-09-15T10:04:21.598560+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-15T09:47:48.496116+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
-        "claimed_at": "2026-09-15T09:56:17.955217+00:00",
-        "lease_expires_at": "2026-09-15T15:56:17.955217+00:00",
-        "run_id": "34938164822"
-      },
-      "prepared": {
-        "target_video_id": "29402098",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-15T09:56:22.309936+00:00"
       }
     },
     "19162": {
@@ -162399,5 +162394,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T10:04:16.975763+00:00"
+  "updated_at": "2026-09-15T10:04:21.598596+00:00"
 }
