@@ -21394,6 +21394,12 @@
         "target_video_id": "29127917",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-05T09:17:42.572509+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-2",
+        "claimed_at": "2026-09-15T23:15:02.857636+00:00",
+        "lease_expires_at": "2026-09-16T05:15:02.857636+00:00",
+        "run_id": "35007785513"
       }
     },
     "20525": {
@@ -25396,14 +25402,6 @@
           "source_id": "32908053",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29410101",
-          "attempted_at": "2026-09-15T20:28:33.026676+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29411244",
           "attempted_at": "2026-09-15T21:30:39.543814+00:00"
         },
@@ -25414,23 +25412,20 @@
           "permanent": false,
           "target_video_id": "29411718",
           "attempted_at": "2026-09-15T22:23:07.599334+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32908053",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29412152",
+          "attempted_at": "2026-09-15T23:15:05.223446+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-15T22:59:44.365461+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-3",
-        "claimed_at": "2026-09-15T23:01:32.265813+00:00",
-        "lease_expires_at": "2026-09-16T05:01:32.265813+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29412152",
-        "size_bytes": 6447191434,
-        "prepared_at": "2026-09-15T23:01:37.944875+00:00"
       }
     },
     "1814": {
@@ -163796,5 +163791,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T23:14:56.984352+00:00"
+  "updated_at": "2026-09-15T23:15:05.223467+00:00"
 }
