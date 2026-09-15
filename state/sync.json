@@ -2422,6 +2422,12 @@
         "target_video_id": "29115694",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
+        "claimed_at": "2026-09-15T04:52:50.941027+00:00",
+        "lease_expires_at": "2026-09-15T10:52:50.941027+00:00",
+        "run_id": "34915558459"
       }
     },
     "10669": {
@@ -2623,6 +2629,12 @@
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
+        "claimed_at": "2026-09-15T04:52:51.090502+00:00",
+        "lease_expires_at": "2026-09-15T10:52:51.090502+00:00",
+        "run_id": "34915558459"
       }
     },
     "29255": {
@@ -90146,14 +90158,6 @@
     "8583": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34876843",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29392505",
-          "attempted_at": "2026-09-14T23:44:47.985301+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34876843",
           "target_video_id": "29393977",
@@ -90168,18 +90172,19 @@
           "permanent": false,
           "target_video_id": "29397581",
           "attempted_at": "2026-09-15T04:00:01.031201+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34876843",
+          "target_video_id": "29398671",
+          "permanent": false,
+          "attempted_at": "2026-09-15T04:52:51.230465+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34876843",
         "display_name": "Padesátka (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-15T04:47:50.185071+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-5",
-        "claimed_at": "2026-09-15T04:49:23.484578+00:00",
-        "lease_expires_at": "2026-09-15T10:49:23.484578+00:00",
-        "run_id": "34915558459"
       },
       "prepared": {
         "target_video_id": "29398671",
@@ -161294,5 +161299,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T04:52:49.391353+00:00"
+  "updated_at": "2026-09-15T04:52:51.230484+00:00"
 }
