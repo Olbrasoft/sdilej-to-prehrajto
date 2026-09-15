@@ -19090,6 +19090,12 @@
         "target_video_id": "29260125",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-10T02:31:57.475955+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
+        "claimed_at": "2026-09-15T05:14:15.492141+00:00",
+        "lease_expires_at": "2026-09-15T11:14:15.492141+00:00",
+        "run_id": "34915558459"
       }
     },
     "35068": {
@@ -20743,6 +20749,12 @@
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-5",
+        "claimed_at": "2026-09-15T05:14:15.322908+00:00",
+        "lease_expires_at": "2026-09-15T11:14:15.322908+00:00",
+        "run_id": "34915558459"
       }
     },
     "24202": {
@@ -38066,14 +38078,6 @@
           "source_id": "34933768",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29396517",
-          "attempted_at": "2026-09-15T03:02:44.130800+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34933768",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29397316",
           "attempted_at": "2026-09-15T03:44:07.202993+00:00"
         },
@@ -38084,23 +38088,20 @@
           "permanent": false,
           "target_video_id": "29398349",
           "attempted_at": "2026-09-15T04:31:56.189018+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29398852",
+          "attempted_at": "2026-09-15T05:14:16.960860+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-15T05:03:26.835573+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
-        "claimed_at": "2026-09-15T05:07:07.960401+00:00",
-        "lease_expires_at": "2026-09-15T11:07:07.960401+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29398852",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-15T05:07:11.318461+00:00"
       }
     },
     "31638": {
@@ -161422,5 +161423,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T05:14:13.843565+00:00"
+  "updated_at": "2026-09-15T05:14:16.960877+00:00"
 }
