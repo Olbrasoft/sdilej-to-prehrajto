@@ -1413,6 +1413,12 @@
         "target_video_id": "28927212",
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-06T04:39:14.354732+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-5",
+        "claimed_at": "2026-09-15T23:34:43.984661+00:00",
+        "lease_expires_at": "2026-09-16T05:34:43.984661+00:00",
+        "run_id": "35007785513"
       }
     },
     "99": {
@@ -1458,6 +1464,12 @@
         "target_video_id": "28928664",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T04:39:45.085335+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-3",
+        "claimed_at": "2026-09-15T23:34:44.274294+00:00",
+        "lease_expires_at": "2026-09-16T05:34:44.274294+00:00",
+        "run_id": "35007785513"
       }
     },
     "21566": {
@@ -1544,6 +1556,12 @@
         "target_video_id": "28928358",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-1",
+        "claimed_at": "2026-09-15T23:34:44.129843+00:00",
+        "lease_expires_at": "2026-09-16T05:34:44.129843+00:00",
+        "run_id": "35007785513"
       }
     },
     "21354": {
@@ -58806,14 +58824,6 @@
           "source_id": "34716525",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29410507",
-          "attempted_at": "2026-09-15T20:40:57.754208+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34716525",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29411456",
           "attempted_at": "2026-09-15T21:41:02.512621+00:00"
         },
@@ -58824,23 +58834,20 @@
           "permanent": false,
           "target_video_id": "29411935",
           "attempted_at": "2026-09-15T22:36:54.985481+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34716525",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29412543",
+          "attempted_at": "2026-09-15T23:34:46.810049+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716525",
         "display_name": "LADY NINJA ～青い影～ (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-15T23:21:02.582268+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-2",
-        "claimed_at": "2026-09-15T23:25:56.048115+00:00",
-        "lease_expires_at": "2026-09-16T05:25:56.048115+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29412543",
-        "size_bytes": 2777775058,
-        "prepared_at": "2026-09-15T23:26:00.320251+00:00"
       }
     },
     "31730": {
@@ -163806,5 +163813,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T23:34:42.242838+00:00"
+  "updated_at": "2026-09-15T23:34:46.810070+00:00"
 }
