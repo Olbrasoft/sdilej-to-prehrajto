@@ -63754,13 +63754,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34272442",
-          "reason": "Source detail has no authenticated download link; source_id=34272442",
-          "permanent": false,
-          "attempted_at": "2026-09-15T14:09:01.649175+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34272442",
           "reason": "PrehrajtoError",
@@ -63775,23 +63768,20 @@
           "permanent": false,
           "target_video_id": "29406373",
           "attempted_at": "2026-09-15T15:45:36.156767+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29407192",
+          "attempted_at": "2026-09-15T16:41:46.398233+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-15T16:19:04.347858+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-3",
-        "claimed_at": "2026-09-15T16:35:04.525730+00:00",
-        "lease_expires_at": "2026-09-15T22:35:04.525730+00:00",
-        "run_id": "34969920467"
-      },
-      "prepared": {
-        "target_video_id": "29407192",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-15T16:35:08.846759+00:00"
       }
     },
     "24337": {
@@ -162558,5 +162548,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T16:41:44.662099+00:00"
+  "updated_at": "2026-09-15T16:41:46.398252+00:00"
 }
