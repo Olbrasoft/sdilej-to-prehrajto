@@ -116301,13 +116301,6 @@
     "15143": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "26447974",
-          "target_video_id": "29315334",
-          "permanent": false,
-          "attempted_at": "2026-09-12T03:35:33.399793+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "26447974",
           "target_video_id": "29315334",
@@ -116322,18 +116315,19 @@
           "permanent": false,
           "target_video_id": "29402925",
           "attempted_at": "2026-09-15T11:26:44.700360+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26447974",
+          "reason": "Request failed for https://sdilej.cz/26447974/30.noches.con.mi.ex.webrip.cz.es.2022.720p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-15T12:23:30.426565+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26447974",
         "display_name": "Na 30 dní zase spolu (2022) 720p CZ Titulky",
         "planned_at": "2026-09-15T12:14:36.150528+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-5",
-        "claimed_at": "2026-09-15T12:22:44.603567+00:00",
-        "lease_expires_at": "2026-09-15T18:22:44.603567+00:00",
-        "run_id": "34938164822"
       }
     },
     "13504": {
@@ -117355,6 +117349,12 @@
         "target_video_id": "29238524",
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-09T09:37:22.890375+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-1",
+        "claimed_at": "2026-09-15T12:23:28.495286+00:00",
+        "lease_expires_at": "2026-09-15T18:23:28.495286+00:00",
+        "run_id": "34938164822"
       }
     },
     "4923": {
@@ -162251,5 +162251,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T12:23:26.481395+00:00"
+  "updated_at": "2026-09-15T12:23:30.426593+00:00"
 }
