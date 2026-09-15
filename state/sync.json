@@ -24708,6 +24708,12 @@
         "target_video_id": "29308256",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-11T19:49:42.002593+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-1",
+        "claimed_at": "2026-09-15T18:16:47.153311+00:00",
+        "lease_expires_at": "2026-09-16T00:16:47.153311+00:00",
+        "run_id": "34969920467"
       }
     },
     "30131": {
@@ -34691,17 +34697,19 @@
       "attempts": []
     },
     "1984": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11152529",
+          "target_video_id": "29408295",
+          "permanent": false,
+          "attempted_at": "2026-09-15T18:16:47.421797+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11152529",
         "display_name": "Diagnóza: Šampión (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-15T17:14:56.590747+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-0",
-        "claimed_at": "2026-09-15T17:50:43.950878+00:00",
-        "lease_expires_at": "2026-09-15T23:50:43.950878+00:00",
-        "run_id": "34969920467"
       },
       "prepared": {
         "target_video_id": "29408295",
@@ -163000,5 +163008,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T18:16:41.888624+00:00"
+  "updated_at": "2026-09-15T18:16:47.421814+00:00"
 }
