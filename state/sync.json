@@ -8161,6 +8161,12 @@
         "target_video_id": "29210906",
         "size_bytes": 25900000000,
         "prepared_at": "2026-09-08T10:02:40.091490+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-4",
+        "claimed_at": "2026-09-15T01:02:39.170938+00:00",
+        "lease_expires_at": "2026-09-15T07:02:39.170938+00:00",
+        "run_id": "34881250586"
       }
     },
     "452": {
@@ -8326,6 +8332,12 @@
         "target_video_id": "29211713",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-08T10:42:49.731783+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-3",
+        "claimed_at": "2026-09-15T01:02:39.005798+00:00",
+        "lease_expires_at": "2026-09-15T07:02:39.005798+00:00",
+        "run_id": "34881250586"
       }
     },
     "492": {
@@ -24556,6 +24568,12 @@
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-15T01:01:10.738883+00:00"
+      },
+      "claim": {
+        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-5",
+        "claimed_at": "2026-09-15T01:02:39.352116+00:00",
+        "lease_expires_at": "2026-09-15T07:02:39.352116+00:00",
+        "run_id": "34881250586"
       }
     },
     "1814": {
@@ -74117,14 +74135,6 @@
           "source_id": "30673323",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29390957",
-          "attempted_at": "2026-09-14T22:00:06.274443+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "30673323",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29391706",
           "attempted_at": "2026-09-14T22:47:00.476954+00:00"
         },
@@ -74135,23 +74145,20 @@
           "permanent": false,
           "target_video_id": "29392307",
           "attempted_at": "2026-09-14T23:30:09.084910+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30673323",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29393761",
+          "attempted_at": "2026-09-15T01:02:41.277197+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-15T00:51:18.158115+00:00"
-      },
-      "claim": {
-        "worker_id": "32feac12b9ae4269b1940cd41673d68e-shard-0",
-        "claimed_at": "2026-09-15T00:53:31.230585+00:00",
-        "lease_expires_at": "2026-09-15T06:53:31.230585+00:00",
-        "run_id": "34881250586"
-      },
-      "prepared": {
-        "target_video_id": "29393761",
-        "size_bytes": 2257794864,
-        "prepared_at": "2026-09-15T00:53:37.012205+00:00"
       }
     },
     "14505": {
@@ -160130,5 +160137,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T01:02:37.366304+00:00"
+  "updated_at": "2026-09-15T01:02:41.277218+00:00"
 }
