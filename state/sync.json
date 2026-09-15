@@ -47603,6 +47603,12 @@
         "target_video_id": "29141791",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-0",
+        "claimed_at": "2026-09-15T06:56:42.290666+00:00",
+        "lease_expires_at": "2026-09-15T12:56:42.290666+00:00",
+        "run_id": "34915558459"
       }
     },
     "2558": {
@@ -48064,6 +48070,12 @@
         "target_video_id": "29355276",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-13T18:44:42.438582+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-5",
+        "claimed_at": "2026-09-15T06:56:42.423360+00:00",
+        "lease_expires_at": "2026-09-15T12:56:42.423360+00:00",
+        "run_id": "34915558459"
       }
     },
     "2577": {
@@ -92761,14 +92773,6 @@
           "source_id": "29628821",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29397652",
-          "attempted_at": "2026-09-15T04:02:25.943494+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "29628821",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29398693",
           "attempted_at": "2026-09-15T05:00:17.017907+00:00"
         },
@@ -92779,23 +92783,20 @@
           "permanent": false,
           "target_video_id": "29399441",
           "attempted_at": "2026-09-15T05:49:36.477540+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "29628821",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29400090",
+          "attempted_at": "2026-09-15T06:56:44.410656+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-15T06:43:07.975340+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-4",
-        "claimed_at": "2026-09-15T06:48:41.624193+00:00",
-        "lease_expires_at": "2026-09-15T12:48:41.624193+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29400090",
-        "size_bytes": 3574555275,
-        "prepared_at": "2026-09-15T06:48:46.041119+00:00"
       }
     },
     "32728": {
@@ -161854,5 +161855,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T06:56:40.671635+00:00"
+  "updated_at": "2026-09-15T06:56:44.410674+00:00"
 }
