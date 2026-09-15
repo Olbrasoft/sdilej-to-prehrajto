@@ -7990,6 +7990,12 @@
         "target_video_id": "29210666",
         "size_bytes": 17200000000,
         "prepared_at": "2026-09-08T09:49:03.450755+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T12:28:51.695569+00:00",
+        "lease_expires_at": "2026-09-15T18:28:51.695569+00:00",
+        "run_id": "34938164822"
       }
     },
     "488": {
@@ -8161,6 +8167,12 @@
         "target_video_id": "29210906",
         "size_bytes": 25900000000,
         "prepared_at": "2026-09-08T10:02:40.091490+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-3",
+        "claimed_at": "2026-09-15T12:28:51.896108+00:00",
+        "lease_expires_at": "2026-09-15T18:28:51.896108+00:00",
+        "run_id": "34938164822"
       }
     },
     "452": {
@@ -119798,18 +119810,19 @@
           "reason": "Request failed for https://sdilej.cz/33772630/pesti-smrti-1976-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-12T01:27:57.640498+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33772630",
+          "target_video_id": "29403783",
+          "permanent": false,
+          "attempted_at": "2026-09-15T12:28:52.318111+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33772630",
         "display_name": "Pěsti smrti (1976) 1080p CZ Dabing",
         "planned_at": "2026-09-15T12:14:38.011806+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-1",
-        "claimed_at": "2026-09-15T12:24:42.993163+00:00",
-        "lease_expires_at": "2026-09-15T18:24:42.993163+00:00",
-        "run_id": "34938164822"
       },
       "prepared": {
         "target_video_id": "29403783",
@@ -162200,5 +162213,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T12:28:49.714439+00:00"
+  "updated_at": "2026-09-15T12:28:52.318127+00:00"
 }
