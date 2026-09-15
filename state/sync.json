@@ -63450,13 +63450,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34272442",
-          "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T09:12:03.463553+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34272442",
           "reason": "PrehrajtoError",
@@ -63471,18 +63464,19 @@
           "permanent": false,
           "target_video_id": "29402687",
           "attempted_at": "2026-09-15T11:02:47.718227+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34272442",
+          "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-15T11:45:57.919275+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-15T11:36:30.264474+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-4",
-        "claimed_at": "2026-09-15T11:45:05.094685+00:00",
-        "lease_expires_at": "2026-09-15T17:45:05.094685+00:00",
-        "run_id": "34938164822"
       }
     },
     "24337": {
@@ -77645,6 +77639,12 @@
         "target_video_id": "29309957",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-11T21:08:59.215617+00:00"
+      },
+      "claim": {
+        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
+        "claimed_at": "2026-09-15T11:45:57.750484+00:00",
+        "lease_expires_at": "2026-09-15T17:45:57.750484+00:00",
+        "run_id": "34938164822"
       }
     },
     "22629": {
@@ -162258,5 +162258,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T11:45:50.551419+00:00"
+  "updated_at": "2026-09-15T11:45:57.919294+00:00"
 }
