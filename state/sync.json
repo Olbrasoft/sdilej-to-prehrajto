@@ -8403,6 +8403,12 @@
         "target_video_id": "29211821",
         "size_bytes": 9700000000,
         "prepared_at": "2026-09-08T10:51:41.824381+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-4",
+        "claimed_at": "2026-09-15T13:03:32.284752+00:00",
+        "lease_expires_at": "2026-09-15T19:03:32.284752+00:00",
+        "run_id": "34969920467"
       }
     },
     "11559": {
@@ -8452,6 +8458,12 @@
         "target_video_id": "29211832",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-08T10:53:13.844748+00:00"
+      },
+      "claim": {
+        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-5",
+        "claimed_at": "2026-09-15T13:03:32.128174+00:00",
+        "lease_expires_at": "2026-09-15T19:03:32.128174+00:00",
+        "run_id": "34969920467"
       }
     },
     "34379": {
@@ -57588,17 +57600,19 @@
       }
     },
     "31730": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34788913",
+          "target_video_id": "29404212",
+          "permanent": false,
+          "attempted_at": "2026-09-15T13:03:32.840044+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788913",
         "display_name": "Posledná bosorka (1957) 1080p CZ Dabing",
         "planned_at": "2026-09-15T12:54:17.745973+00:00"
-      },
-      "claim": {
-        "worker_id": "fbdb3bdda35b44f78a9aefb0fa255040-shard-3",
-        "claimed_at": "2026-09-15T12:54:47.307464+00:00",
-        "lease_expires_at": "2026-09-15T18:54:47.307464+00:00",
-        "run_id": "34969920467"
       },
       "prepared": {
         "target_video_id": "29404212",
@@ -162409,5 +162423,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T13:03:28.369507+00:00"
+  "updated_at": "2026-09-15T13:03:32.840064+00:00"
 }
