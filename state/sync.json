@@ -12055,13 +12055,6 @@
     "527": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32277811",
-          "reason": "Request failed for https://sdilej.cz/32277811/jak-vycvicit-draka-2025-uhdr-dv-cz-en.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T08:56:10.270747+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32277811",
           "target_video_id": "29401917",
@@ -12075,18 +12068,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T10:34:48.252501+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32277811",
+          "target_video_id": "29402839",
+          "permanent": false,
+          "attempted_at": "2026-09-15T11:17:05.766904+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-15T11:07:26.770948+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b609de0a0d44bea184d9388c71e232-shard-0",
-        "claimed_at": "2026-09-15T11:07:51.282405+00:00",
-        "lease_expires_at": "2026-09-15T17:07:51.282405+00:00",
-        "run_id": "34938164822"
       },
       "prepared": {
         "target_video_id": "29402839",
@@ -162318,5 +162312,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T11:10:06.706296+00:00"
+  "updated_at": "2026-09-15T11:17:05.766920+00:00"
 }
