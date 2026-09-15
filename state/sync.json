@@ -2764,6 +2764,12 @@
         "target_video_id": "29115993",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-05T18:33:16.338254+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-1",
+        "claimed_at": "2026-09-15T04:21:35.093061+00:00",
+        "lease_expires_at": "2026-09-15T10:21:35.093061+00:00",
+        "run_id": "34915558459"
       }
     },
     "223": {
@@ -3307,6 +3313,12 @@
         "target_video_id": "29122398",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T06:00:28.711519+00:00"
+      },
+      "claim": {
+        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-2",
+        "claimed_at": "2026-09-15T04:21:35.244560+00:00",
+        "lease_expires_at": "2026-09-15T10:21:35.244560+00:00",
+        "run_id": "34915558459"
       }
     },
     "22398": {
@@ -110269,14 +110281,6 @@
           "source_id": "27345611",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29391101",
-          "attempted_at": "2026-09-14T22:09:41.314180+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27345611",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29392070",
           "attempted_at": "2026-09-14T23:09:22.409423+00:00"
         },
@@ -110287,23 +110291,20 @@
           "permanent": false,
           "target_video_id": "29392721",
           "attempted_at": "2026-09-14T23:55:07.947699+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27345611",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29398075",
+          "attempted_at": "2026-09-15T04:21:35.413785+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27345611",
         "display_name": "Ztracená rodina (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-15T04:04:19.894247+00:00"
-      },
-      "claim": {
-        "worker_id": "527084c9db0646d7b465927b82a495b4-shard-5",
-        "claimed_at": "2026-09-15T04:13:14.931204+00:00",
-        "lease_expires_at": "2026-09-15T10:13:14.931204+00:00",
-        "run_id": "34915558459"
-      },
-      "prepared": {
-        "target_video_id": "29398075",
-        "size_bytes": 2549552087,
-        "prepared_at": "2026-09-15T04:13:19.279649+00:00"
       }
     },
     "27697": {
@@ -161336,5 +161337,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-15T04:21:33.584217+00:00"
+  "updated_at": "2026-09-15T04:21:35.413802+00:00"
 }
