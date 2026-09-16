@@ -31773,14 +31773,6 @@
           "source_id": "34817688",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29416893",
-          "attempted_at": "2026-09-16T05:18:54.220393+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29419548",
           "attempted_at": "2026-09-16T07:41:34.235595+00:00"
         },
@@ -31791,23 +31783,20 @@
           "permanent": false,
           "target_video_id": "29422726",
           "attempted_at": "2026-09-16T11:07:53.803051+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34817688",
+          "target_video_id": "29427557",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-16T12:17:07.419947+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-16T12:16:45.081059+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29427557",
-        "size_bytes": 4157137566,
-        "prepared_at": "2026-09-16T11:59:01.759166+00:00"
-      },
-      "claim": {
-        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-3",
-        "claimed_at": "2026-09-16T12:16:56.210417+00:00",
-        "lease_expires_at": "2026-09-16T18:16:56.210417+00:00",
-        "run_id": "35090261785"
       }
     },
     "19227": {
@@ -165059,5 +165048,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T12:17:05.527863+00:00"
+  "updated_at": "2026-09-16T12:17:07.419973+00:00"
 }
