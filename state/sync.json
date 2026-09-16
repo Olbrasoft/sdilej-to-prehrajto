@@ -41101,13 +41101,6 @@
     "1279": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34912011",
-          "reason": "Request failed for https://sdilej.cz/34912011/knoflikari-1997-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-16T10:58:34.973162+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34912011",
           "target_video_id": "29427702",
@@ -41120,6 +41113,13 @@
           "target_video_id": "29427702",
           "permanent": false,
           "attempted_at": "2026-09-16T13:49:35.744541+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34912011",
+          "target_video_id": "29427702",
+          "permanent": false,
+          "attempted_at": "2026-09-16T15:37:32.396440+00:00"
         }
       ],
       "last_plan": {
@@ -41131,12 +41131,6 @@
         "target_video_id": "29427702",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-16T12:04:55.705666+00:00"
-      },
-      "claim": {
-        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-3",
-        "claimed_at": "2026-09-16T15:37:28.081018+00:00",
-        "lease_expires_at": "2026-09-16T21:37:28.081018+00:00",
-        "run_id": "35090261785"
       }
     },
     "15283": {
@@ -166056,5 +166050,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T15:37:30.442647+00:00"
+  "updated_at": "2026-09-16T15:37:32.396461+00:00"
 }
