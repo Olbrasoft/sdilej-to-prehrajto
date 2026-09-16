@@ -40745,6 +40745,12 @@
         "target_video_id": "29156718",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
+      },
+      "claim": {
+        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-3",
+        "claimed_at": "2026-09-16T15:37:12.214638+00:00",
+        "lease_expires_at": "2026-09-16T21:37:12.214638+00:00",
+        "run_id": "35090261785"
       }
     },
     "1871": {
@@ -40849,13 +40855,6 @@
     "19268": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "10595935",
-          "reason": "Request failed for https://sdilej.cz/10595935/conor-mcgregor-notorious-cz-tit..mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-16T10:56:08.876256+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "10595935",
           "target_video_id": "29427630",
@@ -40868,6 +40867,13 @@
           "target_video_id": "29427630",
           "permanent": false,
           "attempted_at": "2026-09-16T13:49:16.340801+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10595935",
+          "target_video_id": "29427630",
+          "permanent": false,
+          "attempted_at": "2026-09-16T15:37:15.011369+00:00"
         }
       ],
       "last_plan": {
@@ -166050,5 +166056,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T15:37:10.171460+00:00"
+  "updated_at": "2026-09-16T15:37:15.011386+00:00"
 }
