@@ -5756,6 +5756,12 @@
         "target_video_id": "29179268",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
+      },
+      "claim": {
+        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-2",
+        "claimed_at": "2026-09-16T15:21:37.175995+00:00",
+        "lease_expires_at": "2026-09-16T21:21:37.175995+00:00",
+        "run_id": "35090261785"
       }
     },
     "20410": {
@@ -6186,6 +6192,12 @@
         "target_video_id": "29203262",
         "size_bytes": 13100000000,
         "prepared_at": "2026-09-08T03:30:17.562857+00:00"
+      },
+      "claim": {
+        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-0",
+        "claimed_at": "2026-09-16T15:21:37.376091+00:00",
+        "lease_expires_at": "2026-09-16T21:21:37.376091+00:00",
+        "run_id": "35090261785"
       }
     },
     "388": {
@@ -47337,17 +47349,19 @@
       "attempts": []
     },
     "29686": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31626274",
+          "target_video_id": "29430070",
+          "permanent": false,
+          "attempted_at": "2026-09-16T15:21:37.536310+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31626274",
         "display_name": "Rande na oko (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-16T14:03:58.892222+00:00"
-      },
-      "claim": {
-        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-1",
-        "claimed_at": "2026-09-16T15:00:51.915847+00:00",
-        "lease_expires_at": "2026-09-16T21:00:51.915847+00:00",
-        "run_id": "35090261785"
       },
       "prepared": {
         "target_video_id": "29430070",
@@ -166012,5 +166026,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T15:21:35.287179+00:00"
+  "updated_at": "2026-09-16T15:21:37.536343+00:00"
 }
