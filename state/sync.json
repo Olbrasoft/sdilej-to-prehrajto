@@ -28387,14 +28387,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28711738",
-          "target_video_id": "29413931",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-16T02:05:03.086338+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28711738",
           "target_video_id": "29414917",
@@ -28408,18 +28400,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-16T03:29:50.189872+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28711738",
+          "target_video_id": "29416706",
+          "permanent": false,
+          "attempted_at": "2026-09-16T04:53:11.153953+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-16T04:16:51.144843+00:00"
-      },
-      "claim": {
-        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-2",
-        "claimed_at": "2026-09-16T04:28:33.922136+00:00",
-        "lease_expires_at": "2026-09-16T10:28:33.922136+00:00",
-        "run_id": "35035465228"
       },
       "prepared": {
         "target_video_id": "29416706",
@@ -39370,6 +39363,12 @@
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-16T04:43:00.367528+00:00"
+      },
+      "claim": {
+        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-4",
+        "claimed_at": "2026-09-16T04:53:09.755589+00:00",
+        "lease_expires_at": "2026-09-16T10:53:09.755589+00:00",
+        "run_id": "35035465228"
       }
     },
     "31638": {
@@ -164355,5 +164354,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T04:53:08.069258+00:00"
+  "updated_at": "2026-09-16T04:53:11.153969+00:00"
 }
