@@ -39383,14 +39383,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34933768",
-          "target_video_id": "29423860",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-16T12:01:04.086916+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34933768",
           "reason": "PrehrajtoError",
@@ -39405,18 +39397,19 @@
           "permanent": false,
           "target_video_id": "29430632",
           "attempted_at": "2026-09-16T15:54:06.872334+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34933768",
+          "target_video_id": "29431702",
+          "permanent": false,
+          "attempted_at": "2026-09-16T16:48:20.879105+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-16T16:37:47.387507+00:00"
-      },
-      "claim": {
-        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-1",
-        "claimed_at": "2026-09-16T16:39:33.605534+00:00",
-        "lease_expires_at": "2026-09-16T22:39:33.605534+00:00",
-        "run_id": "35090261785"
       },
       "prepared": {
         "target_video_id": "29431702",
@@ -166351,5 +166344,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T16:47:39.575355+00:00"
+  "updated_at": "2026-09-16T16:48:20.879126+00:00"
 }
