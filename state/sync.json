@@ -12065,14 +12065,6 @@
     "527": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32277811",
-          "target_video_id": "29433339",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-16T19:18:55.234287+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32277811",
           "target_video_id": "29435413",
@@ -12086,18 +12078,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-16T21:15:21.817353+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32277811",
+          "target_video_id": "29437668",
+          "permanent": false,
+          "attempted_at": "2026-09-16T22:22:03.308209+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-16T21:45:35.083117+00:00"
-      },
-      "claim": {
-        "worker_id": "7924327a2e4245faa5196139293bbf1b-shard-2",
-        "claimed_at": "2026-09-16T21:47:36.938727+00:00",
-        "lease_expires_at": "2026-09-17T03:47:36.938727+00:00",
-        "run_id": "35127889092"
       },
       "prepared": {
         "target_video_id": "29437668",
@@ -166878,5 +166871,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T22:18:38.291324+00:00"
+  "updated_at": "2026-09-16T22:22:03.308230+00:00"
 }
