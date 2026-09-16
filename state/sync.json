@@ -51425,14 +51425,6 @@
     "36727": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "6365016",
-          "target_video_id": "29433252",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-16T18:11:52.493344+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "6365016",
           "reason": "PrehrajtoError",
@@ -51447,23 +51439,20 @@
           "permanent": false,
           "target_video_id": "29436550",
           "attempted_at": "2026-09-16T21:24:58.586389+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29438147",
+          "attempted_at": "2026-09-16T22:31:33.338128+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-16T22:12:22.183584+00:00"
-      },
-      "claim": {
-        "worker_id": "7924327a2e4245faa5196139293bbf1b-shard-5",
-        "claimed_at": "2026-09-16T22:15:18.926379+00:00",
-        "lease_expires_at": "2026-09-17T04:15:18.926379+00:00",
-        "run_id": "35127889092"
-      },
-      "prepared": {
-        "target_video_id": "29438147",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-16T22:15:23.013473+00:00"
       }
     },
     "24796": {
@@ -166886,5 +166875,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T22:27:48.680078+00:00"
+  "updated_at": "2026-09-16T22:31:33.338148+00:00"
 }
