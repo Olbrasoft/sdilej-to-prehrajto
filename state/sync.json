@@ -25776,13 +25776,6 @@
     "1610": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "25506189",
-          "target_video_id": "29423396",
-          "permanent": false,
-          "attempted_at": "2026-09-16T10:57:30.909369+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "25506189",
           "target_video_id": "29423396",
@@ -25796,17 +25789,20 @@
           "target_video_id": "29428896",
           "permanent": false,
           "attempted_at": "2026-09-16T13:46:39.289530+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "25506189",
+          "target_video_id": "29428896",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-16T15:30:31.163152+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Trojúhelník smutku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-16T15:23:02.656845+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29428896",
-        "size_bytes": 3179399157,
-        "prepared_at": "2026-09-16T13:32:35.795499+00:00"
       }
     },
     "27583": {
@@ -166050,5 +166046,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T15:30:18.749094+00:00"
+  "updated_at": "2026-09-16T15:30:31.163169+00:00"
 }
