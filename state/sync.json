@@ -11124,14 +11124,6 @@
           "source_id": "27650803",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29416311",
-          "attempted_at": "2026-09-16T04:53:12.993237+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27650803",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29419487",
           "attempted_at": "2026-09-16T07:58:52.008671+00:00"
         },
@@ -11142,23 +11134,20 @@
           "permanent": false,
           "target_video_id": "29423266",
           "attempted_at": "2026-09-16T11:28:54.691329+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "27650803",
+          "target_video_id": "29427575",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-16T12:17:11.221846+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-16T12:16:44.841669+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29427575",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-16T11:59:48.406579+00:00"
-      },
-      "claim": {
-        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-1",
-        "claimed_at": "2026-09-16T12:16:56.102426+00:00",
-        "lease_expires_at": "2026-09-16T18:16:56.102426+00:00",
-        "run_id": "35090261785"
       }
     },
     "21307": {
@@ -165049,5 +165038,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T12:17:09.426598+00:00"
+  "updated_at": "2026-09-16T12:17:11.221880+00:00"
 }
