@@ -6054,6 +6054,12 @@
         "target_video_id": "29196549",
         "size_bytes": 42900000000,
         "prepared_at": "2026-09-07T20:17:35.671910+00:00"
+      },
+      "claim": {
+        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-4",
+        "claimed_at": "2026-09-16T00:11:42.342864+00:00",
+        "lease_expires_at": "2026-09-16T06:11:42.342864+00:00",
+        "run_id": "35007785513"
       }
     },
     "32992": {
@@ -39301,14 +39307,6 @@
           "source_id": "34933768",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29411679",
-          "attempted_at": "2026-09-15T22:10:09.503537+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34933768",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29412028",
           "attempted_at": "2026-09-15T22:49:28.062087+00:00"
         },
@@ -39319,23 +39317,20 @@
           "permanent": false,
           "target_video_id": "29412415",
           "attempted_at": "2026-09-15T23:31:38.432866+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29413044",
+          "attempted_at": "2026-09-16T00:11:44.768003+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-16T00:03:00.439890+00:00"
-      },
-      "claim": {
-        "worker_id": "17b242b65a324ce2ab686064b2023718-shard-0",
-        "claimed_at": "2026-09-16T00:03:09.873301+00:00",
-        "lease_expires_at": "2026-09-16T06:03:09.873301+00:00",
-        "run_id": "35007785513"
-      },
-      "prepared": {
-        "target_video_id": "29413044",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-16T00:03:13.667141+00:00"
       }
     },
     "31638": {
@@ -163817,5 +163812,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T00:11:40.545390+00:00"
+  "updated_at": "2026-09-16T00:11:44.768025+00:00"
 }
