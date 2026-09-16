@@ -12097,6 +12097,12 @@
         "target_video_id": "29431183",
         "size_bytes": 6105495955,
         "prepared_at": "2026-09-16T16:10:38.894501+00:00"
+      },
+      "claim": {
+        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-3",
+        "claimed_at": "2026-09-16T17:33:40.831849+00:00",
+        "lease_expires_at": "2026-09-16T23:33:40.831849+00:00",
+        "run_id": "35090261785"
       }
     },
     "652": {
@@ -49632,17 +49638,19 @@
       }
     },
     "18020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34780351",
+          "target_video_id": "29432566",
+          "permanent": false,
+          "attempted_at": "2026-09-16T17:33:41.286597+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34780351",
         "display_name": "Dítě džungle (2011) SD CZ Titulky",
         "planned_at": "2026-09-16T16:37:54.302174+00:00"
-      },
-      "claim": {
-        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-5",
-        "claimed_at": "2026-09-16T17:27:46.003968+00:00",
-        "lease_expires_at": "2026-09-16T23:27:46.003968+00:00",
-        "run_id": "35090261785"
       },
       "prepared": {
         "target_video_id": "29432566",
@@ -166471,5 +166479,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T17:33:34.106353+00:00"
+  "updated_at": "2026-09-16T17:33:41.286614+00:00"
 }
