@@ -54374,14 +54374,6 @@
           "source_id": "31639655",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29415590",
-          "attempted_at": "2026-09-16T03:39:05.270242+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31639655",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29433398",
           "attempted_at": "2026-09-16T18:37:10.226377+00:00"
         },
@@ -54391,17 +54383,20 @@
           "target_video_id": "29435045",
           "permanent": false,
           "attempted_at": "2026-09-16T20:02:22.353438+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "31639655",
+          "target_video_id": "29435045",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-16T21:08:19.877066+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-16T20:52:13.825850+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29435045",
-        "size_bytes": 2100917827,
-        "prepared_at": "2026-09-16T19:53:48.674325+00:00"
       }
     },
     "32398": {
@@ -166864,5 +166859,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T21:08:14.488088+00:00"
+  "updated_at": "2026-09-16T21:08:19.877087+00:00"
 }
