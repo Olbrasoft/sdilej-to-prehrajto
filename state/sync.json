@@ -11933,6 +11933,12 @@
         "target_video_id": "29338368",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
+      },
+      "claim": {
+        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-0",
+        "claimed_at": "2026-09-16T01:07:30.693011+00:00",
+        "lease_expires_at": "2026-09-16T07:07:30.693011+00:00",
+        "run_id": "35035465228"
       }
     },
     "23132": {
@@ -13586,6 +13592,12 @@
         "target_video_id": "29335601",
         "size_bytes": 9900000000,
         "prepared_at": "2026-09-13T01:55:43.908501+00:00"
+      },
+      "claim": {
+        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-1",
+        "claimed_at": "2026-09-16T01:07:30.832486+00:00",
+        "lease_expires_at": "2026-09-16T07:07:30.832486+00:00",
+        "run_id": "35035465228"
       }
     },
     "801": {
@@ -48268,14 +48280,6 @@
           "source_id": "32222414",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29411911",
-          "attempted_at": "2026-09-15T22:36:48.438978+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29412416",
           "attempted_at": "2026-09-15T23:33:54.017931+00:00"
         },
@@ -48286,23 +48290,20 @@
           "permanent": false,
           "target_video_id": "29413131",
           "attempted_at": "2026-09-16T00:24:12.293858+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "32222414",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29413680",
+          "attempted_at": "2026-09-16T01:07:33.392030+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-16T00:54:46.872838+00:00"
-      },
-      "claim": {
-        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-5",
-        "claimed_at": "2026-09-16T00:55:05.779965+00:00",
-        "lease_expires_at": "2026-09-16T06:55:05.779965+00:00",
-        "run_id": "35035465228"
-      },
-      "prepared": {
-        "target_video_id": "29413680",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-16T00:55:09.799773+00:00"
       }
     },
     "2571": {
@@ -163932,5 +163933,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T01:07:28.910669+00:00"
+  "updated_at": "2026-09-16T01:07:33.392046+00:00"
 }
