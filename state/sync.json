@@ -4980,6 +4980,12 @@
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-3",
+        "claimed_at": "2026-09-16T02:35:21.574349+00:00",
+        "lease_expires_at": "2026-09-16T08:35:21.574349+00:00",
+        "run_id": "35035465228"
       }
     },
     "10690": {
@@ -61129,17 +61135,19 @@
       }
     },
     "3054": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6506542",
+          "target_video_id": "29414808",
+          "permanent": false,
+          "attempted_at": "2026-09-16T02:35:24.879778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6506542",
         "display_name": "Black Mass: Špinavá hra (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-16T02:20:27.394183+00:00"
-      },
-      "claim": {
-        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-2",
-        "claimed_at": "2026-09-16T02:29:38.916701+00:00",
-        "lease_expires_at": "2026-09-16T08:29:38.916701+00:00",
-        "run_id": "35035465228"
       },
       "prepared": {
         "target_video_id": "29414808",
@@ -164150,5 +164158,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T02:35:19.446858+00:00"
+  "updated_at": "2026-09-16T02:35:24.879803+00:00"
 }
