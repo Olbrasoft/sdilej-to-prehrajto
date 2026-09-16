@@ -11953,6 +11953,12 @@
         "target_video_id": "29338368",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
+      },
+      "claim": {
+        "worker_id": "56378d0fc1104b339d0044e45b9280f4-shard-0",
+        "claimed_at": "2026-09-16T15:22:37.685568+00:00",
+        "lease_expires_at": "2026-09-16T21:22:37.685568+00:00",
+        "run_id": "35090261785"
       }
     },
     "23132": {
@@ -12076,13 +12082,6 @@
     "527": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "32277811",
-          "target_video_id": "29423275",
-          "permanent": false,
-          "attempted_at": "2026-09-16T11:55:30.905463+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "32277811",
           "target_video_id": "29423275",
@@ -12096,17 +12095,20 @@
           "target_video_id": "29429242",
           "permanent": false,
           "attempted_at": "2026-09-16T14:23:04.145770+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "32277811",
+          "target_video_id": "29429242",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-16T15:22:40.141412+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-16T15:19:38.798646+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29429242",
-        "size_bytes": 6105495955,
-        "prepared_at": "2026-09-16T14:00:49.842320+00:00"
       }
     },
     "652": {
@@ -166030,5 +166032,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T15:22:35.700442+00:00"
+  "updated_at": "2026-09-16T15:22:40.141431+00:00"
 }
