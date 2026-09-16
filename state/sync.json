@@ -9364,14 +9364,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "26245114",
-          "target_video_id": "29431166",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-16T17:32:53.698974+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "26245114",
           "reason": "PrehrajtoError",
@@ -9386,23 +9378,20 @@
           "permanent": false,
           "target_video_id": "29434414",
           "attempted_at": "2026-09-16T19:29:25.122210+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29435450",
+          "attempted_at": "2026-09-16T20:17:56.149439+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-16T20:02:22.174609+00:00"
-      },
-      "claim": {
-        "worker_id": "7924327a2e4245faa5196139293bbf1b-shard-5",
-        "claimed_at": "2026-09-16T20:02:31.615974+00:00",
-        "lease_expires_at": "2026-09-17T02:02:31.615974+00:00",
-        "run_id": "35127889092"
-      },
-      "prepared": {
-        "target_video_id": "29435450",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-16T20:02:36.521208+00:00"
       }
     },
     "18349": {
@@ -60799,6 +60788,12 @@
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-16T20:02:30.236187+00:00"
+      },
+      "claim": {
+        "worker_id": "7924327a2e4245faa5196139293bbf1b-shard-0",
+        "claimed_at": "2026-09-16T20:17:53.328074+00:00",
+        "lease_expires_at": "2026-09-17T02:17:53.328074+00:00",
+        "run_id": "35127889092"
       }
     },
     "35753": {
@@ -166840,5 +166835,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T20:17:51.630905+00:00"
+  "updated_at": "2026-09-16T20:17:56.149455+00:00"
 }
