@@ -51042,6 +51042,12 @@
         "target_video_id": "29215846",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-08T14:45:54.528167+00:00"
+      },
+      "claim": {
+        "worker_id": "cc45f218f6324654a1fa1c41011e5e77-shard-5",
+        "claimed_at": "2026-09-16T00:41:40.171458+00:00",
+        "lease_expires_at": "2026-09-16T06:41:40.171458+00:00",
+        "run_id": "35035465228"
       }
     },
     "37127": {
@@ -51063,7 +51069,15 @@
       "attempts": []
     },
     "22542": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767265",
+          "target_video_id": "29413362",
+          "permanent": false,
+          "attempted_at": "2026-09-16T00:41:43.007272+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767265",
         "display_name": "Bez zlého úmyslu (1981) 1080p CZ Dabing",
@@ -51071,7 +51085,7 @@
       },
       "prepared": {
         "target_video_id": "29413362",
-        "size_bytes": 2782898866,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-16T00:29:52.459407+00:00"
       }
     },
@@ -163888,5 +163902,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-16T00:41:38.158104+00:00"
+  "updated_at": "2026-09-16T00:41:43.007288+00:00"
 }
