@@ -42374,6 +42374,12 @@
         "target_video_id": "29421356",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-16T07:41:49.498919+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-0",
+        "claimed_at": "2026-09-17T21:24:21.601515+00:00",
+        "lease_expires_at": "2026-09-18T03:24:21.601515+00:00",
+        "run_id": "35252400204"
       }
     },
     "21479": {
@@ -48502,14 +48508,6 @@
           "source_id": "31064718",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29459325",
-          "attempted_at": "2026-09-17T17:14:31.916032+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31064718",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29459890",
           "attempted_at": "2026-09-17T18:04:23.302358+00:00"
         },
@@ -48520,23 +48518,20 @@
           "permanent": false,
           "target_video_id": "29461207",
           "attempted_at": "2026-09-17T20:24:11.948318+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31064718",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29461991",
+          "attempted_at": "2026-09-17T21:24:24.427768+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-17T20:58:39.557989+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-1",
-        "claimed_at": "2026-09-17T21:07:56.294521+00:00",
-        "lease_expires_at": "2026-09-18T03:07:56.294521+00:00",
-        "run_id": "35252400204"
-      },
-      "prepared": {
-        "target_video_id": "29461991",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-17T21:08:02.471440+00:00"
       }
     },
     "14755": {
@@ -170781,5 +170776,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T21:24:18.887776+00:00"
+  "updated_at": "2026-09-17T21:24:24.427784+00:00"
 }
