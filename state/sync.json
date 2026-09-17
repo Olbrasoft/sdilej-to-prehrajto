@@ -23705,13 +23705,6 @@
           "source_id": "34185179",
           "reason": "Request failed for https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T10:11:25.201823+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34185179",
-          "reason": "Request failed for https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T10:53:09.775014+00:00"
         },
         {
@@ -23721,23 +23714,20 @@
           "permanent": false,
           "target_video_id": "29449053",
           "attempted_at": "2026-09-17T11:55:33.767894+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34185179",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29449761",
+          "attempted_at": "2026-09-17T12:38:07.337698+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34185179",
         "display_name": "人狼 JIN-ROH (1999) SD CZ Titulky",
         "planned_at": "2026-09-17T12:25:51.344445+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-2",
-        "claimed_at": "2026-09-17T12:26:01.341154+00:00",
-        "lease_expires_at": "2026-09-17T18:26:01.341154+00:00",
-        "run_id": "35215635901"
-      },
-      "prepared": {
-        "target_video_id": "29449761",
-        "size_bytes": 1452748746,
-        "prepared_at": "2026-09-17T12:26:05.862736+00:00"
       }
     },
     "27576": {
@@ -169568,5 +169558,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T12:31:28.694754+00:00"
+  "updated_at": "2026-09-17T12:38:07.337714+00:00"
 }
