@@ -23699,14 +23699,6 @@
           "source_id": "34185179",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29461300",
-          "attempted_at": "2026-09-17T20:26:20.819753+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34185179",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29461868",
           "attempted_at": "2026-09-17T21:10:00.512687+00:00"
         },
@@ -23717,23 +23709,20 @@
           "permanent": false,
           "target_video_id": "29462576",
           "attempted_at": "2026-09-17T21:55:14.586237+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34185179",
+          "target_video_id": "29463818",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T23:19:16.031215+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34185179",
         "display_name": "人狼 JIN-ROH (1999) SD CZ Titulky",
         "planned_at": "2026-09-17T23:18:52.559244+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29463818",
-        "size_bytes": 1452748746,
-        "prepared_at": "2026-09-17T23:09:20.930790+00:00"
-      },
-      "claim": {
-        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-2",
-        "claimed_at": "2026-09-17T23:19:04.660079+00:00",
-        "lease_expires_at": "2026-09-18T05:19:04.660079+00:00",
-        "run_id": "35281831981"
       }
     },
     "27576": {
@@ -171002,5 +170991,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T23:19:14.295520+00:00"
+  "updated_at": "2026-09-17T23:19:16.031238+00:00"
 }
