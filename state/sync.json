@@ -25934,13 +25934,6 @@
     "1610": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "25506189",
-          "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T08:03:25.561811+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "25506189",
           "reason": "PrehrajtoError",
@@ -25955,18 +25948,19 @@
           "permanent": false,
           "target_video_id": "29447702",
           "attempted_at": "2026-09-17T09:50:39.013574+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25506189",
+          "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T10:53:36.299750+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Trojúhelník smutku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T10:51:07.042863+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-4",
-        "claimed_at": "2026-09-17T10:52:50.605899+00:00",
-        "lease_expires_at": "2026-09-17T16:52:50.605899+00:00",
-        "run_id": "35185833829"
       }
     },
     "27583": {
@@ -30662,6 +30656,12 @@
         "target_video_id": "29153323",
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
+        "claimed_at": "2026-09-17T10:53:36.000897+00:00",
+        "lease_expires_at": "2026-09-17T16:53:36.000897+00:00",
+        "run_id": "35185833829"
       }
     },
     "29761": {
@@ -31490,6 +31490,12 @@
         "target_video_id": "29339891",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-13T04:51:12.906017+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-5",
+        "claimed_at": "2026-09-17T10:53:35.777851+00:00",
+        "lease_expires_at": "2026-09-17T16:53:35.777851+00:00",
+        "run_id": "35185833829"
       }
     },
     "14925": {
@@ -169589,5 +169595,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T10:53:34.045336+00:00"
+  "updated_at": "2026-09-17T10:53:36.299766+00:00"
 }
