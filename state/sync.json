@@ -43086,17 +43086,19 @@
       "attempts": []
     },
     "2381": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26249483",
+          "reason": "Request failed for https://sdilej.cz/26249483/santa-je-uchyl-2003-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T01:42:30.703260+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26249483",
         "display_name": "Santa je úchyl! (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-17T01:28:51.141096+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-3",
-        "claimed_at": "2026-09-17T01:41:41.728239+00:00",
-        "lease_expires_at": "2026-09-17T07:41:41.728239+00:00",
-        "run_id": "35162139486"
       }
     },
     "20115": {
@@ -44698,6 +44700,12 @@
         "target_video_id": "29204469",
         "size_bytes": 14500000000,
         "prepared_at": "2026-09-08T04:59:41.132927+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-0",
+        "claimed_at": "2026-09-17T01:42:30.339003+00:00",
+        "lease_expires_at": "2026-09-17T07:42:30.339003+00:00",
+        "run_id": "35162139486"
       }
     },
     "22635": {
@@ -44918,6 +44926,12 @@
         "target_video_id": "29204521",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-08T05:04:25.903912+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-4",
+        "claimed_at": "2026-09-17T01:42:30.524353+00:00",
+        "lease_expires_at": "2026-09-17T07:42:30.524353+00:00",
+        "run_id": "35162139486"
       }
     },
     "2390": {
@@ -167240,5 +167254,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T01:42:28.553638+00:00"
+  "updated_at": "2026-09-17T01:42:30.703275+00:00"
 }
