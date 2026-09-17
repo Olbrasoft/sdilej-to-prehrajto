@@ -25946,13 +25946,6 @@
     "1610": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "25506189",
-          "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T10:53:36.299750+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "25506189",
           "reason": "PrehrajtoError",
@@ -25967,23 +25960,20 @@
           "permanent": false,
           "target_video_id": "29450024",
           "attempted_at": "2026-09-17T13:03:55.982809+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "25506189",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29455446",
+          "attempted_at": "2026-09-17T14:18:58.226118+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Trojúhelník smutku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T14:01:59.565544+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-3",
-        "claimed_at": "2026-09-17T14:03:47.007719+00:00",
-        "lease_expires_at": "2026-09-17T20:03:47.007719+00:00",
-        "run_id": "35215635901"
-      },
-      "prepared": {
-        "target_video_id": "29455446",
-        "size_bytes": 3179399157,
-        "prepared_at": "2026-09-17T14:03:50.658949+00:00"
       }
     },
     "27583": {
@@ -169653,5 +169643,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T14:08:27.546312+00:00"
+  "updated_at": "2026-09-17T14:18:58.226136+00:00"
 }
