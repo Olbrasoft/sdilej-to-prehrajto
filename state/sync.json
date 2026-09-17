@@ -52226,14 +52226,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "27669370",
-          "target_video_id": "29439007",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T01:51:21.142937+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27669370",
           "reason": "PrehrajtoError",
@@ -52247,6 +52239,13 @@
           "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T06:51:41.624228+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27669370",
+          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T08:41:31.425929+00:00"
         }
       ],
       "last_plan": {
@@ -169106,5 +169105,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T08:41:28.809576+00:00"
+  "updated_at": "2026-09-17T08:41:31.425946+00:00"
 }
