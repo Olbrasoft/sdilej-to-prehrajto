@@ -11541,6 +11541,12 @@
         "target_video_id": "29153883",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-06T06:38:52.929424+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-2",
+        "claimed_at": "2026-09-17T19:55:02.013103+00:00",
+        "lease_expires_at": "2026-09-18T01:55:02.013103+00:00",
+        "run_id": "35252400204"
       }
     },
     "614": {
@@ -42055,17 +42061,19 @@
       }
     },
     "31428": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34724940",
+          "target_video_id": "29460944",
+          "permanent": false,
+          "attempted_at": "2026-09-17T19:55:02.193528+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34724940",
         "display_name": "M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-17T19:34:11.910859+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-0",
-        "claimed_at": "2026-09-17T19:45:52.260193+00:00",
-        "lease_expires_at": "2026-09-18T01:45:52.260193+00:00",
-        "run_id": "35252400204"
       },
       "prepared": {
         "target_video_id": "29460944",
@@ -170542,5 +170550,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T19:55:00.128133+00:00"
+  "updated_at": "2026-09-17T19:55:02.193541+00:00"
 }
