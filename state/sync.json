@@ -48641,6 +48641,12 @@
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-17T18:34:00.160804+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-0",
+        "claimed_at": "2026-09-17T18:34:24.220683+00:00",
+        "lease_expires_at": "2026-09-18T00:34:24.220683+00:00",
+        "run_id": "35252400204"
       }
     },
     "10659": {
@@ -62550,14 +62556,6 @@
           "source_id": "33708286",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29449916",
-          "attempted_at": "2026-09-17T12:54:18.143143+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "33708286",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29458061",
           "attempted_at": "2026-09-17T15:08:36.988781+00:00"
         },
@@ -62568,18 +62566,19 @@
           "permanent": false,
           "target_video_id": "29459739",
           "attempted_at": "2026-09-17T17:45:44.078098+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33708286",
+          "reason": "Request failed for https://sdilej.cz/33708286/kam-slunce-nechodi-1971-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T18:34:27.501902+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-17T18:24:39.913920+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-3",
-        "claimed_at": "2026-09-17T18:33:41.783410+00:00",
-        "lease_expires_at": "2026-09-18T00:33:41.783410+00:00",
-        "run_id": "35252400204"
       }
     },
     "35753": {
@@ -170187,5 +170186,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T18:34:22.130347+00:00"
+  "updated_at": "2026-09-17T18:34:27.501919+00:00"
 }
