@@ -43516,14 +43516,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "26500293",
-          "target_video_id": "29458894",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T17:08:05.732575+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26500293",
           "target_video_id": "29459861",
@@ -43537,18 +43529,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-17T18:34:22.130333+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26500293",
+          "target_video_id": "29460960",
+          "permanent": false,
+          "attempted_at": "2026-09-17T20:01:40.904489+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T19:34:13.313963+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-3",
-        "claimed_at": "2026-09-17T19:47:17.643878+00:00",
-        "lease_expires_at": "2026-09-18T01:47:17.643878+00:00",
-        "run_id": "35252400204"
       },
       "prepared": {
         "target_video_id": "29460960",
@@ -170629,5 +170622,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T19:58:13.229375+00:00"
+  "updated_at": "2026-09-17T20:01:40.904506+00:00"
 }
