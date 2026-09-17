@@ -47175,14 +47175,6 @@
     "17625": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "31064718",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29440910",
-          "attempted_at": "2026-09-17T01:58:18.571161+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31064718",
           "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv (HTTP None)",
@@ -47196,18 +47188,19 @@
           "permanent": false,
           "target_video_id": "29442194",
           "attempted_at": "2026-09-17T03:52:59.686872+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31064718",
+          "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T04:31:57.610933+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-17T04:29:47.207999+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-3",
-        "claimed_at": "2026-09-17T04:31:11.785281+00:00",
-        "lease_expires_at": "2026-09-17T10:31:11.785281+00:00",
-        "run_id": "35162139486"
       }
     },
     "14755": {
@@ -50460,6 +50453,12 @@
         "target_video_id": "29432600",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-16T17:29:48.471426+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-5",
+        "claimed_at": "2026-09-17T04:31:54.832314+00:00",
+        "lease_expires_at": "2026-09-17T10:31:54.832314+00:00",
+        "run_id": "35162139486"
       }
     },
     "29134": {
@@ -167724,5 +167723,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T04:31:53.085053+00:00"
+  "updated_at": "2026-09-17T04:31:57.610949+00:00"
 }
