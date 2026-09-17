@@ -40623,13 +40623,6 @@
     "24946": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30648768",
-          "reason": "Request failed for https://sdilej.cz/30648768/osvobozeni-2-cz.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T01:44:01.318612+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30648768",
           "target_video_id": "29441311",
@@ -40642,6 +40635,13 @@
           "target_video_id": "29441311",
           "permanent": false,
           "attempted_at": "2026-09-17T03:10:34.648599+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30648768",
+          "target_video_id": "29441311",
+          "permanent": false,
+          "attempted_at": "2026-09-17T03:54:05.451073+00:00"
         }
       ],
       "last_plan": {
@@ -40653,12 +40653,6 @@
         "target_video_id": "29441311",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-17T02:15:56.621115+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-4",
-        "claimed_at": "2026-09-17T03:53:56.451131+00:00",
-        "lease_expires_at": "2026-09-17T09:53:56.451131+00:00",
-        "run_id": "35162139486"
       }
     },
     "18165": {
@@ -167709,5 +167703,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T03:53:59.589036+00:00"
+  "updated_at": "2026-09-17T03:54:05.451090+00:00"
 }
