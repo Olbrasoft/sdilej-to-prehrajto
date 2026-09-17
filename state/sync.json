@@ -53072,13 +53072,6 @@
     "36727": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "6365016",
-          "reason": "Request failed for https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T11:10:39.975802+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "6365016",
           "reason": "PrehrajtoError",
@@ -53093,23 +53086,20 @@
           "permanent": false,
           "target_video_id": "29454010",
           "attempted_at": "2026-09-17T14:01:59.885439+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29457839",
+          "attempted_at": "2026-09-17T14:55:15.300365+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-17T14:34:08.308317+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-3",
-        "claimed_at": "2026-09-17T14:38:31.420383+00:00",
-        "lease_expires_at": "2026-09-17T20:38:31.420383+00:00",
-        "run_id": "35215635901"
-      },
-      "prepared": {
-        "target_video_id": "29457839",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-17T14:38:35.599620+00:00"
       }
     },
     "24796": {
@@ -62387,6 +62377,12 @@
         "target_video_id": "29303068",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-11T15:25:58.228873+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-4",
+        "claimed_at": "2026-09-17T14:55:12.764345+00:00",
+        "lease_expires_at": "2026-09-17T20:55:12.764345+00:00",
+        "run_id": "35215635901"
       }
     },
     "32878": {
@@ -62428,6 +62424,12 @@
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-17T14:49:57.691277+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-2",
+        "claimed_at": "2026-09-17T14:55:12.909144+00:00",
+        "lease_expires_at": "2026-09-17T20:55:12.909144+00:00",
+        "run_id": "35215635901"
       }
     },
     "35753": {
@@ -169720,5 +169722,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T14:55:10.785940+00:00"
+  "updated_at": "2026-09-17T14:55:15.300382+00:00"
 }
