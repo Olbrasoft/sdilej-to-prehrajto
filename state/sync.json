@@ -42305,6 +42305,12 @@
         "target_video_id": "29427702",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-16T12:04:55.705666+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-1",
+        "claimed_at": "2026-09-17T09:48:15.619649+00:00",
+        "lease_expires_at": "2026-09-17T15:48:15.619649+00:00",
+        "run_id": "35185833829"
       }
     },
     "15283": {
@@ -64733,14 +64739,6 @@
     "2963": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28922330",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29438350",
-          "attempted_at": "2026-09-16T23:25:38.440716+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "28922330",
           "reason": "Request failed for https://sdilej.cz/28922330/lvi-kral-2019-2160p.-cze-sk-.mkv (HTTP None)",
@@ -64753,23 +64751,20 @@
           "reason": "Request failed for https://sdilej.cz/28922330/lvi-kral-2019-2160p.-cze-sk-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T07:01:32.953778+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28922330",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29447217",
+          "attempted_at": "2026-09-17T09:48:15.839642+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-17T09:02:05.788660+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
-        "claimed_at": "2026-09-17T09:04:12.008063+00:00",
-        "lease_expires_at": "2026-09-17T15:04:12.008063+00:00",
-        "run_id": "35185833829"
-      },
-      "prepared": {
-        "target_video_id": "29447217",
-        "size_bytes": 12562833513,
-        "prepared_at": "2026-09-17T09:04:15.725374+00:00"
       }
     },
     "2788": {
@@ -169204,5 +169199,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T09:48:13.857210+00:00"
+  "updated_at": "2026-09-17T09:48:15.839657+00:00"
 }
