@@ -23718,6 +23718,12 @@
         "source_id": "34185179",
         "display_name": "人狼 JIN-ROH (1999) SD CZ Titulky",
         "planned_at": "2026-09-17T13:25:12.764170+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-2",
+        "claimed_at": "2026-09-17T13:26:49.409305+00:00",
+        "lease_expires_at": "2026-09-17T19:26:49.409305+00:00",
+        "run_id": "35215635901"
       }
     },
     "27576": {
@@ -24923,6 +24929,12 @@
         "target_video_id": "29308256",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-11T19:49:42.002593+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-3",
+        "claimed_at": "2026-09-17T13:26:49.582693+00:00",
+        "lease_expires_at": "2026-09-17T19:26:49.582693+00:00",
+        "run_id": "35215635901"
       }
     },
     "30131": {
@@ -42821,17 +42833,19 @@
       }
     },
     "2705": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22405080",
+          "target_video_id": "29450133",
+          "permanent": false,
+          "attempted_at": "2026-09-17T13:26:49.732281+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22405080",
         "display_name": "Amazing Spider-Man (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-17T12:45:02.335631+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-1",
-        "claimed_at": "2026-09-17T12:58:01.718235+00:00",
-        "lease_expires_at": "2026-09-17T18:58:01.718235+00:00",
-        "run_id": "35215635901"
       },
       "prepared": {
         "target_video_id": "29450133",
@@ -169595,5 +169609,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T13:26:47.348096+00:00"
+  "updated_at": "2026-09-17T13:26:49.732298+00:00"
 }
