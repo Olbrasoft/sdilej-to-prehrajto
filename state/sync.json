@@ -43858,13 +43858,6 @@
           "source_id": "26249483",
           "reason": "Request failed for https://sdilej.cz/26249483/santa-je-uchyl-2003-cz.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T03:23:08.159143+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "26249483",
-          "reason": "Request failed for https://sdilej.cz/26249483/santa-je-uchyl-2003-cz.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T03:56:19.130853+00:00"
         },
         {
@@ -43873,6 +43866,13 @@
           "target_video_id": "29443078",
           "permanent": false,
           "attempted_at": "2026-09-17T04:40:11.616820+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26249483",
+          "target_video_id": "29443078",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:30:21.062644+00:00"
         }
       ],
       "last_plan": {
@@ -43882,7 +43882,7 @@
       },
       "prepared": {
         "target_video_id": "29443078",
-        "size_bytes": 2932164811,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-17T04:30:03.854875+00:00"
       }
     },
@@ -43955,6 +43955,12 @@
         "source_id": "33141794",
         "display_name": "Číslo 9 (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:27:58.736319+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
+        "claimed_at": "2026-09-17T06:30:18.474293+00:00",
+        "lease_expires_at": "2026-09-17T12:30:18.474293+00:00",
+        "run_id": "35185833829"
       }
     },
     "22584": {
@@ -168473,5 +168479,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:30:16.529911+00:00"
+  "updated_at": "2026-09-17T06:30:21.062661+00:00"
 }
