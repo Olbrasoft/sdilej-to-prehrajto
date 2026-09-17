@@ -55940,13 +55940,6 @@
     "2075": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31639655",
-          "reason": "Request failed for https://sdilej.cz/31639655/teorie-tygra-2016-cz-fhd-h265-deadinside.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T04:18:34.914886+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31639655",
           "reason": "PrehrajtoError",
@@ -55961,23 +55954,20 @@
           "permanent": false,
           "target_video_id": "29447006",
           "attempted_at": "2026-09-17T08:54:15.480445+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31639655",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29447929",
+          "attempted_at": "2026-09-17T10:05:38.153978+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-17T09:55:03.412191+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-0",
-        "claimed_at": "2026-09-17T09:55:39.260957+00:00",
-        "lease_expires_at": "2026-09-17T15:55:39.260957+00:00",
-        "run_id": "35185833829"
-      },
-      "prepared": {
-        "target_video_id": "29447929",
-        "size_bytes": 2100917827,
-        "prepared_at": "2026-09-17T09:55:43.488528+00:00"
       }
     },
     "32398": {
@@ -169198,5 +169188,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T10:02:30.019712+00:00"
+  "updated_at": "2026-09-17T10:05:38.153994+00:00"
 }
