@@ -25540,14 +25540,6 @@
     "1803": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29458655",
-          "attempted_at": "2026-09-17T16:16:23.664319+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "32908053",
           "target_video_id": "29459361",
@@ -25561,6 +25553,13 @@
           "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T18:09:16.155990+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32908053",
+          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T19:24:15.559965+00:00"
         }
       ],
       "last_plan": {
@@ -170413,5 +170412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T19:23:27.623304+00:00"
+  "updated_at": "2026-09-17T19:24:15.559984+00:00"
 }
