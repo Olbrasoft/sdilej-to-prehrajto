@@ -25419,6 +25419,12 @@
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-17T07:01:51.497793+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-4",
+        "claimed_at": "2026-09-17T07:04:33.829199+00:00",
+        "lease_expires_at": "2026-09-17T13:04:33.829199+00:00",
+        "run_id": "35185833829"
       }
     },
     "1814": {
@@ -60518,13 +60524,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "27436084",
-          "target_video_id": "29438203",
-          "permanent": false,
-          "attempted_at": "2026-09-16T22:26:52.122436+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27436084",
           "target_video_id": "29438203",
@@ -60539,23 +60538,20 @@
           "permanent": false,
           "target_video_id": "29443125",
           "attempted_at": "2026-09-17T04:43:54.741548+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29445614",
+          "attempted_at": "2026-09-17T07:05:03.857861+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:50:32.504144+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-5",
-        "claimed_at": "2026-09-17T06:52:51.617278+00:00",
-        "lease_expires_at": "2026-09-17T12:52:51.617278+00:00",
-        "run_id": "35185833829"
-      },
-      "prepared": {
-        "target_video_id": "29445614",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-17T06:52:55.333931+00:00"
       }
     },
     "32220": {
@@ -168622,5 +168618,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T07:04:32.101697+00:00"
+  "updated_at": "2026-09-17T07:05:03.857875+00:00"
 }
