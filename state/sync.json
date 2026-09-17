@@ -39636,13 +39636,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34933768",
-          "target_video_id": "29458818",
-          "permanent": false,
-          "attempted_at": "2026-09-17T16:12:17.713755+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34933768",
           "target_video_id": "29458818",
@@ -39656,17 +39649,20 @@
           "target_video_id": "29459694",
           "permanent": false,
           "attempted_at": "2026-09-17T17:39:16.086272+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34933768",
+          "target_video_id": "29459694",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T18:23:37.647265+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-17T18:18:49.855570+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29459694",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-17T17:32:11.673147+00:00"
       }
     },
     "31638": {
@@ -40880,6 +40876,12 @@
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-17T18:18:50.054045+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-5",
+        "claimed_at": "2026-09-17T18:23:34.675370+00:00",
+        "lease_expires_at": "2026-09-18T00:23:34.675370+00:00",
+        "run_id": "35252400204"
       }
     },
     "25098": {
@@ -170110,5 +170112,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T18:23:32.760351+00:00"
+  "updated_at": "2026-09-17T18:23:37.647280+00:00"
 }
