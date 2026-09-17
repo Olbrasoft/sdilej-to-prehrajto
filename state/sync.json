@@ -23694,13 +23694,6 @@
           "source_id": "34185179",
           "reason": "Request failed for https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T09:34:36.962865+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34185179",
-          "reason": "Request failed for https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T10:11:25.201823+00:00"
         },
         {
@@ -23709,23 +23702,20 @@
           "reason": "Request failed for https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T10:53:09.775014+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34185179",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29449053",
+          "attempted_at": "2026-09-17T11:55:33.767894+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34185179",
         "display_name": "人狼 JIN-ROH (1999) SD CZ Titulky",
         "planned_at": "2026-09-17T11:40:33.807665+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-5",
-        "claimed_at": "2026-09-17T11:41:44.287571+00:00",
-        "lease_expires_at": "2026-09-17T17:41:44.287571+00:00",
-        "run_id": "35215635901"
-      },
-      "prepared": {
-        "target_video_id": "29449053",
-        "size_bytes": 1452748746,
-        "prepared_at": "2026-09-17T11:41:56.996399+00:00"
       }
     },
     "27576": {
@@ -40124,6 +40114,12 @@
         "target_video_id": "29418153",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-16T05:30:32.287585+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-1",
+        "claimed_at": "2026-09-17T11:55:30.571174+00:00",
+        "lease_expires_at": "2026-09-17T17:55:30.571174+00:00",
+        "run_id": "35215635901"
       }
     },
     "35716": {
@@ -169552,5 +169548,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T11:55:13.781798+00:00"
+  "updated_at": "2026-09-17T11:55:33.767911+00:00"
 }
