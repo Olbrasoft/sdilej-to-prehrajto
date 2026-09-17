@@ -31772,6 +31772,12 @@
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:24:33.000301+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-5",
+        "claimed_at": "2026-09-17T06:26:51.867548+00:00",
+        "lease_expires_at": "2026-09-17T12:26:51.867548+00:00",
+        "run_id": "35185833829"
       }
     },
     "19227": {
@@ -39361,13 +39367,6 @@
           "source_id": "34933768",
           "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T03:53:26.889214+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34933768",
-          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T04:27:57.413933+00:00"
         },
         {
@@ -39376,17 +39375,20 @@
           "target_video_id": "29444196",
           "permanent": false,
           "attempted_at": "2026-09-17T05:49:13.857349+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34933768",
+          "target_video_id": "29444196",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:26:55.355402+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:24:33.201097+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29444196",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-17T05:33:25.359460+00:00"
       }
     },
     "31638": {
@@ -39608,6 +39610,12 @@
         "source_id": "34755746",
         "display_name": "My Bodyguard (1980) SD CZ Titulky",
         "planned_at": "2026-09-17T06:24:33.383246+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-4",
+        "claimed_at": "2026-09-17T06:26:52.054154+00:00",
+        "lease_expires_at": "2026-09-17T12:26:52.054154+00:00",
+        "run_id": "35185833829"
       }
     },
     "25324": {
@@ -168371,5 +168379,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:26:50.110963+00:00"
+  "updated_at": "2026-09-17T06:26:55.355417+00:00"
 }
