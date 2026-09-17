@@ -31481,6 +31481,12 @@
         "target_video_id": "29339891",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-13T04:51:12.906017+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-3",
+        "claimed_at": "2026-09-17T12:25:10.246539+00:00",
+        "lease_expires_at": "2026-09-17T18:25:10.246539+00:00",
+        "run_id": "35215635901"
       }
     },
     "14925": {
@@ -53736,13 +53742,6 @@
           "source_id": "28441201",
           "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T08:42:36.226592+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "28441201",
-          "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T09:54:37.542782+00:00"
         },
         {
@@ -53752,23 +53751,20 @@
           "permanent": false,
           "target_video_id": "29448711",
           "attempted_at": "2026-09-17T11:21:44.509081+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29449556",
+          "attempted_at": "2026-09-17T12:25:12.430331+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-17T11:57:48.889244+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-2",
-        "claimed_at": "2026-09-17T12:05:52.655378+00:00",
-        "lease_expires_at": "2026-09-17T18:05:52.655378+00:00",
-        "run_id": "35215635901"
-      },
-      "prepared": {
-        "target_video_id": "29449556",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-17T12:05:56.913611+00:00"
       }
     },
     "19162": {
@@ -169556,5 +169552,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T12:25:08.427530+00:00"
+  "updated_at": "2026-09-17T12:25:12.430347+00:00"
 }
