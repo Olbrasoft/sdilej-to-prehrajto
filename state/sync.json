@@ -49117,13 +49117,6 @@
     "30909": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "18823758",
-          "target_video_id": "29457753",
-          "permanent": false,
-          "attempted_at": "2026-09-17T14:37:40.892193+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "18823758",
           "target_video_id": "29457753",
@@ -49137,18 +49130,19 @@
           "reason": "Request failed for https://sdilej.cz/18823758/mogadisyu-escape.from.mogadishu.2021.web-dl.1080p.x264-titulky-sk.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T17:56:12.060028+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18823758",
+          "target_video_id": "29460266",
+          "permanent": false,
+          "attempted_at": "2026-09-17T18:45:17.752398+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18823758",
         "display_name": "Mogadishu (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-17T18:34:00.540293+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-3",
-        "claimed_at": "2026-09-17T18:34:36.346686+00:00",
-        "lease_expires_at": "2026-09-18T00:34:36.346686+00:00",
-        "run_id": "35252400204"
       },
       "prepared": {
         "target_video_id": "29460266",
@@ -67921,6 +67915,12 @@
         "target_video_id": "29443370",
         "size_bytes": 11700000000,
         "prepared_at": "2026-09-17T04:50:53.751459+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-5",
+        "claimed_at": "2026-09-17T18:45:15.021186+00:00",
+        "lease_expires_at": "2026-09-18T00:45:15.021186+00:00",
+        "run_id": "35252400204"
       }
     },
     "29773": {
@@ -170202,5 +170202,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T18:45:12.947523+00:00"
+  "updated_at": "2026-09-17T18:45:17.752413+00:00"
 }
