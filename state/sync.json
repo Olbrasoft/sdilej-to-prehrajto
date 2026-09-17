@@ -28684,6 +28684,12 @@
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-17T13:25:15.789521+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-1",
+        "claimed_at": "2026-09-17T13:27:38.899675+00:00",
+        "lease_expires_at": "2026-09-17T19:27:38.899675+00:00",
+        "run_id": "35215635901"
       }
     },
     "21046": {
@@ -28975,6 +28981,12 @@
         "target_video_id": "29318983",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-12T07:40:36.904891+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-3",
+        "claimed_at": "2026-09-17T13:27:39.078688+00:00",
+        "lease_expires_at": "2026-09-17T19:27:39.078688+00:00",
+        "run_id": "35215635901"
       }
     },
     "24818": {
@@ -42932,17 +42944,19 @@
       }
     },
     "2314": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33755557",
+          "target_video_id": "29450152",
+          "permanent": false,
+          "attempted_at": "2026-09-17T13:27:39.228518+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33755557",
         "display_name": "Ant-Man a Wasp (2018) 4K CZ Dabing",
         "planned_at": "2026-09-17T12:45:02.489593+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-0",
-        "claimed_at": "2026-09-17T13:00:08.796590+00:00",
-        "lease_expires_at": "2026-09-17T19:00:08.796590+00:00",
-        "run_id": "35215635901"
       },
       "prepared": {
         "target_video_id": "29450152",
@@ -169602,5 +169616,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T13:27:36.670433+00:00"
+  "updated_at": "2026-09-17T13:27:39.228537+00:00"
 }
