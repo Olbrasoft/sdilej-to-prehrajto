@@ -41173,13 +41173,6 @@
     "1988": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34885956",
-          "reason": "Request failed for https://sdilej.cz/34885956/zrodila-se-astrid-2018-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T02:16:45.484164+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34885956",
           "target_video_id": "29441796",
@@ -41192,6 +41185,13 @@
           "target_video_id": "29441796",
           "permanent": false,
           "attempted_at": "2026-09-17T04:28:42.474163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34885956",
+          "target_video_id": "29441796",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:17:13.898911+00:00"
         }
       ],
       "last_plan": {
@@ -41229,6 +41229,12 @@
         "source_id": "34672835",
         "display_name": "Světáci (1969) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:05:52.991929+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
+        "claimed_at": "2026-09-17T06:17:10.801200+00:00",
+        "lease_expires_at": "2026-09-17T12:17:10.801200+00:00",
+        "run_id": "35185833829"
       }
     },
     "21570": {
@@ -168360,5 +168366,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:17:08.757279+00:00"
+  "updated_at": "2026-09-17T06:17:13.898927+00:00"
 }
