@@ -21805,6 +21805,12 @@
         "target_video_id": "29127237",
         "size_bytes": 18200000000,
         "prepared_at": "2026-09-05T08:47:19.185894+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-3",
+        "claimed_at": "2026-09-17T12:23:16.803794+00:00",
+        "lease_expires_at": "2026-09-17T18:23:16.803794+00:00",
+        "run_id": "35215635901"
       }
     },
     "15056": {
@@ -32009,14 +32015,6 @@
           "source_id": "34817688",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29446802",
-          "attempted_at": "2026-09-17T08:39:02.391829+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29447733",
           "attempted_at": "2026-09-17T09:57:35.808044+00:00"
         },
@@ -32027,23 +32025,20 @@
           "permanent": false,
           "target_video_id": "29448534",
           "attempted_at": "2026-09-17T11:15:07.310061+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34817688",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29449405",
+          "attempted_at": "2026-09-17T12:23:19.374096+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T11:57:35.568018+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-4",
-        "claimed_at": "2026-09-17T11:57:53.049227+00:00",
-        "lease_expires_at": "2026-09-17T17:57:53.049227+00:00",
-        "run_id": "35215635901"
-      },
-      "prepared": {
-        "target_video_id": "29449405",
-        "size_bytes": 4157137566,
-        "prepared_at": "2026-09-17T11:58:00.191486+00:00"
       }
     },
     "19227": {
@@ -169556,5 +169551,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T12:23:10.520132+00:00"
+  "updated_at": "2026-09-17T12:23:19.374113+00:00"
 }
