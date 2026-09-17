@@ -28663,13 +28663,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28711738",
-          "target_video_id": "29449073",
-          "permanent": false,
-          "attempted_at": "2026-09-17T11:57:12.575165+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28711738",
           "target_video_id": "29449073",
@@ -28683,23 +28676,20 @@
           "target_video_id": "29452574",
           "permanent": false,
           "attempted_at": "2026-09-17T13:38:27.647565+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "28711738",
+          "target_video_id": "29452574",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T14:31:10.228726+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-17T14:29:14.510152+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29452574",
-        "size_bytes": 3064196835,
-        "prepared_at": "2026-09-17T13:27:46.720769+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-5",
-        "claimed_at": "2026-09-17T14:31:05.204989+00:00",
-        "lease_expires_at": "2026-09-17T20:31:05.204989+00:00",
-        "run_id": "35215635901"
       }
     },
     "21046": {
@@ -169634,5 +169624,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T14:31:08.274615+00:00"
+  "updated_at": "2026-09-17T14:31:10.228744+00:00"
 }
