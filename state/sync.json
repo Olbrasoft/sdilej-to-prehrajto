@@ -40805,6 +40805,12 @@
         "target_video_id": "29440677",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-17T01:17:22.955331+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-0",
+        "claimed_at": "2026-09-17T04:28:29.442682+00:00",
+        "lease_expires_at": "2026-09-17T10:28:29.442682+00:00",
+        "run_id": "35162139486"
       }
     },
     "10979": {
@@ -40840,6 +40846,12 @@
         "target_video_id": "29441102",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-17T01:59:46.110233+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-3",
+        "claimed_at": "2026-09-17T04:28:29.633713+00:00",
+        "lease_expires_at": "2026-09-17T10:28:29.633713+00:00",
+        "run_id": "35162139486"
       }
     },
     "31346": {
@@ -61575,14 +61587,6 @@
           "source_id": "33708286",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29433431",
-          "attempted_at": "2026-09-16T18:29:46.253897+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "33708286",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29435714",
           "attempted_at": "2026-09-16T20:27:57.422783+00:00"
         },
@@ -61593,23 +61597,20 @@
           "permanent": false,
           "target_video_id": "29438268",
           "attempted_at": "2026-09-16T22:32:33.048618+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33708286",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29442938",
+          "attempted_at": "2026-09-17T04:28:32.067919+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-17T03:55:30.738310+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-5",
-        "claimed_at": "2026-09-17T04:19:05.371570+00:00",
-        "lease_expires_at": "2026-09-17T10:19:05.371570+00:00",
-        "run_id": "35162139486"
-      },
-      "prepared": {
-        "target_video_id": "29442938",
-        "size_bytes": 1484316578,
-        "prepared_at": "2026-09-17T04:19:10.799269+00:00"
       }
     },
     "35753": {
@@ -167719,5 +167720,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T04:28:27.652556+00:00"
+  "updated_at": "2026-09-17T04:28:32.067934+00:00"
 }
