@@ -41056,13 +41056,6 @@
     "37176": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34772911",
-          "reason": "Request failed for https://sdilej.cz/34772911/happier-than-ever-a-love-letter-to-los-angeles-2021-.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T01:30:13.948419+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34772911",
           "target_video_id": "29441313",
@@ -41075,6 +41068,13 @@
           "target_video_id": "29441313",
           "permanent": false,
           "attempted_at": "2026-09-17T03:11:09.456860+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34772911",
+          "target_video_id": "29441313",
+          "permanent": false,
+          "attempted_at": "2026-09-17T03:54:23.663789+00:00"
         }
       ],
       "last_plan": {
@@ -41086,12 +41086,6 @@
         "target_video_id": "29441313",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-17T02:16:05.612221+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-4",
-        "claimed_at": "2026-09-17T03:54:16.114100+00:00",
-        "lease_expires_at": "2026-09-17T09:54:16.114100+00:00",
-        "run_id": "35162139486"
       }
     },
     "35720": {
@@ -167698,5 +167692,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T03:54:21.860886+00:00"
+  "updated_at": "2026-09-17T03:54:23.663807+00:00"
 }
