@@ -28782,14 +28782,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28711738",
-          "target_video_id": "29461152",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T20:48:03.620944+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "28711738",
           "reason": "Request failed for https://sdilej.cz/28711738/profesor-a-silenec-the-professor-and-the-madman-2019-bluray-cz.mkv (HTTP None)",
@@ -28802,23 +28794,20 @@
           "target_video_id": "29462786",
           "permanent": false,
           "attempted_at": "2026-09-17T22:34:20.961607+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "28711738",
+          "target_video_id": "29462786",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T23:19:40.902999+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-17T23:18:54.610755+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29462786",
-        "size_bytes": 3064196835,
-        "prepared_at": "2026-09-17T22:05:16.861405+00:00"
-      },
-      "claim": {
-        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-2",
-        "claimed_at": "2026-09-17T23:19:33.140358+00:00",
-        "lease_expires_at": "2026-09-18T05:19:33.140358+00:00",
-        "run_id": "35281831981"
       }
     },
     "21046": {
@@ -171009,5 +170998,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T23:19:39.223441+00:00"
+  "updated_at": "2026-09-17T23:19:40.903021+00:00"
 }
