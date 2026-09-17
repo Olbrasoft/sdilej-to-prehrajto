@@ -60986,14 +60986,6 @@
     "12687": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29448801",
-          "attempted_at": "2026-09-17T11:37:15.515981+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27436084",
           "target_video_id": "29449836",
@@ -61007,18 +60999,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-17T14:49:30.231932+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27436084",
+          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T17:35:47.291546+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-17T17:33:24.516196+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-5",
-        "claimed_at": "2026-09-17T17:35:01.325291+00:00",
-        "lease_expires_at": "2026-09-17T23:35:01.325291+00:00",
-        "run_id": "35252400204"
       }
     },
     "32220": {
@@ -62313,6 +62306,12 @@
         "target_video_id": "29302707",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-11T15:15:46.282837+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-4",
+        "claimed_at": "2026-09-17T17:35:47.069997+00:00",
+        "lease_expires_at": "2026-09-17T23:35:47.069997+00:00",
+        "run_id": "35252400204"
       }
     },
     "30378": {
@@ -170097,5 +170096,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T17:35:45.106076+00:00"
+  "updated_at": "2026-09-17T17:35:47.291574+00:00"
 }
