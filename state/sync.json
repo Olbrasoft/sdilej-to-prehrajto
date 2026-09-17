@@ -6245,6 +6245,12 @@
         "target_video_id": "29195641",
         "size_bytes": 22900000000,
         "prepared_at": "2026-09-07T19:18:09.679179+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-2",
+        "claimed_at": "2026-09-17T15:35:21.193244+00:00",
+        "lease_expires_at": "2026-09-17T21:35:21.193244+00:00",
+        "run_id": "35215635901"
       }
     },
     "13259": {
@@ -67472,17 +67478,19 @@
       "attempts": []
     },
     "28537": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19177621",
+          "target_video_id": "29458514",
+          "permanent": false,
+          "attempted_at": "2026-09-17T15:35:21.401285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19177621",
         "display_name": "Babysitting (2014) 1080p CZ Titulky",
         "planned_at": "2026-09-17T14:50:02.479310+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-0",
-        "claimed_at": "2026-09-17T15:29:23.746171+00:00",
-        "lease_expires_at": "2026-09-17T21:29:23.746171+00:00",
-        "run_id": "35215635901"
       },
       "prepared": {
         "target_video_id": "29458514",
@@ -169897,5 +169905,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T15:35:16.094116+00:00"
+  "updated_at": "2026-09-17T15:35:21.401302+00:00"
 }
