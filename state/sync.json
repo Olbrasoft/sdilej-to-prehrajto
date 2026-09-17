@@ -39363,13 +39363,6 @@
           "source_id": "34933768",
           "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T03:10:14.593985+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34933768",
-          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T03:53:26.889214+00:00"
         },
         {
@@ -39378,6 +39371,13 @@
           "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T04:27:57.413933+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34933768",
+          "target_video_id": "29444196",
+          "permanent": false,
+          "attempted_at": "2026-09-17T05:49:13.857349+00:00"
         }
       ],
       "last_plan": {
@@ -39387,7 +39387,7 @@
       },
       "prepared": {
         "target_video_id": "29444196",
-        "size_bytes": 2264705939,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-17T05:33:25.359460+00:00"
       }
     },
@@ -39876,6 +39876,12 @@
         "target_video_id": "29444344",
         "size_bytes": 2555138562,
         "prepared_at": "2026-09-17T05:38:48.370668+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-3",
+        "claimed_at": "2026-09-17T05:49:11.770966+00:00",
+        "lease_expires_at": "2026-09-17T11:49:11.770966+00:00",
+        "run_id": "35185833829"
       }
     },
     "21315": {
@@ -39911,6 +39917,12 @@
         "target_video_id": "29418393",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-16T05:38:59.627898+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-1",
+        "claimed_at": "2026-09-17T05:49:11.242305+00:00",
+        "lease_expires_at": "2026-09-17T11:49:11.242305+00:00",
+        "run_id": "35185833829"
       }
     },
     "22922": {
@@ -39990,6 +40002,12 @@
         "target_video_id": "29418460",
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-16T05:41:18.185043+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-5",
+        "claimed_at": "2026-09-17T05:49:11.579708+00:00",
+        "lease_expires_at": "2026-09-17T11:49:11.579708+00:00",
+        "run_id": "35185833829"
       }
     },
     "11156": {
@@ -39998,6 +40016,12 @@
         "source_id": "24869171",
         "display_name": "Buzíci (1974) 720p CZ Titulky",
         "planned_at": "2026-09-17T05:47:43.077588+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
+        "claimed_at": "2026-09-17T05:49:11.410835+00:00",
+        "lease_expires_at": "2026-09-17T11:49:11.410835+00:00",
+        "run_id": "35185833829"
       }
     },
     "32499": {
@@ -168199,5 +168223,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T05:49:09.277164+00:00"
+  "updated_at": "2026-09-17T05:49:13.857363+00:00"
 }
