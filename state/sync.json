@@ -51948,14 +51948,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27669370",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29434816",
-          "attempted_at": "2026-09-16T21:44:18.460963+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27669370",
           "target_video_id": "29439007",
@@ -51970,18 +51962,19 @@
           "permanent": false,
           "target_video_id": "29441541",
           "attempted_at": "2026-09-17T04:37:27.117749+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27669370",
+          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:51:41.624228+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-17T06:50:26.324044+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-1",
-        "claimed_at": "2026-09-17T06:50:54.022985+00:00",
-        "lease_expires_at": "2026-09-17T12:50:54.022985+00:00",
-        "run_id": "35185833829"
       }
     },
     "18861": {
@@ -54565,6 +54558,12 @@
         "target_video_id": "29215846",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-08T14:45:54.528167+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-5",
+        "claimed_at": "2026-09-17T06:51:41.437190+00:00",
+        "lease_expires_at": "2026-09-17T12:51:41.437190+00:00",
+        "run_id": "35185833829"
       }
     },
     "37127": {
@@ -168606,5 +168605,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:51:39.766228+00:00"
+  "updated_at": "2026-09-17T06:51:41.624243+00:00"
 }
