@@ -46680,17 +46680,19 @@
       "attempts": []
     },
     "13791": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34683230",
+          "target_video_id": "29459122",
+          "permanent": false,
+          "attempted_at": "2026-09-17T16:43:30.124118+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34683230",
         "display_name": "Malý Rambo (2007) SD CZ Dabing",
         "planned_at": "2026-09-17T16:24:58.093423+00:00"
-      },
-      "claim": {
-        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-0",
-        "claimed_at": "2026-09-17T16:38:18.443847+00:00",
-        "lease_expires_at": "2026-09-17T22:38:18.443847+00:00",
-        "run_id": "35215635901"
       },
       "prepared": {
         "target_video_id": "29459122",
@@ -47658,6 +47660,12 @@
         "target_video_id": "29429650",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-16T14:31:53.532291+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-2",
+        "claimed_at": "2026-09-17T16:43:27.373147+00:00",
+        "lease_expires_at": "2026-09-17T22:43:27.373147+00:00",
+        "run_id": "35215635901"
       }
     },
     "1954": {
@@ -170067,5 +170075,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T16:43:25.439348+00:00"
+  "updated_at": "2026-09-17T16:43:30.124133+00:00"
 }
