@@ -68878,17 +68878,19 @@
       "attempts": []
     },
     "24399": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "10328836",
+          "reason": "Request failed for https://sdilej.cz/10328836/zuctovani-s-minulosti-cz-dabing-2001-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T18:04:30.834425+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10328836",
         "display_name": "Zúčtování s minulostí (2001) SD CZ Dabing",
         "planned_at": "2026-09-17T17:48:41.460962+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-4",
-        "claimed_at": "2026-09-17T18:03:38.455571+00:00",
-        "lease_expires_at": "2026-09-18T00:03:38.455571+00:00",
-        "run_id": "35252400204"
       }
     },
     "29291": {
@@ -170073,5 +170075,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T18:04:23.302383+00:00"
+  "updated_at": "2026-09-17T18:04:30.834442+00:00"
 }
