@@ -41216,17 +41216,19 @@
       "attempts": []
     },
     "11008": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34672835",
+          "target_video_id": "29445097",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:30:10.605149+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672835",
         "display_name": "Světáci (1969) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:05:52.991929+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
-        "claimed_at": "2026-09-17T06:17:10.801200+00:00",
-        "lease_expires_at": "2026-09-17T12:17:10.801200+00:00",
-        "run_id": "35185833829"
       },
       "prepared": {
         "target_video_id": "29445097",
@@ -43784,6 +43786,12 @@
         "target_video_id": "29441366",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-17T02:20:07.821120+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-4",
+        "claimed_at": "2026-09-17T06:30:10.209721+00:00",
+        "lease_expires_at": "2026-09-17T12:30:10.209721+00:00",
+        "run_id": "35185833829"
       }
     },
     "2412": {
@@ -43795,6 +43803,12 @@
         "source_id": "13520636",
         "display_name": "Pašerák (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:27:58.082903+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-3",
+        "claimed_at": "2026-09-17T06:30:10.403366+00:00",
+        "lease_expires_at": "2026-09-17T12:30:10.403366+00:00",
+        "run_id": "35185833829"
       }
     },
     "2438": {
@@ -168460,5 +168474,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:30:08.287335+00:00"
+  "updated_at": "2026-09-17T06:30:10.605166+00:00"
 }
