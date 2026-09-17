@@ -9364,14 +9364,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "26245114",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29445542",
-          "attempted_at": "2026-09-17T07:00:35.672715+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26245114",
           "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
@@ -9385,23 +9377,20 @@
           "permanent": false,
           "target_video_id": "29446775",
           "attempted_at": "2026-09-17T08:27:47.563556+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29447166",
+          "attempted_at": "2026-09-17T09:10:38.520267+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-17T08:58:54.686966+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-1",
-        "claimed_at": "2026-09-17T08:59:07.915144+00:00",
-        "lease_expires_at": "2026-09-17T14:59:07.915144+00:00",
-        "run_id": "35185833829"
-      },
-      "prepared": {
-        "target_video_id": "29447166",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-17T08:59:17.064135+00:00"
       }
     },
     "18349": {
@@ -67533,6 +67522,12 @@
         "target_video_id": "29446079",
         "size_bytes": 11766638527,
         "prepared_at": "2026-09-17T07:18:10.436769+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-3",
+        "claimed_at": "2026-09-17T09:10:38.271855+00:00",
+        "lease_expires_at": "2026-09-17T15:10:38.271855+00:00",
+        "run_id": "35185833829"
       }
     },
     "33147": {
@@ -169115,5 +169110,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T09:10:36.537244+00:00"
+  "updated_at": "2026-09-17T09:10:38.520282+00:00"
 }
