@@ -40774,17 +40774,19 @@
       }
     },
     "30411": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713487",
+          "target_video_id": "29445047",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:14:38.213212+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713487",
         "display_name": "Tom a Jerry - Vánoční párty (2010) SD CZ Dabing",
         "planned_at": "2026-09-17T06:05:50.731918+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-0",
-        "claimed_at": "2026-09-17T06:13:36.870831+00:00",
-        "lease_expires_at": "2026-09-17T12:13:36.870831+00:00",
-        "run_id": "35185833829"
       },
       "prepared": {
         "target_video_id": "29445047",
@@ -40857,6 +40859,12 @@
         "target_video_id": "29441311",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-17T02:15:56.621115+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-2",
+        "claimed_at": "2026-09-17T06:14:35.957936+00:00",
+        "lease_expires_at": "2026-09-17T12:14:35.957936+00:00",
+        "run_id": "35185833829"
       }
     },
     "18165": {
@@ -168336,5 +168344,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:14:30.369265+00:00"
+  "updated_at": "2026-09-17T06:14:38.213226+00:00"
 }
