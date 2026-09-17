@@ -12054,14 +12054,6 @@
     "527": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32277811",
-          "target_video_id": "29458979",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T17:29:53.492254+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32277811",
           "target_video_id": "29460047",
@@ -12075,18 +12067,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-17T19:20:27.891835+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32277811",
+          "reason": "Request failed for https://sdilej.cz/32277811/jak-vycvicit-draka-2025-uhdr-dv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T19:55:50.188414+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "Jak vycvičit draka (2025) 4K CZ Dabing",
         "planned_at": "2026-09-17T19:52:11.358724+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-0",
-        "claimed_at": "2026-09-17T19:55:04.314729+00:00",
-        "lease_expires_at": "2026-09-18T01:55:04.314729+00:00",
-        "run_id": "35252400204"
       }
     },
     "652": {
@@ -16092,6 +16085,12 @@
         "target_video_id": "29116000",
         "size_bytes": 14700000000,
         "prepared_at": "2026-09-05T01:45:38.119064+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-2",
+        "claimed_at": "2026-09-17T19:55:48.535347+00:00",
+        "lease_expires_at": "2026-09-18T01:55:48.535347+00:00",
+        "run_id": "35252400204"
       }
     },
     "32415": {
@@ -17361,6 +17360,12 @@
         "target_video_id": "29117207",
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-4",
+        "claimed_at": "2026-09-17T19:55:48.903472+00:00",
+        "lease_expires_at": "2026-09-18T01:55:48.903472+00:00",
+        "run_id": "35252400204"
       }
     },
     "25815": {
@@ -17613,6 +17618,12 @@
         "target_video_id": "29154105",
         "size_bytes": 11800000000,
         "prepared_at": "2026-09-06T06:54:41.375975+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-5",
+        "claimed_at": "2026-09-17T19:55:48.710372+00:00",
+        "lease_expires_at": "2026-09-18T01:55:48.710372+00:00",
+        "run_id": "35252400204"
       }
     },
     "1172": {
@@ -170576,5 +170587,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T19:55:46.538492+00:00"
+  "updated_at": "2026-09-17T19:55:50.188431+00:00"
 }
