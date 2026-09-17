@@ -69794,17 +69794,19 @@
       }
     },
     "14244": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30128765",
+          "reason": "Request failed for https://sdilej.cz/30128765/ingredience-lasky-the-secret-ingredient-2020-usa-romanticky-cz-dab.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T18:55:45.260895+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30128765",
         "display_name": "Ingredience lásky (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-17T18:34:06.623535+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-0",
-        "claimed_at": "2026-09-17T18:54:59.464901+00:00",
-        "lease_expires_at": "2026-09-18T00:54:59.464901+00:00",
-        "run_id": "35252400204"
       }
     },
     "22342": {
@@ -69819,6 +69821,12 @@
         "source_id": "31685263",
         "display_name": "Nepřátelé (2025) 1080p CZ Titulky",
         "planned_at": "2026-09-17T18:34:06.846868+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-3",
+        "claimed_at": "2026-09-17T18:55:38.182032+00:00",
+        "lease_expires_at": "2026-09-18T00:55:38.182032+00:00",
+        "run_id": "35252400204"
       }
     },
     "22319": {
@@ -170276,5 +170284,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T18:55:31.147412+00:00"
+  "updated_at": "2026-09-17T18:55:45.260911+00:00"
 }
