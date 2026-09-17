@@ -11121,14 +11121,6 @@
     "646": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27650803",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29437755",
-          "attempted_at": "2026-09-16T22:22:26.387593+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27650803",
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
@@ -11142,18 +11134,19 @@
           "permanent": false,
           "target_video_id": "29439747",
           "attempted_at": "2026-09-17T01:23:49.524394+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27650803",
+          "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T01:59:12.870033+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-17T01:55:58.146204+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-4",
-        "claimed_at": "2026-09-17T01:58:26.870784+00:00",
-        "lease_expires_at": "2026-09-17T07:58:26.870784+00:00",
-        "run_id": "35162139486"
       }
     },
     "21307": {
@@ -25414,6 +25407,12 @@
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-17T01:55:59.185034+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-3",
+        "claimed_at": "2026-09-17T01:58:51.770387+00:00",
+        "lease_expires_at": "2026-09-17T07:58:51.770387+00:00",
+        "run_id": "35162139486"
       }
     },
     "1814": {
@@ -31779,6 +31778,12 @@
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T01:55:59.428380+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-1",
+        "claimed_at": "2026-09-17T01:58:51.955060+00:00",
+        "lease_expires_at": "2026-09-17T07:58:51.955060+00:00",
+        "run_id": "35162139486"
       }
     },
     "19227": {
@@ -167334,5 +167339,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T01:58:49.873631+00:00"
+  "updated_at": "2026-09-17T01:59:12.870053+00:00"
 }
