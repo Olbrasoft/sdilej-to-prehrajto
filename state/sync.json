@@ -41087,17 +41087,19 @@
       }
     },
     "31346": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34807757",
+          "reason": "Request failed for https://sdilej.cz/34807757/navrat-do-osvetimi-2016-tvrip.avi.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:17:49.011794+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34807757",
         "display_name": "Návrat do Osvětimi (2016) SD",
         "planned_at": "2026-09-17T06:05:52.358018+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-3",
-        "claimed_at": "2026-09-17T06:17:03.205259+00:00",
-        "lease_expires_at": "2026-09-17T12:17:03.205259+00:00",
-        "run_id": "35185833829"
       }
     },
     "29257": {
@@ -168382,5 +168384,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:17:20.961934+00:00"
+  "updated_at": "2026-09-17T06:17:49.011812+00:00"
 }
