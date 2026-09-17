@@ -64915,14 +64915,6 @@
     "2963": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28922330",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29447217",
-          "attempted_at": "2026-09-17T09:48:15.839642+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28922330",
           "target_video_id": "29448848",
@@ -64936,23 +64928,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-17T14:55:44.785832+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28922330",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29459781",
+          "attempted_at": "2026-09-17T18:32:58.967546+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-17T17:33:28.407368+00:00"
-      },
-      "claim": {
-        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-0",
-        "claimed_at": "2026-09-17T17:39:23.270921+00:00",
-        "lease_expires_at": "2026-09-17T23:39:23.270921+00:00",
-        "run_id": "35252400204"
-      },
-      "prepared": {
-        "target_video_id": "29459781",
-        "size_bytes": 12562833513,
-        "prepared_at": "2026-09-17T17:39:27.770472+00:00"
       }
     },
     "2788": {
@@ -170115,5 +170104,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T18:32:56.681323+00:00"
+  "updated_at": "2026-09-17T18:32:58.967564+00:00"
 }
