@@ -32036,6 +32036,12 @@
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T17:05:56.578217+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-5",
+        "claimed_at": "2026-09-17T17:07:49.688995+00:00",
+        "lease_expires_at": "2026-09-17T23:07:49.688995+00:00",
+        "run_id": "35215635901"
       }
     },
     "19227": {
@@ -40836,13 +40842,6 @@
     "17069": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "12740244",
-          "target_video_id": "29450116",
-          "permanent": false,
-          "attempted_at": "2026-09-17T13:00:01.024215+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "12740244",
           "target_video_id": "29450116",
@@ -40856,17 +40855,20 @@
           "target_video_id": "29458859",
           "permanent": false,
           "attempted_at": "2026-09-17T16:14:20.564774+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "12740244",
+          "target_video_id": "29458859",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T17:07:53.392284+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-17T17:05:56.720016+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29458859",
-        "size_bytes": 1318624686,
-        "prepared_at": "2026-09-17T16:08:16.168439+00:00"
       }
     },
     "25098": {
@@ -42769,6 +42771,12 @@
         "source_id": "32959839",
         "display_name": "Jubal (1956) 720p CZ Dabing",
         "planned_at": "2026-09-17T17:05:56.860901+00:00"
+      },
+      "claim": {
+        "worker_id": "6c9ff0f2f6774d8a8a6de9e65954ea87-shard-0",
+        "claimed_at": "2026-09-17T17:07:50.277417+00:00",
+        "lease_expires_at": "2026-09-17T23:07:50.277417+00:00",
+        "run_id": "35215635901"
       }
     },
     "34422": {
@@ -170078,5 +170086,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T17:07:47.722611+00:00"
+  "updated_at": "2026-09-17T17:07:53.392300+00:00"
 }
