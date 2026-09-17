@@ -5090,6 +5090,12 @@
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
+      },
+      "claim": {
+        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-5",
+        "claimed_at": "2026-09-17T23:42:19.460724+00:00",
+        "lease_expires_at": "2026-09-18T05:42:19.460724+00:00",
+        "run_id": "35281831981"
       }
     },
     "13803": {
@@ -49162,13 +49168,6 @@
           "source_id": "30644750",
           "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T20:09:57.956267+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "30644750",
-          "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T20:57:25.934603+00:00"
         },
         {
@@ -49177,23 +49176,20 @@
           "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T22:00:21.187956+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29464081",
+          "attempted_at": "2026-09-17T23:42:22.635142+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-17T23:21:28.953682+00:00"
-      },
-      "claim": {
-        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-3",
-        "claimed_at": "2026-09-17T23:23:14.138942+00:00",
-        "lease_expires_at": "2026-09-18T05:23:14.138942+00:00",
-        "run_id": "35281831981"
-      },
-      "prepared": {
-        "target_video_id": "29464081",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-17T23:23:17.379733+00:00"
       }
     },
     "10659": {
@@ -171045,5 +171041,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T23:42:17.702756+00:00"
+  "updated_at": "2026-09-17T23:42:22.635161+00:00"
 }
