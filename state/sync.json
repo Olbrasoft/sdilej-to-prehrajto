@@ -20927,6 +20927,12 @@
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-3",
+        "claimed_at": "2026-09-17T02:52:16.127157+00:00",
+        "lease_expires_at": "2026-09-17T08:52:16.127157+00:00",
+        "run_id": "35162139486"
       }
     },
     "24202": {
@@ -47991,14 +47997,6 @@
     "30909": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "18823758",
-          "target_video_id": "29436178",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-16T21:51:08.802655+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "18823758",
           "target_video_id": "29438854",
@@ -48012,18 +48010,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-17T01:46:36.990618+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18823758",
+          "target_video_id": "29441532",
+          "permanent": false,
+          "attempted_at": "2026-09-17T02:52:18.755875+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18823758",
         "display_name": "Mogadishu (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-17T02:30:55.893960+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-2",
-        "claimed_at": "2026-09-17T02:33:15.997188+00:00",
-        "lease_expires_at": "2026-09-17T08:33:15.997188+00:00",
-        "run_id": "35162139486"
       },
       "prepared": {
         "target_video_id": "29441532",
@@ -167578,5 +167577,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T02:52:14.312619+00:00"
+  "updated_at": "2026-09-17T02:52:18.755891+00:00"
 }
