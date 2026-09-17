@@ -9364,13 +9364,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-16T22:35:27.210248+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "26245114",
           "reason": "PrehrajtoError",
@@ -9384,23 +9377,20 @@
           "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T01:26:21.643262+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29441104",
+          "attempted_at": "2026-09-17T02:13:45.765949+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-17T01:59:41.829522+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-1",
-        "claimed_at": "2026-09-17T01:59:54.439531+00:00",
-        "lease_expires_at": "2026-09-17T07:59:54.439531+00:00",
-        "run_id": "35162139486"
-      },
-      "prepared": {
-        "target_video_id": "29441104",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-17T01:59:58.759628+00:00"
       }
     },
     "18349": {
@@ -28134,6 +28124,12 @@
         "target_video_id": "29388044",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-14T19:20:40.944425+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-0",
+        "claimed_at": "2026-09-17T02:13:43.041980+00:00",
+        "lease_expires_at": "2026-09-17T08:13:43.041980+00:00",
+        "run_id": "35162139486"
       }
     },
     "1719": {
@@ -28249,6 +28245,12 @@
         "target_video_id": "29388066",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T19:21:30.717664+00:00"
+      },
+      "claim": {
+        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-5",
+        "claimed_at": "2026-09-17T02:13:42.871101+00:00",
+        "lease_expires_at": "2026-09-17T08:13:42.871101+00:00",
+        "run_id": "35162139486"
       }
     },
     "1730": {
@@ -167348,5 +167350,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T02:13:41.081368+00:00"
+  "updated_at": "2026-09-17T02:13:45.765963+00:00"
 }
