@@ -40922,13 +40922,6 @@
           "source_id": "34885956",
           "reason": "Request failed for https://sdilej.cz/34885956/zrodila-se-astrid-2018-cz-dabing-1080p-fhd.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T01:30:09.146988+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34885956",
-          "reason": "Request failed for https://sdilej.cz/34885956/zrodila-se-astrid-2018-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-17T02:16:45.484164+00:00"
         },
         {
@@ -40937,6 +40930,13 @@
           "target_video_id": "29441796",
           "permanent": false,
           "attempted_at": "2026-09-17T03:37:46.538018+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34885956",
+          "target_video_id": "29441796",
+          "permanent": false,
+          "attempted_at": "2026-09-17T04:28:42.474163+00:00"
         }
       ],
       "last_plan": {
@@ -40946,14 +40946,8 @@
       },
       "prepared": {
         "target_video_id": "29441796",
-        "size_bytes": 5394052043,
+        "size_bytes": 5400000000,
         "prepared_at": "2026-09-17T02:56:55.698194+00:00"
-      },
-      "claim": {
-        "worker_id": "dd073710a6394bba929f63f61db527ab-shard-0",
-        "claimed_at": "2026-09-17T04:28:37.754191+00:00",
-        "lease_expires_at": "2026-09-17T10:28:37.754191+00:00",
-        "run_id": "35162139486"
       }
     },
     "21582": {
@@ -167720,5 +167714,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T04:28:40.664228+00:00"
+  "updated_at": "2026-09-17T04:28:42.474180+00:00"
 }
