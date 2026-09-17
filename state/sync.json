@@ -31748,14 +31748,6 @@
           "source_id": "34817688",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29441960",
-          "attempted_at": "2026-09-17T03:50:34.506983+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29443013",
           "attempted_at": "2026-09-17T04:51:24.916789+00:00"
         },
@@ -31766,18 +31758,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-17T05:49:04.209629+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34817688",
+          "reason": "Request failed for https://sdilej.cz/34817688/apollo-10-1-2-dite-kosmickeho-veku-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-17T06:27:37.558743+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-17T06:24:33.000301+00:00"
-      },
-      "claim": {
-        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-5",
-        "claimed_at": "2026-09-17T06:26:51.867548+00:00",
-        "lease_expires_at": "2026-09-17T12:26:51.867548+00:00",
-        "run_id": "35185833829"
       }
     },
     "19227": {
@@ -41549,6 +41542,12 @@
         "target_video_id": "29440773",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-17T01:29:35.937235+00:00"
+      },
+      "claim": {
+        "worker_id": "10e5ccdd1933472db293735182ecc4cb-shard-1",
+        "claimed_at": "2026-09-17T06:27:36.438170+00:00",
+        "lease_expires_at": "2026-09-17T12:27:36.438170+00:00",
+        "run_id": "35185833829"
       }
     },
     "35314": {
@@ -168391,5 +168390,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T06:27:34.791985+00:00"
+  "updated_at": "2026-09-17T06:27:37.558758+00:00"
 }
