@@ -48522,6 +48522,12 @@
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-17T20:58:39.557989+00:00"
+      },
+      "claim": {
+        "worker_id": "2022615b906543dbbe6e7e5de66f5be6-shard-1",
+        "claimed_at": "2026-09-17T21:07:56.294521+00:00",
+        "lease_expires_at": "2026-09-18T03:07:56.294521+00:00",
+        "run_id": "35252400204"
       }
     },
     "14755": {
@@ -52620,14 +52626,6 @@
     "2499": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "32222414",
-          "target_video_id": "29457838",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T17:10:24.926149+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32222414",
           "reason": "PrehrajtoError",
@@ -52641,17 +52639,20 @@
           "target_video_id": "29461227",
           "permanent": false,
           "attempted_at": "2026-09-17T20:27:15.793901+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "32222414",
+          "target_video_id": "29461227",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-17T21:08:00.446117+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-17T20:58:39.780027+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29461227",
-        "size_bytes": 4677714461,
-        "prepared_at": "2026-09-17T20:10:41.947394+00:00"
       }
     },
     "2571": {
@@ -170752,5 +170753,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-17T21:07:53.632184+00:00"
+  "updated_at": "2026-09-17T21:08:00.446134+00:00"
 }
