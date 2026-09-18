@@ -58046,13 +58046,6 @@
           "source_id": "31639655",
           "reason": "Request failed for https://sdilej.cz/31639655/teorie-tygra-2016-cz-fhd-h265-deadinside.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-18T10:45:12.392765+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31639655",
-          "reason": "Request failed for https://sdilej.cz/31639655/teorie-tygra-2016-cz-fhd-h265-deadinside.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-18T11:58:02.370958+00:00"
         },
         {
@@ -58062,18 +58055,19 @@
           "permanent": false,
           "target_video_id": "29486451",
           "attempted_at": "2026-09-18T12:58:04.285984+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31639655",
+          "target_video_id": "29487856",
+          "permanent": false,
+          "attempted_at": "2026-09-18T13:51:09.164966+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-18T13:43:16.672321+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-3",
-        "claimed_at": "2026-09-18T13:45:32.895180+00:00",
-        "lease_expires_at": "2026-09-18T19:45:32.895180+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29487856",
@@ -72478,6 +72472,12 @@
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T13:43:25.787106+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-2",
+        "claimed_at": "2026-09-18T13:51:08.375889+00:00",
+        "lease_expires_at": "2026-09-18T19:51:08.375889+00:00",
+        "run_id": "35334732825"
       }
     },
     "21194": {
@@ -173069,5 +173069,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T13:51:06.564969+00:00"
+  "updated_at": "2026-09-18T13:51:09.164980+00:00"
 }
