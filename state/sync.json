@@ -25016,13 +25016,6 @@
     "21771": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31605868",
-          "reason": "Request failed for https://sdilej.cz/31605868/shenandoah-western-1965-cz-dabing.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T22:37:10.898908+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31605868",
           "target_video_id": "29463896",
@@ -25035,6 +25028,13 @@
           "target_video_id": "29463896",
           "permanent": false,
           "attempted_at": "2026-09-18T00:28:44.094842+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31605868",
+          "target_video_id": "29463896",
+          "permanent": false,
+          "attempted_at": "2026-09-18T01:02:48.830885+00:00"
         }
       ],
       "last_plan": {
@@ -25418,6 +25418,12 @@
         "target_video_id": "29446509",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-17T07:49:41.440748+00:00"
+      },
+      "claim": {
+        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-1",
+        "claimed_at": "2026-09-18T01:02:45.761916+00:00",
+        "lease_expires_at": "2026-09-18T07:02:45.761916+00:00",
+        "run_id": "35281831981"
       }
     },
     "1708": {
@@ -25554,6 +25560,12 @@
         "target_video_id": "29161092",
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-06T12:31:01.918341+00:00"
+      },
+      "claim": {
+        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-5",
+        "claimed_at": "2026-09-18T01:02:46.145071+00:00",
+        "lease_expires_at": "2026-09-18T07:02:46.145071+00:00",
+        "run_id": "35281831981"
       }
     },
     "1693": {
@@ -171174,5 +171186,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T01:02:43.935634+00:00"
+  "updated_at": "2026-09-18T01:02:48.830904+00:00"
 }
