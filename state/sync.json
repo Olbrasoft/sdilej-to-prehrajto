@@ -40771,6 +40771,12 @@
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-18T17:40:19.580959+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-4",
+        "claimed_at": "2026-09-18T17:40:35.749719+00:00",
+        "lease_expires_at": "2026-09-18T23:40:35.749719+00:00",
+        "run_id": "35368511959"
       }
     },
     "31638": {
@@ -58443,14 +58449,6 @@
     "2075": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31639655",
-          "target_video_id": "29487856",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T14:49:41.134800+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31639655",
           "target_video_id": "29490349",
@@ -58464,23 +58462,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T16:53:17.772473+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31639655",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29492016",
+          "attempted_at": "2026-09-18T17:41:05.926554+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-18T17:26:21.449907+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-2",
-        "claimed_at": "2026-09-18T17:28:43.359904+00:00",
-        "lease_expires_at": "2026-09-18T23:28:43.359904+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29492016",
-        "size_bytes": 2100917827,
-        "prepared_at": "2026-09-18T17:28:47.141445+00:00"
       }
     },
     "32398": {
@@ -173580,5 +173575,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T17:40:33.879756+00:00"
+  "updated_at": "2026-09-18T17:41:05.926570+00:00"
 }
