@@ -26761,14 +26761,6 @@
     "1610": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "25506189",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29491880",
-          "attempted_at": "2026-09-18T17:40:33.879739+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25506189",
           "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
@@ -26781,18 +26773,19 @@
           "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T18:57:08.169807+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25506189",
+          "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:29:58.114165+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Trojúhelník smutku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T19:28:59.812940+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-4",
-        "claimed_at": "2026-09-18T19:29:11.970474+00:00",
-        "lease_expires_at": "2026-09-19T01:29:11.970474+00:00",
-        "run_id": "35368511959"
       }
     },
     "27583": {
@@ -37271,6 +37264,12 @@
         "target_video_id": "29461913",
         "size_bytes": 1600000000,
         "prepared_at": "2026-09-17T21:02:10.820131+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
+        "claimed_at": "2026-09-18T19:29:56.013829+00:00",
+        "lease_expires_at": "2026-09-19T01:29:56.013829+00:00",
+        "run_id": "35368511959"
       }
     },
     "22928": {
@@ -173872,5 +173871,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:29:49.777006+00:00"
+  "updated_at": "2026-09-18T19:29:58.114187+00:00"
 }
