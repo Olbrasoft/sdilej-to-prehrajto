@@ -19025,6 +19025,12 @@
         "target_video_id": "29118413",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-1",
+        "claimed_at": "2026-09-18T21:26:55.799600+00:00",
+        "lease_expires_at": "2026-09-19T03:26:55.799600+00:00",
+        "run_id": "35368511959"
       }
     },
     "14460": {
@@ -50458,14 +50464,6 @@
           "source_id": "31064718",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29496902",
-          "attempted_at": "2026-09-18T18:55:09.135492+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "31064718",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29499189",
           "attempted_at": "2026-09-18T19:46:20.852822+00:00"
         },
@@ -50475,23 +50473,20 @@
           "reason": "Request failed for https://sdilej.cz/31064718/v.hodine.strachu.1968.eridanus.hdtv1080.dab.svk.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T20:32:30.873752+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31064718",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29502623",
+          "attempted_at": "2026-09-18T21:26:56.014919+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-18T21:04:29.740450+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-2",
-        "claimed_at": "2026-09-18T21:14:18.042764+00:00",
-        "lease_expires_at": "2026-09-19T03:14:18.042764+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29502623",
-        "size_bytes": 2612695137,
-        "prepared_at": "2026-09-18T21:14:21.558336+00:00"
       }
     },
     "14755": {
@@ -174060,5 +174055,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T21:26:53.969959+00:00"
+  "updated_at": "2026-09-18T21:26:56.014936+00:00"
 }
