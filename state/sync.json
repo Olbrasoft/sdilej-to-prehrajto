@@ -54116,14 +54116,6 @@
           "source_id": "32222414",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29478298",
-          "attempted_at": "2026-09-18T09:57:43.514879+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32222414",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29481339",
           "attempted_at": "2026-09-18T10:53:14.531384+00:00"
         },
@@ -54133,18 +54125,19 @@
           "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T11:51:40.673257+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32222414",
+          "reason": "Request failed for https://sdilej.cz/32222414/spolecnik-2025-cz-dabing-ultra-hd-2160p-4k.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T12:41:51.219284+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
         "planned_at": "2026-09-18T12:29:24.082887+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-2",
-        "claimed_at": "2026-09-18T12:41:05.531514+00:00",
-        "lease_expires_at": "2026-09-18T18:41:05.531514+00:00",
-        "run_id": "35334732825"
       }
     },
     "2571": {
@@ -55099,6 +55092,12 @@
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-18T12:29:24.566599+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
+        "claimed_at": "2026-09-18T12:41:14.965401+00:00",
+        "lease_expires_at": "2026-09-18T18:41:14.965401+00:00",
+        "run_id": "35334732825"
       }
     },
     "24796": {
@@ -172892,5 +172891,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:41:12.909037+00:00"
+  "updated_at": "2026-09-18T12:41:51.219302+00:00"
 }
