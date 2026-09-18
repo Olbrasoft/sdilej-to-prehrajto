@@ -44587,13 +44587,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "26500293",
-          "target_video_id": "29475402",
-          "permanent": false,
-          "attempted_at": "2026-09-18T08:53:21.935472+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "26500293",
           "target_video_id": "29475402",
@@ -44607,18 +44600,19 @@
           "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T10:36:28.417432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26500293",
+          "target_video_id": "29483958",
+          "permanent": false,
+          "attempted_at": "2026-09-18T11:33:58.369152+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T11:12:04.638749+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-0",
-        "claimed_at": "2026-09-18T11:25:05.427211+00:00",
-        "lease_expires_at": "2026-09-18T17:25:05.427211+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29483958",
@@ -45761,6 +45755,12 @@
         "source_id": "20750704",
         "display_name": "Dokonalá loupež (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-18T11:12:06.871117+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-3",
+        "claimed_at": "2026-09-18T11:33:56.176736+00:00",
+        "lease_expires_at": "2026-09-18T17:33:56.176736+00:00",
+        "run_id": "35334732825"
       }
     },
     "17736": {
@@ -172763,5 +172763,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T11:33:50.240765+00:00"
+  "updated_at": "2026-09-18T11:33:58.369165+00:00"
 }
