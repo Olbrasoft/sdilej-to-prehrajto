@@ -38323,6 +38323,12 @@
         "target_video_id": "29199053",
         "size_bytes": 10700000000,
         "prepared_at": "2026-09-07T22:48:45.435945+00:00"
+      },
+      "claim": {
+        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-1",
+        "claimed_at": "2026-09-18T03:28:02.796460+00:00",
+        "lease_expires_at": "2026-09-18T09:28:02.796460+00:00",
+        "run_id": "35281831981"
       }
     },
     "36845": {
@@ -53179,14 +53185,6 @@
           "source_id": "27669370",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29460193",
-          "attempted_at": "2026-09-17T19:41:33.416920+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27669370",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29461558",
           "attempted_at": "2026-09-17T21:57:59.007519+00:00"
         },
@@ -53197,23 +53195,20 @@
           "permanent": false,
           "target_video_id": "29464301",
           "attempted_at": "2026-09-18T01:45:40.441604+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29466853",
+          "attempted_at": "2026-09-18T03:28:05.040777+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-18T02:20:46.509606+00:00"
-      },
-      "claim": {
-        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-0",
-        "claimed_at": "2026-09-18T02:22:57.500698+00:00",
-        "lease_expires_at": "2026-09-18T08:22:57.500698+00:00",
-        "run_id": "35281831981"
-      },
-      "prepared": {
-        "target_video_id": "29466853",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-18T02:23:00.836288+00:00"
       }
     },
     "18861": {
@@ -171253,5 +171248,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T03:27:57.317483+00:00"
+  "updated_at": "2026-09-18T03:28:05.040796+00:00"
 }
