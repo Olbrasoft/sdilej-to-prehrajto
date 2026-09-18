@@ -38059,6 +38059,12 @@
         "source_id": "11716047",
         "display_name": "Svět podle Garpa (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-18T09:33:17.722767+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
+        "claimed_at": "2026-09-18T09:34:18.436468+00:00",
+        "lease_expires_at": "2026-09-18T15:34:18.436468+00:00",
+        "run_id": "35307207285"
       }
     },
     "19811": {
@@ -66408,14 +66414,6 @@
     "2963": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28922330",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29468110",
-          "attempted_at": "2026-09-18T05:02:53.457279+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28922330",
           "target_video_id": "29470564",
@@ -66429,23 +66427,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T08:25:18.847000+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28922330",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29476422",
+          "attempted_at": "2026-09-18T09:34:42.581086+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-18T08:57:12.192957+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-0",
-        "claimed_at": "2026-09-18T09:03:50.527288+00:00",
-        "lease_expires_at": "2026-09-18T15:03:50.527288+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29476422",
-        "size_bytes": 12562833513,
-        "prepared_at": "2026-09-18T09:03:53.877310+00:00"
       }
     },
     "2788": {
@@ -172264,5 +172259,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T09:34:16.640599+00:00"
+  "updated_at": "2026-09-18T09:34:42.581104+00:00"
 }
