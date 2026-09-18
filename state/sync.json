@@ -40473,6 +40473,12 @@
         "target_video_id": "29212917",
         "size_bytes": 20400000000,
         "prepared_at": "2026-09-08T12:07:32.868752+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
+        "claimed_at": "2026-09-18T19:30:49.193995+00:00",
+        "lease_expires_at": "2026-09-19T01:30:49.193995+00:00",
+        "run_id": "35368511959"
       }
     },
     "25986": {
@@ -40593,6 +40599,12 @@
         "target_video_id": "29174967",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-07T00:24:08.111176+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-4",
+        "claimed_at": "2026-09-18T19:30:49.387581+00:00",
+        "lease_expires_at": "2026-09-19T01:30:49.387581+00:00",
+        "run_id": "35368511959"
       }
     },
     "35732": {
@@ -81287,17 +81299,19 @@
       "attempts": []
     },
     "10981": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29876862",
+          "target_video_id": "29498547",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:30:49.603430+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29876862",
         "display_name": "Zločin v šantánu (1968) 1080p CZ Dabing",
         "planned_at": "2026-09-18T18:51:44.821733+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-2",
-        "claimed_at": "2026-09-18T19:18:14.089754+00:00",
-        "lease_expires_at": "2026-09-19T01:18:14.089754+00:00",
-        "run_id": "35368511959"
       },
       "prepared": {
         "target_video_id": "29498547",
@@ -173865,5 +173879,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:30:47.377850+00:00"
+  "updated_at": "2026-09-18T19:30:49.603449+00:00"
 }
