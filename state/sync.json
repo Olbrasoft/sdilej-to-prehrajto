@@ -14770,14 +14770,6 @@
     "675": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "33887096",
-          "target_video_id": "29491862",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T18:17:15.952663+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33887096",
           "target_video_id": "29497704",
@@ -14791,23 +14783,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T19:41:02.287409+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33887096",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29500891",
+          "attempted_at": "2026-09-18T20:32:17.761977+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33887096",
         "display_name": "Anatomie pádu (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-18T20:15:48.099404+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-5",
-        "claimed_at": "2026-09-18T20:16:03.757128+00:00",
-        "lease_expires_at": "2026-09-19T02:16:03.757128+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29500891",
-        "size_bytes": 4762913251,
-        "prepared_at": "2026-09-18T20:16:07.272680+00:00"
       }
     },
     "35499": {
@@ -173869,5 +173858,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T20:31:50.968808+00:00"
+  "updated_at": "2026-09-18T20:32:17.761993+00:00"
 }
