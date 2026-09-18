@@ -6944,17 +6944,19 @@
       "attempts": []
     },
     "15147": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29218710",
+          "reason": "Request failed for https://sdilej.cz/29218710/laska.amour.webrip.cz.fr.2012.720p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:08:49.623443+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29218710",
         "display_name": "Láska (2012) 720p CZ Dabing",
         "planned_at": "2026-09-18T14:07:00.397502+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-0",
-        "claimed_at": "2026-09-18T14:08:03.830450+00:00",
-        "lease_expires_at": "2026-09-18T20:08:03.830450+00:00",
-        "run_id": "35334732825"
       }
     },
     "20258": {
@@ -8383,6 +8385,12 @@
         "target_video_id": "29211798",
         "size_bytes": 7400000000,
         "prepared_at": "2026-09-08T10:50:07.610886+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
+        "claimed_at": "2026-09-18T14:08:49.310201+00:00",
+        "lease_expires_at": "2026-09-18T20:08:49.310201+00:00",
+        "run_id": "35334732825"
       }
     },
     "11516": {
@@ -173126,5 +173134,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:08:47.481519+00:00"
+  "updated_at": "2026-09-18T14:08:49.623459+00:00"
 }
