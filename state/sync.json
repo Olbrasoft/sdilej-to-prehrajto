@@ -50307,6 +50307,12 @@
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-18T20:28:22.948578+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-2",
+        "claimed_at": "2026-09-18T20:31:43.471597+00:00",
+        "lease_expires_at": "2026-09-19T02:31:43.471597+00:00",
+        "run_id": "35368511959"
       }
     },
     "14755": {
@@ -56293,14 +56299,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29492719",
-          "attempted_at": "2026-09-18T17:51:59.279248+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28441201",
           "target_video_id": "29497034",
@@ -56314,23 +56312,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T19:39:33.750279+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28441201",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29501107",
+          "attempted_at": "2026-09-18T20:31:45.567080+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-18T20:16:00.834254+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
-        "claimed_at": "2026-09-18T20:21:43.285106+00:00",
-        "lease_expires_at": "2026-09-19T02:21:43.285106+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29501107",
-        "size_bytes": 1893285374,
-        "prepared_at": "2026-09-18T20:21:47.208717+00:00"
       }
     },
     "19162": {
@@ -173863,5 +173858,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T20:31:37.111638+00:00"
+  "updated_at": "2026-09-18T20:31:45.567097+00:00"
 }
