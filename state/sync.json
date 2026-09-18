@@ -14836,17 +14836,19 @@
       }
     },
     "800": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29871405",
+          "reason": "Request failed for https://sdilej.cz/29871405/co-delame-v-temnotach-2014-1080p-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:10:46.609268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29871405",
         "display_name": "Co děláme v temnotách (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T14:07:09.580505+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
-        "claimed_at": "2026-09-18T14:10:00.790544+00:00",
-        "lease_expires_at": "2026-09-18T20:10:00.790544+00:00",
-        "run_id": "35334732825"
       }
     },
     "10938": {
@@ -173157,5 +173159,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:10:04.438364+00:00"
+  "updated_at": "2026-09-18T14:10:46.609284+00:00"
 }
