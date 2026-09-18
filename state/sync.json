@@ -53215,14 +53215,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "27669370",
-          "target_video_id": "29459457",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T17:33:46.091555+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27669370",
           "reason": "PrehrajtoError",
@@ -53237,23 +53229,20 @@
           "permanent": false,
           "target_video_id": "29461558",
           "attempted_at": "2026-09-17T21:57:59.007519+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29464301",
+          "attempted_at": "2026-09-18T01:45:40.441604+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-17T23:21:31.297231+00:00"
-      },
-      "claim": {
-        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-2",
-        "claimed_at": "2026-09-17T23:34:08.466093+00:00",
-        "lease_expires_at": "2026-09-18T05:34:08.466093+00:00",
-        "run_id": "35281831981"
-      },
-      "prepared": {
-        "target_video_id": "29464301",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-17T23:34:11.811092+00:00"
       }
     },
     "18861": {
@@ -171289,5 +171278,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T01:45:28.764922+00:00"
+  "updated_at": "2026-09-18T01:45:40.441621+00:00"
 }
