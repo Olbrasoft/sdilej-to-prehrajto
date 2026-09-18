@@ -41737,14 +41737,6 @@
     "17069": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "12740244",
-          "target_video_id": "29478025",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T10:35:20.470831+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12740244",
           "target_video_id": "29483162",
@@ -41758,18 +41750,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T11:48:21.195565+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12740244",
+          "target_video_id": "29486117",
+          "permanent": false,
+          "attempted_at": "2026-09-18T12:26:48.892708+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-18T12:20:46.439703+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
-        "claimed_at": "2026-09-18T12:23:05.309200+00:00",
-        "lease_expires_at": "2026-09-18T18:23:05.309200+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29486117",
@@ -172854,5 +172847,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:23:08.793445+00:00"
+  "updated_at": "2026-09-18T12:26:48.892723+00:00"
 }
