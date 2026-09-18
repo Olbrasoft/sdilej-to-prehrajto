@@ -67594,14 +67594,6 @@
     "2963": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28922330",
-          "target_video_id": "29490881",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T17:38:35.939703+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "28922330",
           "reason": "Request failed for https://sdilej.cz/28922330/lvi-kral-2019-2160p.-cze-sk-.mkv (HTTP None)",
@@ -67615,23 +67607,20 @@
           "permanent": false,
           "target_video_id": "29499677",
           "attempted_at": "2026-09-18T20:21:27.803981+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28922330",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29503426",
+          "attempted_at": "2026-09-18T22:38:31.677418+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-18T21:49:21.527457+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-0",
-        "claimed_at": "2026-09-18T21:57:48.664474+00:00",
-        "lease_expires_at": "2026-09-19T03:57:48.664474+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29503426",
-        "size_bytes": 12562833513,
-        "prepared_at": "2026-09-18T21:57:53.393293+00:00"
       }
     },
     "2788": {
@@ -70642,6 +70631,12 @@
         "target_video_id": "29443370",
         "size_bytes": 11700000000,
         "prepared_at": "2026-09-17T04:50:53.751459+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-1",
+        "claimed_at": "2026-09-18T22:38:29.019325+00:00",
+        "lease_expires_at": "2026-09-19T04:38:29.019325+00:00",
+        "run_id": "35368511959"
       }
     },
     "29773": {
@@ -70899,6 +70894,12 @@
         "target_video_id": "29443431",
         "size_bytes": 13400000000,
         "prepared_at": "2026-09-17T04:56:42.916997+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
+        "claimed_at": "2026-09-18T22:38:29.241781+00:00",
+        "lease_expires_at": "2026-09-19T04:38:29.241781+00:00",
+        "run_id": "35368511959"
       }
     },
     "21821": {
@@ -174042,5 +174043,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T22:38:27.073289+00:00"
+  "updated_at": "2026-09-18T22:38:31.677434+00:00"
 }
