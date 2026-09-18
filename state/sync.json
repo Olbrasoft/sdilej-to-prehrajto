@@ -67803,14 +67803,6 @@
     "2814": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34455392",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29473271",
-          "attempted_at": "2026-09-18T08:27:26.740525+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34455392",
           "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
@@ -67823,23 +67815,20 @@
           "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T10:00:20.720398+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34455392",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29485783",
+          "attempted_at": "2026-09-18T12:18:24.768981+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-18T11:59:43.161894+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
-        "claimed_at": "2026-09-18T12:05:28.554311+00:00",
-        "lease_expires_at": "2026-09-18T18:05:28.554311+00:00",
-        "run_id": "35334732825"
-      },
-      "prepared": {
-        "target_video_id": "29485783",
-        "size_bytes": 2514312082,
-        "prepared_at": "2026-09-18T12:05:32.628937+00:00"
       }
     },
     "11240": {
@@ -172846,5 +172835,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:18:22.940557+00:00"
+  "updated_at": "2026-09-18T12:18:24.768999+00:00"
 }
