@@ -45003,13 +45003,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "26500293",
-          "target_video_id": "29496729",
-          "permanent": false,
-          "attempted_at": "2026-09-18T18:49:34.589193+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "26500293",
           "target_video_id": "29496729",
@@ -45023,17 +45016,20 @@
           "target_video_id": "29500546",
           "permanent": false,
           "attempted_at": "2026-09-18T20:15:29.314988+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "26500293",
+          "target_video_id": "29500546",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-18T21:00:16.977537+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T20:48:16.312484+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29500546",
-        "size_bytes": 3251819157,
-        "prepared_at": "2026-09-18T20:07:22.970020+00:00"
       }
     },
     "2288": {
@@ -173928,5 +173924,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T21:00:10.165448+00:00"
+  "updated_at": "2026-09-18T21:00:16.977553+00:00"
 }
