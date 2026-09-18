@@ -29224,13 +29224,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "28711738",
-          "target_video_id": "29469170",
-          "permanent": false,
-          "attempted_at": "2026-09-18T05:20:40.198270+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "28711738",
           "target_video_id": "29469170",
@@ -29244,18 +29237,19 @@
           "reason": "Request failed for https://sdilej.cz/28711738/profesor-a-silenec-the-professor-and-the-madman-2019-bluray-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T07:00:48.221403+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28711738",
+          "reason": "Request failed for https://sdilej.cz/28711738/profesor-a-silenec-the-professor-and-the-madman-2019-bluray-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T08:04:36.750916+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-18T07:53:32.730256+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-0",
-        "claimed_at": "2026-09-18T08:03:51.033179+00:00",
-        "lease_expires_at": "2026-09-18T14:03:51.033179+00:00",
-        "run_id": "35307207285"
       }
     },
     "21046": {
@@ -32046,6 +32040,12 @@
         "target_video_id": "29339891",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-13T04:51:12.906017+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
+        "claimed_at": "2026-09-18T08:04:34.154281+00:00",
+        "lease_expires_at": "2026-09-18T14:04:34.154281+00:00",
+        "run_id": "35307207285"
       }
     },
     "14925": {
@@ -172042,5 +172042,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:04:27.450226+00:00"
+  "updated_at": "2026-09-18T08:04:36.750937+00:00"
 }
