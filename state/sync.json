@@ -67256,14 +67256,6 @@
     "2814": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34455392",
-          "target_video_id": "29460280",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T21:42:56.264734+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34455392",
           "reason": "PrehrajtoError",
@@ -67278,23 +67270,20 @@
           "permanent": false,
           "target_video_id": "29470577",
           "attempted_at": "2026-09-18T06:57:01.457090+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34455392",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29473271",
+          "attempted_at": "2026-09-18T08:27:26.740525+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-18T08:11:46.284859+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
-        "claimed_at": "2026-09-18T08:19:20.752064+00:00",
-        "lease_expires_at": "2026-09-18T14:19:20.752064+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29473271",
-        "size_bytes": 2514312082,
-        "prepared_at": "2026-09-18T08:19:25.546947+00:00"
       }
     },
     "11240": {
@@ -172074,5 +172063,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:27:24.371772+00:00"
+  "updated_at": "2026-09-18T08:27:26.740543+00:00"
 }
