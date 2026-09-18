@@ -26347,6 +26347,12 @@
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-18T15:35:06.717129+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
+        "claimed_at": "2026-09-18T15:38:43.471698+00:00",
+        "lease_expires_at": "2026-09-18T21:38:43.471698+00:00",
+        "run_id": "35334732825"
       }
     },
     "1814": {
@@ -67282,14 +67288,6 @@
     "2963": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28922330",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29476422",
-          "attempted_at": "2026-09-18T09:34:42.581086+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28922330",
           "target_video_id": "29485757",
@@ -67303,23 +67301,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T13:50:12.697455+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28922330",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29488964",
+          "attempted_at": "2026-09-18T15:39:27.928758+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-18T14:50:28.020770+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-5",
-        "claimed_at": "2026-09-18T14:51:56.927537+00:00",
-        "lease_expires_at": "2026-09-18T20:51:56.927537+00:00",
-        "run_id": "35334732825"
-      },
-      "prepared": {
-        "target_video_id": "29488964",
-        "size_bytes": 12562833513,
-        "prepared_at": "2026-09-18T14:52:00.346227+00:00"
       }
     },
     "2788": {
@@ -173432,5 +173427,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T15:38:41.697870+00:00"
+  "updated_at": "2026-09-18T15:39:27.928774+00:00"
 }
