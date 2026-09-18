@@ -74292,17 +74292,19 @@
       "attempts": []
     },
     "31271": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34713822",
+          "reason": "Request failed for https://sdilej.cz/34713822/hledam-dum-holubi-1986-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T08:39:25.217370+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713822",
         "display_name": "Hledám dům holubí (1986) SD",
         "planned_at": "2026-09-18T08:29:30.526998+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-2",
-        "claimed_at": "2026-09-18T08:38:39.433854+00:00",
-        "lease_expires_at": "2026-09-18T14:38:39.433854+00:00",
-        "run_id": "35307207285"
       }
     },
     "36965": {
@@ -75421,6 +75423,12 @@
         "target_video_id": "29276356",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-10T15:57:53.026773+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-5",
+        "claimed_at": "2026-09-18T08:39:22.805196+00:00",
+        "lease_expires_at": "2026-09-18T14:39:22.805196+00:00",
+        "run_id": "35307207285"
       }
     },
     "32960": {
@@ -172175,5 +172183,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:39:21.071995+00:00"
+  "updated_at": "2026-09-18T08:39:25.217386+00:00"
 }
