@@ -86928,14 +86928,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "30673323",
-          "target_video_id": "29416255",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T13:22:59.531563+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "30673323",
           "reason": "PrehrajtoError",
@@ -86949,18 +86941,19 @@
           "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T17:52:04.438710+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30673323",
+          "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:22:18.655385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T18:51:47.593083+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-0",
-        "claimed_at": "2026-09-18T19:21:32.968096+00:00",
-        "lease_expires_at": "2026-09-19T01:21:32.968096+00:00",
-        "run_id": "35368511959"
       }
     },
     "14505": {
@@ -88771,6 +88764,12 @@
         "source_id": "34756364",
         "display_name": "Love 2 (2024) 1080p SK Dabing",
         "planned_at": "2026-09-18T18:51:48.499188+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
+        "claimed_at": "2026-09-18T19:22:15.933173+00:00",
+        "lease_expires_at": "2026-09-19T01:22:15.933173+00:00",
+        "run_id": "35368511959"
       }
     },
     "15919": {
@@ -173822,5 +173821,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:22:14.048373+00:00"
+  "updated_at": "2026-09-18T19:22:18.655403+00:00"
 }
