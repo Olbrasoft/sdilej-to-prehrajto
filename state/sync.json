@@ -11126,13 +11126,6 @@
     "646": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27650803",
-          "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T06:47:52.138818+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27650803",
           "reason": "PrehrajtoError",
@@ -11147,23 +11140,20 @@
           "permanent": false,
           "target_video_id": "29474997",
           "attempted_at": "2026-09-18T08:54:58.558250+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27650803",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29477838",
+          "attempted_at": "2026-09-18T09:49:34.770623+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T09:29:44.146786+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-5",
-        "claimed_at": "2026-09-18T09:32:14.029574+00:00",
-        "lease_expires_at": "2026-09-18T15:32:14.029574+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29477838",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-18T09:32:20.965529+00:00"
       }
     },
     "21307": {
@@ -57469,6 +57459,12 @@
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-18T09:44:13.259064+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
+        "claimed_at": "2026-09-18T09:49:14.087307+00:00",
+        "lease_expires_at": "2026-09-18T15:49:14.087307+00:00",
+        "run_id": "35307207285"
       }
     },
     "32398": {
@@ -172274,5 +172270,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T09:49:12.273249+00:00"
+  "updated_at": "2026-09-18T09:49:34.770640+00:00"
 }
