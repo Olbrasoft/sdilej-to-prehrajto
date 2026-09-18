@@ -11166,14 +11166,6 @@
     "646": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27650803",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29489743",
-          "attempted_at": "2026-09-18T15:51:07.962138+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27650803",
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
@@ -11187,23 +11179,20 @@
           "permanent": false,
           "target_video_id": "29491462",
           "attempted_at": "2026-09-18T17:16:14.345078+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27650803",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29493716",
+          "attempted_at": "2026-09-18T18:16:39.813670+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T17:54:47.510947+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-2",
-        "claimed_at": "2026-09-18T17:57:24.355786+00:00",
-        "lease_expires_at": "2026-09-18T23:57:24.355786+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29493716",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-18T17:57:28.729816+00:00"
       }
     },
     "21307": {
@@ -173620,5 +173609,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T18:06:43.553484+00:00"
+  "updated_at": "2026-09-18T18:16:39.813687+00:00"
 }
