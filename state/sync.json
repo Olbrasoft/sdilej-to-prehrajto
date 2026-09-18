@@ -41758,13 +41758,6 @@
     "17069": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "12740244",
-          "target_video_id": "29478025",
-          "permanent": false,
-          "attempted_at": "2026-09-18T09:38:53.035866+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "12740244",
           "target_video_id": "29478025",
@@ -41778,17 +41771,20 @@
           "target_video_id": "29483162",
           "permanent": false,
           "attempted_at": "2026-09-18T11:13:11.643520+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "12740244",
+          "target_video_id": "29483162",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-18T11:48:21.195565+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-18T11:44:53.138265+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29483162",
-        "size_bytes": 1318624686,
-        "prepared_at": "2026-09-18T11:10:25.610809+00:00"
       }
     },
     "25098": {
@@ -172845,5 +172841,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T11:48:16.773540+00:00"
+  "updated_at": "2026-09-18T11:48:21.195580+00:00"
 }
