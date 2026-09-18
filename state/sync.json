@@ -11122,14 +11122,6 @@
     "646": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27650803",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29467241",
-          "attempted_at": "2026-09-18T03:18:49.346988+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "27650803",
           "target_video_id": "29469009",
@@ -11143,18 +11135,19 @@
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T05:58:37.275095+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27650803",
+          "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T06:47:52.138818+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T06:45:13.268959+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
-        "claimed_at": "2026-09-18T06:47:06.444833+00:00",
-        "lease_expires_at": "2026-09-18T12:47:06.444833+00:00",
-        "run_id": "35307207285"
       }
     },
     "21307": {
@@ -11937,6 +11930,12 @@
         "target_video_id": "29338368",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
+        "claimed_at": "2026-09-18T06:47:49.931916+00:00",
+        "lease_expires_at": "2026-09-18T12:47:49.931916+00:00",
+        "run_id": "35307207285"
       }
     },
     "23132": {
@@ -171933,5 +171932,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T06:47:48.130184+00:00"
+  "updated_at": "2026-09-18T06:47:52.138837+00:00"
 }
