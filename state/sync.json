@@ -9368,14 +9368,6 @@
           "source_id": "26245114",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29467695",
-          "attempted_at": "2026-09-18T03:37:24.521537+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "26245114",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29468959",
           "attempted_at": "2026-09-18T05:05:20.344992+00:00"
         },
@@ -9386,18 +9378,19 @@
           "permanent": false,
           "target_video_id": "29469696",
           "attempted_at": "2026-09-18T06:06:26.003414+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26245114",
+          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T06:47:25.519388+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-18T06:45:12.156057+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
-        "claimed_at": "2026-09-18T06:46:39.846665+00:00",
-        "lease_expires_at": "2026-09-18T12:46:39.846665+00:00",
-        "run_id": "35307207285"
       }
     },
     "18349": {
@@ -11156,6 +11149,12 @@
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T06:45:13.268959+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
+        "claimed_at": "2026-09-18T06:47:06.444833+00:00",
+        "lease_expires_at": "2026-09-18T12:47:06.444833+00:00",
+        "run_id": "35307207285"
       }
     },
     "21307": {
@@ -171934,5 +171933,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T06:47:04.453860+00:00"
+  "updated_at": "2026-09-18T06:47:25.519407+00:00"
 }
