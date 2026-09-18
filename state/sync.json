@@ -38145,17 +38145,19 @@
       "attempts": []
     },
     "1880": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29057933",
+          "reason": "Request failed for https://sdilej.cz/29057933/a.good.person.webrip.cz.en.2023.720p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T09:09:36.154374+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29057933",
         "display_name": "Dobrý člověk (2023) 720p CZ Dabing",
         "planned_at": "2026-09-18T09:05:21.218814+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-2",
-        "claimed_at": "2026-09-18T09:08:50.422032+00:00",
-        "lease_expires_at": "2026-09-18T15:08:50.422032+00:00",
-        "run_id": "35307207285"
       }
     },
     "1306": {
@@ -172226,5 +172228,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T09:08:53.951545+00:00"
+  "updated_at": "2026-09-18T09:09:36.154391+00:00"
 }
