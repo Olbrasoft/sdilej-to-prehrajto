@@ -26024,13 +26024,6 @@
     "1803": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32908053",
-          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T09:33:13.716047+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "32908053",
           "reason": "PrehrajtoError",
@@ -26045,18 +26038,19 @@
           "permanent": false,
           "target_video_id": "29483251",
           "attempted_at": "2026-09-18T11:29:46.946865+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32908053",
+          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T12:20:04.863466+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-18T12:17:33.305565+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
-        "claimed_at": "2026-09-18T12:19:18.983685+00:00",
-        "lease_expires_at": "2026-09-18T18:19:18.983685+00:00",
-        "run_id": "35334732825"
       }
     },
     "1814": {
@@ -29504,6 +29498,12 @@
         "target_video_id": "29318983",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-12T07:40:36.904891+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
+        "claimed_at": "2026-09-18T12:20:02.981140+00:00",
+        "lease_expires_at": "2026-09-18T18:20:02.981140+00:00",
+        "run_id": "35334732825"
       }
     },
     "24818": {
@@ -172841,5 +172841,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:20:01.190245+00:00"
+  "updated_at": "2026-09-18T12:20:04.863485+00:00"
 }
