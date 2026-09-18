@@ -15282,13 +15282,6 @@
     "19345": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "18607027",
-          "reason": "Request failed for https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T06:12:40.132360+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "18607027",
           "target_video_id": "29470681",
@@ -15301,6 +15294,13 @@
           "target_video_id": "29470681",
           "permanent": false,
           "attempted_at": "2026-09-18T07:54:41.416269+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18607027",
+          "target_video_id": "29470681",
+          "permanent": false,
+          "attempted_at": "2026-09-18T08:28:12.297543+00:00"
         }
       ],
       "last_plan": {
@@ -15312,12 +15312,6 @@
         "target_video_id": "29470681",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-18T06:49:09.015194+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
-        "claimed_at": "2026-09-18T08:28:05.971449+00:00",
-        "lease_expires_at": "2026-09-18T14:28:05.971449+00:00",
-        "run_id": "35307207285"
       }
     },
     "786": {
@@ -172052,5 +172046,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:28:10.555810+00:00"
+  "updated_at": "2026-09-18T08:28:12.297562+00:00"
 }
