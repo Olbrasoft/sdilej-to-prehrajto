@@ -42090,6 +42090,12 @@
         "target_video_id": "29439418",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-16T23:32:30.498785+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-4",
+        "claimed_at": "2026-09-18T20:42:08.389247+00:00",
+        "lease_expires_at": "2026-09-19T02:42:08.389247+00:00",
+        "run_id": "35368511959"
       }
     },
     "32659": {
@@ -64974,14 +64980,6 @@
     "13486": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "33708286",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29492420",
-          "attempted_at": "2026-09-18T17:46:57.111481+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33708286",
           "reason": "Request failed for https://sdilej.cz/33708286/kam-slunce-nechodi-1971-1080p.mp4 (HTTP None)",
@@ -64994,23 +64992,20 @@
           "reason": "Request failed for https://sdilej.cz/33708286/kam-slunce-nechodi-1971-1080p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T19:44:49.355443+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33708286",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29501522",
+          "attempted_at": "2026-09-18T20:42:11.105149+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-18T20:28:27.191659+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-5",
-        "claimed_at": "2026-09-18T20:33:43.900775+00:00",
-        "lease_expires_at": "2026-09-19T02:33:43.900775+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29501522",
-        "size_bytes": 1484316578,
-        "prepared_at": "2026-09-18T20:33:49.395895+00:00"
       }
     },
     "35753": {
@@ -173861,5 +173856,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T20:42:03.298717+00:00"
+  "updated_at": "2026-09-18T20:42:11.105166+00:00"
 }
