@@ -7514,6 +7514,12 @@
         "source_id": "33563386",
         "display_name": "Slídil (1972) SD CZ Dabing",
         "planned_at": "2026-09-18T14:07:02.644977+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
+        "claimed_at": "2026-09-18T14:08:13.067910+00:00",
+        "lease_expires_at": "2026-09-18T20:08:13.067910+00:00",
+        "run_id": "35334732825"
       }
     },
     "397": {
@@ -67910,13 +67916,6 @@
     "2814": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34455392",
-          "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T10:00:20.720398+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34455392",
           "reason": "PrehrajtoError",
@@ -67931,23 +67930,20 @@
           "permanent": false,
           "target_video_id": "29486896",
           "attempted_at": "2026-09-18T13:14:14.694306+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34455392",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29488026",
+          "attempted_at": "2026-09-18T14:08:27.076185+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-18T13:54:01.863841+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
-        "claimed_at": "2026-09-18T13:55:55.605454+00:00",
-        "lease_expires_at": "2026-09-18T19:55:55.605454+00:00",
-        "run_id": "35334732825"
-      },
-      "prepared": {
-        "target_video_id": "29488026",
-        "size_bytes": 2514312082,
-        "prepared_at": "2026-09-18T13:55:58.607547+00:00"
       }
     },
     "11240": {
@@ -173130,5 +173126,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:08:11.291273+00:00"
+  "updated_at": "2026-09-18T14:08:27.076202+00:00"
 }
