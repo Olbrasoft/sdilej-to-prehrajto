@@ -81790,13 +81790,6 @@
     "16864": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "12863543",
-          "reason": "Request failed for https://sdilej.cz/12863543/taxi-121-2016-.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T10:41:42.898982+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12863543",
           "target_video_id": "29479320",
@@ -81809,6 +81802,13 @@
           "target_video_id": "29479320",
           "permanent": false,
           "attempted_at": "2026-09-18T13:14:08.109538+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12863543",
+          "target_video_id": "29479320",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:01:04.030770+00:00"
         }
       ],
       "last_plan": {
@@ -81925,6 +81925,12 @@
         "source_id": "30977747",
         "display_name": "Via Slovakia (2024) 1080p SK",
         "planned_at": "2026-09-18T13:54:06.569136+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-0",
+        "claimed_at": "2026-09-18T14:00:59.848920+00:00",
+        "lease_expires_at": "2026-09-18T20:00:59.848920+00:00",
+        "run_id": "35334732825"
       }
     },
     "15365": {
@@ -173080,5 +173086,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:00:57.774956+00:00"
+  "updated_at": "2026-09-18T14:01:04.030788+00:00"
 }
