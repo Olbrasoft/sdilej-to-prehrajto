@@ -4071,6 +4071,12 @@
         "target_video_id": "29175005",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-2",
+        "claimed_at": "2026-09-18T09:30:56.514852+00:00",
+        "lease_expires_at": "2026-09-18T15:30:56.514852+00:00",
+        "run_id": "35307207285"
       }
     },
     "21939": {
@@ -80964,18 +80970,19 @@
           "reason": "Request failed for https://sdilej.cz/30819135/stiny-smrti-proklety-les-krimi.fr.b.2021.tvrip.cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-17T10:34:19.414116+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30819135",
+          "target_video_id": "29477652",
+          "permanent": false,
+          "attempted_at": "2026-09-18T09:30:59.204181+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30819135",
         "display_name": "Prokletý les (2021) SD CZ Dabing",
         "planned_at": "2026-09-18T09:12:50.377211+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
-        "claimed_at": "2026-09-18T09:28:32.245622+00:00",
-        "lease_expires_at": "2026-09-18T15:28:32.245622+00:00",
-        "run_id": "35307207285"
       },
       "prepared": {
         "target_video_id": "29477652",
@@ -172232,5 +172239,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T09:30:54.621601+00:00"
+  "updated_at": "2026-09-18T09:30:59.204197+00:00"
 }
