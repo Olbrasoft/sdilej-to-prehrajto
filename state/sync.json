@@ -86171,13 +86171,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31626940",
-          "target_video_id": "29488250",
-          "permanent": false,
-          "attempted_at": "2026-09-18T14:12:24.310367+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "31626940",
           "target_video_id": "29488250",
@@ -86192,18 +86185,19 @@
           "permanent": false,
           "target_video_id": "29493208",
           "attempted_at": "2026-09-18T18:00:05.271744+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31626940",
+          "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:21:53.896399+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-18T18:51:47.103205+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
-        "claimed_at": "2026-09-18T19:21:08.270983+00:00",
-        "lease_expires_at": "2026-09-19T01:21:08.270983+00:00",
-        "run_id": "35368511959"
       }
     },
     "33003": {
@@ -86961,6 +86955,12 @@
         "source_id": "30673323",
         "display_name": "Indián (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T18:51:47.593083+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-0",
+        "claimed_at": "2026-09-18T19:21:32.968096+00:00",
+        "lease_expires_at": "2026-09-19T01:21:32.968096+00:00",
+        "run_id": "35368511959"
       }
     },
     "14505": {
@@ -173828,5 +173828,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:21:31.201178+00:00"
+  "updated_at": "2026-09-18T19:21:53.896415+00:00"
 }
