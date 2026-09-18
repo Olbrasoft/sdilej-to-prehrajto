@@ -13550,13 +13550,6 @@
     "776": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33021649",
-          "reason": "Request failed for https://sdilej.cz/33021649/strazci-galaxie-vol.-2.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T05:22:24.605259+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33021649",
           "target_video_id": "29469845",
@@ -13569,6 +13562,13 @@
           "target_video_id": "29469845",
           "permanent": false,
           "attempted_at": "2026-09-18T07:53:16.344607+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33021649",
+          "target_video_id": "29469845",
+          "permanent": false,
+          "attempted_at": "2026-09-18T08:27:32.833685+00:00"
         }
       ],
       "last_plan": {
@@ -13580,12 +13580,6 @@
         "target_video_id": "29469845",
         "size_bytes": 19000000000,
         "prepared_at": "2026-09-18T06:00:14.428227+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
-        "claimed_at": "2026-09-18T08:27:28.646894+00:00",
-        "lease_expires_at": "2026-09-18T14:27:28.646894+00:00",
-        "run_id": "35307207285"
       }
     },
     "748": {
@@ -172069,5 +172063,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:27:31.103516+00:00"
+  "updated_at": "2026-09-18T08:27:32.833706+00:00"
 }
