@@ -71813,13 +71813,6 @@
     "3142": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29860661",
-          "reason": "Request failed for https://sdilej.cz/29860661/fair-play-2014-cz-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T19:01:46.782969+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29860661",
           "target_video_id": "29468815",
@@ -71833,23 +71826,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T09:20:44.570224+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "29860661",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29479293",
+          "attempted_at": "2026-09-18T10:33:40.836688+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T09:51:47.384257+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
-        "claimed_at": "2026-09-18T10:00:03.634273+00:00",
-        "lease_expires_at": "2026-09-18T16:00:03.634273+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29479293",
-        "size_bytes": 9364820795,
-        "prepared_at": "2026-09-18T10:00:09.412669+00:00"
       }
     },
     "21194": {
@@ -172341,5 +172331,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T10:33:39.057890+00:00"
+  "updated_at": "2026-09-18T10:33:40.836706+00:00"
 }
