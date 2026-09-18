@@ -32546,14 +32546,6 @@
     "1625": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34817688",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29469177",
-          "attempted_at": "2026-09-18T05:29:36.333989+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34817688",
           "reason": "Request failed for https://sdilej.cz/34817688/apollo-10-1-2-dite-kosmickeho-veku-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
@@ -32567,23 +32559,20 @@
           "permanent": false,
           "target_video_id": "29470863",
           "attempted_at": "2026-09-18T07:25:40.583451+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34817688",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29471998",
+          "attempted_at": "2026-09-18T08:17:04.175175+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34817688",
         "display_name": "Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T08:04:05.998070+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-0",
-        "claimed_at": "2026-09-18T08:04:40.471643+00:00",
-        "lease_expires_at": "2026-09-18T14:04:40.471643+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29471998",
-        "size_bytes": 4157137566,
-        "prepared_at": "2026-09-18T08:04:45.320186+00:00"
       }
     },
     "19227": {
@@ -62387,6 +62376,12 @@
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-18T08:11:39.981733+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
+        "claimed_at": "2026-09-18T08:16:58.700698+00:00",
+        "lease_expires_at": "2026-09-18T14:16:58.700698+00:00",
+        "run_id": "35307207285"
       }
     },
     "32220": {
@@ -172135,5 +172130,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:16:56.876930+00:00"
+  "updated_at": "2026-09-18T08:17:04.175193+00:00"
 }
