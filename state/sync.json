@@ -44632,14 +44632,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "26500293",
-          "target_video_id": "29475402",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T09:37:08.670861+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26500293",
           "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
@@ -44652,17 +44644,20 @@
           "target_video_id": "29483958",
           "permanent": false,
           "attempted_at": "2026-09-18T11:33:58.369152+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "26500293",
+          "target_video_id": "29483958",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-18T12:28:08.729852+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T12:20:50.217214+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29483958",
-        "size_bytes": 3251819157,
-        "prepared_at": "2026-09-18T11:25:09.281516+00:00"
       }
     },
     "2288": {
@@ -172869,5 +172864,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:28:04.346175+00:00"
+  "updated_at": "2026-09-18T12:28:08.729869+00:00"
 }
