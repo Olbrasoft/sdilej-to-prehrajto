@@ -44289,14 +44289,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "26500293",
-          "target_video_id": "29471051",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T08:07:38.571005+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26500293",
           "target_video_id": "29475402",
@@ -44310,18 +44302,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T09:37:08.670861+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26500293",
+          "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T10:36:28.417432+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T10:33:53.057662+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
-        "claimed_at": "2026-09-18T10:35:42.660680+00:00",
-        "lease_expires_at": "2026-09-18T16:35:42.660680+00:00",
-        "run_id": "35307207285"
       }
     },
     "2288": {
@@ -47379,6 +47372,12 @@
         "target_video_id": "29136439",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-06T06:32:20.158962+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
+        "claimed_at": "2026-09-18T10:36:27.500417+00:00",
+        "lease_expires_at": "2026-09-18T16:36:27.500417+00:00",
+        "run_id": "35307207285"
       }
     },
     "21454": {
@@ -47467,6 +47466,12 @@
         "target_video_id": "29136447",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-05T15:03:02.807869+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-5",
+        "claimed_at": "2026-09-18T10:36:27.689778+00:00",
+        "lease_expires_at": "2026-09-18T16:36:27.689778+00:00",
+        "run_id": "35307207285"
       }
     },
     "11659": {
@@ -172340,5 +172345,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T10:36:25.747029+00:00"
+  "updated_at": "2026-09-18T10:36:28.417449+00:00"
 }
