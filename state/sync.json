@@ -4980,6 +4980,12 @@
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
+        "claimed_at": "2026-09-18T14:07:32.152810+00:00",
+        "lease_expires_at": "2026-09-18T20:07:32.152810+00:00",
+        "run_id": "35334732825"
       }
     },
     "10690": {
@@ -81924,13 +81930,6 @@
           "source_id": "30977747",
           "reason": "Request failed for https://sdilej.cz/30977747/via-slovakia-2024-sk-dabing-1080p.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-17T10:42:57.461383+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "30977747",
-          "reason": "Request failed for https://sdilej.cz/30977747/via-slovakia-2024-sk-dabing-1080p.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-18T10:09:29.855422+00:00"
         },
         {
@@ -81939,18 +81938,19 @@
           "reason": "Request failed for https://sdilej.cz/30977747/via-slovakia-2024-sk-dabing-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T13:14:55.547400+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30977747",
+          "target_video_id": "29488115",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:07:33.764759+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30977747",
         "display_name": "Via Slovakia (2024) 1080p SK",
         "planned_at": "2026-09-18T13:54:06.569136+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-0",
-        "claimed_at": "2026-09-18T14:00:59.848920+00:00",
-        "lease_expires_at": "2026-09-18T20:00:59.848920+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29488115",
@@ -173130,5 +173130,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:07:30.372131+00:00"
+  "updated_at": "2026-09-18T14:07:33.764775+00:00"
 }
