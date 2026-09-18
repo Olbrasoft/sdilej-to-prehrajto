@@ -9413,13 +9413,6 @@
           "source_id": "26245114",
           "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-18T20:16:49.420700+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-18T20:49:13.502349+00:00"
         },
         {
@@ -9429,18 +9422,19 @@
           "permanent": false,
           "target_video_id": "29502786",
           "attempted_at": "2026-09-18T21:34:11.896341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26245114",
+          "target_video_id": "29503577",
+          "permanent": false,
+          "attempted_at": "2026-09-18T22:14:15.282746+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-18T22:07:03.292543+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-5",
-        "claimed_at": "2026-09-18T22:07:13.463591+00:00",
-        "lease_expires_at": "2026-09-19T04:07:13.463591+00:00",
-        "run_id": "35368511959"
       },
       "prepared": {
         "target_video_id": "29503577",
@@ -42257,6 +42251,12 @@
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-18T22:13:08.882480+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-1",
+        "claimed_at": "2026-09-18T22:14:10.372564+00:00",
+        "lease_expires_at": "2026-09-19T04:14:10.372564+00:00",
+        "run_id": "35368511959"
       }
     },
     "25098": {
@@ -174062,5 +174062,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T22:14:04.496401+00:00"
+  "updated_at": "2026-09-18T22:14:15.282762+00:00"
 }
