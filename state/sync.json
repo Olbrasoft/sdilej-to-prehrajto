@@ -44705,17 +44705,19 @@
       }
     },
     "2418": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34649719",
+          "reason": "Request failed for https://sdilej.cz/34649719/spion-2015-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T11:27:26.780923+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34649719",
         "display_name": "Špión (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-18T11:12:05.081085+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-5",
-        "claimed_at": "2026-09-18T11:26:40.950092+00:00",
-        "lease_expires_at": "2026-09-18T17:26:40.950092+00:00",
-        "run_id": "35334732825"
       }
     },
     "2166": {
@@ -45022,6 +45024,12 @@
         "target_video_id": "29255726",
         "size_bytes": 12300000000,
         "prepared_at": "2026-09-09T22:18:04.363414+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
+        "claimed_at": "2026-09-18T11:27:26.414058+00:00",
+        "lease_expires_at": "2026-09-18T17:27:26.414058+00:00",
+        "run_id": "35334732825"
       }
     },
     "2167": {
@@ -172703,5 +172711,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T11:27:22.193333+00:00"
+  "updated_at": "2026-09-18T11:27:26.780942+00:00"
 }
