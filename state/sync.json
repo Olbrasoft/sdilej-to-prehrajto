@@ -55047,6 +55047,12 @@
         "source_id": "11680221",
         "display_name": "Vymazaný kluk (2018) 720p CZ Dabing",
         "planned_at": "2026-09-18T08:20:32.686609+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-5",
+        "claimed_at": "2026-09-18T08:25:09.299271+00:00",
+        "lease_expires_at": "2026-09-18T14:25:09.299271+00:00",
+        "run_id": "35307207285"
       }
     },
     "20383": {
@@ -62370,14 +62376,6 @@
           "source_id": "27436084",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29466796",
-          "attempted_at": "2026-09-18T02:29:24.715350+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29467598",
           "attempted_at": "2026-09-18T03:28:52.528949+00:00"
         },
@@ -62387,23 +62385,20 @@
           "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T06:28:35.809392+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27436084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29473072",
+          "attempted_at": "2026-09-18T08:25:11.952498+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-18T08:11:39.981733+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
-        "claimed_at": "2026-09-18T08:16:58.700698+00:00",
-        "lease_expires_at": "2026-09-18T14:16:58.700698+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29473072",
-        "size_bytes": 1601184006,
-        "prepared_at": "2026-09-18T08:17:05.917785+00:00"
       }
     },
     "32220": {
@@ -172138,5 +172133,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:25:07.569337+00:00"
+  "updated_at": "2026-09-18T08:25:11.952518+00:00"
 }
