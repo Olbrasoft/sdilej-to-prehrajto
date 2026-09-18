@@ -50330,14 +50330,6 @@
     "11014": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "30644750",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29476716",
-          "attempted_at": "2026-09-18T09:19:18.556663+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30644750",
           "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
@@ -50351,23 +50343,20 @@
           "permanent": false,
           "target_video_id": "29481296",
           "attempted_at": "2026-09-18T10:49:56.265713+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29485278",
+          "attempted_at": "2026-09-18T12:02:44.191466+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-18T11:49:32.212774+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-0",
-        "claimed_at": "2026-09-18T11:50:36.865628+00:00",
-        "lease_expires_at": "2026-09-18T17:50:36.865628+00:00",
-        "run_id": "35334732825"
-      },
-      "prepared": {
-        "target_video_id": "29485278",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-18T11:50:41.365180+00:00"
       }
     },
     "10659": {
@@ -172841,5 +172830,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:00:18.225956+00:00"
+  "updated_at": "2026-09-18T12:02:44.191481+00:00"
 }
