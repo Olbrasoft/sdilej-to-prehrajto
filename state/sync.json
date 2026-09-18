@@ -21964,6 +21964,12 @@
         "target_video_id": "29127917",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-05T09:17:42.572509+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-0",
+        "claimed_at": "2026-09-18T16:11:02.961599+00:00",
+        "lease_expires_at": "2026-09-18T22:11:02.961599+00:00",
+        "run_id": "35334732825"
       }
     },
     "20525": {
@@ -22377,6 +22383,12 @@
         "target_video_id": "29127237",
         "size_bytes": 18200000000,
         "prepared_at": "2026-09-05T08:47:19.185894+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
+        "claimed_at": "2026-09-18T16:11:02.753797+00:00",
+        "lease_expires_at": "2026-09-18T22:11:02.753797+00:00",
+        "run_id": "35334732825"
       }
     },
     "15056": {
@@ -26760,14 +26772,6 @@
           "source_id": "25506189",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29487494",
-          "attempted_at": "2026-09-18T13:38:46.559448+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "25506189",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29488502",
           "attempted_at": "2026-09-18T14:36:01.807692+00:00"
         },
@@ -26777,18 +26781,19 @@
           "reason": "Request failed for https://sdilej.cz/25506189/trojuhelnik-smutku-triangle-of-sadness.2022.1080p.bluray.x264.ac3.cz.dab.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T15:21:14.000335+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25506189",
+          "target_video_id": "29490269",
+          "permanent": false,
+          "attempted_at": "2026-09-18T16:11:04.264878+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Trojúhelník smutku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T15:53:16.171310+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-2",
-        "claimed_at": "2026-09-18T16:01:27.405929+00:00",
-        "lease_expires_at": "2026-09-18T22:01:27.405929+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29490269",
@@ -173564,5 +173569,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T16:11:00.789678+00:00"
+  "updated_at": "2026-09-18T16:11:04.264900+00:00"
 }
