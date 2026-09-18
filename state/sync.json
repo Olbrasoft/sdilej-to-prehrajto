@@ -4210,6 +4210,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-2",
+        "claimed_at": "2026-09-18T17:55:52.776062+00:00",
+        "lease_expires_at": "2026-09-18T23:55:52.776062+00:00",
+        "run_id": "35368511959"
       }
     },
     "304": {
@@ -73560,14 +73566,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "34272442",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29487938",
-          "attempted_at": "2026-09-18T13:59:58.828717+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34272442",
           "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
@@ -73580,23 +73578,20 @@
           "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T16:59:53.537708+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29493053",
+          "attempted_at": "2026-09-18T17:55:54.803459+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-18T17:40:20.586670+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-3",
-        "claimed_at": "2026-09-18T17:46:58.991208+00:00",
-        "lease_expires_at": "2026-09-18T23:46:58.991208+00:00",
-        "run_id": "35368511959"
-      },
-      "prepared": {
-        "target_video_id": "29493053",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-18T17:47:03.674810+00:00"
       }
     },
     "24337": {
@@ -173585,5 +173580,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T17:55:50.928781+00:00"
+  "updated_at": "2026-09-18T17:55:54.803473+00:00"
 }
