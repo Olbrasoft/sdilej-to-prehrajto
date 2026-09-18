@@ -29054,6 +29054,12 @@
         "target_video_id": "29388066",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T19:21:30.717664+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-1",
+        "claimed_at": "2026-09-18T10:35:09.163989+00:00",
+        "lease_expires_at": "2026-09-18T16:35:09.163989+00:00",
+        "run_id": "35307207285"
       }
     },
     "1730": {
@@ -38072,18 +38078,19 @@
           "reason": "Request failed for https://sdilej.cz/11716047/svet-podle-garpa-the-world-according-to-garp-1982-cz-dab-tit-1080p-bluray.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T09:35:04.327397+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11716047",
+          "target_video_id": "29480479",
+          "permanent": false,
+          "attempted_at": "2026-09-18T10:35:09.769662+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11716047",
         "display_name": "Svět podle Garpa (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-18T10:19:13.061209+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
-        "claimed_at": "2026-09-18T10:22:05.852691+00:00",
-        "lease_expires_at": "2026-09-18T16:22:05.852691+00:00",
-        "run_id": "35307207285"
       },
       "prepared": {
         "target_video_id": "29480479",
@@ -38228,6 +38235,12 @@
         "target_video_id": "29478537",
         "size_bytes": 3918660348,
         "prepared_at": "2026-09-18T09:46:16.209934+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-5",
+        "claimed_at": "2026-09-18T10:35:08.954226+00:00",
+        "lease_expires_at": "2026-09-18T16:35:08.954226+00:00",
+        "run_id": "35307207285"
       }
     },
     "1306": {
@@ -172344,5 +172357,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T10:35:07.178219+00:00"
+  "updated_at": "2026-09-18T10:35:09.769678+00:00"
 }
