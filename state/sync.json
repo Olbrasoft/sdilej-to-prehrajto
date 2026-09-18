@@ -44635,13 +44635,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26500293",
-          "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T10:36:28.417432+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26500293",
           "target_video_id": "29483958",
@@ -44655,18 +44648,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T12:28:08.729852+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26500293",
+          "target_video_id": "29486891",
+          "permanent": false,
+          "attempted_at": "2026-09-18T13:14:12.856765+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-18T13:00:58.607228+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-2",
-        "claimed_at": "2026-09-18T13:02:39.034431+00:00",
-        "lease_expires_at": "2026-09-18T19:02:39.034431+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29486891",
@@ -81873,6 +81867,12 @@
         "source_id": "30977747",
         "display_name": "Via Slovakia (2024) 1080p SK",
         "planned_at": "2026-09-18T13:03:42.678950+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-5",
+        "claimed_at": "2026-09-18T13:14:09.819409+00:00",
+        "lease_expires_at": "2026-09-18T19:14:09.819409+00:00",
+        "run_id": "35334732825"
       }
     },
     "15365": {
@@ -172970,5 +172970,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T13:14:08.109557+00:00"
+  "updated_at": "2026-09-18T13:14:12.856782+00:00"
 }
