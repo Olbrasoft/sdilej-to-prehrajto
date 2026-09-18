@@ -39968,13 +39968,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34933768",
-          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-17T21:47:15.003922+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34933768",
           "reason": "PrehrajtoError",
@@ -39989,23 +39982,20 @@
           "permanent": false,
           "target_video_id": "29465481",
           "attempted_at": "2026-09-18T01:00:32.471275+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29466524",
+          "attempted_at": "2026-09-18T02:16:01.631548+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-18T01:51:52.147986+00:00"
-      },
-      "claim": {
-        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-4",
-        "claimed_at": "2026-09-18T01:57:42.624923+00:00",
-        "lease_expires_at": "2026-09-18T07:57:42.624923+00:00",
-        "run_id": "35281831981"
-      },
-      "prepared": {
-        "target_video_id": "29466524",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-18T01:57:46.362149+00:00"
       }
     },
     "31638": {
@@ -52956,6 +52946,12 @@
         "target_video_id": "29239853",
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-09T10:47:49.948468+00:00"
+      },
+      "claim": {
+        "worker_id": "c293496c2a2e4e8eb60f92b390e466ee-shard-3",
+        "claimed_at": "2026-09-18T02:15:58.241326+00:00",
+        "lease_expires_at": "2026-09-18T08:15:58.241326+00:00",
+        "run_id": "35281831981"
       }
     },
     "2690": {
@@ -171237,5 +171233,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T02:15:56.511647+00:00"
+  "updated_at": "2026-09-18T02:16:01.631568+00:00"
 }
