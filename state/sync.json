@@ -72854,14 +72854,6 @@
           "source_id": "29860661",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29489029",
-          "attempted_at": "2026-09-18T15:33:35.767401+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "29860661",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29491228",
           "attempted_at": "2026-09-18T17:16:28.380405+00:00"
         },
@@ -72871,17 +72863,20 @@
           "target_video_id": "29495861",
           "permanent": false,
           "attempted_at": "2026-09-18T18:56:17.410056+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "29860661",
+          "target_video_id": "29495861",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:48:08.296116+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T19:40:57.645149+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29495861",
-        "size_bytes": 9364820795,
-        "prepared_at": "2026-09-18T18:28:52.791414+00:00"
       }
     },
     "21194": {
@@ -173862,5 +173857,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:48:03.813336+00:00"
+  "updated_at": "2026-09-18T19:48:08.296160+00:00"
 }
