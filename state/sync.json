@@ -75453,14 +75453,6 @@
     "24733": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34706261",
-          "target_video_id": "29448898",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-17T12:44:41.203744+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34706261",
           "reason": "PrehrajtoError",
@@ -75474,23 +75466,20 @@
           "reason": "Request failed for https://sdilej.cz/34706261/pani-kacka-zasahuje...-1939-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T10:01:03.071477+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34706261",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29485878",
+          "attempted_at": "2026-09-18T12:17:19.254851+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
         "planned_at": "2026-09-18T11:59:46.174795+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
-        "claimed_at": "2026-09-18T12:10:07.196181+00:00",
-        "lease_expires_at": "2026-09-18T18:10:07.196181+00:00",
-        "run_id": "35334732825"
-      },
-      "prepared": {
-        "target_video_id": "29485878",
-        "size_bytes": 867827396,
-        "prepared_at": "2026-09-18T12:10:10.754205+00:00"
       }
     },
     "32933": {
@@ -172846,5 +172835,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T12:17:17.492444+00:00"
+  "updated_at": "2026-09-18T12:17:19.254871+00:00"
 }
