@@ -84480,17 +84480,19 @@
       "attempts": []
     },
     "14241": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34757975",
+          "reason": "Request failed for https://sdilej.cz/34757975/dve-duse-1982-sk-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T13:19:45.873316+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34757975",
         "display_name": "Dve duše (1982) 1080p SK Dabing",
         "planned_at": "2026-09-18T13:03:46.632142+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
-        "claimed_at": "2026-09-18T13:19:00.207638+00:00",
-        "lease_expires_at": "2026-09-18T19:19:00.207638+00:00",
-        "run_id": "35334732825"
       }
     },
     "27017": {
@@ -172998,5 +173000,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T13:19:37.963452+00:00"
+  "updated_at": "2026-09-18T13:19:45.873333+00:00"
 }
