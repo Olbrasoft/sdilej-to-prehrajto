@@ -49267,13 +49267,6 @@
           "source_id": "24749155",
           "reason": "Request failed for https://sdilej.cz/24749155/titus-1999-cz.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-18T15:49:18.081492+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "24749155",
-          "reason": "Request failed for https://sdilej.cz/24749155/titus-1999-cz.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-18T16:29:33.643283+00:00"
         },
         {
@@ -49282,6 +49275,13 @@
           "target_video_id": "29491587",
           "permanent": false,
           "attempted_at": "2026-09-18T17:16:26.590023+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24749155",
+          "target_video_id": "29491587",
+          "permanent": false,
+          "attempted_at": "2026-09-18T18:04:30.813989+00:00"
         }
       ],
       "last_plan": {
@@ -49291,14 +49291,8 @@
       },
       "prepared": {
         "target_video_id": "29491587",
-        "size_bytes": 14315085353,
+        "size_bytes": 14300000000,
         "prepared_at": "2026-09-18T17:11:52.258389+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-5",
-        "claimed_at": "2026-09-18T18:04:27.660099+00:00",
-        "lease_expires_at": "2026-09-19T00:04:27.660099+00:00",
-        "run_id": "35368511959"
       }
     },
     "32607": {
@@ -49832,6 +49826,12 @@
         "target_video_id": "29213362",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-08T12:32:15.731361+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-0",
+        "claimed_at": "2026-09-18T18:04:29.696708+00:00",
+        "lease_expires_at": "2026-09-19T00:04:29.696708+00:00",
+        "run_id": "35368511959"
       }
     },
     "30466": {
@@ -49873,6 +49873,12 @@
         "target_video_id": "29490764",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-18T16:29:54.793585+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-1",
+        "claimed_at": "2026-09-18T18:04:29.917115+00:00",
+        "lease_expires_at": "2026-09-19T00:04:29.917115+00:00",
+        "run_id": "35368511959"
       }
     },
     "11523": {
@@ -173594,5 +173600,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T18:04:28.036835+00:00"
+  "updated_at": "2026-09-18T18:04:30.814004+00:00"
 }
