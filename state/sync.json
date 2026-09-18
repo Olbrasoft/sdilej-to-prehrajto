@@ -14615,6 +14615,12 @@
         "target_video_id": "29336236",
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-13T02:27:33.040894+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-5",
+        "claimed_at": "2026-09-18T19:26:25.980714+00:00",
+        "lease_expires_at": "2026-09-19T01:26:25.980714+00:00",
+        "run_id": "35368511959"
       }
     },
     "823": {
@@ -14665,6 +14671,12 @@
         "target_video_id": "29154104",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T06:54:37.939767+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-0",
+        "claimed_at": "2026-09-18T19:26:25.767471+00:00",
+        "lease_expires_at": "2026-09-19T01:26:25.767471+00:00",
+        "run_id": "35368511959"
       }
     },
     "754": {
@@ -81291,17 +81303,19 @@
       "attempts": []
     },
     "13103": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30183783",
+          "target_video_id": "29498615",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:26:28.389718+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30183783",
         "display_name": "Tanec lásky a smrti (1993) 1080p SK Dabing",
         "planned_at": "2026-09-18T18:51:45.033640+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-4",
-        "claimed_at": "2026-09-18T19:20:01.347354+00:00",
-        "lease_expires_at": "2026-09-19T01:20:01.347354+00:00",
-        "run_id": "35368511959"
       },
       "prepared": {
         "target_video_id": "29498615",
@@ -173841,5 +173855,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:26:23.901451+00:00"
+  "updated_at": "2026-09-18T19:26:28.389734+00:00"
 }
