@@ -49780,17 +49780,19 @@
       "attempts": []
     },
     "10778": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33014699",
+          "reason": "Request failed for https://sdilej.cz/33014699/vikingove-2.cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T15:51:35.667314+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33014699",
         "display_name": "Vikingové (1958) 1080p CZ Dabing",
         "planned_at": "2026-09-18T15:41:14.821587+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
-        "claimed_at": "2026-09-18T15:50:49.983529+00:00",
-        "lease_expires_at": "2026-09-18T21:50:49.983529+00:00",
-        "run_id": "35334732825"
       }
     },
     "11523": {
@@ -173508,5 +173510,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T15:51:24.501215+00:00"
+  "updated_at": "2026-09-18T15:51:35.667330+00:00"
 }
