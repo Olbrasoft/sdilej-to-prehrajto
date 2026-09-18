@@ -41735,13 +41735,6 @@
     "17069": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "12740244",
-          "reason": "Request failed for https://sdilej.cz/12740244/orok-tel-2018-cz-titulky-novinka.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T08:46:31.293400+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12740244",
           "target_video_id": "29478025",
@@ -41755,18 +41748,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T10:35:20.470831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12740244",
+          "target_video_id": "29483162",
+          "permanent": false,
+          "attempted_at": "2026-09-18T11:13:11.643520+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-18T11:06:46.548580+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-1",
-        "claimed_at": "2026-09-18T11:10:20.848414+00:00",
-        "lease_expires_at": "2026-09-18T17:10:20.848414+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29483162",
@@ -172629,5 +172623,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T11:13:01.193731+00:00"
+  "updated_at": "2026-09-18T11:13:11.643538+00:00"
 }
