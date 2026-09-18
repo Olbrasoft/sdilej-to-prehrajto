@@ -11201,6 +11201,12 @@
         "target_video_id": "29342565",
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-13T06:40:05.315180+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-0",
+        "claimed_at": "2026-09-18T10:17:49.080874+00:00",
+        "lease_expires_at": "2026-09-18T16:17:49.080874+00:00",
+        "run_id": "35307207285"
       }
     },
     "12843": {
@@ -11295,6 +11301,12 @@
         "target_video_id": "29336028",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-13T02:16:01.590016+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-5",
+        "claimed_at": "2026-09-18T10:17:48.865192+00:00",
+        "lease_expires_at": "2026-09-18T16:17:48.865192+00:00",
+        "run_id": "35307207285"
       }
     },
     "533": {
@@ -81910,17 +81922,19 @@
       "attempts": []
     },
     "17611": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34758082",
+          "target_video_id": "29480095",
+          "permanent": false,
+          "attempted_at": "2026-09-18T10:17:49.337921+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34758082",
         "display_name": "Komédia za groš (1975) 1080p SK Dabing",
         "planned_at": "2026-09-18T10:01:25.514023+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
-        "claimed_at": "2026-09-18T10:14:40.453047+00:00",
-        "lease_expires_at": "2026-09-18T16:14:40.453047+00:00",
-        "run_id": "35307207285"
       },
       "prepared": {
         "target_video_id": "29480095",
@@ -172300,5 +172314,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T10:17:47.042519+00:00"
+  "updated_at": "2026-09-18T10:17:49.337938+00:00"
 }
