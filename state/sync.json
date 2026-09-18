@@ -49774,14 +49774,6 @@
     "11014": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "30644750",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29467534",
-          "attempted_at": "2026-09-18T03:24:16.923927+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30644750",
           "reason": "Request failed for https://sdilej.cz/30644750/pane-vy-jste-vdova-.avi (HTTP None)",
@@ -49795,23 +49787,20 @@
           "permanent": false,
           "target_video_id": "29470137",
           "attempted_at": "2026-09-18T06:25:58.212667+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "30644750",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29471206",
+          "attempted_at": "2026-09-18T07:44:52.129394+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-18T07:15:30.197593+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
-        "claimed_at": "2026-09-18T07:25:15.775281+00:00",
-        "lease_expires_at": "2026-09-18T13:25:15.775281+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29471206",
-        "size_bytes": 2129834320,
-        "prepared_at": "2026-09-18T07:25:18.973747+00:00"
       }
     },
     "10659": {
@@ -55009,6 +54998,12 @@
         "source_id": "13412719",
         "display_name": "Kdybys jen tušil (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-18T07:15:34.151202+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-0",
+        "claimed_at": "2026-09-18T07:44:49.906994+00:00",
+        "lease_expires_at": "2026-09-18T13:44:49.906994+00:00",
+        "run_id": "35307207285"
       }
     },
     "12476": {
@@ -172008,5 +172003,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T07:44:48.120877+00:00"
+  "updated_at": "2026-09-18T07:44:52.129411+00:00"
 }
