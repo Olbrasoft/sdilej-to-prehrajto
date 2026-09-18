@@ -81092,17 +81092,19 @@
       "attempts": []
     },
     "23729": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32831532",
+          "reason": "Request failed for https://sdilej.cz/32831532/marian-1996-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T19:17:42.795400+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32831532",
         "display_name": "Marian (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-18T18:51:43.969489+00:00"
-      },
-      "claim": {
-        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-1",
-        "claimed_at": "2026-09-18T19:16:57.058882+00:00",
-        "lease_expires_at": "2026-09-19T01:16:57.058882+00:00",
-        "run_id": "35368511959"
       }
     },
     "33170": {
@@ -81117,6 +81119,12 @@
         "source_id": "18112814",
         "display_name": "Tajemství pouze služební (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-18T18:51:44.182034+00:00"
+      },
+      "claim": {
+        "worker_id": "53f0e4decc9f44e9ac34feb21605631c-shard-5",
+        "claimed_at": "2026-09-18T19:17:16.996963+00:00",
+        "lease_expires_at": "2026-09-19T01:17:16.996963+00:00",
+        "run_id": "35368511959"
       }
     },
     "3429": {
@@ -173760,5 +173768,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T19:17:11.797404+00:00"
+  "updated_at": "2026-09-18T19:17:42.795418+00:00"
 }
