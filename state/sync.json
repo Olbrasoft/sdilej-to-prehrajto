@@ -11249,6 +11249,12 @@
         "target_video_id": "29342565",
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-13T06:40:05.315180+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
+        "claimed_at": "2026-09-18T14:46:58.938974+00:00",
+        "lease_expires_at": "2026-09-18T20:46:58.938974+00:00",
+        "run_id": "35334732825"
       }
     },
     "12843": {
@@ -55999,14 +56005,6 @@
           "source_id": "28441201",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29485390",
-          "attempted_at": "2026-09-18T12:02:57.382506+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29486399",
           "attempted_at": "2026-09-18T12:58:05.988306+00:00"
         },
@@ -56017,18 +56015,19 @@
           "permanent": false,
           "target_video_id": "29487816",
           "attempted_at": "2026-09-18T13:53:47.370489+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28441201",
+          "target_video_id": "29488789",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:46:59.159502+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-18T14:29:16.152532+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-5",
-        "claimed_at": "2026-09-18T14:39:59.636413+00:00",
-        "lease_expires_at": "2026-09-18T20:39:59.636413+00:00",
-        "run_id": "35334732825"
       },
       "prepared": {
         "target_video_id": "29488789",
@@ -173194,5 +173193,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:46:54.426258+00:00"
+  "updated_at": "2026-09-18T14:46:59.159520+00:00"
 }
