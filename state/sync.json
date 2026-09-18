@@ -11126,14 +11126,6 @@
     "646": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "27650803",
-          "target_video_id": "29469009",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T05:09:25.447508+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27650803",
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
@@ -11146,23 +11138,20 @@
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T06:47:52.138818+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27650803",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29471638",
+          "attempted_at": "2026-09-18T08:09:58.863939+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T07:45:57.526274+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
-        "claimed_at": "2026-09-18T07:51:33.848647+00:00",
-        "lease_expires_at": "2026-09-18T13:51:33.848647+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29471638",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-18T07:51:37.632355+00:00"
       }
     },
     "21307": {
@@ -54476,6 +54465,12 @@
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-18T08:07:32.486387+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-3",
+        "claimed_at": "2026-09-18T08:09:30.720846+00:00",
+        "lease_expires_at": "2026-09-18T14:09:30.720846+00:00",
+        "run_id": "35307207285"
       }
     },
     "24796": {
@@ -172047,5 +172042,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:09:28.894341+00:00"
+  "updated_at": "2026-09-18T08:09:58.863956+00:00"
 }
