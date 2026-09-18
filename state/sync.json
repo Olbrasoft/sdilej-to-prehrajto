@@ -4980,6 +4980,12 @@
         "target_video_id": "29175602",
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
+      },
+      "claim": {
+        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-4",
+        "claimed_at": "2026-09-18T08:54:56.159784+00:00",
+        "lease_expires_at": "2026-09-18T14:54:56.159784+00:00",
+        "run_id": "35307207285"
       }
     },
     "10690": {
@@ -11125,13 +11131,6 @@
           "source_id": "27650803",
           "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-18T05:58:37.275095+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "27650803",
-          "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-18T06:47:52.138818+00:00"
         },
         {
@@ -11141,23 +11140,20 @@
           "permanent": false,
           "target_video_id": "29471638",
           "attempted_at": "2026-09-18T08:09:58.863939+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27650803",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29474997",
+          "attempted_at": "2026-09-18T08:54:58.558250+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T08:40:24.579619+00:00"
-      },
-      "claim": {
-        "worker_id": "e92c44f08fa14adbaaa2946d771848b6-shard-2",
-        "claimed_at": "2026-09-18T08:40:34.997823+00:00",
-        "lease_expires_at": "2026-09-18T14:40:34.997823+00:00",
-        "run_id": "35307207285"
-      },
-      "prepared": {
-        "target_video_id": "29474997",
-        "size_bytes": 4521283641,
-        "prepared_at": "2026-09-18T08:40:40.092433+00:00"
       }
     },
     "21307": {
@@ -172178,5 +172174,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T08:54:54.350048+00:00"
+  "updated_at": "2026-09-18T08:54:58.558266+00:00"
 }
