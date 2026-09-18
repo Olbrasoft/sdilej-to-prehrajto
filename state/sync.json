@@ -51060,13 +51060,6 @@
     "30909": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "18823758",
-          "target_video_id": "29484625",
-          "permanent": false,
-          "attempted_at": "2026-09-18T11:47:36.655462+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "18823758",
           "target_video_id": "29484625",
@@ -51080,17 +51073,20 @@
           "target_video_id": "29487575",
           "permanent": false,
           "attempted_at": "2026-09-18T13:37:28.157133+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "18823758",
+          "target_video_id": "29487575",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:36:19.876068+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18823758",
         "display_name": "Mogadishu (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-18T14:29:12.689623+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29487575",
-        "size_bytes": 3007025750,
-        "prepared_at": "2026-09-18T13:28:57.986861+00:00"
       }
     },
     "2273": {
@@ -173192,5 +173188,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:36:15.237299+00:00"
+  "updated_at": "2026-09-18T14:36:19.876084+00:00"
 }
