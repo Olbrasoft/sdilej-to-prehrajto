@@ -11164,13 +11164,6 @@
     "646": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27650803",
-          "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T12:15:39.487697+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27650803",
           "reason": "PrehrajtoError",
@@ -11185,18 +11178,19 @@
           "permanent": false,
           "target_video_id": "29487823",
           "attempted_at": "2026-09-18T14:00:30.260098+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27650803",
+          "reason": "Request failed for https://sdilej.cz/27650803/lego-pri-beh-the-lego-movie-2014-cz-sk-en-sub.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-18T14:47:31.855590+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27650803",
         "display_name": "LEGO® příběh (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-18T14:42:03.307773+00:00"
-      },
-      "claim": {
-        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-3",
-        "claimed_at": "2026-09-18T14:46:46.009468+00:00",
-        "lease_expires_at": "2026-09-18T20:46:46.009468+00:00",
-        "run_id": "35334732825"
       }
     },
     "21307": {
@@ -14416,6 +14410,12 @@
         "target_video_id": "29334467",
         "size_bytes": 53900000000,
         "prepared_at": "2026-09-13T01:05:17.478489+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-4",
+        "claimed_at": "2026-09-18T14:47:31.467982+00:00",
+        "lease_expires_at": "2026-09-18T20:47:31.467982+00:00",
+        "run_id": "35334732825"
       }
     },
     "711": {
@@ -14454,6 +14454,12 @@
         "target_video_id": "29336060",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-13T02:17:25.285224+00:00"
+      },
+      "claim": {
+        "worker_id": "c3b4a2a561b341288cc5ed4296dcbc49-shard-5",
+        "claimed_at": "2026-09-18T14:47:31.656087+00:00",
+        "lease_expires_at": "2026-09-18T20:47:31.656087+00:00",
+        "run_id": "35334732825"
       }
     },
     "11715": {
@@ -173187,5 +173193,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-18T14:47:29.084299+00:00"
+  "updated_at": "2026-09-18T14:47:31.855608+00:00"
 }
