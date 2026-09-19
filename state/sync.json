@@ -33035,6 +33035,12 @@
         "target_video_id": "29339891",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-13T04:51:12.906017+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-2",
+        "claimed_at": "2026-09-19T05:12:53.050904+00:00",
+        "lease_expires_at": "2026-09-19T11:12:53.050904+00:00",
+        "run_id": "35405560473"
       }
     },
     "14925": {
@@ -76345,17 +76351,19 @@
       "attempts": []
     },
     "28941": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34405680",
+          "target_video_id": "29513015",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:12:53.591616+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34405680",
         "display_name": "Dvacet tisíc mil pod mořem (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-19T04:45:20.134304+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-5",
-        "claimed_at": "2026-09-19T05:00:22.830657+00:00",
-        "lease_expires_at": "2026-09-19T11:00:22.830657+00:00",
-        "run_id": "35405560473"
       },
       "prepared": {
         "target_video_id": "29513015",
@@ -175033,5 +175041,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:12:51.088219+00:00"
+  "updated_at": "2026-09-19T05:12:53.591628+00:00"
 }
