@@ -136396,11 +136396,25 @@
       }
     },
     "4839": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31470524",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T10:00:20.664928+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31470524",
         "display_name": "Happy Feet (2006) 4K CZ Dabing",
         "planned_at": "2026-09-19T09:47:41.887173+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-3",
+        "claimed_at": "2026-09-19T10:00:19.908870+00:00",
+        "lease_expires_at": "2026-09-19T16:00:19.908870+00:00",
+        "run_id": "35435106149"
       }
     },
     "33990": {
@@ -136408,13 +136422,6 @@
     },
     "14176": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "30998148",
-          "target_video_id": "29239615",
-          "permanent": false,
-          "attempted_at": "2026-09-11T10:50:37.780732+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "30998148",
@@ -136428,6 +136435,13 @@
           "target_video_id": "29239615",
           "permanent": false,
           "attempted_at": "2026-09-11T14:01:40.208398+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30998148",
+          "target_video_id": "29239615",
+          "permanent": false,
+          "attempted_at": "2026-09-19T10:00:21.994806+00:00"
         }
       ],
       "last_plan": {
@@ -136439,7 +136453,8 @@
         "target_video_id": "29239615",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-09T10:37:06.742328+00:00"
-      }
+      },
+      "previous_target_id": "29239615"
     },
     "4768": {
       "attempts": []
@@ -177244,5 +177259,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T10:00:17.989693+00:00"
+  "updated_at": "2026-09-19T10:00:21.994820+00:00"
 }
