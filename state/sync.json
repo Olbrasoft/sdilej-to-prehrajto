@@ -86814,13 +86814,6 @@
           "source_id": "14024650",
           "target_video_id": "29137611",
           "permanent": false,
-          "attempted_at": "2026-09-19T09:38:29.211560+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14024650",
-          "target_video_id": "29137611",
-          "permanent": false,
           "attempted_at": "2026-09-19T10:11:30.287650+00:00"
         },
         {
@@ -86829,6 +86822,13 @@
           "target_video_id": "29137611",
           "permanent": false,
           "attempted_at": "2026-09-19T11:11:24.865034+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14024650",
+          "target_video_id": "29137611",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:49:28.015679+00:00"
         }
       ],
       "last_plan": {
@@ -86841,13 +86841,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T18:50:04.440797+00:00"
       },
-      "previous_target_id": "29137611",
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
-        "claimed_at": "2026-09-19T11:49:22.617594+00:00",
-        "lease_expires_at": "2026-09-19T17:49:22.617594+00:00",
-        "run_id": "35435106149"
-      }
+      "previous_target_id": "29137611"
     },
     "14932": {
       "attempts": []
@@ -87978,7 +87972,13 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-07T01:53:47.781384+00:00"
       },
-      "previous_target_id": "29176023"
+      "previous_target_id": "29176023",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:49:27.803243+00:00",
+        "lease_expires_at": "2026-09-19T17:49:27.803243+00:00",
+        "run_id": "35435106149"
+      }
     },
     "31169": {
       "attempts": []
@@ -88199,7 +88199,13 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-10T10:11:49.891757+00:00"
       },
-      "previous_target_id": "29269961"
+      "previous_target_id": "29269961",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T11:49:27.588713+00:00",
+        "lease_expires_at": "2026-09-19T17:49:27.588713+00:00",
+        "run_id": "35435106149"
+      }
     },
     "16220": {
       "attempts": []
@@ -183370,5 +183376,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:49:25.904281+00:00"
+  "updated_at": "2026-09-19T11:49:28.015698+00:00"
 }
