@@ -68444,14 +68444,6 @@
           "source_id": "28922330",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29503426",
-          "attempted_at": "2026-09-18T22:38:31.677418+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28922330",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29507388",
           "attempted_at": "2026-09-19T02:07:41.377995+00:00"
         },
@@ -68462,18 +68454,19 @@
           "permanent": false,
           "target_video_id": "29510878",
           "attempted_at": "2026-09-19T04:03:44.895972+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28922330",
+          "reason": "Request failed for https://sdilej.cz/28922330/lvi-kral-2019-2160p.-cze-sk-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T04:51:27.663655+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-19T04:45:15.380938+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-4",
-        "claimed_at": "2026-09-19T04:50:41.892806+00:00",
-        "lease_expires_at": "2026-09-19T10:50:41.892806+00:00",
-        "run_id": "35405560473"
       }
     },
     "2788": {
@@ -69342,6 +69335,12 @@
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T04:45:16.252526+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-3",
+        "claimed_at": "2026-09-19T04:50:57.073257+00:00",
+        "lease_expires_at": "2026-09-19T10:50:57.073257+00:00",
+        "run_id": "35405560473"
       }
     },
     "11240": {
@@ -174958,5 +174957,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T04:50:55.140725+00:00"
+  "updated_at": "2026-09-19T04:51:27.663670+00:00"
 }
