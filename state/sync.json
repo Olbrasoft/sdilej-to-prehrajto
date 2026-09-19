@@ -157340,7 +157340,15 @@
       "attempts": []
     },
     "36954": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32144266",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:09:11.834008+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32144266",
         "display_name": "The Rule of Jenny Pen (2025) 1080p CZ Titulky",
@@ -157362,6 +157370,18 @@
         "source_id": "32986161",
         "display_name": "Připoutejte se, prosím! 2 (1982) 4K CZ Dabing",
         "planned_at": "2026-09-19T12:08:57.057321+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T12:09:12.337086+00:00",
+        "lease_expires_at": "2026-09-19T18:09:12.337086+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29528198",
+      "prepared": {
+        "target_video_id": "29528198",
+        "size_bytes": 3439082085,
+        "prepared_at": "2026-09-19T12:09:16.471452+00:00"
       }
     },
     "26506": {
@@ -157377,11 +157397,25 @@
       "attempts": []
     },
     "30156": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34019445",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:09:12.894787+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34019445",
         "display_name": "Báječný život po životě (2010) SD CZ Dabing",
         "planned_at": "2026-09-19T12:08:57.298291+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:09:12.078549+00:00",
+        "lease_expires_at": "2026-09-19T18:09:12.078549+00:00",
+        "run_id": "35435106149"
       }
     },
     "22867": {
@@ -157390,6 +157424,12 @@
         "source_id": "34703700",
         "display_name": "Link (1986) SD CZ Dabing",
         "planned_at": "2026-09-19T12:08:57.545941+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:09:13.201426+00:00",
+        "lease_expires_at": "2026-09-19T18:09:13.201426+00:00",
+        "run_id": "35435106149"
       }
     },
     "22909": {
@@ -186923,5 +186963,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:09:10.098638+00:00"
+  "updated_at": "2026-09-19T12:09:16.471468+00:00"
 }
