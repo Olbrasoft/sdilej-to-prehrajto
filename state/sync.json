@@ -13225,7 +13225,15 @@
       "attempts": []
     },
     "21653": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12303464",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:27:48.608132+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12303464",
         "display_name": "Mys hrůzy (1962) SD CZ Dabing",
@@ -14003,13 +14011,6 @@
           "source_id": "12671560",
           "target_video_id": "29469127",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:09:38.388363+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "29469127",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:42:35.548038+00:00"
         },
         {
@@ -14018,6 +14019,13 @@
           "target_video_id": "29469127",
           "permanent": false,
           "attempted_at": "2026-09-19T14:14:07.268366+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "29469127",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:27:48.785909+00:00"
         }
       ],
       "last_plan": {
@@ -14030,13 +14038,7 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-09-18T05:08:04.043656+00:00"
       },
-      "previous_target_id": "29469127",
-      "claim": {
-        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-1",
-        "claimed_at": "2026-09-19T15:27:45.965167+00:00",
-        "lease_expires_at": "2026-09-19T21:27:45.965167+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29469127"
     },
     "835": {
       "attempts": [
@@ -14482,6 +14484,12 @@
         "source_id": "5692013",
         "display_name": "Most špiónů (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:26:18.255455+00:00"
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-4",
+        "claimed_at": "2026-09-19T15:27:48.490559+00:00",
+        "lease_expires_at": "2026-09-19T21:27:48.490559+00:00",
+        "run_id": "35451641398"
       }
     },
     "793": {
@@ -188540,5 +188548,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:27:46.677396+00:00"
+  "updated_at": "2026-09-19T15:27:48.785928+00:00"
 }
