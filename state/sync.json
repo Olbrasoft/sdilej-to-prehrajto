@@ -11599,13 +11599,6 @@
           "source_id": "33402050",
           "target_video_id": "29153883",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:10:55.248513+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33402050",
-          "target_video_id": "29153883",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:49:47.276147+00:00"
         },
         {
@@ -11614,6 +11607,13 @@
           "target_video_id": "29153883",
           "permanent": false,
           "attempted_at": "2026-09-19T23:21:35.135533+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33402050",
+          "target_video_id": "29153883",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:51:57.023640+00:00"
         }
       ],
       "last_plan": {
@@ -11885,7 +11885,13 @@
         "size_bytes": 15200000000,
         "prepared_at": "2026-09-06T12:22:30.375256+00:00"
       },
-      "previous_target_id": "29160907"
+      "previous_target_id": "29160907",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:51:56.004004+00:00",
+        "lease_expires_at": "2026-09-20T05:51:56.004004+00:00",
+        "run_id": "35467299794"
+      }
     },
     "11046": {
       "attempts": [
@@ -12022,7 +12028,13 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
       },
-      "previous_target_id": "29338368"
+      "previous_target_id": "29338368",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:51:56.137957+00:00",
+        "lease_expires_at": "2026-09-20T05:51:56.137957+00:00",
+        "run_id": "35467299794"
+      }
     },
     "23132": {
       "attempts": [
@@ -12176,7 +12188,13 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-09-18T04:58:07.203406+00:00"
       },
-      "previous_target_id": "29469014"
+      "previous_target_id": "29469014",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:51:55.867834+00:00",
+        "lease_expires_at": "2026-09-20T05:51:55.867834+00:00",
+        "run_id": "35467299794"
+      }
     },
     "652": {
       "attempts": [
@@ -13674,7 +13692,13 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-18T05:03:01.391799+00:00"
       },
-      "previous_target_id": "29469067"
+      "previous_target_id": "29469067",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:51:56.272409+00:00",
+        "lease_expires_at": "2026-09-20T05:51:56.272409+00:00",
+        "run_id": "35467299794"
+      }
     },
     "22329": {
       "attempts": []
@@ -13968,7 +13992,7 @@
       "last_plan": {
         "source_id": "30149277",
         "display_name": "Železná srdce (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:21:00.262724+00:00"
+        "planned_at": "2026-09-19T23:51:55.239587+00:00"
       },
       "prepared": {
         "target_video_id": "29335601",
@@ -14033,7 +14057,7 @@
       "last_plan": {
         "source_id": "12671560",
         "display_name": "Zrození Planety opic (2011) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:21:00.401713+00:00"
+        "planned_at": "2026-09-19T23:51:55.377050+00:00"
       },
       "prepared": {
         "target_video_id": "29469127",
@@ -14569,7 +14593,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible Odplata – První část (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:21:00.544146+00:00"
+        "planned_at": "2026-09-19T23:51:55.507038+00:00"
       },
       "prepared": {
         "target_video_id": "29154102",
@@ -217598,5 +217622,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:51:53.461883+00:00"
+  "updated_at": "2026-09-19T23:51:57.023659+00:00"
 }
