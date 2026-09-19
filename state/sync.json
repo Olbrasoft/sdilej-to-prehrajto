@@ -8208,13 +8208,6 @@
           "source_id": "33063909",
           "target_video_id": "29210906",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:30:31.869055+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33063909",
-          "target_video_id": "29210906",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:10:17.885947+00:00"
         },
         {
@@ -8223,6 +8216,13 @@
           "target_video_id": "29210906",
           "permanent": false,
           "attempted_at": "2026-09-19T22:49:16.701926+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33063909",
+          "target_video_id": "29210906",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:20:44.503627+00:00"
         }
       ],
       "last_plan": {
@@ -80542,12 +80542,25 @@
           "source_id": "34899494",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:12:26.477343+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34899494",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:20:44.049260+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34899494",
         "display_name": "Rytmus: Tempos (2020) 1080p SK Dabing",
         "planned_at": "2026-09-19T23:19:19.629971+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:20:43.287662+00:00",
+        "lease_expires_at": "2026-09-20T05:20:43.287662+00:00",
+        "run_id": "35467299794"
       }
     },
     "33926": {
@@ -80617,6 +80630,12 @@
         "source_id": "34716014",
         "display_name": "Matrix AB (2015) SD CZ Dabing",
         "planned_at": "2026-09-19T23:19:19.765587+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:20:44.192130+00:00",
+        "lease_expires_at": "2026-09-20T05:20:44.192130+00:00",
+        "run_id": "35467299794"
       }
     },
     "27719": {
@@ -214599,5 +214618,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:20:41.281671+00:00"
+  "updated_at": "2026-09-19T23:20:44.503644+00:00"
 }
