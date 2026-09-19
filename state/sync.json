@@ -102038,13 +102038,6 @@
           "source_id": "34711766",
           "target_video_id": "29219189",
           "permanent": false,
-          "attempted_at": "2026-09-15T22:58:05.555900+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711766",
-          "target_video_id": "29219189",
-          "permanent": false,
           "attempted_at": "2026-09-15T23:47:02.918617+00:00"
         },
         {
@@ -102053,6 +102046,13 @@
           "target_video_id": "29219189",
           "permanent": false,
           "attempted_at": "2026-09-16T01:12:03.811926+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711766",
+          "target_video_id": "29219189",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:40:55.936610+00:00"
         }
       ],
       "last_plan": {
@@ -102064,7 +102064,8 @@
         "target_video_id": "29219189",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T17:36:20.115343+00:00"
-      }
+      },
+      "previous_target_id": "29219189"
     },
     "15648": {
       "attempts": []
@@ -102478,6 +102479,12 @@
         "target_video_id": "29167146",
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-06T17:20:16.514206+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:40:55.077097+00:00",
+        "lease_expires_at": "2026-09-19T15:40:55.077097+00:00",
+        "run_id": "35435106149"
       }
     },
     "31482": {
@@ -103209,6 +103216,12 @@
         "target_video_id": "29265117",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-10T06:26:06.572415+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-2",
+        "claimed_at": "2026-09-19T09:40:54.544920+00:00",
+        "lease_expires_at": "2026-09-19T15:40:54.544920+00:00",
+        "run_id": "35435106149"
       }
     },
     "5513": {
@@ -103417,14 +103430,6 @@
     "14905": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "29955764",
-          "target_video_id": "29411645",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T22:58:13.599831+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29955764",
           "target_video_id": "29412861",
@@ -103438,13 +103443,27 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-16T01:12:20.008522+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29955764",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:40:55.548047+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29955764",
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:39:28.937512+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:40:54.902529+00:00",
+        "lease_expires_at": "2026-09-19T15:40:54.902529+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29412861"
     },
     "34620": {
       "attempts": []
@@ -103522,6 +103541,12 @@
         "target_video_id": "29265296",
         "size_bytes": 782700000,
         "prepared_at": "2026-09-10T06:36:13.549191+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:40:54.725270+00:00",
+        "lease_expires_at": "2026-09-19T15:40:54.725270+00:00",
+        "run_id": "35435106149"
       }
     },
     "14250": {
@@ -176106,5 +176131,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:40:52.453243+00:00"
+  "updated_at": "2026-09-19T09:40:55.936626+00:00"
 }
