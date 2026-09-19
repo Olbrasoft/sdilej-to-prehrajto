@@ -176431,6 +176431,13 @@
           "target_video_id": "29534809",
           "permanent": false,
           "attempted_at": "2026-09-19T17:31:56.855291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29561854",
+          "target_video_id": "29534809",
+          "permanent": false,
+          "attempted_at": "2026-09-19T18:07:14.961703+00:00"
         }
       ],
       "last_plan": {
@@ -176441,14 +176448,8 @@
       "previous_target_id": "29534809",
       "prepared": {
         "target_video_id": "29534809",
-        "size_bytes": 3112605773,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-19T17:20:33.166489+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
-        "claimed_at": "2026-09-19T18:07:05.963564+00:00",
-        "lease_expires_at": "2026-09-20T00:07:05.963564+00:00",
-        "run_id": "35451641398"
       }
     },
     "35735": {
@@ -180435,35 +180436,91 @@
       "attempts": []
     },
     "16610": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13703874",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:07:11.949604+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13703874",
         "display_name": "Virtuální revoluce (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:06:40.659857+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T18:07:11.130265+00:00",
+        "lease_expires_at": "2026-09-20T00:07:11.130265+00:00",
+        "run_id": "35451641398"
       }
     },
     "28464": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34710982",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:07:12.944401+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710982",
         "display_name": "Ďábelské alibi (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:06:40.798307+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T18:07:12.277199+00:00",
+        "lease_expires_at": "2026-09-20T00:07:12.277199+00:00",
+        "run_id": "35451641398"
       }
     },
     "13654": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33435725",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:07:13.747493+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33435725",
         "display_name": "Nestanu se tvojí ženou (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:06:41.043675+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T18:07:13.095309+00:00",
+        "lease_expires_at": "2026-09-20T00:07:13.095309+00:00",
+        "run_id": "35451641398"
       }
     },
     "28355": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34710848",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:07:14.573470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710848",
         "display_name": "Mejdan jak se patří (2013) SD CZ Dabing",
         "planned_at": "2026-09-19T18:06:41.244142+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T18:07:13.918861+00:00",
+        "lease_expires_at": "2026-09-20T00:07:13.918861+00:00",
+        "run_id": "35451641398"
       }
     },
     "29050": {
@@ -180472,6 +180529,12 @@
         "source_id": "25393153",
         "display_name": "Křišťálová lebka (2014) 720p CZ Dabing",
         "planned_at": "2026-09-19T18:06:41.423847+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T18:07:14.792949+00:00",
+        "lease_expires_at": "2026-09-20T00:07:14.792949+00:00",
+        "run_id": "35451641398"
       }
     },
     "32538": {
@@ -201468,5 +201531,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T18:07:09.302843+00:00"
+  "updated_at": "2026-09-19T18:07:14.961724+00:00"
 }
