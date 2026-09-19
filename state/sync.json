@@ -137462,6 +137462,13 @@
           "source_id": "13601493",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T10:00:16.707363+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13601493",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:07:50.288554+00:00"
         }
       ],
       "last_plan": {
@@ -137620,13 +137627,6 @@
           "source_id": "30998148",
           "target_video_id": "29239615",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:16:13.125415+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30998148",
-          "target_video_id": "29239615",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:48:15.417581+00:00"
         },
         {
@@ -137635,6 +137635,13 @@
           "target_video_id": "29239615",
           "permanent": false,
           "attempted_at": "2026-09-19T14:21:51.665874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30998148",
+          "target_video_id": "29239615",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:07:50.686838+00:00"
         }
       ],
       "last_plan": {
@@ -137647,13 +137654,7 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-09T10:37:06.742328+00:00"
       },
-      "previous_target_id": "29239615",
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
-        "claimed_at": "2026-09-19T16:07:44.374901+00:00",
-        "lease_expires_at": "2026-09-19T22:07:44.374901+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29239615"
     },
     "4768": {
       "attempts": []
@@ -137684,6 +137685,13 @@
           "source_id": "34695682",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T10:00:24.584642+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34695682",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:07:50.406553+00:00"
         }
       ],
       "last_plan": {
@@ -137803,6 +137811,12 @@
         "source_id": "21402005",
         "display_name": "Plán A (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:07:32.993362+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T16:07:50.526452+00:00",
+        "lease_expires_at": "2026-09-19T22:07:50.526452+00:00",
+        "run_id": "35451641398"
       }
     },
     "4796": {
@@ -190068,5 +190082,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:07:44.554011+00:00"
+  "updated_at": "2026-09-19T16:07:50.686859+00:00"
 }
