@@ -86300,21 +86300,9 @@
           "attempted_at": "2026-09-19T06:56:52.425799+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34711562",
-        "display_name": "Tajný spolek Polívkového města (2015) SD CZ Dabing",
-        "planned_at": "2026-09-19T09:37:34.929627+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29517974",
-        "size_bytes": 1071326390,
-        "prepared_at": "2026-09-19T06:55:22.193075+00:00"
-      },
-      "claim": {
-        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
-        "claimed_at": "2026-09-19T09:38:21.633666+00:00",
-        "lease_expires_at": "2026-09-19T15:38:21.633666+00:00",
-        "run_id": "35435106149"
+        "uploaded_at": "2026-09-19T09:38:27.288680+00:00"
       }
     },
     "15990": {
@@ -86471,6 +86459,13 @@
           "reason": "Request failed for https://sdilej.cz/34774647/lajka-2017-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T06:57:03.621115+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34774647",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:38:26.674883+00:00"
         }
       ],
       "last_plan": {
@@ -86537,6 +86532,12 @@
         "target_video_id": "29518054",
         "size_bytes": 1357250870,
         "prepared_at": "2026-09-19T06:56:22.828615+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:38:26.875362+00:00",
+        "lease_expires_at": "2026-09-19T15:38:26.875362+00:00",
+        "run_id": "35435106149"
       }
     },
     "3225": {
@@ -86614,6 +86615,12 @@
         "target_video_id": "29137611",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T18:50:04.440797+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:38:27.084327+00:00",
+        "lease_expires_at": "2026-09-19T15:38:27.084327+00:00",
+        "run_id": "35435106149"
       }
     },
     "14932": {
@@ -176013,5 +176020,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:24.745337+00:00"
+  "updated_at": "2026-09-19T09:38:27.288698+00:00"
 }
