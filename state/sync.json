@@ -183259,22 +183259,10 @@
           "attempted_at": "2026-09-19T18:29:12.839876+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34763100",
-        "display_name": "Dohoda (2005) 4K CZ Dabing",
-        "planned_at": "2026-09-19T19:07:22.930768+00:00"
-      },
       "previous_target_id": "29535748",
-      "prepared": {
+      "upload": {
         "target_video_id": "29535748",
-        "size_bytes": 4946936020,
-        "prepared_at": "2026-09-19T18:13:06.678898+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
-        "claimed_at": "2026-09-19T19:08:05.216170+00:00",
-        "lease_expires_at": "2026-09-20T01:08:05.216170+00:00",
-        "run_id": "35451641398"
+        "uploaded_at": "2026-09-19T19:08:12.865814+00:00"
       }
     },
     "15468": {
@@ -185214,7 +185202,15 @@
       "attempts": []
     },
     "7844": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28491224",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:08:12.718811+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28491224",
         "display_name": "Night Shift (2023) 1080p CZ Titulky",
@@ -185239,6 +185235,12 @@
         "source_id": "11960808",
         "display_name": "Škola svádění (2006) SD CZ Dabing",
         "planned_at": "2026-09-19T19:07:23.825872+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T19:08:12.176706+00:00",
+        "lease_expires_at": "2026-09-20T01:08:12.176706+00:00",
+        "run_id": "35451641398"
       }
     },
     "11926": {
@@ -185256,6 +185258,12 @@
         "source_id": "33265301",
         "display_name": "Moje sestra vlkodlak 3 (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:07:23.977225+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T19:08:12.337888+00:00",
+        "lease_expires_at": "2026-09-20T01:08:12.337888+00:00",
+        "run_id": "35451641398"
       }
     },
     "9444": {
@@ -185264,6 +185272,12 @@
         "source_id": "29490282",
         "display_name": "Kráčející skála 3: Spravedlnost (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:07:24.113259+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
+        "claimed_at": "2026-09-19T19:08:12.566762+00:00",
+        "lease_expires_at": "2026-09-20T01:08:12.566762+00:00",
+        "run_id": "35451641398"
       }
     },
     "19025": {
@@ -205223,5 +205237,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:08:10.221316+00:00"
+  "updated_at": "2026-09-19T19:08:12.865829+00:00"
 }
