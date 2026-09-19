@@ -116601,7 +116601,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-11T12:36:42.414909+00:00"
       },
-      "previous_target_id": "29299477"
+      "previous_target_id": "29299477",
+      "claim": {
+        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-0",
+        "claimed_at": "2026-09-19T16:05:09.993065+00:00",
+        "lease_expires_at": "2026-09-19T22:05:09.993065+00:00",
+        "run_id": "35451641398"
+      }
     },
     "32927": {
       "attempts": []
@@ -119108,13 +119114,6 @@
           "source_id": "32138633",
           "target_video_id": "29242142",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:14:54.239738+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32138633",
-          "target_video_id": "29242142",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:47:18.259754+00:00"
         },
         {
@@ -119123,6 +119122,13 @@
           "target_video_id": "29242142",
           "permanent": false,
           "attempted_at": "2026-09-19T14:21:04.612788+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32138633",
+          "target_video_id": "29242142",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:05:10.208586+00:00"
         }
       ],
       "last_plan": {
@@ -119135,13 +119141,7 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-09T13:01:15.966425+00:00"
       },
-      "previous_target_id": "29242142",
-      "claim": {
-        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-4",
-        "claimed_at": "2026-09-19T16:05:08.032236+00:00",
-        "lease_expires_at": "2026-09-19T22:05:08.032236+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29242142"
     },
     "13705": {
       "attempts": []
@@ -189407,5 +189407,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:05:08.296132+00:00"
+  "updated_at": "2026-09-19T16:05:10.208604+00:00"
 }
