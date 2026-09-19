@@ -44159,13 +44159,6 @@
           "source_id": "26701263",
           "target_video_id": "29199336",
           "permanent": false,
-          "attempted_at": "2026-09-19T11:05:28.357594+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26701263",
-          "target_video_id": "29199336",
-          "permanent": false,
           "attempted_at": "2026-09-19T11:43:25.292597+00:00"
         },
         {
@@ -44174,6 +44167,13 @@
           "target_video_id": "29199336",
           "permanent": false,
           "attempted_at": "2026-09-19T12:23:46.083328+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26701263",
+          "target_video_id": "29199336",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:01:39.254461+00:00"
         }
       ],
       "last_plan": {
@@ -44222,7 +44222,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-16T07:41:49.498919+00:00"
       },
-      "previous_target_id": "29421356"
+      "previous_target_id": "29421356",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T13:01:38.533763+00:00",
+        "lease_expires_at": "2026-09-19T19:01:38.533763+00:00",
+        "run_id": "35435106149"
+      }
     },
     "21479": {
       "attempts": [
@@ -44290,7 +44296,13 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-16T12:04:55.705666+00:00"
       },
-      "previous_target_id": "29427702"
+      "previous_target_id": "29427702",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T13:01:38.303938+00:00",
+        "lease_expires_at": "2026-09-19T19:01:38.303938+00:00",
+        "run_id": "35435106149"
+      }
     },
     "15283": {
       "attempts": []
@@ -189065,5 +189077,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:01:36.335432+00:00"
+  "updated_at": "2026-09-19T13:01:39.254479+00:00"
 }
