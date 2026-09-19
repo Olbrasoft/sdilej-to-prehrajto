@@ -187355,11 +187355,25 @@
       "attempts": []
     },
     "23043": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29312213",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:12:45.516496+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29312213",
         "display_name": "Rodinný podnik (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:09:00.757813+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T19:12:44.772703+00:00",
+        "lease_expires_at": "2026-09-20T01:12:44.772703+00:00",
+        "run_id": "35451641398"
       }
     },
     "14594": {
@@ -187376,11 +187390,25 @@
       }
     },
     "11236": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34908899",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:12:46.707446+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34908899",
         "display_name": "Orka zabiják (1977) 4K CZ Dabing",
         "planned_at": "2026-09-19T19:09:01.002948+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T19:12:45.726811+00:00",
+        "lease_expires_at": "2026-09-20T01:12:45.726811+00:00",
+        "run_id": "35451641398"
       }
     },
     "13154": {
@@ -187395,6 +187423,18 @@
         "source_id": "7976247",
         "display_name": "Ozzy (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:09:01.142041+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T19:12:47.080106+00:00",
+        "lease_expires_at": "2026-09-20T01:12:47.080106+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29536681",
+      "prepared": {
+        "target_video_id": "29536681",
+        "size_bytes": 2312664918,
+        "prepared_at": "2026-09-19T19:12:51.153899+00:00"
       }
     },
     "23744": {
@@ -206775,5 +206815,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:12:39.652260+00:00"
+  "updated_at": "2026-09-19T19:12:51.153915+00:00"
 }
