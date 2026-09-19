@@ -78293,13 +78293,6 @@
           "source_id": "23221863",
           "target_video_id": "29276356",
           "permanent": false,
-          "attempted_at": "2026-09-19T08:35:58.106132+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23221863",
-          "target_video_id": "29276356",
-          "permanent": false,
           "attempted_at": "2026-09-19T09:26:43.344243+00:00"
         },
         {
@@ -78308,6 +78301,13 @@
           "target_video_id": "29276356",
           "permanent": false,
           "attempted_at": "2026-09-19T10:07:42.579418+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23221863",
+          "target_video_id": "29276356",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:10:36.249271+00:00"
         }
       ],
       "last_plan": {
@@ -78404,7 +78404,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-10T16:01:26.517255+00:00"
       },
-      "previous_target_id": "29276442"
+      "previous_target_id": "29276442",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:10:35.456409+00:00",
+        "lease_expires_at": "2026-09-19T17:10:35.456409+00:00",
+        "run_id": "35435106149"
+      }
     },
     "16177": {
       "attempts": []
@@ -78446,7 +78452,13 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-10T16:01:41.280035+00:00"
       },
-      "previous_target_id": "29276451"
+      "previous_target_id": "29276451",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:10:34.922221+00:00",
+        "lease_expires_at": "2026-09-19T17:10:34.922221+00:00",
+        "run_id": "35435106149"
+      }
     },
     "4343": {
       "attempts": []
@@ -78634,7 +78646,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T18:27:16.283405+00:00"
       },
-      "previous_target_id": "29139998"
+      "previous_target_id": "29139998",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:10:35.278423+00:00",
+        "lease_expires_at": "2026-09-19T17:10:35.278423+00:00",
+        "run_id": "35435106149"
+      }
     },
     "37508": {
       "attempts": []
@@ -78990,7 +79008,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T12:44:11.204285+00:00"
       },
-      "previous_target_id": "29132740"
+      "previous_target_id": "29132740",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T11:10:35.658844+00:00",
+        "lease_expires_at": "2026-09-19T17:10:35.658844+00:00",
+        "run_id": "35435106149"
+      }
     },
     "34893": {
       "attempts": []
@@ -79290,11 +79314,25 @@
       }
     },
     "33960": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34899494",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:10:35.937451+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34899494",
         "display_name": "Rytmus: Tempos (2020) 1080p SK Dabing",
         "planned_at": "2026-09-19T11:09:14.087010+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-2",
+        "claimed_at": "2026-09-19T11:10:35.100495+00:00",
+        "lease_expires_at": "2026-09-19T17:10:35.100495+00:00",
+        "run_id": "35435106149"
       }
     },
     "33926": {
@@ -179674,5 +179712,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:10:32.937549+00:00"
+  "updated_at": "2026-09-19T11:10:36.249290+00:00"
 }
