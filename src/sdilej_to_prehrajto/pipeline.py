@@ -360,6 +360,13 @@ class SyncPipeline:
         return cls._target_confirmed(target_session, video_id, name)
 
     @staticmethod
+    def _existing_target_complete(target_session, video_id: str, name: str) -> bool:
+        try:
+            return uploaded_video_id_by_name(target_session, name, include_processing=False) == video_id
+        except Exception:
+            return False
+
+    @staticmethod
     def _target_id_by_name(target_session, name: str) -> str | None:
         try:
             video_id = uploaded_video_id_by_name(target_session, name)
@@ -414,7 +421,7 @@ class SyncPipeline:
                 })
                 continue
             if existing_video_id:
-                if self._target_confirmed(
+                if self._existing_target_complete(
                     target_session, existing_video_id, row["display_name"]
                 ):
                     upload = self._upload_record(
@@ -422,7 +429,7 @@ class SyncPipeline:
                         candidate,
                         video_id=existing_video_id,
                         size_bytes=int(candidate.size_bytes or 0),
-                        completion_evidence="reconciled_exact_uploaded_name",
+                        completion_evidence="reconciled_existing_film",
                     )
                     self._finish_success(film, candidate, row, upload)
                 else:

@@ -273,7 +273,7 @@ def _uploaded_video_id_from_html(
     return None
 
 
-def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> str | None:
+def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, include_processing: bool = True) -> str | None:
     """Search punctuation-tolerantly, then compare complete normalized names."""
     title = re.split(r"\s*\(\d{4}\)", display_name, maxsplit=1)[0]
     fragments = re.findall(r"[\w\s]+", title)
@@ -288,7 +288,7 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> s
             params[page_key] = str(page)
         response = session.get(BASE_URL + "/profil/nahrana-videa", params=params, timeout=30)
         response.raise_for_status()
-        found = _uploaded_video_id_from_html(response.text, display_name)
+        found = _uploaded_video_id_from_html(response.text, display_name, include_processing=include_processing)
         if found:
             return found
         soup = BeautifulSoup(response.text, "html.parser")

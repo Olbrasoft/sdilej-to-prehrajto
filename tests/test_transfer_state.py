@@ -69,6 +69,15 @@ def test_lookup_checks_later_search_pages():
     assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K') == '777'
 
 
+@pytest.mark.parametrize('processing', [False, True])
+def test_existing_film_completion_uses_visible_heading_not_rename_input(processing):
+    class Session:
+        def get(self, *_args, **_kwargs):
+            suffix = ' (Zpracovává se)' if processing else ''
+            return Response(text=f'<div data-video-id="777"><h3 id="snippet-uploadedVideoListing-videoName-777">Film (2000) 4K.mkv{suffix}</h3><input value="Film (2000) 4K"></div>')
+    assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K', include_processing=False) == (None if processing else '777')
+
+
 def test_lookup_rejects_unrecognized_response():
     class Session:
         def get(self, *_args, **_kwargs):
