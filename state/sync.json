@@ -188478,6 +188478,12 @@
         "claimed_at": "2026-09-19T21:14:04.854673+00:00",
         "lease_expires_at": "2026-09-20T03:14:04.854673+00:00",
         "run_id": "35467299794"
+      },
+      "previous_target_id": "29538713",
+      "prepared": {
+        "target_video_id": "29538713",
+        "size_bytes": 4208913776,
+        "prepared_at": "2026-09-19T21:14:12.594416+00:00"
       }
     },
     "35264": {
@@ -188534,7 +188540,15 @@
       }
     },
     "23307": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33726237",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:14:12.432005+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33726237",
         "display_name": "Máma a táta zachrání svět (1992) 1080p CZ Dabing",
@@ -204484,5 +204498,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:14:07.515247+00:00"
+  "updated_at": "2026-09-19T21:14:12.594443+00:00"
 }
