@@ -154923,11 +154923,25 @@
       }
     },
     "22997": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33651163",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:02:38.942429+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33651163",
         "display_name": "Démon pomsty (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:00:56.751972+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T12:02:38.223259+00:00",
+        "lease_expires_at": "2026-09-19T18:02:38.223259+00:00",
+        "run_id": "35435106149"
       }
     },
     "13420": {
@@ -154937,11 +154951,25 @@
       "attempts": []
     },
     "30254": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31004451",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:02:39.983868+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31004451",
         "display_name": "Barbie a dokonalé Vánoce (2011) SD CZ Dabing",
         "planned_at": "2026-09-19T12:00:57.003540+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T12:02:39.194371+00:00",
+        "lease_expires_at": "2026-09-19T18:02:39.194371+00:00",
+        "run_id": "35435106149"
       }
     },
     "18942": {
@@ -154970,15 +154998,9 @@
           "attempted_at": "2026-09-11T14:26:51.950213+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34699959",
-        "display_name": "Pán světa (1961) 720p CZ Dabing",
-        "planned_at": "2026-09-19T12:00:57.238710+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29301206",
-        "size_bytes": 2094715487,
-        "prepared_at": "2026-09-11T14:20:02.019180+00:00"
+        "uploaded_at": "2026-09-19T12:02:41.447159+00:00"
       }
     },
     "28621": {
@@ -185510,5 +185532,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:02:36.454677+00:00"
+  "updated_at": "2026-09-19T12:02:41.447175+00:00"
 }
