@@ -51272,13 +51272,6 @@
           "source_id": "34455102",
           "target_video_id": "29505786",
           "permanent": false,
-          "attempted_at": "2026-09-19T08:06:17.547153+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34455102",
-          "target_video_id": "29505786",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:57:42.042705+00:00"
         },
         {
@@ -51287,6 +51280,13 @@
           "target_video_id": "29505786",
           "permanent": false,
           "attempted_at": "2026-09-19T09:32:44.150044+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34455102",
+          "target_video_id": "29505786",
+          "permanent": false,
+          "attempted_at": "2026-09-19T10:07:25.583939+00:00"
         }
       ],
       "last_plan": {
@@ -51457,7 +51457,13 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-09-19T00:05:39.409858+00:00"
       },
-      "previous_target_id": "29505914"
+      "previous_target_id": "29505914",
+      "claim": {
+        "worker_id": "a6d7129c9b394de19bcdce1d062fd0a1-shard-5",
+        "claimed_at": "2026-09-19T10:07:24.244394+00:00",
+        "lease_expires_at": "2026-09-19T16:07:24.244394+00:00",
+        "run_id": "35435106149"
+      }
     },
     "25883": {
       "attempts": []
@@ -51640,7 +51646,13 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-19T00:06:22.892127+00:00"
       },
-      "previous_target_id": "29505931"
+      "previous_target_id": "29505931",
+      "claim": {
+        "worker_id": "a6d7129c9b394de19bcdce1d062fd0a1-shard-0",
+        "claimed_at": "2026-09-19T10:07:23.888484+00:00",
+        "lease_expires_at": "2026-09-19T16:07:23.888484+00:00",
+        "run_id": "35435106149"
+      }
     },
     "25007": {
       "attempts": []
@@ -51682,7 +51694,13 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-19T00:08:45.102841+00:00"
       },
-      "previous_target_id": "29505996"
+      "previous_target_id": "29505996",
+      "claim": {
+        "worker_id": "a6d7129c9b394de19bcdce1d062fd0a1-shard-4",
+        "claimed_at": "2026-09-19T10:07:24.600735+00:00",
+        "lease_expires_at": "2026-09-19T16:07:24.600735+00:00",
+        "run_id": "35435106149"
+      }
     },
     "18579": {
       "attempts": [
@@ -53398,11 +53416,25 @@
       "attempts": []
     },
     "1602": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34257537",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T10:07:24.970882+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34257537",
         "display_name": "Invalida (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T10:06:01.585685+00:00"
+      },
+      "claim": {
+        "worker_id": "a6d7129c9b394de19bcdce1d062fd0a1-shard-3",
+        "claimed_at": "2026-09-19T10:07:24.065697+00:00",
+        "lease_expires_at": "2026-09-19T16:07:24.065697+00:00",
+        "run_id": "35435106149"
       }
     },
     "30820": {
@@ -66601,6 +66633,12 @@
         "target_video_id": "29524807",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-19T09:09:37.081739+00:00"
+      },
+      "claim": {
+        "worker_id": "a6d7129c9b394de19bcdce1d062fd0a1-shard-1",
+        "claimed_at": "2026-09-19T10:07:24.420582+00:00",
+        "lease_expires_at": "2026-09-19T16:07:24.420582+00:00",
+        "run_id": "35435106149"
       }
     },
     "35753": {
@@ -69055,6 +69093,12 @@
         "target_video_id": "29524835",
         "size_bytes": 12600000000,
         "prepared_at": "2026-09-19T09:10:49.549590+00:00"
+      },
+      "claim": {
+        "worker_id": "a6d7129c9b394de19bcdce1d062fd0a1-shard-3",
+        "claimed_at": "2026-09-19T10:07:25.153119+00:00",
+        "lease_expires_at": "2026-09-19T16:07:25.153119+00:00",
+        "run_id": "35435106149"
       }
     },
     "2788": {
@@ -177408,5 +177452,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T10:07:21.809888+00:00"
+  "updated_at": "2026-09-19T10:07:25.583954+00:00"
 }
