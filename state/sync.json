@@ -161540,11 +161540,25 @@
       "attempts": []
     },
     "10124": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34671176",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:17:51.066506+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34671176",
         "display_name": "Špatný soused (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:17:04.596357+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:17:50.300880+00:00",
+        "lease_expires_at": "2026-09-19T19:17:50.300880+00:00",
+        "run_id": "35435106149"
       }
     },
     "6852": {
@@ -161556,6 +161570,18 @@
         "source_id": "31019600",
         "display_name": "Ca$h (2008) SD CZ Dabing",
         "planned_at": "2026-09-19T13:17:05.296307+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:17:51.328795+00:00",
+        "lease_expires_at": "2026-09-19T19:17:51.328795+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29529792",
+      "prepared": {
+        "target_video_id": "29529792",
+        "size_bytes": 1691723250,
+        "prepared_at": "2026-09-19T13:18:07.313344+00:00"
       }
     },
     "11366": {
@@ -189415,5 +189441,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:17:48.542612+00:00"
+  "updated_at": "2026-09-19T13:18:07.313359+00:00"
 }
