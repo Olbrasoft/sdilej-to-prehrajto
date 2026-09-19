@@ -41998,14 +41998,6 @@
           "source_id": "34933768",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29521928",
-          "attempted_at": "2026-09-19T08:13:23.129774+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34933768",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29524485",
           "attempted_at": "2026-09-19T08:58:32.488825+00:00"
         },
@@ -42015,6 +42007,13 @@
           "source_id": "34933768",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:31:11.075420+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34933768",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:47:24.205053+00:00"
         }
       ],
       "last_plan": {
@@ -42606,13 +42605,6 @@
           "source_id": "33078898",
           "target_video_id": "29418393",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:01:03.969442+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33078898",
-          "target_video_id": "29418393",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:32:41.056996+00:00"
         },
         {
@@ -42621,6 +42613,13 @@
           "target_video_id": "29418393",
           "permanent": false,
           "attempted_at": "2026-09-19T14:05:59.117187+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33078898",
+          "target_video_id": "29418393",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:47:24.462140+00:00"
         }
       ],
       "last_plan": {
@@ -42633,13 +42632,7 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-16T05:38:59.627898+00:00"
       },
-      "previous_target_id": "29418393",
-      "claim": {
-        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-1",
-        "claimed_at": "2026-09-19T15:47:16.177677+00:00",
-        "lease_expires_at": "2026-09-19T21:47:16.177677+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29418393"
     },
     "22922": {
       "attempts": [
@@ -42844,7 +42837,13 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-16T06:02:44.649371+00:00"
       },
-      "previous_target_id": "29419000"
+      "previous_target_id": "29419000",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-3",
+        "claimed_at": "2026-09-19T15:47:24.080374+00:00",
+        "lease_expires_at": "2026-09-19T21:47:24.080374+00:00",
+        "run_id": "35451641398"
+      }
     },
     "26676": {
       "attempts": [],
@@ -42941,7 +42940,13 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-16T06:24:41.033896+00:00"
       },
-      "previous_target_id": "29419443"
+      "previous_target_id": "29419443",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-2",
+        "claimed_at": "2026-09-19T15:47:23.961757+00:00",
+        "lease_expires_at": "2026-09-19T21:47:23.961757+00:00",
+        "run_id": "35451641398"
+      }
     },
     "26763": {
       "attempts": []
@@ -43002,7 +43007,13 @@
         "size_bytes": 14000000000,
         "prepared_at": "2026-09-07T06:15:07.416318+00:00"
       },
-      "previous_target_id": "29179360"
+      "previous_target_id": "29179360",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-5",
+        "claimed_at": "2026-09-19T15:47:24.324428+00:00",
+        "lease_expires_at": "2026-09-19T21:47:24.324428+00:00",
+        "run_id": "35451641398"
+      }
     },
     "15426": {
       "attempts": [
@@ -188941,5 +188952,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:47:22.112761+00:00"
+  "updated_at": "2026-09-19T15:47:24.462167+00:00"
 }
