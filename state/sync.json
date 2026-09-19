@@ -161086,6 +161086,12 @@
         "claimed_at": "2026-09-19T13:33:39.785085+00:00",
         "lease_expires_at": "2026-09-19T19:33:39.785085+00:00",
         "run_id": "35435106149"
+      },
+      "previous_target_id": "29530079",
+      "prepared": {
+        "target_video_id": "29530079",
+        "size_bytes": 2482771382,
+        "prepared_at": "2026-09-19T13:33:45.266139+00:00"
       }
     },
     "8693": {
@@ -163827,7 +163833,15 @@
       "attempts": []
     },
     "33836": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31440522",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:33:42.164668+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31440522",
         "display_name": "Bimboland (1998) SD CZ Dabing",
@@ -163844,11 +163858,25 @@
       "attempts": []
     },
     "25554": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34751294",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:33:43.122726+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34751294",
         "display_name": "Nikdy neříkej sbohem (2006) SD CZ Titulky",
         "planned_at": "2026-09-19T13:31:56.402813+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:33:42.416287+00:00",
+        "lease_expires_at": "2026-09-19T19:33:42.416287+00:00",
+        "run_id": "35435106149"
       }
     },
     "23137": {
@@ -163859,11 +163887,25 @@
       }
     },
     "11858": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33790728",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:33:44.211452+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33790728",
         "display_name": "Polibek upíra (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:31:56.660315+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:33:43.402198+00:00",
+        "lease_expires_at": "2026-09-19T19:33:43.402198+00:00",
+        "run_id": "35435106149"
       }
     },
     "26333": {
@@ -163890,6 +163932,12 @@
         "source_id": "33767285",
         "display_name": "Bílé písky (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:31:56.892033+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:33:44.470697+00:00",
+        "lease_expires_at": "2026-09-19T19:33:44.470697+00:00",
+        "run_id": "35435106149"
       }
     },
     "5763": {
@@ -190688,5 +190736,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:33:40.237350+00:00"
+  "updated_at": "2026-09-19T13:33:45.266155+00:00"
 }
