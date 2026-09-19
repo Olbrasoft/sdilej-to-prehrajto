@@ -25040,14 +25040,6 @@
           "source_id": "34185179",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29518237",
-          "attempted_at": "2026-09-19T07:07:38.365776+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34185179",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29520875",
           "attempted_at": "2026-09-19T07:54:02.939879+00:00"
         },
@@ -25058,12 +25050,25 @@
           "permanent": false,
           "target_video_id": "29524418",
           "attempted_at": "2026-09-19T08:53:09.666721+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34185179",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:24:25.799033+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34185179",
         "display_name": "人狼 JIN-ROH (1999) SD CZ Titulky",
         "planned_at": "2026-09-19T09:24:12.154049+00:00"
+      },
+      "claim": {
+        "worker_id": "c1fceebc760f4bc99e1e1eb45fdccae9-shard-5",
+        "claimed_at": "2026-09-19T09:24:25.091687+00:00",
+        "lease_expires_at": "2026-09-19T15:24:25.091687+00:00",
+        "run_id": "35434488960"
       }
     },
     "27576": {
@@ -35507,13 +35512,6 @@
           "source_id": "33709979",
           "target_video_id": "29407929",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:17:58.830250+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33709979",
-          "target_video_id": "29407929",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:01:21.028968+00:00"
         },
         {
@@ -35522,6 +35520,13 @@
           "target_video_id": "29407929",
           "permanent": false,
           "attempted_at": "2026-09-19T08:47:19.466142+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33709979",
+          "target_video_id": "29407929",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:24:27.386037+00:00"
         }
       ],
       "last_plan": {
@@ -77087,7 +77092,7 @@
       "last_plan": {
         "source_id": "34706261",
         "display_name": "Paní Kačka zasahuje... (1939) SD CZ Dabing",
-        "planned_at": "2026-09-19T09:13:31.495442+00:00"
+        "planned_at": "2026-09-19T09:24:23.853642+00:00"
       }
     },
     "32933": {
@@ -77394,7 +77399,7 @@
       "last_plan": {
         "source_id": "33158292",
         "display_name": "Jezero ztracené lásky (2026) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:13:31.729983+00:00"
+        "planned_at": "2026-09-19T09:24:24.029717+00:00"
       },
       "prepared": {
         "target_video_id": "29129225",
@@ -77516,7 +77521,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát (1959) 1080p",
-        "planned_at": "2026-09-19T09:13:31.962856+00:00"
+        "planned_at": "2026-09-19T09:24:24.208458+00:00"
       },
       "prepared": {
         "target_video_id": "29129228",
@@ -77673,7 +77678,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:13:32.209406+00:00"
+        "planned_at": "2026-09-19T09:24:24.384122+00:00"
       },
       "prepared": {
         "target_video_id": "29276356",
@@ -77756,7 +77761,7 @@
       "last_plan": {
         "source_id": "34189818",
         "display_name": "ODDECHOVÝ ČAS (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:13:32.441442+00:00"
+        "planned_at": "2026-09-19T09:24:24.560984+00:00"
       },
       "prepared": {
         "target_video_id": "29276442",
@@ -77797,7 +77802,7 @@
       "last_plan": {
         "source_id": "29087330",
         "display_name": "Bylo nás deset (1963) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:13:32.687152+00:00"
+        "planned_at": "2026-09-19T09:24:24.738168+00:00"
       },
       "prepared": {
         "target_video_id": "29276451",
@@ -77984,7 +77989,7 @@
       "last_plan": {
         "source_id": "28307613",
         "display_name": "Yellowstonský supervulkán (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:13:32.926419+00:00"
+        "planned_at": "2026-09-19T09:24:24.914173+00:00"
       },
       "prepared": {
         "target_video_id": "29139998",
@@ -175485,5 +175490,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:24:21.995403+00:00"
+  "updated_at": "2026-09-19T09:24:27.386049+00:00"
 }
