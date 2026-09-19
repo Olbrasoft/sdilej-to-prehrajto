@@ -69809,7 +69809,7 @@
       "last_plan": {
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:45.250836+00:00"
+        "planned_at": "2026-09-19T09:43:12.481308+00:00"
       }
     },
     "11240": {
@@ -70008,7 +70008,7 @@
       "last_plan": {
         "source_id": "34062310",
         "display_name": "Dluh (2010) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:45.494624+00:00"
+        "planned_at": "2026-09-19T09:43:12.657037+00:00"
       },
       "prepared": {
         "target_video_id": "29143591",
@@ -70285,7 +70285,7 @@
       "last_plan": {
         "source_id": "34529199",
         "display_name": "Špióni v převleku (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-19T09:04:45.744477+00:00"
+        "planned_at": "2026-09-19T09:43:12.834518+00:00"
       },
       "prepared": {
         "target_video_id": "29314983",
@@ -70368,7 +70368,7 @@
       "last_plan": {
         "source_id": "33873663",
         "display_name": "Čarodějky (1990) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:45.987759+00:00"
+        "planned_at": "2026-09-19T09:43:13.037466+00:00"
       },
       "prepared": {
         "target_video_id": "29314994",
@@ -70406,7 +70406,7 @@
       "last_plan": {
         "source_id": "25307977",
         "display_name": "History of the World: Part I (1981) 720p CZ Titulky",
-        "planned_at": "2026-09-19T09:04:46.237738+00:00"
+        "planned_at": "2026-09-19T09:43:13.215244+00:00"
       },
       "prepared": {
         "target_video_id": "29315006",
@@ -71935,7 +71935,7 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:46.483480+00:00"
+        "planned_at": "2026-09-19T09:43:13.393559+00:00"
       },
       "prepared": {
         "target_video_id": "29443370",
@@ -105259,13 +105259,6 @@
           "source_id": "34851062",
           "target_video_id": "29220630",
           "permanent": false,
-          "attempted_at": "2026-09-15T22:59:08.691641+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34851062",
-          "target_video_id": "29220630",
-          "permanent": false,
           "attempted_at": "2026-09-16T00:02:56.244806+00:00"
         },
         {
@@ -105274,6 +105267,13 @@
           "target_video_id": "29220630",
           "permanent": false,
           "attempted_at": "2026-09-16T01:52:33.377972+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:43:12.111703+00:00"
         }
       ],
       "last_plan": {
@@ -105291,7 +105291,8 @@
         "claimed_at": "2026-09-19T09:42:03.621584+00:00",
         "lease_expires_at": "2026-09-19T15:42:03.621584+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -110823,13 +110824,6 @@
           "source_id": "31105176",
           "target_video_id": "29233196",
           "permanent": false,
-          "attempted_at": "2026-09-15T19:11:08.272201+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31105176",
-          "target_video_id": "29233196",
-          "permanent": false,
           "attempted_at": "2026-09-15T23:11:17.447567+00:00"
         },
         {
@@ -110838,6 +110832,13 @@
           "target_video_id": "29233196",
           "permanent": false,
           "attempted_at": "2026-09-16T00:08:47.600746+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31105176",
+          "target_video_id": "29233196",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:43:13.698896+00:00"
         }
       ],
       "last_plan": {
@@ -110849,7 +110850,8 @@
         "target_video_id": "29233196",
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-09T04:47:12.046514+00:00"
-      }
+      },
+      "previous_target_id": "29233196"
     },
     "3942": {
       "attempts": []
@@ -176176,5 +176178,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:43:10.225456+00:00"
+  "updated_at": "2026-09-19T09:43:13.698914+00:00"
 }
