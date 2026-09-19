@@ -41062,13 +41062,6 @@
           "source_id": "34781749",
           "target_video_id": "29174940",
           "permanent": false,
-          "attempted_at": "2026-09-19T11:42:26.471313+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34781749",
-          "target_video_id": "29174940",
-          "permanent": false,
           "attempted_at": "2026-09-19T12:22:47.536035+00:00"
         },
         {
@@ -41077,6 +41070,13 @@
           "target_video_id": "29174940",
           "permanent": false,
           "attempted_at": "2026-09-19T13:00:51.360818+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34781749",
+          "target_video_id": "29174940",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:32:24.196782+00:00"
         }
       ],
       "last_plan": {
@@ -41283,7 +41283,13 @@
         "size_bytes": 20400000000,
         "prepared_at": "2026-09-08T12:07:32.868752+00:00"
       },
-      "previous_target_id": "29212917"
+      "previous_target_id": "29212917",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
+        "claimed_at": "2026-09-19T13:32:23.307963+00:00",
+        "lease_expires_at": "2026-09-19T19:32:23.307963+00:00",
+        "run_id": "35435106149"
+      }
     },
     "25986": {
       "attempts": []
@@ -190654,5 +190660,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:32:21.304958+00:00"
+  "updated_at": "2026-09-19T13:32:24.196799+00:00"
 }
