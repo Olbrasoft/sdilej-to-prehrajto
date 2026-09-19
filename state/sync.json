@@ -4981,13 +4981,6 @@
           "source_id": "20447868",
           "target_video_id": "29175602",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:06:47.861732+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "29175602",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:38:58.540781+00:00"
         },
         {
@@ -4996,6 +4989,13 @@
           "target_video_id": "29175602",
           "permanent": false,
           "attempted_at": "2026-09-19T14:09:53.477015+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "29175602",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:26:47.557826+00:00"
         }
       ],
       "last_plan": {
@@ -5008,13 +5008,7 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-09-07T01:11:04.897395+00:00"
       },
-      "previous_target_id": "29175602",
-      "claim": {
-        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-3",
-        "claimed_at": "2026-09-19T15:26:43.935665+00:00",
-        "lease_expires_at": "2026-09-19T21:26:43.935665+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29175602"
     },
     "10690": {
       "attempts": []
@@ -5637,7 +5631,13 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-07T06:07:40.264000+00:00"
       },
-      "previous_target_id": "29179195"
+      "previous_target_id": "29179195",
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:26:47.418142+00:00",
+        "lease_expires_at": "2026-09-19T21:26:47.418142+00:00",
+        "run_id": "35451641398"
+      }
     },
     "20578": {
       "attempts": [
@@ -188528,5 +188528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:26:45.713513+00:00"
+  "updated_at": "2026-09-19T15:26:47.557843+00:00"
 }
