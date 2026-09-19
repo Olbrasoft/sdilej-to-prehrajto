@@ -6625,7 +6625,13 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-09-10T19:22:31.785289+00:00"
       },
-      "previous_target_id": "29280093"
+      "previous_target_id": "29280093",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:50:48.719538+00:00",
+        "lease_expires_at": "2026-09-20T05:50:48.719538+00:00",
+        "run_id": "35467299794"
+      }
     },
     "362": {
       "attempts": [
@@ -7157,13 +7163,6 @@
           "source_id": "32380403",
           "target_video_id": "29208687",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:10:08.433933+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "29208687",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:49:09.903414+00:00"
         },
         {
@@ -7172,6 +7171,13 @@
           "target_video_id": "29208687",
           "permanent": false,
           "attempted_at": "2026-09-19T23:20:35.901250+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "29208687",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:50:49.884651+00:00"
         }
       ],
       "last_plan": {
@@ -7866,14 +7872,20 @@
       "last_plan": {
         "source_id": "31734447",
         "display_name": "Kes (1970) 1080p CZ Titulky",
-        "planned_at": "2026-09-19T23:19:19.059484+00:00"
+        "planned_at": "2026-09-19T23:50:48.858287+00:00"
       },
       "prepared": {
         "target_video_id": "29289637",
         "size_bytes": 11300000000,
         "prepared_at": "2026-09-11T03:27:30.973459+00:00"
       },
-      "previous_target_id": "29289637"
+      "previous_target_id": "29289637",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:50:49.342137+00:00",
+        "lease_expires_at": "2026-09-20T05:50:49.342137+00:00",
+        "run_id": "35467299794"
+      }
     },
     "18215": {
       "attempts": [
@@ -8056,14 +8068,20 @@
       "last_plan": {
         "source_id": "14820817",
         "display_name": "Skyfall (2012) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:19:19.335533+00:00"
+        "planned_at": "2026-09-19T23:50:48.998807+00:00"
       },
       "prepared": {
         "target_video_id": "29210666",
         "size_bytes": 17200000000,
         "prepared_at": "2026-09-08T09:49:03.450755+00:00"
       },
-      "previous_target_id": "29210666"
+      "previous_target_id": "29210666",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:50:49.527491+00:00",
+        "lease_expires_at": "2026-09-20T05:50:49.527491+00:00",
+        "run_id": "35467299794"
+      }
     },
     "488": {
       "attempts": [
@@ -8228,14 +8246,20 @@
       "last_plan": {
         "source_id": "33063909",
         "display_name": "Agent bez minulosti (2002) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:19:19.476511+00:00"
+        "planned_at": "2026-09-19T23:50:49.136900+00:00"
       },
       "prepared": {
         "target_video_id": "29210906",
         "size_bytes": 25900000000,
         "prepared_at": "2026-09-08T10:02:40.091490+00:00"
       },
-      "previous_target_id": "29210906"
+      "previous_target_id": "29210906",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:50:49.667302+00:00",
+        "lease_expires_at": "2026-09-20T05:50:49.667302+00:00",
+        "run_id": "35467299794"
+      }
     },
     "452": {
       "attempts": [],
@@ -217604,5 +217628,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:50:46.844055+00:00"
+  "updated_at": "2026-09-19T23:50:49.884662+00:00"
 }
