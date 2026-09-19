@@ -164273,17 +164273,19 @@
       "attempts": []
     },
     "24342": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "15081219",
+          "reason": "Request failed for https://sdilej.cz/15081219/possessor.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:50:07.079487+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15081219",
         "display_name": "Posedlý (2000) SD CZ Titulky",
         "planned_at": "2026-09-19T13:48:39.574220+00:00"
-      },
-      "claim": {
-        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-0",
-        "claimed_at": "2026-09-19T13:49:19.941842+00:00",
-        "lease_expires_at": "2026-09-19T19:49:19.941842+00:00",
-        "run_id": "35435106149"
       }
     },
     "29547": {
@@ -191763,5 +191765,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:50:05.284257+00:00"
+  "updated_at": "2026-09-19T13:50:07.079504+00:00"
 }
