@@ -157897,28 +157897,44 @@
       "attempts": []
     },
     "25574": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29495142",
+          "reason": "Request failed for https://sdilej.cz/29495142/zelvy-ninja-2007-cz-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T12:19:07.942171+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29495142",
         "display_name": "Želvy Ninja (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:01.536336+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
-        "claimed_at": "2026-09-19T12:18:22.108162+00:00",
-        "lease_expires_at": "2026-09-19T18:18:22.108162+00:00",
-        "run_id": "35435106149"
       }
     },
     "22350": {
       "attempts": []
     },
     "30691": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26900518",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:18:29.264437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26900518",
         "display_name": "Sin rodeos (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:01.785898+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T12:18:28.581041+00:00",
+        "lease_expires_at": "2026-09-19T18:18:28.581041+00:00",
+        "run_id": "35435106149"
       }
     },
     "5858": {
@@ -157927,6 +157943,12 @@
         "source_id": "24349496",
         "display_name": "Odpuštění (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.024236+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T12:18:29.464680+00:00",
+        "lease_expires_at": "2026-09-19T18:18:29.464680+00:00",
+        "run_id": "35435106149"
       }
     },
     "34321": {
@@ -187189,5 +187211,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:18:26.702262+00:00"
+  "updated_at": "2026-09-19T12:19:07.942188+00:00"
 }
