@@ -14916,14 +14916,6 @@
     "675": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "33887096",
-          "target_video_id": "29510938",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T04:26:55.525571+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33887096",
           "target_video_id": "29513298",
@@ -14937,18 +14929,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-19T05:52:28.642276+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33887096",
+          "reason": "Request failed for https://sdilej.cz/33887096/anatomie-padu-2023-cz-dab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T06:32:26.453131+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33887096",
         "display_name": "Anatomie pádu (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:28:59.198506+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
-        "claimed_at": "2026-09-19T06:31:40.558393+00:00",
-        "lease_expires_at": "2026-09-19T12:31:40.558393+00:00",
-        "run_id": "35421412982"
       }
     },
     "35499": {
@@ -19553,6 +19546,12 @@
         "target_video_id": "29118434",
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T06:32:24.147703+00:00",
+        "lease_expires_at": "2026-09-19T12:32:24.147703+00:00",
+        "run_id": "35421412982"
       }
     },
     "1109": {
@@ -19591,6 +19590,12 @@
         "target_video_id": "29118460",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T03:44:04.983159+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-1",
+        "claimed_at": "2026-09-19T06:32:24.536901+00:00",
+        "lease_expires_at": "2026-09-19T12:32:24.536901+00:00",
+        "run_id": "35421412982"
       }
     },
     "22983": {
@@ -20164,6 +20169,12 @@
         "target_video_id": "29260125",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-10T02:31:57.475955+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T06:32:24.349251+00:00",
+        "lease_expires_at": "2026-09-19T12:32:24.349251+00:00",
+        "run_id": "35421412982"
       }
     },
     "35068": {
@@ -22115,6 +22126,12 @@
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T06:32:24.732170+00:00",
+        "lease_expires_at": "2026-09-19T12:32:24.732170+00:00",
+        "run_id": "35421412982"
       }
     },
     "24202": {
@@ -175119,5 +175136,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:32:22.038535+00:00"
+  "updated_at": "2026-09-19T06:32:26.453151+00:00"
 }
