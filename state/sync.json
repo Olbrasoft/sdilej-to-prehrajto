@@ -138051,13 +138051,6 @@
           "source_id": "34751728",
           "target_video_id": "29278231",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:46:52.321704+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751728",
-          "target_video_id": "29278231",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:25:20.627187+00:00"
         },
         {
@@ -138066,6 +138059,13 @@
           "target_video_id": "29278231",
           "permanent": false,
           "attempted_at": "2026-09-19T23:03:56.563699+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751728",
+          "target_video_id": "29278231",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:35:13.885466+00:00"
         }
       ],
       "last_plan": {
@@ -138078,13 +138078,7 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-10T17:23:02.263234+00:00"
       },
-      "previous_target_id": "29278231",
-      "claim": {
-        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
-        "claimed_at": "2026-09-19T23:35:11.207958+00:00",
-        "lease_expires_at": "2026-09-20T05:35:11.207958+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29278231"
     },
     "27019": {
       "attempts": []
@@ -146770,6 +146764,12 @@
         "source_id": "26711068",
         "display_name": "Kořeny mafie (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:33:59.238071+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:35:13.398811+00:00",
+        "lease_expires_at": "2026-09-20T05:35:13.398811+00:00",
+        "run_id": "35467299794"
       }
     },
     "35190": {
@@ -146790,6 +146790,13 @@
           "source_id": "17536648",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:43.944333+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "17536648",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:35:13.570531+00:00"
         }
       ],
       "last_plan": {
@@ -146839,6 +146846,13 @@
           "source_id": "34379071",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:53.457919+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34379071",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:35:13.724827+00:00"
         }
       ],
       "last_plan": {
@@ -215416,5 +215430,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:35:11.526761+00:00"
+  "updated_at": "2026-09-19T23:35:13.885483+00:00"
 }
