@@ -160156,11 +160156,25 @@
       "attempts": []
     },
     "22564": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33724672",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:54:39.070507+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33724672",
         "display_name": "Krvavý tábor (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:51:30.799197+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-2",
+        "claimed_at": "2026-09-19T12:54:38.318808+00:00",
+        "lease_expires_at": "2026-09-19T18:54:38.318808+00:00",
+        "run_id": "35435106149"
       }
     },
     "5472": {
@@ -160194,6 +160208,18 @@
         "source_id": "34695617",
         "display_name": "Battle (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:51:31.028557+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-2",
+        "claimed_at": "2026-09-19T12:54:39.313572+00:00",
+        "lease_expires_at": "2026-09-19T18:54:39.313572+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29529247",
+      "prepared": {
+        "target_video_id": "29529247",
+        "size_bytes": 2209309845,
+        "prepared_at": "2026-09-19T12:54:43.205339+00:00"
       }
     },
     "5726": {
@@ -188558,5 +188584,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:54:32.418226+00:00"
+  "updated_at": "2026-09-19T12:54:43.205352+00:00"
 }
