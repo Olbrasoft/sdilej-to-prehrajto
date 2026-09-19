@@ -30555,7 +30555,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T19:21:30.717664+00:00"
       },
-      "previous_target_id": "29388066"
+      "previous_target_id": "29388066",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-5",
+        "claimed_at": "2026-09-19T15:46:22.678259+00:00",
+        "lease_expires_at": "2026-09-19T21:46:22.678259+00:00",
+        "run_id": "35451641398"
+      }
     },
     "1730": {
       "attempts": [
@@ -30703,13 +30709,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28711738",
-          "reason": "Request failed for https://sdilej.cz/28711738/profesor-a-silenec-the-professor-and-the-madman-2019-bluray-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T08:23:59.173180+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28711738",
           "target_video_id": "29524656",
@@ -30722,6 +30721,13 @@
           "source_id": "28711738",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:37:41.802217+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28711738",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:46:23.435028+00:00"
         }
       ],
       "last_plan": {
@@ -30734,7 +30740,13 @@
         "size_bytes": 3064196835,
         "prepared_at": "2026-09-19T08:58:54.889416+00:00"
       },
-      "previous_target_id": "29524656"
+      "previous_target_id": "29524656",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-3",
+        "claimed_at": "2026-09-19T15:46:22.839345+00:00",
+        "lease_expires_at": "2026-09-19T21:46:22.839345+00:00",
+        "run_id": "35451641398"
+      }
     },
     "21046": {
       "attempts": [
@@ -30999,13 +31011,6 @@
           "source_id": "32042477",
           "target_video_id": "29318983",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:11:13.767511+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32042477",
-          "target_video_id": "29318983",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:43:39.713642+00:00"
         },
         {
@@ -31014,6 +31019,13 @@
           "target_video_id": "29318983",
           "permanent": false,
           "attempted_at": "2026-09-19T14:16:39.163344+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32042477",
+          "target_video_id": "29318983",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:46:23.736759+00:00"
         }
       ],
       "last_plan": {
@@ -31129,7 +31141,13 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-12T07:24:05.038265+00:00"
       },
-      "previous_target_id": "29318760"
+      "previous_target_id": "29318760",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-1",
+        "claimed_at": "2026-09-19T15:46:22.972422+00:00",
+        "lease_expires_at": "2026-09-19T21:46:22.972422+00:00",
+        "run_id": "35451641398"
+      }
     },
     "1377": {
       "attempts": []
@@ -31820,7 +31838,13 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-09-13T15:37:54.387895+00:00"
       },
-      "previous_target_id": "29352239"
+      "previous_target_id": "29352239",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-0",
+        "claimed_at": "2026-09-19T15:46:23.100487+00:00",
+        "lease_expires_at": "2026-09-19T21:46:23.100487+00:00",
+        "run_id": "35451641398"
+      }
     },
     "31733": {
       "attempts": [
@@ -32700,7 +32724,13 @@
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
       },
-      "previous_target_id": "29153323"
+      "previous_target_id": "29153323",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-3",
+        "claimed_at": "2026-09-19T15:46:23.548897+00:00",
+        "lease_expires_at": "2026-09-19T21:46:23.548897+00:00",
+        "run_id": "35451641398"
+      }
     },
     "29761": {
       "attempts": []
@@ -188929,5 +188959,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:46:20.636744+00:00"
+  "updated_at": "2026-09-19T15:46:23.736775+00:00"
 }
