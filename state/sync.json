@@ -157980,13 +157980,6 @@
     "25574": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29495142",
-          "reason": "Request failed for https://sdilej.cz/29495142/zelvy-ninja-2007-cz-1080p.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T12:19:07.942171+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29495142",
           "target_video_id": "29529188",
@@ -157999,6 +157992,13 @@
           "target_video_id": "29529188",
           "permanent": false,
           "attempted_at": "2026-09-19T13:33:33.050430+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29495142",
+          "target_video_id": "29529188",
+          "permanent": false,
+          "attempted_at": "2026-09-19T14:22:39.116663+00:00"
         }
       ],
       "last_plan": {
@@ -158011,12 +158011,6 @@
         "target_video_id": "29529188",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-19T12:51:57.449755+00:00"
-      },
-      "claim": {
-        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-5",
-        "claimed_at": "2026-09-19T14:22:29.459942+00:00",
-        "lease_expires_at": "2026-09-19T20:22:29.459942+00:00",
-        "run_id": "35435106149"
       }
     },
     "22350": {
@@ -193138,5 +193132,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T14:22:37.339571+00:00"
+  "updated_at": "2026-09-19T14:22:39.116681+00:00"
 }
