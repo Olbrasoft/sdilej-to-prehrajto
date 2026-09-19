@@ -11995,13 +11995,6 @@
           "source_id": "6078224",
           "target_video_id": "29338368",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:11:01.487352+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "29338368",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:49:52.028674+00:00"
         },
         {
@@ -12010,6 +12003,13 @@
           "target_video_id": "29338368",
           "permanent": false,
           "attempted_at": "2026-09-19T23:21:41.881135+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "29338368",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:52:05.318142+00:00"
         }
       ],
       "last_plan": {
@@ -12022,13 +12022,7 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
       },
-      "previous_target_id": "29338368",
-      "claim": {
-        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
-        "claimed_at": "2026-09-19T23:51:56.137957+00:00",
-        "lease_expires_at": "2026-09-20T05:51:56.137957+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29338368"
     },
     "23132": {
       "attempts": [
@@ -14594,7 +14588,13 @@
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-06T06:54:34.838119+00:00"
       },
-      "previous_target_id": "29154102"
+      "previous_target_id": "29154102",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:52:05.187019+00:00",
+        "lease_expires_at": "2026-09-20T05:52:05.187019+00:00",
+        "run_id": "35467299794"
+      }
     },
     "733": {
       "attempts": [
@@ -217616,5 +217616,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:52:03.303311+00:00"
+  "updated_at": "2026-09-19T23:52:05.318169+00:00"
 }
