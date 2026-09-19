@@ -13033,12 +13033,25 @@
           "source_id": "28154217",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T14:09:52.830688+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28154217",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T20:13:46.149483+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28154217",
         "display_name": "Zlo mezi námi (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-19T20:11:48.655271+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T20:13:45.301358+00:00",
+        "lease_expires_at": "2026-09-20T02:13:45.301358+00:00",
+        "run_id": "35451641398"
       }
     },
     "23872": {
@@ -13633,13 +13646,6 @@
           "source_id": "34737645",
           "target_video_id": "29469067",
           "permanent": false,
-          "attempted_at": "2026-09-19T18:18:32.899300+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34737645",
-          "target_video_id": "29469067",
-          "permanent": false,
           "attempted_at": "2026-09-19T18:51:27.847197+00:00"
         },
         {
@@ -13648,6 +13654,13 @@
           "target_video_id": "29469067",
           "permanent": false,
           "attempted_at": "2026-09-19T19:40:03.102442+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34737645",
+          "target_video_id": "29469067",
+          "permanent": false,
+          "attempted_at": "2026-09-19T20:13:46.338690+00:00"
         }
       ],
       "last_plan": {
@@ -13702,7 +13715,13 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-18T05:05:25.787081+00:00"
       },
-      "previous_target_id": "29469095"
+      "previous_target_id": "29469095",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T20:13:45.673888+00:00",
+        "lease_expires_at": "2026-09-20T02:13:45.673888+00:00",
+        "run_id": "35451641398"
+      }
     },
     "19051": {
       "attempts": [
@@ -211064,5 +211083,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:13:42.735465+00:00"
+  "updated_at": "2026-09-19T20:13:46.338711+00:00"
 }
