@@ -66912,7 +66912,13 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-11T15:01:59.209128+00:00"
       },
-      "previous_target_id": "29302307"
+      "previous_target_id": "29302307",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:59:34.083932+00:00",
+        "lease_expires_at": "2026-09-20T05:59:34.083932+00:00",
+        "run_id": "35467299794"
+      }
     },
     "11675": {
       "attempts": []
@@ -67134,13 +67140,6 @@
           "source_id": "22546836",
           "target_video_id": "29404061",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:18:11.668916+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22546836",
-          "target_video_id": "29404061",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:56:41.093975+00:00"
         },
         {
@@ -67149,6 +67148,13 @@
           "target_video_id": "29404061",
           "permanent": false,
           "attempted_at": "2026-09-19T23:28:28.101007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22546836",
+          "target_video_id": "29404061",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:59:35.354224+00:00"
         }
       ],
       "last_plan": {
@@ -67340,7 +67346,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-11T15:10:38.375293+00:00"
       },
-      "previous_target_id": "29302498"
+      "previous_target_id": "29302498",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:59:33.663428+00:00",
+        "lease_expires_at": "2026-09-20T05:59:33.663428+00:00",
+        "run_id": "35467299794"
+      }
     },
     "30334": {
       "attempts": []
@@ -67554,7 +67566,13 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-11T15:15:46.282837+00:00"
       },
-      "previous_target_id": "29302707"
+      "previous_target_id": "29302707",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:59:33.944086+00:00",
+        "lease_expires_at": "2026-09-20T05:59:33.944086+00:00",
+        "run_id": "35467299794"
+      }
     },
     "30378": {
       "attempts": []
@@ -157243,12 +157261,25 @@
           "source_id": "34521532",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:57:14.467872+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34521532",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:59:34.236750+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34521532",
         "display_name": "Letíme (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:58:39.845332+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:59:33.505892+00:00",
+        "lease_expires_at": "2026-09-20T05:59:33.505892+00:00",
+        "run_id": "35467299794"
       }
     },
     "21864": {
@@ -157266,12 +157297,25 @@
           "source_id": "29443631",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:57:14.948461+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29443631",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:59:35.093690+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29443631",
         "display_name": "Náš muž Flint 2: Flint opět v akci (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:58:39.986272+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:59:34.378030+00:00",
+        "lease_expires_at": "2026-09-20T05:59:34.378030+00:00",
+        "run_id": "35467299794"
       }
     },
     "18995": {
@@ -219509,5 +219553,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:59:31.680652+00:00"
+  "updated_at": "2026-09-19T23:59:35.354240+00:00"
 }
