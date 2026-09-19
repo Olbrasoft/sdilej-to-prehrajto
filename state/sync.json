@@ -57279,14 +57279,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28441201",
-          "target_video_id": "29513751",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T06:15:14.567094+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "28441201",
           "reason": "PrehrajtoError",
@@ -57301,6 +57293,13 @@
           "permanent": false,
           "target_video_id": "29522513",
           "attempted_at": "2026-09-19T08:21:23.784129+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28441201",
+          "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:03:52.032005+00:00"
         }
       ],
       "last_plan": {
@@ -175471,5 +175470,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:03:03.885393+00:00"
+  "updated_at": "2026-09-19T09:03:52.032024+00:00"
 }
