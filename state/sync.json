@@ -178490,10 +178490,9 @@
     },
     "35215": {
       "attempts": [],
-      "last_plan": {
-        "source_id": "27404998",
-        "display_name": "Robin Hood (1991) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T17:57:00.458612+00:00"
+      "upload": {
+        "target_video_id": "29324397",
+        "uploaded_at": "2026-09-19T17:57:30.837734+00:00"
       }
     },
     "28556": {
@@ -178506,11 +178505,25 @@
       "attempts": []
     },
     "6453": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34662083",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T17:57:30.470224+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34662083",
         "display_name": "Návrat živé smrti III (1993) 1080p CZ Dabing",
         "planned_at": "2026-09-19T17:57:00.749200+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T17:57:29.862419+00:00",
+        "lease_expires_at": "2026-09-19T23:57:29.862419+00:00",
+        "run_id": "35451641398"
       }
     },
     "6398": {
@@ -178519,6 +178532,12 @@
         "source_id": "33639332",
         "display_name": "Rychle a zběsile 2 (2003) 4K CZ Dabing",
         "planned_at": "2026-09-19T17:57:00.967083+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T17:57:30.607542+00:00",
+        "lease_expires_at": "2026-09-19T23:57:30.607542+00:00",
+        "run_id": "35451641398"
       }
     },
     "31827": {
@@ -199611,5 +199630,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:57:23.799689+00:00"
+  "updated_at": "2026-09-19T17:57:30.837756+00:00"
 }
