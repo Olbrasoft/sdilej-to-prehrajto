@@ -43444,7 +43444,13 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-16T23:33:03.676409+00:00"
       },
-      "previous_target_id": "29439426"
+      "previous_target_id": "29439426",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T20:16:57.693731+00:00",
+        "lease_expires_at": "2026-09-20T02:16:57.693731+00:00",
+        "run_id": "35451641398"
+      }
     },
     "32317": {
       "attempts": []
@@ -192619,17 +192625,19 @@
       "attempts": []
     },
     "6695": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33375774",
+          "target_video_id": "29537517",
+          "permanent": false,
+          "attempted_at": "2026-09-19T20:16:57.838408+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33375774",
         "display_name": "Sebevražedný oddíl (2016) 4K CZ Dabing",
         "planned_at": "2026-09-19T19:57:47.161140+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
-        "claimed_at": "2026-09-19T20:00:44.298264+00:00",
-        "lease_expires_at": "2026-09-20T02:00:44.298264+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29537517",
       "prepared": {
@@ -211093,5 +211101,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:16:55.550124+00:00"
+  "updated_at": "2026-09-19T20:16:57.838420+00:00"
 }
