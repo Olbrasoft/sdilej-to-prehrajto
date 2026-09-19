@@ -73949,14 +73949,6 @@
     "3142": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "29860661",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29514125",
-          "attempted_at": "2026-09-19T06:10:36.038008+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29860661",
           "reason": "Request failed for https://sdilej.cz/29860661/fair-play-2014-cz-cz.mkv (HTTP None)",
@@ -73970,12 +73962,25 @@
           "permanent": false,
           "target_video_id": "29522917",
           "attempted_at": "2026-09-19T08:43:03.205620+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29860661",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:26:24.049074+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:24:20.954826+00:00"
+      },
+      "claim": {
+        "worker_id": "c1fceebc760f4bc99e1e1eb45fdccae9-shard-5",
+        "claimed_at": "2026-09-19T09:26:23.262098+00:00",
+        "lease_expires_at": "2026-09-19T15:26:23.262098+00:00",
+        "run_id": "35434488960"
       }
     },
     "21194": {
@@ -74274,11 +74279,25 @@
       "attempts": []
     },
     "22383": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35058003",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:26:24.866655+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35058003",
         "display_name": "Peníze těch druhých (1978) 720p CZ Dabing",
         "planned_at": "2026-09-19T09:24:21.352653+00:00"
+      },
+      "claim": {
+        "worker_id": "c1fceebc760f4bc99e1e1eb45fdccae9-shard-5",
+        "claimed_at": "2026-09-19T09:26:24.227982+00:00",
+        "lease_expires_at": "2026-09-19T15:26:24.227982+00:00",
+        "run_id": "35434488960"
       }
     },
     "12124": {
@@ -76226,13 +76245,6 @@
           "source_id": "34469451",
           "target_video_id": "29140603",
           "permanent": false,
-          "attempted_at": "2026-09-19T06:21:47.205318+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34469451",
-          "target_video_id": "29140603",
-          "permanent": false,
           "attempted_at": "2026-09-19T07:31:34.874216+00:00"
         },
         {
@@ -76241,6 +76253,13 @@
           "target_video_id": "29140603",
           "permanent": false,
           "attempted_at": "2026-09-19T08:34:33.913770+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34469451",
+          "target_video_id": "29140603",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:26:26.562584+00:00"
         }
       ],
       "last_plan": {
@@ -175587,5 +175606,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:26:21.357170+00:00"
+  "updated_at": "2026-09-19T09:26:26.562595+00:00"
 }
