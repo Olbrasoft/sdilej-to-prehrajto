@@ -73855,13 +73855,6 @@
     "3142": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "29860661",
-          "target_video_id": "29501882",
-          "permanent": false,
-          "attempted_at": "2026-09-18T21:06:11.437742+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "29860661",
           "target_video_id": "29501882",
@@ -73875,17 +73868,20 @@
           "target_video_id": "29504148",
           "permanent": false,
           "attempted_at": "2026-09-19T03:52:29.389899+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "29860661",
+          "target_video_id": "29504148",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-19T04:52:06.645726+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T04:45:17.925089+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29504148",
-        "size_bytes": 9400000000,
-        "prepared_at": "2026-09-18T22:38:43.962488+00:00"
       }
     },
     "21194": {
@@ -74081,6 +74077,12 @@
         "source_id": "29223001",
         "display_name": "Mateřství (2022) 720p CZ Dabing",
         "planned_at": "2026-09-19T04:45:18.109968+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-4",
+        "claimed_at": "2026-09-19T04:52:04.107446+00:00",
+        "lease_expires_at": "2026-09-19T10:52:04.107446+00:00",
+        "run_id": "35405560473"
       }
     },
     "11031": {
@@ -174951,5 +174953,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T04:52:01.989887+00:00"
+  "updated_at": "2026-09-19T04:52:06.645739+00:00"
 }
