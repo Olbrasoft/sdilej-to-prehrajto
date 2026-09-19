@@ -45632,14 +45632,6 @@
     "2248": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "26500293",
-          "target_video_id": "29510211",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:45:08.288178+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26500293",
           "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
@@ -45652,17 +45644,20 @@
           "target_video_id": "29513435",
           "permanent": false,
           "attempted_at": "2026-09-19T05:28:01.372962+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "26500293",
+          "target_video_id": "29513435",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:58:34.661302+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26500293",
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T05:58:17.394463+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29513435",
-        "size_bytes": 3251819157,
-        "prepared_at": "2026-09-19T05:16:18.239828+00:00"
       }
     },
     "2288": {
@@ -48850,6 +48845,12 @@
         "target_video_id": "29204521",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-08T05:04:25.903912+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T05:58:31.115059+00:00",
+        "lease_expires_at": "2026-09-19T11:58:31.115059+00:00",
+        "run_id": "35421412982"
       }
     },
     "2390": {
@@ -48974,6 +48975,12 @@
         "target_video_id": "29136439",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-06T06:32:20.158962+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T05:58:30.879307+00:00",
+        "lease_expires_at": "2026-09-19T11:58:30.879307+00:00",
+        "run_id": "35421412982"
       }
     },
     "21454": {
@@ -51017,7 +51024,7 @@
       "last_plan": {
         "source_id": "34648559",
         "display_name": "Ženou z boží vůle (2017) 1080p CZ Titulky",
-        "planned_at": "2026-09-19T05:15:07.948044+00:00"
+        "planned_at": "2026-09-19T05:58:23.084857+00:00"
       },
       "prepared": {
         "target_video_id": "29213453",
@@ -51094,7 +51101,7 @@
       "last_plan": {
         "source_id": "34455102",
         "display_name": "Soukromý život Sherlocka Holmese (1970) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T05:15:08.128035+00:00"
+        "planned_at": "2026-09-19T05:58:23.297281+00:00"
       },
       "prepared": {
         "target_video_id": "29505786",
@@ -51254,7 +51261,7 @@
       "last_plan": {
         "source_id": "34686304",
         "display_name": "Kouzelná Beruška a Černý Kocour: Šanghaj – Legenda o dračí lady (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T05:15:08.484529+00:00"
+        "planned_at": "2026-09-19T05:58:23.504130+00:00"
       },
       "prepared": {
         "target_video_id": "29505914",
@@ -51436,7 +51443,7 @@
       "last_plan": {
         "source_id": "34481021",
         "display_name": "Noc 12. (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T05:15:08.662796+00:00"
+        "planned_at": "2026-09-19T05:58:23.751020+00:00"
       },
       "prepared": {
         "target_video_id": "29505931",
@@ -51477,7 +51484,7 @@
       "last_plan": {
         "source_id": "32324471",
         "display_name": "Johnny (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T05:15:08.841422+00:00"
+        "planned_at": "2026-09-19T05:58:23.956524+00:00"
       },
       "prepared": {
         "target_video_id": "29505996",
@@ -51951,7 +51958,7 @@
       "last_plan": {
         "source_id": "33531199",
         "display_name": "Obyčejní hrdinové (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T05:15:09.196779+00:00"
+        "planned_at": "2026-09-19T05:58:24.179041+00:00"
       },
       "prepared": {
         "target_video_id": "29136430",
@@ -53996,7 +54003,7 @@
       "last_plan": {
         "source_id": "33026609",
         "display_name": "Vandráci na ostrově lidojedů (2024) 1080p",
-        "planned_at": "2026-09-19T05:15:09.374335+00:00"
+        "planned_at": "2026-09-19T05:58:24.421013+00:00"
       },
       "prepared": {
         "target_video_id": "29430951",
@@ -54119,7 +54126,7 @@
       "last_plan": {
         "source_id": "14676805",
         "display_name": "Danielle Steel: Prsten (1996) 1080p CZ Titulky",
-        "planned_at": "2026-09-19T05:18:01.136332+00:00"
+        "planned_at": "2026-09-19T05:58:24.633306+00:00"
       },
       "prepared": {
         "target_video_id": "29431004",
@@ -54636,7 +54643,7 @@
       "last_plan": {
         "source_id": "34880836",
         "display_name": "Nedělej Zagorku! (2021) 1080p",
-        "planned_at": "2026-09-19T05:18:01.333303+00:00"
+        "planned_at": "2026-09-19T05:58:24.884646+00:00"
       },
       "prepared": {
         "target_video_id": "29432600",
@@ -55532,7 +55539,7 @@
       "last_plan": {
         "source_id": "32222414",
         "display_name": "Společník (2025) 4K CZ Dabing",
-        "planned_at": "2026-09-19T04:45:14.375790+00:00"
+        "planned_at": "2026-09-19T05:58:25.106027+00:00"
       }
     },
     "2571": {
@@ -76323,7 +76330,7 @@
       "last_plan": {
         "source_id": "34405680",
         "display_name": "Dvacet tisíc mil pod mořem (1980) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T04:45:20.134304+00:00"
+        "planned_at": "2026-09-19T05:58:25.355183+00:00"
       },
       "prepared": {
         "target_video_id": "29513015",
@@ -79336,7 +79343,7 @@
       "last_plan": {
         "source_id": "34788778",
         "display_name": "Florenc 13,30 (1957) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T04:45:22.976987+00:00"
+        "planned_at": "2026-09-19T05:58:25.581704+00:00"
       },
       "prepared": {
         "target_video_id": "29513058",
@@ -79451,7 +79458,7 @@
       "last_plan": {
         "source_id": "34720178",
         "display_name": "Právo na minulosť (1989) 1080p SK Dabing",
-        "planned_at": "2026-09-19T04:45:23.163030+00:00"
+        "planned_at": "2026-09-19T05:58:25.792656+00:00"
       },
       "prepared": {
         "target_video_id": "29513062",
@@ -79478,7 +79485,7 @@
       "last_plan": {
         "source_id": "29399903",
         "display_name": "Stíny smrti: Cena za zradu (2022) SD CZ Dabing",
-        "planned_at": "2026-09-19T04:45:23.345931+00:00"
+        "planned_at": "2026-09-19T05:58:26.019887+00:00"
       },
       "prepared": {
         "target_video_id": "29513148",
@@ -79574,7 +79581,12 @@
       "attempts": []
     },
     "24169": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28002795",
+        "display_name": "Děvče za výkladem (1937) SD CZ Dabing",
+        "planned_at": "2026-09-19T05:58:26.235085+00:00"
+      }
     },
     "13033": {
       "attempts": []
@@ -79583,7 +79595,12 @@
       "attempts": []
     },
     "29629": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34348989",
+        "display_name": "Křišťálek meč (2007) SD CZ Dabing",
+        "planned_at": "2026-09-19T05:58:26.439688+00:00"
+      }
     },
     "24186": {
       "attempts": []
@@ -79592,7 +79609,12 @@
       "attempts": []
     },
     "12735": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29809619",
+        "display_name": "Prodavač humoru (1984) SD CZ Dabing",
+        "planned_at": "2026-09-19T05:58:26.645489+00:00"
+      }
     },
     "37459": {
       "attempts": [],
@@ -79615,7 +79637,12 @@
       "attempts": []
     },
     "12203": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34675366",
+        "display_name": "...koně na betoně (1995) 1080p CZ Dabing",
+        "planned_at": "2026-09-19T05:58:26.871507+00:00"
+      }
     },
     "21629": {
       "attempts": []
@@ -79624,7 +79651,12 @@
       "attempts": []
     },
     "24213": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34861630",
+        "display_name": "Antonyho šance (1986) 1080p CZ Dabing",
+        "planned_at": "2026-09-19T05:58:27.072958+00:00"
+      }
     },
     "32019": {
       "attempts": []
@@ -80972,7 +81004,7 @@
       "last_plan": {
         "source_id": "29201504",
         "display_name": "Průlom (1946) SD CZ Dabing",
-        "planned_at": "2026-09-18T22:31:29.075012+00:00"
+        "planned_at": "2026-09-19T05:58:27.283016+00:00"
       },
       "prepared": {
         "target_video_id": "29504151",
@@ -81006,7 +81038,7 @@
       "last_plan": {
         "source_id": "30640932",
         "display_name": "Poslední výstřel (1950) 720p CZ Dabing",
-        "planned_at": "2026-09-18T20:48:23.611879+00:00"
+        "planned_at": "2026-09-19T05:58:27.508543+00:00"
       },
       "prepared": {
         "target_video_id": "29498128",
@@ -81822,7 +81854,7 @@
       "last_plan": {
         "source_id": "34451753",
         "display_name": "Školní tajemství (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T20:48:24.373380+00:00"
+        "planned_at": "2026-09-19T05:58:27.717649+00:00"
       },
       "prepared": {
         "target_video_id": "29448179",
@@ -81994,7 +82026,7 @@
       "last_plan": {
         "source_id": "29163089",
         "display_name": "Popelka z velkoměsta (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T20:48:24.637657+00:00"
+        "planned_at": "2026-09-19T05:58:27.947205+00:00"
       },
       "prepared": {
         "target_video_id": "29137549",
@@ -82043,7 +82075,7 @@
       "last_plan": {
         "source_id": "34757917",
         "display_name": "Déšť padá na naše duše (2002) 1080p SK",
-        "planned_at": "2026-09-18T20:48:25.110983+00:00"
+        "planned_at": "2026-09-19T05:58:28.178083+00:00"
       },
       "prepared": {
         "target_video_id": "29502400",
@@ -82153,7 +82185,7 @@
       "last_plan": {
         "source_id": "34634459",
         "display_name": "Advokátka Věra (1937) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T20:48:27.653573+00:00"
+        "planned_at": "2026-09-19T05:58:28.391335+00:00"
       }
     },
     "14527": {
@@ -82189,7 +82221,7 @@
       "last_plan": {
         "source_id": "31022901",
         "display_name": "Svět podle Daliborka (2017) 720p CZ Dabing",
-        "planned_at": "2026-09-18T18:51:43.765502+00:00"
+        "planned_at": "2026-09-19T05:58:28.621412+00:00"
       },
       "prepared": {
         "target_video_id": "29498343",
@@ -82291,7 +82323,7 @@
       "last_plan": {
         "source_id": "32831532",
         "display_name": "Marian (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T18:51:43.969489+00:00"
+        "planned_at": "2026-09-19T05:58:28.827618+00:00"
       }
     },
     "33170": {
@@ -82313,7 +82345,7 @@
       "last_plan": {
         "source_id": "18112814",
         "display_name": "Tajemství pouze služební (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T18:51:44.182034+00:00"
+        "planned_at": "2026-09-19T05:58:29.075018+00:00"
       }
     },
     "3429": {
@@ -82360,7 +82392,7 @@
       "last_plan": {
         "source_id": "34779338",
         "display_name": "Ženy, které nenávidí muže (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T18:51:44.396159+00:00"
+        "planned_at": "2026-09-19T05:58:29.297070+00:00"
       },
       "prepared": {
         "target_video_id": "29498528",
@@ -82410,7 +82442,7 @@
       "last_plan": {
         "source_id": "31629620",
         "display_name": "Monstrum (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T18:51:44.605025+00:00"
+        "planned_at": "2026-09-19T05:58:29.513803+00:00"
       },
       "prepared": {
         "target_video_id": "29498540",
@@ -82446,7 +82478,7 @@
       "last_plan": {
         "source_id": "29876862",
         "display_name": "Zločin v šantánu (1968) 1080p CZ Dabing",
-        "planned_at": "2026-09-18T18:51:44.821733+00:00"
+        "planned_at": "2026-09-19T05:58:29.737474+00:00"
       },
       "prepared": {
         "target_video_id": "29498547",
@@ -82473,7 +82505,7 @@
       "last_plan": {
         "source_id": "30183783",
         "display_name": "Tanec lásky a smrti (1993) 1080p SK Dabing",
-        "planned_at": "2026-09-18T18:51:45.033640+00:00"
+        "planned_at": "2026-09-19T05:58:29.973034+00:00"
       },
       "prepared": {
         "target_video_id": "29498615",
@@ -83630,7 +83662,7 @@
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 (2016) SD CZ Dabing",
-        "planned_at": "2026-09-18T18:17:12.920818+00:00"
+        "planned_at": "2026-09-19T05:58:30.190038+00:00"
       },
       "prepared": {
         "target_video_id": "29479320",
@@ -83856,7 +83888,7 @@
       "last_plan": {
         "source_id": "34791759",
         "display_name": "Cirkus bude! (1954) SD CZ Dabing",
-        "planned_at": "2026-09-18T18:17:13.131362+00:00"
+        "planned_at": "2026-09-19T05:58:30.423654+00:00"
       },
       "prepared": {
         "target_video_id": "29140505",
@@ -175014,5 +175046,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:58:20.985946+00:00"
+  "updated_at": "2026-09-19T05:58:34.661318+00:00"
 }
