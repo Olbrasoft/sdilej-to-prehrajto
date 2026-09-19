@@ -139650,11 +139650,25 @@
       "attempts": []
     },
     "35330": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32943134",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T10:35:14.858489+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32943134",
         "display_name": "The Stöned Age (1994) SD CZ Dabing",
         "planned_at": "2026-09-19T10:26:20.182723+00:00"
+      },
+      "claim": {
+        "worker_id": "7361f95bfdbf44a2a8ceb3eeb311f653-shard-3",
+        "claimed_at": "2026-09-19T10:35:14.231111+00:00",
+        "lease_expires_at": "2026-09-19T16:35:14.231111+00:00",
+        "run_id": "35435106149"
       }
     },
     "22114": {
@@ -139663,6 +139677,18 @@
         "source_id": "33624371",
         "display_name": "Volání divočiny (1972) 1080p CZ Dabing",
         "planned_at": "2026-09-19T10:26:20.407793+00:00"
+      },
+      "claim": {
+        "worker_id": "7361f95bfdbf44a2a8ceb3eeb311f653-shard-3",
+        "claimed_at": "2026-09-19T10:35:15.039320+00:00",
+        "lease_expires_at": "2026-09-19T16:35:15.039320+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29526389",
+      "prepared": {
+        "target_video_id": "29526389",
+        "size_bytes": 5028101772,
+        "prepared_at": "2026-09-19T10:35:18.048806+00:00"
       }
     },
     "30818": {
@@ -179127,5 +179153,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T10:35:12.293144+00:00"
+  "updated_at": "2026-09-19T10:35:18.048822+00:00"
 }
