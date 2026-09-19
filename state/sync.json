@@ -52356,14 +52356,6 @@
     "30909": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "18823758",
-          "target_video_id": "29507035",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:09:06.271547+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "18823758",
           "reason": "Request failed for https://sdilej.cz/18823758/mogadisyu-escape.from.mogadishu.2021.web-dl.1080p.x264-titulky-sk.mkv (HTTP None)",
@@ -52376,17 +52368,20 @@
           "target_video_id": "29512496",
           "permanent": false,
           "attempted_at": "2026-09-19T04:50:22.492630+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "18823758",
+          "target_video_id": "29512496",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:37:39.072046+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18823758",
         "display_name": "Mogadishu (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-19T05:35:12.476931+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29512496",
-        "size_bytes": 3007025750,
-        "prepared_at": "2026-09-19T04:41:13.867965+00:00"
       }
     },
     "2273": {
@@ -175081,5 +175076,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:37:28.454638+00:00"
+  "updated_at": "2026-09-19T05:37:39.072064+00:00"
 }
