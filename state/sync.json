@@ -158015,7 +158015,15 @@
       }
     },
     "5316": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31429214",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:19:17.003391+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31429214",
         "display_name": "Bláznivá dovolená v Evropě (1985) 1080p CZ Dabing",
@@ -158041,25 +158049,65 @@
         "source_id": "24775177",
         "display_name": "Kolos (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.737188+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T12:19:17.480178+00:00",
+        "lease_expires_at": "2026-09-19T18:19:17.480178+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29528476",
+      "prepared": {
+        "target_video_id": "29528476",
+        "size_bytes": 3535118153,
+        "prepared_at": "2026-09-19T12:19:21.273242+00:00"
       }
     },
     "13244": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34680841",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:19:18.063876+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34680841",
         "display_name": "Dezertér (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.980802+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:19:17.239114+00:00",
+        "lease_expires_at": "2026-09-19T18:19:17.239114+00:00",
+        "run_id": "35435106149"
       }
     },
     "31868": {
       "attempts": []
     },
     "32065": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34714752",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:19:19.102178+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34714752",
         "display_name": "Kletba Měsíčního údolí (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:03.229113+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:19:18.368982+00:00",
+        "lease_expires_at": "2026-09-19T18:19:18.368982+00:00",
+        "run_id": "35435106149"
       }
     },
     "8232": {
@@ -158068,6 +158116,12 @@
         "source_id": "16763752",
         "display_name": "Tanec v srdci (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-19T12:09:03.474739+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:19:19.366256+00:00",
+        "lease_expires_at": "2026-09-19T18:19:19.366256+00:00",
+        "run_id": "35435106149"
       }
     },
     "5534": {
@@ -187233,5 +187287,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:19:15.144287+00:00"
+  "updated_at": "2026-09-19T12:19:21.273256+00:00"
 }
