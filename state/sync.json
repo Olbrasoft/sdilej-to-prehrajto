@@ -186404,22 +186404,10 @@
           "attempted_at": "2026-09-19T20:34:51.574170+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33506115",
-        "display_name": "Hitman 3: Likvidátor (1991) SD CZ Dabing",
-        "planned_at": "2026-09-19T21:12:44.474742+00:00"
-      },
       "previous_target_id": "29537958",
-      "prepared": {
+      "upload": {
         "target_video_id": "29537958",
-        "size_bytes": 653644158,
-        "prepared_at": "2026-09-19T20:32:36.236870+00:00"
-      },
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
-        "claimed_at": "2026-09-19T21:13:29.786576+00:00",
-        "lease_expires_at": "2026-09-20T03:13:29.786576+00:00",
-        "run_id": "35467299794"
+        "uploaded_at": "2026-09-19T21:13:42.810838+00:00"
       }
     },
     "19373": {
@@ -187607,10 +187595,24 @@
         "source_id": "25848157",
         "display_name": "Zase ona! (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-19T21:12:45.321298+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T21:13:42.416545+00:00",
+        "lease_expires_at": "2026-09-20T03:13:42.416545+00:00",
+        "run_id": "35467299794"
       }
     },
     "11362": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21984373",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:13:42.660960+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21984373",
         "display_name": "Vánoční zlo (1980) SD CZ Dabing",
@@ -187627,7 +187629,15 @@
       "attempts": []
     },
     "19164": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "10214515",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:13:42.543038+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10214515",
         "display_name": "The Heretics (2017) 720p CZ Titulky",
@@ -187655,6 +187665,12 @@
         "source_id": "34442818",
         "display_name": "Antiviral (2012) SD CZ Titulky",
         "planned_at": "2026-09-19T21:12:46.303521+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-5",
+        "claimed_at": "2026-09-19T21:13:42.194027+00:00",
+        "lease_expires_at": "2026-09-20T03:13:42.194027+00:00",
+        "run_id": "35467299794"
       }
     },
     "29251": {
@@ -203854,5 +203870,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:13:40.506290+00:00"
+  "updated_at": "2026-09-19T21:13:42.810858+00:00"
 }
