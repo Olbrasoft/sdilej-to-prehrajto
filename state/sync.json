@@ -115017,13 +115017,6 @@
           "source_id": "34592701",
           "target_video_id": "29357441",
           "permanent": false,
-          "attempted_at": "2026-09-19T20:27:43.893570+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34592701",
-          "target_video_id": "29357441",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:09:58.402246+00:00"
         },
         {
@@ -115032,6 +115025,13 @@
           "target_video_id": "29357441",
           "permanent": false,
           "attempted_at": "2026-09-19T21:45:50.273011+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34592701",
+          "target_video_id": "29357441",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:23:32.584015+00:00"
         }
       ],
       "last_plan": {
@@ -115044,13 +115044,7 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T20:36:43.761682+00:00"
       },
-      "previous_target_id": "29357441",
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
-        "claimed_at": "2026-09-19T22:23:30.524629+00:00",
-        "lease_expires_at": "2026-09-20T04:23:30.524629+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29357441"
     },
     "14582": {
       "attempts": []
@@ -117235,7 +117229,13 @@
         "display_name": "Tři bratři (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:23:02.742146+00:00"
       },
-      "previous_target_id": "29409545"
+      "previous_target_id": "29409545",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-0",
+        "claimed_at": "2026-09-19T22:23:32.451246+00:00",
+        "lease_expires_at": "2026-09-20T04:23:32.451246+00:00",
+        "run_id": "35467299794"
+      }
     },
     "27094": {
       "attempts": [
@@ -206606,5 +206606,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:23:30.663607+00:00"
+  "updated_at": "2026-09-19T22:23:32.584030+00:00"
 }
