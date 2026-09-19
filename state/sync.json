@@ -187907,6 +187907,12 @@
         "claimed_at": "2026-09-19T21:13:46.094111+00:00",
         "lease_expires_at": "2026-09-20T03:13:46.094111+00:00",
         "run_id": "35467299794"
+      },
+      "previous_target_id": "29538704",
+      "prepared": {
+        "target_video_id": "29538704",
+        "size_bytes": 4227829230,
+        "prepared_at": "2026-09-19T21:13:51.507762+00:00"
       }
     },
     "36770": {
@@ -188073,7 +188079,15 @@
       "attempts": []
     },
     "25774": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34883608",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:13:51.059155+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883608",
         "display_name": "Tvůj snoubenec, můj milenec (2011) 1080p CZ Dabing",
@@ -188102,7 +188116,15 @@
       "attempts": []
     },
     "6875": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22648044",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:13:50.932420+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22648044",
         "display_name": "Úniková hra: Turnaj šampiónů (2021) 1080p CZ Dabing",
@@ -188166,7 +188188,15 @@
       }
     },
     "9209": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23895668",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:13:51.377999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23895668",
         "display_name": "Ainbo: Hrdinka pralesa (2021) 1080p CZ Dabing",
@@ -188185,6 +188215,12 @@
         "source_id": "24205733",
         "display_name": "Tom Clancy: Bez výčitek (2021) 4K CZ Dabing",
         "planned_at": "2026-09-19T21:12:49.058193+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T21:13:51.248989+00:00",
+        "lease_expires_at": "2026-09-20T03:13:51.248989+00:00",
+        "run_id": "35467299794"
       }
     },
     "8190": {
@@ -204062,5 +204098,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:13:49.242251+00:00"
+  "updated_at": "2026-09-19T21:13:51.507781+00:00"
 }
