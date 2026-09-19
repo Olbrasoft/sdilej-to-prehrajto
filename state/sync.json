@@ -67313,13 +67313,6 @@
           "source_id": "32814517",
           "target_video_id": "29302498",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:40:00.933621+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32814517",
-          "target_video_id": "29302498",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:18:13.598947+00:00"
         },
         {
@@ -67328,6 +67321,13 @@
           "target_video_id": "29302498",
           "permanent": false,
           "attempted_at": "2026-09-19T22:56:37.513699+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32814517",
+          "target_video_id": "29302498",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:28:33.316294+00:00"
         }
       ],
       "last_plan": {
@@ -67554,7 +67554,13 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-11T15:15:46.282837+00:00"
       },
-      "previous_target_id": "29302707"
+      "previous_target_id": "29302707",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:28:31.989079+00:00",
+        "lease_expires_at": "2026-09-20T05:28:31.989079+00:00",
+        "run_id": "35467299794"
+      }
     },
     "30378": {
       "attempts": []
@@ -145652,12 +145658,25 @@
           "source_id": "25108769",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:37.084203+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25108769",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:28:32.806555+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25108769",
         "display_name": "A Cinderella Story: Starstruck (2021) 720p CZ Titulky",
         "planned_at": "2026-09-19T23:26:42.884055+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:28:31.829485+00:00",
+        "lease_expires_at": "2026-09-20T05:28:31.829485+00:00",
+        "run_id": "35467299794"
       }
     },
     "35641": {
@@ -215160,5 +215179,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:28:29.904014+00:00"
+  "updated_at": "2026-09-19T23:28:33.316311+00:00"
 }
