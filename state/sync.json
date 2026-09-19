@@ -1612,13 +1612,6 @@
           "source_id": "7430975",
           "target_video_id": "29111363",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:36:36.340205+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7430975",
-          "target_video_id": "29111363",
-          "permanent": false,
           "attempted_at": "2026-09-19T14:07:33.597050+00:00"
         },
         {
@@ -1627,6 +1620,13 @@
           "target_video_id": "29111363",
           "permanent": false,
           "attempted_at": "2026-09-19T15:26:28.494875+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7430975",
+          "target_video_id": "29111363",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:58:27.282318+00:00"
         }
       ],
       "last_plan": {
@@ -1639,13 +1639,7 @@
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
       },
-      "previous_target_id": "29111363",
-      "claim": {
-        "worker_id": "1bbaa35f5def49f4b5cf776fb4059d83-shard-5",
-        "claimed_at": "2026-09-19T15:58:21.078712+00:00",
-        "lease_expires_at": "2026-09-19T21:58:21.078712+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29111363"
     },
     "21587": {
       "attempts": [
@@ -2203,7 +2197,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-06T03:39:26.984473+00:00"
       },
-      "previous_target_id": "29115742"
+      "previous_target_id": "29115742",
+      "claim": {
+        "worker_id": "1bbaa35f5def49f4b5cf776fb4059d83-shard-0",
+        "claimed_at": "2026-09-19T15:58:27.120162+00:00",
+        "lease_expires_at": "2026-09-19T21:58:27.120162+00:00",
+        "run_id": "35451641398"
+      }
     },
     "10684": {
       "attempts": [
@@ -189316,5 +189316,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:58:21.981827+00:00"
+  "updated_at": "2026-09-19T15:58:27.282331+00:00"
 }
