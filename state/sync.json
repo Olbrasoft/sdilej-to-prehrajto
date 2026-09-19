@@ -2404,13 +2404,6 @@
           "source_id": "24225122",
           "target_video_id": "29115694",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:09:15.180908+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24225122",
-          "target_video_id": "29115694",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:48:16.691838+00:00"
         },
         {
@@ -2419,12 +2412,19 @@
           "target_video_id": "29115694",
           "permanent": false,
           "attempted_at": "2026-09-19T23:19:51.193441+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24225122",
+          "target_video_id": "29115694",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:49:57.903540+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24225122",
         "display_name": "Koe no katači (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-19T23:19:15.996019+00:00"
+        "planned_at": "2026-09-19T23:49:55.982570+00:00"
       },
       "prepared": {
         "target_video_id": "29115694",
@@ -2626,14 +2626,20 @@
       "last_plan": {
         "source_id": "34257579",
         "display_name": "Dárek do cely č.7 (2019) 1080p SK Dabing",
-        "planned_at": "2026-09-19T23:19:16.217423+00:00"
+        "planned_at": "2026-09-19T23:49:56.126067+00:00"
       },
       "prepared": {
         "target_video_id": "29115923",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-05T01:42:00.311695+00:00"
       },
-      "previous_target_id": "29115923"
+      "previous_target_id": "29115923",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:49:56.835755+00:00",
+        "lease_expires_at": "2026-09-20T05:49:56.835755+00:00",
+        "run_id": "35467299794"
+      }
     },
     "29255": {
       "attempts": []
@@ -2768,14 +2774,20 @@
       "last_plan": {
         "source_id": "12902823",
         "display_name": "Zmizelá (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T23:19:16.453352+00:00"
+        "planned_at": "2026-09-19T23:49:57.216903+00:00"
       },
       "prepared": {
         "target_video_id": "29115993",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-05T18:33:16.338254+00:00"
       },
-      "previous_target_id": "29115993"
+      "previous_target_id": "29115993",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:49:57.432106+00:00",
+        "lease_expires_at": "2026-09-20T05:49:57.432106+00:00",
+        "run_id": "35467299794"
+      }
     },
     "223": {
       "attempts": [
@@ -205754,13 +205766,19 @@
       "last_plan": {
         "source_id": "27781600",
         "display_name": "Twilight sága: Rozbřesk - 2. část (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T23:08:18.119618+00:00"
+        "planned_at": "2026-09-19T23:49:56.329556+00:00"
       },
       "previous_target_id": "29540759",
       "prepared": {
         "target_video_id": "29540759",
         "size_bytes": 2469152693,
         "prepared_at": "2026-09-19T23:08:42.063759+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:49:57.078383+00:00",
+        "lease_expires_at": "2026-09-20T05:49:57.078383+00:00",
+        "run_id": "35467299794"
       }
     },
     "14508": {
@@ -217595,5 +217613,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:49:54.201551+00:00"
+  "updated_at": "2026-09-19T23:49:57.903558+00:00"
 }
