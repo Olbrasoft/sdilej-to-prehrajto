@@ -154867,11 +154867,25 @@
       "attempts": []
     },
     "25009": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31089246",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:02:35.072416+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31089246",
         "display_name": "Grande école (2004) SD CZ Titulky",
         "planned_at": "2026-09-19T12:00:56.257919+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T12:02:34.402694+00:00",
+        "lease_expires_at": "2026-09-19T18:02:34.402694+00:00",
+        "run_id": "35435106149"
       }
     },
     "20795": {
@@ -154903,15 +154917,9 @@
           "attempted_at": "2026-09-11T14:26:40.028943+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29955570",
-        "display_name": "Noční monstrum (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T12:00:56.505232+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29301180",
-        "size_bytes": 2058098913,
-        "prepared_at": "2026-09-11T14:19:06.463548+00:00"
+        "uploaded_at": "2026-09-19T12:02:36.454660+00:00"
       }
     },
     "22997": {
@@ -185502,5 +185510,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:02:32.592973+00:00"
+  "updated_at": "2026-09-19T12:02:36.454677+00:00"
 }
