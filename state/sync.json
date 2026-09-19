@@ -91248,13 +91248,6 @@
     "37463": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34722961",
-          "reason": "Request failed for https://sdilej.cz/34722961/matcin-stin.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T15:11:06.113731+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34722961",
           "target_video_id": "29493444",
@@ -91267,6 +91260,13 @@
           "target_video_id": "29493444",
           "permanent": false,
           "attempted_at": "2026-09-19T09:39:03.299221+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34722961",
+          "target_video_id": "29493444",
+          "permanent": false,
+          "attempted_at": "2026-09-19T10:11:41.479157+00:00"
         }
       ],
       "last_plan": {
@@ -91279,13 +91279,7 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-18T17:53:19.279745+00:00"
       },
-      "previous_target_id": "29493444",
-      "claim": {
-        "worker_id": "9a389dec6ef1416980f683f4d38e0bf3-shard-1",
-        "claimed_at": "2026-09-19T10:11:38.219604+00:00",
-        "lease_expires_at": "2026-09-19T16:11:38.219604+00:00",
-        "run_id": "35435106149"
-      }
+      "previous_target_id": "29493444"
     },
     "10836": {
       "attempts": []
@@ -177653,5 +177647,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T10:11:39.436163+00:00"
+  "updated_at": "2026-09-19T10:11:41.479175+00:00"
 }
