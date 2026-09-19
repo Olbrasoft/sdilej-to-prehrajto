@@ -128123,13 +128123,6 @@
           "source_id": "30147512",
           "target_video_id": "29252039",
           "permanent": false,
-          "attempted_at": "2026-09-19T20:28:50.753239+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30147512",
-          "target_video_id": "29252039",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:10:53.587744+00:00"
         },
         {
@@ -128138,6 +128131,13 @@
           "target_video_id": "29252039",
           "permanent": false,
           "attempted_at": "2026-09-19T21:46:29.742220+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30147512",
+          "target_video_id": "29252039",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:24:26.264903+00:00"
         }
       ],
       "last_plan": {
@@ -131666,13 +131666,6 @@
     "15143": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26447974",
-          "reason": "Request failed for https://sdilej.cz/26447974/30.noches.con.mi.ex.webrip.cz.es.2022.720p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T12:23:30.426565+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26447974",
@@ -131685,6 +131678,13 @@
           "source_id": "26447974",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:05:57.837304+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26447974",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:24:24.664568+00:00"
         }
       ],
       "last_plan": {
@@ -134172,7 +134172,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-10T23:09:13.599356+00:00"
       },
-      "previous_target_id": "29284107"
+      "previous_target_id": "29284107",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T22:24:25.043102+00:00",
+        "lease_expires_at": "2026-09-20T04:24:25.043102+00:00",
+        "run_id": "35467299794"
+      }
     },
     "31835": {
       "attempts": []
@@ -134313,13 +134319,6 @@
     "9575": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34661757",
-          "reason": "Request failed for https://sdilej.cz/34661757/vsechno-nebo-nic-2017-fhd.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T12:24:27.719577+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34661757",
@@ -134332,6 +134331,13 @@
           "source_id": "34661757",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:05:56.044915+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34661757",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:24:26.137863+00:00"
         }
       ],
       "last_plan": {
@@ -134339,7 +134345,13 @@
         "display_name": "Všechno nebo nic (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:23:07.112806+00:00"
       },
-      "previous_target_id": "29400424"
+      "previous_target_id": "29400424",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-0",
+        "claimed_at": "2026-09-19T22:24:25.324045+00:00",
+        "lease_expires_at": "2026-09-20T04:24:25.324045+00:00",
+        "run_id": "35467299794"
+      }
     },
     "30955": {
       "attempts": []
@@ -134567,14 +134579,6 @@
     "30039": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34900534",
-          "target_video_id": "29400453",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-15T12:24:33.297871+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34900534",
@@ -134587,6 +134591,13 @@
           "source_id": "34900534",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:06:00.189068+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34900534",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:24:24.921659+00:00"
         }
       ],
       "last_plan": {
@@ -134900,12 +134911,25 @@
           "source_id": "35028520",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:06:02.854901+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35028520",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:24:25.462226+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35028520",
         "display_name": "Přerušené ticho (2012) SD CZ Dabing",
         "planned_at": "2026-09-19T22:23:07.372034+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:24:24.535618+00:00",
+        "lease_expires_at": "2026-09-20T04:24:24.535618+00:00",
+        "run_id": "35467299794"
       }
     },
     "13677": {
@@ -135307,12 +135331,25 @@
           "source_id": "35032461",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:06:32.456121+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35032461",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:24:25.966696+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35032461",
         "display_name": "Viking: The Berserkers (2014) SD CZ Titulky",
         "planned_at": "2026-09-19T22:23:07.502692+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-5",
+        "claimed_at": "2026-09-19T22:24:25.170590+00:00",
+        "lease_expires_at": "2026-09-20T04:24:25.170590+00:00",
+        "run_id": "35467299794"
       }
     },
     "33808": {
@@ -135512,7 +135549,13 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-12T01:39:15.863283+00:00"
       },
-      "previous_target_id": "29314118"
+      "previous_target_id": "29314118",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T22:24:25.588286+00:00",
+        "lease_expires_at": "2026-09-20T04:24:25.588286+00:00",
+        "run_id": "35467299794"
+      }
     },
     "4622": {
       "attempts": [
@@ -135625,6 +135668,12 @@
         "source_id": "29398891",
         "display_name": "Imaginární přátelé (2024) 4K CZ Dabing",
         "planned_at": "2026-09-19T22:23:07.758898+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:24:25.714065+00:00",
+        "lease_expires_at": "2026-09-20T04:24:25.714065+00:00",
+        "run_id": "35467299794"
       }
     },
     "4461": {
@@ -206628,5 +206677,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:24:22.677409+00:00"
+  "updated_at": "2026-09-19T22:24:26.264927+00:00"
 }
