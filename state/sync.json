@@ -189671,7 +189671,15 @@
       }
     },
     "25957": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "15439507",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:28:35.256743+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15439507",
         "display_name": "Pastýř (2008) 1080p CZ Dabing",
@@ -189715,6 +189723,18 @@
         "source_id": "27431301",
         "display_name": "V/H/S/85 (2023) SD CZ Titulky",
         "planned_at": "2026-09-19T21:14:02.249522+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T21:28:35.385105+00:00",
+        "lease_expires_at": "2026-09-20T03:28:35.385105+00:00",
+        "run_id": "35467299794"
+      },
+      "previous_target_id": "29539008",
+      "prepared": {
+        "target_video_id": "29539008",
+        "size_bytes": 1794812265,
+        "prepared_at": "2026-09-19T21:28:41.951819+00:00"
       }
     },
     "7010": {
@@ -205000,5 +205020,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:28:33.284906+00:00"
+  "updated_at": "2026-09-19T21:28:41.951837+00:00"
 }
