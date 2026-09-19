@@ -2431,7 +2431,13 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
       },
-      "previous_target_id": "29115694"
+      "previous_target_id": "29115694",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T12:03:54.892793+00:00",
+        "lease_expires_at": "2026-09-19T18:03:54.892793+00:00",
+        "run_id": "35435106149"
+      }
     },
     "10669": {
       "attempts": []
@@ -149978,17 +149984,19 @@
       }
     },
     "5330": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34660022",
+          "target_video_id": "29527881",
+          "permanent": false,
+          "attempted_at": "2026-09-19T12:03:55.096724+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34660022",
         "display_name": "Pekelný dům: Počátek (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:55:20.440205+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
-        "claimed_at": "2026-09-19T11:55:46.651356+00:00",
-        "lease_expires_at": "2026-09-19T17:55:46.651356+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29527881",
       "prepared": {
@@ -185799,5 +185807,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:03:53.130859+00:00"
+  "updated_at": "2026-09-19T12:03:55.096740+00:00"
 }
