@@ -78039,7 +78039,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T16:24:07.588950+00:00"
       },
-      "previous_target_id": "29129225"
+      "previous_target_id": "29129225",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T11:48:31.302682+00:00",
+        "lease_expires_at": "2026-09-19T17:48:31.302682+00:00",
+        "run_id": "35435106149"
+      }
     },
     "28400": {
       "attempts": []
@@ -148746,17 +148752,19 @@
       "attempts": []
     },
     "4879": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32363868",
+          "target_video_id": "29527466",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:48:31.504536+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32363868",
         "display_name": "Bláznivá střela (2025) 4K CZ Dabing",
         "planned_at": "2026-09-19T11:34:27.690584+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
-        "claimed_at": "2026-09-19T11:35:23.859294+00:00",
-        "lease_expires_at": "2026-09-19T17:35:23.859294+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29527466",
       "prepared": {
@@ -183360,5 +183368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:48:29.509984+00:00"
+  "updated_at": "2026-09-19T11:48:31.504554+00:00"
 }
