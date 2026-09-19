@@ -163462,19 +163462,47 @@
       }
     },
     "5818": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34660729",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:31:01.285019+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34660729",
         "display_name": "Štěstí pro začátečníky (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:25:05.084014+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-2",
+        "claimed_at": "2026-09-19T13:31:00.501324+00:00",
+        "lease_expires_at": "2026-09-19T19:31:00.501324+00:00",
+        "run_id": "35435106149"
       }
     },
     "26595": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34709423",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:31:02.275457+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34709423",
         "display_name": "Císařovna a bojovníci (2008) SD CZ Dabing",
         "planned_at": "2026-09-19T13:25:05.366868+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-2",
+        "claimed_at": "2026-09-19T13:31:01.551937+00:00",
+        "lease_expires_at": "2026-09-19T19:31:01.551937+00:00",
+        "run_id": "35435106149"
       }
     },
     "6944": {
@@ -163483,6 +163511,18 @@
         "source_id": "12314543",
         "display_name": "Racek (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:25:05.621291+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-2",
+        "claimed_at": "2026-09-19T13:31:02.537799+00:00",
+        "lease_expires_at": "2026-09-19T19:31:02.537799+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29530036",
+      "prepared": {
+        "target_video_id": "29530036",
+        "size_bytes": 10554265345,
+        "prepared_at": "2026-09-19T13:31:07.256484+00:00"
       }
     },
     "18661": {
@@ -190491,5 +190531,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:30:58.667137+00:00"
+  "updated_at": "2026-09-19T13:31:07.256500+00:00"
 }
