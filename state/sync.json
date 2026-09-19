@@ -135906,11 +135906,25 @@
       "attempts": []
     },
     "13426": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28759496",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T10:00:07.763254+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28759496",
         "display_name": "Bezva vejška (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:47:40.460597+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-3",
+        "claimed_at": "2026-09-19T10:00:05.707819+00:00",
+        "lease_expires_at": "2026-09-19T16:00:05.707819+00:00",
+        "run_id": "35435106149"
       }
     },
     "30664": {
@@ -135982,13 +135996,6 @@
           "source_id": "34751728",
           "target_video_id": "29278231",
           "permanent": false,
-          "attempted_at": "2026-09-11T10:50:29.279534+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751728",
-          "target_video_id": "29278231",
-          "permanent": false,
           "attempted_at": "2026-09-11T12:01:19.875624+00:00"
         },
         {
@@ -135997,6 +136004,13 @@
           "target_video_id": "29278231",
           "permanent": false,
           "attempted_at": "2026-09-11T14:01:26.180175+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751728",
+          "target_video_id": "29278231",
+          "permanent": false,
+          "attempted_at": "2026-09-19T10:00:10.471782+00:00"
         }
       ],
       "last_plan": {
@@ -136008,7 +136022,8 @@
         "target_video_id": "29278231",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-10T17:23:02.263234+00:00"
-      }
+      },
+      "previous_target_id": "29278231"
     },
     "27019": {
       "attempts": []
@@ -177158,5 +177173,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:59:58.445002+00:00"
+  "updated_at": "2026-09-19T10:00:10.471799+00:00"
 }
