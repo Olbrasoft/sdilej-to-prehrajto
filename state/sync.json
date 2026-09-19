@@ -84197,13 +84197,6 @@
           "source_id": "12863543",
           "target_video_id": "29479320",
           "permanent": false,
-          "attempted_at": "2026-09-19T06:11:02.391843+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12863543",
-          "target_video_id": "29479320",
-          "permanent": false,
           "attempted_at": "2026-09-19T07:39:31.077650+00:00"
         },
         {
@@ -84212,6 +84205,13 @@
           "target_video_id": "29479320",
           "permanent": false,
           "attempted_at": "2026-09-19T08:40:43.696714+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12863543",
+          "target_video_id": "29479320",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:38:09.391694+00:00"
         }
       ],
       "last_plan": {
@@ -84224,12 +84224,7 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-18T10:00:36.138433+00:00"
       },
-      "claim": {
-        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
-        "claimed_at": "2026-09-19T09:38:04.482723+00:00",
-        "lease_expires_at": "2026-09-19T15:38:04.482723+00:00",
-        "run_id": "35435106149"
-      }
+      "previous_target_id": "29479320"
     },
     "28088": {
       "attempts": []
@@ -85491,6 +85486,13 @@
           "reason": "Request failed for https://sdilej.cz/31885766/cesta-do-lesa-2012-hd-1920x1080-hb2500-aac192-2pass-encoding-spark-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T07:40:38.365155+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31885766",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:38:09.198698+00:00"
         }
       ],
       "last_plan": {
@@ -175975,5 +175977,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:07.293703+00:00"
+  "updated_at": "2026-09-19T09:38:09.391714+00:00"
 }
