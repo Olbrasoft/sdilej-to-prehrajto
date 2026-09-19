@@ -80313,12 +80313,25 @@
           "source_id": "30225049",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T11:10:54.823519+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30225049",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T17:12:29.439262+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30225049",
         "display_name": "Bohyně krásy (1984) 720p CZ Dabing",
         "planned_at": "2026-09-19T17:10:55.741423+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T17:12:28.876899+00:00",
+        "lease_expires_at": "2026-09-19T23:12:28.876899+00:00",
+        "run_id": "35451641398"
       }
     },
     "32717": {
@@ -80382,13 +80395,6 @@
           "source_id": "31513493",
           "target_video_id": "29136445",
           "permanent": false,
-          "attempted_at": "2026-09-19T14:12:24.442047+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31513493",
-          "target_video_id": "29136445",
-          "permanent": false,
           "attempted_at": "2026-09-19T15:57:58.957106+00:00"
         },
         {
@@ -80397,6 +80403,13 @@
           "target_video_id": "29136445",
           "permanent": false,
           "attempted_at": "2026-09-19T16:40:30.453284+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31513493",
+          "target_video_id": "29136445",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:12:29.629487+00:00"
         }
       ],
       "last_plan": {
@@ -80451,7 +80464,13 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
       },
-      "previous_target_id": "29136456"
+      "previous_target_id": "29136456",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T17:12:28.998143+00:00",
+        "lease_expires_at": "2026-09-19T23:12:28.998143+00:00",
+        "run_id": "35451641398"
+      }
     },
     "24046": {
       "attempts": [],
@@ -80657,7 +80676,13 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-09-15T18:52:21.464391+00:00"
       },
-      "previous_target_id": "29409057"
+      "previous_target_id": "29409057",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T17:12:28.606851+00:00",
+        "lease_expires_at": "2026-09-19T23:12:28.606851+00:00",
+        "run_id": "35451641398"
+      }
     },
     "12744": {
       "attempts": []
@@ -81243,7 +81268,13 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-19T06:00:19.715047+00:00"
       },
-      "previous_target_id": "29514662"
+      "previous_target_id": "29514662",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T17:12:29.162927+00:00",
+        "lease_expires_at": "2026-09-19T23:12:29.162927+00:00",
+        "run_id": "35451641398"
+      }
     },
     "13033": {
       "attempts": []
@@ -193905,5 +193936,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:12:26.612478+00:00"
+  "updated_at": "2026-09-19T17:12:29.629507+00:00"
 }
