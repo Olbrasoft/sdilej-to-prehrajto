@@ -65921,14 +65921,6 @@
           "source_id": "34716525",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29499666",
-          "attempted_at": "2026-09-18T19:57:55.967463+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34716525",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29501531",
           "attempted_at": "2026-09-18T20:45:02.369050+00:00"
         },
@@ -65938,17 +65930,20 @@
           "reason": "Request failed for https://sdilej.cz/34716525/lady-ninja--2018-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T21:57:35.396518+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "34716525",
+          "target_video_id": "29504086",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-19T01:02:25.130808+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716525",
         "display_name": "LADY NINJA ～青い影～ (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-19T00:49:13.070605+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29504086",
-        "size_bytes": 2777775058,
-        "prepared_at": "2026-09-18T22:35:24.293952+00:00"
       }
     },
     "31730": {
@@ -174375,5 +174370,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T01:02:19.979824+00:00"
+  "updated_at": "2026-09-19T01:02:25.130823+00:00"
 }
