@@ -15660,17 +15660,19 @@
       }
     },
     "790": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33199731",
+          "target_video_id": "29508953",
+          "permanent": false,
+          "attempted_at": "2026-09-19T02:09:37.872534+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33199731",
         "display_name": "Let číslo 93 (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-19T01:51:19.677527+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-2",
-        "claimed_at": "2026-09-19T02:01:00.918834+00:00",
-        "lease_expires_at": "2026-09-19T08:01:00.918834+00:00",
-        "run_id": "35405560473"
       },
       "prepared": {
         "target_video_id": "29508953",
@@ -15841,6 +15843,12 @@
         "source_id": "26336109",
         "display_name": "Mezi řádky (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T01:51:20.345642+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-0",
+        "claimed_at": "2026-09-19T02:09:30.782008+00:00",
+        "lease_expires_at": "2026-09-19T08:09:30.782008+00:00",
+        "run_id": "35405560473"
       }
     },
     "753": {
@@ -174575,5 +174583,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T02:09:29.069515+00:00"
+  "updated_at": "2026-09-19T02:09:37.872549+00:00"
 }
