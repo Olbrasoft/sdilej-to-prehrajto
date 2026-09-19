@@ -64903,7 +64903,7 @@
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:39.788206+00:00"
+        "planned_at": "2026-09-19T09:39:17.240184+00:00"
       }
     },
     "32220": {
@@ -64939,7 +64939,7 @@
       "last_plan": {
         "source_id": "30581817",
         "display_name": "Apatykář Melchior: Znamení čarodějnice (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:40.018802+00:00"
+        "planned_at": "2026-09-19T09:39:17.441782+00:00"
       },
       "prepared": {
         "target_video_id": "29214591",
@@ -65040,7 +65040,7 @@
       "last_plan": {
         "source_id": "32491860",
         "display_name": "Malý pán (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:04:40.248917+00:00"
+        "planned_at": "2026-09-19T09:39:17.681376+00:00"
       },
       "prepared": {
         "target_video_id": "29214640",
@@ -92517,13 +92517,6 @@
           "source_id": "34209434",
           "target_video_id": "29167426",
           "permanent": false,
-          "attempted_at": "2026-09-16T04:09:09.592847+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34209434",
-          "target_video_id": "29167426",
-          "permanent": false,
           "attempted_at": "2026-09-18T15:11:34.505284+00:00"
         },
         {
@@ -92532,6 +92525,13 @@
           "target_video_id": "29167426",
           "permanent": false,
           "attempted_at": "2026-09-18T17:54:26.878703+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34209434",
+          "target_video_id": "29167426",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:39:18.212458+00:00"
         }
       ],
       "last_plan": {
@@ -92543,7 +92543,8 @@
         "target_video_id": "29167426",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-06T17:49:40.083236+00:00"
-      }
+      },
+      "previous_target_id": "29167426"
     },
     "3203": {
       "attempts": []
@@ -92974,11 +92975,25 @@
       "attempts": []
     },
     "3381": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12215378",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:39:17.943801+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12215378",
         "display_name": "Básník ze školky (2018) SD CZ Dabing",
         "planned_at": "2026-09-19T09:37:40.744656+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:39:17.003493+00:00",
+        "lease_expires_at": "2026-09-19T15:39:17.003493+00:00",
+        "run_id": "35435106149"
       }
     },
     "9102": {
@@ -176014,5 +176029,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:39:14.678159+00:00"
+  "updated_at": "2026-09-19T09:39:18.212475+00:00"
 }
