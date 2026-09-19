@@ -168253,11 +168253,25 @@
       }
     },
     "12199": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33852901",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:02:02.215953+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33852901",
         "display_name": "Bílý tesák 2 (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-19T14:22:46.252822+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T15:02:01.567586+00:00",
+        "lease_expires_at": "2026-09-19T21:02:01.567586+00:00",
+        "run_id": "35435106149"
       }
     },
     "14747": {
@@ -168270,11 +168284,25 @@
       "attempts": []
     },
     "23406": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29554678",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:02:03.071721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29554678",
         "display_name": "Necronomicon (1993) SD CZ Dabing",
         "planned_at": "2026-09-19T14:22:46.447325+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T15:02:02.411476+00:00",
+        "lease_expires_at": "2026-09-19T21:02:02.411476+00:00",
+        "run_id": "35435106149"
       }
     },
     "5771": {
@@ -168288,19 +168316,47 @@
       "attempts": []
     },
     "30087": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31960772",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:02:03.889739+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31960772",
         "display_name": "Návrat neuvěřitelného Hulka (1988) SD CZ Dabing",
         "planned_at": "2026-09-19T14:22:46.641405+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T15:02:03.267162+00:00",
+        "lease_expires_at": "2026-09-19T21:02:03.267162+00:00",
+        "run_id": "35435106149"
       }
     },
     "17869": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34256884",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:02:04.780780+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34256884",
         "display_name": "Speed Racer (2008) 4K CZ Dabing",
         "planned_at": "2026-09-19T14:22:46.835633+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T15:02:04.085421+00:00",
+        "lease_expires_at": "2026-09-19T21:02:04.085421+00:00",
+        "run_id": "35435106149"
       }
     },
     "32545": {
@@ -168310,7 +168366,15 @@
       "attempts": []
     },
     "5306": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32607975",
+          "reason": "Request failed for https://sdilej.cz/32607975/tron-ares-2025-4k-h265-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:02:50.697002+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32607975",
         "display_name": "TRON: Ares (2025) 4K CZ Dabing",
@@ -193442,5 +193506,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:01:57.277826+00:00"
+  "updated_at": "2026-09-19T15:02:50.697022+00:00"
 }
