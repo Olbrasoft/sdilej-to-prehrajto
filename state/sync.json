@@ -144074,13 +144074,6 @@
     "22031": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34497929",
-          "reason": "Request failed for https://sdilej.cz/34497929/sbohem-sabato-1970-ct-2-hd-t2-270-2024-05-12-19.51.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T11:18:16.682186+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34497929",
           "target_video_id": "29527845",
@@ -144093,6 +144086,13 @@
           "target_video_id": "29527845",
           "permanent": false,
           "attempted_at": "2026-09-19T12:35:54.749424+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34497929",
+          "target_video_id": "29527845",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:16:32.903934+00:00"
         }
       ],
       "last_plan": {
@@ -144105,12 +144105,6 @@
         "target_video_id": "29527845",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-19T11:54:21.899821+00:00"
-      },
-      "claim": {
-        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-3",
-        "claimed_at": "2026-09-19T13:16:30.529828+00:00",
-        "lease_expires_at": "2026-09-19T19:16:30.529828+00:00",
-        "run_id": "35435106149"
       }
     },
     "14978": {
@@ -145418,7 +145412,13 @@
         "size_bytes": 18200000000,
         "prepared_at": "2026-09-10T17:23:54.801302+00:00"
       },
-      "previous_target_id": "29278251"
+      "previous_target_id": "29278251",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-2",
+        "claimed_at": "2026-09-19T13:16:32.674318+00:00",
+        "lease_expires_at": "2026-09-19T19:16:32.674318+00:00",
+        "run_id": "35435106149"
+      }
     },
     "13722": {
       "attempts": [
@@ -189095,5 +189095,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:16:30.907354+00:00"
+  "updated_at": "2026-09-19T13:16:32.903953+00:00"
 }
