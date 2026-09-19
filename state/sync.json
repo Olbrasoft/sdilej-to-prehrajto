@@ -130831,7 +130831,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-11T00:33:42.391947+00:00"
       },
-      "previous_target_id": "29285833"
+      "previous_target_id": "29285833",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:24:10.973867+00:00",
+        "lease_expires_at": "2026-09-20T04:24:10.973867+00:00",
+        "run_id": "35467299794"
+      }
     },
     "31381": {
       "attempts": []
@@ -191893,17 +191899,19 @@
       "attempts": []
     },
     "8100": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32876649",
+          "target_video_id": "29539746",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:24:11.104062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32876649",
         "display_name": "V pasti (2025) 4K CZ Dabing",
         "planned_at": "2026-09-19T21:55:37.058733+00:00"
-      },
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-5",
-        "claimed_at": "2026-09-19T22:06:30.495906+00:00",
-        "lease_expires_at": "2026-09-20T04:06:30.495906+00:00",
-        "run_id": "35467299794"
       },
       "previous_target_id": "29539746",
       "prepared": {
@@ -206620,5 +206628,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:24:09.174318+00:00"
+  "updated_at": "2026-09-19T22:24:11.104079+00:00"
 }
