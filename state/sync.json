@@ -162327,11 +162327,25 @@
       "attempts": []
     },
     "30693": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34735652",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:24:33.023704+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34735652",
         "display_name": "The Escape of Prisoner 614 (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-19T13:17:20.042783+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
+        "claimed_at": "2026-09-19T13:24:32.306236+00:00",
+        "lease_expires_at": "2026-09-19T19:24:32.306236+00:00",
+        "run_id": "35435106149"
       }
     },
     "24754": {
@@ -162340,6 +162354,18 @@
         "source_id": "26126410",
         "display_name": "Tři králové (2001) 720p CZ Dabing",
         "planned_at": "2026-09-19T13:17:20.244103+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
+        "claimed_at": "2026-09-19T13:24:33.283149+00:00",
+        "lease_expires_at": "2026-09-19T19:24:33.283149+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29529916",
+      "prepared": {
+        "target_video_id": "29529916",
+        "size_bytes": 1915609267,
+        "prepared_at": "2026-09-19T13:24:36.908157+00:00"
       }
     },
     "5925": {
@@ -189751,5 +189777,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:24:30.461764+00:00"
+  "updated_at": "2026-09-19T13:24:36.908180+00:00"
 }
