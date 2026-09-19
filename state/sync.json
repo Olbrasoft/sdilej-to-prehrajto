@@ -149400,7 +149400,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-10T12:54:57.539054+00:00"
       },
-      "previous_target_id": "29272373"
+      "previous_target_id": "29272373",
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-5",
+        "claimed_at": "2026-09-19T23:06:03.025577+00:00",
+        "lease_expires_at": "2026-09-20T05:06:03.025577+00:00",
+        "run_id": "35467299794"
+      }
     },
     "17079": {
       "attempts": [
@@ -172272,13 +172278,6 @@
           "source_id": "26550838",
           "target_video_id": "29531613",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:13:02.525886+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26550838",
-          "target_video_id": "29531613",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:47:45.905630+00:00"
         },
         {
@@ -172287,6 +172286,13 @@
           "target_video_id": "29531613",
           "permanent": false,
           "attempted_at": "2026-09-19T22:26:28.698758+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26550838",
+          "target_video_id": "29531613",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:06:03.558918+00:00"
         }
       ],
       "last_plan": {
@@ -172299,12 +172305,6 @@
         "target_video_id": "29531613",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-19T15:06:08.000243+00:00"
-      },
-      "claim": {
-        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-0",
-        "claimed_at": "2026-09-19T23:05:55.228996+00:00",
-        "lease_expires_at": "2026-09-20T05:05:55.228996+00:00",
-        "run_id": "35467299794"
       }
     },
     "26630": {
@@ -173637,6 +173637,13 @@
           "source_id": "11702034",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:47:24.630124+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11702034",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:06:03.424240+00:00"
         }
       ],
       "last_plan": {
@@ -173681,6 +173688,13 @@
           "source_id": "34299058",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:47:24.484787+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34299058",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:06:03.160286+00:00"
         }
       ],
       "last_plan": {
@@ -173721,6 +173735,12 @@
         "source_id": "12795342",
         "display_name": "6 underground: Tajné operace (2019) 4K CZ Dabing",
         "planned_at": "2026-09-19T23:05:25.348617+00:00"
+      },
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-4",
+        "claimed_at": "2026-09-19T23:06:03.293098+00:00",
+        "lease_expires_at": "2026-09-20T05:06:03.293098+00:00",
+        "run_id": "35467299794"
       }
     },
     "36977": {
@@ -173756,6 +173776,12 @@
         "source_id": "32264017",
         "display_name": "Jeníček a Mařenka: Lovci čarodějnic (2013) 4K CZ Dabing",
         "planned_at": "2026-09-19T23:05:25.478612+00:00"
+      },
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-2",
+        "claimed_at": "2026-09-19T23:06:02.893072+00:00",
+        "lease_expires_at": "2026-09-20T05:06:02.893072+00:00",
+        "run_id": "35467299794"
       }
     },
     "19947": {
@@ -211435,5 +211461,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:06:01.228016+00:00"
+  "updated_at": "2026-09-19T23:06:03.558939+00:00"
 }
