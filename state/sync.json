@@ -87966,7 +87966,13 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-07T01:53:47.781384+00:00"
       },
-      "previous_target_id": "29176023"
+      "previous_target_id": "29176023",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T12:30:24.269511+00:00",
+        "lease_expires_at": "2026-09-19T18:30:24.269511+00:00",
+        "run_id": "35435106149"
+      }
     },
     "31169": {
       "attempts": []
@@ -88187,7 +88193,13 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-10T10:11:49.891757+00:00"
       },
-      "previous_target_id": "29269961"
+      "previous_target_id": "29269961",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:30:24.700651+00:00",
+        "lease_expires_at": "2026-09-19T18:30:24.700651+00:00",
+        "run_id": "35435106149"
+      }
     },
     "16220": {
       "attempts": []
@@ -88274,7 +88286,13 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-07T06:38:05.111923+00:00"
       },
-      "previous_target_id": "29179714"
+      "previous_target_id": "29179714",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T12:30:24.483912+00:00",
+        "lease_expires_at": "2026-09-19T18:30:24.483912+00:00",
+        "run_id": "35435106149"
+      }
     },
     "35306": {
       "attempts": []
@@ -158048,17 +158066,19 @@
       }
     },
     "18963": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24775177",
+          "target_video_id": "29528476",
+          "permanent": false,
+          "attempted_at": "2026-09-19T12:30:25.082741+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24775177",
         "display_name": "Kolos (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.737188+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
-        "claimed_at": "2026-09-19T12:19:17.480178+00:00",
-        "lease_expires_at": "2026-09-19T18:19:17.480178+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29528476",
       "prepared": {
@@ -187579,5 +187599,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:30:22.584417+00:00"
+  "updated_at": "2026-09-19T12:30:25.082757+00:00"
 }
