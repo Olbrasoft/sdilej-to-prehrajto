@@ -128772,7 +128772,13 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-09T07:25:19.335479+00:00"
       },
-      "previous_target_id": "29236093"
+      "previous_target_id": "29236093",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:53:44.161740+00:00",
+        "lease_expires_at": "2026-09-19T17:53:44.161740+00:00",
+        "run_id": "35435106149"
+      }
     },
     "19076": {
       "attempts": []
@@ -129677,7 +129683,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-11T00:33:42.391947+00:00"
       },
-      "previous_target_id": "29285833"
+      "previous_target_id": "29285833",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T11:53:44.351232+00:00",
+        "lease_expires_at": "2026-09-19T17:53:44.351232+00:00",
+        "run_id": "35435106149"
+      }
     },
     "31381": {
       "attempts": []
@@ -131573,7 +131585,13 @@
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-09T09:37:22.890375+00:00"
       },
-      "previous_target_id": "29238524"
+      "previous_target_id": "29238524",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:53:44.753151+00:00",
+        "lease_expires_at": "2026-09-19T17:53:44.753151+00:00",
+        "run_id": "35435106149"
+      }
     },
     "4923": {
       "attempts": []
@@ -131951,6 +131969,12 @@
         "target_video_id": "29527091",
         "size_bytes": 1464251994,
         "prepared_at": "2026-09-19T11:15:45.866800+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:53:44.543522+00:00",
+        "lease_expires_at": "2026-09-19T17:53:44.543522+00:00",
+        "run_id": "35435106149"
       }
     },
     "27542": {
@@ -148840,17 +148864,19 @@
       "attempts": []
     },
     "5041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34393198",
+          "target_video_id": "29527463",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:53:44.974513+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34393198",
         "display_name": "Střípky (2021) 4K CZ Dabing",
         "planned_at": "2026-09-19T11:34:28.481248+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
-        "claimed_at": "2026-09-19T11:35:27.650145+00:00",
-        "lease_expires_at": "2026-09-19T17:35:27.650145+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29527463",
       "prepared": {
@@ -183423,5 +183449,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:53:42.495849+00:00"
+  "updated_at": "2026-09-19T11:53:44.974530+00:00"
 }
