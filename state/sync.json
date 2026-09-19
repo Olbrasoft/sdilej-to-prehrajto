@@ -70568,13 +70568,6 @@
     "2814": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34455392",
-          "target_video_id": "29523449",
-          "permanent": false,
-          "attempted_at": "2026-09-19T08:34:13.925718+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34455392",
           "target_video_id": "29523449",
@@ -70588,6 +70581,13 @@
           "source_id": "34455392",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:43:24.007663+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34455392",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:56:55.207448+00:00"
         }
       ],
       "last_plan": {
@@ -70595,7 +70595,13 @@
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:51:42.967679+00:00"
       },
-      "previous_target_id": "29523449"
+      "previous_target_id": "29523449",
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-4",
+        "claimed_at": "2026-09-19T15:56:54.394479+00:00",
+        "lease_expires_at": "2026-09-19T21:56:54.394479+00:00",
+        "run_id": "35451641398"
+      }
     },
     "11240": {
       "attempts": []
@@ -70773,13 +70779,6 @@
           "source_id": "34062310",
           "target_video_id": "29143591",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:05:37.631551+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34062310",
-          "target_video_id": "29143591",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:38:15.517745+00:00"
         },
         {
@@ -70788,6 +70787,13 @@
           "target_video_id": "29143591",
           "permanent": false,
           "attempted_at": "2026-09-19T14:10:55.094090+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34062310",
+          "target_video_id": "29143591",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:56:56.527903+00:00"
         }
       ],
       "last_plan": {
@@ -189260,5 +189266,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:56:52.502077+00:00"
+  "updated_at": "2026-09-19T15:56:56.527921+00:00"
 }
