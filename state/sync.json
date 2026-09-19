@@ -1314,13 +1314,6 @@
           "source_id": "26592290",
           "target_video_id": "28927371",
           "permanent": false,
-          "attempted_at": "2026-09-19T11:30:41.239114+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26592290",
-          "target_video_id": "28927371",
-          "permanent": false,
           "attempted_at": "2026-09-19T12:01:05.673487+00:00"
         },
         {
@@ -1329,6 +1322,13 @@
           "target_video_id": "28927371",
           "permanent": false,
           "attempted_at": "2026-09-19T12:32:16.408189+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26592290",
+          "target_video_id": "28927371",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:02:39.601274+00:00"
         }
       ],
       "last_plan": {
@@ -1380,7 +1380,13 @@
         "size_bytes": 16399999999,
         "prepared_at": "2026-09-06T02:07:47.280122+00:00"
       },
-      "previous_target_id": "28927315"
+      "previous_target_id": "28927315",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T13:02:38.293445+00:00",
+        "lease_expires_at": "2026-09-19T19:02:38.293445+00:00",
+        "run_id": "35435106149"
+      }
     },
     "21690": {
       "attempts": [
@@ -1416,7 +1422,13 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-06T04:39:14.354732+00:00"
       },
-      "previous_target_id": "28927212"
+      "previous_target_id": "28927212",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-2",
+        "claimed_at": "2026-09-19T13:02:38.734540+00:00",
+        "lease_expires_at": "2026-09-19T19:02:38.734540+00:00",
+        "run_id": "35435106149"
+      }
     },
     "99": {
       "attempts": []
@@ -1549,7 +1561,13 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
       },
-      "previous_target_id": "28928358"
+      "previous_target_id": "28928358",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T13:02:38.511290+00:00",
+        "lease_expires_at": "2026-09-19T19:02:38.511290+00:00",
+        "run_id": "35435106149"
+      }
     },
     "21354": {
       "attempts": [
@@ -63300,7 +63318,7 @@
       "last_plan": {
         "source_id": "26060381",
         "display_name": "Kým sa skončí táto noc (1966) 720p CZ Dabing",
-        "planned_at": "2026-09-19T12:25:04.135554+00:00"
+        "planned_at": "2026-09-19T13:02:37.654548+00:00"
       },
       "prepared": {
         "target_video_id": "29275892",
@@ -63654,7 +63672,7 @@
       "last_plan": {
         "source_id": "12024103",
         "display_name": "Bernský vyslanec (2014) 720p CZ Dabing",
-        "planned_at": "2026-09-19T12:25:04.369418+00:00"
+        "planned_at": "2026-09-19T13:02:37.873131+00:00"
       },
       "prepared": {
         "target_video_id": "29216460",
@@ -189067,5 +189085,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:02:35.929414+00:00"
+  "updated_at": "2026-09-19T13:02:39.601292+00:00"
 }
