@@ -1389,13 +1389,6 @@
           "source_id": "30836489",
           "target_video_id": "28927212",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:34:10.967504+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30836489",
-          "target_video_id": "28927212",
-          "permanent": false,
           "attempted_at": "2026-09-19T14:05:01.908459+00:00"
         },
         {
@@ -1404,6 +1397,13 @@
           "target_video_id": "28927212",
           "permanent": false,
           "attempted_at": "2026-09-19T15:26:30.324692+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30836489",
+          "target_video_id": "28927212",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:58:34.980905+00:00"
         }
       ],
       "last_plan": {
@@ -1416,13 +1416,7 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-06T04:39:14.354732+00:00"
       },
-      "previous_target_id": "28927212",
-      "claim": {
-        "worker_id": "1bbaa35f5def49f4b5cf776fb4059d83-shard-2",
-        "claimed_at": "2026-09-19T15:58:21.460714+00:00",
-        "lease_expires_at": "2026-09-19T21:58:21.460714+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "28927212"
     },
     "99": {
       "attempts": []
@@ -2799,7 +2793,13 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-05T18:33:16.338254+00:00"
       },
-      "previous_target_id": "29115993"
+      "previous_target_id": "29115993",
+      "claim": {
+        "worker_id": "1bbaa35f5def49f4b5cf776fb4059d83-shard-5",
+        "claimed_at": "2026-09-19T15:58:34.859220+00:00",
+        "lease_expires_at": "2026-09-19T21:58:34.859220+00:00",
+        "run_id": "35451641398"
+      }
     },
     "223": {
       "attempts": [
@@ -189310,5 +189310,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:58:33.028344+00:00"
+  "updated_at": "2026-09-19T15:58:34.980917+00:00"
 }
