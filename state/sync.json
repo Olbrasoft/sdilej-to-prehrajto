@@ -59752,13 +59752,6 @@
           "source_id": "25775847",
           "target_video_id": "29180133",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:03:58.422121+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25775847",
-          "target_video_id": "29180133",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:36:44.635724+00:00"
         },
         {
@@ -59767,6 +59760,13 @@
           "target_video_id": "29180133",
           "permanent": false,
           "attempted_at": "2026-09-19T14:09:03.460308+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25775847",
+          "target_video_id": "29180133",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:51:11.958810+00:00"
         }
       ],
       "last_plan": {
@@ -59779,13 +59779,7 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-07T07:11:46.147374+00:00"
       },
-      "previous_target_id": "29180133",
-      "claim": {
-        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-3",
-        "claimed_at": "2026-09-19T15:51:08.060306+00:00",
-        "lease_expires_at": "2026-09-19T21:51:08.060306+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29180133"
     },
     "23314": {
       "attempts": [],
@@ -60275,7 +60269,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-13T19:27:12.091567+00:00"
       },
-      "previous_target_id": "29356044"
+      "previous_target_id": "29356044",
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-2",
+        "claimed_at": "2026-09-19T15:51:11.838738+00:00",
+        "lease_expires_at": "2026-09-19T21:51:11.838738+00:00",
+        "run_id": "35451641398"
+      }
     },
     "22960": {
       "attempts": []
@@ -189247,5 +189247,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:51:10.040407+00:00"
+  "updated_at": "2026-09-19T15:51:11.958825+00:00"
 }
