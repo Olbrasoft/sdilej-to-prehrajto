@@ -146839,19 +146839,47 @@
       }
     },
     "5087": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22124389",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:28:40.167538+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22124389",
         "display_name": "Prací automat (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:24:48.843848+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:28:39.454452+00:00",
+        "lease_expires_at": "2026-09-19T17:28:39.454452+00:00",
+        "run_id": "35435106149"
       }
     },
     "28985": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34967167",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:28:41.245938+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34967167",
         "display_name": "Nic mě nezastaví (2015) 720p CZ Dabing",
         "planned_at": "2026-09-19T11:24:49.084573+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:28:40.416884+00:00",
+        "lease_expires_at": "2026-09-19T17:28:40.416884+00:00",
+        "run_id": "35435106149"
       }
     },
     "30552": {
@@ -146909,11 +146937,25 @@
       }
     },
     "29802": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34773203",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:28:42.308061+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34773203",
         "display_name": "Paintball Massacre (2020) 720p CZ Titulky",
         "planned_at": "2026-09-19T11:24:49.318598+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:28:41.506839+00:00",
+        "lease_expires_at": "2026-09-19T17:28:41.506839+00:00",
+        "run_id": "35435106149"
       }
     },
     "32269": {
@@ -146926,22 +146968,29 @@
       "attempts": []
     },
     "35658": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30780466",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:28:43.311896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30780466",
         "display_name": "Foxes (1980) SD CZ Dabing",
         "planned_at": "2026-09-19T11:24:49.552139+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:28:42.582422+00:00",
+        "lease_expires_at": "2026-09-19T17:28:42.582422+00:00",
+        "run_id": "35435106149"
       }
     },
     "23793": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34558406",
-          "target_video_id": "29278404",
-          "permanent": false,
-          "attempted_at": "2026-09-11T11:09:41.904621+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34558406",
@@ -146955,6 +147004,13 @@
           "target_video_id": "29278404",
           "permanent": false,
           "attempted_at": "2026-09-11T14:16:51.080982+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34558406",
+          "target_video_id": "29278404",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:28:44.897687+00:00"
         }
       ],
       "last_plan": {
@@ -146966,7 +147022,8 @@
         "target_video_id": "29278404",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-10T17:31:54.308404+00:00"
-      }
+      },
+      "previous_target_id": "29278404"
     },
     "23758": {
       "attempts": []
@@ -182161,5 +182218,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:28:37.664589+00:00"
+  "updated_at": "2026-09-19T11:28:44.897704+00:00"
 }
