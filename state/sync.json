@@ -14915,13 +14915,6 @@
     "675": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33887096",
-          "reason": "Request failed for https://sdilej.cz/33887096/anatomie-padu-2023-cz-dab-1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T06:32:26.453131+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "33887096",
           "reason": "PrehrajtoError",
@@ -14936,23 +14929,20 @@
           "permanent": false,
           "target_video_id": "29521785",
           "attempted_at": "2026-09-19T08:15:57.856342+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33887096",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29524495",
+          "attempted_at": "2026-09-19T09:02:47.161790+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33887096",
         "display_name": "Anatomie pádu (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T08:48:47.146894+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
-        "claimed_at": "2026-09-19T08:49:00.244195+00:00",
-        "lease_expires_at": "2026-09-19T14:49:00.244195+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29524495",
-        "size_bytes": 4762913251,
-        "prepared_at": "2026-09-19T08:49:04.783319+00:00"
       }
     },
     "35499": {
@@ -175481,5 +175471,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:00:19.991281+00:00"
+  "updated_at": "2026-09-19T09:02:47.161806+00:00"
 }
