@@ -193389,6 +193389,12 @@
         "claimed_at": "2026-09-19T22:27:13.807638+00:00",
         "lease_expires_at": "2026-09-20T04:27:13.807638+00:00",
         "run_id": "35467299794"
+      },
+      "previous_target_id": "29540122",
+      "prepared": {
+        "target_video_id": "29540122",
+        "size_bytes": 878127178,
+        "prepared_at": "2026-09-19T22:27:17.915894+00:00"
       }
     },
     "24967": {
@@ -193430,7 +193436,15 @@
       "attempts": []
     },
     "25495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24914347",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:27:17.230185+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24914347",
         "display_name": "Země v ohrožení (2005) 1080p CZ Dabing",
@@ -193452,14 +193466,34 @@
         "source_id": "34780036",
         "display_name": "Lola Versus (2012) SD CZ Titulky",
         "planned_at": "2026-09-19T22:27:02.851552+00:00"
+      },
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-0",
+        "claimed_at": "2026-09-19T22:27:17.358956+00:00",
+        "lease_expires_at": "2026-09-20T04:27:17.358956+00:00",
+        "run_id": "35467299794"
       }
     },
     "12523": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34783709",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:27:17.641518+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34783709",
         "display_name": "Phantasm IV: Oblivion (1998) 1080p CZ Titulky",
         "planned_at": "2026-09-19T22:27:02.995547+00:00"
+      },
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-2",
+        "claimed_at": "2026-09-19T22:27:16.967191+00:00",
+        "lease_expires_at": "2026-09-20T04:27:16.967191+00:00",
+        "run_id": "35467299794"
       }
     },
     "27770": {
@@ -193487,11 +193521,25 @@
       "attempts": []
     },
     "26087": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34708934",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:27:17.790284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34708934",
         "display_name": "Postrach Dennis o Vánocích (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:27:03.125538+00:00"
+      },
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-4",
+        "claimed_at": "2026-09-19T22:27:17.096487+00:00",
+        "lease_expires_at": "2026-09-20T04:27:17.096487+00:00",
+        "run_id": "35467299794"
       }
     },
     "24144": {
@@ -193500,6 +193548,12 @@
         "source_id": "8148120",
         "display_name": "Táta z billboardu (1998) SD CZ Dabing",
         "planned_at": "2026-09-19T22:27:03.249498+00:00"
+      },
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-3",
+        "claimed_at": "2026-09-19T22:27:17.488598+00:00",
+        "lease_expires_at": "2026-09-20T04:27:17.488598+00:00",
+        "run_id": "35467299794"
       }
     },
     "12195": {
@@ -207920,5 +207974,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:27:15.155691+00:00"
+  "updated_at": "2026-09-19T22:27:17.915910+00:00"
 }
