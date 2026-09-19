@@ -56882,13 +56882,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27669370",
-          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T07:24:35.900094+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27669370",
           "reason": "PrehrajtoError",
@@ -56902,6 +56895,13 @@
           "source_id": "27669370",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:36:38.571883+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27669370",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:51:03.828178+00:00"
         }
       ],
       "last_plan": {
@@ -57215,13 +57215,6 @@
           "source_id": "27567617",
           "target_video_id": "29141791",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:03:43.028774+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27567617",
-          "target_video_id": "29141791",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:36:04.583814+00:00"
         },
         {
@@ -57230,6 +57223,13 @@
           "target_video_id": "29141791",
           "permanent": false,
           "attempted_at": "2026-09-19T14:08:47.962023+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27567617",
+          "target_video_id": "29141791",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:51:04.152318+00:00"
         }
       ],
       "last_plan": {
@@ -57242,13 +57242,7 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
       },
-      "previous_target_id": "29141791",
-      "claim": {
-        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-5",
-        "claimed_at": "2026-09-19T15:50:57.693207+00:00",
-        "lease_expires_at": "2026-09-19T21:50:57.693207+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29141791"
     },
     "2558": {
       "attempts": []
@@ -58528,7 +58522,13 @@
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:50:27.492130+00:00"
       },
-      "previous_target_id": "29522513"
+      "previous_target_id": "29522513",
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-3",
+        "claimed_at": "2026-09-19T15:51:03.694941+00:00",
+        "lease_expires_at": "2026-09-19T21:51:03.694941+00:00",
+        "run_id": "35451641398"
+      }
     },
     "19162": {
       "attempts": []
@@ -59458,7 +59458,13 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-08T14:42:01.222674+00:00"
       },
-      "previous_target_id": "29215766"
+      "previous_target_id": "29215766",
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-0",
+        "claimed_at": "2026-09-19T15:51:03.988253+00:00",
+        "lease_expires_at": "2026-09-19T21:51:03.988253+00:00",
+        "run_id": "35451641398"
+      }
     },
     "20421": {
       "attempts": []
@@ -189242,5 +189248,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:51:01.993080+00:00"
+  "updated_at": "2026-09-19T15:51:04.152337+00:00"
 }
