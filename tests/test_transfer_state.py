@@ -46,6 +46,9 @@ class Response:
 
 
 @pytest.mark.parametrize("wanted,visible,query", [
+    ('LADY NINJA ～青い影～ (2018) 1080p CZ Dabing', 'LADY NINJA (2018) 1080p CZ Dabing.mp4', 'LADY NINJA'),
+    ('Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing', 'Apollo 10 Dítě kosmického věku (2022) 1080p CZ Dabing.mkv', 'Dítě kosmického věku'),
+    ('Film (2000) 4K CZ Dabing', 'Film (2000) 720p CZ Titulky.avi', 'Film'),
     ('„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing', '„Pane, vy jste vdova (1971) 1080p CZ Dabing.avi', 'vy jste vdova'),
     ('A.I. Umělá inteligence (2001) 4K CZ Dabing', 'A.I Umělá inteligence (2001) 4K CZ Dabing.mkv', 'Umělá inteligence'),
 ])
@@ -88,7 +91,7 @@ def test_content_range_has_priority_over_chunk_length() -> None:
     assert response_total_size(response) == 1000
 
 
-def test_uploaded_video_lookup_requires_exact_display_name() -> None:
+def test_uploaded_video_lookup_matches_film_but_completion_stays_strict() -> None:
     class ListingSession:
         def __init__(self):
             self.params = None
@@ -111,7 +114,28 @@ def test_uploaded_video_lookup_requires_exact_display_name() -> None:
         session, "777", "Film (2000) 4K CZ Dabing"
     )
     assert session.params == {"searchPhrase": "Film (2000) 4K CZ Dabing"}
-    assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") is None
+    assert uploaded_video_id_by_name(ListingSession(), "Film (2000)") == "777"
+    assert uploaded_video_id_by_name(ListingSession(), "Film (2001)") is None
+
+
+def test_previous_target_survives_failure_and_history_compaction(tmp_path):
+    path = tmp_path / 'state.json'
+    state = StateStore(path)
+    state.record_prepared(1, '777', 100)
+    state.record_upload_failure(1, {'status': 'upload_failed'})
+    for _ in range(10):
+        state.record_attempt(1, {'status': 'source_refresh_failed'})
+    restored = StateStore(path)
+    assert restored.snapshot(1)['previous_target_id'] == '777'
+    assert len(restored.snapshot(1)['attempts']) == 3
+
+
+def test_previous_target_migrates_before_old_attempt_is_dropped(tmp_path):
+    state = StateStore(tmp_path / 'state.json')
+    state.film(1)['attempts'] = [{'target_video_id': '888'}]
+    for _ in range(5):
+        state.record_attempt(1, {'status': 'source_refresh_failed'})
+    assert state.snapshot(1)['previous_target_id'] == '888'
 
 
 def test_uploaded_video_confirmation_requires_id_from_the_matching_row() -> None:

@@ -436,7 +436,7 @@ class SyncPipeline:
             checkpoint = self.state.snapshot(film.cr_film_id)
             prepared = checkpoint.get("prepared")
             if not prepared:
-                previous_id = next((attempt.get("target_video_id") for attempt in reversed(checkpoint.get("attempts", [])) if attempt.get("target_video_id")), None)
+                previous_id = checkpoint.get("previous_target_id") or next((attempt.get("target_video_id") for attempt in reversed(checkpoint.get("attempts", [])) if attempt.get("target_video_id")), None)
                 if previous_id:
                     self.state.record_attempt(film.cr_film_id, {
                         "status": "target_requires_review", "permanent": False,

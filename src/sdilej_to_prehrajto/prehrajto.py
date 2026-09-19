@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import mimetypes
 import re
+import unicodedata
 import threading
 import time
 from dataclasses import dataclass
@@ -201,13 +202,21 @@ def _visible_uploaded_name(element) -> str:
 
 def _normalized_uploaded_name(element) -> str:
     visible_name = PROCESSING_SUFFIX_RE.sub("", _visible_uploaded_name(element))
-    return _name_identity(re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name))
+    return _film_identity(re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name))
 
 
 def _name_identity(name: str) -> str:
-    # The target strips punctuation from uploaded filenames. Preserve every
-    # letter and digit (including year/quality), but ignore punctuation/spacing.
-    return "".join(char for char in name.casefold() if char.isalnum())
+    # Observed target sanitization removes CJK text and fraction symbols as
+    # well as punctuation. Ignore them for duplicate prevention, never for
+    # proving that transcoding completed.
+    return "".join(char for char in name.casefold() if
+                   char in "0123456789" or unicodedata.name(char, "").startswith("LATIN "))
+
+
+def _film_identity(name: str) -> str:
+    # A different quality, extension or audio version is still the same film.
+    match = re.search(r"\(\d{4}\)", name)
+    return _name_identity(name[:match.end()] if match else name)
 
 
 def _uploaded_video_id_from_html(
@@ -218,7 +227,7 @@ def _uploaded_video_id_from_html(
     allow_filename_extension: bool = True,
 ) -> str | None:
     """Find an exact uploaded name and ID belonging to the same listing row."""
-    wanted = _name_identity(display_name) if allow_filename_extension else display_name.casefold().strip()
+    wanted = _film_identity(display_name) if allow_filename_extension else display_name.casefold().strip()
     soup = BeautifulSoup(html_text, "html.parser")
     named_elements = soup.find_all(["h1", "h2", "h3", "input"])
     for element in named_elements:
@@ -255,7 +264,7 @@ def _uploaded_video_id_from_html(
                 for item in node.find_all(["h1", "h2", "h3", "input"])
                 if item is not element and _normalized_uploaded_name(item)
             }
-            if other_names - {_name_identity(display_name)}:
+            if other_names - {_film_identity(display_name)}:
                 break
             match = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
             if match:

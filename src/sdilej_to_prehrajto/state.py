@@ -254,6 +254,7 @@ class StateStore:
 
     def record_prepared(self, film_id: int, video_id: str, size: int) -> None:
         with self._lock:
+            self.film(film_id)["previous_target_id"] = video_id
             self.film(film_id)["prepared"] = {
                 "target_video_id": video_id,
                 "size_bytes": size,
@@ -263,6 +264,14 @@ class StateStore:
 
     def record_attempt(self, film_id: int, attempt: dict) -> None:
         with self._lock:
+            row = self.film(film_id)
+            # Migrate the historical ID before bounded attempt history drops it.
+            previous_id = attempt.get("target_video_id") or next((
+                item.get("target_video_id") for item in reversed(row.get("attempts", []))
+                if item.get("target_video_id")
+            ), None)
+            if previous_id:
+                row["previous_target_id"] = previous_id
             self.film(film_id).setdefault("attempts", []).append(
                 {**attempt, "attempted_at": now_iso()}
             )
@@ -277,6 +286,9 @@ class StateStore:
     def record_upload_failure(self, film_id: int, attempt: dict) -> None:
         with self._lock:
             row = self.film(film_id)
+            previous_id = attempt.get("target_video_id") or row.get("prepared", {}).get("target_video_id")
+            if previous_id:
+                row["previous_target_id"] = previous_id
             row.setdefault("attempts", []).append(
                 {**attempt, "attempted_at": now_iso()}
             )
@@ -297,6 +309,7 @@ class StateStore:
         with self._lock:
             row = self.film(film_id)
             prepared_at = row.get("prepared", {}).get("prepared_at") or now_iso()
+            row["previous_target_id"] = video_id
             row["prepared"] = {
                 "target_video_id": video_id,
                 "size_bytes": size,
