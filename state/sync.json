@@ -139218,6 +139218,13 @@
           "source_id": "34772109",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:55.960709+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34772109",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:04:07.154325+00:00"
         }
       ],
       "last_plan": {
@@ -139314,6 +139321,13 @@
           "source_id": "19617208",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:55.690196+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "19617208",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:04:06.689378+00:00"
         }
       ],
       "last_plan": {
@@ -139380,6 +139394,13 @@
           "source_id": "32380956",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:57.395270+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32380956",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:04:05.997071+00:00"
         }
       ],
       "last_plan": {
@@ -139409,6 +139430,13 @@
           "source_id": "34835278",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:57.193071+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34835278",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:04:06.215026+00:00"
         }
       ],
       "last_plan": {
@@ -139450,17 +139478,16 @@
         "source_id": "34680316",
         "display_name": "Ohnisko požáru (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:02:47.797938+00:00"
+      },
+      "claim": {
+        "worker_id": "c0fc85207e6b4771be46c0f934587876-shard-4",
+        "claimed_at": "2026-09-19T23:04:08.027636+00:00",
+        "lease_expires_at": "2026-09-20T05:04:08.027636+00:00",
+        "run_id": "35467299794"
       }
     },
     "33051": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34058489",
-          "target_video_id": "29243081",
-          "permanent": false,
-          "attempted_at": "2026-09-19T21:11:36.132987+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34058489",
@@ -139474,6 +139501,13 @@
           "target_video_id": "29243081",
           "permanent": false,
           "attempted_at": "2026-09-19T22:26:02.953872+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34058489",
+          "target_video_id": "29243081",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:04:08.555221+00:00"
         }
       ],
       "last_plan": {
@@ -139530,6 +139564,12 @@
         "source_id": "33767346",
         "display_name": "Bouřlivé pondělí (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:02:48.056973+00:00"
+      },
+      "claim": {
+        "worker_id": "c0fc85207e6b4771be46c0f934587876-shard-3",
+        "claimed_at": "2026-09-19T23:04:08.419478+00:00",
+        "lease_expires_at": "2026-09-20T05:04:08.419478+00:00",
+        "run_id": "35467299794"
       }
     },
     "27471": {
@@ -139593,6 +139633,12 @@
         "source_id": "30812776",
         "display_name": "Modrá jako safír (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:02:48.186543+00:00"
+      },
+      "claim": {
+        "worker_id": "c0fc85207e6b4771be46c0f934587876-shard-5",
+        "claimed_at": "2026-09-19T23:04:07.599465+00:00",
+        "lease_expires_at": "2026-09-20T05:04:07.599465+00:00",
+        "run_id": "35467299794"
       }
     },
     "17308": {
@@ -139652,7 +139698,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-09T13:52:48.114075+00:00"
       },
-      "previous_target_id": "29243103"
+      "previous_target_id": "29243103",
+      "claim": {
+        "worker_id": "c0fc85207e6b4771be46c0f934587876-shard-2",
+        "claimed_at": "2026-09-19T23:04:08.288350+00:00",
+        "lease_expires_at": "2026-09-20T05:04:08.288350+00:00",
+        "run_id": "35467299794"
+      }
     },
     "11604": {
       "attempts": []
@@ -210492,5 +210544,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:04:04.048102+00:00"
+  "updated_at": "2026-09-19T23:04:08.555248+00:00"
 }
