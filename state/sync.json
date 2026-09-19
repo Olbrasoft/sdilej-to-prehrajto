@@ -148861,6 +148861,12 @@
         "target_video_id": "29527466",
         "size_bytes": 4417523865,
         "prepared_at": "2026-09-19T11:35:42.845576+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T12:40:44.872121+00:00",
+        "lease_expires_at": "2026-09-19T18:40:44.872121+00:00",
+        "run_id": "35435106149"
       }
     },
     "17331": {
@@ -155856,17 +155862,19 @@
       "attempts": []
     },
     "5424": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34706427",
+          "target_video_id": "29528059",
+          "permanent": false,
+          "attempted_at": "2026-09-19T12:40:59.250562+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34706427",
         "display_name": "Bez východiska (2022) 4K CZ Dabing",
         "planned_at": "2026-09-19T12:01:04.034463+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
-        "claimed_at": "2026-09-19T12:03:22.242401+00:00",
-        "lease_expires_at": "2026-09-19T18:03:22.242401+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29528059",
       "prepared": {
@@ -187784,5 +187792,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:40:43.079806+00:00"
+  "updated_at": "2026-09-19T12:40:59.250582+00:00"
 }
