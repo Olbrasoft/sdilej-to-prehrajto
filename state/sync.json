@@ -177507,6 +177507,12 @@
         "claimed_at": "2026-09-19T17:56:38.756488+00:00",
         "lease_expires_at": "2026-09-19T23:56:38.756488+00:00",
         "run_id": "35451641398"
+      },
+      "previous_target_id": "29535499",
+      "prepared": {
+        "target_video_id": "29535499",
+        "size_bytes": 2337550336,
+        "prepared_at": "2026-09-19T17:56:47.237514+00:00"
       }
     },
     "6163": {
@@ -177708,7 +177714,15 @@
       "attempts": []
     },
     "6293": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31444858",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T17:56:46.977643+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31444858",
         "display_name": "Godzilla II Král monster (2019) 4K CZ Dabing",
@@ -177732,7 +177746,15 @@
       "attempts": []
     },
     "6390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32789319",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T17:56:47.104565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32789319",
         "display_name": "Kovbojové a vetřelci (2011) 4K CZ Dabing",
@@ -198916,5 +198938,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:56:42.737403+00:00"
+  "updated_at": "2026-09-19T17:56:47.237539+00:00"
 }
