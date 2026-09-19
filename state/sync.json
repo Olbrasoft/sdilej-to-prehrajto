@@ -100308,13 +100308,6 @@
           "source_id": "30735027",
           "target_video_id": "29171764",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:44:33.933798+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30735027",
-          "target_video_id": "29171764",
-          "permanent": false,
           "attempted_at": "2026-09-19T14:17:35.350529+00:00"
         },
         {
@@ -100323,6 +100316,13 @@
           "target_video_id": "29171764",
           "permanent": false,
           "attempted_at": "2026-09-19T16:02:47.577533+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30735027",
+          "target_video_id": "29171764",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:42:08.771434+00:00"
         }
       ],
       "last_plan": {
@@ -100413,7 +100413,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-08T16:40:53.258826+00:00"
       },
-      "previous_target_id": "29218048"
+      "previous_target_id": "29218048",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T16:42:07.854169+00:00",
+        "lease_expires_at": "2026-09-19T22:42:07.854169+00:00",
+        "run_id": "35451641398"
+      }
     },
     "21349": {
       "attempts": []
@@ -100448,7 +100454,7 @@
       "last_plan": {
         "source_id": "30060670",
         "display_name": "Válka policajtů (1979) SD CZ Dabing",
-        "planned_at": "2026-09-19T16:02:29.558010+00:00"
+        "planned_at": "2026-09-19T16:42:08.380600+00:00"
       },
       "prepared": {
         "target_video_id": "29218067",
@@ -190770,5 +190776,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:42:05.829939+00:00"
+  "updated_at": "2026-09-19T16:42:08.771460+00:00"
 }
