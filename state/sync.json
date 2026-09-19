@@ -86231,6 +86231,12 @@
         "target_video_id": "29517754",
         "size_bytes": 2230816376,
         "prepared_at": "2026-09-19T06:51:44.700653+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:38:21.233154+00:00",
+        "lease_expires_at": "2026-09-19T15:38:21.233154+00:00",
+        "run_id": "35435106149"
       }
     },
     "23018": {
@@ -86285,15 +86291,9 @@
           "attempted_at": "2026-09-19T06:56:16.403097+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34694462",
-        "display_name": "Ukradené mládí (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:37:34.722503+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29517794",
-        "size_bytes": 2286501698,
-        "prepared_at": "2026-09-19T06:52:23.377683+00:00"
+        "uploaded_at": "2026-09-19T09:38:22.582798+00:00"
       }
     },
     "4515": {
@@ -86321,6 +86321,12 @@
         "target_video_id": "29517974",
         "size_bytes": 1071326390,
         "prepared_at": "2026-09-19T06:55:22.193075+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:38:21.633666+00:00",
+        "lease_expires_at": "2026-09-19T15:38:21.633666+00:00",
+        "run_id": "35435106149"
       }
     },
     "15990": {
@@ -86355,12 +86361,25 @@
           "reason": "Request failed for https://sdilej.cz/34714414/zkroceni-zleho-muze-1987-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T06:56:03.752216+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34714414",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:38:22.079674+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34714414",
         "display_name": "Zkrocení zlého muže (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:37:35.150534+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:38:21.431346+00:00",
+        "lease_expires_at": "2026-09-19T15:38:21.431346+00:00",
+        "run_id": "35435106149"
       }
     },
     "5449": {
@@ -86442,6 +86461,12 @@
         "target_video_id": "29518034",
         "size_bytes": 2634129377,
         "prepared_at": "2026-09-19T06:56:10.864575+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:38:22.282674+00:00",
+        "lease_expires_at": "2026-09-19T15:38:22.282674+00:00",
+        "run_id": "35435106149"
       }
     },
     "12804": {
@@ -175994,5 +176019,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:19.113189+00:00"
+  "updated_at": "2026-09-19T09:38:22.582817+00:00"
 }
