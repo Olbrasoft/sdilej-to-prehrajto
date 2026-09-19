@@ -120820,13 +120820,6 @@
           "source_id": "17309774",
           "target_video_id": "29327748",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:15:28.346312+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17309774",
-          "target_video_id": "29327748",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:47:23.023947+00:00"
         },
         {
@@ -120835,6 +120828,13 @@
           "target_video_id": "29327748",
           "permanent": false,
           "attempted_at": "2026-09-19T14:21:08.223284+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17309774",
+          "target_video_id": "29327748",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:05:29.487450+00:00"
         }
       ],
       "last_plan": {
@@ -120847,13 +120847,7 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-12T16:59:24.602470+00:00"
       },
-      "previous_target_id": "29327748",
-      "claim": {
-        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-0",
-        "claimed_at": "2026-09-19T16:05:14.457832+00:00",
-        "lease_expires_at": "2026-09-19T22:05:14.457832+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29327748"
     },
     "12503": {
       "attempts": [],
@@ -123299,13 +123293,6 @@
     "4040": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31648533",
-          "reason": "Request failed for https://sdilej.cz/31648533/blazniva-strela-33-a-1-3-posledni-trapas-1994-4k-cz-en.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T11:37:08.171419+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31648533",
           "reason": "PrehrajtoError",
@@ -123319,6 +123306,13 @@
           "source_id": "31648533",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:45:04.791152+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31648533",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:05:29.325530+00:00"
         }
       ],
       "last_plan": {
@@ -189425,5 +189419,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:05:27.584514+00:00"
+  "updated_at": "2026-09-19T16:05:29.487475+00:00"
 }
