@@ -28806,13 +28806,6 @@
           "source_id": "33925810",
           "target_video_id": "29392866",
           "permanent": false,
-          "attempted_at": "2026-09-19T09:23:50.838019+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33925810",
-          "target_video_id": "29392866",
-          "permanent": false,
           "attempted_at": "2026-09-19T10:02:25.388280+00:00"
         },
         {
@@ -28821,6 +28814,13 @@
           "target_video_id": "29392866",
           "permanent": false,
           "attempted_at": "2026-09-19T11:02:42.587553+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33925810",
+          "target_video_id": "29392866",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:34:13.106139+00:00"
         }
       ],
       "last_plan": {
@@ -147966,6 +147966,12 @@
         "source_id": "34456156",
         "display_name": "Creep (2014) SD CZ Titulky",
         "planned_at": "2026-09-19T11:32:43.981003+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T11:34:11.997747+00:00",
+        "lease_expires_at": "2026-09-19T17:34:11.997747+00:00",
+        "run_id": "35435106149"
       }
     },
     "26938": {
@@ -147975,19 +147981,47 @@
       "attempts": []
     },
     "16885": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34695369",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:34:12.348052+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34695369",
         "display_name": "Svět kočky Marnie (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:44.232073+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:34:11.616887+00:00",
+        "lease_expires_at": "2026-09-19T17:34:11.616887+00:00",
+        "run_id": "35435106149"
       }
     },
     "4930": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33958689",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:34:12.790408+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33958689",
         "display_name": "Představa o tobě (2024) 4K CZ Dabing",
         "planned_at": "2026-09-19T11:32:44.451845+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:34:11.811460+00:00",
+        "lease_expires_at": "2026-09-19T17:34:11.811460+00:00",
+        "run_id": "35435106149"
       }
     },
     "22757": {
@@ -148020,6 +148054,12 @@
         "source_id": "33094548",
         "display_name": "Centurion (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:44.677081+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:34:12.559376+00:00",
+        "lease_expires_at": "2026-09-19T17:34:12.559376+00:00",
+        "run_id": "35435106149"
       }
     },
     "13689": {
@@ -182633,5 +182673,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:34:09.711000+00:00"
+  "updated_at": "2026-09-19T11:34:13.106162+00:00"
 }
