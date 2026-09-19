@@ -55645,13 +55645,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27669370",
-          "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:10:26.896239+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "27669370",
           "reason": "PrehrajtoError",
@@ -55665,23 +55658,20 @@
           "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T05:38:27.426219+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27669370",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29515501",
+          "attempted_at": "2026-09-19T06:49:04.655169+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-19T06:11:14.382431+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-2",
-        "claimed_at": "2026-09-19T06:13:28.247333+00:00",
-        "lease_expires_at": "2026-09-19T12:13:28.247333+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29515501",
-        "size_bytes": 18924785790,
-        "prepared_at": "2026-09-19T06:13:32.433916+00:00"
       }
     },
     "18861": {
@@ -84996,6 +84986,12 @@
         "source_id": "31885766",
         "display_name": "Cesta do lesa (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:39:15.518754+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T06:48:33.701697+00:00",
+        "lease_expires_at": "2026-09-19T12:48:33.701697+00:00",
+        "run_id": "35421412982"
       }
     },
     "15508": {
@@ -175269,5 +175265,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:48:28.463667+00:00"
+  "updated_at": "2026-09-19T06:49:04.655185+00:00"
 }
