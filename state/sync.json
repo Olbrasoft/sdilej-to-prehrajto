@@ -51673,6 +51673,12 @@
         "claimed_at": "2026-09-19T09:36:02.787025+00:00",
         "lease_expires_at": "2026-09-19T15:36:02.787025+00:00",
         "run_id": "35435106149"
+      },
+      "previous_target_id": "29525237",
+      "prepared": {
+        "target_video_id": "29525237",
+        "size_bytes": 2003018913,
+        "prepared_at": "2026-09-19T09:36:12.668175+00:00"
       }
     },
     "28500": {
@@ -52487,14 +52493,6 @@
     "30909": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "18823758",
-          "target_video_id": "29515464",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T07:02:18.687692+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "18823758",
           "target_video_id": "29521246",
@@ -52508,6 +52506,13 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-19T08:59:27.835451+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "18823758",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:36:11.785784+00:00"
         }
       ],
       "last_plan": {
@@ -52520,10 +52525,19 @@
         "claimed_at": "2026-09-19T09:36:04.432383+00:00",
         "lease_expires_at": "2026-09-19T15:36:04.432383+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29521246"
     },
     "2273": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26627415",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:36:11.961813+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26627415",
         "display_name": "Pan Čokoláda (2016) 1080p CZ Dabing",
@@ -52548,6 +52562,12 @@
         "source_id": "34710095",
         "display_name": "Vulkán (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:35:51.322127+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-3",
+        "claimed_at": "2026-09-19T09:36:12.492481+00:00",
+        "lease_expires_at": "2026-09-19T15:36:12.492481+00:00",
+        "run_id": "35435106149"
       }
     },
     "26790": {
@@ -52608,6 +52628,12 @@
         "source_id": "34684701",
         "display_name": "Phoebe v říši divů (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:35:51.498860+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:36:12.140233+00:00",
+        "lease_expires_at": "2026-09-19T15:36:12.140233+00:00",
+        "run_id": "35435106149"
       }
     },
     "12631": {
@@ -52637,6 +52663,12 @@
         "source_id": "22898145",
         "display_name": "Generation Iron (2013) 720p CZ Titulky",
         "planned_at": "2026-09-19T09:35:51.702043+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:36:12.317360+00:00",
+        "lease_expires_at": "2026-09-19T15:36:12.317360+00:00",
+        "run_id": "35435106149"
       }
     },
     "11019": {
@@ -175763,5 +175795,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:36:09.849247+00:00"
+  "updated_at": "2026-09-19T09:36:12.668188+00:00"
 }
