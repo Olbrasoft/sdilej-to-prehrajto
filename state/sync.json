@@ -189096,6 +189096,12 @@
         "target_video_id": "29536681",
         "size_bytes": 2312664918,
         "prepared_at": "2026-09-19T19:12:51.153899+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T19:57:12.514824+00:00",
+        "lease_expires_at": "2026-09-20T01:57:12.514824+00:00",
+        "run_id": "35451641398"
       }
     },
     "23744": {
@@ -190774,17 +190780,19 @@
       }
     },
     "6472": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30832428",
+          "target_video_id": "29536841",
+          "permanent": false,
+          "attempted_at": "2026-09-19T19:57:12.749648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30832428",
         "display_name": "Pasáž (2025) 4K CZ Dabing",
         "planned_at": "2026-09-19T19:15:03.404444+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
-        "claimed_at": "2026-09-19T19:21:12.598200+00:00",
-        "lease_expires_at": "2026-09-20T01:21:12.598200+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29536841",
       "prepared": {
@@ -210024,5 +210032,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:57:10.631182+00:00"
+  "updated_at": "2026-09-19T19:57:12.749680+00:00"
 }
