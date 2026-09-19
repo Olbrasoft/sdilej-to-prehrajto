@@ -173572,13 +173572,6 @@
           "source_id": "26550838",
           "target_video_id": "29531613",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:47:45.905630+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26550838",
-          "target_video_id": "29531613",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:26:28.698758+00:00"
         },
         {
@@ -173587,6 +173580,13 @@
           "target_video_id": "29531613",
           "permanent": false,
           "attempted_at": "2026-09-19T23:06:03.558918+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26550838",
+          "target_video_id": "29531613",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:36:57.937711+00:00"
         }
       ],
       "last_plan": {
@@ -173599,12 +173599,6 @@
         "target_video_id": "29531613",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-19T15:06:08.000243+00:00"
-      },
-      "claim": {
-        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
-        "claimed_at": "2026-09-19T23:36:53.785674+00:00",
-        "lease_expires_at": "2026-09-20T05:36:53.785674+00:00",
-        "run_id": "35467299794"
       }
     },
     "26630": {
@@ -182107,6 +182101,13 @@
           "source_id": "21190079",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:32:07.776341+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21190079",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:57.764933+00:00"
         }
       ],
       "last_plan": {
@@ -182129,6 +182130,13 @@
           "source_id": "33725605",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:32:08.652247+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33725605",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:57.496623+00:00"
         }
       ],
       "last_plan": {
@@ -182176,6 +182184,13 @@
           "source_id": "27595502",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:32:09.453924+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27595502",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:57.635109+00:00"
         }
       ],
       "last_plan": {
@@ -182210,6 +182225,12 @@
         "source_id": "34721159",
         "display_name": "Francouzka (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:36:33.401161+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:36:57.361706+00:00",
+        "lease_expires_at": "2026-09-20T05:36:57.361706+00:00",
+        "run_id": "35467299794"
       }
     },
     "35189": {
@@ -216917,5 +216938,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:36:55.474699+00:00"
+  "updated_at": "2026-09-19T23:36:57.937737+00:00"
 }
