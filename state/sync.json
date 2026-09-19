@@ -155084,11 +155084,25 @@
       }
     },
     "18793": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "5503777",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:02:50.865274+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5503777",
         "display_name": "Standoff (2016) SD CZ Titulky",
         "planned_at": "2026-09-19T12:00:58.226984+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T12:02:50.177749+00:00",
+        "lease_expires_at": "2026-09-19T18:02:50.177749+00:00",
+        "run_id": "35435106149"
       }
     },
     "35809": {
@@ -155098,11 +155112,25 @@
       "attempts": []
     },
     "5555": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22394695",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:02:51.883431+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22394695",
         "display_name": "Kolo zázraků (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:00:58.458919+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T12:02:51.101844+00:00",
+        "lease_expires_at": "2026-09-19T18:02:51.101844+00:00",
+        "run_id": "35435106149"
       }
     },
     "8392": {
@@ -155118,15 +155146,9 @@
           "attempted_at": "2026-09-11T14:38:16.531692+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27048625",
-        "display_name": "Irům štěstí přeje (2001) 720p CZ Dabing",
-        "planned_at": "2026-09-19T12:00:58.701022+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29301384",
-        "size_bytes": 2656181107,
-        "prepared_at": "2026-09-11T14:26:47.238690+00:00"
+        "uploaded_at": "2026-09-19T12:02:53.256752+00:00"
       }
     },
     "11163": {
@@ -185534,5 +185556,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:02:48.416575+00:00"
+  "updated_at": "2026-09-19T12:02:53.256768+00:00"
 }
