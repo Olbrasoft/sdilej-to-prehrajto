@@ -179061,6 +179061,13 @@
           "target_video_id": "29535128",
           "permanent": false,
           "attempted_at": "2026-09-19T17:50:24.480158+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34925118",
+          "target_video_id": "29535128",
+          "permanent": false,
+          "attempted_at": "2026-09-19T18:33:52.180408+00:00"
         }
       ],
       "last_plan": {
@@ -179071,7 +179078,7 @@
       "previous_target_id": "29535128",
       "prepared": {
         "target_video_id": "29535128",
-        "size_bytes": 3713783637,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-19T17:37:01.398282+00:00"
       }
     },
@@ -182577,7 +182584,15 @@
       "attempts": []
     },
     "10058": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34731482",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:33:50.135171+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34731482",
         "display_name": "Carnaval (2021) 1080p CZ Titulky",
@@ -182597,7 +182612,15 @@
       "attempts": []
     },
     "25649": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28109669",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:33:50.333835+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28109669",
         "display_name": "Sestry čarodějky (2005) SD CZ Dabing",
@@ -182614,7 +182637,15 @@
       "attempts": []
     },
     "23609": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27595364",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:33:50.664135+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27595364",
         "display_name": "Země dinosaurů 3: Velký dar (1995) SD CZ Dabing",
@@ -182643,6 +182674,12 @@
         "source_id": "33436675",
         "display_name": "Srdce lva (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:33:08.479210+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T18:33:51.206973+00:00",
+        "lease_expires_at": "2026-09-20T00:33:51.206973+00:00",
+        "run_id": "35451641398"
       }
     },
     "8738": {
@@ -182670,14 +182707,34 @@
         "source_id": "31712779",
         "display_name": "Taková moje láska (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:33:08.645781+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T18:33:51.474721+00:00",
+        "lease_expires_at": "2026-09-20T00:33:51.474721+00:00",
+        "run_id": "35451641398"
       }
     },
     "20503": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34775489",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:33:51.946947+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34775489",
         "display_name": "The Hive (2015) SD CZ Titulky",
         "planned_at": "2026-09-19T18:33:08.855789+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T18:33:50.930994+00:00",
+        "lease_expires_at": "2026-09-20T00:33:50.930994+00:00",
+        "run_id": "35451641398"
       }
     },
     "19334": {
@@ -182693,6 +182750,12 @@
         "source_id": "25883729",
         "display_name": "Ženy v balíku (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:33:09.097805+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T18:33:51.684812+00:00",
+        "lease_expires_at": "2026-09-20T00:33:51.684812+00:00",
+        "run_id": "35451641398"
       }
     },
     "29481": {
@@ -203156,5 +203219,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T18:33:48.328029+00:00"
+  "updated_at": "2026-09-19T18:33:52.180425+00:00"
 }
