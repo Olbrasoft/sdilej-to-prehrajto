@@ -87006,13 +87006,6 @@
     "8905": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28134471",
-          "reason": "Request failed for https://sdilej.cz/28134471/mazel.a.tajemsti.lesa.2021.1080p.webrip.cz.5.1.x264.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T07:42:52.501153+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "28134471",
@@ -87025,6 +87018,13 @@
           "source_id": "28134471",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:00:32.335417+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28134471",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:19:53.550690+00:00"
         }
       ],
       "last_plan": {
@@ -87345,13 +87345,6 @@
           "source_id": "25586153",
           "target_video_id": "29175998",
           "permanent": false,
-          "attempted_at": "2026-09-19T20:23:11.431877+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25586153",
-          "target_video_id": "29175998",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:05:24.224862+00:00"
         },
         {
@@ -87360,6 +87353,13 @@
           "target_video_id": "29175998",
           "permanent": false,
           "attempted_at": "2026-09-19T21:41:53.105363+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25586153",
+          "target_video_id": "29175998",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:19:55.124512+00:00"
         }
       ],
       "last_plan": {
@@ -87535,7 +87535,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T00:14:41.266553+00:00"
       },
-      "previous_target_id": "29144872"
+      "previous_target_id": "29144872",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T22:19:53.817582+00:00",
+        "lease_expires_at": "2026-09-20T04:19:53.817582+00:00",
+        "run_id": "35467299794"
+      }
     },
     "12784": {
       "attempts": []
@@ -87690,13 +87696,6 @@
     "31850": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34714414",
-          "reason": "Request failed for https://sdilej.cz/34714414/zkroceni-zleho-muze-1987-cz-dabing.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T06:56:03.752216+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34714414",
@@ -87709,12 +87708,25 @@
           "source_id": "34714414",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:00:39.214812+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34714414",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:19:54.741369+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34714414",
         "display_name": "Zkrocení zlého muže (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:19:39.848054+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:19:53.939822+00:00",
+        "lease_expires_at": "2026-09-20T04:19:53.939822+00:00",
+        "run_id": "35467299794"
       }
     },
     "5449": {
@@ -87801,13 +87813,6 @@
     "6967": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34774647",
-          "reason": "Request failed for https://sdilej.cz/34774647/lajka-2017-.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T06:57:03.621115+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34774647",
@@ -87820,12 +87825,25 @@
           "source_id": "34774647",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:00:39.901721+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34774647",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:19:54.345601+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34774647",
         "display_name": "Lajka (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:19:39.983234+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T22:19:53.427415+00:00",
+        "lease_expires_at": "2026-09-20T04:19:53.427415+00:00",
+        "run_id": "35467299794"
       }
     },
     "16244": {
@@ -87952,7 +87970,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T18:50:04.440797+00:00"
       },
-      "previous_target_id": "29137611"
+      "previous_target_id": "29137611",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-3",
+        "claimed_at": "2026-09-19T22:19:54.209554+00:00",
+        "lease_expires_at": "2026-09-20T04:19:54.209554+00:00",
+        "run_id": "35467299794"
+      }
     },
     "14932": {
       "attempts": []
@@ -88059,6 +88083,12 @@
         "source_id": "34849249",
         "display_name": "Oliver a bazén (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:19:40.240394+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T22:19:54.483331+00:00",
+        "lease_expires_at": "2026-09-20T04:19:54.483331+00:00",
+        "run_id": "35467299794"
       }
     },
     "16317": {
@@ -88386,7 +88416,13 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T17:33:42.441521+00:00"
       },
-      "previous_target_id": "29137913"
+      "previous_target_id": "29137913",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:19:54.869648+00:00",
+        "lease_expires_at": "2026-09-20T04:19:54.869648+00:00",
+        "run_id": "35467299794"
+      }
     },
     "12345": {
       "attempts": []
@@ -206522,5 +206558,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:19:51.574396+00:00"
+  "updated_at": "2026-09-19T22:19:55.124532+00:00"
 }
