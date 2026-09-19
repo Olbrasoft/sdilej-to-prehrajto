@@ -195682,11 +195682,25 @@
       "attempts": []
     },
     "23440": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34704426",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T20:42:29.328696+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34704426",
         "display_name": "Tygří spáry 2 (1993) 720p CZ Dabing",
         "planned_at": "2026-09-19T20:31:20.138491+00:00"
+      },
+      "claim": {
+        "worker_id": "eddd813a65144347982a736d311855c4-shard-2",
+        "claimed_at": "2026-09-19T20:42:28.528844+00:00",
+        "lease_expires_at": "2026-09-20T02:42:28.528844+00:00",
+        "run_id": "35451641398"
       }
     },
     "24443": {
@@ -195730,11 +195744,25 @@
       "attempts": []
     },
     "37315": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34909877",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T20:42:30.099193+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34909877",
         "display_name": "War of the Worlds: Annihilation (2021) SD CZ Titulky",
         "planned_at": "2026-09-19T20:31:20.278791+00:00"
+      },
+      "claim": {
+        "worker_id": "eddd813a65144347982a736d311855c4-shard-2",
+        "claimed_at": "2026-09-19T20:42:29.468515+00:00",
+        "lease_expires_at": "2026-09-20T02:42:29.468515+00:00",
+        "run_id": "35451641398"
       }
     },
     "17825": {
@@ -195746,6 +195774,18 @@
         "source_id": "5958698",
         "display_name": "V pasti (2015) SD CZ Dabing",
         "planned_at": "2026-09-19T20:31:20.431717+00:00"
+      },
+      "claim": {
+        "worker_id": "eddd813a65144347982a736d311855c4-shard-2",
+        "claimed_at": "2026-09-19T20:42:30.297513+00:00",
+        "lease_expires_at": "2026-09-20T02:42:30.297513+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29538115",
+      "prepared": {
+        "target_video_id": "29538115",
+        "size_bytes": 879077258,
+        "prepared_at": "2026-09-19T20:42:34.504531+00:00"
       }
     },
     "26059": {
@@ -212217,5 +212257,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:42:23.666732+00:00"
+  "updated_at": "2026-09-19T20:42:34.504548+00:00"
 }
