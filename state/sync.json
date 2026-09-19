@@ -101696,7 +101696,13 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-08T17:23:26.899716+00:00"
       },
-      "previous_target_id": "29218933"
+      "previous_target_id": "29218933",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T17:50:24.344178+00:00",
+        "lease_expires_at": "2026-09-19T23:50:24.344178+00:00",
+        "run_id": "35451641398"
+      }
     },
     "31003": {
       "attempts": []
@@ -101765,7 +101771,13 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-08T17:24:42.405743+00:00"
       },
-      "previous_target_id": "29218970"
+      "previous_target_id": "29218970",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T17:50:24.026798+00:00",
+        "lease_expires_at": "2026-09-19T23:50:24.026798+00:00",
+        "run_id": "35451641398"
+      }
     },
     "17505": {
       "attempts": []
@@ -101943,7 +101955,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-08T17:29:27.070853+00:00"
       },
-      "previous_target_id": "29219070"
+      "previous_target_id": "29219070",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T17:50:24.151485+00:00",
+        "lease_expires_at": "2026-09-19T23:50:24.151485+00:00",
+        "run_id": "35451641398"
+      }
     },
     "14541": {
       "attempts": []
@@ -175036,17 +175054,19 @@
       "attempts": []
     },
     "35292": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34925118",
+          "target_video_id": "29535128",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:50:24.480158+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34925118",
         "display_name": "Job (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-19T17:20:42.627551+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
-        "claimed_at": "2026-09-19T17:36:57.572457+00:00",
-        "lease_expires_at": "2026-09-19T23:36:57.572457+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29535128",
       "prepared": {
@@ -196993,5 +197013,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:50:22.135118+00:00"
+  "updated_at": "2026-09-19T17:50:24.480183+00:00"
 }
