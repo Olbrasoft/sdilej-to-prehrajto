@@ -13233,12 +13233,25 @@
           "source_id": "12303464",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T15:27:48.608132+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12303464",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:31:24.481169+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12303464",
         "display_name": "Mys hrůzy (1962) SD CZ Dabing",
         "planned_at": "2026-09-19T21:28:59.826119+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T21:31:23.829046+00:00",
+        "lease_expires_at": "2026-09-20T03:31:23.829046+00:00",
+        "run_id": "35467299794"
       }
     },
     "32936": {
@@ -13628,13 +13641,6 @@
           "source_id": "34737645",
           "target_video_id": "29469067",
           "permanent": false,
-          "attempted_at": "2026-09-19T19:40:03.102442+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34737645",
-          "target_video_id": "29469067",
-          "permanent": false,
           "attempted_at": "2026-09-19T20:13:46.338690+00:00"
         },
         {
@@ -13643,6 +13649,13 @@
           "target_video_id": "29469067",
           "permanent": false,
           "attempted_at": "2026-09-19T20:54:52.328867+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34737645",
+          "target_video_id": "29469067",
+          "permanent": false,
+          "attempted_at": "2026-09-19T21:31:25.845237+00:00"
         }
       ],
       "last_plan": {
@@ -205078,5 +205091,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:31:21.977547+00:00"
+  "updated_at": "2026-09-19T21:31:25.845254+00:00"
 }
