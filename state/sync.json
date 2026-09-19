@@ -149715,7 +149715,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-10T17:31:44.475576+00:00"
       },
-      "previous_target_id": "29278403"
+      "previous_target_id": "29278403",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T19:55:07.707784+00:00",
+        "lease_expires_at": "2026-09-20T01:55:07.707784+00:00",
+        "run_id": "35451641398"
+      }
     },
     "14934": {
       "attempts": []
@@ -149924,13 +149930,6 @@
           "source_id": "34558406",
           "target_video_id": "29278404",
           "permanent": false,
-          "attempted_at": "2026-09-19T17:55:04.817650+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34558406",
-          "target_video_id": "29278404",
-          "permanent": false,
           "attempted_at": "2026-09-19T18:32:17.896619+00:00"
         },
         {
@@ -149939,6 +149938,13 @@
           "target_video_id": "29278404",
           "permanent": false,
           "attempted_at": "2026-09-19T19:06:43.437563+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34558406",
+          "target_video_id": "29278404",
+          "permanent": false,
+          "attempted_at": "2026-09-19T19:55:08.934746+00:00"
         }
       ],
       "last_plan": {
@@ -150443,7 +150449,13 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-09-10T14:37:35.998760+00:00"
       },
-      "previous_target_id": "29274759"
+      "previous_target_id": "29274759",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T19:55:07.836805+00:00",
+        "lease_expires_at": "2026-09-20T01:55:07.836805+00:00",
+        "run_id": "35451641398"
+      }
     },
     "32095": {
       "attempts": []
@@ -155074,7 +155086,13 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-11T06:22:04.212595+00:00"
       },
-      "previous_target_id": "29292898"
+      "previous_target_id": "29292898",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T19:55:07.578932+00:00",
+        "lease_expires_at": "2026-09-20T01:55:07.578932+00:00",
+        "run_id": "35451641398"
+      }
     },
     "8646": {
       "attempts": [
@@ -166404,12 +166422,25 @@
           "source_id": "29827464",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T13:17:43.979562+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29827464",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:55:08.744249+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29827464",
         "display_name": "The Nameless Days (2022) 720p CZ Titulky",
         "planned_at": "2026-09-19T19:53:44.455813+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
+        "claimed_at": "2026-09-19T19:55:08.022759+00:00",
+        "lease_expires_at": "2026-09-20T01:55:08.022759+00:00",
+        "run_id": "35451641398"
       }
     },
     "7201": {
@@ -208326,5 +208357,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:55:05.570061+00:00"
+  "updated_at": "2026-09-19T19:55:08.934766+00:00"
 }
