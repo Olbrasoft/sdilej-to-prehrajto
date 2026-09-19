@@ -79316,13 +79316,6 @@
           "source_id": "29087330",
           "target_video_id": "29276451",
           "permanent": false,
-          "attempted_at": "2026-09-19T14:12:15.400494+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29087330",
-          "target_video_id": "29276451",
-          "permanent": false,
           "attempted_at": "2026-09-19T15:57:50.041560+00:00"
         },
         {
@@ -79331,6 +79324,13 @@
           "target_video_id": "29276451",
           "permanent": false,
           "attempted_at": "2026-09-19T16:40:13.685974+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29087330",
+          "target_video_id": "29276451",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:12:22.561424+00:00"
         }
       ],
       "last_plan": {
@@ -79531,7 +79531,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T18:27:16.283405+00:00"
       },
-      "previous_target_id": "29139998"
+      "previous_target_id": "29139998",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T17:12:22.387235+00:00",
+        "lease_expires_at": "2026-09-19T23:12:22.387235+00:00",
+        "run_id": "35451641398"
+      }
     },
     "37508": {
       "attempts": []
@@ -79887,7 +79893,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-05T12:44:11.204285+00:00"
       },
-      "previous_target_id": "29132740"
+      "previous_target_id": "29132740",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T17:12:21.646088+00:00",
+        "lease_expires_at": "2026-09-19T23:12:21.646088+00:00",
+        "run_id": "35451641398"
+      }
     },
     "34893": {
       "attempts": []
@@ -80200,6 +80212,12 @@
         "source_id": "34899494",
         "display_name": "Rytmus: Tempos (2020) 1080p SK Dabing",
         "planned_at": "2026-09-19T17:10:55.448370+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T17:12:22.086932+00:00",
+        "lease_expires_at": "2026-09-19T23:12:22.086932+00:00",
+        "run_id": "35451641398"
       }
     },
     "33926": {
@@ -80262,6 +80280,12 @@
         "source_id": "34716014",
         "display_name": "Matrix AB (2015) SD CZ Dabing",
         "planned_at": "2026-09-19T17:10:55.595593+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T17:12:21.862192+00:00",
+        "lease_expires_at": "2026-09-19T23:12:21.862192+00:00",
+        "run_id": "35451641398"
       }
     },
     "27719": {
@@ -193879,5 +193903,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:12:19.528089+00:00"
+  "updated_at": "2026-09-19T17:12:22.561443+00:00"
 }
