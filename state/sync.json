@@ -39466,13 +39466,6 @@
           "source_id": "28778728",
           "target_video_id": "29347958",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:13:59.822380+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28778728",
-          "target_video_id": "29347958",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:52:29.021075+00:00"
         },
         {
@@ -39481,6 +39474,13 @@
           "target_video_id": "29347958",
           "permanent": false,
           "attempted_at": "2026-09-19T23:24:16.466231+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28778728",
+          "target_video_id": "29347958",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:54:36.295360+00:00"
         }
       ],
       "last_plan": {
@@ -40287,7 +40287,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T23:37:43.994455+00:00"
       },
-      "previous_target_id": "29173980"
+      "previous_target_id": "29173980",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:54:34.706732+00:00",
+        "lease_expires_at": "2026-09-20T05:54:34.706732+00:00",
+        "run_id": "35467299794"
+      }
     },
     "2112": {
       "attempts": []
@@ -40329,7 +40335,13 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-06T23:53:09.984429+00:00"
       },
-      "previous_target_id": "29174349"
+      "previous_target_id": "29174349",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:54:35.126074+00:00",
+        "lease_expires_at": "2026-09-20T05:54:35.126074+00:00",
+        "run_id": "35467299794"
+      }
     },
     "34330": {
       "attempts": [],
@@ -40445,7 +40457,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T06:12:13.418549+00:00"
       },
-      "previous_target_id": "29179298"
+      "previous_target_id": "29179298",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:54:34.987078+00:00",
+        "lease_expires_at": "2026-09-20T05:54:34.987078+00:00",
+        "run_id": "35467299794"
+      }
     },
     "15980": {
       "attempts": []
@@ -148974,12 +148992,25 @@
           "source_id": "3679154",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:54:18.291102+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "3679154",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:54:35.957817+00:00"
         }
       ],
       "last_plan": {
         "source_id": "3679154",
         "display_name": "White Bird in a Blizzard (2014) 720p CZ Titulky",
         "planned_at": "2026-09-19T23:54:26.641753+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:54:34.847754+00:00",
+        "lease_expires_at": "2026-09-20T05:54:34.847754+00:00",
+        "run_id": "35467299794"
       }
     },
     "11321": {
@@ -149003,6 +149034,12 @@
         "source_id": "34673706",
         "display_name": "Americký gigolo (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:54:26.878976+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:54:36.122488+00:00",
+        "lease_expires_at": "2026-09-20T05:54:36.122488+00:00",
+        "run_id": "35467299794"
       }
     },
     "14375": {
@@ -149156,7 +149193,7 @@
       "last_plan": {
         "source_id": "34138286",
         "display_name": "Back to Black (2024) 4K CZ Dabing",
-        "planned_at": "2026-09-19T17:53:04.986356+00:00"
+        "planned_at": "2026-09-19T23:54:33.072540+00:00"
       }
     },
     "26800": {
@@ -149284,7 +149321,7 @@
       "last_plan": {
         "source_id": "34724603",
         "display_name": "Un hipster en la España vacía (2024) 720p CZ Titulky",
-        "planned_at": "2026-09-19T17:53:05.132442+00:00"
+        "planned_at": "2026-09-19T23:54:33.215795+00:00"
       }
     },
     "16022": {
@@ -149325,7 +149362,7 @@
       "last_plan": {
         "source_id": "26338881",
         "display_name": "Král temné síly (2003) 720p CZ Dabing",
-        "planned_at": "2026-09-19T17:53:05.269430+00:00"
+        "planned_at": "2026-09-19T23:54:33.360629+00:00"
       }
     },
     "22760": {
@@ -149348,7 +149385,7 @@
       "last_plan": {
         "source_id": "11903060",
         "display_name": "Učitelé (1984) 720p CZ Dabing",
-        "planned_at": "2026-09-19T17:53:05.412670+00:00"
+        "planned_at": "2026-09-19T23:54:33.505047+00:00"
       }
     },
     "19534": {
@@ -149374,7 +149411,7 @@
       "last_plan": {
         "source_id": "34775749",
         "display_name": "Plná penze (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T17:53:05.566695+00:00"
+        "planned_at": "2026-09-19T23:54:33.643980+00:00"
       }
     },
     "18297": {
@@ -149445,7 +149482,7 @@
       "last_plan": {
         "source_id": "31961981",
         "display_name": "Naked Soldier (2012) 720p CZ Titulky",
-        "planned_at": "2026-09-19T17:53:05.755314+00:00"
+        "planned_at": "2026-09-19T23:54:33.789351+00:00"
       }
     },
     "15058": {
@@ -149468,7 +149505,7 @@
       "last_plan": {
         "source_id": "28505368",
         "display_name": "Rande u přepážky (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T17:53:06.129843+00:00"
+        "planned_at": "2026-09-19T23:54:33.932676+00:00"
       }
     },
     "27526": {
@@ -149516,7 +149553,7 @@
       "last_plan": {
         "source_id": "10714860",
         "display_name": "Nostalgie (2018) SD CZ Dabing",
-        "planned_at": "2026-09-19T17:53:06.354886+00:00"
+        "planned_at": "2026-09-19T23:54:34.071605+00:00"
       }
     },
     "35506": {
@@ -149542,7 +149579,7 @@
       "last_plan": {
         "source_id": "33812573",
         "display_name": "Deník malého poseroutky 3 (2012) 720p CZ Dabing",
-        "planned_at": "2026-09-19T17:53:06.512216+00:00"
+        "planned_at": "2026-09-19T23:54:34.210913+00:00"
       }
     },
     "33901": {
@@ -149574,7 +149611,7 @@
       "last_plan": {
         "source_id": "26526981",
         "display_name": "Dlouhá cesta dolů (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T17:53:06.658658+00:00"
+        "planned_at": "2026-09-19T23:54:34.365031+00:00"
       }
     },
     "31106": {
@@ -217598,5 +217635,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:54:31.220013+00:00"
+  "updated_at": "2026-09-19T23:54:36.295372+00:00"
 }
