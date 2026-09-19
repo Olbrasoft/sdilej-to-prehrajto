@@ -27043,14 +27043,6 @@
           "source_id": "32908053",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29509757",
-          "attempted_at": "2026-09-19T03:05:27.776099+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "32908053",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29511282",
           "attempted_at": "2026-09-19T04:08:37.215206+00:00"
         },
@@ -27061,18 +27053,19 @@
           "permanent": false,
           "target_video_id": "29512643",
           "attempted_at": "2026-09-19T05:12:58.328149+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32908053",
+          "reason": "Request failed for https://sdilej.cz/32908053/a.i.-umela-inteligence-2001-en-cz-dabing-uhdrdv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:54:50.726117+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32908053",
         "display_name": "A.I.: Umělá inteligence (2001) 4K CZ Dabing",
         "planned_at": "2026-09-19T05:52:09.177349+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
-        "claimed_at": "2026-09-19T05:54:04.760901+00:00",
-        "lease_expires_at": "2026-09-19T11:54:04.760901+00:00",
-        "run_id": "35421412982"
       }
     },
     "1814": {
@@ -32190,6 +32183,12 @@
         "target_video_id": "29153323",
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T05:54:46.786804+00:00",
+        "lease_expires_at": "2026-09-19T11:54:46.786804+00:00",
+        "run_id": "35421412982"
       }
     },
     "29761": {
@@ -33018,6 +33017,12 @@
         "target_video_id": "29339891",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-13T04:51:12.906017+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T05:54:46.579173+00:00",
+        "lease_expires_at": "2026-09-19T11:54:46.579173+00:00",
+        "run_id": "35421412982"
       }
     },
     "14925": {
@@ -175027,5 +175032,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:54:44.461680+00:00"
+  "updated_at": "2026-09-19T05:54:50.726134+00:00"
 }
