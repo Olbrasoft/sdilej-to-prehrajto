@@ -167713,11 +167713,25 @@
       }
     },
     "21863": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "20648673",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T14:03:07.814713+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20648673",
         "display_name": "Jak jsem vyhrál válku (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-19T14:00:52.953710+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-2",
+        "claimed_at": "2026-09-19T14:03:07.110848+00:00",
+        "lease_expires_at": "2026-09-19T20:03:07.110848+00:00",
+        "run_id": "35435106149"
       }
     },
     "28503": {
@@ -167759,6 +167773,18 @@
         "source_id": "34103143",
         "display_name": "Koala Johnny: Zrození hrdiny (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T14:00:53.222048+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-2",
+        "claimed_at": "2026-09-19T14:03:08.079689+00:00",
+        "lease_expires_at": "2026-09-19T20:03:08.079689+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29530563",
+      "prepared": {
+        "target_video_id": "29530563",
+        "size_bytes": 2795101329,
+        "prepared_at": "2026-09-19T14:03:11.067489+00:00"
       }
     },
     "12558": {
@@ -193004,5 +193030,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T14:03:05.241468+00:00"
+  "updated_at": "2026-09-19T14:03:11.067502+00:00"
 }
