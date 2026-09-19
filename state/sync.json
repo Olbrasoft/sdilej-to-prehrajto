@@ -167547,6 +167547,13 @@
           "target_video_id": "29531613",
           "permanent": false,
           "attempted_at": "2026-09-19T16:47:26.780524+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26550838",
+          "target_video_id": "29531613",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:19:50.182296+00:00"
         }
       ],
       "last_plan": {
@@ -167559,12 +167566,6 @@
         "target_video_id": "29531613",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-19T15:06:08.000243+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
-        "claimed_at": "2026-09-19T17:19:46.409645+00:00",
-        "lease_expires_at": "2026-09-19T23:19:46.409645+00:00",
-        "run_id": "35451641398"
       }
     },
     "26630": {
@@ -172433,7 +172434,15 @@
       "attempts": []
     },
     "23194": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33746207",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T17:19:50.060135+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33746207",
         "display_name": "Tak už dost, Frede! (1991) 1080p CZ Dabing",
@@ -195410,5 +195419,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:19:48.067862+00:00"
+  "updated_at": "2026-09-19T17:19:50.182319+00:00"
 }
