@@ -5668,13 +5668,6 @@
           "source_id": "34890604",
           "target_video_id": "29179228",
           "permanent": false,
-          "attempted_at": "2026-09-19T18:50:27.977437+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34890604",
-          "target_video_id": "29179228",
-          "permanent": false,
           "attempted_at": "2026-09-19T19:39:01.892175+00:00"
         },
         {
@@ -5683,6 +5676,13 @@
           "target_video_id": "29179228",
           "permanent": false,
           "attempted_at": "2026-09-19T20:12:40.466857+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34890604",
+          "target_video_id": "29179228",
+          "permanent": false,
+          "attempted_at": "2026-09-19T20:54:12.548721+00:00"
         }
       ],
       "last_plan": {
@@ -5695,13 +5695,7 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-09-07T06:09:08.221736+00:00"
       },
-      "previous_target_id": "29179228",
-      "claim": {
-        "worker_id": "2816102cc3054800a811c04df9ec9817-shard-5",
-        "claimed_at": "2026-09-19T20:54:06.404692+00:00",
-        "lease_expires_at": "2026-09-20T02:54:06.404692+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29179228"
     },
     "21203": {
       "attempts": [
@@ -8498,7 +8492,13 @@
         "size_bytes": 9700000000,
         "prepared_at": "2026-09-08T10:51:41.824381+00:00"
       },
-      "previous_target_id": "29211821"
+      "previous_target_id": "29211821",
+      "claim": {
+        "worker_id": "2816102cc3054800a811c04df9ec9817-shard-0",
+        "claimed_at": "2026-09-19T20:54:12.420012+00:00",
+        "lease_expires_at": "2026-09-20T02:54:12.420012+00:00",
+        "run_id": "35451641398"
+      }
     },
     "11559": {
       "attempts": [],
@@ -212403,5 +212403,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:54:10.575972+00:00"
+  "updated_at": "2026-09-19T20:54:12.548748+00:00"
 }
