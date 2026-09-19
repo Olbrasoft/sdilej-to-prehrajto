@@ -1416,7 +1416,13 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-06T04:39:14.354732+00:00"
       },
-      "previous_target_id": "28927212"
+      "previous_target_id": "28927212",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
+        "claimed_at": "2026-09-19T11:30:45.875946+00:00",
+        "lease_expires_at": "2026-09-19T17:30:45.875946+00:00",
+        "run_id": "35435106149"
+      }
     },
     "99": {
       "attempts": []
@@ -135655,18 +135661,19 @@
           "reason": "Request failed for https://sdilej.cz/34192586/cela-2000-jennifer-lopez-dylan-baker-czdab.uhdr.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T09:57:31.929343+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34192586",
+          "target_video_id": "29527097",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:30:46.919405+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34192586",
         "display_name": "Cela (2000) 4K CZ Dabing",
         "planned_at": "2026-09-19T11:14:51.249587+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
-        "claimed_at": "2026-09-19T11:15:45.675277+00:00",
-        "lease_expires_at": "2026-09-19T17:15:45.675277+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29527097",
       "prepared": {
@@ -182495,5 +182502,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:30:44.141158+00:00"
+  "updated_at": "2026-09-19T11:30:46.919428+00:00"
 }
