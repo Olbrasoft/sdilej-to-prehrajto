@@ -30027,7 +30027,13 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-14T19:14:09.436547+00:00"
       },
-      "previous_target_id": "29387905"
+      "previous_target_id": "29387905",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T18:20:13.312059+00:00",
+        "lease_expires_at": "2026-09-20T00:20:13.312059+00:00",
+        "run_id": "35451641398"
+      }
     },
     "22205": {
       "attempts": [
@@ -30236,7 +30242,13 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-14T19:16:34.013399+00:00"
       },
-      "previous_target_id": "29387950"
+      "previous_target_id": "29387950",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T18:20:13.631016+00:00",
+        "lease_expires_at": "2026-09-20T00:20:13.631016+00:00",
+        "run_id": "35451641398"
+      }
     },
     "33009": {
       "attempts": []
@@ -180849,17 +180861,19 @@
       "attempts": []
     },
     "16644": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34695120",
+          "target_video_id": "29535743",
+          "permanent": false,
+          "attempted_at": "2026-09-19T18:20:13.759954+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34695120",
         "display_name": "Takoví (ne)jsme (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:06:43.048367+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
-        "claimed_at": "2026-09-19T18:12:37.230916+00:00",
-        "lease_expires_at": "2026-09-20T00:12:37.230916+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29535743",
       "prepared": {
@@ -202017,5 +202031,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T18:20:11.508493+00:00"
+  "updated_at": "2026-09-19T18:20:13.759973+00:00"
 }
