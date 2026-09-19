@@ -59721,7 +59721,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-13T19:27:35.494123+00:00"
       },
-      "previous_target_id": "29356052"
+      "previous_target_id": "29356052",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:36:51.773617+00:00",
+        "lease_expires_at": "2026-09-19T19:36:51.773617+00:00",
+        "run_id": "35435106149"
+      }
     },
     "28005": {
       "attempts": []
@@ -163274,17 +163280,19 @@
       "attempts": []
     },
     "25876": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34708648",
+          "target_video_id": "29530018",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:36:52.229413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34708648",
         "display_name": "Bill (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:25:02.948317+00:00"
-      },
-      "claim": {
-        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-3",
-        "claimed_at": "2026-09-19T13:30:24.586539+00:00",
-        "lease_expires_at": "2026-09-19T19:30:24.586539+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29530018",
       "prepared": {
@@ -190793,5 +190801,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:36:49.860272+00:00"
+  "updated_at": "2026-09-19T13:36:52.229428+00:00"
 }
