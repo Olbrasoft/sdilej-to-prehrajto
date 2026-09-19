@@ -51157,6 +51157,12 @@
         "source_id": "31064718",
         "display_name": "V hodine strachu... (1968) 1080p SK Dabing",
         "planned_at": "2026-09-19T06:57:30.435903+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T07:02:02.738551+00:00",
+        "lease_expires_at": "2026-09-19T13:02:02.738551+00:00",
+        "run_id": "35421412982"
       }
     },
     "14755": {
@@ -86104,17 +86110,19 @@
       "attempts": []
     },
     "17163": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28552323",
+          "target_video_id": "29518117",
+          "permanent": false,
+          "attempted_at": "2026-09-19T07:02:07.203882+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28552323",
         "display_name": "Země žen (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:39:20.306028+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-2",
-        "claimed_at": "2026-09-19T06:57:07.924368+00:00",
-        "lease_expires_at": "2026-09-19T12:57:07.924368+00:00",
-        "run_id": "35421412982"
       },
       "prepared": {
         "target_video_id": "29518117",
@@ -175460,5 +175468,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T07:02:00.573304+00:00"
+  "updated_at": "2026-09-19T07:02:07.203897+00:00"
 }
