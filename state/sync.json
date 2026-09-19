@@ -22154,6 +22154,12 @@
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-2",
+        "claimed_at": "2026-09-19T04:28:26.218348+00:00",
+        "lease_expires_at": "2026-09-19T10:28:26.218348+00:00",
+        "run_id": "35405560473"
       }
     },
     "24202": {
@@ -59445,14 +59451,6 @@
     "2075": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31639655",
-          "target_video_id": "29502987",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T22:18:38.639630+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31639655",
           "reason": "PrehrajtoError",
@@ -59467,23 +59465,20 @@
           "permanent": false,
           "target_video_id": "29510655",
           "attempted_at": "2026-09-19T03:27:44.469906+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31639655",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29511956",
+          "attempted_at": "2026-09-19T04:28:29.114302+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T04:01:15.471997+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-4",
-        "claimed_at": "2026-09-19T04:16:25.047365+00:00",
-        "lease_expires_at": "2026-09-19T10:16:25.047365+00:00",
-        "run_id": "35405560473"
-      },
-      "prepared": {
-        "target_video_id": "29511956",
-        "size_bytes": 2100917827,
-        "prepared_at": "2026-09-19T04:16:31.958051+00:00"
       }
     },
     "32398": {
@@ -174923,5 +174918,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T04:28:24.275238+00:00"
+  "updated_at": "2026-09-19T04:28:29.114317+00:00"
 }
