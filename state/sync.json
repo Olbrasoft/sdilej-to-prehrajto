@@ -15681,13 +15681,6 @@
     "12314": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34938437",
-          "reason": "Request failed for https://sdilej.cz/34938437/1996-kolja-komedie-drama-86-zdenek-sverak.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T07:59:22.703351+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34938437",
           "reason": "PrehrajtoError",
@@ -15701,13 +15694,27 @@
           "source_id": "34938437",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:27:18.382202+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34938437",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:35:50.662142+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34938437",
         "display_name": "Kolja (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:27:58.351864+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:35:49.976974+00:00",
+        "lease_expires_at": "2026-09-19T21:35:49.976974+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29524346"
     },
     "22088": {
       "attempts": [],
@@ -15914,11 +15921,25 @@
       }
     },
     "683": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26761945",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:35:51.581575+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26761945",
         "display_name": "Hurikán v ringu (1999) 720p CZ Dabing",
         "planned_at": "2026-09-19T15:27:58.485115+00:00"
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:35:50.939303+00:00",
+        "lease_expires_at": "2026-09-19T21:35:50.939303+00:00",
+        "run_id": "35451641398"
       }
     },
     "28273": {
@@ -16013,11 +16034,25 @@
       }
     },
     "720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34647118",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:35:52.363622+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34647118",
         "display_name": "Sociální dilema (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-19T15:27:58.712535+00:00"
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:35:51.750653+00:00",
+        "lease_expires_at": "2026-09-19T21:35:51.750653+00:00",
+        "run_id": "35451641398"
       }
     },
     "19533": {
@@ -16086,11 +16121,25 @@
       }
     },
     "13376": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34681006",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:35:53.296836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34681006",
         "display_name": "Truchlivé dědictví (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:27:58.868532+00:00"
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:35:52.548560+00:00",
+        "lease_expires_at": "2026-09-19T21:35:52.548560+00:00",
+        "run_id": "35451641398"
       }
     },
     "21441": {
@@ -16117,6 +16166,18 @@
         "source_id": "33622625",
         "display_name": "Tři barvy: Bílá (1994) SD CZ Dabing",
         "planned_at": "2026-09-19T15:27:58.995697+00:00"
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:35:53.413867+00:00",
+        "lease_expires_at": "2026-09-19T21:35:53.413867+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29532149",
+      "prepared": {
+        "target_video_id": "29532149",
+        "size_bytes": 2099249005,
+        "prepared_at": "2026-09-19T15:35:57.258505+00:00"
       }
     },
     "21310": {
@@ -188647,5 +188708,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:35:48.287430+00:00"
+  "updated_at": "2026-09-19T15:35:57.258523+00:00"
 }
