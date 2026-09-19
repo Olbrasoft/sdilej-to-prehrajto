@@ -168989,6 +168989,12 @@
         "claimed_at": "2026-09-19T16:47:56.227594+00:00",
         "lease_expires_at": "2026-09-19T22:47:56.227594+00:00",
         "run_id": "35451641398"
+      },
+      "previous_target_id": "29534144",
+      "prepared": {
+        "target_video_id": "29534144",
+        "size_bytes": 2014421468,
+        "prepared_at": "2026-09-19T16:48:05.911510+00:00"
       }
     },
     "26610": {
@@ -169008,7 +169014,15 @@
       "attempts": []
     },
     "32984": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33746001",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:48:02.548602+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33746001",
         "display_name": "Správná hra (1983) 1080p CZ Dabing",
@@ -169038,11 +169052,25 @@
       "attempts": []
     },
     "20076": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30739674",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:48:03.272561+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30739674",
         "display_name": "Kšeft na jeden den (2012) SD CZ Dabing",
         "planned_at": "2026-09-19T16:47:39.643177+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:48:02.684233+00:00",
+        "lease_expires_at": "2026-09-19T22:48:02.684233+00:00",
+        "run_id": "35451641398"
       }
     },
     "7132": {
@@ -169058,11 +169086,25 @@
       "attempts": []
     },
     "6968": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "10472986",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:48:04.091177+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10472986",
         "display_name": "Godzilla: City on the Edge of Battle (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-19T16:47:39.772094+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:48:03.410634+00:00",
+        "lease_expires_at": "2026-09-19T22:48:03.410634+00:00",
+        "run_id": "35451641398"
       }
     },
     "7121": {
@@ -169083,11 +169125,25 @@
       }
     },
     "26776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33604215",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:48:05.003628+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33604215",
         "display_name": "Pejsci z vesmíru (2010) 1080p CZ Titulky",
         "planned_at": "2026-09-19T16:47:39.906404+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:48:04.216616+00:00",
+        "lease_expires_at": "2026-09-19T22:48:04.216616+00:00",
+        "run_id": "35451641398"
       }
     },
     "23826": {
@@ -169096,6 +169152,12 @@
         "source_id": "34704927",
         "display_name": "Dopisy od vraha (1998) SD CZ Dabing",
         "planned_at": "2026-09-19T16:47:40.023559+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:48:05.175592+00:00",
+        "lease_expires_at": "2026-09-19T22:48:05.175592+00:00",
+        "run_id": "35451641398"
       }
     },
     "9678": {
@@ -192727,5 +192789,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:47:56.720681+00:00"
+  "updated_at": "2026-09-19T16:48:05.911525+00:00"
 }
