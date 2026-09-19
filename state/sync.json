@@ -5600,6 +5600,12 @@
         "target_video_id": "29179195",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-07T06:07:40.264000+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-1",
+        "claimed_at": "2026-09-19T08:58:28.973057+00:00",
+        "lease_expires_at": "2026-09-19T14:58:28.973057+00:00",
+        "run_id": "35421412982"
       }
     },
     "20578": {
@@ -5675,6 +5681,12 @@
         "target_video_id": "29179228",
         "size_bytes": 5500000000,
         "prepared_at": "2026-09-07T06:09:08.221736+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T08:58:29.511542+00:00",
+        "lease_expires_at": "2026-09-19T14:58:29.511542+00:00",
+        "run_id": "35421412982"
       }
     },
     "21203": {
@@ -5756,6 +5768,12 @@
         "target_video_id": "29179268",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
+        "claimed_at": "2026-09-19T08:58:29.332448+00:00",
+        "lease_expires_at": "2026-09-19T14:58:29.332448+00:00",
+        "run_id": "35421412982"
       }
     },
     "20410": {
@@ -6054,6 +6072,12 @@
         "target_video_id": "29196549",
         "size_bytes": 42900000000,
         "prepared_at": "2026-09-07T20:17:35.671910+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T08:58:29.151774+00:00",
+        "lease_expires_at": "2026-09-19T14:58:29.151774+00:00",
+        "run_id": "35421412982"
       }
     },
     "32992": {
@@ -41446,13 +41470,6 @@
     "11518": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34933768",
-          "reason": "Request failed for https://sdilej.cz/34933768/dvojnici-1984-2x-2.0-cze-dabing-2.0-eng-2.0-ita-cze.forced.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T06:36:16.753149+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34933768",
           "reason": "PrehrajtoError",
@@ -41467,23 +41484,20 @@
           "permanent": false,
           "target_video_id": "29521928",
           "attempted_at": "2026-09-19T08:13:23.129774+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34933768",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29524485",
+          "attempted_at": "2026-09-19T08:58:32.488825+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933768",
         "display_name": "Dvojníci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-19T08:44:45.589207+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-2",
-        "claimed_at": "2026-09-19T08:48:33.459624+00:00",
-        "lease_expires_at": "2026-09-19T14:48:33.459624+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29524485",
-        "size_bytes": 2264705939,
-        "prepared_at": "2026-09-19T08:48:38.939730+00:00"
       }
     },
     "31638": {
@@ -175440,5 +175454,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T08:58:26.895546+00:00"
+  "updated_at": "2026-09-19T08:58:32.488841+00:00"
 }
