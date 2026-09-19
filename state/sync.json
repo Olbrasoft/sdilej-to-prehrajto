@@ -57711,14 +57711,6 @@
           "source_id": "28441201",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29518647",
-          "attempted_at": "2026-09-19T07:14:07.002466+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29522513",
           "attempted_at": "2026-09-19T08:21:23.784129+00:00"
         },
@@ -57728,13 +57720,27 @@
           "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T09:03:52.032005+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28441201",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:36:47.793452+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28441201",
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:35:55.299273+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:36:46.815984+00:00",
+        "lease_expires_at": "2026-09-19T15:36:46.815984+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29522513"
     },
     "19162": {
       "attempts": []
@@ -58663,6 +58669,12 @@
         "target_video_id": "29215766",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-08T14:42:01.222674+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:36:47.221237+00:00",
+        "lease_expires_at": "2026-09-19T15:36:47.221237+00:00",
+        "run_id": "35435106149"
       }
     },
     "20421": {
@@ -58730,13 +58742,6 @@
           "source_id": "21301450",
           "target_video_id": "29215846",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:07:51.311279+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21301450",
-          "target_video_id": "29215846",
-          "permanent": false,
           "attempted_at": "2026-09-19T07:55:09.172975+00:00"
         },
         {
@@ -58745,6 +58750,13 @@
           "target_video_id": "29215846",
           "permanent": false,
           "attempted_at": "2026-09-19T09:04:07.888651+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21301450",
+          "target_video_id": "29215846",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:36:48.390838+00:00"
         }
       ],
       "last_plan": {
@@ -58756,7 +58768,8 @@
         "target_video_id": "29215846",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-08T14:45:54.528167+00:00"
-      }
+      },
+      "previous_target_id": "29215846"
     },
     "37127": {
       "attempts": []
@@ -58864,6 +58877,12 @@
         "target_video_id": "29215910",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T14:48:37.859810+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:36:47.521717+00:00",
+        "lease_expires_at": "2026-09-19T15:36:47.521717+00:00",
+        "run_id": "35435106149"
       }
     },
     "31093": {
@@ -58982,6 +59001,12 @@
         "target_video_id": "29180133",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-07T07:11:46.147374+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:36:48.013338+00:00",
+        "lease_expires_at": "2026-09-19T15:36:48.013338+00:00",
+        "run_id": "35435106149"
       }
     },
     "23314": {
@@ -175919,5 +175944,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:36:44.840733+00:00"
+  "updated_at": "2026-09-19T09:36:48.390855+00:00"
 }
