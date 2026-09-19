@@ -75128,13 +75128,6 @@
     "3142": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29860661",
-          "reason": "Request failed for https://sdilej.cz/29860661/fair-play-2014-cz-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T07:30:28.416199+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "29860661",
           "reason": "PrehrajtoError",
@@ -75148,13 +75141,27 @@
           "source_id": "29860661",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:26:24.049074+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29860661",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:57:16.909014+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:51:43.938706+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-4",
+        "claimed_at": "2026-09-19T15:57:16.313736+00:00",
+        "lease_expires_at": "2026-09-19T21:57:16.313736+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29522917"
     },
     "21194": {
       "attempts": []
@@ -75459,12 +75466,25 @@
           "source_id": "35058003",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:26:24.866655+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35058003",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:57:17.935768+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35058003",
         "display_name": "Peníze těch druhých (1978) 720p CZ Dabing",
         "planned_at": "2026-09-19T15:51:44.047830+00:00"
+      },
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-4",
+        "claimed_at": "2026-09-19T15:57:17.026041+00:00",
+        "lease_expires_at": "2026-09-19T21:57:17.026041+00:00",
+        "run_id": "35451641398"
       }
     },
     "12124": {
@@ -75983,13 +76003,6 @@
           "source_id": "34872056",
           "target_video_id": "29141933",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:05:51.612556+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34872056",
-          "target_video_id": "29141933",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:38:31.430761+00:00"
         },
         {
@@ -75998,6 +76011,13 @@
           "target_video_id": "29141933",
           "permanent": false,
           "attempted_at": "2026-09-19T14:11:14.523560+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34872056",
+          "target_video_id": "29141933",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:57:19.690353+00:00"
         }
       ],
       "last_plan": {
@@ -189266,5 +189286,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:57:14.336794+00:00"
+  "updated_at": "2026-09-19T15:57:19.690370+00:00"
 }
