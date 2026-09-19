@@ -42739,14 +42739,6 @@
     "17069": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "12740244",
-          "target_video_id": "29510182",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:44:25.468764+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12740244",
           "target_video_id": "29512333",
@@ -42760,18 +42752,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-19T05:14:26.091928+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12740244",
+          "reason": "Request failed for https://sdilej.cz/12740244/orok-tel-2018-cz-titulky-novinka.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:57:30.631696+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12740244",
         "display_name": "Örök tél (2018) SD CZ Titulky",
         "planned_at": "2026-09-19T05:55:18.604799+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
-        "claimed_at": "2026-09-19T05:56:44.655510+00:00",
-        "lease_expires_at": "2026-09-19T11:56:44.655510+00:00",
-        "run_id": "35421412982"
       }
     },
     "25098": {
@@ -44096,6 +44089,12 @@
         "target_video_id": "29421356",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-16T07:41:49.498919+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T05:57:27.302414+00:00",
+        "lease_expires_at": "2026-09-19T11:57:27.302414+00:00",
+        "run_id": "35421412982"
       }
     },
     "21479": {
@@ -44163,6 +44162,12 @@
         "target_video_id": "29427702",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-16T12:04:55.705666+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T05:57:27.081592+00:00",
+        "lease_expires_at": "2026-09-19T11:57:27.081592+00:00",
+        "run_id": "35421412982"
       }
     },
     "15283": {
@@ -175021,5 +175026,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:57:24.886471+00:00"
+  "updated_at": "2026-09-19T05:57:30.631714+00:00"
 }
