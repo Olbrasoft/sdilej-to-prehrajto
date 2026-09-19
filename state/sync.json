@@ -112068,7 +112068,13 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-09T04:56:36.040063+00:00"
       },
-      "previous_target_id": "29233399"
+      "previous_target_id": "29233399",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T19:53:04.970821+00:00",
+        "lease_expires_at": "2026-09-20T01:53:04.970821+00:00",
+        "run_id": "35451641398"
+      }
     },
     "4006": {
       "attempts": []
@@ -112215,7 +112221,13 @@
         "size_bytes": 28100000000,
         "prepared_at": "2026-09-07T13:21:32.584976+00:00"
       },
-      "previous_target_id": "29185858"
+      "previous_target_id": "29185858",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T19:53:05.132240+00:00",
+        "lease_expires_at": "2026-09-20T01:53:05.132240+00:00",
+        "run_id": "35451641398"
+      }
     },
     "11817": {
       "attempts": [],
@@ -189619,17 +189631,19 @@
       "attempts": []
     },
     "25249": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34781998",
+          "target_video_id": "29537137",
+          "permanent": false,
+          "attempted_at": "2026-09-19T19:53:05.294382+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34781998",
         "display_name": "Miláček (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:15:06.742247+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
-        "claimed_at": "2026-09-19T19:36:32.099874+00:00",
-        "lease_expires_at": "2026-09-20T01:36:32.099874+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29537137",
       "prepared": {
@@ -208322,5 +208336,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:53:03.038495+00:00"
+  "updated_at": "2026-09-19T19:53:05.294405+00:00"
 }
