@@ -165566,11 +165566,25 @@
       "attempts": []
     },
     "11262": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32662489",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:53:15.752334+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32662489",
         "display_name": "Holky z pumpy (1979) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:49:43.179720+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
+        "claimed_at": "2026-09-19T13:53:14.878687+00:00",
+        "lease_expires_at": "2026-09-19T19:53:14.878687+00:00",
+        "run_id": "35435106149"
       }
     },
     "6439": {
@@ -165591,6 +165605,18 @@
         "source_id": "11361697",
         "display_name": "Slepý (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:49:43.405698+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
+        "claimed_at": "2026-09-19T13:53:16.036254+00:00",
+        "lease_expires_at": "2026-09-19T19:53:16.036254+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29530407",
+      "prepared": {
+        "target_video_id": "29530407",
+        "size_bytes": 2157177007,
+        "prepared_at": "2026-09-19T13:53:18.975566+00:00"
       }
     },
     "13872": {
@@ -191875,5 +191901,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:53:12.918792+00:00"
+  "updated_at": "2026-09-19T13:53:18.975583+00:00"
 }
