@@ -168159,11 +168159,25 @@
       }
     },
     "6137": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32422511",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T14:50:14.400639+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32422511",
         "display_name": "Až po uši v bublinkách (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-19T14:22:45.671869+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T14:50:13.686755+00:00",
+        "lease_expires_at": "2026-09-19T20:50:13.686755+00:00",
+        "run_id": "35435106149"
       }
     },
     "10569": {
@@ -168173,11 +168187,25 @@
       "attempts": []
     },
     "32975": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34716021",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T14:50:15.237370+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716021",
         "display_name": "Nikdy neříkej nikdy (1983) 1080p CZ Dabing",
         "planned_at": "2026-09-19T14:22:45.867395+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T14:50:14.598823+00:00",
+        "lease_expires_at": "2026-09-19T20:50:14.598823+00:00",
+        "run_id": "35435106149"
       }
     },
     "22336": {
@@ -168201,6 +168229,18 @@
         "source_id": "11872096",
         "display_name": "Nezvaný host (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-19T14:22:46.059616+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T14:50:15.435664+00:00",
+        "lease_expires_at": "2026-09-19T20:50:15.435664+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29531348",
+      "prepared": {
+        "target_video_id": "29531348",
+        "size_bytes": 2173906496,
+        "prepared_at": "2026-09-19T14:50:19.139087+00:00"
       }
     },
     "23904": {
@@ -193400,5 +193440,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T14:50:11.875594+00:00"
+  "updated_at": "2026-09-19T14:50:19.139102+00:00"
 }
