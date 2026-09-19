@@ -56764,6 +56764,12 @@
         "target_video_id": "29524677",
         "size_bytes": 4677714461,
         "prepared_at": "2026-09-19T09:00:13.555714+00:00"
+      },
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-1",
+        "claimed_at": "2026-09-19T15:51:08.177386+00:00",
+        "lease_expires_at": "2026-09-19T21:51:08.177386+00:00",
+        "run_id": "35451641398"
       }
     },
     "2571": {
@@ -58489,14 +58495,6 @@
     "11042": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "28441201",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29522513",
-          "attempted_at": "2026-09-19T08:21:23.784129+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "28441201",
           "reason": "Request failed for https://sdilej.cz/28441201/bazanti-1971.mkv (HTTP None)",
@@ -58509,6 +58507,13 @@
           "source_id": "28441201",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:36:47.793452+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28441201",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:51:07.908515+00:00"
         }
       ],
       "last_plan": {
@@ -59525,13 +59530,6 @@
           "source_id": "21301450",
           "target_video_id": "29215846",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:03:51.934729+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21301450",
-          "target_video_id": "29215846",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:36:12.931965+00:00"
         },
         {
@@ -59540,6 +59538,13 @@
           "target_video_id": "29215846",
           "permanent": false,
           "attempted_at": "2026-09-19T14:08:59.651355+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21301450",
+          "target_video_id": "29215846",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:51:08.296445+00:00"
         }
       ],
       "last_plan": {
@@ -59552,13 +59557,7 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-08T14:45:54.528167+00:00"
       },
-      "previous_target_id": "29215846",
-      "claim": {
-        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-5",
-        "claimed_at": "2026-09-19T15:51:05.863591+00:00",
-        "lease_expires_at": "2026-09-19T21:51:05.863591+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29215846"
     },
     "37127": {
       "attempts": []
@@ -59786,7 +59785,13 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-07T07:11:46.147374+00:00"
       },
-      "previous_target_id": "29180133"
+      "previous_target_id": "29180133",
+      "claim": {
+        "worker_id": "e5e8060eb45e4ab19a82fadb95f018a5-shard-3",
+        "claimed_at": "2026-09-19T15:51:08.060306+00:00",
+        "lease_expires_at": "2026-09-19T21:51:08.060306+00:00",
+        "run_id": "35451641398"
+      }
     },
     "23314": {
       "attempts": [],
@@ -189248,5 +189253,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:51:05.997050+00:00"
+  "updated_at": "2026-09-19T15:51:08.296461+00:00"
 }
