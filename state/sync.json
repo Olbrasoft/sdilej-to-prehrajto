@@ -157938,17 +157938,19 @@
       }
     },
     "5858": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24349496",
+          "reason": "Request failed for https://sdilej.cz/24349496/odpusteni-the-forgiven-2021-cz-dabing-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T12:19:15.144268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24349496",
         "display_name": "Odpuštění (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.024236+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
-        "claimed_at": "2026-09-19T12:18:29.464680+00:00",
-        "lease_expires_at": "2026-09-19T18:18:29.464680+00:00",
-        "run_id": "35435106149"
       }
     },
     "34321": {
@@ -157991,11 +157993,25 @@
       }
     },
     "12541": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32147917",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:19:14.161824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32147917",
         "display_name": "Vraždy podle Jidáše (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.247150+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:19:13.211938+00:00",
+        "lease_expires_at": "2026-09-19T18:19:13.211938+00:00",
+        "run_id": "35435106149"
       }
     },
     "5316": {
@@ -158004,6 +158020,12 @@
         "source_id": "31429214",
         "display_name": "Bláznivá dovolená v Evropě (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:09:02.484294+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:19:14.427719+00:00",
+        "lease_expires_at": "2026-09-19T18:19:14.427719+00:00",
+        "run_id": "35435106149"
       }
     },
     "5508": {
@@ -187211,5 +187233,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:19:07.942188+00:00"
+  "updated_at": "2026-09-19T12:19:15.144287+00:00"
 }
