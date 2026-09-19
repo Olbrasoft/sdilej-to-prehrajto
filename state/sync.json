@@ -11383,7 +11383,13 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-13T02:16:01.590016+00:00"
       },
-      "previous_target_id": "29336028"
+      "previous_target_id": "29336028",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:21:30.918394+00:00",
+        "lease_expires_at": "2026-09-20T05:21:30.918394+00:00",
+        "run_id": "35467299794"
+      }
     },
     "533": {
       "attempts": [
@@ -11626,7 +11632,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-06T06:38:52.929424+00:00"
       },
-      "previous_target_id": "29153883"
+      "previous_target_id": "29153883",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:21:31.099133+00:00",
+        "lease_expires_at": "2026-09-20T05:21:31.099133+00:00",
+        "run_id": "35467299794"
+      }
     },
     "614": {
       "attempts": [
@@ -205647,17 +205659,19 @@
       "attempts": []
     },
     "8504": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25673608",
+          "target_video_id": "29540766",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:21:31.352397+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25673608",
         "display_name": "Lockdown (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:08:47.768861+00:00"
-      },
-      "claim": {
-        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
-        "claimed_at": "2026-09-19T23:09:13.578200+00:00",
-        "lease_expires_at": "2026-09-20T05:09:13.578200+00:00",
-        "run_id": "35467299794"
       },
       "previous_target_id": "29540766",
       "prepared": {
@@ -214872,5 +214886,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:21:29.011031+00:00"
+  "updated_at": "2026-09-19T23:21:31.352413+00:00"
 }
