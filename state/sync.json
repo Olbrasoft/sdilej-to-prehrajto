@@ -1389,13 +1389,6 @@
           "source_id": "30836489",
           "target_video_id": "28927212",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:02:45.116764+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30836489",
-          "target_video_id": "28927212",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:34:10.967504+00:00"
         },
         {
@@ -1404,6 +1397,13 @@
           "target_video_id": "28927212",
           "permanent": false,
           "attempted_at": "2026-09-19T14:05:01.908459+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30836489",
+          "target_video_id": "28927212",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:26:30.324692+00:00"
         }
       ],
       "last_plan": {
@@ -1416,13 +1416,7 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-09-06T04:39:14.354732+00:00"
       },
-      "previous_target_id": "28927212",
-      "claim": {
-        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-2",
-        "claimed_at": "2026-09-19T15:26:22.381084+00:00",
-        "lease_expires_at": "2026-09-19T21:26:22.381084+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "28927212"
     },
     "99": {
       "attempts": []
@@ -2185,7 +2179,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-06T03:39:26.984473+00:00"
       },
-      "previous_target_id": "29115742"
+      "previous_target_id": "29115742",
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-0",
+        "claimed_at": "2026-09-19T15:26:30.202065+00:00",
+        "lease_expires_at": "2026-09-19T21:26:30.202065+00:00",
+        "run_id": "35451641398"
+      }
     },
     "10684": {
       "attempts": [
@@ -188528,5 +188528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:26:28.494908+00:00"
+  "updated_at": "2026-09-19T15:26:30.324724+00:00"
 }
