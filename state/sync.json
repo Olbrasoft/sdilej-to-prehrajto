@@ -9409,14 +9409,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "26245114",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29502786",
-          "attempted_at": "2026-09-18T21:34:11.896341+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26245114",
           "target_video_id": "29503577",
@@ -9430,23 +9422,20 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-18T23:26:10.002604+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29506042",
+          "attempted_at": "2026-09-19T00:25:22.007767+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T00:10:09.819485+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-0",
-        "claimed_at": "2026-09-19T00:11:34.584888+00:00",
-        "lease_expires_at": "2026-09-19T06:11:34.584888+00:00",
-        "run_id": "35405560473"
-      },
-      "prepared": {
-        "target_video_id": "29506042",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-19T00:11:43.967000+00:00"
       }
     },
     "18349": {
@@ -29585,6 +29574,12 @@
         "target_video_id": "29388066",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T19:21:30.717664+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-4",
+        "claimed_at": "2026-09-19T00:25:21.367984+00:00",
+        "lease_expires_at": "2026-09-19T06:25:21.367984+00:00",
+        "run_id": "35405560473"
       }
     },
     "1730": {
@@ -174348,5 +174343,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T00:25:19.640009+00:00"
+  "updated_at": "2026-09-19T00:25:22.007781+00:00"
 }
