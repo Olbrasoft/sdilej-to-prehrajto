@@ -194890,11 +194890,25 @@
       }
     },
     "7159": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29826851",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T20:32:32.058724+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29826851",
         "display_name": "Planeta osamělých srdcí (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-19T20:31:17.361608+00:00"
+      },
+      "claim": {
+        "worker_id": "eddd813a65144347982a736d311855c4-shard-2",
+        "claimed_at": "2026-09-19T20:32:31.433300+00:00",
+        "lease_expires_at": "2026-09-20T02:32:31.433300+00:00",
+        "run_id": "35451641398"
       }
     },
     "23854": {
@@ -194967,6 +194981,18 @@
         "source_id": "33506115",
         "display_name": "Hitman 3: Likvidátor (1991) SD CZ Dabing",
         "planned_at": "2026-09-19T20:31:17.527857+00:00"
+      },
+      "claim": {
+        "worker_id": "eddd813a65144347982a736d311855c4-shard-2",
+        "claimed_at": "2026-09-19T20:32:32.347725+00:00",
+        "lease_expires_at": "2026-09-20T02:32:32.347725+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29537958",
+      "prepared": {
+        "target_video_id": "29537958",
+        "size_bytes": 653644158,
+        "prepared_at": "2026-09-19T20:32:36.236870+00:00"
       }
     },
     "19373": {
@@ -211993,5 +212019,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:32:29.569110+00:00"
+  "updated_at": "2026-09-19T20:32:36.236885+00:00"
 }
