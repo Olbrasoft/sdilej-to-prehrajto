@@ -190282,6 +190282,12 @@
         "claimed_at": "2026-09-19T21:48:04.596017+00:00",
         "lease_expires_at": "2026-09-20T03:48:04.596017+00:00",
         "run_id": "35467299794"
+      },
+      "previous_target_id": "29539384",
+      "prepared": {
+        "target_video_id": "29539384",
+        "size_bytes": 1581696663,
+        "prepared_at": "2026-09-19T21:48:09.701095+00:00"
       }
     },
     "23905": {
@@ -190295,7 +190301,15 @@
       }
     },
     "35302": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34511749",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:48:08.574307+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34511749",
         "display_name": "Sam Was Here (2016) SD CZ Titulky",
@@ -190336,11 +190350,25 @@
       "attempts": []
     },
     "25760": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31899512",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:48:09.567620+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31899512",
         "display_name": "Zavraždění Johna Lennona (2007) SD CZ Dabing",
         "planned_at": "2026-09-19T21:47:11.429933+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T21:48:08.845479+00:00",
+        "lease_expires_at": "2026-09-20T03:48:08.845479+00:00",
+        "run_id": "35467299794"
       }
     },
     "30593": {
@@ -190349,6 +190377,12 @@
         "source_id": "31103726",
         "display_name": "Spravedlnost (2017) 4K CZ Dabing",
         "planned_at": "2026-09-19T21:47:11.570571+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T21:48:08.705429+00:00",
+        "lease_expires_at": "2026-09-20T03:48:08.705429+00:00",
+        "run_id": "35467299794"
       }
     },
     "8511": {
@@ -205459,5 +205493,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:48:06.785345+00:00"
+  "updated_at": "2026-09-19T21:48:09.701109+00:00"
 }
