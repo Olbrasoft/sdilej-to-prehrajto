@@ -68120,13 +68120,6 @@
     "2963": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28922330",
-          "reason": "Request failed for https://sdilej.cz/28922330/lvi-kral-2019-2160p.-cze-sk-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T18:28:08.617440+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "28922330",
           "reason": "PrehrajtoError",
@@ -68141,23 +68134,20 @@
           "permanent": false,
           "target_video_id": "29503426",
           "attempted_at": "2026-09-18T22:38:31.677418+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "28922330",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29507388",
+          "attempted_at": "2026-09-19T02:07:41.377995+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
         "planned_at": "2026-09-19T00:49:13.645546+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-1",
-        "claimed_at": "2026-09-19T01:02:36.809105+00:00",
-        "lease_expires_at": "2026-09-19T07:02:36.809105+00:00",
-        "run_id": "35405560473"
-      },
-      "prepared": {
-        "target_video_id": "29507388",
-        "size_bytes": 12562833513,
-        "prepared_at": "2026-09-19T01:02:40.134678+00:00"
       }
     },
     "2788": {
@@ -174572,5 +174562,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T02:06:29.281363+00:00"
+  "updated_at": "2026-09-19T02:07:41.378010+00:00"
 }
