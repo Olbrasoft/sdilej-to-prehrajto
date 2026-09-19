@@ -8206,6 +8206,12 @@
         "target_video_id": "29210906",
         "size_bytes": 25900000000,
         "prepared_at": "2026-09-08T10:02:40.091490+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
+        "claimed_at": "2026-09-19T09:14:36.505593+00:00",
+        "lease_expires_at": "2026-09-19T15:14:36.505593+00:00",
+        "run_id": "35421412982"
       }
     },
     "452": {
@@ -8371,6 +8377,12 @@
         "target_video_id": "29211713",
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-08T10:42:49.731783+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-2",
+        "claimed_at": "2026-09-19T09:14:36.690234+00:00",
+        "lease_expires_at": "2026-09-19T15:14:36.690234+00:00",
+        "run_id": "35421412982"
       }
     },
     "492": {
@@ -59392,13 +59404,6 @@
     "2075": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31639655",
-          "reason": "Request failed for https://sdilej.cz/31639655/teorie-tygra-2016-cz-fhd-h265-deadinside.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T06:17:01.420471+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31639655",
           "reason": "PrehrajtoError",
@@ -59412,23 +59417,20 @@
           "reason": "Request failed for https://sdilej.cz/31639655/teorie-tygra-2016-cz-fhd-h265-deadinside.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T08:14:11.269350+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31639655",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29524751",
+          "attempted_at": "2026-09-19T09:14:39.839698+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31639655",
         "display_name": "Teorie tygra (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:04:37.508310+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
-        "claimed_at": "2026-09-19T09:05:14.796527+00:00",
-        "lease_expires_at": "2026-09-19T15:05:14.796527+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29524751",
-        "size_bytes": 2100917827,
-        "prepared_at": "2026-09-19T09:05:19.344836+00:00"
       }
     },
     "32398": {
@@ -175460,5 +175462,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:14:34.364016+00:00"
+  "updated_at": "2026-09-19T09:14:39.839715+00:00"
 }
