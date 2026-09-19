@@ -139546,22 +139546,10 @@
           "attempted_at": "2026-09-19T10:33:09.709848+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34786970",
-        "display_name": "Vlci (1981) SD CZ Dabing",
-        "planned_at": "2026-09-19T11:14:53.299776+00:00"
-      },
       "previous_target_id": "29526308",
-      "prepared": {
+      "upload": {
         "target_video_id": "29526308",
-        "size_bytes": 1278924924,
-        "prepared_at": "2026-09-19T10:29:35.912782+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
-        "claimed_at": "2026-09-19T11:16:17.154242+00:00",
-        "lease_expires_at": "2026-09-19T17:16:17.154242+00:00",
-        "run_id": "35435106149"
+        "uploaded_at": "2026-09-19T11:16:24.543068+00:00"
       }
     },
     "30970": {
@@ -141466,7 +141454,15 @@
       "previous_target_id": "29289497"
     },
     "28969": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26803391",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:16:23.720259+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26803391",
         "display_name": "Pan Dokonalý (2015) 1080p CZ Dabing",
@@ -141520,7 +141516,15 @@
       "attempts": []
     },
     "5840": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25906237",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:16:23.916232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25906237",
         "display_name": "Srdce vítězů (2021) 1080p CZ Dabing",
@@ -141578,6 +141582,12 @@
         "source_id": "29871143",
         "display_name": "Confucius (2010) SD CZ Titulky",
         "planned_at": "2026-09-19T11:14:54.228684+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:16:24.140409+00:00",
+        "lease_expires_at": "2026-09-19T17:16:24.140409+00:00",
+        "run_id": "35435106149"
       }
     },
     "5053": {
@@ -141627,6 +141637,12 @@
         "source_id": "34523486",
         "display_name": "Cesta za Vánoční hvězdou (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:14:54.419728+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:16:24.341876+00:00",
+        "lease_expires_at": "2026-09-19T17:16:24.341876+00:00",
+        "run_id": "35435106149"
       }
     },
     "20717": {
@@ -179783,5 +179799,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:16:21.980694+00:00"
+  "updated_at": "2026-09-19T11:16:24.543090+00:00"
 }
