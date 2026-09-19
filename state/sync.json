@@ -134145,13 +134145,6 @@
           "source_id": "28380362",
           "target_video_id": "29284107",
           "permanent": false,
-          "attempted_at": "2026-09-19T20:29:15.775685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28380362",
-          "target_video_id": "29284107",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:11:18.225874+00:00"
         },
         {
@@ -134160,6 +134153,13 @@
           "target_video_id": "29284107",
           "permanent": false,
           "attempted_at": "2026-09-19T21:46:43.592463+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28380362",
+          "target_video_id": "29284107",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:24:28.563652+00:00"
         }
       ],
       "last_plan": {
@@ -134172,13 +134172,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-10T23:09:13.599356+00:00"
       },
-      "previous_target_id": "29284107",
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
-        "claimed_at": "2026-09-19T22:24:25.043102+00:00",
-        "lease_expires_at": "2026-09-20T04:24:25.043102+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29284107"
     },
     "31835": {
       "attempts": []
@@ -135643,13 +135637,6 @@
     "4456": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29398891",
-          "reason": "Request failed for https://sdilej.cz/29398891/imaginarni-pratele-if-2024-2160p-dd-5.1-atmos-hdr-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-12T01:40:08.218325+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "29398891",
@@ -135662,6 +135649,13 @@
           "source_id": "29398891",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:06:36.547069+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29398891",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:24:28.444888+00:00"
         }
       ],
       "last_plan": {
@@ -135749,7 +135743,13 @@
         "size_bytes": 4996236664,
         "prepared_at": "2026-09-12T01:40:15.500433+00:00"
       },
-      "previous_target_id": "29314127"
+      "previous_target_id": "29314127",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-5",
+        "claimed_at": "2026-09-19T22:24:28.323284+00:00",
+        "lease_expires_at": "2026-09-20T04:24:28.323284+00:00",
+        "run_id": "35467299794"
+      }
     },
     "32112": {
       "attempts": []
@@ -206677,5 +206677,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:24:26.264927+00:00"
+  "updated_at": "2026-09-19T22:24:28.563670+00:00"
 }
