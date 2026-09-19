@@ -93899,12 +93899,25 @@
           "source_id": "12215378",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:39:17.943801+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12215378",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:01:30.239426+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12215378",
         "display_name": "Básník ze školky (2018) SD CZ Dabing",
         "planned_at": "2026-09-19T16:00:05.870522+00:00"
+      },
+      "claim": {
+        "worker_id": "1bbaa35f5def49f4b5cf776fb4059d83-shard-1",
+        "claimed_at": "2026-09-19T16:01:29.521830+00:00",
+        "lease_expires_at": "2026-09-19T22:01:29.521830+00:00",
+        "run_id": "35451641398"
       }
     },
     "9102": {
@@ -94670,13 +94683,6 @@
           "source_id": "33254580",
           "target_video_id": "29262591",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:07:46.371506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33254580",
-          "target_video_id": "29262591",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:40:29.084061+00:00"
         },
         {
@@ -94685,6 +94691,13 @@
           "target_video_id": "29262591",
           "permanent": false,
           "attempted_at": "2026-09-19T14:15:56.841405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33254580",
+          "target_video_id": "29262591",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:01:31.661090+00:00"
         }
       ],
       "last_plan": {
@@ -189347,5 +189360,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:01:27.752837+00:00"
+  "updated_at": "2026-09-19T16:01:31.661107+00:00"
 }
