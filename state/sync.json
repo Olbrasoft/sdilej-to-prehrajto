@@ -192749,11 +192749,25 @@
       "attempts": []
     },
     "11517": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33881014",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T20:05:12.587843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33881014",
         "display_name": "Hundra (1983) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:57:47.891247+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T20:05:11.911646+00:00",
+        "lease_expires_at": "2026-09-20T02:05:11.911646+00:00",
+        "run_id": "35451641398"
       }
     },
     "9388": {
@@ -192771,6 +192785,18 @@
         "source_id": "34663777",
         "display_name": "Mina (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:57:48.042113+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T20:05:12.897491+00:00",
+        "lease_expires_at": "2026-09-20T02:05:12.897491+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29537584",
+      "prepared": {
+        "target_video_id": "29537584",
+        "size_bytes": 2337550336,
+        "prepared_at": "2026-09-19T20:05:17.098334+00:00"
       }
     },
     "28023": {
@@ -210584,5 +210610,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:05:09.956737+00:00"
+  "updated_at": "2026-09-19T20:05:17.098352+00:00"
 }
