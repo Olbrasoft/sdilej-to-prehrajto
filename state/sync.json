@@ -69274,14 +69274,6 @@
     "2814": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34455392",
-          "target_video_id": "29504098",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:28:11.655138+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34455392",
           "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
@@ -69294,18 +69286,19 @@
           "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T05:43:45.853137+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34455392",
+          "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T06:21:38.588187+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:18:51.582380+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
-        "claimed_at": "2026-09-19T06:20:52.747239+00:00",
-        "lease_expires_at": "2026-09-19T12:20:52.747239+00:00",
-        "run_id": "35421412982"
       }
     },
     "11240": {
@@ -75671,6 +75664,12 @@
         "target_video_id": "29140504",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-05T23:21:26.126337+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T06:21:37.257473+00:00",
+        "lease_expires_at": "2026-09-19T12:21:37.257473+00:00",
+        "run_id": "35421412982"
       }
     },
     "28397": {
@@ -175111,5 +175110,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:21:35.166434+00:00"
+  "updated_at": "2026-09-19T06:21:38.588206+00:00"
 }
