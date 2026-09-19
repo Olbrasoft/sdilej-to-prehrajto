@@ -42775,7 +42775,13 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-16T05:38:59.627898+00:00"
       },
-      "previous_target_id": "29418393"
+      "previous_target_id": "29418393",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:55:25.368304+00:00",
+        "lease_expires_at": "2026-09-20T05:55:25.368304+00:00",
+        "run_id": "35467299794"
+      }
     },
     "22922": {
       "attempts": [
@@ -42828,13 +42834,6 @@
           "source_id": "15241124",
           "target_video_id": "29418460",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:14:39.478600+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15241124",
-          "target_video_id": "29418460",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:53:11.493906+00:00"
         },
         {
@@ -42843,6 +42842,13 @@
           "target_video_id": "29418460",
           "permanent": false,
           "attempted_at": "2026-09-19T23:25:05.981921+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15241124",
+          "target_video_id": "29418460",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:55:26.960060+00:00"
         }
       ],
       "last_plan": {
@@ -150976,12 +150982,25 @@
           "source_id": "34711415",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:54:54.796811+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34711415",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:55:26.282612+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34711415",
         "display_name": "Mrkáček Bill (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:55:08.797482+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:55:25.506918+00:00",
+        "lease_expires_at": "2026-09-20T05:55:25.506918+00:00",
+        "run_id": "35467299794"
       }
     },
     "24988": {
@@ -151071,12 +151090,25 @@
           "source_id": "32225511",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:54:55.025277+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32225511",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:55:26.105458+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32225511",
         "display_name": "Nepostradatelný pomocník (2005) SD CZ Dabing",
         "planned_at": "2026-09-19T23:55:08.931680+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:55:25.228199+00:00",
+        "lease_expires_at": "2026-09-20T05:55:25.228199+00:00",
+        "run_id": "35467299794"
       }
     },
     "24365": {
@@ -151133,12 +151165,25 @@
           "source_id": "13074388",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:54:58.241784+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13074388",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:55:26.741230+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13074388",
         "display_name": "Nevystupuj! (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:55:09.061007+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:55:25.646448+00:00",
+        "lease_expires_at": "2026-09-20T05:55:25.646448+00:00",
+        "run_id": "35467299794"
       }
     },
     "18440": {
@@ -151214,6 +151259,12 @@
         "source_id": "32235755",
         "display_name": "Odnikud někam (2010) SD CZ Dabing",
         "planned_at": "2026-09-19T23:55:09.200023+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:55:26.611479+00:00",
+        "lease_expires_at": "2026-09-20T05:55:26.611479+00:00",
+        "run_id": "35467299794"
       }
     },
     "31753": {
@@ -151240,6 +151291,12 @@
         "source_id": "34709417",
         "display_name": "Poznáš muže svých snů (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:55:09.331017+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:55:26.436831+00:00",
+        "lease_expires_at": "2026-09-20T05:55:26.436831+00:00",
+        "run_id": "35467299794"
       }
     },
     "23954": {
@@ -218014,5 +218071,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:55:23.305151+00:00"
+  "updated_at": "2026-09-19T23:55:26.960078+00:00"
 }
