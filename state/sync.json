@@ -6248,13 +6248,6 @@
           "source_id": "27112677",
           "target_video_id": "29195641",
           "permanent": false,
-          "attempted_at": "2026-09-19T18:50:35.958730+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27112677",
-          "target_video_id": "29195641",
-          "permanent": false,
           "attempted_at": "2026-09-19T19:39:09.864866+00:00"
         },
         {
@@ -6263,6 +6256,13 @@
           "target_video_id": "29195641",
           "permanent": false,
           "attempted_at": "2026-09-19T20:12:50.780487+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27112677",
+          "target_video_id": "29195641",
+          "permanent": false,
+          "attempted_at": "2026-09-19T20:54:10.575944+00:00"
         }
       ],
       "last_plan": {
@@ -6275,13 +6275,7 @@
         "size_bytes": 22900000000,
         "prepared_at": "2026-09-07T19:18:09.679179+00:00"
       },
-      "previous_target_id": "29195641",
-      "claim": {
-        "worker_id": "2816102cc3054800a811c04df9ec9817-shard-0",
-        "claimed_at": "2026-09-19T20:54:06.544310+00:00",
-        "lease_expires_at": "2026-09-20T02:54:06.544310+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29195641"
     },
     "13259": {
       "attempts": [
@@ -8455,7 +8449,13 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-09-08T10:50:07.610886+00:00"
       },
-      "previous_target_id": "29211798"
+      "previous_target_id": "29211798",
+      "claim": {
+        "worker_id": "2816102cc3054800a811c04df9ec9817-shard-3",
+        "claimed_at": "2026-09-19T20:54:10.384845+00:00",
+        "lease_expires_at": "2026-09-20T02:54:10.384845+00:00",
+        "run_id": "35451641398"
+      }
     },
     "11516": {
       "attempts": [],
@@ -212403,5 +212403,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:54:08.545802+00:00"
+  "updated_at": "2026-09-19T20:54:10.575972+00:00"
 }
