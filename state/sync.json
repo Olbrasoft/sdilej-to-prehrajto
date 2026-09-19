@@ -79546,7 +79546,13 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
       },
-      "previous_target_id": "29136456"
+      "previous_target_id": "29136456",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:39:31.587465+00:00",
+        "lease_expires_at": "2026-09-19T19:39:31.587465+00:00",
+        "run_id": "35435106149"
+      }
     },
     "24046": {
       "attempts": [],
@@ -79725,13 +79731,6 @@
           "source_id": "34530570",
           "target_video_id": "29409057",
           "permanent": false,
-          "attempted_at": "2026-09-19T11:48:54.231816+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34530570",
-          "target_video_id": "29409057",
-          "permanent": false,
           "attempted_at": "2026-09-19T12:29:43.730936+00:00"
         },
         {
@@ -79740,6 +79739,13 @@
           "target_video_id": "29409057",
           "permanent": false,
           "attempted_at": "2026-09-19T13:06:56.398567+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34530570",
+          "target_video_id": "29409057",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:39:32.826121+00:00"
         }
       ],
       "last_plan": {
@@ -80338,7 +80344,13 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-19T06:00:19.715047+00:00"
       },
-      "previous_target_id": "29514662"
+      "previous_target_id": "29514662",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-0",
+        "claimed_at": "2026-09-19T13:39:31.779005+00:00",
+        "lease_expires_at": "2026-09-19T19:39:31.779005+00:00",
+        "run_id": "35435106149"
+      }
     },
     "13033": {
       "attempts": []
@@ -190789,5 +190801,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:39:29.562968+00:00"
+  "updated_at": "2026-09-19T13:39:32.826138+00:00"
 }
