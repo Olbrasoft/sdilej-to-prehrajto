@@ -15569,14 +15569,6 @@
     "12314": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "34938437",
-          "target_video_id": "29512191",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-19T05:10:38.233942+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34938437",
           "reason": "PrehrajtoError",
@@ -15591,23 +15583,20 @@
           "permanent": false,
           "target_video_id": "29516766",
           "attempted_at": "2026-09-19T06:44:57.075019+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34938437",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29519195",
+          "attempted_at": "2026-09-19T07:24:32.745438+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34938437",
         "display_name": "Kolja (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-19T07:15:07.754557+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-1",
-        "claimed_at": "2026-09-19T07:15:19.759003+00:00",
-        "lease_expires_at": "2026-09-19T13:15:19.759003+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29519195",
-        "size_bytes": 2468947520,
-        "prepared_at": "2026-09-19T07:15:28.683529+00:00"
       }
     },
     "22088": {
@@ -55710,6 +55699,12 @@
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-19T07:22:01.461302+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T07:23:50.085990+00:00",
+        "lease_expires_at": "2026-09-19T13:23:50.085990+00:00",
+        "run_id": "35421412982"
       }
     },
     "18861": {
@@ -175468,5 +175463,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T07:23:47.871855+00:00"
+  "updated_at": "2026-09-19T07:24:32.745454+00:00"
 }
