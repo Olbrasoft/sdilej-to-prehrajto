@@ -145723,13 +145723,6 @@
           "source_id": "19946905",
           "target_video_id": "29272265",
           "permanent": false,
-          "attempted_at": "2026-09-11T12:37:56.876547+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19946905",
-          "target_video_id": "29272265",
-          "permanent": false,
           "attempted_at": "2026-09-11T14:02:13.252153+00:00"
         },
         {
@@ -145738,6 +145731,13 @@
           "target_video_id": "29272265",
           "permanent": false,
           "attempted_at": "2026-09-19T11:25:09.683145+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19946905",
+          "target_video_id": "29272265",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:55:43.117148+00:00"
         }
       ],
       "last_plan": {
@@ -149760,6 +149760,12 @@
         "source_id": "34771949",
         "display_name": "Sergeant (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-19T11:55:19.081688+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:55:42.105547+00:00",
+        "lease_expires_at": "2026-09-19T17:55:42.105547+00:00",
+        "run_id": "35435106149"
       }
     },
     "5040": {
@@ -149776,11 +149782,25 @@
       "attempts": []
     },
     "15775": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24797990",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:55:42.559747+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24797990",
         "display_name": "Ďáblův houslista (2013) SD CZ Dabing",
         "planned_at": "2026-09-19T11:55:19.318801+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:55:41.888307+00:00",
+        "lease_expires_at": "2026-09-19T17:55:41.888307+00:00",
+        "run_id": "35435106149"
       }
     },
     "14282": {
@@ -149798,6 +149818,12 @@
         "source_id": "32962432",
         "display_name": "Labyrint: Zkoušky ohněm (2015) 4K CZ Dabing",
         "planned_at": "2026-09-19T11:55:19.536624+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:55:42.783290+00:00",
+        "lease_expires_at": "2026-09-19T17:55:42.783290+00:00",
+        "run_id": "35435106149"
       }
     },
     "34105": {
@@ -183849,5 +183875,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:55:39.924244+00:00"
+  "updated_at": "2026-09-19T11:55:43.117166+00:00"
 }
