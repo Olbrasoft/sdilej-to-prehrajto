@@ -87716,6 +87716,12 @@
         "target_video_id": "29176023",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-07T01:53:47.781384+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:38:44.287123+00:00",
+        "lease_expires_at": "2026-09-19T15:38:44.287123+00:00",
+        "run_id": "35435106149"
       }
     },
     "31169": {
@@ -87910,13 +87916,6 @@
           "source_id": "30104045",
           "target_video_id": "29269961",
           "permanent": false,
-          "attempted_at": "2026-09-18T14:59:13.432964+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30104045",
-          "target_video_id": "29269961",
-          "permanent": false,
           "attempted_at": "2026-09-18T17:49:42.427963+00:00"
         },
         {
@@ -87925,6 +87924,13 @@
           "target_video_id": "29269961",
           "permanent": false,
           "attempted_at": "2026-09-18T19:21:02.064175+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30104045",
+          "target_video_id": "29269961",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:38:45.811683+00:00"
         }
       ],
       "last_plan": {
@@ -87936,7 +87942,8 @@
         "target_video_id": "29269961",
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-10T10:11:49.891757+00:00"
-      }
+      },
+      "previous_target_id": "29269961"
     },
     "16220": {
       "attempts": []
@@ -88022,6 +88029,12 @@
         "target_video_id": "29179714",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-07T06:38:05.111923+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:38:44.085769+00:00",
+        "lease_expires_at": "2026-09-19T15:38:44.085769+00:00",
+        "run_id": "35435106149"
       }
     },
     "35306": {
@@ -88333,14 +88346,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "31626940",
-          "target_video_id": "29488250",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T14:59:22.751561+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31626940",
           "reason": "PrehrajtoError",
@@ -88354,13 +88359,27 @@
           "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T19:21:53.896399+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31626940",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:38:45.541581+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31626940",
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:37:37.844098+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:38:44.509330+00:00",
+        "lease_expires_at": "2026-09-19T15:38:44.509330+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29493208"
     },
     "33003": {
       "attempts": []
@@ -175994,5 +176013,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:41.935542+00:00"
+  "updated_at": "2026-09-19T09:38:45.811705+00:00"
 }
