@@ -134152,21 +134152,9 @@
           "attempted_at": "2026-09-12T01:44:30.205401+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34910292",
-        "display_name": "Cesta za snem (2026) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:46:05.635950+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29314112",
-        "size_bytes": 1941327457,
-        "prepared_at": "2026-09-12T01:38:36.623684+00:00"
-      },
-      "claim": {
-        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-1",
-        "claimed_at": "2026-09-19T09:47:27.934755+00:00",
-        "lease_expires_at": "2026-09-19T15:47:27.934755+00:00",
-        "run_id": "35435106149"
+        "uploaded_at": "2026-09-19T09:47:32.063302+00:00"
       }
     },
     "15546": {
@@ -134529,7 +134517,15 @@
       "attempts": []
     },
     "11877": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34651680",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:31.531001+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34651680",
         "display_name": "Darkman (1990) 4K CZ Dabing",
@@ -134568,7 +134564,15 @@
       "attempts": []
     },
     "17563": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28174035",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:31.887790+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28174035",
         "display_name": "Úžasná Elisa (2022) 720p CZ Dabing",
@@ -134587,6 +134591,12 @@
         "source_id": "34846415",
         "display_name": "Veselé stránky (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:46:07.227995+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-5",
+        "claimed_at": "2026-09-19T09:47:31.711026+00:00",
+        "lease_expires_at": "2026-09-19T15:47:31.711026+00:00",
+        "run_id": "35435106149"
       }
     },
     "17806": {
@@ -176439,5 +176449,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:47:29.435636+00:00"
+  "updated_at": "2026-09-19T09:47:32.063322+00:00"
 }
