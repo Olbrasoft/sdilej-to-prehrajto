@@ -6182,13 +6182,6 @@
           "source_id": "18595816",
           "target_video_id": "29203262",
           "permanent": false,
-          "attempted_at": "2026-09-19T18:50:30.863927+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18595816",
-          "target_video_id": "29203262",
-          "permanent": false,
           "attempted_at": "2026-09-19T19:39:06.814020+00:00"
         },
         {
@@ -6197,6 +6190,13 @@
           "target_video_id": "29203262",
           "permanent": false,
           "attempted_at": "2026-09-19T20:12:48.697903+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18595816",
+          "target_video_id": "29203262",
+          "permanent": false,
+          "attempted_at": "2026-09-19T20:53:58.186233+00:00"
         }
       ],
       "last_plan": {
@@ -6209,13 +6209,7 @@
         "size_bytes": 13100000000,
         "prepared_at": "2026-09-08T03:30:17.562857+00:00"
       },
-      "previous_target_id": "29203262",
-      "claim": {
-        "worker_id": "2816102cc3054800a811c04df9ec9817-shard-1",
-        "claimed_at": "2026-09-19T20:53:54.150250+00:00",
-        "lease_expires_at": "2026-09-20T02:53:54.150250+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29203262"
     },
     "388": {
       "attempts": [
@@ -6637,7 +6631,13 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-09-10T19:22:31.785289+00:00"
       },
-      "previous_target_id": "29280093"
+      "previous_target_id": "29280093",
+      "claim": {
+        "worker_id": "2816102cc3054800a811c04df9ec9817-shard-4",
+        "claimed_at": "2026-09-19T20:53:58.015201+00:00",
+        "lease_expires_at": "2026-09-20T02:53:58.015201+00:00",
+        "run_id": "35451641398"
+      }
     },
     "362": {
       "attempts": [
@@ -212397,5 +212397,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T20:53:56.234894+00:00"
+  "updated_at": "2026-09-19T20:53:58.186255+00:00"
 }
