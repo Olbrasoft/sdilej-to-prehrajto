@@ -20176,20 +20176,19 @@
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
       },
-      "previous_target_id": "29118434"
+      "previous_target_id": "29118434",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:52:46.482329+00:00",
+        "lease_expires_at": "2026-09-20T05:52:46.482329+00:00",
+        "run_id": "35467299794"
+      }
     },
     "1109": {
       "attempts": []
     },
     "1212": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "28138710",
-          "target_video_id": "29118460",
-          "permanent": false,
-          "attempted_at": "2026-09-19T22:12:15.727804+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "28138710",
@@ -20203,6 +20202,13 @@
           "target_video_id": "29118460",
           "permanent": false,
           "attempted_at": "2026-09-19T23:22:33.442341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28138710",
+          "target_video_id": "29118460",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:52:48.036040+00:00"
         }
       ],
       "last_plan": {
@@ -20789,7 +20795,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-10T02:31:57.475955+00:00"
       },
-      "previous_target_id": "29260125"
+      "previous_target_id": "29260125",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:52:46.618248+00:00",
+        "lease_expires_at": "2026-09-20T05:52:46.618248+00:00",
+        "run_id": "35467299794"
+      }
     },
     "35068": {
       "attempts": [
@@ -22734,14 +22746,20 @@
       "last_plan": {
         "source_id": "32970502",
         "display_name": "Nouzový východ (2008) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:21:02.962683+00:00"
+        "planned_at": "2026-09-19T23:52:46.849366+00:00"
       },
       "prepared": {
         "target_video_id": "29125882",
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-06T07:03:56.462007+00:00"
       },
-      "previous_target_id": "29125882"
+      "previous_target_id": "29125882",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:52:47.325960+00:00",
+        "lease_expires_at": "2026-09-20T05:52:47.325960+00:00",
+        "run_id": "35467299794"
+      }
     },
     "24202": {
       "attempts": []
@@ -23033,14 +23051,20 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Zrůda (2003) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:21:03.101830+00:00"
+        "planned_at": "2026-09-19T23:52:46.991957+00:00"
       },
       "prepared": {
         "target_video_id": "29125921",
         "size_bytes": 31200000000,
         "prepared_at": "2026-09-05T17:30:30.502734+00:00"
       },
-      "previous_target_id": "29125921"
+      "previous_target_id": "29125921",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:52:47.472715+00:00",
+        "lease_expires_at": "2026-09-20T05:52:47.472715+00:00",
+        "run_id": "35467299794"
+      }
     },
     "1395": {
       "attempts": [
@@ -23213,7 +23237,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrint (1986) 4K CZ Dabing",
-        "planned_at": "2026-09-19T23:21:03.235800+00:00"
+        "planned_at": "2026-09-19T23:52:47.131204+00:00"
       },
       "prepared": {
         "target_video_id": "29127917",
@@ -217598,5 +217622,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:52:44.228962+00:00"
+  "updated_at": "2026-09-19T23:52:48.036057+00:00"
 }
