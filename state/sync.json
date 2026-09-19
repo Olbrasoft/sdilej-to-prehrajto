@@ -189012,17 +189012,19 @@
       "attempts": []
     },
     "8079": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33876261",
+          "target_video_id": "29536748",
+          "permanent": false,
+          "attempted_at": "2026-09-19T19:22:23.502352+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33876261",
         "display_name": "Dealer (2012) SD CZ Dabing",
         "planned_at": "2026-09-19T19:15:02.533703+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
-        "claimed_at": "2026-09-19T19:16:26.958321+00:00",
-        "lease_expires_at": "2026-09-20T01:16:26.958321+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29536748",
       "prepared": {
@@ -189218,7 +189220,15 @@
       "attempts": []
     },
     "26395": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21092588",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:22:18.839898+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21092588",
         "display_name": "Báječný svět shopaholiků (2009) 1080p CZ Dabing",
@@ -189235,11 +189245,25 @@
       "attempts": []
     },
     "11510": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33869954",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:22:19.838519+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33869954",
         "display_name": "Conan ničitel (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:15:04.345079+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
+        "claimed_at": "2026-09-19T19:22:19.056639+00:00",
+        "lease_expires_at": "2026-09-20T01:22:19.056639+00:00",
+        "run_id": "35451641398"
       }
     },
     "10438": {
@@ -189248,6 +189272,12 @@
         "source_id": "33459981",
         "display_name": "Kameňák (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-19T19:15:04.608672+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
+        "claimed_at": "2026-09-19T19:22:19.984921+00:00",
+        "lease_expires_at": "2026-09-20T01:22:19.984921+00:00",
+        "run_id": "35451641398"
       }
     },
     "12260": {
@@ -207918,5 +207948,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:22:16.867571+00:00"
+  "updated_at": "2026-09-19T19:22:23.502371+00:00"
 }
