@@ -93775,13 +93775,6 @@
           "source_id": "33254580",
           "target_video_id": "29262591",
           "permanent": false,
-          "attempted_at": "2026-09-16T04:09:14.268103+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33254580",
-          "target_video_id": "29262591",
-          "permanent": false,
           "attempted_at": "2026-09-18T15:11:39.015385+00:00"
         },
         {
@@ -93790,6 +93783,13 @@
           "target_video_id": "29262591",
           "permanent": false,
           "attempted_at": "2026-09-18T17:54:36.077934+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33254580",
+          "target_video_id": "29262591",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:39:52.418594+00:00"
         }
       ],
       "last_plan": {
@@ -93802,12 +93802,7 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-10T04:36:20.952436+00:00"
       },
-      "claim": {
-        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
-        "claimed_at": "2026-09-19T09:39:49.235171+00:00",
-        "lease_expires_at": "2026-09-19T15:39:49.235171+00:00",
-        "run_id": "35435106149"
-      }
+      "previous_target_id": "29262591"
     },
     "31253": {
       "attempts": []
@@ -94481,14 +94476,6 @@
           "source_id": "28404933",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29412057",
-          "attempted_at": "2026-09-15T22:55:34.982600+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "28404933",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29412845",
           "attempted_at": "2026-09-15T23:59:58.066065+00:00"
         },
@@ -94499,6 +94486,14 @@
           "permanent": false,
           "target_video_id": "29413771",
           "attempted_at": "2026-09-16T01:15:34.337930+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "28404933",
+          "target_video_id": "29413771",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-19T09:39:52.210462+00:00"
         }
       ],
       "last_plan": {
@@ -94511,7 +94506,8 @@
         "claimed_at": "2026-09-19T09:39:49.448235+00:00",
         "lease_expires_at": "2026-09-19T15:39:49.448235+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29413771"
     },
     "23700": {
       "attempts": []
@@ -176068,5 +176064,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:39:50.151142+00:00"
+  "updated_at": "2026-09-19T09:39:52.418610+00:00"
 }
