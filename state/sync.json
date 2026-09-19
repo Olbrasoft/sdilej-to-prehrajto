@@ -137345,11 +137345,25 @@
       "attempts": []
     },
     "23007": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33767346",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T10:19:50.440956+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767346",
         "display_name": "Bouřlivé pondělí (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-19T10:17:45.216868+00:00"
+      },
+      "claim": {
+        "worker_id": "aaf4f661859045c3b9b7df424c336d24-shard-0",
+        "claimed_at": "2026-09-19T10:19:49.636650+00:00",
+        "lease_expires_at": "2026-09-19T16:19:49.636650+00:00",
+        "run_id": "35435106149"
       }
     },
     "27471": {
@@ -137364,6 +137378,18 @@
         "source_id": "34774570",
         "display_name": "Nevlastní dcera (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T10:17:45.396533+00:00"
+      },
+      "claim": {
+        "worker_id": "aaf4f661859045c3b9b7df424c336d24-shard-0",
+        "claimed_at": "2026-09-19T10:19:50.622407+00:00",
+        "lease_expires_at": "2026-09-19T16:19:50.622407+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29526154",
+      "prepared": {
+        "target_video_id": "29526154",
+        "size_bytes": 1878409382,
+        "prepared_at": "2026-09-19T10:19:54.198537+00:00"
       }
     },
     "25491": {
@@ -177674,5 +177700,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T10:19:47.557799+00:00"
+  "updated_at": "2026-09-19T10:19:54.198554+00:00"
 }
