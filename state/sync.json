@@ -145142,41 +145142,97 @@
       }
     },
     "22408": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34701658",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:24:25.271494+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34701658",
         "display_name": "Utečeme na jih (1978) SD CZ Dabing",
         "planned_at": "2026-09-19T11:17:25.935414+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:24:24.508869+00:00",
+        "lease_expires_at": "2026-09-19T17:24:24.508869+00:00",
+        "run_id": "35435106149"
       }
     },
     "19179": {
       "attempts": []
     },
     "5116": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25326268",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:24:26.302418+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25326268",
         "display_name": "Šerifovo auto (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:17:26.132650+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:24:25.538403+00:00",
+        "lease_expires_at": "2026-09-19T17:24:25.538403+00:00",
+        "run_id": "35435106149"
       }
     },
     "12132": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14229075",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:24:27.272642+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14229075",
         "display_name": "Zděšení (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:17:26.349029+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:24:26.540950+00:00",
+        "lease_expires_at": "2026-09-19T17:24:26.540950+00:00",
+        "run_id": "35435106149"
       }
     },
     "12021": {
       "attempts": []
     },
     "25129": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33794031",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:24:28.225989+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33794031",
         "display_name": "Shortbus (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:17:26.539971+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:24:27.519303+00:00",
+        "lease_expires_at": "2026-09-19T17:24:27.519303+00:00",
+        "run_id": "35435106149"
       }
     },
     "14591": {
@@ -145219,13 +145275,6 @@
           "source_id": "27058578",
           "target_video_id": "29278251",
           "permanent": false,
-          "attempted_at": "2026-09-11T10:56:44.932698+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27058578",
-          "target_video_id": "29278251",
-          "permanent": false,
           "attempted_at": "2026-09-11T12:37:50.641150+00:00"
         },
         {
@@ -145234,6 +145283,13 @@
           "target_video_id": "29278251",
           "permanent": false,
           "attempted_at": "2026-09-11T14:02:11.273332+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27058578",
+          "target_video_id": "29278251",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:24:30.043404+00:00"
         }
       ],
       "last_plan": {
@@ -145245,7 +145301,8 @@
         "target_video_id": "29278251",
         "size_bytes": 18200000000,
         "prepared_at": "2026-09-10T17:23:54.801302+00:00"
-      }
+      },
+      "previous_target_id": "29278251"
     },
     "13722": {
       "attempts": [],
@@ -181476,5 +181533,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:24:22.665236+00:00"
+  "updated_at": "2026-09-19T11:24:30.043421+00:00"
 }
