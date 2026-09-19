@@ -73825,13 +73825,6 @@
     "3142": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "29860661",
-          "target_video_id": "29504148",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:52:29.389899+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "29860661",
           "target_video_id": "29504148",
@@ -73846,18 +73839,19 @@
           "permanent": false,
           "target_video_id": "29514125",
           "attempted_at": "2026-09-19T06:10:36.038008+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29860661",
+          "reason": "Request failed for https://sdilej.cz/29860661/fair-play-2014-cz-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T07:30:28.416199+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T07:22:08.914668+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
-        "claimed_at": "2026-09-19T07:29:42.443772+00:00",
-        "lease_expires_at": "2026-09-19T13:29:42.443772+00:00",
-        "run_id": "35421412982"
       }
     },
     "21194": {
@@ -74608,6 +74602,12 @@
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-19T07:22:09.149090+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T07:29:50.425265+00:00",
+        "lease_expires_at": "2026-09-19T13:29:50.425265+00:00",
+        "run_id": "35421412982"
       }
     },
     "24337": {
@@ -175464,5 +175464,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T07:29:48.246651+00:00"
+  "updated_at": "2026-09-19T07:30:28.416219+00:00"
 }
