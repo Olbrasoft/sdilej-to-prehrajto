@@ -134161,6 +134161,12 @@
         "target_video_id": "29314112",
         "size_bytes": 1941327457,
         "prepared_at": "2026-09-12T01:38:36.623684+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-1",
+        "claimed_at": "2026-09-19T09:47:27.934755+00:00",
+        "lease_expires_at": "2026-09-19T15:47:27.934755+00:00",
+        "run_id": "35435106149"
       }
     },
     "15546": {
@@ -134283,12 +134289,25 @@
           "reason": "Request failed for https://sdilej.cz/29398891/imaginarni-pratele-if-2024-2160p-dd-5.1-atmos-hdr-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-12T01:40:08.218325+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29398891",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:28.333631+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29398891",
         "display_name": "Imaginární přátelé (2024) 4K CZ Dabing",
         "planned_at": "2026-09-19T09:46:05.989170+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-0",
+        "claimed_at": "2026-09-19T09:47:27.379175+00:00",
+        "lease_expires_at": "2026-09-19T15:47:27.379175+00:00",
+        "run_id": "35435106149"
       }
     },
     "4461": {
@@ -134338,6 +134357,13 @@
           "target_video_id": "29314127",
           "permanent": false,
           "attempted_at": "2026-09-12T01:49:35.660896+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32970470",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:27.556612+00:00"
         }
       ],
       "last_plan": {
@@ -134355,7 +134381,8 @@
         "claimed_at": "2026-09-19T09:47:23.042472+00:00",
         "lease_expires_at": "2026-09-19T15:47:23.042472+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29314127"
     },
     "32112": {
       "attempts": []
@@ -134392,15 +134419,9 @@
           "attempted_at": "2026-09-12T01:55:22.234448+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28934330",
-        "display_name": "Salamandr (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:46:06.342753+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29314145",
-        "size_bytes": 4466481204,
-        "prepared_at": "2026-09-12T01:42:41.806506+00:00"
+        "uploaded_at": "2026-09-19T09:47:29.435616+00:00"
       }
     },
     "4756": {
@@ -134440,12 +134461,25 @@
           "reason": "Request failed for https://sdilej.cz/23889029/zmrzla-zem-the.frozen.ground.2013.1080p.bluray.x264.ac3.5.1.cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-12T01:45:20.790280+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23889029",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:28.786481+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23889029",
         "display_name": "Zmrzlá zem (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:46:06.519326+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-5",
+        "claimed_at": "2026-09-19T09:47:27.733739+00:00",
+        "lease_expires_at": "2026-09-19T15:47:27.733739+00:00",
+        "run_id": "35435106149"
       }
     },
     "4527": {
@@ -134500,14 +134534,34 @@
         "source_id": "34651680",
         "display_name": "Darkman (1990) 4K CZ Dabing",
         "planned_at": "2026-09-19T09:46:06.696358+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-4",
+        "claimed_at": "2026-09-19T09:47:28.578943+00:00",
+        "lease_expires_at": "2026-09-19T15:47:28.578943+00:00",
+        "run_id": "35435106149"
       }
     },
     "14998": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34479988",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:29.214712+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34479988",
         "display_name": "Matčina pomsta (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:46:06.872701+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-3",
+        "claimed_at": "2026-09-19T09:47:28.157827+00:00",
+        "lease_expires_at": "2026-09-19T15:47:28.157827+00:00",
+        "run_id": "35435106149"
       }
     },
     "25445": {
@@ -134519,6 +134573,12 @@
         "source_id": "28174035",
         "display_name": "Úžasná Elisa (2022) 720p CZ Dabing",
         "planned_at": "2026-09-19T09:46:07.049885+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-0",
+        "claimed_at": "2026-09-19T09:47:29.011028+00:00",
+        "lease_expires_at": "2026-09-19T15:47:29.011028+00:00",
+        "run_id": "35435106149"
       }
     },
     "5392": {
@@ -176379,5 +176439,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:47:25.066502+00:00"
+  "updated_at": "2026-09-19T09:47:29.435636+00:00"
 }
