@@ -4210,6 +4210,12 @@
         "target_video_id": "29207536",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T06:29:33.618098+00:00",
+        "lease_expires_at": "2026-09-19T12:29:33.618098+00:00",
+        "run_id": "35421412982"
       }
     },
     "304": {
@@ -4450,6 +4456,12 @@
         "target_video_id": "29124911",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T06:29:33.841322+00:00",
+        "lease_expires_at": "2026-09-19T12:29:33.841322+00:00",
+        "run_id": "35421412982"
       }
     },
     "327": {
@@ -56448,14 +56460,6 @@
           "source_id": "6365016",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29510506",
-          "attempted_at": "2026-09-19T03:26:20.924449+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "6365016",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29511875",
           "attempted_at": "2026-09-19T04:27:07.160155+00:00"
         },
@@ -56466,23 +56470,20 @@
           "permanent": false,
           "target_video_id": "29513744",
           "attempted_at": "2026-09-19T05:45:25.225050+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "6365016",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29515860",
+          "attempted_at": "2026-09-19T06:29:37.047567+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6365016",
         "display_name": "Everybody Wants Some!! (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-19T06:18:48.763769+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
-        "claimed_at": "2026-09-19T06:19:28.064893+00:00",
-        "lease_expires_at": "2026-09-19T12:19:28.064893+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29515860",
-        "size_bytes": 3166881834,
-        "prepared_at": "2026-09-19T06:19:32.492666+00:00"
       }
     },
     "24796": {
@@ -175126,5 +175127,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:29:31.506010+00:00"
+  "updated_at": "2026-09-19T06:29:37.047584+00:00"
 }
