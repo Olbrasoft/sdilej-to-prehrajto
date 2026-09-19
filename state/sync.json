@@ -165194,11 +165194,25 @@
       }
     },
     "6429": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34755727",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:13:17.907785+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34755727",
         "display_name": "Příběhy Cheeche a Chonga (1980) 720p CZ Titulky",
         "planned_at": "2026-09-19T16:09:06.045335+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:13:17.326799+00:00",
+        "lease_expires_at": "2026-09-19T22:13:17.326799+00:00",
+        "run_id": "35451641398"
       }
     },
     "33958": {
@@ -165207,6 +165221,18 @@
         "source_id": "30565654",
         "display_name": "Rodin (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:09:06.194580+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:13:18.033036+00:00",
+        "lease_expires_at": "2026-09-19T22:13:18.033036+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29533054",
+      "prepared": {
+        "target_video_id": "29533054",
+        "size_bytes": 5383544557,
+        "prepared_at": "2026-09-19T16:13:23.154083+00:00"
       }
     },
     "34953": {
@@ -190152,5 +190178,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:13:05.362093+00:00"
+  "updated_at": "2026-09-19T16:13:23.154100+00:00"
 }
