@@ -15558,13 +15558,6 @@
     "12314": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34938437",
-          "target_video_id": "29512191",
-          "permanent": false,
-          "attempted_at": "2026-09-19T04:36:09.225290+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "34938437",
           "target_video_id": "29512191",
@@ -15579,23 +15572,20 @@
           "permanent": false,
           "target_video_id": "29514299",
           "attempted_at": "2026-09-19T06:02:36.016670+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34938437",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29516766",
+          "attempted_at": "2026-09-19T06:44:57.075019+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34938437",
         "display_name": "Kolja (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:34:38.388279+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
-        "claimed_at": "2026-09-19T06:34:55.613293+00:00",
-        "lease_expires_at": "2026-09-19T12:34:55.613293+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29516766",
-        "size_bytes": 2468947520,
-        "prepared_at": "2026-09-19T06:35:04.138653+00:00"
       }
     },
     "22088": {
@@ -175279,5 +175269,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:44:34.630673+00:00"
+  "updated_at": "2026-09-19T06:44:57.075036+00:00"
 }
