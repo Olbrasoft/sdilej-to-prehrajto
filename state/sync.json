@@ -1522,13 +1522,6 @@
           "source_id": "30793920",
           "target_video_id": "28928358",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:09:02.828557+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:48:04.483255+00:00"
         },
         {
@@ -1537,12 +1530,19 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-09-19T23:19:36.446900+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30793920",
+          "target_video_id": "28928358",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:49:48.562860+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30793920",
         "display_name": "Ponorka (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T23:19:15.370726+00:00"
+        "planned_at": "2026-09-19T23:49:46.622240+00:00"
       },
       "prepared": {
         "target_video_id": "28928358",
@@ -1608,14 +1608,20 @@
       "last_plan": {
         "source_id": "7430975",
         "display_name": "Dangal (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-19T23:19:15.506909+00:00"
+        "planned_at": "2026-09-19T23:49:46.775730+00:00"
       },
       "prepared": {
         "target_video_id": "29111363",
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
       },
-      "previous_target_id": "29111363"
+      "previous_target_id": "29111363",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:49:47.456118+00:00",
+        "lease_expires_at": "2026-09-20T05:49:47.456118+00:00",
+        "run_id": "35467299794"
+      }
     },
     "21587": {
       "attempts": [
@@ -2166,14 +2172,20 @@
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Pád Třetí říše (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T23:19:15.650936+00:00"
+        "planned_at": "2026-09-19T23:49:46.942462+00:00"
       },
       "prepared": {
         "target_video_id": "29115742",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-06T03:39:26.984473+00:00"
       },
-      "previous_target_id": "29115742"
+      "previous_target_id": "29115742",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:49:47.726565+00:00",
+        "lease_expires_at": "2026-09-20T05:49:47.726565+00:00",
+        "run_id": "35467299794"
+      }
     },
     "10684": {
       "attempts": [
@@ -2232,14 +2244,20 @@
       "last_plan": {
         "source_id": "34375126",
         "display_name": "Někdo to rád horké (1959) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T23:19:15.794851+00:00"
+        "planned_at": "2026-09-19T23:49:47.099396+00:00"
       },
       "prepared": {
         "target_video_id": "29206443",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T06:48:33.321229+00:00"
       },
-      "previous_target_id": "29206443"
+      "previous_target_id": "29206443",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:49:47.587542+00:00",
+        "lease_expires_at": "2026-09-20T05:49:47.587542+00:00",
+        "run_id": "35467299794"
+      }
     },
     "11126": {
       "attempts": [
@@ -217595,5 +217613,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:49:44.825244+00:00"
+  "updated_at": "2026-09-19T23:49:48.562882+00:00"
 }
