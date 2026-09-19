@@ -185932,22 +185932,10 @@
           "attempted_at": "2026-09-19T20:14:19.561958+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34849046",
-        "display_name": "Jeptišky (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T21:12:43.754468+00:00"
-      },
       "previous_target_id": "29537607",
-      "prepared": {
+      "upload": {
         "target_video_id": "29537607",
-        "size_bytes": 2877666153,
-        "prepared_at": "2026-09-19T20:06:44.552136+00:00"
-      },
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
-        "claimed_at": "2026-09-19T21:13:23.939760+00:00",
-        "lease_expires_at": "2026-09-20T03:13:23.939760+00:00",
-        "run_id": "35467299794"
+        "uploaded_at": "2026-09-19T21:13:36.199138+00:00"
       }
     },
     "24473": {
@@ -187516,7 +187504,15 @@
       "attempts": []
     },
     "31272": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34904089",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:13:35.877495+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34904089",
         "display_name": "The Aviary (2022) 1080p CZ Titulky",
@@ -187556,6 +187552,12 @@
         "source_id": "27014920",
         "display_name": "Seminář (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T21:12:44.870077+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T21:13:35.750012+00:00",
+        "lease_expires_at": "2026-09-20T03:13:35.750012+00:00",
+        "run_id": "35467299794"
       }
     },
     "28205": {
@@ -187564,6 +187566,12 @@
         "source_id": "34780137",
         "display_name": "Cannibal Diner (2012) SD CZ Titulky",
         "planned_at": "2026-09-19T21:12:45.064331+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-0",
+        "claimed_at": "2026-09-19T21:13:36.004976+00:00",
+        "lease_expires_at": "2026-09-20T03:13:36.004976+00:00",
+        "run_id": "35467299794"
       }
     },
     "14845": {
@@ -203833,5 +203841,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:13:33.793114+00:00"
+  "updated_at": "2026-09-19T21:13:36.199191+00:00"
 }
