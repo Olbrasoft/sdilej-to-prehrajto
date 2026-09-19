@@ -116735,13 +116735,6 @@
     "7753": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33811385",
-          "reason": "Request failed for https://sdilej.cz/33811385/tri-bratri-2014-pohadka-1080p.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-15T12:17:31.077533+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "33811385",
           "reason": "PrehrajtoError",
@@ -116755,6 +116748,13 @@
           "source_id": "33811385",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:44:34.832063+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33811385",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:05:14.756741+00:00"
         }
       ],
       "last_plan": {
@@ -116825,13 +116825,6 @@
           "source_id": "33701607",
           "target_video_id": "29241046",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:14:51.258798+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33701607",
-          "target_video_id": "29241046",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:47:13.001690+00:00"
         },
         {
@@ -116840,6 +116833,13 @@
           "target_video_id": "29241046",
           "permanent": false,
           "attempted_at": "2026-09-19T14:20:39.526327+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33701607",
+          "target_video_id": "29241046",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:05:15.058610+00:00"
         }
       ],
       "last_plan": {
@@ -116852,13 +116852,7 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-09T12:06:53.470778+00:00"
       },
-      "previous_target_id": "29241046",
-      "claim": {
-        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-2",
-        "claimed_at": "2026-09-19T16:05:08.147909+00:00",
-        "lease_expires_at": "2026-09-19T22:05:08.147909+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29241046"
     },
     "28303": {
       "attempts": []
@@ -120865,7 +120859,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-12T16:59:24.602470+00:00"
       },
-      "previous_target_id": "29327748"
+      "previous_target_id": "29327748",
+      "claim": {
+        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-0",
+        "claimed_at": "2026-09-19T16:05:14.457832+00:00",
+        "lease_expires_at": "2026-09-19T22:05:14.457832+00:00",
+        "run_id": "35451641398"
+      }
     },
     "12503": {
       "attempts": [],
@@ -121160,7 +121160,13 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-12T18:11:59.305701+00:00"
       },
-      "previous_target_id": "29328603"
+      "previous_target_id": "29328603",
+      "claim": {
+        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-3",
+        "claimed_at": "2026-09-19T16:05:14.932473+00:00",
+        "lease_expires_at": "2026-09-19T22:05:14.932473+00:00",
+        "run_id": "35451641398"
+      }
     },
     "11225": {
       "attempts": []
@@ -189419,5 +189425,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:05:12.572517+00:00"
+  "updated_at": "2026-09-19T16:05:15.058629+00:00"
 }
