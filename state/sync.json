@@ -74588,13 +74588,6 @@
     "23934": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34272442",
-          "reason": "Request failed for https://sdilej.cz/34272442/a.pozdravuji.vlastovky.1972.cz.2.0aac.x264.css.dvdrip-czert.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T20:45:54.554393+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34272442",
           "reason": "PrehrajtoError",
@@ -74609,23 +74602,20 @@
           "permanent": false,
           "target_video_id": "29511452",
           "attempted_at": "2026-09-19T04:00:58.941291+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34272442",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29512803",
+          "attempted_at": "2026-09-19T05:00:25.232160+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-19T04:45:18.317254+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-3",
-        "claimed_at": "2026-09-19T04:52:10.494522+00:00",
-        "lease_expires_at": "2026-09-19T10:52:10.494522+00:00",
-        "run_id": "35405560473"
-      },
-      "prepared": {
-        "target_video_id": "29512803",
-        "size_bytes": 1384078371,
-        "prepared_at": "2026-09-19T04:52:14.074800+00:00"
       }
     },
     "24337": {
@@ -76356,6 +76346,12 @@
         "source_id": "34405680",
         "display_name": "Dvacet tisíc mil pod mořem (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-19T04:45:20.134304+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-5",
+        "claimed_at": "2026-09-19T05:00:22.830657+00:00",
+        "lease_expires_at": "2026-09-19T11:00:22.830657+00:00",
+        "run_id": "35405560473"
       }
     },
     "33285": {
@@ -174979,5 +174975,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:00:14.445242+00:00"
+  "updated_at": "2026-09-19T05:00:25.232173+00:00"
 }
