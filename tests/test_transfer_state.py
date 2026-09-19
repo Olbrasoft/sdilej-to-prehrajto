@@ -45,6 +45,35 @@ class Response:
         pass
 
 
+@pytest.mark.parametrize("wanted,visible,query", [
+    ('„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing', '„Pane, vy jste vdova (1971) 1080p CZ Dabing.avi', 'vy jste vdova'),
+    ('A.I. Umělá inteligence (2001) 4K CZ Dabing', 'A.I Umělá inteligence (2001) 4K CZ Dabing.mkv', 'Umělá inteligence'),
+])
+def test_lookup_recognizes_target_sanitized_names(wanted, visible, query):
+    class Session:
+        def get(self, _url, **kwargs):
+            assert kwargs['params']['searchPhrase'] == query
+            return Response(text=f'<h3 id="snippet-uploadedVideoListing-videoName-777">{visible}</h3>')
+    assert uploaded_video_id_by_name(Session(), wanted) == '777'
+
+
+def test_lookup_checks_later_search_pages():
+    class Session:
+        def get(self, _url, **kwargs):
+            if kwargs['params'].get('uploadedVideoListing-visualPaginator-page') == '2':
+                return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-777">Film (2000) 4K.mkv</h3>')
+            return Response(text='<h3>Film (2001) 4K</h3><a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
+    assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K') == '777'
+
+
+def test_lookup_rejects_unrecognized_response():
+    class Session:
+        def get(self, *_args, **_kwargs):
+            return Response(text='<h1>Login</h1>')
+    with pytest.raises(PrehrajtoError, match='Unrecognized'):
+        uploaded_video_id_by_name(Session(), 'Film (2000) 4K')
+
+
 def test_remote_reader_reports_remaining_length() -> None:
     reader = RemoteReader(Response(b"abcdef"), 6)
     assert reader.len == 6

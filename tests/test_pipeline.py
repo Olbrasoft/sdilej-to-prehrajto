@@ -59,6 +59,34 @@ def test_target_reconciliation_does_not_require_available_source(tmp_path, monke
         assert state.snapshot(1)["prepared"]["target_video_id"] == "777"
 
 
+@pytest.mark.parametrize("existing,error,previous", [("777", False, False), (None, True, False), (None, False, True)])
+def test_duplicate_guard_never_relays_or_renames(tmp_path, monkeypatch, existing, error, previous):
+    from sdilej_to_prehrajto.prehrajto import PrehrajtoError
+    state = StateStore(tmp_path / 'state.json')
+    if previous:
+        state.record_attempt(1, {'status': 'upload_failed', 'target_video_id': '777'})
+    pipeline = SyncPipeline(source_provider=object(), source_session=object(), target_session=object(),
+        state=state, subtitle_queue=SubtitleQueue(tmp_path / 'subs.jsonl'),
+        selected_sources=SelectedSourceStore(tmp_path / 'sources.jsonl'))
+    pipeline._selected[1] = Candidate('10', 'https://sdilej.cz/10/x', 'Film', size_bytes=100)
+    def lookup(*_args):
+        if error:
+            raise PrehrajtoError('offline')
+        return existing
+    monkeypatch.setattr(pipeline, '_target_id_by_name', lookup)
+    monkeypatch.setattr(pipeline, '_target_confirmed', lambda *_: False)
+    def forbidden(*_args, **_kwargs):
+        pytest.fail('Must not upload or modify existing target')
+    monkeypatch.setattr('sdilej_to_prehrajto.pipeline.relay_upload', forbidden)
+    monkeypatch.setattr('sdilej_to_prehrajto.pipeline.rename_video', forbidden)
+    film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
+    pipeline._execute_shard([{'film': film.to_dict(), 'display_name': 'Film', 'needs_czech_subtitles': False}],
+        pipeline.source_session, pipeline.target_session, 'worker')
+    assert not state.uploaded(1)
+    if previous:
+        assert state.deferred(1)
+
+
 def test_prepare_replaces_candidate_from_old_selection_policy(tmp_path) -> None:
     selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
     selected_sources.record(

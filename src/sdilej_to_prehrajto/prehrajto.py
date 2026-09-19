@@ -201,7 +201,13 @@ def _visible_uploaded_name(element) -> str:
 
 def _normalized_uploaded_name(element) -> str:
     visible_name = PROCESSING_SUFFIX_RE.sub("", _visible_uploaded_name(element))
-    return re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name).casefold().strip()
+    return _name_identity(re.sub(r"\.[a-z0-9]{1,8}$", "", visible_name))
+
+
+def _name_identity(name: str) -> str:
+    # The target strips punctuation from uploaded filenames. Preserve every
+    # letter and digit (including year/quality), but ignore punctuation/spacing.
+    return "".join(char for char in name.casefold() if char.isalnum())
 
 
 def _uploaded_video_id_from_html(
@@ -212,7 +218,7 @@ def _uploaded_video_id_from_html(
     allow_filename_extension: bool = True,
 ) -> str | None:
     """Find an exact uploaded name and ID belonging to the same listing row."""
-    wanted = display_name.casefold().strip()
+    wanted = _name_identity(display_name) if allow_filename_extension else display_name.casefold().strip()
     soup = BeautifulSoup(html_text, "html.parser")
     named_elements = soup.find_all(["h1", "h2", "h3", "input"])
     for element in named_elements:
@@ -235,6 +241,9 @@ def _uploaded_video_id_from_html(
             _visible_uploaded_name(element)
         ):
             continue
+        heading_id = re.fullmatch(r"snippet-uploadedVideoListing-videoName-(\d+)", element.get("id", ""))
+        if heading_id:
+            return heading_id.group(1)
         node = element
         for _level in range(8):
             if node is None:
@@ -246,7 +255,7 @@ def _uploaded_video_id_from_html(
                 for item in node.find_all(["h1", "h2", "h3", "input"])
                 if item is not element and _normalized_uploaded_name(item)
             }
-            if other_names - {wanted}:
+            if other_names - {_name_identity(display_name)}:
                 break
             match = re.search(r"(?:videoId|video-id)[=/\"':-]+(\d+)", str(node), re.I)
             if match:
@@ -256,14 +265,38 @@ def _uploaded_video_id_from_html(
 
 
 def uploaded_video_id_by_name(session: requests.Session, display_name: str) -> str | None:
-    """Return an existing target ID only when its listing row has the exact name."""
-    response = session.get(
-        BASE_URL + "/profil/nahrana-videa",
-        params={"searchPhrase": display_name},
-        timeout=30,
-    )
-    response.raise_for_status()
-    return _uploaded_video_id_from_html(response.text, display_name)
+    """Search punctuation-tolerantly, then compare complete normalized names."""
+    title = re.split(r"\s*\(\d{4}\)", display_name, maxsplit=1)[0]
+    fragments = re.findall(r"[\w\s]+", title)
+    query = max((part.strip() for part in fragments), key=len, default="")
+    if not query:
+        raise PrehrajtoError("Cannot safely search for existing target")
+    page_key = "uploadedVideoListing-visualPaginator-page"
+    page = 1
+    for _ in range(100):
+        params = {"searchPhrase": query}
+        if page > 1:
+            params[page_key] = str(page)
+        response = session.get(BASE_URL + "/profil/nahrana-videa", params=params, timeout=30)
+        response.raise_for_status()
+        found = _uploaded_video_id_from_html(response.text, display_name)
+        if found:
+            return found
+        soup = BeautifulSoup(response.text, "html.parser")
+        following = []
+        for anchor in soup.select("a[href]"):
+            match = re.search(r"uploadedVideoListing-visualPaginator-page=(\d+)", anchor["href"])
+            if match and int(match.group(1)) > page:
+                following.append(int(match.group(1)))
+        if not following:
+            if not soup.select_one('[data-video-id], [id^="snippet-uploadedVideoListing-"]') and not any(
+                heading.get_text(" ", strip=True) == "Nahraná videa"
+                for heading in soup.find_all(["h1", "h2"])
+            ):
+                raise PrehrajtoError("Unrecognized uploaded listing; refusing duplicate risk")
+            return None
+        page = min(following)
+    raise PrehrajtoError("Target search pagination limit reached; refusing duplicate risk")
 
 
 def uploaded_video_count(session: requests.Session) -> int | None:
