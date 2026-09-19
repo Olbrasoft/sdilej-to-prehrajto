@@ -147974,6 +147974,12 @@
         "claimed_at": "2026-09-19T11:34:11.997747+00:00",
         "lease_expires_at": "2026-09-19T17:34:11.997747+00:00",
         "run_id": "35435106149"
+      },
+      "previous_target_id": "29527444",
+      "prepared": {
+        "target_video_id": "29527444",
+        "size_bytes": 1409297395,
+        "prepared_at": "2026-09-19T11:34:18.699153+00:00"
       }
     },
     "26938": {
@@ -148091,7 +148097,15 @@
       }
     },
     "4874": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30136913",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:34:17.549009+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30136913",
         "display_name": "Základ rodiny (2005) 1080p CZ Dabing",
@@ -148105,11 +148119,25 @@
       }
     },
     "5258": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26233937",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:34:17.824892+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26233937",
         "display_name": "Dřív než půjdu spát (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:45.140611+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T11:34:16.971960+00:00",
+        "lease_expires_at": "2026-09-19T17:34:16.971960+00:00",
+        "run_id": "35435106149"
       }
     },
     "7797": {
@@ -148121,14 +148149,34 @@
         "source_id": "12030497",
         "display_name": "Architekt (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:45.359528+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:34:17.161728+00:00",
+        "lease_expires_at": "2026-09-19T17:34:17.161728+00:00",
+        "run_id": "35435106149"
       }
     },
     "4881": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34356394",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:34:18.316548+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34356394",
         "display_name": "Nájemní vrazi (1995) 4K CZ Dabing",
         "planned_at": "2026-09-19T11:32:45.593571+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:34:17.356812+00:00",
+        "lease_expires_at": "2026-09-19T17:34:17.356812+00:00",
+        "run_id": "35435106149"
       }
     },
     "15369": {
@@ -148140,6 +148188,12 @@
         "source_id": "34711889",
         "display_name": "Jennifer, poslední drakobijec (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:45.827974+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:34:18.113784+00:00",
+        "lease_expires_at": "2026-09-19T17:34:18.113784+00:00",
+        "run_id": "35435106149"
       }
     },
     "22475": {
@@ -148157,6 +148211,12 @@
         "source_id": "33891535",
         "display_name": "Do dobrých rukou 2 (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:46.048433+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T11:34:18.509112+00:00",
+        "lease_expires_at": "2026-09-19T17:34:18.509112+00:00",
+        "run_id": "35435106149"
       }
     },
     "36925": {
@@ -182689,5 +182749,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:34:15.298972+00:00"
+  "updated_at": "2026-09-19T11:34:18.699164+00:00"
 }
