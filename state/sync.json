@@ -30194,13 +30194,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28711738",
-          "reason": "Request failed for https://sdilej.cz/28711738/profesor-a-silenec-the-professor-and-the-madman-2019-bluray-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:20:20.049034+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28711738",
           "target_video_id": "29511700",
@@ -30214,18 +30207,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-19T04:48:10.509376+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28711738",
+          "target_video_id": "29513917",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:46:09.978145+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T05:35:11.667500+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
-        "claimed_at": "2026-09-19T05:36:14.840467+00:00",
-        "lease_expires_at": "2026-09-19T11:36:14.840467+00:00",
-        "run_id": "35421412982"
       },
       "prepared": {
         "target_video_id": "29513917",
@@ -74647,6 +74641,12 @@
         "source_id": "34272442",
         "display_name": "...a pozdravuji vlaštovky (1972) SD CZ Dabing",
         "planned_at": "2026-09-19T05:35:16.791441+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T05:45:31.834587+00:00",
+        "lease_expires_at": "2026-09-19T11:45:31.834587+00:00",
+        "run_id": "35421412982"
       }
     },
     "24337": {
@@ -175071,5 +175071,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:45:29.643561+00:00"
+  "updated_at": "2026-09-19T05:46:09.978162+00:00"
 }
