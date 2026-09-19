@@ -149373,13 +149373,6 @@
           "source_id": "34850630",
           "target_video_id": "29272373",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:12:05.620561+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850630",
-          "target_video_id": "29272373",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:47:28.660816+00:00"
         },
         {
@@ -149388,6 +149381,13 @@
           "target_video_id": "29272373",
           "permanent": false,
           "attempted_at": "2026-09-19T22:26:20.706290+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850630",
+          "target_video_id": "29272373",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:06:06.573784+00:00"
         }
       ],
       "last_plan": {
@@ -149400,13 +149400,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-10T12:54:57.539054+00:00"
       },
-      "previous_target_id": "29272373",
-      "claim": {
-        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-5",
-        "claimed_at": "2026-09-19T23:06:03.025577+00:00",
-        "lease_expires_at": "2026-09-20T05:06:03.025577+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29272373"
     },
     "17079": {
       "attempts": [
@@ -173729,6 +173723,13 @@
           "source_id": "12795342",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:47:28.731198+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12795342",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:06:05.751319+00:00"
         }
       ],
       "last_plan": {
@@ -173770,6 +173771,13 @@
           "source_id": "32264017",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:47:28.408190+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32264017",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:06:05.621979+00:00"
         }
       ],
       "last_plan": {
@@ -173825,6 +173833,12 @@
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-09-19T23:05:25.608816+00:00"
+      },
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-3",
+        "claimed_at": "2026-09-19T23:06:06.362800+00:00",
+        "lease_expires_at": "2026-09-20T05:06:06.362800+00:00",
+        "run_id": "35467299794"
       }
     },
     "5944": {
@@ -173858,6 +173872,12 @@
         "source_id": "25432988",
         "display_name": "Zabijácká elita (1975) 720p CZ Dabing",
         "planned_at": "2026-09-19T23:05:25.738751+00:00"
+      },
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-1",
+        "claimed_at": "2026-09-19T23:06:06.125718+00:00",
+        "lease_expires_at": "2026-09-20T05:06:06.125718+00:00",
+        "run_id": "35467299794"
       }
     },
     "5754": {
@@ -173897,6 +173917,12 @@
         "source_id": "34206332",
         "display_name": "Sněhurka a lovec (2012) 4K CZ Dabing",
         "planned_at": "2026-09-19T23:05:25.868696+00:00"
+      },
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-0",
+        "claimed_at": "2026-09-19T23:06:05.358093+00:00",
+        "lease_expires_at": "2026-09-20T05:06:05.358093+00:00",
+        "run_id": "35467299794"
       }
     },
     "6292": {
@@ -173985,6 +174011,12 @@
         "source_id": "31842603",
         "display_name": "Mission: Impossible 2 (2000) 4K CZ Dabing",
         "planned_at": "2026-09-19T23:05:26.128741+00:00"
+      },
+      "claim": {
+        "worker_id": "d54915cb76e94502be22405c59704c9d-shard-4",
+        "claimed_at": "2026-09-19T23:06:05.941987+00:00",
+        "lease_expires_at": "2026-09-20T05:06:05.941987+00:00",
+        "run_id": "35467299794"
       }
     },
     "26677": {
@@ -211461,5 +211493,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:06:03.558939+00:00"
+  "updated_at": "2026-09-19T23:06:06.573813+00:00"
 }
