@@ -64419,14 +64419,6 @@
           "source_id": "27436084",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29510738",
-          "attempted_at": "2026-09-19T03:29:39.483926+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "27436084",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29511979",
           "attempted_at": "2026-09-19T04:27:14.648105+00:00"
         },
@@ -64437,18 +64429,19 @@
           "permanent": false,
           "target_video_id": "29513818",
           "attempted_at": "2026-09-19T05:42:36.797728+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27436084",
+          "reason": "Request failed for https://sdilej.cz/27436084/medved.1961.1080p.web.h264.cz-clmb.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T06:20:25.526713+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27436084",
         "display_name": "Medvěd (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:18:49.001909+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
-        "claimed_at": "2026-09-19T06:19:39.624106+00:00",
-        "lease_expires_at": "2026-09-19T12:19:39.624106+00:00",
-        "run_id": "35421412982"
       }
     },
     "32220": {
@@ -66192,6 +66185,12 @@
         "target_video_id": "29404188",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-15T12:53:50.459456+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T06:20:22.363287+00:00",
+        "lease_expires_at": "2026-09-19T12:20:22.363287+00:00",
+        "run_id": "35421412982"
       }
     },
     "24883": {
@@ -175111,5 +175110,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:20:20.249500+00:00"
+  "updated_at": "2026-09-19T06:20:25.526734+00:00"
 }
