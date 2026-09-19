@@ -64279,13 +64279,6 @@
           "source_id": "32999221",
           "target_video_id": "29214020",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:09:15.200133+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32999221",
-          "target_video_id": "29214020",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:14:51.766921+00:00"
         },
         {
@@ -64294,6 +64287,13 @@
           "target_video_id": "29214020",
           "permanent": false,
           "attempted_at": "2026-09-19T09:07:29.985852+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32999221",
+          "target_video_id": "29214020",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:38:05.206697+00:00"
         }
       ],
       "last_plan": {
@@ -64305,7 +64305,8 @@
         "target_video_id": "29214020",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-08T13:15:27.523178+00:00"
-      }
+      },
+      "previous_target_id": "29214020"
     },
     "26626": {
       "attempts": []
@@ -84222,6 +84223,12 @@
         "target_video_id": "29479320",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-18T10:00:36.138433+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:38:04.482723+00:00",
+        "lease_expires_at": "2026-09-19T15:38:04.482723+00:00",
+        "run_id": "35435106149"
       }
     },
     "28088": {
@@ -84448,6 +84455,12 @@
         "target_video_id": "29140505",
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-06T07:00:02.401149+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:38:04.281294+00:00",
+        "lease_expires_at": "2026-09-19T15:38:04.281294+00:00",
+        "run_id": "35435106149"
       }
     },
     "20915": {
@@ -85489,6 +85502,12 @@
         "source_id": "31885766",
         "display_name": "Cesta do lesa (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:37:33.011302+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:38:04.727328+00:00",
+        "lease_expires_at": "2026-09-19T15:38:04.727328+00:00",
+        "run_id": "35435106149"
       }
     },
     "15508": {
@@ -175961,5 +175980,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:02.120803+00:00"
+  "updated_at": "2026-09-19T09:38:05.206714+00:00"
 }
