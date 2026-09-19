@@ -46216,13 +46216,6 @@
           "source_id": "26500293",
           "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-19T08:05:28.139135+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "26500293",
-          "reason": "Request failed for https://sdilej.cz/26500293/severan-2022-cz-dabing-.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:57:05.176405+00:00"
         },
         {
@@ -46231,6 +46224,13 @@
           "source_id": "26500293",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:31:36.938149+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26500293",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T15:48:34.483462+00:00"
         }
       ],
       "last_plan": {
@@ -46238,7 +46238,13 @@
         "display_name": "Seveřan (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T15:47:38.458643+00:00"
       },
-      "previous_target_id": "29516930"
+      "previous_target_id": "29516930",
+      "claim": {
+        "worker_id": "0e5abbab16c84767b01f11378d944fbf-shard-1",
+        "claimed_at": "2026-09-19T15:48:33.796282+00:00",
+        "lease_expires_at": "2026-09-19T21:48:33.796282+00:00",
+        "run_id": "35451641398"
+      }
     },
     "2288": {
       "attempts": [
@@ -46617,13 +46623,6 @@
           "source_id": "32147406",
           "target_video_id": "29255726",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:01:54.523052+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32147406",
-          "target_video_id": "29255726",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:34:20.352645+00:00"
         },
         {
@@ -46632,6 +46631,13 @@
           "target_video_id": "29255726",
           "permanent": false,
           "attempted_at": "2026-09-19T14:06:52.750201+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32147406",
+          "target_video_id": "29255726",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:48:35.843932+00:00"
         }
       ],
       "last_plan": {
@@ -188946,5 +188952,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:48:31.955250+00:00"
+  "updated_at": "2026-09-19T15:48:35.843950+00:00"
 }
