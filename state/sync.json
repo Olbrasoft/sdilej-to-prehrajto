@@ -165910,6 +165910,13 @@
           "target_video_id": "29531348",
           "permanent": false,
           "attempted_at": "2026-09-19T16:09:41.483366+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11872096",
+          "target_video_id": "29531348",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:47:25.123281+00:00"
         }
       ],
       "last_plan": {
@@ -166236,6 +166243,12 @@
         "target_video_id": "29531613",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-19T15:06:08.000243+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T16:47:23.637723+00:00",
+        "lease_expires_at": "2026-09-19T22:47:23.637723+00:00",
+        "run_id": "35451641398"
       }
     },
     "26630": {
@@ -167345,11 +167358,25 @@
       "attempts": []
     },
     "29818": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11702034",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:47:24.630124+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11702034",
         "display_name": "Záchranáři z Malibu (2019) SD CZ Titulky",
         "planned_at": "2026-09-19T16:46:36.010908+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T16:47:24.022135+00:00",
+        "lease_expires_at": "2026-09-19T22:47:24.022135+00:00",
+        "run_id": "35451641398"
       }
     },
     "6047": {
@@ -167375,11 +167402,25 @@
       }
     },
     "6101": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34299058",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:47:24.484787+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34299058",
         "display_name": "Expendables: Postradatelní 3 (2014) 4K CZ Dabing",
         "planned_at": "2026-09-19T16:46:36.123418+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T16:47:23.892950+00:00",
+        "lease_expires_at": "2026-09-19T22:47:23.892950+00:00",
+        "run_id": "35451641398"
       }
     },
     "35397": {
@@ -167400,6 +167441,12 @@
         "source_id": "12795342",
         "display_name": "6 underground: Tajné operace (2019) 4K CZ Dabing",
         "planned_at": "2026-09-19T16:46:36.240687+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T16:47:24.972874+00:00",
+        "lease_expires_at": "2026-09-19T22:47:24.972874+00:00",
+        "run_id": "35451641398"
       }
     },
     "36977": {
@@ -167427,6 +167474,12 @@
         "source_id": "32264017",
         "display_name": "Jeníček a Mařenka: Lovci čarodějnic (2013) 4K CZ Dabing",
         "planned_at": "2026-09-19T16:46:36.360097+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T16:47:24.762818+00:00",
+        "lease_expires_at": "2026-09-19T22:47:24.762818+00:00",
+        "run_id": "35451641398"
       }
     },
     "19947": {
@@ -191798,5 +191851,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:47:21.987762+00:00"
+  "updated_at": "2026-09-19T16:47:25.123306+00:00"
 }
