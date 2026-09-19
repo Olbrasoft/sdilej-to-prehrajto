@@ -176443,6 +176443,12 @@
         "target_video_id": "29534809",
         "size_bytes": 3112605773,
         "prepared_at": "2026-09-19T17:20:33.166489+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T18:07:05.963564+00:00",
+        "lease_expires_at": "2026-09-20T00:07:05.963564+00:00",
+        "run_id": "35451641398"
       }
     },
     "35735": {
@@ -180308,17 +180314,19 @@
       "attempts": []
     },
     "33212": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29292105",
+          "target_video_id": "29535530",
+          "permanent": false,
+          "attempted_at": "2026-09-19T18:07:09.302826+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29292105",
         "display_name": "Švéd (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-19T17:57:41.972840+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
-        "claimed_at": "2026-09-19T17:58:23.905345+00:00",
-        "lease_expires_at": "2026-09-19T23:58:23.905345+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29535530",
       "prepared": {
@@ -201460,5 +201468,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T18:07:04.077119+00:00"
+  "updated_at": "2026-09-19T18:07:09.302843+00:00"
 }
