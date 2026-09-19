@@ -11852,13 +11852,6 @@
           "source_id": "27010128",
           "target_video_id": "29160907",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:09:21.402093+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27010128",
-          "target_video_id": "29160907",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:41:44.672389+00:00"
         },
         {
@@ -11867,6 +11860,13 @@
           "target_video_id": "29160907",
           "permanent": false,
           "attempted_at": "2026-09-19T14:13:49.129422+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27010128",
+          "target_video_id": "29160907",
+          "permanent": false,
+          "attempted_at": "2026-09-19T15:27:46.677378+00:00"
         }
       ],
       "last_plan": {
@@ -11879,13 +11879,7 @@
         "size_bytes": 15200000000,
         "prepared_at": "2026-09-06T12:22:30.375256+00:00"
       },
-      "previous_target_id": "29160907",
-      "claim": {
-        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-4",
-        "claimed_at": "2026-09-19T15:27:40.026281+00:00",
-        "lease_expires_at": "2026-09-19T21:27:40.026281+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29160907"
     },
     "11046": {
       "attempts": [
@@ -13236,6 +13230,12 @@
         "source_id": "12303464",
         "display_name": "Mys hrůzy (1962) SD CZ Dabing",
         "planned_at": "2026-09-19T15:26:17.496468+00:00"
+      },
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-5",
+        "claimed_at": "2026-09-19T15:27:46.149849+00:00",
+        "lease_expires_at": "2026-09-19T21:27:46.149849+00:00",
+        "run_id": "35451641398"
       }
     },
     "32936": {
@@ -13959,7 +13959,13 @@
         "size_bytes": 9900000000,
         "prepared_at": "2026-09-13T01:55:43.908501+00:00"
       },
-      "previous_target_id": "29335601"
+      "previous_target_id": "29335601",
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-3",
+        "claimed_at": "2026-09-19T15:27:46.451256+00:00",
+        "lease_expires_at": "2026-09-19T21:27:46.451256+00:00",
+        "run_id": "35451641398"
+      }
     },
     "801": {
       "attempts": [
@@ -14024,7 +14030,13 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-09-18T05:08:04.043656+00:00"
       },
-      "previous_target_id": "29469127"
+      "previous_target_id": "29469127",
+      "claim": {
+        "worker_id": "f350933f9f714218a14bc1238dcf02ed-shard-1",
+        "claimed_at": "2026-09-19T15:27:45.965167+00:00",
+        "lease_expires_at": "2026-09-19T21:27:45.965167+00:00",
+        "run_id": "35451641398"
+      }
     },
     "835": {
       "attempts": [
@@ -188528,5 +188540,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T15:27:44.173054+00:00"
+  "updated_at": "2026-09-19T15:27:46.677396+00:00"
 }
