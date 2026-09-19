@@ -106570,6 +106570,12 @@
         "target_video_id": "29167781",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-06T18:35:04.790145+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-3",
+        "claimed_at": "2026-09-19T09:42:26.056611+00:00",
+        "lease_expires_at": "2026-09-19T15:42:26.056611+00:00",
+        "run_id": "35435106149"
       }
     },
     "3903": {
@@ -106857,6 +106863,12 @@
         "source_id": "29628821",
         "display_name": "Co to s tebou je?! (2023) 720p CZ Dabing",
         "planned_at": "2026-09-19T09:41:18.604950+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-2",
+        "claimed_at": "2026-09-19T09:42:25.666008+00:00",
+        "lease_expires_at": "2026-09-19T15:42:25.666008+00:00",
+        "run_id": "35435106149"
       }
     },
     "32728": {
@@ -107278,17 +107290,16 @@
         "target_video_id": "29230784",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-09T03:04:03.459935+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
+        "claimed_at": "2026-09-19T09:42:26.572184+00:00",
+        "lease_expires_at": "2026-09-19T15:42:26.572184+00:00",
+        "run_id": "35435106149"
       }
     },
     "15562": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "32836469",
-          "target_video_id": "29266611",
-          "permanent": false,
-          "attempted_at": "2026-09-15T19:09:51.091818+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "32836469",
@@ -107302,6 +107313,13 @@
           "target_video_id": "29266611",
           "permanent": false,
           "attempted_at": "2026-09-16T00:07:19.126399+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32836469",
+          "target_video_id": "29266611",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:42:27.420098+00:00"
         }
       ],
       "last_plan": {
@@ -107313,7 +107331,8 @@
         "target_video_id": "29266611",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-10T07:38:29.729674+00:00"
-      }
+      },
+      "previous_target_id": "29266611"
     },
     "22268": {
       "attempts": []
@@ -107402,6 +107421,12 @@
         "target_video_id": "29230807",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-09T03:05:40.611726+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:42:27.034506+00:00",
+        "lease_expires_at": "2026-09-19T15:42:27.034506+00:00",
+        "run_id": "35435106149"
       }
     },
     "10866": {
@@ -176158,5 +176183,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:42:23.673130+00:00"
+  "updated_at": "2026-09-19T09:42:27.420116+00:00"
 }
