@@ -85879,17 +85879,19 @@
       "attempts": []
     },
     "6967": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34774647",
+          "reason": "Request failed for https://sdilej.cz/34774647/lajka-2017-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T06:57:03.621115+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34774647",
         "display_name": "Lajka (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:39:19.146739+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-2",
-        "claimed_at": "2026-09-19T06:56:15.852685+00:00",
-        "lease_expires_at": "2026-09-19T12:56:15.852685+00:00",
-        "run_id": "35421412982"
       }
     },
     "16244": {
@@ -86033,6 +86035,12 @@
         "source_id": "29487771",
         "display_name": "Krakonošovo tajemství (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:39:19.999658+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T06:57:00.222913+00:00",
+        "lease_expires_at": "2026-09-19T12:57:00.222913+00:00",
+        "run_id": "35421412982"
       }
     },
     "16708": {
@@ -175379,5 +175387,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:56:57.982823+00:00"
+  "updated_at": "2026-09-19T06:57:03.621131+00:00"
 }
