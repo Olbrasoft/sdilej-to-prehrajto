@@ -69309,13 +69309,6 @@
     "2814": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34455392",
-          "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T21:59:39.653433+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34455392",
           "target_video_id": "29504098",
@@ -69329,18 +69322,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-19T03:28:11.655138+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34455392",
+          "reason": "Request failed for https://sdilej.cz/34455392/to-se-mi-snad-zda-dream-scenario-2023-us-cz-en-1080p-webrip-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T04:51:42.835026+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34455392",
         "display_name": "To se mi snad zdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T04:45:16.252526+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-3",
-        "claimed_at": "2026-09-19T04:50:57.073257+00:00",
-        "lease_expires_at": "2026-09-19T10:50:57.073257+00:00",
-        "run_id": "35405560473"
       }
     },
     "11240": {
@@ -69905,6 +69899,12 @@
         "target_video_id": "29314994",
         "size_bytes": 7100000000,
         "prepared_at": "2026-09-12T03:05:46.140238+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-4",
+        "claimed_at": "2026-09-19T04:51:41.873913+00:00",
+        "lease_expires_at": "2026-09-19T10:51:41.873913+00:00",
+        "run_id": "35405560473"
       }
     },
     "3098": {
@@ -174957,5 +174957,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T04:51:39.992120+00:00"
+  "updated_at": "2026-09-19T04:51:42.835040+00:00"
 }
