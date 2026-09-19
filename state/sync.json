@@ -66289,13 +66289,6 @@
           "source_id": "24035589",
           "target_video_id": "29302790",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:25:23.008983+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24035589",
-          "target_video_id": "29302790",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:16:51.777389+00:00"
         },
         {
@@ -66304,6 +66297,13 @@
           "target_video_id": "29302790",
           "permanent": false,
           "attempted_at": "2026-09-19T09:09:18.766049+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24035589",
+          "target_video_id": "29302790",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:39:50.151126+00:00"
         }
       ],
       "last_plan": {
@@ -66315,7 +66315,8 @@
         "target_video_id": "29302790",
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-11T15:17:30.854388+00:00"
-      }
+      },
+      "previous_target_id": "29302790"
     },
     "12790": {
       "attempts": []
@@ -93800,6 +93801,12 @@
         "target_video_id": "29262591",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-10T04:36:20.952436+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:39:49.235171+00:00",
+        "lease_expires_at": "2026-09-19T15:39:49.235171+00:00",
+        "run_id": "35435106149"
       }
     },
     "31253": {
@@ -94288,6 +94295,12 @@
         "target_video_id": "29176547",
         "size_bytes": 7700000000,
         "prepared_at": "2026-09-07T02:46:32.246093+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:39:49.024472+00:00",
+        "lease_expires_at": "2026-09-19T15:39:49.024472+00:00",
+        "run_id": "35435106149"
       }
     },
     "11797": {
@@ -94492,6 +94505,12 @@
         "source_id": "28404933",
         "display_name": "Líbánky (2013) 4K CZ Dabing",
         "planned_at": "2026-09-19T09:39:22.261625+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:39:49.448235+00:00",
+        "lease_expires_at": "2026-09-19T15:39:49.448235+00:00",
+        "run_id": "35435106149"
       }
     },
     "23700": {
@@ -176049,5 +176068,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:39:46.958809+00:00"
+  "updated_at": "2026-09-19T09:39:50.151142+00:00"
 }
