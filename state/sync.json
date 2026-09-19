@@ -168847,13 +168847,6 @@
     "5306": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32607975",
-          "reason": "Request failed for https://sdilej.cz/32607975/tron-ares-2025-4k-h265-cz-en.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T15:02:50.697002+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32607975",
           "target_video_id": "29532975",
@@ -168866,6 +168859,13 @@
           "target_video_id": "29532975",
           "permanent": false,
           "attempted_at": "2026-09-19T17:19:35.340065+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32607975",
+          "target_video_id": "29532975",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:56:05.374448+00:00"
         }
       ],
       "last_plan": {
@@ -168878,12 +168878,6 @@
         "target_video_id": "29532975",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-19T16:09:47.609926+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
-        "claimed_at": "2026-09-19T17:55:56.119505+00:00",
-        "lease_expires_at": "2026-09-19T23:55:56.119505+00:00",
-        "run_id": "35451641398"
       }
     },
     "17847": {
@@ -198660,5 +198654,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:56:03.402204+00:00"
+  "updated_at": "2026-09-19T17:56:05.374475+00:00"
 }
