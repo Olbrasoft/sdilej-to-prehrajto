@@ -137836,13 +137836,6 @@
           "source_id": "30998148",
           "target_video_id": "29239615",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:48:15.417581+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30998148",
-          "target_video_id": "29239615",
-          "permanent": false,
           "attempted_at": "2026-09-19T14:21:51.665874+00:00"
         },
         {
@@ -137851,6 +137844,13 @@
           "target_video_id": "29239615",
           "permanent": false,
           "attempted_at": "2026-09-19T16:07:50.686838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30998148",
+          "target_video_id": "29239615",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:45:52.942620+00:00"
         }
       ],
       "last_plan": {
@@ -138176,12 +138176,25 @@
           "source_id": "33911076",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T10:10:08.802988+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33911076",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:45:52.541704+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33911076",
         "display_name": "Jeho fotr, to je lotr! (2004) 4K CZ Dabing",
         "planned_at": "2026-09-19T16:44:20.310651+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:45:51.606825+00:00",
+        "lease_expires_at": "2026-09-19T22:45:51.606825+00:00",
+        "run_id": "35451641398"
       }
     },
     "4048": {
@@ -138242,12 +138255,25 @@
           "source_id": "16418016",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T10:10:09.707104+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "16418016",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:45:52.180122+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16418016",
         "display_name": "Vetřelec³ (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:44:20.461776+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T16:45:51.486659+00:00",
+        "lease_expires_at": "2026-09-19T22:45:51.486659+00:00",
+        "run_id": "35451641398"
       }
     },
     "4767": {
@@ -138277,6 +138303,12 @@
         "source_id": "11995620",
         "display_name": "Hříšnice (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:44:20.694895+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T16:45:52.822574+00:00",
+        "lease_expires_at": "2026-09-19T22:45:52.822574+00:00",
+        "run_id": "35451641398"
       }
     },
     "4842": {
@@ -138341,6 +138373,12 @@
         "source_id": "34667541",
         "display_name": "Gabby Petito a její příběh (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:44:20.822690+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T16:45:52.662045+00:00",
+        "lease_expires_at": "2026-09-19T22:45:52.662045+00:00",
+        "run_id": "35451641398"
       }
     },
     "26742": {
@@ -190770,5 +190808,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:45:49.572341+00:00"
+  "updated_at": "2026-09-19T16:45:52.942638+00:00"
 }
