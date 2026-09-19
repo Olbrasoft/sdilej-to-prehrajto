@@ -203705,7 +203705,15 @@
       "attempts": []
     },
     "33569": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34886046",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:08:56.222054+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34886046",
         "display_name": "Buddy - Hvězda baseballu (2002) 720p CZ Dabing",
@@ -203719,26 +203727,62 @@
       }
     },
     "22816": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33774042",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:08:57.095532+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33774042",
         "display_name": "Soukromý víkend (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:08:44.362072+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-0",
+        "claimed_at": "2026-09-19T23:08:56.363182+00:00",
+        "lease_expires_at": "2026-09-20T05:08:56.363182+00:00",
+        "run_id": "35467299794"
       }
     },
     "10424": {
       "attempts": []
     },
     "8040": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30151642",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:08:57.335509+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30151642",
         "display_name": "Přežít Vánoce (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:08:44.495670+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:08:56.581141+00:00",
+        "lease_expires_at": "2026-09-20T05:08:56.581141+00:00",
+        "run_id": "35467299794"
       }
     },
     "23804": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22347640",
+          "reason": "Source detail has no authenticated download link; source_id=22347640",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:09:03.369262+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22347640",
         "display_name": "Vyděrači (1997) SD CZ Dabing",
@@ -203810,11 +203854,25 @@
       "attempts": []
     },
     "19707": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34849564",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:08:58.409093+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34849564",
         "display_name": "Zataj dech (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-19T23:08:44.878568+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:08:57.731602+00:00",
+        "lease_expires_at": "2026-09-20T05:08:57.731602+00:00",
+        "run_id": "35467299794"
       }
     },
     "26066": {
@@ -203832,6 +203890,12 @@
         "source_id": "33767247",
         "display_name": "Barbaři (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:08:45.116511+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:08:58.544382+00:00",
+        "lease_expires_at": "2026-09-20T05:08:58.544382+00:00",
+        "run_id": "35467299794"
       }
     },
     "12305": {
@@ -213945,5 +214009,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:08:54.422549+00:00"
+  "updated_at": "2026-09-19T23:09:03.369279+00:00"
 }
