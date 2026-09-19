@@ -89260,14 +89260,6 @@
     "8519": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "31626940",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29493208",
-          "attempted_at": "2026-09-18T18:00:05.271744+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31626940",
           "reason": "Request failed for https://sdilej.cz/31626940/muj-pribeh-2019-romanticky-drama-cesko.mkv (HTTP None)",
@@ -89280,6 +89272,13 @@
           "source_id": "31626940",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:38:45.541581+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31626940",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:00:59.601589+00:00"
         }
       ],
       "last_plan": {
@@ -89287,7 +89286,13 @@
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:00:04.336113+00:00"
       },
-      "previous_target_id": "29493208"
+      "previous_target_id": "29493208",
+      "claim": {
+        "worker_id": "1bbaa35f5def49f4b5cf776fb4059d83-shard-1",
+        "claimed_at": "2026-09-19T16:00:59.028222+00:00",
+        "lease_expires_at": "2026-09-19T22:00:59.028222+00:00",
+        "run_id": "35451641398"
+      }
     },
     "33003": {
       "attempts": []
@@ -89962,13 +89967,6 @@
           "source_id": "33810828",
           "target_video_id": "29176315",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:07:28.157203+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33810828",
-          "target_video_id": "29176315",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:40:10.289789+00:00"
         },
         {
@@ -89977,6 +89975,13 @@
           "target_video_id": "29176315",
           "permanent": false,
           "attempted_at": "2026-09-19T14:12:56.844286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33810828",
+          "target_video_id": "29176315",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:01:00.857615+00:00"
         }
       ],
       "last_plan": {
@@ -189342,5 +189347,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:00:57.258361+00:00"
+  "updated_at": "2026-09-19T16:01:00.857630+00:00"
 }
