@@ -9409,13 +9409,6 @@
     "30454": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26245114",
-          "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T04:02:06.537676+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "26245114",
           "reason": "PrehrajtoError",
@@ -9429,23 +9422,20 @@
           "reason": "Request failed for https://sdilej.cz/26245114/paddington-2-2017.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T05:36:07.537114+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "26245114",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29515374",
+          "attempted_at": "2026-09-19T06:20:29.661836+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:11:10.869297+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
-        "claimed_at": "2026-09-19T06:11:24.158483+00:00",
-        "lease_expires_at": "2026-09-19T12:11:24.158483+00:00",
-        "run_id": "35421412982"
-      },
-      "prepared": {
-        "target_video_id": "29515374",
-        "size_bytes": 2262543271,
-        "prepared_at": "2026-09-19T06:11:28.509252+00:00"
       }
     },
     "18349": {
@@ -175104,5 +175094,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:20:27.592008+00:00"
+  "updated_at": "2026-09-19T06:20:29.661854+00:00"
 }
