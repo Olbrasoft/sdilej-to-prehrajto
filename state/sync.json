@@ -14761,6 +14761,12 @@
         "target_video_id": "29154104",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-06T06:54:37.939767+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-0",
+        "claimed_at": "2026-09-19T05:52:25.123957+00:00",
+        "lease_expires_at": "2026-09-19T11:52:25.123957+00:00",
+        "run_id": "35421412982"
       }
     },
     "754": {
@@ -14835,6 +14841,12 @@
         "target_video_id": "29336272",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-13T02:29:11.271768+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
+        "claimed_at": "2026-09-19T05:52:25.721253+00:00",
+        "lease_expires_at": "2026-09-19T11:52:25.721253+00:00",
+        "run_id": "35421412982"
       }
     },
     "781": {
@@ -14915,13 +14927,6 @@
     "675": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33887096",
-          "target_video_id": "29510938",
-          "permanent": false,
-          "attempted_at": "2026-09-19T03:42:57.464260+00:00"
-        },
-        {
           "status": "stale_prepared_released",
           "source_id": "33887096",
           "target_video_id": "29510938",
@@ -14935,17 +14940,20 @@
           "target_video_id": "29513298",
           "permanent": false,
           "attempted_at": "2026-09-19T05:15:24.560049+00:00"
+        },
+        {
+          "status": "stale_prepared_released",
+          "source_id": "33887096",
+          "target_video_id": "29513298",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-19T05:52:28.642276+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33887096",
         "display_name": "Anatomie pádu (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T05:51:58.498637+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29513298",
-        "size_bytes": 4800000000,
-        "prepared_at": "2026-09-19T05:10:31.620200+00:00"
       }
     },
     "35499": {
@@ -15409,6 +15417,12 @@
         "target_video_id": "29336687",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-13T02:50:00.136585+00:00"
+      },
+      "claim": {
+        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-5",
+        "claimed_at": "2026-09-19T05:52:25.515768+00:00",
+        "lease_expires_at": "2026-09-19T11:52:25.515768+00:00",
+        "run_id": "35421412982"
       }
     },
     "730": {
@@ -175018,5 +175032,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T05:52:23.031298+00:00"
+  "updated_at": "2026-09-19T05:52:28.642293+00:00"
 }
