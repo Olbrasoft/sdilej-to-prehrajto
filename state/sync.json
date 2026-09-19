@@ -59914,14 +59914,6 @@
     "2075": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "31639655",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29518782",
-          "attempted_at": "2026-09-19T07:17:09.122971+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31639655",
           "reason": "Request failed for https://sdilej.cz/31639655/teorie-tygra-2016-cz-fhd-h265-deadinside.mkv (HTTP None)",
@@ -59935,6 +59927,13 @@
           "permanent": false,
           "target_video_id": "29524751",
           "attempted_at": "2026-09-19T09:14:39.839698+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31639655",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:14.788233+00:00"
         }
       ],
       "last_plan": {
@@ -59947,7 +59946,8 @@
         "claimed_at": "2026-09-19T09:47:06.167776+00:00",
         "lease_expires_at": "2026-09-19T15:47:06.167776+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29524751"
     },
     "32398": {
       "attempts": []
@@ -76352,13 +76352,6 @@
           "source_id": "14065113",
           "target_video_id": "29139722",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:31:29.363309+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14065113",
-          "target_video_id": "29139722",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:34:27.873849+00:00"
         },
         {
@@ -76367,6 +76360,13 @@
           "target_video_id": "29139722",
           "permanent": false,
           "attempted_at": "2026-09-19T09:13:20.650508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14065113",
+          "target_video_id": "29139722",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:47:14.965317+00:00"
         }
       ],
       "last_plan": {
@@ -76379,12 +76379,7 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T18:07:10.561766+00:00"
       },
-      "claim": {
-        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-1",
-        "claimed_at": "2026-09-19T09:47:10.641367+00:00",
-        "lease_expires_at": "2026-09-19T15:47:10.641367+00:00",
-        "run_id": "35435106149"
-      }
+      "previous_target_id": "29139722"
     },
     "14583": {
       "attempts": []
@@ -133019,6 +133014,12 @@
         "source_id": "34661757",
         "display_name": "Všechno nebo nic (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-19T09:46:04.391775+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-5",
+        "claimed_at": "2026-09-19T09:47:14.614137+00:00",
+        "lease_expires_at": "2026-09-19T15:47:14.614137+00:00",
+        "run_id": "35435106149"
       }
     },
     "30955": {
@@ -176330,5 +176331,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:47:12.726431+00:00"
+  "updated_at": "2026-09-19T09:47:14.965338+00:00"
 }
