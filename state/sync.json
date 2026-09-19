@@ -154753,11 +154753,25 @@
       "attempts": []
     },
     "18311": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34697470",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:02:27.192071+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697470",
         "display_name": "Ježíš mě miluje (2012) SD CZ Dabing",
         "planned_at": "2026-09-19T12:00:55.282685+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T12:02:26.271555+00:00",
+        "lease_expires_at": "2026-09-19T18:02:26.271555+00:00",
+        "run_id": "35435106149"
       }
     },
     "23447": {
@@ -154779,15 +154793,9 @@
           "attempted_at": "2026-09-11T14:25:18.655350+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30925604",
-        "display_name": "Dokonalá loupež (2002) 720p CZ Dabing",
-        "planned_at": "2026-09-19T12:00:55.537317+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29301149",
-        "size_bytes": 2591308995,
-        "prepared_at": "2026-09-11T14:17:28.231504+00:00"
+        "uploaded_at": "2026-09-19T12:02:28.700267+00:00"
       }
     },
     "25002": {
@@ -185486,5 +185494,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:02:24.442537+00:00"
+  "updated_at": "2026-09-19T12:02:28.700284+00:00"
 }
