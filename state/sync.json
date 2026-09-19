@@ -50697,11 +50697,25 @@
       "attempts": []
     },
     "20330": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "8173680",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:32:28.181532+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8173680",
         "display_name": "OUTsideři (2014) SD CZ Titulky",
         "planned_at": "2026-09-19T09:32:15.903509+00:00"
+      },
+      "claim": {
+        "worker_id": "c00cd692f7cd49729d96ad440bef8639-shard-3",
+        "claimed_at": "2026-09-19T09:32:27.558478+00:00",
+        "lease_expires_at": "2026-09-19T15:32:27.558478+00:00",
+        "run_id": "35434859237"
       }
     },
     "21928": {
@@ -50895,13 +50909,6 @@
           "source_id": "30732810",
           "target_video_id": "29213387",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:22:39.415375+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30732810",
-          "target_video_id": "29213387",
-          "permanent": false,
           "attempted_at": "2026-09-19T08:06:05.113280+00:00"
         },
         {
@@ -50910,6 +50917,13 @@
           "target_video_id": "29213387",
           "permanent": false,
           "attempted_at": "2026-09-19T08:57:39.967829+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30732810",
+          "target_video_id": "29213387",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:32:29.684254+00:00"
         }
       ],
       "last_plan": {
@@ -50921,7 +50935,8 @@
         "target_video_id": "29213387",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-08T12:33:41.525834+00:00"
-      }
+      },
+      "previous_target_id": "29213387"
     },
     "2216": {
       "attempts": [
@@ -175664,5 +175679,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:32:25.545414+00:00"
+  "updated_at": "2026-09-19T09:32:29.684263+00:00"
 }
