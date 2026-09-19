@@ -157083,10 +157083,24 @@
         "claimed_at": "2026-09-19T12:08:46.284246+00:00",
         "lease_expires_at": "2026-09-19T18:08:46.284246+00:00",
         "run_id": "35435106149"
+      },
+      "previous_target_id": "29528191",
+      "prepared": {
+        "target_video_id": "29528191",
+        "size_bytes": 1280215824,
+        "prepared_at": "2026-09-19T12:08:52.357326+00:00"
       }
     },
     "5638": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33820414",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:08:50.679700+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33820414",
         "display_name": "Zlo nikdy nespí (2016) 1080p CZ Dabing",
@@ -157110,22 +157124,50 @@
       "attempts": []
     },
     "8065": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12739407",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:08:51.290850+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12739407",
         "display_name": "Pírkovo dobrodružství (2014) 720p CZ Dabing",
         "planned_at": "2026-09-19T12:07:43.011712+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:08:50.481728+00:00",
+        "lease_expires_at": "2026-09-19T18:08:50.481728+00:00",
+        "run_id": "35435106149"
       }
     },
     "26048": {
       "attempts": []
     },
     "20613": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34470083",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T12:08:51.774404+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34470083",
         "display_name": "Scare Campaign (2016) 720p CZ Titulky",
         "planned_at": "2026-09-19T12:07:43.199352+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T12:08:50.900846+00:00",
+        "lease_expires_at": "2026-09-19T18:08:50.900846+00:00",
+        "run_id": "35435106149"
       }
     },
     "6872": {
@@ -157152,6 +157194,12 @@
         "source_id": "34044321",
         "display_name": "Děcka jsou v pohodě (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:07:43.394830+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T12:08:51.502752+00:00",
+        "lease_expires_at": "2026-09-19T18:08:51.502752+00:00",
+        "run_id": "35435106149"
       }
     },
     "37195": {
@@ -157175,6 +157223,12 @@
         "source_id": "34689189",
         "display_name": "Zaklínač: Sirény z hlubin (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-19T12:07:43.582018+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-5",
+        "claimed_at": "2026-09-19T12:08:51.995621+00:00",
+        "lease_expires_at": "2026-09-19T18:08:51.995621+00:00",
+        "run_id": "35435106149"
       }
     },
     "16920": {
@@ -186566,5 +186620,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:08:48.749153+00:00"
+  "updated_at": "2026-09-19T12:08:52.357342+00:00"
 }
