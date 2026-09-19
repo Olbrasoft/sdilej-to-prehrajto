@@ -165077,11 +165077,25 @@
       }
     },
     "24991": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31576724",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:09:51.827667+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31576724",
         "display_name": "Skřípění (2003) SD CZ Dabing",
         "planned_at": "2026-09-19T16:09:05.634212+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T16:09:51.190793+00:00",
+        "lease_expires_at": "2026-09-19T22:09:51.190793+00:00",
+        "run_id": "35451641398"
       }
     },
     "6202": {
@@ -165094,11 +165108,25 @@
       "attempts": []
     },
     "23571": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34828279",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:09:52.748110+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34828279",
         "display_name": "Bikini Drive-In (1995) SD CZ Titulky",
         "planned_at": "2026-09-19T16:09:05.769582+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T16:09:52.018289+00:00",
+        "lease_expires_at": "2026-09-19T22:09:52.018289+00:00",
+        "run_id": "35451641398"
       }
     },
     "6068": {
@@ -165150,6 +165178,18 @@
         "source_id": "33959051",
         "display_name": "Kořist (2019) 4K CZ Dabing",
         "planned_at": "2026-09-19T16:09:05.908946+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T16:09:52.948489+00:00",
+        "lease_expires_at": "2026-09-19T22:09:52.948489+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29532979",
+      "prepared": {
+        "target_video_id": "29532979",
+        "size_bytes": 13348769511,
+        "prepared_at": "2026-09-19T16:09:56.105436+00:00"
       }
     },
     "6429": {
@@ -190111,5 +190151,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:09:49.399825+00:00"
+  "updated_at": "2026-09-19T16:09:56.105454+00:00"
 }
