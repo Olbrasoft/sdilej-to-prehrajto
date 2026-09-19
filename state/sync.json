@@ -2239,7 +2239,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T06:48:33.321229+00:00"
       },
-      "previous_target_id": "29206443"
+      "previous_target_id": "29206443",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-4",
+        "claimed_at": "2026-09-19T14:07:37.417735+00:00",
+        "lease_expires_at": "2026-09-19T20:07:37.417735+00:00",
+        "run_id": "35435106149"
+      }
     },
     "11126": {
       "attempts": [
@@ -2606,13 +2612,6 @@
           "source_id": "34257579",
           "target_video_id": "29115923",
           "permanent": false,
-          "attempted_at": "2026-09-19T12:34:23.332267+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34257579",
-          "target_video_id": "29115923",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:04:48.340616+00:00"
         },
         {
@@ -2621,6 +2620,13 @@
           "target_video_id": "29115923",
           "permanent": false,
           "attempted_at": "2026-09-19T13:36:46.565146+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34257579",
+          "target_video_id": "29115923",
+          "permanent": false,
+          "attempted_at": "2026-09-19T14:07:38.414288+00:00"
         }
       ],
       "last_plan": {
@@ -49118,7 +49124,13 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-06T06:32:20.158962+00:00"
       },
-      "previous_target_id": "29136439"
+      "previous_target_id": "29136439",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T14:07:37.646850+00:00",
+        "lease_expires_at": "2026-09-19T20:07:37.646850+00:00",
+        "run_id": "35435106149"
+      }
     },
     "21454": {
       "attempts": []
@@ -193120,5 +193132,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T14:07:35.407632+00:00"
+  "updated_at": "2026-09-19T14:07:38.414304+00:00"
 }
