@@ -5090,6 +5090,12 @@
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-5",
+        "claimed_at": "2026-09-19T01:49:17.977724+00:00",
+        "lease_expires_at": "2026-09-19T07:49:17.977724+00:00",
+        "run_id": "35405560473"
       }
     },
     "13803": {
@@ -5492,6 +5498,12 @@
         "target_video_id": "29179105",
         "size_bytes": 5300000000,
         "prepared_at": "2026-09-07T06:02:21.308933+00:00"
+      },
+      "claim": {
+        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-3",
+        "claimed_at": "2026-09-19T01:49:17.779259+00:00",
+        "lease_expires_at": "2026-09-19T07:49:17.779259+00:00",
+        "run_id": "35405560473"
       }
     },
     "22042": {
@@ -29773,14 +29785,6 @@
     "1596": {
       "attempts": [
         {
-          "status": "stale_prepared_released",
-          "source_id": "28711738",
-          "target_video_id": "29503296",
-          "reason": "Prepared video is absent from uploaded listing",
-          "permanent": false,
-          "attempted_at": "2026-09-18T22:32:34.152889+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28711738",
           "target_video_id": "29505346",
@@ -29794,18 +29798,19 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-19T00:34:10.447910+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28711738",
+          "target_video_id": "29508383",
+          "permanent": false,
+          "attempted_at": "2026-09-19T01:49:18.181274+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28711738",
         "display_name": "Profesor a šílenec (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T01:05:24.717051+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-4",
-        "claimed_at": "2026-09-19T01:36:10.727657+00:00",
-        "lease_expires_at": "2026-09-19T07:36:10.727657+00:00",
-        "run_id": "35405560473"
       },
       "prepared": {
         "target_video_id": "29508383",
@@ -174409,5 +174414,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T01:49:15.900345+00:00"
+  "updated_at": "2026-09-19T01:49:18.181287+00:00"
 }
