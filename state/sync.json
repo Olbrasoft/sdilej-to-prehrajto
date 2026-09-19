@@ -182711,22 +182711,10 @@
           "attempted_at": "2026-09-19T18:20:13.759954+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34695120",
-        "display_name": "Takoví (ne)jsme (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T19:07:22.336441+00:00"
-      },
       "previous_target_id": "29535743",
-      "prepared": {
+      "upload": {
         "target_video_id": "29535743",
-        "size_bytes": 2256650929,
-        "prepared_at": "2026-09-19T18:12:41.548552+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
-        "claimed_at": "2026-09-19T19:08:03.174224+00:00",
-        "lease_expires_at": "2026-09-20T01:08:03.174224+00:00",
-        "run_id": "35451641398"
+        "uploaded_at": "2026-09-19T19:08:10.221301+00:00"
       }
     },
     "31437": {
@@ -185201,7 +185189,15 @@
       "attempts": []
     },
     "22624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33167625",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:08:10.045608+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33167625",
         "display_name": "Ohnivá liška (1982) 1080p CZ Dabing",
@@ -185223,6 +185219,12 @@
         "source_id": "28491224",
         "display_name": "Night Shift (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-19T19:07:23.661382+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T19:08:09.760302+00:00",
+        "lease_expires_at": "2026-09-20T01:08:09.760302+00:00",
+        "run_id": "35451641398"
       }
     },
     "24737": {
@@ -205221,5 +205223,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:08:07.722036+00:00"
+  "updated_at": "2026-09-19T19:08:10.221316+00:00"
 }
