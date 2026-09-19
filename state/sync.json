@@ -93410,13 +93410,6 @@
           "source_id": "32704855",
           "target_video_id": "29316667",
           "permanent": false,
-          "attempted_at": "2026-09-19T20:23:59.635058+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32704855",
-          "target_video_id": "29316667",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:06:18.711522+00:00"
         },
         {
@@ -93425,6 +93418,13 @@
           "target_video_id": "29316667",
           "permanent": false,
           "attempted_at": "2026-09-19T21:42:27.285608+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32704855",
+          "target_video_id": "29316667",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:20:33.119568+00:00"
         }
       ],
       "last_plan": {
@@ -93437,13 +93437,7 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-12T05:15:13.365165+00:00"
       },
-      "previous_target_id": "29316667",
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
-        "claimed_at": "2026-09-19T22:20:27.076155+00:00",
-        "lease_expires_at": "2026-09-20T04:20:27.076155+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29316667"
     },
     "27151": {
       "attempts": []
@@ -94373,6 +94367,12 @@
         "source_id": "12215378",
         "display_name": "Básník ze školky (2018) SD CZ Dabing",
         "planned_at": "2026-09-19T22:19:42.900134+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-3",
+        "claimed_at": "2026-09-19T22:20:32.843351+00:00",
+        "lease_expires_at": "2026-09-20T04:20:32.843351+00:00",
+        "run_id": "35467299794"
       }
     },
     "9102": {
@@ -95165,7 +95165,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-10T04:36:20.952436+00:00"
       },
-      "previous_target_id": "29262591"
+      "previous_target_id": "29262591",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:20:32.972028+00:00",
+        "lease_expires_at": "2026-09-20T04:20:32.972028+00:00",
+        "run_id": "35467299794"
+      }
     },
     "31253": {
       "attempts": []
@@ -206552,5 +206558,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:20:30.975026+00:00"
+  "updated_at": "2026-09-19T22:20:33.119587+00:00"
 }
