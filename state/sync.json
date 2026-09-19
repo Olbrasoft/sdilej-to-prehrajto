@@ -202695,6 +202695,13 @@
           "target_video_id": "29540432",
           "permanent": false,
           "attempted_at": "2026-09-19T22:58:56.749609+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35055594",
+          "target_video_id": "29540432",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:37:19.016975+00:00"
         }
       ],
       "last_plan": {
@@ -202705,7 +202712,7 @@
       "previous_target_id": "29540432",
       "prepared": {
         "target_video_id": "29540432",
-        "size_bytes": 3261029566,
+        "size_bytes": 3300000000,
         "prepared_at": "2026-09-19T22:46:21.704535+00:00"
       }
     },
@@ -209366,11 +209373,25 @@
       "attempts": []
     },
     "15594": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34743904",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:37:18.064318+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34743904",
         "display_name": "Student of the Year (2012) 720p CZ Titulky",
         "planned_at": "2026-09-19T23:36:35.305236+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:37:17.036254+00:00",
+        "lease_expires_at": "2026-09-20T05:37:17.036254+00:00",
+        "run_id": "35467299794"
       }
     },
     "17455": {
@@ -209380,15 +209401,37 @@
       "attempts": []
     },
     "12110": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34173884",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:37:17.875417+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34173884",
         "display_name": "Bláznivé dědictví (1993) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:36:35.450647+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:37:16.784801+00:00",
+        "lease_expires_at": "2026-09-20T05:37:16.784801+00:00",
+        "run_id": "35467299794"
       }
     },
     "16306": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31643407",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:37:17.178421+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31643407",
         "display_name": "Chci jenom tebe (2025) 1080p CZ Dabing",
@@ -209408,11 +209451,25 @@
       "attempts": []
     },
     "27335": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30391512",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:37:18.252887+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30391512",
         "display_name": "Apokalypsa meteorů (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:36:35.728518+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:37:17.327624+00:00",
+        "lease_expires_at": "2026-09-20T05:37:17.327624+00:00",
+        "run_id": "35467299794"
       }
     },
     "17216": {
@@ -209424,6 +209481,12 @@
         "source_id": "26240280",
         "display_name": "Mercy (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:36:35.867817+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:37:17.466571+00:00",
+        "lease_expires_at": "2026-09-20T05:37:17.466571+00:00",
+        "run_id": "35467299794"
       }
     },
     "25317": {
@@ -209456,6 +209519,12 @@
         "source_id": "34696974",
         "display_name": "Scooby-Doo 2: Nespoutané příšery (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:36:36.043348+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:37:18.459126+00:00",
+        "lease_expires_at": "2026-09-20T05:37:18.459126+00:00",
+        "run_id": "35467299794"
       }
     },
     "8300": {
@@ -209500,6 +209569,12 @@
         "source_id": "34907811",
         "display_name": "Karate Kid 3 (1989) 4K CZ Dabing",
         "planned_at": "2026-09-19T23:36:36.184736+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:37:18.596404+00:00",
+        "lease_expires_at": "2026-09-20T05:37:18.596404+00:00",
+        "run_id": "35467299794"
       }
     },
     "26976": {
@@ -209523,6 +209598,12 @@
         "source_id": "34575131",
         "display_name": "Bravo Girls: Bojovat až do konce (2009) SD CZ Dabing",
         "planned_at": "2026-09-19T23:36:36.373249+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:37:18.727015+00:00",
+        "lease_expires_at": "2026-09-20T05:37:18.727015+00:00",
+        "run_id": "35467299794"
       }
     },
     "13630": {
@@ -216982,5 +217063,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:37:15.015454+00:00"
+  "updated_at": "2026-09-19T23:37:19.016990+00:00"
 }
