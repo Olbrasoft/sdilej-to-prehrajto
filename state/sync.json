@@ -113909,7 +113909,13 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T20:36:43.761682+00:00"
       },
-      "previous_target_id": "29357441"
+      "previous_target_id": "29357441",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:47:06.809586+00:00",
+        "lease_expires_at": "2026-09-19T19:47:06.809586+00:00",
+        "run_id": "35435106149"
+      }
     },
     "14582": {
       "attempts": []
@@ -160384,18 +160390,19 @@
           "reason": "Request failed for https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T12:56:18.894916+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13635231",
+          "target_video_id": "29530075",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:47:07.023254+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13635231",
         "display_name": "Shirley (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-19T13:31:55.414093+00:00"
-      },
-      "claim": {
-        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
-        "claimed_at": "2026-09-19T13:33:35.264429+00:00",
-        "lease_expires_at": "2026-09-19T19:33:35.264429+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29530075",
       "prepared": {
@@ -190796,5 +190803,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:47:05.006690+00:00"
+  "updated_at": "2026-09-19T13:47:07.023270+00:00"
 }
