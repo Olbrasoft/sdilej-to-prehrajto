@@ -5777,7 +5777,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
       },
-      "previous_target_id": "29179268"
+      "previous_target_id": "29179268",
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-1",
+        "claimed_at": "2026-09-19T22:48:53.427848+00:00",
+        "lease_expires_at": "2026-09-20T04:48:53.427848+00:00",
+        "run_id": "35467299794"
+      }
     },
     "20410": {
       "attempts": []
@@ -197737,17 +197743,19 @@
       }
     },
     "14277": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33065137",
+          "target_video_id": "29540294",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:48:54.491018+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33065137",
         "display_name": "12 kol (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:33:12.002611+00:00"
-      },
-      "claim": {
-        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-4",
-        "claimed_at": "2026-09-19T22:36:06.540735+00:00",
-        "lease_expires_at": "2026-09-20T04:36:06.540735+00:00",
-        "run_id": "35467299794"
       },
       "previous_target_id": "29540294",
       "prepared": {
@@ -210263,5 +210271,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:48:51.621972+00:00"
+  "updated_at": "2026-09-19T22:48:54.491045+00:00"
 }
