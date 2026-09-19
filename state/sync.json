@@ -183282,7 +183282,15 @@
       }
     },
     "9635": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34670620",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:34:22.194966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34670620",
         "display_name": "Zabij mě, lásko (2024) 1080p CZ Dabing",
@@ -183325,22 +183333,56 @@
         "claimed_at": "2026-09-19T18:34:19.620913+00:00",
         "lease_expires_at": "2026-09-20T00:34:19.620913+00:00",
         "run_id": "35451641398"
+      },
+      "previous_target_id": "29536062",
+      "prepared": {
+        "target_video_id": "29536062",
+        "size_bytes": 2448667474,
+        "prepared_at": "2026-09-19T18:34:25.722131+00:00"
       }
     },
     "17444": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13884087",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:34:23.236847+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13884087",
         "display_name": "DJ Popelka (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:34:02.798753+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T18:34:22.633380+00:00",
+        "lease_expires_at": "2026-09-20T00:34:22.633380+00:00",
+        "run_id": "35451641398"
       }
     },
     "12248": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34675438",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:34:24.201992+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34675438",
         "display_name": "Loch Ness (1996) 720p CZ Dabing",
         "planned_at": "2026-09-19T18:34:04.751361+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T18:34:23.529128+00:00",
+        "lease_expires_at": "2026-09-20T00:34:23.529128+00:00",
+        "run_id": "35451641398"
       }
     },
     "18237": {
@@ -183350,11 +183392,25 @@
       "attempts": []
     },
     "26452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34339185",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T18:34:25.301875+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34339185",
         "display_name": "Skřítkové a trollové: Tajemná komnata (2008) SD CZ Dabing",
         "planned_at": "2026-09-19T18:34:04.901080+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T18:34:24.630194+00:00",
+        "lease_expires_at": "2026-09-20T00:34:24.630194+00:00",
+        "run_id": "35451641398"
       }
     },
     "11903": {
@@ -183366,6 +183422,12 @@
         "source_id": "33402072",
         "display_name": "Vyslýchání Lucy Letbyové (2026) 1080p CZ Dabing",
         "planned_at": "2026-09-19T18:34:05.153374+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T18:34:25.438089+00:00",
+        "lease_expires_at": "2026-09-20T00:34:25.438089+00:00",
+        "run_id": "35451641398"
       }
     },
     "28547": {
@@ -203751,5 +203813,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T18:34:20.371747+00:00"
+  "updated_at": "2026-09-19T18:34:25.722144+00:00"
 }
