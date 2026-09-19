@@ -172700,6 +172700,13 @@
           "target_video_id": "29534223",
           "permanent": false,
           "attempted_at": "2026-09-19T17:05:52.682449+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33094503",
+          "target_video_id": "29534223",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:56:28.789822+00:00"
         }
       ],
       "last_plan": {
@@ -172710,14 +172717,8 @@
       "previous_target_id": "29534223",
       "prepared": {
         "target_video_id": "29534223",
-        "size_bytes": 4157926295,
+        "size_bytes": 4200000000,
         "prepared_at": "2026-09-19T16:52:29.895419+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
-        "claimed_at": "2026-09-19T17:56:15.942054+00:00",
-        "lease_expires_at": "2026-09-19T23:56:15.942054+00:00",
-        "run_id": "35451641398"
       }
     },
     "24102": {
@@ -173741,6 +173742,12 @@
         "target_video_id": "29534361",
         "size_bytes": 1699410602,
         "prepared_at": "2026-09-19T16:59:50.291308+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T17:56:28.507317+00:00",
+        "lease_expires_at": "2026-09-19T23:56:28.507317+00:00",
+        "run_id": "35451641398"
       }
     },
     "18083": {
@@ -177036,7 +177043,15 @@
       }
     },
     "6385": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "19610060",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T17:56:28.638362+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19610060",
         "display_name": "Obřad (2011) 1080p CZ Dabing",
@@ -198651,5 +198666,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:56:26.660250+00:00"
+  "updated_at": "2026-09-19T17:56:28.789848+00:00"
 }
