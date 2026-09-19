@@ -190586,19 +190586,47 @@
       "attempts": []
     },
     "7777": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34667250",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:54:13.660289+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34667250",
         "display_name": "Deník nymfomanky (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-19T21:47:12.690558+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T21:54:12.800725+00:00",
+        "lease_expires_at": "2026-09-20T03:54:12.800725+00:00",
+        "run_id": "35467299794"
       }
     },
     "7293": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13749372",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T21:54:14.669621+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13749372",
         "display_name": "Penzion osamělých srdcí (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T21:47:12.811578+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T21:54:13.879472+00:00",
+        "lease_expires_at": "2026-09-20T03:54:13.879472+00:00",
+        "run_id": "35467299794"
       }
     },
     "23235": {
@@ -190630,6 +190658,18 @@
         "source_id": "33229948",
         "display_name": "Obvinění (2025) 4K CZ Dabing",
         "planned_at": "2026-09-19T21:47:12.931220+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T21:54:14.868710+00:00",
+        "lease_expires_at": "2026-09-20T03:54:14.868710+00:00",
+        "run_id": "35467299794"
+      },
+      "previous_target_id": "29539491",
+      "prepared": {
+        "target_video_id": "29539491",
+        "size_bytes": 6398287764,
+        "prepared_at": "2026-09-19T21:54:18.886149+00:00"
       }
     },
     "11532": {
@@ -205597,5 +205637,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T21:54:08.569252+00:00"
+  "updated_at": "2026-09-19T21:54:18.886166+00:00"
 }
