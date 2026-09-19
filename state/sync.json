@@ -134843,12 +134843,25 @@
           "source_id": "35032461",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T09:47:18.390012+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35032461",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T16:06:32.456121+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35032461",
         "display_name": "Viking: The Berserkers (2014) SD CZ Titulky",
         "planned_at": "2026-09-19T16:06:03.552238+00:00"
+      },
+      "claim": {
+        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-0",
+        "claimed_at": "2026-09-19T16:06:31.873396+00:00",
+        "lease_expires_at": "2026-09-19T22:06:31.873396+00:00",
+        "run_id": "35451641398"
       }
     },
     "33808": {
@@ -135021,13 +135034,6 @@
           "source_id": "13567846",
           "target_video_id": "29314118",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:16:04.667582+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13567846",
-          "target_video_id": "29314118",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:48:03.191340+00:00"
         },
         {
@@ -135036,6 +135042,13 @@
           "target_video_id": "29314118",
           "permanent": false,
           "attempted_at": "2026-09-19T14:21:55.360848+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13567846",
+          "target_video_id": "29314118",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:06:33.837873+00:00"
         }
       ],
       "last_plan": {
@@ -189453,5 +189466,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:06:30.159626+00:00"
+  "updated_at": "2026-09-19T16:06:33.837888+00:00"
 }
