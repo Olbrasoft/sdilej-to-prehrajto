@@ -122276,13 +122276,6 @@
           "source_id": "5851841",
           "target_video_id": "29372539",
           "permanent": false,
-          "attempted_at": "2026-09-19T17:17:06.520645+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "5851841",
-          "target_video_id": "29372539",
-          "permanent": false,
           "attempted_at": "2026-09-19T17:53:20.620260+00:00"
         },
         {
@@ -122291,6 +122284,13 @@
           "target_video_id": "29372539",
           "permanent": false,
           "attempted_at": "2026-09-19T18:31:13.003383+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5851841",
+          "target_video_id": "29372539",
+          "permanent": false,
+          "attempted_at": "2026-09-19T19:05:27.751102+00:00"
         }
       ],
       "last_plan": {
@@ -123681,7 +123681,13 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-14T12:02:55.130247+00:00"
       },
-      "previous_target_id": "29378142"
+      "previous_target_id": "29378142",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
+        "claimed_at": "2026-09-19T19:05:27.274344+00:00",
+        "lease_expires_at": "2026-09-20T01:05:27.274344+00:00",
+        "run_id": "35451641398"
+      }
     },
     "10943": {
       "attempts": [
@@ -123778,7 +123784,13 @@
         "size_bytes": 12100000000,
         "prepared_at": "2026-09-14T13:11:29.689407+00:00"
       },
-      "previous_target_id": "29379664"
+      "previous_target_id": "29379664",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T19:05:26.379576+00:00",
+        "lease_expires_at": "2026-09-20T01:05:26.379576+00:00",
+        "run_id": "35451641398"
+      }
     },
     "20504": {
       "attempts": [],
@@ -123858,7 +123870,13 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-14T12:06:45.800952+00:00"
       },
-      "previous_target_id": "29378254"
+      "previous_target_id": "29378254",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T19:05:26.903350+00:00",
+        "lease_expires_at": "2026-09-20T01:05:26.903350+00:00",
+        "run_id": "35451641398"
+      }
     },
     "16808": {
       "attempts": []
@@ -124455,11 +124473,25 @@
       "attempts": []
     },
     "28672": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35057302",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:05:27.463023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35057302",
         "display_name": "Sword Art Online: Extra Edition (2013) 1080p CZ Titulky",
         "planned_at": "2026-09-19T19:05:04.001727+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T19:05:26.687593+00:00",
+        "lease_expires_at": "2026-09-20T01:05:26.687593+00:00",
+        "run_id": "35451641398"
       }
     },
     "4393": {
@@ -204281,5 +204313,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:05:24.410794+00:00"
+  "updated_at": "2026-09-19T19:05:27.751121+00:00"
 }
