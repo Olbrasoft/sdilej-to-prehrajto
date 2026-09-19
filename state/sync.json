@@ -150246,13 +150246,6 @@
           "source_id": "19946905",
           "target_video_id": "29272265",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:47:30.516948+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19946905",
-          "target_video_id": "29272265",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:26:18.706371+00:00"
         },
         {
@@ -150261,6 +150254,13 @@
           "target_video_id": "29272265",
           "permanent": false,
           "attempted_at": "2026-09-19T23:05:49.315736+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19946905",
+          "target_video_id": "29272265",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:36:15.156762+00:00"
         }
       ],
       "last_plan": {
@@ -156032,7 +156032,13 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-11T06:22:04.212595+00:00"
       },
-      "previous_target_id": "29292898"
+      "previous_target_id": "29292898",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:36:13.485425+00:00",
+        "lease_expires_at": "2026-09-20T05:36:13.485425+00:00",
+        "run_id": "35467299794"
+      }
     },
     "8646": {
       "attempts": [
@@ -180193,12 +180199,25 @@
           "source_id": "29487204",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:20:06.581664+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29487204",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:14.497350+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29487204",
         "display_name": "Mrtvá hlídka (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:35:52.991956+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:36:13.624761+00:00",
+        "lease_expires_at": "2026-09-20T05:36:13.624761+00:00",
+        "run_id": "35467299794"
       }
     },
     "27475": {
@@ -180250,12 +180269,25 @@
           "source_id": "18009916",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:20:08.050686+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "18009916",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:14.314075+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18009916",
         "display_name": "Muž taiči (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:35:53.184082+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:36:13.216916+00:00",
+        "lease_expires_at": "2026-09-20T05:36:13.216916+00:00",
+        "run_id": "35467299794"
       }
     },
     "6580": {
@@ -180276,12 +180308,25 @@
           "source_id": "21709810",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:20:08.633950+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21709810",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:14.159403+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21709810",
         "display_name": "Last Radio Call (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-19T23:35:53.441900+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:36:13.078646+00:00",
+        "lease_expires_at": "2026-09-20T05:36:13.078646+00:00",
+        "run_id": "35467299794"
       }
     },
     "19424": {
@@ -180323,6 +180368,12 @@
         "source_id": "34720819",
         "display_name": "Vlkodlak v dívčí polepšovně (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:35:53.722227+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:36:14.778537+00:00",
+        "lease_expires_at": "2026-09-20T05:36:14.778537+00:00",
+        "run_id": "35467299794"
       }
     },
     "6491": {
@@ -180339,6 +180390,12 @@
         "source_id": "28212054",
         "display_name": "Genie (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:35:53.932689+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-2",
+        "claimed_at": "2026-09-19T23:36:14.638936+00:00",
+        "lease_expires_at": "2026-09-20T05:36:14.638936+00:00",
+        "run_id": "35467299794"
       }
     },
     "13637": {
@@ -180358,6 +180415,12 @@
         "source_id": "34772159",
         "display_name": "Thor: God of Thunder (2022) 720p CZ Titulky",
         "planned_at": "2026-09-19T23:35:54.084836+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-1",
+        "claimed_at": "2026-09-19T23:36:15.007593+00:00",
+        "lease_expires_at": "2026-09-20T05:36:15.007593+00:00",
+        "run_id": "35467299794"
       }
     },
     "13991": {
@@ -216178,5 +216241,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:36:11.271991+00:00"
+  "updated_at": "2026-09-19T23:36:15.156782+00:00"
 }
