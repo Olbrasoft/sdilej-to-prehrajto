@@ -168048,11 +168048,25 @@
       "attempts": []
     },
     "30555": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12217793",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T14:46:09.705027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12217793",
         "display_name": "Madness in the Method (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-19T14:22:45.091381+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T14:46:08.976992+00:00",
+        "lease_expires_at": "2026-09-19T20:46:08.976992+00:00",
+        "run_id": "35435106149"
       }
     },
     "23976": {
@@ -168101,11 +168115,25 @@
       "attempts": []
     },
     "30574": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "8518733",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T14:46:10.583158+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8518733",
         "display_name": "Most Beautiful Island (2017) 1080p CZ Titulky",
         "planned_at": "2026-09-19T14:22:45.285790+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T14:46:09.902417+00:00",
+        "lease_expires_at": "2026-09-19T20:46:09.902417+00:00",
+        "run_id": "35435106149"
       }
     },
     "23001": {
@@ -168114,6 +168142,18 @@
         "source_id": "27795129",
         "display_name": "Salsa (1988) SD CZ Dabing",
         "planned_at": "2026-09-19T14:22:45.477523+00:00"
+      },
+      "claim": {
+        "worker_id": "076fa134beef4d3e94a6a7008ff7fcde-shard-4",
+        "claimed_at": "2026-09-19T14:46:10.778945+00:00",
+        "lease_expires_at": "2026-09-19T20:46:10.778945+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29531274",
+      "prepared": {
+        "target_video_id": "29531274",
+        "size_bytes": 945123328,
+        "prepared_at": "2026-09-19T14:46:14.276651+00:00"
       }
     },
     "6137": {
@@ -193358,5 +193398,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T14:46:07.208877+00:00"
+  "updated_at": "2026-09-19T14:46:14.276675+00:00"
 }
