@@ -65504,13 +65504,6 @@
     "13486": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33708286",
-          "reason": "Request failed for https://sdilej.cz/33708286/kam-slunce-nechodi-1971-1080p.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-18T19:44:49.355443+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "33708286",
           "reason": "PrehrajtoError",
@@ -65525,23 +65518,20 @@
           "permanent": false,
           "target_video_id": "29503403",
           "attempted_at": "2026-09-18T22:05:48.410641+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33708286",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29507297",
+          "attempted_at": "2026-09-19T01:10:43.724317+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí... (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-19T00:49:12.090365+00:00"
-      },
-      "claim": {
-        "worker_id": "759191c3d3e44c37b418e5cddec70ac2-shard-3",
-        "claimed_at": "2026-09-19T00:59:07.401015+00:00",
-        "lease_expires_at": "2026-09-19T06:59:07.401015+00:00",
-        "run_id": "35405560473"
-      },
-      "prepared": {
-        "target_video_id": "29507297",
-        "size_bytes": 1484316578,
-        "prepared_at": "2026-09-19T00:59:12.313843+00:00"
       }
     },
     "35753": {
@@ -174409,5 +174399,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T01:09:51.487082+00:00"
+  "updated_at": "2026-09-19T01:10:43.724332+00:00"
 }
