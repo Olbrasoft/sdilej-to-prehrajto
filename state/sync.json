@@ -171175,6 +171175,13 @@
           "source_id": "31576724",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:09:51.827667+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31576724",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:26:39.040854+00:00"
         }
       ],
       "last_plan": {
@@ -184899,22 +184906,10 @@
           "attempted_at": "2026-09-19T21:47:52.852970+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33537534",
-        "display_name": "Invaze (2007) 4K CZ Dabing",
-        "planned_at": "2026-09-19T22:25:50.198397+00:00"
-      },
       "previous_target_id": "29536857",
-      "prepared": {
+      "upload": {
         "target_video_id": "29536857",
-        "size_bytes": 4400000000,
-        "prepared_at": "2026-09-19T19:22:16.867554+00:00"
-      },
-      "claim": {
-        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-4",
-        "claimed_at": "2026-09-19T22:26:37.020992+00:00",
-        "lease_expires_at": "2026-09-20T04:26:37.020992+00:00",
-        "run_id": "35467299794"
+        "uploaded_at": "2026-09-19T22:26:39.300274+00:00"
       }
     },
     "25700": {
@@ -189927,6 +189922,12 @@
         "target_video_id": "29538713",
         "size_bytes": 4208913776,
         "prepared_at": "2026-09-19T21:14:12.594416+00:00"
+      },
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-0",
+        "claimed_at": "2026-09-19T22:26:38.906451+00:00",
+        "lease_expires_at": "2026-09-20T04:26:38.906451+00:00",
+        "run_id": "35467299794"
       }
     },
     "35264": {
@@ -190681,6 +190682,12 @@
         "target_video_id": "29538742",
         "size_bytes": 11521752784,
         "prepared_at": "2026-09-19T21:15:21.555212+00:00"
+      },
+      "claim": {
+        "worker_id": "b793c70ee27545e3a9cfa413b252b621-shard-5",
+        "claimed_at": "2026-09-19T22:26:39.169781+00:00",
+        "lease_expires_at": "2026-09-20T04:26:39.169781+00:00",
+        "run_id": "35467299794"
       }
     },
     "6761": {
@@ -207419,5 +207426,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:26:37.149979+00:00"
+  "updated_at": "2026-09-19T22:26:39.300290+00:00"
 }
