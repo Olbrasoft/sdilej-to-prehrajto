@@ -86610,21 +86610,9 @@
           "attempted_at": "2026-09-19T07:01:40.021131+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29487771",
-        "display_name": "Krakonošovo tajemství (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:37:36.195433+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29518110",
-        "size_bytes": 2271916226,
-        "prepared_at": "2026-09-19T06:57:05.813752+00:00"
-      },
-      "claim": {
-        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
-        "claimed_at": "2026-09-19T09:38:31.242490+00:00",
-        "lease_expires_at": "2026-09-19T15:38:31.242490+00:00",
-        "run_id": "35435106149"
+        "uploaded_at": "2026-09-19T09:38:36.009201+00:00"
       }
     },
     "16708": {
@@ -86703,6 +86691,13 @@
           "reason": "Request failed for https://sdilej.cz/34849249/oliver-a-bazen-2022-cz-dabing-1080p-fhd.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T06:58:04.215123+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34849249",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:38:35.599622+00:00"
         }
       ],
       "last_plan": {
@@ -87041,6 +87036,12 @@
         "target_video_id": "29137913",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-05T17:33:42.441521+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:38:35.799651+00:00",
+        "lease_expires_at": "2026-09-19T15:38:35.799651+00:00",
+        "run_id": "35435106149"
       }
     },
     "12345": {
@@ -176009,5 +176010,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:33.692197+00:00"
+  "updated_at": "2026-09-19T09:38:36.009220+00:00"
 }
