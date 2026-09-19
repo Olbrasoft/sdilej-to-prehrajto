@@ -24174,7 +24174,13 @@
         "size_bytes": 20300000000,
         "prepared_at": "2026-09-05T09:26:05.229861+00:00"
       },
-      "previous_target_id": "29128110"
+      "previous_target_id": "29128110",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T17:41:27.473164+00:00",
+        "lease_expires_at": "2026-09-19T23:41:27.473164+00:00",
+        "run_id": "35451641398"
+      }
     },
     "22282": {
       "attempts": []
@@ -24340,7 +24346,13 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-18T15:12:48.910441+00:00"
       },
-      "previous_target_id": "29489297"
+      "previous_target_id": "29489297",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T17:41:27.658687+00:00",
+        "lease_expires_at": "2026-09-19T23:41:27.658687+00:00",
+        "run_id": "35451641398"
+      }
     },
     "24800": {
       "attempts": []
@@ -174871,17 +174883,19 @@
       }
     },
     "6340": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32250762",
+          "target_video_id": "29535038",
+          "permanent": false,
+          "attempted_at": "2026-09-19T17:41:27.784565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32250762",
         "display_name": "Sestry (2015) 720p CZ Dabing",
         "planned_at": "2026-09-19T17:20:41.640836+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
-        "claimed_at": "2026-09-19T17:32:11.174198+00:00",
-        "lease_expires_at": "2026-09-19T23:32:11.174198+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29535038",
       "prepared": {
@@ -196989,5 +197003,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T17:41:25.738628+00:00"
+  "updated_at": "2026-09-19T17:41:27.784587+00:00"
 }
