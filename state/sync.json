@@ -148364,6 +148364,12 @@
         "claimed_at": "2026-09-19T11:35:14.514737+00:00",
         "lease_expires_at": "2026-09-19T17:35:14.514737+00:00",
         "run_id": "35435106149"
+      },
+      "previous_target_id": "29527460",
+      "prepared": {
+        "target_video_id": "29527460",
+        "size_bytes": 2123872707,
+        "prepared_at": "2026-09-19T11:35:19.707235+00:00"
       }
     },
     "19782": {
@@ -148422,7 +148428,15 @@
       "attempts": []
     },
     "36654": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29958806",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:35:19.108182+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29958806",
         "display_name": "Den delfína (1973) 1080p CZ Dabing",
@@ -148459,6 +148473,12 @@
         "source_id": "34023629",
         "display_name": "Mafia Wars (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:34:26.285653+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
+        "claimed_at": "2026-09-19T11:35:19.310078+00:00",
+        "lease_expires_at": "2026-09-19T17:35:19.310078+00:00",
+        "run_id": "35435106149"
       }
     },
     "17318": {
@@ -148485,6 +148505,12 @@
         "source_id": "34477883",
         "display_name": "Pilotův návrat (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:34:26.504783+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
+        "claimed_at": "2026-09-19T11:35:19.510496+00:00",
+        "lease_expires_at": "2026-09-19T17:35:19.510496+00:00",
+        "run_id": "35435106149"
       }
     },
     "4866": {
@@ -182962,5 +182988,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:35:17.352739+00:00"
+  "updated_at": "2026-09-19T11:35:19.707253+00:00"
 }
