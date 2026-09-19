@@ -103365,13 +103365,6 @@
           "source_id": "27047112",
           "target_video_id": "29167146",
           "permanent": false,
-          "attempted_at": "2026-09-19T13:12:06.870643+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27047112",
-          "target_video_id": "29167146",
-          "permanent": false,
           "attempted_at": "2026-09-19T13:45:14.748562+00:00"
         },
         {
@@ -103380,6 +103373,13 @@
           "target_video_id": "29167146",
           "permanent": false,
           "attempted_at": "2026-09-19T14:18:01.594052+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27047112",
+          "target_video_id": "29167146",
+          "permanent": false,
+          "attempted_at": "2026-09-19T16:03:04.740207+00:00"
         }
       ],
       "last_plan": {
@@ -103392,13 +103392,7 @@
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-06T17:20:16.514206+00:00"
       },
-      "previous_target_id": "29167146",
-      "claim": {
-        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-1",
-        "claimed_at": "2026-09-19T16:03:00.657798+00:00",
-        "lease_expires_at": "2026-09-19T22:03:00.657798+00:00",
-        "run_id": "35451641398"
-      }
+      "previous_target_id": "29167146"
     },
     "31482": {
       "attempts": []
@@ -104365,7 +104359,13 @@
         "display_name": "Temná zrada (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-19T16:02:31.794389+00:00"
       },
-      "previous_target_id": "29412861"
+      "previous_target_id": "29412861",
+      "claim": {
+        "worker_id": "a9a025d68da0472cbbec63fbad809d9f-shard-2",
+        "claimed_at": "2026-09-19T16:03:04.588213+00:00",
+        "lease_expires_at": "2026-09-19T22:03:04.588213+00:00",
+        "run_id": "35451641398"
+      }
     },
     "34620": {
       "attempts": []
@@ -189390,5 +189390,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T16:03:02.803313+00:00"
+  "updated_at": "2026-09-19T16:03:04.740230+00:00"
 }
