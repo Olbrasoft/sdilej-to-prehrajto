@@ -85772,17 +85772,19 @@
       "attempts": []
     },
     "31850": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34714414",
+          "reason": "Request failed for https://sdilej.cz/34714414/zkroceni-zleho-muze-1987-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T06:56:03.752216+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34714414",
         "display_name": "Zkrocení zlého muže (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:39:18.588105+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-4",
-        "claimed_at": "2026-09-19T06:55:17.868354+00:00",
-        "lease_expires_at": "2026-09-19T12:55:17.868354+00:00",
-        "run_id": "35421412982"
       }
     },
     "5449": {
@@ -175343,5 +175345,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:55:22.193098+00:00"
+  "updated_at": "2026-09-19T06:56:03.752232+00:00"
 }
