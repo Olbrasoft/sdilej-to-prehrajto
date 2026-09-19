@@ -132991,14 +132991,6 @@
           "source_id": "34661757",
           "reason": "PrehrajtoError",
           "permanent": false,
-          "target_video_id": "29315394",
-          "attempted_at": "2026-09-12T03:43:32.057119+00:00"
-        },
-        {
-          "status": "upload_failed",
-          "source_id": "34661757",
-          "reason": "PrehrajtoError",
-          "permanent": false,
           "target_video_id": "29400424",
           "attempted_at": "2026-09-15T07:40:45.489941+00:00"
         },
@@ -133008,6 +133000,13 @@
           "reason": "Request failed for https://sdilej.cz/34661757/vsechno-nebo-nic-2017-fhd.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-15T12:24:27.719577+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34661757",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:17.672817+00:00"
         }
       ],
       "last_plan": {
@@ -133020,7 +133019,8 @@
         "claimed_at": "2026-09-19T09:47:14.614137+00:00",
         "lease_expires_at": "2026-09-19T15:47:14.614137+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29400424"
     },
     "30955": {
       "attempts": []
@@ -133084,6 +133084,12 @@
         "target_video_id": "29403762",
         "size_bytes": 5341936703,
         "prepared_at": "2026-09-15T12:23:50.593851+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-2",
+        "claimed_at": "2026-09-19T09:47:16.963445+00:00",
+        "lease_expires_at": "2026-09-19T15:47:16.963445+00:00",
+        "run_id": "35435106149"
       }
     },
     "29599": {
@@ -133257,13 +133263,27 @@
           "reason": "Prepared video is absent from uploaded listing",
           "permanent": false,
           "attempted_at": "2026-09-15T12:24:33.297871+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34900534",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:18.869600+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34900534",
         "display_name": "Eating Out 2: Sloppy Seconds (2006) SD CZ Titulky",
         "planned_at": "2026-09-19T09:46:04.748115+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-0",
+        "claimed_at": "2026-09-19T09:47:17.875173+00:00",
+        "lease_expires_at": "2026-09-19T15:47:17.875173+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29400453"
     },
     "4500": {
       "attempts": []
@@ -133549,11 +133569,25 @@
       }
     },
     "27819": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35028520",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:18.640043+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35028520",
         "display_name": "Přerušené ticho (2012) SD CZ Dabing",
         "planned_at": "2026-09-19T09:46:04.924657+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-4",
+        "claimed_at": "2026-09-19T09:47:17.492953+00:00",
+        "lease_expires_at": "2026-09-19T15:47:17.492953+00:00",
+        "run_id": "35435106149"
       }
     },
     "13677": {
@@ -133911,15 +133945,9 @@
           "attempted_at": "2026-09-15T12:28:52.318111+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33772630",
-        "display_name": "Pěsti smrti (1976) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T09:46:05.103543+00:00"
-      },
-      "prepared": {
+      "upload": {
         "target_video_id": "29403783",
-        "size_bytes": 2311220126,
-        "prepared_at": "2026-09-15T12:24:47.333354+00:00"
+        "uploaded_at": "2026-09-19T09:47:19.051095+00:00"
       }
     },
     "4746": {
@@ -133947,11 +133975,25 @@
       }
     },
     "28775": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35032461",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:47:18.390012+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35032461",
         "display_name": "Viking: The Berserkers (2014) SD CZ Titulky",
         "planned_at": "2026-09-19T09:46:05.281461+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-1",
+        "claimed_at": "2026-09-19T09:47:17.317351+00:00",
+        "lease_expires_at": "2026-09-19T15:47:17.317351+00:00",
+        "run_id": "35435106149"
       }
     },
     "33808": {
@@ -133980,6 +134022,12 @@
         "target_video_id": "29403790",
         "size_bytes": 2600660057,
         "prepared_at": "2026-09-15T12:25:47.408547+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9259530b9749ec8be1f544d8afd222-shard-5",
+        "claimed_at": "2026-09-19T09:47:18.076524+00:00",
+        "lease_expires_at": "2026-09-19T15:47:18.076524+00:00",
+        "run_id": "35435106149"
       }
     },
     "32344": {
@@ -176331,5 +176379,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:47:14.965338+00:00"
+  "updated_at": "2026-09-19T09:47:19.051117+00:00"
 }
