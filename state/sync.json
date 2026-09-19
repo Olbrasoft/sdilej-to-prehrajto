@@ -158523,22 +158523,10 @@
           "attempted_at": "2026-09-19T13:17:41.201996+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30283842",
-        "display_name": "Pokušení (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-19T13:48:37.163313+00:00"
-      },
       "previous_target_id": "29528509",
-      "prepared": {
+      "upload": {
         "target_video_id": "29528509",
-        "size_bytes": 2200000000,
-        "prepared_at": "2026-09-19T12:20:53.335285+00:00"
-      },
-      "claim": {
-        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-5",
-        "claimed_at": "2026-09-19T13:49:06.058655+00:00",
-        "lease_expires_at": "2026-09-19T19:49:06.058655+00:00",
-        "run_id": "35435106149"
+        "uploaded_at": "2026-09-19T13:49:17.087587+00:00"
       }
     },
     "15547": {
@@ -164049,7 +164037,15 @@
       "attempts": []
     },
     "31793": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34714321",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:49:16.246565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34714321",
         "display_name": "Edge of Sanity (1989) SD CZ Dabing",
@@ -164063,7 +164059,15 @@
       }
     },
     "31385": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34713923",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:49:16.451838+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713923",
         "display_name": "Vánoce s vévodou (2023) 1080p CZ Dabing",
@@ -164085,6 +164089,12 @@
         "source_id": "32794111",
         "display_name": "Border Hunters (2025) 1080p CZ Titulky",
         "planned_at": "2026-09-19T13:48:38.383415+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:49:16.043665+00:00",
+        "lease_expires_at": "2026-09-19T19:49:16.043665+00:00",
+        "run_id": "35435106149"
       }
     },
     "12888": {
@@ -164099,6 +164109,12 @@
         "source_id": "30398187",
         "display_name": "Jmenuji se Bruce (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:48:38.579389+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-4",
+        "claimed_at": "2026-09-19T13:49:16.678118+00:00",
+        "lease_expires_at": "2026-09-19T19:49:16.678118+00:00",
+        "run_id": "35435106149"
       }
     },
     "37147": {
@@ -164110,6 +164126,12 @@
         "source_id": "27907278",
         "display_name": "Neuvěřitelná dobrodružství Tada Stonese (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:48:38.782935+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-0",
+        "claimed_at": "2026-09-19T13:49:16.891651+00:00",
+        "lease_expires_at": "2026-09-19T19:49:16.891651+00:00",
+        "run_id": "35435106149"
       }
     },
     "5855": {
@@ -190969,5 +190991,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:49:14.297814+00:00"
+  "updated_at": "2026-09-19T13:49:17.087610+00:00"
 }
