@@ -105999,7 +105999,13 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-08T17:53:52.893882+00:00"
       },
-      "previous_target_id": "29219599"
+      "previous_target_id": "29219599",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-0",
+        "claimed_at": "2026-09-19T19:03:20.548151+00:00",
+        "lease_expires_at": "2026-09-20T01:03:20.548151+00:00",
+        "run_id": "35451641398"
+      }
     },
     "9468": {
       "attempts": []
@@ -106059,7 +106065,13 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-08T18:20:50.891256+00:00"
       },
-      "previous_target_id": "29220276"
+      "previous_target_id": "29220276",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-2",
+        "claimed_at": "2026-09-19T19:03:21.168616+00:00",
+        "lease_expires_at": "2026-09-20T01:03:21.168616+00:00",
+        "run_id": "35451641398"
+      }
     },
     "14305": {
       "attempts": []
@@ -106191,7 +106203,13 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-08T18:26:56.547336+00:00"
       },
-      "previous_target_id": "29220435"
+      "previous_target_id": "29220435",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-3",
+        "claimed_at": "2026-09-19T19:03:21.013583+00:00",
+        "lease_expires_at": "2026-09-20T01:03:21.013583+00:00",
+        "run_id": "35451641398"
+      }
     },
     "9488": {
       "attempts": []
@@ -106233,7 +106251,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-08T18:28:54.655904+00:00"
       },
-      "previous_target_id": "29220516"
+      "previous_target_id": "29220516",
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-4",
+        "claimed_at": "2026-09-19T19:03:20.763642+00:00",
+        "lease_expires_at": "2026-09-20T01:03:20.763642+00:00",
+        "run_id": "35451641398"
+      }
     },
     "28518": {
       "attempts": []
@@ -165815,18 +165839,19 @@
           "reason": "Request failed for https://sdilej.cz/34949219/beast-2026-4k.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T14:02:01.670508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34949219",
+          "target_video_id": "29532958",
+          "permanent": false,
+          "attempted_at": "2026-09-19T19:03:21.601520+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34949219",
         "display_name": "Beast (2026) 4K CZ Dabing",
         "planned_at": "2026-09-19T16:07:36.727709+00:00"
-      },
-      "claim": {
-        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-1",
-        "claimed_at": "2026-09-19T16:08:39.211435+00:00",
-        "lease_expires_at": "2026-09-19T22:08:39.211435+00:00",
-        "run_id": "35451641398"
       },
       "previous_target_id": "29532958",
       "prepared": {
@@ -204275,5 +204300,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:03:18.684555+00:00"
+  "updated_at": "2026-09-19T19:03:21.601538+00:00"
 }
