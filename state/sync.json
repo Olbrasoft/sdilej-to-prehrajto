@@ -135644,13 +135644,6 @@
     "4670": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34192586",
-          "reason": "Request failed for https://sdilej.cz/34192586/cela-2000-jennifer-lopez-dylan-baker-czdab.uhdr.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-19T09:57:31.929343+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34192586",
           "target_video_id": "29527097",
@@ -135663,6 +135656,13 @@
           "target_video_id": "29527097",
           "permanent": false,
           "attempted_at": "2026-09-19T12:01:17.822453+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34192586",
+          "target_video_id": "29527097",
+          "permanent": false,
+          "attempted_at": "2026-09-19T12:35:19.054270+00:00"
         }
       ],
       "last_plan": {
@@ -135675,12 +135675,6 @@
         "target_video_id": "29527097",
         "size_bytes": 4700000000,
         "prepared_at": "2026-09-19T11:15:53.004855+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-3",
-        "claimed_at": "2026-09-19T12:35:14.303046+00:00",
-        "lease_expires_at": "2026-09-19T18:35:14.303046+00:00",
-        "run_id": "35435106149"
       }
     },
     "25160": {
@@ -187593,5 +187587,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T12:35:17.345075+00:00"
+  "updated_at": "2026-09-19T12:35:19.054288+00:00"
 }
