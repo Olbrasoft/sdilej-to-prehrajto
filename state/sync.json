@@ -4084,7 +4084,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-07T00:26:53.231355+00:00"
       },
-      "previous_target_id": "29175005"
+      "previous_target_id": "29175005",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-3",
+        "claimed_at": "2026-09-19T13:38:50.615815+00:00",
+        "lease_expires_at": "2026-09-19T19:38:50.615815+00:00",
+        "run_id": "35435106149"
+      }
     },
     "21939": {
       "attempts": [
@@ -4197,13 +4203,6 @@
           "source_id": "15283636",
           "target_video_id": "29207536",
           "permanent": false,
-          "attempted_at": "2026-09-19T12:04:07.777641+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15283636",
-          "target_video_id": "29207536",
-          "permanent": false,
           "attempted_at": "2026-09-19T12:36:17.974720+00:00"
         },
         {
@@ -4212,6 +4211,13 @@
           "target_video_id": "29207536",
           "permanent": false,
           "attempted_at": "2026-09-19T13:06:45.960819+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15283636",
+          "target_video_id": "29207536",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:38:51.823804+00:00"
         }
       ],
       "last_plan": {
@@ -4465,7 +4471,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
       },
-      "previous_target_id": "29124911"
+      "previous_target_id": "29124911",
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-0",
+        "claimed_at": "2026-09-19T13:38:50.855375+00:00",
+        "lease_expires_at": "2026-09-19T19:38:50.855375+00:00",
+        "run_id": "35435106149"
+      }
     },
     "327": {
       "attempts": [
@@ -190789,5 +190801,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:38:48.657852+00:00"
+  "updated_at": "2026-09-19T13:38:51.823823+00:00"
 }
