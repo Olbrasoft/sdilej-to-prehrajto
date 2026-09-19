@@ -55806,7 +55806,13 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T13:45:12.274869+00:00"
       },
-      "previous_target_id": "29129778"
+      "previous_target_id": "29129778",
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:45:55.371404+00:00",
+        "lease_expires_at": "2026-09-19T17:45:55.371404+00:00",
+        "run_id": "35435106149"
+      }
     },
     "2691": {
       "attempts": []
@@ -149255,17 +149261,19 @@
       "attempts": []
     },
     "4883": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34869953",
+          "target_video_id": "29527529",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:45:55.660662+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34869953",
         "display_name": "Ledově ostří (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:34:31.061162+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-4",
-        "claimed_at": "2026-09-19T11:38:59.580984+00:00",
-        "lease_expires_at": "2026-09-19T17:38:59.580984+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29527529",
       "prepared": {
@@ -183358,5 +183366,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:45:53.669940+00:00"
+  "updated_at": "2026-09-19T11:45:55.660684+00:00"
 }
