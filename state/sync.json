@@ -41461,13 +41461,6 @@
           "source_id": "28552319",
           "target_video_id": "29174881",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:35:41.880143+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28552319",
-          "target_video_id": "29174881",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:14:18.630905+00:00"
         },
         {
@@ -41476,6 +41469,13 @@
           "target_video_id": "29174881",
           "permanent": false,
           "attempted_at": "2026-09-19T22:52:53.131185+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28552319",
+          "target_video_id": "29174881",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:24:34.174116+00:00"
         }
       ],
       "last_plan": {
@@ -144744,12 +144744,25 @@
           "source_id": "33780843",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:29.172257+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33780843",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:24:33.515598+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33780843",
         "display_name": "Nedáme trojku? (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:22:53.504585+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:24:32.559352+00:00",
+        "lease_expires_at": "2026-09-20T05:24:32.559352+00:00",
+        "run_id": "35467299794"
       }
     },
     "23002": {
@@ -144804,12 +144817,25 @@
           "source_id": "12884332",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:29.543106+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12884332",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:24:33.732599+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12884332",
         "display_name": "Nadechni se (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:22:53.642656+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:24:32.420392+00:00",
+        "lease_expires_at": "2026-09-20T05:24:32.420392+00:00",
+        "run_id": "35467299794"
       }
     },
     "13111": {
@@ -144914,6 +144940,12 @@
         "source_id": "34694400",
         "display_name": "Vítej smutku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:22:53.773442+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-4",
+        "claimed_at": "2026-09-19T23:24:34.012454+00:00",
+        "lease_expires_at": "2026-09-20T05:24:34.012454+00:00",
+        "run_id": "35467299794"
       }
     },
     "33713": {
@@ -144997,6 +145029,12 @@
         "source_id": "26803391",
         "display_name": "Pan Dokonalý (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:22:53.977216+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:24:33.872285+00:00",
+        "lease_expires_at": "2026-09-20T05:24:33.872285+00:00",
+        "run_id": "35467299794"
       }
     },
     "30720": {
@@ -215017,5 +215055,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:24:30.548699+00:00"
+  "updated_at": "2026-09-19T23:24:34.174134+00:00"
 }
