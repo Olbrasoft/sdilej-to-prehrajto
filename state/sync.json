@@ -73166,7 +73166,13 @@
         "size_bytes": 11700000000,
         "prepared_at": "2026-09-17T04:50:53.751459+00:00"
       },
-      "previous_target_id": "29443370"
+      "previous_target_id": "29443370",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-3",
+        "claimed_at": "2026-09-19T22:18:55.212024+00:00",
+        "lease_expires_at": "2026-09-20T04:18:55.212024+00:00",
+        "run_id": "35467299794"
+      }
     },
     "29773": {
       "attempts": []
@@ -73397,13 +73403,6 @@
           "source_id": "13337326",
           "target_video_id": "29443431",
           "permanent": false,
-          "attempted_at": "2026-09-19T20:22:17.627912+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13337326",
-          "target_video_id": "29443431",
-          "permanent": false,
           "attempted_at": "2026-09-19T21:04:45.309777+00:00"
         },
         {
@@ -73412,6 +73411,13 @@
           "target_video_id": "29443431",
           "permanent": false,
           "attempted_at": "2026-09-19T21:40:50.927517+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13337326",
+          "target_video_id": "29443431",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:18:56.338578+00:00"
         }
       ],
       "last_plan": {
@@ -75249,7 +75255,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-18T04:35:02.715700+00:00"
       },
-      "previous_target_id": "29468741"
+      "previous_target_id": "29468741",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-2",
+        "claimed_at": "2026-09-19T22:18:55.062832+00:00",
+        "lease_expires_at": "2026-09-20T04:18:55.062832+00:00",
+        "run_id": "35467299794"
+      }
     },
     "22342": {
       "attempts": []
@@ -75557,14 +75569,6 @@
     "3142": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "29860661",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29522917",
-          "attempted_at": "2026-09-19T08:43:03.205620+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "29860661",
@@ -75577,6 +75581,13 @@
           "source_id": "29860661",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T15:57:16.909014+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29860661",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:18:56.165351+00:00"
         }
       ],
       "last_plan": {
@@ -75584,7 +75595,13 @@
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-19T22:17:59.728201+00:00"
       },
-      "previous_target_id": "29522917"
+      "previous_target_id": "29522917",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
+        "claimed_at": "2026-09-19T22:18:55.361645+00:00",
+        "lease_expires_at": "2026-09-20T04:18:55.361645+00:00",
+        "run_id": "35467299794"
+      }
     },
     "21194": {
       "attempts": []
@@ -75896,12 +75913,25 @@
           "source_id": "35058003",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T15:57:17.935768+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35058003",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T22:18:55.815310+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35058003",
         "display_name": "Peníze těch druhých (1978) 720p CZ Dabing",
         "planned_at": "2026-09-19T22:17:59.857946+00:00"
+      },
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-0",
+        "claimed_at": "2026-09-19T22:18:54.919577+00:00",
+        "lease_expires_at": "2026-09-20T04:18:54.919577+00:00",
+        "run_id": "35467299794"
       }
     },
     "12124": {
@@ -76447,7 +76477,13 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-05T21:00:10.792347+00:00"
       },
-      "previous_target_id": "29141933"
+      "previous_target_id": "29141933",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-0",
+        "claimed_at": "2026-09-19T22:18:55.977406+00:00",
+        "lease_expires_at": "2026-09-20T04:18:55.977406+00:00",
+        "run_id": "35467299794"
+      }
     },
     "16214": {
       "attempts": []
@@ -206487,5 +206523,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:18:53.014847+00:00"
+  "updated_at": "2026-09-19T22:18:56.338601+00:00"
 }
