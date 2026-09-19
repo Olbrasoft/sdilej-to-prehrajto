@@ -147139,17 +147139,19 @@
       "attempts": []
     },
     "8258": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32763163",
+          "target_video_id": "29527333",
+          "permanent": false,
+          "attempted_at": "2026-09-19T11:34:15.298959+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32763163",
         "display_name": "V oblacích (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:24:50.241974+00:00"
-      },
-      "claim": {
-        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-0",
-        "claimed_at": "2026-09-19T11:28:47.722383+00:00",
-        "lease_expires_at": "2026-09-19T17:28:47.722383+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29527333",
       "prepared": {
@@ -148049,7 +148051,15 @@
       }
     },
     "5228": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33094548",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T11:34:15.093097+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33094548",
         "display_name": "Centurion (2010) 1080p CZ Dabing",
@@ -148086,6 +148096,12 @@
         "source_id": "30136913",
         "display_name": "Základ rodiny (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-19T11:32:44.899466+00:00"
+      },
+      "claim": {
+        "worker_id": "b43f17b7fcaa46d89b07aff8dac39fab-shard-1",
+        "claimed_at": "2026-09-19T11:34:14.863936+00:00",
+        "lease_expires_at": "2026-09-19T17:34:14.863936+00:00",
+        "run_id": "35435106149"
       }
     },
     "5258": {
@@ -182673,5 +182689,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T11:34:13.106162+00:00"
+  "updated_at": "2026-09-19T11:34:15.298972+00:00"
 }
