@@ -50752,13 +50752,6 @@
           "source_id": "24749155",
           "target_video_id": "29491587",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:37:48.273339+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24749155",
-          "target_video_id": "29491587",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:16:17.514778+00:00"
         },
         {
@@ -50767,6 +50760,13 @@
           "target_video_id": "29491587",
           "permanent": false,
           "attempted_at": "2026-09-19T22:54:44.254100+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24749155",
+          "target_video_id": "29491587",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:26:31.356162+00:00"
         }
       ],
       "last_plan": {
@@ -51281,7 +51281,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-16T14:31:53.532291+00:00"
       },
-      "previous_target_id": "29429650"
+      "previous_target_id": "29429650",
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:26:30.398108+00:00",
+        "lease_expires_at": "2026-09-20T05:26:30.398108+00:00",
+        "run_id": "35467299794"
+      }
     },
     "1954": {
       "attempts": []
@@ -145342,12 +145348,25 @@
           "source_id": "33791481",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:34.193213+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33791481",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:26:30.972652+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33791481",
         "display_name": "Proč já? (1990) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:24:45.956894+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:26:30.267862+00:00",
+        "lease_expires_at": "2026-09-20T05:26:30.267862+00:00",
+        "run_id": "35467299794"
       }
     },
     "31488": {
@@ -145436,6 +145455,12 @@
         "source_id": "32106845",
         "display_name": "Dívka z přívěsu (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:24:46.094892+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
+        "claimed_at": "2026-09-19T23:26:31.119694+00:00",
+        "lease_expires_at": "2026-09-20T05:26:31.119694+00:00",
+        "run_id": "35467299794"
       }
     },
     "13603": {
@@ -215121,5 +215146,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:26:28.343703+00:00"
+  "updated_at": "2026-09-19T23:26:31.356182+00:00"
 }
