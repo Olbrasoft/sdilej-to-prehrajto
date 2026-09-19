@@ -84981,17 +84981,19 @@
       "attempts": []
     },
     "5624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31885766",
+          "reason": "Request failed for https://sdilej.cz/31885766/cesta-do-lesa-2012-hd-1920x1080-hb2500-aac192-2pass-encoding-spark-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-19T06:49:19.680300+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31885766",
         "display_name": "Cesta do lesa (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T06:39:15.518754+00:00"
-      },
-      "claim": {
-        "worker_id": "42a4e17910d04c37a7fe16bd7a36a403-shard-3",
-        "claimed_at": "2026-09-19T06:48:33.701697+00:00",
-        "lease_expires_at": "2026-09-19T12:48:33.701697+00:00",
-        "run_id": "35421412982"
       }
     },
     "15508": {
@@ -175276,5 +175278,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T06:49:11.193925+00:00"
+  "updated_at": "2026-09-19T06:49:19.680320+00:00"
 }
