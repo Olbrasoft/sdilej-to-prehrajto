@@ -192347,7 +192347,15 @@
       "attempts": []
     },
     "25687": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30760566",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T19:58:02.779128+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30760566",
         "display_name": "Velká fuška (2010) SD CZ Dabing",
@@ -192393,6 +192401,18 @@
         "source_id": "13859867",
         "display_name": "Záletníci (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-19T19:57:39.878535+00:00"
+      },
+      "claim": {
+        "worker_id": "508719fd9e6e4bc1a48b16434df39193-shard-5",
+        "claimed_at": "2026-09-19T19:58:03.002939+00:00",
+        "lease_expires_at": "2026-09-20T01:58:03.002939+00:00",
+        "run_id": "35451641398"
+      },
+      "previous_target_id": "29537487",
+      "prepared": {
+        "target_video_id": "29537487",
+        "size_bytes": 2330185774,
+        "prepared_at": "2026-09-19T19:58:06.261132+00:00"
       }
     },
     "25500": {
@@ -210450,5 +210470,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T19:58:00.787865+00:00"
+  "updated_at": "2026-09-19T19:58:06.261149+00:00"
 }
