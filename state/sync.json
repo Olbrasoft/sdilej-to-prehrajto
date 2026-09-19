@@ -87998,13 +87998,6 @@
           "source_id": "23285912",
           "target_video_id": "29179714",
           "permanent": false,
-          "attempted_at": "2026-09-18T14:59:18.148220+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23285912",
-          "target_video_id": "29179714",
-          "permanent": false,
           "attempted_at": "2026-09-18T17:49:47.212280+00:00"
         },
         {
@@ -88013,6 +88006,13 @@
           "target_video_id": "29179714",
           "permanent": false,
           "attempted_at": "2026-09-18T19:21:06.432405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23285912",
+          "target_video_id": "29179714",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:38:52.833070+00:00"
         }
       ],
       "last_plan": {
@@ -88025,12 +88025,7 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-07T06:38:05.111923+00:00"
       },
-      "claim": {
-        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-0",
-        "claimed_at": "2026-09-19T09:38:44.085769+00:00",
-        "lease_expires_at": "2026-09-19T15:38:44.085769+00:00",
-        "run_id": "35435106149"
-      }
+      "previous_target_id": "29179714"
     },
     "35306": {
       "attempts": []
@@ -89105,14 +89100,6 @@
     "8119": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "30673323",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29489060",
-          "attempted_at": "2026-09-18T15:12:16.998856+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30673323",
           "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
@@ -89125,6 +89112,14 @@
           "reason": "Request failed for https://sdilej.cz/30673323/indian-2022-komedie-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-18T19:22:18.655385+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "30673323",
+          "target_video_id": "29489060",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-19T09:38:52.613788+00:00"
         }
       ],
       "last_plan": {
@@ -89137,7 +89132,8 @@
         "claimed_at": "2026-09-19T09:38:50.114325+00:00",
         "lease_expires_at": "2026-09-19T15:38:50.114325+00:00",
         "run_id": "35435106149"
-      }
+      },
+      "previous_target_id": "29489060"
     },
     "14505": {
       "attempts": []
@@ -89683,6 +89679,12 @@
         "target_video_id": "29221313",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-08T18:58:16.383497+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:38:52.192482+00:00",
+        "lease_expires_at": "2026-09-19T15:38:52.192482+00:00",
+        "run_id": "35435106149"
       }
     },
     "4989": {
@@ -89799,6 +89801,12 @@
         "target_video_id": "29262293",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-10T04:24:17.762308+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:38:52.407737+00:00",
+        "lease_expires_at": "2026-09-19T15:38:52.407737+00:00",
+        "run_id": "35435106149"
       }
     },
     "15311": {
@@ -176015,5 +176023,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:38:50.327803+00:00"
+  "updated_at": "2026-09-19T09:38:52.833089+00:00"
 }
