@@ -55893,13 +55893,6 @@
           "source_id": "34827840",
           "target_video_id": "29141641",
           "permanent": false,
-          "attempted_at": "2026-09-19T07:02:57.723524+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34827840",
-          "target_video_id": "29141641",
-          "permanent": false,
           "attempted_at": "2026-09-19T07:54:41.159822+00:00"
         },
         {
@@ -55908,6 +55901,13 @@
           "target_video_id": "29141641",
           "permanent": false,
           "attempted_at": "2026-09-19T09:00:03.190157+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34827840",
+          "target_video_id": "29141641",
+          "permanent": false,
+          "attempted_at": "2026-09-19T09:36:39.122369+00:00"
         }
       ],
       "last_plan": {
@@ -55919,7 +55919,8 @@
         "target_video_id": "29141641",
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-05T20:36:50.331632+00:00"
-      }
+      },
+      "previous_target_id": "29141641"
     },
     "16195": {
       "attempts": []
@@ -56098,14 +56099,6 @@
     "2491": {
       "attempts": [
         {
-          "status": "upload_failed",
-          "source_id": "27669370",
-          "reason": "PrehrajtoError",
-          "permanent": false,
-          "target_video_id": "29515501",
-          "attempted_at": "2026-09-19T06:49:04.655169+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27669370",
           "reason": "Request failed for https://sdilej.cz/27669370/blazniva-strela-2-a-1-2-vune-strachu-the-naked-gun-2-1-2-the-smell-of-fear-1991-2160p-hdr-cz-dabing.mkv (HTTP None)",
@@ -56119,13 +56112,27 @@
           "permanent": false,
           "target_video_id": "29522196",
           "attempted_at": "2026-09-19T08:55:29.324787+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27669370",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T09:36:38.571883+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-19T09:35:54.589754+00:00"
-      }
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:36:37.906604+00:00",
+        "lease_expires_at": "2026-09-19T15:36:37.906604+00:00",
+        "run_id": "35435106149"
+      },
+      "previous_target_id": "29522196"
     },
     "18861": {
       "attempts": []
@@ -56451,6 +56458,12 @@
         "target_video_id": "29141791",
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-4",
+        "claimed_at": "2026-09-19T09:36:37.689028+00:00",
+        "lease_expires_at": "2026-09-19T15:36:37.689028+00:00",
+        "run_id": "35435106149"
       }
     },
     "2558": {
@@ -57009,6 +57022,12 @@
         "target_video_id": "29355276",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-13T18:44:42.438582+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-1",
+        "claimed_at": "2026-09-19T09:36:38.120190+00:00",
+        "lease_expires_at": "2026-09-19T15:36:38.120190+00:00",
+        "run_id": "35435106149"
       }
     },
     "2577": {
@@ -57444,6 +57463,12 @@
         "target_video_id": "29413258",
         "size_bytes": 51500000000,
         "prepared_at": "2026-09-16T00:24:20.630594+00:00"
+      },
+      "claim": {
+        "worker_id": "91849c40a8954b019ce5c398f009dc66-shard-5",
+        "claimed_at": "2026-09-19T09:36:38.774549+00:00",
+        "lease_expires_at": "2026-09-19T15:36:38.774549+00:00",
+        "run_id": "35435106149"
       }
     },
     "2515": {
@@ -175909,5 +175934,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T09:36:35.547660+00:00"
+  "updated_at": "2026-09-19T09:36:39.122386+00:00"
 }
