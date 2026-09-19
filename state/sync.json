@@ -20034,7 +20034,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:06.554745+00:00"
       },
-      "previous_target_id": "29118389"
+      "previous_target_id": "29118389",
+      "claim": {
+        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-4",
+        "claimed_at": "2026-09-19T22:12:04.626466+00:00",
+        "lease_expires_at": "2026-09-20T04:12:04.626466+00:00",
+        "run_id": "35467299794"
+      }
     },
     "1128": {
       "attempts": []
@@ -191702,17 +191708,19 @@
       "attempts": []
     },
     "9667": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20452421",
+          "target_video_id": "29539632",
+          "permanent": false,
+          "attempted_at": "2026-09-19T22:12:05.741998+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20452421",
         "display_name": "Za nepřátelskou linií (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-19T21:55:36.930673+00:00"
-      },
-      "claim": {
-        "worker_id": "42b73e3393c7453e8c64cbfbd54f6323-shard-1",
-        "claimed_at": "2026-09-19T22:00:57.863498+00:00",
-        "lease_expires_at": "2026-09-20T04:00:57.863498+00:00",
-        "run_id": "35467299794"
       },
       "previous_target_id": "29539632",
       "prepared": {
@@ -206461,5 +206469,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T22:12:02.828235+00:00"
+  "updated_at": "2026-09-19T22:12:05.742019+00:00"
 }
