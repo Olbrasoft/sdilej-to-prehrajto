@@ -145159,13 +145159,6 @@
           "source_id": "16996630",
           "reason": "Request failed for https://sdilej.cz/16996630/stopy-zmizelych-the.burrowers.2008.1080p.hdtv.cz.dabing.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-19T11:21:42.883149+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "16996630",
-          "reason": "Request failed for https://sdilej.cz/16996630/stopy-zmizelych-the.burrowers.2008.1080p.hdtv.cz.dabing.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-19T11:55:09.716848+00:00"
         },
         {
@@ -145174,18 +145167,19 @@
           "reason": "Request failed for https://sdilej.cz/16996630/stopy-zmizelych-the.burrowers.2008.1080p.hdtv.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-19T12:40:40.041188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16996630",
+          "target_video_id": "29529763",
+          "permanent": false,
+          "attempted_at": "2026-09-19T13:23:48.698437+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16996630",
         "display_name": "Zmizelý (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:15:12.793692+00:00"
-      },
-      "claim": {
-        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-0",
-        "claimed_at": "2026-09-19T13:16:38.412533+00:00",
-        "lease_expires_at": "2026-09-19T19:16:38.412533+00:00",
-        "run_id": "35435106149"
       },
       "previous_target_id": "29529763",
       "prepared": {
@@ -161587,30 +161581,72 @@
       }
     },
     "11366": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34779719",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:23:29.544239+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34779719",
         "display_name": "Celou dlouhou noc (1981) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:17:05.551638+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:23:28.832224+00:00",
+        "lease_expires_at": "2026-09-19T19:23:28.832224+00:00",
+        "run_id": "35435106149"
       }
     },
     "22581": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "6227474",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:23:30.521861+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6227474",
         "display_name": "Just Before Dawn (1981) SD CZ Titulky",
         "planned_at": "2026-09-19T13:17:06.317939+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:23:29.819152+00:00",
+        "lease_expires_at": "2026-09-19T19:23:29.819152+00:00",
+        "run_id": "35435106149"
       }
     },
     "28447": {
       "attempts": []
     },
     "36651": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31543083",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T13:23:31.528216+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31543083",
         "display_name": "Sám v temnotě (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-19T13:17:06.582256+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:23:30.786361+00:00",
+        "lease_expires_at": "2026-09-19T19:23:30.786361+00:00",
+        "run_id": "35435106149"
       }
     },
     "37504": {
@@ -161619,6 +161655,12 @@
         "source_id": "34949219",
         "display_name": "Beast (2026) 4K CZ Dabing",
         "planned_at": "2026-09-19T13:17:07.179019+00:00"
+      },
+      "claim": {
+        "worker_id": "49380945502d49e5beaca226ab4ab9ce-shard-1",
+        "claimed_at": "2026-09-19T13:23:31.784019+00:00",
+        "lease_expires_at": "2026-09-19T19:23:31.784019+00:00",
+        "run_id": "35435106149"
       }
     },
     "6798": {
@@ -189443,5 +189485,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T13:23:26.977659+00:00"
+  "updated_at": "2026-09-19T13:23:48.698454+00:00"
 }
