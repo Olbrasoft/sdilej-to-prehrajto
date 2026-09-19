@@ -156005,13 +156005,6 @@
           "source_id": "34443445",
           "target_video_id": "29292898",
           "permanent": false,
-          "attempted_at": "2026-09-19T21:47:36.962818+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34443445",
-          "target_video_id": "29292898",
-          "permanent": false,
           "attempted_at": "2026-09-19T22:26:30.798136+00:00"
         },
         {
@@ -156020,6 +156013,13 @@
           "target_video_id": "29292898",
           "permanent": false,
           "attempted_at": "2026-09-19T23:05:51.302150+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34443445",
+          "target_video_id": "29292898",
+          "permanent": false,
+          "attempted_at": "2026-09-19T23:36:17.544053+00:00"
         }
       ],
       "last_plan": {
@@ -156032,13 +156032,7 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-11T06:22:04.212595+00:00"
       },
-      "previous_target_id": "29292898",
-      "claim": {
-        "worker_id": "61962b2debaf45729e35414310900fc5-shard-3",
-        "claimed_at": "2026-09-19T23:36:13.485425+00:00",
-        "lease_expires_at": "2026-09-20T05:36:13.485425+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29292898"
     },
     "8646": {
       "attempts": [
@@ -180362,6 +180356,13 @@
           "source_id": "34720819",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:20:13.641484+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34720819",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:17.116654+00:00"
         }
       ],
       "last_plan": {
@@ -180384,6 +180385,13 @@
           "source_id": "28212054",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:20:13.794034+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28212054",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:17.394712+00:00"
         }
       ],
       "last_plan": {
@@ -180409,6 +180417,13 @@
           "source_id": "34772159",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:20:18.844542+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34772159",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-19T23:36:17.254888+00:00"
         }
       ],
       "last_plan": {
@@ -180443,6 +180458,12 @@
         "source_id": "29047113",
         "display_name": "Na cestě (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-19T23:35:54.343520+00:00"
+      },
+      "claim": {
+        "worker_id": "61962b2debaf45729e35414310900fc5-shard-5",
+        "claimed_at": "2026-09-19T23:36:16.978296+00:00",
+        "lease_expires_at": "2026-09-20T05:36:16.978296+00:00",
+        "run_id": "35467299794"
       }
     },
     "6227": {
@@ -216241,5 +216262,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-19T23:36:15.156782+00:00"
+  "updated_at": "2026-09-19T23:36:17.544071+00:00"
 }
