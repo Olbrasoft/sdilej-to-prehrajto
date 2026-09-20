@@ -30692,13 +30692,6 @@
           "source_id": "29638089",
           "target_video_id": "29387970",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:29:59.605793+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29638089",
-          "target_video_id": "29387970",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:01:21.588604+00:00"
         },
         {
@@ -30707,6 +30700,13 @@
           "target_video_id": "29387970",
           "permanent": false,
           "attempted_at": "2026-09-20T05:33:33.611075+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29638089",
+          "target_video_id": "29387970",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:04:17.049400+00:00"
         }
       ],
       "last_plan": {
@@ -30719,13 +30719,7 @@
         "size_bytes": 17700000000,
         "prepared_at": "2026-09-14T19:17:37.564902+00:00"
       },
-      "previous_target_id": "29387970",
-      "claim": {
-        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
-        "claimed_at": "2026-09-20T06:03:48.635378+00:00",
-        "lease_expires_at": "2026-09-20T12:03:48.635378+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29387970"
     },
     "11864": {
       "attempts": []
@@ -192789,6 +192783,13 @@
           "source_id": "33744802",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:04:02.158083+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33744802",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:04:15.896046+00:00"
         }
       ],
       "last_plan": {
@@ -192872,6 +192873,12 @@
         "source_id": "27404612",
         "display_name": "Organ Trail (2023) SD CZ Titulky",
         "planned_at": "2026-09-20T06:04:06.729464+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T06:04:16.140220+00:00",
+        "lease_expires_at": "2026-09-20T12:04:16.140220+00:00",
+        "run_id": "35481903373"
       }
     },
     "6531": {
@@ -192898,6 +192905,12 @@
         "source_id": "34522546",
         "display_name": "Rychle v balíku (1989) SD CZ Dabing",
         "planned_at": "2026-09-20T06:04:07.113501+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:04:16.749688+00:00",
+        "lease_expires_at": "2026-09-20T12:04:16.749688+00:00",
+        "run_id": "35481903373"
       }
     },
     "25510": {
@@ -192933,6 +192946,12 @@
         "source_id": "6477718",
         "display_name": "Princ a já: Sloní dobrodužství (2010) SD CZ Dabing",
         "planned_at": "2026-09-20T06:04:07.349841+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:04:16.390559+00:00",
+        "lease_expires_at": "2026-09-20T12:04:16.390559+00:00",
+        "run_id": "35481903373"
       }
     },
     "32365": {
@@ -231971,5 +231990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:04:13.744619+00:00"
+  "updated_at": "2026-09-20T06:04:17.049417+00:00"
 }
