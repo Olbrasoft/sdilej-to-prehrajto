@@ -143896,13 +143896,6 @@
           "permanent": false,
           "source_id": "27325725",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:29.642768+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27325725",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:08:56.843606+00:00"
         },
         {
@@ -143911,18 +143904,19 @@
           "source_id": "27325725",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:55.765297+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27325725",
+          "target_video_id": "29566873",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:28:43.304074+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27325725",
         "display_name": "Fanfik (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:51.636039+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T20:20:10.061714+00:00",
-        "lease_expires_at": "2026-09-21T02:20:10.061714+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29566873",
       "prepared": {
@@ -144175,6 +144169,12 @@
         "source_id": "33820178",
         "display_name": "...a Bůh stvořil ženu (1956) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:53.000053+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
+        "claimed_at": "2026-09-20T20:28:42.974407+00:00",
+        "lease_expires_at": "2026-09-21T02:28:42.974407+00:00",
+        "run_id": "35529171597"
       }
     },
     "12498": {
@@ -233344,5 +233344,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:28:29.518938+00:00"
+  "updated_at": "2026-09-20T20:28:43.304087+00:00"
 }
