@@ -55689,13 +55689,6 @@
           "permanent": false,
           "source_id": "34737006",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:55:53.480644+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34737006",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:59:22.659096+00:00"
         },
         {
@@ -55704,18 +55697,19 @@
           "source_id": "34737006",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:41.406294+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34737006",
+          "reason": "Request failed for https://sdilej.cz/34737006/i-am-jonas-2018-cz-titulky.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:04:09.334086+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34737006",
         "display_name": "I am Jonas (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-20T14:51:46.370702+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T15:03:23.396951+00:00",
-        "lease_expires_at": "2026-09-20T21:03:23.396951+00:00",
-        "run_id": "35510972333"
       }
     },
     "22121": {
@@ -231814,5 +231808,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:03:32.312775+00:00"
+  "updated_at": "2026-09-20T15:04:09.334105+00:00"
 }
