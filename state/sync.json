@@ -91558,13 +91558,6 @@
           "source_id": "14024650",
           "target_video_id": "29137611",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:52:49.932619+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14024650",
-          "target_video_id": "29137611",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:23:53.749646+00:00"
         },
         {
@@ -91573,6 +91566,13 @@
           "target_video_id": "29137611",
           "permanent": false,
           "attempted_at": "2026-09-20T16:56:22.037384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14024650",
+          "target_video_id": "29137611",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:35:19.537275+00:00"
         }
       ],
       "last_plan": {
@@ -91698,6 +91698,12 @@
         "target_video_id": "29563531",
         "size_bytes": 1994643233,
         "prepared_at": "2026-09-20T16:56:26.986650+00:00"
+      },
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-3",
+        "claimed_at": "2026-09-20T17:35:19.854830+00:00",
+        "lease_expires_at": "2026-09-20T23:35:19.854830+00:00",
+        "run_id": "35510972333"
       }
     },
     "16317": {
@@ -95699,17 +95705,19 @@
       "attempts": []
     },
     "3268": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34651338",
+          "target_video_id": "29564106",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:35:21.770681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34651338",
         "display_name": "Pět ďáblů (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-20T17:24:32.182490+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-4",
-        "claimed_at": "2026-09-20T17:32:03.937972+00:00",
-        "lease_expires_at": "2026-09-20T23:32:03.937972+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29564106",
       "prepared": {
@@ -233122,5 +233130,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:35:16.227310+00:00"
+  "updated_at": "2026-09-20T17:35:21.770696+00:00"
 }
