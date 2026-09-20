@@ -45047,7 +45047,13 @@
         "size_bytes": 9100000000,
         "prepared_at": "2026-09-07T23:03:39.777432+00:00"
       },
-      "previous_target_id": "29199336"
+      "previous_target_id": "29199336",
+      "claim": {
+        "worker_id": "1bf1a2d356db4e2e9a48747bc381fee1-shard-4",
+        "claimed_at": "2026-09-20T04:32:58.508429+00:00",
+        "lease_expires_at": "2026-09-20T10:32:58.508429+00:00",
+        "run_id": "35481903373"
+      }
     },
     "14551": {
       "attempts": [
@@ -46084,13 +46090,6 @@
           "source_id": "32264181",
           "target_video_id": "29482249",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:31:36.792860+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32264181",
-          "target_video_id": "29482249",
-          "permanent": false,
           "attempted_at": "2026-09-20T03:02:12.029162+00:00"
         },
         {
@@ -46099,6 +46098,13 @@
           "target_video_id": "29482249",
           "permanent": false,
           "attempted_at": "2026-09-20T03:43:40.142151+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32264181",
+          "target_video_id": "29482249",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:32:58.731501+00:00"
         }
       ],
       "last_plan": {
@@ -46111,13 +46117,7 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-18T10:53:22.857251+00:00"
       },
-      "previous_target_id": "29482249",
-      "claim": {
-        "worker_id": "1bf1a2d356db4e2e9a48747bc381fee1-shard-3",
-        "claimed_at": "2026-09-20T04:32:52.317939+00:00",
-        "lease_expires_at": "2026-09-20T10:32:52.317939+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29482249"
     },
     "2462": {
       "attempts": [
@@ -222374,5 +222374,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:32:56.525322+00:00"
+  "updated_at": "2026-09-20T04:32:58.731519+00:00"
 }
