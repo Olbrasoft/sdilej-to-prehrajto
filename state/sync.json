@@ -139932,13 +139932,6 @@
           "permanent": false,
           "source_id": "28174035",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:25.068402+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28174035",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:04.305801+00:00"
         },
         {
@@ -139947,6 +139940,13 @@
           "target_video_id": "29564354",
           "permanent": false,
           "attempted_at": "2026-09-20T18:00:30.257466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28174035",
+          "target_video_id": "29564354",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:48:54.531154+00:00"
         }
       ],
       "last_plan": {
@@ -139957,14 +139957,8 @@
       "previous_target_id": "29564354",
       "prepared": {
         "target_video_id": "29564354",
-        "size_bytes": 3096146695,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-20T17:48:18.281749+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T18:48:46.825490+00:00",
-        "lease_expires_at": "2026-09-21T00:48:46.825490+00:00",
-        "run_id": "35529171597"
       }
     },
     "5392": {
@@ -140004,13 +139998,6 @@
           "permanent": false,
           "source_id": "34931072",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:27.111901+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34931072",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:04.941328+00:00"
         },
         {
@@ -140019,6 +140006,13 @@
           "target_video_id": "29564373",
           "permanent": false,
           "attempted_at": "2026-09-20T18:01:08.801821+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34931072",
+          "target_video_id": "29564373",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:48:56.549712+00:00"
         }
       ],
       "last_plan": {
@@ -140029,7 +140023,7 @@
       "previous_target_id": "29564373",
       "prepared": {
         "target_video_id": "29564373",
-        "size_bytes": 2847916363,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-20T17:49:35.112481+00:00"
       }
     },
@@ -140117,6 +140111,12 @@
         "source_id": "27558390",
         "display_name": "Zpráva o Europě (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-20T18:48:10.188516+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
+        "claimed_at": "2026-09-20T18:48:55.873329+00:00",
+        "lease_expires_at": "2026-09-21T00:48:55.873329+00:00",
+        "run_id": "35529171597"
       }
     },
     "4804": {
@@ -140306,13 +140306,6 @@
           "permanent": false,
           "source_id": "34714428",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:49.878043+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34714428",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:48:29.372149+00:00"
         },
         {
@@ -140321,6 +140314,13 @@
           "source_id": "34714428",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:07.334201+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714428",
+          "target_video_id": "29565186",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:48:57.075351+00:00"
         }
       ],
       "last_plan": {
@@ -140331,7 +140331,7 @@
       "previous_target_id": "29565186",
       "prepared": {
         "target_video_id": "29565186",
-        "size_bytes": 2325783763,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T18:36:22.079776+00:00"
       }
     },
@@ -233154,5 +233154,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:48:52.266103+00:00"
+  "updated_at": "2026-09-20T18:48:57.075371+00:00"
 }
