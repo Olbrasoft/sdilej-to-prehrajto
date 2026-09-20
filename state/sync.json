@@ -17125,13 +17125,6 @@
           "permanent": false,
           "source_id": "11774276",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:48:03.715625+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11774276",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:14.967618+00:00"
         },
         {
@@ -17140,18 +17133,19 @@
           "reason": "Request failed for https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T13:15:09.838188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11774276",
+          "target_video_id": "29560030",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:08:36.461909+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11774276",
         "display_name": "Tři blízcí neznámí (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-20T13:59:28.687236+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T14:01:45.261477+00:00",
-        "lease_expires_at": "2026-09-20T20:01:45.261477+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29560030",
       "prepared": {
@@ -231499,5 +231493,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:07:56.984034+00:00"
+  "updated_at": "2026-09-20T14:08:36.461927+00:00"
 }
