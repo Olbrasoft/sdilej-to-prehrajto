@@ -144884,13 +144884,6 @@
           "permanent": false,
           "source_id": "22885514",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:55.930153+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22885514",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:14:33.018112+00:00"
         },
         {
@@ -144899,18 +144892,19 @@
           "source_id": "22885514",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:21.144925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22885514",
+          "target_video_id": "29567237",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:55:11.410015+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22885514",
         "display_name": "Broad Peak (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:57.674730+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T20:46:57.780478+00:00",
-        "lease_expires_at": "2026-09-21T02:46:57.780478+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567237",
       "prepared": {
@@ -233472,5 +233466,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:54:37.160241+00:00"
+  "updated_at": "2026-09-20T20:55:11.410034+00:00"
 }
