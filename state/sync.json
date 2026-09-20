@@ -44922,13 +44922,6 @@
           "source_id": "14853845",
           "target_video_id": "29198848",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:04:07.514206+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14853845",
-          "target_video_id": "29198848",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:36:03.089691+00:00"
         },
         {
@@ -44937,6 +44930,13 @@
           "target_video_id": "29198848",
           "permanent": false,
           "attempted_at": "2026-09-20T06:06:18.963083+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14853845",
+          "target_video_id": "29198848",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:37:25.855366+00:00"
         }
       ],
       "last_plan": {
@@ -44949,13 +44949,7 @@
         "size_bytes": 895300000,
         "prepared_at": "2026-09-07T22:23:38.236879+00:00"
       },
-      "previous_target_id": "29198848",
-      "claim": {
-        "worker_id": "829e19207e0c4a6fa82d728880f696ea-shard-1",
-        "claimed_at": "2026-09-20T06:37:14.046378+00:00",
-        "lease_expires_at": "2026-09-20T12:37:14.046378+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29198848"
     },
     "35276": {
       "attempts": []
@@ -45521,7 +45515,13 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-09T22:06:56.396895+00:00"
       },
-      "previous_target_id": "29255540"
+      "previous_target_id": "29255540",
+      "claim": {
+        "worker_id": "829e19207e0c4a6fa82d728880f696ea-shard-0",
+        "claimed_at": "2026-09-20T06:37:25.387999+00:00",
+        "lease_expires_at": "2026-09-20T12:37:25.387999+00:00",
+        "run_id": "35481903373"
+      }
     },
     "31150": {
       "attempts": []
@@ -164699,6 +164699,12 @@
         "source_id": "33870578",
         "display_name": "Damien - Omen II (1978) 4K CZ Dabing",
         "planned_at": "2026-09-20T06:36:39.372020+00:00"
+      },
+      "claim": {
+        "worker_id": "829e19207e0c4a6fa82d728880f696ea-shard-2",
+        "claimed_at": "2026-09-20T06:37:25.623232+00:00",
+        "lease_expires_at": "2026-09-20T12:37:25.623232+00:00",
+        "run_id": "35481903373"
       }
     },
     "23548": {
@@ -233241,5 +233247,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:37:23.322410+00:00"
+  "updated_at": "2026-09-20T06:37:25.855386+00:00"
 }
