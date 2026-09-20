@@ -110623,13 +110623,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:23:24.924220+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T17:34:39.807681+00:00"
         },
         {
@@ -110638,6 +110631,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T18:27:34.234763+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T18:49:38.183615+00:00"
         }
       ],
       "last_plan": {
@@ -110650,13 +110650,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T18:48:45.202413+00:00",
-        "lease_expires_at": "2026-09-21T00:48:45.202413+00:00",
-        "run_id": "35529171597"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -140689,6 +140683,18 @@
         "source_id": "34910750",
         "display_name": "Mise napříč (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-20T18:48:11.570313+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
+        "claimed_at": "2026-09-20T18:49:38.541476+00:00",
+        "lease_expires_at": "2026-09-21T00:49:38.541476+00:00",
+        "run_id": "35529171597"
+      },
+      "previous_target_id": "29565398",
+      "prepared": {
+        "target_video_id": "29565398",
+        "size_bytes": 2320676829,
+        "prepared_at": "2026-09-20T18:49:42.535157+00:00"
       }
     },
     "21287": {
@@ -233184,5 +233190,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:49:12.812616+00:00"
+  "updated_at": "2026-09-20T18:49:42.535171+00:00"
 }
