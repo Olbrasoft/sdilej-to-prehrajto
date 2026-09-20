@@ -78189,13 +78189,6 @@
           "permanent": false,
           "source_id": "12402129",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:30.686190+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12402129",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:41.946213+00:00"
         },
         {
@@ -78204,18 +78197,19 @@
           "reason": "Request failed for https://sdilej.cz/12402129/dilili-v-parizi-dilili-in-paris-2018-1080p-dd5.1-cz-sk-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T16:16:49.306443+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12402129",
+          "target_video_id": "29563479",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:04:03.611711+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12402129",
         "display_name": "Dilili v Paříži (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:50:58.829534+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T16:52:45.654247+00:00",
-        "lease_expires_at": "2026-09-20T22:52:45.654247+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29563479",
       "prepared": {
@@ -232932,5 +232926,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:03:51.537806+00:00"
+  "updated_at": "2026-09-20T17:04:03.611729+00:00"
 }
