@@ -144591,13 +144591,6 @@
           "permanent": false,
           "source_id": "34852404",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:49.967514+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34852404",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:09:13.366975+00:00"
         },
         {
@@ -144606,18 +144599,19 @@
           "source_id": "34852404",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:05.391432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34852404",
+          "target_video_id": "29567148",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:44:23.847348+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34852404",
         "display_name": "Predator Dark Ages (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:55.821431+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T20:41:47.842016+00:00",
-        "lease_expires_at": "2026-09-21T02:41:47.842016+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567148",
       "prepared": {
@@ -233430,5 +233424,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:44:11.137698+00:00"
+  "updated_at": "2026-09-20T20:44:23.847364+00:00"
 }
