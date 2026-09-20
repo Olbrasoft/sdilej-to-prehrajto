@@ -4438,13 +4438,6 @@
           "source_id": "26239565",
           "target_video_id": "29124911",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:50:28.533525+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "29124911",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:20:52.796510+00:00"
         },
         {
@@ -4453,6 +4446,13 @@
           "target_video_id": "29124911",
           "permanent": false,
           "attempted_at": "2026-09-20T00:51:20.231742+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "29124911",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:21:46.695666+00:00"
         }
       ],
       "last_plan": {
@@ -4465,13 +4465,7 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
       },
-      "previous_target_id": "29124911",
-      "claim": {
-        "worker_id": "66effa9c6a144516882342bf1d83ff4b-shard-3",
-        "claimed_at": "2026-09-20T01:21:36.149371+00:00",
-        "lease_expires_at": "2026-09-20T07:21:36.149371+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29124911"
     },
     "327": {
       "attempts": [
@@ -5119,7 +5113,13 @@
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
       },
-      "previous_target_id": "29219736"
+      "previous_target_id": "29219736",
+      "claim": {
+        "worker_id": "66effa9c6a144516882342bf1d83ff4b-shard-4",
+        "claimed_at": "2026-09-20T01:21:46.392475+00:00",
+        "lease_expires_at": "2026-09-20T07:21:46.392475+00:00",
+        "run_id": "35467299794"
+      }
     },
     "13803": {
       "attempts": [
@@ -198929,6 +198929,13 @@
           "source_id": "22331015",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T19:21:10.354151+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22331015",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T01:21:46.542816+00:00"
         }
       ],
       "last_plan": {
@@ -198957,6 +198964,12 @@
         "source_id": "18651298",
         "display_name": "Do hlubiny (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-20T01:21:26.719686+00:00"
+      },
+      "claim": {
+        "worker_id": "66effa9c6a144516882342bf1d83ff4b-shard-0",
+        "claimed_at": "2026-09-20T01:21:46.242006+00:00",
+        "lease_expires_at": "2026-09-20T07:21:46.242006+00:00",
+        "run_id": "35467299794"
       }
     },
     "30128": {
@@ -226550,5 +226563,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:21:44.362643+00:00"
+  "updated_at": "2026-09-20T01:21:46.695678+00:00"
 }
