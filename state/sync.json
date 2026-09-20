@@ -54025,13 +54025,6 @@
           "source_id": "34697595",
           "target_video_id": "29525185",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:51:09.276828+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34697595",
-          "target_video_id": "29525185",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:21:17.840199+00:00"
         },
         {
@@ -54040,6 +54033,13 @@
           "target_video_id": "29525185",
           "permanent": false,
           "attempted_at": "2026-09-20T14:45:55.981408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34697595",
+          "target_video_id": "29525185",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:57:32.761496+00:00"
         }
       ],
       "last_plan": {
@@ -54052,12 +54052,6 @@
         "target_video_id": "29525185",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-19T09:33:00.262833+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:57:26.253533+00:00",
-        "lease_expires_at": "2026-09-20T21:57:26.253533+00:00",
-        "run_id": "35510972333"
       }
     },
     "32420": {
@@ -54238,22 +54232,10 @@
           "attempted_at": "2026-09-20T14:57:47.990107+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34989346",
-        "display_name": "Kristian (1939) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T15:57:11.440873+00:00"
-      },
       "previous_target_id": "29560828",
-      "prepared": {
+      "upload": {
         "target_video_id": "29560828",
-        "size_bytes": 4349761934,
-        "prepared_at": "2026-09-20T14:47:03.892439+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T15:57:26.596757+00:00",
-        "lease_expires_at": "2026-09-20T21:57:26.596757+00:00",
-        "run_id": "35510972333"
+        "uploaded_at": "2026-09-20T15:57:33.049383+00:00"
       }
     },
     "36803": {
@@ -54614,7 +54596,13 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T19:25:12.220553+00:00"
       },
-      "previous_target_id": "29136430"
+      "previous_target_id": "29136430",
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
+        "claimed_at": "2026-09-20T15:57:32.194144+00:00",
+        "lease_expires_at": "2026-09-20T21:57:32.194144+00:00",
+        "run_id": "35510972333"
+      }
     },
     "27493": {
       "attempts": []
@@ -54963,6 +54951,12 @@
         "source_id": "11074487",
         "display_name": "Once Upon a Deadpool (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-20T15:57:12.047929+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
+        "claimed_at": "2026-09-20T15:57:32.464744+00:00",
+        "lease_expires_at": "2026-09-20T21:57:32.464744+00:00",
+        "run_id": "35510972333"
       }
     },
     "13178": {
@@ -232279,5 +232273,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:57:27.541429+00:00"
+  "updated_at": "2026-09-20T15:57:33.049415+00:00"
 }
