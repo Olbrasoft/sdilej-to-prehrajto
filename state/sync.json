@@ -6049,13 +6049,6 @@
           "source_id": "34379531",
           "target_video_id": "29196549",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:20:26.186706+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34379531",
-          "target_video_id": "29196549",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:50:46.844027+00:00"
         },
         {
@@ -6064,12 +6057,19 @@
           "target_video_id": "29196549",
           "permanent": false,
           "attempted_at": "2026-09-20T00:21:48.720247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34379531",
+          "target_video_id": "29196549",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:52:09.963118+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34379531",
         "display_name": "Star Trek (2009) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:21:17.042168+00:00"
+        "planned_at": "2026-09-20T00:52:06.864373+00:00"
       },
       "prepared": {
         "target_video_id": "29196549",
@@ -8056,7 +8056,7 @@
       "last_plan": {
         "source_id": "14820817",
         "display_name": "Skyfall (2012) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:21:18.120504+00:00"
+        "planned_at": "2026-09-20T00:52:07.025703+00:00"
       },
       "prepared": {
         "target_video_id": "29210666",
@@ -8228,7 +8228,7 @@
       "last_plan": {
         "source_id": "33063909",
         "display_name": "Agent bez minulosti (2002) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:21:18.261971+00:00"
+        "planned_at": "2026-09-20T00:52:07.368034+00:00"
       },
       "prepared": {
         "target_video_id": "29210906",
@@ -8394,7 +8394,7 @@
       "last_plan": {
         "source_id": "31043951",
         "display_name": "Predátor (1987) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:21:18.401274+00:00"
+        "planned_at": "2026-09-20T00:52:07.529379+00:00"
       },
       "prepared": {
         "target_video_id": "29211713",
@@ -8430,7 +8430,7 @@
       "last_plan": {
         "source_id": "32043793",
         "display_name": "Americký gangster (2007) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:21:52.347471+00:00"
+        "planned_at": "2026-09-20T00:52:07.695666+00:00"
       },
       "prepared": {
         "target_video_id": "29211798",
@@ -8473,7 +8473,7 @@
       "last_plan": {
         "source_id": "32643161",
         "display_name": "Irčan (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:21:52.515767+00:00"
+        "planned_at": "2026-09-20T00:52:07.848134+00:00"
       },
       "prepared": {
         "target_video_id": "29211821",
@@ -8523,7 +8523,7 @@
       "last_plan": {
         "source_id": "24746030",
         "display_name": "Lásky čas (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:21:52.661344+00:00"
+        "planned_at": "2026-09-20T00:52:07.987147+00:00"
       },
       "prepared": {
         "target_video_id": "29211832",
@@ -9613,7 +9613,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "Psanec Josey Wales (1976) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:21:52.837586+00:00"
+        "planned_at": "2026-09-20T00:52:08.126522+00:00"
       },
       "prepared": {
         "target_video_id": "29317508",
@@ -22331,7 +22331,15 @@
       "attempts": []
     },
     "1452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31759042",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:52:06.695399+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31759042",
         "display_name": "Rozpolcený (2016) 4K CZ Dabing",
@@ -50488,11 +50496,25 @@
       "attempts": []
     },
     "18516": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26127767",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:52:07.200548+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26127767",
         "display_name": "Otcové a dcery (2015) 1080p CZ Titulky",
         "planned_at": "2026-09-20T00:51:44.540714+00:00"
+      },
+      "claim": {
+        "worker_id": "5d894599f0e64f43804c9a6283b8a157-shard-4",
+        "claimed_at": "2026-09-20T00:52:06.356605+00:00",
+        "lease_expires_at": "2026-09-20T06:52:06.356605+00:00",
+        "run_id": "35467299794"
       }
     },
     "11129": {
@@ -50502,7 +50524,15 @@
       "attempts": []
     },
     "26144": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32106765",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:52:06.186361+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32106765",
         "display_name": "Velký den slečny Pettigrewové (2008) 1080p CZ Dabing",
@@ -50606,7 +50636,15 @@
       }
     },
     "2430": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34668514",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:52:06.527602+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34668514",
         "display_name": "Malá smrt (2014) 720p CZ Dabing",
@@ -223883,5 +223921,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:52:04.164858+00:00"
+  "updated_at": "2026-09-20T00:52:09.963135+00:00"
 }
