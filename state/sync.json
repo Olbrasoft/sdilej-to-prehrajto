@@ -90663,13 +90663,6 @@
           "permanent": false,
           "source_id": "31885766",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:19:47.458831+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31885766",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:39:45.261022+00:00"
         },
         {
@@ -90678,18 +90671,19 @@
           "source_id": "31885766",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:21:16.133121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31885766",
+          "target_video_id": "29563439",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:56:22.741970+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31885766",
         "display_name": "Cesta do lesa (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:37:53.264185+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T16:50:03.043979+00:00",
-        "lease_expires_at": "2026-09-20T22:50:03.043979+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29563439",
       "prepared": {
@@ -91763,13 +91757,6 @@
           "source_id": "14024650",
           "target_video_id": "29137611",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:21:33.923997+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14024650",
-          "target_video_id": "29137611",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:52:49.932619+00:00"
         },
         {
@@ -91778,6 +91765,13 @@
           "target_video_id": "29137611",
           "permanent": false,
           "attempted_at": "2026-09-20T12:23:53.749646+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14024650",
+          "target_video_id": "29137611",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:56:22.037384+00:00"
         }
       ],
       "last_plan": {
@@ -91897,6 +91891,12 @@
         "source_id": "34849249",
         "display_name": "Oliver a bazén (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:51:03.835273+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
+        "claimed_at": "2026-09-20T16:56:22.375016+00:00",
+        "lease_expires_at": "2026-09-20T22:56:22.375016+00:00",
+        "run_id": "35510972333"
       }
     },
     "16317": {
@@ -232858,5 +232858,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:56:14.572471+00:00"
+  "updated_at": "2026-09-20T16:56:22.741990+00:00"
 }
