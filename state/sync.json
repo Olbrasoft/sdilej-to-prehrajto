@@ -6242,13 +6242,6 @@
           "source_id": "27112677",
           "target_video_id": "29195641",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:25:55.693330+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27112677",
-          "target_video_id": "29195641",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:57:02.344376+00:00"
         },
         {
@@ -6257,12 +6250,19 @@
           "target_video_id": "29195641",
           "permanent": false,
           "attempted_at": "2026-09-20T05:29:23.215725+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27112677",
+          "target_video_id": "29195641",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:59:32.750237+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27112677",
         "display_name": "Strážci Galaxie: Volume 3 (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-20T05:28:56.722856+00:00"
+        "planned_at": "2026-09-20T05:59:30.125308+00:00"
       },
       "prepared": {
         "target_video_id": "29195641",
@@ -7177,14 +7177,20 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "Hlas moře (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:28:57.181873+00:00"
+        "planned_at": "2026-09-20T05:59:30.373383+00:00"
       },
       "prepared": {
         "target_video_id": "29208687",
         "size_bytes": 3600000000,
         "prepared_at": "2026-09-08T08:26:14.766354+00:00"
       },
-      "previous_target_id": "29208687"
+      "previous_target_id": "29208687",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T05:59:31.519078+00:00",
+        "lease_expires_at": "2026-09-20T11:59:31.519078+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21748": {
       "attempts": [
@@ -8228,14 +8234,20 @@
       "last_plan": {
         "source_id": "33063909",
         "display_name": "Agent bez minulosti (2002) 4K CZ Dabing",
-        "planned_at": "2026-09-20T05:28:57.874670+00:00"
+        "planned_at": "2026-09-20T05:59:30.633228+00:00"
       },
       "prepared": {
         "target_video_id": "29210906",
         "size_bytes": 25900000000,
         "prepared_at": "2026-09-08T10:02:40.091490+00:00"
       },
-      "previous_target_id": "29210906"
+      "previous_target_id": "29210906",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T05:59:32.030131+00:00",
+        "lease_expires_at": "2026-09-20T11:59:32.030131+00:00",
+        "run_id": "35481903373"
+      }
     },
     "452": {
       "attempts": [],
@@ -8430,14 +8442,20 @@
       "last_plan": {
         "source_id": "32043793",
         "display_name": "Americký gangster (2007) 4K CZ Dabing",
-        "planned_at": "2026-09-20T05:28:58.333374+00:00"
+        "planned_at": "2026-09-20T05:59:30.887607+00:00"
       },
       "prepared": {
         "target_video_id": "29211798",
         "size_bytes": 7400000000,
         "prepared_at": "2026-09-08T10:50:07.610886+00:00"
       },
-      "previous_target_id": "29211798"
+      "previous_target_id": "29211798",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T05:59:31.775606+00:00",
+        "lease_expires_at": "2026-09-20T11:59:31.775606+00:00",
+        "run_id": "35481903373"
+      }
     },
     "11516": {
       "attempts": [],
@@ -231231,5 +231249,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:59:28.033528+00:00"
+  "updated_at": "2026-09-20T05:59:32.750253+00:00"
 }
