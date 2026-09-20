@@ -17557,11 +17557,25 @@
       "attempts": []
     },
     "25422": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30242485",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T10:54:15.633228+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30242485",
         "display_name": "Šťastné a Veselé (2005) SD CZ Dabing",
         "planned_at": "2026-09-20T10:46:59.009590+00:00"
+      },
+      "claim": {
+        "worker_id": "1fec7423c0dd4126b721719565578209-shard-1",
+        "claimed_at": "2026-09-20T10:54:14.876450+00:00",
+        "lease_expires_at": "2026-09-20T16:54:14.876450+00:00",
+        "run_id": "35494754672"
       }
     },
     "35006": {
@@ -17578,11 +17592,25 @@
       "attempts": []
     },
     "12540": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34786124",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T10:54:16.742088+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786124",
         "display_name": "Dragon Ball Z: Bardock - The Father of Goku (1990) 1080p CZ Titulky",
         "planned_at": "2026-09-20T10:46:59.240635+00:00"
+      },
+      "claim": {
+        "worker_id": "1fec7423c0dd4126b721719565578209-shard-1",
+        "claimed_at": "2026-09-20T10:54:15.867287+00:00",
+        "lease_expires_at": "2026-09-20T16:54:15.867287+00:00",
+        "run_id": "35494754672"
       }
     },
     "33819": {
@@ -17624,6 +17652,18 @@
         "source_id": "13352602",
         "display_name": "Bídníci (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-20T10:46:59.472239+00:00"
+      },
+      "claim": {
+        "worker_id": "1fec7423c0dd4126b721719565578209-shard-1",
+        "claimed_at": "2026-09-20T10:54:16.974193+00:00",
+        "lease_expires_at": "2026-09-20T16:54:16.974193+00:00",
+        "run_id": "35494754672"
+      },
+      "previous_target_id": "29555708",
+      "prepared": {
+        "target_video_id": "29555708",
+        "size_bytes": 7826908685,
+        "prepared_at": "2026-09-20T10:54:20.811214+00:00"
       }
     },
     "19812": {
@@ -230054,5 +230094,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T10:54:12.973330+00:00"
+  "updated_at": "2026-09-20T10:54:20.811226+00:00"
 }
