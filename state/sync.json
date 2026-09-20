@@ -141110,13 +141110,6 @@
           "permanent": false,
           "source_id": "26654258",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:37.134788+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26654258",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:17.493181+00:00"
         },
         {
@@ -141125,6 +141118,13 @@
           "target_video_id": "29565622",
           "permanent": false,
           "attempted_at": "2026-09-20T19:11:01.601809+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26654258",
+          "target_video_id": "29565622",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:01:11.017568+00:00"
         }
       ],
       "last_plan": {
@@ -141135,7 +141135,7 @@
       "previous_target_id": "29565622",
       "prepared": {
         "target_video_id": "29565622",
-        "size_bytes": 2683276087,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-20T19:04:22.909824+00:00"
       }
     },
@@ -141195,16 +141195,10 @@
           "attempted_at": "2026-09-20T19:11:18.348959+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34694210",
-        "display_name": "Perská verze (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T19:58:51.318897+00:00"
-      },
       "previous_target_id": "29565635",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565635",
-        "size_bytes": 2380477984,
-        "prepared_at": "2026-09-20T19:05:06.954310+00:00"
+        "uploaded_at": "2026-09-20T20:01:12.534999+00:00"
       }
     },
     "4836": {
@@ -233324,5 +233318,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:01:04.871276+00:00"
+  "updated_at": "2026-09-20T20:01:12.535015+00:00"
 }
