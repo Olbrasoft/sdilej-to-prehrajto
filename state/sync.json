@@ -16238,13 +16238,6 @@
           "permanent": false,
           "source_id": "34681006",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:38:30.044884+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34681006",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T09:39:01.763294+00:00"
         },
         {
@@ -16253,18 +16246,19 @@
           "reason": "Request failed for https://sdilej.cz/34681006/truchlive-dedictvi-2004-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T12:59:33.210607+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34681006",
+          "reason": "Request failed for https://sdilej.cz/34681006/truchlive-dedictvi-2004-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:42:41.692508+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34681006",
         "display_name": "Truchlivé dědictví (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-20T13:41:31.050818+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T13:41:55.895188+00:00",
-        "lease_expires_at": "2026-09-20T19:41:55.895188+00:00",
-        "run_id": "35510972333"
       }
     },
     "21441": {
@@ -231365,5 +231359,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:42:01.026878+00:00"
+  "updated_at": "2026-09-20T13:42:41.692527+00:00"
 }
