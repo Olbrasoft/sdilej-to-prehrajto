@@ -141369,13 +141369,6 @@
           "permanent": false,
           "source_id": "33961103",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:25:07.688993+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33961103",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:48:38.619375+00:00"
         },
         {
@@ -141384,18 +141377,19 @@
           "source_id": "33961103",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:19.081133+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33961103",
+          "target_video_id": "29565753",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:24:04.839781+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33961103",
         "display_name": "Dům plný dynamitu (2025) 4K CZ Dabing",
         "planned_at": "2026-09-20T19:03:09.700025+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T19:12:11.535369+00:00",
-        "lease_expires_at": "2026-09-21T01:12:11.535369+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29565753",
       "prepared": {
@@ -233309,5 +233303,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:23:51.890313+00:00"
+  "updated_at": "2026-09-20T19:24:04.839799+00:00"
 }
