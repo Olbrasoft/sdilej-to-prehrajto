@@ -1314,13 +1314,6 @@
           "source_id": "26592290",
           "target_video_id": "28927371",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:55:13.722278+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26592290",
-          "target_video_id": "28927371",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:25:59.937641+00:00"
         },
         {
@@ -1329,12 +1322,19 @@
           "target_video_id": "28927371",
           "permanent": false,
           "attempted_at": "2026-09-20T05:56:03.616760+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26592290",
+          "target_video_id": "28927371",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:26:36.128613+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Nelítostný souboj (1995) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:56:01.679984+00:00"
+        "planned_at": "2026-09-20T06:26:29.772862+00:00"
       },
       "prepared": {
         "target_video_id": "28927371",
@@ -1373,14 +1373,20 @@
       "last_plan": {
         "source_id": "18471418",
         "display_name": "Old Boy (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:56:18.180938+00:00"
+        "planned_at": "2026-09-20T06:26:34.709123+00:00"
       },
       "prepared": {
         "target_video_id": "28927315",
         "size_bytes": 16399999999,
         "prepared_at": "2026-09-06T02:07:47.280122+00:00"
       },
-      "previous_target_id": "28927315"
+      "previous_target_id": "28927315",
+      "claim": {
+        "worker_id": "227c741f94d0470ab21ac50bd4e13620-shard-5",
+        "claimed_at": "2026-09-20T06:26:35.267928+00:00",
+        "lease_expires_at": "2026-09-20T12:26:35.267928+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21690": {
       "attempts": [
@@ -77946,13 +77952,19 @@
       "last_plan": {
         "source_id": "26632648",
         "display_name": "Luca | CZ (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:49:03.965339+00:00"
+        "planned_at": "2026-09-20T06:26:34.963548+00:00"
       },
       "previous_target_id": "29549285",
       "prepared": {
         "target_video_id": "29549285",
         "size_bytes": 2061304485,
         "prepared_at": "2026-09-20T05:49:27.207647+00:00"
+      },
+      "claim": {
+        "worker_id": "227c741f94d0470ab21ac50bd4e13620-shard-4",
+        "claimed_at": "2026-09-20T06:26:35.706299+00:00",
+        "lease_expires_at": "2026-09-20T12:26:35.706299+00:00",
+        "run_id": "35481903373"
       }
     },
     "10592": {
@@ -233222,5 +233234,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:25:22.458218+00:00"
+  "updated_at": "2026-09-20T06:26:36.128632+00:00"
 }
