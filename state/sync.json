@@ -51813,22 +51813,10 @@
           "attempted_at": "2026-09-20T14:48:13.309546+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29847472",
-        "display_name": "Aristotelův pád (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T15:56:16.234202+00:00"
-      },
       "previous_target_id": "29560611",
-      "prepared": {
+      "upload": {
         "target_video_id": "29560611",
-        "size_bytes": 4722296814,
-        "prepared_at": "2026-09-20T14:35:39.388046+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T15:56:47.158743+00:00",
-        "lease_expires_at": "2026-09-20T21:56:47.158743+00:00",
-        "run_id": "35510972333"
+        "uploaded_at": "2026-09-20T15:56:51.300955+00:00"
       }
     },
     "27381": {
@@ -51839,13 +51827,6 @@
     },
     "18516": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26127767",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:52:44.817044+00:00"
-        },
         {
           "status": "source_refresh_failed",
           "source_id": "26127767",
@@ -51859,6 +51840,13 @@
           "target_video_id": "29561515",
           "permanent": false,
           "attempted_at": "2026-09-20T15:19:07.950481+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26127767",
+          "target_video_id": "29561515",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:56:50.259326+00:00"
         }
       ],
       "last_plan": {
@@ -51869,14 +51857,8 @@
       "previous_target_id": "29561515",
       "prepared": {
         "target_video_id": "29561515",
-        "size_bytes": 2105858499,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-20T15:13:39.053261+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:56:47.394519+00:00",
-        "lease_expires_at": "2026-09-20T21:56:47.394519+00:00",
-        "run_id": "35510972333"
       }
     },
     "11129": {
@@ -52024,13 +52006,6 @@
           "permanent": false,
           "source_id": "34668514",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:52:06.527602+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34668514",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:52:47.000411+00:00"
         },
         {
@@ -52039,6 +52014,13 @@
           "target_video_id": "29560710",
           "permanent": false,
           "attempted_at": "2026-09-20T14:45:15.735437+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "29560710",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:56:50.531666+00:00"
         }
       ],
       "last_plan": {
@@ -52049,14 +52031,8 @@
       "previous_target_id": "29560710",
       "prepared": {
         "target_video_id": "29560710",
-        "size_bytes": 1786077516,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-20T14:40:04.934351+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T15:56:48.182478+00:00",
-        "lease_expires_at": "2026-09-20T21:56:48.182478+00:00",
-        "run_id": "35510972333"
       }
     },
     "23317": {
@@ -52143,6 +52119,12 @@
         "target_video_id": "29560711",
         "size_bytes": 2545077483,
         "prepared_at": "2026-09-20T14:40:07.036238+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
+        "claimed_at": "2026-09-20T15:56:50.790145+00:00",
+        "lease_expires_at": "2026-09-20T21:56:50.790145+00:00",
+        "run_id": "35510972333"
       }
     },
     "32603": {
@@ -52467,7 +52449,13 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-18T23:53:40.776191+00:00"
       },
-      "previous_target_id": "29505587"
+      "previous_target_id": "29505587",
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T15:56:51.040936+00:00",
+        "lease_expires_at": "2026-09-20T21:56:51.040936+00:00",
+        "run_id": "35510972333"
+      }
     },
     "2441": {
       "attempts": [
@@ -232315,5 +232303,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:56:48.451041+00:00"
+  "updated_at": "2026-09-20T15:56:51.300972+00:00"
 }
