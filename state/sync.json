@@ -16520,13 +16520,6 @@
           "permanent": false,
           "source_id": "32045179",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:47:59.533512+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32045179",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:06.220303+00:00"
         },
         {
@@ -16535,6 +16528,13 @@
           "target_video_id": "29558615",
           "permanent": false,
           "attempted_at": "2026-09-20T13:09:17.774193+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32045179",
+          "target_video_id": "29558615",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:42:48.145631+00:00"
         }
       ],
       "last_plan": {
@@ -16545,7 +16545,7 @@
       "previous_target_id": "29558615",
       "prepared": {
         "target_video_id": "29558615",
-        "size_bytes": 2533411724,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-20T13:01:24.784934+00:00"
       }
     },
@@ -16641,16 +16641,10 @@
           "attempted_at": "2026-09-20T13:11:07.983538+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33869761",
-        "display_name": "Rodina k pronájmu (2025) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T13:41:32.441884+00:00"
-      },
       "previous_target_id": "29558704",
-      "prepared": {
+      "upload": {
         "target_video_id": "29558704",
-        "size_bytes": 2023321516,
-        "prepared_at": "2026-09-20T13:05:18.391724+00:00"
+        "uploaded_at": "2026-09-20T13:42:49.750623+00:00"
       }
     },
     "23012": {
@@ -231353,5 +231347,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:42:45.026633+00:00"
+  "updated_at": "2026-09-20T13:42:49.750641+00:00"
 }
