@@ -139457,13 +139457,6 @@
           "permanent": false,
           "source_id": "35032461",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:47:45.817140+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35032461",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:44.959764+00:00"
         },
         {
@@ -139472,18 +139465,19 @@
           "reason": "Request failed for https://sdilej.cz/35032461/viking-the-berserkers.2014.brrip.x264.ac3-srt.cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T17:43:53.205050+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35032461",
+          "target_video_id": "29565059",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:32:03.281918+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35032461",
         "display_name": "Viking: The Berserkers (2014) SD CZ Titulky",
         "planned_at": "2026-09-20T18:28:05.885963+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
-        "claimed_at": "2026-09-20T18:28:44.710797+00:00",
-        "lease_expires_at": "2026-09-21T00:28:44.710797+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29565059",
       "prepared": {
@@ -233312,5 +233306,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:29:51.033011+00:00"
+  "updated_at": "2026-09-20T18:32:03.281940+00:00"
 }
