@@ -142718,13 +142718,6 @@
           "permanent": false,
           "source_id": "11995620",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:36.939334+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11995620",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:43.698040+00:00"
         },
         {
@@ -142733,6 +142726,13 @@
           "target_video_id": "29566130",
           "permanent": false,
           "attempted_at": "2026-09-20T19:42:03.104257+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11995620",
+          "target_video_id": "29566130",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:19:37.829399+00:00"
         }
       ],
       "last_plan": {
@@ -142743,7 +142743,7 @@
       "previous_target_id": "29566130",
       "prepared": {
         "target_video_id": "29566130",
-        "size_bytes": 3073918633,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-20T19:34:05.684210+00:00"
       }
     },
@@ -142802,13 +142802,6 @@
           "permanent": false,
           "source_id": "34667541",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:30.140840+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667541",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:44.419167+00:00"
         },
         {
@@ -142817,6 +142810,13 @@
           "target_video_id": "29566192",
           "permanent": false,
           "attempted_at": "2026-09-20T19:42:41.633144+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34667541",
+          "target_video_id": "29566192",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:19:39.698628+00:00"
         }
       ],
       "last_plan": {
@@ -142827,7 +142827,7 @@
       "previous_target_id": "29566192",
       "prepared": {
         "target_video_id": "29566192",
-        "size_bytes": 2361665871,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-20T19:37:12.007408+00:00"
       }
     },
@@ -142858,16 +142858,10 @@
           "attempted_at": "2026-09-20T19:43:43.660737+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34689308",
-        "display_name": "Prostě věř (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T20:18:49.963374+00:00"
-      },
       "previous_target_id": "29566207",
-      "prepared": {
+      "upload": {
         "target_video_id": "29566207",
-        "size_bytes": 2226038195,
-        "prepared_at": "2026-09-20T19:37:40.923209+00:00"
+        "uploaded_at": "2026-09-20T20:19:41.605352+00:00"
       }
     },
     "27987": {
@@ -233318,5 +233312,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:19:34.105618+00:00"
+  "updated_at": "2026-09-20T20:19:41.605367+00:00"
 }
