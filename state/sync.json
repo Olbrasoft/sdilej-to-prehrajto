@@ -143398,13 +143398,6 @@
           "permanent": false,
           "source_id": "34710448",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:41.042514+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34710448",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:50.866433+00:00"
         },
         {
@@ -143413,18 +143406,19 @@
           "reason": "Request failed for https://sdilej.cz/34710448/ctyri-deti-a-jeden-otec-vi-2012-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T20:10:21.067167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710448",
+          "target_video_id": "29567481",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:07:39.986654+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34710448",
         "display_name": "Čtyři děti a jeden otec VI (2012) SD CZ Dabing",
         "planned_at": "2026-09-20T21:04:01.880621+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
-        "claimed_at": "2026-09-20T21:04:55.968293+00:00",
-        "lease_expires_at": "2026-09-21T03:04:55.968293+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567481",
       "prepared": {
@@ -143603,13 +143597,6 @@
           "permanent": false,
           "source_id": "33742692",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:42.131405+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33742692",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:53.014568+00:00"
         },
         {
@@ -143618,6 +143605,13 @@
           "target_video_id": "29566745",
           "permanent": false,
           "attempted_at": "2026-09-20T20:18:47.667753+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33742692",
+          "target_video_id": "29566745",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:07:37.988344+00:00"
         }
       ],
       "last_plan": {
@@ -143628,7 +143622,7 @@
       "previous_target_id": "29566745",
       "prepared": {
         "target_video_id": "29566745",
-        "size_bytes": 2585040964,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-20T20:10:49.163137+00:00"
       }
     },
@@ -143707,6 +143701,12 @@
         "source_id": "11112400",
         "display_name": "Labyrint podle Davea (2017) 1080p CZ Titulky",
         "planned_at": "2026-09-20T21:04:03.090816+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
+        "claimed_at": "2026-09-20T21:07:38.296062+00:00",
+        "lease_expires_at": "2026-09-21T03:07:38.296062+00:00",
+        "run_id": "35529171597"
       }
     },
     "28209": {
@@ -233426,5 +233426,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:07:34.500344+00:00"
+  "updated_at": "2026-09-20T21:07:39.986671+00:00"
 }
