@@ -130030,13 +130030,6 @@
           "permanent": false,
           "source_id": "27345611",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:23:57.228506+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27345611",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:46:49.669074+00:00"
         },
         {
@@ -130045,6 +130038,14 @@
           "source_id": "27345611",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:33.523318+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "27345611",
+          "target_video_id": "29403096",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-20T17:40:47.789368+00:00"
         }
       ],
       "last_plan": {
@@ -130052,7 +130053,13 @@
         "display_name": "Ztracená rodina (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T17:36:36.318527+00:00"
       },
-      "previous_target_id": "29403096"
+      "previous_target_id": "29403096",
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
+        "claimed_at": "2026-09-20T17:40:46.936344+00:00",
+        "lease_expires_at": "2026-09-20T23:40:46.936344+00:00",
+        "run_id": "35510972333"
+      }
     },
     "27697": {
       "attempts": [
@@ -130439,13 +130446,6 @@
           "source_id": "32738677",
           "target_video_id": "29332939",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:34.110590+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32738677",
-          "target_video_id": "29332939",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:55:36.000470+00:00"
         },
         {
@@ -130454,6 +130454,13 @@
           "target_video_id": "29332939",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:26.999702+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32738677",
+          "target_video_id": "29332939",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:49.328663+00:00"
         }
       ],
       "last_plan": {
@@ -130549,13 +130556,6 @@
           "source_id": "11695563",
           "target_video_id": "29333051",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:34.615218+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11695563",
-          "target_video_id": "29333051",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:15.412233+00:00"
         },
         {
@@ -130564,6 +130564,13 @@
           "target_video_id": "29333051",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:40.258930+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11695563",
+          "target_video_id": "29333051",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:51.038547+00:00"
         }
       ],
       "last_plan": {
@@ -131933,13 +131940,6 @@
           "source_id": "24192800",
           "target_video_id": "29276491",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:35.430288+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24192800",
-          "target_video_id": "29276491",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:14.881974+00:00"
         },
         {
@@ -131948,6 +131948,13 @@
           "target_video_id": "29276491",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:41.773429+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24192800",
+          "target_video_id": "29276491",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:52.589234+00:00"
         }
       ],
       "last_plan": {
@@ -132229,13 +132236,6 @@
           "source_id": "30147512",
           "target_video_id": "29252039",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:39.655399+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30147512",
-          "target_video_id": "29252039",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:16.276339+00:00"
         },
         {
@@ -132244,6 +132244,13 @@
           "target_video_id": "29252039",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:43.222107+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30147512",
+          "target_video_id": "29252039",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:54.171896+00:00"
         }
       ],
       "last_plan": {
@@ -132545,13 +132552,6 @@
           "source_id": "34900554",
           "target_video_id": "29399709",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:37.767888+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34900554",
-          "target_video_id": "29399709",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:16.877343+00:00"
         },
         {
@@ -132560,6 +132560,13 @@
           "target_video_id": "29399709",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:44.830421+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34900554",
+          "target_video_id": "29399709",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:55.760966+00:00"
         }
       ],
       "last_plan": {
@@ -132629,13 +132636,6 @@
           "source_id": "25769731",
           "target_video_id": "29258339",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:38.810476+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25769731",
-          "target_video_id": "29258339",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:16.605008+00:00"
         },
         {
@@ -132644,6 +132644,13 @@
           "target_video_id": "29258339",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:46.259796+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25769731",
+          "target_video_id": "29258339",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:57.369204+00:00"
         }
       ],
       "last_plan": {
@@ -133420,13 +133427,6 @@
           "source_id": "34773746",
           "target_video_id": "29284592",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:38.004503+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34773746",
-          "target_video_id": "29284592",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:17.563213+00:00"
         },
         {
@@ -133435,6 +133435,13 @@
           "target_video_id": "29284592",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:47.817693+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34773746",
+          "target_video_id": "29284592",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:40:59.088683+00:00"
         }
       ],
       "last_plan": {
@@ -133999,13 +134006,6 @@
           "source_id": "12903355",
           "target_video_id": "29236093",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:39.892184+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12903355",
-          "target_video_id": "29236093",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:18.120112+00:00"
         },
         {
@@ -134014,6 +134014,13 @@
           "target_video_id": "29236093",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:49.257608+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12903355",
+          "target_video_id": "29236093",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:41:00.687834+00:00"
         }
       ],
       "last_plan": {
@@ -134904,13 +134911,6 @@
           "source_id": "13480709",
           "target_video_id": "29285833",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:41.652493+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13480709",
-          "target_video_id": "29285833",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:19.387278+00:00"
         },
         {
@@ -134919,6 +134919,13 @@
           "target_video_id": "29285833",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:50.711857+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13480709",
+          "target_video_id": "29285833",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:41:02.338630+00:00"
         }
       ],
       "last_plan": {
@@ -135776,13 +135783,6 @@
           "permanent": false,
           "source_id": "26447974",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:24.664568+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26447974",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:47:30.677658+00:00"
         },
         {
@@ -135791,6 +135791,14 @@
           "source_id": "26447974",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:40.506857+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "26447974",
+          "target_video_id": "29402925",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-20T17:41:03.497156+00:00"
         }
       ],
       "last_plan": {
@@ -135798,7 +135806,13 @@
         "display_name": "Na 30 dní zase spolu (2022) 720p CZ Titulky",
         "planned_at": "2026-09-20T17:36:39.813804+00:00"
       },
-      "previous_target_id": "29402925"
+      "previous_target_id": "29402925",
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
+        "claimed_at": "2026-09-20T17:41:02.677342+00:00",
+        "lease_expires_at": "2026-09-20T23:41:02.677342+00:00",
+        "run_id": "35510972333"
+      }
     },
     "13504": {
       "attempts": [
@@ -136793,13 +136807,6 @@
           "source_id": "28475218",
           "target_video_id": "29238524",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:41.396009+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28475218",
-          "target_video_id": "29238524",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:21.371745+00:00"
         },
         {
@@ -136808,6 +136815,13 @@
           "target_video_id": "29238524",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:52.212540+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28475218",
+          "target_video_id": "29238524",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:41:05.129255+00:00"
         }
       ],
       "last_plan": {
@@ -137937,13 +137951,6 @@
           "source_id": "6960903",
           "target_video_id": "29284050",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:42.519005+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6960903",
-          "target_video_id": "29284050",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:19.744330+00:00"
         },
         {
@@ -137952,6 +137959,13 @@
           "target_video_id": "29284050",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:53.710123+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6960903",
+          "target_video_id": "29284050",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:41:06.769496+00:00"
         }
       ],
       "last_plan": {
@@ -138245,13 +138259,6 @@
           "source_id": "28380362",
           "target_video_id": "29284107",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:23:44.149481+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28380362",
-          "target_video_id": "29284107",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:56:21.059980+00:00"
         },
         {
@@ -138260,6 +138267,13 @@
           "target_video_id": "29284107",
           "permanent": false,
           "attempted_at": "2026-09-20T12:26:55.182867+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28380362",
+          "target_video_id": "29284107",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:41:08.372963+00:00"
         }
       ],
       "last_plan": {
@@ -138417,13 +138431,6 @@
           "permanent": false,
           "source_id": "34661757",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:26.137863+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34661757",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:47:42.589049+00:00"
         },
         {
@@ -138432,6 +138439,14 @@
           "source_id": "34661757",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:42.754064+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34661757",
+          "target_video_id": "29400424",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-20T17:41:09.550544+00:00"
         }
       ],
       "last_plan": {
@@ -138439,7 +138454,13 @@
         "display_name": "Všechno nebo nic (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-20T17:36:41.148616+00:00"
       },
-      "previous_target_id": "29400424"
+      "previous_target_id": "29400424",
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
+        "claimed_at": "2026-09-20T17:41:08.713622+00:00",
+        "lease_expires_at": "2026-09-20T23:41:08.713622+00:00",
+        "run_id": "35510972333"
+      }
     },
     "30955": {
       "attempts": []
@@ -138671,13 +138692,6 @@
           "permanent": false,
           "source_id": "34900534",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:24.921659+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34900534",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:47:43.691443+00:00"
         },
         {
@@ -138686,6 +138700,14 @@
           "source_id": "34900534",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:43.610884+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34900534",
+          "target_video_id": "29400453",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-20T17:41:10.613509+00:00"
         }
       ],
       "last_plan": {
@@ -138693,7 +138715,13 @@
         "display_name": "Eating Out 2: Sloppy Seconds (2006) SD CZ Titulky",
         "planned_at": "2026-09-20T17:36:41.487381+00:00"
       },
-      "previous_target_id": "29400453"
+      "previous_target_id": "29400453",
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
+        "claimed_at": "2026-09-20T17:41:09.873459+00:00",
+        "lease_expires_at": "2026-09-20T23:41:09.873459+00:00",
+        "run_id": "35510972333"
+      }
     },
     "4500": {
       "attempts": []
@@ -139006,6 +139034,18 @@
         "source_id": "35028520",
         "display_name": "Přerušené ticho (2012) SD CZ Dabing",
         "planned_at": "2026-09-20T17:36:41.816403+00:00"
+      },
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
+        "claimed_at": "2026-09-20T17:41:10.942218+00:00",
+        "lease_expires_at": "2026-09-20T23:41:10.942218+00:00",
+        "run_id": "35510972333"
+      },
+      "previous_target_id": "29564227",
+      "prepared": {
+        "target_video_id": "29564227",
+        "size_bytes": 854573984,
+        "prepared_at": "2026-09-20T17:41:14.197018+00:00"
       }
     },
     "13677": {
@@ -233186,5 +233226,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:40:41.334604+00:00"
+  "updated_at": "2026-09-20T17:41:14.197033+00:00"
 }
