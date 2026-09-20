@@ -141250,13 +141250,6 @@
           "source_id": "32575306",
           "target_video_id": "29565202",
           "permanent": false,
-          "attempted_at": "2026-09-20T18:49:00.843986+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32575306",
-          "target_video_id": "29565202",
-          "permanent": false,
           "attempted_at": "2026-09-20T19:59:20.927098+00:00"
         },
         {
@@ -141265,6 +141258,13 @@
           "target_video_id": "29565202",
           "permanent": false,
           "attempted_at": "2026-09-20T21:03:53.253494+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32575306",
+          "target_video_id": "29565202",
+          "permanent": false,
+          "attempted_at": "2026-09-20T23:57:12.228681+00:00"
         }
       ],
       "last_plan": {
@@ -141277,12 +141277,6 @@
         "target_video_id": "29565202",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-20T18:37:12.792869+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-20T23:57:09.863330+00:00",
-        "lease_expires_at": "2026-09-21T05:57:09.863330+00:00",
-        "run_id": "35529171597"
       }
     },
     "13087": {
@@ -141319,6 +141313,12 @@
         "source_id": "28700869",
         "display_name": "Mea Culpa (2014) SD CZ Dabing",
         "planned_at": "2026-09-20T23:56:18.822518+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
+        "claimed_at": "2026-09-20T23:57:12.758918+00:00",
+        "lease_expires_at": "2026-09-21T05:57:12.758918+00:00",
+        "run_id": "35529171597"
       }
     },
     "4779": {
@@ -141655,13 +141655,6 @@
     "18239": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29001957",
-          "reason": "Request failed for https://sdilej.cz/29001957/trollove-3.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-20T18:57:10.744728+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29001957",
           "target_video_id": "29566588",
@@ -141674,6 +141667,13 @@
           "target_video_id": "29566588",
           "permanent": false,
           "attempted_at": "2026-09-20T21:03:53.024203+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29001957",
+          "target_video_id": "29566588",
+          "permanent": false,
+          "attempted_at": "2026-09-20T23:57:13.857225+00:00"
         }
       ],
       "last_plan": {
@@ -141812,16 +141812,10 @@
           "attempted_at": "2026-09-20T21:04:14.452995+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34205894",
-        "display_name": "Dračí srdce (1996) 4K CZ Dabing",
-        "planned_at": "2026-09-20T23:56:19.368801+00:00"
-      },
       "previous_target_id": "29565610",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565610",
-        "size_bytes": 4099999999,
-        "prepared_at": "2026-09-20T19:03:41.168172+00:00"
+        "uploaded_at": "2026-09-20T23:57:15.437411+00:00"
       }
     },
     "9603": {
@@ -234262,5 +234256,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T23:57:10.171608+00:00"
+  "updated_at": "2026-09-20T23:57:15.437429+00:00"
 }
