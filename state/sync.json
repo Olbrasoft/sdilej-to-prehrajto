@@ -145249,13 +145249,6 @@
           "permanent": false,
           "source_id": "33555175",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:05:04.548657+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33555175",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:14:43.923171+00:00"
         },
         {
@@ -145264,18 +145257,19 @@
           "source_id": "33555175",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:26.928556+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33555175",
+          "target_video_id": "29567627",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:21:40.423419+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33555175",
         "display_name": "Prodigy (2005) SD CZ Dabing",
         "planned_at": "2026-09-20T21:04:06.160350+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T21:14:19.400678+00:00",
-        "lease_expires_at": "2026-09-21T03:14:19.400678+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567627",
       "prepared": {
@@ -233462,5 +233456,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:20:02.394472+00:00"
+  "updated_at": "2026-09-20T21:21:40.423437+00:00"
 }
