@@ -56971,13 +56971,6 @@
           "source_id": "32453575",
           "target_video_id": "29141949",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:35:01.692363+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32453575",
-          "target_video_id": "29141949",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:06:55.806827+00:00"
         },
         {
@@ -56986,12 +56979,19 @@
           "target_video_id": "29141949",
           "permanent": false,
           "attempted_at": "2026-09-20T05:38:54.568174+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32453575",
+          "target_video_id": "29141949",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:09:31.117964+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32453575",
         "display_name": "Sám doma 2: Ztracen v New Yorku (1992) 4K CZ Dabing",
-        "planned_at": "2026-09-20T05:37:03.019180+00:00"
+        "planned_at": "2026-09-20T06:09:20.714378+00:00"
       },
       "prepared": {
         "target_video_id": "29141949",
@@ -57030,14 +57030,20 @@
       "last_plan": {
         "source_id": "33542180",
         "display_name": "Zloba – Královna černé magie (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-20T05:37:03.245150+00:00"
+        "planned_at": "2026-09-20T06:09:20.967059+00:00"
       },
       "prepared": {
         "target_video_id": "29142078",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-05T21:10:28.377542+00:00"
       },
-      "previous_target_id": "29142078"
+      "previous_target_id": "29142078",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-1",
+        "claimed_at": "2026-09-20T06:09:29.530445+00:00",
+        "lease_expires_at": "2026-09-20T12:09:29.530445+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2525": {
       "attempts": [
@@ -75933,7 +75939,18 @@
       }
     },
     "30897": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34733987",
+        "display_name": "Our Godfather (2019) SD CZ Titulky",
+        "planned_at": "2026-09-20T06:09:21.220287+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T06:09:30.049026+00:00",
+        "lease_expires_at": "2026-09-20T12:09:30.049026+00:00",
+        "run_id": "35481903373"
+      }
     },
     "15474": {
       "attempts": []
@@ -76281,7 +76298,26 @@
       }
     },
     "17172": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12402129",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:30.686190+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "12402129",
+        "display_name": "Dilili v Paříži (2018) 1080p CZ Dabing",
+        "planned_at": "2026-09-20T06:09:21.468346+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:09:29.778291+00:00",
+        "lease_expires_at": "2026-09-20T12:09:29.778291+00:00",
+        "run_id": "35481903373"
+      }
     },
     "15620": {
       "attempts": [
@@ -79238,7 +79274,18 @@
       "attempts": []
     },
     "16851": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29707906",
+        "display_name": "O chytrém šachovi (1983) 1080p CZ Dabing",
+        "planned_at": "2026-09-20T06:09:21.720747+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T06:09:30.333222+00:00",
+        "lease_expires_at": "2026-09-20T12:09:30.333222+00:00",
+        "run_id": "35481903373"
+      }
     },
     "28941": {
       "attempts": [
@@ -79358,7 +79405,12 @@
       "attempts": []
     },
     "24052": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29700681",
+        "display_name": "Lucerna (1938) SD CZ Dabing",
+        "planned_at": "2026-09-20T06:09:21.973856+00:00"
+      }
     },
     "15660": {
       "attempts": [
@@ -160123,13 +160175,6 @@
           "permanent": false,
           "source_id": "33745424",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:44.596937+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745424",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:05:57.626583+00:00"
         },
         {
@@ -160138,23 +160183,29 @@
           "source_id": "33745424",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:43.494373+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33745424",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:13.825478+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33745424",
         "display_name": "Přistěhovalec (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:54.981896+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T06:09:11.802302+00:00",
+        "lease_expires_at": "2026-09-20T12:09:11.802302+00:00",
+        "run_id": "35481903373"
       }
     },
     "33906": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34772650",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:45.550433+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -160168,12 +160219,25 @@
           "source_id": "34772650",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:44.429037+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34772650",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:12.159957+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34772650",
         "display_name": "The Beta Test (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-20T06:08:55.227153+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-1",
+        "claimed_at": "2026-09-20T06:09:10.714004+00:00",
+        "lease_expires_at": "2026-09-20T12:09:10.714004+00:00",
+        "run_id": "35481903373"
       }
     },
     "13261": {
@@ -160263,13 +160327,6 @@
           "permanent": false,
           "source_id": "6846494",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:46.550878+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6846494",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:05:59.348957+00:00"
         },
         {
@@ -160278,12 +160335,25 @@
           "source_id": "6846494",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:45.546893+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "6846494",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:12.527523+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6846494",
         "display_name": "I Am Not a Serial Killer (2016) 720p CZ Titulky",
         "planned_at": "2026-09-20T06:08:55.478813+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:09:10.963462+00:00",
+        "lease_expires_at": "2026-09-20T12:09:10.963462+00:00",
+        "run_id": "35481903373"
       }
     },
     "10202": {
@@ -160318,13 +160388,6 @@
           "permanent": false,
           "source_id": "27045408",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:47.495300+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27045408",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:00.415587+00:00"
         },
         {
@@ -160333,12 +160396,25 @@
           "source_id": "27045408",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:46.330487+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27045408",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:13.078076+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27045408",
         "display_name": "Vše co chci k Vánocům jsi ty (2017) 720p CZ Dabing",
         "planned_at": "2026-09-20T06:08:55.722769+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:09:11.492059+00:00",
+        "lease_expires_at": "2026-09-20T12:09:11.492059+00:00",
+        "run_id": "35481903373"
       }
     },
     "24999": {
@@ -160372,13 +160448,6 @@
           "permanent": false,
           "source_id": "34698040",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:48.434203+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34698040",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:01.267700+00:00"
         },
         {
@@ -160387,23 +160456,29 @@
           "source_id": "34698040",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:47.159422+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34698040",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:12.830148+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34698040",
         "display_name": "Zprávy TV Onion (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:55.963575+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T06:09:11.238688+00:00",
+        "lease_expires_at": "2026-09-20T12:09:11.238688+00:00",
+        "run_id": "35481903373"
       }
     },
     "10304": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34671332",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:49.405206+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -160417,12 +160492,25 @@
           "source_id": "34671332",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:48.277398+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34671332",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:14.697987+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34671332",
         "display_name": "Pusu, pusu! (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:56.221201+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-1",
+        "claimed_at": "2026-09-20T06:09:13.320371+00:00",
+        "lease_expires_at": "2026-09-20T12:09:13.320371+00:00",
+        "run_id": "35481903373"
       }
     },
     "5445": {
@@ -160521,13 +160609,6 @@
           "permanent": false,
           "source_id": "34725084",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:57:50.397576+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34725084",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:03.157727+00:00"
         },
         {
@@ -160536,12 +160617,25 @@
           "source_id": "34725084",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:49.172944+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34725084",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:15.284584+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34725084",
         "display_name": "Divoký Paňdžáb (2024) 720p CZ Titulky",
         "planned_at": "2026-09-20T06:08:56.467555+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:09:14.076566+00:00",
+        "lease_expires_at": "2026-09-20T12:09:14.076566+00:00",
+        "run_id": "35481903373"
       }
     },
     "28847": {
@@ -160682,13 +160776,6 @@
           "permanent": false,
           "source_id": "26848057",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:32.870871+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26848057",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:04.327333+00:00"
         },
         {
@@ -160697,12 +160784,25 @@
           "source_id": "26848057",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:50.034677+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26848057",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:19.849727+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26848057",
         "display_name": "Ehrengard: Umění svádět (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:56.720050+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T06:09:13.572968+00:00",
+        "lease_expires_at": "2026-09-20T12:09:13.572968+00:00",
+        "run_id": "35481903373"
       }
     },
     "6009": {
@@ -160756,13 +160856,6 @@
           "permanent": false,
           "source_id": "34724644",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:33.873471+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34724644",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:05.390094+00:00"
         },
         {
@@ -160771,12 +160864,25 @@
           "source_id": "34724644",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:51.122294+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34724644",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:15.884913+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34724644",
         "display_name": "The Windigo (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-20T06:08:56.980519+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:09:14.382273+00:00",
+        "lease_expires_at": "2026-09-20T12:09:14.382273+00:00",
+        "run_id": "35481903373"
       }
     },
     "18585": {
@@ -160957,13 +161063,6 @@
           "permanent": false,
           "source_id": "34710625",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:34.825868+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34710625",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:06.381517+00:00"
         },
         {
@@ -160972,12 +161071,25 @@
           "source_id": "34710625",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:52.148949+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34710625",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:16.402042+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34710625",
         "display_name": "Sto krvavých akrů (2012) SD CZ Titulky",
         "planned_at": "2026-09-20T06:08:57.234696+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T06:09:15.008179+00:00",
+        "lease_expires_at": "2026-09-20T12:09:15.008179+00:00",
+        "run_id": "35481903373"
       }
     },
     "18014": {
@@ -161215,13 +161327,6 @@
           "permanent": false,
           "source_id": "5975172",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:35.795212+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "5975172",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:08.124289+00:00"
         },
         {
@@ -161230,12 +161335,25 @@
           "source_id": "5975172",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:53.112219+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "5975172",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:16.969857+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5975172",
         "display_name": "Bláznivá holka (2008) SD CZ Dabing",
         "planned_at": "2026-09-20T06:08:57.477137+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-1",
+        "claimed_at": "2026-09-20T06:09:15.568392+00:00",
+        "lease_expires_at": "2026-09-20T12:09:15.568392+00:00",
+        "run_id": "35481903373"
       }
     },
     "28163": {
@@ -161258,13 +161376,6 @@
           "permanent": false,
           "source_id": "30132662",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:36.779203+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30132662",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:09.658061+00:00"
         },
         {
@@ -161273,12 +161384,25 @@
           "source_id": "30132662",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:53.981617+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30132662",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:17.522683+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30132662",
         "display_name": "Vánoce na farmě (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:57.732385+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:09:16.151462+00:00",
+        "lease_expires_at": "2026-09-20T12:09:16.151462+00:00",
+        "run_id": "35481903373"
       }
     },
     "29379": {
@@ -161320,13 +161444,6 @@
           "permanent": false,
           "source_id": "33753126",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:37.799770+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33753126",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:10.991722+00:00"
         },
         {
@@ -161335,12 +161452,25 @@
           "source_id": "33753126",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:54.819297+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33753126",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:18.094092+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33753126",
         "display_name": "Páter Thomas (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:57.988954+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:09:16.706880+00:00",
+        "lease_expires_at": "2026-09-20T12:09:16.706880+00:00",
+        "run_id": "35481903373"
       }
     },
     "15489": {
@@ -161396,13 +161526,6 @@
           "permanent": false,
           "source_id": "33205444",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:38.924947+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33205444",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:11.918412+00:00"
         },
         {
@@ -161411,12 +161534,25 @@
           "source_id": "33205444",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:55.648133+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33205444",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:18.653138+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33205444",
         "display_name": "Poslední král (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:58.253489+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T06:09:17.266992+00:00",
+        "lease_expires_at": "2026-09-20T12:09:17.266992+00:00",
+        "run_id": "35481903373"
       }
     },
     "32684": {
@@ -161432,13 +161568,6 @@
           "permanent": false,
           "source_id": "29428974",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:39.985472+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29428974",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:12.638145+00:00"
         },
         {
@@ -161447,12 +161576,25 @@
           "source_id": "29428974",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:56.796703+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29428974",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:19.399985+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29428974",
         "display_name": "Malý obchod hrůz (1960) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:58.499876+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-1",
+        "claimed_at": "2026-09-20T06:09:17.843359+00:00",
+        "lease_expires_at": "2026-09-20T12:09:17.843359+00:00",
+        "run_id": "35481903373"
       }
     },
     "26942": {
@@ -161641,13 +161783,6 @@
           "permanent": false,
           "source_id": "32711645",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:41.008300+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32711645",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:14.233272+00:00"
         },
         {
@@ -161656,12 +161791,25 @@
           "source_id": "32711645",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:57.697670+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32711645",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:20.132028+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32711645",
         "display_name": "Mise spravedlnosti 2 (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:08:58.744330+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:09:18.394579+00:00",
+        "lease_expires_at": "2026-09-20T12:09:18.394579+00:00",
+        "run_id": "35481903373"
       }
     },
     "23098": {
@@ -162546,13 +162694,6 @@
           "permanent": false,
           "source_id": "6479670",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:00:45.024645+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6479670",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:06:15.672719+00:00"
         },
         {
@@ -162561,12 +162702,25 @@
           "source_id": "6479670",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:08:58.895508+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "6479670",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:09:20.434337+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6479670",
         "display_name": "Tichý spojenec (2005) SD CZ Dabing",
         "planned_at": "2026-09-20T06:08:58.997013+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:09:18.955817+00:00",
+        "lease_expires_at": "2026-09-20T12:09:18.955817+00:00",
+        "run_id": "35481903373"
       }
     },
     "32051": {
@@ -162614,7 +162768,7 @@
       "last_plan": {
         "source_id": "34024667",
         "display_name": "Nářek duší (2009) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.109864+00:00"
+        "planned_at": "2026-09-20T06:09:22.258641+00:00"
       }
     },
     "14315": {
@@ -162689,7 +162843,7 @@
       "last_plan": {
         "source_id": "34713371",
         "display_name": "Mateřský instinkt (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.241080+00:00"
+        "planned_at": "2026-09-20T06:09:22.509987+00:00"
       }
     },
     "16235": {
@@ -162758,7 +162912,7 @@
       "last_plan": {
         "source_id": "11437453",
         "display_name": "Postel plná růží (1996) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.438841+00:00"
+        "planned_at": "2026-09-20T06:09:22.771201+00:00"
       }
     },
     "9188": {
@@ -162854,7 +163008,7 @@
       "last_plan": {
         "source_id": "31991917",
         "display_name": "Tajemství mé dcery (2007) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.571217+00:00"
+        "planned_at": "2026-09-20T06:09:23.017349+00:00"
       }
     },
     "15272": {
@@ -162911,7 +163065,7 @@
       "last_plan": {
         "source_id": "34694341",
         "display_name": "Nešikovný podvodník (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.700776+00:00"
+        "planned_at": "2026-09-20T06:09:23.260354+00:00"
       }
     },
     "22891": {
@@ -162947,7 +163101,7 @@
       "last_plan": {
         "source_id": "31270295",
         "display_name": "Ztraceni ve Florencii (2017) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.830309+00:00"
+        "planned_at": "2026-09-20T06:09:23.505228+00:00"
       }
     },
     "22783": {
@@ -162990,7 +163144,7 @@
       "last_plan": {
         "source_id": "34697470",
         "display_name": "Ježíš mě miluje (2012) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:27.960576+00:00"
+        "planned_at": "2026-09-20T06:09:23.757487+00:00"
       }
     },
     "23447": {
@@ -163047,7 +163201,7 @@
       "last_plan": {
         "source_id": "34478548",
         "display_name": "Jurská školka (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:28.093631+00:00"
+        "planned_at": "2026-09-20T06:09:24.006709+00:00"
       }
     },
     "19603": {
@@ -163120,7 +163274,7 @@
       "last_plan": {
         "source_id": "31089246",
         "display_name": "Grande école (2004) SD CZ Titulky",
-        "planned_at": "2026-09-20T00:08:28.226776+00:00"
+        "planned_at": "2026-09-20T06:09:24.250590+00:00"
       }
     },
     "20795": {
@@ -163184,7 +163338,7 @@
       "last_plan": {
         "source_id": "33651163",
         "display_name": "Démon pomsty (1988) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:28.352562+00:00"
+        "planned_at": "2026-09-20T06:09:24.502208+00:00"
       }
     },
     "13420": {
@@ -163220,7 +163374,7 @@
       "last_plan": {
         "source_id": "31004451",
         "display_name": "Barbie a dokonalé Vánoce (2011) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:28.481559+00:00"
+        "planned_at": "2026-09-20T06:09:24.743301+00:00"
       }
     },
     "18942": {
@@ -163284,7 +163438,7 @@
       "last_plan": {
         "source_id": "34671044",
         "display_name": "Kočičí banda 2 (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:28.611331+00:00"
+        "planned_at": "2026-09-20T06:09:24.980087+00:00"
       }
     },
     "26216": {
@@ -163369,7 +163523,7 @@
       "last_plan": {
         "source_id": "5503777",
         "display_name": "Standoff (2016) SD CZ Titulky",
-        "planned_at": "2026-09-20T00:08:28.741116+00:00"
+        "planned_at": "2026-09-20T06:09:25.224656+00:00"
       }
     },
     "35809": {
@@ -163405,7 +163559,7 @@
       "last_plan": {
         "source_id": "22394695",
         "display_name": "Kolo zázraků (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:29.129594+00:00"
+        "planned_at": "2026-09-20T06:09:25.466233+00:00"
       }
     },
     "8392": {
@@ -163474,7 +163628,7 @@
       "last_plan": {
         "source_id": "34736093",
         "display_name": "Zlé sémě se vrací (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:29.260983+00:00"
+        "planned_at": "2026-09-20T06:09:25.711304+00:00"
       }
     },
     "11502": {
@@ -163513,7 +163667,7 @@
       "last_plan": {
         "source_id": "31415930",
         "display_name": "Ong Bak 2: Pomsta (2008) 720p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:29.390702+00:00"
+        "planned_at": "2026-09-20T06:09:25.949826+00:00"
       }
     },
     "21047": {
@@ -163549,7 +163703,7 @@
       "last_plan": {
         "source_id": "14431942",
         "display_name": "Homeboy (1988) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:29.520743+00:00"
+        "planned_at": "2026-09-20T06:09:26.186991+00:00"
       }
     },
     "29833": {
@@ -163582,7 +163736,7 @@
       "last_plan": {
         "source_id": "12205647",
         "display_name": "Take Point (2018) SD CZ Titulky",
-        "planned_at": "2026-09-20T00:08:29.651146+00:00"
+        "planned_at": "2026-09-20T06:09:26.434094+00:00"
       }
     },
     "23833": {
@@ -163651,7 +163805,7 @@
       "last_plan": {
         "source_id": "26097841",
         "display_name": "Sissy (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:29.781003+00:00"
+        "planned_at": "2026-09-20T06:09:26.691438+00:00"
       }
     },
     "25166": {
@@ -163693,7 +163847,7 @@
       "last_plan": {
         "source_id": "34013003",
         "display_name": "Síla života (1985) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:08:30.080259+00:00"
+        "planned_at": "2026-09-20T06:09:26.944138+00:00"
       }
     },
     "27833": {
@@ -163723,7 +163877,7 @@
       "last_plan": {
         "source_id": "24558781",
         "display_name": "Smrt v labyrintu (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:30.213034+00:00"
+        "planned_at": "2026-09-20T06:09:27.207606+00:00"
       }
     },
     "29973": {
@@ -163756,7 +163910,7 @@
       "last_plan": {
         "source_id": "22266507",
         "display_name": "Devítky (2007) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:30.342564+00:00"
+        "planned_at": "2026-09-20T06:09:27.451487+00:00"
       }
     },
     "14601": {
@@ -163786,7 +163940,7 @@
       "last_plan": {
         "source_id": "34734858",
         "display_name": "African Kung-Fu Nazis (2019) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T00:08:30.588627+00:00"
+        "planned_at": "2026-09-20T06:09:27.720819+00:00"
       }
     },
     "37551": {
@@ -163858,7 +164012,7 @@
       "last_plan": {
         "source_id": "21490300",
         "display_name": "Hra na Boha (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:30.720719+00:00"
+        "planned_at": "2026-09-20T06:09:27.970519+00:00"
       }
     },
     "5488": {
@@ -163888,7 +164042,7 @@
       "last_plan": {
         "source_id": "33101932",
         "display_name": "Krokodýl: Návrat do krvavé laguny (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:30.850443+00:00"
+        "planned_at": "2026-09-20T06:09:28.239576+00:00"
       }
     },
     "30833": {
@@ -163951,7 +164105,7 @@
       "last_plan": {
         "source_id": "34704864",
         "display_name": "Příběh zločinu (1995) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:31.009730+00:00"
+        "planned_at": "2026-09-20T06:09:28.504083+00:00"
       }
     },
     "34143": {
@@ -163994,7 +164148,7 @@
       "last_plan": {
         "source_id": "23994989",
         "display_name": "Kapitán Bombarďák ve filmu (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:08:31.301328+00:00"
+        "planned_at": "2026-09-20T06:09:28.750767+00:00"
       }
     },
     "25420": {
@@ -164046,7 +164200,7 @@
       "last_plan": {
         "source_id": "13335255",
         "display_name": "Hledá se rys (2008) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:08:31.431286+00:00"
+        "planned_at": "2026-09-20T06:09:28.998621+00:00"
       }
     },
     "16290": {
@@ -232349,5 +232503,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:09:08.679809+00:00"
+  "updated_at": "2026-09-20T06:09:31.117985+00:00"
 }
