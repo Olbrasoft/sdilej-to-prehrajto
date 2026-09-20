@@ -144894,13 +144894,6 @@
           "permanent": false,
           "source_id": "34689076",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:09:16.663204+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34689076",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:06.248304+00:00"
         },
         {
@@ -144909,18 +144902,19 @@
           "reason": "Request failed for https://sdilej.cz/34689076/zabijeni-krabu-2023-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T20:44:02.925173+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34689076",
+          "reason": "Request failed for https://sdilej.cz/34689076/zabijeni-krabu-2023-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:43:31.207127+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34689076",
         "display_name": "Zabíjení krabů (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T21:21:58.664934+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
-        "claimed_at": "2026-09-20T21:42:45.353379+00:00",
-        "lease_expires_at": "2026-09-21T03:42:45.353379+00:00",
-        "run_id": "35529171597"
       }
     },
     "27043": {
@@ -233660,5 +233654,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:43:08.627829+00:00"
+  "updated_at": "2026-09-20T21:43:31.207146+00:00"
 }
