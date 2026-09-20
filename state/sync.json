@@ -144226,13 +144226,6 @@
           "permanent": false,
           "source_id": "33594194",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:41.886488+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33594194",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:09:03.540305+00:00"
         },
         {
@@ -144241,18 +144234,19 @@
           "source_id": "33594194",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:59.036131+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33594194",
+          "reason": "Request failed for https://sdilej.cz/33594194/operace-corned-beef-1991-fhd-cz-fr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:29:50.980163+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33594194",
         "display_name": "Operace Corned Beef (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:53.528278+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T20:29:05.079814+00:00",
-        "lease_expires_at": "2026-09-21T02:29:05.079814+00:00",
-        "run_id": "35529171597"
       }
     },
     "24358": {
@@ -233362,5 +233356,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:29:40.819928+00:00"
+  "updated_at": "2026-09-20T20:29:50.980180+00:00"
 }
