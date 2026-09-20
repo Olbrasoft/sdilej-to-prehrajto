@@ -144498,13 +144498,6 @@
           "permanent": false,
           "source_id": "20577522",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:47.896337+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20577522",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:09:11.254346+00:00"
         },
         {
@@ -144513,18 +144506,19 @@
           "source_id": "20577522",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:03.475405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20577522",
+          "target_video_id": "29567077",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:47:05.874334+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20577522",
         "display_name": "Slečna závodník (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:55.282071+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T20:36:11.007750+00:00",
-        "lease_expires_at": "2026-09-21T02:36:11.007750+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567077",
       "prepared": {
@@ -233442,5 +233436,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:47:01.425620+00:00"
+  "updated_at": "2026-09-20T20:47:05.874350+00:00"
 }
