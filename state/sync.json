@@ -51928,13 +51928,6 @@
           "permanent": false,
           "source_id": "26127767",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:52:07.200548+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26127767",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:52:44.817044+00:00"
         },
         {
@@ -51943,18 +51936,19 @@
           "reason": "Request failed for https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T14:39:55.218023+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26127767",
+          "target_video_id": "29561515",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:19:07.950481+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26127767",
         "display_name": "Otcové a dcery (2015) 1080p CZ Titulky",
         "planned_at": "2026-09-20T15:12:50.779106+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T15:13:35.967442+00:00",
-        "lease_expires_at": "2026-09-20T21:13:35.967442+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29561515",
       "prepared": {
@@ -65452,6 +65446,12 @@
         "source_id": "33536627",
         "display_name": "Vrah skrývá tvář (1966) 1080p CZ Dabing",
         "planned_at": "2026-09-20T15:13:55.976378+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
+        "claimed_at": "2026-09-20T15:19:07.338061+00:00",
+        "lease_expires_at": "2026-09-20T21:19:07.338061+00:00",
+        "run_id": "35510972333"
       }
     },
     "31324": {
@@ -232027,5 +232027,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:19:01.833315+00:00"
+  "updated_at": "2026-09-20T15:19:07.950498+00:00"
 }
