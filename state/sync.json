@@ -95199,13 +95199,6 @@
           "source_id": "31550309",
           "reason": "Request failed for https://sdilej.cz/31550309/miki-2024-1080p-nf-web-dl-ddp5-1-h-264-flux.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-20T17:14:56.134400+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31550309",
-          "reason": "Request failed for https://sdilej.cz/31550309/miki-2024-1080p-nf-web-dl-ddp5-1-h-264-flux.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-20T18:09:58.044408+00:00"
         },
         {
@@ -95214,6 +95207,14 @@
           "target_video_id": "29565373",
           "permanent": false,
           "attempted_at": "2026-09-20T18:59:40.282558+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31550309",
+          "target_video_id": "29565373",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:55:57.028195+00:00"
         }
       ],
       "last_plan": {
@@ -95221,18 +95222,7 @@
         "display_name": "MIKI (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-20T19:55:15.456329+00:00"
       },
-      "previous_target_id": "29565373",
-      "prepared": {
-        "target_video_id": "29565373",
-        "size_bytes": 4427725453,
-        "prepared_at": "2026-09-20T18:48:32.777692+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T19:55:54.056590+00:00",
-        "lease_expires_at": "2026-09-21T01:55:54.056590+00:00",
-        "run_id": "35529171597"
-      }
+      "previous_target_id": "29565373"
     },
     "33153": {
       "attempts": []
@@ -233392,5 +233382,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:55:54.995117+00:00"
+  "updated_at": "2026-09-20T19:55:57.028214+00:00"
 }
