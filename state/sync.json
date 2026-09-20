@@ -1522,13 +1522,6 @@
           "source_id": "30793920",
           "target_video_id": "28928358",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:25:09.453933+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:55:22.258446+00:00"
         },
         {
@@ -1537,6 +1530,13 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-09-20T05:26:14.098828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30793920",
+          "target_video_id": "28928358",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:56:42.478540+00:00"
         }
       ],
       "last_plan": {
@@ -1615,7 +1615,13 @@
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
       },
-      "previous_target_id": "29111363"
+      "previous_target_id": "29111363",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T05:56:41.372308+00:00",
+        "lease_expires_at": "2026-09-20T11:56:41.372308+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21587": {
       "attempts": [
@@ -2173,7 +2179,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-06T03:39:26.984473+00:00"
       },
-      "previous_target_id": "29115742"
+      "previous_target_id": "29115742",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T05:56:41.074848+00:00",
+        "lease_expires_at": "2026-09-20T11:56:41.074848+00:00",
+        "run_id": "35481903373"
+      }
     },
     "10684": {
       "attempts": [
@@ -153759,13 +153771,6 @@
           "permanent": false,
           "source_id": "28542789",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:29:33.497425+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28542789",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:55:22.770453+00:00"
         },
         {
@@ -153774,12 +153779,25 @@
           "source_id": "28542789",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:56:17.539451+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28542789",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:56:41.767476+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28542789",
         "display_name": "Ostrov ztracených duší (2007) 720p CZ Dabing",
         "planned_at": "2026-09-20T05:56:20.144383+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T05:56:40.811344+00:00",
+        "lease_expires_at": "2026-09-20T11:56:40.811344+00:00",
+        "run_id": "35481903373"
       }
     },
     "18626": {
@@ -153832,6 +153850,12 @@
         "source_id": "33712056",
         "display_name": "Elizabethtown (2005) 4K CZ Dabing",
         "planned_at": "2026-09-20T05:56:20.452104+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T05:56:42.078628+00:00",
+        "lease_expires_at": "2026-09-20T11:56:42.078628+00:00",
+        "run_id": "35481903373"
       }
     },
     "5210": {
@@ -230682,5 +230706,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:56:38.406330+00:00"
+  "updated_at": "2026-09-20T05:56:42.478557+00:00"
 }
