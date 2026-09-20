@@ -17755,6 +17755,13 @@
           "target_video_id": "29559427",
           "permanent": false,
           "attempted_at": "2026-09-20T13:38:43.167095+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31006863",
+          "target_video_id": "29559427",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:19:08.677302+00:00"
         }
       ],
       "last_plan": {
@@ -17765,14 +17772,8 @@
       "previous_target_id": "29559427",
       "prepared": {
         "target_video_id": "29559427",
-        "size_bytes": 1620959939,
+        "size_bytes": 1600000000,
         "prepared_at": "2026-09-20T13:33:41.729550+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T14:19:01.807105+00:00",
-        "lease_expires_at": "2026-09-20T20:19:01.807105+00:00",
-        "run_id": "35510972333"
       }
     },
     "694": {
@@ -36101,18 +36102,19 @@
           "source_id": "34720529",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:45.726204+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720529",
+          "target_video_id": "29560256",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:19:08.959802+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34720529",
         "display_name": "Le Roi de cœur (1966) SD CZ Dabing",
         "planned_at": "2026-09-20T13:59:39.675327+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T14:15:01.230021+00:00",
-        "lease_expires_at": "2026-09-20T20:15:01.230021+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29560256",
       "prepared": {
@@ -231568,5 +231570,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:19:02.116625+00:00"
+  "updated_at": "2026-09-20T14:19:08.959816+00:00"
 }
