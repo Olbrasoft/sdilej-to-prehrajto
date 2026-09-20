@@ -142762,13 +142762,6 @@
           "permanent": false,
           "source_id": "16418016",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:03.056892+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "16418016",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:06:30.418834+00:00"
         },
         {
@@ -142777,18 +142770,19 @@
           "source_id": "16418016",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:43.340662+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16418016",
+          "target_video_id": "29566088",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:40:29.240744+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16418016",
         "display_name": "Vetřelec³ (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:03:15.111525+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T19:31:24.499734+00:00",
-        "lease_expires_at": "2026-09-21T01:31:24.499734+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29566088",
       "prepared": {
@@ -233369,5 +233363,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:37:40.923226+00:00"
+  "updated_at": "2026-09-20T19:40:29.240759+00:00"
 }
