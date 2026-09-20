@@ -53104,13 +53104,6 @@
           "permanent": false,
           "source_id": "8173680",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:59:15.569840+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "8173680",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:25.025343+00:00"
         },
         {
@@ -53119,18 +53112,19 @@
           "reason": "Request failed for https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T14:45:43.578407+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8173680",
+          "target_video_id": "29562375",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:00:10.657422+00:00"
         }
       ],
       "last_plan": {
         "source_id": "8173680",
         "display_name": "OUTsideři (2014) SD CZ Titulky",
         "planned_at": "2026-09-20T15:56:18.728177+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T15:56:59.106202+00:00",
-        "lease_expires_at": "2026-09-20T21:56:59.106202+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29562375",
       "prepared": {
@@ -232249,5 +232243,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:58:52.218641+00:00"
+  "updated_at": "2026-09-20T16:00:10.657437+00:00"
 }
