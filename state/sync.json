@@ -71912,13 +71912,6 @@
           "source_id": "34062310",
           "target_video_id": "29143591",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:10:55.053176+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34062310",
-          "target_video_id": "29143591",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:42:54.857612+00:00"
         },
         {
@@ -71927,6 +71920,13 @@
           "target_video_id": "29143591",
           "permanent": false,
           "attempted_at": "2026-09-20T06:13:36.958775+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34062310",
+          "target_video_id": "29143591",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:44:34.092982+00:00"
         }
       ],
       "last_plan": {
@@ -71939,13 +71939,7 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-05T22:50:37.552598+00:00"
       },
-      "previous_target_id": "29143591",
-      "claim": {
-        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-1",
-        "claimed_at": "2026-09-20T06:44:29.857094+00:00",
-        "lease_expires_at": "2026-09-20T12:44:29.857094+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29143591"
     },
     "11796": {
       "attempts": []
@@ -197726,6 +197720,13 @@
           "source_id": "28519594",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:42:01.267958+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28519594",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:44:33.617188+00:00"
         }
       ],
       "last_plan": {
@@ -197797,6 +197798,13 @@
           "source_id": "34399095",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:42:03.086103+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34399095",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:44:33.857291+00:00"
         }
       ],
       "last_plan": {
@@ -234195,5 +234203,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:44:31.325636+00:00"
+  "updated_at": "2026-09-20T06:44:34.093001+00:00"
 }
