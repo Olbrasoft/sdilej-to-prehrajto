@@ -17815,13 +17815,6 @@
     "31394": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745604",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:16:01.034776+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33745604",
           "reason": "Request failed for https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv (HTTP None)",
@@ -17834,6 +17827,13 @@
           "target_video_id": "29560319",
           "permanent": false,
           "attempted_at": "2026-09-20T14:23:45.175639+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745604",
+          "target_video_id": "29560319",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:11:40.908682+00:00"
         }
       ],
       "last_plan": {
@@ -17844,14 +17844,8 @@
       "previous_target_id": "29560319",
       "prepared": {
         "target_video_id": "29560319",
-        "size_bytes": 1778903621,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-20T14:19:17.655727+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T15:11:38.694321+00:00",
-        "lease_expires_at": "2026-09-20T21:11:38.694321+00:00",
-        "run_id": "35510972333"
       }
     },
     "28216": {
@@ -17904,16 +17898,10 @@
           "attempted_at": "2026-09-20T14:31:04.532058+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34858339",
-        "display_name": "Gettysburg (1993) 720p CZ Dabing",
-        "planned_at": "2026-09-20T15:11:13.322686+00:00"
-      },
       "previous_target_id": "29560320",
-      "prepared": {
+      "upload": {
         "target_video_id": "29560320",
-        "size_bytes": 4907154915,
-        "prepared_at": "2026-09-20T14:19:19.515097+00:00"
+        "uploaded_at": "2026-09-20T15:11:42.478012+00:00"
       }
     },
     "25524": {
@@ -18078,6 +18066,12 @@
         "target_video_id": "29559657",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-20T13:44:18.246840+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
+        "claimed_at": "2026-09-20T15:11:41.499850+00:00",
+        "lease_expires_at": "2026-09-20T21:11:41.499850+00:00",
+        "run_id": "35510972333"
       }
     },
     "22073": {
@@ -231818,5 +231812,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:11:39.000464+00:00"
+  "updated_at": "2026-09-20T15:11:42.478030+00:00"
 }
