@@ -17286,13 +17286,6 @@
     "22219": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34379016",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T10:53:19.016209+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34379016",
           "target_video_id": "29559024",
@@ -17305,6 +17298,13 @@
           "target_video_id": "29559024",
           "permanent": false,
           "attempted_at": "2026-09-20T14:18:50.463975+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34379016",
+          "target_video_id": "29559024",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:49:54.788564+00:00"
         }
       ],
       "last_plan": {
@@ -17350,6 +17350,12 @@
         "source_id": "32024191",
         "display_name": "Podivný pár (1968) 1080p CZ Dabing",
         "planned_at": "2026-09-20T14:49:20.647465+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
+        "claimed_at": "2026-09-20T14:49:53.143408+00:00",
+        "lease_expires_at": "2026-09-20T20:49:53.143408+00:00",
+        "run_id": "35510972333"
       }
     },
     "21162": {
@@ -17376,16 +17382,10 @@
           "attempted_at": "2026-09-20T14:03:43.177475+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30780685",
-        "display_name": "Jeremiah Johnson (1972) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T14:49:20.940158+00:00"
-      },
       "previous_target_id": "29559096",
-      "prepared": {
+      "upload": {
         "target_video_id": "29559096",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-20T13:19:59.577867+00:00"
+        "uploaded_at": "2026-09-20T14:49:56.384024+00:00"
       }
     },
     "27935": {
@@ -231749,5 +231749,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:49:50.925914+00:00"
+  "updated_at": "2026-09-20T14:49:56.384040+00:00"
 }
