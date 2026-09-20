@@ -140888,13 +140888,6 @@
           "permanent": false,
           "source_id": "29001957",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:59.230183+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29001957",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:48:33.925466+00:00"
         },
         {
@@ -140903,18 +140896,19 @@
           "source_id": "29001957",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:13.520459+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29001957",
+          "reason": "Request failed for https://sdilej.cz/29001957/trollove-3.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:57:10.744728+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29001957",
         "display_name": "Trollové (2016) 4K CZ Dabing",
         "planned_at": "2026-09-20T18:48:12.501237+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T18:56:24.888166+00:00",
-        "lease_expires_at": "2026-09-21T00:56:24.888166+00:00",
-        "run_id": "35529171597"
       }
     },
     "18465": {
@@ -233221,5 +233215,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:56:34.427973+00:00"
+  "updated_at": "2026-09-20T18:57:10.744749+00:00"
 }
