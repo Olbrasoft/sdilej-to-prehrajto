@@ -78380,13 +78380,6 @@
           "permanent": false,
           "source_id": "29860661",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:18:56.165351+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29860661",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:38:33.374625+00:00"
         },
         {
@@ -78395,6 +78388,14 @@
           "source_id": "29860661",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:21:00.668289+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "29860661",
+          "target_video_id": "29522917",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-20T16:17:00.382955+00:00"
         }
       ],
       "last_plan": {
@@ -78402,7 +78403,13 @@
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:10:13.283402+00:00"
       },
-      "previous_target_id": "29522917"
+      "previous_target_id": "29522917",
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T16:16:59.528883+00:00",
+        "lease_expires_at": "2026-09-20T22:16:59.528883+00:00",
+        "run_id": "35510972333"
+      }
     },
     "21194": {
       "attempts": []
@@ -78510,6 +78517,18 @@
         "source_id": "20637372",
         "display_name": "Pravá láska (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:10:13.637866+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T16:17:00.688056+00:00",
+        "lease_expires_at": "2026-09-20T22:17:00.688056+00:00",
+        "run_id": "35510972333"
+      },
+      "previous_target_id": "29562911",
+      "prepared": {
+        "target_video_id": "29562911",
+        "size_bytes": 1898842789,
+        "prepared_at": "2026-09-20T16:17:04.285897+00:00"
       }
     },
     "14604": {
@@ -232481,5 +232500,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:16:49.306461+00:00"
+  "updated_at": "2026-09-20T16:17:04.285913+00:00"
 }
