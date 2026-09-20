@@ -5756,13 +5756,6 @@
           "source_id": "12889255",
           "target_video_id": "29179268",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:20:24.237942+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12889255",
-          "target_video_id": "29179268",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:50:41.307906+00:00"
         },
         {
@@ -5771,6 +5764,13 @@
           "target_video_id": "29179268",
           "permanent": false,
           "attempted_at": "2026-09-20T00:21:31.351439+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12889255",
+          "target_video_id": "29179268",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:51:54.339135+00:00"
         }
       ],
       "last_plan": {
@@ -5783,13 +5783,7 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-07T06:10:51.500583+00:00"
       },
-      "previous_target_id": "29179268",
-      "claim": {
-        "worker_id": "5d894599f0e64f43804c9a6283b8a157-shard-2",
-        "claimed_at": "2026-09-20T00:51:48.619074+00:00",
-        "lease_expires_at": "2026-09-20T06:51:48.619074+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29179268"
     },
     "20410": {
       "attempts": []
@@ -7903,7 +7897,13 @@
         "size_bytes": 11300000000,
         "prepared_at": "2026-09-11T03:27:30.973459+00:00"
       },
-      "previous_target_id": "29289637"
+      "previous_target_id": "29289637",
+      "claim": {
+        "worker_id": "5d894599f0e64f43804c9a6283b8a157-shard-3",
+        "claimed_at": "2026-09-20T00:51:54.190756+00:00",
+        "lease_expires_at": "2026-09-20T06:51:54.190756+00:00",
+        "run_id": "35467299794"
+      }
     },
     "18215": {
       "attempts": [
@@ -223895,5 +223895,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:51:52.256874+00:00"
+  "updated_at": "2026-09-20T00:51:54.339150+00:00"
 }
