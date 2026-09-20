@@ -49742,7 +49742,13 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-06T06:32:20.158962+00:00"
       },
-      "previous_target_id": "29136439"
+      "previous_target_id": "29136439",
+      "claim": {
+        "worker_id": "34374986287f45a587aea9226af66b85-shard-5",
+        "claimed_at": "2026-09-20T02:32:39.899681+00:00",
+        "lease_expires_at": "2026-09-20T08:32:39.899681+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21454": {
       "attempts": []
@@ -49965,13 +49971,6 @@
           "source_id": "29912133",
           "target_video_id": "29428669",
           "permanent": false,
-          "attempted_at": "2026-09-20T00:59:19.192222+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29912133",
-          "target_video_id": "29428669",
-          "permanent": false,
           "attempted_at": "2026-09-20T01:30:04.308035+00:00"
         },
         {
@@ -49980,6 +49979,13 @@
           "target_video_id": "29428669",
           "permanent": false,
           "attempted_at": "2026-09-20T02:01:41.102625+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912133",
+          "target_video_id": "29428669",
+          "permanent": false,
+          "attempted_at": "2026-09-20T02:32:40.118705+00:00"
         }
       ],
       "last_plan": {
@@ -49992,13 +49998,7 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-16T13:12:26.636223+00:00"
       },
-      "previous_target_id": "29428669",
-      "claim": {
-        "worker_id": "34374986287f45a587aea9226af66b85-shard-2",
-        "claimed_at": "2026-09-20T02:32:37.298575+00:00",
-        "lease_expires_at": "2026-09-20T08:32:37.298575+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29428669"
     },
     "19982": {
       "attempts": []
@@ -218742,5 +218742,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T02:32:37.954676+00:00"
+  "updated_at": "2026-09-20T02:32:40.118727+00:00"
 }
