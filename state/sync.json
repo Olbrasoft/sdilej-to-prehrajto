@@ -107049,13 +107049,6 @@
           "source_id": "34418685",
           "target_video_id": "29282493",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:00:59.876038+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34418685",
-          "target_video_id": "29282493",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:32:52.597312+00:00"
         },
         {
@@ -107064,6 +107057,13 @@
           "target_video_id": "29282493",
           "permanent": false,
           "attempted_at": "2026-09-20T00:04:30.801029+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34418685",
+          "target_video_id": "29282493",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:36:09.722661+00:00"
         }
       ],
       "last_plan": {
@@ -107076,13 +107076,7 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-10T21:27:10.362059+00:00"
       },
-      "previous_target_id": "29282493",
-      "claim": {
-        "worker_id": "b50f86cf3e74495c8723d34752570409-shard-1",
-        "claimed_at": "2026-09-20T00:36:01.380988+00:00",
-        "lease_expires_at": "2026-09-20T06:36:01.380988+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29282493"
     },
     "22207": {
       "attempts": []
@@ -107441,7 +107435,13 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-08T18:44:41.584400+00:00"
       },
-      "previous_target_id": "29220982"
+      "previous_target_id": "29220982",
+      "claim": {
+        "worker_id": "b50f86cf3e74495c8723d34752570409-shard-2",
+        "claimed_at": "2026-09-20T00:36:09.443241+00:00",
+        "lease_expires_at": "2026-09-20T06:36:09.443241+00:00",
+        "run_id": "35467299794"
+      }
     },
     "3587": {
       "attempts": []
@@ -163646,6 +163646,13 @@
           "source_id": "33794083",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:32:28.596733+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33794083",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:36:09.582957+00:00"
         }
       ],
       "last_plan": {
@@ -163740,6 +163747,12 @@
         "source_id": "33183165",
         "display_name": "Jednotka Foxtrot 6 (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-20T00:34:35.130911+00:00"
+      },
+      "claim": {
+        "worker_id": "b50f86cf3e74495c8723d34752570409-shard-5",
+        "claimed_at": "2026-09-20T00:36:09.300875+00:00",
+        "lease_expires_at": "2026-09-20T06:36:09.300875+00:00",
+        "run_id": "35467299794"
       }
     },
     "14078": {
@@ -221871,5 +221884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:36:07.413443+00:00"
+  "updated_at": "2026-09-20T00:36:09.722672+00:00"
 }
