@@ -1612,13 +1612,6 @@
           "source_id": "7430975",
           "target_video_id": "29111363",
           "permanent": false,
-          "attempted_at": "2026-09-20T01:51:20.535756+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7430975",
-          "target_video_id": "29111363",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:21:54.584782+00:00"
         },
         {
@@ -1627,6 +1620,13 @@
           "target_video_id": "29111363",
           "permanent": false,
           "attempted_at": "2026-09-20T02:52:06.235357+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7430975",
+          "target_video_id": "29111363",
+          "permanent": false,
+          "attempted_at": "2026-09-20T03:35:59.223223+00:00"
         }
       ],
       "last_plan": {
@@ -1639,13 +1639,7 @@
         "size_bytes": 9800000000,
         "prepared_at": "2026-09-06T02:38:10.324527+00:00"
       },
-      "previous_target_id": "29111363",
-      "claim": {
-        "worker_id": "00240837f9cb4d4e97b6ee74d5ac9733-shard-5",
-        "claimed_at": "2026-09-20T03:35:56.134560+00:00",
-        "lease_expires_at": "2026-09-20T09:35:56.134560+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29111363"
     },
     "21587": {
       "attempts": [
@@ -2203,7 +2197,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-06T03:39:26.984473+00:00"
       },
-      "previous_target_id": "29115742"
+      "previous_target_id": "29115742",
+      "claim": {
+        "worker_id": "00240837f9cb4d4e97b6ee74d5ac9733-shard-0",
+        "claimed_at": "2026-09-20T03:35:59.003630+00:00",
+        "lease_expires_at": "2026-09-20T09:35:59.003630+00:00",
+        "run_id": "35481903373"
+      }
     },
     "10684": {
       "attempts": [
@@ -220269,5 +220269,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T03:35:56.985390+00:00"
+  "updated_at": "2026-09-20T03:35:59.223243+00:00"
 }
