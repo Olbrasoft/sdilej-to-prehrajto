@@ -2158,13 +2158,6 @@
           "source_id": "29291192",
           "target_video_id": "29115742",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:26:18.304126+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29291192",
-          "target_video_id": "29115742",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:56:44.773964+00:00"
         },
         {
@@ -2173,6 +2166,13 @@
           "target_video_id": "29115742",
           "permanent": false,
           "attempted_at": "2026-09-20T06:27:07.764531+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29291192",
+          "target_video_id": "29115742",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:57:22.158282+00:00"
         }
       ],
       "last_plan": {
@@ -2185,13 +2185,7 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-06T03:39:26.984473+00:00"
       },
-      "previous_target_id": "29115742",
-      "claim": {
-        "worker_id": "c2e902b66e1e46aba370d03d4784f6fa-shard-4",
-        "claimed_at": "2026-09-20T06:57:12.471287+00:00",
-        "lease_expires_at": "2026-09-20T12:57:12.471287+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29115742"
     },
     "10684": {
       "attempts": [
@@ -51083,6 +51077,13 @@
           "source_id": "29493194",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:56:59.389037+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29493194",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:57:21.922270+00:00"
         }
       ],
       "last_plan": {
@@ -234702,5 +234703,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:57:19.561389+00:00"
+  "updated_at": "2026-09-20T06:57:22.158301+00:00"
 }
