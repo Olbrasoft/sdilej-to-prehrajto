@@ -143442,13 +143442,6 @@
           "permanent": false,
           "source_id": "34710448",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:21.631380+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34710448",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:06:41.042514+00:00"
         },
         {
@@ -143457,18 +143450,19 @@
           "source_id": "34710448",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:50.866433+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34710448",
+          "reason": "Request failed for https://sdilej.cz/34710448/ctyri-deti-a-jeden-otec-vi-2012-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:10:21.067167+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34710448",
         "display_name": "Čtyři děti a jeden otec VI (2012) SD CZ Dabing",
         "planned_at": "2026-09-20T19:58:55.365529+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T20:09:35.246699+00:00",
-        "lease_expires_at": "2026-09-21T02:09:35.246699+00:00",
-        "run_id": "35529171597"
       }
     },
     "28197": {
@@ -143584,6 +143578,12 @@
         "source_id": "25571929",
         "display_name": "Sněhová královna: Tajemství ohně a ledu (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:58:55.832163+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
+        "claimed_at": "2026-09-20T20:09:57.368642+00:00",
+        "lease_expires_at": "2026-09-21T02:09:57.368642+00:00",
+        "run_id": "35529171597"
       }
     },
     "21452": {
@@ -233308,5 +233308,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:09:55.396442+00:00"
+  "updated_at": "2026-09-20T20:10:21.067187+00:00"
 }
