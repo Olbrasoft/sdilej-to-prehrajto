@@ -34904,7 +34904,13 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-13T04:51:12.906017+00:00"
       },
-      "previous_target_id": "29339891"
+      "previous_target_id": "29339891",
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
+        "claimed_at": "2026-09-20T16:32:54.089346+00:00",
+        "lease_expires_at": "2026-09-20T22:32:54.089346+00:00",
+        "run_id": "35510972333"
+      }
     },
     "14925": {
       "attempts": [
@@ -35804,6 +35810,12 @@
         "target_video_id": "29560185",
         "size_bytes": 2009999999,
         "prepared_at": "2026-09-20T14:10:02.022111+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
+        "claimed_at": "2026-09-20T16:32:54.412667+00:00",
+        "lease_expires_at": "2026-09-20T22:32:54.412667+00:00",
+        "run_id": "35510972333"
       }
     },
     "21622": {
@@ -81559,18 +81571,19 @@
           "source_id": "29707906",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:40.859739+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29707906",
+          "target_video_id": "29563080",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:32:54.731585+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29707906",
         "display_name": "O chytrém šachovi (1983) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:10:22.462207+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T16:27:40.229970+00:00",
-        "lease_expires_at": "2026-09-20T22:27:40.229970+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29563080",
       "prepared": {
@@ -232750,5 +232763,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:32:49.314786+00:00"
+  "updated_at": "2026-09-20T16:32:54.731602+00:00"
 }
