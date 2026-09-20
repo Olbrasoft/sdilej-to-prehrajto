@@ -48244,13 +48244,6 @@
           "source_id": "34492254",
           "target_video_id": "29255927",
           "permanent": false,
-          "attempted_at": "2026-09-20T03:43:46.489644+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34492254",
-          "target_video_id": "29255927",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:33:10.698262+00:00"
         },
         {
@@ -48259,6 +48252,13 @@
           "target_video_id": "29255927",
           "permanent": false,
           "attempted_at": "2026-09-20T05:05:20.771239+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34492254",
+          "target_video_id": "29255927",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:36:32.101692+00:00"
         }
       ],
       "last_plan": {
@@ -48629,7 +48629,13 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T06:45:23.104183+00:00"
       },
-      "previous_target_id": "29179786"
+      "previous_target_id": "29179786",
+      "claim": {
+        "worker_id": "535c1bf25d3a404abb89304531b7959b-shard-4",
+        "claimed_at": "2026-09-20T05:36:31.137471+00:00",
+        "lease_expires_at": "2026-09-20T11:36:31.137471+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2399": {
       "attempts": [
@@ -49417,7 +49423,13 @@
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-08T04:57:53.039599+00:00"
       },
-      "previous_target_id": "29204451"
+      "previous_target_id": "29204451",
+      "claim": {
+        "worker_id": "535c1bf25d3a404abb89304531b7959b-shard-5",
+        "claimed_at": "2026-09-20T05:36:30.442534+00:00",
+        "lease_expires_at": "2026-09-20T11:36:30.442534+00:00",
+        "run_id": "35481903373"
+      }
     },
     "27924": {
       "attempts": []
@@ -49456,7 +49468,13 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-06T10:38:30.131424+00:00"
       },
-      "previous_target_id": "29158387"
+      "previous_target_id": "29158387",
+      "claim": {
+        "worker_id": "535c1bf25d3a404abb89304531b7959b-shard-1",
+        "claimed_at": "2026-09-20T05:36:30.911682+00:00",
+        "lease_expires_at": "2026-09-20T11:36:30.911682+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2305": {
       "attempts": []
@@ -49633,7 +49651,13 @@
         "size_bytes": 14500000000,
         "prepared_at": "2026-09-08T04:59:41.132927+00:00"
       },
-      "previous_target_id": "29204469"
+      "previous_target_id": "29204469",
+      "claim": {
+        "worker_id": "535c1bf25d3a404abb89304531b7959b-shard-3",
+        "claimed_at": "2026-09-20T05:36:30.669628+00:00",
+        "lease_expires_at": "2026-09-20T11:36:30.669628+00:00",
+        "run_id": "35481903373"
+      }
     },
     "22635": {
       "attempts": []
@@ -146246,6 +146270,12 @@
         "source_id": "33205824",
         "display_name": "Slovo policajta (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:35:33.068896+00:00"
+      },
+      "claim": {
+        "worker_id": "535c1bf25d3a404abb89304531b7959b-shard-2",
+        "claimed_at": "2026-09-20T05:36:31.413902+00:00",
+        "lease_expires_at": "2026-09-20T11:36:31.413902+00:00",
+        "run_id": "35481903373"
       }
     },
     "21792": {
@@ -228192,5 +228222,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:36:28.126620+00:00"
+  "updated_at": "2026-09-20T05:36:32.101709+00:00"
 }
