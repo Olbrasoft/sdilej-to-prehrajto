@@ -1314,13 +1314,6 @@
           "source_id": "26592290",
           "target_video_id": "28927371",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:25:59.937641+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26592290",
-          "target_video_id": "28927371",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:56:03.616760+00:00"
         },
         {
@@ -1329,12 +1322,19 @@
           "target_video_id": "28927371",
           "permanent": false,
           "attempted_at": "2026-09-20T06:26:36.128613+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26592290",
+          "target_video_id": "28927371",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:56:44.289150+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Nelítostný souboj (1995) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T06:26:29.772862+00:00"
+        "planned_at": "2026-09-20T06:56:37.166187+00:00"
       },
       "prepared": {
         "target_video_id": "28927371",
@@ -22623,12 +22623,25 @@
           "source_id": "14302057",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:55:42.236434+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14302057",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:56:43.619126+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14302057",
         "display_name": "Equalizer (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:55:38.339910+00:00"
+        "planned_at": "2026-09-20T06:56:37.410282+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9e68945a974fbc9227d02c2e2b03c3-shard-1",
+        "claimed_at": "2026-09-20T06:56:42.438814+00:00",
+        "lease_expires_at": "2026-09-20T12:56:42.438814+00:00",
+        "run_id": "35481903373"
       }
     },
     "1469": {
@@ -22650,7 +22663,13 @@
       "last_plan": {
         "source_id": "34143566",
         "display_name": "Já, padouch 2 (2013) 4K CZ Dabing",
-        "planned_at": "2026-09-20T00:55:38.502633+00:00"
+        "planned_at": "2026-09-20T06:56:37.647738+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9e68945a974fbc9227d02c2e2b03c3-shard-2",
+        "claimed_at": "2026-09-20T06:56:43.051407+00:00",
+        "lease_expires_at": "2026-09-20T12:56:43.051407+00:00",
+        "run_id": "35481903373"
       }
     },
     "1528": {
@@ -22682,12 +22701,25 @@
           "source_id": "18601831",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:55:44.003651+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "18601831",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:56:44.002563+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18601831",
         "display_name": "Nebezpečná rychlost (1994) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:55:38.685019+00:00"
+        "planned_at": "2026-09-20T06:56:37.884402+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9e68945a974fbc9227d02c2e2b03c3-shard-3",
+        "claimed_at": "2026-09-20T06:56:42.818603+00:00",
+        "lease_expires_at": "2026-09-20T12:56:42.818603+00:00",
+        "run_id": "35481903373"
       }
     },
     "1267": {
@@ -209252,13 +209284,19 @@
       "last_plan": {
         "source_id": "34681521",
         "display_name": "Frankenstein (2015) 4K CZ Dabing",
-        "planned_at": "2026-09-20T06:25:12.217999+00:00"
+        "planned_at": "2026-09-20T06:56:38.194425+00:00"
       },
       "previous_target_id": "29538713",
       "prepared": {
         "target_video_id": "29538713",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-19T21:14:12.594416+00:00"
+      },
+      "claim": {
+        "worker_id": "4d9e68945a974fbc9227d02c2e2b03c3-shard-4",
+        "claimed_at": "2026-09-20T06:56:43.334545+00:00",
+        "lease_expires_at": "2026-09-20T12:56:43.334545+00:00",
+        "run_id": "35481903373"
       }
     },
     "35264": {
@@ -234639,5 +234677,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:56:24.783218+00:00"
+  "updated_at": "2026-09-20T06:56:44.289170+00:00"
 }
