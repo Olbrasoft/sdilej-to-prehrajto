@@ -143076,13 +143076,6 @@
           "permanent": false,
           "source_id": "34835278",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:38.815200+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34835278",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:47.411727+00:00"
         },
         {
@@ -143091,18 +143084,19 @@
           "reason": "Request failed for https://sdilej.cz/34835278/skvrny-od-travy-annabeth-gish-tye-sheridan-2017-romanticky-drama-bdrip.-1080p.-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T19:43:32.524248+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34835278",
+          "target_video_id": "29566865",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:28:57.932477+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34835278",
         "display_name": "Skvrny od trávy (2017) 720p CZ Dabing",
         "planned_at": "2026-09-20T20:18:50.806056+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T20:19:51.134010+00:00",
-        "lease_expires_at": "2026-09-21T02:19:51.134010+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29566865",
       "prepared": {
@@ -233356,5 +233350,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:28:49.544153+00:00"
+  "updated_at": "2026-09-20T20:28:57.932499+00:00"
 }
