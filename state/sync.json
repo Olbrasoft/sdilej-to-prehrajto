@@ -140356,13 +140356,6 @@
     "4800": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20651180",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:08.578787+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "20651180",
           "reason": "Request failed for https://sdilej.cz/20651180/projekt-minulost-project-almanac-2015-sci-fi-cz-dab-1920x800p.mkv (HTTP None)",
@@ -140375,18 +140368,19 @@
           "reason": "Request failed for https://sdilej.cz/20651180/projekt-minulost-project-almanac-2015-sci-fi-cz-dab-1920x800p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T20:00:04.373505+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20651180",
+          "target_video_id": "29567458",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:12:03.154757+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20651180",
         "display_name": "Projekt minulost (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-20T21:03:00.968893+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T21:03:42.954417+00:00",
-        "lease_expires_at": "2026-09-21T03:03:42.954417+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567458",
       "prepared": {
@@ -233426,5 +233420,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:11:45.714994+00:00"
+  "updated_at": "2026-09-20T21:12:03.154774+00:00"
 }
