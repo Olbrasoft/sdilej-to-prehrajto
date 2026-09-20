@@ -63187,13 +63187,6 @@
           "source_id": "11696652",
           "target_video_id": "29311434",
           "permanent": false,
-          "attempted_at": "2026-09-20T18:05:53.733874+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11696652",
-          "target_video_id": "29311434",
-          "permanent": false,
           "attempted_at": "2026-09-20T18:45:52.607917+00:00"
         },
         {
@@ -63202,6 +63195,13 @@
           "target_video_id": "29311434",
           "permanent": false,
           "attempted_at": "2026-09-20T19:54:15.001819+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11696652",
+          "target_video_id": "29311434",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:00:20.020232+00:00"
         }
       ],
       "last_plan": {
@@ -63226,16 +63226,10 @@
           "attempted_at": "2026-09-20T20:01:04.871260+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34773043",
-        "display_name": "Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T20:59:59.601680+00:00"
-      },
       "previous_target_id": "29566506",
-      "prepared": {
+      "upload": {
         "target_video_id": "29566506",
-        "size_bytes": 2508045104,
-        "prepared_at": "2026-09-20T19:54:20.954419+00:00"
+        "uploaded_at": "2026-09-20T21:00:20.336296+00:00"
       }
     },
     "35620": {
@@ -63386,7 +63380,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-11T22:03:58.410129+00:00"
       },
-      "previous_target_id": "29311126"
+      "previous_target_id": "29311126",
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
+        "claimed_at": "2026-09-20T21:00:19.234605+00:00",
+        "lease_expires_at": "2026-09-21T03:00:19.234605+00:00",
+        "run_id": "35529171597"
+      }
     },
     "35562": {
       "attempts": []
@@ -65041,6 +65041,12 @@
         "target_video_id": "29561592",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T15:18:34.421370+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
+        "claimed_at": "2026-09-20T21:00:18.866267+00:00",
+        "lease_expires_at": "2026-09-21T03:00:18.866267+00:00",
+        "run_id": "35529171597"
       }
     },
     "14727": {
@@ -82529,7 +82535,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát (1959) 1080p",
-        "planned_at": "2026-09-20T19:55:03.594818+00:00"
+        "planned_at": "2026-09-20T21:00:17.532930+00:00"
       },
       "prepared": {
         "target_video_id": "29129228",
@@ -82687,7 +82693,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T19:55:03.894597+00:00"
+        "planned_at": "2026-09-20T21:00:17.799077+00:00"
       },
       "prepared": {
         "target_video_id": "29276356",
@@ -82771,7 +82777,7 @@
       "last_plan": {
         "source_id": "34189818",
         "display_name": "ODDECHOVÝ ČAS (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T19:55:04.223146+00:00"
+        "planned_at": "2026-09-20T21:00:18.054753+00:00"
       },
       "prepared": {
         "target_video_id": "29276442",
@@ -233461,5 +233467,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:00:12.388785+00:00"
+  "updated_at": "2026-09-20T21:00:20.336314+00:00"
 }
