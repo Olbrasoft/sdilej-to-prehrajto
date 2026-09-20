@@ -55146,13 +55146,6 @@
           "permanent": false,
           "source_id": "34684701",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:59:20.223471+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34684701",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:37.517817+00:00"
         },
         {
@@ -55161,18 +55154,19 @@
           "reason": "Request failed for https://sdilej.cz/34684701/phoebe-v-risi-divu-2008-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T14:58:46.991564+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34684701",
+          "target_video_id": "29562393",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:02:55.870214+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34684701",
         "display_name": "Phoebe v říši divů (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-20T15:57:12.993846+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T15:57:35.817667+00:00",
-        "lease_expires_at": "2026-09-20T21:57:35.817667+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29562393",
       "prepared": {
@@ -65452,13 +65446,6 @@
           "source_id": "32962082",
           "target_video_id": "29171374",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:51:25.120943+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32962082",
-          "target_video_id": "29171374",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:22:13.053164+00:00"
         },
         {
@@ -65467,6 +65454,13 @@
           "target_video_id": "29171374",
           "permanent": false,
           "attempted_at": "2026-09-20T15:20:01.203038+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32962082",
+          "target_video_id": "29171374",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:02:55.193968+00:00"
         }
       ],
       "last_plan": {
@@ -65635,6 +65629,12 @@
         "target_video_id": "29561618",
         "size_bytes": 1043858526,
         "prepared_at": "2026-09-20T15:20:07.423774+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T16:02:55.525083+00:00",
+        "lease_expires_at": "2026-09-20T22:02:55.525083+00:00",
+        "run_id": "35510972333"
       }
     },
     "2563": {
@@ -232268,5 +232268,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:02:48.418007+00:00"
+  "updated_at": "2026-09-20T16:02:55.870237+00:00"
 }
