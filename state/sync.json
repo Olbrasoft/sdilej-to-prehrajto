@@ -90243,13 +90243,6 @@
           "permanent": false,
           "source_id": "31626940",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T09:38:45.541581+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31626940",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:00:59.601589+00:00"
         },
         {
@@ -90258,6 +90251,13 @@
           "source_id": "31626940",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T22:20:03.623664+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31626940",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:40:21.053698+00:00"
         }
       ],
       "last_plan": {
@@ -90265,7 +90265,13 @@
         "display_name": "Můj příběh (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-20T04:39:26.204195+00:00"
       },
-      "previous_target_id": "29493208"
+      "previous_target_id": "29493208",
+      "claim": {
+        "worker_id": "3a0737fa4eae4d7d9fa0f262c819b85f-shard-4",
+        "claimed_at": "2026-09-20T04:40:20.123854+00:00",
+        "lease_expires_at": "2026-09-20T10:40:20.123854+00:00",
+        "run_id": "35481903373"
+      }
     },
     "33003": {
       "attempts": []
@@ -90940,13 +90946,6 @@
           "source_id": "33810828",
           "target_video_id": "29176315",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:39:57.027685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33810828",
-          "target_video_id": "29176315",
-          "permanent": false,
           "attempted_at": "2026-09-20T03:11:15.382659+00:00"
         },
         {
@@ -90955,6 +90954,13 @@
           "target_video_id": "29176315",
           "permanent": false,
           "attempted_at": "2026-09-20T03:51:41.094472+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33810828",
+          "target_video_id": "29176315",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:40:22.884360+00:00"
         }
       ],
       "last_plan": {
@@ -222422,5 +222428,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:40:18.019008+00:00"
+  "updated_at": "2026-09-20T04:40:22.884376+00:00"
 }
