@@ -97655,7 +97655,13 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-10T23:42:41.719954+00:00"
       },
-      "previous_target_id": "29284523"
+      "previous_target_id": "29284523",
+      "claim": {
+        "worker_id": "5d41307a6cd94e5eac5916f4dff2b74c-shard-2",
+        "claimed_at": "2026-09-20T02:08:08.938361+00:00",
+        "lease_expires_at": "2026-09-20T08:08:08.938361+00:00",
+        "run_id": "35467299794"
+      }
     },
     "3174": {
       "attempts": [
@@ -98238,13 +98244,6 @@
           "source_id": "34026417",
           "target_video_id": "29198921",
           "permanent": false,
-          "attempted_at": "2026-09-20T00:35:07.112615+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34026417",
-          "target_video_id": "29198921",
-          "permanent": false,
           "attempted_at": "2026-09-20T01:05:43.106974+00:00"
         },
         {
@@ -98253,6 +98252,13 @@
           "target_video_id": "29198921",
           "permanent": false,
           "attempted_at": "2026-09-20T01:36:43.437983+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34026417",
+          "target_video_id": "29198921",
+          "permanent": false,
+          "attempted_at": "2026-09-20T02:08:09.240562+00:00"
         }
       ],
       "last_plan": {
@@ -98265,13 +98271,7 @@
         "size_bytes": 6000000000,
         "prepared_at": "2026-09-07T22:31:41.821310+00:00"
       },
-      "previous_target_id": "29198921",
-      "claim": {
-        "worker_id": "5d41307a6cd94e5eac5916f4dff2b74c-shard-3",
-        "claimed_at": "2026-09-20T02:08:04.742723+00:00",
-        "lease_expires_at": "2026-09-20T08:08:04.742723+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29198921"
     },
     "24797": {
       "attempts": []
@@ -202956,6 +202956,13 @@
           "source_id": "33881014",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T20:05:12.587843+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33881014",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:08:09.092170+00:00"
         }
       ],
       "last_plan": {
@@ -203030,6 +203037,12 @@
         "source_id": "14019948",
         "display_name": "The Stalker (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-20T02:06:44.187751+00:00"
+      },
+      "claim": {
+        "worker_id": "5d41307a6cd94e5eac5916f4dff2b74c-shard-5",
+        "claimed_at": "2026-09-20T02:08:08.783445+00:00",
+        "lease_expires_at": "2026-09-20T08:08:08.783445+00:00",
+        "run_id": "35467299794"
       }
     },
     "8428": {
@@ -228761,5 +228774,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T02:08:06.913707+00:00"
+  "updated_at": "2026-09-20T02:08:09.240576+00:00"
 }
