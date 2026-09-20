@@ -107223,13 +107223,6 @@
           "source_id": "23681455",
           "target_video_id": "29167687",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:43:17.483561+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23681455",
-          "target_video_id": "29167687",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:16:03.424440+00:00"
         },
         {
@@ -107238,6 +107231,13 @@
           "target_video_id": "29167687",
           "permanent": false,
           "attempted_at": "2026-09-20T05:48:02.203669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23681455",
+          "target_video_id": "29167687",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:19:17.402344+00:00"
         }
       ],
       "last_plan": {
@@ -107426,7 +107426,13 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-07T10:56:24.066699+00:00"
       },
-      "previous_target_id": "29183602"
+      "previous_target_id": "29183602",
+      "claim": {
+        "worker_id": "74df068fce63499fa583172cc61600b4-shard-0",
+        "claimed_at": "2026-09-20T06:19:16.098590+00:00",
+        "lease_expires_at": "2026-09-20T12:19:16.098590+00:00",
+        "run_id": "35481903373"
+      }
     },
     "36999": {
       "attempts": []
@@ -107508,7 +107514,13 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-08T17:53:52.893882+00:00"
       },
-      "previous_target_id": "29219599"
+      "previous_target_id": "29219599",
+      "claim": {
+        "worker_id": "74df068fce63499fa583172cc61600b4-shard-4",
+        "claimed_at": "2026-09-20T06:19:15.631608+00:00",
+        "lease_expires_at": "2026-09-20T12:19:15.631608+00:00",
+        "run_id": "35481903373"
+      }
     },
     "9468": {
       "attempts": []
@@ -195671,6 +195683,12 @@
         "source_id": "32306342",
         "display_name": "Den vlajky (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:18:10.770460+00:00"
+      },
+      "claim": {
+        "worker_id": "74df068fce63499fa583172cc61600b4-shard-2",
+        "claimed_at": "2026-09-20T06:19:16.619487+00:00",
+        "lease_expires_at": "2026-09-20T12:19:16.619487+00:00",
+        "run_id": "35481903373"
       }
     },
     "8556": {
@@ -195691,12 +195709,25 @@
           "source_id": "34712959",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:16:16.327952+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34712959",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:19:16.947850+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34712959",
         "display_name": "Království pavouků (1977) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:18:11.009014+00:00"
+      },
+      "claim": {
+        "worker_id": "74df068fce63499fa583172cc61600b4-shard-1",
+        "claimed_at": "2026-09-20T06:19:15.867558+00:00",
+        "lease_expires_at": "2026-09-20T12:19:15.867558+00:00",
+        "run_id": "35481903373"
       }
     },
     "30997": {
@@ -195720,6 +195751,12 @@
         "source_id": "32131440",
         "display_name": "A Perfect Enemy (2020) SD CZ Titulky",
         "planned_at": "2026-09-20T06:18:11.247396+00:00"
+      },
+      "claim": {
+        "worker_id": "74df068fce63499fa583172cc61600b4-shard-5",
+        "claimed_at": "2026-09-20T06:19:16.358732+00:00",
+        "lease_expires_at": "2026-09-20T12:19:16.358732+00:00",
+        "run_id": "35481903373"
       }
     },
     "23789": {
@@ -233176,5 +233213,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:19:13.297651+00:00"
+  "updated_at": "2026-09-20T06:19:17.402363+00:00"
 }
