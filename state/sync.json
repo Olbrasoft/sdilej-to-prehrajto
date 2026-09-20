@@ -48244,13 +48244,6 @@
           "source_id": "34492254",
           "target_video_id": "29255927",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:33:10.698262+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34492254",
-          "target_video_id": "29255927",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:05:20.771239+00:00"
         },
         {
@@ -48259,6 +48252,13 @@
           "target_video_id": "29255927",
           "permanent": false,
           "attempted_at": "2026-09-20T05:36:32.101692+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34492254",
+          "target_video_id": "29255927",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:06:59.195618+00:00"
         }
       ],
       "last_plan": {
@@ -48271,13 +48271,7 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-09T22:30:50.538589+00:00"
       },
-      "previous_target_id": "29255927",
-      "claim": {
-        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
-        "claimed_at": "2026-09-20T06:06:50.543264+00:00",
-        "lease_expires_at": "2026-09-20T12:06:50.543264+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29255927"
     },
     "13028": {
       "attempts": [
@@ -193298,6 +193292,13 @@
           "source_id": "12863677",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:06:20.574112+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12863677",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:06:58.667922+00:00"
         }
       ],
       "last_plan": {
@@ -193336,6 +193337,12 @@
         "source_id": "34710680",
         "display_name": "Vražedná minulost (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:06:35.754288+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:06:58.413980+00:00",
+        "lease_expires_at": "2026-09-20T12:06:58.413980+00:00",
+        "run_id": "35481903373"
       }
     },
     "15981": {
@@ -193365,6 +193372,12 @@
         "source_id": "22098236",
         "display_name": "The Boy Behind the Door (2020) SD CZ Titulky",
         "planned_at": "2026-09-20T06:06:36.008344+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T06:06:58.935515+00:00",
+        "lease_expires_at": "2026-09-20T12:06:58.935515+00:00",
+        "run_id": "35481903373"
       }
     },
     "8518": {
@@ -232177,5 +232190,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:06:56.379857+00:00"
+  "updated_at": "2026-09-20T06:06:59.195636+00:00"
 }
