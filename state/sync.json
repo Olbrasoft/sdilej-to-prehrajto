@@ -79090,13 +79090,6 @@
           "source_id": "34872056",
           "target_video_id": "29141933",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:22:59.591043+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34872056",
-          "target_video_id": "29141933",
-          "permanent": false,
           "attempted_at": "2026-09-20T16:17:28.361385+00:00"
         },
         {
@@ -79105,6 +79098,13 @@
           "target_video_id": "29141933",
           "permanent": false,
           "attempted_at": "2026-09-20T16:52:49.007327+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34872056",
+          "target_video_id": "29141933",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:23:50.529620+00:00"
         }
       ],
       "last_plan": {
@@ -79117,13 +79117,7 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-05T21:00:10.792347+00:00"
       },
-      "previous_target_id": "29141933",
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-3",
-        "claimed_at": "2026-09-20T17:23:46.598489+00:00",
-        "lease_expires_at": "2026-09-20T23:23:46.598489+00:00",
-        "run_id": "35510972333"
-      }
+      "previous_target_id": "29141933"
     },
     "16214": {
       "attempts": []
@@ -80974,13 +80968,6 @@
           "permanent": false,
           "source_id": "24367070",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:05:53.286778+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24367070",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:05:56.468447+00:00"
         },
         {
@@ -80989,6 +80976,13 @@
           "target_video_id": "29563058",
           "permanent": false,
           "attempted_at": "2026-09-20T16:29:35.629111+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24367070",
+          "target_video_id": "29563058",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:23:50.995298+00:00"
         }
       ],
       "last_plan": {
@@ -80999,14 +80993,8 @@
       "previous_target_id": "29563058",
       "prepared": {
         "target_video_id": "29563058",
-        "size_bytes": 1631569785,
+        "size_bytes": 1600000000,
         "prepared_at": "2026-09-20T16:26:02.263656+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-2",
-        "claimed_at": "2026-09-20T17:23:47.580976+00:00",
-        "lease_expires_at": "2026-09-20T23:23:47.580976+00:00",
-        "run_id": "35510972333"
       }
     },
     "26762": {
@@ -81130,22 +81118,10 @@
           "attempted_at": "2026-09-20T16:30:05.185790+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34756626",
-        "display_name": "Punk je hned! (2019) 1080p SK Dabing",
-        "planned_at": "2026-09-20T17:23:23.078473+00:00"
-      },
       "previous_target_id": "29563059",
-      "prepared": {
+      "upload": {
         "target_video_id": "29563059",
-        "size_bytes": 1785299557,
-        "prepared_at": "2026-09-20T16:26:09.808433+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
-        "claimed_at": "2026-09-20T17:23:47.869863+00:00",
-        "lease_expires_at": "2026-09-20T23:23:47.869863+00:00",
-        "run_id": "35510972333"
+        "uploaded_at": "2026-09-20T17:23:51.226723+00:00"
       }
     },
     "32345": {
@@ -81188,6 +81164,12 @@
         "target_video_id": "29563075",
         "size_bytes": 3782845376,
         "prepared_at": "2026-09-20T16:27:21.070960+00:00"
+      },
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-0",
+        "claimed_at": "2026-09-20T17:23:50.761006+00:00",
+        "lease_expires_at": "2026-09-20T23:23:50.761006+00:00",
+        "run_id": "35510972333"
       }
     },
     "12601": {
@@ -233002,5 +232984,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:23:48.163922+00:00"
+  "updated_at": "2026-09-20T17:23:51.226745+00:00"
 }
