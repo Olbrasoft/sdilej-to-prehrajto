@@ -56144,13 +56144,6 @@
           "permanent": false,
           "source_id": "34257537",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:16:43.332312+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34257537",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:34:48.891124+00:00"
         },
         {
@@ -56159,18 +56152,19 @@
           "source_id": "34257537",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:44.958324+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34257537",
+          "target_video_id": "29561453",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:16:43.802539+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34257537",
         "display_name": "Invalida (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T14:51:48.737832+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T15:10:06.813547+00:00",
-        "lease_expires_at": "2026-09-20T21:10:06.813547+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29561453",
       "prepared": {
@@ -232005,5 +231999,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:15:53.271778+00:00"
+  "updated_at": "2026-09-20T15:16:43.802556+00:00"
 }
