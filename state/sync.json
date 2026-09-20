@@ -11995,13 +11995,6 @@
           "source_id": "6078224",
           "target_video_id": "29338368",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:49:52.028674+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "29338368",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:21:41.881135+00:00"
         },
         {
@@ -12010,6 +12003,13 @@
           "target_video_id": "29338368",
           "permanent": false,
           "attempted_at": "2026-09-19T23:52:05.318142+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "29338368",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:22:53.873061+00:00"
         }
       ],
       "last_plan": {
@@ -12022,13 +12022,7 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-13T03:55:08.550505+00:00"
       },
-      "previous_target_id": "29338368",
-      "claim": {
-        "worker_id": "3dbfeca50e304f55b4e572e90e528d75-shard-2",
-        "claimed_at": "2026-09-20T00:22:45.543232+00:00",
-        "lease_expires_at": "2026-09-20T06:22:45.543232+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29338368"
     },
     "23132": {
       "attempts": [
@@ -14070,7 +14064,13 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-09-18T05:08:04.043656+00:00"
       },
-      "previous_target_id": "29469127"
+      "previous_target_id": "29469127",
+      "claim": {
+        "worker_id": "3dbfeca50e304f55b4e572e90e528d75-shard-1",
+        "claimed_at": "2026-09-20T00:22:53.727007+00:00",
+        "lease_expires_at": "2026-09-20T06:22:53.727007+00:00",
+        "run_id": "35467299794"
+      }
     },
     "835": {
       "attempts": [
@@ -221857,5 +221857,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:22:51.693112+00:00"
+  "updated_at": "2026-09-20T00:22:53.873081+00:00"
 }
