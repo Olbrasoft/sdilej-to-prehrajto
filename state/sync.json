@@ -2760,13 +2760,6 @@
           "source_id": "12902823",
           "target_video_id": "29115993",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:50:03.629764+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12902823",
-          "target_video_id": "29115993",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:20:35.731863+00:00"
         },
         {
@@ -2775,6 +2768,13 @@
           "target_video_id": "29115993",
           "permanent": false,
           "attempted_at": "2026-09-20T00:51:10.714888+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12902823",
+          "target_video_id": "29115993",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:21:34.268783+00:00"
         }
       ],
       "last_plan": {
@@ -2787,13 +2787,7 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-05T18:33:16.338254+00:00"
       },
-      "previous_target_id": "29115993",
-      "claim": {
-        "worker_id": "66effa9c6a144516882342bf1d83ff4b-shard-3",
-        "claimed_at": "2026-09-20T01:21:30.911687+00:00",
-        "lease_expires_at": "2026-09-20T07:21:30.911687+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29115993"
     },
     "223": {
       "attempts": [
@@ -4254,7 +4248,13 @@
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-08T07:34:42.210682+00:00"
       },
-      "previous_target_id": "29207536"
+      "previous_target_id": "29207536",
+      "claim": {
+        "worker_id": "66effa9c6a144516882342bf1d83ff4b-shard-0",
+        "claimed_at": "2026-09-20T01:21:34.099018+00:00",
+        "lease_expires_at": "2026-09-20T07:21:34.099018+00:00",
+        "run_id": "35467299794"
+      }
     },
     "304": {
       "attempts": [
@@ -226556,5 +226556,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:21:32.152524+00:00"
+  "updated_at": "2026-09-20T01:21:34.268797+00:00"
 }
