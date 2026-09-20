@@ -54762,13 +54762,6 @@
           "permanent": false,
           "source_id": "34257537",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T10:07:24.970882+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34257537",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:07:42.383464+00:00"
         },
         {
@@ -54777,12 +54770,25 @@
           "source_id": "34257537",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T22:16:43.332312+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34257537",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:34:48.891124+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34257537",
         "display_name": "Invalida (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T04:33:36.574545+00:00"
+      },
+      "claim": {
+        "worker_id": "1bf1a2d356db4e2e9a48747bc381fee1-shard-1",
+        "claimed_at": "2026-09-20T04:34:47.969411+00:00",
+        "lease_expires_at": "2026-09-20T10:34:47.969411+00:00",
+        "run_id": "35481903373"
       }
     },
     "30820": {
@@ -55910,13 +55916,6 @@
           "source_id": "33026609",
           "target_video_id": "29430951",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:34:10.972196+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33026609",
-          "target_video_id": "29430951",
-          "permanent": false,
           "attempted_at": "2026-09-20T03:05:50.737290+00:00"
         },
         {
@@ -55925,6 +55924,13 @@
           "target_video_id": "29430951",
           "permanent": false,
           "attempted_at": "2026-09-20T03:45:45.765432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33026609",
+          "target_video_id": "29430951",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:34:50.753552+00:00"
         }
       ],
       "last_plan": {
@@ -222362,5 +222368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:34:45.929642+00:00"
+  "updated_at": "2026-09-20T04:34:50.753567+00:00"
 }
