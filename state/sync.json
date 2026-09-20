@@ -140997,13 +140997,6 @@
           "permanent": false,
           "source_id": "32832255",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:36.636923+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32832255",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:16.891759+00:00"
         },
         {
@@ -141012,18 +141005,19 @@
           "reason": "Request failed for https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T19:04:57.386409+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32832255",
+          "target_video_id": "29566591",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:12:06.862487+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32832255",
         "display_name": "Znovu zrozen (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-20T19:58:50.745609+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-20T20:00:40.728496+00:00",
-        "lease_expires_at": "2026-09-21T02:00:40.728496+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29566591",
       "prepared": {
@@ -233326,5 +233320,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:10:49.163153+00:00"
+  "updated_at": "2026-09-20T20:12:06.862501+00:00"
 }
