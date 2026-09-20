@@ -55191,6 +55191,12 @@
         "claimed_at": "2026-09-20T15:57:35.817667+00:00",
         "lease_expires_at": "2026-09-20T21:57:35.817667+00:00",
         "run_id": "35510972333"
+      },
+      "previous_target_id": "29562393",
+      "prepared": {
+        "target_video_id": "29562393",
+        "size_bytes": 2563084794,
+        "prepared_at": "2026-09-20T15:57:41.827016+00:00"
       }
     },
     "12631": {
@@ -55221,13 +55227,6 @@
           "permanent": false,
           "source_id": "22898145",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:59:20.442451+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22898145",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:38.406005+00:00"
         },
         {
@@ -55236,6 +55235,13 @@
           "target_video_id": "29561263",
           "permanent": false,
           "attempted_at": "2026-09-20T15:09:23.294472+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22898145",
+          "target_video_id": "29561263",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:57:40.971005+00:00"
         }
       ],
       "last_plan": {
@@ -55246,14 +55252,8 @@
       "previous_target_id": "29561263",
       "prepared": {
         "target_video_id": "29561263",
-        "size_bytes": 3716395310,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-20T14:58:43.996253+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:57:38.813776+00:00",
-        "lease_expires_at": "2026-09-20T21:57:38.813776+00:00",
-        "run_id": "35510972333"
       }
     },
     "11019": {
@@ -55320,6 +55320,12 @@
         "target_video_id": "29561266",
         "size_bytes": 734224384,
         "prepared_at": "2026-09-20T14:58:52.043041+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
+        "claimed_at": "2026-09-20T15:57:41.535472+00:00",
+        "lease_expires_at": "2026-09-20T21:57:41.535472+00:00",
+        "run_id": "35510972333"
       }
     },
     "29535": {
@@ -55371,6 +55377,12 @@
         "source_id": "34696485",
         "display_name": "Jdi za svým koněm (2020) 720p CZ Dabing",
         "planned_at": "2026-09-20T15:57:13.877305+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T15:57:41.250386+00:00",
+        "lease_expires_at": "2026-09-20T21:57:41.250386+00:00",
+        "run_id": "35510972333"
       }
     },
     "37308": {
@@ -232267,5 +232279,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:57:39.054376+00:00"
+  "updated_at": "2026-09-20T15:57:41.827032+00:00"
 }
