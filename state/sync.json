@@ -124578,7 +124578,13 @@
         "size_bytes": 12100000000,
         "prepared_at": "2026-09-14T13:11:29.689407+00:00"
       },
-      "previous_target_id": "29379664"
+      "previous_target_id": "29379664",
+      "claim": {
+        "worker_id": "c1d07a962b904fb59081854d31939837-shard-4",
+        "claimed_at": "2026-09-20T01:10:23.004064+00:00",
+        "lease_expires_at": "2026-09-20T07:10:23.004064+00:00",
+        "run_id": "35467299794"
+      }
     },
     "20504": {
       "attempts": [],
@@ -128735,13 +128741,6 @@
           "source_id": "30147512",
           "target_video_id": "29252039",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:34:46.137210+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30147512",
-          "target_video_id": "29252039",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:07:31.712095+00:00"
         },
         {
@@ -128750,6 +128749,13 @@
           "target_video_id": "29252039",
           "permanent": false,
           "attempted_at": "2026-09-20T00:39:26.144621+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30147512",
+          "target_video_id": "29252039",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:10:23.153136+00:00"
         }
       ],
       "last_plan": {
@@ -128762,13 +128768,7 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-09T20:02:01.806006+00:00"
       },
-      "previous_target_id": "29252039",
-      "claim": {
-        "worker_id": "c1d07a962b904fb59081854d31939837-shard-0",
-        "claimed_at": "2026-09-20T01:10:19.059300+00:00",
-        "lease_expires_at": "2026-09-20T07:10:19.059300+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29252039"
     },
     "23973": {
       "attempts": []
@@ -169675,6 +169675,12 @@
         "source_id": "29600576",
         "display_name": "Malá vražda (2011) SD CZ Dabing",
         "planned_at": "2026-09-20T01:09:26.668988+00:00"
+      },
+      "claim": {
+        "worker_id": "c1d07a962b904fb59081854d31939837-shard-3",
+        "claimed_at": "2026-09-20T01:10:22.855315+00:00",
+        "lease_expires_at": "2026-09-20T07:10:22.855315+00:00",
+        "run_id": "35467299794"
       }
     },
     "5715": {
@@ -224443,5 +224449,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:10:21.030018+00:00"
+  "updated_at": "2026-09-20T01:10:23.153163+00:00"
 }
