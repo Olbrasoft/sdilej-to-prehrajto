@@ -148213,13 +148213,6 @@
           "source_id": "24709903",
           "target_video_id": "29274277",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:26:09.067963+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24709903",
-          "target_video_id": "29274277",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:05:39.834364+00:00"
         },
         {
@@ -148228,6 +148221,13 @@
           "target_video_id": "29274277",
           "permanent": false,
           "attempted_at": "2026-09-19T23:36:07.668360+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24709903",
+          "target_video_id": "29274277",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:08:22.060873+00:00"
         }
       ],
       "last_plan": {
@@ -148240,13 +148240,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-10T14:14:17.651896+00:00"
       },
-      "previous_target_id": "29274277",
-      "claim": {
-        "worker_id": "35376778652449069723d7b905becbb9-shard-0",
-        "claimed_at": "2026-09-20T00:08:18.805464+00:00",
-        "lease_expires_at": "2026-09-20T06:08:18.805464+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29274277"
     },
     "15572": {
       "attempts": [
@@ -158829,6 +158823,12 @@
         "source_id": "29502601",
         "display_name": "Čingischán (1965) 1080p CZ Dabing",
         "planned_at": "2026-09-20T00:06:46.492388+00:00"
+      },
+      "claim": {
+        "worker_id": "35376778652449069723d7b905becbb9-shard-1",
+        "claimed_at": "2026-09-20T00:08:21.773219+00:00",
+        "lease_expires_at": "2026-09-20T06:08:21.773219+00:00",
+        "run_id": "35467299794"
       }
     },
     "20733": {
@@ -158889,6 +158889,13 @@
           "source_id": "34472748",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:05:55.048681+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34472748",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:08:21.924347+00:00"
         }
       ],
       "last_plan": {
@@ -220680,5 +220687,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:08:19.836899+00:00"
+  "updated_at": "2026-09-20T00:08:22.060888+00:00"
 }
