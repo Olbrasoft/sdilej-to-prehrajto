@@ -139857,13 +139857,6 @@
     "11877": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34651680",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:03.021388+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34651680",
           "reason": "Request failed for https://sdilej.cz/34651680/darkman-1990-akcni-sci-fi-liam-neeson-czdab.uhdr.mkv (HTTP None)",
@@ -139876,18 +139869,19 @@
           "reason": "Request failed for https://sdilej.cz/34651680/darkman-1990-akcni-sci-fi-liam-neeson-czdab.uhdr.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T18:29:36.774707+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34651680",
+          "target_video_id": "29565607",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:13:49.953303+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34651680",
         "display_name": "Darkman (1990) 4K CZ Dabing",
         "planned_at": "2026-09-20T19:03:07.050554+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T19:03:31.354189+00:00",
-        "lease_expires_at": "2026-09-21T01:03:31.354189+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29565607",
       "prepared": {
@@ -233266,5 +233260,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:13:36.465248+00:00"
+  "updated_at": "2026-09-20T19:13:49.953319+00:00"
 }
