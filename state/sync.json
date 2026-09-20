@@ -48014,13 +48014,6 @@
           "source_id": "34492254",
           "target_video_id": "29255927",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:01:10.657354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34492254",
-          "target_video_id": "29255927",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:32:37.954663+00:00"
         },
         {
@@ -48029,6 +48022,13 @@
           "target_video_id": "29255927",
           "permanent": false,
           "attempted_at": "2026-09-20T03:04:07.710293+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34492254",
+          "target_video_id": "29255927",
+          "permanent": false,
+          "attempted_at": "2026-09-20T03:43:46.489644+00:00"
         }
       ],
       "last_plan": {
@@ -48399,7 +48399,13 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T06:45:23.104183+00:00"
       },
-      "previous_target_id": "29179786"
+      "previous_target_id": "29179786",
+      "claim": {
+        "worker_id": "2ac068f8ecd04de5889f92b65bfa235a-shard-0",
+        "claimed_at": "2026-09-20T03:43:44.979350+00:00",
+        "lease_expires_at": "2026-09-20T09:43:44.979350+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2399": {
       "attempts": [
@@ -49187,7 +49193,13 @@
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-08T04:57:53.039599+00:00"
       },
-      "previous_target_id": "29204451"
+      "previous_target_id": "29204451",
+      "claim": {
+        "worker_id": "2ac068f8ecd04de5889f92b65bfa235a-shard-4",
+        "claimed_at": "2026-09-20T03:43:44.758858+00:00",
+        "lease_expires_at": "2026-09-20T09:43:44.758858+00:00",
+        "run_id": "35481903373"
+      }
     },
     "27924": {
       "attempts": []
@@ -49219,7 +49231,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Servírka (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T03:04:00.829083+00:00"
+        "planned_at": "2026-09-20T03:43:45.210800+00:00"
       },
       "prepared": {
         "target_video_id": "29158387",
@@ -49396,7 +49408,7 @@
       "last_plan": {
         "source_id": "29515698",
         "display_name": "Leo (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-20T03:04:01.067668+00:00"
+        "planned_at": "2026-09-20T03:43:45.431849+00:00"
       },
       "prepared": {
         "target_video_id": "29204469",
@@ -49669,7 +49681,7 @@
       "last_plan": {
         "source_id": "16545098",
         "display_name": "Ip Man 4: The Finale (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-20T03:04:01.299213+00:00"
+        "planned_at": "2026-09-20T03:43:45.700949+00:00"
       },
       "prepared": {
         "target_video_id": "29204521",
@@ -49794,7 +49806,7 @@
       "last_plan": {
         "source_id": "29834151",
         "display_name": "Lovingovi (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T03:04:01.529513+00:00"
+        "planned_at": "2026-09-20T03:43:45.947601+00:00"
       },
       "prepared": {
         "target_video_id": "29136439",
@@ -49915,7 +49927,7 @@
       "last_plan": {
         "source_id": "32997472",
         "display_name": "Šílení (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T03:04:01.771893+00:00"
+        "planned_at": "2026-09-20T03:43:46.167675+00:00"
       },
       "prepared": {
         "target_video_id": "29136447",
@@ -220310,5 +220322,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T03:43:42.569558+00:00"
+  "updated_at": "2026-09-20T03:43:46.489662+00:00"
 }
