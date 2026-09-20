@@ -40260,13 +40260,6 @@
           "source_id": "31470565",
           "target_video_id": "29173980",
           "permanent": false,
-          "attempted_at": "2026-09-20T01:27:25.366023+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31470565",
-          "target_video_id": "29173980",
-          "permanent": false,
           "attempted_at": "2026-09-20T01:59:25.923785+00:00"
         },
         {
@@ -40275,12 +40268,19 @@
           "target_video_id": "29173980",
           "permanent": false,
           "attempted_at": "2026-09-20T02:30:04.740667+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31470565",
+          "target_video_id": "29173980",
+          "permanent": false,
+          "attempted_at": "2026-09-20T03:00:14.568916+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31470565",
         "display_name": "Pelé: Zrození legendy (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T02:29:55.819187+00:00"
+        "planned_at": "2026-09-20T03:00:11.496565+00:00"
       },
       "prepared": {
         "target_video_id": "29173980",
@@ -40322,7 +40322,7 @@
       "last_plan": {
         "source_id": "29473098",
         "display_name": "Přitažlivost zla (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T02:29:56.038405+00:00"
+        "planned_at": "2026-09-20T03:00:11.737429+00:00"
       },
       "prepared": {
         "target_video_id": "29174349",
@@ -40477,7 +40477,7 @@
       "last_plan": {
         "source_id": "34617371",
         "display_name": "Velká červená jednička (1980) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T02:29:56.474451+00:00"
+        "planned_at": "2026-09-20T03:00:11.967278+00:00"
       },
       "prepared": {
         "target_video_id": "29199053",
@@ -41357,7 +41357,7 @@
       "last_plan": {
         "source_id": "32114505",
         "display_name": "Dobrý šéf (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T02:29:56.909586+00:00"
+        "planned_at": "2026-09-20T03:00:12.200242+00:00"
       },
       "prepared": {
         "target_video_id": "29174784",
@@ -203813,11 +203813,25 @@
       "attempts": []
     },
     "12865": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33221983",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:59:51.086941+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33221983",
         "display_name": "Rudá planeta (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-20T02:59:45.569899+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:59:50.255661+00:00",
+        "lease_expires_at": "2026-09-20T08:59:50.255661+00:00",
+        "run_id": "35481903373"
       }
     },
     "36882": {
@@ -203921,11 +203935,25 @@
       "attempts": []
     },
     "18292": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12986037",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:59:52.202763+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12986037",
         "display_name": "Královny plesu (2011) SD CZ Dabing",
         "planned_at": "2026-09-20T02:59:45.810537+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:59:51.313352+00:00",
+        "lease_expires_at": "2026-09-20T08:59:51.313352+00:00",
+        "run_id": "35481903373"
       }
     },
     "23481": {
@@ -203957,11 +203985,25 @@
       "attempts": []
     },
     "12073": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29645056",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:59:53.983514+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29645056",
         "display_name": "Dennis – postrach okolí (1993) 1080p CZ Dabing",
         "planned_at": "2026-09-20T02:59:46.047138+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:59:52.437759+00:00",
+        "lease_expires_at": "2026-09-20T08:59:52.437759+00:00",
+        "run_id": "35481903373"
       }
     },
     "7453": {
@@ -206599,11 +206641,25 @@
       "attempts": []
     },
     "25220": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34707007",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:59:55.070321+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34707007",
         "display_name": "Zelená je tráva (2005) 720p CZ Dabing",
         "planned_at": "2026-09-20T02:59:46.278695+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:59:54.212435+00:00",
+        "lease_expires_at": "2026-09-20T08:59:54.212435+00:00",
+        "run_id": "35481903373"
       }
     },
     "32440": {
@@ -220016,5 +220072,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T02:59:48.137704+00:00"
+  "updated_at": "2026-09-20T03:00:14.568934+00:00"
 }
