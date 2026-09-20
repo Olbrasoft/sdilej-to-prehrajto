@@ -30554,13 +30554,6 @@
           "source_id": "34145473",
           "target_video_id": "29387950",
           "permanent": false,
-          "attempted_at": "2026-09-20T00:24:54.904582+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34145473",
-          "target_video_id": "29387950",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:55:36.576917+00:00"
         },
         {
@@ -30569,6 +30562,13 @@
           "target_video_id": "29387950",
           "permanent": false,
           "attempted_at": "2026-09-20T01:26:04.485348+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34145473",
+          "target_video_id": "29387950",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:56:52.461898+00:00"
         }
       ],
       "last_plan": {
@@ -33053,7 +33053,13 @@
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
       },
-      "previous_target_id": "29153323"
+      "previous_target_id": "29153323",
+      "claim": {
+        "worker_id": "d33b136d99ee4669a4918f08abbcb03b-shard-2",
+        "claimed_at": "2026-09-20T01:56:50.825604+00:00",
+        "lease_expires_at": "2026-09-20T07:56:50.825604+00:00",
+        "run_id": "35467299794"
+      }
     },
     "29761": {
       "attempts": []
@@ -172367,6 +172373,12 @@
         "source_id": "33768470",
         "display_name": "Filadelfský Experiment (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-20T01:56:15.173021+00:00"
+      },
+      "claim": {
+        "worker_id": "d33b136d99ee4669a4918f08abbcb03b-shard-4",
+        "claimed_at": "2026-09-20T01:56:51.591431+00:00",
+        "lease_expires_at": "2026-09-20T07:56:51.591431+00:00",
+        "run_id": "35467299794"
       }
     },
     "5850": {
@@ -172384,6 +172396,13 @@
           "source_id": "32138447",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T19:55:37.796417+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32138447",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T01:56:51.273583+00:00"
         }
       ],
       "last_plan": {
@@ -172444,12 +172463,25 @@
           "source_id": "34764110",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T19:55:38.298871+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34764110",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T01:56:51.895868+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34764110",
         "display_name": "Až do poslední smrti (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-20T01:56:15.467765+00:00"
+      },
+      "claim": {
+        "worker_id": "d33b136d99ee4669a4918f08abbcb03b-shard-5",
+        "claimed_at": "2026-09-20T01:56:50.974802+00:00",
+        "lease_expires_at": "2026-09-20T07:56:50.974802+00:00",
+        "run_id": "35467299794"
       }
     },
     "24086": {
@@ -172506,12 +172538,25 @@
           "source_id": "13798268",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T19:55:39.624366+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13798268",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T01:56:52.068385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13798268",
         "display_name": "Zabij, nebo zemři (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-20T01:56:15.618354+00:00"
+      },
+      "claim": {
+        "worker_id": "d33b136d99ee4669a4918f08abbcb03b-shard-0",
+        "claimed_at": "2026-09-20T01:56:51.124233+00:00",
+        "lease_expires_at": "2026-09-20T07:56:51.124233+00:00",
+        "run_id": "35467299794"
       }
     },
     "8696": {
@@ -172547,6 +172592,12 @@
         "source_id": "27284543",
         "display_name": "Pláč sovy (2009) 720p CZ Dabing",
         "planned_at": "2026-09-20T01:56:15.767983+00:00"
+      },
+      "claim": {
+        "worker_id": "d33b136d99ee4669a4918f08abbcb03b-shard-1",
+        "claimed_at": "2026-09-20T01:56:51.421435+00:00",
+        "lease_expires_at": "2026-09-20T07:56:51.421435+00:00",
+        "run_id": "35467299794"
       }
     },
     "23200": {
@@ -172576,6 +172627,12 @@
         "source_id": "27646570",
         "display_name": "No Way Out (2022) SD CZ Titulky",
         "planned_at": "2026-09-20T01:56:15.918379+00:00"
+      },
+      "claim": {
+        "worker_id": "d33b136d99ee4669a4918f08abbcb03b-shard-5",
+        "claimed_at": "2026-09-20T01:56:52.252785+00:00",
+        "lease_expires_at": "2026-09-20T07:56:52.252785+00:00",
+        "run_id": "35467299794"
       }
     },
     "32600": {
@@ -227124,5 +227181,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:56:48.808409+00:00"
+  "updated_at": "2026-09-20T01:56:52.461917+00:00"
 }
