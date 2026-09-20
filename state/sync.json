@@ -4465,7 +4465,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-05T07:23:34.280016+00:00"
       },
-      "previous_target_id": "29124911"
+      "previous_target_id": "29124911",
+      "claim": {
+        "worker_id": "3d5a17b486a84ccd83027950e7ce11d6-shard-4",
+        "claimed_at": "2026-09-20T00:51:16.745830+00:00",
+        "lease_expires_at": "2026-09-20T06:51:16.745830+00:00",
+        "run_id": "35467299794"
+      }
     },
     "327": {
       "attempts": [
@@ -4969,13 +4975,6 @@
           "source_id": "20447868",
           "target_video_id": "29175602",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:20:09.748515+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "29175602",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:50:25.099706+00:00"
         },
         {
@@ -4984,6 +4983,13 @@
           "target_video_id": "29175602",
           "permanent": false,
           "attempted_at": "2026-09-20T00:20:55.973498+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "29175602",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:51:18.366924+00:00"
         }
       ],
       "last_plan": {
@@ -5100,14 +5106,20 @@
       "last_plan": {
         "source_id": "30735349",
         "display_name": "Perfect Blue (1997) 4K CZ Titulky",
-        "planned_at": "2026-09-20T00:20:33.826509+00:00"
+        "planned_at": "2026-09-20T00:51:16.916093+00:00"
       },
       "prepared": {
         "target_video_id": "29219736",
         "size_bytes": 16700000000,
         "prepared_at": "2026-09-08T17:58:51.708923+00:00"
       },
-      "previous_target_id": "29219736"
+      "previous_target_id": "29219736",
+      "claim": {
+        "worker_id": "3d5a17b486a84ccd83027950e7ce11d6-shard-3",
+        "claimed_at": "2026-09-20T00:51:17.297461+00:00",
+        "lease_expires_at": "2026-09-20T06:51:17.297461+00:00",
+        "run_id": "35467299794"
+      }
     },
     "13803": {
       "attempts": [
@@ -5503,14 +5515,20 @@
       "last_plan": {
         "source_id": "27451957",
         "display_name": "Průvodce (2008) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T00:20:34.001322+00:00"
+        "planned_at": "2026-09-20T00:51:17.074400+00:00"
       },
       "prepared": {
         "target_video_id": "29179105",
         "size_bytes": 5300000000,
         "prepared_at": "2026-09-07T06:02:21.308933+00:00"
       },
-      "previous_target_id": "29179105"
+      "previous_target_id": "29179105",
+      "claim": {
+        "worker_id": "3d5a17b486a84ccd83027950e7ce11d6-shard-5",
+        "claimed_at": "2026-09-20T00:51:17.661012+00:00",
+        "lease_expires_at": "2026-09-20T06:51:17.661012+00:00",
+        "run_id": "35467299794"
+      }
     },
     "22042": {
       "attempts": [
@@ -223845,5 +223863,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:51:14.719501+00:00"
+  "updated_at": "2026-09-20T00:51:18.366937+00:00"
 }
