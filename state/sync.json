@@ -70902,17 +70902,19 @@
       }
     },
     "24427": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25235773",
+          "reason": "Request failed for https://sdilej.cz/25235773/karel-a-ja-1942-juraison-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:27:49.034151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25235773",
         "display_name": "Karel a já (1942) SD CZ Dabing",
         "planned_at": "2026-09-20T21:21:50.257465+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T21:27:03.243104+00:00",
-        "lease_expires_at": "2026-09-21T03:27:03.243104+00:00",
-        "run_id": "35529171597"
       }
     },
     "16608": {
@@ -233594,5 +233596,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:27:31.805060+00:00"
+  "updated_at": "2026-09-20T21:27:49.034169+00:00"
 }
