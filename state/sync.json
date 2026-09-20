@@ -139820,13 +139820,6 @@
           "permanent": false,
           "source_id": "32970470",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:32.358603+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32970470",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:48:23.358818+00:00"
         },
         {
@@ -139835,17 +139828,20 @@
           "source_id": "32970470",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:46.293691+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32970470",
+          "target_video_id": "29314127",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:44:13.971392+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32970470",
         "display_name": "Nová noční můra (1994) 4K CZ Dabing",
         "planned_at": "2026-09-20T17:36:43.154730+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29314127",
-        "size_bytes": 4996236664,
-        "prepared_at": "2026-09-12T01:40:15.500433+00:00"
       },
       "previous_target_id": "29314127"
     },
@@ -233226,5 +233222,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:44:09.186164+00:00"
+  "updated_at": "2026-09-20T17:44:13.971408+00:00"
 }
