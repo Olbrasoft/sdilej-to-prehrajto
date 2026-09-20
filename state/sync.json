@@ -55326,13 +55326,6 @@
           "permanent": false,
           "source_id": "34696485",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:59:21.861356+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34696485",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:39.205304+00:00"
         },
         {
@@ -55341,18 +55334,19 @@
           "reason": "Request failed for https://sdilej.cz/34696485/jdi-za-svym-konem-2020-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T15:00:06.466436+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34696485",
+          "target_video_id": "29562396",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:02:48.417990+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34696485",
         "display_name": "Jdi za svým koněm (2020) 720p CZ Dabing",
         "planned_at": "2026-09-20T15:57:13.877305+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:57:41.250386+00:00",
-        "lease_expires_at": "2026-09-20T21:57:41.250386+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29562396",
       "prepared": {
@@ -232274,5 +232268,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:02:32.888795+00:00"
+  "updated_at": "2026-09-20T16:02:48.418007+00:00"
 }
