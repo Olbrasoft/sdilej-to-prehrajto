@@ -17089,13 +17089,6 @@
           "permanent": false,
           "source_id": "10362483",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:45:47.781873+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "10362483",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:48:03.224389+00:00"
         },
         {
@@ -17104,18 +17097,19 @@
           "source_id": "10362483",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:13.045577+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10362483",
+          "target_video_id": "29558892",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:14:20.870807+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10362483",
         "display_name": "Zelig (1983) SD CZ Dabing",
         "planned_at": "2026-09-20T12:52:13.081563+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T13:12:02.183378+00:00",
-        "lease_expires_at": "2026-09-20T19:12:02.183378+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29558892",
       "prepared": {
@@ -17141,6 +17135,12 @@
         "source_id": "7861515",
         "display_name": "Kokuhaku (2010) 1080p CZ Titulky",
         "planned_at": "2026-09-20T12:52:13.315125+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
+        "claimed_at": "2026-09-20T13:14:20.250668+00:00",
+        "lease_expires_at": "2026-09-20T19:14:20.250668+00:00",
+        "run_id": "35510972333"
       }
     },
     "19274": {
@@ -17171,6 +17171,12 @@
         "source_id": "11774276",
         "display_name": "Tři blízcí neznámí (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-20T12:52:13.550099+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
+        "claimed_at": "2026-09-20T13:14:20.555996+00:00",
+        "lease_expires_at": "2026-09-20T19:14:20.555996+00:00",
+        "run_id": "35510972333"
       }
     },
     "353": {
@@ -231104,5 +231110,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:14:18.084868+00:00"
+  "updated_at": "2026-09-20T13:14:20.870827+00:00"
 }
