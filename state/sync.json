@@ -142895,13 +142895,6 @@
           "permanent": false,
           "source_id": "34667541",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:03.500908+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667541",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:06:30.140840+00:00"
         },
         {
@@ -142910,18 +142903,19 @@
           "source_id": "34667541",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:44.419167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34667541",
+          "target_video_id": "29566192",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:42:41.633144+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34667541",
         "display_name": "Gabby Petito a její příběh (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:03:15.620455+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T19:37:07.113523+00:00",
-        "lease_expires_at": "2026-09-21T01:37:07.113523+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29566192",
       "prepared": {
@@ -233381,5 +233375,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:42:11.947357+00:00"
+  "updated_at": "2026-09-20T19:42:41.633160+00:00"
 }
