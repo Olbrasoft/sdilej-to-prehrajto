@@ -23329,13 +23329,6 @@
           "permanent": false,
           "source_id": "32998770",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:46:28.390904+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32998770",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:46:55.142166+00:00"
         },
         {
@@ -23344,18 +23337,19 @@
           "reason": "Request failed for https://sdilej.cz/32998770/tenet-2020-uhdrdv-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T13:53:26.071519+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32998770",
+          "reason": "Request failed for https://sdilej.cz/32998770/tenet-2020-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:26:51.290626+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32998770",
         "display_name": "Tenet (2020) 4K CZ Dabing",
         "planned_at": "2026-09-20T14:25:21.169255+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T14:26:05.508834+00:00",
-        "lease_expires_at": "2026-09-20T20:26:05.508834+00:00",
-        "run_id": "35510972333"
       }
     },
     "1415": {
@@ -23458,6 +23452,12 @@
         "source_id": "31759042",
         "display_name": "Rozpolcený (2016) 4K CZ Dabing",
         "planned_at": "2026-09-20T14:25:21.483474+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
+        "claimed_at": "2026-09-20T14:26:49.464846+00:00",
+        "lease_expires_at": "2026-09-20T20:26:49.464846+00:00",
+        "run_id": "35510972333"
       }
     },
     "1515": {
@@ -231639,5 +231639,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:26:43.650121+00:00"
+  "updated_at": "2026-09-20T14:26:51.290647+00:00"
 }
