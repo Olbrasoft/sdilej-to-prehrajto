@@ -142188,13 +142188,6 @@
           "permanent": false,
           "source_id": "31470524",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:57.608865+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31470524",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:25.953376+00:00"
         },
         {
@@ -142203,6 +142196,13 @@
           "target_video_id": "29565970",
           "permanent": false,
           "attempted_at": "2026-09-20T19:36:59.352846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31470524",
+          "target_video_id": "29565970",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:19:19.468430+00:00"
         }
       ],
       "last_plan": {
@@ -142213,7 +142213,7 @@
       "previous_target_id": "29565970",
       "prepared": {
         "target_video_id": "29565970",
-        "size_bytes": 5140063796,
+        "size_bytes": 5100000000,
         "prepared_at": "2026-09-20T19:24:10.647236+00:00"
       }
     },
@@ -142301,16 +142301,10 @@
           "attempted_at": "2026-09-20T19:30:23.873282+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34695682",
-        "display_name": "Brzy na shledanou (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T20:18:45.849045+00:00"
-      },
       "previous_target_id": "29565971",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565971",
-        "size_bytes": 2447217386,
-        "prepared_at": "2026-09-20T19:24:15.962915+00:00"
+        "uploaded_at": "2026-09-20T20:19:21.242179+00:00"
       }
     },
     "4677": {
@@ -233342,5 +233336,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:19:15.669153+00:00"
+  "updated_at": "2026-09-20T20:19:21.242197+00:00"
 }
