@@ -140039,13 +140039,6 @@
           "permanent": false,
           "source_id": "34651680",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:23.903389+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34651680",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:03.021388+00:00"
         },
         {
@@ -140054,18 +140047,19 @@
           "reason": "Request failed for https://sdilej.cz/34651680/darkman-1990-akcni-sci-fi-liam-neeson-czdab.uhdr.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T17:45:48.220425+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34651680",
+          "reason": "Request failed for https://sdilej.cz/34651680/darkman-1990-akcni-sci-fi-liam-neeson-czdab.uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:29:36.774707+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34651680",
         "display_name": "Darkman (1990) 4K CZ Dabing",
         "planned_at": "2026-09-20T18:28:06.687036+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-4",
-        "claimed_at": "2026-09-20T18:28:49.324962+00:00",
-        "lease_expires_at": "2026-09-21T00:28:49.324962+00:00",
-        "run_id": "35510972333"
       }
     },
     "14998": {
@@ -140171,6 +140165,12 @@
         "source_id": "34846415",
         "display_name": "Veselé stránky (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T18:28:06.965167+00:00"
+      },
+      "claim": {
+        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-3",
+        "claimed_at": "2026-09-20T18:28:53.751660+00:00",
+        "lease_expires_at": "2026-09-21T00:28:53.751660+00:00",
+        "run_id": "35510972333"
       }
     },
     "17806": {
@@ -233294,5 +233294,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:28:51.729430+00:00"
+  "updated_at": "2026-09-20T18:29:36.774726+00:00"
 }
