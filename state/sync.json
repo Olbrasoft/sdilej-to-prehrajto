@@ -97539,13 +97539,6 @@
           "source_id": "34737394",
           "target_video_id": "29339141",
           "permanent": false,
-          "attempted_at": "2026-09-20T03:52:38.192381+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34737394",
-          "target_video_id": "29339141",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:41:26.636887+00:00"
         },
         {
@@ -97554,6 +97547,13 @@
           "target_video_id": "29339141",
           "permanent": false,
           "attempted_at": "2026-09-20T05:13:56.451165+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34737394",
+          "target_video_id": "29339141",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:46:02.096066+00:00"
         }
       ],
       "last_plan": {
@@ -97566,13 +97566,7 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-13T04:24:26.168856+00:00"
       },
-      "previous_target_id": "29339141",
-      "claim": {
-        "worker_id": "7773abe982364e4c9418815b5882f0b2-shard-1",
-        "claimed_at": "2026-09-20T05:45:58.188979+00:00",
-        "lease_expires_at": "2026-09-20T11:45:58.188979+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29339141"
     },
     "14854": {
       "attempts": []
@@ -186873,6 +186867,13 @@
           "source_id": "34188043",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:36:22.505263+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34188043",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:46:01.456001+00:00"
         }
       ],
       "last_plan": {
@@ -186933,6 +186934,12 @@
         "source_id": "34787060",
         "display_name": "The Return of the King (1980) SD CZ Titulky",
         "planned_at": "2026-09-20T05:44:12.758101+00:00"
+      },
+      "claim": {
+        "worker_id": "7773abe982364e4c9418815b5882f0b2-shard-4",
+        "claimed_at": "2026-09-20T05:46:01.081534+00:00",
+        "lease_expires_at": "2026-09-20T11:46:01.081534+00:00",
+        "run_id": "35481903373"
       }
     },
     "33264": {
@@ -186966,6 +186973,13 @@
           "source_id": "34720787",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:36:23.266051+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34720787",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:46:01.817517+00:00"
         }
       ],
       "last_plan": {
@@ -229014,5 +229028,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:45:58.875254+00:00"
+  "updated_at": "2026-09-20T05:46:02.096080+00:00"
 }
