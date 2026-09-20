@@ -120394,13 +120394,6 @@
           "source_id": "32138633",
           "target_video_id": "29242142",
           "permanent": false,
-          "attempted_at": "2026-09-20T03:57:05.342074+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32138633",
-          "target_video_id": "29242142",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:46:04.338684+00:00"
         },
         {
@@ -120409,6 +120402,13 @@
           "target_video_id": "29242142",
           "permanent": false,
           "attempted_at": "2026-09-20T05:18:34.922766+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32138633",
+          "target_video_id": "29242142",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:51:08.257148+00:00"
         }
       ],
       "last_plan": {
@@ -120858,7 +120858,13 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-09T06:05:35.327533+00:00"
       },
-      "previous_target_id": "29234765"
+      "previous_target_id": "29234765",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T05:51:06.799720+00:00",
+        "lease_expires_at": "2026-09-20T11:51:06.799720+00:00",
+        "run_id": "35481903373"
+      }
     },
     "30812": {
       "attempts": []
@@ -121007,7 +121013,13 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-11T04:10:23.315779+00:00"
       },
-      "previous_target_id": "29290399"
+      "previous_target_id": "29290399",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T05:51:06.309513+00:00",
+        "lease_expires_at": "2026-09-20T11:51:06.309513+00:00",
+        "run_id": "35481903373"
+      }
     },
     "17565": {
       "attempts": []
@@ -122126,7 +122138,7 @@
       "last_plan": {
         "source_id": "17309774",
         "display_name": "Tajemství maloměsta (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:17:27.681167+00:00"
+        "planned_at": "2026-09-20T05:51:07.186314+00:00"
       },
       "prepared": {
         "target_video_id": "29327748",
@@ -122421,7 +122433,7 @@
       "last_plan": {
         "source_id": "34526291",
         "display_name": "Svatá čtveřice (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:17:27.906372+00:00"
+        "planned_at": "2026-09-20T05:51:07.506321+00:00"
       },
       "prepared": {
         "target_video_id": "29328603",
@@ -123083,7 +123095,7 @@
       "last_plan": {
         "source_id": "28759723",
         "display_name": "Klub odložených žen (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T05:17:28.132377+00:00"
+        "planned_at": "2026-09-20T05:51:07.795418+00:00"
       },
       "prepared": {
         "target_video_id": "29330654",
@@ -229411,5 +229423,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:51:03.793561+00:00"
+  "updated_at": "2026-09-20T05:51:08.257167+00:00"
 }
