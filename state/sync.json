@@ -20929,7 +20929,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-10T02:31:57.475955+00:00"
       },
-      "previous_target_id": "29260125"
+      "previous_target_id": "29260125",
+      "claim": {
+        "worker_id": "a58cb5ea0a8546ad9257ad6d4f63a2bc-shard-1",
+        "claimed_at": "2026-09-20T06:32:50.242824+00:00",
+        "lease_expires_at": "2026-09-20T12:32:50.242824+00:00",
+        "run_id": "35481903373"
+      }
     },
     "35068": {
       "attempts": [
@@ -22997,13 +23003,6 @@
           "source_id": "32970502",
           "target_video_id": "29125882",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:00:02.217986+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32970502",
-          "target_video_id": "29125882",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:31:24.801334+00:00"
         },
         {
@@ -23012,6 +23011,13 @@
           "target_video_id": "29125882",
           "permanent": false,
           "attempted_at": "2026-09-20T06:02:00.096138+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32970502",
+          "target_video_id": "29125882",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:32:51.554929+00:00"
         }
       ],
       "last_plan": {
@@ -23323,7 +23329,13 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-09-05T17:30:30.502734+00:00"
       },
-      "previous_target_id": "29125921"
+      "previous_target_id": "29125921",
+      "claim": {
+        "worker_id": "a58cb5ea0a8546ad9257ad6d4f63a2bc-shard-2",
+        "claimed_at": "2026-09-20T06:32:50.474866+00:00",
+        "lease_expires_at": "2026-09-20T12:32:50.474866+00:00",
+        "run_id": "35481903373"
+      }
     },
     "1395": {
       "attempts": [
@@ -23496,7 +23508,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrint (1986) 4K CZ Dabing",
-        "planned_at": "2026-09-20T06:01:34.215253+00:00"
+        "planned_at": "2026-09-20T06:32:50.713270+00:00"
       },
       "prepared": {
         "target_video_id": "29127917",
@@ -23910,7 +23922,7 @@
       "last_plan": {
         "source_id": "26314149",
         "display_name": "Zpívej 2 (2021) 4K CZ Dabing",
-        "planned_at": "2026-09-20T06:02:18.364974+00:00"
+        "planned_at": "2026-09-20T06:32:50.975202+00:00"
       },
       "prepared": {
         "target_video_id": "29127237",
@@ -24148,7 +24160,7 @@
       "last_plan": {
         "source_id": "6107387",
         "display_name": "The Fundamentals of Caring (2016) 720p CZ Titulky",
-        "planned_at": "2026-09-20T06:02:18.904175+00:00"
+        "planned_at": "2026-09-20T06:32:51.237968+00:00"
       },
       "prepared": {
         "target_video_id": "29376069",
@@ -233223,5 +233235,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:32:47.903887+00:00"
+  "updated_at": "2026-09-20T06:32:51.554949+00:00"
 }
