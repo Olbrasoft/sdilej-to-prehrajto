@@ -90464,13 +90464,6 @@
           "permanent": false,
           "source_id": "31885766",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:39:45.261022+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31885766",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:21:16.133121+00:00"
         },
         {
@@ -90479,6 +90472,13 @@
           "target_video_id": "29563439",
           "permanent": false,
           "attempted_at": "2026-09-20T16:56:22.741970+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31885766",
+          "target_video_id": "29563439",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:34:53.294655+00:00"
         }
       ],
       "last_plan": {
@@ -90489,7 +90489,7 @@
       "previous_target_id": "29563439",
       "prepared": {
         "target_video_id": "29563439",
-        "size_bytes": 2216078867,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-20T16:50:08.935807+00:00"
       }
     },
@@ -91338,16 +91338,10 @@
           "attempted_at": "2026-09-20T17:03:32.298889+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34714414",
-        "display_name": "Zkrocení zlého muže (1987) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T17:34:04.963638+00:00"
-      },
       "previous_target_id": "29563497",
-      "prepared": {
+      "upload": {
         "target_video_id": "29563497",
-        "size_bytes": 2685835843,
-        "prepared_at": "2026-09-20T16:54:10.779584+00:00"
+        "uploaded_at": "2026-09-20T17:34:54.623799+00:00"
       }
     },
     "5449": {
@@ -233122,5 +233116,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:34:50.184394+00:00"
+  "updated_at": "2026-09-20T17:34:54.623816+00:00"
 }
