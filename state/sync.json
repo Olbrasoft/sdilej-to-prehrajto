@@ -23472,13 +23472,6 @@
           "permanent": false,
           "source_id": "14302057",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:55:42.236434+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14302057",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:56:43.619126+00:00"
         },
         {
@@ -23487,6 +23480,13 @@
           "target_video_id": "29559846",
           "permanent": false,
           "attempted_at": "2026-09-20T14:24:38.599819+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14302057",
+          "target_video_id": "29559846",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:12:15.661843+00:00"
         }
       ],
       "last_plan": {
@@ -23497,14 +23497,8 @@
       "previous_target_id": "29559846",
       "prepared": {
         "target_video_id": "29559846",
-        "size_bytes": 10472682997,
+        "size_bytes": 10500000000,
         "prepared_at": "2026-09-20T13:53:37.580419+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T15:12:08.679300+00:00",
-        "lease_expires_at": "2026-09-20T21:12:08.679300+00:00",
-        "run_id": "35510972333"
       }
     },
     "1469": {
@@ -23528,18 +23522,19 @@
           "source_id": "34143566",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:56:50.251845+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34143566",
+          "target_video_id": "29559844",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:12:15.920090+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34143566",
         "display_name": "Já, padouch 2 (2013) 4K CZ Dabing",
         "planned_at": "2026-09-20T13:41:39.328760+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T13:53:29.959809+00:00",
-        "lease_expires_at": "2026-09-20T19:53:29.959809+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29559844",
       "prepared": {
@@ -23702,13 +23697,6 @@
     "1555": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31312806",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:58:56.413213+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31312806",
           "reason": "Request failed for https://sdilej.cz/31312806/simpsonovi-ve-filmu-the-simpsons-movie-2007-cz-dabing.avi (HTTP None)",
@@ -23721,6 +23709,13 @@
           "target_video_id": "29560521",
           "permanent": false,
           "attempted_at": "2026-09-20T14:35:33.538801+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31312806",
+          "target_video_id": "29560521",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:12:15.411892+00:00"
         }
       ],
       "last_plan": {
@@ -23731,14 +23726,8 @@
       "previous_target_id": "29560521",
       "prepared": {
         "target_video_id": "29560521",
-        "size_bytes": 2029816158,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-20T14:31:02.552212+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T15:12:08.387114+00:00",
-        "lease_expires_at": "2026-09-20T21:12:08.387114+00:00",
-        "run_id": "35510972333"
       }
     },
     "1361": {
@@ -231812,5 +231801,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:12:09.561743+00:00"
+  "updated_at": "2026-09-20T15:12:15.920104+00:00"
 }
