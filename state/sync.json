@@ -132220,13 +132220,6 @@
           "permanent": false,
           "source_id": "26447974",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T09:45:45.843722+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26447974",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:05:57.837304+00:00"
         },
         {
@@ -132235,6 +132228,13 @@
           "source_id": "26447974",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T22:24:24.664568+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26447974",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:47:30.677658+00:00"
         }
       ],
       "last_plan": {
@@ -132242,7 +132242,13 @@
         "display_name": "Na 30 dní zase spolu (2022) 720p CZ Titulky",
         "planned_at": "2026-09-20T04:44:49.061993+00:00"
       },
-      "previous_target_id": "29402925"
+      "previous_target_id": "29402925",
+      "claim": {
+        "worker_id": "41904e232a4c43eaa866cd3c4e447937-shard-0",
+        "claimed_at": "2026-09-20T04:47:29.730863+00:00",
+        "lease_expires_at": "2026-09-20T10:47:29.730863+00:00",
+        "run_id": "35481903373"
+      }
     },
     "13504": {
       "attempts": [
@@ -133237,13 +133243,6 @@
           "source_id": "28475218",
           "target_video_id": "29238524",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:13:28.271257+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28475218",
-          "target_video_id": "29238524",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:45:58.356285+00:00"
         },
         {
@@ -133252,6 +133251,13 @@
           "target_video_id": "29238524",
           "permanent": false,
           "attempted_at": "2026-09-20T03:58:21.661590+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28475218",
+          "target_video_id": "29238524",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:47:32.593301+00:00"
         }
       ],
       "last_plan": {
@@ -222507,5 +222513,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:47:27.747208+00:00"
+  "updated_at": "2026-09-20T04:47:32.593319+00:00"
 }
