@@ -14508,13 +14508,6 @@
           "permanent": false,
           "source_id": "5692013",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:31:41.775547+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "5692013",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:37:49.409483+00:00"
         },
         {
@@ -14523,18 +14516,19 @@
           "source_id": "5692013",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T09:37:56.134372+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5692013",
+          "target_video_id": "29558314",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:05:10.612331+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5692013",
         "display_name": "Most špiónů (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-20T12:52:08.584670+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T12:52:23.483377+00:00",
-        "lease_expires_at": "2026-09-20T18:52:23.483377+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29558314",
       "prepared": {
@@ -231067,5 +231061,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:05:03.202791+00:00"
+  "updated_at": "2026-09-20T13:05:10.612348+00:00"
 }
