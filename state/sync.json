@@ -73642,13 +73642,6 @@
           "source_id": "26801976",
           "target_video_id": "29443370",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:37:54.108722+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26801976",
-          "target_video_id": "29443370",
-          "permanent": false,
           "attempted_at": "2026-09-20T03:09:21.659295+00:00"
         },
         {
@@ -73657,6 +73650,13 @@
           "target_video_id": "29443370",
           "permanent": false,
           "attempted_at": "2026-09-20T03:49:17.780537+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26801976",
+          "target_video_id": "29443370",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:38:31.334056+00:00"
         }
       ],
       "last_plan": {
@@ -73927,7 +73927,13 @@
         "size_bytes": 13400000000,
         "prepared_at": "2026-09-17T04:56:42.916997+00:00"
       },
-      "previous_target_id": "29443431"
+      "previous_target_id": "29443431",
+      "claim": {
+        "worker_id": "3a0737fa4eae4d7d9fa0f262c819b85f-shard-5",
+        "claimed_at": "2026-09-20T04:38:30.353984+00:00",
+        "lease_expires_at": "2026-09-20T10:38:30.353984+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21821": {
       "attempts": []
@@ -75752,7 +75758,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-18T04:35:02.715700+00:00"
       },
-      "previous_target_id": "29468741"
+      "previous_target_id": "29468741",
+      "claim": {
+        "worker_id": "3a0737fa4eae4d7d9fa0f262c819b85f-shard-4",
+        "claimed_at": "2026-09-20T04:38:29.660593+00:00",
+        "lease_expires_at": "2026-09-20T10:38:29.660593+00:00",
+        "run_id": "35481903373"
+      }
     },
     "22342": {
       "attempts": []
@@ -76086,7 +76098,13 @@
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-20T04:37:18.286949+00:00"
       },
-      "previous_target_id": "29522917"
+      "previous_target_id": "29522917",
+      "claim": {
+        "worker_id": "3a0737fa4eae4d7d9fa0f262c819b85f-shard-0",
+        "claimed_at": "2026-09-20T04:38:30.106201+00:00",
+        "lease_expires_at": "2026-09-20T10:38:30.106201+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21194": {
       "attempts": []
@@ -76390,13 +76408,6 @@
           "permanent": false,
           "source_id": "35058003",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T09:26:24.866655+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35058003",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T15:57:17.935768+00:00"
         },
         {
@@ -76405,12 +76416,25 @@
           "source_id": "35058003",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T22:18:55.815310+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35058003",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:38:30.868433+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35058003",
         "display_name": "Peníze těch druhých (1978) 720p CZ Dabing",
         "planned_at": "2026-09-20T04:37:18.510950+00:00"
+      },
+      "claim": {
+        "worker_id": "3a0737fa4eae4d7d9fa0f262c819b85f-shard-3",
+        "claimed_at": "2026-09-20T04:38:29.884744+00:00",
+        "lease_expires_at": "2026-09-20T10:38:29.884744+00:00",
+        "run_id": "35481903373"
       }
     },
     "12124": {
@@ -76956,7 +76980,13 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-05T21:00:10.792347+00:00"
       },
-      "previous_target_id": "29141933"
+      "previous_target_id": "29141933",
+      "claim": {
+        "worker_id": "3a0737fa4eae4d7d9fa0f262c819b85f-shard-1",
+        "claimed_at": "2026-09-20T04:38:30.601676+00:00",
+        "lease_expires_at": "2026-09-20T10:38:30.601676+00:00",
+        "run_id": "35481903373"
+      }
     },
     "16214": {
       "attempts": []
@@ -222374,5 +222404,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:38:27.472936+00:00"
+  "updated_at": "2026-09-20T04:38:31.334076+00:00"
 }
