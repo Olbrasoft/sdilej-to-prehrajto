@@ -16016,13 +16016,6 @@
           "permanent": false,
           "source_id": "26761945",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:38:27.769412+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26761945",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T09:39:01.531618+00:00"
         },
         {
@@ -16031,6 +16024,13 @@
           "target_video_id": "29558319",
           "permanent": false,
           "attempted_at": "2026-09-20T13:05:45.427830+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26761945",
+          "target_video_id": "29558319",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:41:55.244460+00:00"
         }
       ],
       "last_plan": {
@@ -16041,14 +16041,8 @@
       "previous_target_id": "29558319",
       "prepared": {
         "target_video_id": "29558319",
-        "size_bytes": 3678830218,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-20T12:52:43.488751+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T13:41:52.279599+00:00",
-        "lease_expires_at": "2026-09-20T19:41:52.279599+00:00",
-        "run_id": "35510972333"
       }
     },
     "28273": {
@@ -16265,6 +16259,12 @@
         "source_id": "34681006",
         "display_name": "Truchlivé dědictví (2004) 1080p CZ Dabing",
         "planned_at": "2026-09-20T13:41:31.050818+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
+        "claimed_at": "2026-09-20T13:41:55.895188+00:00",
+        "lease_expires_at": "2026-09-20T19:41:55.895188+00:00",
+        "run_id": "35510972333"
       }
     },
     "21441": {
@@ -16367,13 +16367,6 @@
           "permanent": false,
           "source_id": "31885956",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:48:00.020971+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31885956",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:02.991722+00:00"
         },
         {
@@ -16382,6 +16375,13 @@
           "target_video_id": "29558577",
           "permanent": false,
           "attempted_at": "2026-09-20T13:08:40.291958+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31885956",
+          "target_video_id": "29558577",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:41:56.877623+00:00"
         }
       ],
       "last_plan": {
@@ -16392,7 +16392,7 @@
       "previous_target_id": "29558577",
       "prepared": {
         "target_video_id": "29558577",
-        "size_bytes": 2877742734,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-20T12:59:41.448340+00:00"
       }
     },
@@ -16437,6 +16437,18 @@
         "source_id": "26230999",
         "display_name": "Cela 211: Vězeňské peklo (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-20T13:41:31.601819+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
+        "claimed_at": "2026-09-20T13:41:57.172102+00:00",
+        "lease_expires_at": "2026-09-20T19:41:57.172102+00:00",
+        "run_id": "35510972333"
+      },
+      "previous_target_id": "29559606",
+      "prepared": {
+        "target_video_id": "29559606",
+        "size_bytes": 3138437244,
+        "prepared_at": "2026-09-20T13:42:01.026861+00:00"
       }
     },
     "743": {
@@ -231353,5 +231365,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:41:53.291916+00:00"
+  "updated_at": "2026-09-20T13:42:01.026878+00:00"
 }
