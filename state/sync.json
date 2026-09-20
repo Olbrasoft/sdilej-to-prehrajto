@@ -17400,13 +17400,6 @@
           "permanent": false,
           "source_id": "30780685",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:45:49.231573+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30780685",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:48:05.410486+00:00"
         },
         {
@@ -17415,18 +17408,19 @@
           "source_id": "30780685",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:20.983971+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780685",
+          "target_video_id": "29559096",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:27:02.520744+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30780685",
         "display_name": "Jeremiah Johnson (1972) 1080p CZ Dabing",
         "planned_at": "2026-09-20T12:52:15.194853+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T13:19:55.536601+00:00",
-        "lease_expires_at": "2026-09-20T19:19:55.536601+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29559096",
       "prepared": {
@@ -231206,5 +231200,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:23:31.558000+00:00"
+  "updated_at": "2026-09-20T13:27:02.520760+00:00"
 }
