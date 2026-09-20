@@ -55193,13 +55193,6 @@
     "18422": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22898145",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:19:38.406005+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "22898145",
           "target_video_id": "29561263",
@@ -55212,6 +55205,13 @@
           "target_video_id": "29561263",
           "permanent": false,
           "attempted_at": "2026-09-20T15:57:40.971005+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22898145",
+          "target_video_id": "29561263",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:34:45.522840+00:00"
         }
       ],
       "last_plan": {
@@ -55224,12 +55224,6 @@
         "target_video_id": "29561263",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-20T14:58:43.996253+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T16:34:34.895818+00:00",
-        "lease_expires_at": "2026-09-20T22:34:34.895818+00:00",
-        "run_id": "35510972333"
       }
     },
     "11019": {
@@ -55518,22 +55512,10 @@
           "attempted_at": "2026-09-20T16:01:35.522577+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34737006",
-        "display_name": "I am Jonas (2018) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T16:33:57.054735+00:00"
-      },
       "previous_target_id": "29562401",
-      "prepared": {
+      "upload": {
         "target_video_id": "29562401",
-        "size_bytes": 1861876354,
-        "prepared_at": "2026-09-20T15:57:58.487366+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T16:34:43.226884+00:00",
-        "lease_expires_at": "2026-09-20T22:34:43.226884+00:00",
-        "run_id": "35510972333"
+        "uploaded_at": "2026-09-20T16:34:46.524507+00:00"
       }
     },
     "22121": {
@@ -55927,6 +55909,12 @@
         "target_video_id": "29562422",
         "size_bytes": 1460395161,
         "prepared_at": "2026-09-20T15:58:52.218625+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
+        "claimed_at": "2026-09-20T16:34:45.834742+00:00",
+        "lease_expires_at": "2026-09-20T22:34:45.834742+00:00",
+        "run_id": "35510972333"
       }
     },
     "21596": {
@@ -55991,6 +55979,12 @@
         "target_video_id": "29561453",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-20T15:10:10.042813+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
+        "claimed_at": "2026-09-20T16:34:46.180585+00:00",
+        "lease_expires_at": "2026-09-20T22:34:46.180585+00:00",
+        "run_id": "35510972333"
       }
     },
     "30820": {
@@ -232746,5 +232740,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:34:43.516989+00:00"
+  "updated_at": "2026-09-20T16:34:46.524530+00:00"
 }
