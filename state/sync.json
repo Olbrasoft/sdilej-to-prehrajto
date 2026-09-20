@@ -17576,13 +17576,6 @@
     "23915": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33219259",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:15:58.943488+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33219259",
           "target_video_id": "29559302",
@@ -17595,6 +17588,13 @@
           "target_video_id": "29559302",
           "permanent": false,
           "attempted_at": "2026-09-20T14:18:59.187652+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33219259",
+          "target_video_id": "29559302",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:50:15.433036+00:00"
         }
       ],
       "last_plan": {
@@ -17633,16 +17633,10 @@
           "attempted_at": "2026-09-20T14:19:00.211657+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29771115",
-        "display_name": "Lék (1995) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T14:49:22.400620+00:00"
-      },
       "previous_target_id": "29557027",
-      "prepared": {
+      "upload": {
         "target_video_id": "29557027",
-        "size_bytes": 5500000000,
-        "prepared_at": "2026-09-20T11:56:12.246823+00:00"
+        "uploaded_at": "2026-09-20T14:50:17.161009+00:00"
       }
     },
     "27564": {
@@ -231737,5 +231731,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:50:11.926178+00:00"
+  "updated_at": "2026-09-20T14:50:17.161024+00:00"
 }
