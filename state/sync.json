@@ -17042,13 +17042,6 @@
           "source_id": "7861515",
           "reason": "Request failed for https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-20T13:15:07.923419+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "7861515",
-          "reason": "Request failed for https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-20T14:01:40.058717+00:00"
         },
         {
@@ -17057,6 +17050,13 @@
           "target_video_id": "29560872",
           "permanent": false,
           "attempted_at": "2026-09-20T14:58:34.738502+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7861515",
+          "target_video_id": "29560872",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:53:54.485260+00:00"
         }
       ],
       "last_plan": {
@@ -17067,14 +17067,8 @@
       "previous_target_id": "29560872",
       "prepared": {
         "target_video_id": "29560872",
-        "size_bytes": 3745738851,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-20T14:49:50.925892+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:53:51.153402+00:00",
-        "lease_expires_at": "2026-09-20T21:53:51.153402+00:00",
-        "run_id": "35510972333"
       }
     },
     "19274": {
@@ -17165,13 +17159,6 @@
           "source_id": "34993659",
           "target_video_id": "29558972",
           "permanent": false,
-          "attempted_at": "2026-09-20T13:38:41.225591+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34993659",
-          "target_video_id": "29558972",
-          "permanent": false,
           "attempted_at": "2026-09-20T14:18:48.916639+00:00"
         },
         {
@@ -17180,6 +17167,13 @@
           "target_video_id": "29558972",
           "permanent": false,
           "attempted_at": "2026-09-20T14:49:50.623901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34993659",
+          "target_video_id": "29558972",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:53:54.193305+00:00"
         }
       ],
       "last_plan": {
@@ -17192,12 +17186,6 @@
         "target_video_id": "29558972",
         "size_bytes": 12800000000,
         "prepared_at": "2026-09-20T13:15:14.886604+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T15:53:50.859703+00:00",
-        "lease_expires_at": "2026-09-20T21:53:50.859703+00:00",
-        "run_id": "35510972333"
       }
     },
     "24924": {
@@ -17293,6 +17281,12 @@
         "target_video_id": "29559024",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-20T13:17:07.557437+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
+        "claimed_at": "2026-09-20T15:53:55.089293+00:00",
+        "lease_expires_at": "2026-09-20T21:53:55.089293+00:00",
+        "run_id": "35510972333"
       }
     },
     "26807": {
@@ -17322,16 +17316,10 @@
           "attempted_at": "2026-09-20T14:59:15.408637+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32024191",
-        "display_name": "Podivný pár (1968) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T15:53:29.754902+00:00"
-      },
       "previous_target_id": "29560876",
-      "prepared": {
+      "upload": {
         "target_video_id": "29560876",
-        "size_bytes": 3607703530,
-        "prepared_at": "2026-09-20T14:50:01.651025+00:00"
+        "uploaded_at": "2026-09-20T15:53:56.174405+00:00"
       }
     },
     "21162": {
@@ -17577,6 +17565,12 @@
         "target_video_id": "29559302",
         "size_bytes": 3600000000,
         "prepared_at": "2026-09-20T13:28:26.770772+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T15:53:55.377429+00:00",
+        "lease_expires_at": "2026-09-20T21:53:55.377429+00:00",
+        "run_id": "35510972333"
       }
     },
     "23581": {
@@ -232393,5 +232387,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:53:52.007509+00:00"
+  "updated_at": "2026-09-20T15:53:56.174422+00:00"
 }
