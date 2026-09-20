@@ -139007,13 +139007,6 @@
           "permanent": false,
           "source_id": "35028520",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:24:25.462226+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35028520",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:47:44.746860+00:00"
         },
         {
@@ -139022,18 +139015,19 @@
           "source_id": "35028520",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:23:43.852421+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35028520",
+          "target_video_id": "29564227",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:44:09.186118+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35028520",
         "display_name": "Přerušené ticho (2012) SD CZ Dabing",
         "planned_at": "2026-09-20T17:36:41.816403+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-5",
-        "claimed_at": "2026-09-20T17:41:10.942218+00:00",
-        "lease_expires_at": "2026-09-20T23:41:10.942218+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29564227",
       "prepared": {
@@ -233232,5 +233226,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:44:01.170791+00:00"
+  "updated_at": "2026-09-20T17:44:09.186164+00:00"
 }
