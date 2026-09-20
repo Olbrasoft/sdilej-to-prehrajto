@@ -186572,13 +186572,6 @@
           "source_id": "32138633",
           "target_video_id": "29535498",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:26:35.090962+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32138633",
-          "target_video_id": "29535498",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:07:39.154785+00:00"
         },
         {
@@ -186587,6 +186580,13 @@
           "target_video_id": "29535498",
           "permanent": false,
           "attempted_at": "2026-09-19T23:37:46.913968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32138633",
+          "target_video_id": "29535498",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:10:01.547805+00:00"
         }
       ],
       "last_plan": {
@@ -186599,12 +186599,6 @@
         "target_video_id": "29535498",
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-19T17:56:42.737384+00:00"
-      },
-      "claim": {
-        "worker_id": "4dc8b124e4394d23b043afc99decfec8-shard-1",
-        "claimed_at": "2026-09-20T00:09:57.366122+00:00",
-        "lease_expires_at": "2026-09-20T06:09:57.366122+00:00",
-        "run_id": "35467299794"
       }
     },
     "23386": {
@@ -188305,6 +188299,13 @@
           "source_id": "33925784",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:05:38.053689+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33925784",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:10:01.402444+00:00"
         }
       ],
       "last_plan": {
@@ -188336,6 +188337,12 @@
         "source_id": "34526302",
         "display_name": "Peklem s čertem (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-20T00:09:42.427306+00:00"
+      },
+      "claim": {
+        "worker_id": "4dc8b124e4394d23b043afc99decfec8-shard-5",
+        "claimed_at": "2026-09-20T00:10:01.248452+00:00",
+        "lease_expires_at": "2026-09-20T06:10:01.248452+00:00",
+        "run_id": "35467299794"
       }
     },
     "12134": {
@@ -221363,5 +221370,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:09:59.430361+00:00"
+  "updated_at": "2026-09-20T00:10:01.547821+00:00"
 }
