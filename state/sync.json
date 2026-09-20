@@ -80656,13 +80656,6 @@
           "permanent": false,
           "source_id": "34057624",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:19.301203+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34057624",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:53:37.597024+00:00"
         },
         {
@@ -80671,18 +80664,19 @@
           "reason": "Request failed for https://sdilej.cz/34057624/2021-laska-pod-kapotou-dkumentarni-74-.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T16:21:33.490968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34057624",
+          "target_video_id": "29563565",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:07:16.269012+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34057624",
         "display_name": "Láska pod kapotou (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T16:58:07.353767+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T16:58:34.330336+00:00",
-        "lease_expires_at": "2026-09-20T22:58:34.330336+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29563565",
       "prepared": {
@@ -232976,5 +232970,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:07:14.204401+00:00"
+  "updated_at": "2026-09-20T17:07:16.269030+00:00"
 }
