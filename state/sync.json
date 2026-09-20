@@ -139968,13 +139968,6 @@
     "5392": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34846415",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:04.651983+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34846415",
           "reason": "Request failed for https://sdilej.cz/34846415/vesele-stranky-2022-cz-dabing-1080p-fhd.mp4 (HTTP None)",
@@ -139987,18 +139980,19 @@
           "reason": "Request failed for https://sdilej.cz/34846415/vesele-stranky-2022-cz-dabing-1080p-fhd.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T18:29:43.560461+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34846415",
+          "reason": "Request failed for https://sdilej.cz/34846415/vesele-stranky-2022-cz-dabing-1080p-fhd.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:04:17.101198+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34846415",
         "display_name": "Veselé stránky (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:03:07.317122+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T19:03:30.839066+00:00",
-        "lease_expires_at": "2026-09-21T01:03:30.839066+00:00",
-        "run_id": "35529171597"
       }
     },
     "17806": {
@@ -141108,6 +141102,12 @@
         "source_id": "32832255",
         "display_name": "Znovu zrozen (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-20T19:03:08.389265+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
+        "claimed_at": "2026-09-20T19:04:11.612440+00:00",
+        "lease_expires_at": "2026-09-21T01:04:11.612440+00:00",
+        "run_id": "35529171597"
       }
     },
     "34188": {
@@ -233230,5 +233230,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:04:06.228404+00:00"
+  "updated_at": "2026-09-20T19:04:17.101217+00:00"
 }
