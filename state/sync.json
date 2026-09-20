@@ -45488,13 +45488,6 @@
           "source_id": "34710258",
           "target_video_id": "29255540",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:04:22.369648+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710258",
-          "target_video_id": "29255540",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:36:07.499426+00:00"
         },
         {
@@ -45503,6 +45496,13 @@
           "target_video_id": "29255540",
           "permanent": false,
           "attempted_at": "2026-09-20T06:06:31.615427+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710258",
+          "target_video_id": "29255540",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:37:28.716440+00:00"
         }
       ],
       "last_plan": {
@@ -45515,13 +45515,7 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-09T22:06:56.396895+00:00"
       },
-      "previous_target_id": "29255540",
-      "claim": {
-        "worker_id": "829e19207e0c4a6fa82d728880f696ea-shard-0",
-        "claimed_at": "2026-09-20T06:37:25.387999+00:00",
-        "lease_expires_at": "2026-09-20T12:37:25.387999+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29255540"
     },
     "31150": {
       "attempts": []
@@ -164678,13 +164672,6 @@
           "permanent": false,
           "source_id": "33870578",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:07:45.673800+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33870578",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:32:28.914788+00:00"
         },
         {
@@ -164693,6 +164680,13 @@
           "source_id": "33870578",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:36:15.932791+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33870578",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:37:28.483434+00:00"
         }
       ],
       "last_plan": {
@@ -164798,6 +164792,12 @@
         "source_id": "33794083",
         "display_name": "Smrtelné horko (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:36:39.606585+00:00"
+      },
+      "claim": {
+        "worker_id": "829e19207e0c4a6fa82d728880f696ea-shard-3",
+        "claimed_at": "2026-09-20T06:37:28.252402+00:00",
+        "lease_expires_at": "2026-09-20T12:37:28.252402+00:00",
+        "run_id": "35481903373"
       }
     },
     "31311": {
@@ -164887,6 +164887,12 @@
         "source_id": "33183165",
         "display_name": "Jednotka Foxtrot 6 (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-20T06:36:39.839105+00:00"
+      },
+      "claim": {
+        "worker_id": "829e19207e0c4a6fa82d728880f696ea-shard-5",
+        "claimed_at": "2026-09-20T06:37:28.019322+00:00",
+        "lease_expires_at": "2026-09-20T12:37:28.019322+00:00",
+        "run_id": "35481903373"
       }
     },
     "14078": {
@@ -233247,5 +233253,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:37:25.855386+00:00"
+  "updated_at": "2026-09-20T06:37:28.716461+00:00"
 }
