@@ -140084,13 +140084,6 @@
           "permanent": false,
           "source_id": "27558390",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:26.063465+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27558390",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:05.183072+00:00"
         },
         {
@@ -140099,18 +140092,19 @@
           "reason": "Request failed for https://sdilej.cz/27558390/zprava-o-europe-2013-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T18:01:22.614622+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27558390",
+          "target_video_id": "29565382",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:53:32.879475+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27558390",
         "display_name": "Zpráva o Europě (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-20T18:48:10.188516+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T18:48:55.873329+00:00",
-        "lease_expires_at": "2026-09-21T00:48:55.873329+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29565382",
       "prepared": {
@@ -233190,5 +233184,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:49:42.535171+00:00"
+  "updated_at": "2026-09-20T18:53:32.879491+00:00"
 }
