@@ -140436,13 +140436,6 @@
           "permanent": false,
           "source_id": "28700869",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:31.087207+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28700869",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:09.400302+00:00"
         },
         {
@@ -140451,18 +140444,19 @@
           "reason": "Request failed for https://sdilej.cz/28700869/mea-culpa-2014-cz-dab.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T18:38:55.252447+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28700869",
+          "reason": "Request failed for https://sdilej.cz/28700869/mea-culpa-2014-cz-dab.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:00:10.001703+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28700869",
         "display_name": "Mea Culpa (2014) SD CZ Dabing",
         "planned_at": "2026-09-20T19:58:47.271347+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T19:59:21.244902+00:00",
-        "lease_expires_at": "2026-09-21T01:59:21.244902+00:00",
-        "run_id": "35529171597"
       }
     },
     "4779": {
@@ -233346,5 +233340,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:00:04.373524+00:00"
+  "updated_at": "2026-09-20T20:00:10.001719+00:00"
 }
