@@ -16938,13 +16938,6 @@
     "14859": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28518031",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:15:56.534982+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28518031",
           "target_video_id": "29558839",
@@ -16957,6 +16950,13 @@
           "target_video_id": "29558839",
           "permanent": false,
           "attempted_at": "2026-09-20T14:18:47.213354+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28518031",
+          "target_video_id": "29558839",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:49:44.197058+00:00"
         }
       ],
       "last_plan": {
@@ -16969,12 +16969,6 @@
         "target_video_id": "29558839",
         "size_bytes": 8100000000,
         "prepared_at": "2026-09-20T13:09:31.873246+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T14:49:37.061789+00:00",
-        "lease_expires_at": "2026-09-20T20:49:37.061789+00:00",
-        "run_id": "35510972333"
       }
     },
     "37214": {
@@ -17017,22 +17011,10 @@
           "attempted_at": "2026-09-20T14:07:18.054041+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26416604",
-        "display_name": "Blbec k večeři (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T14:49:19.213185+00:00"
-      },
       "previous_target_id": "29559999",
-      "prepared": {
+      "upload": {
         "target_video_id": "29559999",
-        "size_bytes": 1866680078,
-        "prepared_at": "2026-09-20T13:59:58.994630+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T14:49:37.733278+00:00",
-        "lease_expires_at": "2026-09-20T20:49:37.733278+00:00",
-        "run_id": "35510972333"
+        "uploaded_at": "2026-09-20T14:49:44.795561+00:00"
       }
     },
     "29610": {
@@ -17111,6 +17093,12 @@
         "source_id": "7861515",
         "display_name": "Kokuhaku (2010) 1080p CZ Titulky",
         "planned_at": "2026-09-20T14:49:19.500989+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T14:49:44.498347+00:00",
+        "lease_expires_at": "2026-09-20T20:49:44.498347+00:00",
+        "run_id": "35510972333"
       }
     },
     "19274": {
@@ -231761,5 +231749,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:49:38.219701+00:00"
+  "updated_at": "2026-09-20T14:49:44.795582+00:00"
 }
