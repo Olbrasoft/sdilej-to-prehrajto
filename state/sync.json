@@ -143804,13 +143804,6 @@
           "permanent": false,
           "source_id": "34733416",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:08:55.662694+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34733416",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:55.185996+00:00"
         },
         {
@@ -143819,18 +143812,19 @@
           "reason": "Request failed for https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T20:19:03.190727+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34733416",
+          "target_video_id": "29567536",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:19:56.994040+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34733416",
         "display_name": "Betonový kovboj (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-20T21:04:03.802440+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
-        "claimed_at": "2026-09-20T21:07:49.446506+00:00",
-        "lease_expires_at": "2026-09-21T03:07:49.446506+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567536",
       "prepared": {
@@ -233456,5 +233450,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:18:30.833270+00:00"
+  "updated_at": "2026-09-20T21:19:56.994057+00:00"
 }
