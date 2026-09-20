@@ -117743,13 +117743,6 @@
           "permanent": false,
           "source_id": "33811385",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T09:44:34.832063+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33811385",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:05:14.756741+00:00"
         },
         {
@@ -117758,6 +117751,13 @@
           "source_id": "33811385",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T22:23:36.554856+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33811385",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:45:59.080976+00:00"
         }
       ],
       "last_plan": {
@@ -117765,7 +117765,13 @@
         "display_name": "Tři bratři (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-20T04:44:42.147171+00:00"
       },
-      "previous_target_id": "29409545"
+      "previous_target_id": "29409545",
+      "claim": {
+        "worker_id": "41904e232a4c43eaa866cd3c4e447937-shard-0",
+        "claimed_at": "2026-09-20T04:45:58.231667+00:00",
+        "lease_expires_at": "2026-09-20T10:45:58.231667+00:00",
+        "run_id": "35481903373"
+      }
     },
     "27094": {
       "attempts": [
@@ -117822,13 +117828,6 @@
           "source_id": "33701607",
           "target_video_id": "29241046",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:12:10.222010+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33701607",
-          "target_video_id": "29241046",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:45:11.230112+00:00"
         },
         {
@@ -117837,6 +117836,13 @@
           "target_video_id": "29241046",
           "permanent": false,
           "attempted_at": "2026-09-20T03:57:01.725481+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33701607",
+          "target_video_id": "29241046",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:46:00.736222+00:00"
         }
       ],
       "last_plan": {
@@ -222483,5 +222489,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:45:56.242824+00:00"
+  "updated_at": "2026-09-20T04:46:00.736238+00:00"
 }
