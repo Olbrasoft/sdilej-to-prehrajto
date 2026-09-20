@@ -145713,13 +145713,6 @@
           "permanent": false,
           "source_id": "22974579",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:05:09.611220+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22974579",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:19:46.812765+00:00"
         },
         {
@@ -145728,18 +145721,19 @@
           "source_id": "22974579",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:32.006230+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22974579",
+          "target_video_id": "29568131",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:51:37.168487+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22974579",
         "display_name": "Crush (2022) 1080p SK Dabing",
         "planned_at": "2026-09-20T21:21:59.916556+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
-        "claimed_at": "2026-09-20T21:43:33.200722+00:00",
-        "lease_expires_at": "2026-09-21T03:43:33.200722+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29568131",
       "prepared": {
@@ -233712,5 +233706,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:51:31.851848+00:00"
+  "updated_at": "2026-09-20T21:51:37.168506+00:00"
 }
