@@ -18208,17 +18208,19 @@
       }
     },
     "20740": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "9551459",
+          "reason": "Request failed for https://sdilej.cz/9551459/neverna-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:19:51.188408+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9551459",
         "display_name": "Neerja (2016) SD CZ Dabing",
         "planned_at": "2026-09-20T18:18:49.308271+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-1",
-        "claimed_at": "2026-09-20T18:19:05.294684+00:00",
-        "lease_expires_at": "2026-09-21T00:19:05.294684+00:00",
-        "run_id": "35510972333"
       }
     },
     "18344": {
@@ -233238,5 +233240,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:19:09.234865+00:00"
+  "updated_at": "2026-09-20T18:19:51.188427+00:00"
 }
