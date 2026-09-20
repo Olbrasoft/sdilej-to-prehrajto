@@ -79809,22 +79809,10 @@
           "attempted_at": "2026-09-20T06:44:16.028843+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29700681",
-        "display_name": "Lucerna (1938) SD CZ Dabing",
-        "planned_at": "2026-09-20T07:15:40.515896+00:00"
-      },
       "previous_target_id": "29550248",
-      "prepared": {
+      "upload": {
         "target_video_id": "29550248",
-        "size_bytes": 963036651,
-        "prepared_at": "2026-09-20T06:41:17.541909+00:00"
-      },
-      "claim": {
-        "worker_id": "4d01fef0954042e1a31422fb9d6ff771-shard-0",
-        "claimed_at": "2026-09-20T07:16:50.558503+00:00",
-        "lease_expires_at": "2026-09-20T13:16:50.558503+00:00",
-        "run_id": "35481903373"
+        "uploaded_at": "2026-09-20T07:16:56.024384+00:00"
       }
     },
     "15660": {
@@ -201376,6 +201364,13 @@
           "source_id": "32816904",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:13:17.902758+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32816904",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T07:16:55.559105+00:00"
         }
       ],
       "last_plan": {
@@ -201414,6 +201409,12 @@
         "source_id": "13446365",
         "display_name": "P2 (2007) SD CZ Dabing",
         "planned_at": "2026-09-20T07:15:41.269130+00:00"
+      },
+      "claim": {
+        "worker_id": "4d01fef0954042e1a31422fb9d6ff771-shard-2",
+        "claimed_at": "2026-09-20T07:16:55.793474+00:00",
+        "lease_expires_at": "2026-09-20T13:16:55.793474+00:00",
+        "run_id": "35481903373"
       }
     },
     "26271": {
@@ -235761,5 +235762,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T07:16:53.414963+00:00"
+  "updated_at": "2026-09-20T07:16:56.024403+00:00"
 }
