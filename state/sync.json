@@ -126468,13 +126468,6 @@
           "permanent": false,
           "source_id": "27345611",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T09:45:15.765354+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27345611",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:05:37.274694+00:00"
         },
         {
@@ -126483,6 +126476,13 @@
           "source_id": "27345611",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T22:23:57.228506+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27345611",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:46:49.669074+00:00"
         }
       ],
       "last_plan": {
@@ -126490,7 +126490,13 @@
         "display_name": "Ztracená rodina (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T04:44:46.238309+00:00"
       },
-      "previous_target_id": "29403096"
+      "previous_target_id": "29403096",
+      "claim": {
+        "worker_id": "41904e232a4c43eaa866cd3c4e447937-shard-0",
+        "claimed_at": "2026-09-20T04:46:48.803577+00:00",
+        "lease_expires_at": "2026-09-20T10:46:48.803577+00:00",
+        "run_id": "35481903373"
+      }
     },
     "27697": {
       "attempts": [
@@ -126877,13 +126883,6 @@
           "source_id": "32738677",
           "target_video_id": "29332939",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:12:58.780654+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32738677",
-          "target_video_id": "29332939",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:45:39.808664+00:00"
         },
         {
@@ -126892,6 +126891,13 @@
           "target_video_id": "29332939",
           "permanent": false,
           "attempted_at": "2026-09-20T03:57:44.655897+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32738677",
+          "target_video_id": "29332939",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:46:51.323000+00:00"
         }
       ],
       "last_plan": {
@@ -222501,5 +222507,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:46:46.801965+00:00"
+  "updated_at": "2026-09-20T04:46:51.323017+00:00"
 }
