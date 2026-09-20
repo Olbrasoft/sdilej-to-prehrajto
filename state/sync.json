@@ -110657,13 +110657,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T18:49:38.183615+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T19:02:00.199532+00:00"
         },
         {
@@ -110672,6 +110665,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T19:58:03.868758+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T20:20:06.786774+00:00"
         }
       ],
       "last_plan": {
@@ -110684,13 +110684,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T20:19:12.963926+00:00",
-        "lease_expires_at": "2026-09-21T02:19:12.963926+00:00",
-        "run_id": "35529171597"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -143178,13 +143172,6 @@
           "source_id": "34058489",
           "target_video_id": "29243081",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:56:25.845073+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34058489",
-          "target_video_id": "29243081",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:27:04.477073+00:00"
         },
         {
@@ -143193,6 +143180,13 @@
           "target_video_id": "29243081",
           "permanent": false,
           "attempted_at": "2026-09-20T19:43:46.969759+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34058489",
+          "target_video_id": "29243081",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:20:08.331208+00:00"
         }
       ],
       "last_plan": {
@@ -143370,13 +143364,6 @@
           "source_id": "34781071",
           "target_video_id": "29243103",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:56:25.517632+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34781071",
-          "target_video_id": "29243103",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:27:06.057632+00:00"
         },
         {
@@ -143385,6 +143372,13 @@
           "target_video_id": "29243103",
           "permanent": false,
           "attempted_at": "2026-09-20T19:47:13.589065+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34781071",
+          "target_video_id": "29243103",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:20:09.783060+00:00"
         }
       ],
       "last_plan": {
@@ -143935,6 +143929,18 @@
         "source_id": "27325725",
         "display_name": "Fanfik (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:51.636039+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
+        "claimed_at": "2026-09-20T20:20:10.061714+00:00",
+        "lease_expires_at": "2026-09-21T02:20:10.061714+00:00",
+        "run_id": "35529171597"
+      },
+      "previous_target_id": "29566873",
+      "prepared": {
+        "target_video_id": "29566873",
+        "size_bytes": 2247657535,
+        "prepared_at": "2026-09-20T20:20:13.094189+00:00"
       }
     },
     "25951": {
@@ -233326,5 +233332,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:19:54.134692+00:00"
+  "updated_at": "2026-09-20T20:20:13.094204+00:00"
 }
