@@ -86,6 +86,33 @@ def test_lookup_rejects_unrecognized_response():
         uploaded_video_id_by_name(Session(), 'Film (2000) 4K')
 
 
+@pytest.mark.parametrize('authenticated', [False, True])
+def test_responsive_empty_listing_requires_account_and_search_form(authenticated):
+    class Session:
+        def get(self, *_args, **_kwargs):
+            logout = '<a href="/?do=logout">Odhlásit se</a>' if authenticated else ''
+            return Response(text='<h1><span>Nahraná videa</span><span>Nahraná videa</span></h1><form id="frm-searchForm"></form>' + logout)
+    if authenticated:
+        assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K') is None
+    else:
+        with pytest.raises(PrehrajtoError, match='Unrecognized'):
+            uploaded_video_id_by_name(Session(), 'Film (2000) 4K')
+
+
+def test_failed_lookup_releases_claim_without_losing_target(tmp_path):
+    state = StateStore(tmp_path / 'state.json')
+    state.record_prepared(1, '777', 100)
+    state.claim_upload(1, 'worker')
+    state.record_attempt(1, {'status': 'target_lookup_failed', 'permanent': False})
+    row = state.snapshot(1)
+    assert 'claim' not in row
+    assert row['prepared']['target_video_id'] == '777'
+    assert row['previous_target_id'] == '777'
+    now = datetime.fromisoformat(row['attempts'][-1]['attempted_at'])
+    assert state.deferred(1, at=now + timedelta(minutes=4))
+    assert not state.deferred(1, at=now + timedelta(minutes=6))
+
+
 def test_remote_reader_reports_remaining_length() -> None:
     reader = RemoteReader(Response(b"abcdef"), 6)
     assert reader.len == 6

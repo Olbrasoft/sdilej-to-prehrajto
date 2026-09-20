@@ -298,10 +298,16 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, i
             if match and int(match.group(1)) > page:
                 following.append(int(match.group(1)))
         if not following:
-            if not soup.select_one('[data-video-id], [id^="snippet-uploadedVideoListing-"]') and not any(
-                heading.get_text(" ", strip=True) == "Nahraná videa"
-                for heading in soup.find_all(["h1", "h2"])
-            ):
+            # Responsive markup repeats the title for mobile and desktop.
+            # An empty authenticated listing is valid, but a login/challenge
+            # page is not evidence that a film has never been uploaded.
+            authenticated_empty = (
+                any(re.fullmatch(r"(?:Nahraná videa\s*)+", heading.get_text(" ", strip=True))
+                    for heading in soup.find_all(["h1", "h2"]))
+                and soup.select_one('form#frm-searchForm') is not None
+                and any(a.get_text(" ", strip=True) == "Odhlásit se" for a in soup.select('a[href]'))
+            )
+            if not soup.select_one('[data-video-id], [id^="snippet-uploadedVideoListing-"]') and not authenticated_empty:
                 raise PrehrajtoError("Unrecognized uploaded listing; refusing duplicate risk")
             return None
         page = min(following)

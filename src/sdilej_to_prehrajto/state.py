@@ -172,7 +172,9 @@ class StateStore:
                 return False
             attempted_at = datetime.fromisoformat(timestamp)
             status = latest.get("status")
-            if status == "no_acceptable_source":
+            if status == "target_lookup_failed":
+                cooldown = timedelta(minutes=5)
+            elif status == "no_acceptable_source":
                 # Older discovery code used the same status for a genuinely
                 # empty search and for interrupted candidate verification.
                 # Retry those ambiguous legacy records once; new records carry
@@ -265,6 +267,10 @@ class StateStore:
     def record_attempt(self, film_id: int, attempt: dict) -> None:
         with self._lock:
             row = self.film(film_id)
+            if attempt.get("status") == "target_lookup_failed":
+                # No transfer was started. Release only the lease, never the
+                # prepared target or durable previous-ID duplicate guard.
+                row.pop("claim", None)
             # Migrate the historical ID before bounded attempt history drops it.
             previous_id = attempt.get("target_video_id") or next((
                 item.get("target_video_id") for item in reversed(row.get("attempts", []))
