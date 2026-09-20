@@ -6176,13 +6176,6 @@
           "source_id": "18595816",
           "target_video_id": "29203262",
           "permanent": false,
-          "attempted_at": "2026-09-20T00:21:41.352051+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18595816",
-          "target_video_id": "29203262",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:51:52.256853+00:00"
         },
         {
@@ -6191,6 +6184,13 @@
           "target_video_id": "29203262",
           "permanent": false,
           "attempted_at": "2026-09-20T01:22:02.954049+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18595816",
+          "target_video_id": "29203262",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:52:43.816590+00:00"
         }
       ],
       "last_plan": {
@@ -6203,13 +6203,7 @@
         "size_bytes": 13100000000,
         "prepared_at": "2026-09-08T03:30:17.562857+00:00"
       },
-      "previous_target_id": "29203262",
-      "claim": {
-        "worker_id": "70a8f80a55e44b858c8532ad1dc5f186-shard-2",
-        "claimed_at": "2026-09-20T01:52:38.432395+00:00",
-        "lease_expires_at": "2026-09-20T07:52:38.432395+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29203262"
     },
     "388": {
       "attempts": [
@@ -8093,7 +8087,13 @@
         "size_bytes": 17200000000,
         "prepared_at": "2026-09-08T09:49:03.450755+00:00"
       },
-      "previous_target_id": "29210666"
+      "previous_target_id": "29210666",
+      "claim": {
+        "worker_id": "70a8f80a55e44b858c8532ad1dc5f186-shard-1",
+        "claimed_at": "2026-09-20T01:52:43.659915+00:00",
+        "lease_expires_at": "2026-09-20T07:52:43.659915+00:00",
+        "run_id": "35467299794"
+      }
     },
     "488": {
       "attempts": [
@@ -226888,5 +226888,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:52:41.775872+00:00"
+  "updated_at": "2026-09-20T01:52:43.816603+00:00"
 }
