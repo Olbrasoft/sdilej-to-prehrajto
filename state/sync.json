@@ -86162,11 +86162,25 @@
       "attempts": []
     },
     "12745": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34676251",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T08:29:15.633611+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34676251",
         "display_name": "„Já to tedy beru, šéfe...!“ (1978) 1080p CZ Dabing",
         "planned_at": "2026-09-20T08:27:28.418925+00:00"
+      },
+      "claim": {
+        "worker_id": "868238728ce3499fb3aea3fed06eaed5-shard-5",
+        "claimed_at": "2026-09-20T08:29:11.982572+00:00",
+        "lease_expires_at": "2026-09-20T14:29:11.982572+00:00",
+        "run_id": "35494754672"
       }
     },
     "3445": {
@@ -86181,6 +86195,18 @@
         "source_id": "11716762",
         "display_name": "Vraždy podle Solveig: Němá svědkyně (2016) SD CZ Dabing",
         "planned_at": "2026-09-20T08:27:28.644119+00:00"
+      },
+      "claim": {
+        "worker_id": "868238728ce3499fb3aea3fed06eaed5-shard-5",
+        "claimed_at": "2026-09-20T08:29:15.868083+00:00",
+        "lease_expires_at": "2026-09-20T14:29:15.868083+00:00",
+        "run_id": "35494754672"
+      },
+      "previous_target_id": "29552595",
+      "prepared": {
+        "target_video_id": "29552595",
+        "size_bytes": 1541836800,
+        "prepared_at": "2026-09-20T08:29:21.623348+00:00"
       }
     },
     "35647": {
@@ -228498,5 +228524,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T08:29:10.051883+00:00"
+  "updated_at": "2026-09-20T08:29:21.623358+00:00"
 }
