@@ -140144,13 +140144,6 @@
           "permanent": false,
           "source_id": "34846415",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:24.797608+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34846415",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:04.651983+00:00"
         },
         {
@@ -140159,18 +140152,19 @@
           "reason": "Request failed for https://sdilej.cz/34846415/vesele-stranky-2022-cz-dabing-1080p-fhd.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T17:49:29.465189+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34846415",
+          "reason": "Request failed for https://sdilej.cz/34846415/vesele-stranky-2022-cz-dabing-1080p-fhd.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:29:43.560461+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34846415",
         "display_name": "Veselé stránky (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T18:28:06.965167+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-3",
-        "claimed_at": "2026-09-20T18:28:53.751660+00:00",
-        "lease_expires_at": "2026-09-21T00:28:53.751660+00:00",
-        "run_id": "35510972333"
       }
     },
     "17806": {
@@ -233294,5 +233288,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:29:36.774726+00:00"
+  "updated_at": "2026-09-20T18:29:43.560480+00:00"
 }
