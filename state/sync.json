@@ -1353,13 +1353,6 @@
           "source_id": "18471418",
           "target_video_id": "28927315",
           "permanent": false,
-          "attempted_at": "2026-09-20T01:20:34.328457+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18471418",
-          "target_video_id": "28927315",
-          "permanent": false,
           "attempted_at": "2026-09-20T01:50:52.869724+00:00"
         },
         {
@@ -1368,6 +1361,13 @@
           "target_video_id": "28927315",
           "permanent": false,
           "attempted_at": "2026-09-20T02:21:19.444553+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18471418",
+          "target_video_id": "28927315",
+          "permanent": false,
+          "attempted_at": "2026-09-20T02:51:31.579811+00:00"
         }
       ],
       "last_plan": {
@@ -203536,11 +203536,25 @@
       "attempts": []
     },
     "9202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30697427",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:51:31.090204+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30697427",
         "display_name": "Nažhavená (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T02:51:24.520396+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:51:30.242040+00:00",
+        "lease_expires_at": "2026-09-20T08:51:30.242040+00:00",
+        "run_id": "35481903373"
       }
     },
     "20400": {
@@ -203750,6 +203764,12 @@
         "source_id": "34013293",
         "display_name": "Zlatíčka pro každého (2001) 1080p CZ Dabing",
         "planned_at": "2026-09-20T02:51:24.780434+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:51:31.310429+00:00",
+        "lease_expires_at": "2026-09-20T08:51:31.310429+00:00",
+        "run_id": "35481903373"
       }
     },
     "7454": {
@@ -219948,5 +219968,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T02:51:25.709367+00:00"
+  "updated_at": "2026-09-20T02:51:31.579828+00:00"
 }
