@@ -54890,13 +54890,6 @@
     "30832": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11074487",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:19:35.666200+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "11074487",
           "reason": "Request failed for https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv (HTTP None)",
@@ -54909,18 +54902,19 @@
           "reason": "Request failed for https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T15:58:20.863700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11074487",
+          "target_video_id": "29563187",
+          "permanent": false,
+          "attempted_at": "2026-09-20T16:45:04.941754+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11074487",
         "display_name": "Once Upon a Deadpool (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-20T16:33:55.926580+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T16:34:34.565658+00:00",
-        "lease_expires_at": "2026-09-20T22:34:34.565658+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29563187",
       "prepared": {
@@ -232771,5 +232765,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T16:44:48.713081+00:00"
+  "updated_at": "2026-09-20T16:45:04.941773+00:00"
 }
