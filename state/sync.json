@@ -46294,13 +46294,6 @@
           "source_id": "34912011",
           "target_video_id": "29427702",
           "permanent": false,
-          "attempted_at": "2026-09-20T18:04:28.641793+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34912011",
-          "target_video_id": "29427702",
-          "permanent": false,
           "attempted_at": "2026-09-20T18:44:05.322931+00:00"
         },
         {
@@ -46309,6 +46302,13 @@
           "target_video_id": "29427702",
           "permanent": false,
           "attempted_at": "2026-09-20T19:52:54.043545+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34912011",
+          "target_video_id": "29427702",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:58:46.184318+00:00"
         }
       ],
       "last_plan": {
@@ -46321,13 +46321,7 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-16T12:04:55.705666+00:00"
       },
-      "previous_target_id": "29427702",
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T20:58:40.184242+00:00",
-        "lease_expires_at": "2026-09-21T02:58:40.184242+00:00",
-        "run_id": "35529171597"
-      }
+      "previous_target_id": "29427702"
     },
     "15283": {
       "attempts": []
@@ -144943,13 +144937,6 @@
           "permanent": false,
           "source_id": "29460194",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:56.928358+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29460194",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:14:34.228035+00:00"
         },
         {
@@ -144958,18 +144945,19 @@
           "source_id": "29460194",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:22.243464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29460194",
+          "target_video_id": "29567241",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:58:46.453359+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29460194",
         "display_name": "Dům chtíče (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:57.943812+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T20:47:11.558505+00:00",
-        "lease_expires_at": "2026-09-21T02:47:11.558505+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29567241",
       "prepared": {
@@ -233479,5 +233467,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:58:40.562807+00:00"
+  "updated_at": "2026-09-20T20:58:46.453376+00:00"
 }
