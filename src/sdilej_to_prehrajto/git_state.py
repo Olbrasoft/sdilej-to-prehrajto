@@ -33,6 +33,10 @@ class GitStatePersister:
         "deep_scan": 10,
         "prepared": 1,
         "processing": 1,
+        # Rechecking an already durable processing ID changes no transfer
+        # ownership. Batch these refreshes to avoid starving the producer's
+        # concurrent pushes; first acceptance and prepared IDs stay immediate.
+        "processing_refresh": 25,
         "failure": 1,
         "success": 1,
     }

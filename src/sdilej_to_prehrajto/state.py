@@ -309,6 +309,12 @@ class StateStore:
         with self._lock:
             row = self.film(film_id)
             prepared_at = row.get("prepared", {}).get("prepared_at") or now_iso()
+            last_attempt = (row.get("attempts") or [{}])[-1]
+            repeated = (
+                row.get("prepared", {}).get("target_video_id") == video_id
+                and last_attempt.get("status") == "target_processing"
+                and last_attempt.get("target_video_id") == video_id
+            )
             row["previous_target_id"] = video_id
             row["prepared"] = {
                 "target_video_id": video_id,
@@ -326,7 +332,7 @@ class StateStore:
             )
             row["attempts"] = row["attempts"][-3:]
             row.pop("claim", None)
-            self.save("processing")
+            self.save("processing_refresh" if repeated else "processing")
 
     def record_success(self, film_id: int, upload: dict) -> None:
         with self._lock:

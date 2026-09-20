@@ -1,8 +1,30 @@
 import subprocess
 import pytest
+from sdilej_to_prehrajto.state import StateStore
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.git_state import GitStateError
+
+
+def test_repeated_processing_batches_but_new_target_persists_immediately(tmp_path, monkeypatch):
+    persister = GitStatePersister(tmp_path)
+    events = []
+    monkeypatch.setattr(persister, '_persist', lambda path, event: events.append(event))
+    state = StateStore(tmp_path / 'state.json', on_persist=persister)
+    state.record_prepared(1, '777', 100)
+    state.record_target_processing(1, video_id='777', size=100, source_id='10')
+    assert events == ['prepared', 'processing']
+    for _ in range(24):
+        state.record_target_processing(1, video_id='777', size=100, source_id='10')
+    assert events == ['prepared', 'processing']
+    state.record_target_processing(1, video_id='777', size=100, source_id='10')
+    assert events[-1] == 'processing_refresh'
+    state.record_target_processing(1, video_id='888', size=100, source_id='10')
+    assert events[-1] == 'processing'
+    state.record_target_processing(1, video_id='888', size=100, source_id='10')
+    state.persist_external('flush')
+    assert events[-1] == 'flush'
+    assert StateStore(state.path).snapshot(1)['previous_target_id'] == '888'
 
 
 @pytest.fixture(autouse=True)
