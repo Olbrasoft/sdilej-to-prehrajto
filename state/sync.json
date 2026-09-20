@@ -140264,13 +140264,6 @@
           "permanent": false,
           "source_id": "34714428",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:29.372149+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34714428",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:07.334201+00:00"
         },
         {
@@ -140279,6 +140272,13 @@
           "target_video_id": "29565186",
           "permanent": false,
           "attempted_at": "2026-09-20T18:48:57.075351+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714428",
+          "target_video_id": "29565186",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:59:17.795715+00:00"
         }
       ],
       "last_plan": {
@@ -140291,12 +140291,6 @@
         "target_video_id": "29565186",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T18:36:22.079776+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T19:59:15.442397+00:00",
-        "lease_expires_at": "2026-09-21T01:59:15.442397+00:00",
-        "run_id": "35529171597"
       }
     },
     "4465": {
@@ -140334,13 +140328,6 @@
           "permanent": false,
           "source_id": "20651180",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:29.915044+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20651180",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:08.578787+00:00"
         },
         {
@@ -140349,6 +140336,13 @@
           "reason": "Request failed for https://sdilej.cz/20651180/projekt-minulost-project-almanac-2015-sci-fi-cz-dab-1920x800p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T18:37:04.128504+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20651180",
+          "reason": "Request failed for https://sdilej.cz/20651180/projekt-minulost-project-almanac-2015-sci-fi-cz-dab-1920x800p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:00:04.373505+00:00"
         }
       ],
       "last_plan": {
@@ -140364,13 +140358,6 @@
           "permanent": false,
           "source_id": "19575167",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:29.100105+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "19575167",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:09.690750+00:00"
         },
         {
@@ -140379,6 +140366,13 @@
           "target_video_id": "29565191",
           "permanent": false,
           "attempted_at": "2026-09-20T18:49:04.914610+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19575167",
+          "target_video_id": "29565191",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:59:19.384572+00:00"
         }
       ],
       "last_plan": {
@@ -140400,13 +140394,6 @@
           "permanent": false,
           "source_id": "32575306",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:29.644826+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32575306",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:09.978715+00:00"
         },
         {
@@ -140415,6 +140402,13 @@
           "target_video_id": "29565202",
           "permanent": false,
           "attempted_at": "2026-09-20T18:49:00.843986+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32575306",
+          "target_video_id": "29565202",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:59:20.927098+00:00"
         }
       ],
       "last_plan": {
@@ -140463,6 +140457,12 @@
         "source_id": "28700869",
         "display_name": "Mea Culpa (2014) SD CZ Dabing",
         "planned_at": "2026-09-20T19:58:47.271347+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
+        "claimed_at": "2026-09-20T19:59:21.244902+00:00",
+        "lease_expires_at": "2026-09-21T01:59:21.244902+00:00",
+        "run_id": "35529171597"
       }
     },
     "4779": {
@@ -233346,5 +233346,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:59:15.738555+00:00"
+  "updated_at": "2026-09-20T20:00:04.373524+00:00"
 }
