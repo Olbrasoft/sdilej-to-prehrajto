@@ -56059,13 +56059,6 @@
           "source_id": "14676805",
           "target_video_id": "29431004",
           "permanent": false,
-          "attempted_at": "2026-09-20T03:05:54.408142+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14676805",
-          "target_video_id": "29431004",
-          "permanent": false,
           "attempted_at": "2026-09-20T03:45:49.292332+00:00"
         },
         {
@@ -56074,6 +56067,13 @@
           "target_video_id": "29431004",
           "permanent": false,
           "attempted_at": "2026-09-20T04:34:54.392582+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14676805",
+          "target_video_id": "29431004",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:06:30.649922+00:00"
         }
       ],
       "last_plan": {
@@ -56604,7 +56604,13 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-16T17:29:48.471426+00:00"
       },
-      "previous_target_id": "29432600"
+      "previous_target_id": "29432600",
+      "claim": {
+        "worker_id": "53720c2fe205426889e931ab46f413eb-shard-1",
+        "claimed_at": "2026-09-20T05:06:29.239734+00:00",
+        "lease_expires_at": "2026-09-20T11:06:29.239734+00:00",
+        "run_id": "35481903373"
+      }
     },
     "29134": {
       "attempts": []
@@ -139451,13 +139457,6 @@
           "permanent": false,
           "source_id": "33911076",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T10:10:08.802988+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33911076",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:52.541704+00:00"
         },
         {
@@ -139466,12 +139465,25 @@
           "source_id": "33911076",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:04:03.217560+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33911076",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:06:29.786789+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33911076",
         "display_name": "Jeho fotr, to je lotr! (2004) 4K CZ Dabing",
         "planned_at": "2026-09-20T05:05:00.090014+00:00"
+      },
+      "claim": {
+        "worker_id": "53720c2fe205426889e931ab46f413eb-shard-4",
+        "claimed_at": "2026-09-20T05:06:28.524899+00:00",
+        "lease_expires_at": "2026-09-20T11:06:28.524899+00:00",
+        "run_id": "35481903373"
       }
     },
     "4048": {
@@ -139531,13 +139543,6 @@
           "permanent": false,
           "source_id": "16418016",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T10:10:09.707104+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "16418016",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:52.180122+00:00"
         },
         {
@@ -139546,12 +139551,25 @@
           "source_id": "16418016",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:04:03.056892+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "16418016",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:06:30.418834+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16418016",
         "display_name": "Vetřelec³ (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:05:00.319448+00:00"
+      },
+      "claim": {
+        "worker_id": "53720c2fe205426889e931ab46f413eb-shard-5",
+        "claimed_at": "2026-09-20T05:06:28.985769+00:00",
+        "lease_expires_at": "2026-09-20T11:06:28.985769+00:00",
+        "run_id": "35481903373"
       }
     },
     "4767": {
@@ -139595,6 +139613,12 @@
         "source_id": "11995620",
         "display_name": "Hříšnice (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:05:00.548376+00:00"
+      },
+      "claim": {
+        "worker_id": "53720c2fe205426889e931ab46f413eb-shard-0",
+        "claimed_at": "2026-09-20T05:06:29.514623+00:00",
+        "lease_expires_at": "2026-09-20T11:06:29.514623+00:00",
+        "run_id": "35481903373"
       }
     },
     "4842": {
@@ -139652,13 +139676,6 @@
           "permanent": false,
           "source_id": "34667541",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T10:10:11.370172+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667541",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T16:45:54.640584+00:00"
         },
         {
@@ -139667,12 +139684,25 @@
           "source_id": "34667541",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:04:03.500908+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34667541",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:06:30.140840+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34667541",
         "display_name": "Gabby Petito a její příběh (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:05:00.776936+00:00"
+      },
+      "claim": {
+        "worker_id": "53720c2fe205426889e931ab46f413eb-shard-2",
+        "claimed_at": "2026-09-20T05:06:28.755126+00:00",
+        "lease_expires_at": "2026-09-20T11:06:28.755126+00:00",
+        "run_id": "35481903373"
       }
     },
     "26742": {
@@ -224990,5 +225020,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:06:26.172591+00:00"
+  "updated_at": "2026-09-20T05:06:30.649942+00:00"
 }
