@@ -144539,13 +144539,6 @@
           "permanent": false,
           "source_id": "11987157",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:09:06.794644+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11987157",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:01.426420+00:00"
         },
         {
@@ -144554,18 +144547,19 @@
           "reason": "Request failed for https://sdilej.cz/11987157/pohadka-stastna-hvezda-cz-2017-221839.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T20:34:36.963974+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11987157",
+          "target_video_id": "29568029",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:45:28.330655+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11987157",
         "display_name": "Šťastná hvězda (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-20T21:21:55.803654+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T21:38:15.866908+00:00",
-        "lease_expires_at": "2026-09-21T03:38:15.866908+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29568029",
       "prepared": {
@@ -233666,5 +233660,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:43:37.227936+00:00"
+  "updated_at": "2026-09-20T21:45:28.330674+00:00"
 }
