@@ -140292,13 +140292,6 @@
     "31870": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34714428",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:07.334201+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34714428",
           "target_video_id": "29565186",
@@ -140311,6 +140304,13 @@
           "target_video_id": "29565186",
           "permanent": false,
           "attempted_at": "2026-09-20T19:59:17.795715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714428",
+          "target_video_id": "29565186",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:03:49.359032+00:00"
         }
       ],
       "last_plan": {
@@ -140323,12 +140323,6 @@
         "target_video_id": "29565186",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T18:36:22.079776+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T21:03:43.802991+00:00",
-        "lease_expires_at": "2026-09-21T03:03:43.802991+00:00",
-        "run_id": "35529171597"
       }
     },
     "4465": {
@@ -140398,13 +140392,6 @@
     "19840": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "19575167",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:09.690750+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "19575167",
           "target_video_id": "29565191",
@@ -140417,6 +140404,13 @@
           "target_video_id": "29565191",
           "permanent": false,
           "attempted_at": "2026-09-20T19:59:19.384572+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19575167",
+          "target_video_id": "29565191",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:03:49.131386+00:00"
         }
       ],
       "last_plan": {
@@ -140429,12 +140423,6 @@
         "target_video_id": "29565191",
         "size_bytes": 3200000000,
         "prepared_at": "2026-09-20T18:36:34.029889+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
-        "claimed_at": "2026-09-20T21:03:43.453630+00:00",
-        "lease_expires_at": "2026-09-21T03:03:43.453630+00:00",
-        "run_id": "35529171597"
       }
     },
     "20451": {
@@ -140471,6 +140459,12 @@
         "target_video_id": "29565202",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-20T18:37:12.792869+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
+        "claimed_at": "2026-09-20T21:03:50.331788+00:00",
+        "lease_expires_at": "2026-09-21T03:03:50.331788+00:00",
+        "run_id": "35529171597"
       }
     },
     "13087": {
@@ -140507,6 +140501,12 @@
         "source_id": "28700869",
         "display_name": "Mea Culpa (2014) SD CZ Dabing",
         "planned_at": "2026-09-20T21:03:01.820628+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
+        "claimed_at": "2026-09-20T21:03:48.899981+00:00",
+        "lease_expires_at": "2026-09-21T03:03:48.899981+00:00",
+        "run_id": "35529171597"
       }
     },
     "4779": {
@@ -140663,16 +140663,10 @@
           "attempted_at": "2026-09-20T20:00:18.539049+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34910750",
-        "display_name": "Mise napříč (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T21:03:02.200530+00:00"
-      },
       "previous_target_id": "29565398",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565398",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-20T18:49:42.535157+00:00"
+        "uploaded_at": "2026-09-20T21:03:50.957152+00:00"
       }
     },
     "21287": {
@@ -140880,6 +140874,12 @@
         "target_video_id": "29566588",
         "size_bytes": 5763416064,
         "prepared_at": "2026-09-20T20:00:30.092733+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
+        "claimed_at": "2026-09-20T21:03:49.921550+00:00",
+        "lease_expires_at": "2026-09-21T03:03:49.921550+00:00",
+        "run_id": "35529171597"
       }
     },
     "18465": {
@@ -140972,7 +140972,7 @@
       "last_plan": {
         "source_id": "26060433",
         "display_name": "Luna (2017) 720p CZ Dabing",
-        "planned_at": "2026-09-20T19:58:50.186071+00:00"
+        "planned_at": "2026-09-20T21:03:50.670395+00:00"
       },
       "previous_target_id": "29565609",
       "prepared": {
@@ -233456,5 +233456,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:03:44.032865+00:00"
+  "updated_at": "2026-09-20T21:03:50.957170+00:00"
 }
