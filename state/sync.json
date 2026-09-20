@@ -91426,13 +91426,6 @@
           "permanent": false,
           "source_id": "34774647",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:39:56.714201+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34774647",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:21:32.997141+00:00"
         },
         {
@@ -91441,18 +91434,19 @@
           "reason": "Request failed for https://sdilej.cz/34774647/lajka-2017-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T16:56:14.572451+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34774647",
+          "target_video_id": "29564141",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:43:01.480313+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34774647",
         "display_name": "Lajka (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-20T17:34:05.457821+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-2",
-        "claimed_at": "2026-09-20T17:34:56.513462+00:00",
-        "lease_expires_at": "2026-09-20T23:34:56.513462+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29564141",
       "prepared": {
@@ -233226,5 +233220,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:41:14.197033+00:00"
+  "updated_at": "2026-09-20T17:43:01.480329+00:00"
 }
