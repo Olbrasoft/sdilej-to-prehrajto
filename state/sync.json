@@ -17319,13 +17319,6 @@
     "10969": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32024191",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T10:53:19.964344+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32024191",
           "reason": "Request failed for https://sdilej.cz/32024191/podivny-par-1968-cz-.mp4 (HTTP None)",
@@ -17338,18 +17331,19 @@
           "reason": "Request failed for https://sdilej.cz/32024191/podivny-par-1968-cz-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T14:03:35.171438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32024191",
+          "target_video_id": "29560876",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:59:15.408637+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32024191",
         "display_name": "Podivný pár (1968) 1080p CZ Dabing",
         "planned_at": "2026-09-20T14:49:20.647465+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T14:49:53.143408+00:00",
-        "lease_expires_at": "2026-09-20T20:49:53.143408+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29560876",
       "prepared": {
@@ -231783,5 +231777,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:58:52.043055+00:00"
+  "updated_at": "2026-09-20T14:59:15.408658+00:00"
 }
