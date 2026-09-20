@@ -145677,13 +145677,6 @@
           "permanent": false,
           "source_id": "34846123",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:05:08.681973+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34846123",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:19:45.650391+00:00"
         },
         {
@@ -145692,18 +145685,19 @@
           "source_id": "34846123",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:31.225350+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846123",
+          "target_video_id": "29568121",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:51:26.196703+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34846123",
         "display_name": "Tajemství polévky rámen (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-20T21:21:59.608802+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T21:43:05.074428+00:00",
-        "lease_expires_at": "2026-09-21T03:43:05.074428+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29568121",
       "prepared": {
@@ -146005,6 +145999,12 @@
         "source_id": "29198604",
         "display_name": "Amundsen (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-20T21:22:01.429678+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
+        "claimed_at": "2026-09-20T21:51:19.688581+00:00",
+        "lease_expires_at": "2026-09-21T03:51:19.688581+00:00",
+        "run_id": "35529171597"
       }
     },
     "6306": {
@@ -233700,5 +233700,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:51:14.235551+00:00"
+  "updated_at": "2026-09-20T21:51:26.196720+00:00"
 }
