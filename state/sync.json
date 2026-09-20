@@ -9593,13 +9593,6 @@
           "source_id": "18888145",
           "target_video_id": "29317508",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:26:21.388307+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "29317508",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:57:33.341682+00:00"
         },
         {
@@ -9608,6 +9601,13 @@
           "target_video_id": "29317508",
           "permanent": false,
           "attempted_at": "2026-09-20T05:29:41.684191+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "29317508",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:59:56.337274+00:00"
         }
       ],
       "last_plan": {
@@ -158121,13 +158121,6 @@
           "permanent": false,
           "source_id": "34521532",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:56:07.301188+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34521532",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:57:14.467872+00:00"
         },
         {
@@ -158136,23 +158129,29 @@
           "source_id": "34521532",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:59:34.236750+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34521532",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:59:55.882619+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34521532",
         "display_name": "Letíme (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:59:42.882097+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T05:59:54.931672+00:00",
+        "lease_expires_at": "2026-09-20T11:59:54.931672+00:00",
+        "run_id": "35481903373"
       }
     },
     "21864": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29443631",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:56:08.304980+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -158166,12 +158165,25 @@
           "source_id": "29443631",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:59:35.093690+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29443631",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:59:55.550843+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29443631",
         "display_name": "Náš muž Flint 2: Flint opět v akci (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:59:43.146049+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-3",
+        "claimed_at": "2026-09-20T05:59:54.647125+00:00",
+        "lease_expires_at": "2026-09-20T11:59:54.647125+00:00",
+        "run_id": "35481903373"
       }
     },
     "18995": {
@@ -158238,6 +158250,12 @@
         "source_id": "34697637",
         "display_name": "Anzio (1968) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:59:43.413931+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T05:59:55.200548+00:00",
+        "lease_expires_at": "2026-09-20T11:59:55.200548+00:00",
+        "run_id": "35481903373"
       }
     },
     "29627": {
@@ -231231,5 +231249,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:59:52.185111+00:00"
+  "updated_at": "2026-09-20T05:59:56.337299+00:00"
 }
