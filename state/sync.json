@@ -16410,13 +16410,6 @@
           "permanent": false,
           "source_id": "26230999",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:48:01.706288+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26230999",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:04.141974+00:00"
         },
         {
@@ -16425,18 +16418,19 @@
           "reason": "Request failed for https://sdilej.cz/26230999/cela-211-2009-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T13:00:50.221622+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26230999",
+          "target_video_id": "29559606",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:52:04.265662+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26230999",
         "display_name": "Cela 211: Vězeňské peklo (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-20T13:41:31.601819+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T13:41:57.172102+00:00",
-        "lease_expires_at": "2026-09-20T19:41:57.172102+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29559606",
       "prepared": {
@@ -231424,5 +231418,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:51:19.619764+00:00"
+  "updated_at": "2026-09-20T13:52:04.265678+00:00"
 }
