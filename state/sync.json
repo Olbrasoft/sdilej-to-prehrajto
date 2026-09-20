@@ -51976,13 +51976,6 @@
           "permanent": false,
           "source_id": "32106765",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:52:06.186361+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32106765",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:52:45.936187+00:00"
         },
         {
@@ -51991,18 +51984,19 @@
           "reason": "Request failed for https://sdilej.cz/32106765/velky-den-slecny-pettigrewove-2008-komedie-romanticky-czdab.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T14:39:57.215121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32106765",
+          "target_video_id": "29561516",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:19:01.833298+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32106765",
         "display_name": "Velký den slečny Pettigrewové (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-20T15:12:51.052962+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T15:13:36.280493+00:00",
-        "lease_expires_at": "2026-09-20T21:13:36.280493+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29561516",
       "prepared": {
@@ -232033,5 +232027,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:18:34.421385+00:00"
+  "updated_at": "2026-09-20T15:19:01.833315+00:00"
 }
