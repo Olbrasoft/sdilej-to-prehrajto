@@ -54360,13 +54360,6 @@
           "permanent": false,
           "source_id": "34989346",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:55:45.698525+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34989346",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:59:17.697897+00:00"
         },
         {
@@ -54375,18 +54368,19 @@
           "source_id": "34989346",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:34.199400+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34989346",
+          "target_video_id": "29560828",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:57:47.990107+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34989346",
         "display_name": "Kristian (1939) 1080p CZ Dabing",
         "planned_at": "2026-09-20T14:30:52.517878+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
-        "claimed_at": "2026-09-20T14:46:59.705856+00:00",
-        "lease_expires_at": "2026-09-20T20:46:59.705856+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29560828",
       "prepared": {
@@ -231758,5 +231752,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:57:15.456014+00:00"
+  "updated_at": "2026-09-20T14:57:47.990150+00:00"
 }
