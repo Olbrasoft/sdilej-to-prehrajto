@@ -56046,13 +56046,6 @@
           "permanent": false,
           "source_id": "28375423",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:55:57.438051+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28375423",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:59:27.564339+00:00"
         },
         {
@@ -56061,18 +56054,19 @@
           "source_id": "28375423",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:43.997684+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28375423",
+          "target_video_id": "29561407",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:10:58.234301+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28375423",
         "display_name": "Breezy (1973) SD CZ Dabing",
         "planned_at": "2026-09-20T14:51:48.070500+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T15:07:05.250777+00:00",
-        "lease_expires_at": "2026-09-20T21:07:05.250777+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29561407",
       "prepared": {
@@ -59018,13 +59012,6 @@
           "permanent": false,
           "source_id": "27669370",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:55:59.815291+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27669370",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:59:26.630901+00:00"
         },
         {
@@ -59033,6 +59020,14 @@
           "source_id": "27669370",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:20:04.557819+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "27669370",
+          "target_video_id": "29522196",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-20T15:10:52.457169+00:00"
         }
       ],
       "last_plan": {
@@ -59040,7 +59035,13 @@
         "display_name": "Bláznivá střela 2 a ½: Vůně strachu (1991) 4K CZ Dabing",
         "planned_at": "2026-09-20T14:51:52.476066+00:00"
       },
-      "previous_target_id": "29522196"
+      "previous_target_id": "29522196",
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T15:10:51.559297+00:00",
+        "lease_expires_at": "2026-09-20T21:10:51.559297+00:00",
+        "run_id": "35510972333"
+      }
     },
     "18861": {
       "attempts": []
@@ -59340,13 +59341,6 @@
           "source_id": "27567617",
           "target_video_id": "29141791",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:20:06.832847+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27567617",
-          "target_video_id": "29141791",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:51:13.756378+00:00"
         },
         {
@@ -59355,6 +59349,13 @@
           "target_video_id": "29141791",
           "permanent": false,
           "attempted_at": "2026-09-20T12:22:02.089384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27567617",
+          "target_video_id": "29141791",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:10:54.135807+00:00"
         }
       ],
       "last_plan": {
@@ -59898,13 +59899,6 @@
           "source_id": "27708681",
           "target_video_id": "29355276",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:20:07.555145+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27708681",
-          "target_video_id": "29355276",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:51:16.327782+00:00"
         },
         {
@@ -59913,6 +59907,13 @@
           "target_video_id": "29355276",
           "permanent": false,
           "attempted_at": "2026-09-20T12:22:02.666859+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27708681",
+          "target_video_id": "29355276",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:10:55.766749+00:00"
         }
       ],
       "last_plan": {
@@ -60334,13 +60335,6 @@
           "source_id": "33159343",
           "target_video_id": "29413258",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:20:07.251827+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33159343",
-          "target_video_id": "29413258",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:51:15.185038+00:00"
         },
         {
@@ -60349,6 +60343,13 @@
           "target_video_id": "29413258",
           "permanent": false,
           "attempted_at": "2026-09-20T12:22:03.174441+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33159343",
+          "target_video_id": "29413258",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:10:57.296284+00:00"
         }
       ],
       "last_plan": {
@@ -60640,7 +60641,13 @@
         "display_name": "Banáni (1971) 1080p CZ Dabing",
         "planned_at": "2026-09-20T14:51:53.854544+00:00"
       },
-      "previous_target_id": "29522513"
+      "previous_target_id": "29522513",
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T15:10:57.644032+00:00",
+        "lease_expires_at": "2026-09-20T21:10:57.644032+00:00",
+        "run_id": "35510972333"
+      }
     },
     "19162": {
       "attempts": []
@@ -231828,5 +231835,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:10:45.669486+00:00"
+  "updated_at": "2026-09-20T15:10:58.234318+00:00"
 }
