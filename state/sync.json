@@ -203759,7 +203759,15 @@
       "attempts": []
     },
     "21101": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34013293",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:51:33.765667+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34013293",
         "display_name": "Zlatíčka pro každého (2001) 1080p CZ Dabing",
@@ -203784,6 +203792,12 @@
         "source_id": "24764242",
         "display_name": "Samaritán (2022) 4K CZ Dabing",
         "planned_at": "2026-09-20T02:51:24.996931+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-1",
+        "claimed_at": "2026-09-20T02:51:34.200597+00:00",
+        "lease_expires_at": "2026-09-20T08:51:34.200597+00:00",
+        "run_id": "35481903373"
       }
     },
     "9631": {
@@ -203799,11 +203813,25 @@
       "attempts": []
     },
     "21137": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34818076",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:51:34.813322+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34818076",
         "display_name": "180 (2026) 1080p CZ Dabing",
         "planned_at": "2026-09-20T02:51:25.216301+00:00"
+      },
+      "claim": {
+        "worker_id": "bc9220c40b6c4c5ea6f3bfdd99284f42-shard-5",
+        "claimed_at": "2026-09-20T02:51:33.982685+00:00",
+        "lease_expires_at": "2026-09-20T08:51:33.982685+00:00",
+        "run_id": "35481903373"
       }
     },
     "7962": {
@@ -207628,16 +207656,10 @@
           "attempted_at": "2026-09-20T02:21:21.280291+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "21012399",
-        "display_name": "Šťastný Nový rok (2011) 720p CZ Dabing",
-        "planned_at": "2026-09-20T02:51:25.481546+00:00"
-      },
       "previous_target_id": "29540753",
-      "prepared": {
+      "upload": {
         "target_video_id": "29540753",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-19T23:08:28.811563+00:00"
+        "uploaded_at": "2026-09-20T02:51:36.578381+00:00"
       }
     },
     "24338": {
@@ -219968,5 +219990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T02:51:31.579828+00:00"
+  "updated_at": "2026-09-20T02:51:36.578398+00:00"
 }
