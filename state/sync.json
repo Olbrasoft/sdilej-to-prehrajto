@@ -23420,13 +23420,6 @@
     "1401": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14302057",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:56:43.619126+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "14302057",
           "target_video_id": "29559846",
@@ -23439,6 +23432,13 @@
           "target_video_id": "29559846",
           "permanent": false,
           "attempted_at": "2026-09-20T15:12:15.661843+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14302057",
+          "target_video_id": "29559846",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:54:26.811906+00:00"
         }
       ],
       "last_plan": {
@@ -23451,12 +23451,6 @@
         "target_video_id": "29559846",
         "size_bytes": 10500000000,
         "prepared_at": "2026-09-20T13:53:37.580419+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:54:23.389190+00:00",
-        "lease_expires_at": "2026-09-20T21:54:23.389190+00:00",
-        "run_id": "35510972333"
       }
     },
     "1469": {
@@ -23472,13 +23466,6 @@
           "permanent": false,
           "source_id": "34143566",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:55:43.069796+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34143566",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:56:50.251845+00:00"
         },
         {
@@ -23487,6 +23474,13 @@
           "target_video_id": "29559844",
           "permanent": false,
           "attempted_at": "2026-09-20T15:12:15.920090+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34143566",
+          "target_video_id": "29559844",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:54:29.386246+00:00"
         }
       ],
       "last_plan": {
@@ -23497,7 +23491,7 @@
       "previous_target_id": "29559844",
       "prepared": {
         "target_video_id": "29559844",
-        "size_bytes": 28964574358,
+        "size_bytes": 29000000000,
         "prepared_at": "2026-09-20T13:53:33.585385+00:00"
       }
     },
@@ -23676,16 +23670,10 @@
           "attempted_at": "2026-09-20T15:12:15.411892+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31312806",
-        "display_name": "Simpsonovi ve filmu (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T15:53:36.423675+00:00"
-      },
       "previous_target_id": "29560521",
-      "prepared": {
+      "upload": {
         "target_video_id": "29560521",
-        "size_bytes": 2000000000,
-        "prepared_at": "2026-09-20T14:31:02.552212+00:00"
+        "uploaded_at": "2026-09-20T15:54:29.759805+00:00"
       }
     },
     "1361": {
@@ -232357,5 +232345,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:54:24.740338+00:00"
+  "updated_at": "2026-09-20T15:54:29.759824+00:00"
 }
