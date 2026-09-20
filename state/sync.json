@@ -40179,13 +40179,6 @@
           "source_id": "27429679",
           "target_video_id": "29173920",
           "permanent": false,
-          "attempted_at": "2026-09-20T04:31:46.883604+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27429679",
-          "target_video_id": "29173920",
-          "permanent": false,
           "attempted_at": "2026-09-20T05:02:42.853721+00:00"
         },
         {
@@ -40194,6 +40187,13 @@
           "target_video_id": "29173920",
           "permanent": false,
           "attempted_at": "2026-09-20T05:33:54.379134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27429679",
+          "target_video_id": "29173920",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:04:11.209114+00:00"
         }
       ],
       "last_plan": {
@@ -40576,7 +40576,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T23:37:43.994455+00:00"
       },
-      "previous_target_id": "29173980"
+      "previous_target_id": "29173980",
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-5",
+        "claimed_at": "2026-09-20T06:04:09.583151+00:00",
+        "lease_expires_at": "2026-09-20T12:04:09.583151+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2112": {
       "attempts": []
@@ -192717,12 +192723,25 @@
           "source_id": "34558813",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T00:03:57.751445+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34558813",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T06:04:10.292680+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34558813",
         "display_name": "Casper a strašidelné Vánoce (2000) SD CZ Dabing",
         "planned_at": "2026-09-20T06:04:01.135815+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:04:09.349239+00:00",
+        "lease_expires_at": "2026-09-20T12:04:09.349239+00:00",
+        "run_id": "35481903373"
       }
     },
     "7202": {
@@ -192745,7 +192764,13 @@
       "last_plan": {
         "source_id": "34470226",
         "display_name": "Až skončíš se zachraňováním světa (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:02:35.505674+00:00"
+        "planned_at": "2026-09-20T06:04:05.990333+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-4",
+        "claimed_at": "2026-09-20T06:04:09.820407+00:00",
+        "lease_expires_at": "2026-09-20T12:04:09.820407+00:00",
+        "run_id": "35481903373"
       }
     },
     "22138": {
@@ -192768,7 +192793,13 @@
       "last_plan": {
         "source_id": "33744802",
         "display_name": "Vymítač kanibalů (1972) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:02:35.645939+00:00"
+        "planned_at": "2026-09-20T06:04:06.252552+00:00"
+      },
+      "claim": {
+        "worker_id": "1599f0c049b34c13bfb51d6b99e85b13-shard-0",
+        "claimed_at": "2026-09-20T06:04:10.566573+00:00",
+        "lease_expires_at": "2026-09-20T12:04:10.566573+00:00",
+        "run_id": "35481903373"
       }
     },
     "6328": {
@@ -192816,7 +192847,7 @@
       "last_plan": {
         "source_id": "27018262",
         "display_name": "Velký červený pes Clifford (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:02:35.785744+00:00"
+        "planned_at": "2026-09-20T06:04:06.493453+00:00"
       }
     },
     "8872": {
@@ -192839,7 +192870,7 @@
       "last_plan": {
         "source_id": "27404612",
         "display_name": "Organ Trail (2023) SD CZ Titulky",
-        "planned_at": "2026-09-20T00:02:35.925644+00:00"
+        "planned_at": "2026-09-20T06:04:06.729464+00:00"
       }
     },
     "6531": {
@@ -192865,7 +192896,7 @@
       "last_plan": {
         "source_id": "34522546",
         "display_name": "Rychle v balíku (1989) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:02:36.065745+00:00"
+        "planned_at": "2026-09-20T06:04:07.113501+00:00"
       }
     },
     "25510": {
@@ -192900,7 +192931,7 @@
       "last_plan": {
         "source_id": "6477718",
         "display_name": "Princ a já: Sloní dobrodužství (2010) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:02:36.205720+00:00"
+        "planned_at": "2026-09-20T06:04:07.349841+00:00"
       }
     },
     "32365": {
@@ -192926,7 +192957,7 @@
       "last_plan": {
         "source_id": "26851678",
         "display_name": "Pekelná maturita (2003) SD CZ Dabing",
-        "planned_at": "2026-09-20T00:02:36.348579+00:00"
+        "planned_at": "2026-09-20T06:04:07.586809+00:00"
       }
     },
     "30150": {
@@ -192952,7 +192983,7 @@
       "last_plan": {
         "source_id": "23019950",
         "display_name": "Domácí vězení (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:02:36.488009+00:00"
+        "planned_at": "2026-09-20T06:04:07.971749+00:00"
       }
     },
     "24135": {
@@ -192978,7 +193009,7 @@
       "last_plan": {
         "source_id": "33651463",
         "display_name": "Dívčí nápravná škola (1986) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T00:02:36.637444+00:00"
+        "planned_at": "2026-09-20T06:04:08.212225+00:00"
       }
     },
     "24673": {
@@ -193004,7 +193035,7 @@
       "last_plan": {
         "source_id": "30533459",
         "display_name": "Kanadská slanina (1995) 720p CZ Dabing",
-        "planned_at": "2026-09-20T00:02:36.776741+00:00"
+        "planned_at": "2026-09-20T06:04:08.712678+00:00"
       }
     },
     "16518": {
@@ -231939,5 +231970,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:04:03.791769+00:00"
+  "updated_at": "2026-09-20T06:04:11.209133+00:00"
 }
