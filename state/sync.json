@@ -18261,6 +18261,13 @@
           "target_video_id": "29564989",
           "permanent": false,
           "attempted_at": "2026-09-20T18:42:42.279188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29141975",
+          "target_video_id": "29564989",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:51:22.119253+00:00"
         }
       ],
       "last_plan": {
@@ -18273,12 +18280,6 @@
         "target_video_id": "29564989",
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-20T18:24:25.429737+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T19:51:19.205987+00:00",
-        "lease_expires_at": "2026-09-21T01:51:19.205987+00:00",
-        "run_id": "35529171597"
       }
     },
     "35156": {
@@ -18314,16 +18315,10 @@
           "attempted_at": "2026-09-20T19:19:44.747675+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34824709",
-        "display_name": "Laurence Anyways (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T19:50:57.033651+00:00"
-      },
       "previous_target_id": "29565536",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565536",
-        "size_bytes": 7472528721,
-        "prepared_at": "2026-09-20T18:59:01.148378+00:00"
+        "uploaded_at": "2026-09-20T19:51:23.917268+00:00"
       }
     },
     "29322": {
@@ -18723,13 +18718,6 @@
           "source_id": "30641618",
           "target_video_id": "29116000",
           "permanent": false,
-          "attempted_at": "2026-09-20T17:17:54.331646+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30641618",
-          "target_video_id": "29116000",
-          "permanent": false,
           "attempted_at": "2026-09-20T18:02:46.859928+00:00"
         },
         {
@@ -18738,6 +18726,13 @@
           "target_video_id": "29116000",
           "permanent": false,
           "attempted_at": "2026-09-20T18:41:40.117766+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30641618",
+          "target_video_id": "29116000",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:51:23.417764+00:00"
         }
       ],
       "last_plan": {
@@ -20020,7 +20015,13 @@
         "size_bytes": 16899999999,
         "prepared_at": "2026-09-05T03:43:09.521075+00:00"
       },
-      "previous_target_id": "29117207"
+      "previous_target_id": "29117207",
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
+        "claimed_at": "2026-09-20T19:51:23.655486+00:00",
+        "lease_expires_at": "2026-09-21T01:51:23.655486+00:00",
+        "run_id": "35529171597"
+      }
     },
     "25815": {
       "attempts": []
@@ -233393,5 +233394,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:51:20.094786+00:00"
+  "updated_at": "2026-09-20T19:51:23.917283+00:00"
 }
