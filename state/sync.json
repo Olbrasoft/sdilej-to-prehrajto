@@ -177658,13 +177658,6 @@
           "source_id": "26550838",
           "target_video_id": "29531613",
           "permanent": false,
-          "attempted_at": "2026-09-19T23:06:03.558918+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26550838",
-          "target_video_id": "29531613",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:36:57.937711+00:00"
         },
         {
@@ -177673,6 +177666,13 @@
           "target_video_id": "29531613",
           "permanent": false,
           "attempted_at": "2026-09-20T00:09:59.430343+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26550838",
+          "target_video_id": "29531613",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:41:46.643385+00:00"
         }
       ],
       "last_plan": {
@@ -177685,12 +177685,6 @@
         "target_video_id": "29531613",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-19T15:06:08.000243+00:00"
-      },
-      "claim": {
-        "worker_id": "60be1b8ba7494ad2b87310a5e11dfeb4-shard-3",
-        "claimed_at": "2026-09-20T00:41:42.996276+00:00",
-        "lease_expires_at": "2026-09-20T06:41:42.996276+00:00",
-        "run_id": "35467299794"
       }
     },
     "26630": {
@@ -190835,6 +190829,13 @@
           "source_id": "34731482",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:33:50.135171+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34731482",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:41:46.050532+00:00"
         }
       ],
       "last_plan": {
@@ -190863,6 +190864,13 @@
           "source_id": "28109669",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T18:33:50.333835+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28109669",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:41:46.202043+00:00"
         }
       ],
       "last_plan": {
@@ -190955,6 +190963,12 @@
         "source_id": "31712779",
         "display_name": "Taková moje láska (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T00:41:32.158335+00:00"
+      },
+      "claim": {
+        "worker_id": "60be1b8ba7494ad2b87310a5e11dfeb4-shard-4",
+        "claimed_at": "2026-09-20T00:41:46.423377+00:00",
+        "lease_expires_at": "2026-09-20T06:41:46.423377+00:00",
+        "run_id": "35467299794"
       }
     },
     "20503": {
@@ -222973,5 +222987,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:41:44.100888+00:00"
+  "updated_at": "2026-09-20T00:41:46.643397+00:00"
 }
