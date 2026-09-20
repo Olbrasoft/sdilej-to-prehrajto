@@ -31650,13 +31650,6 @@
           "source_id": "29638089",
           "target_video_id": "29387970",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:48:20.065637+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29638089",
-          "target_video_id": "29387970",
-          "permanent": false,
           "attempted_at": "2026-09-20T14:09:35.426053+00:00"
         },
         {
@@ -31665,6 +31658,13 @@
           "target_video_id": "29387970",
           "permanent": false,
           "attempted_at": "2026-09-20T14:51:25.299225+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29638089",
+          "target_video_id": "29387970",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:55:31.990979+00:00"
         }
       ],
       "last_plan": {
@@ -31677,13 +31677,7 @@
         "size_bytes": 17700000000,
         "prepared_at": "2026-09-14T19:17:37.564902+00:00"
       },
-      "previous_target_id": "29387970",
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:55:05.491960+00:00",
-        "lease_expires_at": "2026-09-20T21:55:05.491960+00:00",
-        "run_id": "35510972333"
-      }
+      "previous_target_id": "29387970"
     },
     "11864": {
       "attempts": []
@@ -35779,13 +35773,6 @@
     "37389": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34526343",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:13:43.630071+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34526343",
           "target_video_id": "29560185",
@@ -35798,6 +35785,13 @@
           "target_video_id": "29560185",
           "permanent": false,
           "attempted_at": "2026-09-20T14:51:58.324600+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34526343",
+          "target_video_id": "29560185",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:55:31.736632+00:00"
         }
       ],
       "last_plan": {
@@ -35810,12 +35804,6 @@
         "target_video_id": "29560185",
         "size_bytes": 2009999999,
         "prepared_at": "2026-09-20T14:10:02.022111+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
-        "claimed_at": "2026-09-20T15:55:23.510649+00:00",
-        "lease_expires_at": "2026-09-20T21:55:23.510649+00:00",
-        "run_id": "35510972333"
       }
     },
     "21622": {
@@ -68069,13 +68057,6 @@
           "permanent": false,
           "source_id": "34757126",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:56:27.061923+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34757126",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:58:53.158318+00:00"
         },
         {
@@ -68084,18 +68065,19 @@
           "source_id": "34757126",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:20:26.347371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757126",
+          "target_video_id": "29562210",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:55:32.243399+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34757126",
         "display_name": "Nikdo nic neví (1947) 1080p CZ Dabing",
         "planned_at": "2026-09-20T15:14:07.629789+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T15:49:21.920666+00:00",
-        "lease_expires_at": "2026-09-20T21:49:21.920666+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29562210",
       "prepared": {
@@ -232339,5 +232321,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:55:29.799308+00:00"
+  "updated_at": "2026-09-20T15:55:32.243417+00:00"
 }
