@@ -20149,13 +20149,6 @@
           "source_id": "30039193",
           "target_video_id": "29118434",
           "permanent": false,
-          "attempted_at": "2026-09-20T00:23:39.405323+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30039193",
-          "target_video_id": "29118434",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:54:14.837857+00:00"
         },
         {
@@ -20164,6 +20157,13 @@
           "target_video_id": "29118434",
           "permanent": false,
           "attempted_at": "2026-09-20T01:24:48.738129+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30039193",
+          "target_video_id": "29118434",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:55:23.838525+00:00"
         }
       ],
       "last_plan": {
@@ -20176,13 +20176,7 @@
         "size_bytes": 19100000000,
         "prepared_at": "2026-09-05T03:44:00.245161+00:00"
       },
-      "previous_target_id": "29118434",
-      "claim": {
-        "worker_id": "3ca0a955ace744c38d22da673e23bed2-shard-2",
-        "claimed_at": "2026-09-20T01:55:15.359048+00:00",
-        "lease_expires_at": "2026-09-20T07:55:15.359048+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29118434"
     },
     "1109": {
       "attempts": []
@@ -23261,7 +23255,13 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-09-05T17:30:30.502734+00:00"
       },
-      "previous_target_id": "29125921"
+      "previous_target_id": "29125921",
+      "claim": {
+        "worker_id": "3ca0a955ace744c38d22da673e23bed2-shard-0",
+        "claimed_at": "2026-09-20T01:55:23.689239+00:00",
+        "lease_expires_at": "2026-09-20T07:55:23.689239+00:00",
+        "run_id": "35467299794"
+      }
     },
     "1395": {
       "attempts": [
@@ -171414,6 +171414,12 @@
         "source_id": "29827464",
         "display_name": "The Nameless Days (2022) 720p CZ Titulky",
         "planned_at": "2026-09-20T01:55:10.964915+00:00"
+      },
+      "claim": {
+        "worker_id": "3ca0a955ace744c38d22da673e23bed2-shard-5",
+        "claimed_at": "2026-09-20T01:55:23.542390+00:00",
+        "lease_expires_at": "2026-09-20T07:55:23.542390+00:00",
+        "run_id": "35467299794"
       }
     },
     "7201": {
@@ -226870,5 +226876,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:55:21.711304+00:00"
+  "updated_at": "2026-09-20T01:55:23.838538+00:00"
 }
