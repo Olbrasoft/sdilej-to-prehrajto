@@ -50765,11 +50765,25 @@
       }
     },
     "2279": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29493194",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T00:56:59.389037+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29493194",
         "display_name": "Rose Island (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-20T00:55:41.360277+00:00"
+      },
+      "claim": {
+        "worker_id": "75fb9d2774a44a378f684fe93cfdbfc4-shard-1",
+        "claimed_at": "2026-09-20T00:56:58.699057+00:00",
+        "lease_expires_at": "2026-09-20T06:56:58.699057+00:00",
+        "run_id": "35467299794"
       }
     },
     "32603": {
@@ -223983,5 +223997,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:56:56.732295+00:00"
+  "updated_at": "2026-09-20T00:56:59.389048+00:00"
 }
