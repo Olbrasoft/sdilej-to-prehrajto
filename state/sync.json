@@ -16538,13 +16538,6 @@
           "permanent": false,
           "source_id": "32045179",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:45:45.375723+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32045179",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:47:59.533512+00:00"
         },
         {
@@ -16553,18 +16546,19 @@
           "source_id": "32045179",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:06.220303+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32045179",
+          "target_video_id": "29558615",
+          "permanent": false,
+          "attempted_at": "2026-09-20T13:09:17.774193+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32045179",
         "display_name": "Transformers Jedna (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-20T12:52:10.956854+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T13:01:21.058417+00:00",
-        "lease_expires_at": "2026-09-20T19:01:21.058417+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29558615",
       "prepared": {
@@ -231097,5 +231091,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T13:08:52.032416+00:00"
+  "updated_at": "2026-09-20T13:09:17.774211+00:00"
 }
