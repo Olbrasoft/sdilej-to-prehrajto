@@ -140596,13 +140596,6 @@
           "permanent": false,
           "source_id": "34910750",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:32.302519+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34910750",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:12.447959+00:00"
         },
         {
@@ -140611,6 +140604,13 @@
           "target_video_id": "29565398",
           "permanent": false,
           "attempted_at": "2026-09-20T18:56:18.724266+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34910750",
+          "target_video_id": "29565398",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:00:18.539049+00:00"
         }
       ],
       "last_plan": {
@@ -140621,14 +140621,8 @@
       "previous_target_id": "29565398",
       "prepared": {
         "target_video_id": "29565398",
-        "size_bytes": 2320676829,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T18:49:42.535157+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T20:00:16.186117+00:00",
-        "lease_expires_at": "2026-09-21T02:00:16.186117+00:00",
-        "run_id": "35529171597"
       }
     },
     "21287": {
@@ -140683,16 +140677,10 @@
           "attempted_at": "2026-09-20T18:58:19.571755+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27944024",
-        "display_name": "Prosíme přetočte (2008) SD CZ Dabing",
-        "planned_at": "2026-09-20T19:58:48.491505+00:00"
-      },
       "previous_target_id": "29565461",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565461",
-        "size_bytes": 1644027020,
-        "prepared_at": "2026-09-20T18:53:51.475107+00:00"
+        "uploaded_at": "2026-09-20T20:00:20.032341+00:00"
       }
     },
     "24850": {
@@ -140738,6 +140726,12 @@
         "target_video_id": "29565464",
         "size_bytes": 3887962736,
         "prepared_at": "2026-09-20T18:54:02.453210+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
+        "claimed_at": "2026-09-20T20:00:19.158679+00:00",
+        "lease_expires_at": "2026-09-21T02:00:19.158679+00:00",
+        "run_id": "35529171597"
       }
     },
     "14498": {
@@ -233334,5 +233328,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:00:16.502351+00:00"
+  "updated_at": "2026-09-20T20:00:20.032360+00:00"
 }
