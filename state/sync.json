@@ -150800,7 +150800,13 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-10T17:31:54.308404+00:00"
       },
-      "previous_target_id": "29278404"
+      "previous_target_id": "29278404",
+      "claim": {
+        "worker_id": "8f3a43d960fa41edab7b38efac9efbdb-shard-5",
+        "claimed_at": "2026-09-20T04:00:00.388828+00:00",
+        "lease_expires_at": "2026-09-20T10:00:00.388828+00:00",
+        "run_id": "35481903373"
+      }
     },
     "23758": {
       "attempts": []
@@ -151272,13 +151278,6 @@
           "source_id": "34531517",
           "target_video_id": "29274759",
           "permanent": false,
-          "attempted_at": "2026-09-20T01:42:53.583477+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34531517",
-          "target_video_id": "29274759",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:14:38.553283+00:00"
         },
         {
@@ -151287,6 +151286,13 @@
           "target_video_id": "29274759",
           "permanent": false,
           "attempted_at": "2026-09-20T02:47:11.401823+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34531517",
+          "target_video_id": "29274759",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:00:00.608588+00:00"
         }
       ],
       "last_plan": {
@@ -151299,13 +151305,7 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-09-10T14:37:35.998760+00:00"
       },
-      "previous_target_id": "29274759",
-      "claim": {
-        "worker_id": "8f3a43d960fa41edab7b38efac9efbdb-shard-3",
-        "claimed_at": "2026-09-20T03:59:53.733768+00:00",
-        "lease_expires_at": "2026-09-20T09:59:53.733768+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29274759"
     },
     "32095": {
       "attempts": []
@@ -156042,7 +156042,13 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-11T06:22:04.212595+00:00"
       },
-      "previous_target_id": "29292898"
+      "previous_target_id": "29292898",
+      "claim": {
+        "worker_id": "8f3a43d960fa41edab7b38efac9efbdb-shard-1",
+        "claimed_at": "2026-09-20T03:59:59.948780+00:00",
+        "lease_expires_at": "2026-09-20T09:59:59.948780+00:00",
+        "run_id": "35481903373"
+      }
     },
     "8646": {
       "attempts": [
@@ -176104,6 +176110,12 @@
         "source_id": "12217793",
         "display_name": "Madness in the Method (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-20T03:59:08.433367+00:00"
+      },
+      "claim": {
+        "worker_id": "8f3a43d960fa41edab7b38efac9efbdb-shard-4",
+        "claimed_at": "2026-09-20T04:00:00.171310+00:00",
+        "lease_expires_at": "2026-09-20T10:00:00.171310+00:00",
+        "run_id": "35481903373"
       }
     },
     "23976": {
@@ -220696,5 +220708,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T03:59:57.918137+00:00"
+  "updated_at": "2026-09-20T04:00:00.608606+00:00"
 }
