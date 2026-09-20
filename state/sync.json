@@ -142889,6 +142889,12 @@
         "source_id": "34772109",
         "display_name": "Alien Apocalypse (2023) SD CZ Titulky",
         "planned_at": "2026-09-20T21:03:59.543371+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
+        "claimed_at": "2026-09-20T21:04:42.532363+00:00",
+        "lease_expires_at": "2026-09-21T03:04:42.532363+00:00",
+        "run_id": "35529171597"
       }
     },
     "4793": {
@@ -142965,13 +142971,6 @@
           "permanent": false,
           "source_id": "19617208",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:38.508673+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "19617208",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:45.842966+00:00"
         },
         {
@@ -142980,6 +142979,13 @@
           "target_video_id": "29566293",
           "permanent": false,
           "attempted_at": "2026-09-20T19:51:46.361505+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19617208",
+          "target_video_id": "29566293",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:04:42.254676+00:00"
         }
       ],
       "last_plan": {
@@ -142990,14 +142996,8 @@
       "previous_target_id": "29566293",
       "prepared": {
         "target_video_id": "29566293",
-        "size_bytes": 3912283990,
+        "size_bytes": 3900000000,
         "prepared_at": "2026-09-20T19:41:37.181315+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-20T21:04:38.166530+00:00",
-        "lease_expires_at": "2026-09-21T03:04:38.166530+00:00",
-        "run_id": "35529171597"
       }
     },
     "11194": {
@@ -143101,6 +143101,12 @@
         "target_video_id": "29566865",
         "size_bytes": 2482431755,
         "prepared_at": "2026-09-20T20:19:54.134679+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
+        "claimed_at": "2026-09-20T21:04:43.111123+00:00",
+        "lease_expires_at": "2026-09-21T03:04:43.111123+00:00",
+        "run_id": "35529171597"
       }
     },
     "8130": {
@@ -143133,16 +143139,10 @@
           "attempted_at": "2026-09-20T19:50:33.710981+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34680316",
-        "display_name": "Ohnisko požáru (2002) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T21:04:00.321495+00:00"
-      },
       "previous_target_id": "29566335",
-      "prepared": {
+      "upload": {
         "target_video_id": "29566335",
-        "size_bytes": 2564998528,
-        "prepared_at": "2026-09-20T19:43:49.507382+00:00"
+        "uploaded_at": "2026-09-20T21:04:44.053208+00:00"
       }
     },
     "33051": {
@@ -233438,5 +233438,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:04:40.407744+00:00"
+  "updated_at": "2026-09-20T21:04:44.053226+00:00"
 }
