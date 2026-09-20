@@ -67802,13 +67802,6 @@
     "12469": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33705536",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:20:25.494515+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33705536",
           "reason": "Request failed for https://sdilej.cz/33705536/konec-agenta-w4c-prostrednictvim-psa-pana-foustky-1967-1080p.mp4 (HTTP None)",
@@ -67821,6 +67814,13 @@
           "target_video_id": "29563221",
           "permanent": false,
           "attempted_at": "2026-09-20T16:41:32.724100+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33705536",
+          "target_video_id": "29563221",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:21:33.873202+00:00"
         }
       ],
       "last_plan": {
@@ -67831,7 +67831,7 @@
       "previous_target_id": "29563221",
       "prepared": {
         "target_video_id": "29563221",
-        "size_bytes": 2068149360,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-20T16:36:19.892864+00:00"
       }
     },
@@ -67911,13 +67911,6 @@
     "2211": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34648826",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:20:26.589952+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34648826",
           "reason": "Request failed for https://sdilej.cz/34648826/nema-tajemstvi-2023-cz-dabing.mp4 (HTTP None)",
@@ -67930,6 +67923,13 @@
           "reason": "Request failed for https://sdilej.cz/34648826/nema-tajemstvi-2023-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T16:37:04.111466+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34648826",
+          "reason": "Request failed for https://sdilej.cz/34648826/nema-tajemstvi-2023-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T17:22:19.882609+00:00"
         }
       ],
       "last_plan": {
@@ -233004,5 +233004,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T17:21:30.695214+00:00"
+  "updated_at": "2026-09-20T17:22:19.882630+00:00"
 }
