@@ -66224,13 +66224,6 @@
           "source_id": "26060381",
           "target_video_id": "29275892",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:20:22.677435+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26060381",
-          "target_video_id": "29275892",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:51:26.970633+00:00"
         },
         {
@@ -66239,6 +66232,13 @@
           "target_video_id": "29275892",
           "permanent": false,
           "attempted_at": "2026-09-20T12:22:13.619238+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26060381",
+          "target_video_id": "29275892",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:24:52.401113+00:00"
         }
       ],
       "last_plan": {
@@ -66301,7 +66301,15 @@
       }
     },
     "25798": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30308791",
+          "reason": "Request failed for https://sdilej.cz/30308791/a-bude-hur-2007-hd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:25:38.669402+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30308791",
         "display_name": "...a bude hůř (2007) SD CZ Dabing",
@@ -232105,5 +232113,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:24:44.919766+00:00"
+  "updated_at": "2026-09-20T15:25:38.669420+00:00"
 }
