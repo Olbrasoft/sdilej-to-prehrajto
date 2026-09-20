@@ -2212,13 +2212,6 @@
           "source_id": "34375126",
           "target_video_id": "29206443",
           "permanent": false,
-          "attempted_at": "2026-09-20T03:36:21.275699+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34375126",
-          "target_video_id": "29206443",
-          "permanent": false,
           "attempted_at": "2026-09-20T04:25:25.358119+00:00"
         },
         {
@@ -2227,6 +2220,13 @@
           "target_video_id": "29206443",
           "permanent": false,
           "attempted_at": "2026-09-20T04:55:43.697773+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34375126",
+          "target_video_id": "29206443",
+          "permanent": false,
+          "attempted_at": "2026-09-20T05:26:21.592110+00:00"
         }
       ],
       "last_plan": {
@@ -2239,13 +2239,7 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T06:48:33.321229+00:00"
       },
-      "previous_target_id": "29206443",
-      "claim": {
-        "worker_id": "f5528455e41645be9777a26aca34d558-shard-2",
-        "claimed_at": "2026-09-20T05:26:16.861608+00:00",
-        "lease_expires_at": "2026-09-20T11:26:16.861608+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29206443"
     },
     "11126": {
       "attempts": [
@@ -145344,13 +145338,6 @@
           "permanent": false,
           "source_id": "12884332",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T10:58:41.720400+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12884332",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:29.543106+00:00"
         },
         {
@@ -145359,6 +145346,13 @@
           "source_id": "12884332",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:24:33.732599+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12884332",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:26:21.312904+00:00"
         }
       ],
       "last_plan": {
@@ -145557,13 +145551,6 @@
           "permanent": false,
           "source_id": "26803391",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T11:16:23.720259+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26803391",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T17:18:32.396447+00:00"
         },
         {
@@ -145572,6 +145559,13 @@
           "source_id": "26803391",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T23:24:35.926126+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26803391",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T05:26:20.401656+00:00"
         }
       ],
       "last_plan": {
@@ -145654,6 +145648,12 @@
         "source_id": "25906237",
         "display_name": "Srdce vítězů (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:25:46.217483+00:00"
+      },
+      "claim": {
+        "worker_id": "f5528455e41645be9777a26aca34d558-shard-5",
+        "claimed_at": "2026-09-20T05:26:20.627448+00:00",
+        "lease_expires_at": "2026-09-20T11:26:20.627448+00:00",
+        "run_id": "35481903373"
       }
     },
     "27706": {
@@ -145723,6 +145723,12 @@
         "source_id": "29871143",
         "display_name": "Confucius (2010) SD CZ Titulky",
         "planned_at": "2026-09-20T05:25:46.445114+00:00"
+      },
+      "claim": {
+        "worker_id": "f5528455e41645be9777a26aca34d558-shard-1",
+        "claimed_at": "2026-09-20T05:26:20.860179+00:00",
+        "lease_expires_at": "2026-09-20T11:26:20.860179+00:00",
+        "run_id": "35481903373"
       }
     },
     "5053": {
@@ -145794,6 +145800,12 @@
         "source_id": "34523486",
         "display_name": "Cesta za Vánoční hvězdou (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-20T05:25:46.672156+00:00"
+      },
+      "claim": {
+        "worker_id": "f5528455e41645be9777a26aca34d558-shard-0",
+        "claimed_at": "2026-09-20T05:26:21.087236+00:00",
+        "lease_expires_at": "2026-09-20T11:26:21.087236+00:00",
+        "run_id": "35481903373"
       }
     },
     "20717": {
@@ -227396,5 +227408,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T05:26:18.304146+00:00"
+  "updated_at": "2026-09-20T05:26:21.592130+00:00"
 }
