@@ -17374,13 +17374,6 @@
           "permanent": false,
           "source_id": "30780685",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:48:05.410486+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30780685",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T10:53:20.983971+00:00"
         },
         {
@@ -17389,6 +17382,13 @@
           "target_video_id": "29559096",
           "permanent": false,
           "attempted_at": "2026-09-20T13:27:02.520744+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780685",
+          "target_video_id": "29559096",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:03:43.177475+00:00"
         }
       ],
       "last_plan": {
@@ -17399,7 +17399,7 @@
       "previous_target_id": "29559096",
       "prepared": {
         "target_video_id": "29559096",
-        "size_bytes": 2304316540,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T13:19:59.577867+00:00"
       }
     },
@@ -17438,16 +17438,10 @@
           "attempted_at": "2026-09-20T13:28:20.929619+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34738453",
-        "display_name": "Fed Up (2014) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T13:59:30.532783+00:00"
-      },
       "previous_target_id": "29559122",
-      "prepared": {
+      "upload": {
         "target_video_id": "29559122",
-        "size_bytes": 2594255170,
-        "prepared_at": "2026-09-20T13:20:47.088802+00:00"
+        "uploaded_at": "2026-09-20T14:03:44.618611+00:00"
       }
     },
     "32479": {
@@ -231480,5 +231474,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:03:35.171457+00:00"
+  "updated_at": "2026-09-20T14:03:44.618624+00:00"
 }
