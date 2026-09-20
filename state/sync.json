@@ -141278,13 +141278,6 @@
           "permanent": false,
           "source_id": "25586153",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:37.909119+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25586153",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:18.014308+00:00"
         },
         {
@@ -141293,18 +141286,19 @@
           "reason": "Request failed for https://sdilej.cz/25586153/vrazdy.odvedle.falesne.obvineni-framed.for.murder.a.fixer.upper.mystery.2017.1080p.hdtv.x264.mp2.2.0.cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T19:12:06.512159+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25586153",
+          "reason": "Request failed for https://sdilej.cz/25586153/vrazdy.odvedle.falesne.obvineni-framed.for.murder.a.fixer.upper.mystery.2017.1080p.hdtv.x264.mp2.2.0.cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:02:06.312456+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25586153",
         "display_name": "Framed (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:58:51.877268+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T20:01:17.891238+00:00",
-        "lease_expires_at": "2026-09-21T02:01:17.891238+00:00",
-        "run_id": "35529171597"
       }
     },
     "4430": {
@@ -233302,5 +233296,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:02:00.609880+00:00"
+  "updated_at": "2026-09-20T20:02:06.312473+00:00"
 }
