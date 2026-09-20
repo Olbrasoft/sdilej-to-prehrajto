@@ -6049,13 +6049,6 @@
           "source_id": "34379531",
           "target_video_id": "29196549",
           "permanent": false,
-          "attempted_at": "2026-09-20T02:22:49.346031+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34379531",
-          "target_video_id": "29196549",
-          "permanent": false,
           "attempted_at": "2026-09-20T02:53:30.075467+00:00"
         },
         {
@@ -6064,6 +6057,13 @@
           "target_video_id": "29196549",
           "permanent": false,
           "attempted_at": "2026-09-20T03:36:45.080056+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34379531",
+          "target_video_id": "29196549",
+          "permanent": false,
+          "attempted_at": "2026-09-20T04:25:57.988286+00:00"
         }
       ],
       "last_plan": {
@@ -6076,13 +6076,7 @@
         "size_bytes": 42900000000,
         "prepared_at": "2026-09-07T20:17:35.671910+00:00"
       },
-      "previous_target_id": "29196549",
-      "claim": {
-        "worker_id": "4282f65b02a34468a3b17eac10ca5258-shard-3",
-        "claimed_at": "2026-09-20T04:25:46.596111+00:00",
-        "lease_expires_at": "2026-09-20T10:25:46.596111+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29196549"
     },
     "32992": {
       "attempts": []
@@ -7190,7 +7184,13 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-09-08T08:26:14.766354+00:00"
       },
-      "previous_target_id": "29208687"
+      "previous_target_id": "29208687",
+      "claim": {
+        "worker_id": "4282f65b02a34468a3b17eac10ca5258-shard-1",
+        "claimed_at": "2026-09-20T04:25:57.764456+00:00",
+        "lease_expires_at": "2026-09-20T10:25:57.764456+00:00",
+        "run_id": "35481903373"
+      }
     },
     "21748": {
       "attempts": [
@@ -222368,5 +222368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:25:55.693348+00:00"
+  "updated_at": "2026-09-20T04:25:57.988305+00:00"
 }
