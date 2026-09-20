@@ -13954,13 +13954,6 @@
           "source_id": "30149277",
           "target_video_id": "29335601",
           "permanent": false,
-          "attempted_at": "2026-09-19T22:50:00.435312+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30149277",
-          "target_video_id": "29335601",
-          "permanent": false,
           "attempted_at": "2026-09-19T23:21:49.396826+00:00"
         },
         {
@@ -13969,6 +13962,13 @@
           "target_video_id": "29335601",
           "permanent": false,
           "attempted_at": "2026-09-19T23:52:11.573431+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30149277",
+          "target_video_id": "29335601",
+          "permanent": false,
+          "attempted_at": "2026-09-20T00:23:01.702842+00:00"
         }
       ],
       "last_plan": {
@@ -13981,13 +13981,7 @@
         "size_bytes": 9900000000,
         "prepared_at": "2026-09-13T01:55:43.908501+00:00"
       },
-      "previous_target_id": "29335601",
-      "claim": {
-        "worker_id": "3dbfeca50e304f55b4e572e90e528d75-shard-0",
-        "claimed_at": "2026-09-20T00:22:51.545823+00:00",
-        "lease_expires_at": "2026-09-20T06:22:51.545823+00:00",
-        "run_id": "35467299794"
-      }
+      "previous_target_id": "29335601"
     },
     "801": {
       "attempts": [
@@ -14883,7 +14877,13 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-13T02:27:33.040894+00:00"
       },
-      "previous_target_id": "29336236"
+      "previous_target_id": "29336236",
+      "claim": {
+        "worker_id": "3dbfeca50e304f55b4e572e90e528d75-shard-1",
+        "claimed_at": "2026-09-20T00:23:01.554958+00:00",
+        "lease_expires_at": "2026-09-20T06:23:01.554958+00:00",
+        "run_id": "35467299794"
+      }
     },
     "823": {
       "attempts": [
@@ -221845,5 +221845,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T00:22:59.740102+00:00"
+  "updated_at": "2026-09-20T00:23:01.702854+00:00"
 }
