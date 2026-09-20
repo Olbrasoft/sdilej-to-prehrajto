@@ -140979,13 +140979,6 @@
     "12294": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34205894",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:15.678730+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34205894",
           "target_video_id": "29565610",
@@ -140998,6 +140991,13 @@
           "target_video_id": "29565610",
           "permanent": false,
           "attempted_at": "2026-09-20T20:00:40.387180+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34205894",
+          "target_video_id": "29565610",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:04:14.452995+00:00"
         }
       ],
       "last_plan": {
@@ -141010,12 +141010,6 @@
         "target_video_id": "29565610",
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-20T19:03:41.168172+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-20T21:04:07.544380+00:00",
-        "lease_expires_at": "2026-09-21T03:04:07.544380+00:00",
-        "run_id": "35529171597"
       }
     },
     "9603": {
@@ -141033,13 +141027,6 @@
     "29385": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32832255",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:24:16.891759+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32832255",
           "reason": "Request failed for https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv (HTTP None)",
@@ -141052,6 +141039,13 @@
           "target_video_id": "29566591",
           "permanent": false,
           "attempted_at": "2026-09-20T20:12:06.862487+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32832255",
+          "target_video_id": "29566591",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:04:14.704698+00:00"
         }
       ],
       "last_plan": {
@@ -141062,14 +141056,8 @@
       "previous_target_id": "29566591",
       "prepared": {
         "target_video_id": "29566591",
-        "size_bytes": 3685242641,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-20T20:00:44.084840+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
-        "claimed_at": "2026-09-20T21:04:08.022851+00:00",
-        "lease_expires_at": "2026-09-21T03:04:08.022851+00:00",
-        "run_id": "35529171597"
       }
     },
     "34188": {
@@ -141163,22 +141151,10 @@
           "attempted_at": "2026-09-20T20:01:11.017568+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26654258",
-        "display_name": "Tlumočnice (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T21:03:55.899793+00:00"
-      },
       "previous_target_id": "29565622",
-      "prepared": {
+      "upload": {
         "target_video_id": "29565622",
-        "size_bytes": 2700000000,
-        "prepared_at": "2026-09-20T19:04:22.909824+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T21:04:07.777149+00:00",
-        "lease_expires_at": "2026-09-21T03:04:07.777149+00:00",
-        "run_id": "35529171597"
+        "uploaded_at": "2026-09-20T21:04:15.440735+00:00"
       }
     },
     "13911": {
@@ -141339,6 +141315,12 @@
         "source_id": "25586153",
         "display_name": "Framed (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-20T21:03:56.134719+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
+        "claimed_at": "2026-09-20T21:04:14.941608+00:00",
+        "lease_expires_at": "2026-09-21T03:04:14.941608+00:00",
+        "run_id": "35529171597"
       }
     },
     "4430": {
@@ -141423,7 +141405,13 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-11T09:26:21.091539+00:00"
       },
-      "previous_target_id": "29296392"
+      "previous_target_id": "29296392",
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
+        "claimed_at": "2026-09-20T21:04:15.195474+00:00",
+        "lease_expires_at": "2026-09-21T03:04:15.195474+00:00",
+        "run_id": "35529171597"
+      }
     },
     "4822": {
       "attempts": [
@@ -233462,5 +233450,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:04:08.773082+00:00"
+  "updated_at": "2026-09-20T21:04:15.440752+00:00"
 }
