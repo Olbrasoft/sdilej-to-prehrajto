@@ -1314,13 +1314,6 @@
           "source_id": "26592290",
           "target_video_id": "28927371",
           "permanent": false,
-          "attempted_at": "2026-09-20T00:20:08.009793+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26592290",
-          "target_video_id": "28927371",
-          "permanent": false,
           "attempted_at": "2026-09-20T00:50:25.518998+00:00"
         },
         {
@@ -1329,12 +1322,19 @@
           "target_video_id": "28927371",
           "permanent": false,
           "attempted_at": "2026-09-20T01:20:32.352274+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26592290",
+          "target_video_id": "28927371",
+          "permanent": false,
+          "attempted_at": "2026-09-20T01:50:49.075548+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Nelítostný souboj (1995) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T01:20:29.240976+00:00"
+        "planned_at": "2026-09-20T01:50:43.420481+00:00"
       },
       "prepared": {
         "target_video_id": "28927371",
@@ -1373,14 +1373,20 @@
       "last_plan": {
         "source_id": "18471418",
         "display_name": "Old Boy (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T01:20:29.390109+00:00"
+        "planned_at": "2026-09-20T01:50:43.568011+00:00"
       },
       "prepared": {
         "target_video_id": "28927315",
         "size_bytes": 16399999999,
         "prepared_at": "2026-09-06T02:07:47.280122+00:00"
       },
-      "previous_target_id": "28927315"
+      "previous_target_id": "28927315",
+      "claim": {
+        "worker_id": "71ee52c11d2c41d59e509f09dc0a6882-shard-1",
+        "claimed_at": "2026-09-20T01:50:47.962228+00:00",
+        "lease_expires_at": "2026-09-20T07:50:47.962228+00:00",
+        "run_id": "35467299794"
+      }
     },
     "21690": {
       "attempts": [
@@ -49741,13 +49747,19 @@
       "last_plan": {
         "source_id": "34157811",
         "display_name": "Jo (1971) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T01:20:24.915220+00:00"
+        "planned_at": "2026-09-20T01:50:43.721042+00:00"
       },
       "previous_target_id": "29543024",
       "prepared": {
         "target_video_id": "29543024",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-20T00:44:06.386596+00:00"
+      },
+      "claim": {
+        "worker_id": "71ee52c11d2c41d59e509f09dc0a6882-shard-2",
+        "claimed_at": "2026-09-20T01:50:47.735628+00:00",
+        "lease_expires_at": "2026-09-20T07:50:47.735628+00:00",
+        "run_id": "35467299794"
       }
     },
     "10720": {
@@ -213897,13 +213909,19 @@
       "last_plan": {
         "source_id": "21012399",
         "display_name": "Šťastný Nový rok (2011) 720p CZ Dabing",
-        "planned_at": "2026-09-20T01:20:25.102222+00:00"
+        "planned_at": "2026-09-20T01:50:43.906423+00:00"
       },
       "previous_target_id": "29540753",
       "prepared": {
         "target_video_id": "29540753",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-19T23:08:28.811563+00:00"
+      },
+      "claim": {
+        "worker_id": "71ee52c11d2c41d59e509f09dc0a6882-shard-3",
+        "claimed_at": "2026-09-20T01:50:48.103907+00:00",
+        "lease_expires_at": "2026-09-20T07:50:48.103907+00:00",
+        "run_id": "35467299794"
       }
     },
     "24338": {
@@ -226864,5 +226882,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T01:45:04.077077+00:00"
+  "updated_at": "2026-09-20T01:50:49.075562+00:00"
 }
