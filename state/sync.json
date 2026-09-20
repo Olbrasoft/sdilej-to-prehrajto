@@ -128790,13 +128790,6 @@
           "permanent": false,
           "source_id": "35057302",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:07:29.155154+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35057302",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:09:08.635794+00:00"
         },
         {
@@ -128805,18 +128798,19 @@
           "reason": "Request failed for https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T17:40:41.334587+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35057302",
+          "target_video_id": "29565053",
+          "permanent": false,
+          "attempted_at": "2026-09-20T18:36:05.778824+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35057302",
         "display_name": "Sword Art Online: Extra Edition (2013) 1080p CZ Titulky",
         "planned_at": "2026-09-20T18:28:01.760493+00:00"
-      },
-      "claim": {
-        "worker_id": "6db7ac1df3de444590ec39fdb6bf1cbb-shard-0",
-        "claimed_at": "2026-09-20T18:28:29.236087+00:00",
-        "lease_expires_at": "2026-09-21T00:28:29.236087+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29565053",
       "prepared": {
@@ -233318,5 +233312,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T18:32:14.858033+00:00"
+  "updated_at": "2026-09-20T18:36:05.778840+00:00"
 }
