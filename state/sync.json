@@ -23237,13 +23237,6 @@
     "1354": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32998770",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:46:55.142166+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32998770",
           "reason": "Request failed for https://sdilej.cz/32998770/tenet-2020-uhdrdv-cz-en.mkv (HTTP None)",
@@ -23256,18 +23249,19 @@
           "reason": "Request failed for https://sdilej.cz/32998770/tenet-2020-uhdrdv-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T14:26:51.290626+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32998770",
+          "target_video_id": "29561489",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:31:09.977385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32998770",
         "display_name": "Tenet (2020) 4K CZ Dabing",
         "planned_at": "2026-09-20T15:11:17.910995+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:12:00.028424+00:00",
-        "lease_expires_at": "2026-09-20T21:12:00.028424+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29561489",
       "prepared": {
@@ -232167,5 +232161,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:29:07.746266+00:00"
+  "updated_at": "2026-09-20T15:31:09.977403+00:00"
 }
