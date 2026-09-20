@@ -142121,13 +142121,6 @@
           "permanent": false,
           "source_id": "13601493",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:25:26.359591+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13601493",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:48:57.332401+00:00"
         },
         {
@@ -142136,18 +142129,19 @@
           "source_id": "13601493",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:25.618127+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13601493",
+          "target_video_id": "29565937",
+          "permanent": false,
+          "attempted_at": "2026-09-20T19:30:47.322757+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13601493",
         "display_name": "Až tak moc tě nežere (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:03:12.553941+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T19:22:02.426014+00:00",
-        "lease_expires_at": "2026-09-21T01:22:02.426014+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29565937",
       "prepared": {
@@ -142585,6 +142579,12 @@
         "source_id": "21402005",
         "display_name": "Plán A (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:03:14.613836+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
+        "claimed_at": "2026-09-20T19:30:32.859828+00:00",
+        "lease_expires_at": "2026-09-21T01:30:32.859828+00:00",
+        "run_id": "35529171597"
       }
     },
     "4796": {
@@ -233333,5 +233333,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T19:30:23.873299+00:00"
+  "updated_at": "2026-09-20T19:30:47.322774+00:00"
 }
