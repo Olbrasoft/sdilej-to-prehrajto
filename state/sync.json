@@ -143146,13 +143146,6 @@
           "source_id": "34058489",
           "target_video_id": "29243081",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:27:04.477073+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34058489",
-          "target_video_id": "29243081",
-          "permanent": false,
           "attempted_at": "2026-09-20T19:43:46.969759+00:00"
         },
         {
@@ -143161,6 +143154,13 @@
           "target_video_id": "29243081",
           "permanent": false,
           "attempted_at": "2026-09-20T20:20:08.331208+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34058489",
+          "target_video_id": "29243081",
+          "permanent": false,
+          "attempted_at": "2026-09-20T21:04:50.226278+00:00"
         }
       ],
       "last_plan": {
@@ -143173,13 +143173,7 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-09T13:51:51.555853+00:00"
       },
-      "previous_target_id": "29243081",
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-20T21:04:46.038645+00:00",
-        "lease_expires_at": "2026-09-21T03:04:46.038645+00:00",
-        "run_id": "35529171597"
-      }
+      "previous_target_id": "29243081"
     },
     "28622": {
       "attempts": []
@@ -143226,16 +143220,10 @@
           "attempted_at": "2026-09-20T19:49:08.847955+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33767346",
-        "display_name": "Bouřlivé pondělí (1988) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T21:04:00.843515+00:00"
-      },
       "previous_target_id": "29566336",
-      "prepared": {
+      "upload": {
         "target_video_id": "29566336",
-        "size_bytes": 2223714970,
-        "prepared_at": "2026-09-20T19:43:51.552121+00:00"
+        "uploaded_at": "2026-09-20T21:04:51.800597+00:00"
       }
     },
     "27471": {
@@ -143312,6 +143300,12 @@
         "target_video_id": "29566356",
         "size_bytes": 2722872567,
         "prepared_at": "2026-09-20T19:44:56.544158+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
+        "claimed_at": "2026-09-20T21:04:50.778604+00:00",
+        "lease_expires_at": "2026-09-21T03:04:50.778604+00:00",
+        "run_id": "35529171597"
       }
     },
     "17308": {
@@ -233438,5 +233432,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T21:04:48.281369+00:00"
+  "updated_at": "2026-09-20T21:04:51.800613+00:00"
 }
