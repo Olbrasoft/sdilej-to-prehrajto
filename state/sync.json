@@ -67443,13 +67443,6 @@
           "source_id": "31621974",
           "target_video_id": "29302707",
           "permanent": false,
-          "attempted_at": "2026-09-20T01:02:24.476430+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31621974",
-          "target_video_id": "29302707",
-          "permanent": false,
           "attempted_at": "2026-09-20T01:33:21.509412+00:00"
         },
         {
@@ -67458,6 +67451,13 @@
           "target_video_id": "29302707",
           "permanent": false,
           "attempted_at": "2026-09-20T02:04:54.754514+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31621974",
+          "target_video_id": "29302707",
+          "permanent": false,
+          "attempted_at": "2026-09-20T02:36:43.157157+00:00"
         }
       ],
       "last_plan": {
@@ -67470,13 +67470,7 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-11T15:15:46.282837+00:00"
       },
-      "previous_target_id": "29302707",
-      "claim": {
-        "worker_id": "506759f229ae4a05a6fb4efbc5cf383e-shard-5",
-        "claimed_at": "2026-09-20T02:36:39.936302+00:00",
-        "lease_expires_at": "2026-09-20T08:36:39.936302+00:00",
-        "run_id": "35481903373"
-      }
+      "previous_target_id": "29302707"
     },
     "30378": {
       "attempts": []
@@ -196902,6 +196896,12 @@
         "source_id": "34694419",
         "display_name": "Pan Auťák a templáři (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T02:35:10.555978+00:00"
+      },
+      "claim": {
+        "worker_id": "506759f229ae4a05a6fb4efbc5cf383e-shard-1",
+        "claimed_at": "2026-09-20T02:36:42.716076+00:00",
+        "lease_expires_at": "2026-09-20T08:36:42.716076+00:00",
+        "run_id": "35481903373"
       }
     },
     "34622": {
@@ -196927,6 +196927,13 @@
           "source_id": "34666922",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-19T20:34:58.744664+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34666922",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T02:36:42.936447+00:00"
         }
       ],
       "last_plan": {
@@ -219438,5 +219445,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T02:36:40.591627+00:00"
+  "updated_at": "2026-09-20T02:36:43.157173+00:00"
 }
