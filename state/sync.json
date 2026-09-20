@@ -71558,6 +71558,13 @@
           "target_video_id": "29569615",
           "permanent": false,
           "attempted_at": "2026-09-20T22:59:53.646235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35073576",
+          "target_video_id": "29569615",
+          "permanent": false,
+          "attempted_at": "2026-09-20T23:32:50.060763+00:00"
         }
       ],
       "last_plan": {
@@ -71568,14 +71575,8 @@
       "previous_target_id": "29569615",
       "prepared": {
         "target_video_id": "29569615",
-        "size_bytes": 1760571287,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-20T22:47:30.327411+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T23:32:47.521733+00:00",
-        "lease_expires_at": "2026-09-21T05:32:47.521733+00:00",
-        "run_id": "35529171597"
       }
     },
     "16471": {
@@ -71608,6 +71609,13 @@
           "reason": "Request failed for https://sdilej.cz/34714367/svedek-umirajiciho-casu-1991-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T22:51:24.760656+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34714367",
+          "reason": "Request failed for https://sdilej.cz/34714367/svedek-umirajiciho-casu-1991-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T23:33:36.286143+00:00"
         }
       ],
       "last_plan": {
@@ -234181,5 +234189,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T23:32:47.992669+00:00"
+  "updated_at": "2026-09-20T23:33:36.286161+00:00"
 }
