@@ -209513,11 +209513,25 @@
       "attempts": []
     },
     "36944": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34393567",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:24:14.305407+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34393567",
         "display_name": "The Engineer (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-20T04:05:01.219424+00:00"
+      },
+      "claim": {
+        "worker_id": "2c1ee4f95a2d4bc392a4dca55940549f-shard-1",
+        "claimed_at": "2026-09-20T04:24:13.337926+00:00",
+        "lease_expires_at": "2026-09-20T10:24:13.337926+00:00",
+        "run_id": "35481903373"
       }
     },
     "8894": {
@@ -209540,11 +209554,25 @@
       }
     },
     "27895": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "7501797",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T04:24:15.484161+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7501797",
         "display_name": "Blesk z čistého nebe (2012) SD CZ Dabing",
         "planned_at": "2026-09-20T04:05:01.442012+00:00"
+      },
+      "claim": {
+        "worker_id": "2c1ee4f95a2d4bc392a4dca55940549f-shard-1",
+        "claimed_at": "2026-09-20T04:24:14.532925+00:00",
+        "lease_expires_at": "2026-09-20T10:24:14.532925+00:00",
+        "run_id": "35481903373"
       }
     },
     "7668": {
@@ -210051,16 +210079,10 @@
           "attempted_at": "2026-09-20T02:47:56.490114+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34206332",
-        "display_name": "Sněhurka (2012) 4K CZ Dabing",
-        "planned_at": "2026-09-20T04:05:01.666009+00:00"
-      },
       "previous_target_id": "29540752",
-      "prepared": {
+      "upload": {
         "target_video_id": "29540752",
-        "size_bytes": 5400000000,
-        "prepared_at": "2026-09-19T23:08:26.801241+00:00"
+        "uploaded_at": "2026-09-20T04:24:17.437333+00:00"
       }
     },
     "28074": {
@@ -222340,5 +222362,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T04:24:04.660220+00:00"
+  "updated_at": "2026-09-20T04:24:17.437351+00:00"
 }
