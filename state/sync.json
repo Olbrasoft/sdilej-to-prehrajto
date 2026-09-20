@@ -61494,7 +61494,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-16T00:33:00.459027+00:00"
       },
-      "previous_target_id": "29413408"
+      "previous_target_id": "29413408",
+      "claim": {
+        "worker_id": "b47ec319b6b04b28a41b637d5c9bf422-shard-0",
+        "claimed_at": "2026-09-20T07:13:09.401189+00:00",
+        "lease_expires_at": "2026-09-20T13:13:09.401189+00:00",
+        "run_id": "35481903373"
+      }
     },
     "14106": {
       "attempts": []
@@ -61543,7 +61549,13 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-16T00:33:35.750605+00:00"
       },
-      "previous_target_id": "29413416"
+      "previous_target_id": "29413416",
+      "claim": {
+        "worker_id": "b47ec319b6b04b28a41b637d5c9bf422-shard-3",
+        "claimed_at": "2026-09-20T07:13:08.462050+00:00",
+        "lease_expires_at": "2026-09-20T13:13:08.462050+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2581": {
       "attempts": [
@@ -61608,7 +61620,13 @@
         "size_bytes": 10300000000,
         "prepared_at": "2026-09-09T22:49:40.012044+00:00"
       },
-      "previous_target_id": "29256351"
+      "previous_target_id": "29256351",
+      "claim": {
+        "worker_id": "b47ec319b6b04b28a41b637d5c9bf422-shard-4",
+        "claimed_at": "2026-09-20T07:13:09.166655+00:00",
+        "lease_expires_at": "2026-09-20T13:13:09.166655+00:00",
+        "run_id": "35481903373"
+      }
     },
     "32407": {
       "attempts": []
@@ -62248,13 +62266,6 @@
           "source_id": "27029351",
           "target_video_id": "29310939",
           "permanent": false,
-          "attempted_at": "2026-09-20T05:40:42.954489+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27029351",
-          "target_video_id": "29310939",
-          "permanent": false,
           "attempted_at": "2026-09-20T06:11:24.542220+00:00"
         },
         {
@@ -62263,6 +62274,13 @@
           "target_video_id": "29310939",
           "permanent": false,
           "attempted_at": "2026-09-20T06:42:07.303868+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27029351",
+          "target_video_id": "29310939",
+          "permanent": false,
+          "attempted_at": "2026-09-20T07:13:10.737758+00:00"
         }
       ],
       "last_plan": {
@@ -171751,6 +171769,12 @@
         "source_id": "34165220",
         "display_name": "Není Paříž jako Paříž (2025) 4K CZ Dabing",
         "planned_at": "2026-09-20T07:12:31.180799+00:00"
+      },
+      "claim": {
+        "worker_id": "b47ec319b6b04b28a41b637d5c9bf422-shard-1",
+        "claimed_at": "2026-09-20T07:13:09.660066+00:00",
+        "lease_expires_at": "2026-09-20T13:13:09.660066+00:00",
+        "run_id": "35481903373"
       }
     },
     "29169": {
@@ -171758,13 +171782,6 @@
     },
     "19744": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33702213",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T12:58:59.241219+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -171778,12 +171795,25 @@
           "source_id": "33702213",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:12:17.831614+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33702213",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-20T07:13:10.042913+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33702213",
         "display_name": "Agent Čuník (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-20T07:12:31.417227+00:00"
+      },
+      "claim": {
+        "worker_id": "b47ec319b6b04b28a41b637d5c9bf422-shard-2",
+        "claimed_at": "2026-09-20T07:13:08.931151+00:00",
+        "lease_expires_at": "2026-09-20T13:13:08.931151+00:00",
+        "run_id": "35481903373"
       }
     },
     "33136": {
@@ -171820,6 +171850,12 @@
         "source_id": "26823754",
         "display_name": "Snajpr (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-20T07:12:31.652434+00:00"
+      },
+      "claim": {
+        "worker_id": "b47ec319b6b04b28a41b637d5c9bf422-shard-2",
+        "claimed_at": "2026-09-20T07:13:10.304379+00:00",
+        "lease_expires_at": "2026-09-20T13:13:10.304379+00:00",
+        "run_id": "35481903373"
       }
     },
     "6923": {
@@ -235043,5 +235079,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T07:13:06.400188+00:00"
+  "updated_at": "2026-09-20T07:13:10.737776+00:00"
 }
