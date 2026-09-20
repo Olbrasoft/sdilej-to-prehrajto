@@ -22775,13 +22775,6 @@
           "permanent": false,
           "source_id": "33787081",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:40:48.700830+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33787081",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:41:03.260629+00:00"
         },
         {
@@ -22790,18 +22783,19 @@
           "reason": "Request failed for https://sdilej.cz/33787081/mista-v-srdci-1984-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T13:51:11.053381+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33787081",
+          "reason": "Request failed for https://sdilej.cz/33787081/mista-v-srdci-1984-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T14:26:43.650101+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33787081",
         "display_name": "Místa v srdci (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-20T14:25:20.522681+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-2",
-        "claimed_at": "2026-09-20T14:25:57.818981+00:00",
-        "lease_expires_at": "2026-09-20T20:25:57.818981+00:00",
-        "run_id": "35510972333"
       }
     },
     "27690": {
@@ -23356,6 +23350,12 @@
         "source_id": "32998770",
         "display_name": "Tenet (2020) 4K CZ Dabing",
         "planned_at": "2026-09-20T14:25:21.169255+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-4",
+        "claimed_at": "2026-09-20T14:26:05.508834+00:00",
+        "lease_expires_at": "2026-09-20T20:26:05.508834+00:00",
+        "run_id": "35510972333"
       }
     },
     "1415": {
@@ -231639,5 +231639,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T14:25:59.447543+00:00"
+  "updated_at": "2026-09-20T14:26:43.650121+00:00"
 }
