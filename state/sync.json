@@ -142876,13 +142876,6 @@
           "permanent": false,
           "source_id": "34772109",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:06:35.924065+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34772109",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:45.262485+00:00"
         },
         {
@@ -142891,18 +142884,19 @@
           "reason": "Request failed for https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T19:41:28.358783+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34772109",
+          "reason": "Request failed for https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:20:29.472116+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34772109",
         "display_name": "Alien Apocalypse (2023) SD CZ Titulky",
         "planned_at": "2026-09-20T20:18:50.252922+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
-        "claimed_at": "2026-09-20T20:19:43.617124+00:00",
-        "lease_expires_at": "2026-09-21T02:19:43.617124+00:00",
-        "run_id": "35529171597"
       }
     },
     "4793": {
@@ -233338,5 +233332,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:20:22.999562+00:00"
+  "updated_at": "2026-09-20T20:20:29.472135+00:00"
 }
