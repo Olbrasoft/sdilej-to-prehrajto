@@ -55958,13 +55958,6 @@
           "permanent": false,
           "source_id": "6967528",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:55:56.567912+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6967528",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T03:59:24.628051+00:00"
         },
         {
@@ -55973,18 +55966,19 @@
           "source_id": "6967528",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:19:43.088232+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6967528",
+          "target_video_id": "29561406",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:10:01.732788+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6967528",
         "display_name": "RKO 281 (1999) SD CZ Dabing",
         "planned_at": "2026-09-20T14:51:47.746022+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-3",
-        "claimed_at": "2026-09-20T15:07:01.744345+00:00",
-        "lease_expires_at": "2026-09-20T21:07:01.744345+00:00",
-        "run_id": "35510972333"
       },
       "previous_target_id": "29561406",
       "prepared": {
@@ -56139,6 +56133,12 @@
         "source_id": "34681688",
         "display_name": "Létající Skot (2006) SD CZ Dabing",
         "planned_at": "2026-09-20T14:51:48.424820+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
+        "claimed_at": "2026-09-20T15:09:36.623546+00:00",
+        "lease_expires_at": "2026-09-20T21:09:36.623546+00:00",
+        "run_id": "35510972333"
       }
     },
     "21596": {
@@ -231826,5 +231826,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:09:23.294490+00:00"
+  "updated_at": "2026-09-20T15:10:01.732811+00:00"
 }
