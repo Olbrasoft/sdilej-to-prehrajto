@@ -68184,13 +68184,6 @@
           "permanent": false,
           "source_id": "34648826",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:56:27.191274+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34648826",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:58:54.298321+00:00"
         },
         {
@@ -68199,18 +68192,19 @@
           "source_id": "34648826",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:20:26.589952+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34648826",
+          "reason": "Request failed for https://sdilej.cz/34648826/nema-tajemstvi-2023-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:50:08.187674+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34648826",
         "display_name": "Němá tajemství (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T15:14:07.962949+00:00"
-      },
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-0",
-        "claimed_at": "2026-09-20T15:49:22.242242+00:00",
-        "lease_expires_at": "2026-09-20T21:49:22.242242+00:00",
-        "run_id": "35510972333"
       }
     },
     "31557": {
@@ -232385,5 +232379,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:49:25.944653+00:00"
+  "updated_at": "2026-09-20T15:50:08.187693+00:00"
 }
