@@ -142455,13 +142455,6 @@
           "permanent": false,
           "source_id": "21402005",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:49:17.557794+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21402005",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:41.203399+00:00"
         },
         {
@@ -142470,18 +142463,19 @@
           "reason": "Request failed for https://sdilej.cz/21402005/plan.a.2021.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T19:31:18.753103+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21402005",
+          "reason": "Request failed for https://sdilej.cz/21402005/plan.a.2021.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:20:17.797558+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21402005",
         "display_name": "Plán A (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:46.451475+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-20T20:19:28.509100+00:00",
-        "lease_expires_at": "2026-09-21T02:19:28.509100+00:00",
-        "run_id": "35529171597"
       }
     },
     "4796": {
@@ -233332,5 +233326,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:20:13.094204+00:00"
+  "updated_at": "2026-09-20T20:20:17.797573+00:00"
 }
