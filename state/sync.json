@@ -54569,13 +54569,6 @@
           "source_id": "33531199",
           "target_video_id": "29136430",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:51:08.446740+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33531199",
-          "target_video_id": "29136430",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:21:19.436314+00:00"
         },
         {
@@ -54584,6 +54577,13 @@
           "target_video_id": "29136430",
           "permanent": false,
           "attempted_at": "2026-09-20T14:47:16.759575+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33531199",
+          "target_video_id": "29136430",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:57:35.518175+00:00"
         }
       ],
       "last_plan": {
@@ -54596,13 +54596,7 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-05T19:25:12.220553+00:00"
       },
-      "previous_target_id": "29136430",
-      "claim": {
-        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
-        "claimed_at": "2026-09-20T15:57:32.194144+00:00",
-        "lease_expires_at": "2026-09-20T21:57:32.194144+00:00",
-        "run_id": "35510972333"
-      }
+      "previous_target_id": "29136430"
     },
     "27493": {
       "attempts": []
@@ -55056,16 +55050,10 @@
           "attempted_at": "2026-09-20T15:03:24.874391+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26627415",
-        "display_name": "Pan Čokoláda (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T15:57:12.371481+00:00"
-      },
       "previous_target_id": "29561246",
-      "prepared": {
+      "upload": {
         "target_video_id": "29561246",
-        "size_bytes": 2478835327,
-        "prepared_at": "2026-09-20T14:57:15.455998+00:00"
+        "uploaded_at": "2026-09-20T15:57:36.447613+00:00"
       }
     },
     "13337": {
@@ -55148,6 +55136,12 @@
         "target_video_id": "29561255",
         "size_bytes": 2176106177,
         "prepared_at": "2026-09-20T14:57:56.985093+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-5",
+        "claimed_at": "2026-09-20T15:57:36.136365+00:00",
+        "lease_expires_at": "2026-09-20T21:57:36.136365+00:00",
+        "run_id": "35510972333"
       }
     },
     "22509": {
@@ -55203,6 +55197,12 @@
         "source_id": "34684701",
         "display_name": "Phoebe v říši divů (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-20T15:57:12.993846+00:00"
+      },
+      "claim": {
+        "worker_id": "d22cb4a274644a19b2ac1361935a6170-shard-1",
+        "claimed_at": "2026-09-20T15:57:35.817667+00:00",
+        "lease_expires_at": "2026-09-20T21:57:35.817667+00:00",
+        "run_id": "35510972333"
       }
     },
     "12631": {
@@ -232273,5 +232273,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:57:33.049415+00:00"
+  "updated_at": "2026-09-20T15:57:36.447631+00:00"
 }
