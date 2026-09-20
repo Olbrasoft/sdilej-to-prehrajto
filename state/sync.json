@@ -69395,7 +69395,13 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-12T14:32:49.850225+00:00"
       },
-      "previous_target_id": "29325917"
+      "previous_target_id": "29325917",
+      "claim": {
+        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-1",
+        "claimed_at": "2026-09-20T06:44:14.613257+00:00",
+        "lease_expires_at": "2026-09-20T12:44:14.613257+00:00",
+        "run_id": "35481903373"
+      }
     },
     "24061": {
       "attempts": [],
@@ -70305,7 +70311,13 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-09-18T03:47:39.635711+00:00"
       },
-      "previous_target_id": "29468019"
+      "previous_target_id": "29468019",
+      "claim": {
+        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-3",
+        "claimed_at": "2026-09-20T06:44:15.616734+00:00",
+        "lease_expires_at": "2026-09-20T12:44:15.616734+00:00",
+        "run_id": "35481903373"
+      }
     },
     "32575": {
       "attempts": [],
@@ -70857,7 +70869,13 @@
         "size_bytes": 12600000000,
         "prepared_at": "2026-09-19T09:10:49.549590+00:00"
       },
-      "previous_target_id": "29524835"
+      "previous_target_id": "29524835",
+      "claim": {
+        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-2",
+        "claimed_at": "2026-09-20T06:44:14.847113+00:00",
+        "lease_expires_at": "2026-09-20T12:44:14.847113+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2788": {
       "attempts": []
@@ -71226,7 +71244,13 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-09-05T20:57:18.923455+00:00"
       },
-      "previous_target_id": "29141887"
+      "previous_target_id": "29141887",
+      "claim": {
+        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-4",
+        "claimed_at": "2026-09-20T06:44:15.343068+00:00",
+        "lease_expires_at": "2026-09-20T12:44:15.343068+00:00",
+        "run_id": "35481903373"
+      }
     },
     "2806": {
       "attempts": []
@@ -71309,7 +71333,13 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-11T03:46:35.374983+00:00"
       },
-      "previous_target_id": "29290054"
+      "previous_target_id": "29290054",
+      "claim": {
+        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-0",
+        "claimed_at": "2026-09-20T06:44:15.109289+00:00",
+        "lease_expires_at": "2026-09-20T12:44:15.109289+00:00",
+        "run_id": "35481903373"
+      }
     },
     "17928": {
       "attempts": [
@@ -79490,18 +79520,19 @@
           "reason": "Request failed for https://sdilej.cz/29700681/lucerna-1938-juraison-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T06:10:31.689112+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29700681",
+          "target_video_id": "29550248",
+          "permanent": false,
+          "attempted_at": "2026-09-20T06:44:16.028843+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29700681",
         "display_name": "Lucerna (1938) SD CZ Dabing",
         "planned_at": "2026-09-20T06:40:39.515232+00:00"
-      },
-      "claim": {
-        "worker_id": "4a02d2d280e740d99a2938412f7c2b89-shard-5",
-        "claimed_at": "2026-09-20T06:41:11.724087+00:00",
-        "lease_expires_at": "2026-09-20T12:41:11.724087+00:00",
-        "run_id": "35481903373"
       },
       "previous_target_id": "29550248",
       "prepared": {
@@ -234144,5 +234175,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T06:44:12.490145+00:00"
+  "updated_at": "2026-09-20T06:44:16.028862+00:00"
 }
