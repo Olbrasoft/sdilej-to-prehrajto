@@ -144171,13 +144171,6 @@
           "permanent": false,
           "source_id": "6422081",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:04:41.103750+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6422081",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:09:02.406071+00:00"
         },
         {
@@ -144186,18 +144179,19 @@
           "source_id": "6422081",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:59.566665+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6422081",
+          "target_video_id": "29566970",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:43:23.345339+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6422081",
         "display_name": "Smrt v Šanghaji (2010) 720p CZ Dabing",
         "planned_at": "2026-09-20T20:18:53.255680+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T20:28:45.332059+00:00",
-        "lease_expires_at": "2026-09-21T02:28:45.332059+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29566970",
       "prepared": {
@@ -144763,6 +144757,12 @@
         "source_id": "34689076",
         "display_name": "Zabíjení krabů (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-20T20:18:56.621411+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-3",
+        "claimed_at": "2026-09-20T20:43:17.009716+00:00",
+        "lease_expires_at": "2026-09-21T02:43:17.009716+00:00",
+        "run_id": "35529171597"
       }
     },
     "27043": {
@@ -233412,5 +233412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:43:14.944380+00:00"
+  "updated_at": "2026-09-20T20:43:23.345356+00:00"
 }
