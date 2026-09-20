@@ -66659,13 +66659,6 @@
           "source_id": "12024103",
           "target_video_id": "29216460",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:20:20.959243+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12024103",
-          "target_video_id": "29216460",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:51:29.054206+00:00"
         },
         {
@@ -66674,6 +66667,13 @@
           "target_video_id": "29216460",
           "permanent": false,
           "attempted_at": "2026-09-20T12:22:14.186831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12024103",
+          "target_video_id": "29216460",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:31:18.482036+00:00"
         }
       ],
       "last_plan": {
@@ -66701,13 +66701,6 @@
           "source_id": "33977351",
           "target_video_id": "29216512",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:20:21.893290+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33977351",
-          "target_video_id": "29216512",
-          "permanent": false,
           "attempted_at": "2026-09-20T11:51:27.620144+00:00"
         },
         {
@@ -66716,6 +66709,13 @@
           "target_video_id": "29216512",
           "permanent": false,
           "attempted_at": "2026-09-20T12:22:14.796448+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33977351",
+          "target_video_id": "29216512",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:31:20.174223+00:00"
         }
       ],
       "last_plan": {
@@ -66758,7 +66758,15 @@
       "attempts": []
     },
     "21553": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34485392",
+          "reason": "Request failed for https://sdilej.cz/34485392/hrbac-1959-ct-2-hd-t2-270-2025-01-10-20.00.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-20T15:32:06.332463+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34485392",
         "display_name": "Hrbáč (1959) 1080p CZ Dabing",
@@ -232161,5 +232169,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T15:31:09.977403+00:00"
+  "updated_at": "2026-09-20T15:32:06.332483+00:00"
 }
