@@ -141702,13 +141702,6 @@
           "source_id": "34751728",
           "target_video_id": "29278231",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:56:22.102964+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751728",
-          "target_video_id": "29278231",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:26:59.753218+00:00"
         },
         {
@@ -141717,6 +141710,13 @@
           "target_video_id": "29278231",
           "permanent": false,
           "attempted_at": "2026-09-20T19:19:26.771421+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751728",
+          "target_video_id": "29278231",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:02:14.007563+00:00"
         }
       ],
       "last_plan": {
@@ -141729,26 +141729,13 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-10T17:23:02.263234+00:00"
       },
-      "previous_target_id": "29278231",
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-20T20:02:11.722790+00:00",
-        "lease_expires_at": "2026-09-21T02:02:11.722790+00:00",
-        "run_id": "35529171597"
-      }
+      "previous_target_id": "29278231"
     },
     "27019": {
       "attempts": []
     },
     "4977": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26221514",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:52.772510+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -141762,6 +141749,13 @@
           "target_video_id": "29565896",
           "permanent": false,
           "attempted_at": "2026-09-20T19:24:44.325371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26221514",
+          "target_video_id": "29565896",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:02:15.757026+00:00"
         }
       ],
       "last_plan": {
@@ -141772,7 +141766,7 @@
       "previous_target_id": "29565896",
       "prepared": {
         "target_video_id": "29565896",
-        "size_bytes": 2024292826,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-20T19:19:31.507848+00:00"
       }
     },
@@ -141826,6 +141820,18 @@
         "source_id": "29682493",
         "display_name": "Billy Madison (1995) 1080p CZ Dabing",
         "planned_at": "2026-09-20T19:58:54.181312+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
+        "claimed_at": "2026-09-20T20:02:14.292424+00:00",
+        "lease_expires_at": "2026-09-21T02:02:14.292424+00:00",
+        "run_id": "35529171597"
+      },
+      "previous_target_id": "29566621",
+      "prepared": {
+        "target_video_id": "29566621",
+        "size_bytes": 2438744701,
+        "prepared_at": "2026-09-20T20:02:17.909507+00:00"
       }
     },
     "15266": {
@@ -141951,13 +141957,6 @@
           "permanent": false,
           "source_id": "30136086",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:48:56.408998+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30136086",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:24:24.389083+00:00"
         },
         {
@@ -141966,6 +141965,13 @@
           "target_video_id": "29565918",
           "permanent": false,
           "attempted_at": "2026-09-20T19:26:11.631162+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30136086",
+          "target_video_id": "29565918",
+          "permanent": false,
+          "attempted_at": "2026-09-20T20:02:17.288260+00:00"
         }
       ],
       "last_plan": {
@@ -141976,7 +141982,7 @@
       "previous_target_id": "29565918",
       "prepared": {
         "target_video_id": "29565918",
-        "size_bytes": 2004382161,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-20T19:20:37.739765+00:00"
       }
     },
@@ -142147,7 +142153,13 @@
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-09T10:36:25.273314+00:00"
       },
-      "previous_target_id": "29239607"
+      "previous_target_id": "29239607",
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
+        "claimed_at": "2026-09-20T20:02:17.604652+00:00",
+        "lease_expires_at": "2026-09-21T02:02:17.604652+00:00",
+        "run_id": "35529171597"
+      }
     },
     "4777": {
       "attempts": [
@@ -233290,5 +233302,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-20T20:02:11.997396+00:00"
+  "updated_at": "2026-09-20T20:02:17.909522+00:00"
 }
