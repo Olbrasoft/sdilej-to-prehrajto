@@ -148056,13 +148056,6 @@
           "permanent": false,
           "source_id": "34633565",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:22:44.361423+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34633565",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:23:34.018311+00:00"
         },
         {
@@ -148071,18 +148064,19 @@
           "source_id": "34633565",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:06.525550+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34633565",
+          "target_video_id": "29572579",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:11:18.727789+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34633565",
         "display_name": "Funny Lady (1975) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:27:53.618798+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T01:49:03.340555+00:00",
-        "lease_expires_at": "2026-09-21T07:49:03.340555+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29572579",
       "prepared": {
@@ -149042,6 +149036,12 @@
         "source_id": "34694400",
         "display_name": "Vítej smutku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:27:57.341120+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
+        "claimed_at": "2026-09-21T02:11:17.372614+00:00",
+        "lease_expires_at": "2026-09-21T08:11:17.372614+00:00",
+        "run_id": "35549724548"
       }
     },
     "33713": {
@@ -234328,5 +234328,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T02:11:15.383209+00:00"
+  "updated_at": "2026-09-21T02:11:18.727806+00:00"
 }
