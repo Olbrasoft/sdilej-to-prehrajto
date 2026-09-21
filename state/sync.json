@@ -153321,13 +153321,6 @@
           "permanent": false,
           "source_id": "28047714",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:55.309160+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28047714",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:27.551174+00:00"
         },
         {
@@ -153336,6 +153329,13 @@
           "target_video_id": "29574981",
           "permanent": false,
           "attempted_at": "2026-09-21T04:35:20.838110+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28047714",
+          "target_video_id": "29574981",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:27:32.335353+00:00"
         }
       ],
       "last_plan": {
@@ -153346,7 +153346,7 @@
       "previous_target_id": "29574981",
       "prepared": {
         "target_video_id": "29574981",
-        "size_bytes": 2098850963,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-21T04:28:01.855747+00:00"
       }
     },
@@ -153377,16 +153377,10 @@
           "attempted_at": "2026-09-21T04:34:04.790693+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29847958",
-        "display_name": "Dívka z románu (2015) SD CZ Dabing",
-        "planned_at": "2026-09-21T05:23:14.521686+00:00"
-      },
       "previous_target_id": "29575004",
-      "prepared": {
+      "upload": {
         "target_video_id": "29575004",
-        "size_bytes": 1336637440,
-        "prepared_at": "2026-09-21T04:29:30.726347+00:00"
+        "uploaded_at": "2026-09-21T05:27:34.108630+00:00"
       }
     },
     "22292": {
@@ -234948,5 +234942,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:27:28.924094+00:00"
+  "updated_at": "2026-09-21T05:27:34.108647+00:00"
 }
