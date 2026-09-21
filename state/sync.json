@@ -157770,13 +157770,6 @@
           "source_id": "34695156",
           "target_video_id": "29278403",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:27:41.287643+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34695156",
-          "target_video_id": "29278403",
-          "permanent": false,
           "attempted_at": "2026-09-21T08:49:55.705833+00:00"
         },
         {
@@ -157785,6 +157778,13 @@
           "target_video_id": "29278403",
           "permanent": false,
           "attempted_at": "2026-09-21T11:11:51.573808+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34695156",
+          "target_video_id": "29278403",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:57:49.150573+00:00"
         }
       ],
       "last_plan": {
@@ -157797,13 +157797,7 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-10T17:31:44.475576+00:00"
       },
-      "previous_target_id": "29278403",
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T12:57:46.506765+00:00",
-        "lease_expires_at": "2026-09-21T18:57:46.506765+00:00",
-        "run_id": "35574076427"
-      }
+      "previous_target_id": "29278403"
     },
     "14934": {
       "attempts": []
@@ -157964,16 +157958,10 @@
           "attempted_at": "2026-09-21T11:19:37.415440+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34773203",
-        "display_name": "Paintball Massacre (2020) 720p CZ Titulky",
-        "planned_at": "2026-09-21T12:57:31.894536+00:00"
-      },
       "previous_target_id": "29582168",
-      "prepared": {
+      "upload": {
         "target_video_id": "29582168",
-        "size_bytes": 1905939946,
-        "prepared_at": "2026-09-21T11:12:03.478728+00:00"
+        "uploaded_at": "2026-09-21T12:57:50.315643+00:00"
       }
     },
     "32269": {
@@ -158049,7 +158037,13 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-10T17:31:54.308404+00:00"
       },
-      "previous_target_id": "29278404"
+      "previous_target_id": "29278404",
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T12:57:49.690164+00:00",
+        "lease_expires_at": "2026-09-21T18:57:49.690164+00:00",
+        "run_id": "35574076427"
+      }
     },
     "23758": {
       "attempts": []
@@ -158331,6 +158325,12 @@
         "target_video_id": "29579232",
         "size_bytes": 6800000000,
         "prepared_at": "2026-09-21T08:57:20.044908+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
+        "claimed_at": "2026-09-21T12:57:49.411193+00:00",
+        "lease_expires_at": "2026-09-21T18:57:49.411193+00:00",
+        "run_id": "35574076427"
       }
     },
     "5121": {
@@ -236817,5 +236817,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:57:46.766799+00:00"
+  "updated_at": "2026-09-21T12:57:50.315658+00:00"
 }
