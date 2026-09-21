@@ -67126,7 +67126,13 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-08T15:16:28.558567+00:00"
       },
-      "previous_target_id": "29216512"
+      "previous_target_id": "29216512",
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T09:52:12.418120+00:00",
+        "lease_expires_at": "2026-09-21T15:52:12.418120+00:00",
+        "run_id": "35574076427"
+      }
     },
     "13008": {
       "attempts": []
@@ -67162,16 +67168,10 @@
           "attempted_at": "2026-09-21T08:08:45.451598+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "13249667",
-        "display_name": "Pod širým nebem (2019) SD CZ Titulky",
-        "planned_at": "2026-09-21T09:51:42.026343+00:00"
-      },
       "previous_target_id": "29578023",
-      "prepared": {
+      "upload": {
         "target_video_id": "29578023",
-        "size_bytes": 1611927178,
-        "prepared_at": "2026-09-21T08:01:31.333896+00:00"
+        "uploaded_at": "2026-09-21T09:52:13.099195+00:00"
       }
     },
     "21553": {
@@ -67269,6 +67269,12 @@
         "target_video_id": "29578024",
         "size_bytes": 1882250779,
         "prepared_at": "2026-09-21T08:01:33.659282+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
+        "claimed_at": "2026-09-21T09:52:12.160425+00:00",
+        "lease_expires_at": "2026-09-21T15:52:12.160425+00:00",
+        "run_id": "35574076427"
       }
     },
     "13057": {
@@ -235667,5 +235673,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T09:52:09.920155+00:00"
+  "updated_at": "2026-09-21T09:52:13.099206+00:00"
 }
