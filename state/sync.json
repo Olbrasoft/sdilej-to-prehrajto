@@ -154981,13 +154981,6 @@
           "permanent": false,
           "source_id": "12681224",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:55:20.048759+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12681224",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:55.128765+00:00"
         },
         {
@@ -154996,18 +154989,19 @@
           "reason": "Request failed for https://sdilej.cz/12681224/pohadky-chan-sulejman-a-vila-fatme-1985-cz.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T05:52:13.512202+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12681224",
+          "target_video_id": "29578775",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:33:39.935593+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12681224",
         "display_name": "Chán Sulejmán a víla Fatmé (1985) SD",
         "planned_at": "2026-09-21T08:29:44.741393+00:00"
-      },
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-2",
-        "claimed_at": "2026-09-21T08:31:19.555457+00:00",
-        "lease_expires_at": "2026-09-21T14:31:19.555457+00:00",
-        "run_id": "35570393734"
       },
       "previous_target_id": "29578775",
       "prepared": {
@@ -155982,6 +155976,12 @@
         "source_id": "34709417",
         "display_name": "Poznáš muže svých snů (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-21T08:33:15.320971+00:00"
+      },
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-1",
+        "claimed_at": "2026-09-21T08:33:39.650603+00:00",
+        "lease_expires_at": "2026-09-21T14:33:39.650603+00:00",
+        "run_id": "35570393734"
       }
     },
     "23954": {
@@ -235528,5 +235528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:33:37.345939+00:00"
+  "updated_at": "2026-09-21T08:33:39.935611+00:00"
 }
