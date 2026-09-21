@@ -87149,17 +87149,19 @@
       "attempts": []
     },
     "11092": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34673105",
+          "reason": "Request failed for https://sdilej.cz/34673105/6-medvedu-s-cibulkou-1972-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:03:03.355203+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673105",
         "display_name": "6 medvědů s Cibulkou (1972) SD CZ Dabing",
         "planned_at": "2026-09-21T04:45:25.245666+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
-        "claimed_at": "2026-09-21T05:02:17.485506+00:00",
-        "lease_expires_at": "2026-09-21T11:02:17.485506+00:00",
-        "run_id": "35549724548"
       }
     },
     "15573": {
@@ -234871,5 +234873,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:02:25.404942+00:00"
+  "updated_at": "2026-09-21T05:03:03.355221+00:00"
 }
