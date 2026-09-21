@@ -152074,13 +152074,6 @@
           "permanent": false,
           "source_id": "34521568",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:18.621394+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34521568",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:40.898822+00:00"
         },
         {
@@ -152089,18 +152082,19 @@
           "reason": "Request failed for https://sdilej.cz/34521568/lovci-duchu-na-ledove-stope-ghosthunters-on-icy-trails-2015-de-il-cz-en-1080p-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T03:40:19.345255+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34521568",
+          "target_video_id": "29574893",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:38:54.371935+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34521568",
         "display_name": "Lovci duchů na ledové stopě (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-21T04:12:12.363559+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
-        "claimed_at": "2026-09-21T04:23:00.312268+00:00",
-        "lease_expires_at": "2026-09-21T10:23:00.312268+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29574893",
       "prepared": {
@@ -234472,5 +234466,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:37:50.551136+00:00"
+  "updated_at": "2026-09-21T04:38:54.371953+00:00"
 }
