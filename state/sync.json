@@ -151320,13 +151320,6 @@
           "permanent": false,
           "source_id": "27236315",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:03.092428+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27236315",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:11.532655+00:00"
         },
         {
@@ -151335,6 +151328,13 @@
           "target_video_id": "29573831",
           "permanent": false,
           "attempted_at": "2026-09-21T03:39:45.577925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27236315",
+          "target_video_id": "29573831",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:15:15.069738+00:00"
         }
       ],
       "last_plan": {
@@ -151345,7 +151345,7 @@
       "previous_target_id": "29573831",
       "prepared": {
         "target_video_id": "29573831",
-        "size_bytes": 5713254356,
+        "size_bytes": 5700000000,
         "prepared_at": "2026-09-21T03:17:03.182204+00:00"
       }
     },
@@ -151395,16 +151395,10 @@
           "attempted_at": "2026-09-21T03:27:24.804726+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34697545",
-        "display_name": "Nechutně bohatá: Ghislaine Maxwell (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T04:12:08.889851+00:00"
-      },
       "previous_target_id": "29573837",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573837",
-        "size_bytes": 2557946570,
-        "prepared_at": "2026-09-21T03:17:34.292303+00:00"
+        "uploaded_at": "2026-09-21T04:15:16.636273+00:00"
       }
     },
     "4914": {
@@ -234424,5 +234418,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:15:11.643424+00:00"
+  "updated_at": "2026-09-21T04:15:16.636291+00:00"
 }
