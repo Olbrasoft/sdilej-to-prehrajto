@@ -161398,13 +161398,6 @@
           "permanent": false,
           "source_id": "32995259",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:41.172835+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32995259",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:17.314793+00:00"
         },
         {
@@ -161413,18 +161406,19 @@
           "reason": "Request failed for https://sdilej.cz/32995259/surrogates-2009-bluray-1080p-h265-aac-5.1.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T13:30:04.954383+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32995259",
+          "target_video_id": "29587886",
+          "permanent": false,
+          "attempted_at": "2026-09-21T15:36:12.764833+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32995259",
         "display_name": "Náhradníci (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-21T15:10:04.332942+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-5",
-        "claimed_at": "2026-09-21T15:18:25.449210+00:00",
-        "lease_expires_at": "2026-09-21T21:18:25.449210+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29587886",
       "prepared": {
@@ -237496,5 +237490,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T15:36:01.329683+00:00"
+  "updated_at": "2026-09-21T15:36:12.764856+00:00"
 }
