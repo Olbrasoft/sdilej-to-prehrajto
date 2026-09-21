@@ -90255,13 +90255,6 @@
           "source_id": "11688648",
           "target_video_id": "29581196",
           "permanent": false,
-          "attempted_at": "2026-09-21T14:19:32.563577+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11688648",
-          "target_video_id": "29581196",
-          "permanent": false,
           "attempted_at": "2026-09-21T15:06:19.719677+00:00"
         },
         {
@@ -90270,6 +90263,13 @@
           "target_video_id": "29581196",
           "permanent": false,
           "attempted_at": "2026-09-21T16:15:36.904395+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11688648",
+          "target_video_id": "29581196",
+          "permanent": false,
+          "attempted_at": "2026-09-21T20:58:59.597977+00:00"
         }
       ],
       "last_plan": {
@@ -90319,7 +90319,15 @@
       "attempts": []
     },
     "12958": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34327399",
+          "reason": "Request failed for https://sdilej.cz/34327399/pavi-pirko.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T20:59:45.610979+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34327399",
         "display_name": "Paví pírko (1987) SD CZ Dabing",
@@ -237851,5 +237859,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T20:58:46.760507+00:00"
+  "updated_at": "2026-09-21T20:59:45.610997+00:00"
 }
