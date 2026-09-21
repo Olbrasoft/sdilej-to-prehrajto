@@ -158235,13 +158235,6 @@
           "permanent": false,
           "source_id": "24203222",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:56:50.420252+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24203222",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:35.622259+00:00"
         },
         {
@@ -158250,18 +158243,19 @@
           "reason": "Request failed for https://sdilej.cz/24203222/paralelni-svety-2012-fantasy-sci-fi-romanticky-drama-1080p.-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T09:10:23.778239+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24203222",
+          "target_video_id": "29582432",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:30:31.592203+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24203222",
         "display_name": "Paralelní světy (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-21T11:10:52.027565+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T11:19:43.781752+00:00",
-        "lease_expires_at": "2026-09-21T17:19:43.781752+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29582432",
       "prepared": {
@@ -236353,5 +236347,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:22:27.330730+00:00"
+  "updated_at": "2026-09-21T11:30:31.592221+00:00"
 }
