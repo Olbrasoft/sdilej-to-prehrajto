@@ -158010,13 +158010,6 @@
           "source_id": "34558406",
           "target_video_id": "29278404",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:27:40.996489+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34558406",
-          "target_video_id": "29278404",
-          "permanent": false,
           "attempted_at": "2026-09-21T08:54:46.877233+00:00"
         },
         {
@@ -158025,6 +158018,13 @@
           "target_video_id": "29278404",
           "permanent": false,
           "attempted_at": "2026-09-21T11:12:35.463611+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34558406",
+          "target_video_id": "29278404",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:57:52.494053+00:00"
         }
       ],
       "last_plan": {
@@ -158037,13 +158037,7 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-10T17:31:54.308404+00:00"
       },
-      "previous_target_id": "29278404",
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T12:57:49.690164+00:00",
-        "lease_expires_at": "2026-09-21T18:57:49.690164+00:00",
-        "run_id": "35574076427"
-      }
+      "previous_target_id": "29278404"
     },
     "23758": {
       "attempts": []
@@ -158315,22 +158309,10 @@
           "attempted_at": "2026-09-21T11:12:40.627980+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31100336",
-        "display_name": "Neříkej ani slovo (2001) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T12:57:32.417249+00:00"
-      },
       "previous_target_id": "29579232",
-      "prepared": {
+      "upload": {
         "target_video_id": "29579232",
-        "size_bytes": 6800000000,
-        "prepared_at": "2026-09-21T08:57:20.044908+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T12:57:49.411193+00:00",
-        "lease_expires_at": "2026-09-21T18:57:49.411193+00:00",
-        "run_id": "35574076427"
+        "uploaded_at": "2026-09-21T12:57:53.259931+00:00"
       }
     },
     "5121": {
@@ -158400,6 +158382,12 @@
         "target_video_id": "29582177",
         "size_bytes": 2095947831,
         "prepared_at": "2026-09-21T11:12:44.487517+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
+        "claimed_at": "2026-09-21T12:57:52.746906+00:00",
+        "lease_expires_at": "2026-09-21T18:57:52.746906+00:00",
+        "run_id": "35574076427"
       }
     },
     "17772": {
@@ -158454,6 +158442,12 @@
         "target_video_id": "29579296",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-21T09:02:02.410498+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T12:57:53.003511+00:00",
+        "lease_expires_at": "2026-09-21T18:57:53.003511+00:00",
+        "run_id": "35574076427"
       }
     },
     "14286": {
@@ -236817,5 +236811,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:57:50.315658+00:00"
+  "updated_at": "2026-09-21T12:57:53.259949+00:00"
 }
