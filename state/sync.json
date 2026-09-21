@@ -149261,13 +149261,6 @@
           "permanent": false,
           "source_id": "33791481",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:27:55.704460+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33791481",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:20.770176+00:00"
         },
         {
@@ -149276,18 +149269,19 @@
           "reason": "Request failed for https://sdilej.cz/33791481/proc-ja-1990-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T02:21:19.631606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33791481",
+          "target_video_id": "29574587",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:13:52.699427+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33791481",
         "display_name": "Proč já? (1990) 1080p CZ Dabing",
         "planned_at": "2026-09-21T04:04:59.851984+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
-        "claimed_at": "2026-09-21T04:06:03.438478+00:00",
-        "lease_expires_at": "2026-09-21T10:06:03.438478+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29574587",
       "prepared": {
@@ -150328,6 +150322,12 @@
         "target_video_id": "29573422",
         "size_bytes": 2633209206,
         "prepared_at": "2026-09-21T02:51:50.508012+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T04:13:52.369285+00:00",
+        "lease_expires_at": "2026-09-21T10:13:52.369285+00:00",
+        "run_id": "35549724548"
       }
     },
     "18278": {
@@ -234472,5 +234472,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:13:50.310575+00:00"
+  "updated_at": "2026-09-21T04:13:52.699444+00:00"
 }
