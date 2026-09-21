@@ -155553,13 +155553,6 @@
     "13722": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29494166",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:56:37.065311+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29494166",
           "reason": "Request failed for https://sdilej.cz/29494166/cachticka-pani-2009-cz-1080p.mp4 (HTTP None)",
@@ -155572,18 +155565,19 @@
           "reason": "Request failed for https://sdilej.cz/29494166/cachticka-pani-2009-cz-1080p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T08:32:01.539323+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29494166",
+          "reason": "Request failed for https://sdilej.cz/29494166/cachticka-pani-2009-cz-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:11:44.093700+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29494166",
         "display_name": "Čachtická paní (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-21T11:10:42.398672+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T11:10:58.293652+00:00",
-        "lease_expires_at": "2026-09-21T17:10:58.293652+00:00",
-        "run_id": "35574076427"
       }
     },
     "9320": {
@@ -157227,6 +157221,12 @@
         "source_id": "26871605",
         "display_name": "Dokud jsme mladí (2014) 720p CZ Dabing",
         "planned_at": "2026-09-21T11:10:46.986475+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-2",
+        "claimed_at": "2026-09-21T11:11:38.748728+00:00",
+        "lease_expires_at": "2026-09-21T17:11:38.748728+00:00",
+        "run_id": "35574076427"
       }
     },
     "36851": {
@@ -236343,5 +236343,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:11:36.236604+00:00"
+  "updated_at": "2026-09-21T11:11:44.093718+00:00"
 }
