@@ -149286,6 +149286,12 @@
         "claimed_at": "2026-09-21T04:06:03.438478+00:00",
         "lease_expires_at": "2026-09-21T10:06:03.438478+00:00",
         "run_id": "35549724548"
+      },
+      "previous_target_id": "29574587",
+      "prepared": {
+        "target_video_id": "29574587",
+        "size_bytes": 2101187982,
+        "prepared_at": "2026-09-21T04:06:08.560168+00:00"
       }
     },
     "31488": {
@@ -149360,13 +149366,6 @@
           "permanent": false,
           "source_id": "32106845",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:27:56.810372+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32106845",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:21.047449+00:00"
         },
         {
@@ -149375,6 +149374,13 @@
           "target_video_id": "29572992",
           "permanent": false,
           "attempted_at": "2026-09-21T02:28:39.820086+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32106845",
+          "target_video_id": "29572992",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:06:07.224755+00:00"
         }
       ],
       "last_plan": {
@@ -149385,7 +149391,7 @@
       "previous_target_id": "29572992",
       "prepared": {
         "target_video_id": "29572992",
-        "size_bytes": 2034036398,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-21T02:20:56.183555+00:00"
       }
     },
@@ -149484,6 +149490,12 @@
         "target_video_id": "29573004",
         "size_bytes": 4548159784,
         "prepared_at": "2026-09-21T02:21:27.047748+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
+        "claimed_at": "2026-09-21T04:06:07.567827+00:00",
+        "lease_expires_at": "2026-09-21T10:06:07.567827+00:00",
+        "run_id": "35549724548"
       }
     },
     "26349": {
@@ -234482,5 +234494,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:06:03.741949+00:00"
+  "updated_at": "2026-09-21T04:06:08.560186+00:00"
 }
