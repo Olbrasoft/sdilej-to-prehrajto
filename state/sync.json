@@ -156871,13 +156871,6 @@
           "permanent": false,
           "source_id": "28527253",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:55:51.545968+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28527253",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:07.596383+00:00"
         },
         {
@@ -156886,6 +156879,13 @@
           "target_video_id": "29578873",
           "permanent": false,
           "attempted_at": "2026-09-21T10:20:09.741635+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28527253",
+          "target_video_id": "29578873",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:11:21.216830+00:00"
         }
       ],
       "last_plan": {
@@ -156896,7 +156896,7 @@
       "previous_target_id": "29578873",
       "prepared": {
         "target_video_id": "29578873",
-        "size_bytes": 22771855160,
+        "size_bytes": 22800000000,
         "prepared_at": "2026-09-21T08:36:06.723332+00:00"
       }
     },
@@ -156960,16 +156960,10 @@
           "attempted_at": "2026-09-21T08:48:53.292581+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33758490",
-        "display_name": "Virový faktor (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T11:10:45.568440+00:00"
-      },
       "previous_target_id": "29578874",
-      "prepared": {
+      "upload": {
         "target_video_id": "29578874",
-        "size_bytes": 2924579778,
-        "prepared_at": "2026-09-21T08:36:08.974576+00:00"
+        "uploaded_at": "2026-09-21T11:11:22.985946+00:00"
       }
     },
     "30706": {
@@ -236373,5 +236367,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:11:17.691822+00:00"
+  "updated_at": "2026-09-21T11:11:22.985960+00:00"
 }
