@@ -147026,13 +147026,6 @@
           "permanent": false,
           "source_id": "12750313",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:05:37.266663+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12750313",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:21:01.132875+00:00"
         },
         {
@@ -147041,18 +147034,19 @@
           "source_id": "12750313",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:42.232766+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12750313",
+          "reason": "Request failed for https://sdilej.cz/12750313/impyho.dobrodruzstvi.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:25:03.172182+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12750313",
         "display_name": "Impyho dobrodružství (2008) SD CZ Dabing",
         "planned_at": "2026-09-21T00:17:04.015728+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-21T00:24:17.331842+00:00",
-        "lease_expires_at": "2026-09-21T06:24:17.331842+00:00",
-        "run_id": "35529171597"
       }
     },
     "34496": {
@@ -234203,5 +234197,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:24:20.984617+00:00"
+  "updated_at": "2026-09-21T00:25:03.172202+00:00"
 }
