@@ -146581,13 +146581,6 @@
           "permanent": false,
           "source_id": "29368051",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:19:55.721997+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29368051",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:38.012000+00:00"
         },
         {
@@ -146596,6 +146589,13 @@
           "target_video_id": "29568315",
           "permanent": false,
           "attempted_at": "2026-09-20T22:02:40.438759+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29368051",
+          "target_video_id": "29568315",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:18:04.428144+00:00"
         }
       ],
       "last_plan": {
@@ -146606,14 +146606,8 @@
       "previous_target_id": "29568315",
       "prepared": {
         "target_video_id": "29568315",
-        "size_bytes": 2474615725,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-20T21:52:12.067204+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-21T00:18:01.522176+00:00",
-        "lease_expires_at": "2026-09-21T06:18:01.522176+00:00",
-        "run_id": "35529171597"
       }
     },
     "33848": {
@@ -146694,16 +146688,10 @@
           "attempted_at": "2026-09-20T21:55:45.116850+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34285473",
-        "display_name": "Lunar Cop (1995) SD CZ Dabing",
-        "planned_at": "2026-09-21T00:17:01.999599+00:00"
-      },
       "previous_target_id": "29568320",
-      "prepared": {
+      "upload": {
         "target_video_id": "29568320",
-        "size_bytes": 864357352,
-        "prepared_at": "2026-09-20T21:52:31.529919+00:00"
+        "uploaded_at": "2026-09-21T00:18:06.291115+00:00"
       }
     },
     "28268": {
@@ -234209,5 +234197,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:18:02.376938+00:00"
+  "updated_at": "2026-09-21T00:18:06.291132+00:00"
 }
