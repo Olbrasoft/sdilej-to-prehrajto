@@ -69687,13 +69687,6 @@
           "source_id": "32814517",
           "target_video_id": "29302498",
           "permanent": false,
-          "attempted_at": "2026-09-21T00:03:04.033597+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32814517",
-          "target_video_id": "29302498",
-          "permanent": false,
           "attempted_at": "2026-09-21T01:11:57.186242+00:00"
         },
         {
@@ -69702,6 +69695,13 @@
           "target_video_id": "29302498",
           "permanent": false,
           "attempted_at": "2026-09-21T02:44:07.770939+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32814517",
+          "target_video_id": "29302498",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:00:33.533818+00:00"
         }
       ],
       "last_plan": {
@@ -69870,13 +69870,6 @@
           "source_id": "34684425",
           "target_video_id": "29302597",
           "permanent": false,
-          "attempted_at": "2026-09-21T00:03:03.494099+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34684425",
-          "target_video_id": "29302597",
-          "permanent": false,
           "attempted_at": "2026-09-21T01:11:57.896591+00:00"
         },
         {
@@ -69885,6 +69878,13 @@
           "target_video_id": "29302597",
           "permanent": false,
           "attempted_at": "2026-09-21T02:44:08.618436+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34684425",
+          "target_video_id": "29302597",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:00:35.241219+00:00"
         }
       ],
       "last_plan": {
@@ -69921,13 +69921,6 @@
           "source_id": "31621974",
           "target_video_id": "29302707",
           "permanent": false,
-          "attempted_at": "2026-09-21T00:03:05.513572+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31621974",
-          "target_video_id": "29302707",
-          "permanent": false,
           "attempted_at": "2026-09-21T01:11:57.663563+00:00"
         },
         {
@@ -69936,6 +69929,13 @@
           "target_video_id": "29302707",
           "permanent": false,
           "attempted_at": "2026-09-21T02:44:09.117661+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31621974",
+          "target_video_id": "29302707",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:00:36.813963+00:00"
         }
       ],
       "last_plan": {
@@ -70024,13 +70024,6 @@
           "source_id": "24035589",
           "target_video_id": "29302790",
           "permanent": false,
-          "attempted_at": "2026-09-21T00:03:06.296666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24035589",
-          "target_video_id": "29302790",
-          "permanent": false,
           "attempted_at": "2026-09-21T01:12:02.364448+00:00"
         },
         {
@@ -70039,6 +70032,13 @@
           "target_video_id": "29302790",
           "permanent": false,
           "attempted_at": "2026-09-21T02:44:09.765318+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24035589",
+          "target_video_id": "29302790",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:00:38.629745+00:00"
         }
       ],
       "last_plan": {
@@ -70117,7 +70117,13 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-15T12:52:59.942794+00:00"
       },
-      "previous_target_id": "29404171"
+      "previous_target_id": "29404171",
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
+        "claimed_at": "2026-09-21T04:00:38.951307+00:00",
+        "lease_expires_at": "2026-09-21T10:00:38.951307+00:00",
+        "run_id": "35549724548"
+      }
     },
     "12786": {
       "attempts": []
@@ -152662,13 +152668,6 @@
           "permanent": false,
           "source_id": "33875511",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:35:43.842658+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33875511",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:41:00.722877+00:00"
         },
         {
@@ -152677,18 +152676,19 @@
           "source_id": "33875511",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:41:32.021469+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33875511",
+          "target_video_id": "29574299",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:00:39.756651+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33875511",
         "display_name": "Žízeň (1979) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:50:07.189831+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
-        "claimed_at": "2026-09-21T03:48:14.555554+00:00",
-        "lease_expires_at": "2026-09-21T09:48:14.555554+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29574299",
       "prepared": {
@@ -234564,5 +234564,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:00:27.819111+00:00"
+  "updated_at": "2026-09-21T04:00:39.756668+00:00"
 }
