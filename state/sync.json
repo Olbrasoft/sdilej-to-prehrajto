@@ -151745,13 +151745,6 @@
           "permanent": false,
           "source_id": "32943423",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:10.933630+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32943423",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:18.740999+00:00"
         },
         {
@@ -151760,6 +151753,13 @@
           "target_video_id": "29573983",
           "permanent": false,
           "attempted_at": "2026-09-21T03:41:42.563570+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32943423",
+          "target_video_id": "29573983",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:20:42.633771+00:00"
         }
       ],
       "last_plan": {
@@ -151770,7 +151770,7 @@
       "previous_target_id": "29573983",
       "prepared": {
         "target_video_id": "29573983",
-        "size_bytes": 3526344207,
+        "size_bytes": 3500000000,
         "prepared_at": "2026-09-21T03:27:34.388170+00:00"
       }
     },
@@ -151817,6 +151817,18 @@
         "source_id": "33799573",
         "display_name": "Zkázonosná kometa (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-21T04:12:10.935101+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T04:20:42.925828+00:00",
+        "lease_expires_at": "2026-09-21T10:20:42.925828+00:00",
+        "run_id": "35549724548"
+      },
+      "previous_target_id": "29574854",
+      "prepared": {
+        "target_video_id": "29574854",
+        "size_bytes": 2372244108,
+        "prepared_at": "2026-09-21T04:20:46.574183+00:00"
       }
     },
     "5064": {
@@ -234400,5 +234412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:20:39.232984+00:00"
+  "updated_at": "2026-09-21T04:20:46.574199+00:00"
 }
