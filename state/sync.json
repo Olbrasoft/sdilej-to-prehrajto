@@ -154425,13 +154425,6 @@
           "permanent": false,
           "source_id": "34737859",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:55:05.599524+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34737859",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:55:19.166449+00:00"
         },
         {
@@ -154440,18 +154433,19 @@
           "source_id": "34737859",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:54.869950+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34737859",
+          "reason": "Request failed for https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:51:31.219223+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34737859",
         "display_name": "Beware the Slenderman (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-21T05:23:20.434549+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:50:45.351976+00:00",
-        "lease_expires_at": "2026-09-21T11:50:45.351976+00:00",
-        "run_id": "35549724548"
       }
     },
     "36779": {
@@ -154482,6 +154476,12 @@
         "source_id": "12681224",
         "display_name": "Chán Sulejmán a víla Fatmé (1985) SD",
         "planned_at": "2026-09-21T05:23:20.750580+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
+        "claimed_at": "2026-09-21T05:51:27.597388+00:00",
+        "lease_expires_at": "2026-09-21T11:51:27.597388+00:00",
+        "run_id": "35549724548"
       }
     },
     "17212": {
@@ -234978,5 +234978,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:51:22.490055+00:00"
+  "updated_at": "2026-09-21T05:51:31.219245+00:00"
 }
