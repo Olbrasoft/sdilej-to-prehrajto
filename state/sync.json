@@ -152600,13 +152600,6 @@
           "permanent": false,
           "source_id": "33203667",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:35:43.574265+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33203667",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:40:59.487854+00:00"
         },
         {
@@ -152615,18 +152608,19 @@
           "source_id": "33203667",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:41:31.508761+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33203667",
+          "target_video_id": "29574272",
+          "permanent": false,
+          "attempted_at": "2026-09-21T03:59:25.238263+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33203667",
         "display_name": "Metropie (2009) 720p CZ Titulky",
         "planned_at": "2026-09-21T02:50:06.868598+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
-        "claimed_at": "2026-09-21T03:46:58.107037+00:00",
-        "lease_expires_at": "2026-09-21T09:46:58.107037+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29574272",
       "prepared": {
@@ -234553,5 +234547,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T03:59:19.241525+00:00"
+  "updated_at": "2026-09-21T03:59:25.238282+00:00"
 }
