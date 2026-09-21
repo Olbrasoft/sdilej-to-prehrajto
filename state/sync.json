@@ -17969,17 +17969,19 @@
       }
     },
     "11057": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34673030",
+          "reason": "Request failed for https://sdilej.cz/34673030/mccabe-a-pani-millerova-1971-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T10:46:55.570016+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673030",
         "display_name": "McCabe a paní Millerová (1971) 720p CZ Dabing",
         "planned_at": "2026-09-21T10:45:47.684617+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
-        "claimed_at": "2026-09-21T10:46:08.696708+00:00",
-        "lease_expires_at": "2026-09-21T16:46:08.696708+00:00",
-        "run_id": "35574076427"
       }
     },
     "13091": {
@@ -44072,13 +44074,6 @@
           "source_id": "30242253",
           "target_video_id": "29482020",
           "permanent": false,
-          "attempted_at": "2026-09-21T07:44:10.008481+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30242253",
-          "target_video_id": "29482020",
-          "permanent": false,
           "attempted_at": "2026-09-21T08:22:25.083248+00:00"
         },
         {
@@ -44087,6 +44082,13 @@
           "target_video_id": "29482020",
           "permanent": false,
           "attempted_at": "2026-09-21T09:49:37.850228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30242253",
+          "target_video_id": "29482020",
+          "permanent": false,
+          "attempted_at": "2026-09-21T10:46:55.275289+00:00"
         }
       ],
       "last_plan": {
@@ -44099,13 +44101,7 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-18T10:49:34.459086+00:00"
       },
-      "previous_target_id": "29482020",
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-2",
-        "claimed_at": "2026-09-21T10:46:48.904501+00:00",
-        "lease_expires_at": "2026-09-21T16:46:48.904501+00:00",
-        "run_id": "35574076427"
-      }
+      "previous_target_id": "29482020"
     },
     "11273": {
       "attempts": [
@@ -236216,5 +236212,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T10:46:50.111364+00:00"
+  "updated_at": "2026-09-21T10:46:55.570036+00:00"
 }
