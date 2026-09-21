@@ -19198,13 +19198,6 @@
           "source_id": "32183571",
           "target_video_id": "29583352",
           "permanent": false,
-          "attempted_at": "2026-09-21T12:38:07.897502+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32183571",
-          "target_video_id": "29583352",
-          "permanent": false,
           "attempted_at": "2026-09-21T13:35:22.882702+00:00"
         },
         {
@@ -19213,6 +19206,13 @@
           "target_video_id": "29583352",
           "permanent": false,
           "attempted_at": "2026-09-21T14:09:07.231402+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32183571",
+          "target_video_id": "29583352",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:46:26.900190+00:00"
         }
       ],
       "last_plan": {
@@ -19418,13 +19418,6 @@
           "source_id": "30641618",
           "target_video_id": "29116000",
           "permanent": false,
-          "attempted_at": "2026-09-21T12:38:57.409709+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30641618",
-          "target_video_id": "29116000",
-          "permanent": false,
           "attempted_at": "2026-09-21T13:36:21.322284+00:00"
         },
         {
@@ -19433,6 +19426,13 @@
           "target_video_id": "29116000",
           "permanent": false,
           "attempted_at": "2026-09-21T14:09:19.468900+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30641618",
+          "target_video_id": "29116000",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:46:28.523506+00:00"
         }
       ],
       "last_plan": {
@@ -20688,13 +20688,6 @@
           "source_id": "29297028",
           "target_video_id": "29117207",
           "permanent": false,
-          "attempted_at": "2026-09-21T12:38:59.042465+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29297028",
-          "target_video_id": "29117207",
-          "permanent": false,
           "attempted_at": "2026-09-21T13:36:22.961708+00:00"
         },
         {
@@ -20703,6 +20696,13 @@
           "target_video_id": "29117207",
           "permanent": false,
           "attempted_at": "2026-09-21T14:09:21.212223+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29297028",
+          "target_video_id": "29117207",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:46:30.053804+00:00"
         }
       ],
       "last_plan": {
@@ -20941,13 +20941,6 @@
           "source_id": "34846875",
           "target_video_id": "29154105",
           "permanent": false,
-          "attempted_at": "2026-09-21T12:39:00.536071+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846875",
-          "target_video_id": "29154105",
-          "permanent": false,
           "attempted_at": "2026-09-21T13:36:24.875432+00:00"
         },
         {
@@ -20956,6 +20949,13 @@
           "target_video_id": "29154105",
           "permanent": false,
           "attempted_at": "2026-09-21T14:09:22.814698+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846875",
+          "target_video_id": "29154105",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:46:31.628360+00:00"
         }
       ],
       "last_plan": {
@@ -21450,7 +21450,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
       },
-      "previous_target_id": "29136383"
+      "previous_target_id": "29136383",
+      "claim": {
+        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-3",
+        "claimed_at": "2026-09-21T14:46:31.900460+00:00",
+        "lease_expires_at": "2026-09-21T20:46:31.900460+00:00",
+        "run_id": "35605790401"
+      }
     },
     "1249": {
       "attempts": []
@@ -68920,17 +68926,19 @@
       }
     },
     "14328": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34686126",
+          "target_video_id": "29587118",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:46:32.552206+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34686126",
         "display_name": "Skutečné vraždy: Školní sraz (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-21T14:25:52.500548+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-0",
-        "claimed_at": "2026-09-21T14:37:15.031872+00:00",
-        "lease_expires_at": "2026-09-21T20:37:15.031872+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29587118",
       "prepared": {
@@ -237253,5 +237261,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T14:46:23.202246+00:00"
+  "updated_at": "2026-09-21T14:46:32.552222+00:00"
 }
