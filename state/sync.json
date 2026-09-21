@@ -18466,17 +18466,19 @@
       "attempts": []
     },
     "22974": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34177065",
+          "reason": "Request failed for https://sdilej.cz/34177065/sherlock-holmes-pes-baskervillsky-1988-czdab.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:02:42.878197+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34177065",
         "display_name": "Sherlock Holmes: Pes baskervillský (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-21T11:55:45.461254+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T12:01:56.800644+00:00",
-        "lease_expires_at": "2026-09-21T18:01:56.800644+00:00",
-        "run_id": "35574076427"
       }
     },
     "17797": {
@@ -18504,6 +18506,12 @@
         "source_id": "34788767",
         "display_name": "Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky",
         "planned_at": "2026-09-21T11:55:45.732588+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
+        "claimed_at": "2026-09-21T12:02:21.747535+00:00",
+        "lease_expires_at": "2026-09-21T18:02:21.747535+00:00",
+        "run_id": "35574076427"
       }
     },
     "20433": {
@@ -236570,5 +236578,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:02:19.679861+00:00"
+  "updated_at": "2026-09-21T12:02:42.878216+00:00"
 }
