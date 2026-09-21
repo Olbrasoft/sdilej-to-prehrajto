@@ -147463,13 +147463,6 @@
           "permanent": false,
           "source_id": "26444567",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:20:50.956802+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26444567",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:22:07.478379+00:00"
         },
         {
@@ -147478,6 +147471,13 @@
           "source_id": "26444567",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:46.151080+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26444567",
+          "target_video_id": "29571776",
+          "permanent": false,
+          "attempted_at": "2026-09-21T01:31:05.879965+00:00"
         }
       ],
       "last_plan": {
@@ -147488,7 +147488,7 @@
       "previous_target_id": "29571776",
       "prepared": {
         "target_video_id": "29571776",
-        "size_bytes": 1534748702,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-21T00:32:10.513432+00:00"
       }
     },
@@ -147556,6 +147556,12 @@
         "source_id": "31902362",
         "display_name": "Orlí spáry (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:27:50.954837+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
+        "claimed_at": "2026-09-21T01:31:04.286069+00:00",
+        "lease_expires_at": "2026-09-21T07:31:04.286069+00:00",
+        "run_id": "35549724548"
       }
     },
     "28010": {
@@ -234193,5 +234199,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T01:31:02.192114+00:00"
+  "updated_at": "2026-09-21T01:31:05.879984+00:00"
 }
