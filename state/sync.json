@@ -161433,22 +161433,10 @@
           "attempted_at": "2026-09-21T15:36:12.764833+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32995259",
-        "display_name": "Náhradníci (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T16:18:27.710367+00:00"
-      },
       "previous_target_id": "29587886",
-      "prepared": {
+      "upload": {
         "target_video_id": "29587886",
-        "size_bytes": 4833644854,
-        "prepared_at": "2026-09-21T15:18:31.323074+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-3",
-        "claimed_at": "2026-09-21T16:19:00.393330+00:00",
-        "lease_expires_at": "2026-09-21T22:19:00.393330+00:00",
-        "run_id": "35605790401"
+        "uploaded_at": "2026-09-21T16:19:11.178594+00:00"
       }
     },
     "24487": {
@@ -161609,17 +161597,16 @@
         "target_video_id": "29587891",
         "size_bytes": 1909858458,
         "prepared_at": "2026-09-21T15:18:41.067883+00:00"
+      },
+      "claim": {
+        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-4",
+        "claimed_at": "2026-09-21T16:19:10.775775+00:00",
+        "lease_expires_at": "2026-09-21T22:19:10.775775+00:00",
+        "run_id": "35605790401"
       }
     },
     "4997": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21713787",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:43.841209+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -161633,6 +161620,13 @@
           "target_video_id": "29586331",
           "permanent": false,
           "attempted_at": "2026-09-21T15:20:02.790767+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21713787",
+          "target_video_id": "29586331",
+          "permanent": false,
+          "attempted_at": "2026-09-21T16:19:10.978408+00:00"
         }
       ],
       "last_plan": {
@@ -161645,12 +161639,6 @@
         "target_video_id": "29586331",
         "size_bytes": 13600000000,
         "prepared_at": "2026-09-21T13:54:35.182760+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-1",
-        "claimed_at": "2026-09-21T16:19:08.319371+00:00",
-        "lease_expires_at": "2026-09-21T22:19:08.319371+00:00",
-        "run_id": "35605790401"
       }
     },
     "5240": {
@@ -237586,5 +237574,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T16:19:08.658744+00:00"
+  "updated_at": "2026-09-21T16:19:11.178613+00:00"
 }
