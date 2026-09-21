@@ -114761,13 +114761,6 @@
           "source_id": "34898133",
           "target_video_id": "29231256",
           "permanent": false,
-          "attempted_at": "2026-09-20T21:02:42.068201+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34898133",
-          "target_video_id": "29231256",
-          "permanent": false,
           "attempted_at": "2026-09-20T23:55:24.454676+00:00"
         },
         {
@@ -114776,6 +114769,13 @@
           "target_video_id": "29231256",
           "permanent": false,
           "attempted_at": "2026-09-21T01:17:38.947431+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34898133",
+          "target_video_id": "29231256",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:47:28.577059+00:00"
         }
       ],
       "last_plan": {
@@ -115187,13 +115187,6 @@
           "source_id": "19560291",
           "target_video_id": "29168644",
           "permanent": false,
-          "attempted_at": "2026-09-20T21:02:42.305366+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19560291",
-          "target_video_id": "29168644",
-          "permanent": false,
           "attempted_at": "2026-09-20T23:55:26.924279+00:00"
         },
         {
@@ -115202,6 +115195,13 @@
           "target_video_id": "29168644",
           "permanent": false,
           "attempted_at": "2026-09-21T01:17:40.562515+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19560291",
+          "target_video_id": "29168644",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:47:28.918533+00:00"
         }
       ],
       "last_plan": {
@@ -115332,13 +115332,6 @@
           "source_id": "30130452",
           "target_video_id": "29222397",
           "permanent": false,
-          "attempted_at": "2026-09-20T21:02:44.908402+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30130452",
-          "target_video_id": "29222397",
-          "permanent": false,
           "attempted_at": "2026-09-20T23:55:26.653045+00:00"
         },
         {
@@ -115347,6 +115340,13 @@
           "target_video_id": "29222397",
           "permanent": false,
           "attempted_at": "2026-09-21T01:17:42.120371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30130452",
+          "target_video_id": "29222397",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:47:31.717159+00:00"
         }
       ],
       "last_plan": {
@@ -115650,13 +115650,6 @@
           "source_id": "26477759",
           "target_video_id": "29344175",
           "permanent": false,
-          "attempted_at": "2026-09-20T21:02:43.162124+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26477759",
-          "target_video_id": "29344175",
-          "permanent": false,
           "attempted_at": "2026-09-20T23:55:29.653827+00:00"
         },
         {
@@ -115665,6 +115658,13 @@
           "target_video_id": "29344175",
           "permanent": false,
           "attempted_at": "2026-09-21T01:17:43.648955+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26477759",
+          "target_video_id": "29344175",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:47:31.059920+00:00"
         }
       ],
       "last_plan": {
@@ -115752,7 +115752,13 @@
         "size_bytes": 14600000000,
         "prepared_at": "2026-09-13T08:19:12.173292+00:00"
       },
-      "previous_target_id": "29344287"
+      "previous_target_id": "29344287",
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
+        "claimed_at": "2026-09-21T02:47:32.169625+00:00",
+        "lease_expires_at": "2026-09-21T08:47:32.169625+00:00",
+        "run_id": "35549724548"
+      }
     },
     "3585": {
       "attempts": [
@@ -115788,7 +115794,13 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-09T16:37:40.807143+00:00"
       },
-      "previous_target_id": "29246919"
+      "previous_target_id": "29246919",
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T02:47:32.432954+00:00",
+        "lease_expires_at": "2026-09-21T08:47:32.432954+00:00",
+        "run_id": "35549724548"
+      }
     },
     "15897": {
       "attempts": []
@@ -150344,13 +150356,6 @@
           "permanent": false,
           "source_id": "17328077",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:33:52.558493+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17328077",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:36:48.365563+00:00"
         },
         {
@@ -150359,18 +150364,19 @@
           "source_id": "17328077",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:40.513312+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17328077",
+          "target_video_id": "29573220",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:47:33.346899+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17328077",
         "display_name": "Táta na kvadrát (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:28:03.179438+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T02:38:19.032918+00:00",
-        "lease_expires_at": "2026-09-21T08:38:19.032918+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29573220",
       "prepared": {
@@ -234404,5 +234410,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T02:47:21.777063+00:00"
+  "updated_at": "2026-09-21T02:47:33.346916+00:00"
 }
