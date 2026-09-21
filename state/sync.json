@@ -160704,13 +160704,6 @@
           "source_id": "31822704",
           "reason": "Request failed for https://sdilej.cz/31822704/mafianovi-cz-dabing-1080p-.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-21T13:11:02.145242+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31822704",
-          "reason": "Request failed for https://sdilej.cz/31822704/mafianovi-cz-dabing-1080p-.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-21T13:47:38.297751+00:00"
         },
         {
@@ -160719,6 +160712,14 @@
           "target_video_id": "29587692",
           "permanent": false,
           "attempted_at": "2026-09-21T15:19:55.216269+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31822704",
+          "target_video_id": "29587692",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-21T16:19:03.442685+00:00"
         }
       ],
       "last_plan": {
@@ -160726,18 +160727,7 @@
         "display_name": "Mafiánovi (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-21T16:18:26.680989+00:00"
       },
-      "previous_target_id": "29587692",
-      "prepared": {
-        "target_video_id": "29587692",
-        "size_bytes": 2983136622,
-        "prepared_at": "2026-09-21T15:10:40.217866+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-2",
-        "claimed_at": "2026-09-21T16:18:59.038625+00:00",
-        "lease_expires_at": "2026-09-21T22:18:59.038625+00:00",
-        "run_id": "35605790401"
-      }
+      "previous_target_id": "29587692"
     },
     "4898": {
       "attempts": [
@@ -161414,13 +161404,6 @@
           "permanent": false,
           "source_id": "33108813",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:42.700051+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33108813",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:16.671771+00:00"
         },
         {
@@ -161429,6 +161412,13 @@
           "target_video_id": "29585867",
           "permanent": false,
           "attempted_at": "2026-09-21T15:18:23.218998+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33108813",
+          "target_video_id": "29585867",
+          "permanent": false,
+          "attempted_at": "2026-09-21T16:19:03.237639+00:00"
         }
       ],
       "last_plan": {
@@ -161441,12 +161431,6 @@
         "target_video_id": "29585867",
         "size_bytes": 26300000000,
         "prepared_at": "2026-09-21T13:28:43.280209+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-1",
-        "claimed_at": "2026-09-21T16:19:00.632687+00:00",
-        "lease_expires_at": "2026-09-21T22:19:00.632687+00:00",
-        "run_id": "35605790401"
       }
     },
     "5248": {
@@ -237614,5 +237598,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T16:19:00.870886+00:00"
+  "updated_at": "2026-09-21T16:19:03.442706+00:00"
 }
