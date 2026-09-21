@@ -154134,13 +154134,6 @@
           "permanent": false,
           "source_id": "34701658",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:55:02.446448+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34701658",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:55:15.260044+00:00"
         },
         {
@@ -154149,18 +154142,19 @@
           "source_id": "34701658",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:34.951104+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34701658",
+          "target_video_id": "29575978",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:42:20.657694+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34701658",
         "display_name": "Utečeme na jih (1978) SD CZ Dabing",
         "planned_at": "2026-09-21T05:23:18.235090+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
-        "claimed_at": "2026-09-21T05:39:05.242375+00:00",
-        "lease_expires_at": "2026-09-21T11:39:05.242375+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29575978",
       "prepared": {
@@ -154200,6 +154194,12 @@
         "source_id": "25326268",
         "display_name": "Šerifovo auto (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-21T05:23:18.561966+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T05:41:37.725670+00:00",
+        "lease_expires_at": "2026-09-21T11:41:37.725670+00:00",
+        "run_id": "35549724548"
       }
     },
     "12132": {
@@ -234960,5 +234960,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:41:29.945776+00:00"
+  "updated_at": "2026-09-21T05:42:20.657711+00:00"
 }
