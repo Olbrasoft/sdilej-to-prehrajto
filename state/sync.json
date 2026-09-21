@@ -153188,13 +153188,6 @@
           "permanent": false,
           "source_id": "29893909",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:41:02.495816+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29893909",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:41:33.529569+00:00"
         },
         {
@@ -153203,6 +153196,13 @@
           "target_video_id": "29574399",
           "permanent": false,
           "attempted_at": "2026-09-21T04:11:55.797453+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29893909",
+          "target_video_id": "29574399",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:27:23.770795+00:00"
         }
       ],
       "last_plan": {
@@ -153213,7 +153213,7 @@
       "previous_target_id": "29574399",
       "prepared": {
         "target_video_id": "29574399",
-        "size_bytes": 4629507064,
+        "size_bytes": 4600000000,
         "prepared_at": "2026-09-21T03:53:52.831692+00:00"
       }
     },
@@ -153260,16 +153260,10 @@
           "attempted_at": "2026-09-21T04:31:37.067466+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "3679154",
-        "display_name": "White Bird in a Blizzard (2014) 720p CZ Titulky",
-        "planned_at": "2026-09-21T05:23:13.568483+00:00"
-      },
       "previous_target_id": "29574916",
-      "prepared": {
+      "upload": {
         "target_video_id": "29574916",
-        "size_bytes": 2092937216,
-        "prepared_at": "2026-09-21T04:24:13.069742+00:00"
+        "uploaded_at": "2026-09-21T05:27:25.459522+00:00"
       }
     },
     "11321": {
@@ -234960,5 +234954,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:27:14.830119+00:00"
+  "updated_at": "2026-09-21T05:27:25.459540+00:00"
 }
