@@ -151204,13 +151204,6 @@
     "13567": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17536648",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:37:48.677216+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "17536648",
           "target_video_id": "29573656",
@@ -151223,6 +151216,13 @@
           "target_video_id": "29573656",
           "permanent": false,
           "attempted_at": "2026-09-21T04:14:08.074158+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17536648",
+          "target_video_id": "29573656",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:22:36.377211+00:00"
         }
       ],
       "last_plan": {
@@ -151235,12 +151235,6 @@
         "target_video_id": "29573656",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-21T03:07:05.840795+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:22:31.966451+00:00",
-        "lease_expires_at": "2026-09-21T11:22:31.966451+00:00",
-        "run_id": "35549724548"
       }
     },
     "20368": {
@@ -151511,22 +151505,10 @@
           "attempted_at": "2026-09-21T04:14:16.146125+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34040621",
-        "display_name": "Legenda o ztraceném (1957) 720p CZ Dabing",
-        "planned_at": "2026-09-21T05:21:47.805801+00:00"
-      },
       "previous_target_id": "29573713",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573713",
-        "size_bytes": 2000000000,
-        "prepared_at": "2026-09-21T03:10:05.401888+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T05:22:32.250141+00:00",
-        "lease_expires_at": "2026-09-21T11:22:32.250141+00:00",
-        "run_id": "35549724548"
+        "uploaded_at": "2026-09-21T05:22:37.272110+00:00"
       }
     },
     "16425": {
@@ -151605,6 +151587,12 @@
         "target_video_id": "29573756",
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-21T03:12:40.845728+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
+        "claimed_at": "2026-09-21T05:22:36.657234+00:00",
+        "lease_expires_at": "2026-09-21T11:22:36.657234+00:00",
+        "run_id": "35549724548"
       }
     },
     "14135": {
@@ -151673,6 +151661,12 @@
         "target_video_id": "29574753",
         "size_bytes": 1520398179,
         "prepared_at": "2026-09-21T04:14:25.193504+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T05:22:36.976779+00:00",
+        "lease_expires_at": "2026-09-21T11:22:36.976779+00:00",
+        "run_id": "35549724548"
       }
     },
     "18780": {
@@ -235024,5 +235018,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:22:34.459810+00:00"
+  "updated_at": "2026-09-21T05:22:37.272135+00:00"
 }
