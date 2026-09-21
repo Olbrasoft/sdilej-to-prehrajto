@@ -159363,13 +159363,6 @@
     "5258": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26233937",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:57:43.016943+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26233937",
           "reason": "Request failed for https://sdilej.cz/26233937/driv-nez-pujdu-spat-2014.mkv (HTTP None)",
@@ -159382,18 +159375,19 @@
           "reason": "Request failed for https://sdilej.cz/26233937/driv-nez-pujdu-spat-2014.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T11:31:32.351236+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26233937",
+          "reason": "Request failed for https://sdilej.cz/26233937/driv-nez-pujdu-spat-2014.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:59:04.723545+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26233937",
         "display_name": "Dřív než půjdu spát (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-21T12:57:36.520549+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T12:58:15.751922+00:00",
-        "lease_expires_at": "2026-09-21T18:58:15.751922+00:00",
-        "run_id": "35574076427"
       }
     },
     "7797": {
@@ -236787,5 +236781,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:59:02.520830+00:00"
+  "updated_at": "2026-09-21T12:59:04.723565+00:00"
 }
