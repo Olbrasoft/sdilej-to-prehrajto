@@ -18615,17 +18615,19 @@
       }
     },
     "1018": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32927294",
+          "target_video_id": "29581931",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:21:48.662794+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32927294",
         "display_name": "Harry Potter a Fénixův řád (2007) 4K CZ Dabing",
         "planned_at": "2026-09-21T10:55:22.022265+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T10:55:39.048215+00:00",
-        "lease_expires_at": "2026-09-21T16:55:39.048215+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29581931",
       "prepared": {
@@ -158636,6 +158638,12 @@
         "source_id": "35041561",
         "display_name": "Mortal Kombat II (2026) 4K CZ Dabing",
         "planned_at": "2026-09-21T11:10:55.633111+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-3",
+        "claimed_at": "2026-09-21T11:21:28.388643+00:00",
+        "lease_expires_at": "2026-09-21T17:21:28.388643+00:00",
+        "run_id": "35574076427"
       }
     },
     "8790": {
@@ -236345,5 +236353,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:21:26.299492+00:00"
+  "updated_at": "2026-09-21T11:21:48.662809+00:00"
 }
