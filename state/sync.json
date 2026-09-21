@@ -151772,13 +151772,6 @@
           "permanent": false,
           "source_id": "33799573",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:12.045838+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33799573",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:19.685347+00:00"
         },
         {
@@ -151787,18 +151780,19 @@
           "reason": "Request failed for https://sdilej.cz/33799573/zkazonosna-kometa-1984-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T03:31:54.168132+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33799573",
+          "target_video_id": "29574854",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:29:20.435735+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33799573",
         "display_name": "Zkázonosná kometa (1984) 1080p CZ Dabing",
         "planned_at": "2026-09-21T04:12:10.935101+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T04:20:42.925828+00:00",
-        "lease_expires_at": "2026-09-21T10:20:42.925828+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29574854",
       "prepared": {
@@ -234436,5 +234430,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:28:01.855765+00:00"
+  "updated_at": "2026-09-21T04:29:20.435757+00:00"
 }
