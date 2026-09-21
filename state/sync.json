@@ -151802,13 +151802,6 @@
           "permanent": false,
           "source_id": "33731507",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:35:37.583134+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33731507",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:39:08.519157+00:00"
         },
         {
@@ -151817,18 +151810,19 @@
           "source_id": "33731507",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:16.701683+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33731507",
+          "reason": "Request failed for https://sdilej.cz/33731507/navrat-cerneho-hrebce-1983-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T03:25:33.995339+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33731507",
         "display_name": "Návrat černého hřebce (1983) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:50:01.221691+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T03:24:48.237603+00:00",
-        "lease_expires_at": "2026-09-21T09:24:48.237603+00:00",
-        "run_id": "35549724548"
       }
     },
     "11313": {
@@ -234464,5 +234458,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T03:24:51.124818+00:00"
+  "updated_at": "2026-09-21T03:25:33.995357+00:00"
 }
