@@ -145939,13 +145939,6 @@
           "permanent": false,
           "source_id": "15664710",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:14:42.796645+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "15664710",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:25.808285+00:00"
         },
         {
@@ -145954,18 +145947,19 @@
           "reason": "Request failed for https://sdilej.cz/15664710/detektiv-leo-zasahuje-no.clue.2013.720p.hdtv.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T21:14:13.389918+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15664710",
+          "target_video_id": "29571524",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:25:32.085542+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15664710",
         "display_name": "Detektiv Leo zasahuje (2013) 720p CZ Dabing",
         "planned_at": "2026-09-21T00:02:45.428053+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-4",
-        "claimed_at": "2026-09-21T00:13:21.344935+00:00",
-        "lease_expires_at": "2026-09-21T06:13:21.344935+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29571524",
       "prepared": {
@@ -234215,5 +234209,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:25:16.789050+00:00"
+  "updated_at": "2026-09-21T00:25:32.085563+00:00"
 }
