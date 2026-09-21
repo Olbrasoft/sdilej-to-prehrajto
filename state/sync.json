@@ -148971,13 +148971,6 @@
           "permanent": false,
           "source_id": "26803391",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:20.401656+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26803391",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:27.807021+00:00"
         },
         {
@@ -148986,6 +148979,13 @@
           "target_video_id": "29572889",
           "permanent": false,
           "attempted_at": "2026-09-21T02:20:50.688654+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26803391",
+          "target_video_id": "29572889",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:05:57.274670+00:00"
         }
       ],
       "last_plan": {
@@ -148996,14 +148996,8 @@
       "previous_target_id": "29572889",
       "prepared": {
         "target_video_id": "29572889",
-        "size_bytes": 2415174723,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-21T02:11:26.743723+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
-        "claimed_at": "2026-09-21T04:05:54.209667+00:00",
-        "lease_expires_at": "2026-09-21T10:05:54.209667+00:00",
-        "run_id": "35549724548"
       }
     },
     "30720": {
@@ -149139,16 +149133,10 @@
           "attempted_at": "2026-09-21T02:21:21.602058+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29871143",
-        "display_name": "Confucius (2010) SD CZ Titulky",
-        "planned_at": "2026-09-21T04:04:58.983836+00:00"
-      },
       "previous_target_id": "29572938",
-      "prepared": {
+      "upload": {
         "target_video_id": "29572938",
-        "size_bytes": 1458298126,
-        "prepared_at": "2026-09-21T02:15:38.639909+00:00"
+        "uploaded_at": "2026-09-21T04:05:58.864092+00:00"
       }
     },
     "5053": {
@@ -149226,6 +149214,12 @@
         "target_video_id": "29572941",
         "size_bytes": 3534076840,
         "prepared_at": "2026-09-21T02:15:45.743954+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
+        "claimed_at": "2026-09-21T04:05:57.858639+00:00",
+        "lease_expires_at": "2026-09-21T10:05:57.858639+00:00",
+        "run_id": "35549724548"
       }
     },
     "20717": {
@@ -234500,5 +234494,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:05:55.222860+00:00"
+  "updated_at": "2026-09-21T04:05:58.864103+00:00"
 }
