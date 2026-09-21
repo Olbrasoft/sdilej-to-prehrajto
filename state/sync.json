@@ -149720,13 +149720,6 @@
           "permanent": false,
           "source_id": "27964193",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:36:46.088867+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27964193",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:32.259747+00:00"
         },
         {
@@ -149735,6 +149728,13 @@
           "target_video_id": "29573110",
           "permanent": false,
           "attempted_at": "2026-09-21T02:38:11.888645+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27964193",
+          "target_video_id": "29573110",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:09:58.943021+00:00"
         }
       ],
       "last_plan": {
@@ -149745,7 +149745,7 @@
       "previous_target_id": "29573110",
       "prepared": {
         "target_video_id": "29573110",
-        "size_bytes": 2858720985,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-21T02:28:51.058673+00:00"
       }
     },
@@ -149893,6 +149893,18 @@
         "source_id": "34722728",
         "display_name": "Cesta do Sonory (1975) SD CZ Dabing",
         "planned_at": "2026-09-21T04:05:01.848203+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T04:09:59.280584+00:00",
+        "lease_expires_at": "2026-09-21T10:09:59.280584+00:00",
+        "run_id": "35549724548"
+      },
+      "previous_target_id": "29574667",
+      "prepared": {
+        "target_video_id": "29574667",
+        "size_bytes": 960511050,
+        "prepared_at": "2026-09-21T04:10:02.949380+00:00"
       }
     },
     "23682": {
@@ -234484,5 +234496,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:09:55.577924+00:00"
+  "updated_at": "2026-09-21T04:10:02.949399+00:00"
 }
