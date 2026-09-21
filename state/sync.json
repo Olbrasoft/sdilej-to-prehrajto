@@ -149087,13 +149087,6 @@
           "permanent": false,
           "source_id": "26803391",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:24:35.926126+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26803391",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:26:20.401656+00:00"
         },
         {
@@ -149102,18 +149095,19 @@
           "source_id": "26803391",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:27.807021+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26803391",
+          "target_video_id": "29572889",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:20:50.688654+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26803391",
         "display_name": "Pan Dokonalý (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:27:57.899133+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T02:11:23.309819+00:00",
-        "lease_expires_at": "2026-09-21T08:11:23.309819+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29572889",
       "prepared": {
@@ -149450,6 +149444,12 @@
         "source_id": "33791481",
         "display_name": "Proč já? (1990) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:27:59.189236+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
+        "claimed_at": "2026-09-21T02:20:33.827947+00:00",
+        "lease_expires_at": "2026-09-21T08:20:33.827947+00:00",
+        "run_id": "35549724548"
       }
     },
     "31488": {
@@ -234364,5 +234364,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T02:20:31.809497+00:00"
+  "updated_at": "2026-09-21T02:20:50.688671+00:00"
 }
