@@ -154954,6 +154954,12 @@
         "claimed_at": "2026-09-21T08:31:19.555457+00:00",
         "lease_expires_at": "2026-09-21T14:31:19.555457+00:00",
         "run_id": "35570393734"
+      },
+      "previous_target_id": "29578775",
+      "prepared": {
+        "target_video_id": "29578775",
+        "size_bytes": 576442056,
+        "prepared_at": "2026-09-21T08:31:25.513289+00:00"
       }
     },
     "17212": {
@@ -154999,13 +155005,6 @@
           "permanent": false,
           "source_id": "29805869",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:55:20.381313+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29805869",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:59.033426+00:00"
         },
         {
@@ -155014,6 +155013,13 @@
           "target_video_id": "29576176",
           "permanent": false,
           "attempted_at": "2026-09-21T05:59:21.098513+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29805869",
+          "target_video_id": "29576176",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:31:23.897429+00:00"
         }
       ],
       "last_plan": {
@@ -155024,7 +155030,7 @@
       "previous_target_id": "29576176",
       "prepared": {
         "target_video_id": "29576176",
-        "size_bytes": 1815400527,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-21T05:51:36.882677+00:00"
       }
     },
@@ -155077,6 +155083,12 @@
         "target_video_id": "29576183",
         "size_bytes": 2740986837,
         "prepared_at": "2026-09-21T05:51:55.146552+00:00"
+      },
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-4",
+        "claimed_at": "2026-09-21T08:31:24.184587+00:00",
+        "lease_expires_at": "2026-09-21T14:31:24.184587+00:00",
+        "run_id": "35570393734"
       }
     },
     "14005": {
@@ -235516,5 +235528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:31:19.821364+00:00"
+  "updated_at": "2026-09-21T08:31:25.513307+00:00"
 }
