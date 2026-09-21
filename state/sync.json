@@ -161337,13 +161337,6 @@
           "permanent": false,
           "source_id": "29249957",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:57:30.097096+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29249957",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:47.335900+00:00"
         },
         {
@@ -161352,18 +161345,19 @@
           "source_id": "29249957",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:23.404725+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29249957",
+          "target_video_id": "29586525",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:15:37.440907+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29249957",
         "display_name": "Hledání opravdového boha (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-21T13:45:09.387885+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-3",
-        "claimed_at": "2026-09-21T14:05:25.406108+00:00",
-        "lease_expires_at": "2026-09-21T20:05:25.406108+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29586525",
       "prepared": {
@@ -236936,5 +236930,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T14:14:37.223127+00:00"
+  "updated_at": "2026-09-21T14:15:37.440922+00:00"
 }
