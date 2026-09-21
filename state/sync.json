@@ -161937,13 +161937,6 @@
           "permanent": false,
           "source_id": "33155998",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:47.625694+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33155998",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:23.094586+00:00"
         },
         {
@@ -161952,6 +161945,13 @@
           "target_video_id": "29588145",
           "permanent": false,
           "attempted_at": "2026-09-21T15:37:19.115734+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33155998",
+          "target_video_id": "29588145",
+          "permanent": false,
+          "attempted_at": "2026-09-21T16:19:40.114770+00:00"
         }
       ],
       "last_plan": {
@@ -161962,7 +161962,7 @@
       "previous_target_id": "29588145",
       "prepared": {
         "target_video_id": "29588145",
-        "size_bytes": 2052319044,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-21T15:28:54.498750+00:00"
       }
     },
@@ -162072,16 +162072,10 @@
           "attempted_at": "2026-09-21T15:48:30.709843+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34771949",
-        "display_name": "Sergeant (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-21T16:19:18.438624+00:00"
-      },
       "previous_target_id": "29588360",
-      "prepared": {
+      "upload": {
         "target_video_id": "29588360",
-        "size_bytes": 3163746753,
-        "prepared_at": "2026-09-21T15:37:29.258548+00:00"
+        "uploaded_at": "2026-09-21T16:19:41.780309+00:00"
       }
     },
     "5040": {
@@ -237538,5 +237532,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T16:19:36.580551+00:00"
+  "updated_at": "2026-09-21T16:19:41.780319+00:00"
 }
