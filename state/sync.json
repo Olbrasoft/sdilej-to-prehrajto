@@ -152278,22 +152278,10 @@
           "attempted_at": "2026-09-21T04:20:42.633771+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32943423",
-        "display_name": "Ano, lásko (aneb o čem se nevyjednává) (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T05:21:49.309487+00:00"
-      },
       "previous_target_id": "29573983",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573983",
-        "size_bytes": 3500000000,
-        "prepared_at": "2026-09-21T03:27:34.388170+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T05:22:50.404952+00:00",
-        "lease_expires_at": "2026-09-21T11:22:50.404952+00:00",
-        "run_id": "35549724548"
+        "uploaded_at": "2026-09-21T05:22:53.982251+00:00"
       }
     },
     "5347": {
@@ -152314,13 +152302,6 @@
     "11533": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33799573",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:39:19.685347+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33799573",
           "reason": "Request failed for https://sdilej.cz/33799573/zkazonosna-kometa-1984-1080p-cz.mp4 (HTTP None)",
@@ -152333,6 +152314,13 @@
           "target_video_id": "29574854",
           "permanent": false,
           "attempted_at": "2026-09-21T04:29:20.435735+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33799573",
+          "target_video_id": "29574854",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:22:53.122707+00:00"
         }
       ],
       "last_plan": {
@@ -152343,14 +152331,8 @@
       "previous_target_id": "29574854",
       "prepared": {
         "target_video_id": "29574854",
-        "size_bytes": 2372244108,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-21T04:20:46.574183+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:22:50.706640+00:00",
-        "lease_expires_at": "2026-09-21T11:22:50.706640+00:00",
-        "run_id": "35549724548"
       }
     },
     "5064": {
@@ -152387,6 +152369,12 @@
         "target_video_id": "29574033",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-21T03:31:11.891713+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
+        "claimed_at": "2026-09-21T05:22:53.411774+00:00",
+        "lease_expires_at": "2026-09-21T11:22:53.411774+00:00",
+        "run_id": "35549724548"
       }
     },
     "5280": {
@@ -152436,6 +152424,12 @@
         "target_video_id": "29574046",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-21T03:32:06.346474+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T05:22:53.702736+00:00",
+        "lease_expires_at": "2026-09-21T11:22:53.702736+00:00",
+        "run_id": "35549724548"
       }
     },
     "10959": {
@@ -234994,5 +234988,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:22:51.006638+00:00"
+  "updated_at": "2026-09-21T05:22:53.982270+00:00"
 }
