@@ -158208,13 +158208,6 @@
           "permanent": false,
           "source_id": "33712056",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:56:48.920550+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33712056",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:35.336351+00:00"
         },
         {
@@ -158223,6 +158216,13 @@
           "target_video_id": "29579390",
           "permanent": false,
           "attempted_at": "2026-09-21T09:36:01.477466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33712056",
+          "target_video_id": "29579390",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:19:43.463472+00:00"
         }
       ],
       "last_plan": {
@@ -158233,7 +158233,7 @@
       "previous_target_id": "29579390",
       "prepared": {
         "target_video_id": "29579390",
-        "size_bytes": 5917623094,
+        "size_bytes": 5900000000,
         "prepared_at": "2026-09-21T09:09:41.622315+00:00"
       }
     },
@@ -158265,6 +158265,18 @@
         "source_id": "24203222",
         "display_name": "Paralelní světy (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-21T11:10:52.027565+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T11:19:43.781752+00:00",
+        "lease_expires_at": "2026-09-21T17:19:43.781752+00:00",
+        "run_id": "35574076427"
+      },
+      "previous_target_id": "29582432",
+      "prepared": {
+        "target_video_id": "29582432",
+        "size_bytes": 2642604984,
+        "prepared_at": "2026-09-21T11:19:47.488185+00:00"
       }
     },
     "5241": {
@@ -236332,5 +236344,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:19:37.415473+00:00"
+  "updated_at": "2026-09-21T11:19:47.488201+00:00"
 }
