@@ -93009,13 +93009,6 @@
           "source_id": "34941645",
           "target_video_id": "29221305",
           "permanent": false,
-          "attempted_at": "2026-09-20T19:55:39.219628+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34941645",
-          "target_video_id": "29221305",
-          "permanent": false,
           "attempted_at": "2026-09-20T21:01:24.116706+00:00"
         },
         {
@@ -93024,6 +93017,13 @@
           "target_video_id": "29221305",
           "permanent": false,
           "attempted_at": "2026-09-20T23:52:56.797228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29221305",
+          "permanent": false,
+          "attempted_at": "2026-09-21T01:13:33.062020+00:00"
         }
       ],
       "last_plan": {
@@ -93036,13 +93036,7 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T18:57:54.499743+00:00"
       },
-      "previous_target_id": "29221305",
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
-        "claimed_at": "2026-09-21T01:13:26.785579+00:00",
-        "lease_expires_at": "2026-09-21T07:13:26.785579+00:00",
-        "run_id": "35549724548"
-      }
+      "previous_target_id": "29221305"
     },
     "17488": {
       "attempts": []
@@ -93109,6 +93103,18 @@
         "source_id": "34903502",
         "display_name": "Konfident (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:12:42.282322+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
+        "claimed_at": "2026-09-21T01:13:33.315230+00:00",
+        "lease_expires_at": "2026-09-21T07:13:33.315230+00:00",
+        "run_id": "35549724548"
+      },
+      "previous_target_id": "29572227",
+      "prepared": {
+        "target_video_id": "29572227",
+        "size_bytes": 5064154775,
+        "prepared_at": "2026-09-21T01:13:36.678207+00:00"
       }
     },
     "34184": {
@@ -93169,6 +93175,13 @@
           "target_video_id": "29571373",
           "permanent": false,
           "attempted_at": "2026-09-21T00:16:48.776844+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12998986",
+          "target_video_id": "29571373",
+          "permanent": false,
+          "attempted_at": "2026-09-21T01:13:36.177091+00:00"
         }
       ],
       "last_plan": {
@@ -93179,7 +93192,7 @@
       "previous_target_id": "29571373",
       "prepared": {
         "target_video_id": "29571373",
-        "size_bytes": 2765129923,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-21T00:03:16.501293+00:00"
       }
     },
@@ -93595,7 +93608,13 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-07T01:53:47.781384+00:00"
       },
-      "previous_target_id": "29176023"
+      "previous_target_id": "29176023",
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
+        "claimed_at": "2026-09-21T01:13:36.439725+00:00",
+        "lease_expires_at": "2026-09-21T07:13:36.439725+00:00",
+        "run_id": "35549724548"
+      }
     },
     "31169": {
       "attempts": []
@@ -234226,5 +234245,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T01:13:27.550173+00:00"
+  "updated_at": "2026-09-21T01:13:36.678224+00:00"
 }
