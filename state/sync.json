@@ -78314,18 +78314,19 @@
           "reason": "Request failed for https://sdilej.cz/34700359/dobry-den-pani-campbellova-1968-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T23:25:02.772510+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34700359",
+          "target_video_id": "29571249",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:05:11.698590+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34700359",
         "display_name": "Dobrý den, paní Campbellová! (1968) SD CZ Dabing",
         "planned_at": "2026-09-20T23:56:13.125139+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-5",
-        "claimed_at": "2026-09-20T23:56:40.502608+00:00",
-        "lease_expires_at": "2026-09-21T05:56:40.502608+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29571249",
       "prepared": {
@@ -111592,13 +111593,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T21:03:28.314338+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T21:38:02.346662+00:00"
         },
         {
@@ -111607,6 +111601,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T23:55:52.962295+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-21T00:05:10.425242+00:00"
         }
       ],
       "last_plan": {
@@ -145383,6 +145384,12 @@
         "target_video_id": "29568109",
         "size_bytes": 2279451454,
         "prepared_at": "2026-09-20T21:42:43.339974+00:00"
+      },
+      "claim": {
+        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-2",
+        "claimed_at": "2026-09-21T00:05:10.738398+00:00",
+        "lease_expires_at": "2026-09-21T06:05:10.738398+00:00",
+        "run_id": "35529171597"
       }
     },
     "23093": {
@@ -234267,5 +234274,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:03:58.833369+00:00"
+  "updated_at": "2026-09-21T00:05:11.698610+00:00"
 }
