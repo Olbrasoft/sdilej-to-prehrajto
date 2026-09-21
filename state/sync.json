@@ -17670,13 +17670,6 @@
           "source_id": "34698821",
           "target_video_id": "29559466",
           "permanent": false,
-          "attempted_at": "2026-09-21T06:15:37.540799+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34698821",
-          "target_video_id": "29559466",
-          "permanent": false,
           "attempted_at": "2026-09-21T06:57:00.840913+00:00"
         },
         {
@@ -17685,6 +17678,13 @@
           "target_video_id": "29559466",
           "permanent": false,
           "attempted_at": "2026-09-21T07:41:40.462179+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34698821",
+          "target_video_id": "29559466",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:20:56.823828+00:00"
         }
       ],
       "last_plan": {
@@ -17697,23 +17697,10 @@
         "target_video_id": "29559466",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-20T13:35:13.471691+00:00"
-      },
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-3",
-        "claimed_at": "2026-09-21T08:20:50.141909+00:00",
-        "lease_expires_at": "2026-09-21T14:20:50.141909+00:00",
-        "run_id": "35570393734"
       }
     },
     "12540": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34786124",
-          "target_video_id": "29559509",
-          "permanent": false,
-          "attempted_at": "2026-09-21T06:15:37.902122+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34786124",
@@ -17727,6 +17714,13 @@
           "target_video_id": "29559509",
           "permanent": false,
           "attempted_at": "2026-09-21T07:41:42.297565+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34786124",
+          "target_video_id": "29559509",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:20:58.973098+00:00"
         }
       ],
       "last_plan": {
@@ -17869,13 +17863,6 @@
           "source_id": "34785737",
           "target_video_id": "29559537",
           "permanent": false,
-          "attempted_at": "2026-09-21T06:15:39.483522+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34785737",
-          "target_video_id": "29559537",
-          "permanent": false,
           "attempted_at": "2026-09-21T06:57:04.516311+00:00"
         },
         {
@@ -17884,6 +17871,13 @@
           "target_video_id": "29559537",
           "permanent": false,
           "attempted_at": "2026-09-21T07:41:44.095469+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34785737",
+          "target_video_id": "29559537",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:20:58.598875+00:00"
         }
       ],
       "last_plan": {
@@ -18313,6 +18307,12 @@
         "target_video_id": "29564989",
         "size_bytes": 7800000000,
         "prepared_at": "2026-09-20T18:24:25.429737+00:00"
+      },
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-3",
+        "claimed_at": "2026-09-21T08:20:59.695457+00:00",
+        "lease_expires_at": "2026-09-21T14:20:59.695457+00:00",
+        "run_id": "35570393734"
       }
     },
     "35156": {
@@ -18778,7 +18778,13 @@
         "size_bytes": 14700000000,
         "prepared_at": "2026-09-05T01:45:38.119064+00:00"
       },
-      "previous_target_id": "29116000"
+      "previous_target_id": "29116000",
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-1",
+        "claimed_at": "2026-09-21T08:20:59.382149+00:00",
+        "lease_expires_at": "2026-09-21T14:20:59.382149+00:00",
+        "run_id": "35570393734"
+      }
     },
     "32415": {
       "attempts": []
@@ -67699,17 +67705,19 @@
       "attempts": []
     },
     "31016": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34733296",
+          "target_video_id": "29578268",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:21:00.037750+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34733296",
         "display_name": "Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-21T08:00:49.429464+00:00"
-      },
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-5",
-        "claimed_at": "2026-09-21T08:15:51.287246+00:00",
-        "lease_expires_at": "2026-09-21T14:15:51.287246+00:00",
-        "run_id": "35570393734"
       },
       "previous_target_id": "29578268",
       "prepared": {
@@ -235692,5 +235700,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:20:50.502314+00:00"
+  "updated_at": "2026-09-21T08:21:00.037767+00:00"
 }
