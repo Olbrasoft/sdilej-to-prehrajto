@@ -67099,13 +67099,6 @@
           "source_id": "33977351",
           "target_video_id": "29216512",
           "permanent": false,
-          "attempted_at": "2026-09-21T05:18:00.345931+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33977351",
-          "target_video_id": "29216512",
-          "permanent": false,
           "attempted_at": "2026-09-21T08:01:22.498846+00:00"
         },
         {
@@ -67114,6 +67107,13 @@
           "target_video_id": "29216512",
           "permanent": false,
           "attempted_at": "2026-09-21T08:32:49.023735+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33977351",
+          "target_video_id": "29216512",
+          "permanent": false,
+          "attempted_at": "2026-09-21T09:52:15.196197+00:00"
         }
       ],
       "last_plan": {
@@ -67126,13 +67126,7 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-08T15:16:28.558567+00:00"
       },
-      "previous_target_id": "29216512",
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T09:52:12.418120+00:00",
-        "lease_expires_at": "2026-09-21T15:52:12.418120+00:00",
-        "run_id": "35574076427"
-      }
+      "previous_target_id": "29216512"
     },
     "13008": {
       "attempts": []
@@ -67259,22 +67253,10 @@
           "attempted_at": "2026-09-21T08:09:49.946704+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33537511",
-        "display_name": "Biblické příběhy: David (1997) SD CZ Dabing",
-        "planned_at": "2026-09-21T09:51:42.292199+00:00"
-      },
       "previous_target_id": "29578024",
-      "prepared": {
+      "upload": {
         "target_video_id": "29578024",
-        "size_bytes": 1882250779,
-        "prepared_at": "2026-09-21T08:01:33.659282+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
-        "claimed_at": "2026-09-21T09:52:12.160425+00:00",
-        "lease_expires_at": "2026-09-21T15:52:12.160425+00:00",
-        "run_id": "35574076427"
+        "uploaded_at": "2026-09-21T09:52:16.021011+00:00"
       }
     },
     "13057": {
@@ -67303,6 +67285,12 @@
         "target_video_id": "29578025",
         "size_bytes": 3379617656,
         "prepared_at": "2026-09-21T08:01:35.911709+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-2",
+        "claimed_at": "2026-09-21T09:52:15.464047+00:00",
+        "lease_expires_at": "2026-09-21T15:52:15.464047+00:00",
+        "run_id": "35574076427"
       }
     },
     "15667": {
@@ -67441,6 +67429,12 @@
         "target_video_id": "29578143",
         "size_bytes": 3270753832,
         "prepared_at": "2026-09-21T08:08:54.383637+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T09:52:15.743554+00:00",
+        "lease_expires_at": "2026-09-21T15:52:15.743554+00:00",
+        "run_id": "35574076427"
       }
     },
     "15938": {
@@ -235673,5 +235667,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T09:52:13.099206+00:00"
+  "updated_at": "2026-09-21T09:52:16.021029+00:00"
 }
