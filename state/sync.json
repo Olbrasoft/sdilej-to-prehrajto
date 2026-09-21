@@ -147448,13 +147448,6 @@
     "6397": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26444567",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:25:46.151080+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26444567",
           "target_video_id": "29571776",
@@ -147467,6 +147460,13 @@
           "target_video_id": "29571776",
           "permanent": false,
           "attempted_at": "2026-09-21T02:48:59.908861+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26444567",
+          "target_video_id": "29571776",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:05:30.329740+00:00"
         }
       ],
       "last_plan": {
@@ -147479,12 +147479,6 @@
         "target_video_id": "29571776",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-21T00:32:10.513432+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
-        "claimed_at": "2026-09-21T04:05:27.447709+00:00",
-        "lease_expires_at": "2026-09-21T10:05:27.447709+00:00",
-        "run_id": "35549724548"
       }
     },
     "13065": {
@@ -147769,16 +147763,10 @@
           "attempted_at": "2026-09-21T02:57:19.245367+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34686798",
-        "display_name": "Život vzhůru nohama (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T04:04:54.879588+00:00"
-      },
       "previous_target_id": "29573389",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573389",
-        "size_bytes": 2439781035,
-        "prepared_at": "2026-09-21T02:49:16.089292+00:00"
+        "uploaded_at": "2026-09-21T04:05:32.025381+00:00"
       }
     },
     "30481": {
@@ -148039,6 +148027,12 @@
         "target_video_id": "29572579",
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-21T01:49:07.233088+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
+        "claimed_at": "2026-09-21T04:05:30.888769+00:00",
+        "lease_expires_at": "2026-09-21T10:05:30.888769+00:00",
+        "run_id": "35549724548"
       }
     },
     "33849": {
@@ -234554,5 +234548,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:05:28.335953+00:00"
+  "updated_at": "2026-09-21T04:05:32.025398+00:00"
 }
