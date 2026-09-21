@@ -150662,13 +150662,6 @@
           "permanent": false,
           "source_id": "17536648",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:36:53.244062+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17536648",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:48.677216+00:00"
         },
         {
@@ -150677,6 +150670,13 @@
           "target_video_id": "29573656",
           "permanent": false,
           "attempted_at": "2026-09-21T03:14:34.038229+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17536648",
+          "target_video_id": "29573656",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:14:08.074158+00:00"
         }
       ],
       "last_plan": {
@@ -150687,7 +150687,7 @@
       "previous_target_id": "29573656",
       "prepared": {
         "target_video_id": "29573656",
-        "size_bytes": 2420223564,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-21T03:07:05.840795+00:00"
       }
     },
@@ -150735,16 +150735,10 @@
           "attempted_at": "2026-09-21T03:11:36.121316+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34379071",
-        "display_name": "Srdce je zrádná děvka (2004) SD CZ Dabing",
-        "planned_at": "2026-09-21T04:12:05.651349+00:00"
-      },
       "previous_target_id": "29573657",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573657",
-        "size_bytes": 1439374323,
-        "prepared_at": "2026-09-21T03:07:12.153205+00:00"
+        "uploaded_at": "2026-09-21T04:14:09.607178+00:00"
       }
     },
     "17055": {
@@ -234448,5 +234442,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:14:04.648541+00:00"
+  "updated_at": "2026-09-21T04:14:09.607196+00:00"
 }
