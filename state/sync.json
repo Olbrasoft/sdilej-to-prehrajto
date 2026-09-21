@@ -159390,13 +159390,6 @@
           "source_id": "26233937",
           "reason": "Request failed for https://sdilej.cz/26233937/driv-nez-pujdu-spat-2014.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-21T09:41:41.664614+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "26233937",
-          "reason": "Request failed for https://sdilej.cz/26233937/driv-nez-pujdu-spat-2014.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-21T11:31:32.351236+00:00"
         },
         {
@@ -159405,18 +159398,19 @@
           "reason": "Request failed for https://sdilej.cz/26233937/driv-nez-pujdu-spat-2014.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T12:59:04.723545+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26233937",
+          "target_video_id": "29586181",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:56:26.444322+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26233937",
         "display_name": "Dřív než půjdu spát (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-21T13:45:03.108287+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T13:45:41.428115+00:00",
-        "lease_expires_at": "2026-09-21T19:45:41.428115+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29586181",
       "prepared": {
@@ -161110,6 +161104,12 @@
         "source_id": "28289465",
         "display_name": "V cizí kůži (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-21T13:45:07.860194+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T13:56:20.390795+00:00",
+        "lease_expires_at": "2026-09-21T19:56:20.390795+00:00",
+        "run_id": "35574076427"
       }
     },
     "4882": {
@@ -236888,5 +236888,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:56:14.549894+00:00"
+  "updated_at": "2026-09-21T13:56:26.444339+00:00"
 }
