@@ -160147,13 +160147,6 @@
           "permanent": false,
           "source_id": "20168574",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:56:27.030825+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20168574",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:07.067466+00:00"
         },
         {
@@ -160162,18 +160155,19 @@
           "source_id": "20168574",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:50.172112+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20168574",
+          "reason": "Request failed for https://sdilej.cz/20168574/velky-blazinec-v-malem-hotelu.guest.house.paradiso.1999.dvdrip.x264.en.cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:14:05.452251+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20168574",
         "display_name": "Velký blázinec v malém hotelu (1999) SD CZ Dabing",
         "planned_at": "2026-09-21T12:57:40.009052+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T13:13:19.536443+00:00",
-        "lease_expires_at": "2026-09-21T19:13:19.536443+00:00",
-        "run_id": "35574076427"
       }
     },
     "22256": {
@@ -160252,6 +160246,12 @@
         "source_id": "34660731",
         "display_name": "Uvidím tě na Venuši (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-21T12:57:40.276474+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
+        "claimed_at": "2026-09-21T13:13:53.808710+00:00",
+        "lease_expires_at": "2026-09-21T19:13:53.808710+00:00",
+        "run_id": "35574076427"
       }
     },
     "10365": {
@@ -236817,5 +236817,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:13:48.922400+00:00"
+  "updated_at": "2026-09-21T13:14:05.452269+00:00"
 }
