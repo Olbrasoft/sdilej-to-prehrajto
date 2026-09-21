@@ -29001,13 +29001,6 @@
           "source_id": "32908053",
           "target_video_id": "29524935",
           "permanent": false,
-          "attempted_at": "2026-09-21T06:16:09.502822+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32908053",
-          "target_video_id": "29524935",
-          "permanent": false,
           "attempted_at": "2026-09-21T06:57:54.424930+00:00"
         },
         {
@@ -29016,6 +29009,13 @@
           "target_video_id": "29524935",
           "permanent": false,
           "attempted_at": "2026-09-21T07:42:37.392185+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32908053",
+          "target_video_id": "29524935",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:21:32.709531+00:00"
         }
       ],
       "last_plan": {
@@ -29028,13 +29028,7 @@
         "size_bytes": 6400000000,
         "prepared_at": "2026-09-19T09:15:54.113650+00:00"
       },
-      "previous_target_id": "29524935",
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-3",
-        "claimed_at": "2026-09-21T08:21:25.718957+00:00",
-        "lease_expires_at": "2026-09-21T14:21:25.718957+00:00",
-        "run_id": "35570393734"
-      }
+      "previous_target_id": "29524935"
     },
     "1814": {
       "attempts": [
@@ -30563,13 +30557,6 @@
           "source_id": "34621783",
           "target_video_id": "29393997",
           "permanent": false,
-          "attempted_at": "2026-09-21T06:16:10.178045+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34621783",
-          "target_video_id": "29393997",
-          "permanent": false,
           "attempted_at": "2026-09-21T06:57:56.233154+00:00"
         },
         {
@@ -30578,6 +30565,13 @@
           "target_video_id": "29393997",
           "permanent": false,
           "attempted_at": "2026-09-21T07:42:39.095860+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34621783",
+          "target_video_id": "29393997",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:21:32.955283+00:00"
         }
       ],
       "last_plan": {
@@ -30590,13 +30584,7 @@
         "size_bytes": 10200000000,
         "prepared_at": "2026-09-15T01:06:45.406157+00:00"
       },
-      "previous_target_id": "29393997",
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-5",
-        "claimed_at": "2026-09-21T08:21:26.377777+00:00",
-        "lease_expires_at": "2026-09-21T14:21:26.377777+00:00",
-        "run_id": "35570393734"
-      }
+      "previous_target_id": "29393997"
     },
     "30976": {
       "attempts": []
@@ -30732,7 +30720,13 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-14T23:56:20.153455+00:00"
       },
-      "previous_target_id": "29392866"
+      "previous_target_id": "29392866",
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-1",
+        "claimed_at": "2026-09-21T08:21:33.241172+00:00",
+        "lease_expires_at": "2026-09-21T14:21:33.241172+00:00",
+        "run_id": "35570393734"
+      }
     },
     "1790": {
       "attempts": [],
@@ -30775,7 +30769,13 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-12T14:44:53.299815+00:00"
       },
-      "previous_target_id": "29326087"
+      "previous_target_id": "29326087",
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-3",
+        "claimed_at": "2026-09-21T08:21:33.762779+00:00",
+        "lease_expires_at": "2026-09-21T14:21:33.762779+00:00",
+        "run_id": "35570393734"
+      }
     },
     "13144": {
       "attempts": [
@@ -31494,7 +31494,13 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-14T19:14:09.436547+00:00"
       },
-      "previous_target_id": "29387905"
+      "previous_target_id": "29387905",
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-5",
+        "claimed_at": "2026-09-21T08:21:33.492971+00:00",
+        "lease_expires_at": "2026-09-21T14:21:33.492971+00:00",
+        "run_id": "35570393734"
+      }
     },
     "22205": {
       "attempts": [
@@ -67408,17 +67414,19 @@
       "attempts": []
     },
     "15726": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694139",
+          "target_video_id": "29578143",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:21:34.635077+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694139",
         "display_name": "Hořkosladký déšť (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-21T08:00:48.248818+00:00"
-      },
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-4",
-        "claimed_at": "2026-09-21T08:08:48.069392+00:00",
-        "lease_expires_at": "2026-09-21T14:08:48.069392+00:00",
-        "run_id": "35570393734"
       },
       "previous_target_id": "29578143",
       "prepared": {
@@ -235700,5 +235708,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:21:27.303695+00:00"
+  "updated_at": "2026-09-21T08:21:34.635093+00:00"
 }
