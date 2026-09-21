@@ -18501,17 +18501,19 @@
       }
     },
     "30116": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34788767",
+          "reason": "Request failed for https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:03:07.545617+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788767",
         "display_name": "Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky",
         "planned_at": "2026-09-21T11:55:45.732588+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T12:02:21.747535+00:00",
-        "lease_expires_at": "2026-09-21T18:02:21.747535+00:00",
-        "run_id": "35574076427"
       }
     },
     "20433": {
@@ -236584,5 +236586,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:02:52.302873+00:00"
+  "updated_at": "2026-09-21T12:03:07.545633+00:00"
 }
