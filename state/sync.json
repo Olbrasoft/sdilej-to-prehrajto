@@ -160933,13 +160933,6 @@
           "permanent": false,
           "source_id": "34172114",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:08.952235+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34172114",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:52.830147+00:00"
         },
         {
@@ -160948,18 +160941,19 @@
           "reason": "Request failed for https://sdilej.cz/34172114/ave-caesar-2016-uhdrdv-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T13:17:33.500410+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34172114",
+          "target_video_id": "29587860",
+          "permanent": false,
+          "attempted_at": "2026-09-21T15:36:01.329666+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34172114",
         "display_name": "Ave, Ceasar! (2016) 4K CZ Dabing",
         "planned_at": "2026-09-21T15:10:02.423326+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-2",
-        "claimed_at": "2026-09-21T15:17:51.285171+00:00",
-        "lease_expires_at": "2026-09-21T21:17:51.285171+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29587860",
       "prepared": {
@@ -237502,5 +237496,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T15:28:54.498765+00:00"
+  "updated_at": "2026-09-21T15:36:01.329683+00:00"
 }
