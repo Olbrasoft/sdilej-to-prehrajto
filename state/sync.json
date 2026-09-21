@@ -154449,13 +154449,6 @@
           "permanent": false,
           "source_id": "12681224",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:55:05.077346+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12681224",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:55:20.048759+00:00"
         },
         {
@@ -154464,18 +154457,19 @@
           "source_id": "12681224",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:55.128765+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12681224",
+          "reason": "Request failed for https://sdilej.cz/12681224/pohadky-chan-sulejman-a-vila-fatme-1985-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:52:13.512202+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12681224",
         "display_name": "Chán Sulejmán a víla Fatmé (1985) SD",
         "planned_at": "2026-09-21T05:23:20.750580+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T05:51:27.597388+00:00",
-        "lease_expires_at": "2026-09-21T11:51:27.597388+00:00",
-        "run_id": "35549724548"
       }
     },
     "17212": {
@@ -234996,5 +234990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:51:55.146698+00:00"
+  "updated_at": "2026-09-21T05:52:13.512222+00:00"
 }
