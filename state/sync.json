@@ -153668,13 +153668,6 @@
           "permanent": false,
           "source_id": "11903060",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:58.417183+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11903060",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:30.387751+00:00"
         },
         {
@@ -153683,18 +153676,19 @@
           "reason": "Request failed for https://sdilej.cz/11903060/nicitele.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T04:36:53.071191+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11903060",
+          "target_video_id": "29575837",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:38:01.470089+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11903060",
         "display_name": "Učitelé (1984) 720p CZ Dabing",
         "planned_at": "2026-09-21T05:23:15.756564+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T05:29:19.104748+00:00",
-        "lease_expires_at": "2026-09-21T11:29:19.104748+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29575837",
       "prepared": {
@@ -234954,5 +234948,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:34:14.134444+00:00"
+  "updated_at": "2026-09-21T05:38:01.470107+00:00"
 }
