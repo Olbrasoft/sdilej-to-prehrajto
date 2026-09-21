@@ -157930,13 +157930,6 @@
           "permanent": false,
           "source_id": "35046526",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:56:00.011596+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35046526",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:18.205899+00:00"
         },
         {
@@ -157945,6 +157938,13 @@
           "target_video_id": "29579296",
           "permanent": false,
           "attempted_at": "2026-09-21T09:09:35.707219+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35046526",
+          "target_video_id": "29579296",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:13:36.419709+00:00"
         }
       ],
       "last_plan": {
@@ -157955,7 +157955,7 @@
       "previous_target_id": "29579296",
       "prepared": {
         "target_video_id": "29579296",
-        "size_bytes": 1468792832,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-21T09:02:02.410498+00:00"
       }
     },
@@ -157992,16 +157992,10 @@
           "attempted_at": "2026-09-21T09:12:53.219084+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "23454392",
-        "display_name": "Raymond & Ray (2022) 1080p CZ Titulky",
-        "planned_at": "2026-09-21T11:10:50.275335+00:00"
-      },
       "previous_target_id": "29579297",
-      "prepared": {
+      "upload": {
         "target_video_id": "29579297",
-        "size_bytes": 2162930129,
-        "prepared_at": "2026-09-21T09:02:08.895210+00:00"
+        "uploaded_at": "2026-09-21T11:13:38.080528+00:00"
       }
     },
     "18381": {
@@ -236332,5 +236326,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:13:32.982665+00:00"
+  "updated_at": "2026-09-21T11:13:38.080539+00:00"
 }
