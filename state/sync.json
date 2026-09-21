@@ -146514,13 +146514,6 @@
           "permanent": false,
           "source_id": "12389104",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:19:54.300820+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12389104",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:37.348606+00:00"
         },
         {
@@ -146529,18 +146522,19 @@
           "reason": "Request failed for https://sdilej.cz/12389104/roztomily-mazlicek-roztomily-maznacik-chestnut-hero-of-central-park.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T21:52:25.420170+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12389104",
+          "target_video_id": "29571570",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:24:13.441865+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12389104",
         "display_name": "Roztomilý mazlíček (2004) SD CZ Dabing",
         "planned_at": "2026-09-21T00:17:01.484013+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-0",
-        "claimed_at": "2026-09-21T00:17:58.447575+00:00",
-        "lease_expires_at": "2026-09-21T06:17:58.447575+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29571570",
       "prepared": {
@@ -234191,5 +234185,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:23:58.483351+00:00"
+  "updated_at": "2026-09-21T00:24:13.441887+00:00"
 }
