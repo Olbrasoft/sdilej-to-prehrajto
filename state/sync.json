@@ -159872,13 +159872,6 @@
           "permanent": false,
           "source_id": "34477883",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:04.318281+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34477883",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:48.550422+00:00"
         },
         {
@@ -159887,18 +159880,19 @@
           "reason": "Request failed for https://sdilej.cz/34477883/pilotuv-navrat-1985-ct-2-hd-t2-270-2026-04-13-19.58.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T13:07:00.104245+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34477883",
+          "target_video_id": "29586194",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:53:28.799112+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34477883",
         "display_name": "Pilotův návrat (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-21T13:45:05.478992+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T13:46:45.724200+00:00",
-        "lease_expires_at": "2026-09-21T19:46:45.724200+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29586194",
       "prepared": {
@@ -236888,5 +236882,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:51:13.360126+00:00"
+  "updated_at": "2026-09-21T13:53:28.799127+00:00"
 }
