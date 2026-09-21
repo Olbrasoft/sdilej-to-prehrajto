@@ -151335,13 +151335,6 @@
           "permanent": false,
           "source_id": "34345252",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:35:18.598309+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34345252",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:39:00.903301+00:00"
         },
         {
@@ -151350,18 +151343,19 @@
           "source_id": "34345252",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:11.768567+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34345252",
+          "reason": "Request failed for https://sdilej.cz/34345252/cerny-pas-1992-cz-dabing-1.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T03:17:26.153203+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34345252",
         "display_name": "Černý pás (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:49:58.652797+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
-        "claimed_at": "2026-09-21T03:16:40.326599+00:00",
-        "lease_expires_at": "2026-09-21T09:16:40.326599+00:00",
-        "run_id": "35549724548"
       }
     },
     "34371": {
@@ -234440,5 +234434,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T03:17:03.182218+00:00"
+  "updated_at": "2026-09-21T03:17:26.153222+00:00"
 }
