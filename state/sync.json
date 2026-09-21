@@ -147418,13 +147418,6 @@
           "permanent": false,
           "source_id": "18860827",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:06.410706+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "18860827",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:45.920165+00:00"
         },
         {
@@ -147433,18 +147426,19 @@
           "reason": "Request failed for https://sdilej.cz/18860827/vitejte-u-hartmanu-willkommen.bei.den.hartmanns.2016.1080p.bluray.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T00:31:56.177263+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18860827",
+          "target_video_id": "29572341",
+          "permanent": false,
+          "attempted_at": "2026-09-21T01:49:58.818199+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18860827",
         "display_name": "Vítejte u Hartmannů (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-21T01:27:50.420079+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
-        "claimed_at": "2026-09-21T01:29:09.501167+00:00",
-        "lease_expires_at": "2026-09-21T07:29:09.501167+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29572341",
       "prepared": {
@@ -234286,5 +234280,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T01:49:34.287135+00:00"
+  "updated_at": "2026-09-21T01:49:58.818217+00:00"
 }
