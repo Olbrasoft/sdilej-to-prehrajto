@@ -153909,13 +153909,6 @@
           "permanent": false,
           "source_id": "33812573",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:54:48.689101+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33812573",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:55:00.962779+00:00"
         },
         {
@@ -153924,18 +153917,19 @@
           "source_id": "33812573",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:33.238605+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33812573",
+          "target_video_id": "29575904",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:41:29.945760+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33812573",
         "display_name": "Deník malého poseroutky 3 (2012) 720p CZ Dabing",
         "planned_at": "2026-09-21T05:23:17.325027+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:33:26.947738+00:00",
-        "lease_expires_at": "2026-09-21T11:33:26.947738+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29575904",
       "prepared": {
@@ -234966,5 +234960,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:39:08.928187+00:00"
+  "updated_at": "2026-09-21T05:41:29.945776+00:00"
 }
