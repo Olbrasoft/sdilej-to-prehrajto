@@ -58756,13 +58756,6 @@
           "source_id": "31035474",
           "target_video_id": "29239853",
           "permanent": false,
-          "attempted_at": "2026-09-21T06:25:59.025003+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31035474",
-          "target_video_id": "29239853",
-          "permanent": false,
           "attempted_at": "2026-09-21T07:20:27.664025+00:00"
         },
         {
@@ -58771,6 +58764,13 @@
           "target_video_id": "29239853",
           "permanent": false,
           "attempted_at": "2026-09-21T08:01:11.248608+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31035474",
+          "target_video_id": "29239853",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:32:08.784232+00:00"
         }
       ],
       "last_plan": {
@@ -58783,13 +58783,7 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-09-09T10:47:49.948468+00:00"
       },
-      "previous_target_id": "29239853",
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-4",
-        "claimed_at": "2026-09-21T08:32:00.336613+00:00",
-        "lease_expires_at": "2026-09-21T14:32:00.336613+00:00",
-        "run_id": "35570393734"
-      }
+      "previous_target_id": "29239853"
     },
     "2690": {
       "attempts": []
@@ -154898,13 +154892,6 @@
           "permanent": false,
           "source_id": "34737859",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:55:19.166449+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34737859",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:54.869950+00:00"
         },
         {
@@ -154913,18 +154900,19 @@
           "reason": "Request failed for https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T05:51:31.219223+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34737859",
+          "reason": "Request failed for https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:32:09.060326+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34737859",
         "display_name": "Beware the Slenderman (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-21T08:29:44.491289+00:00"
-      },
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-0",
-        "claimed_at": "2026-09-21T08:31:17.056711+00:00",
-        "lease_expires_at": "2026-09-21T14:31:17.056711+00:00",
-        "run_id": "35570393734"
       }
     },
     "36779": {
@@ -235523,5 +235511,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:32:01.539343+00:00"
+  "updated_at": "2026-09-21T08:32:09.060346+00:00"
 }
