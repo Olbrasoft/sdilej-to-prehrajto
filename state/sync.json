@@ -88467,6 +88467,12 @@
         "claimed_at": "2026-09-21T13:41:02.317398+00:00",
         "lease_expires_at": "2026-09-21T19:41:02.317398+00:00",
         "run_id": "35574076427"
+      },
+      "previous_target_id": "29586096",
+      "prepared": {
+        "target_video_id": "29586096",
+        "size_bytes": 2219303593,
+        "prepared_at": "2026-09-21T13:41:08.995426+00:00"
       }
     },
     "24139": {
@@ -89610,13 +89616,6 @@
     "8673": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28380593",
-          "reason": "Request failed for https://sdilej.cz/28380593/citlivy-clovek-2023-cz.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-21T10:22:58.338182+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28380593",
           "target_video_id": "29581989",
@@ -89629,6 +89628,13 @@
           "target_video_id": "29581989",
           "permanent": false,
           "attempted_at": "2026-09-21T12:45:27.267637+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28380593",
+          "target_video_id": "29581989",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:41:08.719729+00:00"
         }
       ],
       "last_plan": {
@@ -89641,12 +89647,6 @@
         "target_video_id": "29581989",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-21T10:59:42.320036+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T13:41:05.500925+00:00",
-        "lease_expires_at": "2026-09-21T19:41:05.500925+00:00",
-        "run_id": "35574076427"
       }
     },
     "17630": {
@@ -236893,5 +236893,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:41:06.455991+00:00"
+  "updated_at": "2026-09-21T13:41:08.995439+00:00"
 }
