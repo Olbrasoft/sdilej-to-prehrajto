@@ -93693,13 +93693,6 @@
           "source_id": "12863543",
           "target_video_id": "29479320",
           "permanent": false,
-          "attempted_at": "2026-09-21T14:19:42.252076+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12863543",
-          "target_video_id": "29479320",
-          "permanent": false,
           "attempted_at": "2026-09-21T15:06:52.235675+00:00"
         },
         {
@@ -93708,6 +93701,13 @@
           "target_video_id": "29479320",
           "permanent": false,
           "attempted_at": "2026-09-21T16:15:40.690259+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12863543",
+          "target_video_id": "29479320",
+          "permanent": false,
+          "attempted_at": "2026-09-21T23:16:03.254065+00:00"
         }
       ],
       "last_plan": {
@@ -93920,13 +93920,6 @@
           "source_id": "34791759",
           "target_video_id": "29140505",
           "permanent": false,
-          "attempted_at": "2026-09-21T14:19:43.959344+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34791759",
-          "target_video_id": "29140505",
-          "permanent": false,
           "attempted_at": "2026-09-21T15:07:00.083578+00:00"
         },
         {
@@ -93935,6 +93928,13 @@
           "target_video_id": "29140505",
           "permanent": false,
           "attempted_at": "2026-09-21T16:15:41.416814+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34791759",
+          "target_video_id": "29140505",
+          "permanent": false,
+          "attempted_at": "2026-09-21T23:16:04.740997+00:00"
         }
       ],
       "last_plan": {
@@ -93953,7 +93953,15 @@
       "attempts": []
     },
     "21626": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30864318",
+          "reason": "Request failed for https://sdilej.cz/30864318/kazda-koruna-dobra.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T23:16:50.793681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30864318",
         "display_name": "Každá koruna dobrá (1961) SD CZ Dabing",
@@ -238177,5 +238185,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T23:15:53.379719+00:00"
+  "updated_at": "2026-09-21T23:16:50.793699+00:00"
 }
