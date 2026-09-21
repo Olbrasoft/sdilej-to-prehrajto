@@ -152518,13 +152518,6 @@
           "source_id": "24709903",
           "target_video_id": "29274277",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:27:37.306339+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24709903",
-          "target_video_id": "29274277",
-          "permanent": false,
           "attempted_at": "2026-09-21T03:37:12.590304+00:00"
         },
         {
@@ -152533,6 +152526,13 @@
           "target_video_id": "29274277",
           "permanent": false,
           "attempted_at": "2026-09-21T04:22:59.981581+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24709903",
+          "target_video_id": "29274277",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:23:05.509647+00:00"
         }
       ],
       "last_plan": {
@@ -152545,13 +152545,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-10T14:14:17.651896+00:00"
       },
-      "previous_target_id": "29274277",
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:23:00.644031+00:00",
-        "lease_expires_at": "2026-09-21T11:23:00.644031+00:00",
-        "run_id": "35549724548"
-      }
+      "previous_target_id": "29274277"
     },
     "15572": {
       "attempts": [
@@ -152577,16 +152571,10 @@
           "attempted_at": "2026-09-21T03:55:33.855700+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29910409",
-        "display_name": "Těžký rok (2023) 1080p CZ Titulky",
-        "planned_at": "2026-09-21T05:21:51.099800+00:00"
-      },
       "previous_target_id": "29574119",
-      "prepared": {
+      "upload": {
         "target_video_id": "29574119",
-        "size_bytes": 4565560875,
-        "prepared_at": "2026-09-21T03:37:16.099222+00:00"
+        "uploaded_at": "2026-09-21T05:23:07.104623+00:00"
       }
     },
     "5360": {
@@ -152641,6 +152629,12 @@
         "target_video_id": "29574893",
         "size_bytes": 4411400519,
         "prepared_at": "2026-09-21T04:23:03.491012+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T05:23:06.153841+00:00",
+        "lease_expires_at": "2026-09-21T11:23:06.153841+00:00",
+        "run_id": "35549724548"
       }
     },
     "35237": {
@@ -234976,5 +234970,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:23:03.452656+00:00"
+  "updated_at": "2026-09-21T05:23:07.104637+00:00"
 }
