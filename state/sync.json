@@ -18675,17 +18675,19 @@
       }
     },
     "32181": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30207144",
+          "target_video_id": "29583192",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:11:17.520054+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30207144",
         "display_name": "Stovky bobrů (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-21T11:33:15.355149+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
-        "claimed_at": "2026-09-21T11:34:39.872631+00:00",
-        "lease_expires_at": "2026-09-21T17:34:39.872631+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29583192",
       "prepared": {
@@ -18973,6 +18975,12 @@
         "source_id": "22599124",
         "display_name": "Smrt čeká všude (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-21T11:55:47.164962+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
+        "claimed_at": "2026-09-21T12:11:00.000619+00:00",
+        "lease_expires_at": "2026-09-21T18:11:00.000619+00:00",
+        "run_id": "35574076427"
       }
     },
     "30675": {
@@ -236594,5 +236602,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:10:57.802370+00:00"
+  "updated_at": "2026-09-21T12:11:17.520075+00:00"
 }
