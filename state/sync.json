@@ -151020,13 +151020,6 @@
           "permanent": false,
           "source_id": "32457811",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:36:55.949138+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32457811",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:53.497730+00:00"
         },
         {
@@ -151035,6 +151028,13 @@
           "target_video_id": "29573756",
           "permanent": false,
           "attempted_at": "2026-09-21T03:31:06.009961+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32457811",
+          "target_video_id": "29573756",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:14:21.439373+00:00"
         }
       ],
       "last_plan": {
@@ -151045,7 +151045,7 @@
       "previous_target_id": "29573756",
       "prepared": {
         "target_video_id": "29573756",
-        "size_bytes": 4795287399,
+        "size_bytes": 4800000000,
         "prepared_at": "2026-09-21T03:12:40.845728+00:00"
       }
     },
@@ -151109,6 +151109,18 @@
         "source_id": "12895228",
         "display_name": "Villains (2019) SD CZ Titulky",
         "planned_at": "2026-09-21T04:12:07.123446+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T04:14:21.725120+00:00",
+        "lease_expires_at": "2026-09-21T10:14:21.725120+00:00",
+        "run_id": "35549724548"
+      },
+      "previous_target_id": "29574753",
+      "prepared": {
+        "target_video_id": "29574753",
+        "size_bytes": 1520398179,
+        "prepared_at": "2026-09-21T04:14:25.193504+00:00"
       }
     },
     "18780": {
@@ -234430,5 +234442,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:14:17.627462+00:00"
+  "updated_at": "2026-09-21T04:14:25.193518+00:00"
 }
