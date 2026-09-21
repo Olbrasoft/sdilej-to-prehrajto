@@ -161083,13 +161083,6 @@
           "permanent": false,
           "source_id": "28289465",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:57:28.399263+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28289465",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:43.588029+00:00"
         },
         {
@@ -161098,18 +161091,19 @@
           "source_id": "28289465",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:19.623215+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28289465",
+          "reason": "Request failed for https://sdilej.cz/28289465/v-cizi-kuzi-2011--1170-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:57:06.334676+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28289465",
         "display_name": "V cizí kůži (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-21T13:45:07.860194+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T13:56:20.390795+00:00",
-        "lease_expires_at": "2026-09-21T19:56:20.390795+00:00",
-        "run_id": "35574076427"
       }
     },
     "4882": {
@@ -161149,6 +161143,12 @@
         "source_id": "32991116",
         "display_name": "Smrt na Nilu (2022) 4K CZ Dabing",
         "planned_at": "2026-09-21T13:45:08.160050+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
+        "claimed_at": "2026-09-21T13:56:28.773447+00:00",
+        "lease_expires_at": "2026-09-21T19:56:28.773447+00:00",
+        "run_id": "35574076427"
       }
     },
     "4957": {
@@ -236888,5 +236888,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:56:26.444339+00:00"
+  "updated_at": "2026-09-21T13:57:06.334700+00:00"
 }
