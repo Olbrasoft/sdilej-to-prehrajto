@@ -155761,13 +155761,6 @@
           "permanent": false,
           "source_id": "32225511",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:55:48.392631+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32225511",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:03.270843+00:00"
         },
         {
@@ -155776,6 +155769,13 @@
           "reason": "Request failed for https://sdilej.cz/32225511/nepostradatelny-pomocnik-2005-cz-dab-360p.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T06:06:18.717091+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32225511",
+          "target_video_id": "29578809",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:35:51.031997+00:00"
         }
       ],
       "last_plan": {
@@ -155786,14 +155786,8 @@
       "previous_target_id": "29578809",
       "prepared": {
         "target_video_id": "29578809",
-        "size_bytes": 983074622,
+        "size_bytes": 983100000,
         "prepared_at": "2026-09-21T08:33:09.702301+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T08:35:35.244273+00:00",
-        "lease_expires_at": "2026-09-21T14:35:35.244273+00:00",
-        "run_id": "35574076427"
       }
     },
     "24365": {
@@ -235542,5 +235536,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:35:48.687811+00:00"
+  "updated_at": "2026-09-21T08:35:51.032015+00:00"
 }
