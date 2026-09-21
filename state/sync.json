@@ -150286,13 +150286,6 @@
     "9206": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27964193",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:37:32.259747+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27964193",
           "target_video_id": "29573110",
@@ -150305,6 +150298,13 @@
           "target_video_id": "29573110",
           "permanent": false,
           "attempted_at": "2026-09-21T04:09:58.943021+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27964193",
+          "target_video_id": "29573110",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:22:23.566604+00:00"
         }
       ],
       "last_plan": {
@@ -150317,12 +150317,6 @@
         "target_video_id": "29573110",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-21T02:28:51.058673+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
-        "claimed_at": "2026-09-21T05:22:20.244921+00:00",
-        "lease_expires_at": "2026-09-21T11:22:20.244921+00:00",
-        "run_id": "35549724548"
       }
     },
     "23684": {
@@ -150465,22 +150459,10 @@
           "attempted_at": "2026-09-21T04:13:46.937466+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34722728",
-        "display_name": "Cesta do Sonory (1975) SD CZ Dabing",
-        "planned_at": "2026-09-21T05:21:45.756117+00:00"
-      },
       "previous_target_id": "29574667",
-      "prepared": {
+      "upload": {
         "target_video_id": "29574667",
-        "size_bytes": 960511050,
-        "prepared_at": "2026-09-21T04:10:02.949380+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T05:22:20.517107+00:00",
-        "lease_expires_at": "2026-09-21T11:22:20.517107+00:00",
-        "run_id": "35549724548"
+        "uploaded_at": "2026-09-21T05:22:24.381668+00:00"
       }
     },
     "23682": {
@@ -150700,7 +150682,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-10T12:26:19.652535+00:00"
       },
-      "previous_target_id": "29272080"
+      "previous_target_id": "29272080",
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
+        "claimed_at": "2026-09-21T05:22:23.849634+00:00",
+        "lease_expires_at": "2026-09-21T11:22:23.849634+00:00",
+        "run_id": "35549724548"
+      }
     },
     "27480": {
       "attempts": []
@@ -150769,6 +150757,12 @@
         "target_video_id": "29574743",
         "size_bytes": 6131813652,
         "prepared_at": "2026-09-21T04:13:41.321193+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
+        "claimed_at": "2026-09-21T05:22:24.121282+00:00",
+        "lease_expires_at": "2026-09-21T11:22:24.121282+00:00",
+        "run_id": "35549724548"
       }
     },
     "8131": {
@@ -235042,5 +235036,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:22:21.467333+00:00"
+  "updated_at": "2026-09-21T05:22:24.381687+00:00"
 }
