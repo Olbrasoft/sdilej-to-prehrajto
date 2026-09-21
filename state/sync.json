@@ -151859,22 +151859,10 @@
           "attempted_at": "2026-09-21T04:15:15.069738+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27236315",
-        "display_name": "Bestsellery (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T05:21:48.817969+00:00"
-      },
       "previous_target_id": "29573831",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573831",
-        "size_bytes": 5700000000,
-        "prepared_at": "2026-09-21T03:17:03.182204+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
-        "claimed_at": "2026-09-21T05:22:45.538176+00:00",
-        "lease_expires_at": "2026-09-21T11:22:45.538176+00:00",
-        "run_id": "35549724548"
+        "uploaded_at": "2026-09-21T05:22:51.006619+00:00"
       }
     },
     "8892": {
@@ -152178,13 +152166,6 @@
     "30077": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33731507",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:39:16.701683+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33731507",
           "reason": "Request failed for https://sdilej.cz/33731507/navrat-cerneho-hrebce-1983-1080p-cz.mp4 (HTTP None)",
@@ -152197,6 +152178,13 @@
           "target_video_id": "29574778",
           "permanent": false,
           "attempted_at": "2026-09-21T04:25:10.972829+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33731507",
+          "target_video_id": "29574778",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:22:50.095306+00:00"
         }
       ],
       "last_plan": {
@@ -152207,14 +152195,8 @@
       "previous_target_id": "29574778",
       "prepared": {
         "target_video_id": "29574778",
-        "size_bytes": 2457034816,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-21T04:15:32.277986+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:22:47.813582+00:00",
-        "lease_expires_at": "2026-09-21T11:22:47.813582+00:00",
-        "run_id": "35549724548"
       }
     },
     "11313": {
@@ -152306,6 +152288,12 @@
         "target_video_id": "29573983",
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-21T03:27:34.388170+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
+        "claimed_at": "2026-09-21T05:22:50.404952+00:00",
+        "lease_expires_at": "2026-09-21T11:22:50.404952+00:00",
+        "run_id": "35549724548"
       }
     },
     "5347": {
@@ -152357,6 +152345,12 @@
         "target_video_id": "29574854",
         "size_bytes": 2372244108,
         "prepared_at": "2026-09-21T04:20:46.574183+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T05:22:50.706640+00:00",
+        "lease_expires_at": "2026-09-21T11:22:50.706640+00:00",
+        "run_id": "35549724548"
       }
     },
     "5064": {
@@ -235000,5 +234994,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:22:48.115806+00:00"
+  "updated_at": "2026-09-21T05:22:51.006638+00:00"
 }
