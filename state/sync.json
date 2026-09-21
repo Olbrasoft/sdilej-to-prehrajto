@@ -86976,7 +86976,15 @@
       "attempts": []
     },
     "12762": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30652094",
+          "reason": "Request failed for https://sdilej.cz/30652094/temno.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:00:19.603158+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30652094",
         "display_name": "Temno (1951) SD CZ Dabing",
@@ -86995,6 +87003,12 @@
         "source_id": "25328185",
         "display_name": "Pán na roztrhání (1934) SD CZ Dabing",
         "planned_at": "2026-09-21T04:45:24.130171+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-2",
+        "claimed_at": "2026-09-21T04:59:33.786134+00:00",
+        "lease_expires_at": "2026-09-21T10:59:33.786134+00:00",
+        "run_id": "35549724548"
       }
     },
     "26962": {
@@ -234795,5 +234809,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:59:31.331777+00:00"
+  "updated_at": "2026-09-21T05:00:19.603174+00:00"
 }
