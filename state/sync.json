@@ -150322,13 +150322,6 @@
           "permanent": false,
           "source_id": "13672105",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:33:52.264955+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13672105",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:36:47.867054+00:00"
         },
         {
@@ -150337,18 +150330,19 @@
           "source_id": "13672105",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:39.550248+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13672105",
+          "reason": "Request failed for https://sdilej.cz/13672105/blood.machines.2019.e01-e03.1080p.amzn.webrip.x264.dts-hd.ma-creative24.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:38:16.910595+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13672105",
         "display_name": "Blood Machines (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-21T01:28:02.903372+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
-        "claimed_at": "2026-09-21T02:37:29.810604+00:00",
-        "lease_expires_at": "2026-09-21T08:37:29.810604+00:00",
-        "run_id": "35549724548"
       }
     },
     "8131": {
@@ -234418,5 +234412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T02:38:11.888665+00:00"
+  "updated_at": "2026-09-21T02:38:16.910614+00:00"
 }
