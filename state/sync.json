@@ -150942,13 +150942,6 @@
           "permanent": false,
           "source_id": "34040621",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:36:54.307019+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34040621",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:51.568496+00:00"
         },
         {
@@ -150957,6 +150950,13 @@
           "target_video_id": "29573713",
           "permanent": false,
           "attempted_at": "2026-09-21T03:16:49.013214+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34040621",
+          "target_video_id": "29573713",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:14:16.146125+00:00"
         }
       ],
       "last_plan": {
@@ -150967,7 +150967,7 @@
       "previous_target_id": "29573713",
       "prepared": {
         "target_video_id": "29573713",
-        "size_bytes": 2049740305,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-21T03:10:05.401888+00:00"
       }
     },
@@ -150998,16 +150998,10 @@
           "attempted_at": "2026-09-21T03:14:59.380066+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "6648925",
-        "display_name": "Mein Kampf (2009) SD CZ Dabing",
-        "planned_at": "2026-09-21T04:12:06.553277+00:00"
-      },
       "previous_target_id": "29573741",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573741",
-        "size_bytes": 997040128,
-        "prepared_at": "2026-09-21T03:11:45.412592+00:00"
+        "uploaded_at": "2026-09-21T04:14:17.627444+00:00"
       }
     },
     "16340": {
@@ -234436,5 +234430,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:14:12.912305+00:00"
+  "updated_at": "2026-09-21T04:14:17.627462+00:00"
 }
