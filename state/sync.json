@@ -162598,13 +162598,6 @@
           "permanent": false,
           "source_id": "34141219",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:58:30.665460+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34141219",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:58:44.810435+00:00"
         },
         {
@@ -162613,18 +162606,19 @@
           "source_id": "34141219",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:59:09.814007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34141219",
+          "target_video_id": "29590372",
+          "permanent": false,
+          "attempted_at": "2026-09-21T16:25:03.069295+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34141219",
         "display_name": "Gundala (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-21T16:19:18.744530+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-5",
-        "claimed_at": "2026-09-21T16:19:43.996712+00:00",
-        "lease_expires_at": "2026-09-21T22:19:43.996712+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29590372",
       "prepared": {
@@ -237544,5 +237538,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T16:19:49.176448+00:00"
+  "updated_at": "2026-09-21T16:25:03.069312+00:00"
 }
