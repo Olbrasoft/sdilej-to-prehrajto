@@ -150560,13 +150560,6 @@
           "permanent": false,
           "source_id": "34697957",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:33:53.810812+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34697957",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:36:50.123276+00:00"
         },
         {
@@ -150575,18 +150568,19 @@
           "source_id": "34697957",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:44.450689+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34697957",
+          "target_video_id": "29573524",
+          "permanent": false,
+          "attempted_at": "2026-09-21T03:06:55.019250+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34697957",
         "display_name": "Nebezpečný kód (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:49:48.210762+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T02:58:17.586972+00:00",
-        "lease_expires_at": "2026-09-21T08:58:17.586972+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29573524",
       "prepared": {
@@ -150750,6 +150744,12 @@
         "source_id": "26711068",
         "display_name": "Kořeny mafie (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:49:49.122654+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-4",
+        "claimed_at": "2026-09-21T03:06:14.602107+00:00",
+        "lease_expires_at": "2026-09-21T09:06:14.602107+00:00",
+        "run_id": "35549724548"
       }
     },
     "35190": {
@@ -234374,5 +234374,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T03:06:04.251042+00:00"
+  "updated_at": "2026-09-21T03:06:55.019271+00:00"
 }
