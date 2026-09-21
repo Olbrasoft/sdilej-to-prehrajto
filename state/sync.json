@@ -159041,13 +159041,6 @@
     "27616": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35041561",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:57:38.250356+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "35041561",
           "reason": "Request failed for https://sdilej.cz/35041561/mortal-kombat-ii-2026-cz-sk-dabing.mkv (HTTP None)",
@@ -159060,18 +159053,19 @@
           "reason": "Request failed for https://sdilej.cz/35041561/mortal-kombat-ii-2026-cz-sk-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T11:22:14.205238+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35041561",
+          "reason": "Request failed for https://sdilej.cz/35041561/mortal-kombat-ii-2026-cz-sk-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:58:56.644678+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35041561",
         "display_name": "Mortal Kombat II (2026) 4K CZ Dabing",
         "planned_at": "2026-09-21T12:57:35.722820+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T12:58:09.236878+00:00",
-        "lease_expires_at": "2026-09-21T18:58:09.236878+00:00",
-        "run_id": "35574076427"
       }
     },
     "8790": {
@@ -236781,5 +236775,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:58:40.677206+00:00"
+  "updated_at": "2026-09-21T12:58:56.644695+00:00"
 }
