@@ -159448,13 +159448,6 @@
           "permanent": false,
           "source_id": "34356394",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:00.439918+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34356394",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:43.496324+00:00"
         },
         {
@@ -159463,6 +159456,13 @@
           "target_video_id": "29579906",
           "permanent": false,
           "attempted_at": "2026-09-21T10:08:00.709061+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34356394",
+          "target_video_id": "29579906",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:58:19.436417+00:00"
         }
       ],
       "last_plan": {
@@ -159473,7 +159473,7 @@
       "previous_target_id": "29579906",
       "prepared": {
         "target_video_id": "29579906",
-        "size_bytes": 5582072721,
+        "size_bytes": 5600000000,
         "prepared_at": "2026-09-21T09:41:46.605251+00:00"
       }
     },
@@ -159508,6 +159508,18 @@
         "source_id": "34711889",
         "display_name": "Jennifer, poslední drakobijec (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-21T12:57:37.053272+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
+        "claimed_at": "2026-09-21T12:58:19.701041+00:00",
+        "lease_expires_at": "2026-09-21T18:58:19.701041+00:00",
+        "run_id": "35574076427"
+      },
+      "previous_target_id": "29585337",
+      "prepared": {
+        "target_video_id": "29585337",
+        "size_bytes": 2912026056,
+        "prepared_at": "2026-09-21T12:58:23.895414+00:00"
       }
     },
     "22475": {
@@ -236763,5 +236775,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:58:16.011734+00:00"
+  "updated_at": "2026-09-21T12:58:23.895429+00:00"
 }
