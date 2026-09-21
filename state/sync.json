@@ -153122,13 +153122,6 @@
           "permanent": false,
           "source_id": "33696185",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:41:02.041361+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33696185",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:41:32.302919+00:00"
         },
         {
@@ -153137,18 +153130,19 @@
           "reason": "Request failed for https://sdilej.cz/33696185/kocici-oko-1985-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T03:54:34.954066+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33696185",
+          "target_video_id": "29575763",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:33:08.788699+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33696185",
         "display_name": "Kočičí oko (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-21T05:23:12.920262+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
-        "claimed_at": "2026-09-21T05:25:10.055533+00:00",
-        "lease_expires_at": "2026-09-21T11:25:10.055533+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29575763",
       "prepared": {
@@ -234942,5 +234936,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:30:39.933760+00:00"
+  "updated_at": "2026-09-21T05:33:08.788717+00:00"
 }
