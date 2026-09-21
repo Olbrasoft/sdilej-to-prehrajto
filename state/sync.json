@@ -152840,13 +152840,6 @@
           "permanent": false,
           "source_id": "34773181",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:24.279975+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34773181",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:42.685634+00:00"
         },
         {
@@ -152855,18 +152848,19 @@
           "reason": "Request failed for https://sdilej.cz/34773181/scarlett-2020-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T03:42:34.754118+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34773181",
+          "target_video_id": "29575738",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:33:24.799071+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34773181",
         "display_name": "Scarlett (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-21T05:23:11.053986+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T05:23:40.713989+00:00",
-        "lease_expires_at": "2026-09-21T11:23:40.713989+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29575738",
       "prepared": {
@@ -153915,6 +153909,12 @@
         "source_id": "10714860",
         "display_name": "Nostalgie (2018) SD CZ Dabing",
         "planned_at": "2026-09-21T05:23:17.017441+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
+        "claimed_at": "2026-09-21T05:33:19.346513+00:00",
+        "lease_expires_at": "2026-09-21T11:33:19.346513+00:00",
+        "run_id": "35549724548"
       }
     },
     "35506": {
@@ -234936,5 +234936,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:33:08.788717+00:00"
+  "updated_at": "2026-09-21T05:33:24.799090+00:00"
 }
