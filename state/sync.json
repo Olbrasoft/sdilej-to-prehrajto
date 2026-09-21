@@ -88264,13 +88264,6 @@
           "source_id": "29201504",
           "target_video_id": "29504151",
           "permanent": false,
-          "attempted_at": "2026-09-21T02:45:15.643352+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29201504",
-          "target_video_id": "29504151",
-          "permanent": false,
           "attempted_at": "2026-09-21T04:01:43.529683+00:00"
         },
         {
@@ -88279,6 +88272,13 @@
           "target_video_id": "29504151",
           "permanent": false,
           "attempted_at": "2026-09-21T05:02:21.869807+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29201504",
+          "target_video_id": "29504151",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:25:45.056455+00:00"
         }
       ],
       "last_plan": {
@@ -88291,13 +88291,7 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-18T22:38:56.961901+00:00"
       },
-      "previous_target_id": "29504151",
-      "claim": {
-        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-2",
-        "claimed_at": "2026-09-21T08:25:41.439548+00:00",
-        "lease_expires_at": "2026-09-21T14:25:41.439548+00:00",
-        "run_id": "35570393734"
-      }
+      "previous_target_id": "29504151"
     },
     "14149": {
       "attempts": []
@@ -89125,16 +89119,10 @@
           "attempted_at": "2026-09-21T05:10:26.954184+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "6604010",
-        "display_name": "Kronika žhavého léta (1973) SD CZ Dabing",
-        "planned_at": "2026-09-21T08:23:59.655925+00:00"
-      },
       "previous_target_id": "29575432",
-      "prepared": {
+      "upload": {
         "target_video_id": "29575432",
-        "size_bytes": 1919944866,
-        "prepared_at": "2026-09-21T05:03:09.199401+00:00"
+        "uploaded_at": "2026-09-21T08:25:47.724067+00:00"
       }
     },
     "30564": {
@@ -89142,13 +89130,6 @@
     },
     "4481": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34451753",
-          "target_video_id": "29448179",
-          "permanent": false,
-          "attempted_at": "2026-09-21T02:45:16.360969+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34451753",
@@ -89162,6 +89143,13 @@
           "target_video_id": "29448179",
           "permanent": false,
           "attempted_at": "2026-09-21T05:04:40.896167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34451753",
+          "target_video_id": "29448179",
+          "permanent": false,
+          "attempted_at": "2026-09-21T08:25:47.127252+00:00"
         }
       ],
       "last_plan": {
@@ -89205,6 +89193,12 @@
         "target_video_id": "29575454",
         "size_bytes": 3205637548,
         "prepared_at": "2026-09-21T05:04:53.459607+00:00"
+      },
+      "claim": {
+        "worker_id": "f9c6d1ada96b4bd88d74e3ce929dbb73-shard-2",
+        "claimed_at": "2026-09-21T08:25:47.416079+00:00",
+        "lease_expires_at": "2026-09-21T14:25:47.416079+00:00",
+        "run_id": "35570393734"
       }
     },
     "12803": {
@@ -235677,5 +235671,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T08:25:42.814614+00:00"
+  "updated_at": "2026-09-21T08:25:47.724092+00:00"
 }
