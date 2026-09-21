@@ -160466,13 +160466,6 @@
           "permanent": false,
           "source_id": "34061675",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:57:26.332514+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34061675",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:58:15.016784+00:00"
         },
         {
@@ -160481,18 +160474,19 @@
           "source_id": "34061675",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:50.370182+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34061675",
+          "reason": "Request failed for https://sdilej.cz/34061675/jeepers-creepers-2001-uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:19:41.152119+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34061675",
         "display_name": "Jeepers Creepers (2001) 4K CZ Dabing",
         "planned_at": "2026-09-21T12:57:41.630219+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-3",
-        "claimed_at": "2026-09-21T13:18:55.112816+00:00",
-        "lease_expires_at": "2026-09-21T19:18:55.112816+00:00",
-        "run_id": "35574076427"
       }
     },
     "30996": {
@@ -236855,5 +236849,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:19:09.681216+00:00"
+  "updated_at": "2026-09-21T13:19:41.152137+00:00"
 }
