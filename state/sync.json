@@ -18356,13 +18356,6 @@
           "source_id": "29141975",
           "target_video_id": "29564989",
           "permanent": false,
-          "attempted_at": "2026-09-21T08:21:07.270133+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29141975",
-          "target_video_id": "29564989",
-          "permanent": false,
           "attempted_at": "2026-09-21T09:47:20.943559+00:00"
         },
         {
@@ -18371,6 +18364,13 @@
           "target_video_id": "29564989",
           "permanent": false,
           "attempted_at": "2026-09-21T10:45:11.253145+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29141975",
+          "target_video_id": "29564989",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:33:45.559152+00:00"
         }
       ],
       "last_plan": {
@@ -18434,7 +18434,15 @@
       "attempts": []
     },
     "22806": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34526304",
+          "reason": "Request failed for https://sdilej.cz/34526304/1985-muj-zivot-jako-pes-drama-komedie-77-anton-glanzelius.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:34:30.368310+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34526304",
         "display_name": "Můj život jako pes (1985) SD CZ Dabing",
@@ -18462,6 +18470,12 @@
         "source_id": "31966088",
         "display_name": "Jane (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-21T11:33:14.492182+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
+        "claimed_at": "2026-09-21T11:33:45.860766+00:00",
+        "lease_expires_at": "2026-09-21T17:33:45.860766+00:00",
+        "run_id": "35574076427"
       }
     },
     "28926": {
@@ -236384,5 +236398,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:33:42.004405+00:00"
+  "updated_at": "2026-09-21T11:34:30.368328+00:00"
 }
