@@ -151200,13 +151200,6 @@
           "permanent": false,
           "source_id": "12895228",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:35:17.010126+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12895228",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:36:56.325613+00:00"
         },
         {
@@ -151215,18 +151208,19 @@
           "source_id": "12895228",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:54.450045+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12895228",
+          "reason": "Request failed for https://sdilej.cz/12895228/villains-2019-cz-titulky-web-5.1-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T03:15:26.471237+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12895228",
         "display_name": "Villains (2019) SD CZ Titulky",
         "planned_at": "2026-09-21T02:49:57.611893+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-1",
-        "claimed_at": "2026-09-21T03:14:40.641180+00:00",
-        "lease_expires_at": "2026-09-21T09:14:40.641180+00:00",
-        "run_id": "35549724548"
       }
     },
     "18780": {
@@ -234422,5 +234416,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T03:15:08.455924+00:00"
+  "updated_at": "2026-09-21T03:15:26.471257+00:00"
 }
