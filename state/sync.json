@@ -160017,13 +160017,6 @@
           "permanent": false,
           "source_id": "28761197",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:56:25.945115+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28761197",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:04.659691+00:00"
         },
         {
@@ -160032,18 +160025,19 @@
           "source_id": "28761197",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:47.507432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28761197",
+          "target_video_id": "29585527",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:19:00.099275+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28761197",
         "display_name": "Komici (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-21T12:57:39.200339+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T13:08:24.481087+00:00",
-        "lease_expires_at": "2026-09-21T19:08:24.481087+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29585527",
       "prepared": {
@@ -160493,6 +160487,12 @@
         "source_id": "34061675",
         "display_name": "Jeepers Creepers (2001) 4K CZ Dabing",
         "planned_at": "2026-09-21T12:57:41.630219+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-3",
+        "claimed_at": "2026-09-21T13:18:55.112816+00:00",
+        "lease_expires_at": "2026-09-21T19:18:55.112816+00:00",
+        "run_id": "35574076427"
       }
     },
     "30996": {
@@ -236843,5 +236843,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:18:49.486989+00:00"
+  "updated_at": "2026-09-21T13:19:00.099291+00:00"
 }
