@@ -147283,13 +147283,6 @@
           "permanent": false,
           "source_id": "26595973",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:04.314437+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26595973",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:47.158951+00:00"
         },
         {
@@ -147298,6 +147291,13 @@
           "target_video_id": "29571673",
           "permanent": false,
           "attempted_at": "2026-09-21T01:27:39.982580+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26595973",
+          "target_video_id": "29571673",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:48:57.748571+00:00"
         }
       ],
       "last_plan": {
@@ -147310,12 +147310,6 @@
         "target_video_id": "29571673",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-21T00:26:37.135193+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T02:48:53.217554+00:00",
-        "lease_expires_at": "2026-09-21T08:48:53.217554+00:00",
-        "run_id": "35549724548"
       }
     },
     "17800": {
@@ -147334,13 +147328,6 @@
           "permanent": false,
           "source_id": "34779997",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:05.364169+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34779997",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:45.375569+00:00"
         },
         {
@@ -147349,6 +147336,13 @@
           "target_video_id": "29571679",
           "permanent": false,
           "attempted_at": "2026-09-21T01:27:43.391316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34779997",
+          "target_video_id": "29571679",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:48:58.022152+00:00"
         }
       ],
       "last_plan": {
@@ -147361,12 +147355,6 @@
         "target_video_id": "29571679",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-21T00:27:00.058727+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
-        "claimed_at": "2026-09-21T02:48:53.459089+00:00",
-        "lease_expires_at": "2026-09-21T08:48:53.459089+00:00",
-        "run_id": "35549724548"
       }
     },
     "7204": {
@@ -147406,13 +147394,6 @@
     "5568": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "18860827",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:25:45.920165+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "18860827",
           "reason": "Request failed for https://sdilej.cz/18860827/vitejte-u-hartmanu-willkommen.bei.den.hartmanns.2016.1080p.bluray.cz.dabing.mkv (HTTP None)",
@@ -147425,6 +147406,13 @@
           "target_video_id": "29572341",
           "permanent": false,
           "attempted_at": "2026-09-21T01:49:58.818199+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18860827",
+          "target_video_id": "29572341",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:49:00.308522+00:00"
         }
       ],
       "last_plan": {
@@ -147435,7 +147423,7 @@
       "previous_target_id": "29572341",
       "prepared": {
         "target_video_id": "29572341",
-        "size_bytes": 3230343342,
+        "size_bytes": 3200000000,
         "prepared_at": "2026-09-21T01:29:12.842962+00:00"
       }
     },
@@ -147452,13 +147440,6 @@
           "permanent": false,
           "source_id": "26444567",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:07.478379+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26444567",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:46.151080+00:00"
         },
         {
@@ -147467,6 +147448,13 @@
           "target_video_id": "29571776",
           "permanent": false,
           "attempted_at": "2026-09-21T01:31:05.879965+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26444567",
+          "target_video_id": "29571776",
+          "permanent": false,
+          "attempted_at": "2026-09-21T02:48:59.908861+00:00"
         }
       ],
       "last_plan": {
@@ -147545,6 +147533,18 @@
         "source_id": "31902362",
         "display_name": "Orlí spáry (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:48:20.416485+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
+        "claimed_at": "2026-09-21T02:48:58.305384+00:00",
+        "lease_expires_at": "2026-09-21T08:48:58.305384+00:00",
+        "run_id": "35549724548"
+      },
+      "previous_target_id": "29573383",
+      "prepared": {
+        "target_video_id": "29573383",
+        "size_bytes": 8431878576,
+        "prepared_at": "2026-09-21T02:49:01.549100+00:00"
       }
     },
     "28010": {
@@ -147587,6 +147587,12 @@
         "target_video_id": "29572356",
         "size_bytes": 1140948992,
         "prepared_at": "2026-09-21T01:31:15.713166+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T02:49:00.606732+00:00",
+        "lease_expires_at": "2026-09-21T08:49:00.606732+00:00",
+        "run_id": "35549724548"
       }
     },
     "32144": {
@@ -147629,6 +147635,12 @@
         "target_video_id": "29572361",
         "size_bytes": 820297026,
         "prepared_at": "2026-09-21T01:31:59.231652+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
+        "claimed_at": "2026-09-21T02:49:00.909159+00:00",
+        "lease_expires_at": "2026-09-21T08:49:00.909159+00:00",
+        "run_id": "35549724548"
       }
     },
     "7400": {
@@ -234392,5 +234404,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T02:48:55.805811+00:00"
+  "updated_at": "2026-09-21T02:49:01.549118+00:00"
 }
