@@ -150448,13 +150448,6 @@
           "permanent": false,
           "source_id": "26769801",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:36:50.735088+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26769801",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:43.419957+00:00"
         },
         {
@@ -150463,6 +150456,13 @@
           "target_video_id": "29573515",
           "permanent": false,
           "attempted_at": "2026-09-21T03:09:54.745907+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26769801",
+          "target_video_id": "29573515",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:14:00.138573+00:00"
         }
       ],
       "last_plan": {
@@ -150473,14 +150473,8 @@
       "previous_target_id": "29573515",
       "prepared": {
         "target_video_id": "29573515",
-        "size_bytes": 3706831743,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-21T02:57:35.563283+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T04:13:57.157831+00:00",
-        "lease_expires_at": "2026-09-21T10:13:57.157831+00:00",
-        "run_id": "35549724548"
       }
     },
     "19439": {
@@ -150507,16 +150501,10 @@
           "attempted_at": "2026-09-21T03:06:55.019250+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34697957",
-        "display_name": "Nebezpečný kód (2000) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T04:12:04.142899+00:00"
-      },
       "previous_target_id": "29573524",
-      "prepared": {
+      "upload": {
         "target_video_id": "29573524",
-        "size_bytes": 2516449951,
-        "prepared_at": "2026-09-21T02:58:21.298521+00:00"
+        "uploaded_at": "2026-09-21T04:14:02.286150+00:00"
       }
     },
     "19006": {
@@ -150539,13 +150527,6 @@
           "permanent": false,
           "source_id": "25457671",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:36:50.965189+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25457671",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:45.588944+00:00"
         },
         {
@@ -150554,6 +150535,13 @@
           "target_video_id": "29573547",
           "permanent": false,
           "attempted_at": "2026-09-21T03:12:31.335642+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25457671",
+          "target_video_id": "29573547",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:14:01.663026+00:00"
         }
       ],
       "last_plan": {
@@ -150564,7 +150552,7 @@
       "previous_target_id": "29573547",
       "prepared": {
         "target_video_id": "29573547",
-        "size_bytes": 4019497510,
+        "size_bytes": 4000000000,
         "prepared_at": "2026-09-21T02:59:27.434844+00:00"
       }
     },
@@ -150608,6 +150596,12 @@
         "target_video_id": "29573564",
         "size_bytes": 1941721702,
         "prepared_at": "2026-09-21T03:00:49.811500+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
+        "claimed_at": "2026-09-21T04:14:01.959405+00:00",
+        "lease_expires_at": "2026-09-21T10:14:01.959405+00:00",
+        "run_id": "35549724548"
       }
     },
     "25783": {
@@ -234460,5 +234454,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:13:58.085840+00:00"
+  "updated_at": "2026-09-21T04:14:02.286231+00:00"
 }
