@@ -153094,13 +153094,6 @@
           "permanent": false,
           "source_id": "34119293",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:41:01.270859+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34119293",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:41:32.586811+00:00"
         },
         {
@@ -153109,6 +153102,13 @@
           "target_video_id": "29574334",
           "permanent": false,
           "attempted_at": "2026-09-21T04:11:01.317171+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34119293",
+          "target_video_id": "29574334",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:25:09.732521+00:00"
         }
       ],
       "last_plan": {
@@ -153119,7 +153119,7 @@
       "previous_target_id": "29574334",
       "prepared": {
         "target_video_id": "29574334",
-        "size_bytes": 5289267864,
+        "size_bytes": 5300000000,
         "prepared_at": "2026-09-21T03:50:07.107545+00:00"
       }
     },
@@ -153154,6 +153154,18 @@
         "source_id": "33696185",
         "display_name": "Kočičí oko (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-21T05:23:12.920262+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
+        "claimed_at": "2026-09-21T05:25:10.055533+00:00",
+        "lease_expires_at": "2026-09-21T11:25:10.055533+00:00",
+        "run_id": "35549724548"
+      },
+      "previous_target_id": "29575763",
+      "prepared": {
+        "target_video_id": "29575763",
+        "size_bytes": 2259279672,
+        "prepared_at": "2026-09-21T05:25:13.467303+00:00"
       }
     },
     "14352": {
@@ -234947,5 +234959,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:25:06.289940+00:00"
+  "updated_at": "2026-09-21T05:25:13.467329+00:00"
 }
