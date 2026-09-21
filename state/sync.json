@@ -158447,13 +158447,6 @@
           "permanent": false,
           "source_id": "22332494",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:56:52.798127+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22332494",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:37.395542+00:00"
         },
         {
@@ -158462,6 +158455,13 @@
           "target_video_id": "29579444",
           "permanent": false,
           "attempted_at": "2026-09-21T09:22:29.020572+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22332494",
+          "target_video_id": "29579444",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:21:24.635944+00:00"
         }
       ],
       "last_plan": {
@@ -158472,7 +158472,7 @@
       "previous_target_id": "29579444",
       "prepared": {
         "target_video_id": "29579444",
-        "size_bytes": 2110300840,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-21T09:13:04.818752+00:00"
       }
     },
@@ -158551,16 +158551,10 @@
           "attempted_at": "2026-09-21T09:40:06.411135+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "12043548",
-        "display_name": "Přepadení 13. okrsku (2005) 720p CZ Dabing",
-        "planned_at": "2026-09-21T11:10:55.363114+00:00"
-      },
       "previous_target_id": "29579460",
-      "prepared": {
+      "upload": {
         "target_video_id": "29579460",
-        "size_bytes": 5891131924,
-        "prepared_at": "2026-09-21T09:13:55.878514+00:00"
+        "uploaded_at": "2026-09-21T11:21:26.299476+00:00"
       }
     },
     "10915": {
@@ -236351,5 +236345,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:21:21.220572+00:00"
+  "updated_at": "2026-09-21T11:21:26.299492+00:00"
 }
