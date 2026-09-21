@@ -151832,13 +151832,6 @@
           "permanent": false,
           "source_id": "27869172",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:13.117544+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27869172",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:20.608701+00:00"
         },
         {
@@ -151847,6 +151840,13 @@
           "target_video_id": "29574033",
           "permanent": false,
           "attempted_at": "2026-09-21T03:39:26.347563+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27869172",
+          "target_video_id": "29574033",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:22:08.330991+00:00"
         }
       ],
       "last_plan": {
@@ -151857,7 +151857,7 @@
       "previous_target_id": "29574033",
       "prepared": {
         "target_video_id": "29574033",
-        "size_bytes": 2073217447,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-21T03:31:11.891713+00:00"
       }
     },
@@ -151881,13 +151881,6 @@
           "permanent": false,
           "source_id": "28111428",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:14.278283+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28111428",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:39.433647+00:00"
         },
         {
@@ -151896,6 +151889,13 @@
           "target_video_id": "29574046",
           "permanent": false,
           "attempted_at": "2026-09-21T03:39:51.748187+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28111428",
+          "target_video_id": "29574046",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:22:10.030488+00:00"
         }
       ],
       "last_plan": {
@@ -151906,7 +151906,7 @@
       "previous_target_id": "29574046",
       "prepared": {
         "target_video_id": "29574046",
-        "size_bytes": 1946391194,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-21T03:32:06.346474+00:00"
       }
     },
@@ -151942,13 +151942,6 @@
           "permanent": false,
           "source_id": "29834161",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:39:15.335677+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29834161",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:39:38.873575+00:00"
         },
         {
@@ -151957,6 +151950,13 @@
           "reason": "Request failed for https://sdilej.cz/29834161/virtualni-zbran-1997-1080p-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T03:33:44.350176+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29834161",
+          "reason": "Request failed for https://sdilej.cz/29834161/virtualni-zbran-1997-1080p-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T04:22:56.339220+00:00"
         }
       ],
       "last_plan": {
@@ -234406,5 +234406,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T04:22:05.054453+00:00"
+  "updated_at": "2026-09-21T04:22:56.339241+00:00"
 }
