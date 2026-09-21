@@ -146831,13 +146831,6 @@
           "permanent": false,
           "source_id": "34755371",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:21:00.108062+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34755371",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:40.531668+00:00"
         },
         {
@@ -146846,18 +146839,19 @@
           "reason": "Request failed for https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T22:02:18.805166+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34755371",
+          "target_video_id": "29571577",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:23:58.483333+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755371",
         "display_name": "Lovná zvěř (1986) SD CZ Titulky",
         "planned_at": "2026-09-21T00:17:03.022067+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-21T00:18:19.229158+00:00",
-        "lease_expires_at": "2026-09-21T06:18:19.229158+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29571577",
       "prepared": {
@@ -234197,5 +234191,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:18:46.135509+00:00"
+  "updated_at": "2026-09-21T00:23:58.483351+00:00"
 }
