@@ -161694,13 +161694,6 @@
           "permanent": false,
           "source_id": "32991116",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:44.689267+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32991116",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:20.399219+00:00"
         },
         {
@@ -161709,18 +161702,19 @@
           "reason": "Request failed for https://sdilej.cz/32991116/smrt-na-nilu-2022-uhdr-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T13:57:14.678154+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32991116",
+          "target_video_id": "29588040",
+          "permanent": false,
+          "attempted_at": "2026-09-21T15:47:30.791590+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32991116",
         "display_name": "Smrt na Nilu (2022) 4K CZ Dabing",
         "planned_at": "2026-09-21T15:10:05.645372+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-3",
-        "claimed_at": "2026-09-21T15:24:57.027648+00:00",
-        "lease_expires_at": "2026-09-21T21:24:57.027648+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29588040",
       "prepared": {
@@ -237526,5 +237520,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T15:47:12.458679+00:00"
+  "updated_at": "2026-09-21T15:47:30.791607+00:00"
 }
