@@ -158399,13 +158399,6 @@
           "permanent": false,
           "source_id": "33738196",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:56:50.750205+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33738196",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:35.910632+00:00"
         },
         {
@@ -158414,18 +158407,19 @@
           "reason": "Request failed for https://sdilej.cz/33738196/mlaticka-2025-sportovni-drama-usa-dwayne-johnson-emily-blunt-czdab-uhdrdv.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T09:12:59.268358+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33738196",
+          "target_video_id": "29582436",
+          "permanent": false,
+          "attempted_at": "2026-09-21T11:42:25.049168+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33738196",
         "display_name": "Mlátička (2025) 4K CZ Dabing",
         "planned_at": "2026-09-21T11:10:54.542581+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T11:20:07.538528+00:00",
-        "lease_expires_at": "2026-09-21T17:20:07.538528+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29582436",
       "prepared": {
@@ -236418,5 +236412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T11:34:43.534175+00:00"
+  "updated_at": "2026-09-21T11:42:25.049184+00:00"
 }
