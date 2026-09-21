@@ -160654,13 +160654,6 @@
     "5251": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31822704",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:57:49.885573+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31822704",
           "reason": "Request failed for https://sdilej.cz/31822704/mafianovi-cz-dabing-1080p-.mkv (HTTP None)",
@@ -160673,18 +160666,19 @@
           "reason": "Request failed for https://sdilej.cz/31822704/mafianovi-cz-dabing-1080p-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T13:47:38.297751+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31822704",
+          "target_video_id": "29587692",
+          "permanent": false,
+          "attempted_at": "2026-09-21T15:19:55.216269+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31822704",
         "display_name": "Mafiánovi (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-21T15:10:01.173505+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-0",
-        "claimed_at": "2026-09-21T15:10:33.718130+00:00",
-        "lease_expires_at": "2026-09-21T21:10:33.718130+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29587692",
       "prepared": {
@@ -237496,5 +237490,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T15:18:41.067898+00:00"
+  "updated_at": "2026-09-21T15:19:55.216285+00:00"
 }
