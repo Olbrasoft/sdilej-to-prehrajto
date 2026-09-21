@@ -158716,22 +158716,10 @@
           "attempted_at": "2026-09-21T11:30:31.592203+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24203222",
-        "display_name": "Paralelní světy (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T12:57:34.375445+00:00"
-      },
       "previous_target_id": "29582432",
-      "prepared": {
+      "upload": {
         "target_video_id": "29582432",
-        "size_bytes": 2642604984,
-        "prepared_at": "2026-09-21T11:19:47.488185+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
-        "claimed_at": "2026-09-21T12:58:01.154885+00:00",
-        "lease_expires_at": "2026-09-21T18:58:01.154885+00:00",
-        "run_id": "35574076427"
+        "uploaded_at": "2026-09-21T12:58:06.620099+00:00"
       }
     },
     "5241": {
@@ -158776,13 +158764,6 @@
     "4865": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33738196",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:57:35.910632+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33738196",
           "reason": "Request failed for https://sdilej.cz/33738196/mlaticka-2025-sportovni-drama-usa-dwayne-johnson-emily-blunt-czdab-uhdrdv.mkv (HTTP None)",
@@ -158795,6 +158776,13 @@
           "target_video_id": "29582436",
           "permanent": false,
           "attempted_at": "2026-09-21T11:42:25.049168+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33738196",
+          "target_video_id": "29582436",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:58:05.861248+00:00"
         }
       ],
       "last_plan": {
@@ -158805,14 +158793,8 @@
       "previous_target_id": "29582436",
       "prepared": {
         "target_video_id": "29582436",
-        "size_bytes": 5597721609,
+        "size_bytes": 5600000000,
         "prepared_at": "2026-09-21T11:20:10.746138+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T12:58:03.482187+00:00",
-        "lease_expires_at": "2026-09-21T18:58:03.482187+00:00",
-        "run_id": "35574076427"
       }
     },
     "37457": {
@@ -158849,6 +158831,12 @@
         "target_video_id": "29582457",
         "size_bytes": 14515872364,
         "prepared_at": "2026-09-21T11:21:18.582570+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T12:58:06.105493+00:00",
+        "lease_expires_at": "2026-09-21T18:58:06.105493+00:00",
+        "run_id": "35574076427"
       }
     },
     "26011": {
@@ -158934,6 +158922,12 @@
         "target_video_id": "29579444",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-21T09:13:04.818752+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
+        "claimed_at": "2026-09-21T12:58:06.374555+00:00",
+        "lease_expires_at": "2026-09-21T18:58:06.374555+00:00",
+        "run_id": "35574076427"
       }
     },
     "16601": {
@@ -236787,5 +236781,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:58:03.744398+00:00"
+  "updated_at": "2026-09-21T12:58:06.620119+00:00"
 }
