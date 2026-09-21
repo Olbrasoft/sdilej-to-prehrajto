@@ -159508,13 +159508,6 @@
           "permanent": false,
           "source_id": "33891535",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:56:24.395547+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33891535",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:01.091915+00:00"
         },
         {
@@ -159523,18 +159516,19 @@
           "source_id": "33891535",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:44.544086+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33891535",
+          "target_video_id": "29585349",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:10:13.960885+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33891535",
         "display_name": "Do dobrých rukou 2 (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-21T12:57:37.300379+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
-        "claimed_at": "2026-09-21T12:58:36.594540+00:00",
-        "lease_expires_at": "2026-09-21T18:58:36.594540+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29585349",
       "prepared": {
@@ -236817,5 +236811,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:08:29.477865+00:00"
+  "updated_at": "2026-09-21T13:10:13.960900+00:00"
 }
