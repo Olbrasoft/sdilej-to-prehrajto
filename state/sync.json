@@ -158800,13 +158800,6 @@
     "37457": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34730655",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:57:36.150477+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34730655",
           "reason": "Request failed for https://sdilej.cz/34730655/elize-jeji-stin-drama-thriller-brazilie-2026-czdab.uhdr.mkv (HTTP None)",
@@ -158819,6 +158812,13 @@
           "target_video_id": "29582457",
           "permanent": false,
           "attempted_at": "2026-09-21T12:17:50.524191+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34730655",
+          "target_video_id": "29582457",
+          "permanent": false,
+          "attempted_at": "2026-09-21T12:58:08.718104+00:00"
         }
       ],
       "last_plan": {
@@ -158829,14 +158829,8 @@
       "previous_target_id": "29582457",
       "prepared": {
         "target_video_id": "29582457",
-        "size_bytes": 14515872364,
+        "size_bytes": 14500000000,
         "prepared_at": "2026-09-21T11:21:18.582570+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
-        "claimed_at": "2026-09-21T12:58:06.105493+00:00",
-        "lease_expires_at": "2026-09-21T18:58:06.105493+00:00",
-        "run_id": "35574076427"
       }
     },
     "26011": {
@@ -158912,22 +158906,10 @@
           "attempted_at": "2026-09-21T11:21:24.635944+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22332494",
-        "display_name": "Zakletá Ella (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-21T12:57:35.200746+00:00"
-      },
       "previous_target_id": "29579444",
-      "prepared": {
+      "upload": {
         "target_video_id": "29579444",
-        "size_bytes": 2100000000,
-        "prepared_at": "2026-09-21T09:13:04.818752+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T12:58:06.374555+00:00",
-        "lease_expires_at": "2026-09-21T18:58:06.374555+00:00",
-        "run_id": "35574076427"
+        "uploaded_at": "2026-09-21T12:58:09.491928+00:00"
       }
     },
     "16601": {
@@ -159045,6 +159027,12 @@
         "target_video_id": "29579574",
         "size_bytes": 18670532607,
         "prepared_at": "2026-09-21T09:20:44.851642+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-4",
+        "claimed_at": "2026-09-21T12:58:08.985999+00:00",
+        "lease_expires_at": "2026-09-21T18:58:08.985999+00:00",
+        "run_id": "35574076427"
       }
     },
     "4927": {
@@ -159090,6 +159078,12 @@
         "source_id": "35041561",
         "display_name": "Mortal Kombat II (2026) 4K CZ Dabing",
         "planned_at": "2026-09-21T12:57:35.722820+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T12:58:09.236878+00:00",
+        "lease_expires_at": "2026-09-21T18:58:09.236878+00:00",
+        "run_id": "35574076427"
       }
     },
     "8790": {
@@ -236781,5 +236775,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T12:58:06.620119+00:00"
+  "updated_at": "2026-09-21T12:58:09.491952+00:00"
 }
