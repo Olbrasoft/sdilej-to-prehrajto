@@ -47319,13 +47319,6 @@
           "source_id": "34710258",
           "target_video_id": "29255540",
           "permanent": false,
-          "attempted_at": "2026-09-21T10:47:11.116507+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710258",
-          "target_video_id": "29255540",
-          "permanent": false,
           "attempted_at": "2026-09-21T12:34:10.660309+00:00"
         },
         {
@@ -47334,6 +47327,13 @@
           "target_video_id": "29255540",
           "permanent": false,
           "attempted_at": "2026-09-21T13:38:34.886606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710258",
+          "target_video_id": "29255540",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:12:51.184305+00:00"
         }
       ],
       "last_plan": {
@@ -47647,13 +47647,6 @@
           "source_id": "34501428",
           "target_video_id": "29482056",
           "permanent": false,
-          "attempted_at": "2026-09-21T10:47:12.199531+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34501428",
-          "target_video_id": "29482056",
-          "permanent": false,
           "attempted_at": "2026-09-21T12:34:12.321225+00:00"
         },
         {
@@ -47662,6 +47655,13 @@
           "target_video_id": "29482056",
           "permanent": false,
           "attempted_at": "2026-09-21T13:38:35.659619+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34501428",
+          "target_video_id": "29482056",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:12:53.058927+00:00"
         }
       ],
       "last_plan": {
@@ -47806,13 +47806,6 @@
           "source_id": "34900816",
           "target_video_id": "29482099",
           "permanent": false,
-          "attempted_at": "2026-09-21T10:47:11.794444+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34900816",
-          "target_video_id": "29482099",
-          "permanent": false,
           "attempted_at": "2026-09-21T12:34:14.300686+00:00"
         },
         {
@@ -47821,6 +47814,13 @@
           "target_video_id": "29482099",
           "permanent": false,
           "attempted_at": "2026-09-21T13:38:35.243836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34900816",
+          "target_video_id": "29482099",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:12:54.742194+00:00"
         }
       ],
       "last_plan": {
@@ -47915,13 +47915,6 @@
           "source_id": "32264181",
           "target_video_id": "29482249",
           "permanent": false,
-          "attempted_at": "2026-09-21T10:47:13.105229+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32264181",
-          "target_video_id": "29482249",
-          "permanent": false,
           "attempted_at": "2026-09-21T12:34:16.332024+00:00"
         },
         {
@@ -47930,6 +47923,13 @@
           "target_video_id": "29482249",
           "permanent": false,
           "attempted_at": "2026-09-21T13:38:35.946872+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32264181",
+          "target_video_id": "29482249",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:12:56.301908+00:00"
         }
       ],
       "last_plan": {
@@ -48029,7 +48029,13 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-18T10:57:11.977551+00:00"
       },
-      "previous_target_id": "29482462"
+      "previous_target_id": "29482462",
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T14:12:56.641830+00:00",
+        "lease_expires_at": "2026-09-21T20:12:56.641830+00:00",
+        "run_id": "35574076427"
+      }
     },
     "2456": {
       "attempts": [
@@ -160952,13 +160958,6 @@
           "permanent": false,
           "source_id": "32962447",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:57:27.492579+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32962447",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:41.875645+00:00"
         },
         {
@@ -160967,18 +160966,19 @@
           "source_id": "32962447",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:17.561803+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32962447",
+          "target_video_id": "29586281",
+          "permanent": false,
+          "attempted_at": "2026-09-21T14:12:57.527221+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32962447",
         "display_name": "Labyrint: Vražedná léčba (2018) 4K CZ Dabing",
         "planned_at": "2026-09-21T13:45:06.951325+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
-        "claimed_at": "2026-09-21T13:51:08.967881+00:00",
-        "lease_expires_at": "2026-09-21T19:51:08.967881+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29586281",
       "prepared": {
@@ -236908,5 +236908,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T14:12:44.716362+00:00"
+  "updated_at": "2026-09-21T14:12:57.527237+00:00"
 }
