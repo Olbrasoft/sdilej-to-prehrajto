@@ -153369,13 +153369,6 @@
           "permanent": false,
           "source_id": "34498608",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:56.326960+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34498608",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:56:28.685619+00:00"
         },
         {
@@ -153384,18 +153377,19 @@
           "reason": "Request failed for https://sdilej.cz/34498608/smrtelne-zlo.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T04:32:28.751754+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34498608",
+          "target_video_id": "29575807",
+          "permanent": false,
+          "attempted_at": "2026-09-21T05:53:43.242160+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34498608",
         "display_name": "Nesmrtelné zlo (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-21T05:23:14.824080+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-3",
-        "claimed_at": "2026-09-21T05:27:36.212119+00:00",
-        "lease_expires_at": "2026-09-21T11:27:36.212119+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29575807",
       "prepared": {
@@ -235002,5 +234996,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T05:52:21.669071+00:00"
+  "updated_at": "2026-09-21T05:53:43.242178+00:00"
 }
