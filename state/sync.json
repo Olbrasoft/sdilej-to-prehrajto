@@ -151030,13 +151030,6 @@
           "permanent": false,
           "source_id": "34040621",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:35:16.546233+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34040621",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:36:54.307019+00:00"
         },
         {
@@ -151045,18 +151038,19 @@
           "source_id": "34040621",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:51.568496+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34040621",
+          "target_video_id": "29573713",
+          "permanent": false,
+          "attempted_at": "2026-09-21T03:16:49.013214+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34040621",
         "display_name": "Legenda o ztraceném (1957) 720p CZ Dabing",
         "planned_at": "2026-09-21T02:49:56.624267+00:00"
-      },
-      "claim": {
-        "worker_id": "9e139cf783da43698feda66befa8250e-shard-0",
-        "claimed_at": "2026-09-21T03:10:01.875161+00:00",
-        "lease_expires_at": "2026-09-21T09:10:01.875161+00:00",
-        "run_id": "35549724548"
       },
       "previous_target_id": "29573713",
       "prepared": {
@@ -151368,6 +151362,12 @@
         "source_id": "34345252",
         "display_name": "Černý pás (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-21T02:49:58.652797+00:00"
+      },
+      "claim": {
+        "worker_id": "9e139cf783da43698feda66befa8250e-shard-5",
+        "claimed_at": "2026-09-21T03:16:40.326599+00:00",
+        "lease_expires_at": "2026-09-21T09:16:40.326599+00:00",
+        "run_id": "35549724548"
       }
     },
     "34371": {
@@ -234422,5 +234422,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T03:16:35.347692+00:00"
+  "updated_at": "2026-09-21T03:16:49.013230+00:00"
 }
