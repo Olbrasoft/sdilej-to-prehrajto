@@ -159819,13 +159819,6 @@
           "permanent": false,
           "source_id": "34023629",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:56:25.171542+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34023629",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:03.089020+00:00"
         },
         {
@@ -159834,18 +159827,19 @@
           "source_id": "34023629",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:46.658981+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34023629",
+          "target_video_id": "29585485",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:13:48.922384+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34023629",
         "display_name": "Mafia Wars (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-21T12:57:38.390304+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T13:06:02.847712+00:00",
-        "lease_expires_at": "2026-09-21T19:06:02.847712+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29585485",
       "prepared": {
@@ -160174,6 +160168,12 @@
         "source_id": "20168574",
         "display_name": "Velký blázinec v malém hotelu (1999) SD CZ Dabing",
         "planned_at": "2026-09-21T12:57:40.009052+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T13:13:19.536443+00:00",
+        "lease_expires_at": "2026-09-21T19:13:19.536443+00:00",
+        "run_id": "35574076427"
       }
     },
     "22256": {
@@ -236817,5 +236817,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:13:12.564292+00:00"
+  "updated_at": "2026-09-21T13:13:48.922400+00:00"
 }
