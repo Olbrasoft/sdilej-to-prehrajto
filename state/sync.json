@@ -157334,13 +157334,6 @@
           "permanent": false,
           "source_id": "23454392",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:55:38.042028+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23454392",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:56:00.628196+00:00"
         },
         {
@@ -157349,18 +157342,19 @@
           "source_id": "23454392",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:18.747628+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23454392",
+          "target_video_id": "29579297",
+          "permanent": false,
+          "attempted_at": "2026-09-21T09:12:53.219084+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23454392",
         "display_name": "Raymond & Ray (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-21T08:35:25.903194+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-5",
-        "claimed_at": "2026-09-21T09:01:59.694202+00:00",
-        "lease_expires_at": "2026-09-21T15:01:59.694202+00:00",
-        "run_id": "35574076427"
       },
       "previous_target_id": "29579297",
       "prepared": {
@@ -157717,6 +157711,12 @@
         "source_id": "33738196",
         "display_name": "Mlátička (2025) 4K CZ Dabing",
         "planned_at": "2026-09-21T08:35:27.831776+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
+        "claimed_at": "2026-09-21T09:12:12.251848+00:00",
+        "lease_expires_at": "2026-09-21T15:12:12.251848+00:00",
+        "run_id": "35574076427"
       }
     },
     "37457": {
@@ -235655,5 +235655,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T09:11:59.861231+00:00"
+  "updated_at": "2026-09-21T09:12:53.219101+00:00"
 }
