@@ -161122,13 +161122,6 @@
           "permanent": false,
           "source_id": "32991116",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:57:28.843424+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32991116",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:57:44.689267+00:00"
         },
         {
@@ -161137,18 +161130,19 @@
           "source_id": "32991116",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:20.399219+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32991116",
+          "reason": "Request failed for https://sdilej.cz/32991116/smrt-na-nilu-2022-uhdr-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-21T13:57:14.678154+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32991116",
         "display_name": "Smrt na Nilu (2022) 4K CZ Dabing",
         "planned_at": "2026-09-21T13:45:08.160050+00:00"
-      },
-      "claim": {
-        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-0",
-        "claimed_at": "2026-09-21T13:56:28.773447+00:00",
-        "lease_expires_at": "2026-09-21T19:56:28.773447+00:00",
-        "run_id": "35574076427"
       }
     },
     "4957": {
@@ -161182,6 +161176,12 @@
         "source_id": "33770429",
         "display_name": "Mocný vládce Oz (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-21T13:45:08.466094+00:00"
+      },
+      "claim": {
+        "worker_id": "b104bcd9ab8249ed9825a86a28e0798e-shard-1",
+        "claimed_at": "2026-09-21T13:57:13.778522+00:00",
+        "lease_expires_at": "2026-09-21T19:57:13.778522+00:00",
+        "run_id": "35574076427"
       }
     },
     "5652": {
@@ -236888,5 +236888,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T13:57:06.334700+00:00"
+  "updated_at": "2026-09-21T13:57:14.678166+00:00"
 }
