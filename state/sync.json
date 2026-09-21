@@ -161210,13 +161210,6 @@
           "permanent": false,
           "source_id": "18018720",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:38.943294+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "18018720",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:15.154958+00:00"
         },
         {
@@ -161225,18 +161218,19 @@
           "reason": "Request failed for https://sdilej.cz/18018720/kradez-legendy-grand.theft.parsons.2003.1080p.hdtv.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-21T13:24:47.609656+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18018720",
+          "target_video_id": "29587880",
+          "permanent": false,
+          "attempted_at": "2026-09-21T15:24:47.727791+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18018720",
         "display_name": "Krádež legendy (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-21T15:10:03.481384+00:00"
-      },
-      "claim": {
-        "worker_id": "2991071625174bdbac97fd3f14e5b6e8-shard-3",
-        "claimed_at": "2026-09-21T15:18:09.245919+00:00",
-        "lease_expires_at": "2026-09-21T21:18:09.245919+00:00",
-        "run_id": "35605790401"
       },
       "previous_target_id": "29587880",
       "prepared": {
@@ -237502,5 +237496,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T15:20:09.014796+00:00"
+  "updated_at": "2026-09-21T15:24:47.727812+00:00"
 }
