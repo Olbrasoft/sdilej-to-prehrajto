@@ -145808,13 +145808,6 @@
           "permanent": false,
           "source_id": "9910022",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:14:39.480635+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "9910022",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:25:24.052059+00:00"
         },
         {
@@ -145823,18 +145816,19 @@
           "reason": "Request failed for https://sdilej.cz/9910022/jako-mali-kluci-2013.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-20T20:54:22.289130+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9910022",
+          "target_video_id": "29571505",
+          "permanent": false,
+          "attempted_at": "2026-09-21T00:16:34.011072+00:00"
         }
       ],
       "last_plan": {
         "source_id": "9910022",
         "display_name": "Jako malí kluci (2013) SD CZ Dabing",
         "planned_at": "2026-09-21T00:02:44.607312+00:00"
-      },
-      "claim": {
-        "worker_id": "95c75fcda12441e691f255ec2fe5acdd-shard-1",
-        "claimed_at": "2026-09-21T00:11:42.778627+00:00",
-        "lease_expires_at": "2026-09-21T06:11:42.778627+00:00",
-        "run_id": "35529171597"
       },
       "previous_target_id": "29571505",
       "prepared": {
@@ -234266,5 +234260,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-21T00:13:25.293650+00:00"
+  "updated_at": "2026-09-21T00:16:34.011094+00:00"
 }
