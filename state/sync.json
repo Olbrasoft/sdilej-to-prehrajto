@@ -179118,13 +179118,6 @@
           "permanent": false,
           "source_id": "33672011",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:40.924001+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33672011",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:56:57.480484+00:00"
         },
         {
@@ -179133,18 +179126,19 @@
           "source_id": "33672011",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:38.738981+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33672011",
+          "target_video_id": "29612650",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:11:07.889555+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33672011",
         "display_name": "Opuštěný muž (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:51.507483+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-3",
-        "claimed_at": "2026-09-22T08:07:13.236278+00:00",
-        "lease_expires_at": "2026-09-22T14:07:13.236278+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612650",
       "prepared": {
@@ -179490,6 +179484,12 @@
         "source_id": "11226791",
         "display_name": "Buffalo Soldiers: Odvaha a přátelství (2008) SD CZ Dabing",
         "planned_at": "2026-09-22T07:50:53.439369+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-4",
+        "claimed_at": "2026-09-22T08:11:05.580173+00:00",
+        "lease_expires_at": "2026-09-22T14:11:05.580173+00:00",
+        "run_id": "35699963447"
       }
     },
     "23146": {
@@ -239931,5 +239931,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:10:59.501539+00:00"
+  "updated_at": "2026-09-22T08:11:07.889570+00:00"
 }
