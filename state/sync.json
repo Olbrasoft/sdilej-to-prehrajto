@@ -178226,13 +178226,6 @@
           "permanent": false,
           "source_id": "21105641",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:55:55.533359+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21105641",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:31.799530+00:00"
         },
         {
@@ -178241,18 +178234,19 @@
           "reason": "Request failed for https://sdilej.cz/21105641/noc-v-eagle-inn-night.at.the.eagle.inn.2021.1080p.webrip.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T08:00:44.781551+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21105641",
+          "target_video_id": "29613379",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:48:18.273036+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21105641",
         "display_name": "Noc v Eagle Inn (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:31.549467+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-0",
-        "claimed_at": "2026-09-22T08:40:44.178712+00:00",
-        "lease_expires_at": "2026-09-22T14:40:44.178712+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613379",
       "prepared": {
@@ -239890,5 +239884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:48:08.460241+00:00"
+  "updated_at": "2026-09-22T08:48:18.273059+00:00"
 }
