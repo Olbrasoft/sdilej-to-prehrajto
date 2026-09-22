@@ -176924,13 +176924,6 @@
           "permanent": false,
           "source_id": "34671542",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:07:12.320259+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34671542",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:10:34.410213+00:00"
         },
         {
@@ -176939,18 +176932,19 @@
           "source_id": "34671542",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:12:06.315747+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671542",
+          "target_video_id": "29611517",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:16:21.713772+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34671542",
         "display_name": "Tenkrát v Deadwoodu (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-22T06:57:35.463271+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
-        "claimed_at": "2026-09-22T07:07:47.871197+00:00",
-        "lease_expires_at": "2026-09-22T13:07:47.871197+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29611517",
       "prepared": {
@@ -177132,6 +177126,12 @@
         "source_id": "24107207",
         "display_name": "Moje dobrá víla (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-22T06:57:37.032798+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
+        "claimed_at": "2026-09-22T07:16:01.081565+00:00",
+        "lease_expires_at": "2026-09-22T13:16:01.081565+00:00",
+        "run_id": "35676365152"
       }
     },
     "25637": {
@@ -239777,5 +239777,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:15:54.303917+00:00"
+  "updated_at": "2026-09-22T07:16:21.713787+00:00"
 }
