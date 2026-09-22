@@ -95085,17 +95085,19 @@
       }
     },
     "16911": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11948507",
+          "reason": "Request failed for https://sdilej.cz/11948507/osudove-leto-v-jizni-francii-2016-dvb-t-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:16:05.997908+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11948507",
         "display_name": "Osudové léto v jižní Francii (2016) SD CZ Dabing",
         "planned_at": "2026-09-22T05:10:59.903536+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T05:15:20.016713+00:00",
-        "lease_expires_at": "2026-09-22T11:15:20.016713+00:00",
-        "run_id": "35676365152"
       }
     },
     "3241": {
@@ -239656,5 +239658,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:15:30.060304+00:00"
+  "updated_at": "2026-09-22T05:16:05.997924+00:00"
 }
