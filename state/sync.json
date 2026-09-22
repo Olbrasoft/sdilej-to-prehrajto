@@ -165572,13 +165572,6 @@
           "permanent": false,
           "source_id": "34779586",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:00:46.549489+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34779586",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:00:55.073605+00:00"
         },
         {
@@ -165587,18 +165580,19 @@
           "reason": "Request failed for https://sdilej.cz/34779586/pole-v-anglii-festivalovy-nazev-2013-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T02:10:48.515462+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34779586",
+          "target_video_id": "29608213",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:04:09.638339+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34779586",
         "display_name": "Pole v Anglii (festivalový název) (2013) SD CZ Titulky",
         "planned_at": "2026-09-22T03:02:09.367477+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T03:02:34.744437+00:00",
-        "lease_expires_at": "2026-09-22T09:02:34.744437+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29608213",
       "prepared": {
@@ -239017,5 +239011,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:04:06.869033+00:00"
+  "updated_at": "2026-09-22T03:04:09.638355+00:00"
 }
