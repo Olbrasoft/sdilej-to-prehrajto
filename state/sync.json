@@ -176793,13 +176793,6 @@
           "permanent": false,
           "source_id": "34694938",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:33.932461+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34694938",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:12:05.200047+00:00"
         },
         {
@@ -176808,18 +176801,19 @@
           "reason": "Request failed for https://sdilej.cz/34694938/posledni-prestrelka-2025-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:07:41.416085+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34694938",
+          "target_video_id": "29612298",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:59:02.547755+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34694938",
         "display_name": "Poslední přestřelka (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:43.193297+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
-        "claimed_at": "2026-09-22T07:51:09.645561+00:00",
-        "lease_expires_at": "2026-09-22T13:51:09.645561+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612298",
       "prepared": {
@@ -239817,5 +239811,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:58:37.973385+00:00"
+  "updated_at": "2026-09-22T07:59:02.547771+00:00"
 }
