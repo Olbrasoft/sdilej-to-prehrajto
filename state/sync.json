@@ -177587,13 +177587,6 @@
           "permanent": false,
           "source_id": "25849579",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:07:29.042401+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25849579",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:12:22.741570+00:00"
         },
         {
@@ -177602,18 +177595,19 @@
           "source_id": "25849579",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:22.819711+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25849579",
+          "target_video_id": "29611878",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:27:17.006172+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25849579",
         "display_name": "Lhář na plný úvazek (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-22T06:57:41.354639+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
-        "claimed_at": "2026-09-22T07:24:22.127437+00:00",
-        "lease_expires_at": "2026-09-22T13:24:22.127437+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29611878",
       "prepared": {
@@ -177783,6 +177777,12 @@
         "source_id": "31772513",
         "display_name": "Dva Jakeové (1990) 4K CZ Dabing",
         "planned_at": "2026-09-22T06:57:42.587260+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
+        "claimed_at": "2026-09-22T07:26:54.190185+00:00",
+        "lease_expires_at": "2026-09-22T13:26:54.190185+00:00",
+        "run_id": "35676365152"
       }
     },
     "34174": {
@@ -239831,5 +239831,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:26:46.890592+00:00"
+  "updated_at": "2026-09-22T07:27:17.006187+00:00"
 }
