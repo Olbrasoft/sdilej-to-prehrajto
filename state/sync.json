@@ -174644,13 +174644,6 @@
           "permanent": false,
           "source_id": "15433815",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:41:42.573234+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "15433815",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:43:21.501484+00:00"
         },
         {
@@ -174659,18 +174652,19 @@
           "source_id": "15433815",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:05.834523+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15433815",
+          "target_video_id": "29610349",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:55:35.144693+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15433815",
         "display_name": "Battle in Space: The Armada Attacks (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-22T05:40:47.888956+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T05:46:06.849799+00:00",
-        "lease_expires_at": "2026-09-22T11:46:06.849799+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610349",
       "prepared": {
@@ -239719,5 +239713,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:54:34.202128+00:00"
+  "updated_at": "2026-09-22T05:55:35.144725+00:00"
 }
