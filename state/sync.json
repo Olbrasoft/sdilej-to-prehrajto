@@ -180107,13 +180107,6 @@
           "permanent": false,
           "source_id": "30149732",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:51.377582+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30149732",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:33.262244+00:00"
         },
         {
@@ -180122,18 +180115,19 @@
           "source_id": "30149732",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:04.929011+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30149732",
+          "target_video_id": "29613936",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:16:34.017691+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30149732",
         "display_name": "Bunraku (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-22T09:10:55.935272+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-1",
-        "claimed_at": "2026-09-22T09:11:42.390307+00:00",
-        "lease_expires_at": "2026-09-22T15:11:42.390307+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613936",
       "prepared": {
@@ -239845,5 +239839,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:16:28.687809+00:00"
+  "updated_at": "2026-09-22T09:16:34.017706+00:00"
 }
