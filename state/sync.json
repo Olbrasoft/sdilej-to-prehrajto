@@ -167441,13 +167441,6 @@
           "permanent": false,
           "source_id": "5975172",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:16.969857+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "5975172",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:34.155702+00:00"
         },
         {
@@ -167456,6 +167449,13 @@
           "target_video_id": "29607812",
           "permanent": false,
           "attempted_at": "2026-09-22T02:31:41.170215+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5975172",
+          "target_video_id": "29607812",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:03:55.386653+00:00"
         }
       ],
       "last_plan": {
@@ -167466,14 +167466,8 @@
       "previous_target_id": "29607812",
       "prepared": {
         "target_video_id": "29607812",
-        "size_bytes": 919413318,
+        "size_bytes": 919400000,
         "prepared_at": "2026-09-22T02:30:30.471177+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T03:03:52.914613+00:00",
-        "lease_expires_at": "2026-09-22T09:03:52.914613+00:00",
-        "run_id": "35676365152"
       }
     },
     "28163": {
@@ -167709,6 +167703,18 @@
         "source_id": "29428974",
         "display_name": "Malý obchod hrůz (1960) 1080p CZ Dabing",
         "planned_at": "2026-09-22T03:02:15.788962+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
+        "claimed_at": "2026-09-22T03:03:55.683376+00:00",
+        "lease_expires_at": "2026-09-22T09:03:55.683376+00:00",
+        "run_id": "35676365152"
+      },
+      "previous_target_id": "29608232",
+      "prepared": {
+        "target_video_id": "29608232",
+        "size_bytes": 1537435902,
+        "prepared_at": "2026-09-22T03:04:00.274821+00:00"
       }
     },
     "26942": {
@@ -167918,6 +167924,12 @@
         "source_id": "32711645",
         "display_name": "Mise spravedlnosti 2 (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-22T03:02:16.094190+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T03:03:55.992406+00:00",
+        "lease_expires_at": "2026-09-22T09:03:55.992406+00:00",
+        "run_id": "35676365152"
       }
     },
     "23098": {
@@ -238999,5 +239011,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:03:53.206209+00:00"
+  "updated_at": "2026-09-22T03:04:00.274870+00:00"
 }
