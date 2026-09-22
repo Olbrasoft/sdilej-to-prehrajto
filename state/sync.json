@@ -180053,13 +180053,6 @@
           "permanent": false,
           "source_id": "22528197",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:50.978827+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22528197",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:06.259149+00:00"
         },
         {
@@ -180068,18 +180061,19 @@
           "source_id": "22528197",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:58:05.159718+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22528197",
+          "target_video_id": "29613932",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:17:37.598928+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22528197",
         "display_name": "They Live in the Grey (2022) 720p CZ Titulky",
         "planned_at": "2026-09-22T09:10:55.692928+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-2",
-        "claimed_at": "2026-09-22T09:11:37.891389+00:00",
-        "lease_expires_at": "2026-09-22T15:11:37.891389+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613932",
       "prepared": {
@@ -180445,6 +180439,12 @@
         "source_id": "34675405",
         "display_name": "CyberTracker 2 (1995) 1080p CZ Dabing",
         "planned_at": "2026-09-22T09:10:57.381934+00:00"
+      },
+      "claim": {
+        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-0",
+        "claimed_at": "2026-09-22T09:17:03.224201+00:00",
+        "lease_expires_at": "2026-09-22T15:17:03.224201+00:00",
+        "run_id": "35699963447"
       }
     },
     "30168": {
@@ -239857,5 +239857,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:16:56.525879+00:00"
+  "updated_at": "2026-09-22T09:17:37.598944+00:00"
 }
