@@ -176941,13 +176941,6 @@
           "permanent": false,
           "source_id": "34670444",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:35.397388+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34670444",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:12:08.545756+00:00"
         },
         {
@@ -176956,18 +176949,19 @@
           "reason": "Request failed for https://sdilej.cz/34670444/smrt-na-jachte-2022-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:14:11.058185+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34670444",
+          "target_video_id": "29612303",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:56:41.736301+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34670444",
         "display_name": "Smrt na jachtě (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:44.114465+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-0",
-        "claimed_at": "2026-09-22T07:51:26.785779+00:00",
-        "lease_expires_at": "2026-09-22T13:51:26.785779+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612303",
       "prepared": {
@@ -239799,5 +239793,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:51:42.744875+00:00"
+  "updated_at": "2026-09-22T07:56:41.736317+00:00"
 }
