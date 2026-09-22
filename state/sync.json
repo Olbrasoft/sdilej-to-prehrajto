@@ -166990,22 +166990,10 @@
           "attempted_at": "2026-09-22T03:07:09.806325+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26848057",
-        "display_name": "Ehrengard: Umění svádět (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T04:08:55.080071+00:00"
-      },
       "previous_target_id": "29608228",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608228",
-        "size_bytes": 2239286773,
-        "prepared_at": "2026-09-22T03:03:50.709046+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T04:09:10.769007+00:00",
-        "lease_expires_at": "2026-09-22T10:09:10.769007+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T04:09:25.030737+00:00"
       }
     },
     "6009": {
@@ -167774,6 +167762,12 @@
         "target_video_id": "29608232",
         "size_bytes": 1537435902,
         "prepared_at": "2026-09-22T03:04:00.274821+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
+        "claimed_at": "2026-09-22T04:09:24.063320+00:00",
+        "lease_expires_at": "2026-09-22T10:09:24.063320+00:00",
+        "run_id": "35676365152"
       }
     },
     "26942": {
@@ -167962,13 +167956,6 @@
           "permanent": false,
           "source_id": "32711645",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:20.132028+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32711645",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:36.961825+00:00"
         },
         {
@@ -167977,6 +167964,13 @@
           "target_video_id": "29608233",
           "permanent": false,
           "attempted_at": "2026-09-22T03:20:58.586737+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32711645",
+          "target_video_id": "29608233",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:09:24.297707+00:00"
         }
       ],
       "last_plan": {
@@ -167987,14 +167981,8 @@
       "previous_target_id": "29608233",
       "prepared": {
         "target_video_id": "29608233",
-        "size_bytes": 7825187124,
+        "size_bytes": 7800000000,
         "prepared_at": "2026-09-22T03:04:06.869019+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
-        "claimed_at": "2026-09-22T04:09:21.667204+00:00",
-        "lease_expires_at": "2026-09-22T10:09:21.667204+00:00",
-        "run_id": "35676365152"
       }
     },
     "23098": {
@@ -168906,6 +168894,12 @@
         "target_video_id": "29608237",
         "size_bytes": 915466220,
         "prepared_at": "2026-09-22T03:04:15.930803+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
+        "claimed_at": "2026-09-22T04:09:24.533399+00:00",
+        "lease_expires_at": "2026-09-22T10:09:24.533399+00:00",
+        "run_id": "35676365152"
       }
     },
     "32051": {
@@ -168960,6 +168954,12 @@
         "target_video_id": "29608253",
         "size_bytes": 862074736,
         "prepared_at": "2026-09-22T03:05:46.424446+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
+        "claimed_at": "2026-09-22T04:09:24.768561+00:00",
+        "lease_expires_at": "2026-09-22T10:09:24.768561+00:00",
+        "run_id": "35676365152"
       }
     },
     "14315": {
@@ -239372,5 +239372,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:09:21.901960+00:00"
+  "updated_at": "2026-09-22T04:09:25.030754+00:00"
 }
