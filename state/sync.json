@@ -166471,13 +166471,6 @@
           "permanent": false,
           "source_id": "6846494",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:12.527523+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6846494",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:29.936116+00:00"
         },
         {
@@ -166486,6 +166479,13 @@
           "target_video_id": "29607689",
           "permanent": false,
           "attempted_at": "2026-09-22T02:26:52.695629+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6846494",
+          "target_video_id": "29607689",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:03:37.388644+00:00"
         }
       ],
       "last_plan": {
@@ -166496,14 +166496,8 @@
       "previous_target_id": "29607689",
       "prepared": {
         "target_video_id": "29607689",
-        "size_bytes": 5432956587,
+        "size_bytes": 5400000000,
         "prepared_at": "2026-09-22T02:20:55.215919+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T03:03:34.568666+00:00",
-        "lease_expires_at": "2026-09-22T09:03:34.568666+00:00",
-        "run_id": "35676365152"
       }
     },
     "10202": {
@@ -166555,22 +166549,10 @@
           "attempted_at": "2026-09-22T02:25:53.734765+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27045408",
-        "display_name": "Vše co chci k Vánocům jsi ty (2017) 720p CZ Dabing",
-        "planned_at": "2026-09-22T03:02:13.387718+00:00"
-      },
       "previous_target_id": "29607702",
-      "prepared": {
+      "upload": {
         "target_video_id": "29607702",
-        "size_bytes": 3412033259,
-        "prepared_at": "2026-09-22T02:22:00.558516+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
-        "claimed_at": "2026-09-22T03:03:34.860361+00:00",
-        "lease_expires_at": "2026-09-22T09:03:34.860361+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T03:03:38.350403+00:00"
       }
     },
     "24999": {
@@ -166631,6 +166613,12 @@
         "target_video_id": "29607710",
         "size_bytes": 3756761364,
         "prepared_at": "2026-09-22T02:22:26.745682+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
+        "claimed_at": "2026-09-22T03:03:37.706194+00:00",
+        "lease_expires_at": "2026-09-22T09:03:37.706194+00:00",
+        "run_id": "35676365152"
       }
     },
     "10304": {
@@ -166667,6 +166655,12 @@
         "target_video_id": "29607750",
         "size_bytes": 2366842105,
         "prepared_at": "2026-09-22T02:26:05.326120+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T03:03:38.026144+00:00",
+        "lease_expires_at": "2026-09-22T09:03:38.026144+00:00",
+        "run_id": "35676365152"
       }
     },
     "5445": {
@@ -239029,5 +239023,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:03:35.164472+00:00"
+  "updated_at": "2026-09-22T03:03:38.350420+00:00"
 }
