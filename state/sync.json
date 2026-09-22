@@ -176118,13 +176118,6 @@
     "16937": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13648431",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:11:52.241140+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "13648431",
           "target_video_id": "29611130",
@@ -176137,6 +176130,13 @@
           "target_video_id": "29611130",
           "permanent": false,
           "attempted_at": "2026-09-22T07:50:26.163632+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13648431",
+          "target_video_id": "29611130",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:28:33.924587+00:00"
         }
       ],
       "last_plan": {
@@ -176179,6 +176179,18 @@
         "source_id": "29600576",
         "display_name": "Malá vražda (2011) SD CZ Dabing",
         "planned_at": "2026-09-22T08:26:27.249176+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
+        "claimed_at": "2026-09-22T08:28:34.175444+00:00",
+        "lease_expires_at": "2026-09-22T14:28:34.175444+00:00",
+        "run_id": "35699963447"
+      },
+      "previous_target_id": "29613094",
+      "prepared": {
+        "target_video_id": "29613094",
+        "size_bytes": 1465704448,
+        "prepared_at": "2026-09-22T08:28:37.125777+00:00"
       }
     },
     "5715": {
@@ -239938,5 +239950,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:28:30.163740+00:00"
+  "updated_at": "2026-09-22T08:28:37.125793+00:00"
 }
