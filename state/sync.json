@@ -165459,13 +165459,6 @@
           "permanent": false,
           "source_id": "29659428",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:00:45.678237+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29659428",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:00:54.498295+00:00"
         },
         {
@@ -165474,18 +165467,19 @@
           "reason": "Request failed for https://sdilej.cz/29659428/banditka-cislo-jedna-2024-cz-dabing-1080p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T02:10:41.539822+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29659428",
+          "target_video_id": "29608210",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:07:54.727666+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29659428",
         "display_name": "Banditka číslo jedna (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-22T03:02:08.771923+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T03:02:26.626539+00:00",
-        "lease_expires_at": "2026-09-22T09:02:26.626539+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29608210",
       "prepared": {
@@ -239061,5 +239055,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:07:17.563985+00:00"
+  "updated_at": "2026-09-22T03:07:54.727684+00:00"
 }
