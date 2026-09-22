@@ -176614,13 +176614,6 @@
           "permanent": false,
           "source_id": "20432991",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:32.809768+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20432991",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:12:00.815884+00:00"
         },
         {
@@ -176629,18 +176622,19 @@
           "reason": "Request failed for https://sdilej.cz/20432991/mec-spravedlnosti-day.of.wrath.2006.1080p-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:05:24.136124+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20432991",
+          "target_video_id": "29612293",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:02:21.971255+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20432991",
         "display_name": "Meč spravedlnosti (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:41.896011+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T07:50:56.511799+00:00",
-        "lease_expires_at": "2026-09-22T13:50:56.511799+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612293",
       "prepared": {
@@ -239841,5 +239835,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:01:52.502032+00:00"
+  "updated_at": "2026-09-22T08:02:21.971271+00:00"
 }
