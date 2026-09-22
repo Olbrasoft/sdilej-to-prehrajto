@@ -76347,17 +76347,19 @@
       }
     },
     "2772": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28241125",
+          "target_video_id": "29607412",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:08:32.869529+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28241125",
         "display_name": "Psí vojáci (2002) 720p CZ Dabing",
         "planned_at": "2026-09-22T01:57:11.647134+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
-        "claimed_at": "2026-09-22T01:59:52.589400+00:00",
-        "lease_expires_at": "2026-09-22T07:59:52.589400+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29607412",
       "prepared": {
@@ -163952,13 +163954,6 @@
           "permanent": false,
           "source_id": "34401031",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:58:49.997169+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34401031",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:59:15.098625+00:00"
         },
         {
@@ -163967,6 +163962,13 @@
           "target_video_id": "29593656",
           "permanent": false,
           "attempted_at": "2026-09-21T17:32:00.943074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34401031",
+          "target_video_id": "29593656",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:08:32.599005+00:00"
         }
       ],
       "last_plan": {
@@ -163977,14 +163979,8 @@
       "previous_target_id": "29593656",
       "prepared": {
         "target_video_id": "29593656",
-        "size_bytes": 3537609079,
+        "size_bytes": 3500000000,
         "prepared_at": "2026-09-21T17:20:57.116102+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T02:08:30.075575+00:00",
-        "lease_expires_at": "2026-09-22T08:08:30.075575+00:00",
-        "run_id": "35676365152"
       }
     },
     "6517": {
@@ -238633,5 +238629,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:08:30.334485+00:00"
+  "updated_at": "2026-09-22T02:08:32.869545+00:00"
 }
