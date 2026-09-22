@@ -167529,13 +167529,6 @@
           "permanent": false,
           "source_id": "33753126",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:18.094092+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33753126",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:35.043906+00:00"
         },
         {
@@ -167544,6 +167537,13 @@
           "target_video_id": "29607821",
           "permanent": false,
           "attempted_at": "2026-09-22T02:34:21.234408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33753126",
+          "target_video_id": "29607821",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:21:44.693032+00:00"
         }
       ],
       "last_plan": {
@@ -167554,14 +167554,8 @@
       "previous_target_id": "29607821",
       "prepared": {
         "target_video_id": "29607821",
-        "size_bytes": 2111487554,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-22T02:31:21.635207+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T03:21:41.735704+00:00",
-        "lease_expires_at": "2026-09-22T09:21:41.735704+00:00",
-        "run_id": "35676365152"
       }
     },
     "15489": {
@@ -167634,22 +167628,10 @@
           "attempted_at": "2026-09-22T02:36:55.093090+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33205444",
-        "display_name": "Poslední král (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T03:21:17.800193+00:00"
-      },
       "previous_target_id": "29607825",
-      "prepared": {
+      "upload": {
         "target_video_id": "29607825",
-        "size_bytes": 2418398885,
-        "prepared_at": "2026-09-22T02:31:52.026880+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T03:21:41.046204+00:00",
-        "lease_expires_at": "2026-09-22T09:21:41.046204+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T03:21:45.777431+00:00"
       }
     },
     "32684": {
@@ -169879,6 +169861,12 @@
         "source_id": "14431942",
         "display_name": "Homeboy (1988) SD CZ Dabing",
         "planned_at": "2026-09-22T03:21:18.291523+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
+        "claimed_at": "2026-09-22T03:21:45.112033+00:00",
+        "lease_expires_at": "2026-09-22T09:21:45.112033+00:00",
+        "run_id": "35676365152"
       }
     },
     "29833": {
@@ -169912,6 +169900,12 @@
         "source_id": "12205647",
         "display_name": "Take Point (2018) SD CZ Titulky",
         "planned_at": "2026-09-22T03:21:18.538699+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T03:21:45.374291+00:00",
+        "lease_expires_at": "2026-09-22T09:21:45.374291+00:00",
+        "run_id": "35676365152"
       }
     },
     "23833": {
@@ -239072,5 +239066,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:21:42.404805+00:00"
+  "updated_at": "2026-09-22T03:21:45.777448+00:00"
 }
