@@ -165800,13 +165800,6 @@
           "permanent": false,
           "source_id": "27601619",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:08:25.618461+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27601619",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:08:30.122864+00:00"
         },
         {
@@ -165815,6 +165808,13 @@
           "target_video_id": "29607550",
           "permanent": false,
           "attempted_at": "2026-09-22T02:41:14.561243+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27601619",
+          "target_video_id": "29607550",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:21:39.715430+00:00"
         }
       ],
       "last_plan": {
@@ -165825,14 +165825,8 @@
       "previous_target_id": "29607550",
       "prepared": {
         "target_video_id": "29607550",
-        "size_bytes": 18540293209,
+        "size_bytes": 18500000000,
         "prepared_at": "2026-09-22T02:11:01.505566+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T03:21:29.215449+00:00",
-        "lease_expires_at": "2026-09-22T09:21:29.215449+00:00",
-        "run_id": "35676365152"
       }
     },
     "9944": {
@@ -165980,13 +165974,6 @@
           "permanent": false,
           "source_id": "33237811",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:08:26.461900+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33237811",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:08:31.686168+00:00"
         },
         {
@@ -165995,6 +165982,13 @@
           "target_video_id": "29607574",
           "permanent": false,
           "attempted_at": "2026-09-22T02:37:24.128668+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33237811",
+          "target_video_id": "29607574",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:21:40.131944+00:00"
         }
       ],
       "last_plan": {
@@ -166005,14 +165999,8 @@
       "previous_target_id": "29607574",
       "prepared": {
         "target_video_id": "29607574",
-        "size_bytes": 15963346619,
+        "size_bytes": 16000000000,
         "prepared_at": "2026-09-22T02:12:46.618013+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T03:21:36.727596+00:00",
-        "lease_expires_at": "2026-09-22T09:21:36.727596+00:00",
-        "run_id": "35676365152"
       }
     },
     "30297": {
@@ -166137,13 +166125,6 @@
           "permanent": false,
           "source_id": "34472748",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:08:29.493443+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34472748",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:08:34.665349+00:00"
         },
         {
@@ -166152,6 +166133,13 @@
           "target_video_id": "29607612",
           "permanent": false,
           "attempted_at": "2026-09-22T02:46:23.480261+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34472748",
+          "target_video_id": "29607612",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:21:40.381001+00:00"
         }
       ],
       "last_plan": {
@@ -166162,14 +166150,8 @@
       "previous_target_id": "29607612",
       "prepared": {
         "target_video_id": "29607612",
-        "size_bytes": 16595779775,
+        "size_bytes": 16600000000,
         "prepared_at": "2026-09-22T02:15:48.177757+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
-        "claimed_at": "2026-09-22T03:21:36.988248+00:00",
-        "lease_expires_at": "2026-09-22T09:21:36.988248+00:00",
-        "run_id": "35676365152"
       }
     },
     "29049": {
@@ -167502,16 +167484,10 @@
           "attempted_at": "2026-09-22T02:34:31.655255+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30132662",
-        "display_name": "Vánoce na farmě (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T03:21:17.311052+00:00"
-      },
       "previous_target_id": "29607813",
-      "prepared": {
+      "upload": {
         "target_video_id": "29607813",
-        "size_bytes": 2003156384,
-        "prepared_at": "2026-09-22T02:30:37.643796+00:00"
+        "uploaded_at": "2026-09-22T03:21:42.404791+00:00"
       }
     },
     "29379": {
@@ -167580,6 +167556,12 @@
         "target_video_id": "29607821",
         "size_bytes": 2111487554,
         "prepared_at": "2026-09-22T02:31:21.635207+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T03:21:41.735704+00:00",
+        "lease_expires_at": "2026-09-22T09:21:41.735704+00:00",
+        "run_id": "35676365152"
       }
     },
     "15489": {
@@ -167662,6 +167644,12 @@
         "target_video_id": "29607825",
         "size_bytes": 2418398885,
         "prepared_at": "2026-09-22T02:31:52.026880+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
+        "claimed_at": "2026-09-22T03:21:41.046204+00:00",
+        "lease_expires_at": "2026-09-22T09:21:41.046204+00:00",
+        "run_id": "35676365152"
       }
     },
     "32684": {
@@ -169849,6 +169837,12 @@
         "source_id": "31415930",
         "display_name": "Ong Bak 2: Pomsta (2008) 720p CZ Dabing",
         "planned_at": "2026-09-22T03:21:18.048026+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
+        "claimed_at": "2026-09-22T03:21:41.304036+00:00",
+        "lease_expires_at": "2026-09-22T09:21:41.304036+00:00",
+        "run_id": "35676365152"
       }
     },
     "21047": {
@@ -239078,5 +239072,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:21:37.249505+00:00"
+  "updated_at": "2026-09-22T03:21:42.404805+00:00"
 }
