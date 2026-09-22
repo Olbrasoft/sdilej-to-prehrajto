@@ -174952,6 +174952,12 @@
         "target_video_id": "29610973",
         "size_bytes": 18560517483,
         "prepared_at": "2026-09-22T06:38:13.519506+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
+        "claimed_at": "2026-09-22T07:50:06.836500+00:00",
+        "lease_expires_at": "2026-09-22T13:50:06.836500+00:00",
+        "run_id": "35699963447"
       }
     },
     "19545": {
@@ -175025,13 +175031,6 @@
     "34899": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28179042",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:10:36.767546+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "28179042",
           "target_video_id": "29610456",
@@ -175044,6 +175043,13 @@
           "target_video_id": "29610456",
           "permanent": false,
           "attempted_at": "2026-09-22T06:38:13.213002+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28179042",
+          "target_video_id": "29610456",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:07.580101+00:00"
         }
       ],
       "last_plan": {
@@ -175249,6 +175255,12 @@
         "target_video_id": "29610978",
         "size_bytes": 2388585884,
         "prepared_at": "2026-09-22T06:38:33.642358+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
+        "claimed_at": "2026-09-22T07:50:07.163446+00:00",
+        "lease_expires_at": "2026-09-22T13:50:07.163446+00:00",
+        "run_id": "35699963447"
       }
     },
     "14965": {
@@ -175437,16 +175449,10 @@
           "attempted_at": "2026-09-22T06:40:26.163366+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "25062581",
-        "display_name": "Ten, kdo mě hlídá (1987) SD CZ Dabing",
-        "planned_at": "2026-09-22T07:49:18.162494+00:00"
-      },
       "previous_target_id": "29610984",
-      "prepared": {
+      "upload": {
         "target_video_id": "29610984",
-        "size_bytes": 1221794320,
-        "prepared_at": "2026-09-22T06:38:40.037519+00:00"
+        "uploaded_at": "2026-09-22T07:50:07.967569+00:00"
       }
     },
     "6223": {
@@ -239828,5 +239834,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:50:04.198120+00:00"
+  "updated_at": "2026-09-22T07:50:07.967586+00:00"
 }
