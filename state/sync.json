@@ -107958,17 +107958,19 @@
       "attempts": []
     },
     "29477": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "17594648",
+          "reason": "Request failed for https://sdilej.cz/17594648/slibena-princezna-2016-pohadka-1920x1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:03:42.431165+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17594648",
         "display_name": "Slíbená princezna (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:02:16.476964+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T02:02:56.499452+00:00",
-        "lease_expires_at": "2026-09-22T08:02:56.499452+00:00",
-        "run_id": "35676365152"
       }
     },
     "35788": {
@@ -238746,5 +238748,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:03:27.819178+00:00"
+  "updated_at": "2026-09-22T02:03:42.431184+00:00"
 }
