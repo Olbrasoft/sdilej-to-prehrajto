@@ -179419,13 +179419,6 @@
           "permanent": false,
           "source_id": "29869557",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:57:01.323667+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29869557",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:49.590872+00:00"
         },
         {
@@ -179434,6 +179427,14 @@
           "target_video_id": "29612788",
           "permanent": false,
           "attempted_at": "2026-09-22T08:15:52.456303+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29869557",
+          "target_video_id": "29612788",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:11:26.123541+00:00"
         }
       ],
       "last_plan": {
@@ -179441,18 +179442,7 @@
         "display_name": "Na hraně lásky (2008) SD CZ Dabing",
         "planned_at": "2026-09-22T09:10:53.520999+00:00"
       },
-      "previous_target_id": "29612788",
-      "prepared": {
-        "target_video_id": "29612788",
-        "size_bytes": 1467965440,
-        "prepared_at": "2026-09-22T08:13:26.384818+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-3",
-        "claimed_at": "2026-09-22T09:11:19.794478+00:00",
-        "lease_expires_at": "2026-09-22T15:11:19.794478+00:00",
-        "run_id": "35699963447"
-      }
+      "previous_target_id": "29612788"
     },
     "35210": {
       "attempts": []
@@ -179542,13 +179532,6 @@
           "permanent": false,
           "source_id": "33152138",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:57:01.929066+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33152138",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:52.571828+00:00"
         },
         {
@@ -179557,6 +179540,13 @@
           "target_video_id": "29612809",
           "permanent": false,
           "attempted_at": "2026-09-22T08:18:25.999152+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33152138",
+          "target_video_id": "29612809",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:11:25.880836+00:00"
         }
       ],
       "last_plan": {
@@ -179567,14 +179557,8 @@
       "previous_target_id": "29612809",
       "prepared": {
         "target_video_id": "29612809",
-        "size_bytes": 3087288978,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-22T08:14:17.464570+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-2",
-        "claimed_at": "2026-09-22T09:11:23.055236+00:00",
-        "lease_expires_at": "2026-09-22T15:11:23.055236+00:00",
-        "run_id": "35699963447"
       }
     },
     "22830": {
@@ -239831,5 +239815,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:11:23.730920+00:00"
+  "updated_at": "2026-09-22T09:11:26.123565+00:00"
 }
