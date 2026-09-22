@@ -176213,6 +176213,12 @@
         "source_id": "29600576",
         "display_name": "Malá vražda (2011) SD CZ Dabing",
         "planned_at": "2026-09-22T07:49:21.164513+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-0",
+        "claimed_at": "2026-09-22T07:50:30.682729+00:00",
+        "lease_expires_at": "2026-09-22T13:50:30.682729+00:00",
+        "run_id": "35699963447"
       }
     },
     "5715": {
@@ -176249,16 +176255,10 @@
           "attempted_at": "2026-09-22T06:54:53.051221+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34726508",
-        "display_name": "Violence Action (2022) 1080p CZ Titulky",
-        "planned_at": "2026-09-22T07:49:21.420950+00:00"
-      },
       "previous_target_id": "29611154",
-      "prepared": {
+      "upload": {
         "target_video_id": "29611154",
-        "size_bytes": 3256215343,
-        "prepared_at": "2026-09-22T06:48:03.062809+00:00"
+        "uploaded_at": "2026-09-22T07:50:32.723308+00:00"
       }
     },
     "5688": {
@@ -176324,13 +176324,6 @@
           "permanent": false,
           "source_id": "33724672",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:31.120462+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33724672",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:11:55.457707+00:00"
         },
         {
@@ -176339,6 +176332,13 @@
           "target_video_id": "29611350",
           "permanent": false,
           "attempted_at": "2026-09-22T07:04:27.776933+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33724672",
+          "target_video_id": "29611350",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:32.343432+00:00"
         }
       ],
       "last_plan": {
@@ -176349,7 +176349,7 @@
       "previous_target_id": "29611350",
       "prepared": {
         "target_video_id": "29611350",
-        "size_bytes": 2242349976,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-22T06:58:47.823898+00:00"
       }
     },
@@ -239804,5 +239804,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:50:28.593103+00:00"
+  "updated_at": "2026-09-22T07:50:32.723325+00:00"
 }
