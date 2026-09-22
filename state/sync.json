@@ -15572,13 +15572,6 @@
           "source_id": "18074667",
           "target_video_id": "29336687",
           "permanent": false,
-          "attempted_at": "2026-09-22T03:15:52.514278+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "29336687",
-          "permanent": false,
           "attempted_at": "2026-09-22T03:49:09.799616+00:00"
         },
         {
@@ -15587,6 +15580,13 @@
           "target_video_id": "29336687",
           "permanent": false,
           "attempted_at": "2026-09-22T05:03:25.246092+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "29336687",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:33:57.077168+00:00"
         }
       ],
       "last_plan": {
@@ -15599,13 +15599,7 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-13T02:50:00.136585+00:00"
       },
-      "previous_target_id": "29336687",
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
-        "claimed_at": "2026-09-22T05:33:46.749605+00:00",
-        "lease_expires_at": "2026-09-22T11:33:46.749605+00:00",
-        "run_id": "35676365152"
-      }
+      "previous_target_id": "29336687"
     },
     "730": {
       "attempts": [
@@ -170933,22 +170927,10 @@
           "attempted_at": "2026-09-22T04:12:02.186581+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22204892",
-        "display_name": "Pod žhavým sluncem: Amalfi (2022) SD CZ Titulky",
-        "planned_at": "2026-09-22T05:33:27.296235+00:00"
-      },
       "previous_target_id": "29609071",
-      "prepared": {
+      "upload": {
         "target_video_id": "29609071",
-        "size_bytes": 980299198,
-        "prepared_at": "2026-09-22T04:10:49.361456+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
-        "claimed_at": "2026-09-22T05:33:47.694230+00:00",
-        "lease_expires_at": "2026-09-22T11:33:47.694230+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T05:33:58.121740+00:00"
       }
     },
     "15244": {
@@ -171059,6 +171041,12 @@
         "target_video_id": "29608562",
         "size_bytes": 4700000000,
         "prepared_at": "2026-09-22T03:31:20.273548+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
+        "claimed_at": "2026-09-22T05:33:57.334256+00:00",
+        "lease_expires_at": "2026-09-22T11:33:57.334256+00:00",
+        "run_id": "35676365152"
       }
     },
     "23548": {
@@ -171235,6 +171223,12 @@
         "target_video_id": "29608582",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-22T03:33:09.958086+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-2",
+        "claimed_at": "2026-09-22T05:33:57.867539+00:00",
+        "lease_expires_at": "2026-09-22T11:33:57.867539+00:00",
+        "run_id": "35676365152"
       }
     },
     "14078": {
@@ -171404,6 +171398,12 @@
         "target_video_id": "29608612",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-22T03:35:13.678975+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
+        "claimed_at": "2026-09-22T05:33:57.589594+00:00",
+        "lease_expires_at": "2026-09-22T11:33:57.589594+00:00",
+        "run_id": "35676365152"
       }
     },
     "28977": {
@@ -239819,5 +239819,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:33:54.883215+00:00"
+  "updated_at": "2026-09-22T05:33:58.121757+00:00"
 }
