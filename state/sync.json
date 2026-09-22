@@ -175863,13 +175863,6 @@
           "permanent": false,
           "source_id": "6915501",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:09:07.440609+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6915501",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:44.780936+00:00"
         },
         {
@@ -175878,6 +175871,13 @@
           "target_video_id": "29610986",
           "permanent": false,
           "attempted_at": "2026-09-22T06:43:54.401826+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6915501",
+          "target_video_id": "29610986",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:20.028833+00:00"
         }
       ],
       "last_plan": {
@@ -175888,14 +175888,8 @@
       "previous_target_id": "29610986",
       "prepared": {
         "target_video_id": "29610986",
-        "size_bytes": 3588190214,
+        "size_bytes": 3600000000,
         "prepared_at": "2026-09-22T06:38:48.244996+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
-        "claimed_at": "2026-09-22T07:50:17.074223+00:00",
-        "lease_expires_at": "2026-09-22T13:50:17.074223+00:00",
-        "run_id": "35699963447"
       }
     },
     "5724": {
@@ -175948,22 +175942,10 @@
           "attempted_at": "2026-09-22T06:46:35.156326+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34705044",
-        "display_name": "Vodonoš (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T07:49:19.880553+00:00"
-      },
       "previous_target_id": "29611014",
-      "prepared": {
+      "upload": {
         "target_video_id": "29611014",
-        "size_bytes": 4131048425,
-        "prepared_at": "2026-09-22T06:40:38.607540+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T07:50:17.380052+00:00",
-        "lease_expires_at": "2026-09-22T13:50:17.380052+00:00",
-        "run_id": "35699963447"
+        "uploaded_at": "2026-09-22T07:50:20.321981+00:00"
       }
     },
     "5447": {
@@ -176001,6 +175983,12 @@
         "source_id": "31582764",
         "display_name": "Fantastická zvířata: Brumbálova tajemství (2022) 4K CZ Dabing",
         "planned_at": "2026-09-22T07:49:20.138585+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
+        "claimed_at": "2026-09-22T07:50:19.738397+00:00",
+        "lease_expires_at": "2026-09-22T13:50:19.738397+00:00",
+        "run_id": "35699963447"
       }
     },
     "5547": {
@@ -239822,5 +239810,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:50:17.684230+00:00"
+  "updated_at": "2026-09-22T07:50:20.321998+00:00"
 }
