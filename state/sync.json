@@ -171230,13 +171230,6 @@
           "permanent": false,
           "source_id": "34660320",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:38:16.716375+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34660320",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:39:46.799184+00:00"
         },
         {
@@ -171245,18 +171238,19 @@
           "source_id": "34660320",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:40:21.768534+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34660320",
+          "target_video_id": "29608674",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:43:58.461750+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34660320",
         "display_name": "WikiLeaks (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-22T03:21:25.170314+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T03:38:57.225518+00:00",
-        "lease_expires_at": "2026-09-22T09:38:57.225518+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29608674",
       "prepared": {
@@ -239279,5 +239273,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:41:56.596451+00:00"
+  "updated_at": "2026-09-22T03:43:58.461767+00:00"
 }
