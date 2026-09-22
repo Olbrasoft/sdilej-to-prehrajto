@@ -83747,13 +83747,6 @@
           "source_id": "14065113",
           "target_video_id": "29139722",
           "permanent": false,
-          "attempted_at": "2026-09-21T22:26:26.134189+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14065113",
-          "target_video_id": "29139722",
-          "permanent": false,
           "attempted_at": "2026-09-21T23:34:31.216965+00:00"
         },
         {
@@ -83762,6 +83755,13 @@
           "target_video_id": "29139722",
           "permanent": false,
           "attempted_at": "2026-09-22T01:38:07.497384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14065113",
+          "target_video_id": "29139722",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:09:21.925701+00:00"
         }
       ],
       "last_plan": {
@@ -83774,13 +83774,7 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-05T18:07:10.561766+00:00"
       },
-      "previous_target_id": "29139722",
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-0",
-        "claimed_at": "2026-09-22T02:09:15.349369+00:00",
-        "lease_expires_at": "2026-09-22T08:09:15.349369+00:00",
-        "run_id": "35676365152"
-      }
+      "previous_target_id": "29139722"
     },
     "14583": {
       "attempts": []
@@ -112060,17 +112054,19 @@
       "attempts": []
     },
     "18804": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31625425",
+          "target_video_id": "29607445",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:09:22.415285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31625425",
         "display_name": "Ukradeno: Loupež století (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:02:20.362556+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T02:03:23.446651+00:00",
-        "lease_expires_at": "2026-09-22T08:03:23.446651+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29607445",
       "prepared": {
@@ -164414,6 +164410,12 @@
         "target_video_id": "29596752",
         "size_bytes": 1938202910,
         "prepared_at": "2026-09-21T18:37:22.349127+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
+        "claimed_at": "2026-09-22T02:09:22.178997+00:00",
+        "lease_expires_at": "2026-09-22T08:09:22.178997+00:00",
+        "run_id": "35676365152"
       }
     },
     "7875": {
@@ -238564,5 +238566,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:09:17.253576+00:00"
+  "updated_at": "2026-09-22T02:09:22.415302+00:00"
 }
