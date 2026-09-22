@@ -175401,13 +175401,6 @@
           "permanent": false,
           "source_id": "24745022",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:06:59.948575+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24745022",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:08:56.814375+00:00"
         },
         {
@@ -175416,18 +175409,19 @@
           "source_id": "24745022",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:39.100600+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24745022",
+          "target_video_id": "29610537",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:09:12.242561+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24745022",
         "display_name": "Láska s výstrahou (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-22T05:40:51.618214+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T06:01:58.009536+00:00",
-        "lease_expires_at": "2026-09-22T12:01:58.009536+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610537",
       "prepared": {
@@ -175781,6 +175775,12 @@
         "source_id": "28079822",
         "display_name": "Mistrovský plán (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-22T05:40:53.272233+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
+        "claimed_at": "2026-09-22T06:08:47.753615+00:00",
+        "lease_expires_at": "2026-09-22T12:08:47.753615+00:00",
+        "run_id": "35676365152"
       }
     },
     "30076": {
@@ -239773,5 +239773,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:08:42.363652+00:00"
+  "updated_at": "2026-09-22T06:09:12.242577+00:00"
 }
