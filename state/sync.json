@@ -177409,13 +177409,6 @@
           "permanent": false,
           "source_id": "34710541",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:07:17.147886+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34710541",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:12:19.491777+00:00"
         },
         {
@@ -177424,18 +177417,19 @@
           "source_id": "34710541",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:22.111151+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34710541",
+          "reason": "Request failed for https://sdilej.cz/34710541/streetdance-all-stars-2013-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:23:20.991108+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34710541",
         "display_name": "Streetdance All Stars (2013) 720p CZ Dabing",
         "planned_at": "2026-09-22T06:57:39.950685+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-2",
-        "claimed_at": "2026-09-22T07:22:34.884057+00:00",
-        "lease_expires_at": "2026-09-22T13:22:34.884057+00:00",
-        "run_id": "35676365152"
       }
     },
     "33907": {
@@ -177485,6 +177479,12 @@
         "source_id": "34775081",
         "display_name": "Only for One Night (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-22T06:57:40.222197+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
+        "claimed_at": "2026-09-22T07:23:17.373922+00:00",
+        "lease_expires_at": "2026-09-22T13:23:17.373922+00:00",
+        "run_id": "35676365152"
       }
     },
     "11830": {
@@ -239801,5 +239801,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:23:05.467611+00:00"
+  "updated_at": "2026-09-22T07:23:20.991125+00:00"
 }
