@@ -180418,13 +180418,6 @@
           "permanent": false,
           "source_id": "34675405",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:06.007861+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34675405",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:37.591830+00:00"
         },
         {
@@ -180433,18 +180426,19 @@
           "source_id": "34675405",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:09.763429+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34675405",
+          "reason": "Request failed for https://sdilej.cz/34675405/cybertracker-2-1995-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:17:49.159008+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34675405",
         "display_name": "CyberTracker 2 (1995) 1080p CZ Dabing",
         "planned_at": "2026-09-22T09:10:57.381934+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-0",
-        "claimed_at": "2026-09-22T09:17:03.224201+00:00",
-        "lease_expires_at": "2026-09-22T15:17:03.224201+00:00",
-        "run_id": "35699963447"
       }
     },
     "30168": {
@@ -180481,6 +180475,12 @@
         "source_id": "26766436",
         "display_name": "Legie superhrdinů (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-22T09:10:57.623173+00:00"
+      },
+      "claim": {
+        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-2",
+        "claimed_at": "2026-09-22T09:17:43.602958+00:00",
+        "lease_expires_at": "2026-09-22T15:17:43.602958+00:00",
+        "run_id": "35699963447"
       }
     },
     "16479": {
@@ -239857,5 +239857,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:17:37.598944+00:00"
+  "updated_at": "2026-09-22T09:17:49.159026+00:00"
 }
