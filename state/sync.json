@@ -177150,13 +177150,6 @@
           "permanent": false,
           "source_id": "11214567",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:07:15.568524+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11214567",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:10:38.651108+00:00"
         },
         {
@@ -177165,18 +177158,19 @@
           "source_id": "11214567",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:12:12.934182+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11214567",
+          "target_video_id": "29611753",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:23:05.467596+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11214567",
         "display_name": "Hlavní kandidát (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-22T06:57:37.749360+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
-        "claimed_at": "2026-09-22T07:16:52.397437+00:00",
-        "lease_expires_at": "2026-09-22T13:16:52.397437+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29611753",
       "prepared": {
@@ -177436,6 +177430,12 @@
         "source_id": "34710541",
         "display_name": "Streetdance All Stars (2013) 720p CZ Dabing",
         "planned_at": "2026-09-22T06:57:39.950685+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-2",
+        "claimed_at": "2026-09-22T07:22:34.884057+00:00",
+        "lease_expires_at": "2026-09-22T13:22:34.884057+00:00",
+        "run_id": "35676365152"
       }
     },
     "33907": {
@@ -239801,5 +239801,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:22:28.108188+00:00"
+  "updated_at": "2026-09-22T07:23:05.467611+00:00"
 }
