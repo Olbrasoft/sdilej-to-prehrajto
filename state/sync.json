@@ -178148,13 +178148,6 @@
           "permanent": false,
           "source_id": "31543083",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:55:54.647124+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31543083",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:30.006700+00:00"
         },
         {
@@ -178163,18 +178156,19 @@
           "reason": "Request failed for https://sdilej.cz/31543083/sam-v-temnote-jack-palance-donald-pleasence-martin-landau-1982-horor-thriller-bdrip.1080p.-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:59:56.327987+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31543083",
+          "target_video_id": "29613380",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:44:54.249892+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31543083",
         "display_name": "Sám v temnotě (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:31.308404+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
-        "claimed_at": "2026-09-22T08:40:43.817528+00:00",
-        "lease_expires_at": "2026-09-22T14:40:43.817528+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613380",
       "prepared": {
@@ -239872,5 +239866,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:44:37.358848+00:00"
+  "updated_at": "2026-09-22T08:44:54.249908+00:00"
 }
