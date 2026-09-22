@@ -165042,13 +165042,6 @@
           "permanent": false,
           "source_id": "29659428",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:59:49.032377+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29659428",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:00:45.678237+00:00"
         },
         {
@@ -165057,18 +165050,19 @@
           "source_id": "29659428",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:00:54.498295+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29659428",
+          "reason": "Request failed for https://sdilej.cz/29659428/banditka-cislo-jedna-2024-cz-dabing-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:10:41.539822+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29659428",
         "display_name": "Banditka číslo jedna (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:09:06.845886+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T02:09:53.885953+00:00",
-        "lease_expires_at": "2026-09-22T08:09:53.885953+00:00",
-        "run_id": "35676365152"
       }
     },
     "14587": {
@@ -165247,6 +165241,12 @@
         "source_id": "29821074",
         "display_name": "Zkus se přestěhovat (1988) SD CZ Dabing",
         "planned_at": "2026-09-22T02:09:07.675810+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
+        "claimed_at": "2026-09-22T02:10:05.211122+00:00",
+        "lease_expires_at": "2026-09-22T08:10:05.211122+00:00",
+        "run_id": "35676365152"
       }
     },
     "36687": {
@@ -165308,6 +165308,12 @@
         "source_id": "34497612",
         "display_name": "Život před očima (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:09:07.952285+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
+        "claimed_at": "2026-09-22T02:10:05.509329+00:00",
+        "lease_expires_at": "2026-09-22T08:10:05.509329+00:00",
+        "run_id": "35676365152"
       }
     },
     "26608": {
@@ -238506,5 +238512,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:10:02.989765+00:00"
+  "updated_at": "2026-09-22T02:10:41.539847+00:00"
 }
