@@ -177159,13 +177159,6 @@
           "permanent": false,
           "source_id": "34165220",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:12:17.038021+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34165220",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:14.971451+00:00"
         },
         {
@@ -177174,18 +177167,19 @@
           "reason": "Request failed for https://sdilej.cz/34165220/the-wrong-paris-2025-4k-uhd-cz-dab-rebelant.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:21:21.039142+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34165220",
+          "target_video_id": "29613149",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:36:25.732942+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34165220",
         "display_name": "Není Paříž jako Paříž (2025) 4K CZ Dabing",
         "planned_at": "2026-09-22T08:26:28.959435+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
-        "claimed_at": "2026-09-22T08:31:23.068579+00:00",
-        "lease_expires_at": "2026-09-22T14:31:23.068579+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613149",
       "prepared": {
@@ -239944,5 +239938,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:31:25.999533+00:00"
+  "updated_at": "2026-09-22T08:36:25.732957+00:00"
 }
