@@ -177649,22 +177649,10 @@
           "attempted_at": "2026-09-22T07:28:56.206144+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34737873",
-        "display_name": "Albion: The Enchanted Stallion (2016) SD CZ Titulky",
-        "planned_at": "2026-09-22T08:39:28.427457+00:00"
-      },
       "previous_target_id": "29611924",
-      "prepared": {
+      "upload": {
         "target_video_id": "29611924",
-        "size_bytes": 1011856908,
-        "prepared_at": "2026-09-22T07:27:26.950092+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-5",
-        "claimed_at": "2026-09-22T08:40:05.324272+00:00",
-        "lease_expires_at": "2026-09-22T14:40:05.324272+00:00",
-        "run_id": "35699963447"
+        "uploaded_at": "2026-09-22T08:40:13.671291+00:00"
       }
     },
     "11426": {
@@ -177699,13 +177687,6 @@
           "permanent": false,
           "source_id": "33745452",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:12:26.958161+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745452",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:26.393839+00:00"
         },
         {
@@ -177714,6 +177695,13 @@
           "target_video_id": "29611931",
           "permanent": false,
           "attempted_at": "2026-09-22T07:37:37.532022+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745452",
+          "target_video_id": "29611931",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:40:12.521496+00:00"
         }
       ],
       "last_plan": {
@@ -177724,14 +177712,8 @@
       "previous_target_id": "29611931",
       "prepared": {
         "target_video_id": "29611931",
-        "size_bytes": 2365763834,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-22T07:27:51.147347+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
-        "claimed_at": "2026-09-22T08:40:07.927112+00:00",
-        "lease_expires_at": "2026-09-22T14:40:07.927112+00:00",
-        "run_id": "35699963447"
       }
     },
     "13641": {
@@ -177808,6 +177790,12 @@
         "target_video_id": "29611943",
         "size_bytes": 3194462618,
         "prepared_at": "2026-09-22T07:28:25.552590+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-4",
+        "claimed_at": "2026-09-22T08:40:12.984160+00:00",
+        "lease_expires_at": "2026-09-22T14:40:12.984160+00:00",
+        "run_id": "35699963447"
       }
     },
     "7201": {
@@ -177844,6 +177832,12 @@
         "target_video_id": "29611953",
         "size_bytes": 2053161683,
         "prepared_at": "2026-09-22T07:29:06.582115+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
+        "claimed_at": "2026-09-22T08:40:13.250544+00:00",
+        "lease_expires_at": "2026-09-22T14:40:13.250544+00:00",
+        "run_id": "35699963447"
       }
     },
     "21846": {
@@ -239920,5 +239914,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:40:10.598784+00:00"
+  "updated_at": "2026-09-22T08:40:13.671307+00:00"
 }
