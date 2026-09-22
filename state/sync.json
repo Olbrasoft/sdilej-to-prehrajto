@@ -178030,13 +178030,6 @@
           "permanent": false,
           "source_id": "34671176",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:55:52.060081+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34671176",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:26.582161+00:00"
         },
         {
@@ -178045,18 +178038,19 @@
           "reason": "Request failed for https://sdilej.cz/34671176/spatny-soused-2019-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:58:28.686042+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671176",
+          "target_video_id": "29613372",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:44:10.748574+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34671176",
         "display_name": "Špatný soused (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:30.589913+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-5",
-        "claimed_at": "2026-09-22T08:40:30.078937+00:00",
-        "lease_expires_at": "2026-09-22T14:40:30.078937+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613372",
       "prepared": {
@@ -239878,5 +239872,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:43:28.949144+00:00"
+  "updated_at": "2026-09-22T08:44:10.748591+00:00"
 }
