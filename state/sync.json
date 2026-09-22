@@ -179994,13 +179994,6 @@
           "permanent": false,
           "source_id": "34786770",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:49.745021+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34786770",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:04.805256+00:00"
         },
         {
@@ -180009,18 +180002,19 @@
           "source_id": "34786770",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:58:04.059366+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34786770",
+          "target_video_id": "29613933",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:12:48.056187+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34786770",
         "display_name": "Kanec (1984) SD CZ Dabing",
         "planned_at": "2026-09-22T09:10:55.452596+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-4",
-        "claimed_at": "2026-09-22T09:11:37.605586+00:00",
-        "lease_expires_at": "2026-09-22T15:11:37.605586+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613933",
       "prepared": {
@@ -239839,5 +239833,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:11:52.322911+00:00"
+  "updated_at": "2026-09-22T09:12:48.056205+00:00"
 }
