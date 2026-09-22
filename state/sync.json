@@ -175766,13 +175766,6 @@
           "permanent": false,
           "source_id": "33685452",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:09:06.600370+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33685452",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:44.495966+00:00"
         },
         {
@@ -175781,6 +175774,13 @@
           "target_video_id": "29610656",
           "permanent": false,
           "attempted_at": "2026-09-22T07:50:15.035067+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33685452",
+          "target_video_id": "29610656",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:28:28.673369+00:00"
         }
       ],
       "last_plan": {
@@ -175858,16 +175858,10 @@
           "attempted_at": "2026-09-22T07:50:20.028833+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "6915501",
-        "display_name": "Run the Tide (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-22T08:26:26.764574+00:00"
-      },
       "previous_target_id": "29610986",
-      "prepared": {
+      "upload": {
         "target_video_id": "29610986",
-        "size_bytes": 3600000000,
-        "prepared_at": "2026-09-22T06:38:48.244996+00:00"
+        "uploaded_at": "2026-09-22T08:28:30.163729+00:00"
       }
     },
     "5724": {
@@ -239944,5 +239938,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:28:25.327015+00:00"
+  "updated_at": "2026-09-22T08:28:30.163740+00:00"
 }
