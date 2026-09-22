@@ -165214,13 +165214,6 @@
           "permanent": false,
           "source_id": "29821074",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:01:02.515151+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29821074",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:02:05.632984+00:00"
         },
         {
@@ -165229,18 +165222,19 @@
           "source_id": "29821074",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:02:24.458015+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29821074",
+          "reason": "Request failed for https://sdilej.cz/29821074/zkus-se-prestehovat-komedie-1988-cz-dab.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:10:51.361723+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29821074",
         "display_name": "Zkus se přestěhovat (1988) SD CZ Dabing",
         "planned_at": "2026-09-22T02:09:07.675810+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
-        "claimed_at": "2026-09-22T02:10:05.211122+00:00",
-        "lease_expires_at": "2026-09-22T08:10:05.211122+00:00",
-        "run_id": "35676365152"
       }
     },
     "36687": {
@@ -165384,6 +165378,12 @@
         "source_id": "29909380",
         "display_name": "Panika na Rock Island (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:09:08.219533+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
+        "claimed_at": "2026-09-22T02:10:50.766193+00:00",
+        "lease_expires_at": "2026-09-22T08:10:50.766193+00:00",
+        "run_id": "35676365152"
       }
     },
     "18041": {
@@ -165417,6 +165417,12 @@
         "source_id": "27601619",
         "display_name": "V krizi (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:09:08.499057+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T02:10:51.045292+00:00",
+        "lease_expires_at": "2026-09-22T08:10:51.045292+00:00",
+        "run_id": "35676365152"
       }
     },
     "9944": {
@@ -238506,5 +238512,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:10:48.515479+00:00"
+  "updated_at": "2026-09-22T02:10:51.361740+00:00"
 }
