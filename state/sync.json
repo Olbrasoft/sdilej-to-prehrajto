@@ -25594,13 +25594,6 @@
           "source_id": "26314149",
           "target_video_id": "29127237",
           "permanent": false,
-          "attempted_at": "2026-09-21T23:28:53.569372+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26314149",
-          "target_video_id": "29127237",
-          "permanent": false,
           "attempted_at": "2026-09-22T00:01:12.535937+00:00"
         },
         {
@@ -25609,6 +25602,13 @@
           "target_video_id": "29127237",
           "permanent": false,
           "attempted_at": "2026-09-22T01:51:37.176434+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26314149",
+          "target_video_id": "29127237",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:36:53.605459+00:00"
         }
       ],
       "last_plan": {
@@ -25621,13 +25621,7 @@
         "size_bytes": 18200000000,
         "prepared_at": "2026-09-05T08:47:19.185894+00:00"
       },
-      "previous_target_id": "29127237",
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
-        "claimed_at": "2026-09-22T02:36:45.673795+00:00",
-        "lease_expires_at": "2026-09-22T08:36:45.673795+00:00",
-        "run_id": "35676365152"
-      }
+      "previous_target_id": "29127237"
     },
     "15056": {
       "attempts": []
@@ -25865,7 +25859,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T10:31:03.370582+00:00"
       },
-      "previous_target_id": "29376069"
+      "previous_target_id": "29376069",
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-0",
+        "claimed_at": "2026-09-22T02:36:53.950518+00:00",
+        "lease_expires_at": "2026-09-22T08:36:53.950518+00:00",
+        "run_id": "35676365152"
+      }
     },
     "1448": {
       "attempts": []
@@ -26218,7 +26218,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
       },
-      "previous_target_id": "29128092"
+      "previous_target_id": "29128092",
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
+        "claimed_at": "2026-09-22T02:36:54.360412+00:00",
+        "lease_expires_at": "2026-09-22T08:36:54.360412+00:00",
+        "run_id": "35676365152"
+      }
     },
     "32926": {
       "attempts": [
@@ -167291,13 +167297,6 @@
           "permanent": false,
           "source_id": "33205444",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:08:55.648133+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33205444",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:09:18.653138+00:00"
         },
         {
@@ -167306,18 +167305,19 @@
           "source_id": "33205444",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:35.952011+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33205444",
+          "target_video_id": "29607825",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:36:55.093090+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33205444",
         "display_name": "Poslední král (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:09:14.368487+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T02:31:47.601410+00:00",
-        "lease_expires_at": "2026-09-22T08:31:47.601410+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29607825",
       "prepared": {
@@ -238650,5 +238650,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:36:46.714535+00:00"
+  "updated_at": "2026-09-22T02:36:55.093106+00:00"
 }
