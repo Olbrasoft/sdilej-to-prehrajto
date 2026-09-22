@@ -173836,13 +173836,6 @@
     "26264": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14496706",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:42:41.053783+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "14496706",
           "target_video_id": "29609570",
@@ -173855,6 +173848,13 @@
           "target_video_id": "29609570",
           "permanent": false,
           "attempted_at": "2026-09-22T05:41:07.149064+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14496706",
+          "target_video_id": "29609570",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:46.399465+00:00"
         }
       ],
       "last_plan": {
@@ -173867,12 +173867,6 @@
         "target_video_id": "29609570",
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-22T04:52:12.778524+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
-        "claimed_at": "2026-09-22T06:36:42.627655+00:00",
-        "lease_expires_at": "2026-09-22T12:36:42.627655+00:00",
-        "run_id": "35676365152"
       }
     },
     "6021": {
@@ -173915,13 +173909,6 @@
           "permanent": false,
           "source_id": "34463334",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:21.073567+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34463334",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:42.375084+00:00"
         },
         {
@@ -173930,6 +173917,13 @@
           "target_video_id": "29609620",
           "permanent": false,
           "attempted_at": "2026-09-22T05:37:20.624520+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34463334",
+          "target_video_id": "29609620",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:48.387109+00:00"
         }
       ],
       "last_plan": {
@@ -173940,7 +173934,7 @@
       "previous_target_id": "29609620",
       "prepared": {
         "target_video_id": "29609620",
-        "size_bytes": 21077907715,
+        "size_bytes": 21100000000,
         "prepared_at": "2026-09-22T04:55:55.820802+00:00"
       }
     },
@@ -174068,17 +174062,16 @@
         "source_id": "11824724",
         "display_name": "Hospodu vám nedáme (2006) SD CZ Dabing",
         "planned_at": "2026-09-22T06:35:24.382006+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
+        "claimed_at": "2026-09-22T06:36:47.104956+00:00",
+        "lease_expires_at": "2026-09-22T12:36:47.104956+00:00",
+        "run_id": "35676365152"
       }
     },
     "23085": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34726897",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:23.865611+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -174092,6 +174085,13 @@
           "target_video_id": "29610280",
           "permanent": false,
           "attempted_at": "2026-09-22T05:46:02.020962+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34726897",
+          "target_video_id": "29610280",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:50.634669+00:00"
         }
       ],
       "last_plan": {
@@ -174102,7 +174102,7 @@
       "previous_target_id": "29610280",
       "prepared": {
         "target_video_id": "29610280",
-        "size_bytes": 3057859878,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-22T05:41:24.478251+00:00"
       }
     },
@@ -174146,6 +174146,12 @@
         "source_id": "33753168",
         "display_name": "Ninjova pomsta (1983) 4K CZ Dabing",
         "planned_at": "2026-09-22T06:35:25.118929+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
+        "claimed_at": "2026-09-22T06:36:50.960431+00:00",
+        "lease_expires_at": "2026-09-22T12:36:50.960431+00:00",
+        "run_id": "35676365152"
       }
     },
     "20025": {
@@ -174642,13 +174648,6 @@
           "permanent": false,
           "source_id": "27572198",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:06:46.331285+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27572198",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:08:46.689591+00:00"
         },
         {
@@ -174657,18 +174656,19 @@
           "source_id": "27572198",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:33.349697+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27572198",
+          "target_video_id": "29610362",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:51.294154+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27572198",
         "display_name": "Krampus: Táhni k čertu (2015) 4K CZ Dabing",
         "planned_at": "2026-09-22T05:40:48.397093+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
-        "claimed_at": "2026-09-22T05:47:08.705256+00:00",
-        "lease_expires_at": "2026-09-22T11:47:08.705256+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610362",
       "prepared": {
@@ -239717,5 +239717,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:36:43.970888+00:00"
+  "updated_at": "2026-09-22T06:36:51.294168+00:00"
 }
