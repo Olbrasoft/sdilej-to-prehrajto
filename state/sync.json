@@ -172349,13 +172349,6 @@
     "24350": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34705684",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:41:44.272654+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34705684",
           "reason": "Request failed for https://sdilej.cz/34705684/tygri-spary-4-1999-cz-dabing.mp4 (HTTP None)",
@@ -172368,18 +172361,19 @@
           "reason": "Request failed for https://sdilej.cz/34705684/tygri-spary-4-1999-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T05:35:27.014672+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34705684",
+          "target_video_id": "29610937",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:37:24.254333+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34705684",
         "display_name": "Tygří spáry 4 (1999) SD CZ Dabing",
         "planned_at": "2026-09-22T06:35:20.139173+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
-        "claimed_at": "2026-09-22T06:36:01.046913+00:00",
-        "lease_expires_at": "2026-09-22T12:36:01.046913+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610937",
       "prepared": {
@@ -174180,13 +174174,6 @@
           "permanent": false,
           "source_id": "33394549",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:24.993514+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33394549",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:45.519054+00:00"
         },
         {
@@ -174195,6 +174182,13 @@
           "target_video_id": "29610281",
           "permanent": false,
           "attempted_at": "2026-09-22T05:44:37.944784+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33394549",
+          "target_video_id": "29610281",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:37:02.147408+00:00"
         }
       ],
       "last_plan": {
@@ -174205,7 +174199,7 @@
       "previous_target_id": "29610281",
       "prepared": {
         "target_video_id": "29610281",
-        "size_bytes": 2069296605,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-22T05:41:27.255643+00:00"
       }
     },
@@ -174242,13 +174236,6 @@
           "permanent": false,
           "source_id": "26639276",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:25.836596+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26639276",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:54.449801+00:00"
         },
         {
@@ -174257,6 +174244,13 @@
           "target_video_id": "29610283",
           "permanent": false,
           "attempted_at": "2026-09-22T05:45:48.495510+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26639276",
+          "target_video_id": "29610283",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:37:04.072717+00:00"
         }
       ],
       "last_plan": {
@@ -174267,7 +174261,7 @@
       "previous_target_id": "29610283",
       "prepared": {
         "target_video_id": "29610283",
-        "size_bytes": 2213258523,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-22T05:41:29.406066+00:00"
       }
     },
@@ -174299,6 +174293,12 @@
         "source_id": "30324357",
         "display_name": "Zelená jako smaragd (2016) 720p CZ Dabing",
         "planned_at": "2026-09-22T06:35:26.232190+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
+        "claimed_at": "2026-09-22T06:37:04.387331+00:00",
+        "lease_expires_at": "2026-09-22T12:37:04.387331+00:00",
+        "run_id": "35676365152"
       }
     },
     "5348": {
@@ -239723,5 +239723,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:36:58.105659+00:00"
+  "updated_at": "2026-09-22T06:37:24.254353+00:00"
 }
