@@ -173100,13 +173100,6 @@
           "permanent": false,
           "source_id": "15954227",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:11.361445+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "15954227",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:33.895114+00:00"
         },
         {
@@ -173115,6 +173108,13 @@
           "target_video_id": "29609328",
           "permanent": false,
           "attempted_at": "2026-09-22T04:33:53.348545+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15954227",
+          "target_video_id": "29609328",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:39:11.959112+00:00"
         }
       ],
       "last_plan": {
@@ -173125,14 +173125,8 @@
       "previous_target_id": "29609328",
       "prepared": {
         "target_video_id": "29609328",
-        "size_bytes": 1178669868,
+        "size_bytes": 1200000000,
         "prepared_at": "2026-09-22T04:31:59.370992+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
-        "claimed_at": "2026-09-22T05:39:09.017217+00:00",
-        "lease_expires_at": "2026-09-22T11:39:09.017217+00:00",
-        "run_id": "35676365152"
       }
     },
     "26109": {
@@ -173159,22 +173153,10 @@
           "attempted_at": "2026-09-22T04:35:18.505406+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "6793351",
-        "display_name": "Zredigováno (2007) SD CZ Dabing",
-        "planned_at": "2026-09-22T05:38:26.938904+00:00"
-      },
       "previous_target_id": "29609332",
-      "prepared": {
+      "upload": {
         "target_video_id": "29609332",
-        "size_bytes": 842878976,
-        "prepared_at": "2026-09-22T04:32:29.516354+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T05:39:09.309357+00:00",
-        "lease_expires_at": "2026-09-22T11:39:09.309357+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T05:39:12.241316+00:00"
       }
     },
     "5366": {
@@ -239719,5 +239701,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:39:09.769413+00:00"
+  "updated_at": "2026-09-22T05:39:12.241333+00:00"
 }
