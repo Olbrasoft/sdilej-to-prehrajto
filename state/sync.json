@@ -170985,13 +170985,6 @@
           "permanent": false,
           "source_id": "14670520",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:39:41.922734+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14670520",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:40:19.112002+00:00"
         },
         {
@@ -171000,6 +170993,13 @@
           "target_video_id": "29608612",
           "permanent": false,
           "attempted_at": "2026-09-22T03:39:20.236784+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14670520",
+          "target_video_id": "29608612",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:13:17.719365+00:00"
         }
       ],
       "last_plan": {
@@ -171010,7 +171010,7 @@
       "previous_target_id": "29608612",
       "prepared": {
         "target_video_id": "29608612",
-        "size_bytes": 2585421715,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-22T03:35:13.678975+00:00"
       }
     },
@@ -171041,16 +171041,10 @@
           "attempted_at": "2026-09-22T03:39:50.587772+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30237606",
-        "display_name": "Němý svědek (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T04:12:15.017581+00:00"
-      },
       "previous_target_id": "29608641",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608641",
-        "size_bytes": 1953250488,
-        "prepared_at": "2026-09-22T03:36:36.227888+00:00"
+        "uploaded_at": "2026-09-22T04:13:20.009035+00:00"
       }
     },
     "5577": {
@@ -239241,5 +239235,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:13:09.438786+00:00"
+  "updated_at": "2026-09-22T04:13:20.009057+00:00"
 }
