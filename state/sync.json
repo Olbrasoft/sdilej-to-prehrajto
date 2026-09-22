@@ -177959,13 +177959,6 @@
           "permanent": false,
           "source_id": "33746186",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:55:50.300234+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33746186",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:26.865216+00:00"
         },
         {
@@ -177974,6 +177967,13 @@
           "target_video_id": "29612026",
           "permanent": false,
           "attempted_at": "2026-09-22T07:57:40.449755+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746186",
+          "target_video_id": "29612026",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:40:29.497467+00:00"
         }
       ],
       "last_plan": {
@@ -177986,12 +177986,6 @@
         "target_video_id": "29612026",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-22T07:33:51.911722+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-5",
-        "claimed_at": "2026-09-22T08:40:23.859876+00:00",
-        "lease_expires_at": "2026-09-22T14:40:23.859876+00:00",
-        "run_id": "35699963447"
       }
     },
     "33128": {
@@ -178028,16 +178022,10 @@
           "attempted_at": "2026-09-22T07:36:34.537473+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34700989",
-        "display_name": "Dobrodružství mladšího a chytřejšího bratra Sherlocka Holmese (1975) SD CZ Dabing",
-        "planned_at": "2026-09-22T08:39:30.349977+00:00"
-      },
       "previous_target_id": "29612048",
-      "prepared": {
+      "upload": {
         "target_video_id": "29612048",
-        "size_bytes": 826646762,
-        "prepared_at": "2026-09-22T07:35:33.427050+00:00"
+        "uploaded_at": "2026-09-22T08:40:30.628192+00:00"
       }
     },
     "34766": {
@@ -178081,6 +178069,12 @@
         "source_id": "34671176",
         "display_name": "Špatný soused (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:30.589913+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-5",
+        "claimed_at": "2026-09-22T08:40:30.078937+00:00",
+        "lease_expires_at": "2026-09-22T14:40:30.078937+00:00",
+        "run_id": "35699963447"
       }
     },
     "6852": {
@@ -239896,5 +239890,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:40:26.681956+00:00"
+  "updated_at": "2026-09-22T08:40:30.628206+00:00"
 }
