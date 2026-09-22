@@ -53751,7 +53751,13 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-08T12:32:15.731361+00:00"
       },
-      "previous_target_id": "29213362"
+      "previous_target_id": "29213362",
+      "claim": {
+        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-2",
+        "claimed_at": "2026-09-22T09:32:12.308053+00:00",
+        "lease_expires_at": "2026-09-22T15:32:12.308053+00:00",
+        "run_id": "35699963447"
+      }
     },
     "30466": {
       "attempts": []
@@ -54064,7 +54070,13 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-08T12:33:41.525834+00:00"
       },
-      "previous_target_id": "29213387"
+      "previous_target_id": "29213387",
+      "claim": {
+        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-4",
+        "claimed_at": "2026-09-22T09:32:12.576370+00:00",
+        "lease_expires_at": "2026-09-22T15:32:12.576370+00:00",
+        "run_id": "35699963447"
+      }
     },
     "2216": {
       "attempts": [
@@ -54132,7 +54144,13 @@
         "size_bytes": 12200000000,
         "prepared_at": "2026-09-08T12:34:21.300435+00:00"
       },
-      "previous_target_id": "29213400"
+      "previous_target_id": "29213400",
+      "claim": {
+        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-1",
+        "claimed_at": "2026-09-22T09:32:12.819493+00:00",
+        "lease_expires_at": "2026-09-22T15:32:12.819493+00:00",
+        "run_id": "35699963447"
+      }
     },
     "21186": {
       "attempts": []
@@ -181509,13 +181527,6 @@
           "permanent": false,
           "source_id": "30398187",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:14.768694+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30398187",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:58.196980+00:00"
         },
         {
@@ -181524,18 +181535,19 @@
           "source_id": "30398187",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:32.117911+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30398187",
+          "target_video_id": "29614177",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:32:13.100017+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30398187",
         "display_name": "Jmenuji se Bruce (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-22T09:11:02.945103+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-3",
-        "claimed_at": "2026-09-22T09:26:14.416327+00:00",
-        "lease_expires_at": "2026-09-22T15:26:14.416327+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29614177",
       "prepared": {
@@ -239991,5 +240003,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:32:07.276252+00:00"
+  "updated_at": "2026-09-22T09:32:13.100035+00:00"
 }
