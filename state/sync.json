@@ -177370,13 +177370,6 @@
           "permanent": false,
           "source_id": "29074414",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:12:21.914701+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29074414",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:21.591147+00:00"
         },
         {
@@ -177385,18 +177378,19 @@
           "reason": "Request failed for https://sdilej.cz/29074414/kral-ze-soho-laska-na-prvni-dobrou-cz-dabing.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:24:15.128481+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29074414",
+          "target_video_id": "29613355",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:42:59.655773+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29074414",
         "display_name": "Král ze Soho (2013) SD CZ Dabing",
         "planned_at": "2026-09-22T08:39:27.230960+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-1",
-        "claimed_at": "2026-09-22T08:39:52.865294+00:00",
-        "lease_expires_at": "2026-09-22T14:39:52.865294+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613355",
       "prepared": {
@@ -239890,5 +239884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:42:15.155952+00:00"
+  "updated_at": "2026-09-22T08:42:59.655789+00:00"
 }
