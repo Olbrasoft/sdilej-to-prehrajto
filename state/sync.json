@@ -170592,13 +170592,6 @@
           "permanent": false,
           "source_id": "22204892",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:09:50.971223+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22204892",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:09:57.429145+00:00"
         },
         {
@@ -170607,18 +170600,19 @@
           "source_id": "22204892",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:06.852855+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22204892",
+          "reason": "Request failed for https://sdilej.cz/22204892/under.the.amalfi.sun.2022.dubbed.cz.titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:31:53.670707+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22204892",
         "display_name": "Pod žhavým sluncem: Amalfi (2022) SD CZ Titulky",
         "planned_at": "2026-09-22T03:21:22.044129+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
-        "claimed_at": "2026-09-22T03:31:07.557710+00:00",
-        "lease_expires_at": "2026-09-22T09:31:07.557710+00:00",
-        "run_id": "35676365152"
       }
     },
     "15244": {
@@ -239171,5 +239165,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:31:20.273565+00:00"
+  "updated_at": "2026-09-22T03:31:53.670726+00:00"
 }
