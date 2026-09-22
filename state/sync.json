@@ -169982,13 +169982,6 @@
           "permanent": false,
           "source_id": "26097841",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:47.593574+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26097841",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:00.085950+00:00"
         },
         {
@@ -169998,6 +169991,14 @@
           "permanent": false,
           "target_video_id": "29608453",
           "attempted_at": "2026-09-22T03:31:13.670422+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "26097841",
+          "target_video_id": "29608453",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-22T04:10:13.679684+00:00"
         }
       ],
       "last_plan": {
@@ -170049,22 +170050,10 @@
           "attempted_at": "2026-09-22T03:31:03.353988+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34013003",
-        "display_name": "Síla života (1985) 4K CZ Dabing",
-        "planned_at": "2026-09-22T04:09:01.015788+00:00"
-      },
       "previous_target_id": "29608464",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608464",
-        "size_bytes": 5102000219,
-        "prepared_at": "2026-09-22T03:22:44.658445+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T04:10:10.878377+00:00",
-        "lease_expires_at": "2026-09-22T10:10:10.878377+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T04:10:14.012578+00:00"
       }
     },
     "27833": {
@@ -239312,5 +239301,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:10:11.206049+00:00"
+  "updated_at": "2026-09-22T04:10:14.012596+00:00"
 }
