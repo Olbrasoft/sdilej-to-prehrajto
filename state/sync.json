@@ -166325,13 +166325,6 @@
           "permanent": false,
           "source_id": "33745424",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:13.825478+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745424",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:29.376268+00:00"
         },
         {
@@ -166340,6 +166333,13 @@
           "target_video_id": "29607669",
           "permanent": false,
           "attempted_at": "2026-09-22T02:22:20.417327+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745424",
+          "target_video_id": "29607669",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:03:34.266658+00:00"
         }
       ],
       "last_plan": {
@@ -166350,14 +166350,8 @@
       "previous_target_id": "29607669",
       "prepared": {
         "target_video_id": "29607669",
-        "size_bytes": 2825551530,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-22T02:18:51.657649+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
-        "claimed_at": "2026-09-22T03:03:31.586584+00:00",
-        "lease_expires_at": "2026-09-22T09:03:31.586584+00:00",
-        "run_id": "35676365152"
       }
     },
     "33906": {
@@ -166384,22 +166378,10 @@
           "attempted_at": "2026-09-22T02:21:50.444808+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34772650",
-        "display_name": "The Beta Test (2021) 1080p CZ Titulky",
-        "planned_at": "2026-09-22T03:02:12.750384+00:00"
-      },
       "previous_target_id": "29607672",
-      "prepared": {
+      "upload": {
         "target_video_id": "29607672",
-        "size_bytes": 2271125337,
-        "prepared_at": "2026-09-22T02:19:10.653515+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
-        "claimed_at": "2026-09-22T03:03:31.875213+00:00",
-        "lease_expires_at": "2026-09-22T09:03:31.875213+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T03:03:35.164454+00:00"
       }
     },
     "13261": {
@@ -166516,6 +166498,12 @@
         "target_video_id": "29607689",
         "size_bytes": 5432956587,
         "prepared_at": "2026-09-22T02:20:55.215919+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T03:03:34.568666+00:00",
+        "lease_expires_at": "2026-09-22T09:03:34.568666+00:00",
+        "run_id": "35676365152"
       }
     },
     "10202": {
@@ -166577,6 +166565,12 @@
         "target_video_id": "29607702",
         "size_bytes": 3412033259,
         "prepared_at": "2026-09-22T02:22:00.558516+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
+        "claimed_at": "2026-09-22T03:03:34.860361+00:00",
+        "lease_expires_at": "2026-09-22T09:03:34.860361+00:00",
+        "run_id": "35676365152"
       }
     },
     "24999": {
@@ -239035,5 +239029,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:03:32.182992+00:00"
+  "updated_at": "2026-09-22T03:03:35.164472+00:00"
 }
