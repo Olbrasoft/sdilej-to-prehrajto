@@ -173102,13 +173102,6 @@
           "permanent": false,
           "source_id": "7382482",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:40:53.453081+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "7382482",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:42:13.832122+00:00"
         },
         {
@@ -173117,18 +173110,19 @@
           "source_id": "7382482",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:35.670326+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7382482",
+          "target_video_id": "29609364",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:39:35.914656+00:00"
         }
       ],
       "last_plan": {
         "source_id": "7382482",
         "display_name": "Ip Man: Poslední boj (2013) SD CZ Dabing",
         "planned_at": "2026-09-22T04:12:26.213929+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T04:35:20.731124+00:00",
-        "lease_expires_at": "2026-09-22T10:35:20.731124+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29609364",
       "prepared": {
@@ -173275,6 +173269,12 @@
         "source_id": "34757078",
         "display_name": "How Sarah Got Her Wings (2015) 1080p SK Dabing",
         "planned_at": "2026-09-22T04:12:27.230575+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
+        "claimed_at": "2026-09-22T04:39:32.936616+00:00",
+        "lease_expires_at": "2026-09-22T10:39:32.936616+00:00",
+        "run_id": "35676365152"
       }
     },
     "26484": {
@@ -239361,5 +239361,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:39:27.351536+00:00"
+  "updated_at": "2026-09-22T04:39:35.914672+00:00"
 }
