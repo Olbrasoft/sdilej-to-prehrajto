@@ -175417,13 +175417,6 @@
           "permanent": false,
           "source_id": "25062581",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:08:58.606659+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25062581",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:39.963161+00:00"
         },
         {
@@ -175432,18 +175425,19 @@
           "reason": "Request failed for https://sdilej.cz/25062581/ten-kdo-me-hlida-1987-cz.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T06:03:43.824734+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25062581",
+          "target_video_id": "29610984",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:40:26.163366+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25062581",
         "display_name": "Ten, kdo mě hlídá (1987) SD CZ Dabing",
         "planned_at": "2026-09-22T06:35:33.530462+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T06:38:36.107767+00:00",
-        "lease_expires_at": "2026-09-22T12:38:36.107767+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610984",
       "prepared": {
@@ -239669,5 +239663,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:38:48.245011+00:00"
+  "updated_at": "2026-09-22T06:40:26.163382+00:00"
 }
