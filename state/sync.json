@@ -176893,22 +176893,10 @@
           "attempted_at": "2026-09-22T07:56:41.736301+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34670444",
-        "display_name": "Smrt na jachtě (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T08:39:26.037193+00:00"
-      },
       "previous_target_id": "29612303",
-      "prepared": {
+      "upload": {
         "target_video_id": "29612303",
-        "size_bytes": 1967798004,
-        "prepared_at": "2026-09-22T07:51:30.870518+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-5",
-        "claimed_at": "2026-09-22T08:39:41.151199+00:00",
-        "lease_expires_at": "2026-09-22T14:39:41.151199+00:00",
-        "run_id": "35699963447"
+        "uploaded_at": "2026-09-22T08:39:50.403598+00:00"
       }
     },
     "11214": {
@@ -176950,13 +176938,6 @@
     "5881": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24107207",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:12:10.689630+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "24107207",
           "reason": "Request failed for https://sdilej.cz/24107207/godmothered-2020-cz-dabing.mp4 (HTTP None)",
@@ -176969,6 +176950,13 @@
           "target_video_id": "29612311",
           "permanent": false,
           "attempted_at": "2026-09-22T07:57:33.956771+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24107207",
+          "target_video_id": "29612311",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:39:49.715963+00:00"
         }
       ],
       "last_plan": {
@@ -176979,14 +176967,8 @@
       "previous_target_id": "29612311",
       "prepared": {
         "target_video_id": "29612311",
-        "size_bytes": 3103809017,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-22T07:51:42.744860+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-1",
-        "claimed_at": "2026-09-22T08:39:47.020715+00:00",
-        "lease_expires_at": "2026-09-22T14:39:47.020715+00:00",
-        "run_id": "35699963447"
       }
     },
     "25637": {
@@ -177409,6 +177391,12 @@
         "target_video_id": "29611868",
         "size_bytes": 4306215980,
         "prepared_at": "2026-09-22T07:23:32.468003+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-4",
+        "claimed_at": "2026-09-22T08:39:49.956840+00:00",
+        "lease_expires_at": "2026-09-22T14:39:49.956840+00:00",
+        "run_id": "35699963447"
       }
     },
     "27815": {
@@ -239944,5 +239932,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:39:47.575363+00:00"
+  "updated_at": "2026-09-22T08:39:50.403617+00:00"
 }
