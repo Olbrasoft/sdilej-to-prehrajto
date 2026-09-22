@@ -180578,13 +180578,6 @@
           "permanent": false,
           "source_id": "33852436",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:06.319559+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33852436",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:41.112713+00:00"
         },
         {
@@ -180593,18 +180586,19 @@
           "source_id": "33852436",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:13.463468+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33852436",
+          "target_video_id": "29614047",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:19:36.096070+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33852436",
         "display_name": "Vždycky zvítězit (1980) SD CZ Dabing",
         "planned_at": "2026-09-22T09:10:58.347694+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-3",
-        "claimed_at": "2026-09-22T09:18:17.490030+00:00",
-        "lease_expires_at": "2026-09-22T15:18:17.490030+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29614047",
       "prepared": {
@@ -239913,5 +239907,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:19:31.153046+00:00"
+  "updated_at": "2026-09-22T09:19:36.096086+00:00"
 }
