@@ -177307,13 +177307,6 @@
           "permanent": false,
           "source_id": "33702213",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:07:17.005598+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33702213",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:12:17.831614+00:00"
         },
         {
@@ -177322,18 +177315,19 @@
           "source_id": "33702213",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:10.042913+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33702213",
+          "target_video_id": "29611821",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:25:54.893773+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33702213",
         "display_name": "Agent Čuník (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-22T06:57:39.263113+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T07:21:20.567723+00:00",
-        "lease_expires_at": "2026-09-22T13:21:20.567723+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29611821",
       "prepared": {
@@ -239825,5 +239819,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:24:26.481319+00:00"
+  "updated_at": "2026-09-22T07:25:54.893790+00:00"
 }
