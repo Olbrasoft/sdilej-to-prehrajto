@@ -177292,13 +177292,6 @@
           "permanent": false,
           "source_id": "34165220",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:07:15.202514+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34165220",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:12:17.038021+00:00"
         },
         {
@@ -177307,18 +177300,19 @@
           "source_id": "34165220",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:14.971451+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34165220",
+          "reason": "Request failed for https://sdilej.cz/34165220/the-wrong-paris-2025-4k-uhd-cz-dab-rebelant.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:21:21.039142+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34165220",
         "display_name": "Není Paříž jako Paříž (2025) 4K CZ Dabing",
         "planned_at": "2026-09-22T06:57:38.746088+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
-        "claimed_at": "2026-09-22T07:20:35.027946+00:00",
-        "lease_expires_at": "2026-09-22T13:20:35.027946+00:00",
-        "run_id": "35676365152"
       }
     },
     "29169": {
@@ -177352,6 +177346,12 @@
         "source_id": "33702213",
         "display_name": "Agent Čuník (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-22T06:57:39.263113+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
+        "claimed_at": "2026-09-22T07:21:20.567723+00:00",
+        "lease_expires_at": "2026-09-22T13:21:20.567723+00:00",
+        "run_id": "35676365152"
       }
     },
     "33136": {
@@ -239789,5 +239789,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:21:15.083163+00:00"
+  "updated_at": "2026-09-22T07:21:21.039160+00:00"
 }
