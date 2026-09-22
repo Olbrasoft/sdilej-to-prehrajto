@@ -174318,13 +174318,6 @@
           "permanent": false,
           "source_id": "34898203",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:27.646899+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34898203",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:56.447610+00:00"
         },
         {
@@ -174333,6 +174326,13 @@
           "target_video_id": "29610299",
           "permanent": false,
           "attempted_at": "2026-09-22T05:46:04.193148+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34898203",
+          "target_video_id": "29610299",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:37:31.956377+00:00"
         }
       ],
       "last_plan": {
@@ -174343,7 +174343,7 @@
       "previous_target_id": "29610299",
       "prepared": {
         "target_video_id": "29610299",
-        "size_bytes": 2292599360,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-22T05:42:16.376909+00:00"
       }
     },
@@ -174377,16 +174377,10 @@
           "attempted_at": "2026-09-22T05:45:51.038182+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34662159",
-        "display_name": "Předvánoční zpráva (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T06:35:26.998021+00:00"
-      },
       "previous_target_id": "29610298",
-      "prepared": {
+      "upload": {
         "target_video_id": "29610298",
-        "size_bytes": 2024202635,
-        "prepared_at": "2026-09-22T05:42:13.951706+00:00"
+        "uploaded_at": "2026-09-22T06:37:33.849761+00:00"
       }
     },
     "26905": {
@@ -239723,5 +239717,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:37:24.254353+00:00"
+  "updated_at": "2026-09-22T06:37:33.849777+00:00"
 }
