@@ -176121,22 +176121,10 @@
           "attempted_at": "2026-09-22T06:50:07.508874+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27196814",
-        "display_name": "Chvíle dozrávání (2021) SD CZ Dabing",
-        "planned_at": "2026-09-22T07:49:20.651644+00:00"
-      },
       "previous_target_id": "29611126",
-      "prepared": {
+      "upload": {
         "target_video_id": "29611126",
-        "size_bytes": 1533921975,
-        "prepared_at": "2026-09-22T06:46:32.821718+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
-        "claimed_at": "2026-09-22T07:50:22.719606+00:00",
-        "lease_expires_at": "2026-09-22T13:50:22.719606+00:00",
-        "run_id": "35699963447"
+        "uploaded_at": "2026-09-22T07:50:26.457952+00:00"
       }
     },
     "15090": {
@@ -176162,13 +176150,6 @@
           "permanent": false,
           "source_id": "13648431",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:31.419274+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13648431",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:11:52.241140+00:00"
         },
         {
@@ -176177,6 +176158,13 @@
           "target_video_id": "29611130",
           "permanent": false,
           "attempted_at": "2026-09-22T06:50:52.786962+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13648431",
+          "target_video_id": "29611130",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:26.163632+00:00"
         }
       ],
       "last_plan": {
@@ -176187,14 +176175,8 @@
       "previous_target_id": "29611130",
       "prepared": {
         "target_video_id": "29611130",
-        "size_bytes": 1992036852,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-22T06:46:41.552323+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T07:50:23.027464+00:00",
-        "lease_expires_at": "2026-09-22T13:50:23.027464+00:00",
-        "run_id": "35699963447"
       }
     },
     "14944": {
@@ -239816,5 +239798,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:50:24.068504+00:00"
+  "updated_at": "2026-09-22T07:50:26.457970+00:00"
 }
