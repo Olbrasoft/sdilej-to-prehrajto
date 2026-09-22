@@ -179475,13 +179475,6 @@
           "permanent": false,
           "source_id": "33745576",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:44.719031+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745576",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:02.235595+00:00"
         },
         {
@@ -179490,18 +179483,19 @@
           "source_id": "33745576",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:46.738700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745576",
+          "target_video_id": "29612741",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:15:27.729513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33745576",
         "display_name": "Ruský dům (1990) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:53.715139+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-3",
-        "claimed_at": "2026-09-22T08:11:12.321702+00:00",
-        "lease_expires_at": "2026-09-22T14:11:12.321702+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612741",
       "prepared": {
@@ -179872,6 +179866,12 @@
         "source_id": "34283917",
         "display_name": "France (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:55.962200+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
+        "claimed_at": "2026-09-22T08:15:25.119046+00:00",
+        "lease_expires_at": "2026-09-22T14:15:25.119046+00:00",
+        "run_id": "35699963447"
       }
     },
     "28634": {
@@ -239979,5 +239979,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:15:18.282739+00:00"
+  "updated_at": "2026-09-22T08:15:27.729529+00:00"
 }
