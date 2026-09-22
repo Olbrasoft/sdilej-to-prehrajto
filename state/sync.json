@@ -162361,13 +162361,6 @@
     "5155": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33108813",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:58:16.671771+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33108813",
           "target_video_id": "29585867",
@@ -162380,6 +162373,13 @@
           "target_video_id": "29585867",
           "permanent": false,
           "attempted_at": "2026-09-21T16:19:03.237639+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33108813",
+          "target_video_id": "29585867",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:07:36.176754+00:00"
         }
       ],
       "last_plan": {
@@ -162392,12 +162392,6 @@
         "target_video_id": "29585867",
         "size_bytes": 26300000000,
         "prepared_at": "2026-09-21T13:28:43.280209+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T02:07:28.980332+00:00",
-        "lease_expires_at": "2026-09-22T08:07:28.980332+00:00",
-        "run_id": "35676365152"
       }
     },
     "5248": {
@@ -162587,13 +162581,6 @@
     "4997": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21713787",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:58:19.358131+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "21713787",
           "target_video_id": "29586331",
@@ -162606,6 +162593,13 @@
           "target_video_id": "29586331",
           "permanent": false,
           "attempted_at": "2026-09-21T16:19:10.978408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21713787",
+          "target_video_id": "29586331",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:07:36.479931+00:00"
         }
       ],
       "last_plan": {
@@ -162618,12 +162612,6 @@
         "target_video_id": "29586331",
         "size_bytes": 13600000000,
         "prepared_at": "2026-09-21T13:54:35.182760+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T02:07:29.714558+00:00",
-        "lease_expires_at": "2026-09-22T08:07:29.714558+00:00",
-        "run_id": "35676365152"
       }
     },
     "5240": {
@@ -162951,16 +162939,10 @@
           "attempted_at": "2026-09-21T16:19:40.114770+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33155998",
-        "display_name": "Kurs sebeovládání (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T02:07:04.556741+00:00"
-      },
       "previous_target_id": "29588145",
-      "prepared": {
+      "upload": {
         "target_video_id": "29588145",
-        "size_bytes": 2100000000,
-        "prepared_at": "2026-09-21T15:28:54.498750+00:00"
+        "uploaded_at": "2026-09-22T02:07:38.446395+00:00"
       }
     },
     "5134": {
@@ -163004,6 +162986,12 @@
         "target_video_id": "29588331",
         "size_bytes": 5566632317,
         "prepared_at": "2026-09-21T15:36:21.603658+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
+        "claimed_at": "2026-09-22T02:07:37.487585+00:00",
+        "lease_expires_at": "2026-09-22T08:07:37.487585+00:00",
+        "run_id": "35676365152"
       }
     },
     "5124": {
@@ -163040,6 +163028,12 @@
         "target_video_id": "29588330",
         "size_bytes": 10523898408,
         "prepared_at": "2026-09-21T15:36:19.444020+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T02:07:37.152474+00:00",
+        "lease_expires_at": "2026-09-22T08:07:37.152474+00:00",
+        "run_id": "35676365152"
       }
     },
     "5234": {
@@ -238745,5 +238739,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:07:30.111434+00:00"
+  "updated_at": "2026-09-22T02:07:38.446411+00:00"
 }
