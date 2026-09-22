@@ -171993,22 +171993,10 @@
           "attempted_at": "2026-09-22T03:55:04.231895+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34853502",
-        "display_name": "Nekonečná láska (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T05:33:30.527003+00:00"
-      },
       "previous_target_id": "29608747",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608747",
-        "size_bytes": 4594455016,
-        "prepared_at": "2026-09-22T03:44:16.311003+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T05:34:13.955534+00:00",
-        "lease_expires_at": "2026-09-22T11:34:13.955534+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T05:34:19.924449+00:00"
       }
     },
     "31714": {
@@ -172016,13 +172004,6 @@
     },
     "11287": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30457942",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:39:51.930148+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -172036,6 +172017,13 @@
           "target_video_id": "29608748",
           "permanent": false,
           "attempted_at": "2026-09-22T03:56:38.711675+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30457942",
+          "target_video_id": "29608748",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:34:19.109062+00:00"
         }
       ],
       "last_plan": {
@@ -172046,14 +172034,8 @@
       "previous_target_id": "29608748",
       "prepared": {
         "target_video_id": "29608748",
-        "size_bytes": 5468190042,
+        "size_bytes": 5500000000,
         "prepared_at": "2026-09-22T03:44:18.514718+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
-        "claimed_at": "2026-09-22T05:34:16.618220+00:00",
-        "lease_expires_at": "2026-09-22T11:34:16.618220+00:00",
-        "run_id": "35676365152"
       }
     },
     "33680": {
@@ -172093,6 +172075,12 @@
         "target_video_id": "29608778",
         "size_bytes": 2470909256,
         "prepared_at": "2026-09-22T03:46:01.451156+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
+        "claimed_at": "2026-09-22T05:34:19.379361+00:00",
+        "lease_expires_at": "2026-09-22T11:34:19.379361+00:00",
+        "run_id": "35676365152"
       }
     },
     "26263": {
@@ -172167,6 +172155,12 @@
         "target_video_id": "29609079",
         "size_bytes": 3153104260,
         "prepared_at": "2026-09-22T04:11:17.607102+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-1",
+        "claimed_at": "2026-09-22T05:34:19.649709+00:00",
+        "lease_expires_at": "2026-09-22T11:34:19.649709+00:00",
+        "run_id": "35676365152"
       }
     },
     "5467": {
@@ -239777,5 +239771,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:34:16.912475+00:00"
+  "updated_at": "2026-09-22T05:34:19.924469+00:00"
 }
