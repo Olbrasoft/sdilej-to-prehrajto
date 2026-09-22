@@ -178605,13 +178605,6 @@
           "permanent": false,
           "source_id": "33747021",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:56:01.757821+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33747021",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:33.101247+00:00"
         },
         {
@@ -178620,6 +178613,13 @@
           "target_video_id": "29612596",
           "permanent": false,
           "attempted_at": "2026-09-22T08:06:46.855549+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33747021",
+          "target_video_id": "29612596",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:43:19.137377+00:00"
         }
       ],
       "last_plan": {
@@ -178630,7 +178630,7 @@
       "previous_target_id": "29612596",
       "prepared": {
         "target_video_id": "29612596",
-        "size_bytes": 2161654796,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-22T08:04:54.542640+00:00"
       }
     },
@@ -178685,16 +178685,10 @@
           "attempted_at": "2026-09-22T08:07:10.891232+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33768470",
-        "display_name": "Filadelfský Experiment (1984) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T08:39:33.717874+00:00"
-      },
       "previous_target_id": "29612594",
-      "prepared": {
+      "upload": {
         "target_video_id": "29612594",
-        "size_bytes": 2474764862,
-        "prepared_at": "2026-09-22T08:04:44.499260+00:00"
+        "uploaded_at": "2026-09-22T08:43:20.917435+00:00"
       }
     },
     "5850": {
@@ -239872,5 +239866,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:43:11.319294+00:00"
+  "updated_at": "2026-09-22T08:43:20.917452+00:00"
 }
