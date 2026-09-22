@@ -180753,13 +180753,6 @@
           "permanent": false,
           "source_id": "31645551",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:08.728553+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31645551",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:44.088151+00:00"
         },
         {
@@ -180768,18 +180761,19 @@
           "source_id": "31645551",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:16.274862+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31645551",
+          "target_video_id": "29614063",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:20:39.230902+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31645551",
         "display_name": "Léto v bikinách (1991) SD CZ Dabing",
         "planned_at": "2026-09-22T09:10:59.074949+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-1",
-        "claimed_at": "2026-09-22T09:19:16.939710+00:00",
-        "lease_expires_at": "2026-09-22T15:19:16.939710+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29614063",
       "prepared": {
@@ -239919,5 +239913,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:20:36.932274+00:00"
+  "updated_at": "2026-09-22T09:20:39.230919+00:00"
 }
