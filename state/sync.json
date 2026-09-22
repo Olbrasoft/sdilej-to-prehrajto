@@ -116893,13 +116893,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-22T06:58:27.432329+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-22T07:48:18.643739+00:00"
         },
         {
@@ -116908,6 +116901,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-22T08:25:38.637396+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-22T08:40:43.465983+00:00"
         }
       ],
       "last_plan": {
@@ -116920,13 +116920,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-0",
-        "claimed_at": "2026-09-22T08:39:39.728840+00:00",
-        "lease_expires_at": "2026-09-22T14:39:39.728840+00:00",
-        "run_id": "35699963447"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -178193,6 +178187,12 @@
         "source_id": "31543083",
         "display_name": "Sám v temnotě (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:31.308404+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
+        "claimed_at": "2026-09-22T08:40:43.817528+00:00",
+        "lease_expires_at": "2026-09-22T14:40:43.817528+00:00",
+        "run_id": "35699963447"
       }
     },
     "37504": {
@@ -178265,6 +178265,18 @@
         "source_id": "21105641",
         "display_name": "Noc v Eagle Inn (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:31.549467+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-0",
+        "claimed_at": "2026-09-22T08:40:44.178712+00:00",
+        "lease_expires_at": "2026-09-22T14:40:44.178712+00:00",
+        "run_id": "35699963447"
+      },
+      "previous_target_id": "29613379",
+      "prepared": {
+        "target_video_id": "29613379",
+        "size_bytes": 3268293165,
+        "prepared_at": "2026-09-22T08:40:47.641614+00:00"
       }
     },
     "28046": {
@@ -239884,5 +239896,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:40:41.126353+00:00"
+  "updated_at": "2026-09-22T08:40:47.641628+00:00"
 }
