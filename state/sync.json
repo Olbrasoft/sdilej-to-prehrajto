@@ -175957,13 +175957,6 @@
           "permanent": false,
           "source_id": "31582764",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:09:09.261003+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31582764",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:46.531366+00:00"
         },
         {
@@ -175972,18 +175965,19 @@
           "reason": "Request failed for https://sdilej.cz/31582764/fantasticka-zvirata-3-brumbalova-tajemstvi-2022-4k-h265-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T06:44:54.253719+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31582764",
+          "target_video_id": "29612278",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:04:52.427419+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31582764",
         "display_name": "Fantastická zvířata: Brumbálova tajemství (2022) 4K CZ Dabing",
         "planned_at": "2026-09-22T07:49:20.138585+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
-        "claimed_at": "2026-09-22T07:50:19.738397+00:00",
-        "lease_expires_at": "2026-09-22T13:50:19.738397+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612278",
       "prepared": {
@@ -239865,5 +239859,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:04:50.372718+00:00"
+  "updated_at": "2026-09-22T08:04:52.427434+00:00"
 }
