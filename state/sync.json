@@ -165933,13 +165933,6 @@
           "permanent": false,
           "source_id": "34472748",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:08:21.924347+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34472748",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:08:29.493443+00:00"
         },
         {
@@ -165948,18 +165941,19 @@
           "source_id": "34472748",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:08:34.665349+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34472748",
+          "target_video_id": "29607612",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:46:23.480261+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34472748",
         "display_name": "Barvy zla: Černá (2026) 4K CZ Dabing",
         "planned_at": "2026-09-22T02:09:10.142901+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
-        "claimed_at": "2026-09-22T02:15:42.946547+00:00",
-        "lease_expires_at": "2026-09-22T08:15:42.946547+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29607612",
       "prepared": {
@@ -238832,5 +238826,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:45:49.615587+00:00"
+  "updated_at": "2026-09-22T02:46:23.480278+00:00"
 }
