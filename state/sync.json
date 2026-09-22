@@ -174295,13 +174295,6 @@
     "6660": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30324357",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:42:55.413786+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30324357",
           "reason": "Source detail has no authenticated download link; source_id=30324357",
@@ -174314,18 +174307,19 @@
           "reason": "Request failed for https://sdilej.cz/30324357/smaragdovo-zelena-zelena-jako-smaragd-smaragdgrun.de.cz.sk.2016.1080p.blu-ray.avc.dts-hd.ma.5.1-gmb.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T06:37:50.912605+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30324357",
+          "reason": "Source detail has no authenticated download link; source_id=30324357",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:01.401360+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30324357",
         "display_name": "Zelená jako smaragd (2016) 720p CZ Dabing",
         "planned_at": "2026-09-22T07:49:16.293901+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T07:49:53.295010+00:00",
-        "lease_expires_at": "2026-09-22T13:49:53.295010+00:00",
-        "run_id": "35699963447"
       }
     },
     "5348": {
@@ -174372,6 +174366,12 @@
         "target_video_id": "29610299",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-22T05:42:16.376909+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
+        "claimed_at": "2026-09-22T07:50:00.791121+00:00",
+        "lease_expires_at": "2026-09-22T13:50:00.791121+00:00",
+        "run_id": "35699963447"
       }
     },
     "25140": {
@@ -174501,6 +174501,12 @@
         "target_video_id": "29610336",
         "size_bytes": 37045603362,
         "prepared_at": "2026-09-22T05:44:49.372168+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-0",
+        "claimed_at": "2026-09-22T07:50:00.494092+00:00",
+        "lease_expires_at": "2026-09-22T13:50:00.494092+00:00",
+        "run_id": "35699963447"
       }
     },
     "25578": {
@@ -174666,6 +174672,12 @@
         "target_video_id": "29610362",
         "size_bytes": 26665802200,
         "prepared_at": "2026-09-22T05:47:12.547897+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
+        "claimed_at": "2026-09-22T07:50:01.071191+00:00",
+        "lease_expires_at": "2026-09-22T13:50:01.071191+00:00",
+        "run_id": "35699963447"
       }
     },
     "36668": {
@@ -239840,5 +239852,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:49:58.158560+00:00"
+  "updated_at": "2026-09-22T07:50:01.401376+00:00"
 }
