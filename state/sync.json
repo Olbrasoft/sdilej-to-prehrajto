@@ -162976,33 +162976,14 @@
           "attempted_at": "2026-09-21T15:54:23.507218+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34356029",
-        "display_name": "Útok na Bílý dům (2013) 4K CZ Dabing",
-        "planned_at": "2026-09-22T02:07:04.822216+00:00"
-      },
       "previous_target_id": "29588331",
-      "prepared": {
+      "upload": {
         "target_video_id": "29588331",
-        "size_bytes": 5566632317,
-        "prepared_at": "2026-09-21T15:36:21.603658+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T02:07:37.487585+00:00",
-        "lease_expires_at": "2026-09-22T08:07:37.487585+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T02:07:41.169162+00:00"
       }
     },
     "5124": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12795481",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:57:48.497758+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -163016,6 +162997,13 @@
           "target_video_id": "29588330",
           "permanent": false,
           "attempted_at": "2026-09-21T16:04:30.104341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12795481",
+          "target_video_id": "29588330",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:07:40.873477+00:00"
         }
       ],
       "last_plan": {
@@ -163026,14 +163014,8 @@
       "previous_target_id": "29588330",
       "prepared": {
         "target_video_id": "29588330",
-        "size_bytes": 10523898408,
+        "size_bytes": 10500000000,
         "prepared_at": "2026-09-21T15:36:19.444020+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T02:07:37.152474+00:00",
-        "lease_expires_at": "2026-09-22T08:07:37.152474+00:00",
-        "run_id": "35676365152"
       }
     },
     "5234": {
@@ -238739,5 +238721,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:07:38.446411+00:00"
+  "updated_at": "2026-09-22T02:07:41.169180+00:00"
 }
