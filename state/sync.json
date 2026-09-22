@@ -165790,13 +165790,6 @@
           "permanent": false,
           "source_id": "29909380",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:02:06.825536+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29909380",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:02:25.332237+00:00"
         },
         {
@@ -165805,6 +165798,13 @@
           "target_video_id": "29607546",
           "permanent": false,
           "attempted_at": "2026-09-22T02:15:37.174748+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29909380",
+          "target_video_id": "29607546",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:03:04.264472+00:00"
         }
       ],
       "last_plan": {
@@ -165815,7 +165815,7 @@
       "previous_target_id": "29607546",
       "prepared": {
         "target_video_id": "29607546",
-        "size_bytes": 2820052737,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-22T02:10:59.339195+00:00"
       }
     },
@@ -165888,16 +165888,10 @@
           "attempted_at": "2026-09-22T02:14:52.539219+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24777315",
-        "display_name": "Accident Man (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T03:02:10.600497+00:00"
-      },
       "previous_target_id": "29607552",
-      "prepared": {
+      "upload": {
         "target_video_id": "29607552",
-        "size_bytes": 2284683615,
-        "prepared_at": "2026-09-22T02:11:05.848756+00:00"
+        "uploaded_at": "2026-09-22T03:03:06.088161+00:00"
       }
     },
     "19818": {
@@ -239071,5 +239065,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:02:56.780414+00:00"
+  "updated_at": "2026-09-22T03:03:06.088178+00:00"
 }
