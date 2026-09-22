@@ -165805,13 +165805,6 @@
           "permanent": false,
           "source_id": "33797209",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:08:41.887548+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33797209",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:09:00.665981+00:00"
         },
         {
@@ -165820,18 +165813,19 @@
           "source_id": "33797209",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:07.883407+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33797209",
+          "target_video_id": "29607643",
+          "permanent": false,
+          "attempted_at": "2026-09-22T02:20:46.144583+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33797209",
         "display_name": "V nepřátelském poli (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-22T02:09:10.429038+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-3",
-        "claimed_at": "2026-09-22T02:17:00.226372+00:00",
-        "lease_expires_at": "2026-09-22T08:17:00.226372+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29607643",
       "prepared": {
@@ -238590,5 +238584,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T02:19:10.653530+00:00"
+  "updated_at": "2026-09-22T02:20:46.144600+00:00"
 }
