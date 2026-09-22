@@ -172864,13 +172864,6 @@
     "36954": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32144266",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:42:30.422938+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32144266",
           "reason": "Request failed for https://sdilej.cz/32144266/the-rule-of-jenny-pen-2025-.mkv (HTTP None)",
@@ -172883,6 +172876,13 @@
           "target_video_id": "29610244",
           "permanent": false,
           "attempted_at": "2026-09-22T05:43:25.954569+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32144266",
+          "target_video_id": "29610244",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:23.075776+00:00"
         }
       ],
       "last_plan": {
@@ -172893,7 +172893,7 @@
       "previous_target_id": "29610244",
       "prepared": {
         "target_video_id": "29610244",
-        "size_bytes": 2531901003,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-22T05:39:09.769392+00:00"
       }
     },
@@ -172931,13 +172931,6 @@
     "30156": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34019445",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:42:31.906000+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34019445",
           "target_video_id": "29609313",
@@ -172950,6 +172943,13 @@
           "target_video_id": "29609313",
           "permanent": false,
           "attempted_at": "2026-09-22T05:39:05.997929+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34019445",
+          "target_video_id": "29609313",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:25.299922+00:00"
         }
       ],
       "last_plan": {
@@ -173016,13 +173016,6 @@
     "10344": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "15954227",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T12:42:33.895114+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "15954227",
           "target_video_id": "29609328",
@@ -173035,6 +173028,13 @@
           "target_video_id": "29609328",
           "permanent": false,
           "attempted_at": "2026-09-22T05:39:11.959112+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15954227",
+          "target_video_id": "29609328",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:36:27.807549+00:00"
         }
       ],
       "last_plan": {
@@ -173216,16 +173216,10 @@
           "attempted_at": "2026-09-22T05:39:21.977923+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33677071",
-        "display_name": "Flashdance (1983) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T06:35:22.484789+00:00"
-      },
       "previous_target_id": "29609352",
-      "prepared": {
+      "upload": {
         "target_video_id": "29609352",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-22T04:34:12.007108+00:00"
+        "uploaded_at": "2026-09-22T06:36:29.965186+00:00"
       }
     },
     "6520": {
@@ -239735,5 +239729,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:36:18.945036+00:00"
+  "updated_at": "2026-09-22T06:36:29.965200+00:00"
 }
