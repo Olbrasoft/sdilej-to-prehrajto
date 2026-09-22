@@ -175930,13 +175930,6 @@
     "5417": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31582764",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:10:46.531366+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31582764",
           "reason": "Request failed for https://sdilej.cz/31582764/fantasticka-zvirata-3-brumbalova-tajemstvi-2022-4k-h265-cz-en.mkv (HTTP None)",
@@ -175949,6 +175942,13 @@
           "target_video_id": "29612278",
           "permanent": false,
           "attempted_at": "2026-09-22T08:04:52.427419+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31582764",
+          "target_video_id": "29612278",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:39:46.638358+00:00"
         }
       ],
       "last_plan": {
@@ -175959,14 +175959,8 @@
       "previous_target_id": "29612278",
       "prepared": {
         "target_video_id": "29612278",
-        "size_bytes": 6635321654,
+        "size_bytes": 6600000000,
         "prepared_at": "2026-09-22T07:50:28.593089+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-2",
-        "claimed_at": "2026-09-22T08:39:40.870129+00:00",
-        "lease_expires_at": "2026-09-22T14:39:40.870129+00:00",
-        "run_id": "35699963447"
       }
     },
     "5547": {
@@ -176575,13 +176569,6 @@
     "25064": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20432991",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:12:00.815884+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "20432991",
           "reason": "Request failed for https://sdilej.cz/20432991/mec-spravedlnosti-day.of.wrath.2006.1080p-cz-dabing.mkv (HTTP None)",
@@ -176594,6 +176581,13 @@
           "target_video_id": "29612293",
           "permanent": false,
           "attempted_at": "2026-09-22T08:02:21.971255+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20432991",
+          "target_video_id": "29612293",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:39:46.400245+00:00"
         }
       ],
       "last_plan": {
@@ -176604,14 +176598,8 @@
       "previous_target_id": "29612293",
       "prepared": {
         "target_video_id": "29612293",
-        "size_bytes": 4948192045,
+        "size_bytes": 4900000000,
         "prepared_at": "2026-09-22T07:51:00.177858+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
-        "claimed_at": "2026-09-22T08:39:40.203825+00:00",
-        "lease_expires_at": "2026-09-22T14:39:40.203825+00:00",
-        "run_id": "35699963447"
       }
     },
     "31592": {
@@ -176769,22 +176757,10 @@
           "attempted_at": "2026-09-22T07:59:02.547755+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34694938",
-        "display_name": "Poslední přestřelka (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T08:39:25.799232+00:00"
-      },
       "previous_target_id": "29612298",
-      "prepared": {
+      "upload": {
         "target_video_id": "29612298",
-        "size_bytes": 2749625855,
-        "prepared_at": "2026-09-22T07:51:13.190242+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-4",
-        "claimed_at": "2026-09-22T08:39:40.470510+00:00",
-        "lease_expires_at": "2026-09-22T14:39:40.470510+00:00",
-        "run_id": "35699963447"
+        "uploaded_at": "2026-09-22T08:39:47.575343+00:00"
       }
     },
     "35411": {
@@ -177005,6 +176981,12 @@
         "target_video_id": "29612311",
         "size_bytes": 3103809017,
         "prepared_at": "2026-09-22T07:51:42.744860+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-1",
+        "claimed_at": "2026-09-22T08:39:47.020715+00:00",
+        "lease_expires_at": "2026-09-22T14:39:47.020715+00:00",
+        "run_id": "35699963447"
       }
     },
     "25637": {
@@ -177041,6 +177023,12 @@
         "target_video_id": "29612425",
         "size_bytes": 736479232,
         "prepared_at": "2026-09-22T07:56:55.875889+00:00"
+      },
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
+        "claimed_at": "2026-09-22T08:39:47.259825+00:00",
+        "lease_expires_at": "2026-09-22T14:39:47.259825+00:00",
+        "run_id": "35699963447"
       }
     },
     "32868": {
@@ -239956,5 +239944,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:39:41.669494+00:00"
+  "updated_at": "2026-09-22T08:39:47.575363+00:00"
 }
