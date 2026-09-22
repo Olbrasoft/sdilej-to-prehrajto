@@ -179783,13 +179783,6 @@
           "permanent": false,
           "source_id": "33767648",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:47.426344+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33767648",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:04.035968+00:00"
         },
         {
@@ -179798,18 +179791,19 @@
           "source_id": "33767648",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:56.383794+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767648",
+          "target_video_id": "29613467",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:48:08.460227+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33767648",
         "display_name": "Cargo (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:35.402565+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-5",
-        "claimed_at": "2026-09-22T08:44:33.171937+00:00",
-        "lease_expires_at": "2026-09-22T14:44:33.171937+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613467",
       "prepared": {
@@ -239896,5 +239890,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:47:06.432119+00:00"
+  "updated_at": "2026-09-22T08:48:08.460241+00:00"
 }
