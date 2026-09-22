@@ -170828,13 +170828,6 @@
           "permanent": false,
           "source_id": "33183165",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:37:31.352344+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33183165",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:37:51.846661+00:00"
         },
         {
@@ -170843,6 +170836,13 @@
           "target_video_id": "29608582",
           "permanent": false,
           "attempted_at": "2026-09-22T03:36:23.663051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33183165",
+          "target_video_id": "29608582",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:11:07.599209+00:00"
         }
       ],
       "last_plan": {
@@ -170853,7 +170853,7 @@
       "previous_target_id": "29608582",
       "prepared": {
         "target_video_id": "29608582",
-        "size_bytes": 2484929486,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-22T03:33:09.958086+00:00"
       }
     },
@@ -170881,16 +170881,10 @@
           "attempted_at": "2026-09-22T03:36:58.942455+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "17522109",
-        "display_name": "Na shledanou v září (2010) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T04:09:05.318601+00:00"
-      },
       "previous_target_id": "29608593",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608593",
-        "size_bytes": 2099947086,
-        "prepared_at": "2026-09-22T03:33:41.602536+00:00"
+        "uploaded_at": "2026-09-22T04:11:08.006024+00:00"
       }
     },
     "31851": {
@@ -239223,5 +239217,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:11:03.744035+00:00"
+  "updated_at": "2026-09-22T04:11:08.006045+00:00"
 }
