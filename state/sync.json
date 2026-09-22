@@ -116276,13 +116276,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-21T16:17:42.880542+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-22T02:05:57.173487+00:00"
         },
         {
@@ -116291,6 +116284,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-22T03:00:31.134005+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-22T03:22:50.862626+00:00"
         }
       ],
       "last_plan": {
@@ -116303,13 +116303,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-0",
-        "claimed_at": "2026-09-22T03:21:28.940677+00:00",
-        "lease_expires_at": "2026-09-22T09:21:28.940677+00:00",
-        "run_id": "35676365152"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -170077,6 +170071,18 @@
         "source_id": "24558781",
         "display_name": "Smrt v labyrintu (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-22T03:21:19.271349+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-0",
+        "claimed_at": "2026-09-22T03:22:51.205665+00:00",
+        "lease_expires_at": "2026-09-22T09:22:51.205665+00:00",
+        "run_id": "35676365152"
+      },
+      "previous_target_id": "29608468",
+      "prepared": {
+        "target_video_id": "29608468",
+        "size_bytes": 2298626948,
+        "prepared_at": "2026-09-22T03:22:55.998784+00:00"
       }
     },
     "29973": {
@@ -239096,5 +239102,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:22:44.658460+00:00"
+  "updated_at": "2026-09-22T03:22:55.998799+00:00"
 }
