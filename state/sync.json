@@ -180855,13 +180855,6 @@
           "permanent": false,
           "source_id": "26555466",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:08.550878+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26555466",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:45.983497+00:00"
         },
         {
@@ -180870,18 +180863,19 @@
           "source_id": "26555466",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:18.217960+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26555466",
+          "target_video_id": "29614078",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:20:36.932257+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26555466",
         "display_name": "Gamebox (2004) SD CZ Dabing",
         "planned_at": "2026-09-22T09:10:59.561371+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-3",
-        "claimed_at": "2026-09-22T09:19:40.064275+00:00",
-        "lease_expires_at": "2026-09-22T15:19:40.064275+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29614078",
       "prepared": {
@@ -239925,5 +239919,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:20:34.628748+00:00"
+  "updated_at": "2026-09-22T09:20:36.932274+00:00"
 }
