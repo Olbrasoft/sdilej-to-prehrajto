@@ -175093,13 +175093,6 @@
           "permanent": false,
           "source_id": "31093557",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:06:48.602696+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31093557",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:08:51.008660+00:00"
         },
         {
@@ -175108,18 +175101,19 @@
           "source_id": "31093557",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:10:35.158682+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31093557",
+          "target_video_id": "29610441",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:59:33.403179+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31093557",
         "display_name": "Tichá dvojčata (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-22T05:40:49.661534+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T05:54:30.249430+00:00",
-        "lease_expires_at": "2026-09-22T11:54:30.249430+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610441",
       "prepared": {
@@ -239737,5 +239731,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:57:26.824297+00:00"
+  "updated_at": "2026-09-22T05:59:33.403195+00:00"
 }
