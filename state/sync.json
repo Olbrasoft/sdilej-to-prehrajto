@@ -169826,13 +169826,6 @@
           "permanent": false,
           "source_id": "31415930",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:09:45.462302+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31415930",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:53.401665+00:00"
         },
         {
@@ -169841,6 +169834,13 @@
           "target_video_id": "29608449",
           "permanent": false,
           "attempted_at": "2026-09-22T03:25:29.682814+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31415930",
+          "target_video_id": "29608449",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:10:08.117093+00:00"
         }
       ],
       "last_plan": {
@@ -169851,14 +169851,8 @@
       "previous_target_id": "29608449",
       "prepared": {
         "target_video_id": "29608449",
-        "size_bytes": 2571186220,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-22T03:21:48.107401+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T04:10:04.827503+00:00",
-        "lease_expires_at": "2026-09-22T10:10:04.827503+00:00",
-        "run_id": "35676365152"
       }
     },
     "21047": {
@@ -169930,22 +169924,10 @@
           "attempted_at": "2026-09-22T03:24:03.208759+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "12205647",
-        "display_name": "Take Point (2018) SD CZ Titulky",
-        "planned_at": "2026-09-22T04:09:00.539996+00:00"
-      },
       "previous_target_id": "29608451",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608451",
-        "size_bytes": 1299226142,
-        "prepared_at": "2026-09-22T03:21:51.638473+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
-        "claimed_at": "2026-09-22T04:10:05.133756+00:00",
-        "lease_expires_at": "2026-09-22T10:10:05.133756+00:00",
-        "run_id": "35676365152"
+        "uploaded_at": "2026-09-22T04:10:08.422433+00:00"
       }
     },
     "23833": {
@@ -239312,5 +239294,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:10:05.875217+00:00"
+  "updated_at": "2026-09-22T04:10:08.422451+00:00"
 }
