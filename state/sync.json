@@ -171087,13 +171087,6 @@
           "permanent": false,
           "source_id": "31248699",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:39:42.980877+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31248699",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:40:20.155881+00:00"
         },
         {
@@ -171102,6 +171095,13 @@
           "target_video_id": "29608649",
           "permanent": false,
           "attempted_at": "2026-09-22T03:40:32.576413+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31248699",
+          "target_video_id": "29608649",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:13:27.989765+00:00"
         }
       ],
       "last_plan": {
@@ -171112,7 +171112,7 @@
       "previous_target_id": "29608649",
       "prepared": {
         "target_video_id": "29608649",
-        "size_bytes": 2343424998,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-22T03:37:10.293466+00:00"
       }
     },
@@ -171140,16 +171140,10 @@
           "attempted_at": "2026-09-22T03:41:34.330776+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27519364",
-        "display_name": "Prime (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T04:12:16.142892+00:00"
-      },
       "previous_target_id": "29608660",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608660",
-        "size_bytes": 2196050231,
-        "prepared_at": "2026-09-22T03:37:46.580292+00:00"
+        "uploaded_at": "2026-09-22T04:13:29.945578+00:00"
       }
     },
     "26773": {
@@ -239229,5 +239223,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:13:24.107899+00:00"
+  "updated_at": "2026-09-22T04:13:29.945594+00:00"
 }
