@@ -38259,13 +38259,6 @@
           "source_id": "33709979",
           "target_video_id": "29407929",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:52:36.941019+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33709979",
-          "target_video_id": "29407929",
-          "permanent": false,
           "attempted_at": "2026-09-22T07:39:49.266522+00:00"
         },
         {
@@ -38274,6 +38267,13 @@
           "target_video_id": "29407929",
           "permanent": false,
           "attempted_at": "2026-09-22T08:19:23.499003+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33709979",
+          "target_video_id": "29407929",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:32.358623+00:00"
         }
       ],
       "last_plan": {
@@ -38286,13 +38286,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-15T17:24:08.199643+00:00"
       },
-      "previous_target_id": "29407929",
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-4",
-        "claimed_at": "2026-09-22T08:51:25.402267+00:00",
-        "lease_expires_at": "2026-09-22T14:51:25.402267+00:00",
-        "run_id": "35699963447"
-      }
+      "previous_target_id": "29407929"
     },
     "2144": {
       "attempts": [
@@ -38414,13 +38408,6 @@
           "source_id": "12889172",
           "target_video_id": "29184036",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:52:36.606681+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12889172",
-          "target_video_id": "29184036",
-          "permanent": false,
           "attempted_at": "2026-09-22T07:39:50.787137+00:00"
         },
         {
@@ -38429,6 +38416,13 @@
           "target_video_id": "29184036",
           "permanent": false,
           "attempted_at": "2026-09-22T08:19:24.917978+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12889172",
+          "target_video_id": "29184036",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:33.737541+00:00"
         }
       ],
       "last_plan": {
@@ -38683,13 +38677,6 @@
           "source_id": "32998927",
           "target_video_id": "29261139",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:52:38.922802+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32998927",
-          "target_video_id": "29261139",
-          "permanent": false,
           "attempted_at": "2026-09-22T07:39:51.127288+00:00"
         },
         {
@@ -38698,6 +38685,13 @@
           "target_video_id": "29261139",
           "permanent": false,
           "attempted_at": "2026-09-22T08:19:25.764326+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32998927",
+          "target_video_id": "29261139",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:34.669811+00:00"
         }
       ],
       "last_plan": {
@@ -40736,13 +40730,6 @@
           "source_id": "30001858",
           "target_video_id": "29461913",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:52:40.395754+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30001858",
-          "target_video_id": "29461913",
-          "permanent": false,
           "attempted_at": "2026-09-22T07:39:51.817797+00:00"
         },
         {
@@ -40751,6 +40738,13 @@
           "target_video_id": "29461913",
           "permanent": false,
           "attempted_at": "2026-09-22T08:19:26.083228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30001858",
+          "target_video_id": "29461913",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:35.016022+00:00"
         }
       ],
       "last_plan": {
@@ -41581,7 +41575,13 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-10T05:17:24.012120+00:00"
       },
-      "previous_target_id": "29263627"
+      "previous_target_id": "29263627",
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-0",
+        "claimed_at": "2026-09-22T08:51:34.093084+00:00",
+        "lease_expires_at": "2026-09-22T14:51:34.093084+00:00",
+        "run_id": "35699963447"
+      }
     },
     "2001": {
       "attempts": [],
@@ -179923,13 +179923,6 @@
           "permanent": false,
           "source_id": "32138217",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:48.822299+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32138217",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:05.828547+00:00"
         },
         {
@@ -179938,18 +179931,19 @@
           "source_id": "32138217",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:59.515282+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32138217",
+          "target_video_id": "29613488",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:35.361738+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32138217",
         "display_name": "Tři přání pro Popelku (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:36.123766+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-1",
-        "claimed_at": "2026-09-22T08:45:20.189935+00:00",
-        "lease_expires_at": "2026-09-22T14:45:20.189935+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613488",
       "prepared": {
@@ -239890,5 +239884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:51:25.759438+00:00"
+  "updated_at": "2026-09-22T08:51:35.361756+00:00"
 }
