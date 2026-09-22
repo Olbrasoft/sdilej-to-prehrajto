@@ -178598,13 +178598,6 @@
           "permanent": false,
           "source_id": "30771583",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:35.631112+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30771583",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:56:00.039698+00:00"
         },
         {
@@ -178613,18 +178606,19 @@
           "source_id": "30771583",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:32.827659+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30771583",
+          "reason": "Request failed for https://sdilej.cz/30771583/nezni-zmatkari-1987.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:03:21.623934+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30771583",
         "display_name": "Něžní zmatkáři (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:48.310482+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T08:02:35.744544+00:00",
-        "lease_expires_at": "2026-09-22T14:02:35.744544+00:00",
-        "run_id": "35699963447"
       }
     },
     "30143": {
@@ -239847,5 +239841,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:02:38.778548+00:00"
+  "updated_at": "2026-09-22T08:03:21.623961+00:00"
 }
