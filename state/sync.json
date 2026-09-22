@@ -174921,13 +174921,6 @@
     "5661": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12286781",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:10:33.649862+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "12286781",
           "reason": "Request failed for https://sdilej.cz/12286781/papirova.mesta-paper.towns.2015-2160p.hdr.webrip-en.cz.dabing-oxhd-.mkv (HTTP None)",
@@ -174940,6 +174933,13 @@
           "target_video_id": "29610973",
           "permanent": false,
           "attempted_at": "2026-09-22T07:06:46.057355+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12286781",
+          "target_video_id": "29610973",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:10.157766+00:00"
         }
       ],
       "last_plan": {
@@ -174950,14 +174950,8 @@
       "previous_target_id": "29610973",
       "prepared": {
         "target_video_id": "29610973",
-        "size_bytes": 18560517483,
+        "size_bytes": 18600000000,
         "prepared_at": "2026-09-22T06:38:13.519506+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T07:50:06.836500+00:00",
-        "lease_expires_at": "2026-09-22T13:50:06.836500+00:00",
-        "run_id": "35699963447"
       }
     },
     "19545": {
@@ -175224,13 +175218,6 @@
     "37252": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34887730",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:10:37.817048+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34887730",
           "reason": "Request failed for https://sdilej.cz/34887730/zlata-cise-2000-1080p-h265-5.1-cz-history-drama.mkv (HTTP None)",
@@ -175243,6 +175230,13 @@
           "target_video_id": "29610978",
           "permanent": false,
           "attempted_at": "2026-09-22T06:46:21.252155+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34887730",
+          "target_video_id": "29610978",
+          "permanent": false,
+          "attempted_at": "2026-09-22T07:50:10.460181+00:00"
         }
       ],
       "last_plan": {
@@ -175253,14 +175247,8 @@
       "previous_target_id": "29610978",
       "prepared": {
         "target_video_id": "29610978",
-        "size_bytes": 2388585884,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-22T06:38:33.642358+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
-        "claimed_at": "2026-09-22T07:50:07.163446+00:00",
-        "lease_expires_at": "2026-09-22T13:50:07.163446+00:00",
-        "run_id": "35699963447"
       }
     },
     "14965": {
@@ -175620,6 +175608,12 @@
         "target_video_id": "29611338",
         "size_bytes": 2000921942,
         "prepared_at": "2026-09-22T06:58:11.271672+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-0",
+        "claimed_at": "2026-09-22T07:50:11.385422+00:00",
+        "lease_expires_at": "2026-09-22T13:50:11.385422+00:00",
+        "run_id": "35699963447"
       }
     },
     "30076": {
@@ -175702,16 +175696,10 @@
           "attempted_at": "2026-09-22T06:58:40.650654+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "14312099",
-        "display_name": "Texaský masakr motorovou pilou (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T07:49:18.749559+00:00"
-      },
       "previous_target_id": "29610624",
-      "prepared": {
+      "upload": {
         "target_video_id": "29610624",
-        "size_bytes": 2100000000,
-        "prepared_at": "2026-09-22T06:09:43.935739+00:00"
+        "uploaded_at": "2026-09-22T07:50:12.401867+00:00"
       }
     },
     "30746": {
@@ -175751,6 +175739,12 @@
         "target_video_id": "29610633",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-22T06:10:15.573137+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
+        "claimed_at": "2026-09-22T07:50:11.070510+00:00",
+        "lease_expires_at": "2026-09-22T13:50:11.070510+00:00",
+        "run_id": "35699963447"
       }
     },
     "31906": {
@@ -175839,6 +175833,12 @@
         "target_video_id": "29610656",
         "size_bytes": 52549511425,
         "prepared_at": "2026-09-22T06:12:18.893165+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
+        "claimed_at": "2026-09-22T07:50:11.706221+00:00",
+        "lease_expires_at": "2026-09-22T13:50:11.706221+00:00",
+        "run_id": "35699963447"
       }
     },
     "4903": {
@@ -239834,5 +239834,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T07:50:07.967586+00:00"
+  "updated_at": "2026-09-22T07:50:12.401884+00:00"
 }
