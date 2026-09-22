@@ -165420,13 +165420,6 @@
           "source_id": "34443445",
           "target_video_id": "29292898",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:57:53.669273+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34443445",
-          "target_video_id": "29292898",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:28:13.810830+00:00"
         },
         {
@@ -165435,6 +165428,13 @@
           "target_video_id": "29292898",
           "permanent": false,
           "attempted_at": "2026-09-22T02:09:53.645358+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34443445",
+          "target_video_id": "29292898",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:02:34.439580+00:00"
         }
       ],
       "last_plan": {
@@ -165447,13 +165447,7 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-11T06:22:04.212595+00:00"
       },
-      "previous_target_id": "29292898",
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
-        "claimed_at": "2026-09-22T03:02:26.241161+00:00",
-        "lease_expires_at": "2026-09-22T09:02:26.241161+00:00",
-        "run_id": "35676365152"
-      }
+      "previous_target_id": "29292898"
     },
     "8646": {
       "attempts": [
@@ -165545,16 +165539,10 @@
           "attempted_at": "2026-09-22T02:12:06.853610+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33555130",
-        "display_name": "Fantom hlubin (2005) SD CZ Dabing",
-        "planned_at": "2026-09-22T03:02:09.076483+00:00"
-      },
       "previous_target_id": "29607537",
-      "prepared": {
+      "upload": {
         "target_video_id": "29607537",
-        "size_bytes": 1202418922,
-        "prepared_at": "2026-09-22T02:10:02.989750+00:00"
+        "uploaded_at": "2026-09-22T03:02:35.868589+00:00"
       }
     },
     "35326": {
@@ -165598,6 +165586,12 @@
         "source_id": "34779586",
         "display_name": "Pole v Anglii (festivalový název) (2013) SD CZ Titulky",
         "planned_at": "2026-09-22T03:02:09.367477+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-5",
+        "claimed_at": "2026-09-22T03:02:34.744437+00:00",
+        "lease_expires_at": "2026-09-22T09:02:34.744437+00:00",
+        "run_id": "35676365152"
       }
     },
     "17018": {
@@ -165655,6 +165649,12 @@
         "source_id": "29821074",
         "display_name": "Zkus se přestěhovat (1988) SD CZ Dabing",
         "planned_at": "2026-09-22T03:02:09.660175+00:00"
+      },
+      "claim": {
+        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-4",
+        "claimed_at": "2026-09-22T03:02:35.079349+00:00",
+        "lease_expires_at": "2026-09-22T09:02:35.079349+00:00",
+        "run_id": "35676365152"
       }
     },
     "36687": {
@@ -239052,5 +239052,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:02:27.283082+00:00"
+  "updated_at": "2026-09-22T03:02:35.868607+00:00"
 }
