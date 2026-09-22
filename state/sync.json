@@ -70582,13 +70582,6 @@
           "source_id": "32491860",
           "target_video_id": "29214640",
           "permanent": false,
-          "attempted_at": "2026-09-22T02:40:14.598054+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32491860",
-          "target_video_id": "29214640",
-          "permanent": false,
           "attempted_at": "2026-09-22T03:19:30.059363+00:00"
         },
         {
@@ -70597,6 +70590,13 @@
           "target_video_id": "29214640",
           "permanent": false,
           "attempted_at": "2026-09-22T03:57:34.585158+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32491860",
+          "target_video_id": "29214640",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:08:00.319703+00:00"
         }
       ],
       "last_plan": {
@@ -70609,13 +70609,7 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-08T13:41:18.290794+00:00"
       },
-      "previous_target_id": "29214640",
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-2",
-        "claimed_at": "2026-09-22T05:07:57.165242+00:00",
-        "lease_expires_at": "2026-09-22T11:07:57.165242+00:00",
-        "run_id": "35676365152"
-      }
+      "previous_target_id": "29214640"
     },
     "11584": {
       "attempts": []
@@ -70690,16 +70684,10 @@
           "attempted_at": "2026-09-22T04:03:08.420285+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34700805",
-        "display_name": "Vlak do stanice Nebe (1972) 1080p CZ Dabing",
-        "planned_at": "2026-09-22T05:07:13.234543+00:00"
-      },
       "previous_target_id": "29608930",
-      "prepared": {
+      "upload": {
         "target_video_id": "29608930",
-        "size_bytes": 3233777049,
-        "prepared_at": "2026-09-22T03:57:38.850853+00:00"
+        "uploaded_at": "2026-09-22T05:08:01.738243+00:00"
       }
     },
     "33633": {
@@ -70907,13 +70895,6 @@
           "source_id": "34787038",
           "target_video_id": "29578819",
           "permanent": false,
-          "attempted_at": "2026-09-22T02:40:14.258490+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34787038",
-          "target_video_id": "29578819",
-          "permanent": false,
           "attempted_at": "2026-09-22T03:19:31.494348+00:00"
         },
         {
@@ -70922,6 +70903,13 @@
           "target_video_id": "29578819",
           "permanent": false,
           "attempted_at": "2026-09-22T03:59:09.660794+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34787038",
+          "target_video_id": "29578819",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:08:00.625096+00:00"
         }
       ],
       "last_plan": {
@@ -70934,12 +70922,6 @@
         "target_video_id": "29578819",
         "size_bytes": 854400000,
         "prepared_at": "2026-09-21T08:33:37.345922+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T05:07:57.472504+00:00",
-        "lease_expires_at": "2026-09-22T11:07:57.472504+00:00",
-        "run_id": "35676365152"
       }
     },
     "28122": {
@@ -71052,7 +71034,13 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-13T17:32:27.871813+00:00"
       },
-      "previous_target_id": "29354037"
+      "previous_target_id": "29354037",
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-2",
+        "claimed_at": "2026-09-22T05:08:00.925822+00:00",
+        "lease_expires_at": "2026-09-22T11:08:00.925822+00:00",
+        "run_id": "35676365152"
+      }
     },
     "13285": {
       "attempts": []
@@ -71209,7 +71197,13 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-11T15:01:59.209128+00:00"
       },
-      "previous_target_id": "29302307"
+      "previous_target_id": "29302307",
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
+        "claimed_at": "2026-09-22T05:08:01.268129+00:00",
+        "lease_expires_at": "2026-09-22T11:08:01.268129+00:00",
+        "run_id": "35676365152"
+      }
     },
     "11675": {
       "attempts": [
@@ -239442,5 +239436,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:07:57.783623+00:00"
+  "updated_at": "2026-09-22T05:08:01.738260+00:00"
 }
