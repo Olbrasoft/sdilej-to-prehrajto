@@ -172924,13 +172924,6 @@
           "permanent": false,
           "source_id": "32144266",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:09.370604+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32144266",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:30.422938+00:00"
         },
         {
@@ -172939,18 +172932,19 @@
           "reason": "Request failed for https://sdilej.cz/32144266/the-rule-of-jenny-pen-2025-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T04:30:39.308725+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32144266",
+          "target_video_id": "29610244",
+          "permanent": false,
+          "attempted_at": "2026-09-22T05:43:25.954569+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32144266",
         "display_name": "The Rule of Jenny Pen (2025) 1080p CZ Titulky",
         "planned_at": "2026-09-22T05:38:25.822368+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
-        "claimed_at": "2026-09-22T05:39:00.848184+00:00",
-        "lease_expires_at": "2026-09-22T11:39:00.848184+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29610244",
       "prepared": {
@@ -239653,5 +239647,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T05:42:16.376922+00:00"
+  "updated_at": "2026-09-22T05:43:25.954585+00:00"
 }
