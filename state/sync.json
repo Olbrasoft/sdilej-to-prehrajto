@@ -174266,13 +174266,6 @@
           "permanent": false,
           "source_id": "30324357",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:42:26.946436+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30324357",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:42:55.413786+00:00"
         },
         {
@@ -174281,18 +174274,19 @@
           "reason": "Source detail has no authenticated download link; source_id=30324357",
           "permanent": false,
           "attempted_at": "2026-09-22T05:42:04.976337+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30324357",
+          "reason": "Request failed for https://sdilej.cz/30324357/smaragdovo-zelena-zelena-jako-smaragd-smaragdgrun.de.cz.sk.2016.1080p.blu-ray.avc.dts-hd.ma.5.1-gmb.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T06:37:50.912605+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30324357",
         "display_name": "Zelená jako smaragd (2016) 720p CZ Dabing",
         "planned_at": "2026-09-22T06:35:26.232190+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-5",
-        "claimed_at": "2026-09-22T06:37:04.387331+00:00",
-        "lease_expires_at": "2026-09-22T12:37:04.387331+00:00",
-        "run_id": "35676365152"
       }
     },
     "5348": {
@@ -174549,6 +174543,12 @@
         "target_video_id": "29610346",
         "size_bytes": 4636169741,
         "prepared_at": "2026-09-22T05:45:59.734072+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
+        "claimed_at": "2026-09-22T06:37:50.571706+00:00",
+        "lease_expires_at": "2026-09-22T12:37:50.571706+00:00",
+        "run_id": "35676365152"
       }
     },
     "14509": {
@@ -174585,6 +174585,12 @@
         "target_video_id": "29610349",
         "size_bytes": 5374092730,
         "prepared_at": "2026-09-22T05:46:12.485955+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-4",
+        "claimed_at": "2026-09-22T06:37:50.242922+00:00",
+        "lease_expires_at": "2026-09-22T12:37:50.242922+00:00",
+        "run_id": "35676365152"
       }
     },
     "10243": {
@@ -239699,5 +239705,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T06:37:47.900564+00:00"
+  "updated_at": "2026-09-22T06:37:50.912626+00:00"
 }
