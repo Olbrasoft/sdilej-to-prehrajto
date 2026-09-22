@@ -172525,13 +172525,6 @@
           "permanent": false,
           "source_id": "22221242",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:40:43.225339+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22221242",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:41:24.889667+00:00"
         },
         {
@@ -172540,18 +172533,19 @@
           "source_id": "22221242",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:41:48.030500+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22221242",
+          "target_video_id": "29609275",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:31:14.061700+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22221242",
         "display_name": "Centauro (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-22T04:12:21.932316+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-2",
-        "claimed_at": "2026-09-22T04:27:20.149092+00:00",
-        "lease_expires_at": "2026-09-22T10:27:20.149092+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29609275",
       "prepared": {
@@ -239307,5 +239301,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:30:56.103626+00:00"
+  "updated_at": "2026-09-22T04:31:14.061716+00:00"
 }
