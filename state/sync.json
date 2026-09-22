@@ -169846,13 +169846,6 @@
           "permanent": false,
           "source_id": "14431942",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:09:15.426225+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14431942",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:09:45.223057+00:00"
         },
         {
@@ -169861,18 +169854,19 @@
           "source_id": "14431942",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:53.154629+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14431942",
+          "reason": "Request failed for https://sdilej.cz/14431942/homeboy-czdabing-1988-drama.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:22:33.138022+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14431942",
         "display_name": "Homeboy (1988) SD CZ Dabing",
         "planned_at": "2026-09-22T03:21:18.291523+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-1",
-        "claimed_at": "2026-09-22T03:21:45.112033+00:00",
-        "lease_expires_at": "2026-09-22T09:21:45.112033+00:00",
-        "run_id": "35676365152"
       }
     },
     "29833": {
@@ -239090,5 +239084,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:21:54.721160+00:00"
+  "updated_at": "2026-09-22T03:22:33.138135+00:00"
 }
