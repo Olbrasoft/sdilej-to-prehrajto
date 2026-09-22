@@ -33923,13 +33923,6 @@
           "source_id": "33383467",
           "target_video_id": "29352239",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:17:38.156506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33383467",
-          "target_video_id": "29352239",
-          "permanent": false,
           "attempted_at": "2026-09-22T06:51:50.793480+00:00"
         },
         {
@@ -33938,6 +33931,13 @@
           "target_video_id": "29352239",
           "permanent": false,
           "attempted_at": "2026-09-22T07:39:22.743499+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33383467",
+          "target_video_id": "29352239",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:18:57.102473+00:00"
         }
       ],
       "last_plan": {
@@ -33950,13 +33950,7 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-09-13T15:37:54.387895+00:00"
       },
-      "previous_target_id": "29352239",
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-2",
-        "claimed_at": "2026-09-22T08:18:49.911254+00:00",
-        "lease_expires_at": "2026-09-22T14:18:49.911254+00:00",
-        "run_id": "35699963447"
-      }
+      "previous_target_id": "29352239"
     },
     "31733": {
       "attempts": [
@@ -179785,13 +179779,6 @@
           "permanent": false,
           "source_id": "32117516",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:46.891425+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32117516",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:02.559861+00:00"
         },
         {
@@ -179800,18 +179787,19 @@
           "source_id": "32117516",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:53.492827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32117516",
+          "target_video_id": "29612815",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:18:57.375871+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32117516",
         "display_name": "Woodwalkers: Caragova proměna (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-22T07:50:55.681310+00:00"
-      },
-      "claim": {
-        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-5",
-        "claimed_at": "2026-09-22T08:14:32.349798+00:00",
-        "lease_expires_at": "2026-09-22T14:14:32.349798+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29612815",
       "prepared": {
@@ -239991,5 +239979,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:18:50.463244+00:00"
+  "updated_at": "2026-09-22T08:18:57.375887+00:00"
 }
