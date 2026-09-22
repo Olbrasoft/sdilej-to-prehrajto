@@ -177847,13 +177847,6 @@
           "permanent": false,
           "source_id": "34698629",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:55:48.591981+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34698629",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:56:24.513731+00:00"
         },
         {
@@ -177862,18 +177855,19 @@
           "reason": "Request failed for https://sdilej.cz/34698629/svatba-pod-vlivem-2015-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-22T07:30:59.090160+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34698629",
+          "target_video_id": "29613367",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:41:52.072874+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34698629",
         "display_name": "Svatba pod vlivem (2015) SD CZ Dabing",
         "planned_at": "2026-09-22T08:39:29.628058+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-4",
-        "claimed_at": "2026-09-22T08:40:18.572291+00:00",
-        "lease_expires_at": "2026-09-22T14:40:18.572291+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613367",
       "prepared": {
@@ -239902,5 +239896,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:40:53.004449+00:00"
+  "updated_at": "2026-09-22T08:41:52.072891+00:00"
 }
