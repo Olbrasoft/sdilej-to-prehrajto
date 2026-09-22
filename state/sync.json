@@ -41548,13 +41548,6 @@
           "source_id": "34852546",
           "target_video_id": "29263627",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:52:39.344177+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34852546",
-          "target_video_id": "29263627",
-          "permanent": false,
           "attempted_at": "2026-09-22T07:39:52.530144+00:00"
         },
         {
@@ -41563,6 +41556,13 @@
           "target_video_id": "29263627",
           "permanent": false,
           "attempted_at": "2026-09-22T08:19:27.120431+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34852546",
+          "target_video_id": "29263627",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:37.859465+00:00"
         }
       ],
       "last_plan": {
@@ -41575,13 +41575,7 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-10T05:17:24.012120+00:00"
       },
-      "previous_target_id": "29263627",
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-0",
-        "claimed_at": "2026-09-22T08:51:34.093084+00:00",
-        "lease_expires_at": "2026-09-22T14:51:34.093084+00:00",
-        "run_id": "35699963447"
-      }
+      "previous_target_id": "29263627"
     },
     "2001": {
       "attempts": [],
@@ -41600,13 +41594,6 @@
           "source_id": "28778728",
           "target_video_id": "29347958",
           "permanent": false,
-          "attempted_at": "2026-09-22T06:52:41.491218+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28778728",
-          "target_video_id": "29347958",
-          "permanent": false,
           "attempted_at": "2026-09-22T07:39:53.253421+00:00"
         },
         {
@@ -41615,6 +41602,13 @@
           "target_video_id": "29347958",
           "permanent": false,
           "attempted_at": "2026-09-22T08:19:28.216786+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28778728",
+          "target_video_id": "29347958",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:39.202555+00:00"
         }
       ],
       "last_plan": {
@@ -42051,7 +42045,13 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-06T23:35:21.082230+00:00"
       },
-      "previous_target_id": "29173920"
+      "previous_target_id": "29173920",
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-4",
+        "claimed_at": "2026-09-22T08:51:38.528627+00:00",
+        "lease_expires_at": "2026-09-22T14:51:38.528627+00:00",
+        "run_id": "35699963447"
+      }
     },
     "27248": {
       "attempts": []
@@ -42421,7 +42421,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-06T23:37:43.994455+00:00"
       },
-      "previous_target_id": "29173980"
+      "previous_target_id": "29173980",
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-1",
+        "claimed_at": "2026-09-22T08:51:38.188012+00:00",
+        "lease_expires_at": "2026-09-22T14:51:38.188012+00:00",
+        "run_id": "35699963447"
+      }
     },
     "2112": {
       "attempts": []
@@ -42463,7 +42469,13 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-06T23:53:09.984429+00:00"
       },
-      "previous_target_id": "29174349"
+      "previous_target_id": "29174349",
+      "claim": {
+        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-0",
+        "claimed_at": "2026-09-22T08:51:38.799658+00:00",
+        "lease_expires_at": "2026-09-22T14:51:38.799658+00:00",
+        "run_id": "35699963447"
+      }
     },
     "34330": {
       "attempts": [],
@@ -179819,13 +179831,6 @@
           "permanent": false,
           "source_id": "26220385",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:55:49.549764+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26220385",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:57:03.073969+00:00"
         },
         {
@@ -179834,18 +179839,19 @@
           "source_id": "26220385",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:57:57.472355+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26220385",
+          "target_video_id": "29613473",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:51:39.520214+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26220385",
         "display_name": "Boží pokušení (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-22T08:39:35.641998+00:00"
-      },
-      "claim": {
-        "worker_id": "33e33cfeb7314a04acac298693b2c1d7-shard-3",
-        "claimed_at": "2026-09-22T08:44:56.798580+00:00",
-        "lease_expires_at": "2026-09-22T14:44:56.798580+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29613473",
       "prepared": {
@@ -239884,5 +239890,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:51:35.361756+00:00"
+  "updated_at": "2026-09-22T08:51:39.520232+00:00"
 }
