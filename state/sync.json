@@ -172041,13 +172041,6 @@
           "permanent": false,
           "source_id": "10394423",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:40:34.912252+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "10394423",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:41:13.539147+00:00"
         },
         {
@@ -172056,18 +172049,19 @@
           "source_id": "10394423",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:41:43.037179+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "10394423",
+          "reason": "Request failed for https://sdilej.cz/10394423/klauni-zabijaci-killer-klowns-from-outer-space-1988-720p-cz-dabing-horor-komedie.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-22T04:20:48.455921+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10394423",
         "display_name": "Klauni zabijáci (1988) 720p CZ Dabing",
         "planned_at": "2026-09-22T04:12:18.342520+00:00"
-      },
-      "claim": {
-        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-0",
-        "claimed_at": "2026-09-22T04:20:02.403788+00:00",
-        "lease_expires_at": "2026-09-22T10:20:02.403788+00:00",
-        "run_id": "35676365152"
       }
     },
     "13708": {
@@ -172150,6 +172144,12 @@
         "source_id": "34705684",
         "display_name": "Tygří spáry 4 (1999) SD CZ Dabing",
         "planned_at": "2026-09-22T04:12:19.046319+00:00"
+      },
+      "claim": {
+        "worker_id": "53c3e407aae24b1dbe5a296ef2c60897-shard-3",
+        "claimed_at": "2026-09-22T04:20:41.681228+00:00",
+        "lease_expires_at": "2026-09-22T10:20:41.681228+00:00",
+        "run_id": "35676365152"
       }
     },
     "5355": {
@@ -239235,5 +239235,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T04:20:35.557541+00:00"
+  "updated_at": "2026-09-22T04:20:48.455938+00:00"
 }
