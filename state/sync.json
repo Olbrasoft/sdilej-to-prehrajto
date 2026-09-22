@@ -180804,13 +180804,6 @@
           "permanent": false,
           "source_id": "11243558",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:08.026278+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11243558",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:58:45.026354+00:00"
         },
         {
@@ -180819,18 +180812,19 @@
           "source_id": "11243558",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:59:17.220237+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11243558",
+          "target_video_id": "29614071",
+          "permanent": false,
+          "attempted_at": "2026-09-22T09:20:24.432122+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11243558",
         "display_name": "Okamžitá smrt (2017) SD CZ Titulky",
         "planned_at": "2026-09-22T09:10:59.320166+00:00"
-      },
-      "claim": {
-        "worker_id": "731a3573e6e14b6abe429cb736d02136-shard-2",
-        "claimed_at": "2026-09-22T09:19:27.340712+00:00",
-        "lease_expires_at": "2026-09-22T15:19:27.340712+00:00",
-        "run_id": "35699963447"
       },
       "previous_target_id": "29614071",
       "prepared": {
@@ -239919,5 +239913,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T09:19:45.080986+00:00"
+  "updated_at": "2026-09-22T09:20:24.432138+00:00"
 }
