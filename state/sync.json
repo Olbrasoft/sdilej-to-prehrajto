@@ -177029,13 +177029,6 @@
           "permanent": false,
           "source_id": "11214567",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:38.651108+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11214567",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:12:12.934182+00:00"
         },
         {
@@ -177044,6 +177037,13 @@
           "target_video_id": "29611753",
           "permanent": false,
           "attempted_at": "2026-09-22T07:23:05.467596+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11214567",
+          "target_video_id": "29611753",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:30:18.184683+00:00"
         }
       ],
       "last_plan": {
@@ -177054,19 +177054,12 @@
       "previous_target_id": "29611753",
       "prepared": {
         "target_video_id": "29611753",
-        "size_bytes": 2510554232,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-22T07:16:56.632100+00:00"
       }
     },
     "25568": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34897987",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:10:38.285463+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -177080,6 +177073,13 @@
           "target_video_id": "29611760",
           "permanent": false,
           "attempted_at": "2026-09-22T07:23:26.770769+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34897987",
+          "target_video_id": "29611760",
+          "permanent": false,
+          "attempted_at": "2026-09-22T08:30:19.717927+00:00"
         }
       ],
       "last_plan": {
@@ -177090,7 +177090,7 @@
       "previous_target_id": "29611760",
       "prepared": {
         "target_video_id": "29611760",
-        "size_bytes": 2113916396,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-22T07:17:23.010543+00:00"
       }
     },
@@ -177125,6 +177125,18 @@
         "source_id": "25844989",
         "display_name": "Znamení smrti (2008) SD CZ Dabing",
         "planned_at": "2026-09-22T08:26:28.716607+00:00"
+      },
+      "claim": {
+        "worker_id": "9eeafbe68b7444fc83169f8932d719dc-shard-1",
+        "claimed_at": "2026-09-22T08:30:19.963626+00:00",
+        "lease_expires_at": "2026-09-22T14:30:19.963626+00:00",
+        "run_id": "35699963447"
+      },
+      "previous_target_id": "29613128",
+      "prepared": {
+        "target_video_id": "29613128",
+        "size_bytes": 920840524,
+        "prepared_at": "2026-09-22T08:30:23.362171+00:00"
       }
     },
     "26394": {
@@ -239926,5 +239938,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T08:30:14.372806+00:00"
+  "updated_at": "2026-09-22T08:30:23.362186+00:00"
 }
