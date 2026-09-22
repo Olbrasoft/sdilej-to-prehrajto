@@ -169524,13 +169524,6 @@
           "permanent": false,
           "source_id": "31004451",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:09:08.965626+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31004451",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:09:42.425534+00:00"
         },
         {
@@ -169539,18 +169532,19 @@
           "source_id": "31004451",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:09:50.640289+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31004451",
+          "target_video_id": "29608313",
+          "permanent": false,
+          "attempted_at": "2026-09-22T03:12:02.645690+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31004451",
         "display_name": "Barbie a dokonalé Vánoce (2011) SD CZ Dabing",
         "planned_at": "2026-09-22T03:02:19.721959+00:00"
-      },
-      "claim": {
-        "worker_id": "389b58cbe8e943efb6f9eafb6f7e25a9-shard-2",
-        "claimed_at": "2026-09-22T03:11:00.181455+00:00",
-        "lease_expires_at": "2026-09-22T09:11:00.181455+00:00",
-        "run_id": "35676365152"
       },
       "previous_target_id": "29608313",
       "prepared": {
@@ -239091,5 +239085,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-22T03:11:18.768337+00:00"
+  "updated_at": "2026-09-22T03:12:02.645707+00:00"
 }
