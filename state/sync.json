@@ -208158,13 +208158,6 @@
           "permanent": false,
           "source_id": "23019950",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:04:06.106282+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23019950",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:04:23.034562+00:00"
         },
         {
@@ -208173,18 +208166,19 @@
           "source_id": "23019950",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:04:34.712337+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "23019950",
+          "reason": "Request failed for https://sdilej.cz/23019950/domaci-vezeni-1996-komedie-rodinny-cz-dab.-fullhd-1080p-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:09:04.815158+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23019950",
         "display_name": "Domácí vězení (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-23T20:22:41.149946+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-4",
-        "claimed_at": "2026-09-23T21:08:18.682519+00:00",
-        "lease_expires_at": "2026-09-24T03:08:18.682519+00:00",
-        "run_id": "35903170689"
       }
     },
     "24135": {
@@ -249762,5 +249756,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T21:08:57.410984+00:00"
+  "updated_at": "2026-09-23T21:09:04.815174+00:00"
 }
