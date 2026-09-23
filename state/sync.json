@@ -190136,13 +190136,6 @@
           "permanent": false,
           "source_id": "32353726",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:09.940439+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32353726",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:32.291746+00:00"
         },
         {
@@ -190151,18 +190144,19 @@
           "source_id": "32353726",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:17.965656+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32353726",
+          "target_video_id": "29634350",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:32:32.343357+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32353726",
         "display_name": "Zabitý večer (2025) 4K CZ Dabing",
         "planned_at": "2026-09-23T04:31:00.213720+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T05:08:36.742772+00:00",
-        "lease_expires_at": "2026-09-23T11:08:36.742772+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29634350",
       "prepared": {
@@ -244699,5 +244693,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:31:49.272284+00:00"
+  "updated_at": "2026-09-23T05:32:32.343372+00:00"
 }
