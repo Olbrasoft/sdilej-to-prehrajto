@@ -189808,13 +189808,6 @@
           "permanent": false,
           "source_id": "13047985",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:03.897384+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13047985",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:24.608840+00:00"
         },
         {
@@ -189823,18 +189816,19 @@
           "source_id": "13047985",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:10.972087+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13047985",
+          "target_video_id": "29634250",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:07:46.180105+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13047985",
         "display_name": "Všem klukům: P.S. Stále tě miluju (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:57.767818+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T05:00:59.194108+00:00",
-        "lease_expires_at": "2026-09-23T11:00:59.194108+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29634250",
       "prepared": {
@@ -189981,6 +189975,12 @@
         "source_id": "34879200",
         "display_name": "Rodinná loupež (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:58.818607+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T05:07:27.410693+00:00",
+        "lease_expires_at": "2026-09-23T11:07:27.410693+00:00",
+        "run_id": "35804360245"
       }
     },
     "34232": {
@@ -244651,5 +244651,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:07:20.733302+00:00"
+  "updated_at": "2026-09-23T05:07:46.180119+00:00"
 }
