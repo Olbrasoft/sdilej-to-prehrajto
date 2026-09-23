@@ -60599,13 +60599,6 @@
           "source_id": "32453575",
           "target_video_id": "29141949",
           "permanent": false,
-          "attempted_at": "2026-09-23T00:24:56.959817+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32453575",
-          "target_video_id": "29141949",
-          "permanent": false,
           "attempted_at": "2026-09-23T01:09:23.791180+00:00"
         },
         {
@@ -60614,6 +60607,13 @@
           "target_video_id": "29141949",
           "permanent": false,
           "attempted_at": "2026-09-23T01:59:10.930855+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32453575",
+          "target_video_id": "29141949",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:30:45.223121+00:00"
         }
       ],
       "last_plan": {
@@ -60626,13 +60626,7 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-05T21:01:39.932584+00:00"
       },
-      "previous_target_id": "29141949",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T02:30:38.266007+00:00",
-        "lease_expires_at": "2026-09-23T08:30:38.266007+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29141949"
     },
     "2681": {
       "attempts": [
@@ -116418,17 +116412,19 @@
       "attempts": []
     },
     "7369": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32711230",
+          "target_video_id": "29631435",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:30:45.479803+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32711230",
         "display_name": "Lichožrouti (2016) 4K CZ Dabing",
         "planned_at": "2026-09-23T02:05:28.111797+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T02:09:22.214453+00:00",
-        "lease_expires_at": "2026-09-23T08:09:22.214453+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29631435",
       "prepared": {
@@ -244007,5 +244003,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:30:39.407361+00:00"
+  "updated_at": "2026-09-23T02:30:45.479820+00:00"
 }
