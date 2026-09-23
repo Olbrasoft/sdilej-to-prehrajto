@@ -189941,13 +189941,6 @@
           "permanent": false,
           "source_id": "33881778",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:14.753243+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33881778",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:57.345779+00:00"
         },
         {
@@ -189956,6 +189949,13 @@
           "target_video_id": "29634028",
           "permanent": false,
           "attempted_at": "2026-09-23T04:55:38.062475+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33881778",
+          "target_video_id": "29634028",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:53:18.543599+00:00"
         }
       ],
       "last_plan": {
@@ -189966,7 +189966,7 @@
       "previous_target_id": "29634028",
       "prepared": {
         "target_video_id": "29634028",
-        "size_bytes": 2273104203,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-23T04:46:27.965239+00:00"
       }
     },
@@ -190022,13 +190022,6 @@
           "permanent": false,
           "source_id": "12783098",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:15.450174+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12783098",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:58.279781+00:00"
         },
         {
@@ -190037,6 +190030,13 @@
           "target_video_id": "29634038",
           "permanent": false,
           "attempted_at": "2026-09-23T05:00:42.625045+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12783098",
+          "target_video_id": "29634038",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:53:18.170708+00:00"
         }
       ],
       "last_plan": {
@@ -190047,7 +190047,7 @@
       "previous_target_id": "29634038",
       "prepared": {
         "target_video_id": "29634038",
-        "size_bytes": 3758218847,
+        "size_bytes": 3800000000,
         "prepared_at": "2026-09-23T04:47:04.506269+00:00"
       }
     },
@@ -190079,13 +190079,6 @@
           "permanent": false,
           "source_id": "29053658",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:15.975640+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29053658",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:59.286992+00:00"
         },
         {
@@ -190094,6 +190087,13 @@
           "target_video_id": "29634061",
           "permanent": false,
           "attempted_at": "2026-09-23T05:00:31.240415+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29053658",
+          "target_video_id": "29634061",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:53:20.391289+00:00"
         }
       ],
       "last_plan": {
@@ -190104,7 +190104,7 @@
       "previous_target_id": "29634061",
       "prepared": {
         "target_video_id": "29634061",
-        "size_bytes": 2422100183,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T04:48:45.981284+00:00"
       }
     },
@@ -190158,17 +190158,16 @@
         "source_id": "21473434",
         "display_name": "Vendeta (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-23T06:29:20.757439+00:00"
+      },
+      "claim": {
+        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-5",
+        "claimed_at": "2026-09-23T06:53:19.177551+00:00",
+        "lease_expires_at": "2026-09-23T12:53:19.177551+00:00",
+        "run_id": "35804360245"
       }
     },
     "6562": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21117184",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:16.716815+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -190182,6 +190181,13 @@
           "target_video_id": "29634081",
           "permanent": false,
           "attempted_at": "2026-09-23T04:57:26.448241+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21117184",
+          "target_video_id": "29634081",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:53:22.407351+00:00"
         }
       ],
       "last_plan": {
@@ -190192,7 +190198,7 @@
       "previous_target_id": "29634081",
       "prepared": {
         "target_video_id": "29634081",
-        "size_bytes": 2404518237,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T04:51:07.792784+00:00"
       }
     },
@@ -190227,6 +190233,18 @@
         "source_id": "33136608",
         "display_name": "Mikey (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-23T06:29:21.315700+00:00"
+      },
+      "claim": {
+        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-2",
+        "claimed_at": "2026-09-23T06:53:22.719189+00:00",
+        "lease_expires_at": "2026-09-23T12:53:22.719189+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29635782",
+      "prepared": {
+        "target_video_id": "29635782",
+        "size_bytes": 3606474804,
+        "prepared_at": "2026-09-23T06:53:26.815778+00:00"
       }
     },
     "6286": {
@@ -245456,5 +245474,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:53:14.454345+00:00"
+  "updated_at": "2026-09-23T06:53:26.815794+00:00"
 }
