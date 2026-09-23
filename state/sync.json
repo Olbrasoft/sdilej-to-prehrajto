@@ -105405,17 +105405,19 @@
       }
     },
     "17273": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34695812",
+          "target_video_id": "29647683",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:54:41.516391+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34695812",
         "display_name": "Cena za štěstí (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-23T14:31:23.821220+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T14:49:35.556312+00:00",
-        "lease_expires_at": "2026-09-23T20:49:35.556312+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29647683",
       "prepared": {
@@ -113994,7 +113996,13 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-13T04:24:26.168856+00:00"
       },
-      "previous_target_id": "29339141"
+      "previous_target_id": "29339141",
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
+        "claimed_at": "2026-09-23T14:54:40.857373+00:00",
+        "lease_expires_at": "2026-09-23T20:54:40.857373+00:00",
+        "run_id": "35861705510"
+      }
     },
     "14854": {
       "attempts": []
@@ -248009,5 +248017,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T14:54:38.808938+00:00"
+  "updated_at": "2026-09-23T14:54:41.516411+00:00"
 }
