@@ -204320,22 +204320,10 @@
           "attempted_at": "2026-09-23T17:01:48.806193+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "7344799",
-        "display_name": "Začít nanovo (2014) SD CZ Dabing",
-        "planned_at": "2026-09-23T18:02:36.265398+00:00"
-      },
       "previous_target_id": "29649842",
-      "prepared": {
+      "upload": {
         "target_video_id": "29649842",
-        "size_bytes": 1173790720,
-        "prepared_at": "2026-09-23T16:59:18.545564+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T18:03:00.789481+00:00",
-        "lease_expires_at": "2026-09-24T00:03:00.789481+00:00",
-        "run_id": "35861705510"
+        "uploaded_at": "2026-09-23T18:03:04.220110+00:00"
       }
     },
     "34750": {
@@ -204374,13 +204362,6 @@
           "permanent": false,
           "source_id": "27783016",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:48:46.513215+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27783016",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:49:22.083430+00:00"
         },
         {
@@ -204389,6 +204370,13 @@
           "target_video_id": "29649941",
           "permanent": false,
           "attempted_at": "2026-09-23T17:17:54.261388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27783016",
+          "target_video_id": "29649941",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:03.914185+00:00"
         }
       ],
       "last_plan": {
@@ -204399,14 +204387,8 @@
       "previous_target_id": "29649941",
       "prepared": {
         "target_video_id": "29649941",
-        "size_bytes": 5616597928,
+        "size_bytes": 5600000000,
         "prepared_at": "2026-09-23T17:05:31.796564+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T18:03:00.639347+00:00",
-        "lease_expires_at": "2026-09-24T00:03:00.639347+00:00",
-        "run_id": "35861705510"
       }
     },
     "10511": {
@@ -204414,13 +204396,6 @@
     },
     "7185": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29784742",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:48:47.615805+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -204434,6 +204409,13 @@
           "target_video_id": "29649942",
           "permanent": false,
           "attempted_at": "2026-09-23T17:10:55.281230+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29784742",
+          "target_video_id": "29649942",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:04.070289+00:00"
         }
       ],
       "last_plan": {
@@ -204444,14 +204426,8 @@
       "previous_target_id": "29649942",
       "prepared": {
         "target_video_id": "29649942",
-        "size_bytes": 2345505784,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-23T17:05:34.178096+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T18:03:00.947023+00:00",
-        "lease_expires_at": "2026-09-24T00:03:00.947023+00:00",
-        "run_id": "35861705510"
       }
     },
     "24670": {
@@ -249426,5 +249402,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T18:03:01.109877+00:00"
+  "updated_at": "2026-09-23T18:03:04.220120+00:00"
 }
