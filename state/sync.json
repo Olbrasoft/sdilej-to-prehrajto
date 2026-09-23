@@ -189650,13 +189650,6 @@
           "permanent": false,
           "source_id": "24070137",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:03.473789+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24070137",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:21.158658+00:00"
         },
         {
@@ -189665,18 +189658,19 @@
           "source_id": "24070137",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:08.068976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24070137",
+          "target_video_id": "29634194",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:08:11.506961+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24070137",
         "display_name": "Vánoce na place (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:56.706134+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T04:58:22.461236+00:00",
-        "lease_expires_at": "2026-09-23T10:58:22.461236+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29634194",
       "prepared": {
@@ -190011,6 +190005,12 @@
         "source_id": "34719293",
         "display_name": "Noc démonů 2 (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:59.169889+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
+        "claimed_at": "2026-09-23T05:07:48.443808+00:00",
+        "lease_expires_at": "2026-09-23T11:07:48.443808+00:00",
+        "run_id": "35804360245"
       }
     },
     "6257": {
@@ -244651,5 +244651,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:07:46.180119+00:00"
+  "updated_at": "2026-09-23T05:08:11.506976+00:00"
 }
