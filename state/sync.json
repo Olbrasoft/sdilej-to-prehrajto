@@ -184788,13 +184788,6 @@
     "11322": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33852436",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:59:13.463468+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33852436",
           "target_video_id": "29614047",
@@ -184807,6 +184800,13 @@
           "target_video_id": "29614047",
           "permanent": false,
           "attempted_at": "2026-09-23T02:51:59.295970+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33852436",
+          "target_video_id": "29614047",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:06.302303+00:00"
         }
       ],
       "last_plan": {
@@ -184819,12 +184819,6 @@
         "target_video_id": "29614047",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-22T09:18:22.121438+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T03:52:59.377744+00:00",
-        "lease_expires_at": "2026-09-23T09:52:59.377744+00:00",
-        "run_id": "35804360245"
       }
     },
     "25782": {
@@ -185955,13 +185949,6 @@
     "30142": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30117745",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:00:40.024610+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30117745",
           "target_video_id": "29614724",
@@ -185974,6 +185961,13 @@
           "target_video_id": "29614724",
           "permanent": false,
           "attempted_at": "2026-09-23T02:54:00.203360+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30117745",
+          "target_video_id": "29614724",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:08.691932+00:00"
         }
       ],
       "last_plan": {
@@ -186779,16 +186773,10 @@
           "attempted_at": "2026-09-23T02:57:35.679447+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34454026",
-        "display_name": "Welp (2014) SD CZ Titulky",
-        "planned_at": "2026-09-23T03:50:48.475194+00:00"
-      },
       "previous_target_id": "29632189",
-      "prepared": {
+      "upload": {
         "target_video_id": "29632189",
-        "size_bytes": 863231770,
-        "prepared_at": "2026-09-23T02:55:06.642795+00:00"
+        "uploaded_at": "2026-09-23T03:53:09.084685+00:00"
       }
     },
     "23939": {
@@ -244202,5 +244190,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:53:04.017639+00:00"
+  "updated_at": "2026-09-23T03:53:09.084708+00:00"
 }
