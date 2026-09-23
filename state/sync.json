@@ -189041,13 +189041,6 @@
           "permanent": false,
           "source_id": "33064197",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:08.564468+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33064197",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:19.034404+00:00"
         },
         {
@@ -189056,6 +189049,13 @@
           "target_video_id": "29633885",
           "permanent": false,
           "attempted_at": "2026-09-23T04:45:18.635250+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33064197",
+          "target_video_id": "29633885",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:28:57.279819+00:00"
         }
       ],
       "last_plan": {
@@ -189066,7 +189066,7 @@
       "previous_target_id": "29633885",
       "prepared": {
         "target_video_id": "29633885",
-        "size_bytes": 1978999227,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-23T04:34:37.659420+00:00"
       }
     },
@@ -189097,16 +189097,10 @@
           "attempted_at": "2026-09-23T04:39:57.831131+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "12363924",
-        "display_name": "Vrátila jsem se z hrobu (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T06:20:09.981884+00:00"
-      },
       "previous_target_id": "29633894",
-      "prepared": {
+      "upload": {
         "target_video_id": "29633894",
-        "size_bytes": 1567817556,
-        "prepared_at": "2026-09-23T04:35:34.454964+00:00"
+        "uploaded_at": "2026-09-23T06:28:59.107362+00:00"
       }
     },
     "15418": {
@@ -245190,5 +245184,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:28:49.340779+00:00"
+  "updated_at": "2026-09-23T06:28:59.107379+00:00"
 }
