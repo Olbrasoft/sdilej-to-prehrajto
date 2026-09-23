@@ -208119,13 +208119,6 @@
           "permanent": false,
           "source_id": "26851678",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:04:06.258540+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26851678",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:04:21.325262+00:00"
         },
         {
@@ -208134,18 +208127,19 @@
           "source_id": "26851678",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:04:32.226043+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26851678",
+          "target_video_id": "29653520",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:08:49.061837+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26851678",
         "display_name": "Pekelná maturita (2003) SD CZ Dabing",
         "planned_at": "2026-09-23T20:22:40.833751+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-0",
-        "claimed_at": "2026-09-23T21:05:58.392613+00:00",
-        "lease_expires_at": "2026-09-24T03:05:58.392613+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29653520",
       "prepared": {
@@ -208185,6 +208179,12 @@
         "source_id": "23019950",
         "display_name": "Domácí vězení (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-23T20:22:41.149946+00:00"
+      },
+      "claim": {
+        "worker_id": "64730703516542508cf790861f417e76-shard-4",
+        "claimed_at": "2026-09-23T21:08:18.682519+00:00",
+        "lease_expires_at": "2026-09-24T03:08:18.682519+00:00",
+        "run_id": "35903170689"
       }
     },
     "24135": {
@@ -249750,5 +249750,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T21:08:11.445628+00:00"
+  "updated_at": "2026-09-23T21:08:49.061852+00:00"
 }
