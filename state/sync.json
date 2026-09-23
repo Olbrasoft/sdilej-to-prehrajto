@@ -120190,13 +120190,6 @@
           "source_id": "23681455",
           "target_video_id": "29167687",
           "permanent": false,
-          "attempted_at": "2026-09-22T08:24:29.893015+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23681455",
-          "target_video_id": "29167687",
-          "permanent": false,
           "attempted_at": "2026-09-22T09:06:52.441532+00:00"
         },
         {
@@ -120205,6 +120198,13 @@
           "target_video_id": "29167687",
           "permanent": false,
           "attempted_at": "2026-09-22T09:39:28.232081+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23681455",
+          "target_video_id": "29167687",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:24:00.318550+00:00"
         }
       ],
       "last_plan": {
@@ -120289,6 +120289,18 @@
         "source_id": "35001076",
         "display_name": "Oklamaná paměť (2020) SD CZ Dabing",
         "planned_at": "2026-09-23T02:05:36.534823+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T02:23:58.119655+00:00",
+        "lease_expires_at": "2026-09-23T08:23:58.119655+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29631623",
+      "prepared": {
+        "target_video_id": "29631623",
+        "size_bytes": 852050977,
+        "prepared_at": "2026-09-23T02:24:01.947926+00:00"
       }
     },
     "26457": {
@@ -120398,7 +120410,13 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-07T10:56:24.066699+00:00"
       },
-      "previous_target_id": "29183602"
+      "previous_target_id": "29183602",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
+        "claimed_at": "2026-09-23T02:24:00.703639+00:00",
+        "lease_expires_at": "2026-09-23T08:24:00.703639+00:00",
+        "run_id": "35804360245"
+      }
     },
     "36999": {
       "attempts": []
@@ -243967,5 +243985,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:23:55.713209+00:00"
+  "updated_at": "2026-09-23T02:24:01.947943+00:00"
 }
