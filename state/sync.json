@@ -208843,13 +208843,6 @@
           "permanent": false,
           "source_id": "34904138",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:07:04.048707+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34904138",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:07:22.589708+00:00"
         },
         {
@@ -208858,6 +208851,13 @@
           "target_video_id": "29654246",
           "permanent": false,
           "attempted_at": "2026-09-23T21:55:49.385223+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34904138",
+          "target_video_id": "29654246",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:31:36.751442+00:00"
         }
       ],
       "last_plan": {
@@ -208868,14 +208868,8 @@
       "previous_target_id": "29654246",
       "prepared": {
         "target_video_id": "29654246",
-        "size_bytes": 1752546417,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T21:51:15.838172+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-3",
-        "claimed_at": "2026-09-23T22:31:33.102448+00:00",
-        "lease_expires_at": "2026-09-24T04:31:33.102448+00:00",
-        "run_id": "35903170689"
       }
     },
     "20101": {
@@ -208883,13 +208877,6 @@
     },
     "14113": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34685687",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:07:05.363905+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -208903,6 +208890,13 @@
           "target_video_id": "29654271",
           "permanent": false,
           "attempted_at": "2026-09-23T21:58:06.128367+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34685687",
+          "target_video_id": "29654271",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:31:37.979600+00:00"
         }
       ],
       "last_plan": {
@@ -208913,7 +208907,7 @@
       "previous_target_id": "29654271",
       "prepared": {
         "target_video_id": "29654271",
-        "size_bytes": 2130721554,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T21:52:25.953296+00:00"
       }
     },
@@ -208930,13 +208924,6 @@
           "permanent": false,
           "source_id": "12810208",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:07:05.966280+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12810208",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:07:23.346250+00:00"
         },
         {
@@ -208945,6 +208932,13 @@
           "target_video_id": "29654272",
           "permanent": false,
           "attempted_at": "2026-09-23T21:57:52.880149+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12810208",
+          "target_video_id": "29654272",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:31:38.397917+00:00"
         }
       ],
       "last_plan": {
@@ -208955,19 +208949,12 @@
       "previous_target_id": "29654272",
       "prepared": {
         "target_video_id": "29654272",
-        "size_bytes": 2109465277,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T21:52:28.332031+00:00"
       }
     },
     "34947": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28101476",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:07:06.232475+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -208981,6 +208968,13 @@
           "target_video_id": "29654302",
           "permanent": false,
           "attempted_at": "2026-09-23T21:56:11.911612+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28101476",
+          "target_video_id": "29654302",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:31:39.340816+00:00"
         }
       ],
       "last_plan": {
@@ -208991,7 +208985,7 @@
       "previous_target_id": "29654302",
       "prepared": {
         "target_video_id": "29654302",
-        "size_bytes": 749466976,
+        "size_bytes": 749500000,
         "prepared_at": "2026-09-23T21:54:13.081569+00:00"
       }
     },
@@ -209219,6 +209213,12 @@
         "source_id": "34710982",
         "display_name": "Ďábelské alibi (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T22:30:50.443972+00:00"
+      },
+      "claim": {
+        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-4",
+        "claimed_at": "2026-09-23T22:31:39.049430+00:00",
+        "lease_expires_at": "2026-09-24T04:31:39.049430+00:00",
+        "run_id": "35903170689"
       }
     },
     "13654": {
@@ -209249,6 +209249,18 @@
         "source_id": "33435725",
         "display_name": "Nestanu se tvojí ženou (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-23T22:30:50.729527+00:00"
+      },
+      "claim": {
+        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-0",
+        "claimed_at": "2026-09-23T22:31:38.680292+00:00",
+        "lease_expires_at": "2026-09-24T04:31:38.680292+00:00",
+        "run_id": "35903170689"
+      },
+      "previous_target_id": "29655033",
+      "prepared": {
+        "target_video_id": "29655033",
+        "size_bytes": 2179244517,
+        "prepared_at": "2026-09-23T22:31:42.165268+00:00"
       }
     },
     "28355": {
@@ -209279,6 +209291,12 @@
         "source_id": "34710848",
         "display_name": "Mejdan jak se patří (2013) SD CZ Dabing",
         "planned_at": "2026-09-23T22:30:51.021427+00:00"
+      },
+      "claim": {
+        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-3",
+        "claimed_at": "2026-09-23T22:31:39.681998+00:00",
+        "lease_expires_at": "2026-09-24T04:31:39.681998+00:00",
+        "run_id": "35903170689"
       }
     },
     "29050": {
@@ -250147,5 +250165,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T22:31:33.808191+00:00"
+  "updated_at": "2026-09-23T22:31:42.165282+00:00"
 }
