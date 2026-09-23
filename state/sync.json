@@ -208705,13 +208705,6 @@
           "permanent": false,
           "source_id": "22098236",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:07:01.919118+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22098236",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:07:19.835077+00:00"
         },
         {
@@ -208720,18 +208713,19 @@
           "reason": "Request failed for https://sdilej.cz/22098236/the.boy.behind.the.door-2020-cztit-v-obraze.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T21:16:14.106303+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22098236",
+          "target_video_id": "29654990",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:32:34.635127+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22098236",
         "display_name": "The Boy Behind the Door (2020) SD CZ Titulky",
         "planned_at": "2026-09-23T22:28:41.430447+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-1",
-        "claimed_at": "2026-09-23T22:29:23.383535+00:00",
-        "lease_expires_at": "2026-09-24T04:29:23.383535+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29654990",
       "prepared": {
@@ -250177,5 +250171,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T22:31:50.148353+00:00"
+  "updated_at": "2026-09-23T22:32:34.635143+00:00"
 }
