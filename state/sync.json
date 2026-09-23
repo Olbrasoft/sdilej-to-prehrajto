@@ -189449,13 +189449,6 @@
           "permanent": false,
           "source_id": "33136608",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:00.361534+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33136608",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:19.239301+00:00"
         },
         {
@@ -189464,18 +189457,19 @@
           "source_id": "33136608",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:02.192874+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33136608",
+          "reason": "Request failed for https://sdilej.cz/33136608/mikey-1992-cz-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:51:49.173866+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33136608",
         "display_name": "Mikey (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:54.612384+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T04:51:03.080437+00:00",
-        "lease_expires_at": "2026-09-23T10:51:03.080437+00:00",
-        "run_id": "35804360245"
       }
     },
     "6286": {
@@ -244603,5 +244597,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:51:07.792800+00:00"
+  "updated_at": "2026-09-23T04:51:49.173885+00:00"
 }
