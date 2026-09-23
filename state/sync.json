@@ -193244,13 +193244,6 @@
     "17363": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14778018",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:26:57.065042+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "14778018",
           "target_video_id": "29637942",
@@ -193263,6 +193256,13 @@
           "target_video_id": "29637942",
           "permanent": false,
           "attempted_at": "2026-09-23T10:27:37.762113+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14778018",
+          "target_video_id": "29637942",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:20:49.692683+00:00"
         }
       ],
       "last_plan": {
@@ -193284,13 +193284,6 @@
           "permanent": false,
           "source_id": "29053583",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:37.364072+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29053583",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:58.094286+00:00"
         },
         {
@@ -193299,6 +193292,13 @@
           "target_video_id": "29637950",
           "permanent": false,
           "attempted_at": "2026-09-23T10:18:51.138819+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29053583",
+          "target_video_id": "29637950",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:20:51.221457+00:00"
         }
       ],
       "last_plan": {
@@ -193309,7 +193309,7 @@
       "previous_target_id": "29637950",
       "prepared": {
         "target_video_id": "29637950",
-        "size_bytes": 24653022680,
+        "size_bytes": 24700000000,
         "prepared_at": "2026-09-23T09:02:46.945313+00:00"
       }
     },
@@ -193449,16 +193449,10 @@
           "attempted_at": "2026-09-23T09:56:15.501419+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28506084",
-        "display_name": "Mladá dáma (2024) 4K CZ Dabing",
-        "planned_at": "2026-09-23T11:08:45.300901+00:00"
-      },
       "previous_target_id": "29638021",
-      "prepared": {
+      "upload": {
         "target_video_id": "29638021",
-        "size_bytes": 16352142024,
-        "prepared_at": "2026-09-23T09:07:10.537474+00:00"
+        "uploaded_at": "2026-09-23T11:20:52.730444+00:00"
       }
     },
     "12952": {
@@ -246155,5 +246149,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T11:20:39.841246+00:00"
+  "updated_at": "2026-09-23T11:20:52.730460+00:00"
 }
