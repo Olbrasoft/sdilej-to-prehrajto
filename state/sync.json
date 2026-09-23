@@ -199554,13 +199554,6 @@
           "permanent": false,
           "source_id": "34666506",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:07:33.646698+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34666506",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:24:12.901536+00:00"
         },
         {
@@ -199569,18 +199562,19 @@
           "source_id": "34666506",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:29.188052+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34666506",
+          "target_video_id": "29647047",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:20:21.087819+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34666506",
         "display_name": "Hot Milk (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-23T13:31:42.715799+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
-        "claimed_at": "2026-09-23T14:13:44.218835+00:00",
-        "lease_expires_at": "2026-09-23T20:13:44.218835+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29647047",
       "prepared": {
@@ -247470,5 +247464,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T14:20:16.503542+00:00"
+  "updated_at": "2026-09-23T14:20:21.087834+00:00"
 }
