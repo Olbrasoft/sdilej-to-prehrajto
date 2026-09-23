@@ -198652,13 +198652,6 @@
     "26776": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33604215",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:28:29.336262+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33604215",
           "target_video_id": "29644155",
@@ -198671,6 +198664,13 @@
           "target_video_id": "29644155",
           "permanent": false,
           "attempted_at": "2026-09-23T15:05:39.953543+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33604215",
+          "target_video_id": "29644155",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:42:11.274124+00:00"
         }
       ],
       "last_plan": {
@@ -198683,12 +198683,6 @@
         "target_video_id": "29644155",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T13:00:38.080358+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
-        "claimed_at": "2026-09-23T16:42:08.046980+00:00",
-        "lease_expires_at": "2026-09-23T22:42:08.046980+00:00",
-        "run_id": "35861705510"
       }
     },
     "23826": {
@@ -198715,16 +198709,10 @@
           "attempted_at": "2026-09-23T15:05:41.384149+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34704927",
-        "display_name": "Dopisy od vraha (1998) SD CZ Dabing",
-        "planned_at": "2026-09-23T16:41:30.603563+00:00"
-      },
       "previous_target_id": "29644215",
-      "prepared": {
+      "upload": {
         "target_video_id": "29644215",
-        "size_bytes": 1200000000,
-        "prepared_at": "2026-09-23T13:01:15.099370+00:00"
+        "uploaded_at": "2026-09-23T16:42:12.056430+00:00"
       }
     },
     "9678": {
@@ -198732,13 +198720,6 @@
     },
     "11629": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27461666",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:28:31.356203+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "27461666",
@@ -198752,6 +198733,13 @@
           "target_video_id": "29644304",
           "permanent": false,
           "attempted_at": "2026-09-23T15:05:41.777384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27461666",
+          "target_video_id": "29644304",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:42:10.813334+00:00"
         }
       ],
       "last_plan": {
@@ -198764,12 +198752,6 @@
         "target_video_id": "29644304",
         "size_bytes": 1300000000,
         "prepared_at": "2026-09-23T13:02:08.539283+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T16:42:08.207574+00:00",
-        "lease_expires_at": "2026-09-23T22:42:08.207574+00:00",
-        "run_id": "35861705510"
       }
     },
     "7903": {
@@ -198806,6 +198788,12 @@
         "target_video_id": "29646385",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T13:29:47.504608+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
+        "claimed_at": "2026-09-23T16:42:10.653168+00:00",
+        "lease_expires_at": "2026-09-23T22:42:10.653168+00:00",
+        "run_id": "35861705510"
       }
     },
     "14232": {
@@ -198845,6 +198833,12 @@
         "target_video_id": "29646422",
         "size_bytes": 888100000,
         "prepared_at": "2026-09-23T13:32:54.689106+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
+        "claimed_at": "2026-09-23T16:42:10.972679+00:00",
+        "lease_expires_at": "2026-09-23T22:42:10.972679+00:00",
+        "run_id": "35861705510"
       }
     },
     "16979": {
@@ -198919,7 +198913,7 @@
       "last_plan": {
         "source_id": "9530991",
         "display_name": "Nepoužitelní (2012) SD CZ Titulky",
-        "planned_at": "2026-09-23T15:05:25.272999+00:00"
+        "planned_at": "2026-09-23T16:42:11.714154+00:00"
       },
       "previous_target_id": "29646431",
       "prepared": {
@@ -198965,7 +198959,7 @@
       "last_plan": {
         "source_id": "11234215",
         "display_name": "Cucuy: The Boogeyman (2018) SD CZ Titulky",
-        "planned_at": "2026-09-23T15:05:25.429889+00:00"
+        "planned_at": "2026-09-23T16:42:11.886645+00:00"
       },
       "previous_target_id": "29646449",
       "prepared": {
@@ -248815,5 +248809,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:42:08.367505+00:00"
+  "updated_at": "2026-09-23T16:42:12.056443+00:00"
 }
