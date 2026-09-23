@@ -79834,17 +79834,19 @@
       }
     },
     "3094": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32044029",
+          "reason": "Request failed for https://sdilej.cz/32044029/tron-2-dedictvi-tron-legacy-3d-2010-4k-h265-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:07:59.800189+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32044029",
         "display_name": "TRON: Dědictví (2010) 4K CZ Dabing",
         "planned_at": "2026-09-23T22:06:44.977623+00:00"
-      },
-      "claim": {
-        "worker_id": "64ad1c2e8d6f42b78e0ab1c63d09d046-shard-1",
-        "claimed_at": "2026-09-23T22:07:11.319878+00:00",
-        "lease_expires_at": "2026-09-24T04:07:11.319878+00:00",
-        "run_id": "35903170689"
       }
     },
     "2992": {
@@ -250041,5 +250043,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T22:07:23.872742+00:00"
+  "updated_at": "2026-09-23T22:07:59.800207+00:00"
 }
