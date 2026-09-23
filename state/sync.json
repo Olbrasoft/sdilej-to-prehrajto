@@ -196182,6 +196182,12 @@
         "target_video_id": "29638385",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T09:25:01.788665+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
+        "claimed_at": "2026-09-23T17:15:39.244976+00:00",
+        "lease_expires_at": "2026-09-23T23:15:39.244976+00:00",
+        "run_id": "35861705510"
       }
     },
     "25365": {
@@ -204399,13 +204405,6 @@
           "permanent": false,
           "source_id": "34681521",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:36:30.316481+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34681521",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:52:56.772756+00:00"
         },
         {
@@ -204414,18 +204413,19 @@
           "source_id": "34681521",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:56.072920+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34681521",
+          "target_video_id": "29649954",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:15:39.406107+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34681521",
         "display_name": "Viktor Frankenstein (2015) 4K CZ Dabing",
         "planned_at": "2026-09-23T17:04:58.048163+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T17:06:19.198442+00:00",
-        "lease_expires_at": "2026-09-23T23:06:19.198442+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29649954",
       "prepared": {
@@ -249112,5 +249112,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T17:15:33.566926+00:00"
+  "updated_at": "2026-09-23T17:15:39.406131+00:00"
 }
