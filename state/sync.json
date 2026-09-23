@@ -105124,17 +105124,19 @@
       "attempts": []
     },
     "34753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34788443",
+          "reason": "Request failed for https://sdilej.cz/34788443/kazdy-den-odvahu-1965-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:03:41.611412+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788443",
         "display_name": "Každý den odvahu (1965) 1080p CZ Dabing",
         "planned_at": "2026-09-23T02:02:08.952922+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T02:02:54.977843+00:00",
-        "lease_expires_at": "2026-09-23T08:02:54.977843+00:00",
-        "run_id": "35804360245"
       }
     },
     "4125": {
@@ -243602,5 +243604,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:03:39.371603+00:00"
+  "updated_at": "2026-09-23T02:03:41.611426+00:00"
 }
