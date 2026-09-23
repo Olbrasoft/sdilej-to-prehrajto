@@ -125445,7 +125445,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630"
+      "previous_target_id": "29220630",
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
+        "claimed_at": "2026-09-23T18:03:28.145989+00:00",
+        "lease_expires_at": "2026-09-24T00:03:28.145989+00:00",
+        "run_id": "35861705510"
+      }
     },
     "7973": {
       "attempts": []
@@ -204925,13 +204931,6 @@
           "permanent": false,
           "source_id": "33725605",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:00.703611+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33725605",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:00.518751+00:00"
         },
         {
@@ -204940,6 +204939,13 @@
           "target_video_id": "29650106",
           "permanent": false,
           "attempted_at": "2026-09-23T17:25:19.701106+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33725605",
+          "target_video_id": "29650106",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:21.092487+00:00"
         }
       ],
       "last_plan": {
@@ -204950,14 +204956,8 @@
       "previous_target_id": "29650106",
       "prepared": {
         "target_video_id": "29650106",
-        "size_bytes": 2748711380,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-23T17:18:07.039003+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T18:03:18.152145+00:00",
-        "lease_expires_at": "2026-09-24T00:03:18.152145+00:00",
-        "run_id": "35861705510"
       }
     },
     "6302": {
@@ -204992,13 +204992,6 @@
           "permanent": false,
           "source_id": "27595502",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:01.302024+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27595502",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:00.282823+00:00"
         },
         {
@@ -205007,6 +205000,13 @@
           "target_video_id": "29650161",
           "permanent": false,
           "attempted_at": "2026-09-23T17:29:32.012510+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27595502",
+          "target_video_id": "29650161",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:20.939378+00:00"
         }
       ],
       "last_plan": {
@@ -205017,14 +205017,8 @@
       "previous_target_id": "29650161",
       "prepared": {
         "target_video_id": "29650161",
-        "size_bytes": 2338702612,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-23T17:22:00.723912+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T18:03:17.999515+00:00",
-        "lease_expires_at": "2026-09-24T00:03:17.999515+00:00",
-        "run_id": "35861705510"
       }
     },
     "18652": {
@@ -205040,13 +205034,6 @@
           "permanent": false,
           "source_id": "34721159",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:02.490678+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34721159",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:01.096165+00:00"
         },
         {
@@ -205055,6 +205042,13 @@
           "target_video_id": "29650173",
           "permanent": false,
           "attempted_at": "2026-09-23T17:31:55.615927+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34721159",
+          "target_video_id": "29650173",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:31.276554+00:00"
         }
       ],
       "last_plan": {
@@ -205065,19 +205059,12 @@
       "previous_target_id": "29650173",
       "prepared": {
         "target_video_id": "29650173",
-        "size_bytes": 2732833760,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-23T17:22:51.600406+00:00"
       }
     },
     "35189": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21045946",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:03.504488+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -205091,6 +205078,13 @@
           "target_video_id": "29650189",
           "permanent": false,
           "attempted_at": "2026-09-23T17:28:44.577988+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21045946",
+          "target_video_id": "29650189",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:30.360206+00:00"
         }
       ],
       "last_plan": {
@@ -205101,7 +205095,7 @@
       "previous_target_id": "29650189",
       "prepared": {
         "target_video_id": "29650189",
-        "size_bytes": 1402640384,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-23T17:23:40.627820+00:00"
       }
     },
@@ -205154,13 +205148,6 @@
           "permanent": false,
           "source_id": "14708564",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:02.753237+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14708564",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:26.234249+00:00"
         },
         {
@@ -205169,6 +205156,13 @@
           "target_video_id": "29650216",
           "permanent": false,
           "attempted_at": "2026-09-23T17:29:23.750834+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14708564",
+          "target_video_id": "29650216",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:30.697828+00:00"
         }
       ],
       "last_plan": {
@@ -205179,7 +205173,7 @@
       "previous_target_id": "29650216",
       "prepared": {
         "target_video_id": "29650216",
-        "size_bytes": 1024350796,
+        "size_bytes": 1000000000,
         "prepared_at": "2026-09-23T17:25:25.741405+00:00"
       }
     },
@@ -205685,7 +205679,13 @@
       "last_plan": {
         "source_id": "27897996",
         "display_name": "Triky s trpaslíky (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:58:08.705284+00:00"
+        "planned_at": "2026-09-23T18:03:21.242476+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
+        "claimed_at": "2026-09-23T18:03:28.447370+00:00",
+        "lease_expires_at": "2026-09-24T00:03:28.447370+00:00",
+        "run_id": "35861705510"
       }
     },
     "32437": {
@@ -205707,13 +205707,6 @@
           "permanent": false,
           "source_id": "34687463",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:37:39.376452+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34687463",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:53:51.545449+00:00"
         },
         {
@@ -205722,12 +205715,19 @@
           "source_id": "34687463",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:31.915353+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34687463",
+          "reason": "Request failed for https://sdilej.cz/34687463/madea-se-vraci-2022-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:31.676484+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34687463",
         "display_name": "Madea se vrací (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:58:08.944755+00:00"
+        "planned_at": "2026-09-23T18:03:21.392224+00:00"
       }
     },
     "6308": {
@@ -205808,7 +205808,13 @@
       "last_plan": {
         "source_id": "34668359",
         "display_name": "Heist 88 (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:58:09.181567+00:00"
+        "planned_at": "2026-09-23T18:03:21.542305+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
+        "claimed_at": "2026-09-23T18:03:31.090420+00:00",
+        "lease_expires_at": "2026-09-24T00:03:31.090420+00:00",
+        "run_id": "35861705510"
       }
     },
     "6145": {
@@ -205868,7 +205874,13 @@
       "last_plan": {
         "source_id": "34148356",
         "display_name": "Moderní Popelka (2004) 720p CZ Dabing",
-        "planned_at": "2026-09-20T11:58:09.417189+00:00"
+        "planned_at": "2026-09-23T18:03:21.692286+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
+        "claimed_at": "2026-09-23T18:03:31.457117+00:00",
+        "lease_expires_at": "2026-09-24T00:03:31.457117+00:00",
+        "run_id": "35861705510"
       }
     },
     "24057": {
@@ -205905,7 +205917,7 @@
       "last_plan": {
         "source_id": "14005093",
         "display_name": "Projekt Power (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:58:09.654588+00:00"
+        "planned_at": "2026-09-23T18:03:21.833137+00:00"
       }
     },
     "10488": {
@@ -205958,7 +205970,7 @@
       "last_plan": {
         "source_id": "19610060",
         "display_name": "Obřad (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:58:09.890947+00:00"
+        "planned_at": "2026-09-23T18:03:21.982220+00:00"
       }
     },
     "33035": {
@@ -206001,7 +206013,7 @@
       "last_plan": {
         "source_id": "34897403",
         "display_name": "V moci snů (2000) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:18.305932+00:00"
+        "planned_at": "2026-09-23T18:03:22.133292+00:00"
       }
     },
     "23374": {
@@ -206110,7 +206122,7 @@
       "last_plan": {
         "source_id": "32756280",
         "display_name": "The Ruse (2024) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T11:58:10.128065+00:00"
+        "planned_at": "2026-09-23T18:03:22.342371+00:00"
       }
     },
     "29874": {
@@ -206140,7 +206152,7 @@
       "last_plan": {
         "source_id": "26322552",
         "display_name": "Chyba v Matrixu (2021) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T11:58:10.364920+00:00"
+        "planned_at": "2026-09-23T18:03:22.493351+00:00"
       }
     },
     "27796": {
@@ -206176,7 +206188,7 @@
       "last_plan": {
         "source_id": "16046733",
         "display_name": "Pokémon 3 (2000) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:18.571002+00:00"
+        "planned_at": "2026-09-23T18:03:22.644333+00:00"
       }
     },
     "30928": {
@@ -206238,7 +206250,7 @@
       "last_plan": {
         "source_id": "31891724",
         "display_name": "Transformers: Probuzení monster (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:02:18.841138+00:00"
+        "planned_at": "2026-09-23T18:03:22.794270+00:00"
       }
     },
     "6156": {
@@ -206307,7 +206319,7 @@
       "last_plan": {
         "source_id": "27532875",
         "display_name": "Stroj času (2002) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:19.105561+00:00"
+        "planned_at": "2026-09-23T18:03:22.934267+00:00"
       }
     },
     "24392": {
@@ -206367,7 +206379,7 @@
       "last_plan": {
         "source_id": "27624940",
         "display_name": "Nocebo (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:19.367189+00:00"
+        "planned_at": "2026-09-23T18:03:23.084409+00:00"
       }
     },
     "24533": {
@@ -206400,7 +206412,7 @@
       "last_plan": {
         "source_id": "28048847",
         "display_name": "Riskni to s Polly (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:19.628994+00:00"
+        "planned_at": "2026-09-23T18:03:23.234486+00:00"
       }
     },
     "13227": {
@@ -206430,7 +206442,7 @@
       "last_plan": {
         "source_id": "27557566",
         "display_name": "Legenda o Jiřím a drakovi (2004) SD CZ Dabing",
-        "planned_at": "2026-09-20T12:02:19.890925+00:00"
+        "planned_at": "2026-09-23T18:03:23.384980+00:00"
       }
     },
     "12559": {
@@ -206463,7 +206475,7 @@
       "last_plan": {
         "source_id": "33671033",
         "display_name": "Neuvěřitelná cesta 2: Ztraceni v San Francisku (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:20.148913+00:00"
+        "planned_at": "2026-09-23T18:03:23.534398+00:00"
       }
     },
     "6346": {
@@ -206505,7 +206517,7 @@
       "last_plan": {
         "source_id": "26443435",
         "display_name": "Přesný zásah (2008) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:20.420909+00:00"
+        "planned_at": "2026-09-23T18:03:23.682366+00:00"
       }
     },
     "6415": {
@@ -206563,7 +206575,7 @@
       "last_plan": {
         "source_id": "32138633",
         "display_name": "Venom: Poslední tanec (2024) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:29:56.310245+00:00"
+        "planned_at": "2026-09-23T18:03:23.824697+00:00"
       },
       "previous_target_id": "29535498",
       "prepared": {
@@ -206599,7 +206611,7 @@
       "last_plan": {
         "source_id": "23074697",
         "display_name": "Ďáblův advokát (1993) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:20.682599+00:00"
+        "planned_at": "2026-09-23T18:03:23.972409+00:00"
       }
     },
     "29437": {
@@ -206641,7 +206653,7 @@
       "last_plan": {
         "source_id": "23564589",
         "display_name": "Hounded (2022) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T12:02:20.942948+00:00"
+        "planned_at": "2026-09-23T18:03:24.124744+00:00"
       }
     },
     "20473": {
@@ -206677,7 +206689,7 @@
       "last_plan": {
         "source_id": "26256318",
         "display_name": "Válka Bohů (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:21.194957+00:00"
+        "planned_at": "2026-09-23T18:03:24.282458+00:00"
       }
     },
     "6403": {
@@ -206726,7 +206738,7 @@
       "last_plan": {
         "source_id": "29910183",
         "display_name": "Dokonalý džentlmen (1992) SD CZ Titulky",
-        "planned_at": "2026-09-20T12:02:21.442664+00:00"
+        "planned_at": "2026-09-23T18:03:24.434539+00:00"
       }
     },
     "14691": {
@@ -206756,7 +206768,7 @@
       "last_plan": {
         "source_id": "34771328",
         "display_name": "Alexandr a jeho opravdu hodně špatný a příšerně blbý výlet (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:21.690652+00:00"
+        "planned_at": "2026-09-23T18:03:24.584503+00:00"
       }
     },
     "13228": {
@@ -206792,7 +206804,7 @@
       "last_plan": {
         "source_id": "30638885",
         "display_name": "Svatý hříšník (2002) SD CZ Dabing",
-        "planned_at": "2026-09-20T12:02:21.953571+00:00"
+        "planned_at": "2026-09-23T18:03:24.732475+00:00"
       }
     },
     "24909": {
@@ -206825,7 +206837,7 @@
       "last_plan": {
         "source_id": "31444858",
         "display_name": "Godzilla II Král monster (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:02:22.212428+00:00"
+        "planned_at": "2026-09-23T18:03:24.882489+00:00"
       }
     },
     "6184": {
@@ -206865,7 +206877,7 @@
       "last_plan": {
         "source_id": "32789319",
         "display_name": "Kovbojové a vetřelci (2011) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:02:22.483836+00:00"
+        "planned_at": "2026-09-23T18:03:25.034644+00:00"
       }
     },
     "16879": {
@@ -206898,7 +206910,7 @@
       "last_plan": {
         "source_id": "30546302",
         "display_name": "Bitva o Saipan (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:02:22.749208+00:00"
+        "planned_at": "2026-09-23T18:03:25.182629+00:00"
       }
     },
     "6646": {
@@ -206938,7 +206950,7 @@
       "last_plan": {
         "source_id": "16446524",
         "display_name": "Bad Hair (2020) SD CZ Titulky",
-        "planned_at": "2026-09-20T12:03:06.154252+00:00"
+        "planned_at": "2026-09-23T18:03:25.325699+00:00"
       }
     },
     "20236": {
@@ -206968,7 +206980,7 @@
       "last_plan": {
         "source_id": "34871761",
         "display_name": "Bulvár (2014) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T12:03:06.433879+00:00"
+        "planned_at": "2026-09-23T18:03:25.472630+00:00"
       }
     },
     "35782": {
@@ -206998,7 +207010,7 @@
       "last_plan": {
         "source_id": "30573590",
         "display_name": "Driving Me Crazy (1991) SD CZ Titulky",
-        "planned_at": "2026-09-20T12:03:06.688377+00:00"
+        "planned_at": "2026-09-23T18:03:25.615642+00:00"
       }
     },
     "16076": {
@@ -207031,7 +207043,7 @@
       "last_plan": {
         "source_id": "34737299",
         "display_name": "Scarecrows (2017) SD CZ Titulky",
-        "planned_at": "2026-09-20T12:03:06.938864+00:00"
+        "planned_at": "2026-09-23T18:03:25.765638+00:00"
       }
     },
     "6418": {
@@ -207064,7 +207076,7 @@
       "last_plan": {
         "source_id": "21843931",
         "display_name": "Savva - Srdce bojovníka (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:07.196860+00:00"
+        "planned_at": "2026-09-23T18:03:25.912660+00:00"
       }
     },
     "31287": {
@@ -207110,7 +207122,7 @@
       "last_plan": {
         "source_id": "16468884",
         "display_name": "Přízrak zmizelé (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:07.440714+00:00"
+        "planned_at": "2026-09-23T18:03:26.062674+00:00"
       }
     },
     "6816": {
@@ -207162,7 +207174,7 @@
       "last_plan": {
         "source_id": "34662083",
         "display_name": "Návrat živé smrti III (1993) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:07.682234+00:00"
+        "planned_at": "2026-09-23T18:03:26.205749+00:00"
       }
     },
     "6398": {
@@ -207192,7 +207204,7 @@
       "last_plan": {
         "source_id": "33639332",
         "display_name": "Rychle a zběsile 2 (2003) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:03:07.932617+00:00"
+        "planned_at": "2026-09-23T18:03:26.352773+00:00"
       }
     },
     "31827": {
@@ -207225,7 +207237,7 @@
       "last_plan": {
         "source_id": "28185874",
         "display_name": "Mrtví k snídani (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:08.183958+00:00"
+        "planned_at": "2026-09-23T18:03:26.502912+00:00"
       }
     },
     "6432": {
@@ -207258,7 +207270,7 @@
       "last_plan": {
         "source_id": "27687666",
         "display_name": "Vražda za vraždu (2013) 720p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:08.429736+00:00"
+        "planned_at": "2026-09-23T18:03:26.652823+00:00"
       }
     },
     "16678": {
@@ -207291,7 +207303,7 @@
       "last_plan": {
         "source_id": "21116418",
         "display_name": "Dvě hodiny (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:08.682129+00:00"
+        "planned_at": "2026-09-23T18:03:26.805930+00:00"
       }
     },
     "22577": {
@@ -207321,7 +207333,7 @@
       "last_plan": {
         "source_id": "33746043",
         "display_name": "Stát se opicí (1981) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:08.933073+00:00"
+        "planned_at": "2026-09-23T18:03:26.955922+00:00"
       }
     },
     "14216": {
@@ -207351,7 +207363,7 @@
       "last_plan": {
         "source_id": "27343879",
         "display_name": "Final Level: Hra začíná (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:09.196020+00:00"
+        "planned_at": "2026-09-23T18:03:27.102842+00:00"
       }
     },
     "27973": {
@@ -207384,7 +207396,7 @@
       "last_plan": {
         "source_id": "34732130",
         "display_name": "Singl na vdávání (2020) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T12:03:09.445729+00:00"
+        "planned_at": "2026-09-23T18:03:27.252777+00:00"
       }
     },
     "6611": {
@@ -207420,7 +207432,7 @@
       "last_plan": {
         "source_id": "34704394",
         "display_name": "Vězeňské peklo (1993) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:09.695749+00:00"
+        "planned_at": "2026-09-23T18:03:27.395979+00:00"
       }
     },
     "20845": {
@@ -207456,7 +207468,7 @@
       "last_plan": {
         "source_id": "31891547",
         "display_name": "Transformers: Pomsta poražených (2009) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:03:09.946433+00:00"
+        "planned_at": "2026-09-23T18:03:27.546036+00:00"
       }
     },
     "32976": {
@@ -207486,7 +207498,7 @@
       "last_plan": {
         "source_id": "23911780",
         "display_name": "Mastnej škrtič (2016) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T12:03:10.191863+00:00"
+        "planned_at": "2026-09-23T18:03:27.696160+00:00"
       }
     },
     "20491": {
@@ -207516,7 +207528,7 @@
       "last_plan": {
         "source_id": "26258360",
         "display_name": "Špatný krok (2015) 720p CZ Dabing",
-        "planned_at": "2026-09-20T12:03:10.432706+00:00"
+        "planned_at": "2026-09-23T18:03:27.845939+00:00"
       }
     },
     "24747": {
@@ -207546,7 +207558,7 @@
       "last_plan": {
         "source_id": "34558813",
         "display_name": "Casper a strašidelné Vánoce (2000) SD CZ Dabing",
-        "planned_at": "2026-09-20T12:04:24.468606+00:00"
+        "planned_at": "2026-09-23T18:03:27.995857+00:00"
       }
     },
     "7202": {
@@ -249398,5 +249410,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T18:03:18.972682+00:00"
+  "updated_at": "2026-09-23T18:03:31.676505+00:00"
 }
