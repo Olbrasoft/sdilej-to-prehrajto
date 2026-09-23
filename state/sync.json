@@ -188069,13 +188069,6 @@
           "permanent": false,
           "source_id": "21123533",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:31:40.795046+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21123533",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:12.390915+00:00"
         },
         {
@@ -188084,18 +188077,19 @@
           "reason": "Request failed for https://sdilej.cz/21123533/zabak.ribit.2014.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T03:21:23.341263+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21123533",
+          "target_video_id": "29633794",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:34:25.072346+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21123533",
         "display_name": "Žabák Ribit (2014) 1080p SK Dabing",
         "planned_at": "2026-09-23T04:25:05.817732+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T04:26:07.749400+00:00",
-        "lease_expires_at": "2026-09-23T10:26:07.749400+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29633794",
       "prepared": {
@@ -188457,6 +188451,12 @@
         "source_id": "33077519",
         "display_name": "Kouzelná chůva a Velký třesk (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:47.881634+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T04:33:43.946309+00:00",
+        "lease_expires_at": "2026-09-23T10:33:43.946309+00:00",
+        "run_id": "35804360245"
       }
     },
     "15306": {
@@ -244505,5 +244505,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:33:36.518159+00:00"
+  "updated_at": "2026-09-23T04:34:25.072362+00:00"
 }
