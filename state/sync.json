@@ -76699,17 +76699,19 @@
       "attempts": []
     },
     "27031": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30230963",
+          "reason": "Request failed for https://sdilej.cz/30230963/aljona-2008-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:33:31.387091+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30230963",
         "display_name": "Aljona (2008) SD CZ Dabing",
         "planned_at": "2026-09-23T00:25:51.029696+00:00"
-      },
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-3",
-        "claimed_at": "2026-09-23T00:32:45.370464+00:00",
-        "lease_expires_at": "2026-09-23T06:32:45.370464+00:00",
-        "run_id": "35767841855"
       }
     },
     "13006": {
@@ -242196,5 +242198,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T00:33:22.645722+00:00"
+  "updated_at": "2026-09-23T00:33:31.387107+00:00"
 }
