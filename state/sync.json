@@ -101801,13 +101801,6 @@
           "source_id": "34941645",
           "target_video_id": "29221305",
           "permanent": false,
-          "attempted_at": "2026-09-22T09:35:32.661539+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34941645",
-          "target_video_id": "29221305",
-          "permanent": false,
           "attempted_at": "2026-09-23T01:45:44.239112+00:00"
         },
         {
@@ -101816,6 +101809,13 @@
           "target_video_id": "29221305",
           "permanent": false,
           "attempted_at": "2026-09-23T02:36:01.777339+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29221305",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:06:45.192847+00:00"
         }
       ],
       "last_plan": {
@@ -101828,13 +101828,7 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T18:57:54.499743+00:00"
       },
-      "previous_target_id": "29221305",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T03:06:38.755607+00:00",
-        "lease_expires_at": "2026-09-23T09:06:38.755607+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29221305"
     },
     "17488": {
       "attempts": []
@@ -116524,6 +116518,13 @@
           "target_video_id": "29631425",
           "permanent": false,
           "attempted_at": "2026-09-23T02:22:10.510135+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31679567",
+          "target_video_id": "29631425",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:06:46.569908+00:00"
         }
       ],
       "last_plan": {
@@ -116534,7 +116535,7 @@
       "previous_target_id": "29631425",
       "prepared": {
         "target_video_id": "29631425",
-        "size_bytes": 3560607058,
+        "size_bytes": 3600000000,
         "prepared_at": "2026-09-23T02:08:59.403884+00:00"
       }
     },
@@ -116561,6 +116562,13 @@
           "target_video_id": "29631435",
           "permanent": false,
           "attempted_at": "2026-09-23T02:30:45.479803+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32711230",
+          "target_video_id": "29631435",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:06:46.939369+00:00"
         }
       ],
       "last_plan": {
@@ -116571,7 +116579,7 @@
       "previous_target_id": "29631435",
       "prepared": {
         "target_video_id": "29631435",
-        "size_bytes": 6739361690,
+        "size_bytes": 6700000000,
         "prepared_at": "2026-09-23T02:09:30.173787+00:00"
       }
     },
@@ -117882,16 +117890,10 @@
           "attempted_at": "2026-09-23T02:23:49.091449+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29487283",
-        "display_name": "Nespoutaná (2023) 720p CZ Dabing",
-        "planned_at": "2026-09-23T03:06:21.197372+00:00"
-      },
       "previous_target_id": "29631475",
-      "prepared": {
+      "upload": {
         "target_video_id": "29631475",
-        "size_bytes": 3544778090,
-        "prepared_at": "2026-09-23T02:12:47.682700+00:00"
+        "uploaded_at": "2026-09-23T03:06:47.781452+00:00"
       }
     },
     "26864": {
@@ -120258,6 +120260,12 @@
         "target_video_id": "29631555",
         "size_bytes": 2154831700,
         "prepared_at": "2026-09-23T02:18:50.349494+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T03:06:45.714125+00:00",
+        "lease_expires_at": "2026-09-23T09:06:45.714125+00:00",
+        "run_id": "35804360245"
       }
     },
     "32306": {
@@ -120286,6 +120294,12 @@
         "target_video_id": "29631559",
         "size_bytes": 2257132162,
         "prepared_at": "2026-09-23T02:19:12.345070+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T03:06:47.187866+00:00",
+        "lease_expires_at": "2026-09-23T09:06:47.187866+00:00",
+        "run_id": "35804360245"
       }
     },
     "15156": {
@@ -120308,6 +120322,12 @@
         "source_id": "34651725",
         "display_name": "Slušná společnost (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:06:22.009912+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
+        "claimed_at": "2026-09-23T03:06:47.536610+00:00",
+        "lease_expires_at": "2026-09-23T09:06:47.536610+00:00",
+        "run_id": "35804360245"
       }
     },
     "27543": {
@@ -243887,5 +243907,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:06:39.323418+00:00"
+  "updated_at": "2026-09-23T03:06:47.781465+00:00"
 }
