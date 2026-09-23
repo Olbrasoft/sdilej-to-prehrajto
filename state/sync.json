@@ -189620,13 +189620,6 @@
           "permanent": false,
           "source_id": "9648850",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:02.915087+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "9648850",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:18.973765+00:00"
         },
         {
@@ -189635,18 +189628,19 @@
           "source_id": "9648850",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:07.110276+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9648850",
+          "target_video_id": "29634193",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:00:56.963749+00:00"
         }
       ],
       "last_plan": {
         "source_id": "9648850",
         "display_name": "Děsivé prozření (2009) SD CZ Dabing",
         "planned_at": "2026-09-23T04:30:56.356695+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T04:58:22.181656+00:00",
-        "lease_expires_at": "2026-09-23T10:58:22.181656+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29634193",
       "prepared": {
@@ -244645,5 +244639,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:00:51.753519+00:00"
+  "updated_at": "2026-09-23T05:00:56.963763+00:00"
 }
