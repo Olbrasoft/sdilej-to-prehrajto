@@ -189978,13 +189978,6 @@
           "permanent": false,
           "source_id": "34719293",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:06.335423+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34719293",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:29.137517+00:00"
         },
         {
@@ -189993,18 +189986,19 @@
           "source_id": "34719293",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:14.909372+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34719293",
+          "reason": "Request failed for https://sdilej.cz/34719293/noc-demonu-2-1994-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:08:34.521862+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34719293",
         "display_name": "Noc démonů 2 (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:59.169889+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T05:07:48.443808+00:00",
-        "lease_expires_at": "2026-09-23T11:07:48.443808+00:00",
-        "run_id": "35804360245"
       }
     },
     "6257": {
@@ -244669,5 +244663,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:08:22.616533+00:00"
+  "updated_at": "2026-09-23T05:08:34.521882+00:00"
 }
