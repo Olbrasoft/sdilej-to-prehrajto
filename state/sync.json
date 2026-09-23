@@ -120248,6 +120248,13 @@
           "target_video_id": "29631555",
           "permanent": false,
           "attempted_at": "2026-09-23T02:22:55.128861+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19551789",
+          "target_video_id": "29631555",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:06:49.990490+00:00"
         }
       ],
       "last_plan": {
@@ -120258,14 +120265,8 @@
       "previous_target_id": "29631555",
       "prepared": {
         "target_video_id": "29631555",
-        "size_bytes": 2154831700,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T02:18:50.349494+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T03:06:45.714125+00:00",
-        "lease_expires_at": "2026-09-23T09:06:45.714125+00:00",
-        "run_id": "35804360245"
       }
     },
     "32306": {
@@ -120284,22 +120285,10 @@
           "attempted_at": "2026-09-23T02:23:55.713194+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34694964",
-        "display_name": "Tlapkové Vánoce (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T03:06:21.745103+00:00"
-      },
       "previous_target_id": "29631559",
-      "prepared": {
+      "upload": {
         "target_video_id": "29631559",
-        "size_bytes": 2257132162,
-        "prepared_at": "2026-09-23T02:19:12.345070+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T03:06:47.187866+00:00",
-        "lease_expires_at": "2026-09-23T09:06:47.187866+00:00",
-        "run_id": "35804360245"
+        "uploaded_at": "2026-09-23T03:06:50.507505+00:00"
       }
     },
     "15156": {
@@ -120402,6 +120391,12 @@
         "target_video_id": "29631613",
         "size_bytes": 1137712998,
         "prepared_at": "2026-09-23T02:23:05.335872+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T03:06:50.251628+00:00",
+        "lease_expires_at": "2026-09-23T09:06:50.251628+00:00",
+        "run_id": "35804360245"
       }
     },
     "17257": {
@@ -243907,5 +243902,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:06:47.781465+00:00"
+  "updated_at": "2026-09-23T03:06:50.507520+00:00"
 }
