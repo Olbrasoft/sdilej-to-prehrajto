@@ -199313,13 +199313,6 @@
           "permanent": false,
           "source_id": "34965396",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:07:31.693938+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34965396",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:23:57.627877+00:00"
         },
         {
@@ -199328,18 +199321,19 @@
           "source_id": "34965396",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:26.685342+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34965396",
+          "target_video_id": "29646973",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:20:10.584404+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34965396",
         "display_name": "Xeno (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-23T13:31:41.786014+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-4",
-        "claimed_at": "2026-09-23T14:08:46.795066+00:00",
-        "lease_expires_at": "2026-09-23T20:08:46.795066+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29646973",
       "prepared": {
@@ -247464,5 +247458,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T14:20:01.587172+00:00"
+  "updated_at": "2026-09-23T14:20:10.584422+00:00"
 }
