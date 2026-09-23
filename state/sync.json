@@ -189491,13 +189491,6 @@
           "permanent": false,
           "source_id": "22954016",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:10.700426+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22954016",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:20.629294+00:00"
         },
         {
@@ -189506,6 +189499,13 @@
           "target_video_id": "29633939",
           "permanent": false,
           "attempted_at": "2026-09-23T04:45:30.644786+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22954016",
+          "target_video_id": "29633939",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:49:08.195799+00:00"
         }
       ],
       "last_plan": {
@@ -189516,7 +189516,7 @@
       "previous_target_id": "29633939",
       "prepared": {
         "target_video_id": "29633939",
-        "size_bytes": 1512988136,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-23T04:38:42.501775+00:00"
       }
     },
@@ -189539,13 +189539,6 @@
           "permanent": false,
           "source_id": "11488229",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:11.437043+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11488229",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:21.697806+00:00"
         },
         {
@@ -189554,6 +189547,13 @@
           "target_video_id": "29633940",
           "permanent": false,
           "attempted_at": "2026-09-23T04:51:00.465182+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11488229",
+          "target_video_id": "29633940",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:49:10.126419+00:00"
         }
       ],
       "last_plan": {
@@ -189564,7 +189564,7 @@
       "previous_target_id": "29633940",
       "prepared": {
         "target_video_id": "29633940",
-        "size_bytes": 2929666923,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-23T04:38:44.596162+00:00"
       }
     },
@@ -189598,16 +189598,10 @@
           "attempted_at": "2026-09-23T04:46:48.277192+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34713108",
-        "display_name": "Krvavý kámen (1988) 720p CZ Dabing",
-        "planned_at": "2026-09-23T06:29:15.367040+00:00"
-      },
       "previous_target_id": "29633956",
-      "prepared": {
+      "upload": {
         "target_video_id": "29633956",
-        "size_bytes": 2078242575,
-        "prepared_at": "2026-09-23T04:39:54.867539+00:00"
+        "uploaded_at": "2026-09-23T06:49:12.060746+00:00"
       }
     },
     "23083": {
@@ -245452,5 +245446,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:49:04.417304+00:00"
+  "updated_at": "2026-09-23T06:49:12.060762+00:00"
 }
