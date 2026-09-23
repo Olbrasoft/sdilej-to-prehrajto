@@ -189445,13 +189445,6 @@
           "permanent": false,
           "source_id": "32944492",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:11.176226+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32944492",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:19.532218+00:00"
         },
         {
@@ -189460,18 +189453,19 @@
           "reason": "Request failed for https://sdilej.cz/32944492/critters-1-1986-fhd-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T04:38:36.078218+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32944492",
+          "reason": "Request failed for https://sdilej.cz/32944492/critters-1-1986-fhd-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:49:21.473779+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32944492",
         "display_name": "Critters (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-23T06:29:14.430685+00:00"
-      },
-      "claim": {
-        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-3",
-        "claimed_at": "2026-09-23T06:48:35.314424+00:00",
-        "lease_expires_at": "2026-09-23T12:48:35.314424+00:00",
-        "run_id": "35804360245"
       }
     },
     "19454": {
@@ -189704,6 +189698,12 @@
         "source_id": "34899985",
         "display_name": "Rodina k pronájmu (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-23T06:29:18.713963+00:00"
+      },
+      "claim": {
+        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-4",
+        "claimed_at": "2026-09-23T06:49:20.127846+00:00",
+        "lease_expires_at": "2026-09-23T12:49:20.127846+00:00",
+        "run_id": "35804360245"
       }
     },
     "6080": {
@@ -245440,5 +245440,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:49:17.859187+00:00"
+  "updated_at": "2026-09-23T06:49:21.473793+00:00"
 }
