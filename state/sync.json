@@ -192117,13 +192117,6 @@
           "permanent": false,
           "source_id": "32422511",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:12:21.450629+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32422511",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:00:08.822812+00:00"
         },
         {
@@ -192132,18 +192125,19 @@
           "source_id": "32422511",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:37.319479+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32422511",
+          "target_video_id": "29637044",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:24:02.423927+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32422511",
         "display_name": "Až po uši v bublinkách (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-23T07:53:40.452199+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
-        "claimed_at": "2026-09-23T08:16:04.452200+00:00",
-        "lease_expires_at": "2026-09-23T14:16:04.452200+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29637044",
       "prepared": {
@@ -192377,6 +192371,12 @@
         "source_id": "31960772",
         "display_name": "Návrat neuvěřitelného Hulka (1988) SD CZ Dabing",
         "planned_at": "2026-09-23T07:53:41.811447+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
+        "claimed_at": "2026-09-23T08:23:30.027833+00:00",
+        "lease_expires_at": "2026-09-23T14:23:30.027833+00:00",
+        "run_id": "35828044219"
       }
     },
     "17869": {
@@ -245799,5 +245799,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:23:27.826450+00:00"
+  "updated_at": "2026-09-23T08:24:02.423945+00:00"
 }
