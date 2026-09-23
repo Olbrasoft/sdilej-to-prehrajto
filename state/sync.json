@@ -187809,13 +187809,6 @@
     "29969": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22221885",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:03:06.694125+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "22221885",
           "target_video_id": "29632571",
@@ -187828,6 +187821,13 @@
           "target_video_id": "29632571",
           "permanent": false,
           "attempted_at": "2026-09-23T04:00:38.082862+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22221885",
+          "target_video_id": "29632571",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:32:33.350624+00:00"
         }
       ],
       "last_plan": {
@@ -187845,13 +187845,6 @@
     "7940": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24430252",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:03:06.419584+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "24430252",
           "target_video_id": "29632570",
@@ -187864,6 +187857,13 @@
           "target_video_id": "29632570",
           "permanent": false,
           "attempted_at": "2026-09-23T04:00:39.981173+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24430252",
+          "target_video_id": "29632570",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:32:35.503415+00:00"
         }
       ],
       "last_plan": {
@@ -187884,13 +187884,6 @@
     "19117": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "7730565",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:03:06.099723+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "7730565",
           "target_video_id": "29632649",
@@ -187903,6 +187896,13 @@
           "target_video_id": "29632649",
           "permanent": false,
           "attempted_at": "2026-09-23T04:00:42.011048+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7730565",
+          "target_video_id": "29632649",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:32:37.694816+00:00"
         }
       ],
       "last_plan": {
@@ -188414,6 +188414,18 @@
         "source_id": "6652865",
         "display_name": "Greenberg (2010) SD CZ Dabing",
         "planned_at": "2026-09-23T04:30:47.545405+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
+        "claimed_at": "2026-09-23T04:32:38.072097+00:00",
+        "lease_expires_at": "2026-09-23T10:32:38.072097+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29633861",
+      "prepared": {
+        "target_video_id": "29633861",
+        "size_bytes": 1593950208,
+        "prepared_at": "2026-09-23T04:32:42.293100+00:00"
       }
     },
     "14758": {
@@ -244492,5 +244504,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:32:18.752363+00:00"
+  "updated_at": "2026-09-23T04:32:42.293116+00:00"
 }
