@@ -192007,13 +192007,6 @@
     "5527": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26098774",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:49:03.852588+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26098774",
           "target_video_id": "29636973",
@@ -192026,6 +192019,13 @@
           "target_video_id": "29636973",
           "permanent": false,
           "attempted_at": "2026-09-23T08:51:51.813732+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26098774",
+          "target_video_id": "29636973",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:21:52.233027+00:00"
         }
       ],
       "last_plan": {
@@ -192038,12 +192038,6 @@
         "target_video_id": "29636973",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-23T08:10:35.140197+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
-        "claimed_at": "2026-09-23T10:21:49.098917+00:00",
-        "lease_expires_at": "2026-09-23T16:21:49.098917+00:00",
-        "run_id": "35828044219"
       }
     },
     "19753": {
@@ -192114,13 +192108,6 @@
           "permanent": false,
           "source_id": "12217793",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:02.905148+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12217793",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:35.196313+00:00"
         },
         {
@@ -192129,6 +192116,13 @@
           "target_video_id": "29637021",
           "permanent": false,
           "attempted_at": "2026-09-23T08:29:41.599838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12217793",
+          "target_video_id": "29637021",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:21:52.503123+00:00"
         }
       ],
       "last_plan": {
@@ -192139,14 +192133,8 @@
       "previous_target_id": "29637021",
       "prepared": {
         "target_video_id": "29637021",
-        "size_bytes": 3695234719,
+        "size_bytes": 3700000000,
         "prepared_at": "2026-09-23T08:14:22.997279+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-2",
-        "claimed_at": "2026-09-23T10:21:49.756533+00:00",
-        "lease_expires_at": "2026-09-23T16:21:49.756533+00:00",
-        "run_id": "35828044219"
       }
     },
     "23976": {
@@ -192222,6 +192210,12 @@
         "source_id": "8518733",
         "display_name": "Most Beautiful Island (2017) 1080p CZ Titulky",
         "planned_at": "2026-09-23T10:21:10.238038+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
+        "claimed_at": "2026-09-23T10:21:52.800074+00:00",
+        "lease_expires_at": "2026-09-23T16:21:52.800074+00:00",
+        "run_id": "35828044219"
       }
     },
     "23001": {
@@ -192274,6 +192268,12 @@
         "target_video_id": "29637044",
         "size_bytes": 2389257476,
         "prepared_at": "2026-09-23T08:16:08.736110+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
+        "claimed_at": "2026-09-23T10:21:53.385535+00:00",
+        "lease_expires_at": "2026-09-23T16:21:53.385535+00:00",
+        "run_id": "35828044219"
       }
     },
     "10569": {
@@ -192306,16 +192306,10 @@
           "attempted_at": "2026-09-23T09:01:45.740151+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34716021",
-        "display_name": "Nikdy neříkej nikdy (1983) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T10:21:10.788589+00:00"
-      },
       "previous_target_id": "29637782",
-      "prepared": {
+      "upload": {
         "target_video_id": "29637782",
-        "size_bytes": 2942984543,
-        "prepared_at": "2026-09-23T08:52:48.333359+00:00"
+        "uploaded_at": "2026-09-23T10:21:54.433894+00:00"
       }
     },
     "22336": {
@@ -246097,5 +246091,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:21:50.159267+00:00"
+  "updated_at": "2026-09-23T10:21:54.433913+00:00"
 }
