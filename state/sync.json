@@ -81064,13 +81064,6 @@
           "source_id": "12049029",
           "reason": "Request failed for https://sdilej.cz/12049029/tolkien.2019.1080p.webrip.x264.dd2.0-ac3-.cz.dabing.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-23T06:37:45.055722+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "12049029",
-          "reason": "Request failed for https://sdilej.cz/12049029/tolkien.2019.1080p.webrip.x264.dd2.0-ac3-.cz.dabing.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T07:40:10.489444+00:00"
         },
         {
@@ -81079,18 +81072,19 @@
           "reason": "Request failed for https://sdilej.cz/12049029/tolkien.2019.1080p.webrip.x264.dd2.0-ac3-.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T08:33:26.636175+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12049029",
+          "target_video_id": "29639041",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:21:56.964527+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12049029",
         "display_name": "Tolkien (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-23T10:13:19.212588+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
-        "claimed_at": "2026-09-23T10:13:49.836684+00:00",
-        "lease_expires_at": "2026-09-23T16:13:49.836684+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29639041",
       "prepared": {
@@ -192241,13 +192235,6 @@
           "permanent": false,
           "source_id": "32422511",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:08.822812+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32422511",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:37.319479+00:00"
         },
         {
@@ -192256,6 +192243,13 @@
           "target_video_id": "29637044",
           "permanent": false,
           "attempted_at": "2026-09-23T08:24:02.423927+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32422511",
+          "target_video_id": "29637044",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:21:56.693777+00:00"
         }
       ],
       "last_plan": {
@@ -192266,14 +192260,8 @@
       "previous_target_id": "29637044",
       "prepared": {
         "target_video_id": "29637044",
-        "size_bytes": 2389257476,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T08:16:08.736110+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
-        "claimed_at": "2026-09-23T10:21:53.385535+00:00",
-        "lease_expires_at": "2026-09-23T16:21:53.385535+00:00",
-        "run_id": "35828044219"
       }
     },
     "10569": {
@@ -246091,5 +246079,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:21:54.433913+00:00"
+  "updated_at": "2026-09-23T10:21:56.964546+00:00"
 }
