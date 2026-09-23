@@ -197803,13 +197803,6 @@
           "permanent": false,
           "source_id": "9530991",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:51.759167+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "9530991",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:23:40.519782+00:00"
         },
         {
@@ -197818,18 +197811,19 @@
           "source_id": "9530991",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:34.417445+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9530991",
+          "target_video_id": "29646431",
+          "permanent": false,
+          "attempted_at": "2026-09-23T13:35:35.461261+00:00"
         }
       ],
       "last_plan": {
         "source_id": "9530991",
         "display_name": "Nepoužitelní (2012) SD CZ Titulky",
         "planned_at": "2026-09-23T13:31:36.586918+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T13:33:40.361080+00:00",
-        "lease_expires_at": "2026-09-23T19:33:40.361080+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29646431",
       "prepared": {
@@ -247254,5 +247248,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T13:35:29.828716+00:00"
+  "updated_at": "2026-09-23T13:35:35.461288+00:00"
 }
