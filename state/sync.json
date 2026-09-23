@@ -45757,13 +45757,6 @@
           "source_id": "34253445",
           "target_video_id": "29419443",
           "permanent": false,
-          "attempted_at": "2026-09-22T09:31:21.693839+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34253445",
-          "target_video_id": "29419443",
-          "permanent": false,
           "attempted_at": "2026-09-22T23:00:02.532060+00:00"
         },
         {
@@ -45772,6 +45765,13 @@
           "target_video_id": "29419443",
           "permanent": false,
           "attempted_at": "2026-09-22T23:50:26.739539+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34253445",
+          "target_video_id": "29419443",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:22:05.743281+00:00"
         }
       ],
       "last_plan": {
@@ -45784,13 +45784,7 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-16T06:24:41.033896+00:00"
       },
-      "previous_target_id": "29419443",
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-3",
-        "claimed_at": "2026-09-23T00:21:52.714402+00:00",
-        "lease_expires_at": "2026-09-23T06:21:52.714402+00:00",
-        "run_id": "35767841855"
-      }
+      "previous_target_id": "29419443"
     },
     "26763": {
       "attempts": []
@@ -46185,13 +46179,6 @@
           "source_id": "30458167",
           "target_video_id": "29439418",
           "permanent": false,
-          "attempted_at": "2026-09-22T09:31:24.415419+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30458167",
-          "target_video_id": "29439418",
-          "permanent": false,
           "attempted_at": "2026-09-22T23:00:03.017163+00:00"
         },
         {
@@ -46200,6 +46187,13 @@
           "target_video_id": "29439418",
           "permanent": false,
           "attempted_at": "2026-09-22T23:50:29.135299+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30458167",
+          "target_video_id": "29439418",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:22:06.020525+00:00"
         }
       ],
       "last_plan": {
@@ -46212,13 +46206,7 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-16T23:32:30.498785+00:00"
       },
-      "previous_target_id": "29439418",
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-5",
-        "claimed_at": "2026-09-23T00:21:53.472428+00:00",
-        "lease_expires_at": "2026-09-23T06:21:53.472428+00:00",
-        "run_id": "35767841855"
-      }
+      "previous_target_id": "29439418"
     },
     "32659": {
       "attempts": []
@@ -75933,17 +75921,19 @@
       }
     },
     "25866": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28077945",
+          "target_video_id": "29629684",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:22:06.305570+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28077945",
         "display_name": "Pozdní léto (1974) 1080p CZ Dabing",
         "planned_at": "2026-09-22T23:54:17.154047+00:00"
-      },
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-1",
-        "claimed_at": "2026-09-23T00:13:35.402938+00:00",
-        "lease_expires_at": "2026-09-23T06:13:35.402938+00:00",
-        "run_id": "35767841855"
       },
       "previous_target_id": "29629684",
       "prepared": {
@@ -241834,5 +241824,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T00:21:54.131760+00:00"
+  "updated_at": "2026-09-23T00:22:06.305588+00:00"
 }
