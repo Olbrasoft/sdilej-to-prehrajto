@@ -122651,13 +122651,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-23T06:47:29.946964+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-23T07:51:21.913765+00:00"
         },
         {
@@ -122666,12 +122659,19 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-23T08:41:45.826704+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-23T08:51:37.975154+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34851062",
         "display_name": "T.M.A. (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T08:40:08.003013+00:00"
+        "planned_at": "2026-09-23T08:50:21.959792+00:00"
       },
       "prepared": {
         "target_video_id": "29220630",
@@ -190539,13 +190539,6 @@
           "source_id": "21473434",
           "reason": "Request failed for https://sdilej.cz/21473434/vendeta.mp4 (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-23T04:50:53.655841+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "21473434",
-          "reason": "Request failed for https://sdilej.cz/21473434/vendeta.mp4 (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:54:05.218155+00:00"
         },
         {
@@ -190554,17 +190547,24 @@
           "target_video_id": "29636705",
           "permanent": false,
           "attempted_at": "2026-09-23T08:14:10.213113+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21473434",
+          "target_video_id": "29636705",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:51:39.738838+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21473434",
         "display_name": "Vendeta (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:31.147852+00:00"
+        "planned_at": "2026-09-23T08:50:22.356723+00:00"
       },
       "previous_target_id": "29636705",
       "prepared": {
         "target_video_id": "29636705",
-        "size_bytes": 4622525755,
+        "size_bytes": 4600000000,
         "prepared_at": "2026-09-23T07:53:59.757205+00:00"
       }
     },
@@ -191870,13 +191870,6 @@
           "permanent": false,
           "source_id": "30819952",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:44.195092+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30819952",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:28.851490+00:00"
         },
         {
@@ -191885,19 +191878,22 @@
           "target_video_id": "29636916",
           "permanent": false,
           "attempted_at": "2026-09-23T08:15:13.609757+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "30819952",
+          "target_video_id": "29636916",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:51:43.622668+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30819952",
         "display_name": "Labutí princezna 3: Tajemství kouzelného pokladu (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:38.555383+00:00"
+        "planned_at": "2026-09-23T08:50:22.687544+00:00"
       },
-      "previous_target_id": "29636916",
-      "prepared": {
-        "target_video_id": "29636916",
-        "size_bytes": 1882770630,
-        "prepared_at": "2026-09-23T08:08:25.808392+00:00"
-      }
+      "previous_target_id": "29636916"
     },
     "32194": {
       "attempts": [
@@ -192068,7 +192064,7 @@
       "last_plan": {
         "source_id": "26098774",
         "display_name": "Červená světla (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:39.365929+00:00"
+        "planned_at": "2026-09-23T08:50:23.015268+00:00"
       },
       "previous_target_id": "29636973",
       "prepared": {
@@ -192252,7 +192248,7 @@
       "last_plan": {
         "source_id": "8518733",
         "display_name": "Most Beautiful Island (2017) 1080p CZ Titulky",
-        "planned_at": "2026-09-23T07:53:40.181706+00:00"
+        "planned_at": "2026-09-23T08:50:23.331693+00:00"
       }
     },
     "23001": {
@@ -192340,7 +192336,7 @@
       "last_plan": {
         "source_id": "34716021",
         "display_name": "Nikdy neříkej nikdy (1983) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:40.723126+00:00"
+        "planned_at": "2026-09-23T08:50:23.660728+00:00"
       }
     },
     "22336": {
@@ -192385,7 +192381,7 @@
       "last_plan": {
         "source_id": "11872096",
         "display_name": "Nezvaný host (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:40.995366+00:00"
+        "planned_at": "2026-09-23T08:50:23.985508+00:00"
       },
       "previous_target_id": "29531348",
       "prepared": {
@@ -192657,7 +192653,7 @@
       "last_plan": {
         "source_id": "11329407",
         "display_name": "Zamilovaná čarodějka (1997) SD CZ Dabing",
-        "planned_at": "2026-09-20T11:25:58.223549+00:00"
+        "planned_at": "2026-09-23T08:50:24.300395+00:00"
       }
     },
     "5970": {
@@ -192690,7 +192686,7 @@
       "last_plan": {
         "source_id": "29645130",
         "display_name": "Neslušný návrh (1993) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:25:58.454552+00:00"
+        "planned_at": "2026-09-23T08:50:24.627113+00:00"
       }
     },
     "6038": {
@@ -192727,7 +192723,7 @@
       "last_plan": {
         "source_id": "34773078",
         "display_name": "Apache Junction (2021) 720p CZ Titulky",
-        "planned_at": "2026-09-20T11:25:58.685131+00:00"
+        "planned_at": "2026-09-23T08:50:24.953593+00:00"
       }
     },
     "5297": {
@@ -192844,7 +192840,7 @@
       "last_plan": {
         "source_id": "26550838",
         "display_name": "22. míle (2018) 4K CZ Dabing",
-        "planned_at": "2026-09-20T12:28:09.138898+00:00"
+        "planned_at": "2026-09-23T08:50:25.279932+00:00"
       },
       "previous_target_id": "29531613",
       "prepared": {
@@ -192890,7 +192886,7 @@
       "last_plan": {
         "source_id": "31576724",
         "display_name": "Skřípění (2003) SD CZ Dabing",
-        "planned_at": "2026-09-20T11:25:59.144095+00:00"
+        "planned_at": "2026-09-23T08:50:25.599420+00:00"
       }
     },
     "6202": {
@@ -192929,7 +192925,7 @@
       "last_plan": {
         "source_id": "34828279",
         "display_name": "Bikini Drive-In (1995) SD CZ Titulky",
-        "planned_at": "2026-09-20T11:25:59.373301+00:00"
+        "planned_at": "2026-09-23T08:50:25.925625+00:00"
       }
     },
     "6068": {
@@ -193032,7 +193028,7 @@
       "last_plan": {
         "source_id": "34755727",
         "display_name": "Příběhy Cheeche a Chonga (1980) 720p CZ Titulky",
-        "planned_at": "2026-09-20T11:25:59.603852+00:00"
+        "planned_at": "2026-09-23T08:50:26.256410+00:00"
       }
     },
     "33958": {
@@ -193139,7 +193135,7 @@
       "last_plan": {
         "source_id": "30729734",
         "display_name": "Playboy z prváku (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:25:59.833863+00:00"
+        "planned_at": "2026-09-23T08:50:26.575640+00:00"
       }
     },
     "25641": {
@@ -193205,7 +193201,7 @@
       "last_plan": {
         "source_id": "13107941",
         "display_name": "(Ne)zadaní (2014) 720p CZ Dabing",
-        "planned_at": "2026-09-20T11:26:00.063426+00:00"
+        "planned_at": "2026-09-23T08:50:26.898507+00:00"
       }
     },
     "12281": {
@@ -193247,7 +193243,7 @@
       "last_plan": {
         "source_id": "26654541",
         "display_name": "Mladý Mesiáš (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:26:00.295749+00:00"
+        "planned_at": "2026-09-23T08:50:27.210475+00:00"
       }
     },
     "17363": {
@@ -193277,7 +193273,7 @@
       "last_plan": {
         "source_id": "14778018",
         "display_name": "Hover (2018) SD SK Dabing",
-        "planned_at": "2026-09-20T11:26:00.525406+00:00"
+        "planned_at": "2026-09-23T08:50:27.531259+00:00"
       }
     },
     "5876": {
@@ -193307,7 +193303,7 @@
       "last_plan": {
         "source_id": "29053583",
         "display_name": "Ambulance (2022) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:26:00.756242+00:00"
+        "planned_at": "2026-09-23T08:50:27.857678+00:00"
       }
     },
     "19499": {
@@ -193355,7 +193351,7 @@
       "last_plan": {
         "source_id": "33855140",
         "display_name": "Smrtící spona (1984) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:26:00.986822+00:00"
+        "planned_at": "2026-09-23T08:50:28.169967+00:00"
       }
     },
     "12403": {
@@ -193385,7 +193381,7 @@
       "last_plan": {
         "source_id": "33252880",
         "display_name": "Koule (1998) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:26:01.217575+00:00"
+        "planned_at": "2026-09-23T08:50:28.496560+00:00"
       }
     },
     "17883": {
@@ -193449,7 +193445,7 @@
       "last_plan": {
         "source_id": "28506084",
         "display_name": "Mladá dáma (2024) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:13.133838+00:00"
+        "planned_at": "2026-09-23T08:50:28.824778+00:00"
       }
     },
     "12952": {
@@ -193479,7 +193475,7 @@
       "last_plan": {
         "source_id": "33221667",
         "display_name": "Mexičan (2001) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:13.368949+00:00"
+        "planned_at": "2026-09-23T08:50:29.144501+00:00"
       }
     },
     "26074": {
@@ -193509,7 +193505,7 @@
       "last_plan": {
         "source_id": "32449354",
         "display_name": "Proč jsem se jen ženil (2007) 1080p CZ Titulky",
-        "planned_at": "2026-09-20T11:27:13.602544+00:00"
+        "planned_at": "2026-09-23T08:50:29.446439+00:00"
       }
     },
     "18814": {
@@ -193559,7 +193555,7 @@
       "last_plan": {
         "source_id": "12149421",
         "display_name": "Syn temnoty (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:13.836073+00:00"
+        "planned_at": "2026-09-23T08:50:29.785731+00:00"
       }
     },
     "11125": {
@@ -193592,7 +193588,7 @@
       "last_plan": {
         "source_id": "34899608",
         "display_name": "Breakin' (1984) SD CZ Dabing",
-        "planned_at": "2026-09-20T11:27:14.069660+00:00"
+        "planned_at": "2026-09-23T08:50:30.099053+00:00"
       }
     },
     "31288": {
@@ -193631,7 +193627,7 @@
       "last_plan": {
         "source_id": "34820116",
         "display_name": "Úsvit mrtvých drag queens (2025) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:14.303390+00:00"
+        "planned_at": "2026-09-23T08:50:30.393844+00:00"
       }
     },
     "6056": {
@@ -193677,7 +193673,7 @@
       "last_plan": {
         "source_id": "24827226",
         "display_name": "Pro tvé dobro (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:14.536232+00:00"
+        "planned_at": "2026-09-23T08:50:30.720300+00:00"
       }
     },
     "6122": {
@@ -193707,7 +193703,7 @@
       "last_plan": {
         "source_id": "30038680",
         "display_name": "Jízda švárů (2014) 720p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:14.770656+00:00"
+        "planned_at": "2026-09-23T08:50:31.042476+00:00"
       }
     },
     "6082": {
@@ -193770,7 +193766,7 @@
       "last_plan": {
         "source_id": "34750021",
         "display_name": "Max Schmeling (2010) SD CZ Titulky",
-        "planned_at": "2026-09-20T11:27:15.005179+00:00"
+        "planned_at": "2026-09-23T08:50:31.364374+00:00"
       }
     },
     "25159": {
@@ -193809,7 +193805,7 @@
       "last_plan": {
         "source_id": "33323657",
         "display_name": "Joeův univerzitní road trip (2026) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:15.240066+00:00"
+        "planned_at": "2026-09-23T08:50:31.696958+00:00"
       }
     },
     "9230": {
@@ -193848,7 +193844,7 @@
       "last_plan": {
         "source_id": "16029070",
         "display_name": "Volte mě! (2012) 720p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:15.473382+00:00"
+        "planned_at": "2026-09-23T08:50:32.024267+00:00"
       }
     },
     "25365": {
@@ -193913,7 +193909,7 @@
       "last_plan": {
         "source_id": "23104985",
         "display_name": "Střed světa (2001) SD CZ Titulky",
-        "planned_at": "2026-09-20T11:27:15.704777+00:00"
+        "planned_at": "2026-09-23T08:50:32.355937+00:00"
       }
     },
     "20818": {
@@ -193956,7 +193952,7 @@
       "last_plan": {
         "source_id": "34695777",
         "display_name": "Killbird (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:15.938382+00:00"
+        "planned_at": "2026-09-23T08:50:32.672596+00:00"
       }
     },
     "34921": {
@@ -194020,7 +194016,7 @@
       "last_plan": {
         "source_id": "32999824",
         "display_name": "The Christmas Dragon (2014) 1080p SK Dabing",
-        "planned_at": "2026-09-20T11:27:16.168948+00:00"
+        "planned_at": "2026-09-23T08:50:32.988695+00:00"
       }
     },
     "18269": {
@@ -194053,7 +194049,7 @@
       "last_plan": {
         "source_id": "34670462",
         "display_name": "Rainbow (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:16.402775+00:00"
+        "planned_at": "2026-09-23T08:50:33.310127+00:00"
       }
     },
     "6108": {
@@ -194093,7 +194089,7 @@
       "last_plan": {
         "source_id": "31794492",
         "display_name": "Ztracené město (2022) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:16.636005+00:00"
+        "planned_at": "2026-09-23T08:50:33.634227+00:00"
       }
     },
     "5793": {
@@ -194123,7 +194119,7 @@
       "last_plan": {
         "source_id": "33885279",
         "display_name": "S tebou nikdy (2023) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:16.868420+00:00"
+        "planned_at": "2026-09-23T08:50:33.954610+00:00"
       }
     },
     "5981": {
@@ -194156,7 +194152,7 @@
       "last_plan": {
         "source_id": "13829355",
         "display_name": "Tušení (2020) SD CZ Titulky",
-        "planned_at": "2026-09-20T11:27:17.100554+00:00"
+        "planned_at": "2026-09-23T08:50:34.271069+00:00"
       }
     },
     "6115": {
@@ -194189,7 +194185,7 @@
       "last_plan": {
         "source_id": "33788739",
         "display_name": "Hrůzná noc 2 (1988) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:17.332590+00:00"
+        "planned_at": "2026-09-23T08:50:34.599740+00:00"
       }
     },
     "23775": {
@@ -194231,7 +194227,7 @@
       "last_plan": {
         "source_id": "11702034",
         "display_name": "Záchranáři z Malibu (2019) SD CZ Titulky",
-        "planned_at": "2026-09-20T11:27:17.564810+00:00"
+        "planned_at": "2026-09-23T08:50:34.929139+00:00"
       }
     },
     "6047": {
@@ -194283,7 +194279,7 @@
       "last_plan": {
         "source_id": "34299058",
         "display_name": "Expendables: Postradatelní 3 (2014) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:17.796738+00:00"
+        "planned_at": "2026-09-23T08:50:35.258456+00:00"
       }
     },
     "35397": {
@@ -194325,7 +194321,7 @@
       "last_plan": {
         "source_id": "12795342",
         "display_name": "6 underground: Tajné operace (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:18.028546+00:00"
+        "planned_at": "2026-09-23T08:50:35.572778+00:00"
       }
     },
     "36977": {
@@ -194374,7 +194370,7 @@
       "last_plan": {
         "source_id": "32264017",
         "display_name": "Jeníček a Mařenka: Lovci čarodějnic (2013) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:18.260848+00:00"
+        "planned_at": "2026-09-23T08:50:35.898486+00:00"
       }
     },
     "19947": {
@@ -194431,7 +194427,7 @@
       "last_plan": {
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:18.493659+00:00"
+        "planned_at": "2026-09-23T08:50:36.228657+00:00"
       }
     },
     "5944": {
@@ -194478,7 +194474,7 @@
       "last_plan": {
         "source_id": "25432988",
         "display_name": "Zabijácká elita (1975) 720p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:18.727210+00:00"
+        "planned_at": "2026-09-23T08:50:36.553825+00:00"
       }
     },
     "5754": {
@@ -194531,7 +194527,7 @@
       "last_plan": {
         "source_id": "34206332",
         "display_name": "Sněhurka a lovec (2012) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:18.959993+00:00"
+        "planned_at": "2026-09-23T08:50:36.878907+00:00"
       }
     },
     "6292": {
@@ -194608,7 +194604,7 @@
       "last_plan": {
         "source_id": "26205158",
         "display_name": "Žhavá jízda (2013) 720p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:19.195186+00:00"
+        "planned_at": "2026-09-23T08:50:37.208360+00:00"
       }
     },
     "6270": {
@@ -194647,7 +194643,7 @@
       "last_plan": {
         "source_id": "31842603",
         "display_name": "Mission: Impossible 2 (2000) 4K CZ Dabing",
-        "planned_at": "2026-09-20T11:27:19.428908+00:00"
+        "planned_at": "2026-09-23T08:50:37.530274+00:00"
       }
     },
     "26677": {
@@ -194687,7 +194683,7 @@
       "last_plan": {
         "source_id": "13740760",
         "display_name": "Hoši z Abu Ghraib (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-20T11:27:19.661999+00:00"
+        "planned_at": "2026-09-23T08:50:37.859095+00:00"
       }
     },
     "23649": {
@@ -245948,5 +245944,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:50:08.199506+00:00"
+  "updated_at": "2026-09-23T08:51:43.622686+00:00"
 }
