@@ -203679,13 +203679,6 @@
           "permanent": false,
           "source_id": "33208046",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:36:26.869050+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33208046",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:48:40.013113+00:00"
         },
         {
@@ -203694,18 +203687,19 @@
           "source_id": "33208046",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:49:21.332054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33208046",
+          "target_video_id": "29649733",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:59:12.231785+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33208046",
         "display_name": "Man Finds Tape (2025) 1080p CZ Titulky",
         "planned_at": "2026-09-23T16:43:07.004016+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T16:53:49.587620+00:00",
-        "lease_expires_at": "2026-09-23T22:53:49.587620+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29649733",
       "prepared": {
@@ -248886,5 +248880,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:59:01.777735+00:00"
+  "updated_at": "2026-09-23T16:59:12.231811+00:00"
 }
