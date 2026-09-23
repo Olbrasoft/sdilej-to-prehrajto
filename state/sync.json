@@ -204787,22 +204787,10 @@
           "attempted_at": "2026-09-23T17:21:48.968920+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "9946199",
-        "display_name": "Jdi svou cestou (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T18:02:37.529656+00:00"
-      },
       "previous_target_id": "29650090",
-      "prepared": {
+      "upload": {
         "target_video_id": "29650090",
-        "size_bytes": 1757731396,
-        "prepared_at": "2026-09-23T17:17:23.832811+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T18:03:12.021814+00:00",
-        "lease_expires_at": "2026-09-24T00:03:12.021814+00:00",
-        "run_id": "35861705510"
+        "uploaded_at": "2026-09-23T18:03:15.631589+00:00"
       }
     },
     "36618": {
@@ -204857,13 +204845,6 @@
           "permanent": false,
           "source_id": "21985656",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:00.381482+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21985656",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:59.183785+00:00"
         },
         {
@@ -204872,6 +204853,13 @@
           "target_video_id": "29650091",
           "permanent": false,
           "attempted_at": "2026-09-23T17:28:29.362051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21985656",
+          "target_video_id": "29650091",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:15.481606+00:00"
         }
       ],
       "last_plan": {
@@ -204882,14 +204870,8 @@
       "previous_target_id": "29650091",
       "prepared": {
         "target_video_id": "29650091",
-        "size_bytes": 3797362590,
+        "size_bytes": 3800000000,
         "prepared_at": "2026-09-23T17:17:26.962183+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T18:03:11.871247+00:00",
-        "lease_expires_at": "2026-09-24T00:03:11.871247+00:00",
-        "run_id": "35861705510"
       }
     },
     "12196": {
@@ -204905,13 +204887,6 @@
           "permanent": false,
           "source_id": "21190079",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:00.117477+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21190079",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:57:59.469688+00:00"
         },
         {
@@ -204920,6 +204895,13 @@
           "target_video_id": "29650093",
           "permanent": false,
           "attempted_at": "2026-09-23T17:25:31.780761+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21190079",
+          "target_video_id": "29650093",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:03:15.333739+00:00"
         }
       ],
       "last_plan": {
@@ -204930,14 +204912,8 @@
       "previous_target_id": "29650093",
       "prepared": {
         "target_video_id": "29650093",
-        "size_bytes": 2750616145,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-23T17:17:31.619590+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T18:03:11.721519+00:00",
-        "lease_expires_at": "2026-09-24T00:03:11.721519+00:00",
-        "run_id": "35861705510"
       }
     },
     "33087": {
@@ -249408,5 +249384,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T18:03:13.059473+00:00"
+  "updated_at": "2026-09-23T18:03:15.631600+00:00"
 }
