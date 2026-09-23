@@ -105415,13 +105415,6 @@
           "source_id": "34651338",
           "target_video_id": "29564106",
           "permanent": false,
-          "attempted_at": "2026-09-22T08:23:35.996351+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34651338",
-          "target_video_id": "29564106",
-          "permanent": false,
           "attempted_at": "2026-09-22T08:56:26.866493+00:00"
         },
         {
@@ -105430,6 +105423,13 @@
           "target_video_id": "29564106",
           "permanent": false,
           "attempted_at": "2026-09-22T09:36:02.711825+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34651338",
+          "target_video_id": "29564106",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:03:32.349112+00:00"
         }
       ],
       "last_plan": {
@@ -105442,12 +105442,6 @@
         "target_video_id": "29564106",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-20T17:32:07.571871+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T02:03:29.426987+00:00",
-        "lease_expires_at": "2026-09-23T08:03:29.426987+00:00",
-        "run_id": "35804360245"
       }
     },
     "15459": {
@@ -105503,6 +105497,18 @@
         "source_id": "32660679",
         "display_name": "Šajdá (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T02:02:09.454523+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T02:03:32.678732+00:00",
+        "lease_expires_at": "2026-09-23T08:03:32.678732+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29631335",
+      "prepared": {
+        "target_video_id": "29631335",
+        "size_bytes": 3066848124,
+        "prepared_at": "2026-09-23T02:03:36.870496+00:00"
       }
     },
     "9118": {
@@ -105526,6 +105532,12 @@
         "source_id": "33028883",
         "display_name": "Uneseni: Elizabeth Smartová (2026) 1080p CZ Dabing",
         "planned_at": "2026-09-23T02:02:09.703514+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T02:03:33.017156+00:00",
+        "lease_expires_at": "2026-09-23T08:03:33.017156+00:00",
+        "run_id": "35804360245"
       }
     },
     "31936": {
@@ -243584,5 +243596,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:03:29.945757+00:00"
+  "updated_at": "2026-09-23T02:03:36.870512+00:00"
 }
