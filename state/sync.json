@@ -209850,13 +209850,6 @@
           "permanent": false,
           "source_id": "30549620",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:10:42.613473+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30549620",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:48.732537+00:00"
         },
         {
@@ -209865,18 +209858,19 @@
           "reason": "Request failed for https://sdilej.cz/30549620/utek-do-mexika-1994.-cz.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T22:39:17.823251+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30549620",
+          "target_video_id": "29656384",
+          "permanent": false,
+          "attempted_at": "2026-09-23T23:57:41.123363+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30549620",
         "display_name": "Útěk do Mexika (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-23T23:47:57.452331+00:00"
-      },
-      "claim": {
-        "worker_id": "a25763f30d5243209c4d666370e9000d-shard-5",
-        "claimed_at": "2026-09-23T23:48:18.199036+00:00",
-        "lease_expires_at": "2026-09-24T05:48:18.199036+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29656384",
       "prepared": {
@@ -250694,5 +250688,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T23:55:31.447168+00:00"
+  "updated_at": "2026-09-23T23:57:41.123379+00:00"
 }
