@@ -189509,13 +189509,6 @@
           "permanent": false,
           "source_id": "35031558",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:01.374372+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35031558",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:18.658880+00:00"
         },
         {
@@ -189524,18 +189517,19 @@
           "source_id": "35031558",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:04.082606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35031558",
+          "target_video_id": "29634138",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:58:17.681257+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35031558",
         "display_name": "Smrtící stezka (2009) SD CZ Dabing",
         "planned_at": "2026-09-23T04:30:55.313092+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T04:55:01.777840+00:00",
-        "lease_expires_at": "2026-09-23T10:55:01.777840+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29634138",
       "prepared": {
@@ -189629,6 +189623,12 @@
         "source_id": "34738359",
         "display_name": "México bárbaro (2014) 1080p CZ Titulky",
         "planned_at": "2026-09-23T04:30:56.011125+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T04:57:33.360654+00:00",
+        "lease_expires_at": "2026-09-23T10:57:33.360654+00:00",
+        "run_id": "35804360245"
       }
     },
     "27123": {
@@ -244615,5 +244615,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:57:26.448256+00:00"
+  "updated_at": "2026-09-23T04:58:17.681273+00:00"
 }
