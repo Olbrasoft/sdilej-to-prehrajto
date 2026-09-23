@@ -206575,13 +206575,6 @@
           "permanent": false,
           "source_id": "26443435",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:01:05.795091+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26443435",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:02:13.392836+00:00"
         },
         {
@@ -206590,18 +206583,19 @@
           "source_id": "26443435",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:02:30.600330+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26443435",
+          "target_video_id": "29651211",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:45:00.548243+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26443435",
         "display_name": "Přesný zásah (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-23T18:03:23.682366+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
-        "claimed_at": "2026-09-23T18:39:32.694837+00:00",
-        "lease_expires_at": "2026-09-24T00:39:32.694837+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29651211",
       "prepared": {
@@ -249524,5 +249518,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T18:43:28.739874+00:00"
+  "updated_at": "2026-09-23T18:45:00.548262+00:00"
 }
