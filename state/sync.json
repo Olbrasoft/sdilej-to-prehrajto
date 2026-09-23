@@ -197042,13 +197042,6 @@
           "permanent": false,
           "source_id": "33746001",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:44.812726+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33746001",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:22:57.830545+00:00"
         },
         {
@@ -197057,18 +197050,19 @@
           "source_id": "33746001",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:26.342520+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746001",
+          "target_video_id": "29643796",
+          "permanent": false,
+          "attempted_at": "2026-09-23T13:02:02.091653+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33746001",
         "display_name": "Správná hra (1983) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:38:11.078445+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-5",
-        "claimed_at": "2026-09-23T12:57:09.516635+00:00",
-        "lease_expires_at": "2026-09-23T18:57:09.516635+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29643796",
       "prepared": {
@@ -246824,5 +246818,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T13:01:15.099387+00:00"
+  "updated_at": "2026-09-23T13:02:02.091670+00:00"
 }
