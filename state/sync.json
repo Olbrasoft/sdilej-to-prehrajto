@@ -195371,13 +195371,6 @@
           "permanent": false,
           "source_id": "34961653",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:23.486023+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34961653",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:22:31.671432+00:00"
         },
         {
@@ -195386,18 +195379,19 @@
           "source_id": "34961653",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:51.172088+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34961653",
+          "target_video_id": "29639505",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:48:38.736393+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34961653",
         "display_name": "Collision Course (2012) SD CZ Dabing",
         "planned_at": "2026-09-23T10:25:33.329179+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
-        "claimed_at": "2026-09-23T10:45:30.723426+00:00",
-        "lease_expires_at": "2026-09-23T16:45:30.723426+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29639505",
       "prepared": {
@@ -195561,6 +195555,12 @@
         "source_id": "11107952",
         "display_name": "Domácnost naruby (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-23T10:25:34.375937+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T10:48:37.125457+00:00",
+        "lease_expires_at": "2026-09-23T16:48:37.125457+00:00",
+        "run_id": "35828044219"
       }
     },
     "32523": {
@@ -246139,5 +246139,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:48:30.088220+00:00"
+  "updated_at": "2026-09-23T10:48:38.736409+00:00"
 }
