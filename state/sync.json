@@ -186905,13 +186905,6 @@
           "permanent": false,
           "source_id": "30781917",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:38.339752+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30781917",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:02:25.635944+00:00"
         },
         {
@@ -186920,18 +186913,19 @@
           "source_id": "30781917",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:01.411990+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30781917",
+          "target_video_id": "29632374",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:14:04.212720+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30781917",
         "display_name": "Linka č. 657 (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:06:26.081311+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T03:07:14.810105+00:00",
-        "lease_expires_at": "2026-09-23T09:07:14.810105+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29632374",
       "prepared": {
@@ -187245,6 +187239,12 @@
         "source_id": "31100281",
         "display_name": "Seberg (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-23T03:06:27.722366+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
+        "claimed_at": "2026-09-23T03:14:02.468323+00:00",
+        "lease_expires_at": "2026-09-23T09:14:02.468323+00:00",
+        "run_id": "35804360245"
       }
     },
     "12166": {
@@ -243958,5 +243958,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:14:00.199330+00:00"
+  "updated_at": "2026-09-23T03:14:04.212736+00:00"
 }
