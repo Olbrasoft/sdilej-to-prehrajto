@@ -191671,13 +191671,6 @@
           "permanent": false,
           "source_id": "27929482",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:40.965103+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27929482",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:25.944571+00:00"
         },
         {
@@ -191686,6 +191679,13 @@
           "target_video_id": "29636790",
           "permanent": false,
           "attempted_at": "2026-09-23T08:09:39.787011+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27929482",
+          "target_video_id": "29636790",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:45:09.244667+00:00"
         }
       ],
       "last_plan": {
@@ -191696,7 +191696,7 @@
       "previous_target_id": "29636790",
       "prepared": {
         "target_video_id": "29636790",
-        "size_bytes": 2954719816,
+        "size_bytes": 3000000000,
         "prepared_at": "2026-09-23T07:59:39.659845+00:00"
       }
     },
@@ -191738,6 +191738,18 @@
         "source_id": "14876648",
         "display_name": "Nightshift (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-23T08:43:57.879776+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
+        "claimed_at": "2026-09-23T08:45:09.552687+00:00",
+        "lease_expires_at": "2026-09-23T14:45:09.552687+00:00",
+        "run_id": "35828044219"
+      },
+      "previous_target_id": "29637681",
+      "prepared": {
+        "target_video_id": "29637681",
+        "size_bytes": 2259157432,
+        "prepared_at": "2026-09-23T08:45:13.364194+00:00"
       }
     },
     "6136": {
@@ -245915,5 +245927,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:45:05.427207+00:00"
+  "updated_at": "2026-09-23T08:45:13.364208+00:00"
 }
