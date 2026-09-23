@@ -64239,17 +64239,19 @@
       "attempts": []
     },
     "23668": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34959733",
+          "target_video_id": "29640928",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:47.608171+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34959733",
         "display_name": "Basquiat (1996) 1080p CZ Titulky",
         "planned_at": "2026-09-23T11:51:57.273561+00:00"
-      },
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-0",
-        "claimed_at": "2026-09-23T11:52:17.819272+00:00",
-        "lease_expires_at": "2026-09-23T17:52:17.819272+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29640928",
       "prepared": {
@@ -65722,13 +65724,6 @@
           "source_id": "34471665",
           "target_video_id": "29356052",
           "permanent": false,
-          "attempted_at": "2026-09-23T08:30:30.027795+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34471665",
-          "target_video_id": "29356052",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:10:47.459359+00:00"
         },
         {
@@ -65737,6 +65732,13 @@
           "target_video_id": "29356052",
           "permanent": false,
           "attempted_at": "2026-09-23T11:01:09.785007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34471665",
+          "target_video_id": "29356052",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:47.014274+00:00"
         }
       ],
       "last_plan": {
@@ -65842,13 +65844,6 @@
           "source_id": "18528523",
           "target_video_id": "29413408",
           "permanent": false,
-          "attempted_at": "2026-09-23T08:30:31.215057+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18528523",
-          "target_video_id": "29413408",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:10:49.649051+00:00"
         },
         {
@@ -65857,6 +65852,13 @@
           "target_video_id": "29413408",
           "permanent": false,
           "attempted_at": "2026-09-23T11:01:12.228983+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18528523",
+          "target_video_id": "29413408",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:46.641316+00:00"
         }
       ],
       "last_plan": {
@@ -65918,7 +65920,13 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-16T00:33:35.750605+00:00"
       },
-      "previous_target_id": "29413416"
+      "previous_target_id": "29413416",
+      "claim": {
+        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-3",
+        "claimed_at": "2026-09-23T12:01:47.329626+00:00",
+        "lease_expires_at": "2026-09-23T18:01:47.329626+00:00",
+        "run_id": "35828044219"
+      }
     },
     "2581": {
       "attempts": [
@@ -246319,5 +246327,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:01:42.826681+00:00"
+  "updated_at": "2026-09-23T12:01:47.608187+00:00"
 }
