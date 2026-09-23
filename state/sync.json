@@ -192866,13 +192866,6 @@
           "permanent": false,
           "source_id": "31576724",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:26:39.040854+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31576724",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:50:29.527681+00:00"
         },
         {
@@ -192881,18 +192874,19 @@
           "source_id": "31576724",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:50.821198+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31576724",
+          "target_video_id": "29637807",
+          "permanent": false,
+          "attempted_at": "2026-09-23T09:01:05.239014+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31576724",
         "display_name": "Skřípění (2003) SD CZ Dabing",
         "planned_at": "2026-09-23T08:50:25.599420+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T08:54:04.844374+00:00",
-        "lease_expires_at": "2026-09-23T14:54:04.844374+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29637807",
       "prepared": {
@@ -245986,5 +245980,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:57:59.930806+00:00"
+  "updated_at": "2026-09-23T09:01:05.239032+00:00"
 }
