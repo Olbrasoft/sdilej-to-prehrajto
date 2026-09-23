@@ -193256,13 +193256,6 @@
           "permanent": false,
           "source_id": "14778018",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:36.287088+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14778018",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:57.065042+00:00"
         },
         {
@@ -193271,6 +193264,13 @@
           "target_video_id": "29637942",
           "permanent": false,
           "attempted_at": "2026-09-23T09:06:08.252375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14778018",
+          "target_video_id": "29637942",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:27:37.762113+00:00"
         }
       ],
       "last_plan": {
@@ -193281,7 +193281,7 @@
       "previous_target_id": "29637942",
       "prepared": {
         "target_video_id": "29637942",
-        "size_bytes": 1264132736,
+        "size_bytes": 1300000000,
         "prepared_at": "2026-09-23T09:02:03.917475+00:00"
       }
     },
@@ -193363,16 +193363,10 @@
           "attempted_at": "2026-09-23T09:10:30.744566+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33855140",
-        "display_name": "Smrtící spona (1984) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T10:25:22.086577+00:00"
-      },
       "previous_target_id": "29637955",
-      "prepared": {
+      "upload": {
         "target_video_id": "29637955",
-        "size_bytes": 2487840566,
-        "prepared_at": "2026-09-23T09:03:08.907273+00:00"
+        "uploaded_at": "2026-09-23T10:27:39.422097+00:00"
       }
     },
     "12403": {
@@ -246085,5 +246079,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:27:34.175385+00:00"
+  "updated_at": "2026-09-23T10:27:39.422111+00:00"
 }
