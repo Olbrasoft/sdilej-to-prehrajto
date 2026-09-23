@@ -78620,13 +78620,6 @@
           "source_id": "32940647",
           "target_video_id": "29290054",
           "permanent": false,
-          "attempted_at": "2026-09-22T09:34:26.395729+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32940647",
-          "target_video_id": "29290054",
-          "permanent": false,
           "attempted_at": "2026-09-23T00:54:27.918169+00:00"
         },
         {
@@ -78635,6 +78628,13 @@
           "target_video_id": "29290054",
           "permanent": false,
           "attempted_at": "2026-09-23T01:30:15.271652+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32940647",
+          "target_video_id": "29290054",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:01:28.037537+00:00"
         }
       ],
       "last_plan": {
@@ -78647,13 +78647,7 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-11T03:46:35.374983+00:00"
       },
-      "previous_target_id": "29290054",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T02:01:18.162392+00:00",
-        "lease_expires_at": "2026-09-23T08:01:18.162392+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29290054"
     },
     "17928": {
       "attempts": [
@@ -78851,22 +78845,10 @@
           "attempted_at": "2026-09-23T01:00:47.805027+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27868084",
-        "display_name": "Robinsonovi (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T02:00:58.698981+00:00"
-      },
       "previous_target_id": "29630387",
-      "prepared": {
+      "upload": {
         "target_video_id": "29630387",
-        "size_bytes": 2127830814,
-        "prepared_at": "2026-09-23T00:55:32.958800+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T02:01:19.941021+00:00",
-        "lease_expires_at": "2026-09-23T08:01:19.941021+00:00",
-        "run_id": "35804360245"
+        "uploaded_at": "2026-09-23T02:01:29.030607+00:00"
       }
     },
     "17792": {
@@ -79135,6 +79117,13 @@
           "target_video_id": "29630406",
           "permanent": false,
           "attempted_at": "2026-09-23T01:05:34.399835+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15937877",
+          "target_video_id": "29630406",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:01:28.284349+00:00"
         }
       ],
       "last_plan": {
@@ -79145,14 +79134,8 @@
       "previous_target_id": "29630406",
       "prepared": {
         "target_video_id": "29630406",
-        "size_bytes": 3479085107,
+        "size_bytes": 3500000000,
         "prepared_at": "2026-09-23T00:56:47.226434+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T02:01:19.450392+00:00",
-        "lease_expires_at": "2026-09-23T08:01:19.450392+00:00",
-        "run_id": "35804360245"
       }
     },
     "3005": {
@@ -79266,6 +79249,12 @@
         "target_video_id": "29630426",
         "size_bytes": 2150299882,
         "prepared_at": "2026-09-23T00:58:06.348736+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T02:01:28.532006+00:00",
+        "lease_expires_at": "2026-09-23T08:01:28.532006+00:00",
+        "run_id": "35804360245"
       }
     },
     "37485": {
@@ -79294,6 +79283,12 @@
         "target_video_id": "29630456",
         "size_bytes": 3132930438,
         "prepared_at": "2026-09-23T01:00:41.977266+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T02:01:28.780297+00:00",
+        "lease_expires_at": "2026-09-23T08:01:28.780297+00:00",
+        "run_id": "35804360245"
       }
     },
     "2766": {
@@ -243505,5 +243500,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:01:20.821311+00:00"
+  "updated_at": "2026-09-23T02:01:29.030626+00:00"
 }
