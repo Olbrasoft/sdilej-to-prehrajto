@@ -190461,13 +190461,6 @@
     "6562": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21117184",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:48:01.234208+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "21117184",
           "target_video_id": "29634081",
@@ -190480,6 +190473,13 @@
           "target_video_id": "29634081",
           "permanent": false,
           "attempted_at": "2026-09-23T06:53:22.407351+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21117184",
+          "target_video_id": "29634081",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:54:14.188953+00:00"
         }
       ],
       "last_plan": {
@@ -190504,13 +190504,6 @@
           "permanent": false,
           "source_id": "33136608",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:19.239301+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33136608",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:02.192874+00:00"
         },
         {
@@ -190519,6 +190512,13 @@
           "reason": "Request failed for https://sdilej.cz/33136608/mikey-1992-cz-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T04:51:49.173866+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33136608",
+          "target_video_id": "29635782",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:54:15.838870+00:00"
         }
       ],
       "last_plan": {
@@ -190529,7 +190529,7 @@
       "previous_target_id": "29635782",
       "prepared": {
         "target_video_id": "29635782",
-        "size_bytes": 3606474804,
+        "size_bytes": 3600000000,
         "prepared_at": "2026-09-23T06:53:26.815778+00:00"
       }
     },
@@ -245754,5 +245754,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:54:10.586777+00:00"
+  "updated_at": "2026-09-23T07:54:15.838904+00:00"
 }
