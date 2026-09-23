@@ -188430,13 +188430,6 @@
           "permanent": false,
           "source_id": "33077519",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:30:54.260242+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33077519",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:07.640582+00:00"
         },
         {
@@ -188445,18 +188438,19 @@
           "source_id": "33077519",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:17.511234+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33077519",
+          "reason": "Request failed for https://sdilej.cz/33077519/nanny-mcphee-and-the-big-bang-2010-czsken-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:34:31.368608+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33077519",
         "display_name": "Kouzelná chůva a Velký třesk (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:47.881634+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T04:33:43.946309+00:00",
-        "lease_expires_at": "2026-09-23T10:33:43.946309+00:00",
-        "run_id": "35804360245"
       }
     },
     "15306": {
@@ -244505,5 +244499,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:34:25.072362+00:00"
+  "updated_at": "2026-09-23T04:34:31.368625+00:00"
 }
