@@ -81351,13 +81351,6 @@
           "source_id": "17259873",
           "target_video_id": "29635547",
           "permanent": false,
-          "attempted_at": "2026-09-23T06:53:07.809295+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17259873",
-          "target_video_id": "29635547",
-          "permanent": false,
           "attempted_at": "2026-09-23T07:39:52.184862+00:00"
         },
         {
@@ -81366,6 +81359,13 @@
           "target_video_id": "29635547",
           "permanent": false,
           "attempted_at": "2026-09-23T08:33:35.793104+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17259873",
+          "target_video_id": "29635547",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:13:57.417490+00:00"
         }
       ],
       "last_plan": {
@@ -81481,6 +81481,13 @@
           "target_video_id": "29636498",
           "permanent": false,
           "attempted_at": "2026-09-23T08:33:41.133974+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13309901",
+          "target_video_id": "29636498",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:13:59.890565+00:00"
         }
       ],
       "last_plan": {
@@ -82248,13 +82255,6 @@
           "source_id": "30647033",
           "target_video_id": "29571102",
           "permanent": false,
-          "attempted_at": "2026-09-23T06:20:36.119155+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30647033",
-          "target_video_id": "29571102",
-          "permanent": false,
           "attempted_at": "2026-09-23T07:40:17.310100+00:00"
         },
         {
@@ -82263,6 +82263,13 @@
           "target_video_id": "29571102",
           "permanent": false,
           "attempted_at": "2026-09-23T08:33:43.355490+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30647033",
+          "target_video_id": "29571102",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:14:01.678432+00:00"
         }
       ],
       "last_plan": {
@@ -82548,13 +82555,6 @@
           "source_id": "34237700",
           "target_video_id": "29634830",
           "permanent": false,
-          "attempted_at": "2026-09-23T06:44:21.809789+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34237700",
-          "target_video_id": "29634830",
-          "permanent": false,
           "attempted_at": "2026-09-23T07:40:19.138131+00:00"
         },
         {
@@ -82563,6 +82563,13 @@
           "target_video_id": "29634830",
           "permanent": false,
           "attempted_at": "2026-09-23T08:33:45.198643+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34237700",
+          "target_video_id": "29634830",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:14:03.495896+00:00"
         }
       ],
       "last_plan": {
@@ -82668,6 +82675,12 @@
         "target_video_id": "29635304",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-23T06:20:37.722626+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T10:14:03.882613+00:00",
+        "lease_expires_at": "2026-09-23T16:14:03.882613+00:00",
+        "run_id": "35828044219"
       }
     },
     "3099": {
@@ -194763,13 +194776,6 @@
           "permanent": false,
           "source_id": "26205158",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:09.850304+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26205158",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:21:37.183546+00:00"
         },
         {
@@ -194778,18 +194784,19 @@
           "source_id": "26205158",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:45.537074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26205158",
+          "target_video_id": "29638829",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:14:04.350242+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26205158",
         "display_name": "Žhavá jízda (2013) 720p CZ Dabing",
         "planned_at": "2026-09-23T08:50:37.208360+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
-        "claimed_at": "2026-09-23T09:57:09.865210+00:00",
-        "lease_expires_at": "2026-09-23T15:57:09.865210+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29638829",
       "prepared": {
@@ -246141,5 +246148,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:13:53.777339+00:00"
+  "updated_at": "2026-09-23T10:14:04.350259+00:00"
 }
