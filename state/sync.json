@@ -209577,13 +209577,6 @@
           "permanent": false,
           "source_id": "33435725",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:10:38.798417+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33435725",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:41.923879+00:00"
         },
         {
@@ -209592,6 +209585,13 @@
           "target_video_id": "29655033",
           "permanent": false,
           "attempted_at": "2026-09-23T22:38:13.828617+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33435725",
+          "target_video_id": "29655033",
+          "permanent": false,
+          "attempted_at": "2026-09-23T23:47:39.323415+00:00"
         }
       ],
       "last_plan": {
@@ -209602,7 +209602,7 @@
       "previous_target_id": "29655033",
       "prepared": {
         "target_video_id": "29655033",
-        "size_bytes": 2179244517,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T22:31:42.165268+00:00"
       }
     },
@@ -209630,16 +209630,10 @@
           "attempted_at": "2026-09-23T22:34:25.060310+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34710848",
-        "display_name": "Mejdan jak se patří (2013) SD CZ Dabing",
-        "planned_at": "2026-09-23T23:46:00.409633+00:00"
-      },
       "previous_target_id": "29655035",
-      "prepared": {
+      "upload": {
         "target_video_id": "29655035",
-        "size_bytes": 858922081,
-        "prepared_at": "2026-09-23T22:31:50.148339+00:00"
+        "uploaded_at": "2026-09-23T23:47:40.887306+00:00"
       }
     },
     "29050": {
@@ -250592,5 +250586,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T23:47:32.280016+00:00"
+  "updated_at": "2026-09-23T23:47:40.887324+00:00"
 }
