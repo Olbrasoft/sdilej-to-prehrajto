@@ -80831,13 +80831,6 @@
           "source_id": "25307977",
           "target_video_id": "29315006",
           "permanent": false,
-          "attempted_at": "2026-09-23T05:47:20.734258+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25307977",
-          "target_video_id": "29315006",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:20:33.873592+00:00"
         },
         {
@@ -80846,6 +80839,13 @@
           "target_video_id": "29315006",
           "permanent": false,
           "attempted_at": "2026-09-23T07:39:22.274894+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25307977",
+          "target_video_id": "29315006",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:32:38.672838+00:00"
         }
       ],
       "last_plan": {
@@ -80858,13 +80858,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-12T03:06:54.336206+00:00"
       },
-      "previous_target_id": "29315006",
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
-        "claimed_at": "2026-09-23T08:32:35.315750+00:00",
-        "lease_expires_at": "2026-09-23T14:32:35.315750+00:00",
-        "run_id": "35828044219"
-      }
+      "previous_target_id": "29315006"
     },
     "2810": {
       "attempts": [
@@ -80968,6 +80962,13 @@
           "target_video_id": "29635496",
           "permanent": false,
           "attempted_at": "2026-09-23T07:39:23.988180+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35010518",
+          "target_video_id": "29635496",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:32:40.445509+00:00"
         }
       ],
       "last_plan": {
@@ -81025,6 +81026,13 @@
           "reason": "Request failed for https://sdilej.cz/12049029/tolkien.2019.1080p.webrip.x264.dd2.0-ac3-.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T07:40:10.489444+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12049029",
+          "reason": "Request failed for https://sdilej.cz/12049029/tolkien.2019.1080p.webrip.x264.dd2.0-ac3-.cz.dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:33:26.636175+00:00"
         }
       ],
       "last_plan": {
@@ -245800,5 +245808,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:32:36.411555+00:00"
+  "updated_at": "2026-09-23T08:33:26.636191+00:00"
 }
