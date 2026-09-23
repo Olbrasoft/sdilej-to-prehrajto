@@ -64722,13 +64722,6 @@
           "source_id": "34731981",
           "target_video_id": "29576943",
           "permanent": false,
-          "attempted_at": "2026-09-23T10:10:38.795731+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34731981",
-          "target_video_id": "29576943",
-          "permanent": false,
           "attempted_at": "2026-09-23T11:01:03.758987+00:00"
         },
         {
@@ -64737,6 +64730,13 @@
           "target_video_id": "29576943",
           "permanent": false,
           "attempted_at": "2026-09-23T11:57:46.252324+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34731981",
+          "target_video_id": "29576943",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:28:51.133969+00:00"
         }
       ],
       "last_plan": {
@@ -64749,12 +64749,6 @@
         "target_video_id": "29576943",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-21T06:47:13.876118+00:00"
-      },
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-0",
-        "claimed_at": "2026-09-23T12:28:43.462813+00:00",
-        "lease_expires_at": "2026-09-23T18:28:43.462813+00:00",
-        "run_id": "35828044219"
       }
     },
     "2362": {
@@ -64924,6 +64918,12 @@
         "target_video_id": "29576974",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-21T06:49:04.384237+00:00"
+      },
+      "claim": {
+        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-5",
+        "claimed_at": "2026-09-23T12:28:50.877987+00:00",
+        "lease_expires_at": "2026-09-23T18:28:50.877987+00:00",
+        "run_id": "35828044219"
       }
     },
     "26095": {
@@ -82477,17 +82477,19 @@
       "attempts": []
     },
     "22839": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29835020",
+          "target_video_id": "29641414",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:28:51.388202+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29835020",
         "display_name": "Rok Draka (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:03:13.349552+00:00"
-      },
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-2",
-        "claimed_at": "2026-09-23T12:03:37.009635+00:00",
-        "lease_expires_at": "2026-09-23T18:03:37.009635+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29641414",
       "prepared": {
@@ -246728,5 +246730,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:28:44.822773+00:00"
+  "updated_at": "2026-09-23T12:28:51.388225+00:00"
 }
