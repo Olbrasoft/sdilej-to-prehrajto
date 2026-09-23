@@ -188840,13 +188840,6 @@
           "permanent": false,
           "source_id": "33787119",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:30:57.242569+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33787119",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:13.367809+00:00"
         },
         {
@@ -188855,18 +188848,19 @@
           "source_id": "33787119",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:21.468688+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33787119",
+          "target_video_id": "29633959",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:50:00.958821+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33787119",
         "display_name": "Mladá čarodějnice (1989) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:50.871406+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T04:40:00.296532+00:00",
-        "lease_expires_at": "2026-09-23T10:40:00.296532+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29633959",
       "prepared": {
@@ -244597,5 +244591,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:48:45.981299+00:00"
+  "updated_at": "2026-09-23T04:50:00.958838+00:00"
 }
