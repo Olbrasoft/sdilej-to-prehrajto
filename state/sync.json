@@ -65809,13 +65809,6 @@
     "36652": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "6663522",
-          "reason": "Request failed for https://sdilej.cz/6663522/v.roli.kaskadera.1980.cz.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-23T12:01:52.504343+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "6663522",
           "target_video_id": "29642313",
@@ -65828,6 +65821,13 @@
           "target_video_id": "29642313",
           "permanent": false,
           "attempted_at": "2026-09-23T13:10:45.257200+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6663522",
+          "target_video_id": "29642313",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:28:57.385374+00:00"
         }
       ],
       "last_plan": {
@@ -65840,12 +65840,6 @@
         "target_video_id": "29642313",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T12:33:01.165282+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-4",
-        "claimed_at": "2026-09-23T14:28:54.735514+00:00",
-        "lease_expires_at": "2026-09-23T20:28:54.735514+00:00",
-        "run_id": "35861705510"
       }
     },
     "30671": {
@@ -65853,13 +65847,6 @@
     },
     "37375": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34471665",
-          "target_video_id": "29356052",
-          "permanent": false,
-          "attempted_at": "2026-09-23T12:01:47.014274+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34471665",
@@ -65873,6 +65860,13 @@
           "target_video_id": "29356052",
           "permanent": false,
           "attempted_at": "2026-09-23T13:10:46.086392+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34471665",
+          "target_video_id": "29356052",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:28:58.295928+00:00"
         }
       ],
       "last_plan": {
@@ -65978,13 +65972,6 @@
           "source_id": "18528523",
           "target_video_id": "29413408",
           "permanent": false,
-          "attempted_at": "2026-09-23T12:01:46.641316+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18528523",
-          "target_video_id": "29413408",
-          "permanent": false,
           "attempted_at": "2026-09-23T12:33:00.435144+00:00"
         },
         {
@@ -65993,6 +65980,13 @@
           "target_video_id": "29413408",
           "permanent": false,
           "attempted_at": "2026-09-23T13:10:45.546678+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18528523",
+          "target_video_id": "29413408",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:28:58.624853+00:00"
         }
       ],
       "last_plan": {
@@ -66027,13 +66021,6 @@
           "source_id": "10879629",
           "target_video_id": "29413416",
           "permanent": false,
-          "attempted_at": "2026-09-23T12:01:50.059842+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10879629",
-          "target_video_id": "29413416",
-          "permanent": false,
           "attempted_at": "2026-09-23T12:33:07.665902+00:00"
         },
         {
@@ -66042,6 +66029,13 @@
           "target_video_id": "29413416",
           "permanent": false,
           "attempted_at": "2026-09-23T13:10:48.417568+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10879629",
+          "target_video_id": "29413416",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:28:58.814489+00:00"
         }
       ],
       "last_plan": {
@@ -66119,7 +66113,13 @@
         "size_bytes": 10300000000,
         "prepared_at": "2026-09-09T22:49:40.012044+00:00"
       },
-      "previous_target_id": "29256351"
+      "previous_target_id": "29256351",
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
+        "claimed_at": "2026-09-23T14:28:59.204118+00:00",
+        "lease_expires_at": "2026-09-23T20:28:59.204118+00:00",
+        "run_id": "35861705510"
+      }
     },
     "32407": {
       "attempts": []
@@ -66185,16 +66185,10 @@
           "attempted_at": "2026-09-23T13:10:48.835918+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28030633",
-        "display_name": "Do hloubky webu (2015) SD CZ Dabing",
-        "planned_at": "2026-09-23T14:28:28.242865+00:00"
-      },
       "previous_target_id": "29642333",
-      "prepared": {
+      "upload": {
         "target_video_id": "29642333",
-        "size_bytes": 1400000000,
-        "prepared_at": "2026-09-23T12:33:12.243534+00:00"
+        "uploaded_at": "2026-09-23T14:29:00.312666+00:00"
       }
     },
     "28388": {
@@ -66814,7 +66808,13 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-11T21:52:44.592946+00:00"
       },
-      "previous_target_id": "29310939"
+      "previous_target_id": "29310939",
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-4",
+        "claimed_at": "2026-09-23T14:28:59.434150+00:00",
+        "lease_expires_at": "2026-09-23T20:28:59.434150+00:00",
+        "run_id": "35861705510"
+      }
     },
     "28078": {
       "attempts": []
@@ -247473,5 +247473,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T14:28:54.895994+00:00"
+  "updated_at": "2026-09-23T14:29:00.312683+00:00"
 }
