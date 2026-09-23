@@ -22099,13 +22099,6 @@
           "source_id": "26735241",
           "target_video_id": "29118333",
           "permanent": false,
-          "attempted_at": "2026-09-23T03:39:23.655089+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26735241",
-          "target_video_id": "29118333",
-          "permanent": false,
           "attempted_at": "2026-09-23T04:12:57.842864+00:00"
         },
         {
@@ -22114,6 +22107,13 @@
           "target_video_id": "29118333",
           "permanent": false,
           "attempted_at": "2026-09-23T05:40:51.239339+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26735241",
+          "target_video_id": "29118333",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:11:37.182236+00:00"
         }
       ],
       "last_plan": {
@@ -22126,23 +22126,10 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-09-05T03:43:51.599271+00:00"
       },
-      "previous_target_id": "29118333",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T06:11:30.095557+00:00",
-        "lease_expires_at": "2026-09-23T12:11:30.095557+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29118333"
     },
     "23298": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34040589",
-          "target_video_id": "29118389",
-          "permanent": false,
-          "attempted_at": "2026-09-23T03:39:24.340713+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34040589",
@@ -22156,6 +22143,13 @@
           "target_video_id": "29118389",
           "permanent": false,
           "attempted_at": "2026-09-23T05:40:50.880087+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34040589",
+          "target_video_id": "29118389",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:11:39.013061+00:00"
         }
       ],
       "last_plan": {
@@ -22277,7 +22271,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
       },
-      "previous_target_id": "29118413"
+      "previous_target_id": "29118413",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T06:11:39.293783+00:00",
+        "lease_expires_at": "2026-09-23T12:11:39.293783+00:00",
+        "run_id": "35804360245"
+      }
     },
     "14460": {
       "attempts": []
@@ -117428,13 +117428,6 @@
           "source_id": "20459898",
           "reason": "Request failed for https://sdilej.cz/20459898/matcina-lez-hidden-family-secrets-cz-1080p-2021.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-23T02:44:18.060804+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "20459898",
-          "reason": "Request failed for https://sdilej.cz/20459898/matcina-lez-hidden-family-secrets-cz-1080p-2021.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T03:28:27.127487+00:00"
         },
         {
@@ -117443,18 +117436,19 @@
           "reason": "Request failed for https://sdilej.cz/20459898/matcina-lez-hidden-family-secrets-cz-1080p-2021.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T04:21:20.077691+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20459898",
+          "target_video_id": "29635126",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:11:39.605786+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20459898",
         "display_name": "Matčina lež (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-23T06:05:00.978616+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T06:06:02.937432+00:00",
-        "lease_expires_at": "2026-09-23T12:06:02.937432+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29635126",
       "prepared": {
@@ -245074,5 +245068,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:11:30.399956+00:00"
+  "updated_at": "2026-09-23T06:11:39.605803+00:00"
 }
