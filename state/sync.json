@@ -21679,6 +21679,12 @@
         "source_id": "18974609",
         "display_name": "Městečko South Park: Po Covidu (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-23T04:00:44.471773+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T04:02:48.541439+00:00",
+        "lease_expires_at": "2026-09-23T10:02:48.541439+00:00",
+        "run_id": "35804360245"
       }
     },
     "1106": {
@@ -187350,13 +187356,6 @@
           "permanent": false,
           "source_id": "12819792",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:28.241107+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12819792",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:03.411814+00:00"
         },
         {
@@ -187365,18 +187364,19 @@
           "reason": "Request failed for https://sdilej.cz/12819792/coriolanus.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T03:13:35.949823+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12819792",
+          "target_video_id": "29633199",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:02:53.682027+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12819792",
         "display_name": "Coriolanus (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:50:51.363510+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T03:53:27.021545+00:00",
-        "lease_expires_at": "2026-09-23T09:53:27.021545+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29633199",
       "prepared": {
@@ -244312,5 +244312,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:02:41.273852+00:00"
+  "updated_at": "2026-09-23T04:02:53.682041+00:00"
 }
