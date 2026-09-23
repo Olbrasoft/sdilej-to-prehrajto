@@ -97121,13 +97121,6 @@
           "source_id": "34088573",
           "reason": "Request failed for https://sdilej.cz/34088573/samhain.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-23T01:30:19.086703+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34088573",
-          "reason": "Request failed for https://sdilej.cz/34088573/samhain.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T02:03:29.945739+00:00"
         },
         {
@@ -97136,18 +97129,19 @@
           "reason": "Request failed for https://sdilej.cz/34088573/samhain.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T02:35:26.985351+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34088573",
+          "reason": "Request failed for https://sdilej.cz/34088573/samhain.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:07:01.952360+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34088573",
         "display_name": "Samhain (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:05:38.522988+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T03:06:15.290841+00:00",
-        "lease_expires_at": "2026-09-23T09:06:15.290841+00:00",
-        "run_id": "35804360245"
       }
     },
     "29868": {
@@ -120523,6 +120517,13 @@
           "target_video_id": "29631623",
           "permanent": false,
           "attempted_at": "2026-09-23T02:25:47.115108+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35001076",
+          "target_video_id": "29631623",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:07:00.774908+00:00"
         }
       ],
       "last_plan": {
@@ -120533,14 +120534,8 @@
       "previous_target_id": "29631623",
       "prepared": {
         "target_video_id": "29631623",
-        "size_bytes": 852050977,
+        "size_bytes": 852100000,
         "prepared_at": "2026-09-23T02:24:01.947926+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T03:06:57.430087+00:00",
-        "lease_expires_at": "2026-09-23T09:06:57.430087+00:00",
-        "run_id": "35804360245"
       }
     },
     "26457": {
@@ -120650,7 +120645,13 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-07T10:56:24.066699+00:00"
       },
-      "previous_target_id": "29183602"
+      "previous_target_id": "29183602",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T03:07:00.203402+00:00",
+        "lease_expires_at": "2026-09-23T09:07:00.203402+00:00",
+        "run_id": "35804360245"
+      }
     },
     "36999": {
       "attempts": []
@@ -120732,7 +120733,13 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-08T17:53:52.893882+00:00"
       },
-      "previous_target_id": "29219599"
+      "previous_target_id": "29219599",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T03:07:00.491621+00:00",
+        "lease_expires_at": "2026-09-23T09:07:00.491621+00:00",
+        "run_id": "35804360245"
+      }
     },
     "9468": {
       "attempts": []
@@ -120792,7 +120799,13 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-08T18:20:50.891256+00:00"
       },
-      "previous_target_id": "29220276"
+      "previous_target_id": "29220276",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T03:07:01.063716+00:00",
+        "lease_expires_at": "2026-09-23T09:07:01.063716+00:00",
+        "run_id": "35804360245"
+      }
     },
     "14305": {
       "attempts": []
@@ -243896,5 +243909,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:06:57.951900+00:00"
+  "updated_at": "2026-09-23T03:07:01.952375+00:00"
 }
