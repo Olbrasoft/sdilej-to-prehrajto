@@ -21728,17 +21728,19 @@
       "attempts": []
     },
     "23536": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "6546930",
+          "reason": "Request failed for https://sdilej.cz/6546930/pouha-formalita-dvdrip-cz-1994.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:03:47.503290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6546930",
         "display_name": "Pouhá formalita (1994) SD CZ Dabing",
         "planned_at": "2026-09-23T04:00:44.794708+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T04:03:01.507222+00:00",
-        "lease_expires_at": "2026-09-23T10:03:01.507222+00:00",
-        "run_id": "35804360245"
       }
     },
     "22271": {
@@ -244330,5 +244332,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:03:06.433689+00:00"
+  "updated_at": "2026-09-23T04:03:47.503309+00:00"
 }
