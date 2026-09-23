@@ -194288,13 +194288,6 @@
           "permanent": false,
           "source_id": "11702034",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:21:34.168076+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11702034",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:40.884423+00:00"
         },
         {
@@ -194303,18 +194296,19 @@
           "reason": "Request failed for https://sdilej.cz/11702034/malibu-rescue-the-movie-2019-titulky.cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T09:45:10.727139+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11702034",
+          "target_video_id": "29639298",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:36:37.872637+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11702034",
         "display_name": "Záchranáři z Malibu (2019) SD CZ Titulky",
         "planned_at": "2026-09-23T10:25:28.578009+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
-        "claimed_at": "2026-09-23T10:32:01.432758+00:00",
-        "lease_expires_at": "2026-09-23T16:32:01.432758+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29639298",
       "prepared": {
@@ -246103,5 +246097,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:36:25.649554+00:00"
+  "updated_at": "2026-09-23T10:36:37.872659+00:00"
 }
