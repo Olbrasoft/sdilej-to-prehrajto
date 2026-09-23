@@ -187125,13 +187125,6 @@
           "permanent": false,
           "source_id": "30781917",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:25.635944+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30781917",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:01.411990+00:00"
         },
         {
@@ -187140,6 +187133,13 @@
           "target_video_id": "29632374",
           "permanent": false,
           "attempted_at": "2026-09-23T03:14:04.212720+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30781917",
+          "target_video_id": "29632374",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:24.513976+00:00"
         }
       ],
       "last_plan": {
@@ -187150,7 +187150,7 @@
       "previous_target_id": "29632374",
       "prepared": {
         "target_video_id": "29632374",
-        "size_bytes": 2023787328,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-23T03:07:24.170522+00:00"
       }
     },
@@ -187183,13 +187183,6 @@
           "permanent": false,
           "source_id": "5843279",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:26.520299+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "5843279",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:02.867285+00:00"
         },
         {
@@ -187198,6 +187191,13 @@
           "target_video_id": "29632400",
           "permanent": false,
           "attempted_at": "2026-09-23T03:12:21.237589+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5843279",
+          "target_video_id": "29632400",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:26.668697+00:00"
         }
       ],
       "last_plan": {
@@ -187208,7 +187208,7 @@
       "previous_target_id": "29632400",
       "prepared": {
         "target_video_id": "29632400",
-        "size_bytes": 1230531430,
+        "size_bytes": 1200000000,
         "prepared_at": "2026-09-23T03:08:36.184945+00:00"
       }
     },
@@ -187279,6 +187279,18 @@
         "source_id": "12819792",
         "display_name": "Coriolanus (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:50:51.363510+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T03:53:27.021545+00:00",
+        "lease_expires_at": "2026-09-23T09:53:27.021545+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29633199",
+      "prepared": {
+        "target_video_id": "29633199",
+        "size_bytes": 2825481404,
+        "prepared_at": "2026-09-23T03:53:31.504355+00:00"
       }
     },
     "16404": {
@@ -244196,5 +244208,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:53:20.674004+00:00"
+  "updated_at": "2026-09-23T03:53:31.504371+00:00"
 }
