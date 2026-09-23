@@ -205954,13 +205954,6 @@
           "permanent": false,
           "source_id": "14005093",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:53.127998+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14005093",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:36.497450+00:00"
         },
         {
@@ -205969,6 +205962,13 @@
           "target_video_id": "29650799",
           "permanent": false,
           "attempted_at": "2026-09-23T18:12:19.431427+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14005093",
+          "target_video_id": "29650799",
+          "permanent": false,
+          "attempted_at": "2026-09-23T20:17:59.995816+00:00"
         }
       ],
       "last_plan": {
@@ -205979,14 +205979,8 @@
       "previous_target_id": "29650799",
       "prepared": {
         "target_video_id": "29650799",
-        "size_bytes": 2396584629,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T18:03:48.404833+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-1",
-        "claimed_at": "2026-09-23T20:17:55.550664+00:00",
-        "lease_expires_at": "2026-09-24T02:17:55.550664+00:00",
-        "run_id": "35903170689"
       }
     },
     "10488": {
@@ -206036,22 +206030,10 @@
           "attempted_at": "2026-09-23T18:12:32.176629+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "19610060",
-        "display_name": "Obřad (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T20:17:20.894988+00:00"
-      },
       "previous_target_id": "29650810",
-      "prepared": {
+      "upload": {
         "target_video_id": "29650810",
-        "size_bytes": 2172212473,
-        "prepared_at": "2026-09-23T18:04:24.489344+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-5",
-        "claimed_at": "2026-09-23T20:17:56.895986+00:00",
-        "lease_expires_at": "2026-09-24T02:17:56.895986+00:00",
-        "run_id": "35903170689"
+        "uploaded_at": "2026-09-23T20:18:01.304178+00:00"
       }
     },
     "33035": {
@@ -206074,13 +206056,6 @@
           "permanent": false,
           "source_id": "34897403",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:02:05.928629+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34897403",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:02:25.068812+00:00"
         },
         {
@@ -206089,6 +206064,13 @@
           "target_video_id": "29650900",
           "permanent": false,
           "attempted_at": "2026-09-23T18:48:09.459464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34897403",
+          "target_video_id": "29650900",
+          "permanent": false,
+          "attempted_at": "2026-09-23T20:18:00.880672+00:00"
         }
       ],
       "last_plan": {
@@ -206099,14 +206081,8 @@
       "previous_target_id": "29650900",
       "prepared": {
         "target_video_id": "29650900",
-        "size_bytes": 10905556025,
+        "size_bytes": 10900000000,
         "prepared_at": "2026-09-23T18:10:15.281952+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-3",
-        "claimed_at": "2026-09-23T20:17:56.456264+00:00",
-        "lease_expires_at": "2026-09-24T02:17:56.456264+00:00",
-        "run_id": "35903170689"
       }
     },
     "23374": {
@@ -206222,6 +206198,12 @@
         "target_video_id": "29650913",
         "size_bytes": 5721641725,
         "prepared_at": "2026-09-23T18:10:49.061336+00:00"
+      },
+      "claim": {
+        "worker_id": "64730703516542508cf790861f417e76-shard-2",
+        "claimed_at": "2026-09-23T20:18:00.239869+00:00",
+        "lease_expires_at": "2026-09-24T02:18:00.239869+00:00",
+        "run_id": "35903170689"
       }
     },
     "29874": {
@@ -206258,6 +206240,12 @@
         "target_video_id": "29650917",
         "size_bytes": 2682384824,
         "prepared_at": "2026-09-23T18:11:04.504297+00:00"
+      },
+      "claim": {
+        "worker_id": "64730703516542508cf790861f417e76-shard-1",
+        "claimed_at": "2026-09-23T20:18:00.631062+00:00",
+        "lease_expires_at": "2026-09-24T02:18:00.631062+00:00",
+        "run_id": "35903170689"
       }
     },
     "27796": {
@@ -249593,5 +249581,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T20:17:57.817958+00:00"
+  "updated_at": "2026-09-23T20:18:01.304195+00:00"
 }
