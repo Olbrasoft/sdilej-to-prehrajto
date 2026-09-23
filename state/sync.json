@@ -185711,13 +185711,6 @@
           "permanent": false,
           "source_id": "30117745",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:00:24.263767+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30117745",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:00:40.024610+00:00"
         },
         {
@@ -185726,6 +185719,13 @@
           "target_video_id": "29614724",
           "permanent": false,
           "attempted_at": "2026-09-22T10:07:02.650617+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30117745",
+          "target_video_id": "29614724",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:54:00.203360+00:00"
         }
       ],
       "last_plan": {
@@ -185736,7 +185736,7 @@
       "previous_target_id": "29614724",
       "prepared": {
         "target_video_id": "29614724",
-        "size_bytes": 1058856992,
+        "size_bytes": 1100000000,
         "prepared_at": "2026-09-22T10:05:50.276592+00:00"
       }
     },
@@ -185770,16 +185770,10 @@
           "attempted_at": "2026-09-22T10:10:27.933819+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33788772",
-        "display_name": "Noci v Harlemu (1989) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T02:52:08.844650+00:00"
-      },
       "previous_target_id": "29614742",
-      "prepared": {
+      "upload": {
         "target_video_id": "29614742",
-        "size_bytes": 2771766942,
-        "prepared_at": "2026-09-22T10:07:08.638849+00:00"
+        "uploaded_at": "2026-09-23T02:54:02.066590+00:00"
       }
     },
     "10126": {
@@ -243959,5 +243953,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:53:56.054027+00:00"
+  "updated_at": "2026-09-23T02:54:02.066611+00:00"
 }
