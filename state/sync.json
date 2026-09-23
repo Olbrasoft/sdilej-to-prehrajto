@@ -73057,13 +73057,6 @@
           "source_id": "12755157",
           "target_video_id": "29302307",
           "permanent": false,
-          "attempted_at": "2026-09-23T06:16:53.335132+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12755157",
-          "target_video_id": "29302307",
-          "permanent": false,
           "attempted_at": "2026-09-23T07:17:10.673454+00:00"
         },
         {
@@ -73072,6 +73065,13 @@
           "target_video_id": "29302307",
           "permanent": false,
           "attempted_at": "2026-09-23T07:48:46.716124+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12755157",
+          "target_video_id": "29302307",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:03.459070+00:00"
         }
       ],
       "last_plan": {
@@ -73084,13 +73084,7 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-11T15:01:59.209128+00:00"
       },
-      "previous_target_id": "29302307",
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-0",
-        "claimed_at": "2026-09-23T08:30:59.181845+00:00",
-        "lease_expires_at": "2026-09-23T14:30:59.181845+00:00",
-        "run_id": "35828044219"
-      }
+      "previous_target_id": "29302307"
     },
     "11675": {
       "attempts": [
@@ -73292,22 +73286,10 @@
           "attempted_at": "2026-09-23T07:38:49.599823+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29208640",
-        "display_name": "Jiří Suchý – Lehce s životem se prát (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T08:30:46.522493+00:00"
-      },
       "previous_target_id": "29635428",
-      "prepared": {
+      "upload": {
         "target_video_id": "29635428",
-        "size_bytes": 4700000000,
-        "prepared_at": "2026-09-23T06:30:15.605173+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
-        "claimed_at": "2026-09-23T08:31:00.712377+00:00",
-        "lease_expires_at": "2026-09-23T14:31:00.712377+00:00",
-        "run_id": "35828044219"
+        "uploaded_at": "2026-09-23T08:31:03.982758+00:00"
       }
     },
     "31720": {
@@ -73588,7 +73570,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-15T12:46:10.935035+00:00"
       },
-      "previous_target_id": "29404061"
+      "previous_target_id": "29404061",
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T08:31:03.720486+00:00",
+        "lease_expires_at": "2026-09-23T14:31:03.720486+00:00",
+        "run_id": "35828044219"
+      }
     },
     "12671": {
       "attempts": [
@@ -245792,5 +245780,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:31:01.260337+00:00"
+  "updated_at": "2026-09-23T08:31:03.982775+00:00"
 }
