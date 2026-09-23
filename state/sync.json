@@ -189611,13 +189611,6 @@
           "permanent": false,
           "source_id": "33787119",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:13.367809+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33787119",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:21.468688+00:00"
         },
         {
@@ -189626,6 +189619,13 @@
           "target_video_id": "29633959",
           "permanent": false,
           "attempted_at": "2026-09-23T04:50:00.958821+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33787119",
+          "target_video_id": "29633959",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:49:16.079283+00:00"
         }
       ],
       "last_plan": {
@@ -189636,7 +189636,7 @@
       "previous_target_id": "29633959",
       "prepared": {
         "target_video_id": "29633959",
-        "size_bytes": 2244472356,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T04:40:04.584655+00:00"
       }
     },
@@ -189670,16 +189670,10 @@
           "attempted_at": "2026-09-23T04:45:49.252111+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34784201",
-        "display_name": "A Letter from Death Row (1998) SD CZ Dabing",
-        "planned_at": "2026-09-23T06:29:18.421196+00:00"
-      },
       "previous_target_id": "29633994",
-      "prepared": {
+      "upload": {
         "target_video_id": "29633994",
-        "size_bytes": 861380343,
-        "prepared_at": "2026-09-23T04:43:23.492611+00:00"
+        "uploaded_at": "2026-09-23T06:49:17.859172+00:00"
       }
     },
     "28968": {
@@ -245446,5 +245440,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:49:12.060762+00:00"
+  "updated_at": "2026-09-23T06:49:17.859187+00:00"
 }
