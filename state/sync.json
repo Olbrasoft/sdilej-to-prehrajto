@@ -191784,13 +191784,6 @@
           "permanent": false,
           "source_id": "11982902",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:12.492635+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11982902",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:45.273631+00:00"
         },
         {
@@ -191799,18 +191792,19 @@
           "source_id": "11982902",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:02.890757+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11982902",
+          "target_video_id": "29636922",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:13:07.155641+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11982902",
         "display_name": "Vysněný život (2018) SD CZ Dabing",
         "planned_at": "2026-09-23T07:53:38.828214+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T08:08:47.540222+00:00",
-        "lease_expires_at": "2026-09-23T14:08:47.540222+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29636922",
       "prepared": {
@@ -245775,5 +245769,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:10:35.140212+00:00"
+  "updated_at": "2026-09-23T08:13:07.155660+00:00"
 }
