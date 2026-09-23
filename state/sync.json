@@ -104826,13 +104826,6 @@
           "source_id": "31554666",
           "target_video_id": "29262293",
           "permanent": false,
-          "attempted_at": "2026-09-22T09:36:01.200474+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31554666",
-          "target_video_id": "29262293",
-          "permanent": false,
           "attempted_at": "2026-09-23T01:49:48.055738+00:00"
         },
         {
@@ -104841,6 +104834,13 @@
           "target_video_id": "29262293",
           "permanent": false,
           "attempted_at": "2026-09-23T02:39:33.562177+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31554666",
+          "target_video_id": "29262293",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:26:27.811245+00:00"
         }
       ],
       "last_plan": {
@@ -104853,13 +104853,7 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-10T04:24:17.762308+00:00"
       },
-      "previous_target_id": "29262293",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T03:26:24.948692+00:00",
-        "lease_expires_at": "2026-09-23T09:26:24.948692+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29262293"
     },
     "15311": {
       "attempts": []
@@ -105189,6 +105183,12 @@
         "target_video_id": "29631945",
         "size_bytes": 2584272353,
         "prepared_at": "2026-09-23T02:39:46.239409+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T03:26:28.443432+00:00",
+        "lease_expires_at": "2026-09-23T09:26:28.443432+00:00",
+        "run_id": "35804360245"
       }
     },
     "10538": {
@@ -105293,16 +105293,10 @@
           "attempted_at": "2026-09-23T02:45:55.968436+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34788443",
-        "display_name": "Každý den odvahu (1965) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T03:25:37.999884+00:00"
-      },
       "previous_target_id": "29631949",
-      "prepared": {
+      "upload": {
         "target_video_id": "29631949",
-        "size_bytes": 1767820154,
-        "prepared_at": "2026-09-23T02:39:57.346955+00:00"
+        "uploaded_at": "2026-09-23T03:26:29.824029+00:00"
       }
     },
     "4125": {
@@ -244023,5 +244017,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:26:25.685220+00:00"
+  "updated_at": "2026-09-23T03:26:29.824048+00:00"
 }
