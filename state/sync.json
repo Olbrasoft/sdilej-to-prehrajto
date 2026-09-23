@@ -196632,13 +196632,6 @@
           "permanent": false,
           "source_id": "31574765",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:37.356148+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31574765",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:22:48.965773+00:00"
         },
         {
@@ -196647,18 +196640,19 @@
           "source_id": "31574765",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:18.334204+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31574765",
+          "reason": "Request failed for https://sdilej.cz/31574765/zena-v-ringu-1979-czdab.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:50:47.775138+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31574765",
         "display_name": "Žena v ringu (1979) SD CZ Dabing",
         "planned_at": "2026-09-23T12:38:08.594238+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
-        "claimed_at": "2026-09-23T12:50:01.771853+00:00",
-        "lease_expires_at": "2026-09-23T18:50:01.771853+00:00",
-        "run_id": "35828044219"
       }
     },
     "30500": {
@@ -196692,6 +196686,12 @@
         "source_id": "27789354",
         "display_name": "Letní kemp (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:38:08.902773+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-3",
+        "claimed_at": "2026-09-23T12:50:09.745382+00:00",
+        "lease_expires_at": "2026-09-23T18:50:09.745382+00:00",
+        "run_id": "35828044219"
       }
     },
     "19861": {
@@ -246758,5 +246758,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:50:07.526424+00:00"
+  "updated_at": "2026-09-23T12:50:47.775157+00:00"
 }
