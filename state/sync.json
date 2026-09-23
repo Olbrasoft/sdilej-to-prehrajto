@@ -73437,17 +73437,19 @@
       }
     },
     "34824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34783018",
+          "reason": "Request failed for https://sdilej.cz/34783018/spolecnice-2000-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:31:41.069789+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34783018",
         "display_name": "Společnice (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-23T06:29:05.628047+00:00"
-      },
-      "claim": {
-        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-4",
-        "claimed_at": "2026-09-23T06:30:54.962907+00:00",
-        "lease_expires_at": "2026-09-23T12:30:54.962907+00:00",
-        "run_id": "35804360245"
       }
     },
     "24189": {
@@ -245303,5 +245305,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:31:17.648835+00:00"
+  "updated_at": "2026-09-23T06:31:41.069805+00:00"
 }
