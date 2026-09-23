@@ -78118,6 +78118,13 @@
           "target_video_id": "29630265",
           "permanent": false,
           "attempted_at": "2026-09-23T00:55:40.034961+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30198301",
+          "target_video_id": "29630265",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:30:05.851640+00:00"
         }
       ],
       "last_plan": {
@@ -78128,7 +78135,7 @@
       "previous_target_id": "29630265",
       "prepared": {
         "target_video_id": "29630265",
-        "size_bytes": 2741831398,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-23T00:49:26.668333+00:00"
       }
     },
@@ -78219,6 +78226,13 @@
           "target_video_id": "29630301",
           "permanent": false,
           "attempted_at": "2026-09-23T00:55:47.220168+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26253538",
+          "target_video_id": "29630301",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:30:07.923279+00:00"
         }
       ],
       "last_plan": {
@@ -78229,7 +78243,7 @@
       "previous_target_id": "29630301",
       "prepared": {
         "target_video_id": "29630301",
-        "size_bytes": 2151048537,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T00:50:37.493913+00:00"
       }
     },
@@ -78288,6 +78302,13 @@
           "target_video_id": "29630350",
           "permanent": false,
           "attempted_at": "2026-09-23T00:57:56.081497+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34771652",
+          "target_video_id": "29630350",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:30:10.029338+00:00"
         }
       ],
       "last_plan": {
@@ -78298,19 +78319,12 @@
       "previous_target_id": "29630350",
       "prepared": {
         "target_video_id": "29630350",
-        "size_bytes": 1864259744,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T00:53:14.703549+00:00"
       }
     },
     "3113": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "33159897",
-          "target_video_id": "29141887",
-          "permanent": false,
-          "attempted_at": "2026-09-22T08:54:49.169927+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "33159897",
@@ -78324,6 +78338,13 @@
           "target_video_id": "29141887",
           "permanent": false,
           "attempted_at": "2026-09-23T00:54:25.024611+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33159897",
+          "target_video_id": "29141887",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:30:12.163971+00:00"
         }
       ],
       "last_plan": {
@@ -78392,13 +78413,6 @@
           "source_id": "32940647",
           "target_video_id": "29290054",
           "permanent": false,
-          "attempted_at": "2026-09-22T08:54:51.513333+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32940647",
-          "target_video_id": "29290054",
-          "permanent": false,
           "attempted_at": "2026-09-22T09:34:26.395729+00:00"
         },
         {
@@ -78407,6 +78421,13 @@
           "target_video_id": "29290054",
           "permanent": false,
           "attempted_at": "2026-09-23T00:54:27.918169+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32940647",
+          "target_video_id": "29290054",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:30:15.271652+00:00"
         }
       ],
       "last_plan": {
@@ -78699,6 +78720,12 @@
         "source_id": "33594906",
         "display_name": "Život podle Dana (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-23T01:29:36.636414+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T01:30:15.603052+00:00",
+        "lease_expires_at": "2026-09-23T07:30:15.603052+00:00",
+        "run_id": "35804360245"
       }
     },
     "12003": {
@@ -96712,17 +96739,19 @@
       }
     },
     "31879": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34088573",
+          "reason": "Request failed for https://sdilej.cz/34088573/samhain.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:30:19.086703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34088573",
         "display_name": "Samhain (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-23T01:20:43.719077+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T01:29:32.610199+00:00",
-        "lease_expires_at": "2026-09-23T07:29:32.610199+00:00",
-        "run_id": "35804360245"
       }
     },
     "29868": {
@@ -243003,5 +243032,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:29:58.902831+00:00"
+  "updated_at": "2026-09-23T01:30:19.086718+00:00"
 }
