@@ -116282,17 +116282,19 @@
       "attempts": []
     },
     "7494": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33956427",
+          "reason": "Request failed for https://sdilej.cz/33956427/anti-squat-2023-cz-dab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:08:48.857694+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33956427",
         "display_name": "Anti-Squat (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T02:05:27.194966+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T02:08:02.809835+00:00",
-        "lease_expires_at": "2026-09-23T08:08:02.809835+00:00",
-        "run_id": "35804360245"
       }
     },
     "32921": {
@@ -116323,6 +116325,12 @@
         "source_id": "29520305",
         "display_name": "Lepší časy (2023) 720p CZ Dabing",
         "planned_at": "2026-09-23T02:05:27.502765+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T02:08:30.449307+00:00",
+        "lease_expires_at": "2026-09-23T08:08:30.449307+00:00",
+        "run_id": "35804360245"
       }
     },
     "3798": {
@@ -243745,5 +243753,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:08:18.934853+00:00"
+  "updated_at": "2026-09-23T02:08:48.857713+00:00"
 }
