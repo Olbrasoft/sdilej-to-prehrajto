@@ -198351,13 +198351,6 @@
           "permanent": false,
           "source_id": "11783146",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:07:01.772285+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11783146",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:23:46.800486+00:00"
         },
         {
@@ -198366,18 +198359,19 @@
           "source_id": "11783146",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:45.297904+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11783146",
+          "target_video_id": "29646539",
+          "permanent": false,
+          "attempted_at": "2026-09-23T13:48:21.945576+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11783146",
         "display_name": "Skleněné peklo (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-23T13:31:38.426369+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T13:41:51.048378+00:00",
-        "lease_expires_at": "2026-09-23T19:41:51.048378+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29646539",
       "prepared": {
@@ -198540,6 +198534,12 @@
         "source_id": "22952249",
         "display_name": "Můj přítel Robot (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-23T13:31:39.106361+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
+        "claimed_at": "2026-09-23T13:48:19.907866+00:00",
+        "lease_expires_at": "2026-09-23T19:48:19.907866+00:00",
+        "run_id": "35861705510"
       }
     },
     "32340": {
@@ -247314,5 +247314,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T13:48:17.776691+00:00"
+  "updated_at": "2026-09-23T13:48:21.945595+00:00"
 }
