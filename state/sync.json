@@ -195670,13 +195670,6 @@
     "5749": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31842603",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:27:44.289977+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31842603",
           "reason": "Request failed for https://sdilej.cz/31842603/mission-impossible-2-2000-4k-h265-cz.mkv (HTTP None)",
@@ -195689,18 +195682,19 @@
           "reason": "Request failed for https://sdilej.cz/31842603/mission-impossible-2-2000-4k-h265-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T12:39:00.967278+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31842603",
+          "target_video_id": "29646371",
+          "permanent": false,
+          "attempted_at": "2026-09-23T13:40:40.083191+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31842603",
         "display_name": "Mission: Impossible 2 (2000) 4K CZ Dabing",
         "planned_at": "2026-09-23T13:28:34.549965+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T13:28:52.464752+00:00",
-        "lease_expires_at": "2026-09-23T19:28:52.464752+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29646371",
       "prepared": {
@@ -247284,5 +247278,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T13:40:34.671834+00:00"
+  "updated_at": "2026-09-23T13:40:40.083209+00:00"
 }
