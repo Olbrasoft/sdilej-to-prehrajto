@@ -73585,17 +73585,19 @@
       "attempts": []
     },
     "31848": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35095666",
+          "reason": "Request failed for https://sdilej.cz/35095666/swingtime.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:54.084995+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35095666",
         "display_name": "Swingtime (2007) 720p CZ Dabing",
         "planned_at": "2026-09-23T08:30:47.312973+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-0",
-        "claimed_at": "2026-09-23T08:31:06.410513+00:00",
-        "lease_expires_at": "2026-09-23T14:31:06.410513+00:00",
-        "run_id": "35828044219"
       }
     },
     "13036": {
@@ -77576,6 +77578,13 @@
           "target_video_id": "29636292",
           "permanent": false,
           "attempted_at": "2026-09-23T07:47:23.056046+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29858155",
+          "target_video_id": "29636292",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:46.507778+00:00"
         }
       ],
       "last_plan": {
@@ -77586,7 +77595,7 @@
       "previous_target_id": "29636292",
       "prepared": {
         "target_video_id": "29636292",
-        "size_bytes": 4403232691,
+        "size_bytes": 4400000000,
         "prepared_at": "2026-09-23T07:25:06.362687+00:00"
       }
     },
@@ -77619,6 +77628,13 @@
           "target_video_id": "29636293",
           "permanent": false,
           "attempted_at": "2026-09-23T07:26:44.662066+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30230338",
+          "target_video_id": "29636293",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:45.435042+00:00"
         }
       ],
       "last_plan": {
@@ -77629,14 +77645,8 @@
       "previous_target_id": "29636293",
       "prepared": {
         "target_video_id": "29636293",
-        "size_bytes": 653565866,
+        "size_bytes": 653600000,
         "prepared_at": "2026-09-23T07:25:08.587667+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
-        "claimed_at": "2026-09-23T08:31:42.824953+00:00",
-        "lease_expires_at": "2026-09-23T14:31:42.824953+00:00",
-        "run_id": "35828044219"
       }
     },
     "34792": {
@@ -77644,13 +77654,6 @@
     },
     "27031": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "30230963",
-          "target_video_id": "29630675",
-          "permanent": false,
-          "attempted_at": "2026-09-23T05:46:39.626781+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "30230963",
@@ -77664,6 +77667,13 @@
           "target_video_id": "29630675",
           "permanent": false,
           "attempted_at": "2026-09-23T07:26:48.444970+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30230963",
+          "target_video_id": "29630675",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:47.529136+00:00"
         }
       ],
       "last_plan": {
@@ -77808,13 +77818,6 @@
           "source_id": "34721152",
           "target_video_id": "29629940",
           "permanent": false,
-          "attempted_at": "2026-09-23T05:46:41.021997+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34721152",
-          "target_video_id": "29629940",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:17:59.630040+00:00"
         },
         {
@@ -77823,6 +77826,13 @@
           "target_video_id": "29629940",
           "permanent": false,
           "attempted_at": "2026-09-23T07:26:48.856417+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34721152",
+          "target_video_id": "29629940",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:47.183656+00:00"
         }
       ],
       "last_plan": {
@@ -77919,13 +77929,6 @@
           "source_id": "28003976",
           "target_video_id": "29468019",
           "permanent": false,
-          "attempted_at": "2026-09-23T05:46:42.649005+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28003976",
-          "target_video_id": "29468019",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:18:01.436891+00:00"
         },
         {
@@ -77934,6 +77937,13 @@
           "target_video_id": "29468019",
           "permanent": false,
           "attempted_at": "2026-09-23T07:26:50.801264+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28003976",
+          "target_video_id": "29468019",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:48.481855+00:00"
         }
       ],
       "last_plan": {
@@ -78099,6 +78109,13 @@
           "target_video_id": "29636318",
           "permanent": false,
           "attempted_at": "2026-09-23T07:38:37.718984+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713932",
+          "target_video_id": "29636318",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:49.752807+00:00"
         }
       ],
       "last_plan": {
@@ -78109,7 +78126,7 @@
       "previous_target_id": "29636318",
       "prepared": {
         "target_video_id": "29636318",
-        "size_bytes": 2022051705,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-23T07:26:53.410462+00:00"
       }
     },
@@ -78202,6 +78219,13 @@
           "target_video_id": "29636320",
           "permanent": false,
           "attempted_at": "2026-09-23T07:32:56.373294+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29084165",
+          "target_video_id": "29636320",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:49.334316+00:00"
         }
       ],
       "last_plan": {
@@ -78212,7 +78236,7 @@
       "previous_target_id": "29636320",
       "prepared": {
         "target_video_id": "29636320",
-        "size_bytes": 1858042298,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T07:26:55.879603+00:00"
       }
     },
@@ -78359,13 +78383,6 @@
           "source_id": "26852958",
           "target_video_id": "29629971",
           "permanent": false,
-          "attempted_at": "2026-09-23T05:46:59.654670+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26852958",
-          "target_video_id": "29629971",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:18:12.063438+00:00"
         },
         {
@@ -78374,6 +78391,13 @@
           "target_video_id": "29629971",
           "permanent": false,
           "attempted_at": "2026-09-23T07:27:18.485766+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26852958",
+          "target_video_id": "29629971",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:31:50.736379+00:00"
         }
       ],
       "last_plan": {
@@ -78443,7 +78467,7 @@
       "last_plan": {
         "source_id": "34274611",
         "display_name": "X-Men: Apokalypsa (2016) 4K CZ Dabing",
-        "planned_at": "2026-09-23T07:17:47.251183+00:00"
+        "planned_at": "2026-09-23T08:31:50.294807+00:00"
       },
       "previous_target_id": "29630033",
       "prepared": {
@@ -78497,7 +78521,7 @@
       "last_plan": {
         "source_id": "31008000",
         "display_name": "Znamení (2002) 4K CZ Dabing",
-        "planned_at": "2026-09-23T07:17:47.525408+00:00"
+        "planned_at": "2026-09-23T08:31:51.014007+00:00"
       },
       "previous_target_id": "29636332",
       "prepared": {
@@ -78540,7 +78564,7 @@
       "last_plan": {
         "source_id": "33199372",
         "display_name": "Yes Man (2008) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:47.796931+00:00"
+        "planned_at": "2026-09-23T08:31:51.293207+00:00"
       },
       "previous_target_id": "29630709",
       "prepared": {
@@ -78565,7 +78589,7 @@
       "last_plan": {
         "source_id": "11995636",
         "display_name": "My (2019) SD CZ Dabing",
-        "planned_at": "2026-09-23T07:17:48.063251+00:00"
+        "planned_at": "2026-09-23T08:31:51.568665+00:00"
       }
     },
     "2768": {
@@ -78740,7 +78764,7 @@
       "last_plan": {
         "source_id": "28922330",
         "display_name": "Lví král (2019) 4K CZ Dabing",
-        "planned_at": "2026-09-23T07:17:48.333337+00:00"
+        "planned_at": "2026-09-23T08:31:51.845453+00:00"
       },
       "prepared": {
         "target_video_id": "29524835",
@@ -79001,7 +79025,7 @@
       "last_plan": {
         "source_id": "30198301",
         "display_name": "Navždy spolu (2012) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:48.605075+00:00"
+        "planned_at": "2026-09-23T08:31:52.122807+00:00"
       },
       "previous_target_id": "29630265",
       "prepared": {
@@ -79193,7 +79217,7 @@
       "last_plan": {
         "source_id": "34771652",
         "display_name": "Horton (2008) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:48.883001+00:00"
+        "planned_at": "2026-09-23T08:31:52.405917+00:00"
       },
       "previous_target_id": "29630350",
       "prepared": {
@@ -79229,7 +79253,7 @@
       "last_plan": {
         "source_id": "33159897",
         "display_name": "Zelená zóna (2010) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:49.157662+00:00"
+        "planned_at": "2026-09-23T08:31:52.681893+00:00"
       },
       "prepared": {
         "target_video_id": "29141887",
@@ -79312,7 +79336,7 @@
       "last_plan": {
         "source_id": "32940647",
         "display_name": "Rána (2026) 4K CZ Dabing",
-        "planned_at": "2026-09-23T07:17:49.431355+00:00"
+        "planned_at": "2026-09-23T08:31:52.960915+00:00"
       },
       "prepared": {
         "target_video_id": "29290054",
@@ -79600,7 +79624,7 @@
       "last_plan": {
         "source_id": "33594906",
         "display_name": "Život podle Dana (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:49.704142+00:00"
+        "planned_at": "2026-09-23T08:31:53.241472+00:00"
       },
       "previous_target_id": "29630859",
       "prepared": {
@@ -79708,7 +79732,7 @@
       "last_plan": {
         "source_id": "14845493",
         "display_name": "MANK (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:49.974520+00:00"
+        "planned_at": "2026-09-23T08:31:53.518203+00:00"
       },
       "previous_target_id": "29630862",
       "prepared": {
@@ -79765,7 +79789,7 @@
       "last_plan": {
         "source_id": "34190531",
         "display_name": "Christine (1983) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:17:50.242107+00:00"
+        "planned_at": "2026-09-23T08:31:53.797463+00:00"
       },
       "prepared": {
         "target_video_id": "29458121",
@@ -245738,5 +245762,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:31:43.107704+00:00"
+  "updated_at": "2026-09-23T08:31:54.085012+00:00"
 }
