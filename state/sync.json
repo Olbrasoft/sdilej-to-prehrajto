@@ -201404,13 +201404,6 @@
           "permanent": false,
           "source_id": "34905941",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:41:02.766800+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34905941",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:41:35.205819+00:00"
         },
         {
@@ -201419,18 +201412,19 @@
           "reason": "Request failed for https://sdilej.cz/34905941/chveni-2-vratili-se-zpet-1996-1080p-ac3-cz-scifi.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T15:09:19.592824+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34905941",
+          "target_video_id": "29649566",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:48:51.333751+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34905941",
         "display_name": "Chvění 2: Vrátili se zpět! (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-23T16:42:21.115658+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T16:42:48.703523+00:00",
-        "lease_expires_at": "2026-09-23T22:42:48.703523+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29649566",
       "prepared": {
@@ -248838,5 +248832,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:48:24.738481+00:00"
+  "updated_at": "2026-09-23T16:48:51.333769+00:00"
 }
