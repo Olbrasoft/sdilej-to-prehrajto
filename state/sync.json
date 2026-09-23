@@ -52926,13 +52926,6 @@
           "source_id": "28405585",
           "target_video_id": "29204705",
           "permanent": false,
-          "attempted_at": "2026-09-22T23:51:21.466623+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28405585",
-          "target_video_id": "29204705",
-          "permanent": false,
           "attempted_at": "2026-09-23T00:22:52.753735+00:00"
         },
         {
@@ -52941,6 +52934,13 @@
           "target_video_id": "29204705",
           "permanent": false,
           "attempted_at": "2026-09-23T01:08:04.354043+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28405585",
+          "target_video_id": "29204705",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:58:17.135689+00:00"
         }
       ],
       "last_plan": {
@@ -52953,13 +52953,7 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-09-08T05:15:12.439124+00:00"
       },
-      "previous_target_id": "29204705",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T01:58:04.000139+00:00",
-        "lease_expires_at": "2026-09-23T07:58:04.000139+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29204705"
     },
     "32394": {
       "attempts": [
@@ -53028,6 +53022,12 @@
         "target_video_id": "29628432",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-22T23:00:44.389355+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
+        "claimed_at": "2026-09-23T01:58:16.582097+00:00",
+        "lease_expires_at": "2026-09-23T07:58:16.582097+00:00",
+        "run_id": "35804360245"
       }
     },
     "28199": {
@@ -53064,7 +53064,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-17T16:43:04.126322+00:00"
       },
-      "previous_target_id": "29459187"
+      "previous_target_id": "29459187",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T01:58:16.847375+00:00",
+        "lease_expires_at": "2026-09-23T07:58:16.847375+00:00",
+        "run_id": "35804360245"
+      }
     },
     "13134": {
       "attempts": []
@@ -53103,6 +53109,12 @@
         "target_video_id": "29628435",
         "size_bytes": 5100000000,
         "prepared_at": "2026-09-22T23:00:48.838043+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T01:58:17.400959+00:00",
+        "lease_expires_at": "2026-09-23T07:58:17.400959+00:00",
+        "run_id": "35804360245"
       }
     },
     "24243": {
@@ -78720,18 +78732,19 @@
           "reason": "Request failed for https://sdilej.cz/33594906/zivot-podle-dana-2007-komedie-usa-steve-carell-juliette-binoche-czdab-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T00:56:40.990448+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33594906",
+          "target_video_id": "29630859",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:58:18.261641+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33594906",
         "display_name": "Život podle Dana (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-23T01:29:36.636414+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T01:30:15.603052+00:00",
-        "lease_expires_at": "2026-09-23T07:30:15.603052+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29630859",
       "prepared": {
@@ -243283,5 +243296,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:58:05.099798+00:00"
+  "updated_at": "2026-09-23T01:58:18.261656+00:00"
 }
