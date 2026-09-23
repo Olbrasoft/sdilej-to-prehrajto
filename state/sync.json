@@ -190284,13 +190284,6 @@
           "permanent": false,
           "source_id": "35031558",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:33:18.658880+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35031558",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:04.082606+00:00"
         },
         {
@@ -190299,6 +190292,13 @@
           "target_video_id": "29634138",
           "permanent": false,
           "attempted_at": "2026-09-23T04:58:17.681257+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35031558",
+          "target_video_id": "29634138",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:54:13.058485+00:00"
         }
       ],
       "last_plan": {
@@ -190309,7 +190309,7 @@
       "previous_target_id": "29634138",
       "prepared": {
         "target_video_id": "29634138",
-        "size_bytes": 1014964962,
+        "size_bytes": 1000000000,
         "prepared_at": "2026-09-23T04:55:06.538456+00:00"
       }
     },
@@ -190392,6 +190392,18 @@
         "source_id": "34738359",
         "display_name": "México bárbaro (2014) 1080p CZ Titulky",
         "planned_at": "2026-09-23T06:29:22.161426+00:00"
+      },
+      "claim": {
+        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-5",
+        "claimed_at": "2026-09-23T06:54:13.368084+00:00",
+        "lease_expires_at": "2026-09-23T12:54:13.368084+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29635798",
+      "prepared": {
+        "target_video_id": "29635798",
+        "size_bytes": 2796596960,
+        "prepared_at": "2026-09-23T06:54:18.692830+00:00"
       }
     },
     "27123": {
@@ -245462,5 +245474,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:54:09.041921+00:00"
+  "updated_at": "2026-09-23T06:54:18.692843+00:00"
 }
