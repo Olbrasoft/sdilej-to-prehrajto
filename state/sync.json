@@ -193488,13 +193488,6 @@
     "26074": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32449354",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:27:31.417584+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32449354",
           "target_video_id": "29638103",
@@ -193507,6 +193500,13 @@
           "target_video_id": "29638103",
           "permanent": false,
           "attempted_at": "2026-09-23T10:27:48.288300+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32449354",
+          "target_video_id": "29638103",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:20:56.301245+00:00"
         }
       ],
       "last_plan": {
@@ -193548,13 +193548,6 @@
           "permanent": false,
           "source_id": "12149421",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:44.479686+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12149421",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:31.927293+00:00"
         },
         {
@@ -193563,6 +193556,13 @@
           "target_video_id": "29638242",
           "permanent": false,
           "attempted_at": "2026-09-23T10:16:10.001671+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12149421",
+          "target_video_id": "29638242",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:20:57.878325+00:00"
         }
       ],
       "last_plan": {
@@ -193573,7 +193573,7 @@
       "previous_target_id": "29638242",
       "prepared": {
         "target_video_id": "29638242",
-        "size_bytes": 18968087183,
+        "size_bytes": 19000000000,
         "prepared_at": "2026-09-23T09:16:15.932978+00:00"
       }
     },
@@ -193582,13 +193582,6 @@
     },
     "22728": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34899608",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:27:32.671633+00:00"
-        },
         {
           "status": "source_refresh_failed",
           "source_id": "34899608",
@@ -193602,6 +193595,13 @@
           "reason": "Request failed for https://sdilej.cz/34899608/breakin-2-electric-boogaloo-1984-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T10:28:37.124727+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34899608",
+          "reason": "Request failed for https://sdilej.cz/34899608/breakin-2-electric-boogaloo-1984-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:21:43.911258+00:00"
         }
       ],
       "last_plan": {
@@ -246149,5 +246149,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T11:20:52.730460+00:00"
+  "updated_at": "2026-09-23T11:21:43.911277+00:00"
 }
