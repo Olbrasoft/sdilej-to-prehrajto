@@ -117925,13 +117925,6 @@
           "source_id": "29520305",
           "reason": "Request failed for https://sdilej.cz/29520305/lepsi.casy.webrip.cz.2023.720p.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-23T04:21:14.059620+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "29520305",
-          "reason": "Request failed for https://sdilej.cz/29520305/lepsi.casy.webrip.cz.2023.720p.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:06:46.427102+00:00"
         },
         {
@@ -117940,18 +117933,19 @@
           "reason": "Request failed for https://sdilej.cz/29520305/lepsi.casy.webrip.cz.2023.720p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T07:50:32.747849+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29520305",
+          "target_video_id": "29637602",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:53:06.687657+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29520305",
         "display_name": "Lepší časy (2023) 720p CZ Dabing",
         "planned_at": "2026-09-23T08:36:28.273408+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T08:39:39.147042+00:00",
-        "lease_expires_at": "2026-09-23T14:39:39.147042+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29637602",
       "prepared": {
@@ -192367,13 +192361,6 @@
           "source_id": "11872096",
           "target_video_id": "29531348",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:57:53.907251+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11872096",
-          "target_video_id": "29531348",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:28:14.184458+00:00"
         },
         {
@@ -192382,6 +192369,13 @@
           "target_video_id": "29531348",
           "permanent": false,
           "attempted_at": "2026-09-23T08:19:54.246310+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11872096",
+          "target_video_id": "29531348",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:53:04.135426+00:00"
         }
       ],
       "last_plan": {
@@ -192660,6 +192654,12 @@
         "source_id": "11329407",
         "display_name": "Zamilovaná čarodějka (1997) SD CZ Dabing",
         "planned_at": "2026-09-23T08:50:24.300395+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
+        "claimed_at": "2026-09-23T08:53:04.465405+00:00",
+        "lease_expires_at": "2026-09-23T14:53:04.465405+00:00",
+        "run_id": "35828044219"
       }
     },
     "5970": {
@@ -245950,5 +245950,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:52:57.319375+00:00"
+  "updated_at": "2026-09-23T08:53:06.687673+00:00"
 }
