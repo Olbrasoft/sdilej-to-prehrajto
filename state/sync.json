@@ -194388,13 +194388,6 @@
     "5952": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12795342",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:27:41.907692+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "12795342",
           "reason": "Request failed for https://sdilej.cz/12795342/6-underground-hevc-hdr.mkv (HTTP None)",
@@ -194407,18 +194400,19 @@
           "reason": "Request failed for https://sdilej.cz/12795342/6-underground-hevc-hdr.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T10:34:10.659241+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12795342",
+          "target_video_id": "29640211",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:45:34.594012+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12795342",
         "display_name": "6 underground: Tajné operace (2019) 4K CZ Dabing",
         "planned_at": "2026-09-23T11:08:49.574175+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
-        "claimed_at": "2026-09-23T11:24:42.847602+00:00",
-        "lease_expires_at": "2026-09-23T17:24:42.847602+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29640211",
       "prepared": {
@@ -246155,5 +246149,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T11:24:46.521107+00:00"
+  "updated_at": "2026-09-23T11:45:34.594030+00:00"
 }
