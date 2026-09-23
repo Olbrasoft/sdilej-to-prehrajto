@@ -186937,6 +186937,18 @@
         "source_id": "31104614",
         "display_name": "Letní Vánoce (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:50:48.821802+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T03:53:11.656495+00:00",
+        "lease_expires_at": "2026-09-23T09:53:11.656495+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29633192",
+      "prepared": {
+        "target_video_id": "29633192",
+        "size_bytes": 2450315094,
+        "prepared_at": "2026-09-23T03:53:16.381950+00:00"
       }
     },
     "21959": {
@@ -186953,13 +186965,6 @@
           "permanent": false,
           "source_id": "23206124",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:21.887340+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23206124",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:02:58.854634+00:00"
         },
         {
@@ -186968,6 +186973,13 @@
           "target_video_id": "29618769",
           "permanent": false,
           "attempted_at": "2026-09-23T02:56:42.140248+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23206124",
+          "target_video_id": "29618769",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:13.130066+00:00"
         }
       ],
       "last_plan": {
@@ -186989,13 +187001,6 @@
           "permanent": false,
           "source_id": "34850587",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:22.743286+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34850587",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:02:59.083710+00:00"
         },
         {
@@ -187004,6 +187009,13 @@
           "target_video_id": "29632217",
           "permanent": false,
           "attempted_at": "2026-09-23T03:05:10.261358+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850587",
+          "target_video_id": "29632217",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:15.512866+00:00"
         }
       ],
       "last_plan": {
@@ -187014,7 +187026,7 @@
       "previous_target_id": "29632217",
       "prepared": {
         "target_video_id": "29632217",
-        "size_bytes": 2870797109,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-23T02:56:48.800898+00:00"
       }
     },
@@ -187052,6 +187064,12 @@
         "target_video_id": "29632372",
         "size_bytes": 1359626836,
         "prepared_at": "2026-09-23T03:07:18.985367+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T03:53:15.830606+00:00",
+        "lease_expires_at": "2026-09-23T09:53:15.830606+00:00",
+        "run_id": "35804360245"
       }
     },
     "29386": {
@@ -244190,5 +244208,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:53:09.084708+00:00"
+  "updated_at": "2026-09-23T03:53:16.381963+00:00"
 }
