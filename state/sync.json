@@ -191420,13 +191420,6 @@
           "permanent": false,
           "source_id": "25615965",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:36.697638+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25615965",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:21.818736+00:00"
         },
         {
@@ -191435,6 +191428,13 @@
           "target_video_id": "29634573",
           "permanent": false,
           "attempted_at": "2026-09-23T05:43:05.915500+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25615965",
+          "target_video_id": "29634573",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:58:36.016497+00:00"
         }
       ],
       "last_plan": {
@@ -191445,7 +191445,7 @@
       "previous_target_id": "29634573",
       "prepared": {
         "target_video_id": "29634573",
-        "size_bytes": 3830625233,
+        "size_bytes": 3800000000,
         "prepared_at": "2026-09-23T05:28:45.132397+00:00"
       }
     },
@@ -191473,16 +191473,10 @@
           "attempted_at": "2026-09-23T05:38:57.253663+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "17802076",
-        "display_name": "Smrtící důkazy (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:36.885336+00:00"
-      },
       "previous_target_id": "29634614",
-      "prepared": {
+      "upload": {
         "target_video_id": "29634614",
-        "size_bytes": 2152785324,
-        "prepared_at": "2026-09-23T05:31:49.272270+00:00"
+        "uploaded_at": "2026-09-23T07:58:37.687018+00:00"
       }
     },
     "32266": {
@@ -245757,5 +245751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:58:29.712343+00:00"
+  "updated_at": "2026-09-23T07:58:37.687034+00:00"
 }
