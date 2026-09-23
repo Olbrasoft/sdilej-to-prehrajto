@@ -203430,13 +203430,6 @@
           "permanent": false,
           "source_id": "34849659",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:36:25.245143+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34849659",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:48:34.658654+00:00"
         },
         {
@@ -203445,18 +203438,19 @@
           "source_id": "34849659",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:49:16.727995+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34849659",
+          "target_video_id": "29649652",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:57:18.125265+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34849659",
         "display_name": "Sound of Silence (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-23T16:43:06.211656+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
-        "claimed_at": "2026-09-23T16:48:20.811326+00:00",
-        "lease_expires_at": "2026-09-23T22:48:20.811326+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29649652",
       "prepared": {
@@ -248880,5 +248874,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:57:15.994104+00:00"
+  "updated_at": "2026-09-23T16:57:18.125296+00:00"
 }
