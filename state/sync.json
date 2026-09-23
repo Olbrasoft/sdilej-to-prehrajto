@@ -199707,13 +199707,6 @@
           "permanent": false,
           "source_id": "13054245",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:07:33.942613+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13054245",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:24:16.142112+00:00"
         },
         {
@@ -199722,18 +199715,19 @@
           "source_id": "13054245",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:31.055580+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13054245",
+          "target_video_id": "29647135",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:24:35.738422+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13054245",
         "display_name": "Já nebo nikdo (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-23T13:31:43.265918+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T14:19:57.059610+00:00",
-        "lease_expires_at": "2026-09-23T20:19:57.059610+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29647135",
       "prepared": {
@@ -199986,6 +199980,12 @@
         "source_id": "34850127",
         "display_name": "Vražedný vřískot (1973) SD CZ Dabing",
         "planned_at": "2026-09-23T13:31:44.145819+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
+        "claimed_at": "2026-09-23T14:24:35.343492+00:00",
+        "lease_expires_at": "2026-09-23T20:24:35.343492+00:00",
+        "run_id": "35861705510"
       }
     },
     "28346": {
@@ -247490,5 +247490,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T14:24:33.200534+00:00"
+  "updated_at": "2026-09-23T14:24:35.738441+00:00"
 }
