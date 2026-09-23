@@ -194180,13 +194180,6 @@
           "permanent": false,
           "source_id": "33885279",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:58.846766+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33885279",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:39.395648+00:00"
         },
         {
@@ -194195,6 +194188,13 @@
           "target_video_id": "29638583",
           "permanent": false,
           "attempted_at": "2026-09-23T09:53:07.526642+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33885279",
+          "target_video_id": "29638583",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:31:57.224066+00:00"
         }
       ],
       "last_plan": {
@@ -194205,7 +194205,7 @@
       "previous_target_id": "29638583",
       "prepared": {
         "target_video_id": "29638583",
-        "size_bytes": 4825840976,
+        "size_bytes": 4800000000,
         "prepared_at": "2026-09-23T09:37:23.292342+00:00"
       }
     },
@@ -194219,13 +194219,6 @@
           "permanent": false,
           "source_id": "13829355",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:59.937294+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13829355",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:39.904553+00:00"
         },
         {
@@ -194234,6 +194227,13 @@
           "target_video_id": "29638596",
           "permanent": false,
           "attempted_at": "2026-09-23T09:44:22.007486+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13829355",
+          "target_video_id": "29638596",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:31:59.296063+00:00"
         }
       ],
       "last_plan": {
@@ -194244,7 +194244,7 @@
       "previous_target_id": "29638596",
       "prepared": {
         "target_video_id": "29638596",
-        "size_bytes": 1827909914,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T09:37:59.794940+00:00"
       }
     },
@@ -194258,13 +194258,6 @@
           "permanent": false,
           "source_id": "33788739",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:51:01.150063+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33788739",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:40.139710+00:00"
         },
         {
@@ -194273,6 +194266,13 @@
           "target_video_id": "29638621",
           "permanent": false,
           "attempted_at": "2026-09-23T09:48:50.041010+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33788739",
+          "target_video_id": "29638621",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:32:01.110261+00:00"
         }
       ],
       "last_plan": {
@@ -194283,7 +194283,7 @@
       "previous_target_id": "29638621",
       "prepared": {
         "target_video_id": "29638621",
-        "size_bytes": 2491481132,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-23T09:40:15.690556+00:00"
       }
     },
@@ -194327,6 +194327,18 @@
         "source_id": "11702034",
         "display_name": "Záchranáři z Malibu (2019) SD CZ Titulky",
         "planned_at": "2026-09-23T10:25:28.578009+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
+        "claimed_at": "2026-09-23T10:32:01.432758+00:00",
+        "lease_expires_at": "2026-09-23T16:32:01.432758+00:00",
+        "run_id": "35828044219"
+      },
+      "previous_target_id": "29639298",
+      "prepared": {
+        "target_video_id": "29639298",
+        "size_bytes": 1223299191,
+        "prepared_at": "2026-09-23T10:32:04.819848+00:00"
       }
     },
     "6047": {
@@ -246073,5 +246085,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:31:53.506678+00:00"
+  "updated_at": "2026-09-23T10:32:04.819863+00:00"
 }
