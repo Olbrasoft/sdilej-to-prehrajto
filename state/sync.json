@@ -123326,13 +123326,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-23T10:26:39.913584+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-23T11:06:18.249381+00:00"
         },
         {
@@ -123341,6 +123334,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-23T12:30:34.585413+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-23T12:37:43.698650+00:00"
         }
       ],
       "last_plan": {
@@ -123353,13 +123353,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-3",
-        "claimed_at": "2026-09-23T12:36:39.771023+00:00",
-        "lease_expires_at": "2026-09-23T18:36:39.771023+00:00",
-        "run_id": "35828044219"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -194412,13 +194406,6 @@
           "source_id": "33323657",
           "target_video_id": "29638355",
           "permanent": false,
-          "attempted_at": "2026-09-23T09:29:55.192445+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33323657",
-          "target_video_id": "29638355",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:29:53.699293+00:00"
         },
         {
@@ -194427,6 +194414,13 @@
           "target_video_id": "29638355",
           "permanent": false,
           "attempted_at": "2026-09-23T11:21:58.396994+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33323657",
+          "target_video_id": "29638355",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:43.377962+00:00"
         }
       ],
       "last_plan": {
@@ -194439,12 +194433,6 @@
         "target_video_id": "29638355",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T09:23:36.461805+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-2",
-        "claimed_at": "2026-09-23T12:37:35.672382+00:00",
-        "lease_expires_at": "2026-09-23T18:37:35.672382+00:00",
-        "run_id": "35828044219"
       }
     },
     "9230": {
@@ -194463,13 +194451,6 @@
           "source_id": "16029070",
           "target_video_id": "29638385",
           "permanent": false,
-          "attempted_at": "2026-09-23T09:30:43.742965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16029070",
-          "target_video_id": "29638385",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:29:55.449083+00:00"
         },
         {
@@ -194478,6 +194459,13 @@
           "target_video_id": "29638385",
           "permanent": false,
           "attempted_at": "2026-09-23T11:21:59.981484+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16029070",
+          "target_video_id": "29638385",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:46.071095+00:00"
         }
       ],
       "last_plan": {
@@ -194534,13 +194522,6 @@
           "source_id": "23104985",
           "reason": "Request failed for https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-23T09:29:45.412166+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "23104985",
-          "reason": "Request failed for https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:30:41.669147+00:00"
         },
         {
@@ -194549,6 +194530,13 @@
           "target_video_id": "29640156",
           "permanent": false,
           "attempted_at": "2026-09-23T11:24:18.539171+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23104985",
+          "target_video_id": "29640156",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:45.655983+00:00"
         }
       ],
       "last_plan": {
@@ -194559,7 +194547,7 @@
       "previous_target_id": "29640156",
       "prepared": {
         "target_video_id": "29640156",
-        "size_bytes": 1290438656,
+        "size_bytes": 1300000000,
         "prepared_at": "2026-09-23T11:22:04.213741+00:00"
       }
     },
@@ -194737,16 +194725,10 @@
           "attempted_at": "2026-09-23T10:49:49.558163+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31794492",
-        "display_name": "Ztracené město (2022) 4K CZ Dabing",
-        "planned_at": "2026-09-23T12:36:37.022427+00:00"
-      },
       "previous_target_id": "29639277",
-      "prepared": {
+      "upload": {
         "target_video_id": "29639277",
-        "size_bytes": 5393438098,
-        "prepared_at": "2026-09-23T10:30:58.737374+00:00"
+        "uploaded_at": "2026-09-23T12:37:47.111926+00:00"
       }
     },
     "5793": {
@@ -194783,6 +194765,12 @@
         "target_video_id": "29638583",
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-23T09:37:23.292342+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-2",
+        "claimed_at": "2026-09-23T12:37:46.428849+00:00",
+        "lease_expires_at": "2026-09-23T18:37:46.428849+00:00",
+        "run_id": "35828044219"
       }
     },
     "5981": {
@@ -194822,6 +194810,12 @@
         "target_video_id": "29638596",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T09:37:59.794940+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
+        "claimed_at": "2026-09-23T12:37:46.768710+00:00",
+        "lease_expires_at": "2026-09-23T18:37:46.768710+00:00",
+        "run_id": "35828044219"
       }
     },
     "6115": {
@@ -246739,5 +246733,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:37:36.829275+00:00"
+  "updated_at": "2026-09-23T12:37:47.111945+00:00"
 }
