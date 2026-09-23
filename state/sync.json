@@ -88773,17 +88773,19 @@
       "attempts": []
     },
     "14879": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33767536",
+          "reason": "Request failed for https://sdilej.cz/33767536/1948-zelezny-dedek-komedie-drama-62-jaroslav-marvan.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:16:53.360681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767536",
         "display_name": "Železný dědek (1948) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:15:42.978858+00:00"
-      },
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-5",
-        "claimed_at": "2026-09-23T12:16:07.532754+00:00",
-        "lease_expires_at": "2026-09-23T18:16:07.532754+00:00",
-        "run_id": "35828044219"
       }
     },
     "32081": {
@@ -246648,5 +246650,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:16:31.434620+00:00"
+  "updated_at": "2026-09-23T12:16:53.360698+00:00"
 }
