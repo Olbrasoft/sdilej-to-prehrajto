@@ -208193,13 +208193,6 @@
           "permanent": false,
           "source_id": "6477718",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:04:19.726004+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6477718",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:04:31.249781+00:00"
         },
         {
@@ -208208,6 +208201,13 @@
           "target_video_id": "29653458",
           "permanent": false,
           "attempted_at": "2026-09-23T21:05:50.493410+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6477718",
+          "target_video_id": "29653458",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:50:21.218055+00:00"
         }
       ],
       "last_plan": {
@@ -208218,7 +208218,7 @@
       "previous_target_id": "29653458",
       "prepared": {
         "target_video_id": "29653458",
-        "size_bytes": 973843284,
+        "size_bytes": 973800000,
         "prepared_at": "2026-09-23T21:02:00.849535+00:00"
       }
     },
@@ -208232,13 +208232,6 @@
           "permanent": false,
           "source_id": "26851678",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:04:21.325262+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26851678",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:04:32.226043+00:00"
         },
         {
@@ -208247,6 +208240,13 @@
           "target_video_id": "29653520",
           "permanent": false,
           "attempted_at": "2026-09-23T21:08:49.061837+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26851678",
+          "target_video_id": "29653520",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:50:23.019038+00:00"
         }
       ],
       "last_plan": {
@@ -208257,7 +208257,7 @@
       "previous_target_id": "29653520",
       "prepared": {
         "target_video_id": "29653520",
-        "size_bytes": 733962240,
+        "size_bytes": 734000000,
         "prepared_at": "2026-09-23T21:06:01.561094+00:00"
       }
     },
@@ -208271,13 +208271,6 @@
           "permanent": false,
           "source_id": "23019950",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:04:23.034562+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23019950",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:04:34.712337+00:00"
         },
         {
@@ -208286,6 +208279,13 @@
           "reason": "Request failed for https://sdilej.cz/23019950/domaci-vezeni-1996-komedie-rodinny-cz-dab.-fullhd-1080p-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T21:09:04.815158+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "23019950",
+          "reason": "Request failed for https://sdilej.cz/23019950/domaci-vezeni-1996-komedie-rodinny-cz-dab.-fullhd-1080p-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:51:09.340203+00:00"
         }
       ],
       "last_plan": {
@@ -249905,5 +249905,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T21:50:17.394098+00:00"
+  "updated_at": "2026-09-23T21:51:09.340222+00:00"
 }
