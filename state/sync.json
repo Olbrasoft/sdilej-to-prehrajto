@@ -207632,13 +207632,6 @@
           "permanent": false,
           "source_id": "34732130",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:02:28.290987+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34732130",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:03:03.011347+00:00"
         },
         {
@@ -207647,18 +207640,19 @@
           "source_id": "34732130",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:03:19.101636+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34732130",
+          "target_video_id": "29653123",
+          "permanent": false,
+          "attempted_at": "2026-09-23T20:52:21.740363+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34732130",
         "display_name": "Singl na vdávání (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-23T20:22:37.023282+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-0",
-        "claimed_at": "2026-09-23T20:43:06.227267+00:00",
-        "lease_expires_at": "2026-09-24T02:43:06.227267+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29653123",
       "prepared": {
@@ -249714,5 +249708,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T20:51:07.720463+00:00"
+  "updated_at": "2026-09-23T20:52:21.740380+00:00"
 }
