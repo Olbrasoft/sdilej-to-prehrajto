@@ -187091,13 +187091,6 @@
           "permanent": false,
           "source_id": "30884720",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:40.067718+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30884720",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:02:29.056994+00:00"
         },
         {
@@ -187106,18 +187099,19 @@
           "source_id": "30884720",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:03.637416+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30884720",
+          "target_video_id": "29632545",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:21:21.139978+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30884720",
         "display_name": "Ještě jeden banger (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:06:27.176125+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T03:13:47.376719+00:00",
-        "lease_expires_at": "2026-09-23T09:13:47.376719+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29632545",
       "prepared": {
@@ -187641,6 +187635,12 @@
         "source_id": "21123533",
         "display_name": "Žabák Ribit (2014) 1080p SK Dabing",
         "planned_at": "2026-09-23T03:06:29.528747+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T03:20:36.619625+00:00",
+        "lease_expires_at": "2026-09-23T09:20:36.619625+00:00",
+        "run_id": "35804360245"
       }
     },
     "23677": {
@@ -243996,5 +243996,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:20:34.253356+00:00"
+  "updated_at": "2026-09-23T03:21:21.139995+00:00"
 }
