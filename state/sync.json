@@ -74933,17 +74933,19 @@
       "attempts": []
     },
     "33609": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34716602",
+          "reason": "Request failed for https://sdilej.cz/34716602/karolina-2021-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:06:17.045146+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716602",
         "display_name": "Karolína (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-22T23:54:10.386529+00:00"
-      },
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-2",
-        "claimed_at": "2026-09-23T00:05:30.710700+00:00",
-        "lease_expires_at": "2026-09-23T06:05:30.710700+00:00",
-        "run_id": "35767841855"
       }
     },
     "16989": {
@@ -75055,13 +75057,6 @@
           "source_id": "34877008",
           "target_video_id": "29325917",
           "permanent": false,
-          "attempted_at": "2026-09-22T08:22:06.842749+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34877008",
-          "target_video_id": "29325917",
-          "permanent": false,
           "attempted_at": "2026-09-22T08:54:37.732051+00:00"
         },
         {
@@ -75070,6 +75065,13 @@
           "target_video_id": "29325917",
           "permanent": false,
           "attempted_at": "2026-09-22T09:34:13.056273+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34877008",
+          "target_video_id": "29325917",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:06:08.738762+00:00"
         }
       ],
       "last_plan": {
@@ -75082,13 +75084,7 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-12T14:32:49.850225+00:00"
       },
-      "previous_target_id": "29325917",
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-5",
-        "claimed_at": "2026-09-23T00:06:06.171205+00:00",
-        "lease_expires_at": "2026-09-23T06:06:06.171205+00:00",
-        "run_id": "35767841855"
-      }
+      "previous_target_id": "29325917"
     },
     "24061": {
       "attempts": [],
@@ -75137,13 +75133,6 @@
           "source_id": "26697838",
           "target_video_id": "29567857",
           "permanent": false,
-          "attempted_at": "2026-09-22T08:22:08.728339+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26697838",
-          "target_video_id": "29567857",
-          "permanent": false,
           "attempted_at": "2026-09-22T08:54:39.450902+00:00"
         },
         {
@@ -75152,6 +75141,13 @@
           "target_video_id": "29567857",
           "permanent": false,
           "attempted_at": "2026-09-22T09:34:14.739306+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26697838",
+          "target_video_id": "29567857",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:06:10.497592+00:00"
         }
       ],
       "last_plan": {
@@ -75175,6 +75171,12 @@
         "source_id": "33211473",
         "display_name": "Ošklivá slečna (1959) SD CZ Dabing",
         "planned_at": "2026-09-22T23:54:11.924313+00:00"
+      },
+      "claim": {
+        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-5",
+        "claimed_at": "2026-09-23T00:06:10.837587+00:00",
+        "lease_expires_at": "2026-09-23T06:06:10.837587+00:00",
+        "run_id": "35767841855"
       }
     },
     "33771": {
@@ -241594,5 +241596,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T00:06:06.497631+00:00"
+  "updated_at": "2026-09-23T00:06:17.045163+00:00"
 }
