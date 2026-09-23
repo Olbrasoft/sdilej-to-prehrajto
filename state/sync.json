@@ -207710,13 +207710,6 @@
           "permanent": false,
           "source_id": "31891547",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:02:29.855618+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31891547",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:03:04.456064+00:00"
         },
         {
@@ -207725,18 +207718,19 @@
           "source_id": "31891547",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:03:21.134047+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31891547",
+          "target_video_id": "29653225",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:13:00.846464+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31891547",
         "display_name": "Transformers: Pomsta poražených (2009) 4K CZ Dabing",
         "planned_at": "2026-09-23T20:22:37.649027+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-3",
-        "claimed_at": "2026-09-23T20:48:06.197086+00:00",
-        "lease_expires_at": "2026-09-24T02:48:06.197086+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29653225",
       "prepared": {
@@ -249780,5 +249774,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T21:11:08.328598+00:00"
+  "updated_at": "2026-09-23T21:13:00.846481+00:00"
 }
