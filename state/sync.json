@@ -203155,22 +203155,10 @@
           "attempted_at": "2026-09-23T16:02:03.754391+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34720787",
-        "display_name": "Bitevní kamion (1982) 720p CZ Dabing",
-        "planned_at": "2026-09-23T16:43:05.111541+00:00"
-      },
       "previous_target_id": "29648777",
-      "prepared": {
+      "upload": {
         "target_video_id": "29648777",
-        "size_bytes": 1954953639,
-        "prepared_at": "2026-09-23T15:55:24.736762+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T16:43:32.726685+00:00",
-        "lease_expires_at": "2026-09-23T22:43:32.726685+00:00",
-        "run_id": "35861705510"
+        "uploaded_at": "2026-09-23T16:43:36.474428+00:00"
       }
     },
     "15062": {
@@ -203178,13 +203166,6 @@
     },
     "23299": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26098401",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:48:27.250610+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -203198,6 +203179,13 @@
           "target_video_id": "29648788",
           "permanent": false,
           "attempted_at": "2026-09-23T16:02:15.772336+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26098401",
+          "target_video_id": "29648788",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:43:36.312946+00:00"
         }
       ],
       "last_plan": {
@@ -203208,14 +203196,8 @@
       "previous_target_id": "29648788",
       "prepared": {
         "target_video_id": "29648788",
-        "size_bytes": 1842381119,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T15:55:51.827811+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
-        "claimed_at": "2026-09-23T16:43:33.051817+00:00",
-        "lease_expires_at": "2026-09-23T22:43:33.051817+00:00",
-        "run_id": "35861705510"
       }
     },
     "13805": {
@@ -203306,6 +203288,12 @@
         "source_id": "34884267",
         "display_name": "Šílenství Debory Loganové (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-23T16:43:05.581613+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
+        "claimed_at": "2026-09-23T16:43:36.093964+00:00",
+        "lease_expires_at": "2026-09-23T22:43:36.093964+00:00",
+        "run_id": "35861705510"
       }
     },
     "26744": {
@@ -248794,5 +248782,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:43:33.869493+00:00"
+  "updated_at": "2026-09-23T16:43:36.474450+00:00"
 }
