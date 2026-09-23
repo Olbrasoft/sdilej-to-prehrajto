@@ -78551,13 +78551,6 @@
           "source_id": "33199372",
           "target_video_id": "29630709",
           "permanent": false,
-          "attempted_at": "2026-09-23T04:18:31.063690+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33199372",
-          "target_video_id": "29630709",
-          "permanent": false,
           "attempted_at": "2026-09-23T05:47:01.739670+00:00"
         },
         {
@@ -78566,6 +78559,13 @@
           "target_video_id": "29630709",
           "permanent": false,
           "attempted_at": "2026-09-23T06:18:16.303985+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "29630709",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:33:06.206446+00:00"
         }
       ],
       "last_plan": {
@@ -78584,7 +78584,15 @@
       "attempts": []
     },
     "2974": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11995636",
+          "reason": "Request failed for https://sdilej.cz/11995636/us.2019.bdrip.x264.cz-dabing.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:33:59.263062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11995636",
         "display_name": "My (2019) SD CZ Dabing",
@@ -245598,5 +245606,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:32:56.373311+00:00"
+  "updated_at": "2026-09-23T07:33:59.263080+00:00"
 }
