@@ -189241,13 +189241,6 @@
           "permanent": false,
           "source_id": "12783098",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:01.069835+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12783098",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:15.450174+00:00"
         },
         {
@@ -189256,18 +189249,19 @@
           "source_id": "12783098",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:58.279781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12783098",
+          "target_video_id": "29634038",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:00:42.625045+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12783098",
         "display_name": "Mob Town (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-23T04:30:53.261190+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T04:47:00.369980+00:00",
-        "lease_expires_at": "2026-09-23T10:47:00.369980+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29634038",
       "prepared": {
@@ -189750,6 +189744,12 @@
         "source_id": "31216591",
         "display_name": "15 minut (2001) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:57.059211+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T05:00:38.226678+00:00",
+        "lease_expires_at": "2026-09-23T11:00:38.226678+00:00",
+        "run_id": "35804360245"
       }
     },
     "6100": {
@@ -244627,5 +244627,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:00:31.240431+00:00"
+  "updated_at": "2026-09-23T05:00:42.625061+00:00"
 }
