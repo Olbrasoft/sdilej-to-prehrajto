@@ -73535,13 +73535,6 @@
           "source_id": "31621974",
           "target_video_id": "29302707",
           "permanent": false,
-          "attempted_at": "2026-09-22T09:33:52.298494+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31621974",
-          "target_video_id": "29302707",
-          "permanent": false,
           "attempted_at": "2026-09-22T23:54:44.234793+00:00"
         },
         {
@@ -73550,6 +73543,13 @@
           "target_video_id": "29302707",
           "permanent": false,
           "attempted_at": "2026-09-23T00:26:18.358831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31621974",
+          "target_video_id": "29302707",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:10:34.214205+00:00"
         }
       ],
       "last_plan": {
@@ -73562,13 +73562,7 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-11T15:15:46.282837+00:00"
       },
-      "previous_target_id": "29302707",
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-3",
-        "claimed_at": "2026-09-23T01:10:26.708144+00:00",
-        "lease_expires_at": "2026-09-23T07:10:26.708144+00:00",
-        "run_id": "35767841855"
-      }
+      "previous_target_id": "29302707"
     },
     "30378": {
       "attempts": []
@@ -73603,6 +73597,13 @@
           "target_video_id": "29629445",
           "permanent": false,
           "attempted_at": "2026-09-23T00:00:33.632462+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34712454",
+          "target_video_id": "29629445",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:10:34.495876+00:00"
         }
       ],
       "last_plan": {
@@ -73613,14 +73614,8 @@
       "previous_target_id": "29629445",
       "prepared": {
         "target_video_id": "29629445",
-        "size_bytes": 2403452652,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-22T23:54:48.610566+00:00"
-      },
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-2",
-        "claimed_at": "2026-09-23T01:10:27.931569+00:00",
-        "lease_expires_at": "2026-09-23T07:10:27.931569+00:00",
-        "run_id": "35767841855"
       }
     },
     "24113": {
@@ -73688,13 +73683,6 @@
           "source_id": "24035589",
           "target_video_id": "29302790",
           "permanent": false,
-          "attempted_at": "2026-09-22T08:54:23.317273+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24035589",
-          "target_video_id": "29302790",
-          "permanent": false,
           "attempted_at": "2026-09-22T09:33:53.847258+00:00"
         },
         {
@@ -73703,6 +73691,13 @@
           "target_video_id": "29302790",
           "permanent": false,
           "attempted_at": "2026-09-22T23:57:59.969530+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24035589",
+          "target_video_id": "29302790",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:10:36.251553+00:00"
         }
       ],
       "last_plan": {
@@ -73730,16 +73725,10 @@
           "attempted_at": "2026-09-23T00:00:57.906530+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31516496",
-        "display_name": "Můj báječný rozvod (2008) SD CZ Dabing",
-        "planned_at": "2026-09-23T01:10:09.166010+00:00"
-      },
       "previous_target_id": "29629474",
-      "prepared": {
+      "upload": {
         "target_video_id": "29629474",
-        "size_bytes": 1258319020,
-        "prepared_at": "2026-09-22T23:58:03.693827+00:00"
+        "uploaded_at": "2026-09-23T01:10:36.925231+00:00"
       }
     },
     "17301": {
@@ -73762,6 +73751,12 @@
         "source_id": "29792037",
         "display_name": "Jeanne Poisson, markýza de Pompadour (2006) SD CZ Dabing",
         "planned_at": "2026-09-23T01:10:09.464513+00:00"
+      },
+      "claim": {
+        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-2",
+        "claimed_at": "2026-09-23T01:10:35.077945+00:00",
+        "lease_expires_at": "2026-09-23T07:10:35.077945+00:00",
+        "run_id": "35767841855"
       }
     },
     "12728": {
@@ -73813,7 +73808,13 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-15T12:52:59.942794+00:00"
       },
-      "previous_target_id": "29404171"
+      "previous_target_id": "29404171",
+      "claim": {
+        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-4",
+        "claimed_at": "2026-09-23T01:10:36.610985+00:00",
+        "lease_expires_at": "2026-09-23T07:10:36.610985+00:00",
+        "run_id": "35767841855"
+      }
     },
     "12786": {
       "attempts": []
@@ -242546,5 +242547,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:10:28.592118+00:00"
+  "updated_at": "2026-09-23T01:10:36.925246+00:00"
 }
