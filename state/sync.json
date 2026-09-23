@@ -189743,13 +189743,6 @@
     "5748": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32944492",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:47:19.532218+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32944492",
           "reason": "Request failed for https://sdilej.cz/32944492/critters-1-1986-fhd-cz-en.mkv (HTTP None)",
@@ -189762,18 +189755,19 @@
           "reason": "Request failed for https://sdilej.cz/32944492/critters-1-1986-fhd-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T06:49:21.473779+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32944492",
+          "reason": "Request failed for https://sdilej.cz/32944492/critters-1-1986-fhd-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:54:10.586758+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32944492",
         "display_name": "Critters (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-23T07:52:44.208891+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T07:53:24.697583+00:00",
-        "lease_expires_at": "2026-09-23T13:53:24.697583+00:00",
-        "run_id": "35828044219"
       }
     },
     "19454": {
@@ -245760,5 +245754,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:53:59.757221+00:00"
+  "updated_at": "2026-09-23T07:54:10.586777+00:00"
 }
