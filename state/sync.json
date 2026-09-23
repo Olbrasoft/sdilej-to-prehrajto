@@ -88865,17 +88865,19 @@
       }
     },
     "12649": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34676090",
+          "target_video_id": "29649431",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:40:36.697637+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34676090",
         "display_name": "Dům na předměstí (1933) 1080p CZ Dabing",
         "planned_at": "2026-09-23T16:31:35.467550+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T16:34:40.933751+00:00",
-        "lease_expires_at": "2026-09-23T22:34:40.933751+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29649431",
       "prepared": {
@@ -167196,13 +167198,6 @@
           "source_id": "29805869",
           "target_video_id": "29576176",
           "permanent": false,
-          "attempted_at": "2026-09-23T12:32:17.479677+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29805869",
-          "target_video_id": "29576176",
-          "permanent": false,
           "attempted_at": "2026-09-23T13:27:20.553366+00:00"
         },
         {
@@ -167211,6 +167206,13 @@
           "target_video_id": "29576176",
           "permanent": false,
           "attempted_at": "2026-09-23T15:03:17.941703+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29805869",
+          "target_video_id": "29576176",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:40:36.531787+00:00"
         }
       ],
       "last_plan": {
@@ -167223,12 +167225,6 @@
         "target_video_id": "29576176",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-21T05:51:36.882677+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T16:40:28.925726+00:00",
-        "lease_expires_at": "2026-09-23T22:40:28.925726+00:00",
-        "run_id": "35861705510"
       }
     },
     "23701": {
@@ -167941,6 +167937,12 @@
         "target_video_id": "29578809",
         "size_bytes": 983100000,
         "prepared_at": "2026-09-21T08:33:09.702301+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
+        "claimed_at": "2026-09-23T16:40:36.367662+00:00",
+        "lease_expires_at": "2026-09-23T22:40:36.367662+00:00",
+        "run_id": "35861705510"
       }
     },
     "24365": {
@@ -248843,5 +248845,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:40:29.285528+00:00"
+  "updated_at": "2026-09-23T16:40:36.697655+00:00"
 }
