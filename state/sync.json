@@ -193842,13 +193842,6 @@
           "permanent": false,
           "source_id": "33323657",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:51.105111+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33323657",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:37.254577+00:00"
         },
         {
@@ -193857,6 +193850,13 @@
           "target_video_id": "29638355",
           "permanent": false,
           "attempted_at": "2026-09-23T09:29:55.192445+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33323657",
+          "target_video_id": "29638355",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:29:53.699293+00:00"
         }
       ],
       "last_plan": {
@@ -193867,7 +193867,7 @@
       "previous_target_id": "29638355",
       "prepared": {
         "target_video_id": "29638355",
-        "size_bytes": 2370894378,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T09:23:36.461805+00:00"
       }
     },
@@ -193887,13 +193887,6 @@
           "permanent": false,
           "source_id": "16029070",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:52.198463+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "16029070",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:35.450549+00:00"
         },
         {
@@ -193902,6 +193895,13 @@
           "target_video_id": "29638385",
           "permanent": false,
           "attempted_at": "2026-09-23T09:30:43.742965+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16029070",
+          "target_video_id": "29638385",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:29:55.449083+00:00"
         }
       ],
       "last_plan": {
@@ -193912,7 +193912,7 @@
       "previous_target_id": "29638385",
       "prepared": {
         "target_video_id": "29638385",
-        "size_bytes": 2134732149,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T09:25:01.788665+00:00"
       }
     },
@@ -193958,13 +193958,6 @@
           "permanent": false,
           "source_id": "23104985",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:53.292543+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23104985",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:36.052312+00:00"
         },
         {
@@ -193973,6 +193966,13 @@
           "reason": "Request failed for https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T09:29:45.412166+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "23104985",
+          "reason": "Request failed for https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:30:41.669147+00:00"
         }
       ],
       "last_plan": {
@@ -246079,5 +246079,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:29:48.264540+00:00"
+  "updated_at": "2026-09-23T10:30:41.669166+00:00"
 }
