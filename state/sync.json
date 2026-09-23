@@ -96096,17 +96096,19 @@
       "attempts": []
     },
     "27663": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "10230150",
+          "reason": "Request failed for https://sdilej.cz/10230150/pisecny-muz-2011-cz-dabing.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:22:28.420802+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10230150",
         "display_name": "Písečný muž (2011) SD CZ Dabing",
         "planned_at": "2026-09-23T01:20:40.529714+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T01:21:36.658985+00:00",
-        "lease_expires_at": "2026-09-23T07:21:36.658985+00:00",
-        "run_id": "35804360245"
       }
     },
     "16890": {
@@ -242805,5 +242807,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:22:21.704487+00:00"
+  "updated_at": "2026-09-23T01:22:28.420820+00:00"
 }
