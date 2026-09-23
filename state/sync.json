@@ -192474,13 +192474,6 @@
           "permanent": false,
           "source_id": "34256884",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:26.247446+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34256884",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:43.577948+00:00"
         },
         {
@@ -192489,18 +192482,19 @@
           "reason": "Request failed for https://sdilej.cz/34256884/speed-racer-2008-uhdrdv-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T08:24:50.523132+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34256884",
+          "target_video_id": "29639140",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:44:29.965752+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34256884",
         "display_name": "Speed Racer (2008) 4K CZ Dabing",
         "planned_at": "2026-09-23T10:21:12.073318+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-2",
-        "claimed_at": "2026-09-23T10:22:02.443393+00:00",
-        "lease_expires_at": "2026-09-23T16:22:02.443393+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29639140",
       "prepared": {
@@ -246121,5 +246115,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:43:08.163274+00:00"
+  "updated_at": "2026-09-23T10:44:29.965769+00:00"
 }
