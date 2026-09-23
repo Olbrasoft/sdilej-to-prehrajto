@@ -194264,13 +194264,6 @@
     "16900": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "24827226",
-          "reason": "Request failed for https://sdilej.cz/24827226/pro-tve-dobro-komedie-spanelsko-2017-cz-dabing.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-23T09:19:38.935158+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "24827226",
           "target_video_id": "29639234",
@@ -194283,6 +194276,13 @@
           "target_video_id": "29639234",
           "permanent": false,
           "attempted_at": "2026-09-23T11:21:53.539778+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24827226",
+          "target_video_id": "29639234",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:34.352795+00:00"
         }
       ],
       "last_plan": {
@@ -194295,23 +194295,10 @@
         "target_video_id": "29639234",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-23T10:27:56.953487+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
-        "claimed_at": "2026-09-23T12:37:30.003690+00:00",
-        "lease_expires_at": "2026-09-23T18:37:30.003690+00:00",
-        "run_id": "35828044219"
       }
     },
     "6122": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "30038680",
-          "target_video_id": "29638302",
-          "permanent": false,
-          "attempted_at": "2026-09-23T09:24:55.448256+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "30038680",
@@ -194325,6 +194312,13 @@
           "target_video_id": "29638302",
           "permanent": false,
           "attempted_at": "2026-09-23T11:21:55.195598+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30038680",
+          "target_video_id": "29638302",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:34.681075+00:00"
         }
       ],
       "last_plan": {
@@ -194337,12 +194331,6 @@
         "target_video_id": "29638302",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T09:19:45.560699+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-2",
-        "claimed_at": "2026-09-23T12:37:31.286386+00:00",
-        "lease_expires_at": "2026-09-23T18:37:31.286386+00:00",
-        "run_id": "35828044219"
       }
     },
     "6082": {
@@ -194402,16 +194390,10 @@
           "attempted_at": "2026-09-23T11:21:56.787384+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34750021",
-        "display_name": "Max Schmeling (2010) SD CZ Titulky",
-        "planned_at": "2026-09-23T12:36:35.863132+00:00"
-      },
       "previous_target_id": "29639244",
-      "prepared": {
+      "upload": {
         "target_video_id": "29639244",
-        "size_bytes": 1500000000,
-        "prepared_at": "2026-09-23T10:28:45.151731+00:00"
+        "uploaded_at": "2026-09-23T12:37:36.829258+00:00"
       }
     },
     "25159": {
@@ -194457,6 +194439,12 @@
         "target_video_id": "29638355",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T09:23:36.461805+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-2",
+        "claimed_at": "2026-09-23T12:37:35.672382+00:00",
+        "lease_expires_at": "2026-09-23T18:37:35.672382+00:00",
+        "run_id": "35828044219"
       }
     },
     "9230": {
@@ -246751,5 +246739,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:37:31.821354+00:00"
+  "updated_at": "2026-09-23T12:37:36.829275+00:00"
 }
