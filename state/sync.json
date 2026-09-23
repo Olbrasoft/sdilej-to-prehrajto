@@ -191081,13 +191081,6 @@
           "permanent": false,
           "source_id": "28661528",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:30.175935+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28661528",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:15.891094+00:00"
         },
         {
@@ -191096,6 +191089,13 @@
           "target_video_id": "29634345",
           "permanent": false,
           "attempted_at": "2026-09-23T05:11:47.239118+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28661528",
+          "target_video_id": "29634345",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:57:34.335670+00:00"
         }
       ],
       "last_plan": {
@@ -191106,7 +191106,7 @@
       "previous_target_id": "29634345",
       "prepared": {
         "target_video_id": "29634345",
-        "size_bytes": 1197910016,
+        "size_bytes": 1200000000,
         "prepared_at": "2026-09-23T05:08:22.616518+00:00"
       }
     },
@@ -191186,16 +191186,10 @@
           "attempted_at": "2026-09-23T05:15:50.266417+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34663898",
-        "display_name": "Pokoj naproti (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T07:53:35.149379+00:00"
-      },
       "previous_target_id": "29634344",
-      "prepared": {
+      "upload": {
         "target_video_id": "29634344",
-        "size_bytes": 2072934552,
-        "prepared_at": "2026-09-23T05:08:20.401041+00:00"
+        "uploaded_at": "2026-09-23T07:57:36.008236+00:00"
       }
     },
     "5755": {
@@ -245750,5 +245744,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:57:30.724174+00:00"
+  "updated_at": "2026-09-23T07:57:36.008253+00:00"
 }
