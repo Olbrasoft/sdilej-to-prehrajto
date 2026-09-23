@@ -122221,13 +122221,6 @@
           "source_id": "31796171",
           "target_video_id": "29219143",
           "permanent": false,
-          "attempted_at": "2026-09-23T20:09:47.727553+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31796171",
-          "target_video_id": "29219143",
-          "permanent": false,
           "attempted_at": "2026-09-23T21:31:44.892565+00:00"
         },
         {
@@ -122236,6 +122229,13 @@
           "target_video_id": "29219143",
           "permanent": false,
           "attempted_at": "2026-09-23T22:16:36.819799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31796171",
+          "target_video_id": "29219143",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:50:54.014867+00:00"
         }
       ],
       "last_plan": {
@@ -122248,13 +122248,7 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-08T17:33:14.067412+00:00"
       },
-      "previous_target_id": "29219143",
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-1",
-        "claimed_at": "2026-09-23T22:50:46.835754+00:00",
-        "lease_expires_at": "2026-09-24T04:50:46.835754+00:00",
-        "run_id": "35903170689"
-      }
+      "previous_target_id": "29219143"
     },
     "10762": {
       "attempts": [
@@ -209459,13 +209453,6 @@
           "permanent": false,
           "source_id": "31582993",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:10:06.264605+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31582993",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:10:42.084892+00:00"
         },
         {
@@ -209474,18 +209461,19 @@
           "source_id": "31582993",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:47.004228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31582993",
+          "target_video_id": "29655130",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:50:54.327522+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31582993",
         "display_name": "Zombie 4: Vzestup upírů (2025) 4K CZ Dabing",
         "planned_at": "2026-09-23T22:30:51.887688+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-5",
-        "claimed_at": "2026-09-23T22:36:28.072205+00:00",
-        "lease_expires_at": "2026-09-24T04:36:28.072205+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29655130",
       "prepared": {
@@ -250252,5 +250240,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T22:50:47.576828+00:00"
+  "updated_at": "2026-09-23T22:50:54.327542+00:00"
 }
