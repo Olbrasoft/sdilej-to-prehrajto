@@ -34266,13 +34266,6 @@
           "source_id": "31203013",
           "target_video_id": "29318760",
           "permanent": false,
-          "attempted_at": "2026-09-23T05:42:19.422378+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31203013",
-          "target_video_id": "29318760",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:13:12.121314+00:00"
         },
         {
@@ -34281,6 +34274,13 @@
           "target_video_id": "29318760",
           "permanent": false,
           "attempted_at": "2026-09-23T07:04:07.723321+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31203013",
+          "target_video_id": "29318760",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:38:34.743193+00:00"
         }
       ],
       "last_plan": {
@@ -34957,13 +34957,6 @@
           "source_id": "33383467",
           "target_video_id": "29352239",
           "permanent": false,
-          "attempted_at": "2026-09-23T05:42:21.518985+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33383467",
-          "target_video_id": "29352239",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:13:12.749241+00:00"
         },
         {
@@ -34972,6 +34965,13 @@
           "target_video_id": "29352239",
           "permanent": false,
           "attempted_at": "2026-09-23T07:04:09.791808+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33383467",
+          "target_video_id": "29352239",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:38:36.692793+00:00"
         }
       ],
       "last_plan": {
@@ -35864,7 +35864,13 @@
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
       },
-      "previous_target_id": "29153323"
+      "previous_target_id": "29153323",
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
+        "claimed_at": "2026-09-23T07:38:37.191979+00:00",
+        "lease_expires_at": "2026-09-23T13:38:37.191979+00:00",
+        "run_id": "35828044219"
+      }
     },
     "29761": {
       "attempts": []
@@ -78135,17 +78141,19 @@
       }
     },
     "31396": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713932",
+          "target_video_id": "29636318",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:38:37.718984+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713932",
         "display_name": "Mimozemští žraloci: Podivné nové světy (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T07:17:46.166742+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
-        "claimed_at": "2026-09-23T07:26:49.522245+00:00",
-        "lease_expires_at": "2026-09-23T13:26:49.522245+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29636318",
       "prepared": {
@@ -245607,5 +245615,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:38:27.096066+00:00"
+  "updated_at": "2026-09-23T07:38:37.718999+00:00"
 }
