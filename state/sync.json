@@ -209953,13 +209953,6 @@
           "permanent": false,
           "source_id": "31577453",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:10:43.138009+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31577453",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:49.255829+00:00"
         },
         {
@@ -209968,18 +209961,19 @@
           "reason": "Request failed for https://sdilej.cz/31577453/snila-jsem-o-africe.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T22:56:27.686201+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31577453",
+          "target_video_id": "29656386",
+          "permanent": false,
+          "attempted_at": "2026-09-23T23:54:47.926543+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31577453",
         "display_name": "Snila jsem o Africe (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-23T23:47:57.952883+00:00"
-      },
-      "claim": {
-        "worker_id": "a25763f30d5243209c4d666370e9000d-shard-4",
-        "claimed_at": "2026-09-23T23:48:25.524719+00:00",
-        "lease_expires_at": "2026-09-24T05:48:25.524719+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29656386",
       "prepared": {
@@ -250652,5 +250646,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T23:54:45.831841+00:00"
+  "updated_at": "2026-09-23T23:54:47.926560+00:00"
 }
