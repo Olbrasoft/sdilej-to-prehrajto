@@ -209899,13 +209899,6 @@
           "permanent": false,
           "source_id": "31261007",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:12:52.762638+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31261007",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:13:42.863907+00:00"
         },
         {
@@ -209914,18 +209907,19 @@
           "source_id": "31261007",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:14:16.864426+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31261007",
+          "target_video_id": "29655492",
+          "permanent": false,
+          "attempted_at": "2026-09-23T23:17:04.292113+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31261007",
         "display_name": "The Surfer (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-23T22:55:02.455142+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-5",
-        "claimed_at": "2026-09-23T22:56:32.871342+00:00",
-        "lease_expires_at": "2026-09-24T04:56:32.871342+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29655492",
       "prepared": {
@@ -250401,5 +250395,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T23:15:45.360580+00:00"
+  "updated_at": "2026-09-23T23:17:04.292130+00:00"
 }
