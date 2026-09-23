@@ -197935,13 +197935,6 @@
           "permanent": false,
           "source_id": "34705081",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:54.415224+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34705081",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:23:44.072628+00:00"
         },
         {
@@ -197950,18 +197943,19 @@
           "source_id": "34705081",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:37.521891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34705081",
+          "target_video_id": "29646456",
+          "permanent": false,
+          "attempted_at": "2026-09-23T13:41:21.459204+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34705081",
         "display_name": "Objekt mé touhy (1998) 1080p CZ Dabing",
         "planned_at": "2026-09-23T13:31:37.076553+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T13:35:23.785155+00:00",
-        "lease_expires_at": "2026-09-23T19:35:23.785155+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29646456",
       "prepared": {
@@ -247290,5 +247284,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T13:40:46.640952+00:00"
+  "updated_at": "2026-09-23T13:41:21.459222+00:00"
 }
