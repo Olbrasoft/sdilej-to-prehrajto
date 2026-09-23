@@ -195153,13 +195153,6 @@
           "permanent": false,
           "source_id": "34722255",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:11.849703+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34722255",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:21:42.409902+00:00"
         },
         {
@@ -195168,18 +195161,19 @@
           "source_id": "34722255",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:49.421291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34722255",
+          "target_video_id": "29639472",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:46:37.204362+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34722255",
         "display_name": "Totální okno (1994) SD CZ Dabing",
         "planned_at": "2026-09-23T10:25:31.940904+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-0",
-        "claimed_at": "2026-09-23T10:43:04.239978+00:00",
-        "lease_expires_at": "2026-09-23T16:43:04.239978+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29639472",
       "prepared": {
@@ -246133,5 +246127,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:45:36.371765+00:00"
+  "updated_at": "2026-09-23T10:46:37.204377+00:00"
 }
