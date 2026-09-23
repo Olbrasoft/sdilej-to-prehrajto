@@ -196748,13 +196748,6 @@
           "permanent": false,
           "source_id": "29381502",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:43.522342+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29381502",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:13.381276+00:00"
         },
         {
@@ -196763,18 +196756,19 @@
           "reason": "Request failed for https://sdilej.cz/29381502/hrdina-max-2-chlupaty-bodyguard-2017-.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T12:46:36.563246+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29381502",
+          "target_video_id": "29646373",
+          "permanent": false,
+          "attempted_at": "2026-09-23T13:33:34.644785+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29381502",
         "display_name": "Hrdina Max 2: Chlupatý bodyguard (2017) 720p CZ Dabing",
         "planned_at": "2026-09-23T13:28:36.665632+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T13:29:06.739149+00:00",
-        "lease_expires_at": "2026-09-23T19:29:06.739149+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29646373",
       "prepared": {
@@ -247230,5 +247224,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T13:32:54.689121+00:00"
+  "updated_at": "2026-09-23T13:33:34.644802+00:00"
 }
