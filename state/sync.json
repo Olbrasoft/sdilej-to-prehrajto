@@ -186916,13 +186916,6 @@
     "16287": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31104614",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:02:58.581496+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31104614",
           "reason": "Request failed for https://sdilej.cz/31104614/letni-vanoce-2024.mp4 (HTTP None)",
@@ -186935,18 +186928,19 @@
           "reason": "Request failed for https://sdilej.cz/31104614/letni-vanoce-2024.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T02:56:33.841893+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31104614",
+          "target_video_id": "29633192",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:00:33.973064+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31104614",
         "display_name": "Letní Vánoce (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:50:48.821802+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T03:53:11.656495+00:00",
-        "lease_expires_at": "2026-09-23T09:53:11.656495+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29633192",
       "prepared": {
@@ -244224,5 +244218,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:00:21.739443+00:00"
+  "updated_at": "2026-09-23T04:00:33.973082+00:00"
 }
