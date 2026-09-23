@@ -188894,13 +188894,6 @@
           "permanent": false,
           "source_id": "34784201",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:30:56.514383+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34784201",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:11.655889+00:00"
         },
         {
@@ -188909,18 +188902,19 @@
           "source_id": "34784201",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:52.244669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784201",
+          "target_video_id": "29633994",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:45:49.252111+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34784201",
         "display_name": "A Letter from Death Row (1998) SD CZ Dabing",
         "planned_at": "2026-09-23T04:30:51.213154+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T04:43:18.713719+00:00",
-        "lease_expires_at": "2026-09-23T10:43:18.713719+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29633994",
       "prepared": {
@@ -189000,6 +188994,12 @@
         "source_id": "34670457",
         "display_name": "Royalteen: Princezna Margrethe (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:51.917857+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
+        "claimed_at": "2026-09-23T04:45:32.877178+00:00",
+        "lease_expires_at": "2026-09-23T10:45:32.877178+00:00",
+        "run_id": "35804360245"
       }
     },
     "7056": {
@@ -244561,5 +244561,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:45:30.644802+00:00"
+  "updated_at": "2026-09-23T04:45:49.252126+00:00"
 }
