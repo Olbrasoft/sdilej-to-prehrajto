@@ -196160,13 +196160,6 @@
           "permanent": false,
           "source_id": "33078003",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:37.049816+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33078003",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:07.344011+00:00"
         },
         {
@@ -196175,18 +196168,19 @@
           "reason": "Request failed for https://sdilej.cz/33078003/largo-winch-iii-2024-cz-dab-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T10:50:40.748154+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33078003",
+          "target_video_id": "29642517",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:49:55.639660+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33078003",
         "display_name": "Largo Winch III (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:38:05.154929+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
-        "claimed_at": "2026-09-23T12:42:08.826334+00:00",
-        "lease_expires_at": "2026-09-23T18:42:08.826334+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29642517",
       "prepared": {
@@ -246764,5 +246758,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:49:26.869293+00:00"
+  "updated_at": "2026-09-23T12:49:55.639678+00:00"
 }
