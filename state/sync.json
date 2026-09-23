@@ -56195,13 +56195,6 @@
           "source_id": "10615882",
           "reason": "Request failed for https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-09-22T23:28:57.677169+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "10615882",
-          "reason": "Request failed for https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-09-23T00:24:10.645827+00:00"
         },
         {
@@ -56210,18 +56203,19 @@
           "reason": "Request failed for https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T01:09:19.538874+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "10615882",
+          "reason": "Request failed for https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:59:29.073832+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10615882",
         "display_name": "Nekonečná cesta (2017) 1080p CZ Titulky",
         "planned_at": "2026-09-23T01:57:50.785802+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T01:58:42.840512+00:00",
-        "lease_expires_at": "2026-09-23T07:58:42.840512+00:00",
-        "run_id": "35804360245"
       }
     },
     "27892": {
@@ -62353,13 +62347,6 @@
           "source_id": "30754838",
           "target_video_id": "29589703",
           "permanent": false,
-          "attempted_at": "2026-09-22T23:52:56.472735+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30754838",
-          "target_video_id": "29589703",
-          "permanent": false,
           "attempted_at": "2026-09-23T00:25:06.021630+00:00"
         },
         {
@@ -62368,6 +62355,13 @@
           "target_video_id": "29589703",
           "permanent": false,
           "attempted_at": "2026-09-23T01:09:35.167937+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30754838",
+          "target_video_id": "29589703",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:59:27.127816+00:00"
         }
       ],
       "last_plan": {
@@ -62380,12 +62374,6 @@
         "target_video_id": "29589703",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-21T16:08:03.304398+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T01:59:20.705120+00:00",
-        "lease_expires_at": "2026-09-23T07:59:20.705120+00:00",
-        "run_id": "35804360245"
       }
     },
     "2765": {
@@ -62740,7 +62728,13 @@
         "size_bytes": 51500000000,
         "prepared_at": "2026-09-16T00:24:20.630594+00:00"
       },
-      "previous_target_id": "29413258"
+      "previous_target_id": "29413258",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T01:59:27.385925+00:00",
+        "lease_expires_at": "2026-09-23T07:59:27.385925+00:00",
+        "run_id": "35804360245"
+      }
     },
     "2515": {
       "attempts": []
@@ -64081,7 +64075,13 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-08T14:42:01.222674+00:00"
       },
-      "previous_target_id": "29215766"
+      "previous_target_id": "29215766",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
+        "claimed_at": "2026-09-23T01:59:27.901685+00:00",
+        "lease_expires_at": "2026-09-23T07:59:27.901685+00:00",
+        "run_id": "35804360245"
+      }
     },
     "20421": {
       "attempts": [
@@ -64117,6 +64117,12 @@
         "target_video_id": "29576887",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-21T06:43:14.063837+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
+        "claimed_at": "2026-09-23T01:59:27.647975+00:00",
+        "lease_expires_at": "2026-09-23T07:59:27.647975+00:00",
+        "run_id": "35804360245"
       }
     },
     "2536": {
@@ -243299,5 +243305,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:59:21.367353+00:00"
+  "updated_at": "2026-09-23T01:59:29.073850+00:00"
 }
