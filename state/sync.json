@@ -202585,13 +202585,6 @@
           "permanent": false,
           "source_id": "34772159",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:43:39.691154+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34772159",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:44:05.007400+00:00"
         },
         {
@@ -202600,6 +202593,13 @@
           "target_video_id": "29648483",
           "permanent": false,
           "attempted_at": "2026-09-23T15:43:16.223629+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34772159",
+          "target_video_id": "29648483",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:43:25.295986+00:00"
         }
       ],
       "last_plan": {
@@ -202610,14 +202610,8 @@
       "previous_target_id": "29648483",
       "prepared": {
         "target_video_id": "29648483",
-        "size_bytes": 1762149533,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T15:37:46.676596+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
-        "claimed_at": "2026-09-23T16:43:21.431091+00:00",
-        "lease_expires_at": "2026-09-23T22:43:21.431091+00:00",
-        "run_id": "35861705510"
       }
     },
     "13991": {
@@ -202633,13 +202627,6 @@
           "permanent": false,
           "source_id": "29047113",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:43:40.779388+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29047113",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:44:05.288380+00:00"
         },
         {
@@ -202648,6 +202635,13 @@
           "target_video_id": "29648514",
           "permanent": false,
           "attempted_at": "2026-09-23T15:50:01.762555+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29047113",
+          "target_video_id": "29648514",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:43:25.118910+00:00"
         }
       ],
       "last_plan": {
@@ -202658,14 +202652,8 @@
       "previous_target_id": "29648514",
       "prepared": {
         "target_video_id": "29648514",
-        "size_bytes": 3326084146,
+        "size_bytes": 3300000000,
         "prepared_at": "2026-09-23T15:39:38.234639+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T16:43:21.271168+00:00",
-        "lease_expires_at": "2026-09-23T22:43:21.271168+00:00",
-        "run_id": "35861705510"
       }
     },
     "6227": {
@@ -202695,22 +202683,10 @@
           "attempted_at": "2026-09-23T15:48:35.257408+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27447157",
-        "display_name": "Arthur a Minimojové (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T16:43:03.511911+00:00"
-      },
       "previous_target_id": "29648540",
-      "prepared": {
+      "upload": {
         "target_video_id": "29648540",
-        "size_bytes": 2167935486,
-        "prepared_at": "2026-09-23T15:41:41.565057+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T16:43:21.591060+00:00",
-        "lease_expires_at": "2026-09-23T22:43:21.591060+00:00",
-        "run_id": "35861705510"
+        "uploaded_at": "2026-09-23T16:43:25.846531+00:00"
       }
     },
     "36963": {
@@ -202779,6 +202755,12 @@
         "target_video_id": "29648561",
         "size_bytes": 1469954484,
         "prepared_at": "2026-09-23T15:43:30.827718+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
+        "claimed_at": "2026-09-23T16:43:25.476628+00:00",
+        "lease_expires_at": "2026-09-23T22:43:25.476628+00:00",
+        "run_id": "35861705510"
       }
     },
     "29135": {
@@ -202815,6 +202797,12 @@
         "target_video_id": "29648576",
         "size_bytes": 4289041869,
         "prepared_at": "2026-09-23T15:44:18.256806+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
+        "claimed_at": "2026-09-23T16:43:25.662610+00:00",
+        "lease_expires_at": "2026-09-23T22:43:25.662610+00:00",
+        "run_id": "35861705510"
       }
     },
     "30442": {
@@ -248812,5 +248800,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:43:22.648169+00:00"
+  "updated_at": "2026-09-23T16:43:25.846549+00:00"
 }
