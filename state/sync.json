@@ -74567,17 +74567,19 @@
       "attempts": []
     },
     "31526": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29021085",
+          "reason": "Request failed for https://sdilej.cz/29021085/jak-sevci-svedli-vojnu-pro-cervenou-sukni.mpg (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T00:02:16.331105+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29021085",
         "display_name": "Jak ševci zvedli vojnu pro červenou sukni (1990) SD",
         "planned_at": "2026-09-22T23:54:08.070938+00:00"
-      },
-      "claim": {
-        "worker_id": "a0c8e04dc84f48a59a7e56c3d5be30ba-shard-4",
-        "claimed_at": "2026-09-23T00:01:30.290009+00:00",
-        "lease_expires_at": "2026-09-23T06:01:30.290009+00:00",
-        "run_id": "35767841855"
       }
     },
     "12600": {
@@ -241523,5 +241525,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T00:01:32.628272+00:00"
+  "updated_at": "2026-09-23T00:02:16.331121+00:00"
 }
