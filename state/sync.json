@@ -196214,13 +196214,6 @@
           "permanent": false,
           "source_id": "27128248",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:22:38.097425+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27128248",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:08.367893+00:00"
         },
         {
@@ -196229,6 +196222,13 @@
           "target_video_id": "29639581",
           "permanent": false,
           "attempted_at": "2026-09-23T10:56:04.058648+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27128248",
+          "target_video_id": "29639581",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:42:27.864580+00:00"
         }
       ],
       "last_plan": {
@@ -196239,14 +196239,8 @@
       "previous_target_id": "29639581",
       "prepared": {
         "target_video_id": "29639581",
-        "size_bytes": 1523982912,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-23T10:50:50.267113+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-4",
-        "claimed_at": "2026-09-23T12:42:24.457886+00:00",
-        "lease_expires_at": "2026-09-23T18:42:24.457886+00:00",
-        "run_id": "35828044219"
       }
     },
     "28121": {
@@ -196307,6 +196301,12 @@
         "source_id": "34721085",
         "display_name": "EMPIRES Batman Aztécké říše (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:38:06.093138+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-0",
+        "claimed_at": "2026-09-23T12:42:28.205841+00:00",
+        "lease_expires_at": "2026-09-23T18:42:28.205841+00:00",
+        "run_id": "35828044219"
       }
     },
     "24785": {
@@ -196340,6 +196340,18 @@
         "source_id": "27920653",
         "display_name": "Zlomek sekundy (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:38:06.387521+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-4",
+        "claimed_at": "2026-09-23T12:42:28.562496+00:00",
+        "lease_expires_at": "2026-09-23T18:42:28.562496+00:00",
+        "run_id": "35828044219"
+      },
+      "previous_target_id": "29642519",
+      "prepared": {
+        "target_video_id": "29642519",
+        "size_bytes": 2000892663,
+        "prepared_at": "2026-09-23T12:42:32.625080+00:00"
       }
     },
     "27468": {
@@ -246716,5 +246728,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:42:25.625415+00:00"
+  "updated_at": "2026-09-23T12:42:32.625098+00:00"
 }
