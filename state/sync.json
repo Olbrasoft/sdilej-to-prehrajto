@@ -187563,13 +187563,6 @@
           "permanent": false,
           "source_id": "32662489",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:31.941157+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32662489",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:03.912051+00:00"
         },
         {
@@ -187578,18 +187571,19 @@
           "reason": "Request failed for https://sdilej.cz/32662489/gas.pump.girls-holky.z.pumpy.1979.fra.cze.1080p.x264.ac3.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T03:14:54.533655+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32662489",
+          "reason": "Request failed for https://sdilej.cz/32662489/gas.pump.girls-holky.z.pumpy.1979.fra.cze.1080p.x264.ac3.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:01:22.818559+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32662489",
         "display_name": "Holky z pumpy (1979) 1080p CZ Dabing",
         "planned_at": "2026-09-23T03:50:52.070771+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T04:00:36.795652+00:00",
-        "lease_expires_at": "2026-09-23T10:00:36.795652+00:00",
-        "run_id": "35804360245"
       }
     },
     "6439": {
@@ -244296,5 +244290,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:01:04.120708+00:00"
+  "updated_at": "2026-09-23T04:01:22.818611+00:00"
 }
