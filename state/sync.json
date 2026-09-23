@@ -108849,17 +108849,19 @@
       "attempts": []
     },
     "12535": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21756824",
+          "reason": "Request failed for https://sdilej.cz/21756824/merlin-1.cast.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:39:06.402792+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21756824",
         "display_name": "Merlin (1998) SD CZ Dabing",
         "planned_at": "2026-09-23T08:36:19.028819+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-2",
-        "claimed_at": "2026-09-23T08:38:20.297470+00:00",
-        "lease_expires_at": "2026-09-23T14:38:20.297470+00:00",
-        "run_id": "35828044219"
       }
     },
     "14876": {
@@ -108878,13 +108880,6 @@
           "source_id": "32704855",
           "target_video_id": "29316667",
           "permanent": false,
-          "attempted_at": "2026-09-23T04:10:30.308402+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32704855",
-          "target_video_id": "29316667",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:05:17.389232+00:00"
         },
         {
@@ -108893,6 +108888,13 @@
           "target_video_id": "29316667",
           "permanent": false,
           "attempted_at": "2026-09-23T07:43:43.834538+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32704855",
+          "target_video_id": "29316667",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:39:04.312529+00:00"
         }
       ],
       "last_plan": {
@@ -109181,13 +109183,6 @@
           "source_id": "34795409",
           "target_video_id": "29129473",
           "permanent": false,
-          "attempted_at": "2026-09-23T04:10:32.334523+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34795409",
-          "target_video_id": "29129473",
-          "permanent": false,
           "attempted_at": "2026-09-23T06:05:18.609148+00:00"
         },
         {
@@ -109196,6 +109191,13 @@
           "target_video_id": "29129473",
           "permanent": false,
           "attempted_at": "2026-09-23T07:43:45.577060+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34795409",
+          "target_video_id": "29129473",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:39:06.083906+00:00"
         }
       ],
       "last_plan": {
@@ -245866,5 +245868,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:38:57.248769+00:00"
+  "updated_at": "2026-09-23T08:39:06.402815+00:00"
 }
