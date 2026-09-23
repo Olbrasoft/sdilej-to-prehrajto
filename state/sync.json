@@ -189273,13 +189273,6 @@
     "7479": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34487542",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:47:15.444691+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34487542",
           "reason": "Request failed for https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4 (HTTP None)",
@@ -189292,18 +189285,19 @@
           "reason": "Request failed for https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T06:26:40.819941+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34487542",
+          "target_video_id": "29636691",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:21:04.601778+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34487542",
         "display_name": "Vzpomínka na Benátky (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-23T07:52:41.949996+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
-        "claimed_at": "2026-09-23T07:53:11.265888+00:00",
-        "lease_expires_at": "2026-09-23T13:53:11.265888+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29636691",
       "prepared": {
@@ -245799,5 +245793,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:19:58.619028+00:00"
+  "updated_at": "2026-09-23T08:21:04.601793+00:00"
 }
