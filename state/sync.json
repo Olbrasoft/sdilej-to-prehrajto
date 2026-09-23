@@ -193283,13 +193283,6 @@
           "permanent": false,
           "source_id": "14778018",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:30:54.897853+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14778018",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:50:36.287088+00:00"
         },
         {
@@ -193298,18 +193291,19 @@
           "source_id": "14778018",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:57.065042+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14778018",
+          "target_video_id": "29637942",
+          "permanent": false,
+          "attempted_at": "2026-09-23T09:06:08.252375+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14778018",
         "display_name": "Hover (2018) SD SK Dabing",
         "planned_at": "2026-09-23T08:50:27.531259+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-0",
-        "claimed_at": "2026-09-23T09:02:00.387140+00:00",
-        "lease_expires_at": "2026-09-23T15:02:00.387140+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29637942",
       "prepared": {
@@ -246010,5 +246004,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T09:03:08.907289+00:00"
+  "updated_at": "2026-09-23T09:06:08.252392+00:00"
 }
