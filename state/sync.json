@@ -190444,16 +190444,10 @@
           "attempted_at": "2026-09-23T11:08:24.905562+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28457841",
-        "display_name": "10 způsobů lásky (2008) SD CZ Dabing",
-        "planned_at": "2026-09-23T12:34:59.642480+00:00"
-      },
       "previous_target_id": "29633918",
-      "prepared": {
+      "upload": {
         "target_video_id": "29633918",
-        "size_bytes": 848700000,
-        "prepared_at": "2026-09-23T04:36:57.402248+00:00"
+        "uploaded_at": "2026-09-23T12:36:07.426367+00:00"
       }
     },
     "13270": {
@@ -190465,13 +190459,6 @@
     },
     "5748": {
       "attempts": [
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32944492",
-          "reason": "Request failed for https://sdilej.cz/32944492/critters-1-1986-fhd-cz-en.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-23T08:45:05.427189+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "32944492",
@@ -190485,6 +190472,13 @@
           "target_video_id": "29639128",
           "permanent": false,
           "attempted_at": "2026-09-23T11:08:25.192850+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32944492",
+          "target_video_id": "29639128",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:36:07.013981+00:00"
         }
       ],
       "last_plan": {
@@ -190543,6 +190537,12 @@
         "target_video_id": "29633939",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-23T04:38:42.501775+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
+        "claimed_at": "2026-09-23T12:36:05.850287+00:00",
+        "lease_expires_at": "2026-09-23T18:36:05.850287+00:00",
+        "run_id": "35828044219"
       }
     },
     "30989": {
@@ -246731,5 +246731,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:35:58.903808+00:00"
+  "updated_at": "2026-09-23T12:36:07.426391+00:00"
 }
