@@ -196533,13 +196533,6 @@
           "permanent": false,
           "source_id": "13852261",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:06:35.634334+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13852261",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:22:46.727318+00:00"
         },
         {
@@ -196548,18 +196541,19 @@
           "source_id": "13852261",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:28:16.280777+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13852261",
+          "target_video_id": "29642593",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:49:15.895419+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13852261",
         "display_name": "Clementine (2019) SD CZ Titulky",
         "planned_at": "2026-09-23T12:38:07.987512+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-0",
-        "claimed_at": "2026-09-23T12:46:41.950775+00:00",
-        "lease_expires_at": "2026-09-23T18:46:41.950775+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29642593",
       "prepared": {
@@ -246758,5 +246752,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:46:51.445596+00:00"
+  "updated_at": "2026-09-23T12:49:15.895441+00:00"
 }
