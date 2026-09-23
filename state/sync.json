@@ -192709,13 +192709,6 @@
           "permanent": false,
           "source_id": "34773078",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:13:01.746097+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34773078",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:00:30.705457+00:00"
         },
         {
@@ -192724,18 +192717,19 @@
           "source_id": "34773078",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:47.579359+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34773078",
+          "reason": "Request failed for https://sdilej.cz/34773078/apache-junction-2021-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:54:23.882146+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34773078",
         "display_name": "Apache Junction (2021) 720p CZ Titulky",
         "planned_at": "2026-09-23T08:50:24.953593+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
-        "claimed_at": "2026-09-23T08:53:38.006516+00:00",
-        "lease_expires_at": "2026-09-23T14:53:38.006516+00:00",
-        "run_id": "35828044219"
       }
     },
     "5297": {
@@ -245968,5 +245962,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:54:08.581491+00:00"
+  "updated_at": "2026-09-23T08:54:23.882165+00:00"
 }
