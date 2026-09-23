@@ -195507,13 +195507,6 @@
           "permanent": false,
           "source_id": "34453340",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:21:39.710913+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34453340",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:46.556528+00:00"
         },
         {
@@ -195522,18 +195515,19 @@
           "reason": "Request failed for https://sdilej.cz/34453340/the-den.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T10:36:19.459271+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34453340",
+          "target_video_id": "29642468",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:41:46.303083+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34453340",
         "display_name": "The Den (2013) SD CZ Titulky",
         "planned_at": "2026-09-23T12:38:00.803010+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
-        "claimed_at": "2026-09-23T12:38:33.345554+00:00",
-        "lease_expires_at": "2026-09-23T18:38:33.345554+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29642468",
       "prepared": {
@@ -246734,5 +246728,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:39:33.370686+00:00"
+  "updated_at": "2026-09-23T12:41:46.303100+00:00"
 }
