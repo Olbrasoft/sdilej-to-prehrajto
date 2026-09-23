@@ -192322,13 +192322,6 @@
           "source_id": "11872096",
           "target_video_id": "29531348",
           "permanent": false,
-          "attempted_at": "2026-09-20T12:28:14.184458+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11872096",
-          "target_video_id": "29531348",
-          "permanent": false,
           "attempted_at": "2026-09-23T08:19:54.246310+00:00"
         },
         {
@@ -192337,6 +192330,13 @@
           "target_video_id": "29531348",
           "permanent": false,
           "attempted_at": "2026-09-23T08:53:04.135426+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11872096",
+          "target_video_id": "29531348",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:22:01.302195+00:00"
         }
       ],
       "last_plan": {
@@ -192365,13 +192365,6 @@
           "permanent": false,
           "source_id": "33852901",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:09.712433+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33852901",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:40.676878+00:00"
         },
         {
@@ -192380,6 +192373,13 @@
           "target_video_id": "29637096",
           "permanent": false,
           "attempted_at": "2026-09-23T08:27:51.983132+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33852901",
+          "target_video_id": "29637096",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:22:00.883213+00:00"
         }
       ],
       "last_plan": {
@@ -192390,7 +192390,7 @@
       "previous_target_id": "29637096",
       "prepared": {
         "target_video_id": "29637096",
-        "size_bytes": 2575471780,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-23T08:19:58.619011+00:00"
       }
     },
@@ -192410,13 +192410,6 @@
           "permanent": false,
           "source_id": "29554678",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:24.034788+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29554678",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:41.642343+00:00"
         },
         {
@@ -192425,6 +192418,13 @@
           "target_video_id": "29637124",
           "permanent": false,
           "attempted_at": "2026-09-23T08:26:21.192949+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29554678",
+          "target_video_id": "29637124",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:22:01.585479+00:00"
         }
       ],
       "last_plan": {
@@ -192435,7 +192435,7 @@
       "previous_target_id": "29637124",
       "prepared": {
         "target_video_id": "29637124",
-        "size_bytes": 1130975232,
+        "size_bytes": 1100000000,
         "prepared_at": "2026-09-23T08:21:10.904860+00:00"
       }
     },
@@ -192477,6 +192477,12 @@
         "source_id": "31960772",
         "display_name": "Návrat neuvěřitelného Hulka (1988) SD CZ Dabing",
         "planned_at": "2026-09-23T10:21:11.821833+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
+        "claimed_at": "2026-09-23T10:22:01.880477+00:00",
+        "lease_expires_at": "2026-09-23T16:22:01.880477+00:00",
+        "run_id": "35828044219"
       }
     },
     "17869": {
@@ -192507,6 +192513,12 @@
         "source_id": "34256884",
         "display_name": "Speed Racer (2008) 4K CZ Dabing",
         "planned_at": "2026-09-23T10:21:12.073318+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-2",
+        "claimed_at": "2026-09-23T10:22:02.443393+00:00",
+        "lease_expires_at": "2026-09-23T16:22:02.443393+00:00",
+        "run_id": "35828044219"
       }
     },
     "32545": {
@@ -192569,16 +192581,10 @@
           "attempted_at": "2026-09-23T08:38:57.248753+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32145018",
-        "display_name": "Inkoustové srdce (2008) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T10:21:12.340821+00:00"
-      },
       "previous_target_id": "29637352",
-      "prepared": {
+      "upload": {
         "target_video_id": "29637352",
-        "size_bytes": 3800806528,
-        "prepared_at": "2026-09-23T08:24:22.896062+00:00"
+        "uploaded_at": "2026-09-23T10:22:03.425649+00:00"
       }
     },
     "6130": {
@@ -246079,5 +246085,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:21:56.964546+00:00"
+  "updated_at": "2026-09-23T10:22:03.425663+00:00"
 }
