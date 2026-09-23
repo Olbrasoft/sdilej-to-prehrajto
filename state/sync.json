@@ -120066,17 +120066,19 @@
       "attempts": []
     },
     "3611": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34651725",
+          "reason": "Request failed for https://sdilej.cz/34651725/slusna-spolecnost-2023-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:23:07.689377+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34651725",
         "display_name": "Slušná společnost (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-23T02:05:35.274941+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T02:22:19.327724+00:00",
-        "lease_expires_at": "2026-09-23T08:22:19.327724+00:00",
-        "run_id": "35804360245"
       }
     },
     "27543": {
@@ -243949,5 +243951,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:23:05.335887+00:00"
+  "updated_at": "2026-09-23T02:23:07.689392+00:00"
 }
