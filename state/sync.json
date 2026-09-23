@@ -195072,13 +195072,6 @@
     "6083": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31348207",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:27:43.207591+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31348207",
           "reason": "Request failed for https://sdilej.cz/31348207/san-andreas-2015-2160p-eac3-ces-eng-.mkv (HTTP None)",
@@ -195091,18 +195084,19 @@
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-23T10:34:15.554162+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31348207",
+          "reason": "Source detail has no authenticated download link; source_id=31348207",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:57.303406+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-09-23T12:36:39.128232+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-3",
-        "claimed_at": "2026-09-23T12:37:53.373857+00:00",
-        "lease_expires_at": "2026-09-23T18:37:53.373857+00:00",
-        "run_id": "35828044219"
       }
     },
     "5944": {
@@ -195129,13 +195123,6 @@
           "permanent": false,
           "source_id": "25432988",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:21:34.709325+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25432988",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:43.487205+00:00"
         },
         {
@@ -195144,6 +195131,13 @@
           "target_video_id": "29638787",
           "permanent": false,
           "attempted_at": "2026-09-23T10:03:53.090235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25432988",
+          "target_video_id": "29638787",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:37:55.931767+00:00"
         }
       ],
       "last_plan": {
@@ -195154,14 +195148,8 @@
       "previous_target_id": "29638787",
       "prepared": {
         "target_video_id": "29638787",
-        "size_bytes": 2659585227,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-23T09:54:01.853798+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
-        "claimed_at": "2026-09-23T12:37:53.011342+00:00",
-        "lease_expires_at": "2026-09-23T18:37:53.011342+00:00",
-        "run_id": "35828044219"
       }
     },
     "5754": {
@@ -195214,7 +195202,7 @@
       "last_plan": {
         "source_id": "34206332",
         "display_name": "Sněhurka a lovec (2012) 4K CZ Dabing",
-        "planned_at": "2026-09-23T08:50:36.878907+00:00"
+        "planned_at": "2026-09-23T12:37:56.542488+00:00"
       }
     },
     "6292": {
@@ -195291,7 +195279,7 @@
       "last_plan": {
         "source_id": "26205158",
         "display_name": "Žhavá jízda (2013) 720p CZ Dabing",
-        "planned_at": "2026-09-23T08:50:37.208360+00:00"
+        "planned_at": "2026-09-23T12:37:56.874738+00:00"
       },
       "previous_target_id": "29638829",
       "prepared": {
@@ -246727,5 +246715,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:37:53.681234+00:00"
+  "updated_at": "2026-09-23T12:37:57.303429+00:00"
 }
