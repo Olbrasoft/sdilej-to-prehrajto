@@ -207896,13 +207896,6 @@
           "permanent": false,
           "source_id": "33744802",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:04:02.158083+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33744802",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:04:15.896046+00:00"
         },
         {
@@ -207911,18 +207904,19 @@
           "source_id": "33744802",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:04:30.338236+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33744802",
+          "target_video_id": "29653390",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:11:00.598891+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33744802",
         "display_name": "Vymítač kanibalů (1972) 1080p CZ Dabing",
         "planned_at": "2026-09-23T20:22:39.224487+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-5",
-        "claimed_at": "2026-09-23T20:57:41.067731+00:00",
-        "lease_expires_at": "2026-09-24T02:57:41.067731+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29653390",
       "prepared": {
@@ -249762,5 +249756,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T21:10:53.248020+00:00"
+  "updated_at": "2026-09-23T21:11:00.598932+00:00"
 }
