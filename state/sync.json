@@ -192672,13 +192672,6 @@
           "permanent": false,
           "source_id": "29645130",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:12:54.731760+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29645130",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:00:29.496856+00:00"
         },
         {
@@ -192687,18 +192680,19 @@
           "source_id": "29645130",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:46.520673+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29645130",
+          "reason": "Request failed for https://sdilej.cz/29645130/neslusny-navrh-1993-2045-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:53:57.288649+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29645130",
         "display_name": "Neslušný návrh (1993) 1080p CZ Dabing",
         "planned_at": "2026-09-23T08:50:24.627113+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T08:53:11.161331+00:00",
-        "lease_expires_at": "2026-09-23T14:53:11.161331+00:00",
-        "run_id": "35828044219"
       }
     },
     "6038": {
@@ -192736,6 +192730,12 @@
         "source_id": "34773078",
         "display_name": "Apache Junction (2021) 720p CZ Titulky",
         "planned_at": "2026-09-23T08:50:24.953593+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T08:53:38.006516+00:00",
+        "lease_expires_at": "2026-09-23T14:53:38.006516+00:00",
+        "run_id": "35828044219"
       }
     },
     "5297": {
@@ -245956,5 +245956,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:53:31.936537+00:00"
+  "updated_at": "2026-09-23T08:53:57.288666+00:00"
 }
