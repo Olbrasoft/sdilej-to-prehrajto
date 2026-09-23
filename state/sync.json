@@ -44547,7 +44547,13 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-09-07T00:11:56.740060+00:00"
       },
-      "previous_target_id": "29174784"
+      "previous_target_id": "29174784",
+      "claim": {
+        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-1",
+        "claimed_at": "2026-09-23T12:26:13.482530+00:00",
+        "lease_expires_at": "2026-09-23T18:26:13.482530+00:00",
+        "run_id": "35828044219"
+      }
     },
     "15970": {
       "attempts": [
@@ -89104,17 +89110,19 @@
       "attempts": []
     },
     "32184": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34715006",
+          "target_video_id": "29641678",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:26:13.896541+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34715006",
         "display_name": "Jarek (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:15:43.792990+00:00"
-      },
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-4",
-        "claimed_at": "2026-09-23T12:16:27.595593+00:00",
-        "lease_expires_at": "2026-09-23T18:16:27.595593+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29641678",
       "prepared": {
@@ -246725,5 +246733,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:26:07.459410+00:00"
+  "updated_at": "2026-09-23T12:26:13.896557+00:00"
 }
