@@ -75033,6 +75033,13 @@
           "target_video_id": "29629537",
           "permanent": false,
           "attempted_at": "2026-09-23T00:12:34.654490+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30618439",
+          "target_video_id": "29629537",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:15:00.150697+00:00"
         }
       ],
       "last_plan": {
@@ -75043,14 +75050,8 @@
       "previous_target_id": "29629537",
       "prepared": {
         "target_video_id": "29629537",
-        "size_bytes": 4516378867,
+        "size_bytes": 4500000000,
         "prepared_at": "2026-09-23T00:02:28.715834+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T01:14:56.803974+00:00",
-        "lease_expires_at": "2026-09-23T07:14:56.803974+00:00",
-        "run_id": "35804360245"
       }
     },
     "27177": {
@@ -75129,22 +75130,10 @@
           "attempted_at": "2026-09-23T00:10:12.577940+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34647989",
-        "display_name": "Cesta do nemožna (2019) 1080p SK Dabing",
-        "planned_at": "2026-09-23T01:14:22.775078+00:00"
-      },
       "previous_target_id": "29629568",
-      "prepared": {
+      "upload": {
         "target_video_id": "29629568",
-        "size_bytes": 2149361373,
-        "prepared_at": "2026-09-23T00:04:25.162459+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T01:14:56.282512+00:00",
-        "lease_expires_at": "2026-09-23T07:14:56.282512+00:00",
-        "run_id": "35804360245"
+        "uploaded_at": "2026-09-23T01:15:00.869885+00:00"
       }
     },
     "28962": {
@@ -75161,6 +75150,13 @@
           "target_video_id": "29629572",
           "permanent": false,
           "attempted_at": "2026-09-23T00:08:05.548420+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8555407",
+          "target_video_id": "29629572",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:15:00.390243+00:00"
         }
       ],
       "last_plan": {
@@ -75171,14 +75167,8 @@
       "previous_target_id": "29629572",
       "prepared": {
         "target_video_id": "29629572",
-        "size_bytes": 1253285995,
+        "size_bytes": 1300000000,
         "prepared_at": "2026-09-23T00:04:31.168119+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T01:14:57.067815+00:00",
-        "lease_expires_at": "2026-09-23T07:14:57.067815+00:00",
-        "run_id": "35804360245"
       }
     },
     "12726": {
@@ -75356,7 +75346,13 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-12T14:32:49.850225+00:00"
       },
-      "previous_target_id": "29325917"
+      "previous_target_id": "29325917",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T01:15:00.629631+00:00",
+        "lease_expires_at": "2026-09-23T07:15:00.629631+00:00",
+        "run_id": "35804360245"
+      }
     },
     "24061": {
       "attempts": [],
@@ -242608,5 +242604,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:14:57.906894+00:00"
+  "updated_at": "2026-09-23T01:15:00.869900+00:00"
 }
