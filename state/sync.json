@@ -208474,6 +208474,12 @@
         "claimed_at": "2026-09-23T22:29:13.326082+00:00",
         "lease_expires_at": "2026-09-24T04:29:13.326082+00:00",
         "run_id": "35903170689"
+      },
+      "previous_target_id": "29654987",
+      "prepared": {
+        "target_video_id": "29654987",
+        "size_bytes": 7635343961,
+        "prepared_at": "2026-09-23T22:29:23.877015+00:00"
       }
     },
     "24135": {
@@ -208561,13 +208567,6 @@
           "permanent": false,
           "source_id": "13394981",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:06:51.459056+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13394981",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:06:59.905782+00:00"
         },
         {
@@ -208576,6 +208575,13 @@
           "target_video_id": "29653597",
           "permanent": false,
           "attempted_at": "2026-09-23T21:19:22.920375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13394981",
+          "target_video_id": "29653597",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:29:23.138346+00:00"
         }
       ],
       "last_plan": {
@@ -208586,14 +208592,8 @@
       "previous_target_id": "29653597",
       "prepared": {
         "target_video_id": "29653597",
-        "size_bytes": 2766134961,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-23T21:11:08.328584+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-3",
-        "claimed_at": "2026-09-23T22:29:15.453940+00:00",
-        "lease_expires_at": "2026-09-24T04:29:15.453940+00:00",
-        "run_id": "35903170689"
       }
     },
     "26213": {
@@ -208669,13 +208669,6 @@
           "permanent": false,
           "source_id": "34710680",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:07:01.675852+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34710680",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:07:20.195902+00:00"
         },
         {
@@ -208684,6 +208677,13 @@
           "target_video_id": "29653637",
           "permanent": false,
           "attempted_at": "2026-09-23T21:19:09.754241+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710680",
+          "target_video_id": "29653637",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:29:23.630200+00:00"
         }
       ],
       "last_plan": {
@@ -208694,14 +208694,8 @@
       "previous_target_id": "29653637",
       "prepared": {
         "target_video_id": "29653637",
-        "size_bytes": 1950549277,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-23T21:13:12.425743+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-4",
-        "claimed_at": "2026-09-23T22:29:16.284921+00:00",
-        "lease_expires_at": "2026-09-24T04:29:16.284921+00:00",
-        "run_id": "35903170689"
       }
     },
     "15981": {
@@ -208738,6 +208732,12 @@
         "source_id": "22098236",
         "display_name": "The Boy Behind the Door (2020) SD CZ Titulky",
         "planned_at": "2026-09-23T22:28:41.430447+00:00"
+      },
+      "claim": {
+        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-1",
+        "claimed_at": "2026-09-23T22:29:23.383535+00:00",
+        "lease_expires_at": "2026-09-24T04:29:23.383535+00:00",
+        "run_id": "35903170689"
       }
     },
     "8518": {
@@ -250153,5 +250153,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T22:29:16.972829+00:00"
+  "updated_at": "2026-09-23T22:29:23.877032+00:00"
 }
