@@ -189948,13 +189948,6 @@
           "permanent": false,
           "source_id": "34879200",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:06.170540+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34879200",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:28.071977+00:00"
         },
         {
@@ -189963,18 +189956,19 @@
           "source_id": "34879200",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:13.951421+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34879200",
+          "reason": "Request failed for https://sdilej.cz/34879200/rodinna-loupez-2017-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T05:08:13.665323+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34879200",
         "display_name": "Rodinná loupež (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:58.818607+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T05:07:27.410693+00:00",
-        "lease_expires_at": "2026-09-23T11:07:27.410693+00:00",
-        "run_id": "35804360245"
       }
     },
     "34232": {
@@ -244651,5 +244645,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T05:08:11.506976+00:00"
+  "updated_at": "2026-09-23T05:08:13.665339+00:00"
 }
