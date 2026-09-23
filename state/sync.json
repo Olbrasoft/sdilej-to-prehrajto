@@ -65701,17 +65701,19 @@
       }
     },
     "36652": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "6663522",
+          "reason": "Request failed for https://sdilej.cz/6663522/v.roli.kaskadera.1980.cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:52.504343+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6663522",
         "display_name": "V roli kaskadéra (1980) SD CZ Dabing",
         "planned_at": "2026-09-23T11:52:01.450246+00:00"
-      },
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-2",
-        "claimed_at": "2026-09-23T12:01:06.559371+00:00",
-        "lease_expires_at": "2026-09-23T18:01:06.559371+00:00",
-        "run_id": "35828044219"
       }
     },
     "30671": {
@@ -65893,13 +65895,6 @@
           "source_id": "10879629",
           "target_video_id": "29413416",
           "permanent": false,
-          "attempted_at": "2026-09-23T08:30:32.849007+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10879629",
-          "target_video_id": "29413416",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:10:51.697087+00:00"
         },
         {
@@ -65908,6 +65903,13 @@
           "target_video_id": "29413416",
           "permanent": false,
           "attempted_at": "2026-09-23T11:01:10.887847+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10879629",
+          "target_video_id": "29413416",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:50.059842+00:00"
         }
       ],
       "last_plan": {
@@ -65920,13 +65922,7 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-16T00:33:35.750605+00:00"
       },
-      "previous_target_id": "29413416",
-      "claim": {
-        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-3",
-        "claimed_at": "2026-09-23T12:01:47.329626+00:00",
-        "lease_expires_at": "2026-09-23T18:01:47.329626+00:00",
-        "run_id": "35828044219"
-      }
+      "previous_target_id": "29413416"
     },
     "2581": {
       "attempts": [
@@ -65964,13 +65960,6 @@
           "source_id": "34878892",
           "target_video_id": "29256351",
           "permanent": false,
-          "attempted_at": "2026-09-23T08:30:32.062666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34878892",
-          "target_video_id": "29256351",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:10:53.931887+00:00"
         },
         {
@@ -65979,6 +65968,13 @@
           "target_video_id": "29256351",
           "permanent": false,
           "attempted_at": "2026-09-23T11:01:11.394631+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34878892",
+          "target_video_id": "29256351",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:51.099860+00:00"
         }
       ],
       "last_plan": {
@@ -66039,6 +66035,12 @@
         "source_id": "28030633",
         "display_name": "Do hloubky webu (2015) SD CZ Dabing",
         "planned_at": "2026-09-23T11:52:02.679640+00:00"
+      },
+      "claim": {
+        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-0",
+        "claimed_at": "2026-09-23T12:01:50.349805+00:00",
+        "lease_expires_at": "2026-09-23T18:01:50.349805+00:00",
+        "run_id": "35828044219"
       }
     },
     "28388": {
@@ -66631,13 +66633,6 @@
           "source_id": "27029351",
           "target_video_id": "29310939",
           "permanent": false,
-          "attempted_at": "2026-09-23T08:30:33.881779+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27029351",
-          "target_video_id": "29310939",
-          "permanent": false,
           "attempted_at": "2026-09-23T10:10:54.659685+00:00"
         },
         {
@@ -66646,6 +66641,13 @@
           "target_video_id": "29310939",
           "permanent": false,
           "attempted_at": "2026-09-23T11:01:12.538928+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27029351",
+          "target_video_id": "29310939",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:01:52.153334+00:00"
         }
       ],
       "last_plan": {
@@ -66707,7 +66709,13 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-11T22:30:08.688541+00:00"
       },
-      "previous_target_id": "29311434"
+      "previous_target_id": "29311434",
+      "claim": {
+        "worker_id": "6a548b9899ff4a2d8dcbe88facfbe0b5-shard-4",
+        "claimed_at": "2026-09-23T12:01:51.491602+00:00",
+        "lease_expires_at": "2026-09-23T18:01:51.491602+00:00",
+        "run_id": "35828044219"
+      }
     },
     "31193": {
       "attempts": [
@@ -246327,5 +246335,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:01:47.608187+00:00"
+  "updated_at": "2026-09-23T12:01:52.504362+00:00"
 }
