@@ -187614,13 +187614,6 @@
           "permanent": false,
           "source_id": "21123533",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:30:24.063279+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21123533",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:31:40.795046+00:00"
         },
         {
@@ -187629,18 +187622,19 @@
           "source_id": "21123533",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:12.390915+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21123533",
+          "reason": "Request failed for https://sdilej.cz/21123533/zabak.ribit.2014.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:21:23.341263+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21123533",
         "display_name": "Žabák Ribit (2014) 1080p SK Dabing",
         "planned_at": "2026-09-23T03:06:29.528747+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
-        "claimed_at": "2026-09-23T03:20:36.619625+00:00",
-        "lease_expires_at": "2026-09-23T09:20:36.619625+00:00",
-        "run_id": "35804360245"
       }
     },
     "23677": {
@@ -243996,5 +243990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:21:21.139995+00:00"
+  "updated_at": "2026-09-23T03:21:23.341285+00:00"
 }
