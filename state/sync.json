@@ -192350,13 +192350,6 @@
           "permanent": false,
           "source_id": "31960772",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:12:27.820159+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31960772",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:00:25.147200+00:00"
         },
         {
@@ -192365,18 +192358,19 @@
           "source_id": "31960772",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:42.591049+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31960772",
+          "reason": "Request failed for https://sdilej.cz/31960772/navrat-neuveritelneho-hulka-1988.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:24:16.246828+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31960772",
         "display_name": "Návrat neuvěřitelného Hulka (1988) SD CZ Dabing",
         "planned_at": "2026-09-23T07:53:41.811447+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T08:23:30.027833+00:00",
-        "lease_expires_at": "2026-09-23T14:23:30.027833+00:00",
-        "run_id": "35828044219"
       }
     },
     "17869": {
@@ -192407,6 +192401,12 @@
         "source_id": "34256884",
         "display_name": "Speed Racer (2008) 4K CZ Dabing",
         "planned_at": "2026-09-23T07:53:42.085208+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T08:24:04.679281+00:00",
+        "lease_expires_at": "2026-09-23T14:24:04.679281+00:00",
+        "run_id": "35828044219"
       }
     },
     "32545": {
@@ -245799,5 +245799,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:24:02.423945+00:00"
+  "updated_at": "2026-09-23T08:24:16.246846+00:00"
 }
