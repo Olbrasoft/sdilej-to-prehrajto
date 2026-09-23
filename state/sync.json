@@ -121099,13 +121099,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-22T09:37:52.444287+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-23T02:25:37.684027+00:00"
         },
         {
@@ -121114,6 +121107,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-23T02:45:52.915406+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-23T02:53:39.678426+00:00"
         }
       ],
       "last_plan": {
@@ -121126,13 +121126,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
-        "claimed_at": "2026-09-23T02:52:16.577040+00:00",
-        "lease_expires_at": "2026-09-23T08:52:16.577040+00:00",
-        "run_id": "35804360245"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -185360,16 +185354,10 @@
           "attempted_at": "2026-09-22T09:32:07.276233+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32794111",
-        "display_name": "Border Hunters (2025) 1080p CZ Titulky",
-        "planned_at": "2026-09-23T02:52:05.883294+00:00"
-      },
       "previous_target_id": "29614176",
-      "prepared": {
+      "upload": {
         "target_video_id": "29614176",
-        "size_bytes": 3422329481,
-        "prepared_at": "2026-09-22T09:26:17.869244+00:00"
+        "uploaded_at": "2026-09-23T02:53:40.334563+00:00"
       }
     },
     "12888": {
@@ -185412,6 +185400,12 @@
         "target_video_id": "29614177",
         "size_bytes": 3501481842,
         "prepared_at": "2026-09-22T09:26:20.194727+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T02:53:40.018884+00:00",
+        "lease_expires_at": "2026-09-23T08:53:40.018884+00:00",
+        "run_id": "35804360245"
       }
     },
     "37147": {
@@ -244001,5 +243995,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:53:35.879544+00:00"
+  "updated_at": "2026-09-23T02:53:40.334606+00:00"
 }
