@@ -188384,13 +188384,6 @@
           "permanent": false,
           "source_id": "6652865",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:30:54.085065+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6652865",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:33:08.343715+00:00"
         },
         {
@@ -188399,18 +188392,19 @@
           "source_id": "6652865",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:16.905466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6652865",
+          "target_video_id": "29633861",
+          "permanent": false,
+          "attempted_at": "2026-09-23T04:38:29.992447+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6652865",
         "display_name": "Greenberg (2010) SD CZ Dabing",
         "planned_at": "2026-09-23T04:30:47.545405+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T04:32:38.072097+00:00",
-        "lease_expires_at": "2026-09-23T10:32:38.072097+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29633861",
       "prepared": {
@@ -188719,6 +188713,12 @@
         "source_id": "32944492",
         "display_name": "Critters (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-23T04:30:49.547767+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
+        "claimed_at": "2026-09-23T04:37:47.018217+00:00",
+        "lease_expires_at": "2026-09-23T10:37:47.018217+00:00",
+        "run_id": "35804360245"
       }
     },
     "19454": {
@@ -244531,5 +244531,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T04:37:39.946420+00:00"
+  "updated_at": "2026-09-23T04:38:29.992462+00:00"
 }
