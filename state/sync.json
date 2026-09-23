@@ -202745,33 +202745,14 @@
           "attempted_at": "2026-09-23T15:47:59.207903+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11741461",
-        "display_name": "Supersvůdníci 2 (2002) SD CZ Dabing",
-        "planned_at": "2026-09-23T16:43:03.662113+00:00"
-      },
       "previous_target_id": "29648561",
-      "prepared": {
+      "upload": {
         "target_video_id": "29648561",
-        "size_bytes": 1469954484,
-        "prepared_at": "2026-09-23T15:43:30.827718+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T16:43:25.476628+00:00",
-        "lease_expires_at": "2026-09-23T22:43:25.476628+00:00",
-        "run_id": "35861705510"
+        "uploaded_at": "2026-09-23T16:43:28.231297+00:00"
       }
     },
     "29135": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11544703",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:43:44.102601+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -202785,6 +202766,13 @@
           "target_video_id": "29648576",
           "permanent": false,
           "attempted_at": "2026-09-23T15:57:52.837247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11544703",
+          "target_video_id": "29648576",
+          "permanent": false,
+          "attempted_at": "2026-09-23T16:43:28.071771+00:00"
         }
       ],
       "last_plan": {
@@ -202795,14 +202783,8 @@
       "previous_target_id": "29648576",
       "prepared": {
         "target_video_id": "29648576",
-        "size_bytes": 4289041869,
+        "size_bytes": 4300000000,
         "prepared_at": "2026-09-23T15:44:18.256806+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
-        "claimed_at": "2026-09-23T16:43:25.662610+00:00",
-        "lease_expires_at": "2026-09-23T22:43:25.662610+00:00",
-        "run_id": "35861705510"
       }
     },
     "30442": {
@@ -202874,6 +202856,12 @@
         "target_video_id": "29648592",
         "size_bytes": 105926105,
         "prepared_at": "2026-09-23T15:45:17.916353+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-3",
+        "claimed_at": "2026-09-23T16:43:27.914367+00:00",
+        "lease_expires_at": "2026-09-23T22:43:27.914367+00:00",
+        "run_id": "35861705510"
       }
     },
     "11615": {
@@ -248800,5 +248788,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T16:43:25.846549+00:00"
+  "updated_at": "2026-09-23T16:43:28.231316+00:00"
 }
