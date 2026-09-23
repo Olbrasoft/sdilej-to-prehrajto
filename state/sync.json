@@ -195661,13 +195661,6 @@
           "permanent": false,
           "source_id": "33798415",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:21:41.916116+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33798415",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:49.095312+00:00"
         },
         {
@@ -195676,18 +195669,19 @@
           "reason": "Request failed for https://sdilej.cz/33798415/vubec-nic-spolecneho-1986-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T10:42:57.494127+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33798415",
+          "target_video_id": "29642482",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:45:43.197484+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33798415",
         "display_name": "Vůbec nic společného (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-23T12:38:02.023519+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-5",
-        "claimed_at": "2026-09-23T12:39:19.683478+00:00",
-        "lease_expires_at": "2026-09-23T18:39:19.683478+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29642482",
       "prepared": {
@@ -246740,5 +246734,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:43:42.746808+00:00"
+  "updated_at": "2026-09-23T12:45:43.197501+00:00"
 }
