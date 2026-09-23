@@ -192044,13 +192044,6 @@
           "permanent": false,
           "source_id": "26098774",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:47.507425+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26098774",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:03.852588+00:00"
         },
         {
@@ -192059,6 +192052,13 @@
           "target_video_id": "29636973",
           "permanent": false,
           "attempted_at": "2026-09-23T08:18:57.734563+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26098774",
+          "target_video_id": "29636973",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:51:51.813732+00:00"
         }
       ],
       "last_plan": {
@@ -192069,7 +192069,7 @@
       "previous_target_id": "29636973",
       "prepared": {
         "target_video_id": "29636973",
-        "size_bytes": 2515868791,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-23T08:10:35.140197+00:00"
       }
     },
@@ -192228,13 +192228,6 @@
           "permanent": false,
           "source_id": "8518733",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:08.257056+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "8518733",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:26:36.264652+00:00"
         },
         {
@@ -192243,6 +192236,13 @@
           "reason": "Request failed for https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T08:16:02.103166+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "8518733",
+          "reason": "Request failed for https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:52:38.504196+00:00"
         }
       ],
       "last_plan": {
@@ -245944,5 +245944,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:51:43.622686+00:00"
+  "updated_at": "2026-09-23T08:52:38.504215+00:00"
 }
