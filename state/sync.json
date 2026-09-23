@@ -195171,13 +195171,6 @@
           "permanent": false,
           "source_id": "34206332",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:21:36.415801+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34206332",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:44.059405+00:00"
         },
         {
@@ -195186,18 +195179,19 @@
           "reason": "Request failed for https://sdilej.cz/34206332/snehurka-a-lovec-2012-4k-h265-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T09:57:03.559134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34206332",
+          "target_video_id": "29642466",
+          "permanent": false,
+          "attempted_at": "2026-09-23T12:50:07.526407+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34206332",
         "display_name": "Sněhurka a lovec (2012) 4K CZ Dabing",
         "planned_at": "2026-09-23T12:37:56.542488+00:00"
-      },
-      "claim": {
-        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-3",
-        "claimed_at": "2026-09-23T12:38:14.484092+00:00",
-        "lease_expires_at": "2026-09-23T18:38:14.484092+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29642466",
       "prepared": {
@@ -196659,6 +196653,12 @@
         "source_id": "31574765",
         "display_name": "Žena v ringu (1979) SD CZ Dabing",
         "planned_at": "2026-09-23T12:38:08.594238+00:00"
+      },
+      "claim": {
+        "worker_id": "f85f2599e2ec4408b749b0f711e6fb61-shard-1",
+        "claimed_at": "2026-09-23T12:50:01.771853+00:00",
+        "lease_expires_at": "2026-09-23T18:50:01.771853+00:00",
+        "run_id": "35828044219"
       }
     },
     "30500": {
@@ -246758,5 +246758,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T12:49:55.639678+00:00"
+  "updated_at": "2026-09-23T12:50:07.526424+00:00"
 }
