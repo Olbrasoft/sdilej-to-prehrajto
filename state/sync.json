@@ -207875,13 +207875,6 @@
           "permanent": false,
           "source_id": "23911780",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:03:05.488743+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23911780",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:03:20.540618+00:00"
         },
         {
@@ -207890,6 +207883,13 @@
           "target_video_id": "29653286",
           "permanent": false,
           "attempted_at": "2026-09-23T20:59:49.012577+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23911780",
+          "target_video_id": "29653286",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:48:23.705797+00:00"
         }
       ],
       "last_plan": {
@@ -207900,19 +207900,12 @@
       "previous_target_id": "29653286",
       "prepared": {
         "target_video_id": "29653286",
-        "size_bytes": 2368744603,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T20:51:07.720447+00:00"
       }
     },
     "20491": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26258360",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:03:05.252370+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -207926,6 +207919,13 @@
           "target_video_id": "29653313",
           "permanent": false,
           "attempted_at": "2026-09-23T21:00:56.659475+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26258360",
+          "target_video_id": "29653313",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:48:25.551391+00:00"
         }
       ],
       "last_plan": {
@@ -207936,19 +207936,12 @@
       "previous_target_id": "29653313",
       "prepared": {
         "target_video_id": "29653313",
-        "size_bytes": 2364508562,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T20:52:36.534860+00:00"
       }
     },
     "24747": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34558813",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:04:10.292680+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -207962,6 +207955,13 @@
           "target_video_id": "29653344",
           "permanent": false,
           "attempted_at": "2026-09-23T20:57:38.464828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34558813",
+          "target_video_id": "29653344",
+          "permanent": false,
+          "attempted_at": "2026-09-23T21:48:27.425917+00:00"
         }
       ],
       "last_plan": {
@@ -207972,7 +207972,7 @@
       "previous_target_id": "29653344",
       "prepared": {
         "target_video_id": "29653344",
-        "size_bytes": 893165731,
+        "size_bytes": 893200000,
         "prepared_at": "2026-09-23T20:54:29.461306+00:00"
       }
     },
@@ -208000,16 +208000,10 @@
           "attempted_at": "2026-09-23T21:10:53.248002+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34470226",
-        "display_name": "Až skončíš se zachraňováním světa (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T21:42:32.489226+00:00"
-      },
       "previous_target_id": "29653388",
-      "prepared": {
+      "upload": {
         "target_video_id": "29653388",
-        "size_bytes": 3722512384,
-        "prepared_at": "2026-09-23T20:57:44.102280+00:00"
+        "uploaded_at": "2026-09-23T21:48:29.207176+00:00"
       }
     },
     "22138": {
@@ -249903,5 +249897,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T21:48:19.887804+00:00"
+  "updated_at": "2026-09-23T21:48:29.207196+00:00"
 }
