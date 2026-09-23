@@ -118017,13 +118017,6 @@
           "source_id": "31796171",
           "target_video_id": "29219143",
           "permanent": false,
-          "attempted_at": "2026-09-23T02:47:29.760702+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31796171",
-          "target_video_id": "29219143",
-          "permanent": false,
           "attempted_at": "2026-09-23T03:28:33.863963+00:00"
         },
         {
@@ -118032,6 +118025,13 @@
           "target_video_id": "29219143",
           "permanent": false,
           "attempted_at": "2026-09-23T04:20:32.353611+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31796171",
+          "target_video_id": "29219143",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:06:50.751424+00:00"
         }
       ],
       "last_plan": {
@@ -118243,13 +118243,6 @@
           "source_id": "25421228",
           "target_video_id": "29219180",
           "permanent": false,
-          "attempted_at": "2026-09-23T02:47:33.866935+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25421228",
-          "target_video_id": "29219180",
-          "permanent": false,
           "attempted_at": "2026-09-23T03:28:33.489897+00:00"
         },
         {
@@ -118258,6 +118251,13 @@
           "target_video_id": "29219180",
           "permanent": false,
           "attempted_at": "2026-09-23T04:20:32.701583+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25421228",
+          "target_video_id": "29219180",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:06:50.343423+00:00"
         }
       ],
       "last_plan": {
@@ -118324,13 +118324,6 @@
           "source_id": "34711766",
           "target_video_id": "29219189",
           "permanent": false,
-          "attempted_at": "2026-09-23T02:47:35.727222+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711766",
-          "target_video_id": "29219189",
-          "permanent": false,
           "attempted_at": "2026-09-23T03:28:36.135946+00:00"
         },
         {
@@ -118339,6 +118332,13 @@
           "target_video_id": "29219189",
           "permanent": false,
           "attempted_at": "2026-09-23T04:20:35.291074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711766",
+          "target_video_id": "29219189",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:06:52.710965+00:00"
         }
       ],
       "last_plan": {
@@ -118423,13 +118423,6 @@
           "source_id": "14370586",
           "target_video_id": "29631453",
           "permanent": false,
-          "attempted_at": "2026-09-23T02:47:37.604458+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14370586",
-          "target_video_id": "29631453",
-          "permanent": false,
           "attempted_at": "2026-09-23T03:28:35.770237+00:00"
         },
         {
@@ -118438,6 +118431,13 @@
           "target_video_id": "29631453",
           "permanent": false,
           "attempted_at": "2026-09-23T04:20:34.663279+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14370586",
+          "target_video_id": "29631453",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:06:53.117780+00:00"
         }
       ],
       "last_plan": {
@@ -118872,7 +118872,13 @@
         "size_bytes": 7600000000,
         "prepared_at": "2026-09-06T17:20:16.514206+00:00"
       },
-      "previous_target_id": "29167146"
+      "previous_target_id": "29167146",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T06:06:53.822734+00:00",
+        "lease_expires_at": "2026-09-23T12:06:53.822734+00:00",
+        "run_id": "35804360245"
+      }
     },
     "31482": {
       "attempts": []
@@ -118934,16 +118940,10 @@
           "attempted_at": "2026-09-23T04:20:45.152737+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "12912247",
-        "display_name": "Svatební pochod 4 – Něco nového, něco starého (2018) SD CZ Dabing",
-        "planned_at": "2026-09-23T06:05:02.855941+00:00"
-      },
       "previous_target_id": "29631486",
-      "prepared": {
+      "upload": {
         "target_video_id": "29631486",
-        "size_bytes": 1500000000,
-        "prepared_at": "2026-09-23T02:13:43.884662+00:00"
+        "uploaded_at": "2026-09-23T06:06:55.131177+00:00"
       }
     },
     "27452": {
@@ -244998,5 +244998,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:06:46.427120+00:00"
+  "updated_at": "2026-09-23T06:06:55.131192+00:00"
 }
