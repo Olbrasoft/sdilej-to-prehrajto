@@ -188748,13 +188748,6 @@
           "permanent": false,
           "source_id": "34128870",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:31:45.206963+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34128870",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:15.948116+00:00"
         },
         {
@@ -188763,6 +188756,13 @@
           "target_video_id": "29633808",
           "permanent": false,
           "attempted_at": "2026-09-23T04:43:10.668271+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34128870",
+          "target_video_id": "29633808",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:26:44.608442+00:00"
         }
       ],
       "last_plan": {
@@ -188773,7 +188773,7 @@
       "previous_target_id": "29633808",
       "prepared": {
         "target_video_id": "29633808",
-        "size_bytes": 5537206296,
+        "size_bytes": 5500000000,
         "prepared_at": "2026-09-23T04:27:16.964448+00:00"
       }
     },
@@ -188793,13 +188793,6 @@
           "permanent": false,
           "source_id": "27426071",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:31:46.394151+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27426071",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:15.126527+00:00"
         },
         {
@@ -188808,6 +188801,13 @@
           "target_video_id": "29633816",
           "permanent": false,
           "attempted_at": "2026-09-23T04:37:39.946405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27426071",
+          "target_video_id": "29633816",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:26:46.519554+00:00"
         }
       ],
       "last_plan": {
@@ -188818,7 +188818,7 @@
       "previous_target_id": "29633816",
       "prepared": {
         "target_video_id": "29633816",
-        "size_bytes": 3137582016,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-23T04:27:47.380927+00:00"
       }
     },
@@ -188856,6 +188856,18 @@
         "source_id": "13312378",
         "display_name": "Phantasm III: Lord of the Dead (1994) 1080p CZ Titulky",
         "planned_at": "2026-09-23T06:20:08.762635+00:00"
+      },
+      "claim": {
+        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-5",
+        "claimed_at": "2026-09-23T06:26:46.834745+00:00",
+        "lease_expires_at": "2026-09-23T12:26:46.834745+00:00",
+        "run_id": "35804360245"
+      },
+      "previous_target_id": "29635385",
+      "prepared": {
+        "target_video_id": "29635385",
+        "size_bytes": 1865805794,
+        "prepared_at": "2026-09-23T06:26:51.580550+00:00"
       }
     },
     "16431": {
@@ -245162,5 +245174,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:26:40.819961+00:00"
+  "updated_at": "2026-09-23T06:26:51.580599+00:00"
 }
