@@ -205753,13 +205753,6 @@
           "permanent": false,
           "source_id": "34687463",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:51.545449+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34687463",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:31.915353+00:00"
         },
         {
@@ -205768,18 +205761,19 @@
           "reason": "Request failed for https://sdilej.cz/34687463/madea-se-vraci-2022-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T18:03:31.676484+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34687463",
+          "target_video_id": "29652716",
+          "permanent": false,
+          "attempted_at": "2026-09-23T20:28:11.878352+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34687463",
         "display_name": "Madea se vrací (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-23T20:17:19.907480+00:00"
-      },
-      "claim": {
-        "worker_id": "64730703516542508cf790861f417e76-shard-4",
-        "claimed_at": "2026-09-23T20:17:52.446600+00:00",
-        "lease_expires_at": "2026-09-24T02:17:52.446600+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29652716",
       "prepared": {
@@ -249642,5 +249636,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T20:23:15.844076+00:00"
+  "updated_at": "2026-09-23T20:28:11.878374+00:00"
 }
