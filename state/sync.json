@@ -65540,13 +65540,6 @@
           "source_id": "31566924",
           "target_video_id": "29355496",
           "permanent": false,
-          "attempted_at": "2026-09-23T11:58:56.365932+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31566924",
-          "target_video_id": "29355496",
-          "permanent": false,
           "attempted_at": "2026-09-23T12:29:44.186412+00:00"
         },
         {
@@ -65555,6 +65548,13 @@
           "target_video_id": "29355496",
           "permanent": false,
           "attempted_at": "2026-09-23T13:10:43.947694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31566924",
+          "target_video_id": "29355496",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:28:54.262131+00:00"
         }
       ],
       "last_plan": {
@@ -65567,13 +65567,7 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-13T18:54:10.409699+00:00"
       },
-      "previous_target_id": "29355496",
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-4",
-        "claimed_at": "2026-09-23T14:28:50.896703+00:00",
-        "lease_expires_at": "2026-09-23T20:28:50.896703+00:00",
-        "run_id": "35861705510"
-      }
+      "previous_target_id": "29355496"
     },
     "37203": {
       "attempts": [
@@ -65599,22 +65593,10 @@
           "attempted_at": "2026-09-23T13:10:44.127035+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34771078",
-        "display_name": "Osm milimetrů rodiny (2025) 720p",
-        "planned_at": "2026-09-23T14:28:27.013064+00:00"
-      },
       "previous_target_id": "29641318",
-      "prepared": {
+      "upload": {
         "target_video_id": "29641318",
-        "size_bytes": 1800000000,
-        "prepared_at": "2026-09-23T11:59:00.437479+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
-        "claimed_at": "2026-09-23T14:28:51.303634+00:00",
-        "lease_expires_at": "2026-09-23T20:28:51.303634+00:00",
-        "run_id": "35861705510"
+        "uploaded_at": "2026-09-23T14:28:54.895982+00:00"
       }
     },
     "33628": {
@@ -65676,6 +65658,13 @@
           "target_video_id": "29641352",
           "permanent": false,
           "attempted_at": "2026-09-23T13:10:44.913100+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27713542",
+          "target_video_id": "29641352",
+          "permanent": false,
+          "attempted_at": "2026-09-23T14:28:54.415693+00:00"
         }
       ],
       "last_plan": {
@@ -65688,12 +65677,6 @@
         "target_video_id": "29641352",
         "size_bytes": 4700000000,
         "prepared_at": "2026-09-23T12:00:33.868271+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T14:28:51.666588+00:00",
-        "lease_expires_at": "2026-09-23T20:28:51.666588+00:00",
-        "run_id": "35861705510"
       }
     },
     "30702": {
@@ -65765,7 +65748,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-13T19:27:12.091567+00:00"
       },
-      "previous_target_id": "29356044"
+      "previous_target_id": "29356044",
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-0",
+        "claimed_at": "2026-09-23T14:28:54.575428+00:00",
+        "lease_expires_at": "2026-09-23T20:28:54.575428+00:00",
+        "run_id": "35861705510"
+      }
     },
     "22960": {
       "attempts": []
@@ -65851,6 +65840,12 @@
         "target_video_id": "29642313",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T12:33:01.165282+00:00"
+      },
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-4",
+        "claimed_at": "2026-09-23T14:28:54.735514+00:00",
+        "lease_expires_at": "2026-09-23T20:28:54.735514+00:00",
+        "run_id": "35861705510"
       }
     },
     "30671": {
@@ -247478,5 +247473,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T14:28:51.959268+00:00"
+  "updated_at": "2026-09-23T14:28:54.895994+00:00"
 }
