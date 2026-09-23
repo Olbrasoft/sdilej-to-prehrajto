@@ -187037,13 +187037,6 @@
           "permanent": false,
           "source_id": "35041775",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:02:23.699131+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35041775",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:03:00.856743+00:00"
         },
         {
@@ -187052,6 +187045,13 @@
           "target_video_id": "29632372",
           "permanent": false,
           "attempted_at": "2026-09-23T03:12:47.596062+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35041775",
+          "target_video_id": "29632372",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:53:18.627053+00:00"
         }
       ],
       "last_plan": {
@@ -187062,14 +187062,8 @@
       "previous_target_id": "29632372",
       "prepared": {
         "target_video_id": "29632372",
-        "size_bytes": 1359626836,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-23T03:07:18.985367+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T03:53:15.830606+00:00",
-        "lease_expires_at": "2026-09-23T09:53:15.830606+00:00",
-        "run_id": "35804360245"
       }
     },
     "29386": {
@@ -187115,16 +187109,10 @@
           "attempted_at": "2026-09-23T03:13:44.900978+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29912041",
-        "display_name": "Povýšení (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-23T03:50:50.298910+00:00"
-      },
       "previous_target_id": "29632373",
-      "prepared": {
+      "upload": {
         "target_video_id": "29632373",
-        "size_bytes": 1860990293,
-        "prepared_at": "2026-09-23T03:07:21.308228+00:00"
+        "uploaded_at": "2026-09-23T03:53:20.673991+00:00"
       }
     },
     "15952": {
@@ -244208,5 +244196,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:53:16.381963+00:00"
+  "updated_at": "2026-09-23T03:53:20.674004+00:00"
 }
