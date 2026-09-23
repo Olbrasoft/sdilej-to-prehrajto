@@ -191620,13 +191620,6 @@
           "permanent": false,
           "source_id": "12795553",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:39.852131+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12795553",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:24.888798+00:00"
         },
         {
@@ -191635,18 +191628,19 @@
           "reason": "Request failed for https://sdilej.cz/12795553/hotel-artemis-2018-2160p-4k-uhd-hdr-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T07:59:29.255164+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12795553",
+          "target_video_id": "29637679",
+          "permanent": false,
+          "attempted_at": "2026-09-23T09:17:21.601434+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12795553",
         "display_name": "Hotel Artemis (2018) 4K CZ Dabing",
         "planned_at": "2026-09-23T08:43:57.301058+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-1",
-        "claimed_at": "2026-09-23T08:44:51.892110+00:00",
-        "lease_expires_at": "2026-09-23T14:44:51.892110+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29637679",
       "prepared": {
@@ -246040,5 +246034,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T09:16:15.932995+00:00"
+  "updated_at": "2026-09-23T09:17:21.601452+00:00"
 }
