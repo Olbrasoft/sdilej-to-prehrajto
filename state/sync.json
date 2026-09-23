@@ -105631,17 +105631,19 @@
       }
     },
     "29530": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12083199",
+          "target_video_id": "29631340",
+          "permanent": false,
+          "attempted_at": "2026-09-23T02:09:27.727594+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12083199",
         "display_name": "Clara (2018) SD CZ Titulky",
         "planned_at": "2026-09-23T02:02:09.953281+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T02:03:43.963802+00:00",
-        "lease_expires_at": "2026-09-23T08:03:43.963802+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29631340",
       "prepared": {
@@ -116391,6 +116393,12 @@
         "source_id": "32711230",
         "display_name": "Lichožrouti (2016) 4K CZ Dabing",
         "planned_at": "2026-09-23T02:05:28.111797+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
+        "claimed_at": "2026-09-23T02:09:22.214453+00:00",
+        "lease_expires_at": "2026-09-23T08:09:22.214453+00:00",
+        "run_id": "35804360245"
       }
     },
     "14780": {
@@ -243767,5 +243775,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T02:09:16.512068+00:00"
+  "updated_at": "2026-09-23T02:09:27.727609+00:00"
 }
