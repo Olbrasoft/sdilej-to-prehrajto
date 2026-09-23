@@ -191798,6 +191798,18 @@
         "source_id": "20648673",
         "display_name": "Jak jsem vyhrál válku (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-23T08:43:58.165679+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T08:45:33.739534+00:00",
+        "lease_expires_at": "2026-09-23T14:45:33.739534+00:00",
+        "run_id": "35828044219"
+      },
+      "previous_target_id": "29637687",
+      "prepared": {
+        "target_video_id": "29637687",
+        "size_bytes": 2314302229,
+        "prepared_at": "2026-09-23T08:45:37.674014+00:00"
       }
     },
     "28503": {
@@ -191907,13 +191919,6 @@
           "permanent": false,
           "source_id": "11982902",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:45.273631+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11982902",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:02.890757+00:00"
         },
         {
@@ -191922,6 +191927,13 @@
           "target_video_id": "29636922",
           "permanent": false,
           "attempted_at": "2026-09-23T08:13:07.155641+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11982902",
+          "target_video_id": "29636922",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:45:34.913641+00:00"
         }
       ],
       "last_plan": {
@@ -191932,7 +191944,7 @@
       "previous_target_id": "29636922",
       "prepared": {
         "target_video_id": "29636922",
-        "size_bytes": 1422187598,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-23T08:08:50.803553+00:00"
       }
     },
@@ -191991,6 +192003,12 @@
         "source_id": "34707982",
         "display_name": "Lee Cronin: Mumie (2026) 4K CZ Dabing",
         "planned_at": "2026-09-23T08:43:58.759097+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-0",
+        "claimed_at": "2026-09-23T08:45:35.230939+00:00",
+        "lease_expires_at": "2026-09-23T14:45:35.230939+00:00",
+        "run_id": "35828044219"
       }
     },
     "34051": {
@@ -245922,5 +245940,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:45:31.159184+00:00"
+  "updated_at": "2026-09-23T08:45:37.674028+00:00"
 }
