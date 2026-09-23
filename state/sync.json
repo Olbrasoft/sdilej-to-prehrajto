@@ -192600,13 +192600,6 @@
     "12410": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11329407",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:26:45.510185+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "11329407",
           "target_video_id": "29637792",
@@ -192619,6 +192612,13 @@
           "target_video_id": "29637792",
           "permanent": false,
           "attempted_at": "2026-09-23T10:22:10.231307+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11329407",
+          "target_video_id": "29637792",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:10:28.679326+00:00"
         }
       ],
       "last_plan": {
@@ -192639,13 +192639,6 @@
     "12079": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29645130",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:26:46.520673+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29645130",
           "reason": "Request failed for https://sdilej.cz/29645130/neslusny-navrh-1993-2045-.mkv (HTTP None)",
@@ -192658,6 +192651,13 @@
           "target_video_id": "29639148",
           "permanent": false,
           "attempted_at": "2026-09-23T10:31:53.506661+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29645130",
+          "target_video_id": "29639148",
+          "permanent": false,
+          "attempted_at": "2026-09-23T11:10:30.297624+00:00"
         }
       ],
       "last_plan": {
@@ -192668,7 +192668,7 @@
       "previous_target_id": "29639148",
       "prepared": {
         "target_video_id": "29639148",
-        "size_bytes": 2811681059,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-23T10:22:14.762338+00:00"
       }
     },
@@ -192703,16 +192703,10 @@
           "attempted_at": "2026-09-23T10:29:48.264524+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34773078",
-        "display_name": "Apache Junction (2021) 720p CZ Titulky",
-        "planned_at": "2026-09-23T11:08:43.781865+00:00"
-      },
       "previous_target_id": "29639155",
-      "prepared": {
+      "upload": {
         "target_video_id": "29639155",
-        "size_bytes": 2045578271,
-        "prepared_at": "2026-09-23T10:22:44.711075+00:00"
+        "uploaded_at": "2026-09-23T11:10:32.026455+00:00"
       }
     },
     "5297": {
@@ -246155,5 +246149,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T11:10:24.791275+00:00"
+  "updated_at": "2026-09-23T11:10:32.026467+00:00"
 }
