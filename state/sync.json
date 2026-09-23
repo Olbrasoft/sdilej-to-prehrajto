@@ -188978,13 +188978,6 @@
           "permanent": false,
           "source_id": "13312378",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:31:47.492887+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13312378",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:47:16.174699+00:00"
         },
         {
@@ -188993,18 +188986,19 @@
           "reason": "Request failed for https://sdilej.cz/13312378/phantasm-iii-lord-of-the-dead-en-vlozene-titulky-1994-horror-1080p-pg-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T04:30:38.305628+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13312378",
+          "target_video_id": "29635385",
+          "permanent": false,
+          "attempted_at": "2026-09-23T06:32:26.530444+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13312378",
         "display_name": "Phantasm III: Lord of the Dead (1994) 1080p CZ Titulky",
         "planned_at": "2026-09-23T06:20:08.762635+00:00"
-      },
-      "claim": {
-        "worker_id": "1e79951d73724bc29af894088deeb30b-shard-5",
-        "claimed_at": "2026-09-23T06:26:46.834745+00:00",
-        "lease_expires_at": "2026-09-23T12:26:46.834745+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29635385",
       "prepared": {
@@ -245317,5 +245311,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T06:31:48.793743+00:00"
+  "updated_at": "2026-09-23T06:32:26.530460+00:00"
 }
