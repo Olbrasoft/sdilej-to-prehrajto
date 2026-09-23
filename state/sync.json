@@ -105460,13 +105460,6 @@
           "source_id": "34941645",
           "target_video_id": "29221305",
           "permanent": false,
-          "attempted_at": "2026-09-23T16:37:25.358472+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34941645",
-          "target_video_id": "29221305",
-          "permanent": false,
           "attempted_at": "2026-09-23T17:11:27.210651+00:00"
         },
         {
@@ -105475,6 +105468,13 @@
           "target_video_id": "29221305",
           "permanent": false,
           "attempted_at": "2026-09-23T17:47:54.071958+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34941645",
+          "target_video_id": "29221305",
+          "permanent": false,
+          "attempted_at": "2026-09-23T20:08:27.815442+00:00"
         }
       ],
       "last_plan": {
@@ -105487,13 +105487,7 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-08T18:57:54.499743+00:00"
       },
-      "previous_target_id": "29221305",
-      "claim": {
-        "worker_id": "3b1179ccce99414abc0a1ba29ec73a45-shard-4",
-        "claimed_at": "2026-09-23T20:08:24.598046+00:00",
-        "lease_expires_at": "2026-09-24T02:08:24.598046+00:00",
-        "run_id": "35903170689"
-      }
+      "previous_target_id": "29221305"
     },
     "17488": {
       "attempts": []
@@ -105525,16 +105519,10 @@
           "attempted_at": "2026-09-23T17:47:55.828830+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34727377",
-        "display_name": "Fantastická zvířata: Přírodní historie (2022) 1080p CZ Titulky",
-        "planned_at": "2026-09-23T20:07:37.463375+00:00"
-      },
       "previous_target_id": "29647401",
-      "prepared": {
+      "upload": {
         "target_video_id": "29647401",
-        "size_bytes": 1800000000,
-        "prepared_at": "2026-09-23T14:35:17.409731+00:00"
+        "uploaded_at": "2026-09-23T20:08:29.114967+00:00"
       }
     },
     "27239": {
@@ -105820,6 +105808,12 @@
         "target_video_id": "29647429",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T14:36:48.218543+00:00"
+      },
+      "claim": {
+        "worker_id": "3b1179ccce99414abc0a1ba29ec73a45-shard-1",
+        "claimed_at": "2026-09-23T20:08:28.105625+00:00",
+        "lease_expires_at": "2026-09-24T02:08:28.105625+00:00",
+        "run_id": "35903170689"
       }
     },
     "26098": {
@@ -105895,6 +105889,12 @@
         "target_video_id": "29647446",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T14:37:44.058420+00:00"
+      },
+      "claim": {
+        "worker_id": "3b1179ccce99414abc0a1ba29ec73a45-shard-4",
+        "claimed_at": "2026-09-23T20:08:28.433717+00:00",
+        "lease_expires_at": "2026-09-24T02:08:28.433717+00:00",
+        "run_id": "35903170689"
       }
     },
     "31742": {
@@ -249611,5 +249611,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T20:08:24.898038+00:00"
+  "updated_at": "2026-09-23T20:08:29.114978+00:00"
 }
