@@ -191024,13 +191024,6 @@
           "permanent": false,
           "source_id": "34719293",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:29.137517+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34719293",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:14.909372+00:00"
         },
         {
@@ -191039,18 +191032,19 @@
           "reason": "Request failed for https://sdilej.cz/34719293/noc-demonu-2-1994-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T05:08:34.521862+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34719293",
+          "target_video_id": "29636746",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:07:57.278999+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34719293",
         "display_name": "Noc démonů 2 (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-23T07:53:34.579447+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T07:57:04.024012+00:00",
-        "lease_expires_at": "2026-09-23T13:57:04.024012+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29636746",
       "prepared": {
@@ -191628,6 +191622,12 @@
         "source_id": "14876648",
         "display_name": "Nightshift (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-23T07:53:38.013778+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
+        "claimed_at": "2026-09-23T08:07:33.541008+00:00",
+        "lease_expires_at": "2026-09-23T14:07:33.541008+00:00",
+        "run_id": "35828044219"
       }
     },
     "6136": {
@@ -245751,5 +245751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:07:24.097272+00:00"
+  "updated_at": "2026-09-23T08:07:57.279015+00:00"
 }
