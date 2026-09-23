@@ -76568,13 +76568,6 @@
           "source_id": "29959686",
           "target_video_id": "29629827",
           "permanent": false,
-          "attempted_at": "2026-09-23T01:16:07.315007+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29959686",
-          "target_video_id": "29629827",
-          "permanent": false,
           "attempted_at": "2026-09-23T02:00:50.232614+00:00"
         },
         {
@@ -76583,6 +76576,13 @@
           "target_video_id": "29629827",
           "permanent": false,
           "attempted_at": "2026-09-23T02:32:49.338010+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29959686",
+          "target_video_id": "29629827",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:05:09.440093+00:00"
         }
       ],
       "last_plan": {
@@ -76595,23 +76595,10 @@
         "target_video_id": "29629827",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-23T00:26:21.306652+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-5",
-        "claimed_at": "2026-09-23T03:05:05.818356+00:00",
-        "lease_expires_at": "2026-09-23T09:05:05.818356+00:00",
-        "run_id": "35804360245"
       }
     },
     "30413": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "29629830",
-          "permanent": false,
-          "attempted_at": "2026-09-23T01:29:52.634560+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "33855360",
@@ -76625,6 +76612,13 @@
           "target_video_id": "29629830",
           "permanent": false,
           "attempted_at": "2026-09-23T02:32:50.449007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "29629830",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:05:09.730666+00:00"
         }
       ],
       "last_plan": {
@@ -76637,12 +76631,6 @@
         "target_video_id": "29629830",
         "size_bytes": 8900000000,
         "prepared_at": "2026-09-23T00:26:26.407570+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
-        "claimed_at": "2026-09-23T03:05:06.108442+00:00",
-        "lease_expires_at": "2026-09-23T09:05:06.108442+00:00",
-        "run_id": "35804360245"
       }
     },
     "32630": {
@@ -77228,6 +77216,12 @@
         "target_video_id": "29629940",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-23T00:33:42.975092+00:00"
+      },
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-4",
+        "claimed_at": "2026-09-23T03:05:10.009155+00:00",
+        "lease_expires_at": "2026-09-23T09:05:10.009155+00:00",
+        "run_id": "35804360245"
       }
     },
     "24772": {
@@ -186754,13 +186748,6 @@
           "permanent": false,
           "source_id": "34850587",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:56:37.086445+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34850587",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:02:22.743286+00:00"
         },
         {
@@ -186769,18 +186756,19 @@
           "source_id": "34850587",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:02:59.083710+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850587",
+          "target_video_id": "29632217",
+          "permanent": false,
+          "attempted_at": "2026-09-23T03:05:10.261358+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34850587",
         "display_name": "Koputus (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-23T02:52:16.254727+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-1",
-        "claimed_at": "2026-09-23T02:56:44.533189+00:00",
-        "lease_expires_at": "2026-09-23T08:56:44.533189+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29632217",
       "prepared": {
@@ -243877,5 +243865,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T03:05:07.145669+00:00"
+  "updated_at": "2026-09-23T03:05:10.261375+00:00"
 }
