@@ -192179,13 +192179,6 @@
     "30574": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "8518733",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:26:36.264652+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "8518733",
           "reason": "Request failed for https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv (HTTP None)",
@@ -192198,18 +192191,19 @@
           "reason": "Request failed for https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T08:52:38.504196+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "8518733",
+          "reason": "Request failed for https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:22:38.753197+00:00"
         }
       ],
       "last_plan": {
         "source_id": "8518733",
         "display_name": "Most Beautiful Island (2017) 1080p CZ Titulky",
         "planned_at": "2026-09-23T10:21:10.238038+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T10:21:52.800074+00:00",
-        "lease_expires_at": "2026-09-23T16:21:52.800074+00:00",
-        "run_id": "35828044219"
       }
     },
     "23001": {
@@ -246109,5 +246103,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:22:14.762352+00:00"
+  "updated_at": "2026-09-23T10:22:38.753216+00:00"
 }
