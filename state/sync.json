@@ -193674,13 +193674,6 @@
           "permanent": false,
           "source_id": "24827226",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:50:47.859009+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24827226",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:27:33.687936+00:00"
         },
         {
@@ -193689,18 +193682,19 @@
           "reason": "Request failed for https://sdilej.cz/24827226/pro-tve-dobro-komedie-spanelsko-2017-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T09:19:38.935158+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24827226",
+          "target_video_id": "29639234",
+          "permanent": false,
+          "attempted_at": "2026-09-23T10:35:01.144699+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24827226",
         "display_name": "Pro tvé dobro (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-23T10:25:24.118677+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-3",
-        "claimed_at": "2026-09-23T10:27:52.702491+00:00",
-        "lease_expires_at": "2026-09-23T16:27:52.702491+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29639234",
       "prepared": {
@@ -246091,5 +246085,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T10:34:21.537622+00:00"
+  "updated_at": "2026-09-23T10:35:01.144716+00:00"
 }
