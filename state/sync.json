@@ -7157,13 +7157,6 @@
           "source_id": "32380403",
           "target_video_id": "29208687",
           "permanent": false,
-          "attempted_at": "2026-09-23T15:58:12.364765+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "29208687",
-          "permanent": false,
           "attempted_at": "2026-09-23T16:31:11.940737+00:00"
         },
         {
@@ -7172,6 +7165,13 @@
           "target_video_id": "29208687",
           "permanent": false,
           "attempted_at": "2026-09-23T17:01:57.853438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "29208687",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:42:11.120563+00:00"
         }
       ],
       "last_plan": {
@@ -7859,13 +7859,6 @@
           "source_id": "31734447",
           "target_video_id": "29289637",
           "permanent": false,
-          "attempted_at": "2026-09-23T15:58:13.583721+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31734447",
-          "target_video_id": "29289637",
-          "permanent": false,
           "attempted_at": "2026-09-23T16:31:14.875455+00:00"
         },
         {
@@ -7874,6 +7867,13 @@
           "target_video_id": "29289637",
           "permanent": false,
           "attempted_at": "2026-09-23T17:01:57.696059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31734447",
+          "target_video_id": "29289637",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:42:12.662968+00:00"
         }
       ],
       "last_plan": {
@@ -8049,13 +8049,6 @@
           "source_id": "14820817",
           "target_video_id": "29210666",
           "permanent": false,
-          "attempted_at": "2026-09-23T15:58:14.074147+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14820817",
-          "target_video_id": "29210666",
-          "permanent": false,
           "attempted_at": "2026-09-23T16:31:15.041677+00:00"
         },
         {
@@ -8064,6 +8057,13 @@
           "target_video_id": "29210666",
           "permanent": false,
           "attempted_at": "2026-09-23T17:01:58.495513+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14820817",
+          "target_video_id": "29210666",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:42:14.233236+00:00"
         }
       ],
       "last_plan": {
@@ -8221,13 +8221,6 @@
           "source_id": "33063909",
           "target_video_id": "29210906",
           "permanent": false,
-          "attempted_at": "2026-09-23T15:58:16.463085+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33063909",
-          "target_video_id": "29210906",
-          "permanent": false,
           "attempted_at": "2026-09-23T16:31:16.802054+00:00"
         },
         {
@@ -8236,6 +8229,13 @@
           "target_video_id": "29210906",
           "permanent": false,
           "attempted_at": "2026-09-23T17:01:58.895315+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33063909",
+          "target_video_id": "29210906",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:42:15.685044+00:00"
         }
       ],
       "last_plan": {
@@ -8387,13 +8387,6 @@
           "source_id": "31043951",
           "target_video_id": "29211713",
           "permanent": false,
-          "attempted_at": "2026-09-23T15:58:16.856181+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31043951",
-          "target_video_id": "29211713",
-          "permanent": false,
           "attempted_at": "2026-09-23T16:31:16.567253+00:00"
         },
         {
@@ -8402,6 +8395,13 @@
           "target_video_id": "29211713",
           "permanent": false,
           "attempted_at": "2026-09-23T17:01:59.463864+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31043951",
+          "target_video_id": "29211713",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:42:18.037396+00:00"
         }
       ],
       "last_plan": {
@@ -8450,7 +8450,13 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-09-08T10:50:07.610886+00:00"
       },
-      "previous_target_id": "29211798"
+      "previous_target_id": "29211798",
+      "claim": {
+        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-2",
+        "claimed_at": "2026-09-23T17:42:18.266862+00:00",
+        "lease_expires_at": "2026-09-23T23:42:18.266862+00:00",
+        "run_id": "35861705510"
+      }
     },
     "11516": {
       "attempts": [],
@@ -205047,13 +205053,6 @@
           "permanent": false,
           "source_id": "30099368",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:37:35.575903+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30099368",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:53:04.239667+00:00"
         },
         {
@@ -205062,18 +205061,19 @@
           "source_id": "30099368",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:28.067978+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30099368",
+          "target_video_id": "29650250",
+          "permanent": false,
+          "attempted_at": "2026-09-23T17:42:20.982480+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30099368",
         "display_name": "V prachu a krvi (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-23T17:16:49.925556+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-1",
-        "claimed_at": "2026-09-23T17:28:31.533167+00:00",
-        "lease_expires_at": "2026-09-23T23:28:31.533167+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29650250",
       "prepared": {
@@ -249221,5 +249221,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T17:42:06.961833+00:00"
+  "updated_at": "2026-09-23T17:42:20.982500+00:00"
 }
