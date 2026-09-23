@@ -206359,13 +206359,6 @@
           "permanent": false,
           "source_id": "27532875",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:01:04.075758+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27532875",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:02:11.505309+00:00"
         },
         {
@@ -206374,18 +206367,19 @@
           "source_id": "27532875",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:02:27.328428+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27532875",
+          "target_video_id": "29651042",
+          "permanent": false,
+          "attempted_at": "2026-09-23T18:28:54.184610+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27532875",
         "display_name": "Stroj času (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-23T18:03:22.934267+00:00"
-      },
-      "claim": {
-        "worker_id": "7d1a778d4f86475faaa45c8ada27d24d-shard-5",
-        "claimed_at": "2026-09-23T18:21:45.905072+00:00",
-        "lease_expires_at": "2026-09-24T00:21:45.905072+00:00",
-        "run_id": "35861705510"
       },
       "previous_target_id": "29651042",
       "prepared": {
@@ -249482,5 +249476,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T18:21:50.050747+00:00"
+  "updated_at": "2026-09-23T18:28:54.184627+00:00"
 }
