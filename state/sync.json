@@ -191601,13 +191601,6 @@
           "permanent": false,
           "source_id": "14876648",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:31:10.520836+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14876648",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:34:42.033880+00:00"
         },
         {
@@ -191616,18 +191609,19 @@
           "source_id": "14876648",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:26.916733+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14876648",
+          "reason": "Request failed for https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-23T08:08:19.497195+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14876648",
         "display_name": "Nightshift (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-23T07:53:38.013778+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-5",
-        "claimed_at": "2026-09-23T08:07:33.541008+00:00",
-        "lease_expires_at": "2026-09-23T14:07:33.541008+00:00",
-        "run_id": "35828044219"
       }
     },
     "6136": {
@@ -191681,6 +191675,12 @@
         "source_id": "20648673",
         "display_name": "Jak jsem vyhrál válku (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-23T07:53:38.282783+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
+        "claimed_at": "2026-09-23T08:07:59.488598+00:00",
+        "lease_expires_at": "2026-09-23T14:07:59.488598+00:00",
+        "run_id": "35828044219"
       }
     },
     "28503": {
@@ -245751,5 +245751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T08:07:57.279015+00:00"
+  "updated_at": "2026-09-23T08:08:19.497214+00:00"
 }
