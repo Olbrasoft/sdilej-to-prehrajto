@@ -209484,13 +209484,6 @@
           "permanent": false,
           "source_id": "34395880",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:10:06.627795+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34395880",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:10:42.900037+00:00"
         },
         {
@@ -209499,18 +209492,19 @@
           "source_id": "34395880",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:10:48.166014+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34395880",
+          "target_video_id": "29655171",
+          "permanent": false,
+          "attempted_at": "2026-09-23T22:57:27.661276+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34395880",
         "display_name": "Zevláci vs. Zombíci (2012) 1080p SK Dabing",
         "planned_at": "2026-09-23T22:30:52.181287+00:00"
-      },
-      "claim": {
-        "worker_id": "66c0e5462c0c4a009c4b9f7d73c5fa76-shard-0",
-        "claimed_at": "2026-09-23T22:38:20.619404+00:00",
-        "lease_expires_at": "2026-09-24T04:38:20.619404+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29655171",
       "prepared": {
@@ -250283,5 +250277,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T22:56:36.173182+00:00"
+  "updated_at": "2026-09-23T22:57:27.661292+00:00"
 }
