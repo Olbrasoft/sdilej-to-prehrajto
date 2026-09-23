@@ -190904,13 +190904,6 @@
           "permanent": false,
           "source_id": "34725616",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:25.796578+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34725616",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:12.008695+00:00"
         },
         {
@@ -190919,18 +190912,19 @@
           "reason": "Request failed for https://sdilej.cz/34725616/ice-storm-2023-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T05:03:28.968807+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34725616",
+          "target_video_id": "29636715",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:56:59.312524+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34725616",
         "display_name": "Ice Storm (2023) SD CZ Titulky",
         "planned_at": "2026-09-23T07:53:33.750622+00:00"
-      },
-      "claim": {
-        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-4",
-        "claimed_at": "2026-09-23T07:54:38.778917+00:00",
-        "lease_expires_at": "2026-09-23T13:54:38.778917+00:00",
-        "run_id": "35828044219"
       },
       "previous_target_id": "29636715",
       "prepared": {
@@ -190946,13 +190940,6 @@
           "permanent": false,
           "source_id": "34296562",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:34:26.922106+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34296562",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:48:12.981244+00:00"
         },
         {
@@ -190961,6 +190948,13 @@
           "target_video_id": "29634280",
           "permanent": false,
           "attempted_at": "2026-09-23T05:27:39.592683+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296562",
+          "target_video_id": "29634280",
+          "permanent": false,
+          "attempted_at": "2026-09-23T07:56:44.510918+00:00"
         }
       ],
       "last_plan": {
@@ -190971,7 +190965,7 @@
       "previous_target_id": "29634280",
       "prepared": {
         "target_video_id": "29634280",
-        "size_bytes": 5445099442,
+        "size_bytes": 5400000000,
         "prepared_at": "2026-09-23T05:03:36.254545+00:00"
       }
     },
@@ -191026,6 +191020,12 @@
         "source_id": "34879200",
         "display_name": "Rodinná loupež (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-23T07:53:34.303792+00:00"
+      },
+      "claim": {
+        "worker_id": "09a1a35321624023b56325bebcb352ba-shard-2",
+        "claimed_at": "2026-09-23T07:56:44.821470+00:00",
+        "lease_expires_at": "2026-09-23T13:56:44.821470+00:00",
+        "run_id": "35828044219"
       }
     },
     "34232": {
@@ -245744,5 +245744,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T07:56:11.948681+00:00"
+  "updated_at": "2026-09-23T07:56:59.312542+00:00"
 }
