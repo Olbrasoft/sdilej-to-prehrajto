@@ -75200,18 +75200,19 @@
           "reason": "Request failed for https://sdilej.cz/34716602/karolina-2021-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T00:06:17.045146+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716602",
+          "target_video_id": "29630631",
+          "permanent": false,
+          "attempted_at": "2026-09-23T01:21:03.171647+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716602",
         "display_name": "Karolína (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-23T01:14:23.638468+00:00"
-      },
-      "claim": {
-        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-2",
-        "claimed_at": "2026-09-23T01:14:56.523153+00:00",
-        "lease_expires_at": "2026-09-23T07:14:56.523153+00:00",
-        "run_id": "35804360245"
       },
       "previous_target_id": "29630631",
       "prepared": {
@@ -81549,7 +81550,13 @@
         "size_bytes": 11700000000,
         "prepared_at": "2026-09-17T04:50:53.751459+00:00"
       },
-      "previous_target_id": "29443370"
+      "previous_target_id": "29443370",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-3",
+        "claimed_at": "2026-09-23T01:21:02.199689+00:00",
+        "lease_expires_at": "2026-09-23T07:21:02.199689+00:00",
+        "run_id": "35804360245"
+      }
     },
     "29773": {
       "attempts": []
@@ -81807,7 +81814,13 @@
         "size_bytes": 13400000000,
         "prepared_at": "2026-09-17T04:56:42.916997+00:00"
       },
-      "previous_target_id": "29443431"
+      "previous_target_id": "29443431",
+      "claim": {
+        "worker_id": "46f0d94f1b5d4662953ab023898e04a1-shard-0",
+        "claimed_at": "2026-09-23T01:21:01.864856+00:00",
+        "lease_expires_at": "2026-09-23T07:21:01.864856+00:00",
+        "run_id": "35804360245"
+      }
     },
     "21821": {
       "attempts": []
@@ -242778,5 +242791,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-23T01:20:59.452056+00:00"
+  "updated_at": "2026-09-23T01:21:03.171663+00:00"
 }
