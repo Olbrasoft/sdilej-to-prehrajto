@@ -220548,13 +220548,6 @@
           "permanent": false,
           "source_id": "34972127",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:20.836777+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34972127",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:17:05.974644+00:00"
         },
         {
@@ -220563,6 +220556,13 @@
           "target_video_id": "29663864",
           "permanent": false,
           "attempted_at": "2026-09-24T08:38:46.993846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34972127",
+          "target_video_id": "29663864",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:13:27.827003+00:00"
         }
       ],
       "last_plan": {
@@ -220573,7 +220573,7 @@
       "previous_target_id": "29663864",
       "prepared": {
         "target_video_id": "29663864",
-        "size_bytes": 2393320316,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-24T08:35:43.437658+00:00"
       }
     },
@@ -220604,16 +220604,10 @@
           "attempted_at": "2026-09-24T08:49:28.137008+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30694992",
-        "display_name": "Livide (2011) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T19:12:03.080653+00:00"
-      },
       "previous_target_id": "29663920",
-      "prepared": {
+      "upload": {
         "target_video_id": "29663920",
-        "size_bytes": 4308355850,
-        "prepared_at": "2026-09-24T08:39:00.713999+00:00"
+        "uploaded_at": "2026-09-24T19:13:29.405490+00:00"
       }
     },
     "16565": {
@@ -256304,5 +256298,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T19:13:19.255115+00:00"
+  "updated_at": "2026-09-24T19:13:29.405509+00:00"
 }
