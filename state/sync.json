@@ -116348,13 +116348,6 @@
     "18880": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "6872048",
-          "reason": "Request failed for https://sdilej.cz/6872048/monster-high-skola-duchu-2015-cz-dabing.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-24T17:15:24.073929+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "6872048",
           "target_video_id": "29675418",
@@ -116367,6 +116360,13 @@
           "target_video_id": "29675418",
           "permanent": false,
           "attempted_at": "2026-09-24T18:56:27.316903+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6872048",
+          "target_video_id": "29675418",
+          "permanent": false,
+          "attempted_at": "2026-09-24T22:01:33.679139+00:00"
         }
       ],
       "last_plan": {
@@ -116394,13 +116394,6 @@
           "source_id": "30715681",
           "target_video_id": "29674597",
           "permanent": false,
-          "attempted_at": "2026-09-24T17:19:47.715590+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30715681",
-          "target_video_id": "29674597",
-          "permanent": false,
           "attempted_at": "2026-09-24T17:53:08.417290+00:00"
         },
         {
@@ -116409,6 +116402,13 @@
           "target_video_id": "29674597",
           "permanent": false,
           "attempted_at": "2026-09-24T18:56:30.966056+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30715681",
+          "target_video_id": "29674597",
+          "permanent": false,
+          "attempted_at": "2026-09-24T22:01:37.779395+00:00"
         }
       ],
       "last_plan": {
@@ -116448,6 +116448,18 @@
         "source_id": "29448015",
         "display_name": "Země mustangů (1976) SD CZ Dabing",
         "planned_at": "2026-09-24T21:49:56.675789+00:00"
+      },
+      "claim": {
+        "worker_id": "add983583c2b45648bef571e6b6a90d8-shard-0",
+        "claimed_at": "2026-09-24T22:01:38.095094+00:00",
+        "lease_expires_at": "2026-09-25T04:01:38.095094+00:00",
+        "run_id": "36034190447"
+      },
+      "previous_target_id": "29680869",
+      "prepared": {
+        "target_video_id": "29680869",
+        "size_bytes": 732686336,
+        "prepared_at": "2026-09-24T22:01:41.769128+00:00"
       }
     },
     "15957": {
@@ -256881,5 +256893,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T22:01:29.489008+00:00"
+  "updated_at": "2026-09-24T22:01:41.769140+00:00"
 }
