@@ -210781,13 +210781,6 @@
           "permanent": false,
           "source_id": "26130953",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:14:35.402649+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26130953",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:14:55.158265+00:00"
         },
         {
@@ -210796,6 +210789,13 @@
           "target_video_id": "29656393",
           "permanent": false,
           "attempted_at": "2026-09-23T23:51:09.189094+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26130953",
+          "target_video_id": "29656393",
+          "permanent": false,
+          "attempted_at": "2026-09-24T00:33:49.951834+00:00"
         }
       ],
       "last_plan": {
@@ -210806,25 +210806,12 @@
       "previous_target_id": "29656393",
       "prepared": {
         "target_video_id": "29656393",
-        "size_bytes": 999456768,
+        "size_bytes": 999500000,
         "prepared_at": "2026-09-23T23:48:44.473438+00:00"
-      },
-      "claim": {
-        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-5",
-        "claimed_at": "2026-09-24T00:33:47.009566+00:00",
-        "lease_expires_at": "2026-09-24T06:33:47.009566+00:00",
-        "run_id": "35903170689"
       }
     },
     "22769": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34040956",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:14:36.463099+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -210838,6 +210825,13 @@
           "target_video_id": "29656406",
           "permanent": false,
           "attempted_at": "2026-09-23T23:54:45.831824+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34040956",
+          "target_video_id": "29656406",
+          "permanent": false,
+          "attempted_at": "2026-09-24T00:33:50.289836+00:00"
         }
       ],
       "last_plan": {
@@ -210848,14 +210842,8 @@
       "previous_target_id": "29656406",
       "prepared": {
         "target_video_id": "29656406",
-        "size_bytes": 2419829968,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T23:49:29.035647+00:00"
-      },
-      "claim": {
-        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-3",
-        "claimed_at": "2026-09-24T00:33:47.347781+00:00",
-        "lease_expires_at": "2026-09-24T06:33:47.347781+00:00",
-        "run_id": "35903170689"
       }
     },
     "19797": {
@@ -210895,6 +210883,12 @@
         "target_video_id": "29656437",
         "size_bytes": 2110788340,
         "prepared_at": "2026-09-23T23:51:05.848528+00:00"
+      },
+      "claim": {
+        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-1",
+        "claimed_at": "2026-09-24T00:33:51.347040+00:00",
+        "lease_expires_at": "2026-09-24T06:33:51.347040+00:00",
+        "run_id": "35903170689"
       }
     },
     "18996": {
@@ -210930,16 +210924,10 @@
           "attempted_at": "2026-09-23T23:53:03.200266+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "25837700",
-        "display_name": "Danika (2006) SD CZ Dabing",
-        "planned_at": "2026-09-24T00:33:18.551815+00:00"
-      },
       "previous_target_id": "29656438",
-      "prepared": {
+      "upload": {
         "target_video_id": "29656438",
-        "size_bytes": 731233533,
-        "prepared_at": "2026-09-23T23:51:15.056224+00:00"
+        "uploaded_at": "2026-09-24T00:33:52.499235+00:00"
       }
     },
     "28152": {
@@ -210955,13 +210943,6 @@
           "permanent": false,
           "source_id": "7814793",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:14:39.704575+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "7814793",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:14:55.691926+00:00"
         },
         {
@@ -210970,6 +210951,13 @@
           "target_video_id": "29656474",
           "permanent": false,
           "attempted_at": "2026-09-23T23:55:00.180479+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7814793",
+          "target_video_id": "29656474",
+          "permanent": false,
+          "attempted_at": "2026-09-24T00:33:52.103559+00:00"
         }
       ],
       "last_plan": {
@@ -210980,7 +210968,7 @@
       "previous_target_id": "29656474",
       "prepared": {
         "target_video_id": "29656474",
-        "size_bytes": 793413414,
+        "size_bytes": 793400000,
         "prepared_at": "2026-09-23T23:53:14.124786+00:00"
       }
     },
@@ -250998,5 +250986,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T00:33:47.686986+00:00"
+  "updated_at": "2026-09-24T00:33:52.499268+00:00"
 }
