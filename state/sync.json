@@ -221370,13 +221370,6 @@
           "permanent": false,
           "source_id": "27465485",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:43.054851+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27465485",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:19:00.146648+00:00"
         },
         {
@@ -221385,6 +221378,13 @@
           "target_video_id": "29666389",
           "permanent": false,
           "attempted_at": "2026-09-24T11:16:09.747041+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27465485",
+          "target_video_id": "29666389",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:14:34.043995+00:00"
         }
       ],
       "last_plan": {
@@ -221395,7 +221395,7 @@
       "previous_target_id": "29666389",
       "prepared": {
         "target_video_id": "29666389",
-        "size_bytes": 4021297997,
+        "size_bytes": 4000000000,
         "prepared_at": "2026-09-24T11:06:39.502403+00:00"
       }
     },
@@ -221439,16 +221439,10 @@
           "attempted_at": "2026-09-24T11:19:42.512385+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24706631",
-        "display_name": "Hádej kdo? (2005) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T19:12:07.801280+00:00"
-      },
       "previous_target_id": "29666530",
-      "prepared": {
+      "upload": {
         "target_video_id": "29666530",
-        "size_bytes": 2156759697,
-        "prepared_at": "2026-09-24T11:16:30.164403+00:00"
+        "uploaded_at": "2026-09-24T19:14:35.570758+00:00"
       }
     },
     "31436": {
@@ -256226,5 +256220,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T19:14:30.396209+00:00"
+  "updated_at": "2026-09-24T19:14:35.570784+00:00"
 }
