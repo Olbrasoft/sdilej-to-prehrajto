@@ -212865,13 +212865,6 @@
           "permanent": false,
           "source_id": "33402072",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:41:58.067733+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33402072",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:43:38.288004+00:00"
         },
         {
@@ -212880,18 +212873,19 @@
           "source_id": "33402072",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:20.101109+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33402072",
+          "target_video_id": "29657788",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:28:39.225641+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33402072",
         "display_name": "Vyslýchání Lucy Letbyové (2026) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:15:04.884406+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
-        "claimed_at": "2026-09-24T01:22:49.997959+00:00",
-        "lease_expires_at": "2026-09-24T07:22:49.997959+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29657788",
       "prepared": {
@@ -251545,5 +251539,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:28:28.015194+00:00"
+  "updated_at": "2026-09-24T01:28:39.225660+00:00"
 }
