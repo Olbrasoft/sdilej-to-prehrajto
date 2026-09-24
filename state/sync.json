@@ -107304,13 +107304,6 @@
           "source_id": "26751641",
           "target_video_id": "29655950",
           "permanent": false,
-          "attempted_at": "2026-09-24T06:01:04.972158+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26751641",
-          "target_video_id": "29655950",
-          "permanent": false,
           "attempted_at": "2026-09-24T06:50:24.783030+00:00"
         },
         {
@@ -107319,6 +107312,13 @@
           "target_video_id": "29655950",
           "permanent": false,
           "attempted_at": "2026-09-24T08:19:08.637991+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26751641",
+          "target_video_id": "29655950",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:02:56.752486+00:00"
         }
       ],
       "last_plan": {
@@ -107331,12 +107331,6 @@
         "target_video_id": "29655950",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-23T23:24:31.628405+00:00"
-      },
-      "claim": {
-        "worker_id": "3543c7e0b0584536b76c6dcca583909e-shard-5",
-        "claimed_at": "2026-09-24T17:02:53.324400+00:00",
-        "lease_expires_at": "2026-09-24T23:02:53.324400+00:00",
-        "run_id": "35993022616"
       }
     },
     "31352": {
@@ -107700,13 +107694,6 @@
           "source_id": "31379562",
           "target_video_id": "29630991",
           "permanent": false,
-          "attempted_at": "2026-09-24T06:01:04.407429+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379562",
-          "target_video_id": "29630991",
-          "permanent": false,
           "attempted_at": "2026-09-24T06:50:26.121604+00:00"
         },
         {
@@ -107715,6 +107702,13 @@
           "target_video_id": "29630991",
           "permanent": false,
           "attempted_at": "2026-09-24T08:19:07.543677+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379562",
+          "target_video_id": "29630991",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:02:59.819199+00:00"
         }
       ],
       "last_plan": {
@@ -107988,13 +107982,6 @@
           "source_id": "25586153",
           "target_video_id": "29175998",
           "permanent": false,
-          "attempted_at": "2026-09-24T06:01:05.477777+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25586153",
-          "target_video_id": "29175998",
-          "permanent": false,
           "attempted_at": "2026-09-24T06:50:25.091794+00:00"
         },
         {
@@ -108003,6 +107990,13 @@
           "target_video_id": "29175998",
           "permanent": false,
           "attempted_at": "2026-09-24T08:19:09.161988+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25586153",
+          "target_video_id": "29175998",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:02:59.351153+00:00"
         }
       ],
       "last_plan": {
@@ -108197,13 +108191,6 @@
           "source_id": "32730288",
           "target_video_id": "29144872",
           "permanent": false,
-          "attempted_at": "2026-09-24T06:01:06.782737+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32730288",
-          "target_video_id": "29144872",
-          "permanent": false,
           "attempted_at": "2026-09-24T06:50:26.913827+00:00"
         },
         {
@@ -108212,6 +108199,13 @@
           "target_video_id": "29144872",
           "permanent": false,
           "attempted_at": "2026-09-24T08:19:11.625341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32730288",
+          "target_video_id": "29144872",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:03:02.270129+00:00"
         }
       ],
       "last_plan": {
@@ -108392,7 +108386,15 @@
       "attempts": []
     },
     "12945": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34676671",
+          "reason": "Request failed for https://sdilej.cz/34676671/kacenka-a-strasidla-1993-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:03:46.256665+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34676671",
         "display_name": "Kačenka a strašidla (1993) 1080p CZ Dabing",
@@ -108558,6 +108560,12 @@
         "source_id": "34832451",
         "display_name": "Láska na zakázku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-24T17:02:09.893781+00:00"
+      },
+      "claim": {
+        "worker_id": "3543c7e0b0584536b76c6dcca583909e-shard-5",
+        "claimed_at": "2026-09-24T17:03:02.609277+00:00",
+        "lease_expires_at": "2026-09-24T23:03:02.609277+00:00",
+        "run_id": "35993022616"
       }
     },
     "32928": {
@@ -255041,5 +255049,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T17:02:54.125203+00:00"
+  "updated_at": "2026-09-24T17:03:46.256681+00:00"
 }
