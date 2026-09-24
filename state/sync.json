@@ -211984,13 +211984,6 @@
           "permanent": false,
           "source_id": "33690035",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:26.356001+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33690035",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:12.924847+00:00"
         },
         {
@@ -211999,6 +211992,13 @@
           "target_video_id": "29657048",
           "permanent": false,
           "attempted_at": "2026-09-24T00:38:53.625376+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33690035",
+          "target_video_id": "29657048",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:14:35.129555+00:00"
         }
       ],
       "last_plan": {
@@ -212009,14 +212009,8 @@
       "previous_target_id": "29657048",
       "prepared": {
         "target_video_id": "29657048",
-        "size_bytes": 2280576218,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-24T00:34:04.194418+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
-        "claimed_at": "2026-09-24T01:14:32.339013+00:00",
-        "lease_expires_at": "2026-09-24T07:14:32.339013+00:00",
-        "run_id": "35933220877"
       }
     },
     "15754": {
@@ -212080,6 +212074,12 @@
         "target_video_id": "29657050",
         "size_bytes": 2270443740,
         "prepared_at": "2026-09-24T00:34:12.724065+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T01:14:35.877942+00:00",
+        "lease_expires_at": "2026-09-24T07:14:35.877942+00:00",
+        "run_id": "35933220877"
       }
     },
     "7709": {
@@ -212087,13 +212087,6 @@
     },
     "6828": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27122247",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:41:52.239084+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -212107,6 +212100,13 @@
           "source_id": "27122247",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:12.403046+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27122247",
+          "target_video_id": "29657058",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:14:36.334470+00:00"
         }
       ],
       "last_plan": {
@@ -212117,7 +212117,7 @@
       "previous_target_id": "29657058",
       "prepared": {
         "target_video_id": "29657058",
-        "size_bytes": 5659434514,
+        "size_bytes": 5700000000,
         "prepared_at": "2026-09-24T00:34:29.995740+00:00"
       }
     },
@@ -212172,6 +212172,12 @@
         "source_id": "33724772",
         "display_name": "Kudrnatá holka (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:13:53.289333+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
+        "claimed_at": "2026-09-24T01:14:35.485251+00:00",
+        "lease_expires_at": "2026-09-24T07:14:35.485251+00:00",
+        "run_id": "35933220877"
       }
     },
     "33339": {
@@ -251435,5 +251441,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:14:32.601155+00:00"
+  "updated_at": "2026-09-24T01:14:36.334490+00:00"
 }
