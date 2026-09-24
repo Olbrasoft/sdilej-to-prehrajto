@@ -213029,13 +213029,6 @@
           "permanent": false,
           "source_id": "33402072",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:38.288004+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33402072",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:20.101109+00:00"
         },
         {
@@ -213044,6 +213037,13 @@
           "target_video_id": "29657788",
           "permanent": false,
           "attempted_at": "2026-09-24T01:28:39.225641+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33402072",
+          "target_video_id": "29657788",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:56.150112+00:00"
         }
       ],
       "last_plan": {
@@ -213054,14 +213054,8 @@
       "previous_target_id": "29657788",
       "prepared": {
         "target_video_id": "29657788",
-        "size_bytes": 2011821139,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-24T01:22:53.918851+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
-        "claimed_at": "2026-09-24T02:46:53.097129+00:00",
-        "lease_expires_at": "2026-09-24T08:46:53.097129+00:00",
-        "run_id": "35933220877"
       }
     },
     "28547": {
@@ -213089,13 +213083,6 @@
           "permanent": false,
           "source_id": "33201817",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:37.734527+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33201817",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:22.008445+00:00"
         },
         {
@@ -213104,6 +213091,13 @@
           "target_video_id": "29657789",
           "permanent": false,
           "attempted_at": "2026-09-24T01:28:21.926192+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33201817",
+          "target_video_id": "29657789",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:55.890119+00:00"
         }
       ],
       "last_plan": {
@@ -213114,14 +213108,8 @@
       "previous_target_id": "29657789",
       "prepared": {
         "target_video_id": "29657789",
-        "size_bytes": 1927283130,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-24T01:23:03.998659+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
-        "claimed_at": "2026-09-24T02:46:52.831607+00:00",
-        "lease_expires_at": "2026-09-24T08:46:52.831607+00:00",
-        "run_id": "35933220877"
       }
     },
     "17795": {
@@ -213148,33 +213136,14 @@
           "attempted_at": "2026-09-24T01:26:22.417788+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "4232973",
-        "display_name": "Bionicle: Maska světla (2003) SD CZ Dabing",
-        "planned_at": "2026-09-24T02:46:28.777804+00:00"
-      },
       "previous_target_id": "29657806",
-      "prepared": {
+      "upload": {
         "target_video_id": "29657806",
-        "size_bytes": 730750976,
-        "prepared_at": "2026-09-24T01:24:37.491940+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T02:46:52.321773+00:00",
-        "lease_expires_at": "2026-09-24T08:46:52.321773+00:00",
-        "run_id": "35933220877"
+        "uploaded_at": "2026-09-24T02:46:56.400160+00:00"
       }
     },
     "6613": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12576946",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:44:30.143869+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -213188,6 +213157,13 @@
           "target_video_id": "29657826",
           "permanent": false,
           "attempted_at": "2026-09-24T01:34:38.084772+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12576946",
+          "target_video_id": "29657826",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:55.636131+00:00"
         }
       ],
       "last_plan": {
@@ -213198,14 +213174,8 @@
       "previous_target_id": "29657826",
       "prepared": {
         "target_video_id": "29657826",
-        "size_bytes": 2980829342,
+        "size_bytes": 3000000000,
         "prepared_at": "2026-09-24T01:26:28.357782+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
-        "claimed_at": "2026-09-24T02:46:52.578851+00:00",
-        "lease_expires_at": "2026-09-24T08:46:52.578851+00:00",
-        "run_id": "35933220877"
       }
     },
     "26303": {
@@ -251921,5 +251891,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:46:53.391985+00:00"
+  "updated_at": "2026-09-24T02:46:56.400179+00:00"
 }
