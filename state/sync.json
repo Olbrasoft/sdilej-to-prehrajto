@@ -222258,13 +222258,6 @@
           "permanent": false,
           "source_id": "30529555",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:13:16.813487+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30529555",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:14:02.118830+00:00"
         },
         {
@@ -222273,18 +222266,19 @@
           "source_id": "30529555",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:21:15.248054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30529555",
+          "target_video_id": "29678819",
+          "permanent": false,
+          "attempted_at": "2026-09-24T20:31:16.506202+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30529555",
         "display_name": "Held (2020) SD CZ Titulky",
         "planned_at": "2026-09-24T19:12:12.285646+00:00"
-      },
-      "claim": {
-        "worker_id": "faf1d945298e459997525d819df6d301-shard-4",
-        "claimed_at": "2026-09-24T20:26:56.958682+00:00",
-        "lease_expires_at": "2026-09-25T02:26:56.958682+00:00",
-        "run_id": "36034190447"
       },
       "previous_target_id": "29678819",
       "prepared": {
@@ -256288,5 +256282,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T20:27:01.520858+00:00"
+  "updated_at": "2026-09-24T20:31:16.506219+00:00"
 }
