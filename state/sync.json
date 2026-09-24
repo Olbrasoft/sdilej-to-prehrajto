@@ -212647,13 +212647,6 @@
           "permanent": false,
           "source_id": "30696929",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:41:56.836798+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30696929",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:43:34.054200+00:00"
         },
         {
@@ -212662,18 +212655,19 @@
           "source_id": "30696929",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:19.860702+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30696929",
+          "target_video_id": "29657665",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:22:40.285108+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30696929",
         "display_name": "Víkend v Taipei (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:15:03.513719+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T01:15:18.094251+00:00",
-        "lease_expires_at": "2026-09-24T07:15:18.094251+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29657665",
       "prepared": {
@@ -251497,5 +251491,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:22:32.192531+00:00"
+  "updated_at": "2026-09-24T01:22:40.285126+00:00"
 }
