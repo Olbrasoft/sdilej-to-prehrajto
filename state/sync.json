@@ -17785,6 +17785,12 @@
         "target_video_id": "29559509",
         "size_bytes": 1000000000,
         "prepared_at": "2026-09-20T13:37:00.901889+00:00"
+      },
+      "claim": {
+        "worker_id": "edf57c3f42974b88af75abc1b0683e05-shard-4",
+        "claimed_at": "2026-09-24T08:08:14.430702+00:00",
+        "lease_expires_at": "2026-09-24T14:08:14.430702+00:00",
+        "run_id": "35960029627"
       }
     },
     "33819": {
@@ -99639,17 +99645,19 @@
       "attempts": []
     },
     "33433": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11736941",
+          "target_video_id": "29663343",
+          "permanent": false,
+          "attempted_at": "2026-09-24T08:08:14.701850+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11736941",
         "display_name": "Švéd v žigulíku (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-24T07:42:06.630596+00:00"
-      },
-      "claim": {
-        "worker_id": "edf57c3f42974b88af75abc1b0683e05-shard-3",
-        "claimed_at": "2026-09-24T08:00:02.646592+00:00",
-        "lease_expires_at": "2026-09-24T14:00:02.646592+00:00",
-        "run_id": "35960029627"
       },
       "previous_target_id": "29663343",
       "prepared": {
@@ -253543,5 +253551,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T08:08:07.146049+00:00"
+  "updated_at": "2026-09-24T08:08:14.701872+00:00"
 }
