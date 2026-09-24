@@ -32757,13 +32757,6 @@
           "source_id": "33925810",
           "target_video_id": "29392866",
           "permanent": false,
-          "attempted_at": "2026-09-24T00:19:07.744831+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33925810",
-          "target_video_id": "29392866",
-          "permanent": false,
           "attempted_at": "2026-09-24T00:49:40.575678+00:00"
         },
         {
@@ -32772,6 +32765,13 @@
           "target_video_id": "29392866",
           "permanent": false,
           "attempted_at": "2026-09-24T02:21:58.304455+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33925810",
+          "target_video_id": "29392866",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:57:40.044312+00:00"
         }
       ],
       "last_plan": {
@@ -32800,13 +32800,6 @@
           "source_id": "7360350",
           "target_video_id": "29326087",
           "permanent": false,
-          "attempted_at": "2026-09-24T00:19:09.399046+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7360350",
-          "target_video_id": "29326087",
-          "permanent": false,
           "attempted_at": "2026-09-24T00:49:39.477697+00:00"
         },
         {
@@ -32815,6 +32808,13 @@
           "target_video_id": "29326087",
           "permanent": false,
           "attempted_at": "2026-09-24T02:22:00.022815+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7360350",
+          "target_video_id": "29326087",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:57:40.384945+00:00"
         }
       ],
       "last_plan": {
@@ -33519,13 +33519,6 @@
           "source_id": "29964716",
           "target_video_id": "29387905",
           "permanent": false,
-          "attempted_at": "2026-09-24T00:19:11.120354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29964716",
-          "target_video_id": "29387905",
-          "permanent": false,
           "attempted_at": "2026-09-24T00:49:42.736036+00:00"
         },
         {
@@ -33534,6 +33527,13 @@
           "target_video_id": "29387905",
           "permanent": false,
           "attempted_at": "2026-09-24T02:22:00.842325+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29964716",
+          "target_video_id": "29387905",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:57:42.135443+00:00"
         }
       ],
       "last_plan": {
@@ -33728,13 +33728,6 @@
           "source_id": "34145473",
           "target_video_id": "29387950",
           "permanent": false,
-          "attempted_at": "2026-09-24T00:19:12.654472+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34145473",
-          "target_video_id": "29387950",
-          "permanent": false,
           "attempted_at": "2026-09-24T00:49:44.596728+00:00"
         },
         {
@@ -33743,6 +33736,13 @@
           "target_video_id": "29387950",
           "permanent": false,
           "attempted_at": "2026-09-24T02:22:01.145957+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34145473",
+          "target_video_id": "29387950",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:57:42.529493+00:00"
         }
       ],
       "last_plan": {
@@ -33819,7 +33819,13 @@
         "size_bytes": 17700000000,
         "prepared_at": "2026-09-14T19:17:37.564902+00:00"
       },
-      "previous_target_id": "29387970"
+      "previous_target_id": "29387970",
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T02:57:42.807319+00:00",
+        "lease_expires_at": "2026-09-24T08:57:42.807319+00:00",
+        "run_id": "35933220877"
+      }
     },
     "11864": {
       "attempts": []
@@ -33960,7 +33966,13 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-14T19:20:40.944425+00:00"
       },
-      "previous_target_id": "29388044"
+      "previous_target_id": "29388044",
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
+        "claimed_at": "2026-09-24T02:57:43.121147+00:00",
+        "lease_expires_at": "2026-09-24T08:57:43.121147+00:00",
+        "run_id": "35933220877"
+      }
     },
     "1719": {
       "attempts": [
@@ -215031,13 +215043,6 @@
           "permanent": false,
           "source_id": "29943027",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:08:21.043319+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29943027",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:13:09.372240+00:00"
         },
         {
@@ -215046,18 +215051,19 @@
           "source_id": "29943027",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:14:56.645791+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29943027",
+          "target_video_id": "29658932",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:57:43.411748+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29943027",
         "display_name": "Nevyřizené účty (2007) 1080p SK Dabing",
         "planned_at": "2026-09-24T02:46:38.233521+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T02:47:35.558238+00:00",
-        "lease_expires_at": "2026-09-24T08:47:35.558238+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29658932",
       "prepared": {
@@ -251903,5 +251909,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:57:32.421255+00:00"
+  "updated_at": "2026-09-24T02:57:43.411766+00:00"
 }
