@@ -220623,13 +220623,6 @@
           "permanent": false,
           "source_id": "31070024",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:21.553086+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31070024",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:17:05.286983+00:00"
         },
         {
@@ -220638,6 +220631,13 @@
           "target_video_id": "29664066",
           "permanent": false,
           "attempted_at": "2026-09-24T08:52:47.260468+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31070024",
+          "target_video_id": "29664066",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:13:33.067222+00:00"
         }
       ],
       "last_plan": {
@@ -220648,7 +220648,7 @@
       "previous_target_id": "29664066",
       "prepared": {
         "target_video_id": "29664066",
-        "size_bytes": 1034354556,
+        "size_bytes": 1000000000,
         "prepared_at": "2026-09-24T08:49:41.485725+00:00"
       }
     },
@@ -220698,16 +220698,10 @@
           "attempted_at": "2026-09-24T08:57:44.530862+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34709614",
-        "display_name": "Uvězněni v domě (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T19:12:03.551587+00:00"
-      },
       "previous_target_id": "29664114",
-      "prepared": {
+      "upload": {
         "target_video_id": "29664114",
-        "size_bytes": 1785865359,
-        "prepared_at": "2026-09-24T08:53:00.328711+00:00"
+        "uploaded_at": "2026-09-24T19:13:34.662276+00:00"
       }
     },
     "16087": {
@@ -256298,5 +256292,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T19:13:29.405509+00:00"
+  "updated_at": "2026-09-24T19:13:34.662293+00:00"
 }
