@@ -80569,6 +80569,13 @@
           "target_video_id": "29657520",
           "permanent": false,
           "attempted_at": "2026-09-24T01:14:38.972713+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23220418",
+          "target_video_id": "29657520",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:26:05.259449+00:00"
         }
       ],
       "last_plan": {
@@ -80579,14 +80586,8 @@
       "previous_target_id": "29657520",
       "prepared": {
         "target_video_id": "29657520",
-        "size_bytes": 2534692234,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-24T01:08:23.413852+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
-        "claimed_at": "2026-09-24T02:26:01.119976+00:00",
-        "lease_expires_at": "2026-09-24T08:26:01.119976+00:00",
-        "run_id": "35933220877"
       }
     },
     "3100": {
@@ -80711,17 +80712,22 @@
         "source_id": "32962863",
         "display_name": "Pokoj 1408 (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-24T02:25:35.909502+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
+        "claimed_at": "2026-09-24T02:26:04.837399+00:00",
+        "lease_expires_at": "2026-09-24T08:26:04.837399+00:00",
+        "run_id": "35933220877"
+      },
+      "previous_target_id": "29658657",
+      "prepared": {
+        "target_video_id": "29658657",
+        "size_bytes": 2723315978,
+        "prepared_at": "2026-09-24T02:26:08.609879+00:00"
       }
     },
     "2984": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "16147077",
-          "target_video_id": "29654550",
-          "permanent": false,
-          "attempted_at": "2026-09-23T23:22:34.500396+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "16147077",
@@ -80735,6 +80741,13 @@
           "target_video_id": "29654550",
           "permanent": false,
           "attempted_at": "2026-09-24T00:55:07.004962+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16147077",
+          "target_video_id": "29654550",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:26:07.095684+00:00"
         }
       ],
       "last_plan": {
@@ -80797,7 +80810,13 @@
         "size_bytes": 12600000000,
         "prepared_at": "2026-09-19T09:10:49.549590+00:00"
       },
-      "previous_target_id": "29524835"
+      "previous_target_id": "29524835",
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
+        "claimed_at": "2026-09-24T02:26:07.507894+00:00",
+        "lease_expires_at": "2026-09-24T08:26:07.507894+00:00",
+        "run_id": "35933220877"
+      }
     },
     "2788": {
       "attempts": [],
@@ -251904,5 +251923,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:26:02.538231+00:00"
+  "updated_at": "2026-09-24T02:26:08.609897+00:00"
 }
