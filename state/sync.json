@@ -212847,13 +212847,6 @@
           "permanent": false,
           "source_id": "34670620",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:34.630466+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34670620",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:20.782478+00:00"
         },
         {
@@ -212862,6 +212855,13 @@
           "target_video_id": "29657664",
           "permanent": false,
           "attempted_at": "2026-09-24T01:22:22.568936+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34670620",
+          "target_video_id": "29657664",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:49.707203+00:00"
         }
       ],
       "last_plan": {
@@ -212872,14 +212872,8 @@
       "previous_target_id": "29657664",
       "prepared": {
         "target_video_id": "29657664",
-        "size_bytes": 2073288251,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-24T01:15:23.312199+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
-        "claimed_at": "2026-09-24T02:46:46.528112+00:00",
-        "lease_expires_at": "2026-09-24T08:46:46.528112+00:00",
-        "run_id": "35933220877"
       }
     },
     "29370": {
@@ -212930,13 +212924,6 @@
           "permanent": false,
           "source_id": "13884087",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:35.166736+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13884087",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:19.293625+00:00"
         },
         {
@@ -212945,6 +212932,13 @@
           "target_video_id": "29657693",
           "permanent": false,
           "attempted_at": "2026-09-24T01:22:57.439828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13884087",
+          "target_video_id": "29657693",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:49.963550+00:00"
         }
       ],
       "last_plan": {
@@ -212955,14 +212949,8 @@
       "previous_target_id": "29657693",
       "prepared": {
         "target_video_id": "29657693",
-        "size_bytes": 2842316606,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-24T01:16:52.830462+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T02:46:46.795117+00:00",
-        "lease_expires_at": "2026-09-24T08:46:46.795117+00:00",
-        "run_id": "35933220877"
       }
     },
     "12248": {
@@ -212999,6 +212987,12 @@
         "target_video_id": "29657782",
         "size_bytes": 1972234687,
         "prepared_at": "2026-09-24T01:22:32.192514+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
+        "claimed_at": "2026-09-24T02:46:49.446794+00:00",
+        "lease_expires_at": "2026-09-24T08:46:49.446794+00:00",
+        "run_id": "35933220877"
       }
     },
     "18237": {
@@ -213031,22 +213025,10 @@
           "attempted_at": "2026-09-24T01:24:32.031331+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34339185",
-        "display_name": "Skřítkové a trollové: Tajemná komnata (2008) SD CZ Dabing",
-        "planned_at": "2026-09-24T02:46:27.997055+00:00"
-      },
       "previous_target_id": "29657785",
-      "prepared": {
+      "upload": {
         "target_video_id": "29657785",
-        "size_bytes": 734052352,
-        "prepared_at": "2026-09-24T01:22:47.782441+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
-        "claimed_at": "2026-09-24T02:46:47.046852+00:00",
-        "lease_expires_at": "2026-09-24T08:46:47.046852+00:00",
-        "run_id": "35933220877"
+        "uploaded_at": "2026-09-24T02:46:50.232320+00:00"
       }
     },
     "11903": {
@@ -251927,5 +251909,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:46:47.325648+00:00"
+  "updated_at": "2026-09-24T02:46:50.232355+00:00"
 }
