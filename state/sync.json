@@ -210714,22 +210714,10 @@
           "attempted_at": "2026-09-23T23:26:18.765421+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34501268",
-        "display_name": "Na křídlech lásky (2023) 1440p CZ Dabing",
-        "planned_at": "2026-09-24T00:33:16.937631+00:00"
-      },
       "previous_target_id": "29655824",
-      "prepared": {
+      "upload": {
         "target_video_id": "29655824",
-        "size_bytes": 4032407722,
-        "prepared_at": "2026-09-23T23:15:45.360565+00:00"
-      },
-      "claim": {
-        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-1",
-        "claimed_at": "2026-09-24T00:33:43.334691+00:00",
-        "lease_expires_at": "2026-09-24T06:33:43.334691+00:00",
-        "run_id": "35903170689"
+        "uploaded_at": "2026-09-24T00:33:47.686963+00:00"
       }
     },
     "6619": {
@@ -210754,13 +210742,6 @@
           "permanent": false,
           "source_id": "12454734",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:14:34.276982+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12454734",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:14:54.875288+00:00"
         },
         {
@@ -210769,6 +210750,13 @@
           "target_video_id": "29656391",
           "permanent": false,
           "attempted_at": "2026-09-23T23:54:39.101270+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12454734",
+          "target_video_id": "29656391",
+          "permanent": false,
+          "attempted_at": "2026-09-24T00:33:46.676905+00:00"
         }
       ],
       "last_plan": {
@@ -210779,14 +210767,8 @@
       "previous_target_id": "29656391",
       "prepared": {
         "target_video_id": "29656391",
-        "size_bytes": 2420711405,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-23T23:48:39.778546+00:00"
-      },
-      "claim": {
-        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-3",
-        "claimed_at": "2026-09-24T00:33:44.140044+00:00",
-        "lease_expires_at": "2026-09-24T06:33:44.140044+00:00",
-        "run_id": "35903170689"
       }
     },
     "12479": {
@@ -210826,6 +210808,12 @@
         "target_video_id": "29656393",
         "size_bytes": 999456768,
         "prepared_at": "2026-09-23T23:48:44.473438+00:00"
+      },
+      "claim": {
+        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-5",
+        "claimed_at": "2026-09-24T00:33:47.009566+00:00",
+        "lease_expires_at": "2026-09-24T06:33:47.009566+00:00",
+        "run_id": "35903170689"
       }
     },
     "22769": {
@@ -210862,6 +210850,12 @@
         "target_video_id": "29656406",
         "size_bytes": 2419829968,
         "prepared_at": "2026-09-23T23:49:29.035647+00:00"
+      },
+      "claim": {
+        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-3",
+        "claimed_at": "2026-09-24T00:33:47.347781+00:00",
+        "lease_expires_at": "2026-09-24T06:33:47.347781+00:00",
+        "run_id": "35903170689"
       }
     },
     "19797": {
@@ -251004,5 +250998,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T00:33:44.554406+00:00"
+  "updated_at": "2026-09-24T00:33:47.686986+00:00"
 }
