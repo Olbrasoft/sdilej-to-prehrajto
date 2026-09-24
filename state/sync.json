@@ -103622,18 +103622,19 @@
           "reason": "Request failed for https://sdilej.cz/6009568/polepetko.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-23T23:25:06.496140+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6009568",
+          "target_video_id": "29656793",
+          "permanent": false,
+          "attempted_at": "2026-09-24T00:17:23.902880+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6009568",
         "display_name": "Polepetko (1986) SD SK Dabing",
         "planned_at": "2026-09-24T00:15:06.520234+00:00"
-      },
-      "claim": {
-        "worker_id": "a25763f30d5243209c4d666370e9000d-shard-0",
-        "claimed_at": "2026-09-24T00:15:33.297043+00:00",
-        "lease_expires_at": "2026-09-24T06:15:33.297043+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29656793",
       "prepared": {
@@ -124941,7 +124942,13 @@
         "size_bytes": 886000000,
         "prepared_at": "2026-09-10T07:32:00.454522+00:00"
       },
-      "previous_target_id": "29266484"
+      "previous_target_id": "29266484",
+      "claim": {
+        "worker_id": "a25763f30d5243209c4d666370e9000d-shard-3",
+        "claimed_at": "2026-09-24T00:17:23.610003+00:00",
+        "lease_expires_at": "2026-09-24T06:17:23.610003+00:00",
+        "run_id": "35903170689"
+      }
     },
     "35205": {
       "attempts": []
@@ -250811,5 +250818,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T00:17:21.375917+00:00"
+  "updated_at": "2026-09-24T00:17:23.902895+00:00"
 }
