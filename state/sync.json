@@ -90101,17 +90101,19 @@
       }
     },
     "16270": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32614966",
+          "target_video_id": "29659519",
+          "permanent": false,
+          "attempted_at": "2026-09-24T04:03:20.873550+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32614966",
         "display_name": "Pod šedivým nebem (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-24T03:41:14.577849+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
-        "claimed_at": "2026-09-24T03:56:53.369395+00:00",
-        "lease_expires_at": "2026-09-24T09:56:53.369395+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29659519",
       "prepared": {
@@ -91304,13 +91306,6 @@
           "source_id": "34850738",
           "target_video_id": "29641639",
           "permanent": false,
-          "attempted_at": "2026-09-24T00:14:43.904965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850738",
-          "target_video_id": "29641639",
-          "permanent": false,
           "attempted_at": "2026-09-24T00:58:05.540018+00:00"
         },
         {
@@ -91319,6 +91314,13 @@
           "target_video_id": "29641639",
           "permanent": false,
           "attempted_at": "2026-09-24T02:33:43.398950+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850738",
+          "target_video_id": "29641639",
+          "permanent": false,
+          "attempted_at": "2026-09-24T04:03:19.733208+00:00"
         }
       ],
       "last_plan": {
@@ -91339,6 +91341,12 @@
         "source_id": "32504474",
         "display_name": "Zobani (1993) 1080p CZ Dabing",
         "planned_at": "2026-09-24T03:41:17.970062+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-1",
+        "claimed_at": "2026-09-24T04:03:20.092586+00:00",
+        "lease_expires_at": "2026-09-24T10:03:20.092586+00:00",
+        "run_id": "35933220877"
       }
     },
     "13002": {
@@ -252449,5 +252457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T04:03:13.215113+00:00"
+  "updated_at": "2026-09-24T04:03:20.873570+00:00"
 }
