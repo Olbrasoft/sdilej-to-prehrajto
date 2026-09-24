@@ -127450,13 +127450,6 @@
           "source_id": "34711766",
           "target_video_id": "29219189",
           "permanent": false,
-          "attempted_at": "2026-09-24T02:37:31.642830+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711766",
-          "target_video_id": "29219189",
-          "permanent": false,
           "attempted_at": "2026-09-24T04:18:25.156501+00:00"
         },
         {
@@ -127465,6 +127458,13 @@
           "target_video_id": "29219189",
           "permanent": false,
           "attempted_at": "2026-09-24T08:22:06.113460+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711766",
+          "target_video_id": "29219189",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:51:15.821024+00:00"
         }
       ],
       "last_plan": {
@@ -127540,7 +127540,15 @@
       "attempts": []
     },
     "7546": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34666724",
+          "reason": "Request failed for https://sdilej.cz/34666724/znakovani-lasky-2022-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:52:02.308961+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34666724",
         "display_name": "Znakování lásky (2022) 1080p CZ Dabing",
@@ -255782,5 +255790,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T17:51:02.908277+00:00"
+  "updated_at": "2026-09-24T17:52:02.308984+00:00"
 }
