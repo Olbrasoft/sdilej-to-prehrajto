@@ -80431,17 +80431,19 @@
       }
     },
     "2992": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23220418",
+          "target_video_id": "29657520",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:14:38.972713+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23220418",
         "display_name": "Insidious (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:07:59.432135+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T01:08:19.651111+00:00",
-        "lease_expires_at": "2026-09-24T07:08:19.651111+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29657520",
       "prepared": {
@@ -212047,13 +212049,6 @@
           "permanent": false,
           "source_id": "25788673",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:26.602045+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25788673",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:10.789847+00:00"
         },
         {
@@ -212062,6 +212057,13 @@
           "target_video_id": "29657050",
           "permanent": false,
           "attempted_at": "2026-09-24T00:38:32.722924+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25788673",
+          "target_video_id": "29657050",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:14:38.704906+00:00"
         }
       ],
       "last_plan": {
@@ -212072,14 +212074,8 @@
       "previous_target_id": "29657050",
       "prepared": {
         "target_video_id": "29657050",
-        "size_bytes": 2270443740,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-24T00:34:12.724065+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
-        "claimed_at": "2026-09-24T01:14:35.877942+00:00",
-        "lease_expires_at": "2026-09-24T07:14:35.877942+00:00",
-        "run_id": "35933220877"
       }
     },
     "7709": {
@@ -251441,5 +251437,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:14:36.334490+00:00"
+  "updated_at": "2026-09-24T01:14:38.972732+00:00"
 }
