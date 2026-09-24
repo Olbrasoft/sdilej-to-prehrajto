@@ -214082,13 +214082,6 @@
           "permanent": false,
           "source_id": "34665166",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:49:32.862305+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34665166",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:51:02.979711+00:00"
         },
         {
@@ -214097,6 +214090,13 @@
           "target_video_id": "29658180",
           "permanent": false,
           "attempted_at": "2026-09-24T02:00:13.543433+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34665166",
+          "target_video_id": "29658180",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:47:27.812853+00:00"
         }
       ],
       "last_plan": {
@@ -214107,14 +214107,8 @@
       "previous_target_id": "29658180",
       "prepared": {
         "target_video_id": "29658180",
-        "size_bytes": 1933946822,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-24T01:53:24.473376+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
-        "claimed_at": "2026-09-24T02:47:24.601547+00:00",
-        "lease_expires_at": "2026-09-24T08:47:24.601547+00:00",
-        "run_id": "35933220877"
       }
     },
     "6592": {
@@ -214166,13 +214160,6 @@
           "permanent": false,
           "source_id": "21266518",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:49:33.316845+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21266518",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:51:05.203894+00:00"
         },
         {
@@ -214181,6 +214168,13 @@
           "target_video_id": "29658323",
           "permanent": false,
           "attempted_at": "2026-09-24T02:08:19.182745+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21266518",
+          "target_video_id": "29658323",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:47:29.503546+00:00"
         }
       ],
       "last_plan": {
@@ -214191,7 +214185,7 @@
       "previous_target_id": "29658323",
       "prepared": {
         "target_video_id": "29658323",
-        "size_bytes": 3084521610,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-24T02:00:24.557041+00:00"
       }
     },
@@ -214209,13 +214203,6 @@
           "permanent": false,
           "source_id": "13224508",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:49:33.466605+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13224508",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:51:06.338668+00:00"
         },
         {
@@ -214224,6 +214211,13 @@
           "target_video_id": "29658345",
           "permanent": false,
           "attempted_at": "2026-09-24T02:05:54.204805+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13224508",
+          "target_video_id": "29658345",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:47:28.075406+00:00"
         }
       ],
       "last_plan": {
@@ -214234,14 +214228,8 @@
       "previous_target_id": "29658345",
       "prepared": {
         "target_video_id": "29658345",
-        "size_bytes": 1965223790,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-24T02:01:41.884099+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
-        "claimed_at": "2026-09-24T02:47:25.117018+00:00",
-        "lease_expires_at": "2026-09-24T08:47:25.117018+00:00",
-        "run_id": "35933220877"
       }
     },
     "24352": {
@@ -214278,6 +214266,12 @@
         "target_video_id": "29658357",
         "size_bytes": 1714357341,
         "prepared_at": "2026-09-24T02:02:05.466587+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
+        "claimed_at": "2026-09-24T02:47:28.887238+00:00",
+        "lease_expires_at": "2026-09-24T08:47:28.887238+00:00",
+        "run_id": "35933220877"
       }
     },
     "26583": {
@@ -214317,16 +214311,10 @@
           "attempted_at": "2026-09-24T02:06:36.904766+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22267790",
-        "display_name": "Whitney (2015) SD CZ Dabing",
-        "planned_at": "2026-09-24T02:46:35.860731+00:00"
-      },
       "previous_target_id": "29658396",
-      "prepared": {
+      "upload": {
         "target_video_id": "29658396",
-        "size_bytes": 825722834,
-        "prepared_at": "2026-09-24T02:04:48.579814+00:00"
+        "uploaded_at": "2026-09-24T02:47:29.807645+00:00"
       }
     },
     "15368": {
@@ -214453,6 +214441,12 @@
         "target_video_id": "29658409",
         "size_bytes": 2085046471,
         "prepared_at": "2026-09-24T02:05:59.942309+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
+        "claimed_at": "2026-09-24T02:47:28.626196+00:00",
+        "lease_expires_at": "2026-09-24T08:47:28.626196+00:00",
+        "run_id": "35933220877"
       }
     },
     "24737": {
@@ -214495,6 +214489,12 @@
         "target_video_id": "29658417",
         "size_bytes": 994662106,
         "prepared_at": "2026-09-24T02:06:42.874634+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
+        "claimed_at": "2026-09-24T02:47:29.217152+00:00",
+        "lease_expires_at": "2026-09-24T08:47:29.217152+00:00",
+        "run_id": "35933220877"
       }
     },
     "11926": {
@@ -251867,5 +251867,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:47:25.403713+00:00"
+  "updated_at": "2026-09-24T02:47:29.807664+00:00"
 }
