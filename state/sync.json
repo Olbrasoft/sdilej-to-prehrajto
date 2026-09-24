@@ -216803,13 +216803,6 @@
           "permanent": false,
           "source_id": "33886608",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:08:44.083104+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33886608",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:13:18.792340+00:00"
         },
         {
@@ -216818,18 +216811,19 @@
           "source_id": "33886608",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:17:02.455470+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33886608",
+          "target_video_id": "29660412",
+          "permanent": false,
+          "attempted_at": "2026-09-24T05:19:47.521819+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33886608",
         "display_name": "Clarencova cesta ke slávě (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-24T04:27:21.150583+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-1",
-        "claimed_at": "2026-09-24T05:11:05.003551+00:00",
-        "lease_expires_at": "2026-09-24T11:11:05.003551+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29660412",
       "prepared": {
@@ -252614,5 +252608,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T05:11:09.172750+00:00"
+  "updated_at": "2026-09-24T05:19:47.521839+00:00"
 }
