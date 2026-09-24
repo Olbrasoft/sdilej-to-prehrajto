@@ -131153,13 +131153,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-24T08:23:20.436349+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-24T08:30:50.637003+00:00"
         },
         {
@@ -131168,6 +131161,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-24T17:54:56.814511+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-24T18:02:40.600920+00:00"
         }
       ],
       "last_plan": {
@@ -134338,7 +134338,15 @@
       "attempts": []
     },
     "23831": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28807021",
+          "target_video_id": "29675454",
+          "permanent": false,
+          "attempted_at": "2026-09-24T18:02:42.800477+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28807021",
         "display_name": "Půlnoc v zahradě dobra a zla (1997) 720p CZ Titulky",
@@ -134347,7 +134355,7 @@
       "previous_target_id": "29675454",
       "prepared": {
         "target_video_id": "29675454",
-        "size_bytes": 3502479827,
+        "size_bytes": 3500000000,
         "prepared_at": "2026-09-24T17:54:40.305908+00:00"
       }
     },
@@ -256011,5 +256019,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T18:01:35.330323+00:00"
+  "updated_at": "2026-09-24T18:02:42.800495+00:00"
 }
