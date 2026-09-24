@@ -219425,13 +219425,6 @@
           "source_id": "8698272",
           "target_video_id": "29659106",
           "permanent": false,
-          "attempted_at": "2026-09-24T03:14:15.397954+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8698272",
-          "target_video_id": "29659106",
-          "permanent": false,
           "attempted_at": "2026-09-24T04:28:13.412266+00:00"
         },
         {
@@ -219440,6 +219433,13 @@
           "target_video_id": "29659106",
           "permanent": false,
           "attempted_at": "2026-09-24T08:34:36.243730+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8698272",
+          "target_video_id": "29659106",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:11:37.553606+00:00"
         }
       ],
       "last_plan": {
@@ -219452,12 +219452,6 @@
         "target_video_id": "29659106",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-24T03:08:14.006487+00:00"
-      },
-      "claim": {
-        "worker_id": "faf1d945298e459997525d819df6d301-shard-0",
-        "claimed_at": "2026-09-24T19:11:26.826619+00:00",
-        "lease_expires_at": "2026-09-25T01:11:26.826619+00:00",
-        "run_id": "36034190447"
       }
     },
     "10244": {
@@ -219487,22 +219481,10 @@
           "attempted_at": "2026-09-24T08:34:36.553270+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34732167",
-        "display_name": "Ravage (2020) 720p CZ Titulky",
-        "planned_at": "2026-09-24T19:10:51.348132+00:00"
-      },
       "previous_target_id": "29659107",
-      "prepared": {
+      "upload": {
         "target_video_id": "29659107",
-        "size_bytes": 2100000000,
-        "prepared_at": "2026-09-24T03:08:19.679205+00:00"
-      },
-      "claim": {
-        "worker_id": "faf1d945298e459997525d819df6d301-shard-1",
-        "claimed_at": "2026-09-24T19:11:34.535482+00:00",
-        "lease_expires_at": "2026-09-25T01:11:34.535482+00:00",
-        "run_id": "36034190447"
+        "uploaded_at": "2026-09-24T19:11:38.275906+00:00"
       }
     },
     "26159": {
@@ -219539,6 +219521,12 @@
         "target_video_id": "29659112",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-24T03:08:45.191582+00:00"
+      },
+      "claim": {
+        "worker_id": "faf1d945298e459997525d819df6d301-shard-2",
+        "claimed_at": "2026-09-24T19:11:37.799593+00:00",
+        "lease_expires_at": "2026-09-25T01:11:37.799593+00:00",
+        "run_id": "36034190447"
       }
     },
     "29052": {
@@ -219695,6 +219683,12 @@
         "target_video_id": "29659158",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-24T03:14:02.272121+00:00"
+      },
+      "claim": {
+        "worker_id": "faf1d945298e459997525d819df6d301-shard-4",
+        "claimed_at": "2026-09-24T19:11:38.035472+00:00",
+        "lease_expires_at": "2026-09-25T01:11:38.035472+00:00",
+        "run_id": "36034190447"
       }
     },
     "19375": {
@@ -256327,5 +256321,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T19:11:35.011697+00:00"
+  "updated_at": "2026-09-24T19:11:38.275927+00:00"
 }
