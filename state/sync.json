@@ -214253,13 +214253,6 @@
           "permanent": false,
           "source_id": "33167625",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:08:10.045608+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33167625",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:12:28.831395+00:00"
         },
         {
@@ -214268,18 +214261,19 @@
           "source_id": "33167625",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:13:25.213212+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33167625",
+          "target_video_id": "29658406",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:18:19.596893+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33167625",
         "display_name": "Ohnivá liška (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:15:13.839628+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
-        "claimed_at": "2026-09-24T02:05:42.111593+00:00",
-        "lease_expires_at": "2026-09-24T08:05:42.111593+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29658406",
       "prepared": {
@@ -214727,6 +214721,12 @@
         "source_id": "34735597",
         "display_name": "The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky",
         "planned_at": "2026-09-24T01:15:16.945852+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T02:18:18.008460+00:00",
+        "lease_expires_at": "2026-09-24T08:18:18.008460+00:00",
+        "run_id": "35933220877"
       }
     },
     "15188": {
@@ -251749,5 +251749,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:18:15.708502+00:00"
+  "updated_at": "2026-09-24T02:18:19.596911+00:00"
 }
