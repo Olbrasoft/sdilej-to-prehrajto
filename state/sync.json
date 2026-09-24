@@ -212394,13 +212394,6 @@
           "permanent": false,
           "source_id": "33792464",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:41:55.884204+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33792464",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:43:34.915545+00:00"
         },
         {
@@ -212409,6 +212402,13 @@
           "source_id": "33792464",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:16.674942+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33792464",
+          "target_video_id": "29657143",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:14:55.410014+00:00"
         }
       ],
       "last_plan": {
@@ -212419,7 +212419,7 @@
       "previous_target_id": "29657143",
       "prepared": {
         "target_video_id": "29657143",
-        "size_bytes": 2475269580,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-24T00:42:17.327082+00:00"
       }
     },
@@ -212503,6 +212503,12 @@
         "source_id": "19395386",
         "display_name": "Post Mortem (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-24T01:13:55.125616+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T01:14:53.306725+00:00",
+        "lease_expires_at": "2026-09-24T07:14:53.306725+00:00",
+        "run_id": "35933220877"
       }
     },
     "6940": {
@@ -212593,6 +212599,12 @@
         "target_video_id": "29657185",
         "size_bytes": 1879208839,
         "prepared_at": "2026-09-24T00:45:13.645557+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
+        "claimed_at": "2026-09-24T01:14:53.712228+00:00",
+        "lease_expires_at": "2026-09-24T07:14:53.712228+00:00",
+        "run_id": "35933220877"
       }
     },
     "24661": {
@@ -251443,5 +251455,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:14:50.938356+00:00"
+  "updated_at": "2026-09-24T01:14:55.410033+00:00"
 }
