@@ -210861,13 +210861,6 @@
           "source_id": "21985656",
           "target_video_id": "29650091",
           "permanent": false,
-          "attempted_at": "2026-09-24T02:44:10.034713+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21985656",
-          "target_video_id": "29650091",
-          "permanent": false,
           "attempted_at": "2026-09-24T04:24:08.746238+00:00"
         },
         {
@@ -210876,6 +210869,14 @@
           "target_video_id": "29650091",
           "permanent": false,
           "attempted_at": "2026-09-24T08:30:00.665124+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "21985656",
+          "target_video_id": "29650091",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:04:49.265251+00:00"
         }
       ],
       "last_plan": {
@@ -210883,18 +210884,7 @@
         "display_name": "Ve vztahu (2018) 1080p SK Dabing",
         "planned_at": "2026-09-24T19:03:33.257271+00:00"
       },
-      "previous_target_id": "29650091",
-      "prepared": {
-        "target_video_id": "29650091",
-        "size_bytes": 3800000000,
-        "prepared_at": "2026-09-23T17:17:26.962183+00:00"
-      },
-      "claim": {
-        "worker_id": "6fc734a3de2c4446aefa31ebf38a14bd-shard-4",
-        "claimed_at": "2026-09-24T19:04:42.722435+00:00",
-        "lease_expires_at": "2026-09-25T01:04:42.722435+00:00",
-        "run_id": "36034190447"
-      }
+      "previous_target_id": "29650091"
     },
     "12196": {
       "attempts": []
@@ -210909,13 +210899,6 @@
           "source_id": "21190079",
           "target_video_id": "29650093",
           "permanent": false,
-          "attempted_at": "2026-09-24T02:44:09.740059+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21190079",
-          "target_video_id": "29650093",
-          "permanent": false,
           "attempted_at": "2026-09-24T04:24:08.427165+00:00"
         },
         {
@@ -210924,6 +210907,13 @@
           "target_video_id": "29650093",
           "permanent": false,
           "attempted_at": "2026-09-24T08:30:07.941428+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21190079",
+          "target_video_id": "29650093",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:04:48.761676+00:00"
         }
       ],
       "last_plan": {
@@ -210936,12 +210926,6 @@
         "target_video_id": "29650093",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-23T17:17:31.619590+00:00"
-      },
-      "claim": {
-        "worker_id": "6fc734a3de2c4446aefa31ebf38a14bd-shard-0",
-        "claimed_at": "2026-09-24T19:04:45.764336+00:00",
-        "lease_expires_at": "2026-09-25T01:04:45.764336+00:00",
-        "run_id": "36034190447"
       }
     },
     "33087": {
@@ -210978,6 +210962,12 @@
         "target_video_id": "29650106",
         "size_bytes": 2700000000,
         "prepared_at": "2026-09-23T17:18:07.039003+00:00"
+      },
+      "claim": {
+        "worker_id": "6fc734a3de2c4446aefa31ebf38a14bd-shard-2",
+        "claimed_at": "2026-09-24T19:04:48.479321+00:00",
+        "lease_expires_at": "2026-09-25T01:04:48.479321+00:00",
+        "run_id": "36034190447"
       }
     },
     "6302": {
@@ -211039,6 +211029,12 @@
         "target_video_id": "29650161",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-23T17:22:00.723912+00:00"
+      },
+      "claim": {
+        "worker_id": "6fc734a3de2c4446aefa31ebf38a14bd-shard-1",
+        "claimed_at": "2026-09-24T19:04:49.013134+00:00",
+        "lease_expires_at": "2026-09-25T01:04:49.013134+00:00",
+        "run_id": "36034190447"
       }
     },
     "18652": {
@@ -256573,5 +256569,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T19:04:46.020228+00:00"
+  "updated_at": "2026-09-24T19:04:49.265273+00:00"
 }
