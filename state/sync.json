@@ -214913,13 +214913,6 @@
           "permanent": false,
           "source_id": "34129162",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:08:19.990999+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34129162",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:13:08.782875+00:00"
         },
         {
@@ -214928,6 +214921,14 @@
           "source_id": "34129162",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:14:51.570445+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "34129162",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29658549",
+          "attempted_at": "2026-09-24T02:29:53.045649+00:00"
         }
       ],
       "last_plan": {
@@ -214935,18 +214936,7 @@
         "display_name": "Voyeur (1994) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:15:17.229205+00:00"
       },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
-        "claimed_at": "2026-09-24T02:18:23.951834+00:00",
-        "lease_expires_at": "2026-09-24T08:18:23.951834+00:00",
-        "run_id": "35933220877"
-      },
-      "previous_target_id": "29658549",
-      "prepared": {
-        "target_video_id": "29658549",
-        "size_bytes": 2382132363,
-        "prepared_at": "2026-09-24T02:18:28.045187+00:00"
-      }
+      "previous_target_id": "29658549"
     },
     "6955": {
       "attempts": []
@@ -251935,5 +251925,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:26:24.327587+00:00"
+  "updated_at": "2026-09-24T02:29:53.045669+00:00"
 }
