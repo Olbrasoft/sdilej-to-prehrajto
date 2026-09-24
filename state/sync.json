@@ -213907,17 +213907,16 @@
         "target_video_id": "29658081",
         "size_bytes": 2607789224,
         "prepared_at": "2026-09-24T01:46:33.564199+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
+        "claimed_at": "2026-09-24T02:47:18.663361+00:00",
+        "lease_expires_at": "2026-09-24T08:47:18.663361+00:00",
+        "run_id": "35933220877"
       }
     },
     "11754": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33669517",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:49:31.454262+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -213931,6 +213930,13 @@
           "target_video_id": "29658094",
           "permanent": false,
           "attempted_at": "2026-09-24T01:53:08.318874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33669517",
+          "target_video_id": "29658094",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:47:19.459542+00:00"
         }
       ],
       "last_plan": {
@@ -213941,14 +213947,8 @@
       "previous_target_id": "29658094",
       "prepared": {
         "target_video_id": "29658094",
-        "size_bytes": 2342901434,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-24T01:47:23.899215+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
-        "claimed_at": "2026-09-24T02:47:15.662908+00:00",
-        "lease_expires_at": "2026-09-24T08:47:15.662908+00:00",
-        "run_id": "35933220877"
       }
     },
     "28835": {
@@ -213978,22 +213978,10 @@
           "attempted_at": "2026-09-24T01:54:24.070133+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24268723",
-        "display_name": "Nebezpečná lekce (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T02:46:33.761680+00:00"
-      },
       "previous_target_id": "29658109",
-      "prepared": {
+      "upload": {
         "target_video_id": "29658109",
-        "size_bytes": 2101481846,
-        "prepared_at": "2026-09-24T01:48:49.800533+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T02:47:15.945241+00:00",
-        "lease_expires_at": "2026-09-24T08:47:15.945241+00:00",
-        "run_id": "35933220877"
+        "uploaded_at": "2026-09-24T02:47:19.738997+00:00"
       }
     },
     "33605": {
@@ -214030,6 +214018,12 @@
         "target_video_id": "29658136",
         "size_bytes": 2870765820,
         "prepared_at": "2026-09-24T01:50:45.989847+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
+        "claimed_at": "2026-09-24T02:47:18.924113+00:00",
+        "lease_expires_at": "2026-09-24T08:47:18.924113+00:00",
+        "run_id": "35933220877"
       }
     },
     "29035": {
@@ -214093,6 +214087,12 @@
         "target_video_id": "29658174",
         "size_bytes": 1899093620,
         "prepared_at": "2026-09-24T01:53:14.315112+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T02:47:19.179120+00:00",
+        "lease_expires_at": "2026-09-24T08:47:19.179120+00:00",
+        "run_id": "35933220877"
       }
     },
     "6793": {
@@ -251885,5 +251885,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:47:16.491304+00:00"
+  "updated_at": "2026-09-24T02:47:19.739025+00:00"
 }
