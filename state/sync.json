@@ -212723,33 +212723,14 @@
           "attempted_at": "2026-09-24T00:45:07.924114+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29775946",
-        "display_name": "Cyborg Soldier (2008) SD CZ Dabing",
-        "planned_at": "2026-09-24T02:46:26.162309+00:00"
-      },
       "previous_target_id": "29657161",
-      "prepared": {
+      "upload": {
         "target_video_id": "29657161",
-        "size_bytes": 1008716570,
-        "prepared_at": "2026-09-24T00:43:10.490194+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
-        "claimed_at": "2026-09-24T02:46:39.291440+00:00",
-        "lease_expires_at": "2026-09-24T08:46:39.291440+00:00",
-        "run_id": "35933220877"
+        "uploaded_at": "2026-09-24T02:46:47.325628+00:00"
       }
     },
     "24916": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28796831",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:32.887002+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -212763,6 +212744,13 @@
           "target_video_id": "29657185",
           "permanent": false,
           "attempted_at": "2026-09-24T01:14:57.755885+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28796831",
+          "target_video_id": "29657185",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:46.276599+00:00"
         }
       ],
       "last_plan": {
@@ -212775,12 +212763,6 @@
         "target_video_id": "29657185",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-24T00:45:13.645557+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
-        "claimed_at": "2026-09-24T02:46:40.103967+00:00",
-        "lease_expires_at": "2026-09-24T08:46:40.103967+00:00",
-        "run_id": "35933220877"
       }
     },
     "24661": {
@@ -212788,13 +212770,6 @@
     },
     "6593": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30884788",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:33.564224+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -212808,6 +212783,13 @@
           "target_video_id": "29657662",
           "permanent": false,
           "attempted_at": "2026-09-24T02:05:21.681756+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30884788",
+          "target_video_id": "29657662",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:45.766027+00:00"
         }
       ],
       "last_plan": {
@@ -212818,25 +212800,12 @@
       "previous_target_id": "29657662",
       "prepared": {
         "target_video_id": "29657662",
-        "size_bytes": 14109239665,
+        "size_bytes": 14100000000,
         "prepared_at": "2026-09-24T01:15:21.157249+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T02:46:39.541573+00:00",
-        "lease_expires_at": "2026-09-24T08:46:39.541573+00:00",
-        "run_id": "35933220877"
       }
     },
     "7151": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30696929",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:34.054200+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -212850,6 +212819,13 @@
           "target_video_id": "29657665",
           "permanent": false,
           "attempted_at": "2026-09-24T01:22:40.285108+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30696929",
+          "target_video_id": "29657665",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:46.019860+00:00"
         }
       ],
       "last_plan": {
@@ -212860,14 +212836,8 @@
       "previous_target_id": "29657665",
       "prepared": {
         "target_video_id": "29657665",
-        "size_bytes": 2544015950,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-24T01:15:25.489806+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
-        "claimed_at": "2026-09-24T02:46:39.822520+00:00",
-        "lease_expires_at": "2026-09-24T08:46:39.822520+00:00",
-        "run_id": "35933220877"
       }
     },
     "9635": {
@@ -212904,6 +212874,12 @@
         "target_video_id": "29657664",
         "size_bytes": 2073288251,
         "prepared_at": "2026-09-24T01:15:23.312199+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
+        "claimed_at": "2026-09-24T02:46:46.528112+00:00",
+        "lease_expires_at": "2026-09-24T08:46:46.528112+00:00",
+        "run_id": "35933220877"
       }
     },
     "29370": {
@@ -212981,6 +212957,12 @@
         "target_video_id": "29657693",
         "size_bytes": 2842316606,
         "prepared_at": "2026-09-24T01:16:52.830462+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
+        "claimed_at": "2026-09-24T02:46:46.795117+00:00",
+        "lease_expires_at": "2026-09-24T08:46:46.795117+00:00",
+        "run_id": "35933220877"
       }
     },
     "12248": {
@@ -213059,6 +213041,12 @@
         "target_video_id": "29657785",
         "size_bytes": 734052352,
         "prepared_at": "2026-09-24T01:22:47.782441+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
+        "claimed_at": "2026-09-24T02:46:47.046852+00:00",
+        "lease_expires_at": "2026-09-24T08:46:47.046852+00:00",
+        "run_id": "35933220877"
       }
     },
     "11903": {
@@ -251939,5 +251927,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:46:40.413983+00:00"
+  "updated_at": "2026-09-24T02:46:47.325648+00:00"
 }
