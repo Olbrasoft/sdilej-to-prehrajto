@@ -219326,13 +219326,6 @@
           "source_id": "33106173",
           "target_video_id": "29659054",
           "permanent": false,
-          "attempted_at": "2026-09-24T03:07:55.549570+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33106173",
-          "target_video_id": "29659054",
-          "permanent": false,
           "attempted_at": "2026-09-24T04:28:03.551358+00:00"
         },
         {
@@ -219341,6 +219334,13 @@
           "target_video_id": "29659054",
           "permanent": false,
           "attempted_at": "2026-09-24T08:34:34.471045+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33106173",
+          "target_video_id": "29659054",
+          "permanent": false,
+          "attempted_at": "2026-09-24T19:11:34.773565+00:00"
         }
       ],
       "last_plan": {
@@ -219353,12 +219353,6 @@
         "target_video_id": "29659054",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-24T03:02:27.415310+00:00"
-      },
-      "claim": {
-        "worker_id": "faf1d945298e459997525d819df6d301-shard-4",
-        "claimed_at": "2026-09-24T19:11:25.738556+00:00",
-        "lease_expires_at": "2026-09-25T01:11:25.738556+00:00",
-        "run_id": "36034190447"
       }
     },
     "28986": {
@@ -219418,22 +219412,10 @@
           "attempted_at": "2026-09-24T08:34:33.900690+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34670207",
-        "display_name": "Princ v teniskách (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T19:10:50.861598+00:00"
-      },
       "previous_target_id": "29659076",
-      "prepared": {
+      "upload": {
         "target_video_id": "29659076",
-        "size_bytes": 3300000000,
-        "prepared_at": "2026-09-24T03:04:52.307129+00:00"
-      },
-      "claim": {
-        "worker_id": "faf1d945298e459997525d819df6d301-shard-5",
-        "claimed_at": "2026-09-24T19:11:26.328277+00:00",
-        "lease_expires_at": "2026-09-25T01:11:26.328277+00:00",
-        "run_id": "36034190447"
+        "uploaded_at": "2026-09-24T19:11:35.011675+00:00"
       }
     },
     "16294": {
@@ -219515,6 +219497,12 @@
         "target_video_id": "29659107",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-24T03:08:19.679205+00:00"
+      },
+      "claim": {
+        "worker_id": "faf1d945298e459997525d819df6d301-shard-1",
+        "claimed_at": "2026-09-24T19:11:34.535482+00:00",
+        "lease_expires_at": "2026-09-25T01:11:34.535482+00:00",
+        "run_id": "36034190447"
       }
     },
     "26159": {
@@ -256339,5 +256327,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T19:11:27.061200+00:00"
+  "updated_at": "2026-09-24T19:11:35.011697+00:00"
 }
