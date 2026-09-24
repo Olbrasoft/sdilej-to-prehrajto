@@ -211571,13 +211571,6 @@
           "permanent": false,
           "source_id": "25883729",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:41:52.597361+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25883729",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:43:25.360042+00:00"
         },
         {
@@ -211586,18 +211579,19 @@
           "source_id": "25883729",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:10.306314+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25883729",
+          "target_video_id": "29657049",
+          "permanent": false,
+          "attempted_at": "2026-09-24T00:42:14.734103+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25883729",
         "display_name": "Ženy v balíku (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-24T00:33:23.229569+00:00"
-      },
-      "claim": {
-        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-3",
-        "claimed_at": "2026-09-24T00:33:59.705847+00:00",
-        "lease_expires_at": "2026-09-24T06:33:59.705847+00:00",
-        "run_id": "35903170689"
       },
       "previous_target_id": "29657049",
       "prepared": {
@@ -212060,6 +212054,12 @@
         "source_id": "33792464",
         "display_name": "Proměna (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-24T00:33:26.418738+00:00"
+      },
+      "claim": {
+        "worker_id": "ce9a88f072c1436c8cb8853713b3eea6-shard-0",
+        "claimed_at": "2026-09-24T00:42:13.219394+00:00",
+        "lease_expires_at": "2026-09-24T06:42:13.219394+00:00",
+        "run_id": "35903170689"
       }
     },
     "31684": {
@@ -251070,5 +251070,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T00:42:06.820178+00:00"
+  "updated_at": "2026-09-24T00:42:14.734120+00:00"
 }
