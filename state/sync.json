@@ -216258,13 +216258,6 @@
           "permanent": false,
           "source_id": "31752585",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:15.456669+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31752585",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:15:14.539976+00:00"
         },
         {
@@ -216273,6 +216266,13 @@
           "target_video_id": "29659207",
           "permanent": false,
           "attempted_at": "2026-09-24T03:31:10.586265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31752585",
+          "target_video_id": "29659207",
+          "permanent": false,
+          "attempted_at": "2026-09-24T04:28:30.320424+00:00"
         }
       ],
       "last_plan": {
@@ -216283,7 +216283,7 @@
       "previous_target_id": "29659207",
       "prepared": {
         "target_video_id": "29659207",
-        "size_bytes": 4148150459,
+        "size_bytes": 4099999999,
         "prepared_at": "2026-09-24T03:18:31.836637+00:00"
       }
     },
@@ -216309,13 +216309,6 @@
           "permanent": false,
           "source_id": "30630409",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:17.138716+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30630409",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:15:15.736770+00:00"
         },
         {
@@ -216324,6 +216317,13 @@
           "target_video_id": "29659226",
           "permanent": false,
           "attempted_at": "2026-09-24T03:41:24.809997+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30630409",
+          "target_video_id": "29659226",
+          "permanent": false,
+          "attempted_at": "2026-09-24T04:28:31.770815+00:00"
         }
       ],
       "last_plan": {
@@ -216334,19 +216334,12 @@
       "previous_target_id": "29659226",
       "prepared": {
         "target_video_id": "29659226",
-        "size_bytes": 6616256465,
+        "size_bytes": 6600000000,
         "prepared_at": "2026-09-24T03:21:01.015325+00:00"
       }
     },
     "12416": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31356160",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:15.267654+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -216360,6 +216353,13 @@
           "target_video_id": "29659262",
           "permanent": false,
           "attempted_at": "2026-09-24T03:29:29.966000+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31356160",
+          "target_video_id": "29659262",
+          "permanent": false,
+          "attempted_at": "2026-09-24T04:28:33.447024+00:00"
         }
       ],
       "last_plan": {
@@ -216370,7 +216370,7 @@
       "previous_target_id": "29659262",
       "prepared": {
         "target_video_id": "29659262",
-        "size_bytes": 919847470,
+        "size_bytes": 919800000,
         "prepared_at": "2026-09-24T03:26:20.466095+00:00"
       }
     },
@@ -216390,13 +216390,6 @@
           "permanent": false,
           "source_id": "34852206",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:15.912770+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34852206",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:15:17.882410+00:00"
         },
         {
@@ -216405,6 +216398,13 @@
           "target_video_id": "29659265",
           "permanent": false,
           "attempted_at": "2026-09-24T03:56:40.136017+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34852206",
+          "target_video_id": "29659265",
+          "permanent": false,
+          "attempted_at": "2026-09-24T04:28:35.251719+00:00"
         }
       ],
       "last_plan": {
@@ -216415,7 +216415,7 @@
       "previous_target_id": "29659265",
       "prepared": {
         "target_video_id": "29659265",
-        "size_bytes": 10070009109,
+        "size_bytes": 10100000000,
         "prepared_at": "2026-09-24T03:26:47.761471+00:00"
       }
     },
@@ -216469,6 +216469,18 @@
         "source_id": "34689150",
         "display_name": "The Search for Santa Paws (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-24T04:27:19.099403+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-1",
+        "claimed_at": "2026-09-24T04:28:35.509948+00:00",
+        "lease_expires_at": "2026-09-24T10:28:35.509948+00:00",
+        "run_id": "35933220877"
+      },
+      "previous_target_id": "29659879",
+      "prepared": {
+        "target_video_id": "29659879",
+        "size_bytes": 2657535181,
+        "prepared_at": "2026-09-24T04:28:39.385641+00:00"
       }
     },
     "34333": {
@@ -252554,5 +252566,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T04:28:26.931897+00:00"
+  "updated_at": "2026-09-24T04:28:39.385658+00:00"
 }
