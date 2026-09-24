@@ -216694,13 +216694,6 @@
           "permanent": false,
           "source_id": "13446365",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:08:40.689001+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13446365",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:13:18.652447+00:00"
         },
         {
@@ -216709,18 +216702,19 @@
           "source_id": "13446365",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:16:58.626316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13446365",
+          "target_video_id": "29660302",
+          "permanent": false,
+          "attempted_at": "2026-09-24T05:05:15.427928+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13446365",
         "display_name": "P2 (2007) SD CZ Dabing",
         "planned_at": "2026-09-24T04:27:20.637144+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-1",
-        "claimed_at": "2026-09-24T05:00:48.223073+00:00",
-        "lease_expires_at": "2026-09-24T11:00:48.223073+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29660302",
       "prepared": {
@@ -252602,5 +252596,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T05:00:51.790804+00:00"
+  "updated_at": "2026-09-24T05:05:15.427947+00:00"
 }
