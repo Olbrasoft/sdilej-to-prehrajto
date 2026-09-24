@@ -109657,13 +109657,6 @@
     "15780": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34832451",
-          "reason": "Request failed for https://sdilej.cz/34832451/laska.na.zakazku.webrip.cz.2024.1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-24T17:03:54.425585+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34832451",
           "target_video_id": "29675268",
@@ -109676,6 +109669,13 @@
           "target_video_id": "29675268",
           "permanent": false,
           "attempted_at": "2026-09-24T18:46:00.954218+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34832451",
+          "target_video_id": "29675268",
+          "permanent": false,
+          "attempted_at": "2026-09-24T21:47:25.251986+00:00"
         }
       ],
       "last_plan": {
@@ -109688,12 +109688,6 @@
         "target_video_id": "29675268",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-24T17:45:05.199914+00:00"
-      },
-      "claim": {
-        "worker_id": "add983583c2b45648bef571e6b6a90d8-shard-5",
-        "claimed_at": "2026-09-24T21:47:22.090127+00:00",
-        "lease_expires_at": "2026-09-25T03:47:22.090127+00:00",
-        "run_id": "36034190447"
       }
     },
     "32928": {
@@ -109701,13 +109695,6 @@
     },
     "30358": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "11996612",
-          "target_video_id": "29610002",
-          "permanent": false,
-          "attempted_at": "2026-09-24T17:03:58.842927+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "11996612",
@@ -109721,6 +109708,13 @@
           "target_video_id": "29610002",
           "permanent": false,
           "attempted_at": "2026-09-24T18:46:02.649764+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11996612",
+          "target_video_id": "29610002",
+          "permanent": false,
+          "attempted_at": "2026-09-24T21:47:27.229913+00:00"
         }
       ],
       "last_plan": {
@@ -109759,16 +109753,10 @@
           "attempted_at": "2026-09-24T18:46:04.533156+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35108866",
-        "display_name": "Já a já (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T21:46:35.676520+00:00"
-      },
       "previous_target_id": "29674319",
-      "prepared": {
+      "upload": {
         "target_video_id": "29674319",
-        "size_bytes": 3100000000,
-        "prepared_at": "2026-09-24T17:04:01.291130+00:00"
+        "uploaded_at": "2026-09-24T21:47:27.534984+00:00"
       }
     },
     "32834": {
@@ -256673,5 +256661,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T21:47:22.789759+00:00"
+  "updated_at": "2026-09-24T21:47:27.535002+00:00"
 }
