@@ -71437,13 +71437,6 @@
           "source_id": "34151190",
           "target_video_id": "29657300",
           "permanent": false,
-          "attempted_at": "2026-09-24T06:44:50.267911+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34151190",
-          "target_video_id": "29657300",
-          "permanent": false,
           "attempted_at": "2026-09-24T07:37:37.726675+00:00"
         },
         {
@@ -71452,6 +71445,13 @@
           "target_video_id": "29657300",
           "permanent": false,
           "attempted_at": "2026-09-24T08:13:35.125853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34151190",
+          "target_video_id": "29657300",
+          "permanent": false,
+          "attempted_at": "2026-09-24T12:29:17.534823+00:00"
         }
       ],
       "last_plan": {
@@ -71467,7 +71467,15 @@
       }
     },
     "12669": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33698140",
+          "reason": "Request failed for https://sdilej.cz/33698140/zitra-to-roztocime-drahousku-1976-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-24T12:30:03.666110+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33698140",
         "display_name": "Zítra to roztočíme, drahoušku...! (1976) 1080p CZ Dabing",
@@ -253934,5 +253942,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T12:29:07.413138+00:00"
+  "updated_at": "2026-09-24T12:30:03.666130+00:00"
 }
