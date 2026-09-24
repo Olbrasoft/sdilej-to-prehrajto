@@ -75217,6 +75217,13 @@
           "target_video_id": "29657318",
           "permanent": false,
           "attempted_at": "2026-09-24T00:57:59.758642+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34773494",
+          "target_video_id": "29657318",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:25:18.082708+00:00"
         }
       ],
       "last_plan": {
@@ -75227,7 +75234,7 @@
       "previous_target_id": "29657318",
       "prepared": {
         "target_video_id": "29657318",
-        "size_bytes": 1482978691,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-24T00:53:26.749824+00:00"
       }
     },
@@ -75373,6 +75380,13 @@
           "target_video_id": "29657320",
           "permanent": false,
           "attempted_at": "2026-09-24T00:58:50.148895+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34758300",
+          "target_video_id": "29657320",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:25:16.631926+00:00"
         }
       ],
       "last_plan": {
@@ -75383,14 +75397,8 @@
       "previous_target_id": "29657320",
       "prepared": {
         "target_video_id": "29657320",
-        "size_bytes": 2296303769,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-24T00:53:31.512659+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
-        "claimed_at": "2026-09-24T02:25:14.015204+00:00",
-        "lease_expires_at": "2026-09-24T08:25:14.015204+00:00",
-        "run_id": "35933220877"
       }
     },
     "24142": {
@@ -75498,7 +75506,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-11T15:10:38.375293+00:00"
       },
-      "previous_target_id": "29302498"
+      "previous_target_id": "29302498",
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
+        "claimed_at": "2026-09-24T02:25:17.473186+00:00",
+        "lease_expires_at": "2026-09-24T08:25:17.473186+00:00",
+        "run_id": "35933220877"
+      }
     },
     "30334": {
       "attempts": []
@@ -75553,16 +75567,10 @@
           "attempted_at": "2026-09-24T01:02:36.527665+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30219473",
-        "display_name": "Hra bez pravidel (1967) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T02:24:43.827404+00:00"
-      },
       "previous_target_id": "29657351",
-      "prepared": {
+      "upload": {
         "target_video_id": "29657351",
-        "size_bytes": 2793890480,
-        "prepared_at": "2026-09-24T00:56:24.529269+00:00"
+        "uploaded_at": "2026-09-24T02:25:18.755616+00:00"
       }
     },
     "24470": {
@@ -75733,7 +75741,13 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-11T15:13:01.967368+00:00"
       },
-      "previous_target_id": "29302597"
+      "previous_target_id": "29302597",
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
+        "claimed_at": "2026-09-24T02:25:17.185653+00:00",
+        "lease_expires_at": "2026-09-24T08:25:17.185653+00:00",
+        "run_id": "35933220877"
+      }
     },
     "13053": {
       "attempts": []
@@ -75810,7 +75824,13 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-11T15:15:46.282837+00:00"
       },
-      "previous_target_id": "29302707"
+      "previous_target_id": "29302707",
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T02:25:18.426749+00:00",
+        "lease_expires_at": "2026-09-24T08:25:18.426749+00:00",
+        "run_id": "35933220877"
+      }
     },
     "30378": {
       "attempts": []
@@ -251834,5 +251854,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:25:14.281250+00:00"
+  "updated_at": "2026-09-24T02:25:18.755646+00:00"
 }
