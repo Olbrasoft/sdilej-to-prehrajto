@@ -117520,17 +117520,19 @@
       "attempts": []
     },
     "25730": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34708426",
+          "reason": "Request failed for https://sdilej.cz/34708426/stastna-nehoda-2005-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-24T17:24:30.146020+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34708426",
         "display_name": "Šťastná nehoda (2005) SD CZ Dabing",
         "planned_at": "2026-09-24T17:20:21.044055+00:00"
-      },
-      "claim": {
-        "worker_id": "3543c7e0b0584536b76c6dcca583909e-shard-0",
-        "claimed_at": "2026-09-24T17:23:44.237453+00:00",
-        "lease_expires_at": "2026-09-24T23:23:44.237453+00:00",
-        "run_id": "35993022616"
       }
     },
     "3660": {
@@ -117602,6 +117604,12 @@
         "source_id": "32150899",
         "display_name": "Muzzikanti (2017) SD CZ Dabing",
         "planned_at": "2026-09-24T17:20:21.358479+00:00"
+      },
+      "claim": {
+        "worker_id": "3543c7e0b0584536b76c6dcca583909e-shard-5",
+        "claimed_at": "2026-09-24T17:23:53.890153+00:00",
+        "lease_expires_at": "2026-09-24T23:23:53.890153+00:00",
+        "run_id": "35993022616"
       }
     },
     "25946": {
@@ -255465,5 +255473,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T17:23:51.506127+00:00"
+  "updated_at": "2026-09-24T17:24:30.146038+00:00"
 }
