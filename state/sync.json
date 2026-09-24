@@ -215749,13 +215749,6 @@
           "permanent": false,
           "source_id": "31752585",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:08:37.851875+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31752585",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:13:15.456669+00:00"
         },
         {
@@ -215764,18 +215757,19 @@
           "source_id": "31752585",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:15:14.539976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31752585",
+          "target_video_id": "29659207",
+          "permanent": false,
+          "attempted_at": "2026-09-24T03:31:10.586265+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31752585",
         "display_name": "High School (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-24T03:01:41.913121+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-5",
-        "claimed_at": "2026-09-24T03:18:28.051778+00:00",
-        "lease_expires_at": "2026-09-24T09:18:28.051778+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29659207",
       "prepared": {
@@ -252063,5 +252057,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T03:31:04.984188+00:00"
+  "updated_at": "2026-09-24T03:31:10.586283+00:00"
 }
