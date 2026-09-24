@@ -213123,13 +213123,6 @@
           "permanent": false,
           "source_id": "34399095",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T00:42:03.086103+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34399095",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T06:44:33.857291+00:00"
         },
         {
@@ -213138,18 +213131,19 @@
           "source_id": "34399095",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:45:02.402478+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34399095",
+          "target_video_id": "29657857",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:33:50.440578+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34399095",
         "display_name": "Joe Baby (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:15:06.655228+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-1",
-        "claimed_at": "2026-09-24T01:28:24.688377+00:00",
-        "lease_expires_at": "2026-09-24T07:28:24.688377+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29657857",
       "prepared": {
@@ -251563,5 +251557,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:32:31.242536+00:00"
+  "updated_at": "2026-09-24T01:33:50.440598+00:00"
 }
