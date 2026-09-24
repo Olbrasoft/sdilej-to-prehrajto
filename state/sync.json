@@ -212135,13 +212135,6 @@
           "permanent": false,
           "source_id": "33724772",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:28.813637+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33724772",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:13.688971+00:00"
         },
         {
@@ -212150,18 +212143,19 @@
           "reason": "Request failed for https://sdilej.cz/33724772/kudrnata-holka-1991-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-24T00:38:01.839187+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33724772",
+          "target_video_id": "29657651",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:22:45.578674+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33724772",
         "display_name": "Kudrnatá holka (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-24T01:13:53.289333+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-2",
-        "claimed_at": "2026-09-24T01:14:35.485251+00:00",
-        "lease_expires_at": "2026-09-24T07:14:35.485251+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29657651",
       "prepared": {
@@ -212871,6 +212865,12 @@
         "source_id": "34339185",
         "display_name": "Skřítkové a trollové: Tajemná komnata (2008) SD CZ Dabing",
         "planned_at": "2026-09-24T01:15:04.605729+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
+        "claimed_at": "2026-09-24T01:22:42.546885+00:00",
+        "lease_expires_at": "2026-09-24T07:22:42.546885+00:00",
+        "run_id": "35933220877"
       }
     },
     "11903": {
@@ -251491,5 +251491,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:22:40.285126+00:00"
+  "updated_at": "2026-09-24T01:22:45.578694+00:00"
 }
