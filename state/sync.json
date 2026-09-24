@@ -217956,13 +217956,6 @@
           "permanent": false,
           "source_id": "34668356",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:20.369427+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34668356",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:17:02.692819+00:00"
         },
         {
@@ -217971,6 +217964,13 @@
           "target_video_id": "29660670",
           "permanent": false,
           "attempted_at": "2026-09-24T05:37:32.851220+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668356",
+          "target_video_id": "29660670",
+          "permanent": false,
+          "attempted_at": "2026-09-24T08:35:35.622678+00:00"
         }
       ],
       "last_plan": {
@@ -217981,19 +217981,12 @@
       "previous_target_id": "29660670",
       "prepared": {
         "target_video_id": "29660670",
-        "size_bytes": 2450765631,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-24T05:31:45.755257+00:00"
       }
     },
     "6659": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13312780",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:20.687597+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -218007,6 +218000,13 @@
           "target_video_id": "29660738",
           "permanent": false,
           "attempted_at": "2026-09-24T05:42:29.465392+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13312780",
+          "target_video_id": "29660738",
+          "permanent": false,
+          "attempted_at": "2026-09-24T08:35:37.241236+00:00"
         }
       ],
       "last_plan": {
@@ -218017,19 +218017,12 @@
       "previous_target_id": "29660738",
       "prepared": {
         "target_video_id": "29660738",
-        "size_bytes": 2099306067,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-24T05:37:52.299247+00:00"
       }
     },
     "9067": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22583006",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:13:20.081923+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -218043,6 +218036,13 @@
           "target_video_id": "29660796",
           "permanent": false,
           "attempted_at": "2026-09-24T05:47:37.727694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22583006",
+          "target_video_id": "29660796",
+          "permanent": false,
+          "attempted_at": "2026-09-24T08:35:38.913388+00:00"
         }
       ],
       "last_plan": {
@@ -218053,7 +218053,7 @@
       "previous_target_id": "29660796",
       "prepared": {
         "target_video_id": "29660796",
-        "size_bytes": 1929119874,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-24T05:42:43.746657+00:00"
       }
     },
@@ -218097,6 +218097,18 @@
         "source_id": "34972127",
         "display_name": "Tvrdá hra 3: Juniorská liga (2008) 720p CZ Dabing",
         "planned_at": "2026-09-24T08:34:42.618106+00:00"
+      },
+      "claim": {
+        "worker_id": "956593e0559444dab8d3cb6025624b35-shard-1",
+        "claimed_at": "2026-09-24T08:35:39.163525+00:00",
+        "lease_expires_at": "2026-09-24T14:35:39.163525+00:00",
+        "run_id": "35960029627"
+      },
+      "previous_target_id": "29663864",
+      "prepared": {
+        "target_video_id": "29663864",
+        "size_bytes": 2393320316,
+        "prepared_at": "2026-09-24T08:35:43.437658+00:00"
       }
     },
     "15185": {
@@ -253653,5 +253665,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T08:35:28.867190+00:00"
+  "updated_at": "2026-09-24T08:35:43.437677+00:00"
 }
