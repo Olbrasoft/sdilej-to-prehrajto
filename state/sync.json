@@ -33913,13 +33913,6 @@
           "source_id": "13024929",
           "target_video_id": "29388044",
           "permanent": false,
-          "attempted_at": "2026-09-24T18:17:39.474593+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13024929",
-          "target_video_id": "29388044",
-          "permanent": false,
           "attempted_at": "2026-09-24T18:49:58.168608+00:00"
         },
         {
@@ -33928,6 +33921,13 @@
           "target_video_id": "29388044",
           "permanent": false,
           "attempted_at": "2026-09-24T21:19:53.017769+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13024929",
+          "target_video_id": "29388044",
+          "permanent": false,
+          "attempted_at": "2026-09-24T22:05:50.906969+00:00"
         }
       ],
       "last_plan": {
@@ -34599,13 +34599,6 @@
           "source_id": "31203013",
           "target_video_id": "29318760",
           "permanent": false,
-          "attempted_at": "2026-09-24T18:17:45.928336+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31203013",
-          "target_video_id": "29318760",
-          "permanent": false,
           "attempted_at": "2026-09-24T18:50:02.146510+00:00"
         },
         {
@@ -34614,6 +34607,13 @@
           "target_video_id": "29318760",
           "permanent": false,
           "attempted_at": "2026-09-24T21:19:55.321791+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31203013",
+          "target_video_id": "29318760",
+          "permanent": false,
+          "attempted_at": "2026-09-24T22:05:51.439901+00:00"
         }
       ],
       "last_plan": {
@@ -35317,7 +35317,13 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-09-13T15:37:54.387895+00:00"
       },
-      "previous_target_id": "29352239"
+      "previous_target_id": "29352239",
+      "claim": {
+        "worker_id": "add983583c2b45648bef571e6b6a90d8-shard-4",
+        "claimed_at": "2026-09-24T22:05:51.972822+00:00",
+        "lease_expires_at": "2026-09-25T04:05:51.972822+00:00",
+        "run_id": "36034190447"
+      }
     },
     "31733": {
       "attempts": [
@@ -36197,7 +36203,13 @@
         "size_bytes": 25600000000,
         "prepared_at": "2026-09-06T05:58:06.494624+00:00"
       },
-      "previous_target_id": "29153323"
+      "previous_target_id": "29153323",
+      "claim": {
+        "worker_id": "add983583c2b45648bef571e6b6a90d8-shard-5",
+        "claimed_at": "2026-09-24T22:05:51.700586+00:00",
+        "lease_expires_at": "2026-09-25T04:05:51.700586+00:00",
+        "run_id": "36034190447"
+      }
     },
     "29761": {
       "attempts": []
@@ -120135,17 +120147,19 @@
       "attempts": []
     },
     "13632": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23631561",
+          "target_video_id": "29680916",
+          "permanent": false,
+          "attempted_at": "2026-09-24T22:05:52.359263+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23631561",
         "display_name": "Fido (2006) SD CZ Dabing",
         "planned_at": "2026-09-24T21:50:01.611705+00:00"
-      },
-      "claim": {
-        "worker_id": "add983583c2b45648bef571e6b6a90d8-shard-2",
-        "claimed_at": "2026-09-24T22:03:05.749042+00:00",
-        "lease_expires_at": "2026-09-25T04:03:05.749042+00:00",
-        "run_id": "36034190447"
       },
       "previous_target_id": "29680916",
       "prepared": {
@@ -256955,5 +256969,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T22:05:42.674032+00:00"
+  "updated_at": "2026-09-24T22:05:52.359279+00:00"
 }
