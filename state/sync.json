@@ -212464,13 +212464,6 @@
           "permanent": false,
           "source_id": "19395386",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:43:31.808004+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "19395386",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T12:44:17.171029+00:00"
         },
         {
@@ -212479,18 +212472,19 @@
           "reason": "Request failed for https://sdilej.cz/19395386/post-mortem-2020-hun-audio-1080p-web-dl-h264-cz-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-24T00:43:04.385219+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19395386",
+          "target_video_id": "29657657",
+          "permanent": false,
+          "attempted_at": "2026-09-24T01:28:05.485224+00:00"
         }
       ],
       "last_plan": {
         "source_id": "19395386",
         "display_name": "Post Mortem (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-24T01:13:55.125616+00:00"
-      },
-      "claim": {
-        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
-        "claimed_at": "2026-09-24T01:14:53.306725+00:00",
-        "lease_expires_at": "2026-09-24T07:14:53.306725+00:00",
-        "run_id": "35933220877"
       },
       "previous_target_id": "29657657",
       "prepared": {
@@ -251533,5 +251527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T01:26:52.981763+00:00"
+  "updated_at": "2026-09-24T01:28:05.485244+00:00"
 }
