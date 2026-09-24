@@ -213208,16 +213208,10 @@
           "attempted_at": "2026-09-24T01:32:12.160619+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28519594",
-        "display_name": "Hurá do basy (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-24T02:46:29.294286+00:00"
-      },
       "previous_target_id": "29657833",
-      "prepared": {
+      "upload": {
         "target_video_id": "29657833",
-        "size_bytes": 1725516043,
-        "prepared_at": "2026-09-24T01:26:52.981745+00:00"
+        "uploaded_at": "2026-09-24T02:47:00.225731+00:00"
       }
     },
     "7493": {
@@ -213257,6 +213251,12 @@
         "target_video_id": "29657855",
         "size_bytes": 2995600008,
         "prepared_at": "2026-09-24T01:28:12.036426+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-3",
+        "claimed_at": "2026-09-24T02:46:59.235551+00:00",
+        "lease_expires_at": "2026-09-24T08:46:59.235551+00:00",
+        "run_id": "35933220877"
       }
     },
     "33254": {
@@ -213264,13 +213264,6 @@
     },
     "37291": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34399095",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T06:44:33.857291+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -213284,6 +213277,13 @@
           "target_video_id": "29657857",
           "permanent": false,
           "attempted_at": "2026-09-24T01:33:50.440578+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34399095",
+          "target_video_id": "29657857",
+          "permanent": false,
+          "attempted_at": "2026-09-24T02:46:59.912098+00:00"
         }
       ],
       "last_plan": {
@@ -213294,7 +213294,7 @@
       "previous_target_id": "29657857",
       "prepared": {
         "target_video_id": "29657857",
-        "size_bytes": 2114689545,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-24T01:28:28.015177+00:00"
       }
     },
@@ -213335,6 +213335,12 @@
         "target_video_id": "29657863",
         "size_bytes": 1376403962,
         "prepared_at": "2026-09-24T01:28:45.304680+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-4",
+        "claimed_at": "2026-09-24T02:46:59.532414+00:00",
+        "lease_expires_at": "2026-09-24T08:46:59.532414+00:00",
+        "run_id": "35933220877"
       }
     },
     "33714": {
@@ -213390,6 +213396,12 @@
         "target_video_id": "29657910",
         "size_bytes": 2389534409,
         "prepared_at": "2026-09-24T01:32:18.444052+00:00"
+      },
+      "claim": {
+        "worker_id": "4a84b9771dbd4940aa235730b35a19e9-shard-0",
+        "claimed_at": "2026-09-24T02:46:58.978276+00:00",
+        "lease_expires_at": "2026-09-24T08:46:58.978276+00:00",
+        "run_id": "35933220877"
       }
     },
     "27686": {
@@ -251891,5 +251903,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-24T02:46:56.400179+00:00"
+  "updated_at": "2026-09-24T02:47:00.225753+00:00"
 }
