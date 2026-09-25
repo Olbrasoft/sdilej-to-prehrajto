@@ -229849,13 +229849,6 @@
           "permanent": false,
           "source_id": "32146338",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:04:26.316597+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32146338",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:05:08.635722+00:00"
         },
         {
@@ -229864,18 +229857,19 @@
           "reason": "Request failed for https://sdilej.cz/32146338/bad-man-2025-eng1080p-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T07:39:39.045854+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32146338",
+          "target_video_id": "29704195",
+          "permanent": false,
+          "attempted_at": "2026-09-25T12:49:40.078964+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32146338",
         "display_name": "Bad Man (2025) 1080p CZ Titulky",
         "planned_at": "2026-09-25T12:30:24.947641+00:00"
-      },
-      "claim": {
-        "worker_id": "c90dbc5c5cd8489da116cd6352cc46ac-shard-2",
-        "claimed_at": "2026-09-25T12:44:24.174686+00:00",
-        "lease_expires_at": "2026-09-25T18:44:24.174686+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29704195",
       "prepared": {
@@ -260744,5 +260738,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T12:44:27.840656+00:00"
+  "updated_at": "2026-09-25T12:49:40.078988+00:00"
 }
