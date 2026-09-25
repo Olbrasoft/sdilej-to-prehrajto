@@ -80236,13 +80236,6 @@
           "source_id": "34402390",
           "target_video_id": "29657411",
           "permanent": false,
-          "attempted_at": "2026-09-25T05:27:57.722491+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34402390",
-          "target_video_id": "29657411",
-          "permanent": false,
           "attempted_at": "2026-09-25T06:14:05.390595+00:00"
         },
         {
@@ -80251,6 +80244,13 @@
           "target_video_id": "29657411",
           "permanent": false,
           "attempted_at": "2026-09-25T08:49:22.448868+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34402390",
+          "target_video_id": "29657411",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:33:36.401772+00:00"
         }
       ],
       "last_plan": {
@@ -80263,12 +80263,6 @@
         "target_video_id": "29657411",
         "size_bytes": 4800000000,
         "prepared_at": "2026-09-24T01:00:46.785747+00:00"
-      },
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-5",
-        "claimed_at": "2026-09-25T09:33:33.060597+00:00",
-        "lease_expires_at": "2026-09-25T15:33:33.060597+00:00",
-        "run_id": "36098675156"
       }
     },
     "32044": {
@@ -80293,13 +80287,6 @@
           "source_id": "28003976",
           "target_video_id": "29468019",
           "permanent": false,
-          "attempted_at": "2026-09-25T05:27:58.469744+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28003976",
-          "target_video_id": "29468019",
-          "permanent": false,
           "attempted_at": "2026-09-25T06:14:05.814460+00:00"
         },
         {
@@ -80308,6 +80295,13 @@
           "target_video_id": "29468019",
           "permanent": false,
           "attempted_at": "2026-09-25T08:49:30.500994+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28003976",
+          "target_video_id": "29468019",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:33:36.695059+00:00"
         }
       ],
       "last_plan": {
@@ -80320,13 +80314,7 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-09-18T03:47:39.635711+00:00"
       },
-      "previous_target_id": "29468019",
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-4",
-        "claimed_at": "2026-09-25T09:33:33.770595+00:00",
-        "lease_expires_at": "2026-09-25T15:33:33.770595+00:00",
-        "run_id": "36098675156"
-      }
+      "previous_target_id": "29468019"
     },
     "32575": {
       "attempts": [],
@@ -80835,6 +80823,12 @@
         "target_video_id": "29629971",
         "size_bytes": 22000000000,
         "prepared_at": "2026-09-23T00:35:08.899129+00:00"
+      },
+      "claim": {
+        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-5",
+        "claimed_at": "2026-09-25T09:33:36.989347+00:00",
+        "lease_expires_at": "2026-09-25T15:33:36.989347+00:00",
+        "run_id": "36098675156"
       }
     },
     "3096": {
@@ -101361,17 +101355,19 @@
       "attempts": []
     },
     "12578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27912463",
+          "target_video_id": "29698670",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:33:37.269303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí (1939) 1080p CZ Dabing",
         "planned_at": "2026-09-25T09:18:24.048327+00:00"
-      },
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-1",
-        "claimed_at": "2026-09-25T09:19:08.177413+00:00",
-        "lease_expires_at": "2026-09-25T15:19:08.177413+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29698670",
       "prepared": {
@@ -259570,5 +259566,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T09:33:34.133226+00:00"
+  "updated_at": "2026-09-25T09:33:37.269319+00:00"
 }
