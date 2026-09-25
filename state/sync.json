@@ -227059,13 +227059,6 @@
           "permanent": false,
           "source_id": "33820011",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:39:48.199331+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33820011",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:40:13.030180+00:00"
         },
         {
@@ -227074,6 +227067,13 @@
           "target_video_id": "29693267",
           "permanent": false,
           "attempted_at": "2026-09-25T05:58:42.119004+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33820011",
+          "target_video_id": "29693267",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:50:45.611557+00:00"
         }
       ],
       "last_plan": {
@@ -227084,19 +227084,12 @@
       "previous_target_id": "29693267",
       "prepared": {
         "target_video_id": "29693267",
-        "size_bytes": 4511458533,
+        "size_bytes": 4500000000,
         "prepared_at": "2026-09-25T05:44:32.706531+00:00"
       }
     },
     "7571": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21024028",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:39:49.034447+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -227110,6 +227103,13 @@
           "target_video_id": "29693265",
           "permanent": false,
           "attempted_at": "2026-09-25T05:51:47.822583+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21024028",
+          "target_video_id": "29693265",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:50:47.628376+00:00"
         }
       ],
       "last_plan": {
@@ -227120,7 +227120,7 @@
       "previous_target_id": "29693265",
       "prepared": {
         "target_video_id": "29693265",
-        "size_bytes": 2254406238,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-25T05:44:28.084092+00:00"
       }
     },
@@ -227234,6 +227234,18 @@
         "source_id": "34823140",
         "display_name": "Kdosi, koho jsem znal (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-25T06:29:08.611092+00:00"
+      },
+      "claim": {
+        "worker_id": "74fd301338de463e9820ad06887ef6cf-shard-3",
+        "claimed_at": "2026-09-25T06:50:47.890479+00:00",
+        "lease_expires_at": "2026-09-25T12:50:47.890479+00:00",
+        "run_id": "36098675156"
+      },
+      "previous_target_id": "29694805",
+      "prepared": {
+        "target_video_id": "29694805",
+        "size_bytes": 4046302283,
+        "prepared_at": "2026-09-25T06:50:52.274432+00:00"
       }
     },
     "6682": {
@@ -258910,5 +258922,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T06:50:36.141440+00:00"
+  "updated_at": "2026-09-25T06:50:52.274447+00:00"
 }
