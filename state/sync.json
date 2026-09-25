@@ -224200,13 +224200,6 @@
           "permanent": false,
           "source_id": "30149936",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:14:54.940913+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30149936",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:15:22.462872+00:00"
         },
         {
@@ -224215,18 +224208,19 @@
           "source_id": "30149936",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:22:59.194029+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30149936",
+          "target_video_id": "29687068",
+          "permanent": false,
+          "attempted_at": "2026-09-25T01:47:02.540034+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30149936",
         "display_name": "Zlatíčka (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-25T01:28:23.877906+00:00"
-      },
-      "claim": {
-        "worker_id": "0c00173bace04401820df47623d03f9f-shard-2",
-        "claimed_at": "2026-09-25T01:35:55.702983+00:00",
-        "lease_expires_at": "2026-09-25T07:35:55.702983+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29687068",
       "prepared": {
@@ -257464,5 +257458,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T01:45:07.597080+00:00"
+  "updated_at": "2026-09-25T01:47:02.540049+00:00"
 }
