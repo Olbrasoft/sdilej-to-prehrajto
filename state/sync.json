@@ -66145,13 +66145,6 @@
           "source_id": "32500243",
           "target_video_id": "29356044",
           "permanent": false,
-          "attempted_at": "2026-09-25T06:12:52.955515+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500243",
-          "target_video_id": "29356044",
-          "permanent": false,
           "attempted_at": "2026-09-25T08:46:47.019553+00:00"
         },
         {
@@ -66160,6 +66153,13 @@
           "target_video_id": "29356044",
           "permanent": false,
           "attempted_at": "2026-09-25T09:17:50.336217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500243",
+          "target_video_id": "29356044",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:56:26.635892+00:00"
         }
       ],
       "last_plan": {
@@ -66172,13 +66172,7 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-13T19:27:12.091567+00:00"
       },
-      "previous_target_id": "29356044",
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-5",
-        "claimed_at": "2026-09-25T09:56:11.081401+00:00",
-        "lease_expires_at": "2026-09-25T15:56:11.081401+00:00",
-        "run_id": "36098675156"
-      }
+      "previous_target_id": "29356044"
     },
     "22960": {
       "attempts": []
@@ -67408,13 +67402,6 @@
           "source_id": "34968104",
           "target_video_id": "29311126",
           "permanent": false,
-          "attempted_at": "2026-09-25T06:12:53.662539+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34968104",
-          "target_video_id": "29311126",
-          "permanent": false,
           "attempted_at": "2026-09-25T08:46:40.538577+00:00"
         },
         {
@@ -67423,6 +67410,13 @@
           "target_video_id": "29311126",
           "permanent": false,
           "attempted_at": "2026-09-25T09:17:46.676763+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34968104",
+          "target_video_id": "29311126",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:56:25.848651+00:00"
         }
       ],
       "last_plan": {
@@ -67435,13 +67429,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-11T22:03:58.410129+00:00"
       },
-      "previous_target_id": "29311126",
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-4",
-        "claimed_at": "2026-09-25T09:56:17.416446+00:00",
-        "lease_expires_at": "2026-09-25T15:56:17.416446+00:00",
-        "run_id": "36098675156"
-      }
+      "previous_target_id": "29311126"
     },
     "35562": {
       "attempts": []
@@ -69252,6 +69240,12 @@
         "target_video_id": "29608889",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-22T03:53:28.807395+00:00"
+      },
+      "claim": {
+        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-0",
+        "claimed_at": "2026-09-25T09:56:25.580175+00:00",
+        "lease_expires_at": "2026-09-25T15:56:25.580175+00:00",
+        "run_id": "36098675156"
       }
     },
     "10971": {
@@ -69335,6 +69329,12 @@
         "target_video_id": "29561592",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-20T15:18:34.421370+00:00"
+      },
+      "claim": {
+        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-3",
+        "claimed_at": "2026-09-25T09:56:26.365883+00:00",
+        "lease_expires_at": "2026-09-25T15:56:26.365883+00:00",
+        "run_id": "36098675156"
       }
     },
     "14727": {
@@ -69791,7 +69791,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-06T21:35:54.355735+00:00"
       },
-      "previous_target_id": "29171374"
+      "previous_target_id": "29171374",
+      "claim": {
+        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-4",
+        "claimed_at": "2026-09-25T09:56:26.106917+00:00",
+        "lease_expires_at": "2026-09-25T15:56:26.106917+00:00",
+        "run_id": "36098675156"
+      }
     },
     "12782": {
       "attempts": [
@@ -101213,17 +101219,19 @@
       "attempts": []
     },
     "23526": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33871018",
+          "target_video_id": "29699304",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:56:26.898172+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33871018",
         "display_name": "Na krásném modrém Dunaji (1994) SD CZ Titulky",
         "planned_at": "2026-09-25T09:36:13.789035+00:00"
-      },
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-1",
-        "claimed_at": "2026-09-25T09:49:01.328829+00:00",
-        "lease_expires_at": "2026-09-25T15:49:01.328829+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29699304",
       "prepared": {
@@ -259890,5 +259898,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T09:56:18.341248+00:00"
+  "updated_at": "2026-09-25T09:56:26.898193+00:00"
 }
