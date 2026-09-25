@@ -215455,13 +215455,6 @@
           "source_id": "28185874",
           "target_video_id": "29652991",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:25:54.613436+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28185874",
-          "target_video_id": "29652991",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:43:29.022529+00:00"
         },
         {
@@ -215470,6 +215463,13 @@
           "target_video_id": "29652991",
           "permanent": false,
           "attempted_at": "2026-09-25T03:50:48.851367+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28185874",
+          "target_video_id": "29652991",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:05:15.577825+00:00"
         }
       ],
       "last_plan": {
@@ -215482,12 +215482,6 @@
         "target_video_id": "29652991",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T20:35:18.362743+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
-        "claimed_at": "2026-09-25T05:05:12.978641+00:00",
-        "lease_expires_at": "2026-09-25T11:05:12.978641+00:00",
-        "run_id": "36072552924"
       }
     },
     "6432": {
@@ -215550,16 +215544,10 @@
           "attempted_at": "2026-09-25T03:50:55.739268+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "21116418",
-        "display_name": "Dvě hodiny (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T05:03:59.145435+00:00"
-      },
       "previous_target_id": "29654169",
-      "prepared": {
+      "upload": {
         "target_video_id": "29654169",
-        "size_bytes": 3000000000,
-        "prepared_at": "2026-09-23T21:46:59.741150+00:00"
+        "uploaded_at": "2026-09-25T05:05:17.100169+00:00"
       }
     },
     "22577": {
@@ -215596,6 +215584,12 @@
         "target_video_id": "29653078",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T20:41:08.346218+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
+        "claimed_at": "2026-09-25T05:05:16.186661+00:00",
+        "lease_expires_at": "2026-09-25T11:05:16.186661+00:00",
+        "run_id": "36072552924"
       }
     },
     "14216": {
@@ -258578,5 +258572,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:05:13.523664+00:00"
+  "updated_at": "2026-09-25T05:05:17.100185+00:00"
 }
