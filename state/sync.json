@@ -46755,13 +46755,6 @@
           "source_id": "30543468",
           "target_video_id": "29179360",
           "permanent": false,
-          "attempted_at": "2026-09-25T17:01:51.544208+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30543468",
-          "target_video_id": "29179360",
-          "permanent": false,
           "attempted_at": "2026-09-25T17:33:45.019035+00:00"
         },
         {
@@ -46770,6 +46763,13 @@
           "target_video_id": "29179360",
           "permanent": false,
           "attempted_at": "2026-09-25T18:05:55.062826+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30543468",
+          "target_video_id": "29179360",
+          "permanent": false,
+          "attempted_at": "2026-09-25T18:36:53.479561+00:00"
         }
       ],
       "last_plan": {
@@ -46782,13 +46782,7 @@
         "size_bytes": 14000000000,
         "prepared_at": "2026-09-07T06:15:07.416318+00:00"
       },
-      "previous_target_id": "29179360",
-      "claim": {
-        "worker_id": "707d950870f4448484a83519f3f05436-shard-0",
-        "claimed_at": "2026-09-25T18:36:46.556995+00:00",
-        "lease_expires_at": "2026-09-26T00:36:46.556995+00:00",
-        "run_id": "36161212873"
-      }
+      "previous_target_id": "29179360"
     },
     "15426": {
       "attempts": [
@@ -97283,17 +97277,19 @@
       "attempts": []
     },
     "11365": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34883806",
+          "target_video_id": "29710848",
+          "permanent": false,
+          "attempted_at": "2026-09-25T18:36:53.756462+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883806",
         "display_name": "Útěky domů (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-25T18:25:24.960089+00:00"
-      },
-      "claim": {
-        "worker_id": "707d950870f4448484a83519f3f05436-shard-1",
-        "claimed_at": "2026-09-25T18:25:47.190854+00:00",
-        "lease_expires_at": "2026-09-26T00:25:47.190854+00:00",
-        "run_id": "36161212873"
       },
       "previous_target_id": "29710848",
       "prepared": {
@@ -263896,5 +263892,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T18:36:47.453658+00:00"
+  "updated_at": "2026-09-25T18:36:53.756486+00:00"
 }
