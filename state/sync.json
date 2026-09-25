@@ -226591,13 +226591,6 @@
     "22954": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33746930",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:31:24.454349+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33746930",
           "target_video_id": "29689183",
@@ -226610,6 +226603,13 @@
           "target_video_id": "29689183",
           "permanent": false,
           "attempted_at": "2026-09-25T05:15:29.225477+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746930",
+          "target_video_id": "29689183",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:39:14.185377+00:00"
         }
       ],
       "last_plan": {
@@ -226691,13 +226691,6 @@
     "13584": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34493640",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T07:36:49.330663+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34493640",
           "reason": "Request failed for https://sdilej.cz/34493640/akta-x-chci-uverit-2008-4k-hevc-cz.mkv (HTTP None)",
@@ -226710,6 +226703,13 @@
           "target_video_id": "29692552",
           "permanent": false,
           "attempted_at": "2026-09-25T05:30:31.430395+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34493640",
+          "target_video_id": "29692552",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:39:15.980025+00:00"
         }
       ],
       "last_plan": {
@@ -226720,7 +226720,7 @@
       "previous_target_id": "29692552",
       "prepared": {
         "target_video_id": "29692552",
-        "size_bytes": 4626921057,
+        "size_bytes": 4600000000,
         "prepared_at": "2026-09-25T05:15:36.939155+00:00"
       }
     },
@@ -226743,13 +226743,6 @@
           "permanent": false,
           "source_id": "28390091",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:36:20.912354+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28390091",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:36:50.017346+00:00"
         },
         {
@@ -226758,6 +226751,13 @@
           "target_video_id": "29692562",
           "permanent": false,
           "attempted_at": "2026-09-25T05:24:40.516905+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28390091",
+          "target_video_id": "29692562",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:39:17.803010+00:00"
         }
       ],
       "last_plan": {
@@ -226768,7 +226768,7 @@
       "previous_target_id": "29692562",
       "prepared": {
         "target_video_id": "29692562",
-        "size_bytes": 2557956969,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-25T05:16:19.869053+00:00"
       }
     },
@@ -226805,13 +226805,6 @@
           "permanent": false,
           "source_id": "33598155",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:38:31.007034+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33598155",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:38:37.537097+00:00"
         },
         {
@@ -226820,6 +226813,13 @@
           "target_video_id": "29692565",
           "permanent": false,
           "attempted_at": "2026-09-25T05:21:21.307621+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33598155",
+          "target_video_id": "29692565",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:39:19.567942+00:00"
         }
       ],
       "last_plan": {
@@ -226830,7 +226830,7 @@
       "previous_target_id": "29692565",
       "prepared": {
         "target_video_id": "29692565",
-        "size_bytes": 1469061120,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-25T05:16:27.952733+00:00"
       }
     },
@@ -226861,16 +226861,10 @@
           "attempted_at": "2026-09-25T05:33:26.928305+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32990447",
-        "display_name": "RoboCop 2 (1990) 4K CZ Dabing",
-        "planned_at": "2026-09-25T06:29:07.058109+00:00"
-      },
       "previous_target_id": "29692584",
-      "prepared": {
+      "upload": {
         "target_video_id": "29692584",
-        "size_bytes": 5319814706,
-        "prepared_at": "2026-09-25T05:17:09.482727+00:00"
+        "uploaded_at": "2026-09-25T06:39:21.280865+00:00"
       }
     },
     "33832": {
@@ -258916,5 +258910,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T06:38:52.344325+00:00"
+  "updated_at": "2026-09-25T06:39:21.280881+00:00"
 }
