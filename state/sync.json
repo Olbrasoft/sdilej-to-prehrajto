@@ -232737,13 +232737,6 @@
           "permanent": false,
           "source_id": "34737226",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:18.449290+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34737226",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:49.035458+00:00"
         },
         {
@@ -232752,6 +232745,13 @@
           "target_video_id": "29707180",
           "permanent": false,
           "attempted_at": "2026-09-25T15:23:39.850426+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34737226",
+          "target_video_id": "29707180",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:21.445652+00:00"
         }
       ],
       "last_plan": {
@@ -232762,14 +232762,8 @@
       "previous_target_id": "29707180",
       "prepared": {
         "target_video_id": "29707180",
-        "size_bytes": 3839380732,
+        "size_bytes": 3800000000,
         "prepared_at": "2026-09-25T15:13:50.430836+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-4",
-        "claimed_at": "2026-09-25T16:11:17.818626+00:00",
-        "lease_expires_at": "2026-09-25T22:11:17.818626+00:00",
-        "run_id": "36124164637"
       }
     },
     "15733": {
@@ -232795,13 +232789,6 @@
           "permanent": false,
           "source_id": "25540173",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:19.297147+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25540173",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:47.661403+00:00"
         },
         {
@@ -232810,6 +232797,13 @@
           "target_video_id": "29707188",
           "permanent": false,
           "attempted_at": "2026-09-25T15:19:51.429622+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25540173",
+          "target_video_id": "29707188",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:21.670047+00:00"
         }
       ],
       "last_plan": {
@@ -232820,14 +232814,8 @@
       "previous_target_id": "29707188",
       "prepared": {
         "target_video_id": "29707188",
-        "size_bytes": 1510393856,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-25T15:14:45.182093+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T16:11:18.842883+00:00",
-        "lease_expires_at": "2026-09-25T22:11:18.842883+00:00",
-        "run_id": "36124164637"
       }
     },
     "25598": {
@@ -232895,6 +232883,12 @@
         "target_video_id": "29707199",
         "size_bytes": 837075970,
         "prepared_at": "2026-09-25T15:15:44.392341+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
+        "claimed_at": "2026-09-25T16:11:22.119914+00:00",
+        "lease_expires_at": "2026-09-25T22:11:22.119914+00:00",
+        "run_id": "36124164637"
       }
     },
     "29725": {
@@ -232910,16 +232904,10 @@
           "attempted_at": "2026-09-25T15:19:23.652127+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22343546",
-        "display_name": "Vnadidlo (2000) SD CZ Dabing",
-        "planned_at": "2026-09-25T16:10:48.323287+00:00"
-      },
       "previous_target_id": "29707225",
-      "prepared": {
+      "upload": {
         "target_video_id": "29707225",
-        "size_bytes": 1226949088,
-        "prepared_at": "2026-09-25T15:16:53.124050+00:00"
+        "uploaded_at": "2026-09-25T16:11:23.970281+00:00"
       }
     },
     "26288": {
@@ -232948,6 +232936,12 @@
         "target_video_id": "29707261",
         "size_bytes": 2948311739,
         "prepared_at": "2026-09-25T15:18:31.223941+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
+        "claimed_at": "2026-09-25T16:11:22.338764+00:00",
+        "lease_expires_at": "2026-09-25T22:11:22.338764+00:00",
+        "run_id": "36124164637"
       }
     },
     "13535": {
@@ -262517,5 +262511,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:11:19.094862+00:00"
+  "updated_at": "2026-09-25T16:11:23.970301+00:00"
 }
