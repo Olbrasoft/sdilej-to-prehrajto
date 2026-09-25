@@ -205503,13 +205503,6 @@
           "source_id": "13829355",
           "target_video_id": "29638596",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:24:05.299164+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13829355",
-          "target_video_id": "29638596",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:41:43.016935+00:00"
         },
         {
@@ -205518,6 +205511,13 @@
           "target_video_id": "29638596",
           "permanent": false,
           "attempted_at": "2026-09-25T03:48:49.138043+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13829355",
+          "target_video_id": "29638596",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:03:36.974581+00:00"
         }
       ],
       "last_plan": {
@@ -205530,12 +205530,6 @@
         "target_video_id": "29638596",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T09:37:59.794940+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-5",
-        "claimed_at": "2026-09-25T05:03:30.435100+00:00",
-        "lease_expires_at": "2026-09-25T11:03:30.435100+00:00",
-        "run_id": "36072552924"
       }
     },
     "6115": {
@@ -205790,13 +205784,6 @@
           "source_id": "31348207",
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:24:11.044135+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31348207",
-          "reason": "Source detail has no authenticated download link; source_id=31348207",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:41:49.184706+00:00"
         },
         {
@@ -205805,18 +205792,19 @@
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-25T03:48:51.376664+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31348207",
+          "reason": "Source detail has no authenticated download link; source_id=31348207",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:03:37.240628+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-09-25T05:02:55.252587+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-3",
-        "claimed_at": "2026-09-25T05:03:31.308350+00:00",
-        "lease_expires_at": "2026-09-25T11:03:31.308350+00:00",
-        "run_id": "36072552924"
       }
     },
     "5944": {
@@ -258586,5 +258574,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:03:34.841413+00:00"
+  "updated_at": "2026-09-25T05:03:37.240645+00:00"
 }
