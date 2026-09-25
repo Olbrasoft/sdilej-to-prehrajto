@@ -225802,13 +225802,6 @@
           "permanent": false,
           "source_id": "33745776",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:16:31.487904+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745776",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:11.520540+00:00"
         },
         {
@@ -225817,6 +225810,13 @@
           "target_video_id": "29688898",
           "permanent": false,
           "attempted_at": "2026-09-25T02:52:47.700344+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745776",
+          "target_video_id": "29688898",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:12:50.048646+00:00"
         }
       ],
       "last_plan": {
@@ -225827,25 +225827,12 @@
       "previous_target_id": "29688898",
       "prepared": {
         "target_video_id": "29688898",
-        "size_bytes": 2320284856,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-25T02:48:05.944512+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-2",
-        "claimed_at": "2026-09-25T05:12:46.739285+00:00",
-        "lease_expires_at": "2026-09-25T11:12:46.739285+00:00",
-        "run_id": "36072552924"
       }
     },
     "29626": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29032600",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:16:31.810829+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -225859,6 +225846,13 @@
           "target_video_id": "29688963",
           "permanent": false,
           "attempted_at": "2026-09-25T02:57:31.948890+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29032600",
+          "target_video_id": "29688963",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:12:51.760695+00:00"
         }
       ],
       "last_plan": {
@@ -225869,7 +225863,7 @@
       "previous_target_id": "29688963",
       "prepared": {
         "target_video_id": "29688963",
-        "size_bytes": 3090337626,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-25T02:50:49.684863+00:00"
       }
     },
@@ -225913,16 +225907,10 @@
           "attempted_at": "2026-09-25T02:54:39.828841+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34686484",
-        "display_name": "Fear Below (2024) 720p CZ Titulky",
-        "planned_at": "2026-09-25T05:12:01.163936+00:00"
-      },
       "previous_target_id": "29688974",
-      "prepared": {
+      "upload": {
         "target_video_id": "29688974",
-        "size_bytes": 1620541916,
-        "prepared_at": "2026-09-25T02:51:11.273691+00:00"
+        "uploaded_at": "2026-09-25T05:12:53.711020+00:00"
       }
     },
     "17240": {
@@ -258630,5 +258618,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:12:47.850772+00:00"
+  "updated_at": "2026-09-25T05:12:53.711032+00:00"
 }
