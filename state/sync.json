@@ -226235,13 +226235,6 @@
           "permanent": false,
           "source_id": "21092588",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:22:55.248614+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21092588",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:25:24.005852+00:00"
         },
         {
@@ -226250,6 +226243,13 @@
           "target_video_id": "29689096",
           "permanent": false,
           "attempted_at": "2026-09-25T03:00:34.615602+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21092588",
+          "target_video_id": "29689096",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:14:33.870748+00:00"
         }
       ],
       "last_plan": {
@@ -226260,7 +226260,7 @@
       "previous_target_id": "29689096",
       "prepared": {
         "target_video_id": "29689096",
-        "size_bytes": 2145905977,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-25T02:55:41.044195+00:00"
       }
     },
@@ -226274,13 +226274,6 @@
           "permanent": false,
           "source_id": "33869954",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:22:56.303697+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33869954",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:25:24.823006+00:00"
         },
         {
@@ -226289,6 +226282,13 @@
           "target_video_id": "29689095",
           "permanent": false,
           "attempted_at": "2026-09-25T03:00:57.299357+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33869954",
+          "target_video_id": "29689095",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:14:35.636715+00:00"
         }
       ],
       "last_plan": {
@@ -226299,7 +226299,7 @@
       "previous_target_id": "29689095",
       "prepared": {
         "target_video_id": "29689095",
-        "size_bytes": 2409874756,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-25T02:55:38.825952+00:00"
       }
     },
@@ -226368,13 +226368,6 @@
           "permanent": false,
           "source_id": "34662069",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:23:25.275917+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34662069",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:25:27.631263+00:00"
         },
         {
@@ -226383,6 +226376,13 @@
           "reason": "Request failed for https://sdilej.cz/34662069/ruiny-2008-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T02:58:25.382756+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34662069",
+          "reason": "Request failed for https://sdilej.cz/34662069/ruiny-2008-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:15:21.818910+00:00"
         }
       ],
       "last_plan": {
@@ -258614,5 +258614,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:14:30.520002+00:00"
+  "updated_at": "2026-09-25T05:15:21.818928+00:00"
 }
