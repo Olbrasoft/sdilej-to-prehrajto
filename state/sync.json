@@ -117743,17 +117743,19 @@
       "attempts": []
     },
     "23532": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11922068",
+          "reason": "Request failed for https://sdilej.cz/11922068/andele-nejsou-andele-not-angels-but-angels-dokument-1994-en-cz-cz-tit.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:04:46.892975+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11922068",
         "display_name": "Andělé nejsou andělé (1994) 720p CZ Dabing",
         "planned_at": "2026-09-25T05:03:47.216573+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-5",
-        "claimed_at": "2026-09-25T05:04:01.053768+00:00",
-        "lease_expires_at": "2026-09-25T11:04:01.053768+00:00",
-        "run_id": "36072552924"
       }
     },
     "15338": {
@@ -209593,13 +209595,6 @@
           "source_id": "13686168",
           "target_video_id": "29647032",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:24:44.474592+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13686168",
-          "target_video_id": "29647032",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:42:08.123584+00:00"
         },
         {
@@ -209608,6 +209603,13 @@
           "target_video_id": "29647032",
           "permanent": false,
           "attempted_at": "2026-09-25T03:49:50.966444+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13686168",
+          "target_video_id": "29647032",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:04:45.063825+00:00"
         }
       ],
       "last_plan": {
@@ -210018,6 +210020,12 @@
         "target_video_id": "29647201",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-23T14:24:40.681142+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
+        "claimed_at": "2026-09-25T05:04:45.415638+00:00",
+        "lease_expires_at": "2026-09-25T11:04:45.415638+00:00",
+        "run_id": "36072552924"
       }
     },
     "28346": {
@@ -258582,5 +258590,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:04:41.558024+00:00"
+  "updated_at": "2026-09-25T05:04:46.892993+00:00"
 }
