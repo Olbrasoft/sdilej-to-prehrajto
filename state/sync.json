@@ -91043,13 +91043,6 @@
           "source_id": "30184929",
           "target_video_id": "29676112",
           "permanent": false,
-          "attempted_at": "2026-09-25T13:53:59.480552+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30184929",
-          "target_video_id": "29676112",
-          "permanent": false,
           "attempted_at": "2026-09-25T14:44:52.692068+00:00"
         },
         {
@@ -91058,6 +91051,13 @@
           "target_video_id": "29676112",
           "permanent": false,
           "attempted_at": "2026-09-25T16:01:19.432051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30184929",
+          "target_video_id": "29676112",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:33:40.336407+00:00"
         }
       ],
       "last_plan": {
@@ -91070,12 +91070,6 @@
         "target_video_id": "29676112",
         "size_bytes": 817600000,
         "prepared_at": "2026-09-24T18:27:37.778715+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
-        "claimed_at": "2026-09-25T16:33:36.259110+00:00",
-        "lease_expires_at": "2026-09-25T22:33:36.259110+00:00",
-        "run_id": "36124164637"
       }
     },
     "3125": {
@@ -91302,13 +91296,6 @@
           "source_id": "33479712",
           "target_video_id": "29676188",
           "permanent": false,
-          "attempted_at": "2026-09-25T13:54:00.997797+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33479712",
-          "target_video_id": "29676188",
-          "permanent": false,
           "attempted_at": "2026-09-25T14:44:52.942876+00:00"
         },
         {
@@ -91317,6 +91304,13 @@
           "target_video_id": "29676188",
           "permanent": false,
           "attempted_at": "2026-09-25T16:01:18.112662+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33479712",
+          "target_video_id": "29676188",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:33:40.118540+00:00"
         }
       ],
       "last_plan": {
@@ -91329,12 +91323,6 @@
         "target_video_id": "29676188",
         "size_bytes": 4500000000,
         "prepared_at": "2026-09-24T18:29:58.730405+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-3",
-        "claimed_at": "2026-09-25T16:33:36.050060+00:00",
-        "lease_expires_at": "2026-09-25T22:33:36.050060+00:00",
-        "run_id": "36124164637"
       }
     },
     "16929": {
@@ -234551,13 +234539,6 @@
           "permanent": false,
           "source_id": "34784511",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:35:04.170485+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34784511",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:36:56.641363+00:00"
         },
         {
@@ -234566,18 +234547,19 @@
           "source_id": "34784511",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:11.249587+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784511",
+          "target_video_id": "29708334",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:33:40.546431+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34784511",
         "display_name": "Good Burger (1997) 1080p CZ Dabing",
         "planned_at": "2026-09-25T16:10:53.359723+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-1",
-        "claimed_at": "2026-09-25T16:21:41.556943+00:00",
-        "lease_expires_at": "2026-09-25T22:21:41.556943+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29708334",
       "prepared": {
@@ -262753,5 +262735,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:33:36.623920+00:00"
+  "updated_at": "2026-09-25T16:33:40.546456+00:00"
 }
