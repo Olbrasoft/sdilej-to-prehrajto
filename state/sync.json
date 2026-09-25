@@ -225197,13 +225197,6 @@
           "permanent": false,
           "source_id": "13443487",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:15:56.035379+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13443487",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:16:31.661147+00:00"
         },
         {
@@ -225212,18 +225205,19 @@
           "source_id": "13443487",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:09.404191+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13443487",
+          "reason": "Request failed for https://sdilej.cz/13443487/denik-silene-manzelky-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:47:38.431966+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13443487",
         "display_name": "Deník šílené manželky (2005) SD CZ Dabing",
         "planned_at": "2026-09-25T02:45:58.330394+00:00"
-      },
-      "claim": {
-        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-3",
-        "claimed_at": "2026-09-25T02:46:52.526080+00:00",
-        "lease_expires_at": "2026-09-25T08:46:52.526080+00:00",
-        "run_id": "36072552924"
       }
     },
     "7157": {
@@ -258028,5 +258022,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:46:56.643141+00:00"
+  "updated_at": "2026-09-25T02:47:38.431983+00:00"
 }
