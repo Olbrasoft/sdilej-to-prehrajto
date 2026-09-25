@@ -228278,13 +228278,6 @@
           "permanent": false,
           "source_id": "33725272",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:57:59.098384+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33725272",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:04:24.617002+00:00"
         },
         {
@@ -228293,18 +228286,19 @@
           "source_id": "33725272",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:05:08.003098+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33725272",
+          "target_video_id": "29696689",
+          "permanent": false,
+          "attempted_at": "2026-09-25T08:13:32.369982+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33725272",
         "display_name": "Lampa (1987) 1080p CZ Dabing",
         "planned_at": "2026-09-25T06:29:11.207570+00:00"
-      },
-      "claim": {
-        "worker_id": "74fd301338de463e9820ad06887ef6cf-shard-3",
-        "claimed_at": "2026-09-25T08:07:21.487906+00:00",
-        "lease_expires_at": "2026-09-25T14:07:21.487906+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29696689",
       "prepared": {
@@ -258996,5 +258990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T08:07:25.689518+00:00"
+  "updated_at": "2026-09-25T08:13:32.369999+00:00"
 }
