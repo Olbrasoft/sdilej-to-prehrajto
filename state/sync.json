@@ -235900,13 +235900,6 @@
           "permanent": false,
           "source_id": "34724519",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:38:53.814782+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34724519",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:11.936933+00:00"
         },
         {
@@ -235915,6 +235908,13 @@
           "target_video_id": "29709533",
           "permanent": false,
           "attempted_at": "2026-09-25T17:24:46.947850+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34724519",
+          "target_video_id": "29709533",
+          "permanent": false,
+          "attempted_at": "2026-09-25T18:35:12.438681+00:00"
         }
       ],
       "last_plan": {
@@ -235925,14 +235925,8 @@
       "previous_target_id": "29709533",
       "prepared": {
         "target_video_id": "29709533",
-        "size_bytes": 1806396250,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-25T17:19:26.507297+00:00"
-      },
-      "claim": {
-        "worker_id": "707d950870f4448484a83519f3f05436-shard-3",
-        "claimed_at": "2026-09-25T18:35:08.698277+00:00",
-        "lease_expires_at": "2026-09-26T00:35:08.698277+00:00",
-        "run_id": "36161212873"
       }
     },
     "14997": {
@@ -235952,16 +235946,10 @@
           "attempted_at": "2026-09-25T17:25:28.436307+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34670069",
-        "display_name": "Taktika lásky 2 (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T18:34:25.693281+00:00"
-      },
       "previous_target_id": "29709534",
-      "prepared": {
+      "upload": {
         "target_video_id": "29709534",
-        "size_bytes": 2633896158,
-        "prepared_at": "2026-09-25T17:19:28.844518+00:00"
+        "uploaded_at": "2026-09-25T18:35:14.839819+00:00"
       }
     },
     "6866": {
@@ -235990,13 +235978,6 @@
           "permanent": false,
           "source_id": "11620494",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:38:54.864256+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11620494",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:13.759298+00:00"
         },
         {
@@ -236005,6 +235986,13 @@
           "target_video_id": "29709546",
           "permanent": false,
           "attempted_at": "2026-09-25T17:26:46.331112+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11620494",
+          "target_video_id": "29709546",
+          "permanent": false,
+          "attempted_at": "2026-09-25T18:35:14.404483+00:00"
         }
       ],
       "last_plan": {
@@ -236015,7 +236003,7 @@
       "previous_target_id": "29709546",
       "prepared": {
         "target_video_id": "29709546",
-        "size_bytes": 2826991473,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-25T17:19:43.724886+00:00"
       }
     },
@@ -263925,5 +263913,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T18:35:09.445113+00:00"
+  "updated_at": "2026-09-25T18:35:14.839836+00:00"
 }
