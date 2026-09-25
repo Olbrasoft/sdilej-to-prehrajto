@@ -206015,13 +206015,6 @@
           "source_id": "31348207",
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
-          "attempted_at": "2026-09-25T02:41:49.184706+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31348207",
-          "reason": "Source detail has no authenticated download link; source_id=31348207",
-          "permanent": false,
           "attempted_at": "2026-09-25T03:48:51.376664+00:00"
         },
         {
@@ -206030,18 +206023,19 @@
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-25T05:03:37.240628+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31348207",
+          "reason": "Request failed for https://sdilej.cz/31348207/san-andreas-2015-2160p-eac3-ces-eng-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:39:12.478232+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-09-25T05:37:55.823978+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
-        "claimed_at": "2026-09-25T05:38:26.264452+00:00",
-        "lease_expires_at": "2026-09-25T11:38:26.264452+00:00",
-        "run_id": "36072552924"
       }
     },
     "5944": {
@@ -213022,13 +213016,6 @@
           "source_id": "34681521",
           "target_video_id": "29649954",
           "permanent": false,
-          "attempted_at": "2026-09-25T02:42:59.413397+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34681521",
-          "target_video_id": "29649954",
-          "permanent": false,
           "attempted_at": "2026-09-25T03:50:27.599413+00:00"
         },
         {
@@ -213037,6 +213024,13 @@
           "target_video_id": "29649954",
           "permanent": false,
           "attempted_at": "2026-09-25T05:05:01.327881+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34681521",
+          "target_video_id": "29649954",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:39:11.192212+00:00"
         }
       ],
       "last_plan": {
@@ -213049,12 +213043,6 @@
         "target_video_id": "29649954",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-23T17:06:22.946444+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-3",
-        "claimed_at": "2026-09-25T05:39:07.713580+00:00",
-        "lease_expires_at": "2026-09-25T11:39:07.713580+00:00",
-        "run_id": "36072552924"
       }
     },
     "6717": {
@@ -213788,6 +213776,12 @@
         "target_video_id": "29650273",
         "size_bytes": 28000000000,
         "prepared_at": "2026-09-23T17:29:29.993102+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-0",
+        "claimed_at": "2026-09-25T05:39:11.800961+00:00",
+        "lease_expires_at": "2026-09-25T11:39:11.800961+00:00",
+        "run_id": "36072552924"
       }
     },
     "12229": {
@@ -214214,6 +214208,12 @@
         "target_video_id": "29650795",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-23T18:03:41.958603+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-3",
+        "claimed_at": "2026-09-25T05:39:11.502181+00:00",
+        "lease_expires_at": "2026-09-25T11:39:11.502181+00:00",
+        "run_id": "36072552924"
       }
     },
     "24057": {
@@ -258679,5 +258679,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:39:08.982096+00:00"
+  "updated_at": "2026-09-25T05:39:12.478251+00:00"
 }
