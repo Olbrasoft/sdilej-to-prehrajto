@@ -231546,13 +231546,6 @@
           "permanent": false,
           "source_id": "32295352",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:06:29.260778+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32295352",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:08:18.392083+00:00"
         },
         {
@@ -231561,18 +231554,19 @@
           "source_id": "32295352",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:08:44.997426+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32295352",
+          "target_video_id": "29706586",
+          "permanent": false,
+          "attempted_at": "2026-09-25T14:32:05.758801+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32295352",
         "display_name": "100 sladkých holek (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-25T14:03:54.585768+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
-        "claimed_at": "2026-09-25T14:29:29.290983+00:00",
-        "lease_expires_at": "2026-09-25T20:29:29.290983+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29706586",
       "prepared": {
@@ -261570,5 +261564,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T14:31:49.868693+00:00"
+  "updated_at": "2026-09-25T14:32:05.758823+00:00"
 }
