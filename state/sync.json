@@ -231026,13 +231026,6 @@
           "permanent": false,
           "source_id": "29912448",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:00:44.099095+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29912448",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:06:24.644278+00:00"
         },
         {
@@ -231041,18 +231034,19 @@
           "source_id": "29912448",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:07:09.577007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912448",
+          "target_video_id": "29706234",
+          "permanent": false,
+          "attempted_at": "2026-09-25T14:15:09.439635+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29912448",
         "display_name": "Marco (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-25T14:03:51.839951+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T14:07:44.579891+00:00",
-        "lease_expires_at": "2026-09-25T20:07:44.579891+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29706234",
       "prepared": {
@@ -231156,6 +231150,12 @@
         "source_id": "18518215",
         "display_name": "Návrat sedmi statečných (1966) 1080p CZ Dabing",
         "planned_at": "2026-09-25T14:03:52.431016+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
+        "claimed_at": "2026-09-25T14:15:05.655567+00:00",
+        "lease_expires_at": "2026-09-25T20:15:05.655567+00:00",
+        "run_id": "36124164637"
       }
     },
     "27519": {
@@ -261452,5 +261452,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T14:14:57.126677+00:00"
+  "updated_at": "2026-09-25T14:15:09.439655+00:00"
 }
