@@ -109812,17 +109812,19 @@
       }
     },
     "5048": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34869221",
+          "target_video_id": "29715978",
+          "permanent": false,
+          "attempted_at": "2026-09-25T23:34:27.442663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34869221",
         "display_name": "Stíny smrti: Dědictví (2019) SD CZ Dabing",
         "planned_at": "2026-09-25T23:13:46.024535+00:00"
-      },
-      "claim": {
-        "worker_id": "130e6d37295a4b91b671dc82e8530c81-shard-3",
-        "claimed_at": "2026-09-25T23:32:37.472628+00:00",
-        "lease_expires_at": "2026-09-26T05:32:37.472628+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29715978",
       "prepared": {
@@ -109907,6 +109909,12 @@
         "source_id": "20334444",
         "display_name": "Neviditelný (2019) 1080p CZ Titulky",
         "planned_at": "2026-09-25T23:13:46.284558+00:00"
+      },
+      "claim": {
+        "worker_id": "130e6d37295a4b91b671dc82e8530c81-shard-1",
+        "claimed_at": "2026-09-25T23:34:02.507223+00:00",
+        "lease_expires_at": "2026-09-26T05:34:02.507223+00:00",
+        "run_id": "36196679945"
       }
     },
     "30295": {
@@ -264775,5 +264783,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T23:33:49.549028+00:00"
+  "updated_at": "2026-09-25T23:34:27.442678+00:00"
 }
