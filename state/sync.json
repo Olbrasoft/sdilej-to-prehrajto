@@ -223925,13 +223925,6 @@
           "permanent": false,
           "source_id": "32817474",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:13:31.784567+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32817474",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:14:38.058139+00:00"
         },
         {
@@ -223940,18 +223933,19 @@
           "source_id": "32817474",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:22:52.392908+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32817474",
+          "target_video_id": "29686868",
+          "permanent": false,
+          "attempted_at": "2026-09-25T01:35:58.882242+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32817474",
         "display_name": "Pochybná sebranka (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-25T01:28:22.110397+00:00"
-      },
-      "claim": {
-        "worker_id": "0c00173bace04401820df47623d03f9f-shard-4",
-        "claimed_at": "2026-09-25T01:28:55.742263+00:00",
-        "lease_expires_at": "2026-09-25T07:28:55.742263+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29686868",
       "prepared": {
@@ -224200,6 +224194,12 @@
         "source_id": "32955030",
         "display_name": "Interceptors (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-25T01:28:23.580006+00:00"
+      },
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-0",
+        "claimed_at": "2026-09-25T01:35:55.963413+00:00",
+        "lease_expires_at": "2026-09-25T07:35:55.963413+00:00",
+        "run_id": "36072552924"
       }
     },
     "22873": {
@@ -224233,6 +224233,12 @@
         "source_id": "30149936",
         "display_name": "Zlatíčka (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-25T01:28:23.877906+00:00"
+      },
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-2",
+        "claimed_at": "2026-09-25T01:35:55.702983+00:00",
+        "lease_expires_at": "2026-09-25T07:35:55.702983+00:00",
+        "run_id": "36072552924"
       }
     },
     "28266": {
@@ -257410,5 +257416,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T01:35:53.524753+00:00"
+  "updated_at": "2026-09-25T01:35:58.882258+00:00"
 }
