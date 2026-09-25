@@ -224726,13 +224726,6 @@
           "permanent": false,
           "source_id": "32955030",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:21.472720+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32955030",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:22:57.999385+00:00"
         },
         {
@@ -224741,18 +224734,19 @@
           "reason": "Request failed for https://sdilej.cz/32955030/interceptor.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T01:36:41.982241+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32955030",
+          "target_video_id": "29688867",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:51:01.656840+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32955030",
         "display_name": "Interceptors (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-25T02:45:54.768692+00:00"
-      },
-      "claim": {
-        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-5",
-        "claimed_at": "2026-09-25T02:46:28.860144+00:00",
-        "lease_expires_at": "2026-09-25T08:46:28.860144+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29688867",
       "prepared": {
@@ -258053,5 +258047,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:50:49.684879+00:00"
+  "updated_at": "2026-09-25T02:51:01.656858+00:00"
 }
