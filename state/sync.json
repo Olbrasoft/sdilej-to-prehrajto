@@ -98597,13 +98597,6 @@
           "source_id": "30450442",
           "target_video_id": "29136456",
           "permanent": false,
-          "attempted_at": "2026-09-24T18:43:50.446139+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30450442",
-          "target_video_id": "29136456",
-          "permanent": false,
           "attempted_at": "2026-09-24T21:45:46.808727+00:00"
         },
         {
@@ -98612,6 +98605,13 @@
           "target_video_id": "29136456",
           "permanent": false,
           "attempted_at": "2026-09-24T22:17:11.800335+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30450442",
+          "target_video_id": "29136456",
+          "permanent": false,
+          "attempted_at": "2026-09-25T01:15:06.970777+00:00"
         }
       ],
       "last_plan": {
@@ -98624,13 +98624,7 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
       },
-      "previous_target_id": "29136456",
-      "claim": {
-        "worker_id": "0c00173bace04401820df47623d03f9f-shard-5",
-        "claimed_at": "2026-09-25T01:15:00.885988+00:00",
-        "lease_expires_at": "2026-09-25T07:15:00.885988+00:00",
-        "run_id": "36072552924"
-      }
+      "previous_target_id": "29136456"
     },
     "24046": {
       "attempts": [],
@@ -98805,17 +98799,22 @@
         "source_id": "35098042",
         "display_name": "Území strachu (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-25T01:14:18.153938+00:00"
+      },
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-2",
+        "claimed_at": "2026-09-25T01:15:06.663621+00:00",
+        "lease_expires_at": "2026-09-25T07:15:06.663621+00:00",
+        "run_id": "36072552924"
+      },
+      "previous_target_id": "29686471",
+      "prepared": {
+        "target_video_id": "29686471",
+        "size_bytes": 4354783890,
+        "prepared_at": "2026-09-25T01:15:10.299374+00:00"
       }
     },
     "24197": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34530570",
-          "target_video_id": "29409057",
-          "permanent": false,
-          "attempted_at": "2026-09-24T18:43:52.486662+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34530570",
@@ -98829,6 +98828,13 @@
           "target_video_id": "29409057",
           "permanent": false,
           "attempted_at": "2026-09-24T22:17:13.515338+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34530570",
+          "target_video_id": "29409057",
+          "permanent": false,
+          "attempted_at": "2026-09-25T01:15:08.649149+00:00"
         }
       ],
       "last_plan": {
@@ -99467,7 +99473,13 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-19T06:00:19.715047+00:00"
       },
-      "previous_target_id": "29514662"
+      "previous_target_id": "29514662",
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-5",
+        "claimed_at": "2026-09-25T01:15:08.996465+00:00",
+        "lease_expires_at": "2026-09-25T07:15:08.996465+00:00",
+        "run_id": "36072552924"
+      }
     },
     "13033": {
       "attempts": []
@@ -257384,5 +257396,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T01:15:01.216571+00:00"
+  "updated_at": "2026-09-25T01:15:10.299389+00:00"
 }
