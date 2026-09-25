@@ -233469,13 +233469,6 @@
           "permanent": false,
           "source_id": "11751116",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:11:37.323058+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11751116",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:13:58.144769+00:00"
         },
         {
@@ -233484,18 +233477,19 @@
           "source_id": "11751116",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:14:29.559669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11751116",
+          "target_video_id": "29707721",
+          "permanent": false,
+          "attempted_at": "2026-09-25T15:44:35.479358+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11751116",
         "display_name": "Jako zvířata v kleci (2010) SD CZ Dabing",
         "planned_at": "2026-09-25T15:04:41.648147+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
-        "claimed_at": "2026-09-25T15:43:33.148214+00:00",
-        "lease_expires_at": "2026-09-25T21:43:33.148214+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29707721",
       "prepared": {
@@ -233579,6 +233573,12 @@
         "source_id": "34697181",
         "display_name": "Hráčky (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-25T15:04:42.095930+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-3",
+        "claimed_at": "2026-09-25T15:44:34.911381+00:00",
+        "lease_expires_at": "2026-09-25T21:44:34.911381+00:00",
+        "run_id": "36124164637"
       }
     },
     "33504": {
@@ -262269,5 +262269,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T15:44:29.440370+00:00"
+  "updated_at": "2026-09-25T15:44:35.479379+00:00"
 }
