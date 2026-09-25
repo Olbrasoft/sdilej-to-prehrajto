@@ -225920,13 +225920,6 @@
           "permanent": false,
           "source_id": "13377582",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:16:32.111764+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13377582",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:14.739198+00:00"
         },
         {
@@ -225935,6 +225928,13 @@
           "target_video_id": "29688992",
           "permanent": false,
           "attempted_at": "2026-09-25T02:59:33.942267+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13377582",
+          "target_video_id": "29688992",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:12:57.364599+00:00"
         }
       ],
       "last_plan": {
@@ -225945,7 +225945,7 @@
       "previous_target_id": "29688992",
       "prepared": {
         "target_video_id": "29688992",
-        "size_bytes": 3377969811,
+        "size_bytes": 3400000000,
         "prepared_at": "2026-09-25T02:51:50.165566+00:00"
       }
     },
@@ -226023,16 +226023,10 @@
           "attempted_at": "2026-09-25T02:55:32.766445+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22331015",
-        "display_name": "Pomoc!!! Já mám rande (2002) SD CZ Dabing",
-        "planned_at": "2026-09-25T05:12:01.815760+00:00"
-      },
       "previous_target_id": "29689029",
-      "prepared": {
+      "upload": {
         "target_video_id": "29689029",
-        "size_bytes": 779221872,
-        "prepared_at": "2026-09-25T02:52:58.679535+00:00"
+        "uploaded_at": "2026-09-25T05:12:59.031834+00:00"
       }
     },
     "25183": {
@@ -258618,5 +258612,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:12:53.711032+00:00"
+  "updated_at": "2026-09-25T05:12:59.031850+00:00"
 }
