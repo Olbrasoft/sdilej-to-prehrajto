@@ -231919,13 +231919,6 @@
           "permanent": false,
           "source_id": "26639249",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:08:17.199968+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26639249",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:08:44.417170+00:00"
         },
         {
@@ -231934,6 +231927,13 @@
           "target_video_id": "29706495",
           "permanent": false,
           "attempted_at": "2026-09-25T14:35:03.968796+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26639249",
+          "target_video_id": "29706495",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:00.556278+00:00"
         }
       ],
       "last_plan": {
@@ -231944,14 +231944,8 @@
       "previous_target_id": "29706495",
       "prepared": {
         "target_video_id": "29706495",
-        "size_bytes": 3886524831,
+        "size_bytes": 3900000000,
         "prepared_at": "2026-09-25T14:24:58.048471+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-4",
-        "claimed_at": "2026-09-25T16:10:57.187643+00:00",
-        "lease_expires_at": "2026-09-25T22:10:57.187643+00:00",
-        "run_id": "36124164637"
       }
     },
     "14571": {
@@ -231984,6 +231978,13 @@
           "target_video_id": "29706566",
           "permanent": false,
           "attempted_at": "2026-09-25T14:53:50.801449+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30696122",
+          "target_video_id": "29706566",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:00.781960+00:00"
         }
       ],
       "last_plan": {
@@ -231994,14 +231995,8 @@
       "previous_target_id": "29706566",
       "prepared": {
         "target_video_id": "29706566",
-        "size_bytes": 8529810882,
+        "size_bytes": 8500000000,
         "prepared_at": "2026-09-25T14:28:24.146424+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T16:10:57.414226+00:00",
-        "lease_expires_at": "2026-09-25T22:10:57.414226+00:00",
-        "run_id": "36124164637"
       }
     },
     "24421": {
@@ -232058,16 +232053,10 @@
           "attempted_at": "2026-09-25T14:35:27.754210+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34768888",
-        "display_name": "Puppet Master XI: Axis Termination (2017) 1080p CZ Titulky",
-        "planned_at": "2026-09-25T16:10:44.221287+00:00"
-      },
       "previous_target_id": "29706614",
-      "prepared": {
+      "upload": {
         "target_video_id": "29706614",
-        "size_bytes": 1565364566,
-        "prepared_at": "2026-09-25T14:31:49.868675+00:00"
+        "uploaded_at": "2026-09-25T16:11:03.032991+00:00"
       }
     },
     "11682": {
@@ -232087,6 +232076,13 @@
           "target_video_id": "29706623",
           "permanent": false,
           "attempted_at": "2026-09-25T14:35:14.148475+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26191310",
+          "target_video_id": "29706623",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:02.794577+00:00"
         }
       ],
       "last_plan": {
@@ -232097,7 +232093,7 @@
       "previous_target_id": "29706623",
       "prepared": {
         "target_video_id": "29706623",
-        "size_bytes": 1555221078,
+        "size_bytes": 1600000000,
         "prepared_at": "2026-09-25T14:32:11.923317+00:00"
       }
     },
@@ -232111,13 +232107,6 @@
           "permanent": false,
           "source_id": "32909953",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:08:18.576971+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32909953",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:08:43.948902+00:00"
         },
         {
@@ -232126,6 +232115,13 @@
           "target_video_id": "29706666",
           "permanent": false,
           "attempted_at": "2026-09-25T14:37:29.311523+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32909953",
+          "target_video_id": "29706666",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:02.283661+00:00"
         }
       ],
       "last_plan": {
@@ -232136,7 +232132,7 @@
       "previous_target_id": "29706666",
       "prepared": {
         "target_video_id": "29706666",
-        "size_bytes": 2163849191,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-25T14:35:16.456008+00:00"
       }
     },
@@ -232191,6 +232187,12 @@
         "target_video_id": "29706668",
         "size_bytes": 1001702613,
         "prepared_at": "2026-09-25T14:35:25.174887+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
+        "claimed_at": "2026-09-25T16:11:02.511131+00:00",
+        "lease_expires_at": "2026-09-25T22:11:02.511131+00:00",
+        "run_id": "36124164637"
       }
     },
     "27462": {
@@ -262526,5 +262528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:10:58.471601+00:00"
+  "updated_at": "2026-09-25T16:11:03.033013+00:00"
 }
