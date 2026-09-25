@@ -226877,13 +226877,6 @@
           "permanent": false,
           "source_id": "34630612",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:38:35.935846+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34630612",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:38:43.948416+00:00"
         },
         {
@@ -226892,18 +226885,19 @@
           "reason": "Request failed for https://sdilej.cz/34630612/jina-zena-some-other-woman-2023-1080p-cz-thriller.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T05:22:18.558700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34630612",
+          "target_video_id": "29694552",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:50:22.978466+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34630612",
         "display_name": "Jiná žena (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-25T06:29:07.315604+00:00"
-      },
-      "claim": {
-        "worker_id": "74fd301338de463e9820ad06887ef6cf-shard-3",
-        "claimed_at": "2026-09-25T06:39:27.809732+00:00",
-        "lease_expires_at": "2026-09-25T12:39:27.809732+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29694552",
       "prepared": {
@@ -258922,5 +258916,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T06:39:32.051271+00:00"
+  "updated_at": "2026-09-25T06:50:22.978482+00:00"
 }
