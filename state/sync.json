@@ -230158,13 +230158,6 @@
           "permanent": false,
           "source_id": "30760566",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:04:25.818259+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30760566",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:05:08.361279+00:00"
         },
         {
@@ -230173,6 +230166,13 @@
           "target_video_id": "29697419",
           "permanent": false,
           "attempted_at": "2026-09-25T08:36:42.274016+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30760566",
+          "target_video_id": "29697419",
+          "permanent": false,
+          "attempted_at": "2026-09-25T13:05:01.140888+00:00"
         }
       ],
       "last_plan": {
@@ -230183,7 +230183,7 @@
       "previous_target_id": "29697419",
       "prepared": {
         "target_video_id": "29697419",
-        "size_bytes": 1655576576,
+        "size_bytes": 1700000000,
         "prepared_at": "2026-09-25T08:32:51.420647+00:00"
       }
     },
@@ -230206,16 +230206,10 @@
           "attempted_at": "2026-09-25T08:39:00.829627+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29900645",
-        "display_name": "Zlouni: Vánoční zlo (2023) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T12:30:26.697086+00:00"
-      },
       "previous_target_id": "29697546",
-      "prepared": {
+      "upload": {
         "target_video_id": "29697546",
-        "size_bytes": 526037720,
-        "prepared_at": "2026-09-25T08:36:58.834528+00:00"
+        "uploaded_at": "2026-09-25T13:05:02.901094+00:00"
       }
     },
     "6571": {
@@ -260766,5 +260760,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T13:04:57.447434+00:00"
+  "updated_at": "2026-09-25T13:05:02.901114+00:00"
 }
