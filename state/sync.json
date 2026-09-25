@@ -100656,17 +100656,19 @@
       "attempts": []
     },
     "13333": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33529917",
+          "target_video_id": "29699158",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:50:50.417027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33529917",
         "display_name": "Přízrak (1988) 1080p CZ Dabing",
         "planned_at": "2026-09-25T09:36:12.652857+00:00"
-      },
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-2",
-        "claimed_at": "2026-09-25T09:41:41.504681+00:00",
-        "lease_expires_at": "2026-09-25T15:41:41.504681+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29699158",
       "prepared": {
@@ -106653,13 +106655,6 @@
           "source_id": "29163089",
           "target_video_id": "29137549",
           "permanent": false,
-          "attempted_at": "2026-09-25T04:56:57.094282+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29163089",
-          "target_video_id": "29137549",
-          "permanent": false,
           "attempted_at": "2026-09-25T05:31:12.459319+00:00"
         },
         {
@@ -106668,6 +106663,13 @@
           "target_video_id": "29137549",
           "permanent": false,
           "attempted_at": "2026-09-25T06:18:19.298179+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29163089",
+          "target_video_id": "29137549",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:50:48.803400+00:00"
         }
       ],
       "last_plan": {
@@ -107649,6 +107651,12 @@
         "target_video_id": "29630739",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T01:22:34.906292+00:00"
+      },
+      "claim": {
+        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-4",
+        "claimed_at": "2026-09-25T09:50:49.110370+00:00",
+        "lease_expires_at": "2026-09-25T15:50:49.110370+00:00",
+        "run_id": "36098675156"
       }
     },
     "37188": {
@@ -259876,5 +259884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T09:50:41.481257+00:00"
+  "updated_at": "2026-09-25T09:50:50.417044+00:00"
 }
