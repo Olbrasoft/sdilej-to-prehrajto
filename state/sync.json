@@ -223709,13 +223709,6 @@
           "source_id": "11032374",
           "target_video_id": "29658195",
           "permanent": false,
-          "attempted_at": "2026-09-25T14:01:35.523791+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11032374",
-          "target_video_id": "29658195",
-          "permanent": false,
           "attempted_at": "2026-09-25T15:02:39.819299+00:00"
         },
         {
@@ -223724,6 +223717,13 @@
           "target_video_id": "29658195",
           "permanent": false,
           "attempted_at": "2026-09-25T16:08:49.539692+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11032374",
+          "target_video_id": "29658195",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:59:24.638799+00:00"
         }
       ],
       "last_plan": {
@@ -223736,12 +223736,6 @@
         "target_video_id": "29658195",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-24T01:54:30.435102+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
-        "claimed_at": "2026-09-25T16:59:21.860257+00:00",
-        "lease_expires_at": "2026-09-25T22:59:21.860257+00:00",
-        "run_id": "36124164637"
       }
     },
     "11213": {
@@ -223808,22 +223802,10 @@
           "attempted_at": "2026-09-25T16:08:49.329708+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "13224508",
-        "display_name": "Hříšný tanec 2 (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T16:58:51.230517+00:00"
-      },
       "previous_target_id": "29658345",
-      "prepared": {
+      "upload": {
         "target_video_id": "29658345",
-        "size_bytes": 2000000000,
-        "prepared_at": "2026-09-24T02:01:41.884099+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
-        "claimed_at": "2026-09-25T16:59:19.282871+00:00",
-        "lease_expires_at": "2026-09-25T22:59:19.282871+00:00",
-        "run_id": "36124164637"
+        "uploaded_at": "2026-09-25T16:59:25.212708+00:00"
       }
     },
     "24352": {
@@ -224242,6 +224224,12 @@
         "target_video_id": "29658497",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-24T02:13:52.458808+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-3",
+        "claimed_at": "2026-09-25T16:59:24.414381+00:00",
+        "lease_expires_at": "2026-09-25T22:59:24.414381+00:00",
+        "run_id": "36124164637"
       }
     },
     "34182": {
@@ -224281,6 +224269,12 @@
         "target_video_id": "29658504",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-24T02:14:37.653218+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-1",
+        "claimed_at": "2026-09-25T16:59:24.866152+00:00",
+        "lease_expires_at": "2026-09-25T22:59:24.866152+00:00",
+        "run_id": "36124164637"
       }
     },
     "17518": {
@@ -263167,5 +263161,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:59:22.076171+00:00"
+  "updated_at": "2026-09-25T16:59:25.212750+00:00"
 }
