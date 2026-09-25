@@ -21804,13 +21804,6 @@
           "source_id": "33258563",
           "target_video_id": "29136383",
           "permanent": false,
-          "attempted_at": "2026-09-25T03:02:18.045280+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33258563",
-          "target_video_id": "29136383",
-          "permanent": false,
           "attempted_at": "2026-09-25T03:33:45.693103+00:00"
         },
         {
@@ -21819,6 +21812,13 @@
           "target_video_id": "29136383",
           "permanent": false,
           "attempted_at": "2026-09-25T04:18:40.937772+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33258563",
+          "target_video_id": "29136383",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:51:49.069995+00:00"
         }
       ],
       "last_plan": {
@@ -21831,13 +21831,7 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
       },
-      "previous_target_id": "29136383",
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
-        "claimed_at": "2026-09-25T04:51:45.905187+00:00",
-        "lease_expires_at": "2026-09-25T10:51:45.905187+00:00",
-        "run_id": "36072552924"
-      }
+      "previous_target_id": "29136383"
     },
     "1249": {
       "attempts": [
@@ -21994,13 +21988,6 @@
           "source_id": "32676884",
           "target_video_id": "29635846",
           "permanent": false,
-          "attempted_at": "2026-09-25T03:02:19.480050+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32676884",
-          "target_video_id": "29635846",
-          "permanent": false,
           "attempted_at": "2026-09-25T03:33:45.137410+00:00"
         },
         {
@@ -22009,6 +21996,13 @@
           "target_video_id": "29635846",
           "permanent": false,
           "attempted_at": "2026-09-25T04:18:44.196567+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32676884",
+          "target_video_id": "29635846",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:51:48.775738+00:00"
         }
       ],
       "last_plan": {
@@ -22021,12 +22015,6 @@
         "target_video_id": "29635846",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-23T06:58:19.800388+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-2",
-        "claimed_at": "2026-09-25T04:51:45.632990+00:00",
-        "lease_expires_at": "2026-09-25T10:51:45.632990+00:00",
-        "run_id": "36072552924"
       }
     },
     "1158": {
@@ -22408,7 +22396,13 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-09-05T03:43:51.599271+00:00"
       },
-      "previous_target_id": "29118333"
+      "previous_target_id": "29118333",
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-5",
+        "claimed_at": "2026-09-25T04:51:49.368425+00:00",
+        "lease_expires_at": "2026-09-25T10:51:49.368425+00:00",
+        "run_id": "36072552924"
+      }
     },
     "23298": {
       "attempts": [
@@ -22444,7 +22438,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:06.554745+00:00"
       },
-      "previous_target_id": "29118389"
+      "previous_target_id": "29118389",
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-2",
+        "claimed_at": "2026-09-25T04:51:49.961064+00:00",
+        "lease_expires_at": "2026-09-25T10:51:49.961064+00:00",
+        "run_id": "36072552924"
+      }
     },
     "1128": {
       "attempts": [
@@ -22553,7 +22553,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:03.306529+00:00"
       },
-      "previous_target_id": "29118413"
+      "previous_target_id": "29118413",
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
+        "claimed_at": "2026-09-25T04:51:49.651218+00:00",
+        "lease_expires_at": "2026-09-25T10:51:49.651218+00:00",
+        "run_id": "36072552924"
+      }
     },
     "14460": {
       "attempts": []
@@ -99348,17 +99354,19 @@
       "attempts": []
     },
     "13015": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29473258",
+          "target_video_id": "29691832",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:51:50.532413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29473258",
         "display_name": "Smrť chodí po horách (1979) 1080p CZ Dabing",
         "planned_at": "2026-09-25T04:37:25.216389+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-3",
-        "claimed_at": "2026-09-25T04:44:13.715123+00:00",
-        "lease_expires_at": "2026-09-25T10:44:13.715123+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29691832",
       "prepared": {
@@ -258528,5 +258536,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T04:51:46.609393+00:00"
+  "updated_at": "2026-09-25T04:51:50.532428+00:00"
 }
