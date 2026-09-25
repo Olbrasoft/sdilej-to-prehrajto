@@ -235288,13 +235288,6 @@
           "permanent": false,
           "source_id": "9549271",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:36:57.084365+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "9549271",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:11.709871+00:00"
         },
         {
@@ -235303,6 +235296,13 @@
           "target_video_id": "29709428",
           "permanent": false,
           "attempted_at": "2026-09-25T17:17:59.000056+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9549271",
+          "target_video_id": "29709428",
+          "permanent": false,
+          "attempted_at": "2026-09-25T18:01:24.149802+00:00"
         }
       ],
       "last_plan": {
@@ -235313,7 +235313,7 @@
       "previous_target_id": "29709428",
       "prepared": {
         "target_video_id": "29709428",
-        "size_bytes": 1848114452,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-25T17:14:15.508725+00:00"
       }
     },
@@ -235325,6 +235325,13 @@
           "target_video_id": "29709423",
           "permanent": false,
           "attempted_at": "2026-09-25T17:19:37.181869+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30031182",
+          "target_video_id": "29709423",
+          "permanent": false,
+          "attempted_at": "2026-09-25T18:01:25.740114+00:00"
         }
       ],
       "last_plan": {
@@ -235335,7 +235342,7 @@
       "previous_target_id": "29709423",
       "prepared": {
         "target_video_id": "29709423",
-        "size_bytes": 2380450892,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-25T17:14:07.165225+00:00"
       }
     },
@@ -235363,16 +235370,10 @@
           "attempted_at": "2026-09-25T17:15:01.311169+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34786062",
-        "display_name": "Princezna Slonbidlo (1990) SD",
-        "planned_at": "2026-09-25T17:59:40.546425+00:00"
-      },
       "previous_target_id": "29709425",
-      "prepared": {
+      "upload": {
         "target_video_id": "29709425",
-        "size_bytes": 570012322,
-        "prepared_at": "2026-09-25T17:14:12.963680+00:00"
+        "uploaded_at": "2026-09-25T18:01:27.417248+00:00"
       }
     },
     "19928": {
@@ -263584,5 +263585,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T18:01:15.343708+00:00"
+  "updated_at": "2026-09-25T18:01:27.417267+00:00"
 }
