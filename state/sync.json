@@ -103870,17 +103870,19 @@
       }
     },
     "12595": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30649947",
+          "target_video_id": "29708951",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:51:58.261290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30649947",
         "display_name": "Slečna matinka (1938) SD CZ Dabing",
         "planned_at": "2026-09-25T16:47:21.482735+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-1",
-        "claimed_at": "2026-09-25T16:49:13.233196+00:00",
-        "lease_expires_at": "2026-09-25T22:49:13.233196+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29708951",
       "prepared": {
@@ -108500,13 +108502,6 @@
           "source_id": "34451753",
           "target_video_id": "29448179",
           "permanent": false,
-          "attempted_at": "2026-09-25T13:42:17.699573+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34451753",
-          "target_video_id": "29448179",
-          "permanent": false,
           "attempted_at": "2026-09-25T14:47:05.279131+00:00"
         },
         {
@@ -108515,6 +108510,13 @@
           "target_video_id": "29448179",
           "permanent": false,
           "attempted_at": "2026-09-25T16:03:27.195049+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34451753",
+          "target_video_id": "29448179",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:51:57.218609+00:00"
         }
       ],
       "last_plan": {
@@ -108607,13 +108609,6 @@
           "source_id": "31011202",
           "target_video_id": "29575452",
           "permanent": false,
-          "attempted_at": "2026-09-25T13:42:19.937940+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31011202",
-          "target_video_id": "29575452",
-          "permanent": false,
           "attempted_at": "2026-09-25T14:47:08.100893+00:00"
         },
         {
@@ -108622,6 +108617,13 @@
           "target_video_id": "29575452",
           "permanent": false,
           "attempted_at": "2026-09-25T16:03:27.713500+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31011202",
+          "target_video_id": "29575452",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:51:57.518609+00:00"
         }
       ],
       "last_plan": {
@@ -108884,7 +108886,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T16:05:58.248524+00:00"
       },
-      "previous_target_id": "29137549"
+      "previous_target_id": "29137549",
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
+        "claimed_at": "2026-09-25T16:51:57.780437+00:00",
+        "lease_expires_at": "2026-09-25T22:51:57.780437+00:00",
+        "run_id": "36124164637"
+      }
     },
     "12723": {
       "attempts": [
@@ -109853,6 +109861,12 @@
         "target_video_id": "29630739",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T01:22:34.906292+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-3",
+        "claimed_at": "2026-09-25T16:51:58.029515+00:00",
+        "lease_expires_at": "2026-09-25T22:51:58.029515+00:00",
+        "run_id": "36124164637"
       }
     },
     "37188": {
@@ -263105,5 +263119,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:51:53.211872+00:00"
+  "updated_at": "2026-09-25T16:51:58.261312+00:00"
 }
