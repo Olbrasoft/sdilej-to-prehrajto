@@ -233065,13 +233065,6 @@
           "permanent": false,
           "source_id": "27124736",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:21.077251+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27124736",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:47.887921+00:00"
         },
         {
@@ -233080,6 +233073,13 @@
           "target_video_id": "29707359",
           "permanent": false,
           "attempted_at": "2026-09-25T15:28:46.055596+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27124736",
+          "target_video_id": "29707359",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:33.496340+00:00"
         }
       ],
       "last_plan": {
@@ -233090,14 +233090,8 @@
       "previous_target_id": "29707359",
       "prepared": {
         "target_video_id": "29707359",
-        "size_bytes": 2137597162,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-25T15:23:58.548940+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
-        "claimed_at": "2026-09-25T16:11:29.781173+00:00",
-        "lease_expires_at": "2026-09-25T22:11:29.781173+00:00",
-        "run_id": "36124164637"
       }
     },
     "18939": {
@@ -233188,22 +233182,10 @@
           "attempted_at": "2026-09-25T15:31:34.975458+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34902294",
-        "display_name": "Frakce (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T16:10:49.728792+00:00"
-      },
       "previous_target_id": "29707398",
-      "prepared": {
+      "upload": {
         "target_video_id": "29707398",
-        "size_bytes": 2139078467,
-        "prepared_at": "2026-09-25T15:26:12.099871+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T16:11:30.790870+00:00",
-        "lease_expires_at": "2026-09-25T22:11:30.790870+00:00",
-        "run_id": "36124164637"
+        "uploaded_at": "2026-09-25T16:11:33.949366+00:00"
       }
     },
     "28125": {
@@ -233343,6 +233325,12 @@
         "target_video_id": "29707498",
         "size_bytes": 3230473150,
         "prepared_at": "2026-09-25T15:31:46.957095+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
+        "claimed_at": "2026-09-25T16:11:33.719460+00:00",
+        "lease_expires_at": "2026-09-25T22:11:33.719460+00:00",
+        "run_id": "36124164637"
       }
     },
     "22746": {
@@ -262528,5 +262516,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:11:31.290543+00:00"
+  "updated_at": "2026-09-25T16:11:33.949392+00:00"
 }
