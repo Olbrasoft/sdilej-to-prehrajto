@@ -229979,13 +229979,6 @@
           "permanent": false,
           "source_id": "33725272",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:04:24.617002+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33725272",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:05:08.003098+00:00"
         },
         {
@@ -229994,6 +229987,13 @@
           "target_video_id": "29696689",
           "permanent": false,
           "attempted_at": "2026-09-25T08:13:32.369982+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33725272",
+          "target_video_id": "29696689",
+          "permanent": false,
+          "attempted_at": "2026-09-25T12:58:09.246690+00:00"
         }
       ],
       "last_plan": {
@@ -230004,7 +230004,7 @@
       "previous_target_id": "29696689",
       "prepared": {
         "target_video_id": "29696689",
-        "size_bytes": 2134946946,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-25T08:07:25.689503+00:00"
       }
     },
@@ -230022,6 +230022,18 @@
         "source_id": "34186501",
         "display_name": "Vindicta (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-25T12:30:25.723900+00:00"
+      },
+      "claim": {
+        "worker_id": "c90dbc5c5cd8489da116cd6352cc46ac-shard-2",
+        "claimed_at": "2026-09-25T12:58:09.445663+00:00",
+        "lease_expires_at": "2026-09-25T18:58:09.445663+00:00",
+        "run_id": "36124164637"
+      },
+      "previous_target_id": "29704543",
+      "prepared": {
+        "target_video_id": "29704543",
+        "size_bytes": 3726267669,
+        "prepared_at": "2026-09-25T12:58:13.075230+00:00"
       }
     },
     "19857": {
@@ -260758,5 +260770,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T12:57:56.969408+00:00"
+  "updated_at": "2026-09-25T12:58:13.075248+00:00"
 }
