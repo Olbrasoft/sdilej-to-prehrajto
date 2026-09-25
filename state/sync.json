@@ -232384,13 +232384,6 @@
           "permanent": false,
           "source_id": "12783271",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:14.394166+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12783271",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:44.528919+00:00"
         },
         {
@@ -232399,6 +232392,13 @@
           "target_video_id": "29707045",
           "permanent": false,
           "attempted_at": "2026-09-25T15:13:39.274271+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12783271",
+          "target_video_id": "29707045",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:13.087957+00:00"
         }
       ],
       "last_plan": {
@@ -232409,14 +232409,8 @@
       "previous_target_id": "29707045",
       "prepared": {
         "target_video_id": "29707045",
-        "size_bytes": 3091156864,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-25T15:05:09.046042+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
-        "claimed_at": "2026-09-25T16:11:10.294293+00:00",
-        "lease_expires_at": "2026-09-25T22:11:10.294293+00:00",
-        "run_id": "36124164637"
       }
     },
     "19820": {
@@ -232473,13 +232467,6 @@
           "permanent": false,
           "source_id": "33567545",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:15.198543+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33567545",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:45.259538+00:00"
         },
         {
@@ -232488,6 +232475,13 @@
           "target_video_id": "29707046",
           "permanent": false,
           "attempted_at": "2026-09-25T15:10:29.554628+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33567545",
+          "target_video_id": "29707046",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:12.856110+00:00"
         }
       ],
       "last_plan": {
@@ -232498,14 +232492,8 @@
       "previous_target_id": "29707046",
       "prepared": {
         "target_video_id": "29707046",
-        "size_bytes": 1989562658,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-25T15:05:11.533343+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T16:11:10.039376+00:00",
-        "lease_expires_at": "2026-09-25T22:11:10.039376+00:00",
-        "run_id": "36124164637"
       }
     },
     "19972": {
@@ -232575,6 +232563,12 @@
         "target_video_id": "29707060",
         "size_bytes": 3621921521,
         "prepared_at": "2026-09-25T15:05:45.895321+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-4",
+        "claimed_at": "2026-09-25T16:11:13.541816+00:00",
+        "lease_expires_at": "2026-09-25T22:11:13.541816+00:00",
+        "run_id": "36124164637"
       }
     },
     "22175": {
@@ -232656,16 +232650,10 @@
           "attempted_at": "2026-09-25T15:11:41.794925+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28956739",
-        "display_name": "Rádio Rebel (2012) SD CZ Dabing",
-        "planned_at": "2026-09-25T16:10:46.727279+00:00"
-      },
       "previous_target_id": "29707125",
-      "prepared": {
+      "upload": {
         "target_video_id": "29707125",
-        "size_bytes": 981662784,
-        "prepared_at": "2026-09-25T15:09:33.037081+00:00"
+        "uploaded_at": "2026-09-25T16:11:14.573969+00:00"
       }
     },
     "12371": {
@@ -232705,6 +232693,12 @@
         "target_video_id": "29707140",
         "size_bytes": 2394053588,
         "prepared_at": "2026-09-25T15:10:47.251760+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-5",
+        "claimed_at": "2026-09-25T16:11:13.771681+00:00",
+        "lease_expires_at": "2026-09-25T22:11:13.771681+00:00",
+        "run_id": "36124164637"
       }
     },
     "31728": {
@@ -262522,5 +262516,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:11:10.529365+00:00"
+  "updated_at": "2026-09-25T16:11:14.573988+00:00"
 }
