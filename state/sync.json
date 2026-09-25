@@ -225706,13 +225706,6 @@
           "permanent": false,
           "source_id": "21092588",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:22:18.839898+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21092588",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:22:55.248614+00:00"
         },
         {
@@ -225721,18 +225714,19 @@
           "source_id": "21092588",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:25:24.005852+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21092588",
+          "target_video_id": "29689096",
+          "permanent": false,
+          "attempted_at": "2026-09-25T03:00:34.615602+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21092588",
         "display_name": "Báječný svět shopaholiků (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-25T02:46:01.737503+00:00"
-      },
-      "claim": {
-        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-0",
-        "claimed_at": "2026-09-25T02:55:35.403630+00:00",
-        "lease_expires_at": "2026-09-25T08:55:35.403630+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29689096",
       "prepared": {
@@ -258109,5 +258103,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T03:00:25.186760+00:00"
+  "updated_at": "2026-09-25T03:00:34.615618+00:00"
 }
