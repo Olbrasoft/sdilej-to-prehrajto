@@ -225062,13 +225062,6 @@
           "permanent": false,
           "source_id": "28048191",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:24.699436+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28048191",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:07.261962+00:00"
         },
         {
@@ -225077,6 +225070,13 @@
           "target_video_id": "29687346",
           "permanent": false,
           "attempted_at": "2026-09-25T01:52:55.570890+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28048191",
+          "target_video_id": "29687346",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:52.192116+00:00"
         }
       ],
       "last_plan": {
@@ -225087,14 +225087,8 @@
       "previous_target_id": "29687346",
       "prepared": {
         "target_video_id": "29687346",
-        "size_bytes": 2333760437,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-25T01:47:13.476828+00:00"
-      },
-      "claim": {
-        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-3",
-        "claimed_at": "2026-09-25T02:46:49.503632+00:00",
-        "lease_expires_at": "2026-09-25T08:46:49.503632+00:00",
-        "run_id": "36072552924"
       }
     },
     "17536": {
@@ -225176,6 +225170,18 @@
         "source_id": "34780444",
         "display_name": "Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky",
         "planned_at": "2026-09-25T02:45:58.052528+00:00"
+      },
+      "claim": {
+        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-1",
+        "claimed_at": "2026-09-25T02:46:52.877254+00:00",
+        "lease_expires_at": "2026-09-25T08:46:52.877254+00:00",
+        "run_id": "36072552924"
+      },
+      "previous_target_id": "29688874",
+      "prepared": {
+        "target_video_id": "29688874",
+        "size_bytes": 2430141603,
+        "prepared_at": "2026-09-25T02:46:56.643125+00:00"
       }
     },
     "23343": {
@@ -225212,6 +225218,12 @@
         "source_id": "13443487",
         "display_name": "Deník šílené manželky (2005) SD CZ Dabing",
         "planned_at": "2026-09-25T02:45:58.330394+00:00"
+      },
+      "claim": {
+        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-3",
+        "claimed_at": "2026-09-25T02:46:52.526080+00:00",
+        "lease_expires_at": "2026-09-25T08:46:52.526080+00:00",
+        "run_id": "36072552924"
       }
     },
     "7157": {
@@ -258016,5 +258028,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:46:49.830016+00:00"
+  "updated_at": "2026-09-25T02:46:56.643141+00:00"
 }
