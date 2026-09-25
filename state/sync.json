@@ -62223,6 +62223,12 @@
         "target_video_id": "29574480",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-21T03:59:41.200938+00:00"
+      },
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-1",
+        "claimed_at": "2026-09-25T02:28:26.931607+00:00",
+        "lease_expires_at": "2026-09-25T08:28:26.931607+00:00",
+        "run_id": "36072552924"
       }
     },
     "10888": {
@@ -62544,7 +62550,13 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
       },
-      "previous_target_id": "29141791"
+      "previous_target_id": "29141791",
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-3",
+        "claimed_at": "2026-09-25T02:28:27.195516+00:00",
+        "lease_expires_at": "2026-09-25T08:28:27.195516+00:00",
+        "run_id": "36072552924"
+      }
     },
     "2558": {
       "attempts": []
@@ -98235,17 +98247,19 @@
       }
     },
     "12751": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32363401",
+          "target_video_id": "29688120",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:28:27.464504+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32363401",
         "display_name": "„Já už budu hodný, dědečku!“ (1979) 1080p CZ Dabing",
         "planned_at": "2026-09-25T02:07:16.937244+00:00"
-      },
-      "claim": {
-        "worker_id": "0c00173bace04401820df47623d03f9f-shard-2",
-        "claimed_at": "2026-09-25T02:19:04.616463+00:00",
-        "lease_expires_at": "2026-09-25T08:19:04.616463+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29688120",
       "prepared": {
@@ -257993,5 +258007,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:28:24.751719+00:00"
+  "updated_at": "2026-09-25T02:28:27.464521+00:00"
 }
