@@ -231819,13 +231819,6 @@
           "permanent": false,
           "source_id": "34770840",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T20:06:34.772216+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34770840",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T02:10:11.371473+00:00"
         },
         {
@@ -231834,18 +231827,19 @@
           "source_id": "34770840",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:42.008353+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34770840",
+          "target_video_id": "29706671",
+          "permanent": false,
+          "attempted_at": "2026-09-25T14:36:44.699753+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34770840",
         "display_name": "Speed Faster (2026) SD CZ Titulky",
         "planned_at": "2026-09-25T14:03:55.792877+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-3",
-        "claimed_at": "2026-09-25T14:35:30.117528+00:00",
-        "lease_expires_at": "2026-09-25T20:35:30.117528+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29706671",
       "prepared": {
@@ -261618,5 +261612,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T14:36:42.324061+00:00"
+  "updated_at": "2026-09-25T14:36:44.699788+00:00"
 }
