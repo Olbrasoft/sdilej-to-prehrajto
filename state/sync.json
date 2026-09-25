@@ -21831,7 +21831,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
       },
-      "previous_target_id": "29136383"
+      "previous_target_id": "29136383",
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
+        "claimed_at": "2026-09-25T04:51:45.905187+00:00",
+        "lease_expires_at": "2026-09-25T10:51:45.905187+00:00",
+        "run_id": "36072552924"
+      }
     },
     "1249": {
       "attempts": [
@@ -21908,16 +21914,10 @@
           "attempted_at": "2026-09-25T04:18:42.561499+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11716640",
-        "display_name": "Texaský masakr motorovou pilou (1974) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T04:51:04.395957+00:00"
-      },
       "previous_target_id": "29633332",
-      "prepared": {
+      "upload": {
         "target_video_id": "29633332",
-        "size_bytes": 2100000000,
-        "prepared_at": "2026-09-23T04:01:29.704661+00:00"
+        "uploaded_at": "2026-09-25T04:51:46.609377+00:00"
       }
     },
     "1168": {
@@ -22021,6 +22021,12 @@
         "target_video_id": "29635846",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-23T06:58:19.800388+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-2",
+        "claimed_at": "2026-09-25T04:51:45.632990+00:00",
+        "lease_expires_at": "2026-09-25T10:51:45.632990+00:00",
+        "run_id": "36072552924"
       }
     },
     "1158": {
@@ -258522,5 +258528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T04:51:43.209570+00:00"
+  "updated_at": "2026-09-25T04:51:46.609393+00:00"
 }
