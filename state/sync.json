@@ -101500,17 +101500,19 @@
       }
     },
     "32019": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33706152",
+          "reason": "Request failed for https://sdilej.cz/33706152/vsichni-musi-byt-v-pyzamu-1985-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:51:10.482260+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33706152",
         "display_name": "Všichni musí být v pyžamu (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-25T09:36:14.068575+00:00"
-      },
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-5",
-        "claimed_at": "2026-09-25T09:50:22.502532+00:00",
-        "lease_expires_at": "2026-09-25T15:50:22.502532+00:00",
-        "run_id": "36098675156"
       }
     },
     "24059": {
@@ -259878,5 +259880,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T09:51:05.018942+00:00"
+  "updated_at": "2026-09-25T09:51:10.482276+00:00"
 }
