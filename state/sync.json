@@ -123233,17 +123233,19 @@
       "attempts": []
     },
     "3479": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34721412",
+          "reason": "Request failed for https://sdilej.cz/34721412/popstar-vse-pro-slavu-2016-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:00:23.809371+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34721412",
         "display_name": "Popstar: Vše pro slávu (2016) 720p CZ Dabing",
         "planned_at": "2026-09-25T04:59:03.896163+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-4",
-        "claimed_at": "2026-09-25T04:59:35.725059+00:00",
-        "lease_expires_at": "2026-09-25T10:59:35.725059+00:00",
-        "run_id": "36072552924"
       }
     },
     "3400": {
@@ -128520,13 +128522,6 @@
           "source_id": "32658658",
           "target_video_id": "29674993",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:19:42.811969+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32658658",
-          "target_video_id": "29674993",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:36:34.514236+00:00"
         },
         {
@@ -128535,6 +128530,13 @@
           "target_video_id": "29674993",
           "permanent": false,
           "attempted_at": "2026-09-25T03:30:46.695039+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32658658",
+          "target_video_id": "29674993",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:00:23.524911+00:00"
         }
       ],
       "last_plan": {
@@ -128547,12 +128549,6 @@
         "target_video_id": "29674993",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-24T17:31:38.615797+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-3",
-        "claimed_at": "2026-09-25T05:00:19.971699+00:00",
-        "lease_expires_at": "2026-09-25T11:00:19.971699+00:00",
-        "run_id": "36072552924"
       }
     },
     "21159": {
@@ -258596,5 +258592,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:00:21.394981+00:00"
+  "updated_at": "2026-09-25T05:00:23.809388+00:00"
 }
