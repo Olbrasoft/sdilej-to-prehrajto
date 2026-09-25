@@ -226429,13 +226429,6 @@
           "permanent": false,
           "source_id": "33746930",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:30:46.854254+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33746930",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:31:24.454349+00:00"
         },
         {
@@ -226444,6 +226437,13 @@
           "target_video_id": "29689183",
           "permanent": false,
           "attempted_at": "2026-09-25T03:04:35.114786+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746930",
+          "target_video_id": "29689183",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:15:29.225477+00:00"
         }
       ],
       "last_plan": {
@@ -226454,7 +226454,7 @@
       "previous_target_id": "29689183",
       "prepared": {
         "target_video_id": "29689183",
-        "size_bytes": 2569388134,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-25T02:58:34.133324+00:00"
       }
     },
@@ -226485,16 +226485,10 @@
           "attempted_at": "2026-09-25T03:03:43.973969+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34730132",
-        "display_name": "Noah’s Shark (2021) 720p CZ Titulky",
-        "planned_at": "2026-09-25T05:12:04.354876+00:00"
-      },
       "previous_target_id": "29689198",
-      "prepared": {
+      "upload": {
         "target_video_id": "29689198",
-        "size_bytes": 1639957365,
-        "prepared_at": "2026-09-25T02:59:11.388059+00:00"
+        "uploaded_at": "2026-09-25T05:15:30.962698+00:00"
       }
     },
     "6678": {
@@ -258614,5 +258608,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:15:21.818928+00:00"
+  "updated_at": "2026-09-25T05:15:30.962709+00:00"
 }
