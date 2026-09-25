@@ -117463,17 +117463,19 @@
       "attempts": []
     },
     "15900": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21422977",
+          "reason": "Request failed for https://sdilej.cz/21422977/nekonecny-boj-2015-1080p-1920x1012-cz-dabong-zdeno791.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:59:37.313464+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21422977",
         "display_name": "Nekonečný boj (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-25T04:58:19.058334+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-0",
-        "claimed_at": "2026-09-25T04:58:50.505942+00:00",
-        "lease_expires_at": "2026-09-25T10:58:50.505942+00:00",
-        "run_id": "36072552924"
       }
     },
     "21509": {
@@ -122380,13 +122382,6 @@
           "source_id": "31820907",
           "target_video_id": "29199525",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:19:09.545812+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31820907",
-          "target_video_id": "29199525",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:20:30.665204+00:00"
         },
         {
@@ -122395,6 +122390,13 @@
           "target_video_id": "29199525",
           "permanent": false,
           "attempted_at": "2026-09-25T03:30:22.197105+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31820907",
+          "target_video_id": "29199525",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:59:34.020111+00:00"
         }
       ],
       "last_plan": {
@@ -122407,13 +122409,7 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-09-07T23:13:39.054055+00:00"
       },
-      "previous_target_id": "29199525",
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-5",
-        "claimed_at": "2026-09-25T04:59:30.370310+00:00",
-        "lease_expires_at": "2026-09-25T10:59:30.370310+00:00",
-        "run_id": "36072552924"
-      }
+      "previous_target_id": "29199525"
     },
     "24345": {
       "attempts": []
@@ -122537,13 +122533,6 @@
           "source_id": "29133513",
           "target_video_id": "29199524",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:19:10.621309+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29133513",
-          "target_video_id": "29199524",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:20:33.417068+00:00"
         },
         {
@@ -122552,6 +122541,13 @@
           "target_video_id": "29199524",
           "permanent": false,
           "attempted_at": "2026-09-25T03:30:22.660500+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29133513",
+          "target_video_id": "29199524",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:59:35.092053+00:00"
         }
       ],
       "last_plan": {
@@ -122862,13 +122858,6 @@
           "source_id": "25275828",
           "target_video_id": "29199678",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:19:11.472976+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25275828",
-          "target_video_id": "29199678",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:20:32.916166+00:00"
         },
         {
@@ -122877,6 +122866,13 @@
           "target_video_id": "29199678",
           "permanent": false,
           "attempted_at": "2026-09-25T03:30:24.730774+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25275828",
+          "target_video_id": "29199678",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:59:34.729601+00:00"
         }
       ],
       "last_plan": {
@@ -123070,13 +123066,6 @@
           "source_id": "34964861",
           "target_video_id": "29279515",
           "permanent": false,
-          "attempted_at": "2026-09-25T01:19:12.475590+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34964861",
-          "target_video_id": "29279515",
-          "permanent": false,
           "attempted_at": "2026-09-25T02:24:43.928693+00:00"
         },
         {
@@ -123085,6 +123074,13 @@
           "target_video_id": "29279515",
           "permanent": false,
           "attempted_at": "2026-09-25T03:30:23.253998+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34964861",
+          "target_video_id": "29279515",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:59:36.011165+00:00"
         }
       ],
       "last_plan": {
@@ -123241,6 +123237,12 @@
         "source_id": "34721412",
         "display_name": "Popstar: Vše pro slávu (2016) 720p CZ Dabing",
         "planned_at": "2026-09-25T04:59:03.896163+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-4",
+        "claimed_at": "2026-09-25T04:59:35.725059+00:00",
+        "lease_expires_at": "2026-09-25T10:59:35.725059+00:00",
+        "run_id": "36072552924"
       }
     },
     "3400": {
@@ -123273,6 +123275,12 @@
         "source_id": "34651513",
         "display_name": "Dožeň, co se dá! (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-25T04:59:04.162619+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
+        "claimed_at": "2026-09-25T04:59:35.374833+00:00",
+        "lease_expires_at": "2026-09-25T10:59:35.374833+00:00",
+        "run_id": "36072552924"
       }
     },
     "23720": {
@@ -123361,7 +123369,13 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-13T04:24:26.168856+00:00"
       },
-      "previous_target_id": "29339141"
+      "previous_target_id": "29339141",
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-5",
+        "claimed_at": "2026-09-25T04:59:36.349552+00:00",
+        "lease_expires_at": "2026-09-25T10:59:36.349552+00:00",
+        "run_id": "36072552924"
+      }
     },
     "14854": {
       "attempts": []
@@ -258567,5 +258581,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T04:59:31.421163+00:00"
+  "updated_at": "2026-09-25T04:59:37.313525+00:00"
 }
