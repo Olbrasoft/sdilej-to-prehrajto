@@ -100713,17 +100713,19 @@
       }
     },
     "11390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34786934",
+          "target_video_id": "29701713",
+          "permanent": false,
+          "attempted_at": "2026-09-25T11:24:07.796030+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786934",
         "display_name": "Kosenie Jastrabej lúky (1982) 1080p SK Dabing",
         "planned_at": "2026-09-25T11:17:09.058722+00:00"
-      },
-      "claim": {
-        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-1",
-        "claimed_at": "2026-09-25T11:19:58.945121+00:00",
-        "lease_expires_at": "2026-09-25T17:19:58.945121+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29701713",
       "prepared": {
@@ -101136,6 +101138,13 @@
           "target_video_id": "29699182",
           "permanent": false,
           "attempted_at": "2026-09-25T09:48:54.957909+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33957932",
+          "target_video_id": "29699182",
+          "permanent": false,
+          "attempted_at": "2026-09-25T11:24:04.799175+00:00"
         }
       ],
       "last_plan": {
@@ -101146,7 +101155,7 @@
       "previous_target_id": "29699182",
       "prepared": {
         "target_video_id": "29699182",
-        "size_bytes": 1619196713,
+        "size_bytes": 1600000000,
         "prepared_at": "2026-09-25T09:42:50.380792+00:00"
       }
     },
@@ -101165,6 +101174,12 @@
         "source_id": "26541445",
         "display_name": "Hledá se táta! (1961) SD",
         "planned_at": "2026-09-25T11:21:00.789757+00:00"
+      },
+      "claim": {
+        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-5",
+        "claimed_at": "2026-09-25T11:24:05.020179+00:00",
+        "lease_expires_at": "2026-09-25T17:24:05.020179+00:00",
+        "run_id": "36124164637"
       }
     },
     "29439": {
@@ -260489,5 +260504,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T11:24:00.777498+00:00"
+  "updated_at": "2026-09-25T11:24:07.796051+00:00"
 }
