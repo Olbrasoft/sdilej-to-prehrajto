@@ -21673,13 +21673,6 @@
           "source_id": "35087204",
           "target_video_id": "29633112",
           "permanent": false,
-          "attempted_at": "2026-09-25T09:14:25.803562+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35087204",
-          "target_video_id": "29633112",
-          "permanent": false,
           "attempted_at": "2026-09-25T09:53:04.481510+00:00"
         },
         {
@@ -21688,6 +21681,13 @@
           "target_video_id": "29633112",
           "permanent": false,
           "attempted_at": "2026-09-25T11:05:09.274247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35087204",
+          "target_video_id": "29633112",
+          "permanent": false,
+          "attempted_at": "2026-09-25T11:38:23.622172+00:00"
         }
       ],
       "last_plan": {
@@ -21700,12 +21700,6 @@
         "target_video_id": "29633112",
         "size_bytes": 5100000000,
         "prepared_at": "2026-09-23T03:48:25.698412+00:00"
-      },
-      "claim": {
-        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-2",
-        "claimed_at": "2026-09-25T11:38:20.652497+00:00",
-        "lease_expires_at": "2026-09-25T17:38:20.652497+00:00",
-        "run_id": "36124164637"
       }
     },
     "36749": {
@@ -21810,13 +21804,6 @@
           "source_id": "33258563",
           "target_video_id": "29136383",
           "permanent": false,
-          "attempted_at": "2026-09-25T09:14:27.298569+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33258563",
-          "target_video_id": "29136383",
-          "permanent": false,
           "attempted_at": "2026-09-25T09:53:05.381083+00:00"
         },
         {
@@ -21825,6 +21812,13 @@
           "target_video_id": "29136383",
           "permanent": false,
           "attempted_at": "2026-09-25T11:05:11.080675+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33258563",
+          "target_video_id": "29136383",
+          "permanent": false,
+          "attempted_at": "2026-09-25T11:38:23.840887+00:00"
         }
       ],
       "last_plan": {
@@ -21837,13 +21831,7 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T16:23:56.627055+00:00"
       },
-      "previous_target_id": "29136383",
-      "claim": {
-        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-4",
-        "claimed_at": "2026-09-25T11:38:20.440906+00:00",
-        "lease_expires_at": "2026-09-25T17:38:20.440906+00:00",
-        "run_id": "36124164637"
-      }
+      "previous_target_id": "29136383"
     },
     "1249": {
       "attempts": [
@@ -22027,6 +22015,12 @@
         "target_video_id": "29635846",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-23T06:58:19.800388+00:00"
+      },
+      "claim": {
+        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-1",
+        "claimed_at": "2026-09-25T11:38:24.054806+00:00",
+        "lease_expires_at": "2026-09-25T17:38:24.054806+00:00",
+        "run_id": "36124164637"
       }
     },
     "1158": {
@@ -22408,7 +22402,13 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-09-05T03:43:51.599271+00:00"
       },
-      "previous_target_id": "29118333"
+      "previous_target_id": "29118333",
+      "claim": {
+        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-2",
+        "claimed_at": "2026-09-25T11:38:24.479131+00:00",
+        "lease_expires_at": "2026-09-25T17:38:24.479131+00:00",
+        "run_id": "36124164637"
+      }
     },
     "23298": {
       "attempts": [
@@ -22444,7 +22444,13 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-05T03:44:06.554745+00:00"
       },
-      "previous_target_id": "29118389"
+      "previous_target_id": "29118389",
+      "claim": {
+        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-4",
+        "claimed_at": "2026-09-25T11:38:24.271611+00:00",
+        "lease_expires_at": "2026-09-25T17:38:24.271611+00:00",
+        "run_id": "36124164637"
+      }
     },
     "1128": {
       "attempts": [
@@ -103356,17 +103362,19 @@
       "attempts": []
     },
     "33517": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716543",
+          "target_video_id": "29702146",
+          "permanent": false,
+          "attempted_at": "2026-09-25T11:38:24.740839+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716543",
         "display_name": "Ukradený stát (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-25T11:21:10.683222+00:00"
-      },
-      "claim": {
-        "worker_id": "ad7996e55f2f4a2a997d51b4b4701e7c-shard-3",
-        "claimed_at": "2026-09-25T11:33:35.657155+00:00",
-        "lease_expires_at": "2026-09-25T17:33:35.657155+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29702146",
       "prepared": {
@@ -260881,5 +260889,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T11:38:21.381024+00:00"
+  "updated_at": "2026-09-25T11:38:24.740859+00:00"
 }
