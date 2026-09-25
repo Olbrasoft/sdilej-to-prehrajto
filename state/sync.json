@@ -96995,17 +96995,19 @@
       }
     },
     "32293": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25971005",
+          "reason": "Request failed for https://sdilej.cz/25971005/sovi-hnizdo.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:01:22.723756+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25971005",
         "display_name": "Soví hnízdo (1982) SD CZ Dabing",
         "planned_at": "2026-09-25T02:00:08.486411+00:00"
-      },
-      "claim": {
-        "worker_id": "0c00173bace04401820df47623d03f9f-shard-2",
-        "claimed_at": "2026-09-25T02:00:36.494932+00:00",
-        "lease_expires_at": "2026-09-25T08:00:36.494932+00:00",
-        "run_id": "36072552924"
       }
     },
     "13822": {
@@ -101025,6 +101027,12 @@
         "target_video_id": "29663133",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-24T07:47:57.503753+00:00"
+      },
+      "claim": {
+        "worker_id": "0c00173bace04401820df47623d03f9f-shard-4",
+        "claimed_at": "2026-09-25T02:01:21.067164+00:00",
+        "lease_expires_at": "2026-09-25T08:01:21.067164+00:00",
+        "run_id": "36072552924"
       }
     },
     "37157": {
@@ -257486,5 +257494,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:01:18.969880+00:00"
+  "updated_at": "2026-09-25T02:01:22.723774+00:00"
 }
