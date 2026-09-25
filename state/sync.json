@@ -99002,17 +99002,19 @@
       }
     },
     "15210": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34689799",
+          "target_video_id": "29705454",
+          "permanent": false,
+          "attempted_at": "2026-09-25T13:35:29.286170+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34689799",
         "display_name": "Černá sobota (1961) 1080p CZ Dabing",
         "planned_at": "2026-09-25T13:26:14.252699+00:00"
-      },
-      "claim": {
-        "worker_id": "10d8e698a7ec4d298cd346eb26ae2cc6-shard-3",
-        "claimed_at": "2026-09-25T13:31:12.048894+00:00",
-        "lease_expires_at": "2026-09-25T19:31:12.048894+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29705454",
       "prepared": {
@@ -99282,6 +99284,12 @@
         "target_video_id": "29689868",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-25T03:24:24.051190+00:00"
+      },
+      "claim": {
+        "worker_id": "10d8e698a7ec4d298cd346eb26ae2cc6-shard-0",
+        "claimed_at": "2026-09-25T13:35:27.077253+00:00",
+        "lease_expires_at": "2026-09-25T19:35:27.077253+00:00",
+        "run_id": "36124164637"
       }
     },
     "34794": {
@@ -261109,5 +261117,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T13:35:20.838047+00:00"
+  "updated_at": "2026-09-25T13:35:29.286194+00:00"
 }
