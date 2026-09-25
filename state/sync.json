@@ -101758,13 +101758,6 @@
           "source_id": "26750455",
           "target_video_id": "29663032",
           "permanent": false,
-          "attempted_at": "2026-09-25T02:34:55.958235+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26750455",
-          "target_video_id": "29663032",
-          "permanent": false,
           "attempted_at": "2026-09-25T03:27:46.710111+00:00"
         },
         {
@@ -101773,6 +101766,13 @@
           "target_video_id": "29663032",
           "permanent": false,
           "attempted_at": "2026-09-25T04:56:00.136982+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26750455",
+          "target_video_id": "29663032",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:30:31.123762+00:00"
         }
       ],
       "last_plan": {
@@ -101785,12 +101785,6 @@
         "target_video_id": "29663032",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-24T07:42:30.970453+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-4",
-        "claimed_at": "2026-09-25T05:30:24.150514+00:00",
-        "lease_expires_at": "2026-09-25T11:30:24.150514+00:00",
-        "run_id": "36072552924"
       }
     },
     "11038": {
@@ -226523,13 +226517,6 @@
           "permanent": false,
           "source_id": "34493640",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:36:19.967108+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34493640",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:36:49.330663+00:00"
         },
         {
@@ -226538,18 +226525,19 @@
           "reason": "Request failed for https://sdilej.cz/34493640/akta-x-chci-uverit-2008-4k-hevc-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T03:00:25.186744+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34493640",
+          "target_video_id": "29692552",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:30:31.430395+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34493640",
         "display_name": "Akta X - Chci uvěřit (2008) 4K CZ Dabing",
         "planned_at": "2026-09-25T05:12:04.675720+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-0",
-        "claimed_at": "2026-09-25T05:15:33.114567+00:00",
-        "lease_expires_at": "2026-09-25T11:15:33.114567+00:00",
-        "run_id": "36072552924"
       },
       "previous_target_id": "29692552",
       "prepared": {
@@ -258638,5 +258626,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:30:25.188873+00:00"
+  "updated_at": "2026-09-25T05:30:31.430413+00:00"
 }
