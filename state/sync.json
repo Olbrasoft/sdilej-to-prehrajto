@@ -117361,13 +117361,6 @@
           "source_id": "25729952",
           "target_video_id": "29674481",
           "permanent": false,
-          "attempted_at": "2026-09-25T11:41:37.808334+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25729952",
-          "target_video_id": "29674481",
-          "permanent": false,
           "attempted_at": "2026-09-25T12:18:59.387549+00:00"
         },
         {
@@ -117376,6 +117369,13 @@
           "target_video_id": "29674481",
           "permanent": false,
           "attempted_at": "2026-09-25T13:42:46.537753+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25729952",
+          "target_video_id": "29674481",
+          "permanent": false,
+          "attempted_at": "2026-09-25T14:47:24.012077+00:00"
         }
       ],
       "last_plan": {
@@ -117388,12 +117388,6 @@
         "target_video_id": "29674481",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-24T17:11:13.047355+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-1",
-        "claimed_at": "2026-09-25T14:47:20.088515+00:00",
-        "lease_expires_at": "2026-09-25T20:47:20.088515+00:00",
-        "run_id": "36124164637"
       }
     },
     "35478": {
@@ -117741,13 +117735,6 @@
           "source_id": "30836792",
           "target_video_id": "29675295",
           "permanent": false,
-          "attempted_at": "2026-09-25T11:41:41.600649+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30836792",
-          "target_video_id": "29675295",
-          "permanent": false,
           "attempted_at": "2026-09-25T12:19:00.914253+00:00"
         },
         {
@@ -117756,6 +117743,13 @@
           "target_video_id": "29675295",
           "permanent": false,
           "attempted_at": "2026-09-25T13:42:47.718595+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30836792",
+          "target_video_id": "29675295",
+          "permanent": false,
+          "attempted_at": "2026-09-25T14:47:24.228753+00:00"
         }
       ],
       "last_plan": {
@@ -117768,12 +117762,6 @@
         "target_video_id": "29675295",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-24T17:46:55.753929+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T14:47:20.936562+00:00",
-        "lease_expires_at": "2026-09-25T20:47:20.936562+00:00",
-        "run_id": "36124164637"
       }
     },
     "28030": {
@@ -117838,6 +117826,12 @@
         "target_video_id": "29674570",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-24T17:14:28.108925+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-3",
+        "claimed_at": "2026-09-25T14:47:23.794798+00:00",
+        "lease_expires_at": "2026-09-25T20:47:23.794798+00:00",
+        "run_id": "36124164637"
       }
     },
     "17057": {
@@ -231183,17 +231177,19 @@
       }
     },
     "33799": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29236895",
+          "target_video_id": "29706278",
+          "permanent": false,
+          "attempted_at": "2026-09-25T14:47:24.431771+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29236895",
         "display_name": "Divoký Spirit (2021) 4K CZ Dabing",
         "planned_at": "2026-09-25T14:03:52.232574+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-4",
-        "claimed_at": "2026-09-25T14:11:24.528570+00:00",
-        "lease_expires_at": "2026-09-25T20:11:24.528570+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29706278",
       "prepared": {
@@ -261700,5 +261696,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T14:47:21.542291+00:00"
+  "updated_at": "2026-09-25T14:47:24.431793+00:00"
 }
