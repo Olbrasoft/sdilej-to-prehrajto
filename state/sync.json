@@ -225736,17 +225736,22 @@
         "source_id": "13443487",
         "display_name": "Deník šílené manželky (2005) SD CZ Dabing",
         "planned_at": "2026-09-25T05:11:59.846617+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-1",
+        "claimed_at": "2026-09-25T05:12:44.685438+00:00",
+        "lease_expires_at": "2026-09-25T11:12:44.685438+00:00",
+        "run_id": "36072552924"
+      },
+      "previous_target_id": "29692495",
+      "prepared": {
+        "target_video_id": "29692495",
+        "size_bytes": 1129520190,
+        "prepared_at": "2026-09-25T05:12:47.850758+00:00"
       }
     },
     "7157": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34172623",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:16:30.796640+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -225760,6 +225765,13 @@
           "target_video_id": "29688887",
           "permanent": false,
           "attempted_at": "2026-09-25T02:54:37.042815+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34172623",
+          "target_video_id": "29688887",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:12:46.392137+00:00"
         }
       ],
       "last_plan": {
@@ -225770,7 +225782,7 @@
       "previous_target_id": "29688887",
       "prepared": {
         "target_video_id": "29688887",
-        "size_bytes": 2345979128,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-25T02:47:44.197116+00:00"
       }
     },
@@ -225817,6 +225829,12 @@
         "target_video_id": "29688898",
         "size_bytes": 2320284856,
         "prepared_at": "2026-09-25T02:48:05.944512+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-2",
+        "claimed_at": "2026-09-25T05:12:46.739285+00:00",
+        "lease_expires_at": "2026-09-25T11:12:46.739285+00:00",
+        "run_id": "36072552924"
       }
     },
     "29626": {
@@ -258612,5 +258630,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:12:42.663045+00:00"
+  "updated_at": "2026-09-25T05:12:47.850772+00:00"
 }
