@@ -226972,13 +226972,6 @@
           "permanent": false,
           "source_id": "33820011",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T19:37:32.358754+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33820011",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T01:39:48.199331+00:00"
         },
         {
@@ -226987,18 +226980,19 @@
           "source_id": "33820011",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:40:13.030180+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33820011",
+          "target_video_id": "29693267",
+          "permanent": false,
+          "attempted_at": "2026-09-25T05:58:42.119004+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33820011",
         "display_name": "Pod vodou (2020) 4K CZ Dabing",
         "planned_at": "2026-09-25T05:43:35.388149+00:00"
-      },
-      "claim": {
-        "worker_id": "74fd301338de463e9820ad06887ef6cf-shard-5",
-        "claimed_at": "2026-09-25T05:44:19.758329+00:00",
-        "lease_expires_at": "2026-09-25T11:44:19.758329+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29693267",
       "prepared": {
@@ -258789,5 +258783,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:55:23.651151+00:00"
+  "updated_at": "2026-09-25T05:58:42.119021+00:00"
 }
