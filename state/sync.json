@@ -214760,13 +214760,6 @@
           "source_id": "34871761",
           "target_video_id": "29652778",
           "permanent": false,
-          "attempted_at": "2026-09-24T22:28:12.277757+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34871761",
-          "target_video_id": "29652778",
-          "permanent": false,
           "attempted_at": "2026-09-25T01:25:46.122595+00:00"
         },
         {
@@ -214775,6 +214768,13 @@
           "target_video_id": "29652778",
           "permanent": false,
           "attempted_at": "2026-09-25T02:43:28.743479+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34871761",
+          "target_video_id": "29652778",
+          "permanent": false,
+          "attempted_at": "2026-09-25T03:50:43.176248+00:00"
         }
       ],
       "last_plan": {
@@ -214787,12 +214787,6 @@
         "target_video_id": "29652778",
         "size_bytes": 18500000000,
         "prepared_at": "2026-09-23T20:21:35.719541+00:00"
-      },
-      "claim": {
-        "worker_id": "3ff766c13c004ed68990d6780662f63a-shard-3",
-        "claimed_at": "2026-09-25T03:50:34.272551+00:00",
-        "lease_expires_at": "2026-09-25T09:50:34.272551+00:00",
-        "run_id": "36072552924"
       }
     },
     "35782": {
@@ -214931,22 +214925,10 @@
           "attempted_at": "2026-09-25T02:43:28.444735+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "16468884",
-        "display_name": "Přízrak zmizelé (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T03:50:12.190167+00:00"
-      },
       "previous_target_id": "29654152",
-      "prepared": {
+      "upload": {
         "target_video_id": "29654152",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-23T21:46:09.065486+00:00"
-      },
-      "claim": {
-        "worker_id": "3ff766c13c004ed68990d6780662f63a-shard-5",
-        "claimed_at": "2026-09-25T03:50:34.527418+00:00",
-        "lease_expires_at": "2026-09-25T09:50:34.527418+00:00",
-        "run_id": "36072552924"
+        "uploaded_at": "2026-09-25T03:50:43.924567+00:00"
       }
     },
     "6816": {
@@ -215068,6 +215050,12 @@
         "target_video_id": "29652991",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-23T20:35:18.362743+00:00"
+      },
+      "claim": {
+        "worker_id": "3ff766c13c004ed68990d6780662f63a-shard-1",
+        "claimed_at": "2026-09-25T03:50:43.674164+00:00",
+        "lease_expires_at": "2026-09-25T09:50:43.674164+00:00",
+        "run_id": "36072552924"
       }
     },
     "6432": {
@@ -215176,6 +215164,12 @@
         "target_video_id": "29653078",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-23T20:41:08.346218+00:00"
+      },
+      "claim": {
+        "worker_id": "3ff766c13c004ed68990d6780662f63a-shard-0",
+        "claimed_at": "2026-09-25T03:50:43.424684+00:00",
+        "lease_expires_at": "2026-09-25T09:50:43.424684+00:00",
+        "run_id": "36072552924"
       }
     },
     "14216": {
@@ -258182,5 +258176,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T03:50:36.761916+00:00"
+  "updated_at": "2026-09-25T03:50:43.924587+00:00"
 }
