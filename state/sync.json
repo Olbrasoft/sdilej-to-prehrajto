@@ -32761,13 +32761,6 @@
           "source_id": "34621783",
           "target_video_id": "29393997",
           "permanent": false,
-          "attempted_at": "2026-09-25T06:08:52.891346+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34621783",
-          "target_video_id": "29393997",
-          "permanent": false,
           "attempted_at": "2026-09-25T08:42:18.401498+00:00"
         },
         {
@@ -32776,6 +32769,13 @@
           "target_video_id": "29393997",
           "permanent": false,
           "attempted_at": "2026-09-25T09:14:55.882220+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34621783",
+          "target_video_id": "29393997",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:53:29.348428+00:00"
         }
       ],
       "last_plan": {
@@ -32788,13 +32788,7 @@
         "size_bytes": 10200000000,
         "prepared_at": "2026-09-15T01:06:45.406157+00:00"
       },
-      "previous_target_id": "29393997",
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-5",
-        "claimed_at": "2026-09-25T09:53:20.993050+00:00",
-        "lease_expires_at": "2026-09-25T15:53:20.993050+00:00",
-        "run_id": "36098675156"
-      }
+      "previous_target_id": "29393997"
     },
     "30976": {
       "attempts": []
@@ -32930,7 +32924,13 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-09-14T23:56:20.153455+00:00"
       },
-      "previous_target_id": "29392866"
+      "previous_target_id": "29392866",
+      "claim": {
+        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-4",
+        "claimed_at": "2026-09-25T09:53:29.078133+00:00",
+        "lease_expires_at": "2026-09-25T15:53:29.078133+00:00",
+        "run_id": "36098675156"
+      }
     },
     "1790": {
       "attempts": [],
@@ -101179,17 +101179,19 @@
       }
     },
     "27047": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33063567",
+          "target_video_id": "29699291",
+          "permanent": false,
+          "attempted_at": "2026-09-25T09:53:29.605582+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33063567",
         "display_name": "Anny (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-25T09:36:13.510680+00:00"
-      },
-      "claim": {
-        "worker_id": "a9f89fce78b94b6d94c07d1d8ffbf3d4-shard-3",
-        "claimed_at": "2026-09-25T09:48:00.924260+00:00",
-        "lease_expires_at": "2026-09-25T15:48:00.924260+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29699291",
       "prepared": {
@@ -259882,5 +259884,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T09:53:22.222429+00:00"
+  "updated_at": "2026-09-25T09:53:29.605600+00:00"
 }
