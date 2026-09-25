@@ -224808,13 +224808,6 @@
           "permanent": false,
           "source_id": "22204520",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:22.855589+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22204520",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:00.352892+00:00"
         },
         {
@@ -224823,6 +224816,13 @@
           "target_video_id": "29687074",
           "permanent": false,
           "attempted_at": "2026-09-25T01:40:45.290442+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22204520",
+          "target_video_id": "29687074",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:38.332248+00:00"
         }
       ],
       "last_plan": {
@@ -224833,7 +224833,7 @@
       "previous_target_id": "29687074",
       "prepared": {
         "target_video_id": "29687074",
-        "size_bytes": 2050509458,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-25T01:36:06.490698+00:00"
       }
     },
@@ -224854,13 +224854,6 @@
           "permanent": false,
           "source_id": "28522045",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:21.954984+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28522045",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:01.528746+00:00"
         },
         {
@@ -224869,6 +224862,13 @@
           "target_video_id": "29687082",
           "permanent": false,
           "attempted_at": "2026-09-25T01:42:17.783265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28522045",
+          "target_video_id": "29687082",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:40.159681+00:00"
         }
       ],
       "last_plan": {
@@ -224879,19 +224879,12 @@
       "previous_target_id": "29687082",
       "prepared": {
         "target_video_id": "29687082",
-        "size_bytes": 2795963972,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-25T01:36:23.260346+00:00"
       }
     },
     "6677": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31625021",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:23.171207+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -224905,6 +224898,13 @@
           "target_video_id": "29687096",
           "permanent": false,
           "attempted_at": "2026-09-25T02:06:37.671884+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31625021",
+          "target_video_id": "29687096",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:42.094575+00:00"
         }
       ],
       "last_plan": {
@@ -224915,7 +224915,7 @@
       "previous_target_id": "29687096",
       "prepared": {
         "target_video_id": "29687096",
-        "size_bytes": 11687366562,
+        "size_bytes": 11700000000,
         "prepared_at": "2026-09-25T01:36:52.841783+00:00"
       }
     },
@@ -224929,13 +224929,6 @@
           "permanent": false,
           "source_id": "6511452",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:23.700147+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6511452",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:03.767166+00:00"
         },
         {
@@ -224944,6 +224937,13 @@
           "target_video_id": "29687196",
           "permanent": false,
           "attempted_at": "2026-09-25T01:44:50.324456+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6511452",
+          "target_video_id": "29687196",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:43.839271+00:00"
         }
       ],
       "last_plan": {
@@ -224954,7 +224954,7 @@
       "previous_target_id": "29687196",
       "prepared": {
         "target_video_id": "29687196",
-        "size_bytes": 1574052742,
+        "size_bytes": 1600000000,
         "prepared_at": "2026-09-25T01:40:58.312282+00:00"
       }
     },
@@ -225009,16 +225009,10 @@
           "attempted_at": "2026-09-25T01:53:41.912764+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34855206",
-        "display_name": "Manželská rána (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T02:45:56.950922+00:00"
-      },
       "previous_target_id": "29687232",
-      "prepared": {
+      "upload": {
         "target_video_id": "29687232",
-        "size_bytes": 4102037595,
-        "prepared_at": "2026-09-25T01:42:27.199221+00:00"
+        "uploaded_at": "2026-09-25T02:46:45.602250+00:00"
       }
     },
     "26711": {
@@ -258015,5 +258009,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:46:34.877249+00:00"
+  "updated_at": "2026-09-25T02:46:45.602266+00:00"
 }
