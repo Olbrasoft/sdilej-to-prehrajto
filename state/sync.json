@@ -227213,13 +227213,6 @@
           "permanent": false,
           "source_id": "34823140",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:39:51.756223+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34823140",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:40:15.086017+00:00"
         },
         {
@@ -227228,18 +227221,19 @@
           "reason": "Request failed for https://sdilej.cz/34823140/kdosi-koho-jsem-znal-2023-1080p-cz-komedie-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T05:53:57.285129+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34823140",
+          "target_video_id": "29694805",
+          "permanent": false,
+          "attempted_at": "2026-09-25T07:01:37.065735+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34823140",
         "display_name": "Kdosi, koho jsem znal (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-25T06:29:08.611092+00:00"
-      },
-      "claim": {
-        "worker_id": "74fd301338de463e9820ad06887ef6cf-shard-3",
-        "claimed_at": "2026-09-25T06:50:47.890479+00:00",
-        "lease_expires_at": "2026-09-25T12:50:47.890479+00:00",
-        "run_id": "36098675156"
       },
       "previous_target_id": "29694805",
       "prepared": {
@@ -258922,5 +258916,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T06:50:52.274447+00:00"
+  "updated_at": "2026-09-25T07:01:37.065752+00:00"
 }
