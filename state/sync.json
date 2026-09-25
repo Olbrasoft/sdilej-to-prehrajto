@@ -121942,24 +121942,22 @@
       "attempts": []
     },
     "8071": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "31596102",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29692150",
+          "attempted_at": "2026-09-25T05:10:16.780047+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31596102",
         "display_name": "Hodinový manžel (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-25T04:59:01.781034+00:00"
       },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-2",
-        "claimed_at": "2026-09-25T04:59:25.819390+00:00",
-        "lease_expires_at": "2026-09-25T10:59:25.819390+00:00",
-        "run_id": "36072552924"
-      },
-      "previous_target_id": "29692150",
-      "prepared": {
-        "target_video_id": "29692150",
-        "size_bytes": 2301524021,
-        "prepared_at": "2026-09-25T04:59:31.421146+00:00"
-      }
+      "previous_target_id": "29692150"
     },
     "12236": {
       "attempts": [
@@ -258602,5 +258600,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T05:08:41.231133+00:00"
+  "updated_at": "2026-09-25T05:10:16.780063+00:00"
 }
