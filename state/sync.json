@@ -229718,13 +229718,6 @@
           "permanent": false,
           "source_id": "33942041",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:04:26.936244+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33942041",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:05:05.301336+00:00"
         },
         {
@@ -229733,18 +229726,19 @@
           "reason": "Request failed for https://sdilej.cz/33942041/pad-londyna-2016-akcni-g.-butler-m.-freeman-a.-eckhart-czdab.uhdr.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T07:32:26.833210+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33942041",
+          "target_video_id": "29704040",
+          "permanent": false,
+          "attempted_at": "2026-09-25T12:44:06.206202+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33942041",
         "display_name": "Pád Londýna (2016) 4K CZ Dabing",
         "planned_at": "2026-09-25T12:30:24.557623+00:00"
-      },
-      "claim": {
-        "worker_id": "c90dbc5c5cd8489da116cd6352cc46ac-shard-2",
-        "claimed_at": "2026-09-25T12:37:55.716077+00:00",
-        "lease_expires_at": "2026-09-25T18:37:55.716077+00:00",
-        "run_id": "36124164637"
       },
       "previous_target_id": "29704040",
       "prepared": {
@@ -260744,5 +260738,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T12:37:59.187151+00:00"
+  "updated_at": "2026-09-25T12:44:06.206226+00:00"
 }
