@@ -99284,17 +99284,19 @@
       "attempts": []
     },
     "10685": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34735096",
+          "reason": "Request failed for https://sdilej.cz/34735096/ohnive-leto-1939-pro-pametniky-romanticky-poeticky-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T04:44:11.326517+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34735096",
         "display_name": "Ohnivé léto (1939) 1080p CZ Dabing",
         "planned_at": "2026-09-25T04:37:24.716747+00:00"
-      },
-      "claim": {
-        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-3",
-        "claimed_at": "2026-09-25T04:43:25.355145+00:00",
-        "lease_expires_at": "2026-09-25T10:43:25.355145+00:00",
-        "run_id": "36072552924"
       }
     },
     "10742": {
@@ -99309,6 +99311,12 @@
         "source_id": "30248461",
         "display_name": "Paleta lásky (1976) SD CZ Dabing",
         "planned_at": "2026-09-25T04:37:24.966695+00:00"
+      },
+      "claim": {
+        "worker_id": "4e8ab00762a149db9ce870ac9161e63c-shard-0",
+        "claimed_at": "2026-09-25T04:44:11.012402+00:00",
+        "lease_expires_at": "2026-09-25T10:44:11.012402+00:00",
+        "run_id": "36072552924"
       }
     },
     "23598": {
@@ -258448,5 +258456,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T04:44:04.877790+00:00"
+  "updated_at": "2026-09-25T04:44:11.326535+00:00"
 }
