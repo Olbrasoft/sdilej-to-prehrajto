@@ -96948,18 +96948,19 @@
           "reason": "Request failed for https://sdilej.cz/35084675/tajemstvi-velikeho-vypravece.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-25T02:15:36.634740+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35084675",
+          "reason": "Request failed for https://sdilej.cz/35084675/tajemstvi-velikeho-vypravece.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:49.829997+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35084675",
         "display_name": "Tajemství velikého vypravěče (1972) 1080p CZ Dabing",
         "planned_at": "2026-09-25T02:45:45.882982+00:00"
-      },
-      "claim": {
-        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-1",
-        "claimed_at": "2026-09-25T02:46:03.647956+00:00",
-        "lease_expires_at": "2026-09-25T08:46:03.647956+00:00",
-        "run_id": "36072552924"
       }
     },
     "31082": {
@@ -225022,13 +225023,6 @@
           "permanent": false,
           "source_id": "26399223",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:24.503326+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26399223",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:23:06.055979+00:00"
         },
         {
@@ -225037,6 +225031,13 @@
           "target_video_id": "29687305",
           "permanent": false,
           "attempted_at": "2026-09-25T01:47:50.371238+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26399223",
+          "target_video_id": "29687305",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:49.162093+00:00"
         }
       ],
       "last_plan": {
@@ -225047,7 +225048,7 @@
       "previous_target_id": "29687305",
       "prepared": {
         "target_video_id": "29687305",
-        "size_bytes": 931551268,
+        "size_bytes": 931600000,
         "prepared_at": "2026-09-25T01:45:07.597065+00:00"
       }
     },
@@ -225088,6 +225089,12 @@
         "target_video_id": "29687346",
         "size_bytes": 2333760437,
         "prepared_at": "2026-09-25T01:47:13.476828+00:00"
+      },
+      "claim": {
+        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-3",
+        "claimed_at": "2026-09-25T02:46:49.503632+00:00",
+        "lease_expires_at": "2026-09-25T08:46:49.503632+00:00",
+        "run_id": "36072552924"
       }
     },
     "17536": {
@@ -258009,5 +258016,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:46:45.602266+00:00"
+  "updated_at": "2026-09-25T02:46:49.830016+00:00"
 }
