@@ -233907,13 +233907,6 @@
           "permanent": false,
           "source_id": "32999206",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:12:12.341016+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32999206",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:12:39.165915+00:00"
         },
         {
@@ -233922,6 +233915,13 @@
           "target_video_id": "29707639",
           "permanent": false,
           "attempted_at": "2026-09-25T15:50:30.135015+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32999206",
+          "target_video_id": "29707639",
+          "permanent": false,
+          "attempted_at": "2026-09-25T17:12:49.874054+00:00"
         }
       ],
       "last_plan": {
@@ -233932,7 +233932,7 @@
       "previous_target_id": "29707639",
       "prepared": {
         "target_video_id": "29707639",
-        "size_bytes": 5651529734,
+        "size_bytes": 5700000000,
         "prepared_at": "2026-09-25T15:40:09.871521+00:00"
       }
     },
@@ -233946,16 +233946,10 @@
           "attempted_at": "2026-09-25T15:41:50.092297+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "14542894",
-        "display_name": "Kašpárek zabiják (1994) SD CZ Dabing",
-        "planned_at": "2026-09-25T17:11:15.375439+00:00"
-      },
       "previous_target_id": "29707646",
-      "prepared": {
+      "upload": {
         "target_video_id": "29707646",
-        "size_bytes": 1142414490,
-        "prepared_at": "2026-09-25T15:40:30.442117+00:00"
+        "uploaded_at": "2026-09-25T17:12:51.740581+00:00"
       }
     },
     "25408": {
@@ -263143,5 +263137,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T17:12:45.847006+00:00"
+  "updated_at": "2026-09-25T17:12:51.740599+00:00"
 }
