@@ -137244,13 +137244,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-25T13:55:33.743568+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-25T14:03:59.340974+00:00"
         },
         {
@@ -137259,6 +137252,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-25T14:59:22.220204+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-25T15:05:43.383057+00:00"
         }
       ],
       "last_plan": {
@@ -137271,13 +137271,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
-        "claimed_at": "2026-09-25T15:04:43.225396+00:00",
-        "lease_expires_at": "2026-09-25T21:04:43.225396+00:00",
-        "run_id": "36124164637"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -232402,6 +232396,18 @@
         "source_id": "29161099",
         "display_name": "Nahá kořist (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-25T15:04:35.519600+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
+        "claimed_at": "2026-09-25T15:05:42.226826+00:00",
+        "lease_expires_at": "2026-09-25T21:05:42.226826+00:00",
+        "run_id": "36124164637"
+      },
+      "previous_target_id": "29707060",
+      "prepared": {
+        "target_video_id": "29707060",
+        "size_bytes": 3621921521,
+        "prepared_at": "2026-09-25T15:05:45.895321+00:00"
       }
     },
     "22175": {
@@ -232462,6 +232468,12 @@
         "source_id": "27953671",
         "display_name": "101 Dalmatinů II: Flíčkova londýnská dobrodružství (2002) 1080p CZ Dabing",
         "planned_at": "2026-09-25T15:04:35.757099+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
+        "claimed_at": "2026-09-25T15:05:43.625704+00:00",
+        "lease_expires_at": "2026-09-25T21:05:43.625704+00:00",
+        "run_id": "36124164637"
       }
     },
     "24839": {
@@ -261991,5 +262003,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T15:05:38.752850+00:00"
+  "updated_at": "2026-09-25T15:05:45.895338+00:00"
 }
