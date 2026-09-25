@@ -23117,13 +23117,6 @@
           "source_id": "11952213",
           "target_video_id": "29624583",
           "permanent": false,
-          "attempted_at": "2026-09-25T15:56:19.758118+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11952213",
-          "target_video_id": "29624583",
-          "permanent": false,
           "attempted_at": "2026-09-25T16:28:30.830631+00:00"
         },
         {
@@ -23132,6 +23125,13 @@
           "target_video_id": "29624583",
           "permanent": false,
           "attempted_at": "2026-09-25T16:59:01.891214+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11952213",
+          "target_video_id": "29624583",
+          "permanent": false,
+          "attempted_at": "2026-09-25T17:32:15.520968+00:00"
         }
       ],
       "last_plan": {
@@ -23144,12 +23144,6 @@
         "target_video_id": "29624583",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-22T19:56:21.308490+00:00"
-      },
-      "claim": {
-        "worker_id": "7fd868f188324f88a10245790cfc26f3-shard-2",
-        "claimed_at": "2026-09-25T17:32:01.519948+00:00",
-        "lease_expires_at": "2026-09-25T23:32:01.519948+00:00",
-        "run_id": "36161212873"
       }
     },
     "10749": {
@@ -23717,13 +23711,6 @@
           "source_id": "12181949",
           "target_video_id": "29260125",
           "permanent": false,
-          "attempted_at": "2026-09-25T15:56:21.186883+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "29260125",
-          "permanent": false,
           "attempted_at": "2026-09-25T16:28:32.642436+00:00"
         },
         {
@@ -23732,6 +23719,13 @@
           "target_video_id": "29260125",
           "permanent": false,
           "attempted_at": "2026-09-25T16:59:07.486853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "29260125",
+          "permanent": false,
+          "attempted_at": "2026-09-25T17:32:15.806490+00:00"
         }
       ],
       "last_plan": {
@@ -23744,13 +23738,7 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-10T02:31:57.475955+00:00"
       },
-      "previous_target_id": "29260125",
-      "claim": {
-        "worker_id": "7fd868f188324f88a10245790cfc26f3-shard-0",
-        "claimed_at": "2026-09-25T17:32:02.249708+00:00",
-        "lease_expires_at": "2026-09-25T23:32:02.249708+00:00",
-        "run_id": "36161212873"
-      }
+      "previous_target_id": "29260125"
     },
     "35068": {
       "attempts": [
@@ -235917,17 +235905,19 @@
       "attempts": []
     },
     "29177": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35042758",
+          "target_video_id": "29709716",
+          "permanent": false,
+          "attempted_at": "2026-09-25T17:32:16.104259+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35042758",
         "display_name": "Edge of Winter (2016) SD CZ Titulky",
         "planned_at": "2026-09-25T17:13:20.835474+00:00"
-      },
-      "claim": {
-        "worker_id": "7fd868f188324f88a10245790cfc26f3-shard-1",
-        "claimed_at": "2026-09-25T17:28:14.127935+00:00",
-        "lease_expires_at": "2026-09-25T23:28:14.127935+00:00",
-        "run_id": "36161212873"
       },
       "previous_target_id": "29709716",
       "prepared": {
@@ -263475,5 +263465,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T17:32:02.733487+00:00"
+  "updated_at": "2026-09-25T17:32:16.104278+00:00"
 }
