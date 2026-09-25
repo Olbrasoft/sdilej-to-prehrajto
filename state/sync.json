@@ -226990,13 +226990,6 @@
           "permanent": false,
           "source_id": "26645682",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:39:46.267364+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26645682",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:40:13.255347+00:00"
         },
         {
@@ -227005,6 +226998,13 @@
           "target_video_id": "29693266",
           "permanent": false,
           "attempted_at": "2026-09-25T05:53:03.960420+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26645682",
+          "target_video_id": "29693266",
+          "permanent": false,
+          "attempted_at": "2026-09-25T06:50:34.349220+00:00"
         }
       ],
       "last_plan": {
@@ -227015,7 +227015,7 @@
       "previous_target_id": "29693266",
       "prepared": {
         "target_video_id": "29693266",
-        "size_bytes": 2570265900,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-25T05:44:30.377568+00:00"
       }
     },
@@ -227046,16 +227046,10 @@
           "attempted_at": "2026-09-25T05:49:38.412304+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "16570002",
-        "display_name": "The Toll (2020) 1080p CZ Titulky",
-        "planned_at": "2026-09-25T06:29:07.832572+00:00"
-      },
       "previous_target_id": "29693263",
-      "prepared": {
+      "upload": {
         "target_video_id": "29693263",
-        "size_bytes": 1651908383,
-        "prepared_at": "2026-09-25T05:44:23.694284+00:00"
+        "uploaded_at": "2026-09-25T06:50:36.141428+00:00"
       }
     },
     "6608": {
@@ -258916,5 +258910,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T06:50:22.978482+00:00"
+  "updated_at": "2026-09-25T06:50:36.141440+00:00"
 }
