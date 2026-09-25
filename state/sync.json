@@ -233256,13 +233256,6 @@
           "permanent": false,
           "source_id": "26573495",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:24.764937+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26573495",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:51.188019+00:00"
         },
         {
@@ -233271,6 +233264,13 @@
           "target_video_id": "29707446",
           "permanent": false,
           "attempted_at": "2026-09-25T15:37:14.277517+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26573495",
+          "target_video_id": "29707446",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:37.534649+00:00"
         }
       ],
       "last_plan": {
@@ -233281,7 +233281,7 @@
       "previous_target_id": "29707446",
       "prepared": {
         "target_video_id": "29707446",
-        "size_bytes": 2895496156,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-25T15:28:56.203523+00:00"
       }
     },
@@ -233298,13 +233298,6 @@
           "permanent": false,
           "source_id": "34869731",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:10:25.610164+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34869731",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:10:51.414613+00:00"
         },
         {
@@ -233313,6 +233306,13 @@
           "target_video_id": "29707498",
           "permanent": false,
           "attempted_at": "2026-09-25T15:39:49.758028+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34869731",
+          "target_video_id": "29707498",
+          "permanent": false,
+          "attempted_at": "2026-09-25T16:11:36.402271+00:00"
         }
       ],
       "last_plan": {
@@ -233323,14 +233323,8 @@
       "previous_target_id": "29707498",
       "prepared": {
         "target_video_id": "29707498",
-        "size_bytes": 3230473150,
+        "size_bytes": 3200000000,
         "prepared_at": "2026-09-25T15:31:46.957095+00:00"
-      },
-      "claim": {
-        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
-        "claimed_at": "2026-09-25T16:11:33.719460+00:00",
-        "lease_expires_at": "2026-09-25T22:11:33.719460+00:00",
-        "run_id": "36124164637"
       }
     },
     "22746": {
@@ -233415,16 +233409,10 @@
           "attempted_at": "2026-09-25T15:40:20.736733+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22355380",
-        "display_name": "S tím nic nenaděláš (2011) SD CZ Dabing",
-        "planned_at": "2026-09-25T16:10:50.420294+00:00"
-      },
       "previous_target_id": "29707597",
-      "prepared": {
+      "upload": {
         "target_video_id": "29707597",
-        "size_bytes": 1218843434,
-        "prepared_at": "2026-09-25T15:37:24.100089+00:00"
+        "uploaded_at": "2026-09-25T16:11:38.063890+00:00"
       }
     },
     "14240": {
@@ -233960,6 +233948,12 @@
         "source_id": "14033711",
         "display_name": "Noční návštěva (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-25T16:10:50.645384+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-0",
+        "claimed_at": "2026-09-25T16:11:37.081630+00:00",
+        "lease_expires_at": "2026-09-25T22:11:37.081630+00:00",
+        "run_id": "36124164637"
       }
     },
     "29239": {
@@ -233981,6 +233975,12 @@
         "source_id": "34967520",
         "display_name": "Experiment (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-25T16:10:50.870453+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-2",
+        "claimed_at": "2026-09-25T16:11:36.831994+00:00",
+        "lease_expires_at": "2026-09-25T22:11:36.831994+00:00",
+        "run_id": "36124164637"
       }
     },
     "37246": {
@@ -234072,6 +234072,12 @@
         "source_id": "34694419",
         "display_name": "Pan Auťák a templáři (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-25T16:10:51.096778+00:00"
+      },
+      "claim": {
+        "worker_id": "e0050e14a47f4d8988ef92f03e82160c-shard-4",
+        "claimed_at": "2026-09-25T16:11:37.760468+00:00",
+        "lease_expires_at": "2026-09-25T22:11:37.760468+00:00",
+        "run_id": "36124164637"
       }
     },
     "34622": {
@@ -262516,5 +262522,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T16:11:33.949392+00:00"
+  "updated_at": "2026-09-25T16:11:38.063908+00:00"
 }
