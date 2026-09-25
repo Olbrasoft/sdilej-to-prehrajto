@@ -224667,13 +224667,6 @@
           "permanent": false,
           "source_id": "34372183",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T01:15:21.635197+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34372183",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T07:22:56.923607+00:00"
         },
         {
@@ -224682,6 +224675,13 @@
           "target_video_id": "29686949",
           "permanent": false,
           "attempted_at": "2026-09-25T01:36:13.580236+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34372183",
+          "target_video_id": "29686949",
+          "permanent": false,
+          "attempted_at": "2026-09-25T02:46:31.196593+00:00"
         }
       ],
       "last_plan": {
@@ -224692,14 +224692,8 @@
       "previous_target_id": "29686949",
       "prepared": {
         "target_video_id": "29686949",
-        "size_bytes": 2321721009,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-25T01:31:34.555086+00:00"
-      },
-      "claim": {
-        "worker_id": "45ba3f1a0a624d6eb79f01bb586a9c19-shard-3",
-        "claimed_at": "2026-09-25T02:46:28.593562+00:00",
-        "lease_expires_at": "2026-09-25T08:46:28.593562+00:00",
-        "run_id": "36072552924"
       }
     },
     "12830": {
@@ -224792,16 +224786,10 @@
           "attempted_at": "2026-09-25T01:47:02.540034+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30149936",
-        "display_name": "Zlatíčka (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-25T02:45:55.053392+00:00"
-      },
       "previous_target_id": "29687068",
-      "prepared": {
+      "upload": {
         "target_video_id": "29687068",
-        "size_bytes": 4449729471,
-        "prepared_at": "2026-09-25T01:36:00.932924+00:00"
+        "uploaded_at": "2026-09-25T02:46:32.756534+00:00"
       }
     },
     "28266": {
@@ -258021,5 +258009,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T02:46:29.142045+00:00"
+  "updated_at": "2026-09-25T02:46:32.756551+00:00"
 }
