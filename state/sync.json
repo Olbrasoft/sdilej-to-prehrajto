@@ -110020,17 +110020,19 @@
       }
     },
     "23394": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35075509",
+          "reason": "Request failed for https://sdilej.cz/35075509/jedna-kocka-za-druhou.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-25T23:39:27.111995+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35075509",
         "display_name": "Jedna kočka za druhou (1993) 1080p CZ Dabing",
         "planned_at": "2026-09-25T23:13:47.594630+00:00"
-      },
-      "claim": {
-        "worker_id": "130e6d37295a4b91b671dc82e8530c81-shard-0",
-        "claimed_at": "2026-09-25T23:38:35.980888+00:00",
-        "lease_expires_at": "2026-09-26T05:38:35.980888+00:00",
-        "run_id": "36196679945"
       }
     },
     "16418": {
@@ -264841,5 +264843,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-25T23:39:20.023484+00:00"
+  "updated_at": "2026-09-25T23:39:27.112011+00:00"
 }
