@@ -240866,13 +240866,6 @@
           "permanent": false,
           "source_id": "34454298",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:14:59.709821+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34454298",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:02:18.346326+00:00"
         },
         {
@@ -240881,18 +240874,19 @@
           "source_id": "34454298",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:30:56.651818+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34454298",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T02:55:34.449300+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34454298",
         "display_name": "V/H/S (2012) SD CZ Titulky",
         "planned_at": "2026-09-26T02:46:56.707713+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-4",
-        "claimed_at": "2026-09-26T02:54:15.158189+00:00",
-        "lease_expires_at": "2026-09-26T08:54:15.158189+00:00",
-        "run_id": "36196679945"
       }
     },
     "19777": {
@@ -241027,13 +241021,6 @@
           "source_id": "34681521",
           "target_video_id": "29538713",
           "permanent": false,
-          "attempted_at": "2026-09-20T11:31:00.252369+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34681521",
-          "target_video_id": "29538713",
-          "permanent": false,
           "attempted_at": "2026-09-20T12:01:13.048669+00:00"
         },
         {
@@ -241042,6 +241029,13 @@
           "target_video_id": "29538713",
           "permanent": false,
           "attempted_at": "2026-09-20T12:31:48.325334+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34681521",
+          "target_video_id": "29538713",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:55:36.795753+00:00"
         }
       ],
       "last_plan": {
@@ -241087,6 +241081,18 @@
         "source_id": "34697117",
         "display_name": "Texaský masakr motorovou pilou: Počátek (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-26T02:46:58.478747+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-4",
+        "claimed_at": "2026-09-26T02:55:37.206940+00:00",
+        "lease_expires_at": "2026-09-26T08:55:37.206940+00:00",
+        "run_id": "36196679945"
+      },
+      "previous_target_id": "29719248",
+      "prepared": {
+        "target_video_id": "29719248",
+        "size_bytes": 2276938251,
+        "prepared_at": "2026-09-26T02:55:41.876093+00:00"
       }
     },
     "15036": {
@@ -266784,5 +266790,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:55:22.261220+00:00"
+  "updated_at": "2026-09-26T02:55:41.876108+00:00"
 }
