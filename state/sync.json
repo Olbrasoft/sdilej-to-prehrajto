@@ -111241,6 +111241,12 @@
         "target_video_id": "29717333",
         "size_bytes": 2570306661,
         "prepared_at": "2026-09-26T00:52:04.890209+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-0",
+        "claimed_at": "2026-09-26T01:30:44.721690+00:00",
+        "lease_expires_at": "2026-09-26T07:30:44.721690+00:00",
+        "run_id": "36196679945"
       }
     },
     "15589": {
@@ -129485,17 +129491,19 @@
       }
     },
     "3435": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18389957",
+          "target_video_id": "29717806",
+          "permanent": false,
+          "attempted_at": "2026-09-26T01:30:45.659077+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18389957",
         "display_name": "Auta 3 (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-26T01:20:36.443726+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-4",
-        "claimed_at": "2026-09-26T01:27:08.914149+00:00",
-        "lease_expires_at": "2026-09-26T07:27:08.914149+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29717806",
       "prepared": {
@@ -266087,5 +266095,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T01:30:37.978156+00:00"
+  "updated_at": "2026-09-26T01:30:45.659097+00:00"
 }
