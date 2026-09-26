@@ -247346,13 +247346,6 @@
           "permanent": false,
           "source_id": "32343544",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:10.806702+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32343544",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:08.340550+00:00"
         },
         {
@@ -247361,6 +247354,13 @@
           "target_video_id": "29724281",
           "permanent": false,
           "attempted_at": "2026-09-26T09:13:02.782075+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32343544",
+          "target_video_id": "29724281",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:09:00.300716+00:00"
         }
       ],
       "last_plan": {
@@ -247371,7 +247371,7 @@
       "previous_target_id": "29724281",
       "prepared": {
         "target_video_id": "29724281",
-        "size_bytes": 983433167,
+        "size_bytes": 983400000,
         "prepared_at": "2026-09-26T09:12:07.476777+00:00"
       }
     },
@@ -247399,16 +247399,10 @@
           "attempted_at": "2026-09-26T09:26:51.877630+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35006249",
-        "display_name": "Temné síly (2018) 4K CZ Dabing",
-        "planned_at": "2026-09-26T10:08:36.880382+00:00"
-      },
       "previous_target_id": "29724290",
-      "prepared": {
+      "upload": {
         "target_video_id": "29724290",
-        "size_bytes": 7685728856,
-        "prepared_at": "2026-09-26T09:13:13.805503+00:00"
+        "uploaded_at": "2026-09-26T10:09:01.643762+00:00"
       }
     },
     "34952": {
@@ -267975,5 +267969,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T10:08:56.633559+00:00"
+  "updated_at": "2026-09-26T10:09:01.643779+00:00"
 }
