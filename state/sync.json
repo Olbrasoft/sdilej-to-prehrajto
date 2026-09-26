@@ -242057,13 +242057,6 @@
           "permanent": false,
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-26T05:09:34.024437+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667639",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T05:57:54.932079+00:00"
         },
         {
@@ -242072,18 +242065,19 @@
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T07:02:58.814168+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34667639",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T10:08:14.261545+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34667639",
         "display_name": "Z (2019) 720p CZ Dabing",
         "planned_at": "2026-09-26T10:06:56.558581+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-2",
-        "claimed_at": "2026-09-26T10:07:16.002850+00:00",
-        "lease_expires_at": "2026-09-26T16:07:16.002850+00:00",
-        "run_id": "36218024605"
       }
     },
     "11269": {
@@ -246178,13 +246172,6 @@
           "permanent": false,
           "source_id": "28438808",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:51:57.478622+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28438808",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:43.719340+00:00"
         },
         {
@@ -246193,6 +246180,13 @@
           "target_video_id": "29722834",
           "permanent": false,
           "attempted_at": "2026-09-26T07:18:02.476931+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28438808",
+          "target_video_id": "29722834",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:08:13.945850+00:00"
         }
       ],
       "last_plan": {
@@ -246203,14 +246197,8 @@
       "previous_target_id": "29722834",
       "prepared": {
         "target_video_id": "29722834",
-        "size_bytes": 1892310749,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-26T07:15:59.920581+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-4",
-        "claimed_at": "2026-09-26T10:08:10.637039+00:00",
-        "lease_expires_at": "2026-09-26T16:08:10.637039+00:00",
-        "run_id": "36218024605"
       }
     },
     "12429": {
@@ -246250,13 +246238,6 @@
           "permanent": false,
           "source_id": "29293920",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:51:58.920314+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29293920",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:45.745531+00:00"
         },
         {
@@ -246265,6 +246246,13 @@
           "target_video_id": "29722913",
           "permanent": false,
           "attempted_at": "2026-09-26T07:27:17.574673+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29293920",
+          "target_video_id": "29722913",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:08:14.102791+00:00"
         }
       ],
       "last_plan": {
@@ -246275,14 +246263,8 @@
       "previous_target_id": "29722913",
       "prepared": {
         "target_video_id": "29722913",
-        "size_bytes": 2887910343,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-26T07:22:44.903184+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-5",
-        "claimed_at": "2026-09-26T10:08:10.896816+00:00",
-        "lease_expires_at": "2026-09-26T16:08:10.896816+00:00",
-        "run_id": "36218024605"
       }
     },
     "34971": {
@@ -246338,22 +246320,10 @@
           "attempted_at": "2026-09-26T07:31:25.572863+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26780061",
-        "display_name": "Poltergeist II (1986) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T10:07:37.745762+00:00"
-      },
       "previous_target_id": "29722970",
-      "prepared": {
+      "upload": {
         "target_video_id": "29722970",
-        "size_bytes": 2643609906,
-        "prepared_at": "2026-09-26T07:27:30.226158+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-0",
-        "claimed_at": "2026-09-26T10:08:11.238014+00:00",
-        "lease_expires_at": "2026-09-26T16:08:11.238014+00:00",
-        "run_id": "36218024605"
+        "uploaded_at": "2026-09-26T10:08:14.744132+00:00"
       }
     },
     "22525": {
@@ -246400,6 +246370,12 @@
         "target_video_id": "29723017",
         "size_bytes": 9731057367,
         "prepared_at": "2026-09-26T07:31:36.376561+00:00"
+      },
+      "claim": {
+        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-3",
+        "claimed_at": "2026-09-26T10:08:14.423494+00:00",
+        "lease_expires_at": "2026-09-26T16:08:14.423494+00:00",
+        "run_id": "36218024605"
       }
     },
     "13074": {
@@ -246475,6 +246451,12 @@
         "target_video_id": "29723303",
         "size_bytes": 2200867657,
         "prepared_at": "2026-09-26T07:58:38.282405+00:00"
+      },
+      "claim": {
+        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-5",
+        "claimed_at": "2026-09-26T10:08:14.584164+00:00",
+        "lease_expires_at": "2026-09-26T16:08:14.584164+00:00",
+        "run_id": "36218024605"
       }
     },
     "27770": {
@@ -267978,5 +267960,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T10:08:11.771062+00:00"
+  "updated_at": "2026-09-26T10:08:14.744152+00:00"
 }
