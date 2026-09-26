@@ -251184,13 +251184,6 @@
           "permanent": false,
           "source_id": "34772945",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:31:19.672852+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34772945",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:52:59.008904+00:00"
         },
         {
@@ -251199,18 +251192,19 @@
           "source_id": "34772945",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:29.833483+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34772945",
+          "reason": "Request failed for https://sdilej.cz/34772945/france-2021-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:38:40.549567+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34772945",
         "display_name": "Seance (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:37:34.921580+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
-        "claimed_at": "2026-09-26T17:37:54.632184+00:00",
-        "lease_expires_at": "2026-09-26T23:37:54.632184+00:00",
-        "run_id": "36240416883"
       }
     },
     "8228": {
@@ -251346,6 +251340,12 @@
         "source_id": "34732214",
         "display_name": "Penance Lane (2020) 720p CZ Titulky",
         "planned_at": "2026-09-26T17:37:35.215101+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
+        "claimed_at": "2026-09-26T17:38:20.975558+00:00",
+        "lease_expires_at": "2026-09-26T23:38:20.975558+00:00",
+        "run_id": "36240416883"
       }
     },
     "26176": {
@@ -251433,6 +251433,12 @@
         "source_id": "25526950",
         "display_name": "Osudový dotek 3: Odhalení (2009) SD CZ Titulky",
         "planned_at": "2026-09-26T17:37:35.535852+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-4",
+        "claimed_at": "2026-09-26T17:38:21.609573+00:00",
+        "lease_expires_at": "2026-09-26T23:38:21.609573+00:00",
+        "run_id": "36240416883"
       }
     },
     "16574": {
@@ -251456,6 +251462,12 @@
         "source_id": "22244211",
         "display_name": "Dračí srdce 3: Čarodějova kletba (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:37:35.851187+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-5",
+        "claimed_at": "2026-09-26T17:38:21.299739+00:00",
+        "lease_expires_at": "2026-09-26T23:38:21.299739+00:00",
+        "run_id": "36240416883"
       }
     },
     "7377": {
@@ -275570,5 +275582,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:38:18.741580+00:00"
+  "updated_at": "2026-09-26T17:38:40.549584+00:00"
 }
