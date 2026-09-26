@@ -252625,13 +252625,6 @@
           "permanent": false,
           "source_id": "22254895",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:33:02.859955+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22254895",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:53:11.852889+00:00"
         },
         {
@@ -252640,18 +252633,19 @@
           "source_id": "22254895",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:08.048004+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22254895",
+          "reason": "Request failed for https://sdilej.cz/22254895/zakon.vesmiru.naked.singularity.2021.cz.dabing.720p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:41:58.702528+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22254895",
         "display_name": "Zákon vesmíru (2021) 720p CZ Dabing",
         "planned_at": "2026-09-26T17:37:41.102698+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-4",
-        "claimed_at": "2026-09-26T17:41:06.879156+00:00",
-        "lease_expires_at": "2026-09-26T23:41:06.879156+00:00",
-        "run_id": "36240416883"
       }
     },
     "12970": {
@@ -275619,5 +275613,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:41:56.433793+00:00"
+  "updated_at": "2026-09-26T17:41:58.702544+00:00"
 }
