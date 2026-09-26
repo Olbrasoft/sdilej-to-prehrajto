@@ -244787,13 +244787,6 @@
           "permanent": false,
           "source_id": "3743477",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:05:03.744831+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "3743477",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:17.501481+00:00"
         },
         {
@@ -244802,6 +244795,13 @@
           "target_video_id": "29721145",
           "permanent": false,
           "attempted_at": "2026-09-26T05:19:45.011699+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "3743477",
+          "target_video_id": "29721145",
+          "permanent": false,
+          "attempted_at": "2026-09-26T06:01:32.190957+00:00"
         }
       ],
       "last_plan": {
@@ -244812,7 +244812,7 @@
       "previous_target_id": "29721145",
       "prepared": {
         "target_video_id": "29721145",
-        "size_bytes": 892491380,
+        "size_bytes": 892500000,
         "prepared_at": "2026-09-26T05:17:50.347947+00:00"
       }
     },
@@ -244840,16 +244840,10 @@
           "attempted_at": "2026-09-26T05:24:55.582897+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34773234",
-        "display_name": "The Binge (2020) 1080p CZ Titulky",
-        "planned_at": "2026-09-26T05:57:54.691456+00:00"
-      },
       "previous_target_id": "29721157",
-      "prepared": {
+      "upload": {
         "target_video_id": "29721157",
-        "size_bytes": 2307460902,
-        "prepared_at": "2026-09-26T05:18:43.318825+00:00"
+        "uploaded_at": "2026-09-26T06:01:32.386121+00:00"
       }
     },
     "12083": {
@@ -267690,5 +267684,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T06:01:28.625376+00:00"
+  "updated_at": "2026-09-26T06:01:32.386131+00:00"
 }
