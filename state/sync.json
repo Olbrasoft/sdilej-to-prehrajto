@@ -145055,17 +145055,19 @@
       }
     },
     "10900": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33839161",
+          "target_video_id": "29735473",
+          "permanent": false,
+          "attempted_at": "2026-09-26T16:43:36.655033+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33839161",
         "display_name": "Senzační prázdniny (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-26T16:27:12.410381+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-3",
-        "claimed_at": "2026-09-26T16:41:30.097861+00:00",
-        "lease_expires_at": "2026-09-26T22:41:30.097861+00:00",
-        "run_id": "36240416883"
       },
       "previous_target_id": "29735473",
       "prepared": {
@@ -146256,6 +146258,12 @@
         "source_id": "14833465",
         "display_name": "Operace Eichmann (2018) SD SK Dabing",
         "planned_at": "2026-09-26T16:27:14.944538+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
+        "claimed_at": "2026-09-26T16:43:16.801578+00:00",
+        "lease_expires_at": "2026-09-26T22:43:16.801578+00:00",
+        "run_id": "36240416883"
       }
     },
     "6727": {
@@ -274686,5 +274694,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T16:43:11.610419+00:00"
+  "updated_at": "2026-09-26T16:43:36.655084+00:00"
 }
