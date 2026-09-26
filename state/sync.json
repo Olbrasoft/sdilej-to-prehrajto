@@ -142882,17 +142882,19 @@
       }
     },
     "35583": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24837107",
+          "reason": "Request failed for https://sdilej.cz/24837107/hlas-2013-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:03:30.366471+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24837107",
         "display_name": "Hlas (2013) SD CZ Dabing",
         "planned_at": "2026-09-26T01:55:50.515178+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T02:02:43.140548+00:00",
-        "lease_expires_at": "2026-09-26T08:02:43.140548+00:00",
-        "run_id": "36196679945"
       }
     },
     "16023": {
@@ -266497,5 +266499,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:03:24.706140+00:00"
+  "updated_at": "2026-09-26T02:03:30.366486+00:00"
 }
