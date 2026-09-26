@@ -243963,13 +243963,6 @@
           "permanent": false,
           "source_id": "24360406",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:55:23.717872+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24360406",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:04:50.851520+00:00"
         },
         {
@@ -243978,6 +243971,13 @@
           "source_id": "24360406",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:13.875176+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24360406",
+          "target_video_id": "29720670",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:11:31.666257+00:00"
         }
       ],
       "last_plan": {
@@ -243988,7 +243988,7 @@
       "previous_target_id": "29720670",
       "prepared": {
         "target_video_id": "29720670",
-        "size_bytes": 2330655355,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-26T04:42:17.146807+00:00"
       }
     },
@@ -244026,6 +244026,12 @@
         "source_id": "25002521",
         "display_name": "Candy Land (2022) 720p CZ Titulky",
         "planned_at": "2026-09-26T05:08:35.155057+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-1",
+        "claimed_at": "2026-09-26T05:11:30.452849+00:00",
+        "lease_expires_at": "2026-09-26T11:11:30.452849+00:00",
+        "run_id": "36218024605"
       }
     },
     "31636": {
@@ -267176,5 +267182,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:11:28.374083+00:00"
+  "updated_at": "2026-09-26T05:11:31.666276+00:00"
 }
