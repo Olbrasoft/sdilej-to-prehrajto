@@ -239545,33 +239545,14 @@
           "attempted_at": "2026-09-25T20:24:12.679787+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29588338",
-        "display_name": "Bratři jak se patří (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T02:41:41.710124+00:00"
-      },
       "previous_target_id": "29713006",
-      "prepared": {
+      "upload": {
         "target_video_id": "29713006",
-        "size_bytes": 2492792872,
-        "prepared_at": "2026-09-25T20:18:43.020180+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
-        "claimed_at": "2026-09-26T02:42:53.566736+00:00",
-        "lease_expires_at": "2026-09-26T08:42:53.566736+00:00",
-        "run_id": "36196679945"
+        "uploaded_at": "2026-09-26T02:43:01.167231+00:00"
       }
     },
     "19792": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25848157",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:47.536269+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -239585,6 +239566,13 @@
           "target_video_id": "29713121",
           "permanent": false,
           "attempted_at": "2026-09-25T20:31:10.112265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25848157",
+          "target_video_id": "29713121",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:59.814423+00:00"
         }
       ],
       "last_plan": {
@@ -239595,25 +239583,12 @@
       "previous_target_id": "29713121",
       "prepared": {
         "target_video_id": "29713121",
-        "size_bytes": 2888743156,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-25T20:24:31.934510+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-0",
-        "claimed_at": "2026-09-26T02:42:56.745021+00:00",
-        "lease_expires_at": "2026-09-26T08:42:56.745021+00:00",
-        "run_id": "36196679945"
       }
     },
     "11362": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21984373",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:48.583967+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -239627,6 +239602,13 @@
           "target_video_id": "29713212",
           "permanent": false,
           "attempted_at": "2026-09-25T20:35:12.407568+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21984373",
+          "target_video_id": "29713212",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:43:00.122851+00:00"
         }
       ],
       "last_plan": {
@@ -239637,14 +239619,8 @@
       "previous_target_id": "29713212",
       "prepared": {
         "target_video_id": "29713212",
-        "size_bytes": 1438190772,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-25T20:31:32.006187+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T02:42:57.052384+00:00",
-        "lease_expires_at": "2026-09-26T08:42:57.052384+00:00",
-        "run_id": "36196679945"
       }
     },
     "23460": {
@@ -239684,6 +239660,12 @@
         "target_video_id": "29713257",
         "size_bytes": 1680135424,
         "prepared_at": "2026-09-25T20:35:25.715379+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T02:43:00.569581+00:00",
+        "lease_expires_at": "2026-09-26T08:43:00.569581+00:00",
+        "run_id": "36196679945"
       }
     },
     "30468": {
@@ -266618,5 +266600,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:42:57.356165+00:00"
+  "updated_at": "2026-09-26T02:43:01.167253+00:00"
 }
