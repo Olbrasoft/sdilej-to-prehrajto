@@ -251906,13 +251906,6 @@
           "permanent": false,
           "source_id": "34899608",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:32:57.670650+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34899608",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:53:05.433384+00:00"
         },
         {
@@ -251921,18 +251914,19 @@
           "source_id": "34899608",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:02.937058+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34899608",
+          "reason": "Request failed for https://sdilej.cz/34899608/breakin-2-electric-boogaloo-1984-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:40:35.481987+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34899608",
         "display_name": "Breakin' 2: Electric Boogaloo (1984) SD CZ Dabing",
         "planned_at": "2026-09-26T17:37:38.396830+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
-        "claimed_at": "2026-09-26T17:39:45.188928+00:00",
-        "lease_expires_at": "2026-09-26T23:39:45.188928+00:00",
-        "run_id": "36240416883"
       }
     },
     "8305": {
@@ -275625,5 +275619,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:40:33.213592+00:00"
+  "updated_at": "2026-09-26T17:40:35.482003+00:00"
 }
