@@ -250641,13 +250641,6 @@
           "permanent": false,
           "source_id": "31568457",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:27:44.993082+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31568457",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:52:49.937486+00:00"
         },
         {
@@ -250656,18 +250649,19 @@
           "source_id": "31568457",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:24.782521+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31568457",
+          "reason": "Request failed for https://sdilej.cz/31568457/policajt-na-uteku-2024-cz-dabing-1080p-.mkv (HTTP 522)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:37:22.151846+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31568457",
         "display_name": "Policajt na útěku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:09.982184+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
-        "claimed_at": "2026-09-26T17:37:01.352508+00:00",
-        "lease_expires_at": "2026-09-26T23:37:01.352508+00:00",
-        "run_id": "36240416883"
       }
     },
     "30005": {
@@ -250723,6 +250717,12 @@
         "source_id": "6293529",
         "display_name": "Viral (2016) SD CZ Titulky",
         "planned_at": "2026-09-26T17:09:10.411499+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
+        "claimed_at": "2026-09-26T17:37:10.683365+00:00",
+        "lease_expires_at": "2026-09-26T23:37:10.683365+00:00",
+        "run_id": "36240416883"
       }
     },
     "26242": {
@@ -275575,5 +275575,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:37:08.288810+00:00"
+  "updated_at": "2026-09-26T17:37:22.151863+00:00"
 }
