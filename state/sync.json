@@ -249147,13 +249147,6 @@
           "permanent": false,
           "source_id": "33254603",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:27:40.460389+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33254603",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:52:32.193923+00:00"
         },
         {
@@ -249162,18 +249155,19 @@
           "source_id": "33254603",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:19.799042+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33254603",
+          "reason": "Request failed for https://sdilej.cz/33254603/dabelska-posedlost-2015-fhd-cz.dabing.mkv (HTTP 522)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:36:30.483377+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33254603",
         "display_name": "Ďábelská posedlost (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:07.888911+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-4",
-        "claimed_at": "2026-09-26T17:36:08.947403+00:00",
-        "lease_expires_at": "2026-09-26T23:36:08.947403+00:00",
-        "run_id": "36240416883"
       }
     },
     "31771": {
@@ -249943,6 +249937,12 @@
         "source_id": "10337880",
         "display_name": "Vetřelec: Nebeská bitva (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:08.312641+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
+        "claimed_at": "2026-09-26T17:36:22.317514+00:00",
+        "lease_expires_at": "2026-09-26T23:36:22.317514+00:00",
+        "run_id": "36240416883"
       }
     },
     "25577": {
@@ -275575,5 +275575,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:36:19.782025+00:00"
+  "updated_at": "2026-09-26T17:36:30.483393+00:00"
 }
