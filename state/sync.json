@@ -241057,13 +241057,6 @@
           "permanent": false,
           "source_id": "34454298",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:02:18.346326+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34454298",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:30:56.651818+00:00"
         },
         {
@@ -241072,18 +241065,19 @@
           "source_id": "34454298",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T02:55:34.449300+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34454298",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T03:28:48.119078+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34454298",
         "display_name": "V/H/S (2012) SD CZ Titulky",
         "planned_at": "2026-09-26T03:26:58.483099+00:00"
-      },
-      "claim": {
-        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-2",
-        "claimed_at": "2026-09-26T03:27:22.759352+00:00",
-        "lease_expires_at": "2026-09-26T09:27:22.759352+00:00",
-        "run_id": "36196679945"
       }
     },
     "19777": {
@@ -241693,6 +241687,18 @@
         "source_id": "30266767",
         "display_name": "Vivárium (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-26T03:27:00.072030+00:00"
+      },
+      "claim": {
+        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-2",
+        "claimed_at": "2026-09-26T03:28:48.484979+00:00",
+        "lease_expires_at": "2026-09-26T09:28:48.484979+00:00",
+        "run_id": "36196679945"
+      },
+      "previous_target_id": "29719949",
+      "prepared": {
+        "target_video_id": "29719949",
+        "size_bytes": 2128642850,
+        "prepared_at": "2026-09-26T03:28:53.340259+00:00"
       }
     },
     "25335": {
@@ -267029,5 +267035,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T03:28:36.408113+00:00"
+  "updated_at": "2026-09-26T03:28:53.340273+00:00"
 }
