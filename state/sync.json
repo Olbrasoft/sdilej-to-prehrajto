@@ -128746,17 +128746,19 @@
       }
     },
     "19958": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34698522",
+          "reason": "Request failed for https://sdilej.cz/34698522/prizdis-aci-2011-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T01:21:55.150217+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34698522",
         "display_name": "Přizdis*áči (2011) SD CZ Dabing",
         "planned_at": "2026-09-26T01:20:34.018960+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T01:21:05.922329+00:00",
-        "lease_expires_at": "2026-09-26T07:21:05.922329+00:00",
-        "run_id": "36196679945"
       }
     },
     "3333": {
@@ -265917,5 +265919,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T01:21:48.749305+00:00"
+  "updated_at": "2026-09-26T01:21:55.150234+00:00"
 }
