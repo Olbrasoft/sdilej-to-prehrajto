@@ -257523,13 +257523,6 @@
           "permanent": false,
           "source_id": "34695318",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:08:25.109124+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34695318",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:25:05.113735+00:00"
         },
         {
@@ -257538,18 +257531,19 @@
           "source_id": "34695318",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:12.706724+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34695318",
+          "target_video_id": "29739619",
+          "permanent": false,
+          "attempted_at": "2026-09-26T18:36:21.172421+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34695318",
         "display_name": "Vražedné jezero (2016) SD CZ Dabing",
         "planned_at": "2026-09-26T17:48:26.292260+00:00"
-      },
-      "claim": {
-        "worker_id": "b007d1b5e63743caacd3c191d6553ae9-shard-5",
-        "claimed_at": "2026-09-26T18:32:55.031948+00:00",
-        "lease_expires_at": "2026-09-27T00:32:55.031948+00:00",
-        "run_id": "36258894874"
       },
       "previous_target_id": "29739619",
       "prepared": {
@@ -275985,5 +275979,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T18:32:59.441863+00:00"
+  "updated_at": "2026-09-26T18:36:21.172436+00:00"
 }
