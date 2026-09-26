@@ -240801,13 +240801,6 @@
           "permanent": false,
           "source_id": "33083437",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:14:04.145883+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33083437",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:01:08.175042+00:00"
         },
         {
@@ -240816,6 +240809,13 @@
           "source_id": "33083437",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:30:01.858796+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33083437",
+          "reason": "Request failed for https://sdilej.cz/33083437/pomsta.v.trinity.2024.hd1080.dab.cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:55:00.861340+00:00"
         }
       ],
       "last_plan": {
@@ -240885,6 +240885,12 @@
         "source_id": "34454298",
         "display_name": "V/H/S (2012) SD CZ Titulky",
         "planned_at": "2026-09-26T02:46:56.707713+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-4",
+        "claimed_at": "2026-09-26T02:54:15.158189+00:00",
+        "lease_expires_at": "2026-09-26T08:54:15.158189+00:00",
+        "run_id": "36196679945"
       }
     },
     "19777": {
@@ -266752,5 +266758,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:54:12.457544+00:00"
+  "updated_at": "2026-09-26T02:55:00.861358+00:00"
 }
