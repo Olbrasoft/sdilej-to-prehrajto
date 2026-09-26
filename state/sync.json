@@ -249295,17 +249295,19 @@
       }
     },
     "8192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34184860",
+          "reason": "Request failed for https://sdilej.cz/34184860/lovec-hlav-2022-cz-dab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T12:07:37.208682+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34184860",
         "display_name": "Lovec hlav (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-26T11:58:02.590521+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-3",
-        "claimed_at": "2026-09-26T12:06:50.888597+00:00",
-        "lease_expires_at": "2026-09-26T18:06:50.888597+00:00",
-        "run_id": "36240416883"
       }
     },
     "9309": {
@@ -268357,5 +268359,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T12:07:25.286948+00:00"
+  "updated_at": "2026-09-26T12:07:37.208700+00:00"
 }
