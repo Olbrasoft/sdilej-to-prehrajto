@@ -243371,13 +243371,6 @@
           "permanent": false,
           "source_id": "11380606",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:04:43.984018+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11380606",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:07.124749+00:00"
         },
         {
@@ -243386,18 +243379,19 @@
           "reason": "Request failed for https://sdilej.cz/11380606/brana.valecniku.2016.cz.dab.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T04:31:38.721448+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11380606",
+          "target_video_id": "29721037",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:15:42.280248+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11380606",
         "display_name": "Brána válečníků (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-26T05:08:33.012635+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
-        "claimed_at": "2026-09-26T05:09:34.194011+00:00",
-        "lease_expires_at": "2026-09-26T11:09:34.194011+00:00",
-        "run_id": "36218024605"
       },
       "previous_target_id": "29721037",
       "prepared": {
@@ -267219,5 +267213,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:13:23.565883+00:00"
+  "updated_at": "2026-09-26T05:15:42.280268+00:00"
 }
