@@ -254470,13 +254470,6 @@
           "permanent": false,
           "source_id": "33687389",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:46:54.791025+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33687389",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:54:08.748272+00:00"
         },
         {
@@ -254485,18 +254478,19 @@
           "source_id": "33687389",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:39.700885+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33687389",
+          "target_video_id": "29736510",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:59:37.367291+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33687389",
         "display_name": "House party 2: Pyžamový mejdan (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:48:18.130343+00:00"
-      },
-      "claim": {
-        "worker_id": "b007d1b5e63743caacd3c191d6553ae9-shard-5",
-        "claimed_at": "2026-09-26T17:54:18.398617+00:00",
-        "lease_expires_at": "2026-09-26T23:54:18.398617+00:00",
-        "run_id": "36258894874"
       },
       "previous_target_id": "29736510",
       "prepared": {
@@ -254881,6 +254875,12 @@
         "source_id": "29835047",
         "display_name": "Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-26T17:48:19.667367+00:00"
+      },
+      "claim": {
+        "worker_id": "b007d1b5e63743caacd3c191d6553ae9-shard-4",
+        "claimed_at": "2026-09-26T17:59:37.036504+00:00",
+        "lease_expires_at": "2026-09-26T23:59:37.036504+00:00",
+        "run_id": "36258894874"
       }
     },
     "7636": {
@@ -275789,5 +275789,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:59:34.681399+00:00"
+  "updated_at": "2026-09-26T17:59:37.367307+00:00"
 }
