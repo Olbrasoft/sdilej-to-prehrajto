@@ -245659,13 +245659,6 @@
           "permanent": false,
           "source_id": "27720060",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:26:55.508579+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27720060",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:51:52.753099+00:00"
         },
         {
@@ -245674,18 +245667,19 @@
           "source_id": "27720060",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:26.127216+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27720060",
+          "target_video_id": "29721916",
+          "permanent": false,
+          "attempted_at": "2026-09-26T06:09:29.158871+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27720060",
         "display_name": "Zúčtování v zóně 51 (2007) SD CZ Dabing",
         "planned_at": "2026-09-26T05:57:57.136081+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-2",
-        "claimed_at": "2026-09-26T06:07:28.283566+00:00",
-        "lease_expires_at": "2026-09-26T12:07:28.283566+00:00",
-        "run_id": "36218024605"
       },
       "previous_target_id": "29721916",
       "prepared": {
@@ -245779,6 +245773,12 @@
         "source_id": "34449654",
         "display_name": "Pokoj 205 (2007) SD CZ Dabing",
         "planned_at": "2026-09-26T05:57:57.469590+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
+        "claimed_at": "2026-09-26T06:09:28.127371+00:00",
+        "lease_expires_at": "2026-09-26T12:09:28.127371+00:00",
+        "run_id": "36218024605"
       }
     },
     "7287": {
@@ -267776,5 +267776,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T06:09:21.836529+00:00"
+  "updated_at": "2026-09-26T06:09:29.158890+00:00"
 }
