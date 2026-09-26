@@ -397,6 +397,44 @@ def test_continuous_plan_skips_live_claim_and_fills_from_queue(tmp_path) -> None
     assert plan[0]["selected"]["source_id"] == "prepared-2"
 
 
+def test_continuous_queue_rotates_retries_behind_unvisited_films(tmp_path) -> None:
+    state = StateStore(tmp_path / "state.json")
+    sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    films = [Film(i, f"film-{i}", f"Film {i}", None, 2000, 100, "en")
+             for i in range(1, 5)]
+    for film in films:
+        sources.record({
+            "cr_film_id": film.cr_film_id,
+            "source_id": str(film.cr_film_id),
+            "source_url": f"https://sdilej.cz/{film.cr_film_id}/film.mkv",
+            "selection_policy": SELECTION_POLICY,
+            "language_tier": "czech_audio", "width": 1920, "height": 1080,
+        })
+    # Both retries are eligible, but used to monopolize a small batch forever.
+    for film_id, timestamp in ((1, "2000-01-02T00:00:00+00:00"),
+                               (2, "2000-01-01T00:00:00+00:00")):
+        state.film(film_id).update({
+            "prepared": {"target_video_id": str(100 + film_id),
+                         "prepared_at": timestamp},
+            "attempts": [{"status": "target_processing", "source_id": str(film_id),
+                          "attempted_at": timestamp}],
+        })
+    pipeline = SyncPipeline(
+        source_provider=object(), source_session=object(), target_session=object(),
+        state=state, selected_sources=sources,
+        subtitle_queue=SubtitleQueue(tmp_path / "subtitles.jsonl"),
+    )
+    plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
+    assert [row["film"]["cr_film_id"] for row in plan] == [3, 4]
+    # Once fresh work has been visited, the oldest reconciliation gets a turn.
+    for film_id in (3, 4):
+        state.record_target_processing(film_id, video_id=str(100 + film_id),
+                                       size=100, source_id=str(film_id))
+    plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
+    assert [row["film"]["cr_film_id"] for row in plan] == [2, 1]
+    assert [film.cr_film_id for film in films] == [1, 2, 3, 4]
+
+
 def test_execute_distributes_rows_across_four_session_shards(
     tmp_path, monkeypatch
 ) -> None:

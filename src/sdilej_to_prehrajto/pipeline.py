@@ -128,6 +128,20 @@ class SyncPipeline:
             raise ValueError("Limit must be positive")
         plan: list[dict] = []
         inspected = 0
+        if verified_only:
+            # Start with unvisited films, then retry the least recently visited
+            # ones. A fixed backlog order lets thousands of processing checks
+            # become eligible again before workers ever reach fresh uploads.
+            # Stable sorting preserves catalog priority within each group.
+            def last_transfer_visit(film: Film) -> str:
+                checkpoint = self.state.snapshot(film.cr_film_id)
+                attempts = checkpoint.get("attempts") or []
+                return (
+                    attempts[-1].get("attempted_at", "") if attempts else
+                    checkpoint.get("prepared", {}).get("prepared_at", "")
+                )
+
+            films = sorted(films, key=last_transfer_visit)
         for film in films:
             if self.state.uploaded(film.cr_film_id) or self.selected_sources.uploaded(
                 film.cr_film_id
