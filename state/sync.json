@@ -65349,13 +65349,6 @@
           "source_id": "26005803",
           "target_video_id": "29576974",
           "permanent": false,
-          "attempted_at": "2026-09-26T01:13:08.349468+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26005803",
-          "target_video_id": "29576974",
-          "permanent": false,
           "attempted_at": "2026-09-26T01:46:18.812983+00:00"
         },
         {
@@ -65364,6 +65357,13 @@
           "target_video_id": "29576974",
           "permanent": false,
           "attempted_at": "2026-09-26T02:18:17.920873+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26005803",
+          "target_video_id": "29576974",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:02:33.200866+00:00"
         }
       ],
       "last_plan": {
@@ -65376,23 +65376,10 @@
         "target_video_id": "29576974",
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-21T06:49:04.384237+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T03:02:22.469602+00:00",
-        "lease_expires_at": "2026-09-26T09:02:22.469602+00:00",
-        "run_id": "36196679945"
       }
     },
     "26095": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "35073818",
-          "target_video_id": "29577019",
-          "permanent": false,
-          "attempted_at": "2026-09-26T01:13:10.058184+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "35073818",
@@ -65406,6 +65393,13 @@
           "target_video_id": "29577019",
           "permanent": false,
           "attempted_at": "2026-09-26T02:18:18.263319+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35073818",
+          "target_video_id": "29577019",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:02:32.896706+00:00"
         }
       ],
       "last_plan": {
@@ -65418,12 +65412,6 @@
         "target_video_id": "29577019",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-21T06:52:47.141403+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
-        "claimed_at": "2026-09-26T03:02:21.953441+00:00",
-        "lease_expires_at": "2026-09-26T09:02:21.953441+00:00",
-        "run_id": "36196679945"
       }
     },
     "26968": {
@@ -241162,13 +241150,6 @@
           "permanent": false,
           "source_id": "33257443",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:14:15.095425+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33257443",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:02:38.826009+00:00"
         },
         {
@@ -241177,18 +241158,19 @@
           "source_id": "33257443",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:31:04.155309+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33257443",
+          "target_video_id": "29719350",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:02:33.502887+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33257443",
         "display_name": "Modrá laguna (1980) 1080p CZ Dabing",
         "planned_at": "2026-09-26T02:46:59.724953+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-4",
-        "claimed_at": "2026-09-26T02:58:47.577785+00:00",
-        "lease_expires_at": "2026-09-26T08:58:47.577785+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29719350",
       "prepared": {
@@ -266796,5 +266778,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T03:02:23.263037+00:00"
+  "updated_at": "2026-09-26T03:02:33.502904+00:00"
 }
