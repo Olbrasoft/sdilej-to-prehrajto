@@ -260608,13 +260608,6 @@
           "permanent": false,
           "source_id": "30831027",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:09:07.797955+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30831027",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:26:43.018680+00:00"
         },
         {
@@ -260623,18 +260616,19 @@
           "source_id": "30831027",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:06.993801+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30831027",
+          "target_video_id": "29747271",
+          "permanent": false,
+          "attempted_at": "2026-09-26T23:16:42.715049+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30831027",
         "display_name": "Posedlá kontrolou (2025) 1080p CZ Titulky",
         "planned_at": "2026-09-26T18:37:10.597548+00:00"
-      },
-      "claim": {
-        "worker_id": "b007d1b5e63743caacd3c191d6553ae9-shard-1",
-        "claimed_at": "2026-09-26T23:08:34.638986+00:00",
-        "lease_expires_at": "2026-09-27T05:08:34.638986+00:00",
-        "run_id": "36258894874"
       },
       "previous_target_id": "29747271",
       "prepared": {
@@ -276213,5 +276207,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T23:08:39.536566+00:00"
+  "updated_at": "2026-09-26T23:16:42.715066+00:00"
 }
