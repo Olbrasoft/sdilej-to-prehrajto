@@ -249910,13 +249910,6 @@
           "permanent": false,
           "source_id": "10337880",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:27:41.332909+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "10337880",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:52:33.262585+00:00"
         },
         {
@@ -249925,18 +249918,19 @@
           "source_id": "10337880",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:20.765175+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "10337880",
+          "reason": "Request failed for https://sdilej.cz/10337880/vetrelec-nebeska-bitva-alien-convergence-2017-1080p.bluray-dabing-cz-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:37:08.288793+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10337880",
         "display_name": "Vetřelec: Nebeská bitva (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:08.312641+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
-        "claimed_at": "2026-09-26T17:36:22.317514+00:00",
-        "lease_expires_at": "2026-09-26T23:36:22.317514+00:00",
-        "run_id": "36240416883"
       }
     },
     "25577": {
@@ -250668,6 +250662,12 @@
         "source_id": "31568457",
         "display_name": "Policajt na útěku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:09.982184+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
+        "claimed_at": "2026-09-26T17:37:01.352508+00:00",
+        "lease_expires_at": "2026-09-26T23:37:01.352508+00:00",
+        "run_id": "36240416883"
       }
     },
     "30005": {
@@ -275575,5 +275575,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:36:58.817754+00:00"
+  "updated_at": "2026-09-26T17:37:08.288810+00:00"
 }
