@@ -243391,13 +243391,6 @@
           "source_id": "11796620",
           "target_video_id": "29720126",
           "permanent": false,
-          "attempted_at": "2026-09-26T03:48:18.455671+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11796620",
-          "target_video_id": "29720126",
-          "permanent": false,
           "attempted_at": "2026-09-26T04:30:49.945919+00:00"
         },
         {
@@ -243406,6 +243399,13 @@
           "target_video_id": "29720126",
           "permanent": false,
           "attempted_at": "2026-09-26T05:09:20.483968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11796620",
+          "target_video_id": "29720126",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:57:21.124889+00:00"
         }
       ],
       "last_plan": {
@@ -243418,12 +243418,6 @@
         "target_video_id": "29720126",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-26T03:44:32.065074+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
-        "claimed_at": "2026-09-26T05:57:18.578423+00:00",
-        "lease_expires_at": "2026-09-26T11:57:18.578423+00:00",
-        "run_id": "36218024605"
       }
     },
     "12552": {
@@ -243461,13 +243455,6 @@
           "source_id": "33694416",
           "target_video_id": "29720134",
           "permanent": false,
-          "attempted_at": "2026-09-26T03:48:53.068617+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33694416",
-          "target_video_id": "29720134",
-          "permanent": false,
           "attempted_at": "2026-09-26T04:30:49.401844+00:00"
         },
         {
@@ -243476,6 +243463,13 @@
           "target_video_id": "29720134",
           "permanent": false,
           "attempted_at": "2026-09-26T05:09:22.244427+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33694416",
+          "target_video_id": "29720134",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:57:21.293040+00:00"
         }
       ],
       "last_plan": {
@@ -243488,12 +243482,6 @@
         "target_video_id": "29720134",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-26T03:44:57.400300+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-4",
-        "claimed_at": "2026-09-26T05:57:18.975119+00:00",
-        "lease_expires_at": "2026-09-26T11:57:18.975119+00:00",
-        "run_id": "36218024605"
       }
     },
     "26016": {
@@ -243541,16 +243529,10 @@
           "attempted_at": "2026-09-26T05:13:13.114019+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34665031",
-        "display_name": "Očista (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T05:54:07.054925+00:00"
-      },
       "previous_target_id": "29721035",
-      "prepared": {
+      "upload": {
         "target_video_id": "29721035",
-        "size_bytes": 1843360263,
-        "prepared_at": "2026-09-26T05:09:31.936883+00:00"
+        "uploaded_at": "2026-09-26T05:57:23.300161+00:00"
       }
     },
     "31939": {
@@ -243611,13 +243593,6 @@
           "permanent": false,
           "source_id": "34712271",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:04:42.737461+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34712271",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:32:32.983912+00:00"
         },
         {
@@ -243626,6 +243601,13 @@
           "target_video_id": "29720579",
           "permanent": false,
           "attempted_at": "2026-09-26T04:41:29.238226+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34712271",
+          "target_video_id": "29720579",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:57:23.077733+00:00"
         }
       ],
       "last_plan": {
@@ -243636,7 +243618,7 @@
       "previous_target_id": "29720579",
       "prepared": {
         "target_video_id": "29720579",
-        "size_bytes": 4678858794,
+        "size_bytes": 4700000000,
         "prepared_at": "2026-09-26T04:30:52.387260+00:00"
       }
     },
@@ -243760,6 +243742,12 @@
         "target_video_id": "29721038",
         "size_bytes": 790006109,
         "prepared_at": "2026-09-26T05:09:39.683866+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-4",
+        "claimed_at": "2026-09-26T05:57:22.054684+00:00",
+        "lease_expires_at": "2026-09-26T11:57:22.054684+00:00",
+        "run_id": "36218024605"
       }
     },
     "30593": {
@@ -267678,5 +267666,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:57:19.209455+00:00"
+  "updated_at": "2026-09-26T05:57:23.300182+00:00"
 }
