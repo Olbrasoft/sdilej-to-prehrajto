@@ -252661,13 +252661,6 @@
           "permanent": false,
           "source_id": "26014671",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:33:03.706307+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26014671",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:53:13.025741+00:00"
         },
         {
@@ -252676,18 +252669,19 @@
           "source_id": "26014671",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:08.330112+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26014671",
+          "reason": "Request failed for https://sdilej.cz/26014671/super-finta-2001-akcni-komedie-cz-dabing-1-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:41:56.433777+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26014671",
         "display_name": "Super finta (2001) 720p CZ Dabing",
         "planned_at": "2026-09-26T17:37:41.417079+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
-        "claimed_at": "2026-09-26T17:41:06.581770+00:00",
-        "lease_expires_at": "2026-09-26T23:41:06.581770+00:00",
-        "run_id": "36240416883"
       }
     },
     "19535": {
@@ -275625,5 +275619,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:41:54.101383+00:00"
+  "updated_at": "2026-09-26T17:41:56.433793+00:00"
 }
