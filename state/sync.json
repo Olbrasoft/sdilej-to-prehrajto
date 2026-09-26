@@ -271963,17 +271963,19 @@
       "attempts": []
     },
     "36645": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11755829",
+          "reason": "Request failed for https://sdilej.cz/11755829/quantum-apokalypsa.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:27:39.392995+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11755829",
         "display_name": "Quantum Apokalypsa (2010) SD CZ Dabing",
         "planned_at": "2026-09-26T17:08:58.182593+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
-        "claimed_at": "2026-09-26T17:26:51.277574+00:00",
-        "lease_expires_at": "2026-09-26T23:26:51.277574+00:00",
-        "run_id": "36240416883"
       }
     },
     "11671": {
@@ -275380,5 +275382,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:27:37.029351+00:00"
+  "updated_at": "2026-09-26T17:27:39.393010+00:00"
 }
