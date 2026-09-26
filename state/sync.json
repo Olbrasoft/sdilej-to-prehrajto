@@ -245511,13 +245511,6 @@
           "permanent": false,
           "source_id": "33152080",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:51:50.961368+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33152080",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:25.042547+00:00"
         },
         {
@@ -245526,6 +245519,13 @@
           "target_video_id": "29721892",
           "permanent": false,
           "attempted_at": "2026-09-26T06:10:39.963736+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33152080",
+          "target_video_id": "29721892",
+          "permanent": false,
+          "attempted_at": "2026-09-26T07:04:26.770744+00:00"
         }
       ],
       "last_plan": {
@@ -245536,14 +245536,8 @@
       "previous_target_id": "29721892",
       "prepared": {
         "target_video_id": "29721892",
-        "size_bytes": 1978363098,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-26T06:06:00.503913+00:00"
-      },
-      "claim": {
-        "worker_id": "69395b22e5fa4d31ad28a56126ae5454-shard-1",
-        "claimed_at": "2026-09-26T07:04:24.230317+00:00",
-        "lease_expires_at": "2026-09-26T13:04:24.230317+00:00",
-        "run_id": "36218024605"
       }
     },
     "7239": {
@@ -245570,22 +245564,10 @@
           "attempted_at": "2026-09-26T06:09:21.836509+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "20853954",
-        "display_name": "Kapky (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T07:03:42.890669+00:00"
-      },
       "previous_target_id": "29721890",
-      "prepared": {
+      "upload": {
         "target_video_id": "29721890",
-        "size_bytes": 2009265849,
-        "prepared_at": "2026-09-26T06:05:58.663880+00:00"
-      },
-      "claim": {
-        "worker_id": "69395b22e5fa4d31ad28a56126ae5454-shard-5",
-        "claimed_at": "2026-09-26T07:04:22.138027+00:00",
-        "lease_expires_at": "2026-09-26T13:04:22.138027+00:00",
-        "run_id": "36218024605"
+        "uploaded_at": "2026-09-26T07:04:26.985522+00:00"
       }
     },
     "21166": {
@@ -267847,5 +267829,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T07:04:24.811939+00:00"
+  "updated_at": "2026-09-26T07:04:26.985536+00:00"
 }
