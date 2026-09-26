@@ -243978,13 +243978,6 @@
           "permanent": false,
           "source_id": "32453010",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:04:47.468832+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32453010",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:09.448348+00:00"
         },
         {
@@ -243993,6 +243986,13 @@
           "target_video_id": "29720616",
           "permanent": false,
           "attempted_at": "2026-09-26T05:11:22.687586+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32453010",
+          "target_video_id": "29720616",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:57:31.985657+00:00"
         }
       ],
       "last_plan": {
@@ -244005,12 +244005,6 @@
         "target_video_id": "29720616",
         "size_bytes": 17300000000,
         "prepared_at": "2026-09-26T04:34:29.058781+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-4",
-        "claimed_at": "2026-09-26T05:57:28.484276+00:00",
-        "lease_expires_at": "2026-09-26T11:57:28.484276+00:00",
-        "run_id": "36218024605"
       }
     },
     "8913": {
@@ -244090,6 +244084,12 @@
         "source_id": "13749372",
         "display_name": "Penzion osamělých srdcí (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-26T05:54:08.529506+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
+        "claimed_at": "2026-09-26T05:57:31.650325+00:00",
+        "lease_expires_at": "2026-09-26T11:57:31.650325+00:00",
+        "run_id": "36218024605"
       }
     },
     "23235": {
@@ -244158,16 +244158,10 @@
           "attempted_at": "2026-09-26T04:40:53.712901+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "16891054",
-        "display_name": "Happily (2021) 1080p CZ Titulky",
-        "planned_at": "2026-09-26T05:54:08.701260+00:00"
-      },
       "previous_target_id": "29720642",
-      "prepared": {
+      "upload": {
         "target_video_id": "29720642",
-        "size_bytes": 1961393248,
-        "prepared_at": "2026-09-26T04:38:10.931182+00:00"
+        "uploaded_at": "2026-09-26T05:57:33.031516+00:00"
       }
     },
     "7254": {
@@ -244204,6 +244198,12 @@
         "target_video_id": "29720649",
         "size_bytes": 2363420730,
         "prepared_at": "2026-09-26T04:38:59.647188+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-4",
+        "claimed_at": "2026-09-26T05:57:32.335733+00:00",
+        "lease_expires_at": "2026-09-26T11:57:32.335733+00:00",
+        "run_id": "36218024605"
       }
     },
     "13267": {
@@ -267660,5 +267660,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:57:29.590885+00:00"
+  "updated_at": "2026-09-26T05:57:33.031527+00:00"
 }
