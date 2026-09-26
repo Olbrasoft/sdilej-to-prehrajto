@@ -238885,13 +238885,6 @@
     "17058": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13167958",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:19:33.664188+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "13167958",
           "target_video_id": "29711078",
@@ -238904,6 +238897,13 @@
           "target_video_id": "29711078",
           "permanent": false,
           "attempted_at": "2026-09-25T19:15:21.479562+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13167958",
+          "target_video_id": "29711078",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:32.938612+00:00"
         }
       ],
       "last_plan": {
@@ -238916,12 +238916,6 @@
         "target_video_id": "29711078",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-25T18:38:07.011684+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T02:42:30.025284+00:00",
-        "lease_expires_at": "2026-09-26T08:42:30.025284+00:00",
-        "run_id": "36196679945"
       }
     },
     "12138": {
@@ -238999,13 +238993,6 @@
           "permanent": false,
           "source_id": "34057254",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:47:37.320531+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34057254",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:18.373278+00:00"
         },
         {
@@ -239014,6 +239001,13 @@
           "target_video_id": "29711156",
           "permanent": false,
           "attempted_at": "2026-09-25T18:46:07.855786+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34057254",
+          "target_video_id": "29711156",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:34.698557+00:00"
         }
       ],
       "last_plan": {
@@ -239024,7 +239018,7 @@
       "previous_target_id": "29711156",
       "prepared": {
         "target_video_id": "29711156",
-        "size_bytes": 1750255800,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-25T18:41:33.743903+00:00"
       }
     },
@@ -239055,16 +239049,10 @@
           "attempted_at": "2026-09-25T18:46:45.491620+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34671320",
-        "display_name": "Vraždící monstrum (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T02:41:37.877774+00:00"
-      },
       "previous_target_id": "29711155",
-      "prepared": {
+      "upload": {
         "target_video_id": "29711155",
-        "size_bytes": 1985359605,
-        "prepared_at": "2026-09-25T18:41:28.618677+00:00"
+        "uploaded_at": "2026-09-26T02:42:36.155255+00:00"
       }
     },
     "13301": {
@@ -239078,6 +239066,13 @@
           "target_video_id": "29711186",
           "permanent": false,
           "attempted_at": "2026-09-25T18:49:21.680344+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31568106",
+          "target_video_id": "29711186",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:35.499666+00:00"
         }
       ],
       "last_plan": {
@@ -239088,7 +239083,7 @@
       "previous_target_id": "29711186",
       "prepared": {
         "target_video_id": "29711186",
-        "size_bytes": 2464176302,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-25T18:42:37.257171+00:00"
       }
     },
@@ -239102,13 +239097,6 @@
           "permanent": false,
           "source_id": "24776606",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:47:38.554389+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24776606",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:18.096137+00:00"
         },
         {
@@ -239117,6 +239105,13 @@
           "target_video_id": "29711827",
           "permanent": false,
           "attempted_at": "2026-09-25T19:17:59.168401+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24776606",
+          "target_video_id": "29711827",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:35.813025+00:00"
         }
       ],
       "last_plan": {
@@ -239127,7 +239122,7 @@
       "previous_target_id": "29711827",
       "prepared": {
         "target_video_id": "29711827",
-        "size_bytes": 1048827904,
+        "size_bytes": 1000000000,
         "prepared_at": "2026-09-25T19:15:34.864833+00:00"
       }
     },
@@ -239171,6 +239166,12 @@
         "target_video_id": "29711863",
         "size_bytes": 2474540203,
         "prepared_at": "2026-09-25T19:18:10.801530+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-0",
+        "claimed_at": "2026-09-26T02:42:35.062553+00:00",
+        "lease_expires_at": "2026-09-26T08:42:35.062553+00:00",
+        "run_id": "36196679945"
       }
     },
     "28312": {
@@ -266621,5 +266622,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:42:30.651643+00:00"
+  "updated_at": "2026-09-26T02:42:36.155271+00:00"
 }
