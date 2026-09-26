@@ -241584,13 +241584,6 @@
           "permanent": false,
           "source_id": "34454298",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-26T05:09:24.355417+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34454298",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T05:57:12.820862+00:00"
         },
         {
@@ -241599,18 +241592,19 @@
           "source_id": "34454298",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T07:01:54.762022+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34454298",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T10:08:11.057687+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34454298",
         "display_name": "V/H/S (2012) SD CZ Titulky",
         "planned_at": "2026-09-26T10:06:55.657062+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-0",
-        "claimed_at": "2026-09-26T10:07:12.857659+00:00",
-        "lease_expires_at": "2026-09-26T16:07:12.857659+00:00",
-        "run_id": "36218024605"
       }
     },
     "19777": {
@@ -246075,13 +246069,6 @@
           "permanent": false,
           "source_id": "14542753",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:51:57.031769+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14542753",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:31.051012+00:00"
         },
         {
@@ -246090,6 +246077,13 @@
           "target_video_id": "29722764",
           "permanent": false,
           "attempted_at": "2026-09-26T07:14:01.228038+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14542753",
+          "target_video_id": "29722764",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:08:10.046762+00:00"
         }
       ],
       "last_plan": {
@@ -246100,25 +246094,12 @@
       "previous_target_id": "29722764",
       "prepared": {
         "target_video_id": "29722764",
-        "size_bytes": 2126926844,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-26T07:09:20.643545+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-5",
-        "claimed_at": "2026-09-26T10:08:07.395473+00:00",
-        "lease_expires_at": "2026-09-26T16:08:07.395473+00:00",
-        "run_id": "36218024605"
       }
     },
     "28723": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32920731",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:51:56.166563+00:00"
-        },
         {
           "status": "target_lookup_failed",
           "permanent": false,
@@ -246132,6 +246113,13 @@
           "target_video_id": "29722815",
           "permanent": false,
           "attempted_at": "2026-09-26T07:15:50.419505+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32920731",
+          "target_video_id": "29722815",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:08:09.815620+00:00"
         }
       ],
       "last_plan": {
@@ -246142,14 +246130,8 @@
       "previous_target_id": "29722815",
       "prepared": {
         "target_video_id": "29722815",
-        "size_bytes": 984594472,
+        "size_bytes": 984600000,
         "prepared_at": "2026-09-26T07:14:18.063857+00:00"
-      },
-      "claim": {
-        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-3",
-        "claimed_at": "2026-09-26T10:08:07.241022+00:00",
-        "lease_expires_at": "2026-09-26T16:08:07.241022+00:00",
-        "run_id": "36218024605"
       }
     },
     "22609": {
@@ -246223,6 +246205,12 @@
         "target_video_id": "29722834",
         "size_bytes": 1892310749,
         "prepared_at": "2026-09-26T07:15:59.920581+00:00"
+      },
+      "claim": {
+        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-4",
+        "claimed_at": "2026-09-26T10:08:10.637039+00:00",
+        "lease_expires_at": "2026-09-26T16:08:10.637039+00:00",
+        "run_id": "36218024605"
       }
     },
     "12429": {
@@ -246249,16 +246237,10 @@
           "attempted_at": "2026-09-26T07:22:32.730154+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34270933",
-        "display_name": "Velký Joe (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T10:07:37.280524+00:00"
-      },
       "previous_target_id": "29722859",
-      "prepared": {
+      "upload": {
         "target_video_id": "29722859",
-        "size_bytes": 2459933333,
-        "prepared_at": "2026-09-26T07:18:13.601169+00:00"
+        "uploaded_at": "2026-09-26T10:08:11.771043+00:00"
       }
     },
     "8656": {
@@ -246295,6 +246277,12 @@
         "target_video_id": "29722913",
         "size_bytes": 2887910343,
         "prepared_at": "2026-09-26T07:22:44.903184+00:00"
+      },
+      "claim": {
+        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-5",
+        "claimed_at": "2026-09-26T10:08:10.896816+00:00",
+        "lease_expires_at": "2026-09-26T16:08:10.896816+00:00",
+        "run_id": "36218024605"
       }
     },
     "34971": {
@@ -246360,6 +246348,12 @@
         "target_video_id": "29722970",
         "size_bytes": 2643609906,
         "prepared_at": "2026-09-26T07:27:30.226158+00:00"
+      },
+      "claim": {
+        "worker_id": "46c499bbd7034aa7a462b9dd4003d41c-shard-0",
+        "claimed_at": "2026-09-26T10:08:11.238014+00:00",
+        "lease_expires_at": "2026-09-26T16:08:11.238014+00:00",
+        "run_id": "36218024605"
       }
     },
     "22525": {
@@ -267984,5 +267978,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T10:08:07.826158+00:00"
+  "updated_at": "2026-09-26T10:08:11.771062+00:00"
 }
