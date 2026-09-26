@@ -140223,13 +140223,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-25T18:36:08.667199+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-25T19:00:12.421871+00:00"
         },
         {
@@ -140238,6 +140231,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-25T19:11:26.081855+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T01:57:35.766943+00:00"
         }
       ],
       "last_plan": {
@@ -140250,13 +140250,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T01:56:15.646311+00:00",
-        "lease_expires_at": "2026-09-26T07:56:15.646311+00:00",
-        "run_id": "36196679945"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -140853,13 +140847,6 @@
           "source_id": "26569147",
           "target_video_id": "29220982",
           "permanent": false,
-          "attempted_at": "2026-09-25T17:49:44.715441+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26569147",
-          "target_video_id": "29220982",
-          "permanent": false,
           "attempted_at": "2026-09-25T18:21:45.320266+00:00"
         },
         {
@@ -140868,6 +140855,13 @@
           "target_video_id": "29220982",
           "permanent": false,
           "attempted_at": "2026-09-25T18:59:19.505057+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26569147",
+          "target_video_id": "29220982",
+          "permanent": false,
+          "attempted_at": "2026-09-26T01:57:38.114900+00:00"
         }
       ],
       "last_plan": {
@@ -140900,6 +140894,18 @@
         "source_id": "33767370",
         "display_name": "Bublifuk (1991) 1080p CZ Dabing",
         "planned_at": "2026-09-26T01:55:42.792734+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T01:57:38.556751+00:00",
+        "lease_expires_at": "2026-09-26T07:57:38.556751+00:00",
+        "run_id": "36196679945"
+      },
+      "previous_target_id": "29718225",
+      "prepared": {
+        "target_video_id": "29718225",
+        "size_bytes": 2309485310,
+        "prepared_at": "2026-09-26T01:57:43.364139+00:00"
       }
     },
     "10765": {
@@ -266370,5 +266376,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T01:56:26.786007+00:00"
+  "updated_at": "2026-09-26T01:57:43.364154+00:00"
 }
