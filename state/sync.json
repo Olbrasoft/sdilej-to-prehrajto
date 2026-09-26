@@ -242058,13 +242058,6 @@
           "permanent": false,
           "source_id": "25543642",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:15:11.013705+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25543642",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:04:33.884580+00:00"
         },
         {
@@ -242073,18 +242066,19 @@
           "source_id": "25543642",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:32:13.812229+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25543642",
+          "target_video_id": "29720018",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:37:22.877288+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25543642",
         "display_name": "Prokletí Midasovy skříňky (2013) SD CZ Dabing",
         "planned_at": "2026-09-26T03:27:02.725973+00:00"
-      },
-      "claim": {
-        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-0",
-        "claimed_at": "2026-09-26T03:35:34.317471+00:00",
-        "lease_expires_at": "2026-09-26T09:35:34.317471+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29720018",
       "prepared": {
@@ -242257,6 +242251,12 @@
         "source_id": "34738450",
         "display_name": "Earth to Echo (2014) SD CZ Titulky",
         "planned_at": "2026-09-26T03:27:03.525137+00:00"
+      },
+      "claim": {
+        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-5",
+        "claimed_at": "2026-09-26T03:37:12.731695+00:00",
+        "lease_expires_at": "2026-09-26T09:37:12.731695+00:00",
+        "run_id": "36196679945"
       }
     },
     "6939": {
@@ -267089,5 +267089,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T03:37:05.135801+00:00"
+  "updated_at": "2026-09-26T03:37:22.877305+00:00"
 }
