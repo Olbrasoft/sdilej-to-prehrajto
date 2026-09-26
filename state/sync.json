@@ -238696,13 +238696,6 @@
           "source_id": "8458220",
           "target_video_id": "29709723",
           "permanent": false,
-          "attempted_at": "2026-09-25T17:31:01.363606+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8458220",
-          "target_video_id": "29709723",
-          "permanent": false,
           "attempted_at": "2026-09-25T18:37:55.660472+00:00"
         },
         {
@@ -238711,6 +238704,13 @@
           "target_video_id": "29709723",
           "permanent": false,
           "attempted_at": "2026-09-25T19:15:19.720197+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8458220",
+          "target_video_id": "29709723",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:30.349591+00:00"
         }
       ],
       "last_plan": {
@@ -238723,12 +238723,6 @@
         "target_video_id": "29709723",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-25T17:28:39.076201+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
-        "claimed_at": "2026-09-26T02:42:26.355801+00:00",
-        "lease_expires_at": "2026-09-26T08:42:26.355801+00:00",
-        "run_id": "36196679945"
       }
     },
     "26030": {
@@ -238882,22 +238876,10 @@
           "attempted_at": "2026-09-25T18:45:39.654649+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34737041",
-        "display_name": "Followed (2018) 1080p CZ Titulky",
-        "planned_at": "2026-09-26T02:41:36.960943+00:00"
-      },
       "previous_target_id": "29711077",
-      "prepared": {
+      "upload": {
         "target_video_id": "29711077",
-        "size_bytes": 2287188067,
-        "prepared_at": "2026-09-25T18:38:04.519362+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T02:42:27.077233+00:00",
-        "lease_expires_at": "2026-09-26T08:42:27.077233+00:00",
-        "run_id": "36196679945"
+        "uploaded_at": "2026-09-26T02:42:30.651624+00:00"
       }
     },
     "17058": {
@@ -238934,6 +238916,12 @@
         "target_video_id": "29711078",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-25T18:38:07.011684+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T02:42:30.025284+00:00",
+        "lease_expires_at": "2026-09-26T08:42:30.025284+00:00",
+        "run_id": "36196679945"
       }
     },
     "12138": {
@@ -266633,5 +266621,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:42:27.802910+00:00"
+  "updated_at": "2026-09-26T02:42:30.651643+00:00"
 }
