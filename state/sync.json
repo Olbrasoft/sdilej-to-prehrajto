@@ -250314,13 +250314,6 @@
           "permanent": false,
           "source_id": "26696736",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:27:43.141938+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26696736",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:52:35.540136+00:00"
         },
         {
@@ -250329,18 +250322,19 @@
           "source_id": "26696736",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:22.687457+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26696736",
+          "reason": "Request failed for https://sdilej.cz/26696736/rachel-stoneova-sazka-na-srdce-heart-of-stone-2023-cz-dabing-4k-uhd.mkv (HTTP 522)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:36:58.817738+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26696736",
         "display_name": "Rachel Stoneová: Sázka na Srdce (2023) 4K CZ Dabing",
         "planned_at": "2026-09-26T17:09:09.141895+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
-        "claimed_at": "2026-09-26T17:36:38.141035+00:00",
-        "lease_expires_at": "2026-09-26T23:36:38.141035+00:00",
-        "run_id": "36240416883"
       }
     },
     "19231": {
@@ -250583,6 +250577,12 @@
         "source_id": "33743524",
         "display_name": "Pro jedno kousnutí (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:09.568220+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-4",
+        "claimed_at": "2026-09-26T17:36:55.690981+00:00",
+        "lease_expires_at": "2026-09-26T23:36:55.690981+00:00",
+        "run_id": "36240416883"
       }
     },
     "34376": {
@@ -275575,5 +275575,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:36:53.324702+00:00"
+  "updated_at": "2026-09-26T17:36:58.817754+00:00"
 }
