@@ -129612,18 +129612,19 @@
           "reason": "Request failed for https://sdilej.cz/32146840/hairspray-2007-cz-dab-360p.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T02:16:13.180273+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32146840",
+          "reason": "Request failed for https://sdilej.cz/32146840/hairspray-2007-cz-dab-360p.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:18.226254+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32146840",
         "display_name": "Hairspray (2007) SD CZ Dabing",
         "planned_at": "2026-09-26T02:46:48.751128+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T02:47:31.503939+00:00",
-        "lease_expires_at": "2026-09-26T08:47:31.503939+00:00",
-        "run_id": "36196679945"
       }
     },
     "22227": {
@@ -129715,13 +129716,6 @@
           "source_id": "34059564",
           "target_video_id": "29661070",
           "permanent": false,
-          "attempted_at": "2026-09-25T18:57:12.394640+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34059564",
-          "target_video_id": "29661070",
-          "permanent": false,
           "attempted_at": "2026-09-26T01:27:09.238974+00:00"
         },
         {
@@ -129730,6 +129724,13 @@
           "target_video_id": "29661070",
           "permanent": false,
           "attempted_at": "2026-09-26T02:16:04.834422+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34059564",
+          "target_video_id": "29661070",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:16.050377+00:00"
         }
       ],
       "last_plan": {
@@ -129834,13 +129835,6 @@
           "source_id": "34892137",
           "target_video_id": "29662349",
           "permanent": false,
-          "attempted_at": "2026-09-25T18:57:15.699847+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34892137",
-          "target_video_id": "29662349",
-          "permanent": false,
           "attempted_at": "2026-09-26T01:27:22.089034+00:00"
         },
         {
@@ -129849,6 +129843,13 @@
           "target_video_id": "29662349",
           "permanent": false,
           "attempted_at": "2026-09-26T02:16:12.753932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34892137",
+          "target_video_id": "29662349",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:16.858768+00:00"
         }
       ],
       "last_plan": {
@@ -129878,6 +129879,13 @@
           "target_video_id": "29717810",
           "permanent": false,
           "attempted_at": "2026-09-26T02:16:17.426598+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22130107",
+          "target_video_id": "29717810",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:16.461741+00:00"
         }
       ],
       "last_plan": {
@@ -240125,6 +240133,12 @@
         "target_video_id": "29714281",
         "size_bytes": 10601243291,
         "prepared_at": "2026-09-25T21:57:39.806302+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-5",
+        "claimed_at": "2026-09-26T02:48:17.876847+00:00",
+        "lease_expires_at": "2026-09-26T08:48:17.876847+00:00",
+        "run_id": "36196679945"
       }
     },
     "7233": {
@@ -240197,6 +240211,12 @@
         "target_video_id": "29714650",
         "size_bytes": 3582858350,
         "prepared_at": "2026-09-25T22:22:29.613905+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
+        "claimed_at": "2026-09-26T02:48:17.191393+00:00",
+        "lease_expires_at": "2026-09-26T08:48:17.191393+00:00",
+        "run_id": "36196679945"
       }
     },
     "28045": {
@@ -240233,6 +240253,12 @@
         "target_video_id": "29714806",
         "size_bytes": 4093257042,
         "prepared_at": "2026-09-25T22:32:07.797406+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T02:48:17.537839+00:00",
+        "lease_expires_at": "2026-09-26T08:48:17.537839+00:00",
+        "run_id": "36196679945"
       }
     },
     "28925": {
@@ -266666,5 +266692,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:48:11.947310+00:00"
+  "updated_at": "2026-09-26T02:48:18.226271+00:00"
 }
