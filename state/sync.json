@@ -114996,17 +114996,19 @@
       "attempts": []
     },
     "23607": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27668384",
+          "target_video_id": "29721661",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:53:18.248604+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (1995) 1080p CZ Dabing",
         "planned_at": "2026-09-26T05:45:11.966937+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
-        "claimed_at": "2026-09-26T05:49:50.042641+00:00",
-        "lease_expires_at": "2026-09-26T11:49:50.042641+00:00",
-        "run_id": "36218024605"
       },
       "previous_target_id": "29721661",
       "prepared": {
@@ -140839,7 +140841,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630"
+      "previous_target_id": "29220630",
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-4",
+        "claimed_at": "2026-09-26T05:52:56.434456+00:00",
+        "lease_expires_at": "2026-09-26T11:52:56.434456+00:00",
+        "run_id": "36218024605"
+      }
     },
     "7973": {
       "attempts": []
@@ -267577,5 +267585,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:52:54.577030+00:00"
+  "updated_at": "2026-09-26T05:53:18.248618+00:00"
 }
