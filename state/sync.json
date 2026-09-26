@@ -252455,13 +252455,6 @@
           "permanent": false,
           "source_id": "29999440",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:33:01.006604+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29999440",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:53:09.674032+00:00"
         },
         {
@@ -252470,18 +252463,19 @@
           "source_id": "29999440",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:06.744650+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29999440",
+          "reason": "Request failed for https://sdilej.cz/29999440/pinocchiova-dobrodruzstvi-cely-film-hd.mp4 (HTTP 522)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:41:01.770766+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29999440",
         "display_name": "Pinocchiova dobrodružství (1996) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:37:40.494915+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-2",
-        "claimed_at": "2026-09-26T17:40:38.033797+00:00",
-        "lease_expires_at": "2026-09-26T23:40:38.033797+00:00",
-        "run_id": "36240416883"
       }
     },
     "7408": {
@@ -275625,5 +275619,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:40:59.651052+00:00"
+  "updated_at": "2026-09-26T17:41:01.770783+00:00"
 }
