@@ -259403,13 +259403,6 @@
           "permanent": false,
           "source_id": "33774042",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:08:57.095532+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33774042",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:26:34.772033+00:00"
         },
         {
@@ -259418,18 +259411,19 @@
           "source_id": "33774042",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:04.761572+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33774042",
+          "target_video_id": "29746902",
+          "permanent": false,
+          "attempted_at": "2026-09-26T22:45:13.328698+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33774042",
         "display_name": "Soukromý víkend (1985) 1080p CZ Dabing",
         "planned_at": "2026-09-26T18:37:09.265874+00:00"
-      },
-      "claim": {
-        "worker_id": "b007d1b5e63743caacd3c191d6553ae9-shard-1",
-        "claimed_at": "2026-09-26T22:38:23.853983+00:00",
-        "lease_expires_at": "2026-09-27T04:38:23.853983+00:00",
-        "run_id": "36258894874"
       },
       "previous_target_id": "29746902",
       "prepared": {
@@ -276189,5 +276183,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T22:38:28.045212+00:00"
+  "updated_at": "2026-09-26T22:45:13.328710+00:00"
 }
