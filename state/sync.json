@@ -84864,13 +84864,6 @@
           "source_id": "11263337",
           "target_video_id": "29673112",
           "permanent": false,
-          "attempted_at": "2026-09-25T23:04:33.669407+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11263337",
-          "target_video_id": "29673112",
-          "permanent": false,
           "attempted_at": "2026-09-25T23:49:31.452767+00:00"
         },
         {
@@ -84879,6 +84872,13 @@
           "target_video_id": "29673112",
           "permanent": false,
           "attempted_at": "2026-09-26T00:26:35.129386+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11263337",
+          "target_video_id": "29673112",
+          "permanent": false,
+          "attempted_at": "2026-09-26T01:14:58.299388+00:00"
         }
       ],
       "last_plan": {
@@ -84891,23 +84891,10 @@
         "target_video_id": "29673112",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-24T16:23:03.061725+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
-        "claimed_at": "2026-09-26T01:14:50.773118+00:00",
-        "lease_expires_at": "2026-09-26T07:14:50.773118+00:00",
-        "run_id": "36196679945"
       }
     },
     "3022": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "25263125",
-          "target_video_id": "29676445",
-          "permanent": false,
-          "attempted_at": "2026-09-25T23:04:34.244860+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "25263125",
@@ -84921,6 +84908,13 @@
           "target_video_id": "29676445",
           "permanent": false,
           "attempted_at": "2026-09-26T00:26:36.951857+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25263125",
+          "target_video_id": "29676445",
+          "permanent": false,
+          "attempted_at": "2026-09-26T01:14:58.595750+00:00"
         }
       ],
       "last_plan": {
@@ -84933,12 +84927,6 @@
         "target_video_id": "29676445",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-24T18:40:54.320279+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-4",
-        "claimed_at": "2026-09-26T01:14:52.087621+00:00",
-        "lease_expires_at": "2026-09-26T07:14:52.087621+00:00",
-        "run_id": "36196679945"
       }
     },
     "23119": {
@@ -84975,6 +84963,12 @@
         "target_video_id": "29673125",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-24T16:23:28.452421+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-0",
+        "claimed_at": "2026-09-26T01:14:58.007013+00:00",
+        "lease_expires_at": "2026-09-26T07:14:58.007013+00:00",
+        "run_id": "36196679945"
       }
     },
     "22494": {
@@ -114211,17 +114205,19 @@
       "attempts": []
     },
     "17259": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34799529",
+          "target_video_id": "29717595",
+          "permanent": false,
+          "attempted_at": "2026-09-26T01:14:58.887163+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34799529",
         "display_name": "Stíny smrti: Vražda v Les Alpilles (2017) SD CZ Dabing",
         "planned_at": "2026-09-26T00:44:25.200587+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T01:07:23.367110+00:00",
-        "lease_expires_at": "2026-09-26T07:07:23.367110+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29717595",
       "prepared": {
@@ -265687,5 +265683,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T01:14:52.409269+00:00"
+  "updated_at": "2026-09-26T01:14:58.887182+00:00"
 }
