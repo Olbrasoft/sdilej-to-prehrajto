@@ -113757,13 +113757,6 @@
           "source_id": "11948507",
           "target_video_id": "29610817",
           "permanent": false,
-          "attempted_at": "2026-09-26T04:01:50.170414+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11948507",
-          "target_video_id": "29610817",
-          "permanent": false,
           "attempted_at": "2026-09-26T04:44:35.017842+00:00"
         },
         {
@@ -113772,6 +113765,13 @@
           "target_video_id": "29610817",
           "permanent": false,
           "attempted_at": "2026-09-26T05:34:34.683134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11948507",
+          "target_video_id": "29610817",
+          "permanent": false,
+          "attempted_at": "2026-09-26T06:33:02.487272+00:00"
         }
       ],
       "last_plan": {
@@ -114112,6 +114112,13 @@
           "target_video_id": "29721456",
           "permanent": false,
           "attempted_at": "2026-09-26T05:42:19.803330+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710745",
+          "target_video_id": "29721456",
+          "permanent": false,
+          "attempted_at": "2026-09-26T06:33:03.936440+00:00"
         }
       ],
       "last_plan": {
@@ -114122,7 +114129,7 @@
       "previous_target_id": "29721456",
       "prepared": {
         "target_video_id": "29721456",
-        "size_bytes": 1819877721,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-26T05:38:29.419127+00:00"
       }
     },
@@ -114187,6 +114194,14 @@
           "permanent": false,
           "target_video_id": "29721470",
           "attempted_at": "2026-09-26T05:49:55.777169+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34470698",
+          "target_video_id": "29721470",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-26T06:33:04.803868+00:00"
         }
       ],
       "last_plan": {
@@ -114194,7 +114209,13 @@
         "display_name": "Burácení (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-26T06:20:52.370754+00:00"
       },
-      "previous_target_id": "29721470"
+      "previous_target_id": "29721470",
+      "claim": {
+        "worker_id": "f2a89848c5b54ae3b06176369b86d6a6-shard-5",
+        "claimed_at": "2026-09-26T06:33:04.090896+00:00",
+        "lease_expires_at": "2026-09-26T12:33:04.090896+00:00",
+        "run_id": "36218024605"
+      }
     },
     "33425": {
       "attempts": []
@@ -114260,16 +114281,10 @@
           "attempted_at": "2026-09-26T05:43:55.503040+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34696238",
-        "display_name": "Čarovné střevíce (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T06:20:52.520776+00:00"
-      },
       "previous_target_id": "29721486",
-      "prepared": {
+      "upload": {
         "target_video_id": "29721486",
-        "size_bytes": 1806323859,
-        "prepared_at": "2026-09-26T05:40:01.541117+00:00"
+        "uploaded_at": "2026-09-26T06:33:06.365264+00:00"
       }
     },
     "32280": {
@@ -267848,5 +267863,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T06:32:53.292425+00:00"
+  "updated_at": "2026-09-26T06:33:06.365284+00:00"
 }
