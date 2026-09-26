@@ -242549,13 +242549,6 @@
     "21082": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33788690",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:23.621535+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33788690",
           "target_video_id": "29720068",
@@ -242568,6 +242561,13 @@
           "target_video_id": "29720068",
           "permanent": false,
           "attempted_at": "2026-09-26T04:18:35.172555+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33788690",
+          "target_video_id": "29720068",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:09:09.933777+00:00"
         }
       ],
       "last_plan": {
@@ -242580,12 +242580,6 @@
         "target_video_id": "29720068",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-26T03:40:45.229129+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-5",
-        "claimed_at": "2026-09-26T05:09:04.284519+00:00",
-        "lease_expires_at": "2026-09-26T11:09:04.284519+00:00",
-        "run_id": "36218024605"
       }
     },
     "28211": {
@@ -242619,13 +242613,6 @@
     "11443": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33746324",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:24.580028+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33746324",
           "target_video_id": "29720067",
@@ -242638,6 +242625,13 @@
           "target_video_id": "29720067",
           "permanent": false,
           "attempted_at": "2026-09-26T04:18:34.445117+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746324",
+          "target_video_id": "29720067",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:09:11.623943+00:00"
         }
       ],
       "last_plan": {
@@ -242719,13 +242713,6 @@
     "16348": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33869473",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:26.686480+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33869473",
           "target_video_id": "29720081",
@@ -242738,6 +242725,13 @@
           "target_video_id": "29720081",
           "permanent": false,
           "attempted_at": "2026-09-26T04:18:40.129364+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33869473",
+          "target_video_id": "29720081",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:09:13.145469+00:00"
         }
       ],
       "last_plan": {
@@ -242809,16 +242803,10 @@
           "attempted_at": "2026-09-26T04:18:44.368969+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "15439507",
-        "display_name": "Pastýř (2008) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T05:08:31.387640+00:00"
-      },
       "previous_target_id": "29720104",
-      "prepared": {
+      "upload": {
         "target_video_id": "29720104",
-        "size_bytes": 3100000000,
-        "prepared_at": "2026-09-26T03:42:58.013892+00:00"
+        "uploaded_at": "2026-09-26T05:09:14.823656+00:00"
       }
     },
     "33424": {
@@ -267188,5 +267176,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:09:04.759802+00:00"
+  "updated_at": "2026-09-26T05:09:14.823678+00:00"
 }
