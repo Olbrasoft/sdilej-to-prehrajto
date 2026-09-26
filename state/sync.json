@@ -241538,13 +241538,6 @@
           "permanent": false,
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:01.322802+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667639",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T03:28:55.902683+00:00"
         },
         {
@@ -241553,18 +241546,19 @@
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T04:18:05.461953+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34667639",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T04:31:57.883438+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34667639",
         "display_name": "Z (2019) 720p CZ Dabing",
         "planned_at": "2026-09-26T04:30:18.375054+00:00"
-      },
-      "claim": {
-        "worker_id": "7620093602804b2db95fc5c49b2f1e94-shard-0",
-        "claimed_at": "2026-09-26T04:30:44.534867+00:00",
-        "lease_expires_at": "2026-09-26T10:30:44.534867+00:00",
-        "run_id": "36196679945"
       }
     },
     "11269": {
@@ -243551,6 +243545,18 @@
         "source_id": "30090091",
         "display_name": "Eliminators (1986) SD CZ Titulky",
         "planned_at": "2026-09-26T04:30:21.234186+00:00"
+      },
+      "claim": {
+        "worker_id": "7620093602804b2db95fc5c49b2f1e94-shard-0",
+        "claimed_at": "2026-09-26T04:31:58.294326+00:00",
+        "lease_expires_at": "2026-09-26T10:31:58.294326+00:00",
+        "run_id": "36196679945"
+      },
+      "previous_target_id": "29720595",
+      "prepared": {
+        "target_video_id": "29720595",
+        "size_bytes": 1326713885,
+        "prepared_at": "2026-09-26T04:32:02.376657+00:00"
       }
     },
     "27032": {
@@ -267159,5 +267165,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T04:31:47.757477+00:00"
+  "updated_at": "2026-09-26T04:32:02.376674+00:00"
 }
