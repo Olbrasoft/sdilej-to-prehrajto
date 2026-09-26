@@ -270568,17 +270568,19 @@
       }
     },
     "9301": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31734399",
+          "target_video_id": "29735573",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:19:53.963447+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31734399",
         "display_name": "Mrazivá past: Odplata (2025) 4K CZ Dabing",
         "planned_at": "2026-09-26T16:27:17.985843+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-5",
-        "claimed_at": "2026-09-26T16:48:34.767678+00:00",
-        "lease_expires_at": "2026-09-26T22:48:34.767678+00:00",
-        "run_id": "36240416883"
       },
       "previous_target_id": "29735573",
       "prepared": {
@@ -271660,6 +271662,12 @@
         "source_id": "30456953",
         "display_name": "Zombie Hunter (2013) SD CZ Titulky",
         "planned_at": "2026-09-26T17:08:55.117834+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-4",
+        "claimed_at": "2026-09-26T17:19:52.610701+00:00",
+        "lease_expires_at": "2026-09-26T23:19:52.610701+00:00",
+        "run_id": "36240416883"
       }
     },
     "31762": {
@@ -275264,5 +275272,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:19:45.550079+00:00"
+  "updated_at": "2026-09-26T17:19:53.963463+00:00"
 }
