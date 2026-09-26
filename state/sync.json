@@ -21982,13 +21982,6 @@
           "source_id": "32676884",
           "target_video_id": "29635846",
           "permanent": false,
-          "attempted_at": "2026-09-26T02:13:15.830168+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32676884",
-          "target_video_id": "29635846",
-          "permanent": false,
           "attempted_at": "2026-09-26T02:44:40.507486+00:00"
         },
         {
@@ -21997,6 +21990,13 @@
           "target_video_id": "29635846",
           "permanent": false,
           "attempted_at": "2026-09-26T03:15:43.023954+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32676884",
+          "target_video_id": "29635846",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:48:17.777369+00:00"
         }
       ],
       "last_plan": {
@@ -22009,12 +22009,6 @@
         "target_video_id": "29635846",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-23T06:58:19.800388+00:00"
-      },
-      "claim": {
-        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-0",
-        "claimed_at": "2026-09-26T03:48:09.660222+00:00",
-        "lease_expires_at": "2026-09-26T09:48:09.660222+00:00",
-        "run_id": "36196679945"
       }
     },
     "1158": {
@@ -22369,13 +22363,6 @@
           "source_id": "26735241",
           "target_video_id": "29118333",
           "permanent": false,
-          "attempted_at": "2026-09-26T02:13:16.603734+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26735241",
-          "target_video_id": "29118333",
-          "permanent": false,
           "attempted_at": "2026-09-26T02:44:40.869817+00:00"
         },
         {
@@ -22384,6 +22371,13 @@
           "target_video_id": "29118333",
           "permanent": false,
           "attempted_at": "2026-09-26T03:15:44.096138+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26735241",
+          "target_video_id": "29118333",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:48:18.106327+00:00"
         }
       ],
       "last_plan": {
@@ -22396,13 +22390,7 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-09-05T03:43:51.599271+00:00"
       },
-      "previous_target_id": "29118333",
-      "claim": {
-        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-5",
-        "claimed_at": "2026-09-26T03:48:10.464899+00:00",
-        "lease_expires_at": "2026-09-26T09:48:10.464899+00:00",
-        "run_id": "36196679945"
-      }
+      "previous_target_id": "29118333"
     },
     "23298": {
       "attempts": [
@@ -243092,13 +243080,6 @@
           "permanent": false,
           "source_id": "11796620",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T21:28:50.074202+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11796620",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:04:41.804172+00:00"
         },
         {
@@ -243107,18 +243088,19 @@
           "source_id": "11796620",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:32:30.869087+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11796620",
+          "target_video_id": "29720126",
+          "permanent": false,
+          "attempted_at": "2026-09-26T03:48:18.455671+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11796620",
         "display_name": "Grace, kněžna monacká (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-26T03:27:07.514091+00:00"
-      },
-      "claim": {
-        "worker_id": "5f4bebe6a50948799f454a92fc59c5bb-shard-4",
-        "claimed_at": "2026-09-26T03:44:27.526477+00:00",
-        "lease_expires_at": "2026-09-26T09:44:27.526477+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29720126",
       "prepared": {
@@ -267186,5 +267168,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T03:48:10.928931+00:00"
+  "updated_at": "2026-09-26T03:48:18.455689+00:00"
 }
