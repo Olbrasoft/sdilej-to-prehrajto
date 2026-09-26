@@ -241507,13 +241507,6 @@
           "permanent": false,
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-26T03:28:55.902683+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667639",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T04:18:05.461953+00:00"
         },
         {
@@ -241522,18 +241515,19 @@
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-26T04:31:57.883438+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34667639",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-26T05:09:34.024437+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34667639",
         "display_name": "Z (2019) 720p CZ Dabing",
         "planned_at": "2026-09-26T05:07:52.615438+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
-        "claimed_at": "2026-09-26T05:08:25.769238+00:00",
-        "lease_expires_at": "2026-09-26T11:08:25.769238+00:00",
-        "run_id": "36218024605"
       }
     },
     "11269": {
@@ -243354,6 +243348,12 @@
         "source_id": "31899512",
         "display_name": "Zavraždění Johna Lennona (2007) SD CZ Dabing",
         "planned_at": "2026-09-26T05:08:32.590971+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-2",
+        "claimed_at": "2026-09-26T05:09:34.367389+00:00",
+        "lease_expires_at": "2026-09-26T11:09:34.367389+00:00",
+        "run_id": "36218024605"
       }
     },
     "30593": {
@@ -243403,6 +243403,18 @@
         "source_id": "11380606",
         "display_name": "Brána válečníků (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-26T05:08:33.012635+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-0",
+        "claimed_at": "2026-09-26T05:09:34.194011+00:00",
+        "lease_expires_at": "2026-09-26T11:09:34.194011+00:00",
+        "run_id": "36218024605"
+      },
+      "previous_target_id": "29721037",
+      "prepared": {
+        "target_video_id": "29721037",
+        "size_bytes": 3298140045,
+        "prepared_at": "2026-09-26T05:09:37.593276+00:00"
       }
     },
     "23000": {
@@ -267176,5 +267188,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:09:31.936904+00:00"
+  "updated_at": "2026-09-26T05:09:37.593294+00:00"
 }
