@@ -240184,13 +240184,6 @@
           "permanent": false,
           "source_id": "34228869",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:57.361364+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34228869",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:43.835569+00:00"
         },
         {
@@ -240199,6 +240192,13 @@
           "target_video_id": "29714650",
           "permanent": false,
           "attempted_at": "2026-09-25T22:31:57.674009+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34228869",
+          "target_video_id": "29714650",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:20.628232+00:00"
         }
       ],
       "last_plan": {
@@ -240209,14 +240209,8 @@
       "previous_target_id": "29714650",
       "prepared": {
         "target_video_id": "29714650",
-        "size_bytes": 3582858350,
+        "size_bytes": 3600000000,
         "prepared_at": "2026-09-25T22:22:29.613905+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
-        "claimed_at": "2026-09-26T02:48:17.191393+00:00",
-        "lease_expires_at": "2026-09-26T08:48:17.191393+00:00",
-        "run_id": "36196679945"
       }
     },
     "28045": {
@@ -240243,22 +240237,10 @@
           "attempted_at": "2026-09-25T22:39:37.736442+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34478652",
-        "display_name": "Kohout na víně 2 (2013) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T02:46:51.161007+00:00"
-      },
       "previous_target_id": "29714806",
-      "prepared": {
+      "upload": {
         "target_video_id": "29714806",
-        "size_bytes": 4093257042,
-        "prepared_at": "2026-09-25T22:32:07.797406+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T02:48:17.537839+00:00",
-        "lease_expires_at": "2026-09-26T08:48:17.537839+00:00",
-        "run_id": "36196679945"
+        "uploaded_at": "2026-09-26T02:48:20.954002+00:00"
       }
     },
     "28925": {
@@ -266692,5 +266674,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:48:18.226271+00:00"
+  "updated_at": "2026-09-26T02:48:20.954020+00:00"
 }
