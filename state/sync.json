@@ -255665,13 +255665,6 @@
           "permanent": false,
           "source_id": "29012282",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:47:40.519814+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29012282",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:54:15.985928+00:00"
         },
         {
@@ -255680,18 +255673,19 @@
           "source_id": "29012282",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:52.614469+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29012282",
+          "target_video_id": "29737173",
+          "permanent": false,
+          "attempted_at": "2026-09-26T18:15:45.214921+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29012282",
         "display_name": "Rande měsíce (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:48:21.459711+00:00"
-      },
-      "claim": {
-        "worker_id": "b007d1b5e63743caacd3c191d6553ae9-shard-0",
-        "claimed_at": "2026-09-26T18:08:15.477004+00:00",
-        "lease_expires_at": "2026-09-27T00:08:15.477004+00:00",
-        "run_id": "36258894874"
       },
       "previous_target_id": "29737173",
       "prepared": {
@@ -275893,5 +275887,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T18:15:38.246126+00:00"
+  "updated_at": "2026-09-26T18:15:45.214939+00:00"
 }
