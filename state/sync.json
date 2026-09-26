@@ -210943,13 +210943,6 @@
           "source_id": "26550838",
           "target_video_id": "29531613",
           "permanent": false,
-          "attempted_at": "2026-09-26T02:34:05.039617+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26550838",
-          "target_video_id": "29531613",
-          "permanent": false,
           "attempted_at": "2026-09-26T03:21:17.637020+00:00"
         },
         {
@@ -210958,6 +210951,13 @@
           "target_video_id": "29531613",
           "permanent": false,
           "attempted_at": "2026-09-26T04:09:09.601997+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26550838",
+          "target_video_id": "29531613",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:05:38.745358+00:00"
         }
       ],
       "last_plan": {
@@ -210970,12 +210970,6 @@
         "target_video_id": "29531613",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-19T15:06:08.000243+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-2",
-        "claimed_at": "2026-09-26T05:05:35.214656+00:00",
-        "lease_expires_at": "2026-09-26T11:05:35.214656+00:00",
-        "run_id": "36218024605"
       }
     },
     "26630": {
@@ -212534,13 +212528,6 @@
         {
           "status": "source_refresh_failed",
           "source_id": "31348207",
-          "reason": "Request failed for https://sdilej.cz/31348207/san-andreas-2015-2160p-eac3-ces-eng-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-26T02:35:01.778274+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31348207",
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-26T03:21:38.629675+00:00"
@@ -212551,18 +212538,19 @@
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-26T04:09:06.240906+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31348207",
+          "reason": "Source detail has no authenticated download link; source_id=31348207",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:05:38.903520+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-09-26T05:05:05.068631+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-5",
-        "claimed_at": "2026-09-26T05:05:35.016505+00:00",
-        "lease_expires_at": "2026-09-26T11:05:35.016505+00:00",
-        "run_id": "36218024605"
       }
     },
     "5944": {
@@ -267200,5 +267188,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:05:36.729547+00:00"
+  "updated_at": "2026-09-26T05:05:38.903542+00:00"
 }
