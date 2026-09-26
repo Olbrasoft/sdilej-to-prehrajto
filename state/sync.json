@@ -144106,6 +144106,12 @@
         "target_video_id": "29676884",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-24T18:59:15.351500+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
+        "claimed_at": "2026-09-26T02:42:01.548028+00:00",
+        "lease_expires_at": "2026-09-26T08:42:01.548028+00:00",
+        "run_id": "36196679945"
       }
     },
     "3702": {
@@ -144143,13 +144149,6 @@
           "source_id": "34771105",
           "target_video_id": "29675466",
           "permanent": false,
-          "attempted_at": "2026-09-25T18:22:05.024102+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34771105",
-          "target_video_id": "29675466",
-          "permanent": false,
           "attempted_at": "2026-09-25T18:59:50.799007+00:00"
         },
         {
@@ -144158,6 +144157,13 @@
           "target_video_id": "29675466",
           "permanent": false,
           "attempted_at": "2026-09-26T02:10:55.803034+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34771105",
+          "target_video_id": "29675466",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:02.377264+00:00"
         }
       ],
       "last_plan": {
@@ -144532,7 +144538,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-06T19:11:34.951772+00:00"
       },
-      "previous_target_id": "29168644"
+      "previous_target_id": "29168644",
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T02:42:01.263802+00:00",
+        "lease_expires_at": "2026-09-26T08:42:01.263802+00:00",
+        "run_id": "36196679945"
+      }
     },
     "3654": {
       "attempts": []
@@ -237357,16 +237369,10 @@
           "attempted_at": "2026-09-25T19:14:40.520983+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "7550961",
-        "display_name": "Stůl číslo 19 (2017) 720p CZ Dabing",
-        "planned_at": "2026-09-26T02:41:30.885123+00:00"
-      },
       "previous_target_id": "29708197",
-      "prepared": {
+      "upload": {
         "target_video_id": "29708197",
-        "size_bytes": 1800000000,
-        "prepared_at": "2026-09-25T16:11:57.206453+00:00"
+        "uploaded_at": "2026-09-26T02:42:02.723626+00:00"
       }
     },
     "28996": {
@@ -266651,5 +266657,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:41:58.584418+00:00"
+  "updated_at": "2026-09-26T02:42:02.723643+00:00"
 }
