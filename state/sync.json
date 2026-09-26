@@ -241935,13 +241935,6 @@
     "8685": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26364044",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:11.851783+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26364044",
           "target_video_id": "29720012",
@@ -241954,6 +241947,13 @@
           "target_video_id": "29720012",
           "permanent": false,
           "attempted_at": "2026-09-26T04:17:14.898656+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26364044",
+          "target_video_id": "29720012",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:08:53.221998+00:00"
         }
       ],
       "last_plan": {
@@ -241971,13 +241971,6 @@
     "7823": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29855453",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:12.853894+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29855453",
           "reason": "Request failed for https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv (HTTP None)",
@@ -241990,6 +241983,13 @@
           "target_video_id": "29720485",
           "permanent": false,
           "attempted_at": "2026-09-26T04:29:24.544014+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29855453",
+          "target_video_id": "29720485",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:08:53.676312+00:00"
         }
       ],
       "last_plan": {
@@ -242000,7 +242000,7 @@
       "previous_target_id": "29720485",
       "prepared": {
         "target_video_id": "29720485",
-        "size_bytes": 4784164949,
+        "size_bytes": 4800000000,
         "prepared_at": "2026-09-26T04:18:25.333863+00:00"
       }
     },
@@ -242103,16 +242103,10 @@
           "attempted_at": "2026-09-26T04:18:20.201302+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33819534",
-        "display_name": "Gothika (2003) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T05:08:29.381050+00:00"
-      },
       "previous_target_id": "29720023",
-      "prepared": {
+      "upload": {
         "target_video_id": "29720023",
-        "size_bytes": 1900000000,
-        "prepared_at": "2026-09-26T03:36:10.302366+00:00"
+        "uploaded_at": "2026-09-26T05:08:55.930609+00:00"
       }
     },
     "12268": {
@@ -242124,13 +242118,6 @@
     },
     "8739": {
       "attempts": [
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26445410",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:32:15.731168+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "26445410",
@@ -242144,6 +242131,13 @@
           "target_video_id": "29720033",
           "permanent": false,
           "attempted_at": "2026-09-26T04:18:20.515274+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26445410",
+          "target_video_id": "29720033",
+          "permanent": false,
+          "attempted_at": "2026-09-26T05:08:55.752214+00:00"
         }
       ],
       "last_plan": {
@@ -267176,5 +267170,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:08:49.398189+00:00"
+  "updated_at": "2026-09-26T05:08:55.930634+00:00"
 }
