@@ -260366,17 +260366,19 @@
       }
     },
     "28241": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34710740",
+          "reason": "Request failed for https://sdilej.cz/34710740/smrtelna-aliance-2013-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T13:55:23.526754+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710740",
         "display_name": "Smrtelná aliance (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-26T13:32:49.779216+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-5",
-        "claimed_at": "2026-09-26T13:54:35.222979+00:00",
-        "lease_expires_at": "2026-09-26T19:54:35.222979+00:00",
-        "run_id": "36240416883"
       }
     },
     "20780": {
@@ -271170,5 +271172,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T13:55:21.033270+00:00"
+  "updated_at": "2026-09-26T13:55:23.526769+00:00"
 }
