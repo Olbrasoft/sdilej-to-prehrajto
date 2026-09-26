@@ -240239,6 +240239,13 @@
           "target_video_id": "29714898",
           "permanent": false,
           "attempted_at": "2026-09-25T22:42:57.291638+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "4364671",
+          "target_video_id": "29714898",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:28.457694+00:00"
         }
       ],
       "last_plan": {
@@ -240249,14 +240256,8 @@
       "previous_target_id": "29714898",
       "prepared": {
         "target_video_id": "29714898",
-        "size_bytes": 1608298496,
+        "size_bytes": 1600000000,
         "prepared_at": "2026-09-25T22:39:49.387627+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T02:48:23.317977+00:00",
-        "lease_expires_at": "2026-09-26T08:48:23.317977+00:00",
-        "run_id": "36196679945"
       }
     },
     "6999": {
@@ -240278,13 +240279,6 @@
           "permanent": false,
           "source_id": "14346964",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:00:59.491412+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14346964",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:43.254146+00:00"
         },
         {
@@ -240293,6 +240287,13 @@
           "target_video_id": "29714935",
           "permanent": false,
           "attempted_at": "2026-09-25T22:47:09.765741+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14346964",
+          "target_video_id": "29714935",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:29.237368+00:00"
         }
       ],
       "last_plan": {
@@ -240303,7 +240304,7 @@
       "previous_target_id": "29714935",
       "prepared": {
         "target_video_id": "29714935",
-        "size_bytes": 2480419136,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-25T22:43:03.680313+00:00"
       }
     },
@@ -240324,13 +240325,6 @@
           "permanent": false,
           "source_id": "31323232",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:01:00.616980+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31323232",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:29:44.714449+00:00"
         },
         {
@@ -240339,6 +240333,13 @@
           "target_video_id": "29715014",
           "permanent": false,
           "attempted_at": "2026-09-25T22:51:36.703295+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31323232",
+          "target_video_id": "29715014",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:27.434897+00:00"
         }
       ],
       "last_plan": {
@@ -240349,14 +240350,8 @@
       "previous_target_id": "29715014",
       "prepared": {
         "target_video_id": "29715014",
-        "size_bytes": 2261407176,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-25T22:47:22.929181+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T02:48:23.641806+00:00",
-        "lease_expires_at": "2026-09-26T08:48:23.641806+00:00",
-        "run_id": "36196679945"
       }
     },
     "25266": {
@@ -240401,7 +240396,15 @@
       "attempts": []
     },
     "26628": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16030274",
+          "target_video_id": "29715102",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:48:29.635750+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16030274",
         "display_name": "Zevlovat a prudit (2009) SD CZ Dabing",
@@ -240410,7 +240413,7 @@
       "previous_target_id": "29715102",
       "prepared": {
         "target_video_id": "29715102",
-        "size_bytes": 1531032086,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-25T22:51:56.493150+00:00"
       }
     },
@@ -240442,6 +240445,12 @@
         "source_id": "34883608",
         "display_name": "Tvůj snoubenec, můj milenec (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-26T02:46:53.290682+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T02:48:28.096337+00:00",
+        "lease_expires_at": "2026-09-26T08:48:28.096337+00:00",
+        "run_id": "36196679945"
       }
     },
     "34239": {
@@ -240453,6 +240462,12 @@
         "source_id": "30209376",
         "display_name": "Dámský klub: Další kapitola (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-26T02:46:53.603287+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
+        "claimed_at": "2026-09-26T02:48:28.791223+00:00",
+        "lease_expires_at": "2026-09-26T08:48:28.791223+00:00",
+        "run_id": "36196679945"
       }
     },
     "22802": {
@@ -266674,5 +266689,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:48:23.971806+00:00"
+  "updated_at": "2026-09-26T02:48:29.635767+00:00"
 }
