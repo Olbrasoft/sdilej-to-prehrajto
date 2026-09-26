@@ -242780,13 +242780,6 @@
           "permanent": false,
           "source_id": "15439507",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:04:41.534968+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "15439507",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:32:28.729073+00:00"
         },
         {
@@ -242795,6 +242788,13 @@
           "target_video_id": "29720104",
           "permanent": false,
           "attempted_at": "2026-09-26T03:47:11.282831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15439507",
+          "target_video_id": "29720104",
+          "permanent": false,
+          "attempted_at": "2026-09-26T04:18:44.368969+00:00"
         }
       ],
       "last_plan": {
@@ -242805,14 +242805,8 @@
       "previous_target_id": "29720104",
       "prepared": {
         "target_video_id": "29720104",
-        "size_bytes": 3116512185,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-09-26T03:42:58.013892+00:00"
-      },
-      "claim": {
-        "worker_id": "7620093602804b2db95fc5c49b2f1e94-shard-3",
-        "claimed_at": "2026-09-26T04:18:40.789540+00:00",
-        "lease_expires_at": "2026-09-26T10:18:40.789540+00:00",
-        "run_id": "36196679945"
       }
     },
     "33424": {
@@ -242950,16 +242944,10 @@
           "attempted_at": "2026-09-26T03:47:24.865960+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34697711",
-        "display_name": "Příchod temné noci (2019) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T04:17:38.642260+00:00"
-      },
       "previous_target_id": "29720120",
-      "prepared": {
+      "upload": {
         "target_video_id": "29720120",
-        "size_bytes": 1806854029,
-        "prepared_at": "2026-09-26T03:44:10.872694+00:00"
+        "uploaded_at": "2026-09-26T04:18:46.353417+00:00"
       }
     },
     "8736": {
@@ -243150,6 +243138,12 @@
         "source_id": "34665031",
         "display_name": "Očista (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-26T04:17:39.089706+00:00"
+      },
+      "claim": {
+        "worker_id": "7620093602804b2db95fc5c49b2f1e94-shard-3",
+        "claimed_at": "2026-09-26T04:18:45.098463+00:00",
+        "lease_expires_at": "2026-09-26T10:18:45.098463+00:00",
+        "run_id": "36196679945"
       }
     },
     "31939": {
@@ -267097,5 +267091,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T04:18:42.085927+00:00"
+  "updated_at": "2026-09-26T04:18:46.353431+00:00"
 }
