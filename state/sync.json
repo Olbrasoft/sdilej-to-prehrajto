@@ -239251,13 +239251,6 @@
           "permanent": false,
           "source_id": "14027772",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:19:02.805943+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14027772",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:19:35.909711+00:00"
         },
         {
@@ -239266,6 +239259,13 @@
           "target_video_id": "29712151",
           "permanent": false,
           "attempted_at": "2026-09-25T19:39:33.447857+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14027772",
+          "target_video_id": "29712151",
+          "permanent": false,
+          "attempted_at": "2026-09-26T02:42:47.136552+00:00"
         }
       ],
       "last_plan": {
@@ -239276,14 +239276,8 @@
       "previous_target_id": "29712151",
       "prepared": {
         "target_video_id": "29712151",
-        "size_bytes": 1669861133,
+        "size_bytes": 1700000000,
         "prepared_at": "2026-09-25T19:35:48.830970+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
-        "claimed_at": "2026-09-26T02:42:43.038277+00:00",
-        "lease_expires_at": "2026-09-26T08:42:43.038277+00:00",
-        "run_id": "36196679945"
       }
     },
     "29173": {
@@ -239404,22 +239398,10 @@
           "attempted_at": "2026-09-25T19:54:48.303375+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22681423",
-        "display_name": "Garfield 3D: Zvířecí jednotka zasahuje (2009) SD CZ Dabing",
-        "planned_at": "2026-09-26T02:41:40.212345+00:00"
-      },
       "previous_target_id": "29712449",
-      "prepared": {
+      "upload": {
         "target_video_id": "29712449",
-        "size_bytes": 734066688,
-        "prepared_at": "2026-09-25T19:52:23.847372+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-1",
-        "claimed_at": "2026-09-26T02:42:44.191068+00:00",
-        "lease_expires_at": "2026-09-26T08:42:44.191068+00:00",
-        "run_id": "36196679945"
+        "uploaded_at": "2026-09-26T02:42:47.725309+00:00"
       }
     },
     "7194": {
@@ -239456,6 +239438,12 @@
         "target_video_id": "29712504",
         "size_bytes": 2209100939,
         "prepared_at": "2026-09-25T19:54:58.760135+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
+        "claimed_at": "2026-09-26T02:42:47.426572+00:00",
+        "lease_expires_at": "2026-09-26T08:42:47.426572+00:00",
+        "run_id": "36196679945"
       }
     },
     "28205": {
@@ -266629,5 +266617,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T02:42:44.946412+00:00"
+  "updated_at": "2026-09-26T02:42:47.725323+00:00"
 }
