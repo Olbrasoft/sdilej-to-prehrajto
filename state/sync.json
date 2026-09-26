@@ -250099,18 +250099,19 @@
           "source_id": "33221983",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T09:00:04.396183+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33221983",
+          "reason": "Request failed for https://sdilej.cz/33221983/ruda-planeta-2000-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:30:13.383339+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33221983",
         "display_name": "Rudá planeta (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-26T17:09:02.757285+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
-        "claimed_at": "2026-09-26T17:29:27.437006+00:00",
-        "lease_expires_at": "2026-09-26T23:29:27.437006+00:00",
-        "run_id": "36240416883"
       }
     },
     "36882": {
@@ -250261,6 +250262,12 @@
         "source_id": "12986037",
         "display_name": "Královny plesu (2011) SD CZ Dabing",
         "planned_at": "2026-09-26T17:09:03.544987+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-0",
+        "claimed_at": "2026-09-26T17:29:50.252266+00:00",
+        "lease_expires_at": "2026-09-26T23:29:50.252266+00:00",
+        "run_id": "36240416883"
       }
     },
     "23481": {
@@ -275465,5 +275472,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:29:47.954279+00:00"
+  "updated_at": "2026-09-26T17:30:13.383357+00:00"
 }
