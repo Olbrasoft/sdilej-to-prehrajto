@@ -267182,17 +267182,19 @@
       }
     },
     "13651": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29159241",
+          "reason": "Request failed for https://sdilej.cz/29159241/moje-superbejvalka.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T15:06:46.201798+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29159241",
         "display_name": "Moje superbejvalka (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-26T14:58:45.654195+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-5",
-        "claimed_at": "2026-09-26T15:06:00.154985+00:00",
-        "lease_expires_at": "2026-09-26T21:06:00.154985+00:00",
-        "run_id": "36240416883"
       }
     },
     "26682": {
@@ -272766,5 +272768,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T15:06:23.471242+00:00"
+  "updated_at": "2026-09-26T15:06:46.201815+00:00"
 }
