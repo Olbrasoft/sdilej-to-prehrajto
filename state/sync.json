@@ -271917,17 +271917,19 @@
       "attempts": []
     },
     "32351": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22362004",
+          "reason": "Request failed for https://sdilej.cz/22362004/superpes-2007-czdab.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:26:54.754561+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22362004",
         "display_name": "Superpes (2007) SD CZ Dabing",
         "planned_at": "2026-09-26T17:08:57.787794+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-5",
-        "claimed_at": "2026-09-26T17:26:08.375592+00:00",
-        "lease_expires_at": "2026-09-26T23:26:08.375592+00:00",
-        "run_id": "36240416883"
       }
     },
     "26482": {
@@ -271958,6 +271960,12 @@
         "source_id": "11755829",
         "display_name": "Quantum Apokalypsa (2010) SD CZ Dabing",
         "planned_at": "2026-09-26T17:08:58.182593+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
+        "claimed_at": "2026-09-26T17:26:51.277574+00:00",
+        "lease_expires_at": "2026-09-26T23:26:51.277574+00:00",
+        "run_id": "36240416883"
       }
     },
     "11671": {
@@ -275364,5 +275372,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:26:46.034596+00:00"
+  "updated_at": "2026-09-26T17:26:54.754578+00:00"
 }
