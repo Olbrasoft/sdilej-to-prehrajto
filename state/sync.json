@@ -247418,13 +247418,6 @@
           "permanent": false,
           "source_id": "28370900",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:10.264783+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28370900",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:10.254815+00:00"
         },
         {
@@ -247433,6 +247426,13 @@
           "target_video_id": "29724487",
           "permanent": false,
           "attempted_at": "2026-09-26T09:31:21.935318+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28370900",
+          "target_video_id": "29724487",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:09:05.043758+00:00"
         }
       ],
       "last_plan": {
@@ -247443,7 +247443,7 @@
       "previous_target_id": "29724487",
       "prepared": {
         "target_video_id": "29724487",
-        "size_bytes": 3934419242,
+        "size_bytes": 3900000000,
         "prepared_at": "2026-09-26T09:27:13.988421+00:00"
       }
     },
@@ -247475,13 +247475,6 @@
           "permanent": false,
           "source_id": "17292178",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:12.036609+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17292178",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:11.227153+00:00"
         },
         {
@@ -247490,6 +247483,13 @@
           "target_video_id": "29724562",
           "permanent": false,
           "attempted_at": "2026-09-26T09:33:00.491423+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17292178",
+          "target_video_id": "29724562",
+          "permanent": false,
+          "attempted_at": "2026-09-26T10:09:06.602058+00:00"
         }
       ],
       "last_plan": {
@@ -247500,7 +247500,7 @@
       "previous_target_id": "29724562",
       "prepared": {
         "target_video_id": "29724562",
-        "size_bytes": 1186209684,
+        "size_bytes": 1200000000,
         "prepared_at": "2026-09-26T09:31:33.316589+00:00"
       }
     },
@@ -247528,16 +247528,10 @@
           "attempted_at": "2026-09-26T09:35:43.626942+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28381638",
-        "display_name": "Kráčející skála 2: Odplata (2007) 1080p CZ Dabing",
-        "planned_at": "2026-09-26T10:08:37.335845+00:00"
-      },
       "previous_target_id": "29724577",
-      "prepared": {
+      "upload": {
         "target_video_id": "29724577",
-        "size_bytes": 2087750174,
-        "prepared_at": "2026-09-26T09:33:12.098625+00:00"
+        "uploaded_at": "2026-09-26T10:09:07.943583+00:00"
       }
     },
     "27731": {
@@ -267969,5 +267963,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T10:09:01.643779+00:00"
+  "updated_at": "2026-09-26T10:09:07.943600+00:00"
 }
