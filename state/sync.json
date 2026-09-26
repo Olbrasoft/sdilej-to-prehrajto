@@ -111539,17 +111539,19 @@
       "attempts": []
     },
     "12727": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29191418",
+          "target_video_id": "29717433",
+          "permanent": false,
+          "attempted_at": "2026-09-26T00:58:51.310603+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29191418",
         "display_name": "Sběrné surovosti (1965) SD CZ Dabing",
         "planned_at": "2026-09-26T00:44:20.186207+00:00"
-      },
-      "claim": {
-        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-3",
-        "claimed_at": "2026-09-26T00:57:26.539243+00:00",
-        "lease_expires_at": "2026-09-26T06:57:26.539243+00:00",
-        "run_id": "36196679945"
       },
       "previous_target_id": "29717433",
       "prepared": {
@@ -111946,6 +111948,12 @@
         "source_id": "18639792",
         "display_name": "Posledná prekážka (1972) 1080p CZ Dabing",
         "planned_at": "2026-09-26T00:44:20.974721+00:00"
+      },
+      "claim": {
+        "worker_id": "8eaec5730d0b48e2aead12261743ebbb-shard-2",
+        "claimed_at": "2026-09-26T00:58:50.236286+00:00",
+        "lease_expires_at": "2026-09-26T06:58:50.236286+00:00",
+        "run_id": "36196679945"
       }
     },
     "31764": {
@@ -265519,5 +265527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T00:58:48.008807+00:00"
+  "updated_at": "2026-09-26T00:58:51.310617+00:00"
 }
