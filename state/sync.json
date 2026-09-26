@@ -251985,13 +251985,6 @@
           "permanent": false,
           "source_id": "11878299",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:32:58.474446+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11878299",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:53:06.509646+00:00"
         },
         {
@@ -252000,18 +251993,19 @@
           "source_id": "11878299",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:03.633603+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11878299",
+          "reason": "Request failed for https://sdilej.cz/11878299/ucitele-na-zakazku-2-2015-komedie-cz-dabing.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T17:40:33.213576+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11878299",
         "display_name": "Učitelé na zakázku 2 (2015) SD CZ Dabing",
         "planned_at": "2026-09-26T17:37:39.019842+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-5",
-        "claimed_at": "2026-09-26T17:39:45.550795+00:00",
-        "lease_expires_at": "2026-09-26T23:39:45.550795+00:00",
-        "run_id": "36240416883"
       }
     },
     "20739": {
@@ -252572,6 +252566,12 @@
         "source_id": "34727038",
         "display_name": "Nekonečná smyčka (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-26T17:37:39.597731+00:00"
+      },
+      "claim": {
+        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-1",
+        "claimed_at": "2026-09-26T17:40:32.879668+00:00",
+        "lease_expires_at": "2026-09-26T23:40:32.879668+00:00",
+        "run_id": "36240416883"
       }
     },
     "11574": {
@@ -275625,5 +275625,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T17:40:30.739451+00:00"
+  "updated_at": "2026-09-26T17:40:33.213592+00:00"
 }
