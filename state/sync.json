@@ -19905,17 +19905,19 @@
       }
     },
     "13489": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26654545",
+          "reason": "Request failed for https://sdilej.cz/26654545/mnichov-2005-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-26T14:19:51.525709+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26654545",
         "display_name": "Mnichov (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-26T14:14:18.434932+00:00"
-      },
-      "claim": {
-        "worker_id": "a971ba604d334f1b9868653d77198f1e-shard-4",
-        "claimed_at": "2026-09-26T14:19:00.902654+00:00",
-        "lease_expires_at": "2026-09-26T20:19:00.902654+00:00",
-        "run_id": "36240416883"
       }
     },
     "958": {
@@ -271830,5 +271832,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T14:19:44.842592+00:00"
+  "updated_at": "2026-09-26T14:19:51.525726+00:00"
 }
