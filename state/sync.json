@@ -114094,24 +114094,22 @@
       }
     },
     "16485": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "34470698",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29721470",
+          "attempted_at": "2026-09-26T05:49:55.777169+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34470698",
         "display_name": "Burácení (2015) 1080p CZ Dabing",
         "planned_at": "2026-09-26T05:38:58.151753+00:00"
       },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-1",
-        "claimed_at": "2026-09-26T05:39:09.528136+00:00",
-        "lease_expires_at": "2026-09-26T11:39:09.528136+00:00",
-        "run_id": "36218024605"
-      },
-      "previous_target_id": "29721470",
-      "prepared": {
-        "target_video_id": "29721470",
-        "size_bytes": 2759131816,
-        "prepared_at": "2026-09-26T05:39:12.880333+00:00"
-      }
+      "previous_target_id": "29721470"
     },
     "33425": {
       "attempts": []
@@ -267537,5 +267535,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T05:49:53.776041+00:00"
+  "updated_at": "2026-09-26T05:49:55.777185+00:00"
 }
