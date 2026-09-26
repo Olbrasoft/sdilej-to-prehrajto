@@ -247629,13 +247629,6 @@
           "permanent": false,
           "source_id": "17292178",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:27:32.642099+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17292178",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:52:12.036609+00:00"
         },
         {
@@ -247644,18 +247637,19 @@
           "source_id": "17292178",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:11.227153+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17292178",
+          "target_video_id": "29724562",
+          "permanent": false,
+          "attempted_at": "2026-09-26T09:33:00.491423+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17292178",
         "display_name": "Smrtící mráz (2017) 720p CZ Dabing",
         "planned_at": "2026-09-26T07:05:12.876273+00:00"
-      },
-      "claim": {
-        "worker_id": "69395b22e5fa4d31ad28a56126ae5454-shard-3",
-        "claimed_at": "2026-09-26T09:31:29.683382+00:00",
-        "lease_expires_at": "2026-09-26T15:31:29.683382+00:00",
-        "run_id": "36218024605"
       },
       "previous_target_id": "29724562",
       "prepared": {
@@ -268032,5 +268026,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T09:31:33.316607+00:00"
+  "updated_at": "2026-09-26T09:33:00.491443+00:00"
 }
