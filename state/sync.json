@@ -91399,13 +91399,6 @@
           "source_id": "20637372",
           "target_video_id": "29562911",
           "permanent": false,
-          "attempted_at": "2026-09-26T04:27:55.161829+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20637372",
-          "target_video_id": "29562911",
-          "permanent": false,
           "attempted_at": "2026-09-26T04:59:26.252419+00:00"
         },
         {
@@ -91414,6 +91407,13 @@
           "target_video_id": "29562911",
           "permanent": false,
           "attempted_at": "2026-09-26T05:32:31.419589+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20637372",
+          "target_video_id": "29562911",
+          "permanent": false,
+          "attempted_at": "2026-09-26T06:17:40.871393+00:00"
         }
       ],
       "last_plan": {
@@ -91426,12 +91426,6 @@
         "target_video_id": "29562911",
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-20T16:17:04.285897+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-1",
-        "claimed_at": "2026-09-26T06:17:33.641169+00:00",
-        "lease_expires_at": "2026-09-26T12:17:33.641169+00:00",
-        "run_id": "36218024605"
       }
     },
     "14604": {
@@ -91610,6 +91604,12 @@
         "target_video_id": "29676345",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-24T18:35:51.823927+00:00"
+      },
+      "claim": {
+        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-4",
+        "claimed_at": "2026-09-26T06:17:41.025763+00:00",
+        "lease_expires_at": "2026-09-26T12:17:41.025763+00:00",
+        "run_id": "36218024605"
       }
     },
     "13953": {
@@ -245983,13 +245983,6 @@
           "permanent": false,
           "source_id": "32192989",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T22:27:00.526519+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32192989",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T04:51:55.181371+00:00"
         },
         {
@@ -245998,18 +245991,19 @@
           "source_id": "32192989",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:33:29.963445+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32192989",
+          "target_video_id": "29721971",
+          "permanent": false,
+          "attempted_at": "2026-09-26T06:17:41.187382+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32192989",
         "display_name": "Chlap na roztrhání (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-26T05:57:58.321028+00:00"
-      },
-      "claim": {
-        "worker_id": "51d727d4b9414a39a4a6600db827d8a2-shard-5",
-        "claimed_at": "2026-09-26T06:11:59.104910+00:00",
-        "lease_expires_at": "2026-09-26T12:11:59.104910+00:00",
-        "run_id": "36218024605"
       },
       "previous_target_id": "29721971",
       "prepared": {
@@ -267782,5 +267776,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-26T06:17:34.975294+00:00"
+  "updated_at": "2026-09-26T06:17:41.187404+00:00"
 }
