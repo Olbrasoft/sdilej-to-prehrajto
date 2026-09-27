@@ -254107,13 +254107,6 @@
     "28924": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11878299",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:03.633603+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "11878299",
           "reason": "Request failed for https://sdilej.cz/11878299/ucitele-na-zakazku-2-2015-komedie-cz-dabing.avi (HTTP None)",
@@ -254126,6 +254119,13 @@
           "target_video_id": "29751304",
           "permanent": false,
           "attempted_at": "2026-09-27T04:55:59.804955+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11878299",
+          "target_video_id": "29751304",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:39:21.179391+00:00"
         }
       ],
       "last_plan": {
@@ -254136,14 +254136,8 @@
       "previous_target_id": "29751304",
       "prepared": {
         "target_video_id": "29751304",
-        "size_bytes": 1263469612,
+        "size_bytes": 1300000000,
         "prepared_at": "2026-09-27T04:52:35.610753+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T07:39:13.250147+00:00",
-        "lease_expires_at": "2026-09-27T13:39:13.250147+00:00",
-        "run_id": "36297250526"
       }
     },
     "20739": {
@@ -254255,16 +254249,10 @@
           "attempted_at": "2026-09-27T04:59:48.011294+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29604002",
-        "display_name": "Ratchet a Clank: Strážci galaxie (2016) 4K CZ Dabing",
-        "planned_at": "2026-09-27T07:28:03.381145+00:00"
-      },
       "previous_target_id": "29751272",
-      "prepared": {
+      "upload": {
         "target_video_id": "29751272",
-        "size_bytes": 3859020405,
-        "prepared_at": "2026-09-27T04:50:18.834581+00:00"
+        "uploaded_at": "2026-09-27T07:39:23.380871+00:00"
       }
     },
     "7422": {
@@ -254583,13 +254571,6 @@
     "14038": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13335347",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:05.994574+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "13335347",
           "reason": "Request failed for https://sdilej.cz/13335347/zazracny-wrestler-the-main-event-2020-1080p.5.1-cz-.mkv (HTTP 522)",
@@ -254602,6 +254583,13 @@
           "target_video_id": "29751347",
           "permanent": false,
           "attempted_at": "2026-09-27T05:02:46.337017+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13335347",
+          "target_video_id": "29751347",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:39:22.959586+00:00"
         }
       ],
       "last_plan": {
@@ -254612,7 +254600,7 @@
       "previous_target_id": "29751347",
       "prepared": {
         "target_video_id": "29751347",
-        "size_bytes": 2289347232,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-27T04:56:11.141439+00:00"
       }
     },
@@ -279751,5 +279739,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:39:14.227365+00:00"
+  "updated_at": "2026-09-27T07:39:23.380889+00:00"
 }
