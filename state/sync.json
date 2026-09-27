@@ -255641,13 +255641,6 @@
           "permanent": false,
           "source_id": "34832030",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:54:05.049874+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34832030",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:21.728423+00:00"
         },
         {
@@ -255656,6 +255649,13 @@
           "target_video_id": "29736456",
           "permanent": false,
           "attempted_at": "2026-09-26T18:13:38.797608+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34832030",
+          "target_video_id": "29736456",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:05:56.919453+00:00"
         }
       ],
       "last_plan": {
@@ -255666,14 +255666,8 @@
       "previous_target_id": "29736456",
       "prepared": {
         "target_video_id": "29736456",
-        "size_bytes": 10430489695,
+        "size_bytes": 10400000000,
         "prepared_at": "2026-09-26T17:48:56.950007+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:05:54.276041+00:00",
-        "lease_expires_at": "2026-09-27T12:05:54.276041+00:00",
-        "run_id": "36297250526"
       }
     },
     "36908": {
@@ -256997,22 +256991,10 @@
           "attempted_at": "2026-09-26T18:09:20.993064+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31120076",
-        "display_name": "Krvavé peníze (2014) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:05:33.664755+00:00"
-      },
       "previous_target_id": "29736583",
-      "prepared": {
+      "upload": {
         "target_video_id": "29736583",
-        "size_bytes": 3006176555,
-        "prepared_at": "2026-09-26T18:02:00.013473+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:05:53.952114+00:00",
-        "lease_expires_at": "2026-09-27T12:05:53.952114+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:05:57.596758+00:00"
       }
     },
     "35149": {
@@ -257186,6 +257168,12 @@
         "target_video_id": "29736959",
         "size_bytes": 2407074510,
         "prepared_at": "2026-09-26T18:06:32.321880+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:05:57.263337+00:00",
+        "lease_expires_at": "2026-09-27T12:05:57.263337+00:00",
+        "run_id": "36297250526"
       }
     },
     "13142": {
@@ -278625,5 +278613,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:05:54.613093+00:00"
+  "updated_at": "2026-09-27T06:05:57.596775+00:00"
 }
