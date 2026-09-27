@@ -250526,13 +250526,6 @@
           "permanent": false,
           "source_id": "29449370",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:48:30.403752+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29449370",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:56.774443+00:00"
         },
         {
@@ -250541,18 +250534,19 @@
           "reason": "Request failed for https://sdilej.cz/29449370/perfect-stranger-.2007.bdrip.cz.en.1080p.mkv (HTTP 520)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:28:54.784096+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29449370",
+          "target_video_id": "29750715",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:07:22.063381+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29449370",
         "display_name": "Neznámý svůdce (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:47:26.610695+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-2",
-        "claimed_at": "2026-09-27T03:59:27.779790+00:00",
-        "lease_expires_at": "2026-09-27T09:59:27.779790+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750715",
       "prepared": {
@@ -277904,5 +277898,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:06:32.194703+00:00"
+  "updated_at": "2026-09-27T04:07:22.063403+00:00"
 }
