@@ -252107,13 +252107,6 @@
     "21137": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34818076",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:52:09.974019+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34818076",
           "reason": "Request failed for https://sdilej.cz/34818076/180-2026-cz-1080p.mp4 (HTTP None)",
@@ -252126,6 +252119,13 @@
           "target_video_id": "29750791",
           "permanent": false,
           "attempted_at": "2026-09-27T04:13:43.158472+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34818076",
+          "target_video_id": "29750791",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:28:25.575064+00:00"
         }
       ],
       "last_plan": {
@@ -252136,7 +252136,7 @@
       "previous_target_id": "29750791",
       "prepared": {
         "target_video_id": "29750791",
-        "size_bytes": 2569508673,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-27T04:07:35.043805+00:00"
       }
     },
@@ -252927,16 +252927,10 @@
           "attempted_at": "2026-09-27T04:14:11.427159+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29914587",
-        "display_name": "Vlkodlaci z Temného Hvozdu (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T07:27:45.769392+00:00"
-      },
       "previous_target_id": "29750805",
-      "prepared": {
+      "upload": {
         "target_video_id": "29750805",
-        "size_bytes": 1967078199,
-        "prepared_at": "2026-09-27T04:09:36.052569+00:00"
+        "uploaded_at": "2026-09-27T07:28:27.410181+00:00"
       }
     },
     "30987": {
@@ -279766,5 +279760,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:28:21.747689+00:00"
+  "updated_at": "2026-09-27T07:28:27.410199+00:00"
 }
