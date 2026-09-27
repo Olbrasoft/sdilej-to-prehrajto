@@ -253459,13 +253459,6 @@
     "14407": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25526950",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:34:31.794553+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25526950",
           "reason": "Request failed for https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv (HTTP 522)",
@@ -253478,18 +253471,19 @@
           "reason": "Request failed for https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T04:40:44.702421+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25526950",
+          "target_video_id": "29753210",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:38:53.582615+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25526950",
         "display_name": "Osudový dotek 3: Odhalení (2009) SD CZ Titulky",
         "planned_at": "2026-09-27T07:27:56.817817+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T07:35:24.731892+00:00",
-        "lease_expires_at": "2026-09-27T13:35:24.731892+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29753210",
       "prepared": {
@@ -279787,5 +279781,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:38:47.579463+00:00"
+  "updated_at": "2026-09-27T07:38:53.582633+00:00"
 }
