@@ -131845,18 +131845,19 @@
           "reason": "Request failed for https://sdilej.cz/33776695/spasa-2014-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T08:30:40.073000+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33776695",
+          "target_video_id": "29755548",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:35:50.139456+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33776695",
         "display_name": "Spása (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-27T09:27:01.948344+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-1",
-        "claimed_at": "2026-09-27T09:29:01.829339+00:00",
-        "lease_expires_at": "2026-09-27T15:29:01.829339+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29755548",
       "prepared": {
@@ -177416,7 +177417,13 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-10T17:23:02.263234+00:00"
       },
-      "previous_target_id": "29278231"
+      "previous_target_id": "29278231",
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-2",
+        "claimed_at": "2026-09-27T09:35:48.891294+00:00",
+        "lease_expires_at": "2026-09-27T15:35:48.891294+00:00",
+        "run_id": "36297250526"
+      }
     },
     "27019": {
       "attempts": []
@@ -280654,5 +280661,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T09:35:43.731507+00:00"
+  "updated_at": "2026-09-27T09:35:50.139472+00:00"
 }
