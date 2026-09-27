@@ -255281,13 +255281,6 @@
     "26967": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27647463",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:11.433194+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "27647463",
           "reason": "Request failed for https://sdilej.cz/27647463/kronika-cz-dabing.avi (HTTP 522)",
@@ -255300,6 +255293,13 @@
           "target_video_id": "29751868",
           "permanent": false,
           "attempted_at": "2026-09-27T05:47:41.068673+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27647463",
+          "target_video_id": "29751868",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:49:26.368258+00:00"
         }
       ],
       "last_plan": {
@@ -255310,7 +255310,7 @@
       "previous_target_id": "29751868",
       "prepared": {
         "target_video_id": "29751868",
-        "size_bytes": 1507191068,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-09-27T05:43:41.827494+00:00"
       }
     },
@@ -255589,13 +255589,6 @@
     "10215": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31269155",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:15.034307+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31269155",
           "reason": "Request failed for https://sdilej.cz/31269155/s-at-na-lasku-2022-romant.komedie-nizozemsko-czdab-1080p.mkv (HTTP 521)",
@@ -255608,6 +255601,13 @@
           "target_video_id": "29751889",
           "permanent": false,
           "attempted_at": "2026-09-27T05:52:30.345925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31269155",
+          "target_video_id": "29751889",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:49:28.417144+00:00"
         }
       ],
       "last_plan": {
@@ -255618,7 +255618,7 @@
       "previous_target_id": "29751889",
       "prepared": {
         "target_video_id": "29751889",
-        "size_bytes": 2343563308,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-27T05:46:10.420963+00:00"
       }
     },
@@ -255702,6 +255702,18 @@
         "source_id": "32575364",
         "display_name": "Mamka a taťka (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:39:45.961271+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
+        "claimed_at": "2026-09-27T07:49:28.828648+00:00",
+        "lease_expires_at": "2026-09-27T13:49:28.828648+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29753366",
+      "prepared": {
+        "target_video_id": "29753366",
+        "size_bytes": 3546464690,
+        "prepared_at": "2026-09-27T07:49:33.579181+00:00"
       }
     },
     "25664": {
@@ -279827,5 +279839,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:49:12.622958+00:00"
+  "updated_at": "2026-09-27T07:49:33.579197+00:00"
 }
