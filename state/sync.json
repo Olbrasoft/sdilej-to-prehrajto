@@ -140837,17 +140837,19 @@
       }
     },
     "17113": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24242950",
+          "reason": "Request failed for https://sdilej.cz/24242950/benediction.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T16:44:44.447242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24242950",
         "display_name": "Požehnání (2021) SD CZ Titulky",
         "planned_at": "2026-09-27T16:40:59.735949+00:00"
-      },
-      "claim": {
-        "worker_id": "5656f809b16d4ba284d8af0814f982b5-shard-4",
-        "claimed_at": "2026-09-27T16:43:58.225734+00:00",
-        "lease_expires_at": "2026-09-27T22:43:58.225734+00:00",
-        "run_id": "36312512013"
       }
     },
     "21736": {
@@ -282639,5 +282641,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T16:44:26.781623+00:00"
+  "updated_at": "2026-09-27T16:44:44.447261+00:00"
 }
