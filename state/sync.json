@@ -250331,6 +250331,12 @@
         "target_video_id": "29731423",
         "size_bytes": 4867587751,
         "prepared_at": "2026-09-26T12:00:52.871306+00:00"
+      },
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-3",
+        "claimed_at": "2026-09-27T02:41:01.065136+00:00",
+        "lease_expires_at": "2026-09-27T08:41:01.065136+00:00",
+        "run_id": "36279320310"
       }
     },
     "26804": {
@@ -250662,6 +250668,13 @@
           "target_video_id": "29731440",
           "permanent": false,
           "attempted_at": "2026-09-26T12:04:10.325828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10190664",
+          "target_video_id": "29731440",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:41:00.501430+00:00"
         }
       ],
       "last_plan": {
@@ -250672,14 +250685,8 @@
       "previous_target_id": "29731440",
       "prepared": {
         "target_video_id": "29731440",
-        "size_bytes": 842317916,
+        "size_bytes": 842300000,
         "prepared_at": "2026-09-26T12:02:32.402646+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-3",
-        "claimed_at": "2026-09-27T02:40:55.519991+00:00",
-        "lease_expires_at": "2026-09-27T08:40:55.519991+00:00",
-        "run_id": "36279320310"
       }
     },
     "37514": {
@@ -250962,22 +250969,10 @@
           "attempted_at": "2026-09-26T12:05:42.403510+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31936733",
-        "display_name": "Exterminátor 2 (1994) SD CZ Dabing",
-        "planned_at": "2026-09-27T02:40:20.554582+00:00"
-      },
       "previous_target_id": "29731464",
-      "prepared": {
+      "upload": {
         "target_video_id": "29731464",
-        "size_bytes": 899969277,
-        "prepared_at": "2026-09-26T12:04:17.618568+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-1",
-        "claimed_at": "2026-09-27T02:40:52.752636+00:00",
-        "lease_expires_at": "2026-09-27T08:40:52.752636+00:00",
-        "run_id": "36279320310"
+        "uploaded_at": "2026-09-27T02:41:01.334587+00:00"
       }
     },
     "7200": {
@@ -251303,6 +251298,12 @@
         "source_id": "34184860",
         "display_name": "Lovec hlav (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-27T02:40:21.395936+00:00"
+      },
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
+        "claimed_at": "2026-09-27T02:41:00.788804+00:00",
+        "lease_expires_at": "2026-09-27T08:41:00.788804+00:00",
+        "run_id": "36279320310"
       }
     },
     "9309": {
@@ -277126,5 +277127,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T02:40:58.381418+00:00"
+  "updated_at": "2026-09-27T02:41:01.334606+00:00"
 }
