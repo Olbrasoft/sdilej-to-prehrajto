@@ -263459,13 +263459,6 @@
     "9747": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29750479",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:37:11.709637+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29750479",
           "reason": "Request failed for https://sdilej.cz/29750479/pravy-gentleman-2024-cz-dabing-1080p.mp4 (HTTP None)",
@@ -263478,6 +263471,13 @@
           "target_video_id": "29752282",
           "permanent": false,
           "attempted_at": "2026-09-27T06:35:11.047964+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29750479",
+          "target_video_id": "29752282",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:58:52.758038+00:00"
         }
       ],
       "last_plan": {
@@ -263488,14 +263488,8 @@
       "previous_target_id": "29752282",
       "prepared": {
         "target_video_id": "29752282",
-        "size_bytes": 2507463589,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-27T06:27:33.115908+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T07:58:49.733009+00:00",
-        "lease_expires_at": "2026-09-27T13:58:49.733009+00:00",
-        "run_id": "36297250526"
       }
     },
     "26779": {
@@ -266577,16 +266571,10 @@
           "attempted_at": "2026-09-27T06:35:34.737131+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34756169",
-        "display_name": "Strach a touha (1952) 720p CZ Titulky",
-        "planned_at": "2026-09-27T07:55:48.245621+00:00"
-      },
       "previous_target_id": "29752311",
-      "prepared": {
+      "upload": {
         "target_video_id": "29752311",
-        "size_bytes": 1322994611,
-        "prepared_at": "2026-09-27T06:31:31.691497+00:00"
+        "uploaded_at": "2026-09-27T07:58:54.969771+00:00"
       }
     },
     "24805": {
@@ -267543,13 +267531,6 @@
     "22651": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33770545",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:37:59.326142+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33770545",
           "target_video_id": "29748549",
@@ -267562,6 +267543,13 @@
           "target_video_id": "29748549",
           "permanent": false,
           "attempted_at": "2026-09-27T06:35:14.877425+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33770545",
+          "target_video_id": "29748549",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:58:53.130096+00:00"
         }
       ],
       "last_plan": {
@@ -267574,12 +267562,6 @@
         "target_video_id": "29748549",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-27T01:01:11.337868+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T07:58:50.103581+00:00",
-        "lease_expires_at": "2026-09-27T13:58:50.103581+00:00",
-        "run_id": "36297250526"
       }
     },
     "9863": {
@@ -267740,6 +267722,12 @@
         "source_id": "7419503",
         "display_name": "Dead Awake (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-27T07:55:48.654651+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T07:58:53.875595+00:00",
+        "lease_expires_at": "2026-09-27T13:58:53.875595+00:00",
+        "run_id": "36297250526"
       }
     },
     "24629": {
@@ -280011,5 +279999,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:58:50.470630+00:00"
+  "updated_at": "2026-09-27T07:58:54.969784+00:00"
 }
