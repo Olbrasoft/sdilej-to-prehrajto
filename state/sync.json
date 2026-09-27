@@ -257820,6 +257820,12 @@
         "target_video_id": "29737979",
         "size_bytes": 6115451410,
         "prepared_at": "2026-09-26T18:15:38.246111+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:06:20.964451+00:00",
+        "lease_expires_at": "2026-09-27T12:06:20.964451+00:00",
+        "run_id": "36297250526"
       }
     },
     "8894": {
@@ -258131,22 +258137,10 @@
           "attempted_at": "2026-09-26T18:27:48.077705+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33806790",
-        "display_name": "Rodinná dovolená a jiná neštěstí (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:05:38.217099+00:00"
-      },
       "previous_target_id": "29738514",
-      "prepared": {
+      "upload": {
         "target_video_id": "29738514",
-        "size_bytes": 2434948991,
-        "prepared_at": "2026-09-26T18:20:57.453572+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:06:17.371162+00:00",
-        "lease_expires_at": "2026-09-27T12:06:17.371162+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:06:21.302271+00:00"
       }
     },
     "7549": {
@@ -258710,6 +258704,12 @@
         "target_video_id": "29739007",
         "size_bytes": 1577403763,
         "prepared_at": "2026-09-26T18:26:07.868993+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:06:20.636296+00:00",
+        "lease_expires_at": "2026-09-27T12:06:20.636296+00:00",
+        "run_id": "36297250526"
       }
     },
     "7455": {
@@ -258975,13 +258975,6 @@
           "permanent": false,
           "source_id": "6783124",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:25:01.852876+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6783124",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:09.756145+00:00"
         },
         {
@@ -258990,6 +258983,13 @@
           "target_video_id": "29739172",
           "permanent": false,
           "attempted_at": "2026-09-26T18:31:07.591484+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6783124",
+          "target_video_id": "29739172",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:06:20.306495+00:00"
         }
       ],
       "last_plan": {
@@ -259000,14 +259000,8 @@
       "previous_target_id": "29739172",
       "prepared": {
         "target_video_id": "29739172",
-        "size_bytes": 975392636,
+        "size_bytes": 975400000,
         "prepared_at": "2026-09-26T18:27:59.171625+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:06:17.722775+00:00",
-        "lease_expires_at": "2026-09-27T12:06:17.722775+00:00",
-        "run_id": "36297250526"
       }
     },
     "7706": {
@@ -278583,5 +278577,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:06:18.058987+00:00"
+  "updated_at": "2026-09-27T06:06:21.302292+00:00"
 }
