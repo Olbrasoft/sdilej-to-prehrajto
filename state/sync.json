@@ -22544,6 +22544,14 @@
           "target_video_id": "29751535",
           "permanent": false,
           "attempted_at": "2026-09-27T05:20:16.280871+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34824127",
+          "target_video_id": "29751535",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:40:31.350245+00:00"
         }
       ],
       "last_plan": {
@@ -22551,12 +22559,7 @@
         "display_name": "Borat: Nakoukání do amerycké kultůry na obědnávku slavnoj kazašskoj národu (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:39:38.219227+00:00"
       },
-      "previous_target_id": "29751535",
-      "prepared": {
-        "target_video_id": "29751535",
-        "size_bytes": 4292717185,
-        "prepared_at": "2026-09-27T05:09:36.737900+00:00"
-      }
+      "previous_target_id": "29751535"
     },
     "18947": {
       "attempts": [
@@ -253970,13 +253973,6 @@
     "19414": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32864932",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:02.337179+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32864932",
           "reason": "Request failed for https://sdilej.cz/32864932/drop-zone-zona-uniku-1994-2160p-hdr-cz-dabing-en-dts-hd.mkv (HTTP 522)",
@@ -253989,6 +253985,13 @@
           "target_video_id": "29751264",
           "permanent": false,
           "attempted_at": "2026-09-27T05:19:56.123480+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32864932",
+          "target_video_id": "29751264",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:40:27.564222+00:00"
         }
       ],
       "last_plan": {
@@ -253999,7 +254002,7 @@
       "previous_target_id": "29751264",
       "prepared": {
         "target_video_id": "29751264",
-        "size_bytes": 12501054725,
+        "size_bytes": 12500000000,
         "prepared_at": "2026-09-27T04:49:33.875597+00:00"
       }
     },
@@ -279750,5 +279753,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:40:23.566600+00:00"
+  "updated_at": "2026-09-27T07:40:31.350261+00:00"
 }
