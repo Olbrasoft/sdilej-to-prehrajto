@@ -21494,7 +21494,15 @@
       "attempts": []
     },
     "24440": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28247199",
+          "target_video_id": "29787090",
+          "permanent": false,
+          "attempted_at": "2026-09-27T20:09:30.112175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28247199",
         "display_name": "Nejlepší show (2000) 1080p CZ Titulky",
@@ -21503,14 +21511,8 @@
       "previous_target_id": "29787090",
       "prepared": {
         "target_video_id": "29787090",
-        "size_bytes": 4435903576,
+        "size_bytes": 4400000000,
         "prepared_at": "2026-09-27T18:41:20.395341+00:00"
-      },
-      "claim": {
-        "worker_id": "359750b5edf4468c838bf636a61f65d3-shard-2",
-        "claimed_at": "2026-09-27T20:09:26.441443+00:00",
-        "lease_expires_at": "2026-09-28T02:09:26.441443+00:00",
-        "run_id": "36340937027"
       }
     },
     "24889": {
@@ -21563,6 +21565,12 @@
         "source_id": "33687565",
         "display_name": "Hráč (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-27T20:08:45.965342+00:00"
+      },
+      "claim": {
+        "worker_id": "359750b5edf4468c838bf636a61f65d3-shard-1",
+        "claimed_at": "2026-09-27T20:09:29.822429+00:00",
+        "lease_expires_at": "2026-09-28T02:09:29.822429+00:00",
+        "run_id": "36340937027"
       }
     },
     "915": {
@@ -283311,5 +283319,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T20:09:27.576618+00:00"
+  "updated_at": "2026-09-27T20:09:30.112190+00:00"
 }
