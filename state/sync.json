@@ -253071,13 +253071,6 @@
           "permanent": false,
           "source_id": "21142891",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:16:24.443781+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21142891",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:01.490308+00:00"
         },
         {
@@ -253086,18 +253079,19 @@
           "reason": "Request failed for https://sdilej.cz/21142891/z-ciziho-krev-netece-2013-kom-cz-dab-dvd.mkv (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:39:40.095246+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21142891",
+          "target_video_id": "29751254",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:52:26.715550+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21142891",
         "display_name": "Z cizího krev neteče (2013) SD CZ Dabing",
         "planned_at": "2026-09-27T04:14:08.882853+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-5",
-        "claimed_at": "2026-09-27T04:48:35.641011+00:00",
-        "lease_expires_at": "2026-09-27T10:48:35.641011+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751254",
       "prepared": {
@@ -278244,5 +278238,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:52:24.217397+00:00"
+  "updated_at": "2026-09-27T04:52:26.715567+00:00"
 }
