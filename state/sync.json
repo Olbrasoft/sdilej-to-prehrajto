@@ -67660,13 +67660,6 @@
           "source_id": "25775847",
           "target_video_id": "29180133",
           "permanent": false,
-          "attempted_at": "2026-09-27T02:26:02.142428+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25775847",
-          "target_video_id": "29180133",
-          "permanent": false,
           "attempted_at": "2026-09-27T07:00:17.495758+00:00"
         },
         {
@@ -67675,6 +67668,13 @@
           "target_video_id": "29180133",
           "permanent": false,
           "attempted_at": "2026-09-27T08:52:14.740198+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25775847",
+          "target_video_id": "29180133",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:45:58.255515+00:00"
         }
       ],
       "last_plan": {
@@ -68350,13 +68350,6 @@
           "source_id": "34471665",
           "target_video_id": "29356052",
           "permanent": false,
-          "attempted_at": "2026-09-27T02:26:15.126277+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34471665",
-          "target_video_id": "29356052",
-          "permanent": false,
           "attempted_at": "2026-09-27T07:00:19.273341+00:00"
         },
         {
@@ -68365,6 +68358,13 @@
           "target_video_id": "29356052",
           "permanent": false,
           "attempted_at": "2026-09-27T08:52:15.034188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34471665",
+          "target_video_id": "29356052",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:45:59.995363+00:00"
         }
       ],
       "last_plan": {
@@ -68497,7 +68497,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-16T00:33:00.459027+00:00"
       },
-      "previous_target_id": "29413408"
+      "previous_target_id": "29413408",
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-3",
+        "claimed_at": "2026-09-27T09:46:00.369865+00:00",
+        "lease_expires_at": "2026-09-27T15:46:00.369865+00:00",
+        "run_id": "36297250526"
+      }
     },
     "14106": {
       "attempts": []
@@ -187399,17 +187405,19 @@
       "attempts": []
     },
     "18307": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22374239",
+          "reason": "Request failed for https://sdilej.cz/22374239/incantation-2022-cztit-v-obraze-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:46:01.032789+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22374239",
         "display_name": "Incantation (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-27T09:44:57.019184+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-4",
-        "claimed_at": "2026-09-27T09:45:14.489323+00:00",
-        "lease_expires_at": "2026-09-27T15:45:14.489323+00:00",
-        "run_id": "36297250526"
       }
     },
     "36939": {
@@ -280717,5 +280725,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T09:45:54.717741+00:00"
+  "updated_at": "2026-09-27T09:46:01.032806+00:00"
 }
