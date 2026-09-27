@@ -250417,13 +250417,6 @@
           "permanent": false,
           "source_id": "26715369",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:48:29.879358+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26715369",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:55.843845+00:00"
         },
         {
@@ -250432,18 +250425,19 @@
           "reason": "Request failed for https://sdilej.cz/26715369/when-the-lights-went-out-kdyz-jsou-svetla-mimo-horor.thriller-2012-cz.titulky.avi (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:28:30.760886+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26715369",
+          "target_video_id": "29750671",
+          "permanent": false,
+          "attempted_at": "2026-09-27T03:59:08.382281+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26715369",
         "display_name": "When the Lights Went Out (2012) SD CZ Titulky",
         "planned_at": "2026-09-27T03:47:25.864589+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-1",
-        "claimed_at": "2026-09-27T03:56:25.165174+00:00",
-        "lease_expires_at": "2026-09-27T09:56:25.165174+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750671",
       "prepared": {
@@ -277880,5 +277874,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T03:56:29.531551+00:00"
+  "updated_at": "2026-09-27T03:59:08.382299+00:00"
 }
