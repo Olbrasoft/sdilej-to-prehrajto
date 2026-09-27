@@ -251075,13 +251075,6 @@
           "permanent": false,
           "source_id": "33077519",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:34.354107+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33077519",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:21.743581+00:00"
         },
         {
@@ -251090,18 +251083,19 @@
           "reason": "Request failed for https://sdilej.cz/33077519/nanny-mcphee-and-the-big-bang-2010-czsken-dabing.mp4 (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:36:53.324685+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33077519",
+          "target_video_id": "29751055",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:38:02.417583+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33077519",
         "display_name": "Hledání zmizelých (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-27T04:14:01.540023+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T04:31:27.845652+00:00",
-        "lease_expires_at": "2026-09-27T10:31:27.845652+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751055",
       "prepared": {
@@ -278196,5 +278190,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:37:56.047159+00:00"
+  "updated_at": "2026-09-27T04:38:02.417600+00:00"
 }
