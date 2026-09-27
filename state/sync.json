@@ -124165,18 +124165,19 @@
           "source_id": "26654831",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-27T19:45:59.859571+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26654831",
+          "target_video_id": "29789039",
+          "permanent": false,
+          "attempted_at": "2026-09-27T21:08:41.590779+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26654831",
         "display_name": "Náš skrytý vesmír (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-27T20:54:41.573371+00:00"
-      },
-      "claim": {
-        "worker_id": "83789354b79642e6bd210ec79cc0a14c-shard-5",
-        "claimed_at": "2026-09-27T20:55:16.364899+00:00",
-        "lease_expires_at": "2026-09-28T02:55:16.364899+00:00",
-        "run_id": "36348036607"
       },
       "previous_target_id": "29789039",
       "prepared": {
@@ -278680,6 +278681,12 @@
         "target_video_id": "29735628",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-26T16:51:31.217282+00:00"
+      },
+      "claim": {
+        "worker_id": "83789354b79642e6bd210ec79cc0a14c-shard-2",
+        "claimed_at": "2026-09-27T21:08:41.356514+00:00",
+        "lease_expires_at": "2026-09-28T03:08:41.356514+00:00",
+        "run_id": "36348036607"
       }
     },
     "12855": {
@@ -283503,5 +283510,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T21:08:39.083092+00:00"
+  "updated_at": "2026-09-27T21:08:41.590794+00:00"
 }
