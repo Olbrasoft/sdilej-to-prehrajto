@@ -267582,13 +267582,6 @@
           "permanent": false,
           "source_id": "26398555",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:53:59.415798+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26398555",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:41.112040+00:00"
         },
         {
@@ -267597,18 +267590,19 @@
           "reason": "Request failed for https://sdilej.cz/26398555/smrtici-parazit-2009-720p-brrip-x264-aac-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T01:24:34.758830+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26398555",
+          "target_video_id": "29752376",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:42:17.375640+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26398555",
         "display_name": "Smrtící parazit (2009) 720p CZ Dabing",
         "planned_at": "2026-09-27T06:34:39.711296+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T06:36:14.073231+00:00",
-        "lease_expires_at": "2026-09-27T12:36:14.073231+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29752376",
       "prepared": {
@@ -278465,5 +278459,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:42:14.923826+00:00"
+  "updated_at": "2026-09-27T06:42:17.375657+00:00"
 }
