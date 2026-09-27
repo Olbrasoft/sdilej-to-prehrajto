@@ -22207,6 +22207,12 @@
         "target_video_id": "29750863",
         "size_bytes": 6300000000,
         "prepared_at": "2026-09-27T04:15:13.773993+00:00"
+      },
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-3",
+        "claimed_at": "2026-09-27T09:56:22.807249+00:00",
+        "lease_expires_at": "2026-09-27T15:56:22.807249+00:00",
+        "run_id": "36297250526"
       }
     },
     "1255": {
@@ -22365,13 +22371,6 @@
           "source_id": "25411039",
           "target_video_id": "29750944",
           "permanent": false,
-          "attempted_at": "2026-09-27T04:30:36.372443+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25411039",
-          "target_video_id": "29750944",
-          "permanent": false,
           "attempted_at": "2026-09-27T07:32:46.444694+00:00"
         },
         {
@@ -22380,6 +22379,13 @@
           "target_video_id": "29750944",
           "permanent": false,
           "attempted_at": "2026-09-27T09:07:10.874995+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25411039",
+          "target_video_id": "29750944",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:56:21.277414+00:00"
         }
       ],
       "last_plan": {
@@ -22392,12 +22398,6 @@
         "target_video_id": "29750944",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-27T04:22:04.696747+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-3",
-        "claimed_at": "2026-09-27T09:56:12.418964+00:00",
-        "lease_expires_at": "2026-09-27T15:56:12.418964+00:00",
-        "run_id": "36297250526"
       }
     },
     "1107": {
@@ -252370,13 +252370,6 @@
     "10208": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "25328005",
-          "reason": "Request failed for https://sdilej.cz/25328005/dnes-v-noci-spis-se-mnou-2023-webrip-cesky-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-27T03:56:18.158677+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "25328005",
           "target_video_id": "29753093",
@@ -252389,6 +252382,13 @@
           "target_video_id": "29753093",
           "permanent": false,
           "attempted_at": "2026-09-27T09:07:01.385961+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25328005",
+          "target_video_id": "29753093",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:56:20.975125+00:00"
         }
       ],
       "last_plan": {
@@ -252401,12 +252401,6 @@
         "target_video_id": "29753093",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-27T07:25:34.137328+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-0",
-        "claimed_at": "2026-09-27T09:56:11.919599+00:00",
-        "lease_expires_at": "2026-09-27T15:56:11.919599+00:00",
-        "run_id": "36297250526"
       }
     },
     "7410": {
@@ -252747,16 +252741,10 @@
           "attempted_at": "2026-09-27T09:08:49.439035+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30697427",
-        "display_name": "Nažhavená (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T09:55:41.976397+00:00"
-      },
       "previous_target_id": "29754815",
-      "prepared": {
+      "upload": {
         "target_video_id": "29754815",
-        "size_bytes": 2001362023,
-        "prepared_at": "2026-09-27T09:03:17.445114+00:00"
+        "uploaded_at": "2026-09-27T09:56:23.174407+00:00"
       }
     },
     "20400": {
@@ -253173,6 +253161,12 @@
         "target_video_id": "29753114",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-27T07:27:38.390901+00:00"
+      },
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-2",
+        "claimed_at": "2026-09-27T09:56:21.863856+00:00",
+        "lease_expires_at": "2026-09-27T15:56:21.863856+00:00",
+        "run_id": "36297250526"
       }
     },
     "36882": {
@@ -253772,6 +253766,12 @@
         "target_video_id": "29751079",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-27T04:33:58.532841+00:00"
+      },
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-0",
+        "claimed_at": "2026-09-27T09:56:22.152175+00:00",
+        "lease_expires_at": "2026-09-27T15:56:22.152175+00:00",
+        "run_id": "36297250526"
       }
     },
     "26242": {
@@ -275293,6 +275293,12 @@
         "target_video_id": "29754808",
         "size_bytes": 2218750146,
         "prepared_at": "2026-09-27T09:02:38.276841+00:00"
+      },
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-4",
+        "claimed_at": "2026-09-27T09:56:22.444373+00:00",
+        "lease_expires_at": "2026-09-27T15:56:22.444373+00:00",
+        "run_id": "36297250526"
       }
     },
     "19794": {
@@ -280737,5 +280743,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T09:56:18.521903+00:00"
+  "updated_at": "2026-09-27T09:56:23.174425+00:00"
 }
