@@ -253387,13 +253387,6 @@
           "permanent": false,
           "source_id": "29604002",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:16:26.579913+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29604002",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:04.647789+00:00"
         },
         {
@@ -253402,18 +253395,19 @@
           "reason": "Request failed for https://sdilej.cz/29604002/ratchet-a-clank-strazci-galaxie-4k.mkv (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:40:28.569291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29604002",
+          "target_video_id": "29751272",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:59:48.011294+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29604002",
         "display_name": "Ratchet a Clank: Strážci galaxie (2016) 4K CZ Dabing",
         "planned_at": "2026-09-27T04:14:10.088723+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T04:50:14.408705+00:00",
-        "lease_expires_at": "2026-09-27T10:50:14.408705+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751272",
       "prepared": {
@@ -278286,5 +278280,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:56:51.447066+00:00"
+  "updated_at": "2026-09-27T04:59:48.011310+00:00"
 }
