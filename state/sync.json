@@ -22254,6 +22254,14 @@
           "reason": "Request failed for https://sdilej.cz/27480235/ledove-kralovstvi-2013-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T04:21:58.186300+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27480235",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29753146",
+          "attempted_at": "2026-09-27T07:40:10.976680+00:00"
         }
       ],
       "last_plan": {
@@ -22261,18 +22269,7 @@
         "display_name": "Ledové království (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:27:48.690520+00:00"
       },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T07:29:39.857194+00:00",
-        "lease_expires_at": "2026-09-27T13:29:39.857194+00:00",
-        "run_id": "36297250526"
-      },
-      "previous_target_id": "29753146",
-      "prepared": {
-        "target_video_id": "29753146",
-        "size_bytes": 2148975074,
-        "prepared_at": "2026-09-27T07:29:43.537503+00:00"
-      }
+      "previous_target_id": "29753146"
     },
     "1261": {
       "attempts": [
@@ -22531,6 +22528,12 @@
         "source_id": "27441829",
         "display_name": "John Wick 3 (2019) 4K CZ Dabing",
         "planned_at": "2026-09-27T07:39:36.348446+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T07:40:08.228388+00:00",
+        "lease_expires_at": "2026-09-27T13:40:08.228388+00:00",
+        "run_id": "36297250526"
       }
     },
     "1136": {
@@ -252421,13 +252424,6 @@
     "9212": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34968169",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T09:03:38.123601+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34968169",
           "target_video_id": "29736280",
@@ -252440,6 +252436,13 @@
           "target_video_id": "29736280",
           "permanent": false,
           "attempted_at": "2026-09-27T05:08:17.579145+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34968169",
+          "target_video_id": "29736280",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:40:07.854666+00:00"
         }
       ],
       "last_plan": {
@@ -254944,13 +254947,6 @@
     "24334": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34347758",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:08.566920+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34347758",
           "reason": "Request failed for https://sdilej.cz/34347758/texas-rangers-2001-akcni-western-usa-cztit.hd.mkv (HTTP 522)",
@@ -254963,6 +254959,13 @@
           "target_video_id": "29751439",
           "permanent": false,
           "attempted_at": "2026-09-27T05:08:07.507821+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34347758",
+          "target_video_id": "29751439",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:40:04.586761+00:00"
         }
       ],
       "last_plan": {
@@ -254973,7 +254976,7 @@
       "previous_target_id": "29751439",
       "prepared": {
         "target_video_id": "29751439",
-        "size_bytes": 2099953926,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-27T05:03:05.182431+00:00"
       }
     },
@@ -279745,5 +279748,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:39:59.076620+00:00"
+  "updated_at": "2026-09-27T07:40:10.976704+00:00"
 }
