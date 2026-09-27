@@ -22398,17 +22398,19 @@
       }
     },
     "1221": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14020496",
+          "reason": "Request failed for https://sdilej.cz/14020496/the.nice.guys.2016.1080p.bluray.cz.en.2ch.x265-hdczt.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:20:58.317080+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14020496",
         "display_name": "Správní chlapi (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-27T05:08:20.535830+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-1",
-        "claimed_at": "2026-09-27T05:20:12.185970+00:00",
-        "lease_expires_at": "2026-09-27T11:20:12.185970+00:00",
-        "run_id": "36279320310"
       }
     },
     "11735": {
@@ -278461,5 +278463,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:20:22.932779+00:00"
+  "updated_at": "2026-09-27T05:20:58.317098+00:00"
 }
