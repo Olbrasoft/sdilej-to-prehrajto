@@ -260717,6 +260717,12 @@
         "target_video_id": "29732531",
         "size_bytes": 3252291720,
         "prepared_at": "2026-09-26T13:02:53.271486+00:00"
+      },
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-2",
+        "claimed_at": "2026-09-27T02:51:11.165193+00:00",
+        "lease_expires_at": "2026-09-27T08:51:11.165193+00:00",
+        "run_id": "36279320310"
       }
     },
     "9787": {
@@ -260752,18 +260758,19 @@
           "reason": "Request failed for https://sdilej.cz/33747149/zivelna-pohroma-1999-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T13:03:40.715892+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33747149",
+          "reason": "Request failed for https://sdilej.cz/33747149/zivelna-pohroma-1999-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:51:12.901610+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33747149",
         "display_name": "Živelná pohroma (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-27T02:49:25.666031+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T02:50:26.824124+00:00",
-        "lease_expires_at": "2026-09-27T08:50:26.824124+00:00",
-        "run_id": "36279320310"
       }
     },
     "17348": {
@@ -260795,6 +260802,13 @@
           "target_video_id": "29732544",
           "permanent": false,
           "attempted_at": "2026-09-26T13:07:14.190126+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34523375",
+          "target_video_id": "29732544",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:51:10.766789+00:00"
         }
       ],
       "last_plan": {
@@ -260805,7 +260819,7 @@
       "previous_target_id": "29732544",
       "prepared": {
         "target_video_id": "29732544",
-        "size_bytes": 2987615819,
+        "size_bytes": 3000000000,
         "prepared_at": "2026-09-26T13:03:47.690238+00:00"
       }
     },
@@ -277047,5 +277061,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T02:51:06.388604+00:00"
+  "updated_at": "2026-09-27T02:51:12.901629+00:00"
 }
