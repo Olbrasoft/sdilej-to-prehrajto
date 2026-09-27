@@ -69199,17 +69199,19 @@
       }
     },
     "2495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30925058",
+          "target_video_id": "29763132",
+          "permanent": false,
+          "attempted_at": "2026-09-27T12:47:44.634450+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30925058",
         "display_name": "Život v kostce (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-27T12:31:18.583689+00:00"
-      },
-      "claim": {
-        "worker_id": "1233822ed4e64ace9c00ea9f30a4b061-shard-0",
-        "claimed_at": "2026-09-27T12:31:36.479881+00:00",
-        "lease_expires_at": "2026-09-27T18:31:36.479881+00:00",
-        "run_id": "36312512013"
       },
       "previous_target_id": "29763132",
       "prepared": {
@@ -220119,6 +220121,12 @@
         "target_video_id": "29644155",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-23T13:00:38.080358+00:00"
+      },
+      "claim": {
+        "worker_id": "1233822ed4e64ace9c00ea9f30a4b061-shard-1",
+        "claimed_at": "2026-09-27T12:47:43.104127+00:00",
+        "lease_expires_at": "2026-09-27T18:47:43.104127+00:00",
+        "run_id": "36312512013"
       }
     },
     "23826": {
@@ -220161,13 +220169,6 @@
           "source_id": "27461666",
           "target_video_id": "29644304",
           "permanent": false,
-          "attempted_at": "2026-09-27T10:18:48.311111+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27461666",
-          "target_video_id": "29644304",
-          "permanent": false,
           "attempted_at": "2026-09-27T11:23:53.117299+00:00"
         },
         {
@@ -220176,6 +220177,13 @@
           "target_video_id": "29644304",
           "permanent": false,
           "attempted_at": "2026-09-27T12:06:58.440744+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27461666",
+          "target_video_id": "29644304",
+          "permanent": false,
+          "attempted_at": "2026-09-27T12:47:42.431697+00:00"
         }
       ],
       "last_plan": {
@@ -281082,5 +281090,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T12:47:38.173406+00:00"
+  "updated_at": "2026-09-27T12:47:44.634467+00:00"
 }
