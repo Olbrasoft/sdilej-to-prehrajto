@@ -256184,13 +256184,6 @@
           "permanent": false,
           "source_id": "33687389",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:54:08.748272+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33687389",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:39.700885+00:00"
         },
         {
@@ -256199,6 +256192,13 @@
           "target_video_id": "29736510",
           "permanent": false,
           "attempted_at": "2026-09-26T17:59:37.367291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33687389",
+          "target_video_id": "29736510",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:05:25.104838+00:00"
         }
       ],
       "last_plan": {
@@ -256209,14 +256209,8 @@
       "previous_target_id": "29736510",
       "prepared": {
         "target_video_id": "29736510",
-        "size_bytes": 2261409780,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-26T17:54:22.720578+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:05:21.717753+00:00",
-        "lease_expires_at": "2026-09-27T12:05:21.717753+00:00",
-        "run_id": "36297250526"
       }
     },
     "9692": {
@@ -256406,13 +256400,6 @@
           "permanent": false,
           "source_id": "13400948",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:54:12.545111+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13400948",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:43.746763+00:00"
         },
         {
@@ -256421,6 +256408,13 @@
           "target_video_id": "29736542",
           "permanent": false,
           "attempted_at": "2026-09-26T18:01:06.894650+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13400948",
+          "target_video_id": "29736542",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:05:26.781872+00:00"
         }
       ],
       "last_plan": {
@@ -256431,7 +256425,7 @@
       "previous_target_id": "29736542",
       "prepared": {
         "target_video_id": "29736542",
-        "size_bytes": 1110771712,
+        "size_bytes": 1100000000,
         "prepared_at": "2026-09-26T17:58:38.536111+00:00"
       }
     },
@@ -256610,16 +256604,10 @@
           "attempted_at": "2026-09-26T18:01:53.229100+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28112168",
-        "display_name": "Velký tlustý lhář (2002) SD CZ Dabing",
-        "planned_at": "2026-09-27T05:30:21.075970+00:00"
-      },
       "previous_target_id": "29736561",
-      "prepared": {
+      "upload": {
         "target_video_id": "29736561",
-        "size_bytes": 891388636,
-        "prepared_at": "2026-09-26T17:59:45.103309+00:00"
+        "uploaded_at": "2026-09-27T06:05:27.163201+00:00"
       }
     },
     "29803": {
@@ -278643,5 +278631,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:05:22.676459+00:00"
+  "updated_at": "2026-09-27T06:05:27.163225+00:00"
 }
