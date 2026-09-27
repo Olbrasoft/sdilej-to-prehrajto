@@ -258603,13 +258603,6 @@
           "permanent": false,
           "source_id": "11133822",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:24:58.486403+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11133822",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:06.617694+00:00"
         },
         {
@@ -258618,6 +258611,13 @@
           "target_video_id": "29738937",
           "permanent": false,
           "attempted_at": "2026-09-26T19:12:27.005359+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11133822",
+          "target_video_id": "29738937",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:06:45.713332+00:00"
         }
       ],
       "last_plan": {
@@ -258628,14 +258628,8 @@
       "previous_target_id": "29738937",
       "prepared": {
         "target_video_id": "29738937",
-        "size_bytes": 16660833678,
+        "size_bytes": 16700000000,
         "prepared_at": "2026-09-26T18:25:24.036946+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:06:43.264188+00:00",
-        "lease_expires_at": "2026-09-27T12:06:43.264188+00:00",
-        "run_id": "36297250526"
       }
     },
     "15465": {
@@ -259356,22 +259350,10 @@
           "attempted_at": "2026-09-26T18:44:03.234603+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34852587",
-        "display_name": "Gryfon (2007) SD CZ Dabing",
-        "planned_at": "2026-09-27T06:05:44.443042+00:00"
-      },
       "previous_target_id": "29740140",
-      "prepared": {
+      "upload": {
         "target_video_id": "29740140",
-        "size_bytes": 858175972,
-        "prepared_at": "2026-09-26T18:41:30.107785+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:06:40.803307+00:00",
-        "lease_expires_at": "2026-09-27T12:06:40.803307+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:06:46.752583+00:00"
       }
     },
     "17441": {
@@ -259528,6 +259510,12 @@
         "target_video_id": "29740462",
         "size_bytes": 924178432,
         "prepared_at": "2026-09-26T19:13:02.210176+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:06:46.046432+00:00",
+        "lease_expires_at": "2026-09-27T12:06:46.046432+00:00",
+        "run_id": "36297250526"
       }
     },
     "26156": {
@@ -259578,6 +259566,12 @@
         "target_video_id": "29740482",
         "size_bytes": 2901957204,
         "prepared_at": "2026-09-26T19:15:46.485234+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:06:46.387819+00:00",
+        "lease_expires_at": "2026-09-27T12:06:46.387819+00:00",
+        "run_id": "36297250526"
       }
     },
     "16535": {
@@ -278529,5 +278523,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:06:43.582799+00:00"
+  "updated_at": "2026-09-27T06:06:46.752600+00:00"
 }
