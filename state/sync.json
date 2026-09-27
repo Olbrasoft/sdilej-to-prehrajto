@@ -257555,13 +257555,6 @@
           "permanent": false,
           "source_id": "33224203",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:24:49.607734+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33224203",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:55.989564+00:00"
         },
         {
@@ -257570,6 +257563,13 @@
           "target_video_id": "29737779",
           "permanent": false,
           "attempted_at": "2026-09-26T18:25:16.393800+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33224203",
+          "target_video_id": "29737779",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:06:13.686933+00:00"
         }
       ],
       "last_plan": {
@@ -257580,14 +257580,8 @@
       "previous_target_id": "29737779",
       "prepared": {
         "target_video_id": "29737779",
-        "size_bytes": 4112310016,
+        "size_bytes": 4099999999,
         "prepared_at": "2026-09-26T18:13:45.875965+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:06:11.061600+00:00",
-        "lease_expires_at": "2026-09-27T12:06:11.061600+00:00",
-        "run_id": "36297250526"
       }
     },
     "34097": {
@@ -257911,22 +257905,10 @@
           "attempted_at": "2026-09-26T18:23:24.382775+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "7501797",
-        "display_name": "Blesk z čistého nebe (2012) SD CZ Dabing",
-        "planned_at": "2026-09-27T06:05:36.890710+00:00"
-      },
       "previous_target_id": "29738304",
-      "prepared": {
+      "upload": {
         "target_video_id": "29738304",
-        "size_bytes": 1699780608,
-        "prepared_at": "2026-09-26T18:18:45.996469+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:06:08.392452+00:00",
-        "lease_expires_at": "2026-09-27T12:06:08.392452+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:06:14.718818+00:00"
       }
     },
     "7668": {
@@ -258398,6 +258380,12 @@
         "target_video_id": "29738636",
         "size_bytes": 1916838514,
         "prepared_at": "2026-09-26T18:22:12.651204+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:06:14.371323+00:00",
+        "lease_expires_at": "2026-09-27T12:06:14.371323+00:00",
+        "run_id": "36297250526"
       }
     },
     "13399": {
@@ -258563,6 +258551,12 @@
         "target_video_id": "29738759",
         "size_bytes": 868194617,
         "prepared_at": "2026-09-26T18:23:31.873800+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:06:14.021036+00:00",
+        "lease_expires_at": "2026-09-27T12:06:14.021036+00:00",
+        "run_id": "36297250526"
       }
     },
     "25247": {
@@ -278595,5 +278589,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:06:11.424647+00:00"
+  "updated_at": "2026-09-27T06:06:14.718836+00:00"
 }
