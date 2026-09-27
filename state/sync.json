@@ -265564,16 +265564,10 @@
           "attempted_at": "2026-09-27T01:00:58.772830+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11226561",
-        "display_name": "USS Indianapolis: Boj o přežití (2016) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:24:51.070154+00:00"
-      },
       "previous_target_id": "29748433",
-      "prepared": {
+      "upload": {
         "target_video_id": "29748433",
-        "size_bytes": 3962486845,
-        "prepared_at": "2026-09-27T00:50:24.834700+00:00"
+        "uploaded_at": "2026-09-27T06:34:28.075882+00:00"
       }
     },
     "16536": {
@@ -265769,13 +265763,6 @@
           "permanent": false,
           "source_id": "33767185",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:28:09.961407+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33767185",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:18.637874+00:00"
         },
         {
@@ -265784,6 +265771,13 @@
           "target_video_id": "29748445",
           "permanent": false,
           "attempted_at": "2026-09-27T00:57:34.989501+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767185",
+          "target_video_id": "29748445",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:34:26.290702+00:00"
         }
       ],
       "last_plan": {
@@ -265794,14 +265788,8 @@
       "previous_target_id": "29748445",
       "prepared": {
         "target_video_id": "29748445",
-        "size_bytes": 2283289598,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-27T00:51:39.848161+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T06:34:23.746309+00:00",
-        "lease_expires_at": "2026-09-27T12:34:23.746309+00:00",
-        "run_id": "36297250526"
       }
     },
     "35213": {
@@ -266236,6 +266224,12 @@
         "source_id": "30119182",
         "display_name": "Zoufalky (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-27T06:24:50.745887+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:34:26.959243+00:00",
+        "lease_expires_at": "2026-09-27T12:34:26.959243+00:00",
+        "run_id": "36297250526"
       }
     },
     "28612": {
@@ -278523,5 +278517,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:34:24.117641+00:00"
+  "updated_at": "2026-09-27T06:34:28.075901+00:00"
 }
