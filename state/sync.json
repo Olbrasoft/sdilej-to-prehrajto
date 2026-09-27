@@ -255241,13 +255241,6 @@
     "8628": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31712526",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:10.916832+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31712526",
           "reason": "Request failed for https://sdilej.cz/31712526/smik-smik-2025-novinka-cz-dabing-tom-s-film.mp4 (HTTP 522)",
@@ -255260,6 +255253,13 @@
           "target_video_id": "29751844",
           "permanent": false,
           "attempted_at": "2026-09-27T05:45:36.902134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31712526",
+          "target_video_id": "29751844",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:46:01.667310+00:00"
         }
       ],
       "last_plan": {
@@ -255270,7 +255270,7 @@
       "previous_target_id": "29751844",
       "prepared": {
         "target_video_id": "29751844",
-        "size_bytes": 1785776692,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-27T05:40:52.815902+00:00"
       }
     },
@@ -255402,6 +255402,18 @@
         "source_id": "34905268",
         "display_name": "Sestry v akci (2000) 720p CZ Dabing",
         "planned_at": "2026-09-27T07:39:44.895948+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T07:46:02.022110+00:00",
+        "lease_expires_at": "2026-09-27T13:46:02.022110+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29753342",
+      "prepared": {
+        "target_video_id": "29753342",
+        "size_bytes": 3292936446,
+        "prepared_at": "2026-09-27T07:46:06.161354+00:00"
       }
     },
     "30121": {
@@ -279814,5 +279826,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:45:54.137726+00:00"
+  "updated_at": "2026-09-27T07:46:06.161368+00:00"
 }
