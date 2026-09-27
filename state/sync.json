@@ -265643,6 +265643,12 @@
         "target_video_id": "29748440",
         "size_bytes": 4777800506,
         "prepared_at": "2026-09-27T00:51:03.255002+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:34:57.163883+00:00",
+        "lease_expires_at": "2026-09-27T12:34:57.163883+00:00",
+        "run_id": "36297250526"
       }
     },
     "18718": {
@@ -265843,16 +265849,10 @@
           "attempted_at": "2026-09-27T01:03:14.080836+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32130546",
-        "display_name": "Nájemník v mém sklepě (2025) 1080p CZ Titulky",
-        "planned_at": "2026-09-27T06:34:33.869026+00:00"
-      },
       "previous_target_id": "29748479",
-      "prepared": {
+      "upload": {
         "target_video_id": "29748479",
-        "size_bytes": 3448070235,
-        "prepared_at": "2026-09-27T00:54:43.622370+00:00"
+        "uploaded_at": "2026-09-27T06:34:58.196422+00:00"
       }
     },
     "24691": {
@@ -266379,13 +266379,6 @@
           "permanent": false,
           "source_id": "26559018",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:28:14.281940+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26559018",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:58.234158+00:00"
         },
         {
@@ -266394,6 +266387,13 @@
           "target_video_id": "29748522",
           "permanent": false,
           "attempted_at": "2026-09-27T01:01:16.400194+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26559018",
+          "target_video_id": "29748522",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:34:56.484628+00:00"
         }
       ],
       "last_plan": {
@@ -266404,14 +266404,8 @@
       "previous_target_id": "29748522",
       "prepared": {
         "target_video_id": "29748522",
-        "size_bytes": 1048247068,
+        "size_bytes": 1000000000,
         "prepared_at": "2026-09-27T00:58:42.861474+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T06:34:50.261120+00:00",
-        "lease_expires_at": "2026-09-27T12:34:50.261120+00:00",
-        "run_id": "36297250526"
       }
     },
     "26173": {
@@ -278523,5 +278517,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:34:50.599006+00:00"
+  "updated_at": "2026-09-27T06:34:58.196434+00:00"
 }
