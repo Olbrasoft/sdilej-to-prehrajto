@@ -254634,13 +254634,6 @@
           "permanent": false,
           "source_id": "31712526",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:19.618452+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31712526",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:10.916832+00:00"
         },
         {
@@ -254649,18 +254642,19 @@
           "reason": "Request failed for https://sdilej.cz/31712526/smik-smik-2025-novinka-cz-dabing-tom-s-film.mp4 (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:42:23.954403+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31712526",
+          "target_video_id": "29751844",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:45:36.902134+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31712526",
         "display_name": "Šmik, šmik (2025) 1080p CZ Dabing",
         "planned_at": "2026-09-27T05:30:11.094494+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T05:40:49.462979+00:00",
-        "lease_expires_at": "2026-09-27T11:40:49.462979+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751844",
       "prepared": {
@@ -254803,6 +254797,12 @@
         "source_id": "34905268",
         "display_name": "Sestry v akci (2000) 720p CZ Dabing",
         "planned_at": "2026-09-27T05:30:11.645457+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T05:45:19.017203+00:00",
+        "lease_expires_at": "2026-09-27T11:45:19.017203+00:00",
+        "run_id": "36297250526"
       }
     },
     "30121": {
@@ -278623,5 +278623,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:45:14.309015+00:00"
+  "updated_at": "2026-09-27T05:45:36.902150+00:00"
 }
