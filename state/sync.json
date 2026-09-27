@@ -107244,17 +107244,19 @@
       }
     },
     "25605": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34707990",
+          "target_video_id": "29763135",
+          "permanent": false,
+          "attempted_at": "2026-09-27T12:45:11.023298+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34707990",
         "display_name": "Duhová panna (2000) 1080p CZ Dabing",
         "planned_at": "2026-09-27T12:31:18.874727+00:00"
-      },
-      "claim": {
-        "worker_id": "1233822ed4e64ace9c00ea9f30a4b061-shard-1",
-        "claimed_at": "2026-09-27T12:31:37.330360+00:00",
-        "lease_expires_at": "2026-09-27T18:31:37.330360+00:00",
-        "run_id": "36312512013"
       },
       "previous_target_id": "29763135",
       "prepared": {
@@ -170870,13 +170872,6 @@
           "source_id": "13480709",
           "target_video_id": "29285833",
           "permanent": false,
-          "attempted_at": "2026-09-27T10:16:17.818208+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13480709",
-          "target_video_id": "29285833",
-          "permanent": false,
           "attempted_at": "2026-09-27T11:21:26.469191+00:00"
         },
         {
@@ -170885,6 +170880,13 @@
           "target_video_id": "29285833",
           "permanent": false,
           "attempted_at": "2026-09-27T12:03:00.377647+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13480709",
+          "target_video_id": "29285833",
+          "permanent": false,
+          "attempted_at": "2026-09-27T12:45:10.662945+00:00"
         }
       ],
       "last_plan": {
@@ -170897,13 +170899,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-11T00:33:42.391947+00:00"
       },
-      "previous_target_id": "29285833",
-      "claim": {
-        "worker_id": "1233822ed4e64ace9c00ea9f30a4b061-shard-5",
-        "claimed_at": "2026-09-27T12:45:07.706692+00:00",
-        "lease_expires_at": "2026-09-27T18:45:07.706692+00:00",
-        "run_id": "36312512013"
-      }
+      "previous_target_id": "29285833"
     },
     "31381": {
       "attempts": []
@@ -281080,5 +281076,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T12:45:08.071122+00:00"
+  "updated_at": "2026-09-27T12:45:11.023319+00:00"
 }
