@@ -254944,13 +254944,6 @@
           "permanent": false,
           "source_id": "34528921",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:26.127040+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34528921",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:13.486663+00:00"
         },
         {
@@ -254959,18 +254952,19 @@
           "reason": "Request failed for https://sdilej.cz/34528921/maly-bratr-2026-komedie-usa-john-cena-czdab.uhdr.mkv (HTTP 521)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:42:54.675178+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34528921",
+          "target_video_id": "29751885",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:00.358619+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34528921",
         "display_name": "Malý bratr (2026) 4K CZ Dabing",
         "planned_at": "2026-09-27T05:30:11.923142+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T05:45:39.261874+00:00",
-        "lease_expires_at": "2026-09-27T11:45:39.261874+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751885",
       "prepared": {
@@ -278463,5 +278457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:25:53.632866+00:00"
+  "updated_at": "2026-09-27T06:26:00.358635+00:00"
 }
