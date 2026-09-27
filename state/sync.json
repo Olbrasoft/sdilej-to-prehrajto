@@ -266983,13 +266983,6 @@
           "permanent": false,
           "source_id": "26312919",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:28:25.280663+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26312919",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:38:08.690570+00:00"
         },
         {
@@ -266998,6 +266991,13 @@
           "target_video_id": "29748641",
           "permanent": false,
           "attempted_at": "2026-09-27T01:43:17.057665+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26312919",
+          "target_video_id": "29748641",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:42:45.782994+00:00"
         }
       ],
       "last_plan": {
@@ -267008,7 +267008,7 @@
       "previous_target_id": "29748641",
       "prepared": {
         "target_video_id": "29748641",
-        "size_bytes": 14007393803,
+        "size_bytes": 14000000000,
         "prepared_at": "2026-09-27T01:09:46.270119+00:00"
       }
     },
@@ -267951,13 +267951,6 @@
           "permanent": false,
           "source_id": "34735288",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:04.487650+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34735288",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:58.960372+00:00"
         },
         {
@@ -267966,18 +267959,19 @@
           "reason": "Request failed for https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T01:32:03.674774+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34735288",
+          "reason": "Request failed for https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:43:05.753808+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34735288",
         "display_name": "The Week Of (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-27T06:34:42.425707+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:42:19.760567+00:00",
-        "lease_expires_at": "2026-09-27T12:42:19.760567+00:00",
-        "run_id": "36297250526"
       }
     },
     "26764": {
@@ -268143,13 +268137,6 @@
           "permanent": false,
           "source_id": "34924027",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:07.515832+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34924027",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:59:02.271453+00:00"
         },
         {
@@ -268158,6 +268145,13 @@
           "target_video_id": "29748982",
           "permanent": false,
           "attempted_at": "2026-09-27T01:43:28.617672+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34924027",
+          "target_video_id": "29748982",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:42:47.586101+00:00"
         }
       ],
       "last_plan": {
@@ -268168,7 +268162,7 @@
       "previous_target_id": "29748982",
       "prepared": {
         "target_video_id": "29748982",
-        "size_bytes": 1847821750,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-27T01:39:13.553638+00:00"
       }
     },
@@ -268302,6 +268296,12 @@
         "source_id": "33837245",
         "display_name": "Zlo přichází z hlubin (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-27T06:34:44.493054+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T06:42:47.963519+00:00",
+        "lease_expires_at": "2026-09-27T12:42:47.963519+00:00",
+        "run_id": "36297250526"
       }
     },
     "26813": {
@@ -278459,5 +278459,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:42:42.105101+00:00"
+  "updated_at": "2026-09-27T06:43:05.753825+00:00"
 }
