@@ -266735,13 +266735,6 @@
           "permanent": false,
           "source_id": "6380426",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:28:20.870335+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6380426",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:38:04.196744+00:00"
         },
         {
@@ -266750,6 +266743,14 @@
           "target_video_id": "29748585",
           "permanent": false,
           "attempted_at": "2026-09-27T01:09:50.732708+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "6380426",
+          "target_video_id": "29748585",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:35:44.092786+00:00"
         }
       ],
       "last_plan": {
@@ -266757,12 +266758,7 @@
         "display_name": "Šéfka (2016) 720p CZ Dabing",
         "planned_at": "2026-09-27T06:34:36.201169+00:00"
       },
-      "previous_target_id": "29748585",
-      "prepared": {
-        "target_video_id": "29748585",
-        "size_bytes": 2190010518,
-        "prepared_at": "2026-09-27T01:04:35.211638+00:00"
-      }
+      "previous_target_id": "29748585"
     },
     "25306": {
       "attempts": []
@@ -278523,5 +278519,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:35:34.737147+00:00"
+  "updated_at": "2026-09-27T06:35:44.092804+00:00"
 }
