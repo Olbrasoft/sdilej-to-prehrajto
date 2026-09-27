@@ -1522,13 +1522,6 @@
           "source_id": "30793920",
           "target_video_id": "28928358",
           "permanent": false,
-          "attempted_at": "2026-09-27T22:07:47.822481+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
           "attempted_at": "2026-09-27T22:38:15.031438+00:00"
         },
         {
@@ -1537,6 +1530,13 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-09-27T23:08:54.935462+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30793920",
+          "target_video_id": "28928358",
+          "permanent": false,
+          "attempted_at": "2026-09-27T23:51:47.540385+00:00"
         }
       ],
       "last_plan": {
@@ -1549,13 +1549,7 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-06T03:39:03.652146+00:00"
       },
-      "previous_target_id": "28928358",
-      "claim": {
-        "worker_id": "2dfcbd5902c24a1eb52b96eba818a8bb-shard-5",
-        "claimed_at": "2026-09-27T23:51:39.678091+00:00",
-        "lease_expires_at": "2026-09-28T05:51:39.678091+00:00",
-        "run_id": "36348036607"
-      }
+      "previous_target_id": "28928358"
     },
     "21354": {
       "attempts": [
@@ -124605,17 +124599,19 @@
       "attempts": []
     },
     "31674": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34118710",
+          "target_video_id": "29792934",
+          "permanent": false,
+          "attempted_at": "2026-09-27T23:51:48.044155+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34118710",
         "display_name": "Mission Extreme 2: Black War (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-27T23:38:58.625828+00:00"
-      },
-      "claim": {
-        "worker_id": "2dfcbd5902c24a1eb52b96eba818a8bb-shard-1",
-        "claimed_at": "2026-09-27T23:39:13.725908+00:00",
-        "lease_expires_at": "2026-09-28T05:39:13.725908+00:00",
-        "run_id": "36348036607"
       },
       "previous_target_id": "29792934",
       "prepared": {
@@ -240301,13 +240297,6 @@
           "source_id": "18651298",
           "target_video_id": "29692502",
           "permanent": false,
-          "attempted_at": "2026-09-27T22:07:43.600913+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18651298",
-          "target_video_id": "29692502",
-          "permanent": false,
           "attempted_at": "2026-09-27T22:38:08.730535+00:00"
         },
         {
@@ -240316,6 +240305,13 @@
           "target_video_id": "29692502",
           "permanent": false,
           "attempted_at": "2026-09-27T23:08:53.784694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18651298",
+          "target_video_id": "29692502",
+          "permanent": false,
+          "attempted_at": "2026-09-27T23:51:47.807125+00:00"
         }
       ],
       "last_plan": {
@@ -240328,12 +240324,6 @@
         "target_video_id": "29692502",
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-25T05:13:04.398568+00:00"
-      },
-      "claim": {
-        "worker_id": "2dfcbd5902c24a1eb52b96eba818a8bb-shard-0",
-        "claimed_at": "2026-09-27T23:51:39.914616+00:00",
-        "lease_expires_at": "2026-09-28T05:51:39.914616+00:00",
-        "run_id": "36348036607"
       }
     },
     "30128": {
@@ -283865,5 +283855,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T23:51:40.582504+00:00"
+  "updated_at": "2026-09-27T23:51:48.044171+00:00"
 }
