@@ -261932,6 +261932,13 @@
           "target_video_id": "29732531",
           "permanent": false,
           "attempted_at": "2026-09-27T02:51:15.428704+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26082005",
+          "target_video_id": "29732531",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:08:32.644263+00:00"
         }
       ],
       "last_plan": {
@@ -261986,18 +261993,19 @@
           "reason": "Request failed for https://sdilej.cz/33747149/zivelna-pohroma-1999-1080p-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T02:51:12.901610+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33747149",
+          "reason": "Request failed for https://sdilej.cz/33747149/zivelna-pohroma-1999-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:08:33.061401+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33747149",
         "display_name": "Živelná pohroma (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:07:19.330978+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T07:07:46.596934+00:00",
-        "lease_expires_at": "2026-09-27T13:07:46.596934+00:00",
-        "run_id": "36297250526"
       }
     },
     "17348": {
@@ -278720,5 +278728,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:08:28.941840+00:00"
+  "updated_at": "2026-09-27T07:08:33.061421+00:00"
 }
