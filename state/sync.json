@@ -252363,13 +252363,6 @@
           "permanent": false,
           "source_id": "32152317",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:57.837704+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32152317",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:28.883047+00:00"
         },
         {
@@ -252378,18 +252371,19 @@
           "reason": "Request failed for https://sdilej.cz/32152317/ukolebavka-2022-cz..mp4 (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:38:16.581073+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32152317",
+          "target_video_id": "29751132",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:45:19.125044+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32152317",
         "display_name": "Ukolébavka (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-27T04:14:04.870046+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T04:38:04.763300+00:00",
-        "lease_expires_at": "2026-09-27T10:38:04.763300+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751132",
       "prepared": {
@@ -278220,5 +278214,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:44:28.049193+00:00"
+  "updated_at": "2026-09-27T04:45:19.125062+00:00"
 }
