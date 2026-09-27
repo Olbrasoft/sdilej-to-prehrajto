@@ -264159,13 +264159,6 @@
           "permanent": false,
           "source_id": "11138331",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:09:13.437785+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11138331",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:26:48.016130+00:00"
         },
         {
@@ -264174,18 +264167,19 @@
           "source_id": "11138331",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:12.224121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11138331",
+          "target_video_id": "29748313",
+          "permanent": false,
+          "attempted_at": "2026-09-27T00:42:59.921079+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11138331",
         "display_name": "Pravidla pomsty (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-27T00:22:14.983374+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-1",
-        "claimed_at": "2026-09-27T00:37:29.511590+00:00",
-        "lease_expires_at": "2026-09-27T06:37:29.511590+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29748313",
       "prepared": {
@@ -277448,5 +277442,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T00:41:01.228878+00:00"
+  "updated_at": "2026-09-27T00:42:59.921096+00:00"
 }
