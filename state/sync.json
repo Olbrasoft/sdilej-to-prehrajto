@@ -261756,18 +261756,19 @@
           "reason": "Request failed for https://sdilej.cz/32819125/hrozba-smrti-2-2006-akcni-drama-usa-czdab-bluray.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T02:50:41.387146+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32819125",
+          "reason": "Request failed for https://sdilej.cz/32819125/hrozba-smrti-2-2006-akcni-drama-usa-czdab-bluray.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:08:28.941823+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32819125",
         "display_name": "Hrozba smrti 2 (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:07:18.638402+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T07:07:36.702222+00:00",
-        "lease_expires_at": "2026-09-27T13:07:36.702222+00:00",
-        "run_id": "36297250526"
       }
     },
     "25761": {
@@ -261991,6 +261992,12 @@
         "source_id": "33747149",
         "display_name": "Živelná pohroma (1999) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:07:19.330978+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T07:07:46.596934+00:00",
+        "lease_expires_at": "2026-09-27T13:07:46.596934+00:00",
+        "run_id": "36297250526"
       }
     },
     "17348": {
@@ -262029,6 +262036,13 @@
           "target_video_id": "29732544",
           "permanent": false,
           "attempted_at": "2026-09-27T02:51:10.766789+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34523375",
+          "target_video_id": "29732544",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:07:46.241754+00:00"
         }
       ],
       "last_plan": {
@@ -262041,12 +262055,6 @@
         "target_video_id": "29732544",
         "size_bytes": 3000000000,
         "prepared_at": "2026-09-26T13:03:47.690238+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T07:07:37.040001+00:00",
-        "lease_expires_at": "2026-09-27T13:07:37.040001+00:00",
-        "run_id": "36297250526"
       }
     },
     "11835": {
@@ -278712,5 +278720,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:07:43.917621+00:00"
+  "updated_at": "2026-09-27T07:08:28.941840+00:00"
 }
