@@ -250203,13 +250203,6 @@
           "permanent": false,
           "source_id": "26566002",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:26.400612+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26566002",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:15.018801+00:00"
         },
         {
@@ -250218,6 +250211,13 @@
           "target_video_id": "29725113",
           "permanent": false,
           "attempted_at": "2026-09-26T10:17:31.323673+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26566002",
+          "target_video_id": "29725113",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:04:32.449721+00:00"
         }
       ],
       "last_plan": {
@@ -250228,7 +250228,7 @@
       "previous_target_id": "29725113",
       "prepared": {
         "target_video_id": "29725113",
-        "size_bytes": 2574757542,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-26T10:14:38.898413+00:00"
       }
     },
@@ -250245,16 +250245,10 @@
           "attempted_at": "2026-09-26T10:20:10.085431+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34780122",
-        "display_name": "El Gringo (2012) 720p CZ Titulky",
-        "planned_at": "2026-09-27T01:45:53.695020+00:00"
-      },
       "previous_target_id": "29725165",
-      "prepared": {
+      "upload": {
         "target_video_id": "29725165",
-        "size_bytes": 2227535927,
-        "prepared_at": "2026-09-26T10:17:41.401761+00:00"
+        "uploaded_at": "2026-09-27T02:04:34.561426+00:00"
       }
     },
     "12057": {
@@ -277886,5 +277880,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T02:04:28.394215+00:00"
+  "updated_at": "2026-09-27T02:04:34.561439+00:00"
 }
