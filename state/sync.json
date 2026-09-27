@@ -119634,22 +119634,10 @@
           "attempted_at": "2026-09-27T20:46:06.926375+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34686910",
-        "display_name": "Fourniret: Zúčtování (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T21:45:53.936830+00:00"
-      },
       "previous_target_id": "29788655",
-      "prepared": {
+      "upload": {
         "target_video_id": "29788655",
-        "size_bytes": 1958916620,
-        "prepared_at": "2026-09-27T20:41:04.342029+00:00"
-      },
-      "claim": {
-        "worker_id": "b76ab4df779141f88b6e15faacecebd0-shard-2",
-        "claimed_at": "2026-09-27T21:46:06.300740+00:00",
-        "lease_expires_at": "2026-09-28T03:46:06.300740+00:00",
-        "run_id": "36348036607"
+        "uploaded_at": "2026-09-27T21:46:14.562950+00:00"
       }
     },
     "16618": {
@@ -268319,13 +268307,6 @@
           "permanent": false,
           "source_id": "30692121",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-27T17:46:44.977881+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30692121",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-27T19:44:43.897419+00:00"
         },
         {
@@ -268334,6 +268315,13 @@
           "target_video_id": "29733062",
           "permanent": false,
           "attempted_at": "2026-09-27T20:37:18.148808+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30692121",
+          "target_video_id": "29733062",
+          "permanent": false,
+          "attempted_at": "2026-09-27T21:46:14.070994+00:00"
         }
       ],
       "last_plan": {
@@ -268346,12 +268334,6 @@
         "target_video_id": "29733062",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-26T13:44:11.410626+00:00"
-      },
-      "claim": {
-        "worker_id": "b76ab4df779141f88b6e15faacecebd0-shard-1",
-        "claimed_at": "2026-09-27T21:46:06.086983+00:00",
-        "lease_expires_at": "2026-09-28T03:46:06.086983+00:00",
-        "run_id": "36348036607"
       }
     },
     "7979": {
@@ -269046,13 +269028,6 @@
           "permanent": false,
           "source_id": "34273086",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-27T17:46:43.290826+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34273086",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-27T19:44:23.241397+00:00"
         },
         {
@@ -269061,6 +269036,13 @@
           "target_video_id": "29733324",
           "permanent": false,
           "attempted_at": "2026-09-27T20:37:14.743228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34273086",
+          "target_video_id": "29733324",
+          "permanent": false,
+          "attempted_at": "2026-09-27T21:46:14.317495+00:00"
         }
       ],
       "last_plan": {
@@ -269073,12 +269055,6 @@
         "target_video_id": "29733324",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-26T14:02:50.863525+00:00"
-      },
-      "claim": {
-        "worker_id": "b76ab4df779141f88b6e15faacecebd0-shard-4",
-        "claimed_at": "2026-09-27T21:46:05.874514+00:00",
-        "lease_expires_at": "2026-09-28T03:46:05.874514+00:00",
-        "run_id": "36348036607"
       }
     },
     "7924": {
@@ -283582,5 +283558,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T21:46:07.438495+00:00"
+  "updated_at": "2026-09-27T21:46:14.562973+00:00"
 }
