@@ -103616,6 +103616,12 @@
         "target_video_id": "29749298",
         "size_bytes": 1838120297,
         "prepared_at": "2026-09-27T02:01:08.945570+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:47:06.927885+00:00",
+        "lease_expires_at": "2026-09-27T12:47:06.927885+00:00",
+        "run_id": "36297250526"
       }
     },
     "30422": {
@@ -105571,16 +105577,10 @@
           "attempted_at": "2026-09-27T02:06:01.142241+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34712026",
-        "display_name": "Propast (1982) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:44:06.589086+00:00"
-      },
       "previous_target_id": "29749307",
-      "prepared": {
+      "upload": {
         "target_video_id": "29749307",
-        "size_bytes": 1681349636,
-        "prepared_at": "2026-09-27T02:01:56.718574+00:00"
+        "uploaded_at": "2026-09-27T06:47:07.762723+00:00"
       }
     },
     "13081": {
@@ -243187,13 +243187,6 @@
           "source_id": "25848157",
           "target_video_id": "29713121",
           "permanent": false,
-          "attempted_at": "2026-09-26T10:07:03.991630+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25848157",
-          "target_video_id": "29713121",
-          "permanent": false,
           "attempted_at": "2026-09-26T11:03:37.387044+00:00"
         },
         {
@@ -243202,6 +243195,13 @@
           "target_video_id": "29713121",
           "permanent": false,
           "attempted_at": "2026-09-27T02:05:47.542437+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25848157",
+          "target_video_id": "29713121",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:47:06.473071+00:00"
         }
       ],
       "last_plan": {
@@ -243214,23 +243214,10 @@
         "target_video_id": "29713121",
         "size_bytes": 2900000000,
         "prepared_at": "2026-09-25T20:24:31.934510+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:47:02.430129+00:00",
-        "lease_expires_at": "2026-09-27T12:47:02.430129+00:00",
-        "run_id": "36297250526"
       }
     },
     "11362": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "21984373",
-          "target_video_id": "29713212",
-          "permanent": false,
-          "attempted_at": "2026-09-26T10:07:03.781645+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "21984373",
@@ -243244,6 +243231,13 @@
           "target_video_id": "29713212",
           "permanent": false,
           "attempted_at": "2026-09-27T02:05:49.641240+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21984373",
+          "target_video_id": "29713212",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:47:07.378809+00:00"
         }
       ],
       "last_plan": {
@@ -278487,5 +278481,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:47:03.575807+00:00"
+  "updated_at": "2026-09-27T06:47:07.762741+00:00"
 }
