@@ -148363,17 +148363,19 @@
       }
     },
     "4039": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31299061",
+          "reason": "Request failed for https://sdilej.cz/31299061/vrazda.v.horach-2024-czdab.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T00:34:21.109626+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31299061",
         "display_name": "Vražda v horách (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-27T00:22:09.745381+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-1",
-        "claimed_at": "2026-09-27T00:33:35.013786+00:00",
-        "lease_expires_at": "2026-09-27T06:33:35.013786+00:00",
-        "run_id": "36279320310"
       }
     },
     "4155": {
@@ -148430,6 +148432,12 @@
         "source_id": "33880003",
         "display_name": "Šampioni (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-27T00:22:10.137200+00:00"
+      },
+      "claim": {
+        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-3",
+        "claimed_at": "2026-09-27T00:34:07.950015+00:00",
+        "lease_expires_at": "2026-09-27T06:34:07.950015+00:00",
+        "run_id": "36279320310"
       }
     },
     "30853": {
@@ -277378,5 +277386,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T00:34:01.629635+00:00"
+  "updated_at": "2026-09-27T00:34:21.109643+00:00"
 }
