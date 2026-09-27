@@ -22559,7 +22559,15 @@
       }
     },
     "18947": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34328796",
+          "target_video_id": "29751541",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:40:19.799316+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34328796",
         "display_name": "Vážený občan (2016) 1080p CZ Titulky",
@@ -22568,7 +22576,7 @@
       "previous_target_id": "29751541",
       "prepared": {
         "target_video_id": "29751541",
-        "size_bytes": 17709386834,
+        "size_bytes": 17700000000,
         "prepared_at": "2026-09-27T05:09:59.362574+00:00"
       }
     },
@@ -254837,13 +254845,6 @@
     "12970": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26014671",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:08.330112+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26014671",
           "reason": "Request failed for https://sdilej.cz/26014671/super-finta-2001-akcni-komedie-cz-dabing-1-.mp4 (HTTP None)",
@@ -254856,6 +254857,13 @@
           "target_video_id": "29751475",
           "permanent": false,
           "attempted_at": "2026-09-27T05:09:48.745734+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26014671",
+          "target_video_id": "29751475",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:40:17.972834+00:00"
         }
       ],
       "last_plan": {
@@ -254866,7 +254874,7 @@
       "previous_target_id": "29751475",
       "prepared": {
         "target_video_id": "29751475",
-        "size_bytes": 1827105961,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-27T05:04:57.503138+00:00"
       }
     },
@@ -279748,5 +279756,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:40:10.976704+00:00"
+  "updated_at": "2026-09-27T07:40:19.799332+00:00"
 }
