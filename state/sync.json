@@ -267608,13 +267608,6 @@
           "permanent": false,
           "source_id": "30760391",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:37:27.311632+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30760391",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:54:05.099202+00:00"
         },
         {
@@ -267623,18 +267616,19 @@
           "source_id": "30760391",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:59:00.136804+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30760391",
+          "reason": "Request failed for https://sdilej.cz/30760391/zitra-zemres-2012-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T01:32:42.397638+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30760391",
         "display_name": "Zítra zemřeš (2012) SD CZ Dabing",
         "planned_at": "2026-09-27T01:04:13.170407+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-1",
-        "claimed_at": "2026-09-27T01:31:56.168443+00:00",
-        "lease_expires_at": "2026-09-27T07:31:56.168443+00:00",
-        "run_id": "36279320310"
       }
     },
     "8750": {
@@ -277642,5 +277636,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T01:32:10.561700+00:00"
+  "updated_at": "2026-09-27T01:32:42.397656+00:00"
 }
