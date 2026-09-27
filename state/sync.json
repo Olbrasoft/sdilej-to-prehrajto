@@ -254936,13 +254936,6 @@
           "permanent": false,
           "source_id": "34458414",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:27.213284+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34458414",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:15.314839+00:00"
         },
         {
@@ -254951,18 +254944,19 @@
           "reason": "Request failed for https://sdilej.cz/34458414/ticha-noc-krvava-noc-silent-night-bloody-night-1972-.mkv (HTTP 521)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:43:01.751365+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34458414",
+          "target_video_id": "29751898",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:59:16.480194+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34458414",
         "display_name": "Tichá noc, krvavá noc (1972) SD CZ Dabing",
         "planned_at": "2026-09-27T05:30:12.477457+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T05:47:43.305498+00:00",
-        "lease_expires_at": "2026-09-27T11:47:43.305498+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751898",
       "prepared": {
@@ -278659,5 +278653,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:55:54.811736+00:00"
+  "updated_at": "2026-09-27T05:59:16.480211+00:00"
 }
