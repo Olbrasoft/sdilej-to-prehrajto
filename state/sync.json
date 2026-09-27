@@ -108452,6 +108452,13 @@
           "target_video_id": "29748115",
           "permanent": false,
           "attempted_at": "2026-09-27T00:25:33.922188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846248",
+          "target_video_id": "29748115",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:22.427709+00:00"
         }
       ],
       "last_plan": {
@@ -108462,14 +108469,8 @@
       "previous_target_id": "29748115",
       "prepared": {
         "target_video_id": "29748115",
-        "size_bytes": 3268243904,
+        "size_bytes": 3300000000,
         "prepared_at": "2026-09-27T00:17:29.088691+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:26:18.236658+00:00",
-        "lease_expires_at": "2026-09-27T12:26:18.236658+00:00",
-        "run_id": "36297250526"
       }
     },
     "36737": {
@@ -111742,16 +111743,10 @@
           "attempted_at": "2026-09-27T00:27:35.307171+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34756659",
-        "display_name": "Lotte am Bauhaus (2019) 1080p SK Dabing",
-        "planned_at": "2026-09-27T06:24:39.545306+00:00"
-      },
       "previous_target_id": "29748154",
-      "prepared": {
+      "upload": {
         "target_video_id": "29748154",
-        "size_bytes": 2361157117,
-        "prepared_at": "2026-09-27T00:21:37.869038+00:00"
+        "uploaded_at": "2026-09-27T06:26:24.291456+00:00"
       }
     },
     "16774": {
@@ -112651,6 +112646,12 @@
         "target_video_id": "29748187",
         "size_bytes": 1464654586,
         "prepared_at": "2026-09-27T00:24:49.016755+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:26:23.924422+00:00",
+        "lease_expires_at": "2026-09-27T12:26:23.924422+00:00",
+        "run_id": "36297250526"
       }
     },
     "17595": {
@@ -112694,6 +112695,13 @@
           "target_video_id": "29748191",
           "permanent": false,
           "attempted_at": "2026-09-27T00:27:24.050264+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29153461",
+          "target_video_id": "29748191",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:23.530925+00:00"
         }
       ],
       "last_plan": {
@@ -112704,7 +112712,7 @@
       "previous_target_id": "29748191",
       "prepared": {
         "target_video_id": "29748191",
-        "size_bytes": 834914351,
+        "size_bytes": 834900000,
         "prepared_at": "2026-09-27T00:25:09.025940+00:00"
       }
     },
@@ -112836,6 +112844,12 @@
         "source_id": "34633234",
         "display_name": "Parádně pokecal (2014) SD CZ Dabing",
         "planned_at": "2026-09-27T06:24:38.782626+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T06:26:21.749030+00:00",
+        "lease_expires_at": "2026-09-27T12:26:21.749030+00:00",
+        "run_id": "36297250526"
       }
     },
     "32791": {
@@ -278475,5 +278489,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:26:19.294772+00:00"
+  "updated_at": "2026-09-27T06:26:24.291478+00:00"
 }
