@@ -255453,13 +255453,6 @@
     "24662": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34905268",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:12.738710+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34905268",
           "reason": "Request failed for https://sdilej.cz/34905268/sestry-v-akci-2000-.mp4 (HTTP None)",
@@ -255472,18 +255465,19 @@
           "reason": "Request failed for https://sdilej.cz/34905268/sestry-v-akci-2000-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T05:46:04.983921+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34905268",
+          "target_video_id": "29753342",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:55:18.876975+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34905268",
         "display_name": "Sestry v akci (2000) 720p CZ Dabing",
         "planned_at": "2026-09-27T07:39:44.895948+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T07:46:02.022110+00:00",
-        "lease_expires_at": "2026-09-27T13:46:02.022110+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29753342",
       "prepared": {
@@ -279908,5 +279902,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:52:44.963811+00:00"
+  "updated_at": "2026-09-27T07:55:18.876991+00:00"
 }
