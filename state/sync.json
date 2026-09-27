@@ -251875,13 +251875,6 @@
           "permanent": false,
           "source_id": "34785910",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T03:08:20.456161+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34785910",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T09:08:29.994620+00:00"
         },
         {
@@ -251890,18 +251883,19 @@
           "reason": "Request failed for https://sdilej.cz/34785910/berusky-1992-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:35:47.301506+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34785910",
+          "target_video_id": "29750822",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:25:16.466904+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34785910",
         "display_name": "Berušky (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:47:31.809712+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-1",
-        "claimed_at": "2026-09-27T04:11:19.027075+00:00",
-        "lease_expires_at": "2026-09-27T10:11:19.027075+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750822",
       "prepared": {
@@ -278087,5 +278081,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:22:04.696762+00:00"
+  "updated_at": "2026-09-27T04:25:16.466920+00:00"
 }
