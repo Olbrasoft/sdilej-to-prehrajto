@@ -108464,6 +108464,12 @@
         "target_video_id": "29748115",
         "size_bytes": 3268243904,
         "prepared_at": "2026-09-27T00:17:29.088691+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:26:18.236658+00:00",
+        "lease_expires_at": "2026-09-27T12:26:18.236658+00:00",
+        "run_id": "36297250526"
       }
     },
     "36737": {
@@ -111526,6 +111532,13 @@
           "target_video_id": "29748147",
           "permanent": false,
           "attempted_at": "2026-09-27T00:25:01.756993+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24531973",
+          "target_video_id": "29748147",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:17.257670+00:00"
         }
       ],
       "last_plan": {
@@ -111536,14 +111549,8 @@
       "previous_target_id": "29748147",
       "prepared": {
         "target_video_id": "29748147",
-        "size_bytes": 1773836188,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-27T00:20:56.437041+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:26:12.640956+00:00",
-        "lease_expires_at": "2026-09-27T12:26:12.640956+00:00",
-        "run_id": "36297250526"
       }
     },
     "32032": {
@@ -112446,6 +112453,13 @@
           "target_video_id": "29748158",
           "permanent": false,
           "attempted_at": "2026-09-27T00:25:28.907825+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22069235",
+          "target_video_id": "29748158",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:18.923717+00:00"
         }
       ],
       "last_plan": {
@@ -112456,7 +112470,7 @@
       "previous_target_id": "29748158",
       "prepared": {
         "target_video_id": "29748158",
-        "size_bytes": 1405900667,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-27T00:22:27.916923+00:00"
       }
     },
@@ -112509,16 +112523,10 @@
           "attempted_at": "2026-09-27T00:25:49.040400+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24696577",
-        "display_name": "Svatá hříšnice (1970) SD CZ Dabing",
-        "planned_at": "2026-09-27T06:24:38.401178+00:00"
-      },
       "previous_target_id": "29748169",
-      "prepared": {
+      "upload": {
         "target_video_id": "29748169",
-        "size_bytes": 1024455065,
-        "prepared_at": "2026-09-27T00:23:14.008785+00:00"
+        "uploaded_at": "2026-09-27T06:26:19.294754+00:00"
       }
     },
     "12689": {
@@ -278467,5 +278475,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:26:15.153185+00:00"
+  "updated_at": "2026-09-27T06:26:19.294772+00:00"
 }
