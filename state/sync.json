@@ -19827,6 +19827,12 @@
         "target_video_id": "29733442",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-26T14:15:29.382082+00:00"
+      },
+      "claim": {
+        "worker_id": "82089cd7d6c94f37a632a6ef9abe6d6d-shard-3",
+        "claimed_at": "2026-09-27T16:21:37.660956+00:00",
+        "lease_expires_at": "2026-09-27T22:21:37.660956+00:00",
+        "run_id": "36312512013"
       }
     },
     "961": {
@@ -19843,13 +19849,6 @@
           "source_id": "11432030",
           "target_video_id": "29733443",
           "permanent": false,
-          "attempted_at": "2026-09-27T13:38:21.110035+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11432030",
-          "target_video_id": "29733443",
-          "permanent": false,
           "attempted_at": "2026-09-27T14:47:12.127364+00:00"
         },
         {
@@ -19858,6 +19857,13 @@
           "target_video_id": "29733443",
           "permanent": false,
           "attempted_at": "2026-09-27T15:40:53.414708+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11432030",
+          "target_video_id": "29733443",
+          "permanent": false,
+          "attempted_at": "2026-09-27T16:21:37.967412+00:00"
         }
       ],
       "last_plan": {
@@ -19870,12 +19876,6 @@
         "target_video_id": "29733443",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-26T14:15:38.135937+00:00"
-      },
-      "claim": {
-        "worker_id": "82089cd7d6c94f37a632a6ef9abe6d6d-shard-4",
-        "claimed_at": "2026-09-27T16:21:30.456632+00:00",
-        "lease_expires_at": "2026-09-27T22:21:30.456632+00:00",
-        "run_id": "36312512013"
       }
     },
     "865": {
@@ -112334,18 +112334,19 @@
           "reason": "Request failed for https://sdilej.cz/30161144/mstitel-2021-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T15:35:48.474676+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30161144",
+          "target_video_id": "29784844",
+          "permanent": false,
+          "attempted_at": "2026-09-27T16:21:38.302510+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30161144",
         "display_name": "Mstitel (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-27T16:14:57.071276+00:00"
-      },
-      "claim": {
-        "worker_id": "82089cd7d6c94f37a632a6ef9abe6d6d-shard-5",
-        "claimed_at": "2026-09-27T16:15:46.846096+00:00",
-        "lease_expires_at": "2026-09-27T22:15:46.846096+00:00",
-        "run_id": "36312512013"
       },
       "previous_target_id": "29784844",
       "prepared": {
@@ -282357,5 +282358,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T16:21:31.197886+00:00"
+  "updated_at": "2026-09-27T16:21:38.302529+00:00"
 }
