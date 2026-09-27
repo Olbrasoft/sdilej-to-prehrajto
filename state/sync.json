@@ -113081,13 +113081,6 @@
           "source_id": "31638827",
           "target_video_id": "29715718",
           "permanent": false,
-          "attempted_at": "2026-09-27T21:40:02.340265+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31638827",
-          "target_video_id": "29715718",
-          "permanent": false,
           "attempted_at": "2026-09-27T22:17:30.285223+00:00"
         },
         {
@@ -113096,6 +113089,13 @@
           "target_video_id": "29715718",
           "permanent": false,
           "attempted_at": "2026-09-27T22:47:49.657715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31638827",
+          "target_video_id": "29715718",
+          "permanent": false,
+          "attempted_at": "2026-09-27T23:18:08.300756+00:00"
         }
       ],
       "last_plan": {
@@ -113108,12 +113108,6 @@
         "target_video_id": "29715718",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-25T23:20:58.493861+00:00"
-      },
-      "claim": {
-        "worker_id": "b76ab4df779141f88b6e15faacecebd0-shard-2",
-        "claimed_at": "2026-09-27T23:18:01.470230+00:00",
-        "lease_expires_at": "2026-09-28T05:18:01.470230+00:00",
-        "run_id": "36348036607"
       }
     },
     "33084": {
@@ -153673,18 +153667,19 @@
           "source_id": "32858266",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-27T20:55:14.837609+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32858266",
+          "target_video_id": "29790139",
+          "permanent": false,
+          "attempted_at": "2026-09-27T23:18:08.532309+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32858266",
         "display_name": "Útok z hlubin (2018) 4K CZ Dabing",
         "planned_at": "2026-09-27T21:45:54.807964+00:00"
-      },
-      "claim": {
-        "worker_id": "b76ab4df779141f88b6e15faacecebd0-shard-4",
-        "claimed_at": "2026-09-27T21:46:17.329623+00:00",
-        "lease_expires_at": "2026-09-28T03:46:17.329623+00:00",
-        "run_id": "36348036607"
       },
       "previous_target_id": "29790139",
       "prepared": {
@@ -283711,5 +283706,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T23:18:02.344669+00:00"
+  "updated_at": "2026-09-27T23:18:08.532328+00:00"
 }
