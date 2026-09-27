@@ -270324,6 +270324,14 @@
           "permanent": false,
           "target_video_id": "29734072",
           "attempted_at": "2026-09-26T15:31:50.957460+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "35068323",
+          "target_video_id": "29734072",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-27T03:23:42.259576+00:00"
         }
       ],
       "last_plan": {
@@ -270331,7 +270339,13 @@
         "display_name": "xXx: Návrat Xandera Cage (2017) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:18:08.257842+00:00"
       },
-      "previous_target_id": "29734072"
+      "previous_target_id": "29734072",
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-2",
+        "claimed_at": "2026-09-27T03:23:41.190758+00:00",
+        "lease_expires_at": "2026-09-27T09:23:41.190758+00:00",
+        "run_id": "36279320310"
+      }
     },
     "9641": {
       "attempts": []
@@ -270488,16 +270502,10 @@
           "attempted_at": "2026-09-26T15:33:39.862954+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33249174",
-        "display_name": "Nekonečný příběh 2 (1990) 4K CZ Dabing",
-        "planned_at": "2026-09-27T03:18:09.463016+00:00"
-      },
       "previous_target_id": "29734133",
-      "prepared": {
+      "upload": {
         "target_video_id": "29734133",
-        "size_bytes": 4114163742,
-        "prepared_at": "2026-09-26T15:25:51.940416+00:00"
+        "uploaded_at": "2026-09-27T03:23:44.924683+00:00"
       }
     },
     "8692": {
@@ -270558,6 +270566,13 @@
           "target_video_id": "29734183",
           "permanent": false,
           "attempted_at": "2026-09-26T15:31:59.447486+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34943644",
+          "target_video_id": "29734183",
+          "permanent": false,
+          "attempted_at": "2026-09-27T03:23:42.754691+00:00"
         }
       ],
       "last_plan": {
@@ -270568,7 +270583,7 @@
       "previous_target_id": "29734183",
       "prepared": {
         "target_video_id": "29734183",
-        "size_bytes": 2028008980,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-26T15:28:36.832858+00:00"
       }
     },
@@ -270651,6 +270666,12 @@
         "source_id": "33797960",
         "display_name": "Vlak do pekel (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:18:09.059983+00:00"
+      },
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-2",
+        "claimed_at": "2026-09-27T03:23:43.551196+00:00",
+        "lease_expires_at": "2026-09-27T09:23:43.551196+00:00",
+        "run_id": "36279320310"
       }
     },
     "30457": {
@@ -277535,5 +277556,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T03:23:38.645389+00:00"
+  "updated_at": "2026-09-27T03:23:44.924699+00:00"
 }
