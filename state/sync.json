@@ -255234,13 +255234,6 @@
           "permanent": false,
           "source_id": "34915250",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:54:01.766064+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34915250",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:17.943342+00:00"
         },
         {
@@ -255249,18 +255242,19 @@
           "reason": "Request failed for https://sdilej.cz/34915250/alex-a-emma-2003-.mp4 (HTTP 521)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:43:19.477263+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34915250",
+          "target_video_id": "29752003",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:04:44.822836+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34915250",
         "display_name": "Alex a Emma (2003) 720p CZ Dabing",
         "planned_at": "2026-09-27T05:30:13.860240+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T05:59:37.258647+00:00",
-        "lease_expires_at": "2026-09-27T11:59:37.258647+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29752003",
       "prepared": {
@@ -278679,5 +278673,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:00:10.558791+00:00"
+  "updated_at": "2026-09-27T06:04:44.822852+00:00"
 }
