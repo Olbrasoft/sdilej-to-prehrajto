@@ -267287,13 +267287,6 @@
           "permanent": false,
           "source_id": "22342885",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:37:25.830224+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22342885",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:54:02.596397+00:00"
         },
         {
@@ -267302,18 +267295,19 @@
           "source_id": "22342885",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:57.285981+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22342885",
+          "target_video_id": "29748839",
+          "permanent": false,
+          "attempted_at": "2026-09-27T01:30:36.125660+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22342885",
         "display_name": "Reset (2009) SD CZ Dabing",
         "planned_at": "2026-09-27T01:04:08.523405+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-5",
-        "claimed_at": "2026-09-27T01:27:50.845572+00:00",
-        "lease_expires_at": "2026-09-27T07:27:50.845572+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29748839",
       "prepared": {
@@ -277630,5 +277624,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T01:30:28.768768+00:00"
+  "updated_at": "2026-09-27T01:30:36.125676+00:00"
 }
