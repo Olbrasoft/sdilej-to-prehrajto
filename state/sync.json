@@ -259866,13 +259866,6 @@
           "permanent": false,
           "source_id": "11075225",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:25:23.795948+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11075225",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:56.421057+00:00"
         },
         {
@@ -259881,6 +259874,13 @@
           "target_video_id": "29741448",
           "permanent": false,
           "attempted_at": "2026-09-26T20:52:08.714421+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11075225",
+          "target_video_id": "29741448",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:07:04.107408+00:00"
         }
       ],
       "last_plan": {
@@ -259891,7 +259891,7 @@
       "previous_target_id": "29741448",
       "prepared": {
         "target_video_id": "29741448",
-        "size_bytes": 1915860751,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-26T20:46:26.690567+00:00"
       }
     },
@@ -259932,6 +259932,12 @@
         "target_video_id": "29741040",
         "size_bytes": 9827616245,
         "prepared_at": "2026-09-26T20:20:12.872469+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:07:03.259466+00:00",
+        "lease_expires_at": "2026-09-27T12:07:03.259466+00:00",
+        "run_id": "36297250526"
       }
     },
     "13589": {
@@ -260147,16 +260153,10 @@
           "attempted_at": "2026-09-26T20:55:44.485085+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11751042",
-        "display_name": "Šťastné a veselé (2014) SD CZ Dabing",
-        "planned_at": "2026-09-27T06:05:48.851601+00:00"
-      },
       "previous_target_id": "29741535",
-      "prepared": {
+      "upload": {
         "target_video_id": "29741535",
-        "size_bytes": 1133309952,
-        "prepared_at": "2026-09-26T20:52:29.978090+00:00"
+        "uploaded_at": "2026-09-27T06:07:04.944535+00:00"
       }
     },
     "15557": {
@@ -260237,6 +260237,12 @@
         "target_video_id": "29741566",
         "size_bytes": 8857077994,
         "prepared_at": "2026-09-26T20:55:57.956157+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:07:04.497706+00:00",
+        "lease_expires_at": "2026-09-27T12:07:04.497706+00:00",
+        "run_id": "36297250526"
       }
     },
     "7458": {
@@ -278487,5 +278493,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:07:00.086891+00:00"
+  "updated_at": "2026-09-27T06:07:04.944557+00:00"
 }
