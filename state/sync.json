@@ -258141,6 +258141,12 @@
         "target_video_id": "29738514",
         "size_bytes": 2434948991,
         "prepared_at": "2026-09-26T18:20:57.453572+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:06:17.371162+00:00",
+        "lease_expires_at": "2026-09-27T12:06:17.371162+00:00",
+        "run_id": "36297250526"
       }
     },
     "7549": {
@@ -258353,13 +258359,6 @@
           "permanent": false,
           "source_id": "23191798",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:24:56.239485+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23191798",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:04.701545+00:00"
         },
         {
@@ -258368,6 +258367,13 @@
           "target_video_id": "29738636",
           "permanent": false,
           "attempted_at": "2026-09-26T18:27:17.384788+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23191798",
+          "target_video_id": "29738636",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:06:17.006032+00:00"
         }
       ],
       "last_plan": {
@@ -258378,14 +258384,8 @@
       "previous_target_id": "29738636",
       "prepared": {
         "target_video_id": "29738636",
-        "size_bytes": 1916838514,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-26T18:22:12.651204+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:06:14.371323+00:00",
-        "lease_expires_at": "2026-09-27T12:06:14.371323+00:00",
-        "run_id": "36297250526"
       }
     },
     "13399": {
@@ -258541,22 +258541,10 @@
           "attempted_at": "2026-09-26T18:25:57.325539+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34716591",
-        "display_name": "Wunderland (2018) SD CZ Titulky",
-        "planned_at": "2026-09-27T06:05:37.555596+00:00"
-      },
       "previous_target_id": "29738759",
-      "prepared": {
+      "upload": {
         "target_video_id": "29738759",
-        "size_bytes": 868194617,
-        "prepared_at": "2026-09-26T18:23:31.873800+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:06:14.021036+00:00",
-        "lease_expires_at": "2026-09-27T12:06:14.021036+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:06:18.058968+00:00"
       }
     },
     "25247": {
@@ -259014,6 +259002,12 @@
         "target_video_id": "29739172",
         "size_bytes": 975392636,
         "prepared_at": "2026-09-26T18:27:59.171625+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:06:17.722775+00:00",
+        "lease_expires_at": "2026-09-27T12:06:17.722775+00:00",
+        "run_id": "36297250526"
       }
     },
     "7706": {
@@ -278589,5 +278583,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:06:14.718836+00:00"
+  "updated_at": "2026-09-27T06:06:18.058987+00:00"
 }
