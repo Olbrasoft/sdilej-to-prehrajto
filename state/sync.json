@@ -251070,13 +251070,6 @@
     "7180": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34158835",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:49:51.089879+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34158835",
           "reason": "Request failed for https://sdilej.cz/34158835/kosmonaut-z-cech-2024-sci-fi-drama-adam-sandler-czdab.uhdr.mkv (HTTP None)",
@@ -251089,6 +251082,13 @@
           "target_video_id": "29750600",
           "permanent": false,
           "attempted_at": "2026-09-27T04:05:26.952076+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34158835",
+          "target_video_id": "29750600",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:26:41.706187+00:00"
         }
       ],
       "last_plan": {
@@ -251099,7 +251099,7 @@
       "previous_target_id": "29750600",
       "prepared": {
         "target_video_id": "29750600",
-        "size_bytes": 5325230040,
+        "size_bytes": 5300000000,
         "prepared_at": "2026-09-27T03:51:11.295534+00:00"
       }
     },
@@ -251113,13 +251113,6 @@
     "31696": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31182645",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:49:52.074652+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31182645",
           "reason": "Request failed for https://sdilej.cz/31182645/otcim-iii-stepfather-iii-1992-.mkv (HTTP 522)",
@@ -251132,6 +251125,13 @@
           "target_video_id": "29750615",
           "permanent": false,
           "attempted_at": "2026-09-27T04:03:46.889256+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31182645",
+          "target_video_id": "29750615",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:26:40.004539+00:00"
         }
       ],
       "last_plan": {
@@ -251142,7 +251142,7 @@
       "previous_target_id": "29750615",
       "prepared": {
         "target_video_id": "29750615",
-        "size_bytes": 4208108513,
+        "size_bytes": 4200000000,
         "prepared_at": "2026-09-27T03:52:04.304546+00:00"
       }
     },
@@ -251207,13 +251207,6 @@
     "7560": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23112071",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:49:53.026712+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "23112071",
           "reason": "Request failed for https://sdilej.cz/23112071/studio-666-2022-cz-dabing.mp4 (HTTP 522)",
@@ -251226,6 +251219,13 @@
           "target_video_id": "29750609",
           "permanent": false,
           "attempted_at": "2026-09-27T03:59:25.566385+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23112071",
+          "target_video_id": "29750609",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:26:37.489698+00:00"
         }
       ],
       "last_plan": {
@@ -251236,7 +251236,7 @@
       "previous_target_id": "29750609",
       "prepared": {
         "target_video_id": "29750609",
-        "size_bytes": 2620069204,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-09-27T03:51:43.457908+00:00"
       }
     },
@@ -251657,6 +251657,12 @@
         "source_id": "30697427",
         "display_name": "Nažhavená (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:18:06.805437+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T07:26:42.073916+00:00",
+        "lease_expires_at": "2026-09-27T13:26:42.073916+00:00",
+        "run_id": "36297250526"
       }
     },
     "20400": {
@@ -276338,18 +276344,19 @@
           "reason": "Request failed for https://sdilej.cz/11755829/quantum-apokalypsa.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T03:51:00.829643+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11755829",
+          "target_video_id": "29753075",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:27:13.663346+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11755829",
         "display_name": "Quantum Apokalypsa (2010) SD CZ Dabing",
         "planned_at": "2026-09-27T07:17:57.172658+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T07:24:16.721373+00:00",
-        "lease_expires_at": "2026-09-27T13:24:16.721373+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29753075",
       "prepared": {
@@ -279762,5 +279769,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:26:33.839573+00:00"
+  "updated_at": "2026-09-27T07:27:13.663362+00:00"
 }
