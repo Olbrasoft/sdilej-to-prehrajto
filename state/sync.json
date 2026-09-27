@@ -259500,22 +259500,10 @@
           "attempted_at": "2026-09-26T19:15:33.980456+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32394741",
-        "display_name": "Teror na palubě (2009) SD CZ Dabing",
-        "planned_at": "2026-09-27T06:05:45.123123+00:00"
-      },
       "previous_target_id": "29740462",
-      "prepared": {
+      "upload": {
         "target_video_id": "29740462",
-        "size_bytes": 924178432,
-        "prepared_at": "2026-09-26T19:13:02.210176+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:06:46.046432+00:00",
-        "lease_expires_at": "2026-09-27T12:06:46.046432+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:06:49.636674+00:00"
       }
     },
     "26156": {
@@ -259539,13 +259527,6 @@
           "permanent": false,
           "source_id": "33745585",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:25:17.298149+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33745585",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:23.969092+00:00"
         },
         {
@@ -259554,6 +259535,13 @@
           "target_video_id": "29740482",
           "permanent": false,
           "attempted_at": "2026-09-26T19:23:54.959370+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745585",
+          "target_video_id": "29740482",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:06:48.938487+00:00"
         }
       ],
       "last_plan": {
@@ -259564,14 +259552,8 @@
       "previous_target_id": "29740482",
       "prepared": {
         "target_video_id": "29740482",
-        "size_bytes": 2901957204,
+        "size_bytes": 2900000000,
         "prepared_at": "2026-09-26T19:15:46.485234+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:06:46.387819+00:00",
-        "lease_expires_at": "2026-09-27T12:06:46.387819+00:00",
-        "run_id": "36297250526"
       }
     },
     "16535": {
@@ -259614,6 +259596,12 @@
         "target_video_id": "29740555",
         "size_bytes": 3130718611,
         "prepared_at": "2026-09-26T19:24:09.368963+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:06:49.266737+00:00",
+        "lease_expires_at": "2026-09-27T12:06:49.266737+00:00",
+        "run_id": "36297250526"
       }
     },
     "7662": {
@@ -278523,5 +278511,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:06:46.752600+00:00"
+  "updated_at": "2026-09-27T06:06:49.636691+00:00"
 }
