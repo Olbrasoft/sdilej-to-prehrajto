@@ -253582,13 +253582,6 @@
     "7312": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26812512",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:34:59.533901+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26812512",
           "reason": "Request failed for https://sdilej.cz/26812512/paranormal-activity-2-2010-cz-fhd-h265-deadinside.mkv (HTTP 522)",
@@ -253601,6 +253594,13 @@
           "target_video_id": "29751155",
           "permanent": false,
           "attempted_at": "2026-09-27T04:47:40.279592+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26812512",
+          "target_video_id": "29751155",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:37:36.447754+00:00"
         }
       ],
       "last_plan": {
@@ -253611,7 +253611,7 @@
       "previous_target_id": "29751155",
       "prepared": {
         "target_video_id": "29751155",
-        "size_bytes": 2523904547,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-09-27T04:40:51.541176+00:00"
       }
     },
@@ -253853,6 +253853,18 @@
         "source_id": "34705703",
         "display_name": "Výlet do Paříže (1999) SD CZ Dabing",
         "planned_at": "2026-09-27T07:27:59.080091+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-2",
+        "claimed_at": "2026-09-27T07:37:36.840087+00:00",
+        "lease_expires_at": "2026-09-27T13:37:36.840087+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29753238",
+      "prepared": {
+        "target_video_id": "29753238",
+        "size_bytes": 774900586,
+        "prepared_at": "2026-09-27T07:37:40.679630+00:00"
       }
     },
     "19243": {
@@ -279781,5 +279793,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:37:32.204235+00:00"
+  "updated_at": "2026-09-27T07:37:40.679645+00:00"
 }
