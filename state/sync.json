@@ -252731,13 +252731,6 @@
           "permanent": false,
           "source_id": "26812512",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:16:21.246658+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26812512",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:59.533901+00:00"
         },
         {
@@ -252746,18 +252739,19 @@
           "reason": "Request failed for https://sdilej.cz/26812512/paranormal-activity-2-2010-cz-fhd-h265-deadinside.mkv (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:39:08.072891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26812512",
+          "target_video_id": "29751155",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:47:40.279592+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26812512",
         "display_name": "Paranormal Activity 2 (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-27T04:14:06.983140+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-5",
-        "claimed_at": "2026-09-27T04:40:47.180759+00:00",
-        "lease_expires_at": "2026-09-27T10:40:47.180759+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751155",
       "prepared": {
@@ -278226,5 +278220,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:45:25.792877+00:00"
+  "updated_at": "2026-09-27T04:47:40.279609+00:00"
 }
