@@ -66374,6 +66374,18 @@
         "source_id": "33732341",
         "display_name": "Něco divokého (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-27T08:00:54.036768+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-2",
+        "claimed_at": "2026-09-27T08:03:12.314973+00:00",
+        "lease_expires_at": "2026-09-27T14:03:12.314973+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29753574",
+      "prepared": {
+        "target_video_id": "29753574",
+        "size_bytes": 2715732884,
+        "prepared_at": "2026-09-27T08:03:15.777139+00:00"
       }
     },
     "23668": {
@@ -269532,13 +269544,6 @@
     "23616": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30442259",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:59:03.616553+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30442259",
           "target_video_id": "29749053",
@@ -269551,6 +269556,13 @@
           "target_video_id": "29749053",
           "permanent": false,
           "attempted_at": "2026-09-27T06:43:41.346010+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30442259",
+          "target_video_id": "29749053",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:03:11.886285+00:00"
         }
       ],
       "last_plan": {
@@ -280019,5 +280031,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T08:03:03.218080+00:00"
+  "updated_at": "2026-09-27T08:03:15.777156+00:00"
 }
