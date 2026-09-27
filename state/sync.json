@@ -267687,16 +267687,10 @@
           "attempted_at": "2026-09-27T06:46:26.509941+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32111430",
-        "display_name": "Mutronics (1991) 4K CZ Dabing",
-        "planned_at": "2026-09-27T08:00:56.861497+00:00"
-      },
       "previous_target_id": "29752357",
-      "prepared": {
+      "upload": {
         "target_video_id": "29752357",
-        "size_bytes": 4528105895,
-        "prepared_at": "2026-09-27T06:35:04.501372+00:00"
+        "uploaded_at": "2026-09-27T08:10:45.546056+00:00"
       }
     },
     "13768": {
@@ -269228,13 +269222,6 @@
     "15358": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30760391",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:59:00.136804+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30760391",
           "reason": "Request failed for https://sdilej.cz/30760391/zitra-zemres-2012-cz.avi (HTTP None)",
@@ -269247,6 +269234,13 @@
           "target_video_id": "29752463",
           "permanent": false,
           "attempted_at": "2026-09-27T06:45:53.422915+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30760391",
+          "target_video_id": "29752463",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:10:43.622214+00:00"
         }
       ],
       "last_plan": {
@@ -269257,7 +269251,7 @@
       "previous_target_id": "29752463",
       "prepared": {
         "target_video_id": "29752463",
-        "size_bytes": 1428921806,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-27T06:42:24.032643+00:00"
       }
     },
@@ -280052,5 +280046,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T08:10:39.739498+00:00"
+  "updated_at": "2026-09-27T08:10:45.546072+00:00"
 }
