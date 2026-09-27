@@ -266605,13 +266605,6 @@
           "permanent": false,
           "source_id": "7419503",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:28:18.707450+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "7419503",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:38:02.210387+00:00"
         },
         {
@@ -266620,18 +266613,19 @@
           "reason": "Request failed for https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T01:04:08.994338+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "7419503",
+          "reason": "Request failed for https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:35:50.021768+00:00"
         }
       ],
       "last_plan": {
         "source_id": "7419503",
         "display_name": "Dead Awake (2016) 1080p CZ Titulky",
         "planned_at": "2026-09-27T06:34:34.828689+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T06:35:02.572813+00:00",
-        "lease_expires_at": "2026-09-27T12:35:02.572813+00:00",
-        "run_id": "36297250526"
       }
     },
     "24629": {
@@ -278513,5 +278507,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:35:47.699631+00:00"
+  "updated_at": "2026-09-27T06:35:50.021787+00:00"
 }
