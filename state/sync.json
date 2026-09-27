@@ -255187,13 +255187,6 @@
           "permanent": false,
           "source_id": "34737763",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:32.808622+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34737763",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:15.885973+00:00"
         },
         {
@@ -255202,18 +255195,19 @@
           "reason": "Request failed for https://sdilej.cz/34737763/internet-famous-2016-cz-titulky.mp4 (HTTP 521)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:43:08.838240+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34737763",
+          "target_video_id": "29751947",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:55:48.922889+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34737763",
         "display_name": "Internet Famous (2016) SD CZ Titulky",
         "planned_at": "2026-09-27T05:30:13.030150+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T05:53:20.690165+00:00",
-        "lease_expires_at": "2026-09-27T11:53:20.690165+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751947",
       "prepared": {
@@ -278653,5 +278647,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:53:24.512127+00:00"
+  "updated_at": "2026-09-27T05:55:48.922912+00:00"
 }
