@@ -266448,13 +266448,6 @@
           "permanent": false,
           "source_id": "26312919",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:19:14.201719+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26312919",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:28:25.280663+00:00"
         },
         {
@@ -266463,18 +266456,19 @@
           "source_id": "26312919",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:38:08.690570+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26312919",
+          "target_video_id": "29748641",
+          "permanent": false,
+          "attempted_at": "2026-09-27T01:43:17.057665+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26312919",
         "display_name": "Ripper Untold (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-27T01:04:03.120405+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-2",
-        "claimed_at": "2026-09-27T01:09:41.216948+00:00",
-        "lease_expires_at": "2026-09-27T07:09:41.216948+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29748641",
       "prepared": {
@@ -277660,5 +277654,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T01:39:13.553656+00:00"
+  "updated_at": "2026-09-27T01:43:17.057683+00:00"
 }
