@@ -260825,13 +260825,6 @@
           "permanent": false,
           "source_id": "33774042",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:34.772033+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33774042",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:04.761572+00:00"
         },
         {
@@ -260840,6 +260833,13 @@
           "target_video_id": "29746902",
           "permanent": false,
           "attempted_at": "2026-09-26T22:45:13.328698+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33774042",
+          "target_video_id": "29746902",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:07:54.346163+00:00"
         }
       ],
       "last_plan": {
@@ -260850,14 +260850,8 @@
       "previous_target_id": "29746902",
       "prepared": {
         "target_video_id": "29746902",
-        "size_bytes": 1997871616,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-09-26T22:38:28.045197+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:07:51.632304+00:00",
-        "lease_expires_at": "2026-09-27T12:07:51.632304+00:00",
-        "run_id": "36297250526"
       }
     },
     "10424": {
@@ -260913,16 +260907,10 @@
           "attempted_at": "2026-09-26T22:52:20.404767+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30151642",
-        "display_name": "Přežít Vánoce (2004) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:07:25.448867+00:00"
-      },
       "previous_target_id": "29746999",
-      "prepared": {
+      "upload": {
         "target_video_id": "29746999",
-        "size_bytes": 2269880827,
-        "prepared_at": "2026-09-26T22:45:30.158927+00:00"
+        "uploaded_at": "2026-09-27T06:07:56.572736+00:00"
       }
     },
     "23804": {
@@ -261958,13 +261946,6 @@
           "permanent": false,
           "source_id": "33724112",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:41.759668+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33724112",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:05.634943+00:00"
         },
         {
@@ -261973,6 +261954,13 @@
           "target_video_id": "29747096",
           "permanent": false,
           "attempted_at": "2026-09-26T22:59:05.395715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33724112",
+          "target_video_id": "29747096",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:07:56.123399+00:00"
         }
       ],
       "last_plan": {
@@ -261983,7 +261971,7 @@
       "previous_target_id": "29747096",
       "prepared": {
         "target_video_id": "29747096",
-        "size_bytes": 2298130646,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-09-26T22:52:38.187529+00:00"
       }
     },
@@ -278445,5 +278433,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:07:51.939736+00:00"
+  "updated_at": "2026-09-27T06:07:56.572752+00:00"
 }
