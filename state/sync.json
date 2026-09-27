@@ -253604,13 +253604,6 @@
     "23375": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25062055",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:02.616238+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25062055",
           "reason": "Request failed for https://sdilej.cz/25062055/tata-lump-1993-cz.avi (HTTP 520)",
@@ -253623,6 +253616,13 @@
           "target_video_id": "29751303",
           "permanent": false,
           "attempted_at": "2026-09-27T04:55:08.347488+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25062055",
+          "target_video_id": "29751303",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:39:12.504827+00:00"
         }
       ],
       "last_plan": {
@@ -253633,14 +253633,8 @@
       "previous_target_id": "29751303",
       "prepared": {
         "target_video_id": "29751303",
-        "size_bytes": 999496188,
+        "size_bytes": 999500000,
         "prepared_at": "2026-09-27T04:52:33.221716+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T07:39:08.528048+00:00",
-        "lease_expires_at": "2026-09-27T13:39:08.528048+00:00",
-        "run_id": "36297250526"
       }
     },
     "35423": {
@@ -254067,16 +254061,10 @@
           "attempted_at": "2026-09-27T04:56:40.323385+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34899608",
-        "display_name": "Breakin' 2: Electric Boogaloo (1984) SD CZ Dabing",
-        "planned_at": "2026-09-27T07:28:02.962773+00:00"
-      },
       "previous_target_id": "29751322",
-      "prepared": {
+      "upload": {
         "target_video_id": "29751322",
-        "size_bytes": 880607985,
-        "prepared_at": "2026-09-27T04:54:04.036933+00:00"
+        "uploaded_at": "2026-09-27T07:39:14.227348+00:00"
       }
     },
     "8305": {
@@ -254150,6 +254138,12 @@
         "target_video_id": "29751304",
         "size_bytes": 1263469612,
         "prepared_at": "2026-09-27T04:52:35.610753+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T07:39:13.250147+00:00",
+        "lease_expires_at": "2026-09-27T13:39:13.250147+00:00",
+        "run_id": "36297250526"
       }
     },
     "20739": {
@@ -279757,5 +279751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:39:10.312661+00:00"
+  "updated_at": "2026-09-27T07:39:14.227365+00:00"
 }
