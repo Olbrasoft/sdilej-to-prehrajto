@@ -250955,13 +250955,6 @@
           "permanent": false,
           "source_id": "34013293",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:51:33.765667+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34013293",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:52:09.033601+00:00"
         },
         {
@@ -250970,18 +250963,19 @@
           "reason": "Request failed for https://sdilej.cz/34013293/zlaticka-pro-kazdeho-2001-fhd-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:29:43.210543+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34013293",
+          "target_video_id": "29750774",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:12:10.877060+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34013293",
         "display_name": "Zlatíčka pro každého (2001) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:47:27.729608+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T04:06:27.681915+00:00",
-        "lease_expires_at": "2026-09-27T10:06:27.681915+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750774",
       "prepared": {
@@ -277949,5 +277943,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:11:23.179490+00:00"
+  "updated_at": "2026-09-27T04:12:10.877121+00:00"
 }
