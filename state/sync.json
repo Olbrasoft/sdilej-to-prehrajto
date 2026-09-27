@@ -22730,17 +22730,19 @@
       }
     },
     "1192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12561906",
+          "target_video_id": "29751815",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:31.045869+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12561906",
         "display_name": "Válka o planetu opic (2017) 4K CZ Dabing",
         "planned_at": "2026-09-27T05:30:10.194256+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T05:37:23.166948+00:00",
-        "lease_expires_at": "2026-09-27T11:37:23.166948+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751815",
       "prepared": {
@@ -114251,6 +114253,12 @@
         "target_video_id": "29748221",
         "size_bytes": 884218673,
         "prepared_at": "2026-09-27T00:27:41.564682+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:26:30.696692+00:00",
+        "lease_expires_at": "2026-09-27T12:26:30.696692+00:00",
+        "run_id": "36297250526"
       }
     },
     "33854": {
@@ -278483,5 +278491,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:26:28.664009+00:00"
+  "updated_at": "2026-09-27T06:26:31.045886+00:00"
 }
