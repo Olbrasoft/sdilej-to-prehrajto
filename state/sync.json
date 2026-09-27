@@ -22283,6 +22283,14 @@
           "permanent": false,
           "target_video_id": "29753146",
           "attempted_at": "2026-09-27T07:40:10.976680+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "27480235",
+          "target_video_id": "29753146",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-27T09:09:25.739469+00:00"
         }
       ],
       "last_plan": {
@@ -22290,7 +22298,13 @@
         "display_name": "Ledové království (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-27T09:03:45.517035+00:00"
       },
-      "previous_target_id": "29753146"
+      "previous_target_id": "29753146",
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-2",
+        "claimed_at": "2026-09-27T09:09:24.293364+00:00",
+        "lease_expires_at": "2026-09-27T15:09:24.293364+00:00",
+        "run_id": "36297250526"
+      }
     },
     "1261": {
       "attempts": [
@@ -22567,6 +22581,18 @@
         "source_id": "27441829",
         "display_name": "John Wick 3 (2019) 4K CZ Dabing",
         "planned_at": "2026-09-27T09:03:47.326904+00:00"
+      },
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-4",
+        "claimed_at": "2026-09-27T09:09:29.150948+00:00",
+        "lease_expires_at": "2026-09-27T15:09:29.150948+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29754940",
+      "prepared": {
+        "target_video_id": "29754940",
+        "size_bytes": 4968976393,
+        "prepared_at": "2026-09-27T09:09:33.633447+00:00"
       }
     },
     "1136": {
@@ -22602,6 +22628,13 @@
           "target_video_id": "29751541",
           "permanent": false,
           "attempted_at": "2026-09-27T07:40:19.799316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34328796",
+          "target_video_id": "29751541",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:27.646006+00:00"
         }
       ],
       "last_plan": {
@@ -22689,6 +22722,12 @@
         "source_id": "14020496",
         "display_name": "Správní chlapi (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-27T09:03:48.034356+00:00"
+      },
+      "claim": {
+        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-2",
+        "claimed_at": "2026-09-27T09:09:32.139949+00:00",
+        "lease_expires_at": "2026-09-27T15:09:32.139949+00:00",
+        "run_id": "36297250526"
       }
     },
     "11735": {
@@ -22728,6 +22767,13 @@
           "target_video_id": "29751638",
           "permanent": false,
           "attempted_at": "2026-09-27T07:40:39.460586+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33765772",
+          "target_video_id": "29751638",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:29.713266+00:00"
         }
       ],
       "last_plan": {
@@ -22753,6 +22799,13 @@
           "target_video_id": "29751649",
           "permanent": false,
           "attempted_at": "2026-09-27T07:41:00.801872+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32919314",
+          "target_video_id": "29751649",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:31.757750+00:00"
         }
       ],
       "last_plan": {
@@ -253233,13 +253286,6 @@
           "source_id": "34968169",
           "target_video_id": "29736280",
           "permanent": false,
-          "attempted_at": "2026-09-26T17:42:01.203541+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34968169",
-          "target_video_id": "29736280",
-          "permanent": false,
           "attempted_at": "2026-09-27T05:08:17.579145+00:00"
         },
         {
@@ -253248,6 +253294,13 @@
           "target_video_id": "29736280",
           "permanent": false,
           "attempted_at": "2026-09-27T07:40:07.854666+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34968169",
+          "target_video_id": "29736280",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:23.884235+00:00"
         }
       ],
       "last_plan": {
@@ -254767,13 +254820,6 @@
     "19414": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32864932",
-          "reason": "Request failed for https://sdilej.cz/32864932/drop-zone-zona-uniku-1994-2160p-hdr-cz-dabing-en-dts-hd.mkv (HTTP 522)",
-          "permanent": false,
-          "attempted_at": "2026-09-26T17:39:42.351942+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32864932",
           "target_video_id": "29751264",
@@ -254786,6 +254832,13 @@
           "target_video_id": "29751264",
           "permanent": false,
           "attempted_at": "2026-09-27T07:40:27.564222+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32864932",
+          "target_video_id": "29751264",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:28.661633+00:00"
         }
       ],
       "last_plan": {
@@ -255415,13 +255468,6 @@
     "23664": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29999440",
-          "reason": "Request failed for https://sdilej.cz/29999440/pinocchiova-dobrodruzstvi-cely-film-hd.mp4 (HTTP 522)",
-          "permanent": false,
-          "attempted_at": "2026-09-26T17:41:01.770766+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29999440",
           "target_video_id": "29751357",
@@ -255434,6 +255480,13 @@
           "target_video_id": "29751357",
           "permanent": false,
           "attempted_at": "2026-09-27T07:39:29.833889+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29999440",
+          "target_video_id": "29751357",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:22.066969+00:00"
         }
       ],
       "last_plan": {
@@ -255446,12 +255499,6 @@
         "target_video_id": "29751357",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-27T04:56:51.447051+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-2",
-        "claimed_at": "2026-09-27T09:09:19.193861+00:00",
-        "lease_expires_at": "2026-09-27T15:09:19.193861+00:00",
-        "run_id": "36297250526"
       }
     },
     "7408": {
@@ -255642,13 +255689,6 @@
     "12970": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26014671",
-          "reason": "Request failed for https://sdilej.cz/26014671/super-finta-2001-akcni-komedie-cz-dabing-1-.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-26T17:41:56.433777+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26014671",
           "target_video_id": "29751475",
@@ -255661,6 +255701,13 @@
           "target_video_id": "29751475",
           "permanent": false,
           "attempted_at": "2026-09-27T07:40:17.972834+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26014671",
+          "target_video_id": "29751475",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:26.729102+00:00"
         }
       ],
       "last_plan": {
@@ -255746,13 +255793,6 @@
     "24334": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34347758",
-          "reason": "Request failed for https://sdilej.cz/34347758/texas-rangers-2001-akcni-western-usa-cztit.hd.mkv (HTTP 522)",
-          "permanent": false,
-          "attempted_at": "2026-09-26T17:41:29.517381+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34347758",
           "target_video_id": "29751439",
@@ -255765,6 +255805,13 @@
           "target_video_id": "29751439",
           "permanent": false,
           "attempted_at": "2026-09-27T07:40:04.586761+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34347758",
+          "target_video_id": "29751439",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:09:24.848394+00:00"
         }
       ],
       "last_plan": {
@@ -280519,5 +280566,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T09:09:19.768469+00:00"
+  "updated_at": "2026-09-27T09:09:33.633461+00:00"
 }
