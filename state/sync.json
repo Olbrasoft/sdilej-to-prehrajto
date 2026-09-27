@@ -131523,18 +131523,19 @@
           "reason": "Request failed for https://sdilej.cz/32871501/jen-17-2013-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T08:12:41.058872+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32871501",
+          "reason": "Request failed for https://sdilej.cz/32871501/jen-17-2013-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:24:59.789630+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32871501",
         "display_name": "Jen 17 (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-27T09:23:44.014781+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-0",
-        "claimed_at": "2026-09-27T09:24:09.454271+00:00",
-        "lease_expires_at": "2026-09-27T15:24:09.454271+00:00",
-        "run_id": "36297250526"
       }
     },
     "15913": {
@@ -248181,13 +248182,6 @@
           "source_id": "32453010",
           "target_video_id": "29720616",
           "permanent": false,
-          "attempted_at": "2026-09-27T02:07:53.219578+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32453010",
-          "target_video_id": "29720616",
-          "permanent": false,
           "attempted_at": "2026-09-27T06:48:19.080848+00:00"
         },
         {
@@ -248196,6 +248190,13 @@
           "target_video_id": "29720616",
           "permanent": false,
           "attempted_at": "2026-09-27T08:13:41.482924+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32453010",
+          "target_video_id": "29720616",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:24:59.469809+00:00"
         }
       ],
       "last_plan": {
@@ -248208,12 +248209,6 @@
         "target_video_id": "29720616",
         "size_bytes": 17300000000,
         "prepared_at": "2026-09-26T04:34:29.058781+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-4",
-        "claimed_at": "2026-09-27T09:24:53.989254+00:00",
-        "lease_expires_at": "2026-09-27T15:24:53.989254+00:00",
-        "run_id": "36297250526"
       }
     },
     "8913": {
@@ -280635,5 +280630,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T09:24:54.354935+00:00"
+  "updated_at": "2026-09-27T09:24:59.789650+00:00"
 }
