@@ -252382,13 +252382,6 @@
           "permanent": false,
           "source_id": "31604948",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:52.130623+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31604948",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:26.796551+00:00"
         },
         {
@@ -252397,18 +252390,19 @@
           "reason": "Request failed for https://sdilej.cz/31604948/bloodshot-2020-akcni-sci-fi-usa-vin-diesel-czdab-1080p.mkv (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:37:45.165163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31604948",
+          "target_video_id": "29751106",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:24:34.789095+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31604948",
         "display_name": "Bloodshot (2020) 4K CZ Dabing",
         "planned_at": "2026-09-27T04:14:04.052816+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-3",
-        "claimed_at": "2026-09-27T04:36:19.534276+00:00",
-        "lease_expires_at": "2026-09-27T10:36:19.534276+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751106",
       "prepared": {
@@ -278475,5 +278469,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:21:08.382942+00:00"
+  "updated_at": "2026-09-27T05:24:34.789111+00:00"
 }
