@@ -251620,13 +251620,6 @@
     "9202": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30697427",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:52:08.060140+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30697427",
           "reason": "Request failed for https://sdilej.cz/30697427/nazhavena-2022-cz-dabing-1080p.mp4 (HTTP None)",
@@ -251639,18 +251632,19 @@
           "reason": "Request failed for https://sdilej.cz/30697427/nazhavena-2022-cz-dabing-1080p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T04:06:20.933973+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30697427",
+          "reason": "Request failed for https://sdilej.cz/30697427/nazhavena-2022-cz-dabing-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:27:30.278825+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30697427",
         "display_name": "Nažhavená (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:18:06.805437+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T07:26:42.073916+00:00",
-        "lease_expires_at": "2026-09-27T13:26:42.073916+00:00",
-        "run_id": "36297250526"
       }
     },
     "20400": {
@@ -279757,5 +279751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:27:25.002045+00:00"
+  "updated_at": "2026-09-27T07:27:30.278844+00:00"
 }
