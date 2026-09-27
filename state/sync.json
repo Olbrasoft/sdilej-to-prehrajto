@@ -131345,17 +131345,19 @@
       "attempts": []
     },
     "20260": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32871501",
+          "reason": "Request failed for https://sdilej.cz/32871501/jen-17-2013-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:12:41.058872+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32871501",
         "display_name": "Jen 17 (2013) 1080p CZ Dabing",
         "planned_at": "2026-09-27T08:11:36.745115+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-4",
-        "claimed_at": "2026-09-27T08:11:55.207017+00:00",
-        "lease_expires_at": "2026-09-27T14:11:55.207017+00:00",
-        "run_id": "36297250526"
       }
     },
     "15913": {
@@ -280098,5 +280100,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T08:12:37.432225+00:00"
+  "updated_at": "2026-09-27T08:12:41.058892+00:00"
 }
