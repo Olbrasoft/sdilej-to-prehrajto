@@ -19753,13 +19753,6 @@
     "17803": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "26245291",
-          "target_video_id": "29732933",
-          "permanent": false,
-          "attempted_at": "2026-09-27T17:05:05.840860+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26245291",
@@ -19772,6 +19765,13 @@
           "source_id": "26245291",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-27T19:38:00.931950+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26245291",
+          "target_video_id": "29732933",
+          "permanent": false,
+          "attempted_at": "2026-09-27T20:36:17.124590+00:00"
         }
       ],
       "last_plan": {
@@ -266448,7 +266448,7 @@
       "last_plan": {
         "source_id": "29622328",
         "display_name": "Willyho kouzelný svět (2021) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T19:29:30.006198+00:00"
+        "planned_at": "2026-09-27T20:36:16.793922+00:00"
       },
       "previous_target_id": "29749866",
       "prepared": {
@@ -267627,7 +267627,7 @@
       "last_plan": {
         "source_id": "31203577",
         "display_name": "Satan přichází (2006) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T19:29:29.728497+00:00"
+        "planned_at": "2026-09-27T20:36:16.453651+00:00"
       },
       "previous_target_id": "29732926",
       "prepared": {
@@ -267764,6 +267764,12 @@
         "target_video_id": "29732988",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-26T13:38:19.373597+00:00"
+      },
+      "claim": {
+        "worker_id": "0d0583b82e4a4a7b807d93205da9d710-shard-4",
+        "claimed_at": "2026-09-27T20:36:15.915441+00:00",
+        "lease_expires_at": "2026-09-28T02:36:15.915441+00:00",
+        "run_id": "36340937027"
       }
     },
     "18103": {
@@ -283328,5 +283334,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T20:36:13.505406+00:00"
+  "updated_at": "2026-09-27T20:36:17.124606+00:00"
 }
