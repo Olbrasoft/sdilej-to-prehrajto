@@ -254614,6 +254614,12 @@
         "target_video_id": "29736377",
         "size_bytes": 2157704204,
         "prepared_at": "2026-09-26T17:42:46.545669+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:04:54.364814+00:00",
+        "lease_expires_at": "2026-09-27T12:04:54.364814+00:00",
+        "run_id": "36297250526"
       }
     },
     "18730": {
@@ -254802,13 +254808,6 @@
           "permanent": false,
           "source_id": "34900594",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:23.984980+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34900594",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:12.457850+00:00"
         },
         {
@@ -254817,6 +254816,13 @@
           "target_video_id": "29736376",
           "permanent": false,
           "attempted_at": "2026-09-26T17:45:28.735748+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34900594",
+          "target_video_id": "29736376",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:04:54.038755+00:00"
         }
       ],
       "last_plan": {
@@ -254827,7 +254833,7 @@
       "previous_target_id": "29736376",
       "prepared": {
         "target_video_id": "29736376",
-        "size_bytes": 1351959814,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-26T17:42:44.339020+00:00"
       }
     },
@@ -255016,13 +255022,6 @@
           "permanent": false,
           "source_id": "34670741",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:29.469774+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34670741",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:16.126278+00:00"
         },
         {
@@ -255031,18 +255030,19 @@
           "reason": "Request failed for https://sdilej.cz/34670741/akademie-pana-kanky-2023-cz-dabing.mp4 (HTTP 521)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:43:12.370276+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34670741",
+          "target_video_id": "29751969",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:04:54.721685+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34670741",
         "display_name": "Akademie pana Kaňky (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-27T05:30:13.307205+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T05:55:51.199260+00:00",
-        "lease_expires_at": "2026-09-27T11:55:51.199260+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751969",
       "prepared": {
@@ -255482,6 +255482,12 @@
         "source_id": "34726934",
         "display_name": "Out of the Blue (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-27T05:30:14.413941+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:04:52.922071+00:00",
+        "lease_expires_at": "2026-09-27T12:04:52.922071+00:00",
+        "run_id": "36297250526"
       }
     },
     "12179": {
@@ -278667,5 +278673,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:04:50.394010+00:00"
+  "updated_at": "2026-09-27T06:04:54.721707+00:00"
 }
