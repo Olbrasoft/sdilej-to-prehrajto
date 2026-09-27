@@ -266384,13 +266384,6 @@
     "8137": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29566014",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:37:14.527675+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29566014",
           "reason": "Request failed for https://sdilej.cz/29566014/panenky-na-uteku-2024-cz-dab.mp4 (HTTP None)",
@@ -266403,6 +266396,14 @@
           "target_video_id": "29752283",
           "permanent": false,
           "attempted_at": "2026-09-27T06:34:24.117624+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29566014",
+          "target_video_id": "29752283",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:58:40.116822+00:00"
         }
       ],
       "last_plan": {
@@ -266410,18 +266411,7 @@
         "display_name": "Panenky na útěku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:55:45.009435+00:00"
       },
-      "previous_target_id": "29752283",
-      "prepared": {
-        "target_video_id": "29752283",
-        "size_bytes": 2201145817,
-        "prepared_at": "2026-09-27T06:27:49.607930+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-2",
-        "claimed_at": "2026-09-27T07:58:35.398266+00:00",
-        "lease_expires_at": "2026-09-27T13:58:35.398266+00:00",
-        "run_id": "36297250526"
-      }
+      "previous_target_id": "29752283"
     },
     "36693": {
       "attempts": []
@@ -279996,5 +279986,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:58:37.763716+00:00"
+  "updated_at": "2026-09-27T07:58:40.116841+00:00"
 }
