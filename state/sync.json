@@ -259905,13 +259905,6 @@
           "permanent": false,
           "source_id": "34472088",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:25.407974+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34472088",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:56.188323+00:00"
         },
         {
@@ -259920,6 +259913,13 @@
           "target_video_id": "29741040",
           "permanent": false,
           "attempted_at": "2026-09-26T20:45:46.393177+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34472088",
+          "target_video_id": "29741040",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:07:07.174168+00:00"
         }
       ],
       "last_plan": {
@@ -259930,14 +259930,8 @@
       "previous_target_id": "29741040",
       "prepared": {
         "target_video_id": "29741040",
-        "size_bytes": 9827616245,
+        "size_bytes": 9800000000,
         "prepared_at": "2026-09-26T20:20:12.872469+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:07:03.259466+00:00",
-        "lease_expires_at": "2026-09-27T12:07:03.259466+00:00",
-        "run_id": "36297250526"
       }
     },
     "13589": {
@@ -260114,6 +260108,12 @@
         "target_video_id": "29741833",
         "size_bytes": 2661594093,
         "prepared_at": "2026-09-26T21:21:01.897940+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:07:07.525956+00:00",
+        "lease_expires_at": "2026-09-27T12:07:07.525956+00:00",
+        "run_id": "36297250526"
       }
     },
     "27962": {
@@ -260227,22 +260227,10 @@
           "attempted_at": "2026-09-26T21:20:47.502055+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26576099",
-        "display_name": "Savage Salvation (2022) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:05:49.163924+00:00"
-      },
       "previous_target_id": "29741566",
-      "prepared": {
+      "upload": {
         "target_video_id": "29741566",
-        "size_bytes": 8857077994,
-        "prepared_at": "2026-09-26T20:55:57.956157+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:07:04.497706+00:00",
-        "lease_expires_at": "2026-09-27T12:07:04.497706+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:07:08.209484+00:00"
       }
     },
     "7458": {
@@ -260285,6 +260273,12 @@
         "target_video_id": "29741921",
         "size_bytes": 3956502197,
         "prepared_at": "2026-09-26T21:28:27.806889+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:07:07.870534+00:00",
+        "lease_expires_at": "2026-09-27T12:07:07.870534+00:00",
+        "run_id": "36297250526"
       }
     },
     "25753": {
@@ -278493,5 +278487,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:07:04.944557+00:00"
+  "updated_at": "2026-09-27T06:07:08.209502+00:00"
 }
