@@ -252525,13 +252525,6 @@
     "11581": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33743524",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:34:23.765347+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "33743524",
           "reason": "Request failed for https://sdilej.cz/33743524/pro-jedno-kousnuti-1985-1080p-cz.mp4 (HTTP None)",
@@ -252544,6 +252537,13 @@
           "target_video_id": "29751081",
           "permanent": false,
           "attempted_at": "2026-09-27T04:39:56.381394+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33743524",
+          "target_video_id": "29751081",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:35:20.708989+00:00"
         }
       ],
       "last_plan": {
@@ -252554,7 +252554,7 @@
       "previous_target_id": "29751081",
       "prepared": {
         "target_video_id": "29751081",
-        "size_bytes": 2221911666,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-09-27T04:34:07.058497+00:00"
       }
     },
@@ -252644,16 +252644,10 @@
           "attempted_at": "2026-09-27T04:40:24.205608+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31568457",
-        "display_name": "Policajt na útěku (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T07:27:56.384670+00:00"
-      },
       "previous_target_id": "29751080",
-      "prepared": {
+      "upload": {
         "target_video_id": "29751080",
-        "size_bytes": 2274354529,
-        "prepared_at": "2026-09-27T04:34:00.843813+00:00"
+        "uploaded_at": "2026-09-27T07:35:22.620782+00:00"
       }
     },
     "30005": {
@@ -279786,5 +279780,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:35:16.665914+00:00"
+  "updated_at": "2026-09-27T07:35:22.620799+00:00"
 }
