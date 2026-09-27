@@ -267693,13 +267693,6 @@
           "permanent": false,
           "source_id": "10807215",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:00.679125+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "10807215",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:56.110149+00:00"
         },
         {
@@ -267708,6 +267701,13 @@
           "target_video_id": "29748797",
           "permanent": false,
           "attempted_at": "2026-09-27T01:27:48.372515+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10807215",
+          "target_video_id": "29748797",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:41:55.957469+00:00"
         }
       ],
       "last_plan": {
@@ -267718,7 +267718,7 @@
       "previous_target_id": "29748797",
       "prepared": {
         "target_video_id": "29748797",
-        "size_bytes": 1215721402,
+        "size_bytes": 1200000000,
         "prepared_at": "2026-09-27T01:24:45.569965+00:00"
       }
     },
@@ -267761,16 +267761,10 @@
           "attempted_at": "2026-09-27T01:28:41.304119+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35027400",
-        "display_name": "Bleed (2016) SD CZ Titulky",
-        "planned_at": "2026-09-27T06:34:40.709842+00:00"
-      },
       "previous_target_id": "29748826",
-      "prepared": {
+      "upload": {
         "target_video_id": "29748826",
-        "size_bytes": 802165094,
-        "prepared_at": "2026-09-27T01:26:48.678512+00:00"
+        "uploaded_at": "2026-09-27T06:41:57.987962+00:00"
       }
     },
     "16734": {
@@ -278489,5 +278483,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:41:51.867293+00:00"
+  "updated_at": "2026-09-27T06:41:57.987974+00:00"
 }
