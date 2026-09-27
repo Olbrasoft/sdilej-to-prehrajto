@@ -29317,7 +29317,13 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-14T10:31:03.370582+00:00"
       },
-      "previous_target_id": "29376069"
+      "previous_target_id": "29376069",
+      "claim": {
+        "worker_id": "da0c1bae099b4ff3b5860f05b2cd0eb1-shard-0",
+        "claimed_at": "2026-09-27T17:26:45.835563+00:00",
+        "lease_expires_at": "2026-09-27T23:26:45.835563+00:00",
+        "run_id": "36333355646"
+      }
     },
     "1448": {
       "attempts": []
@@ -29643,13 +29649,6 @@
           "source_id": "28393777",
           "target_video_id": "29128092",
           "permanent": false,
-          "attempted_at": "2026-09-27T15:20:43.025641+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28393777",
-          "target_video_id": "29128092",
-          "permanent": false,
           "attempted_at": "2026-09-27T16:05:45.887293+00:00"
         },
         {
@@ -29658,6 +29657,13 @@
           "target_video_id": "29128092",
           "permanent": false,
           "attempted_at": "2026-09-27T16:52:10.343927+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28393777",
+          "target_video_id": "29128092",
+          "permanent": false,
+          "attempted_at": "2026-09-27T17:26:46.131149+00:00"
         }
       ],
       "last_plan": {
@@ -29670,13 +29676,7 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
       },
-      "previous_target_id": "29128092",
-      "claim": {
-        "worker_id": "da0c1bae099b4ff3b5860f05b2cd0eb1-shard-5",
-        "claimed_at": "2026-09-27T17:26:43.132804+00:00",
-        "lease_expires_at": "2026-09-27T23:26:43.132804+00:00",
-        "run_id": "36333355646"
-      }
+      "previous_target_id": "29128092"
     },
     "32926": {
       "attempts": [
@@ -137749,18 +137749,19 @@
           "reason": "Request failed for https://sdilej.cz/30987607/all.ultimo.sangue-pohrbete.je.hluboko.1968.ita.eng.ger.cze.1080p.brrip.x265.aac.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T16:42:02.760743+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30987607",
+          "target_video_id": "29785949",
+          "permanent": false,
+          "attempted_at": "2026-09-27T17:26:46.783059+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30987607",
         "display_name": "Pohřběte je hluboko (1968) 1080p CZ Dabing",
         "planned_at": "2026-09-27T17:20:22.324271+00:00"
-      },
-      "claim": {
-        "worker_id": "da0c1bae099b4ff3b5860f05b2cd0eb1-shard-4",
-        "claimed_at": "2026-09-27T17:20:39.323401+00:00",
-        "lease_expires_at": "2026-09-27T23:20:39.323401+00:00",
-        "run_id": "36333355646"
       },
       "previous_target_id": "29785949",
       "prepared": {
@@ -141248,6 +141249,12 @@
         "target_video_id": "29785396",
         "size_bytes": 2626352408,
         "prepared_at": "2026-09-27T16:44:26.781608+00:00"
+      },
+      "claim": {
+        "worker_id": "da0c1bae099b4ff3b5860f05b2cd0eb1-shard-1",
+        "claimed_at": "2026-09-27T17:26:46.460284+00:00",
+        "lease_expires_at": "2026-09-27T23:26:46.460284+00:00",
+        "run_id": "36333355646"
       }
     },
     "26572": {
@@ -282859,5 +282866,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T17:26:43.442366+00:00"
+  "updated_at": "2026-09-27T17:26:46.783078+00:00"
 }
