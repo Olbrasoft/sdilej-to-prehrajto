@@ -249998,13 +249998,6 @@
           "permanent": false,
           "source_id": "34023919",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:29.836097+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34023919",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:17.939052+00:00"
         },
         {
@@ -250013,18 +250006,19 @@
           "reason": "Request failed for https://sdilej.cz/34023919/laska-na-cerno-1997-usa-komedie-romanticky.mp4 (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:36:06.467302+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34023919",
+          "target_video_id": "29750835",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:14:22.056840+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34023919",
         "display_name": "Láska na černo (1997) SD CZ Dabing",
         "planned_at": "2026-09-27T03:47:32.177621+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T04:12:13.420148+00:00",
-        "lease_expires_at": "2026-09-27T10:12:13.420148+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750835",
       "prepared": {
@@ -278011,5 +278005,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:14:19.337489+00:00"
+  "updated_at": "2026-09-27T04:14:22.056855+00:00"
 }
