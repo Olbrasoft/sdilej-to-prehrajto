@@ -106083,17 +106083,19 @@
       }
     },
     "16202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "8903387",
+          "reason": "Request failed for https://sdilej.cz/8903387/piknik-cz-film.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T00:06:41.108634+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8903387",
         "display_name": "Piknik (2014) SD CZ Dabing",
         "planned_at": "2026-09-26T23:39:01.235532+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-0",
-        "claimed_at": "2026-09-27T00:05:55.080318+00:00",
-        "lease_expires_at": "2026-09-27T06:05:55.080318+00:00",
-        "run_id": "36279320310"
       }
     },
     "31813": {
@@ -276793,5 +276795,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T00:05:58.849974+00:00"
+  "updated_at": "2026-09-27T00:06:41.108650+00:00"
 }
