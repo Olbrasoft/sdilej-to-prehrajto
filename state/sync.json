@@ -112739,6 +112739,12 @@
         "target_video_id": "29748197",
         "size_bytes": 2295615220,
         "prepared_at": "2026-09-27T00:25:36.633503+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T06:26:34.210502+00:00",
+        "lease_expires_at": "2026-09-27T12:26:34.210502+00:00",
+        "run_id": "36297250526"
       }
     },
     "34798": {
@@ -114241,6 +114247,13 @@
           "target_video_id": "29748221",
           "permanent": false,
           "attempted_at": "2026-09-27T00:30:07.699282+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29279355",
+          "target_video_id": "29748221",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:26:33.251199+00:00"
         }
       ],
       "last_plan": {
@@ -114251,14 +114264,8 @@
       "previous_target_id": "29748221",
       "prepared": {
         "target_video_id": "29748221",
-        "size_bytes": 884218673,
+        "size_bytes": 884200000,
         "prepared_at": "2026-09-27T00:27:41.564682+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:26:30.696692+00:00",
-        "lease_expires_at": "2026-09-27T12:26:30.696692+00:00",
-        "run_id": "36297250526"
       }
     },
     "33854": {
@@ -138811,16 +138818,10 @@
           "attempted_at": "2026-09-27T00:32:19.402725+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34780100",
-        "display_name": "Fighting Fish (2012) SD CZ Titulky",
-        "planned_at": "2026-09-27T06:24:41.036398+00:00"
-      },
       "previous_target_id": "29748235",
-      "prepared": {
+      "upload": {
         "target_video_id": "29748235",
-        "size_bytes": 1008830312,
-        "prepared_at": "2026-09-27T00:28:50.238676+00:00"
+        "uploaded_at": "2026-09-27T06:26:34.997910+00:00"
       }
     },
     "9978": {
@@ -138958,6 +138959,12 @@
         "source_id": "34724782",
         "display_name": "Simona Kossak (2024) 1080p CZ Titulky",
         "planned_at": "2026-09-27T06:24:41.410512+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:26:33.900508+00:00",
+        "lease_expires_at": "2026-09-27T12:26:33.900508+00:00",
+        "run_id": "36297250526"
       }
     },
     "24370": {
@@ -278491,5 +278498,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:26:31.045886+00:00"
+  "updated_at": "2026-09-27T06:26:34.997921+00:00"
 }
