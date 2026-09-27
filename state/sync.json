@@ -253268,13 +253268,6 @@
           "permanent": false,
           "source_id": "32864932",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:04.361672+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32864932",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:02.337179+00:00"
         },
         {
@@ -253283,18 +253276,19 @@
           "reason": "Request failed for https://sdilej.cz/32864932/drop-zone-zona-uniku-1994-2160p-hdr-cz-dabing-en-dts-hd.mkv (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:39:42.351942+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32864932",
+          "target_video_id": "29751264",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:19:56.123480+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32864932",
         "display_name": "Zóna úniku (1994) 4K CZ Dabing",
         "planned_at": "2026-09-27T04:14:09.245251+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-1",
-        "claimed_at": "2026-09-27T04:49:29.732588+00:00",
-        "lease_expires_at": "2026-09-27T10:49:29.732588+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751264",
       "prepared": {
@@ -278447,5 +278441,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:14:50.341933+00:00"
+  "updated_at": "2026-09-27T05:19:56.123497+00:00"
 }
