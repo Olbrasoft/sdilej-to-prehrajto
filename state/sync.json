@@ -251951,16 +251951,10 @@
           "attempted_at": "2026-09-27T04:38:02.417583+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33077519",
-        "display_name": "Hledání zmizelých (2010) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T07:27:54.968830+00:00"
-      },
       "previous_target_id": "29751055",
-      "prepared": {
+      "upload": {
         "target_video_id": "29751055",
-        "size_bytes": 2384522408,
-        "prepared_at": "2026-09-27T04:31:32.253191+00:00"
+        "uploaded_at": "2026-09-27T07:35:12.891931+00:00"
       }
     },
     "20225": {
@@ -252690,13 +252684,6 @@
     "20233": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6293529",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:34:25.731887+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "6293529",
           "reason": "Request failed for https://sdilej.cz/6293529/viral-2016-titulky.cz.mkv (HTTP 522)",
@@ -252709,6 +252696,13 @@
           "target_video_id": "29751079",
           "permanent": false,
           "attempted_at": "2026-09-27T04:37:49.043098+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6293529",
+          "target_video_id": "29751079",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:35:11.001718+00:00"
         }
       ],
       "last_plan": {
@@ -252719,7 +252713,7 @@
       "previous_target_id": "29751079",
       "prepared": {
         "target_video_id": "29751079",
-        "size_bytes": 1418687198,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-27T04:33:58.532841+00:00"
       }
     },
@@ -279798,5 +279792,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:35:03.233166+00:00"
+  "updated_at": "2026-09-27T07:35:12.891949+00:00"
 }
