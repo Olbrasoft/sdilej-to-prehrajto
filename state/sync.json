@@ -22395,6 +22395,14 @@
           "reason": "Request failed for https://sdilej.cz/31222996/john-wick-2-2017-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T04:26:09.070495+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "31222996",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29753150",
+          "attempted_at": "2026-09-27T07:49:52.642207+00:00"
         }
       ],
       "last_plan": {
@@ -22402,18 +22410,7 @@
         "display_name": "John Wick 2 (2017) 4K CZ Dabing",
         "planned_at": "2026-09-27T07:27:49.559542+00:00"
       },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T07:30:22.049108+00:00",
-        "lease_expires_at": "2026-09-27T13:30:22.049108+00:00",
-        "run_id": "36297250526"
-      },
-      "previous_target_id": "29753150",
-      "prepared": {
-        "target_video_id": "29753150",
-        "size_bytes": 5787336834,
-        "prepared_at": "2026-09-27T07:30:26.401268+00:00"
-      }
+      "previous_target_id": "29753150"
     },
     "1252": {
       "attempts": [
@@ -279827,5 +279824,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:49:50.381684+00:00"
+  "updated_at": "2026-09-27T07:49:52.642224+00:00"
 }
