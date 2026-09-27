@@ -256163,13 +256163,6 @@
     "19870": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34726934",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:18.456671+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34726934",
           "reason": "Request failed for https://sdilej.cz/34726934/out-of-the-blue-2022-cz-titulky.mp4 (HTTP 521)",
@@ -256182,18 +256175,19 @@
           "reason": "Request failed for https://sdilej.cz/34726934/out-of-the-blue-2022-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T06:05:38.872696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34726934",
+          "target_video_id": "29753390",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:57:12.964350+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34726934",
         "display_name": "Out of the Blue (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-27T07:50:32.361906+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T07:51:02.831446+00:00",
-        "lease_expires_at": "2026-09-27T13:51:02.831446+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29753390",
       "prepared": {
@@ -279935,5 +279929,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:56:02.825105+00:00"
+  "updated_at": "2026-09-27T07:57:12.964367+00:00"
 }
