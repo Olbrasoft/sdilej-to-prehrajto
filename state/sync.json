@@ -264637,13 +264637,6 @@
           "permanent": false,
           "source_id": "11138331",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:48.016130+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11138331",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:12.224121+00:00"
         },
         {
@@ -264652,6 +264645,13 @@
           "target_video_id": "29748313",
           "permanent": false,
           "attempted_at": "2026-09-27T00:42:59.921079+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11138331",
+          "target_video_id": "29748313",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:27:45.950241+00:00"
         }
       ],
       "last_plan": {
@@ -264662,7 +264662,7 @@
       "previous_target_id": "29748313",
       "prepared": {
         "target_video_id": "29748313",
-        "size_bytes": 2137247095,
+        "size_bytes": 2100000000,
         "prepared_at": "2026-09-27T00:37:35.188105+00:00"
       }
     },
@@ -265335,6 +265335,18 @@
         "source_id": "29566014",
         "display_name": "Panenky na útěku (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-27T06:24:46.890483+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:27:46.302227+00:00",
+        "lease_expires_at": "2026-09-27T12:27:46.302227+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29752283",
+      "prepared": {
+        "target_video_id": "29752283",
+        "size_bytes": 2201145817,
+        "prepared_at": "2026-09-27T06:27:49.607930+00:00"
       }
     },
     "36693": {
@@ -278495,5 +278507,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:27:42.414794+00:00"
+  "updated_at": "2026-09-27T06:27:49.607946+00:00"
 }
