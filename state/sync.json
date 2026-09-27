@@ -98015,13 +98015,6 @@
           "source_id": "34469451",
           "target_video_id": "29140603",
           "permanent": false,
-          "attempted_at": "2026-09-27T14:38:14.133183+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34469451",
-          "target_video_id": "29140603",
-          "permanent": false,
           "attempted_at": "2026-09-27T15:28:27.476135+00:00"
         },
         {
@@ -98030,6 +98023,13 @@
           "target_video_id": "29140603",
           "permanent": false,
           "attempted_at": "2026-09-27T16:14:23.757915+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34469451",
+          "target_video_id": "29140603",
+          "permanent": false,
+          "attempted_at": "2026-09-27T16:57:09.315132+00:00"
         }
       ],
       "last_plan": {
@@ -98042,13 +98042,7 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T20:27:19.517750+00:00"
       },
-      "previous_target_id": "29140603",
-      "claim": {
-        "worker_id": "5656f809b16d4ba284d8af0814f982b5-shard-0",
-        "claimed_at": "2026-09-27T16:57:04.741655+00:00",
-        "lease_expires_at": "2026-09-27T22:57:04.741655+00:00",
-        "run_id": "36312512013"
-      }
+      "previous_target_id": "29140603"
     },
     "33951": {
       "attempts": [
@@ -141939,17 +141933,19 @@
       }
     },
     "9978": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34884382",
+          "target_video_id": "29785403",
+          "permanent": false,
+          "attempted_at": "2026-09-27T16:57:09.598616+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34884382",
         "display_name": "Šťastný nový rok 2: Dobro došli (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-27T16:41:00.684377+00:00"
-      },
-      "claim": {
-        "worker_id": "5656f809b16d4ba284d8af0814f982b5-shard-4",
-        "claimed_at": "2026-09-27T16:44:46.882474+00:00",
-        "lease_expires_at": "2026-09-27T22:44:46.882474+00:00",
-        "run_id": "36312512013"
       },
       "previous_target_id": "29785403",
       "prepared": {
@@ -282696,5 +282692,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T16:57:06.766689+00:00"
+  "updated_at": "2026-09-27T16:57:09.598633+00:00"
 }
