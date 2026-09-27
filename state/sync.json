@@ -260630,13 +260630,6 @@
           "permanent": false,
           "source_id": "14495850",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:31.146201+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14495850",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:02.426617+00:00"
         },
         {
@@ -260645,18 +260638,19 @@
           "reason": "Source detail has no authenticated download link; source_id=14495850",
           "permanent": false,
           "attempted_at": "2026-09-26T22:09:04.727667+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14495850",
+          "target_video_id": "29752089",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:18:11.660641+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14495850",
         "display_name": "Černá studna (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-27T06:07:23.392288+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T06:07:40.190108+00:00",
-        "lease_expires_at": "2026-09-27T12:07:40.190108+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29752089",
       "prepared": {
@@ -278445,5 +278439,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:17:44.881022+00:00"
+  "updated_at": "2026-09-27T06:18:11.660659+00:00"
 }
