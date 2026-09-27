@@ -66279,6 +66279,13 @@
           "target_video_id": "29749127",
           "permanent": false,
           "attempted_at": "2026-09-27T06:44:38.607520+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35128744",
+          "target_video_id": "29749127",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:09:39.257974+00:00"
         }
       ],
       "last_plan": {
@@ -66556,6 +66563,13 @@
           "target_video_id": "29749152",
           "permanent": false,
           "attempted_at": "2026-09-27T06:44:30.506348+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12613955",
+          "target_video_id": "29749152",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:09:35.742395+00:00"
         }
       ],
       "last_plan": {
@@ -67040,6 +67054,13 @@
           "target_video_id": "29749173",
           "permanent": false,
           "attempted_at": "2026-09-27T06:44:47.147901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29531403",
+          "target_video_id": "29749173",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:09:41.028027+00:00"
         }
       ],
       "last_plan": {
@@ -103898,6 +103919,18 @@
         "source_id": "28760419",
         "display_name": "Lítost (1970) SD CZ Dabing",
         "planned_at": "2026-09-27T08:00:56.060557+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
+        "claimed_at": "2026-09-27T08:09:41.403242+00:00",
+        "lease_expires_at": "2026-09-27T14:09:41.403242+00:00",
+        "run_id": "36297250526"
+      },
+      "previous_target_id": "29753724",
+      "prepared": {
+        "target_video_id": "29753724",
+        "size_bytes": 1071174944,
+        "prepared_at": "2026-09-27T08:09:44.936319+00:00"
       }
     },
     "24309": {
@@ -267309,13 +267342,6 @@
     "15068": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30119182",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:37:57.302241+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30119182",
           "reason": "Request failed for https://sdilej.cz/30119182/zoufalci.mp4 (HTTP None)",
@@ -267328,6 +267354,13 @@
           "target_video_id": "29752350",
           "permanent": false,
           "attempted_at": "2026-09-27T06:44:34.452372+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30119182",
+          "target_video_id": "29752350",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:09:37.552115+00:00"
         }
       ],
       "last_plan": {
@@ -267338,7 +267371,7 @@
       "previous_target_id": "29752350",
       "prepared": {
         "target_video_id": "29752350",
-        "size_bytes": 3850610154,
+        "size_bytes": 3900000000,
         "prepared_at": "2026-09-27T06:34:31.372288+00:00"
       }
     },
@@ -280025,5 +280058,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T08:09:24.109024+00:00"
+  "updated_at": "2026-09-27T08:09:44.936335+00:00"
 }
