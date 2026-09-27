@@ -138843,6 +138843,12 @@
         "target_video_id": "29748253",
         "size_bytes": 2564556467,
         "prepared_at": "2026-09-27T00:30:18.360798+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:27:32.539025+00:00",
+        "lease_expires_at": "2026-09-27T12:27:32.539025+00:00",
+        "run_id": "36297250526"
       }
     },
     "16190": {
@@ -262610,6 +262616,12 @@
         "claimed_at": "2026-09-27T06:27:28.088696+00:00",
         "lease_expires_at": "2026-09-27T12:27:28.088696+00:00",
         "run_id": "36297250526"
+      },
+      "previous_target_id": "29752282",
+      "prepared": {
+        "target_video_id": "29752282",
+        "size_bytes": 2507463589,
+        "prepared_at": "2026-09-27T06:27:33.115908+00:00"
       }
     },
     "26779": {
@@ -264353,13 +264365,6 @@
           "permanent": false,
           "source_id": "34821078",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:45.279911+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34821078",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:09.820604+00:00"
         },
         {
@@ -264368,6 +264373,13 @@
           "target_video_id": "29748290",
           "permanent": false,
           "attempted_at": "2026-09-27T00:37:26.722613+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34821078",
+          "target_video_id": "29748290",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:27:32.196429+00:00"
         }
       ],
       "last_plan": {
@@ -264378,7 +264390,7 @@
       "previous_target_id": "29748290",
       "prepared": {
         "target_video_id": "29748290",
-        "size_bytes": 1091073675,
+        "size_bytes": 1100000000,
         "prepared_at": "2026-09-27T00:34:53.020968+00:00"
       }
     },
@@ -278507,5 +278519,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:27:28.433411+00:00"
+  "updated_at": "2026-09-27T06:27:33.115921+00:00"
 }
