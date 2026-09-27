@@ -266201,13 +266201,6 @@
           "permanent": false,
           "source_id": "30119182",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:28:13.204704+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30119182",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:57.302241+00:00"
         },
         {
@@ -266216,18 +266209,19 @@
           "reason": "Request failed for https://sdilej.cz/30119182/zoufalci.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T00:58:28.602629+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30119182",
+          "target_video_id": "29752350",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:44:34.452372+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30119182",
         "display_name": "Zoufalky (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-27T06:24:50.745887+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:34:26.959243+00:00",
-        "lease_expires_at": "2026-09-27T12:34:26.959243+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29752350",
       "prepared": {
@@ -278451,5 +278445,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:44:32.270131+00:00"
+  "updated_at": "2026-09-27T06:44:34.452389+00:00"
 }
