@@ -22990,6 +22990,13 @@
           "target_video_id": "29751805",
           "permanent": false,
           "attempted_at": "2026-09-27T05:59:34.987860+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32362833",
+          "target_video_id": "29751805",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:49:57.215979+00:00"
         }
       ],
       "last_plan": {
@@ -23000,7 +23007,7 @@
       "previous_target_id": "29751805",
       "prepared": {
         "target_video_id": "29751805",
-        "size_bytes": 8627666972,
+        "size_bytes": 8600000000,
         "prepared_at": "2026-09-27T05:35:47.721162+00:00"
       }
     },
@@ -255541,13 +255548,6 @@
     "32008": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34458414",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:15.314839+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34458414",
           "reason": "Request failed for https://sdilej.cz/34458414/ticha-noc-krvava-noc-silent-night-bloody-night-1972-.mkv (HTTP 521)",
@@ -255560,6 +255560,13 @@
           "target_video_id": "29751898",
           "permanent": false,
           "attempted_at": "2026-09-27T05:59:16.480194+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34458414",
+          "target_video_id": "29751898",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:49:56.311076+00:00"
         }
       ],
       "last_plan": {
@@ -255570,7 +255577,7 @@
       "previous_target_id": "29751898",
       "prepared": {
         "target_video_id": "29751898",
-        "size_bytes": 4101094164,
+        "size_bytes": 4099999999,
         "prepared_at": "2026-09-27T05:47:46.587331+00:00"
       }
     },
@@ -255796,6 +255803,12 @@
         "source_id": "32107662",
         "display_name": "Dávné rituály (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-27T07:39:47.324832+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-2",
+        "claimed_at": "2026-09-27T07:49:56.685321+00:00",
+        "lease_expires_at": "2026-09-27T13:49:56.685321+00:00",
+        "run_id": "36297250526"
       }
     },
     "7809": {
@@ -255837,13 +255850,6 @@
     "24902": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34915250",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:17.943342+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34915250",
           "reason": "Request failed for https://sdilej.cz/34915250/alex-a-emma-2003-.mp4 (HTTP 521)",
@@ -255856,6 +255862,13 @@
           "target_video_id": "29752003",
           "permanent": false,
           "attempted_at": "2026-09-27T06:04:44.822836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34915250",
+          "target_video_id": "29752003",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:49:59.118869+00:00"
         }
       ],
       "last_plan": {
@@ -255866,7 +255879,7 @@
       "previous_target_id": "29752003",
       "prepared": {
         "target_video_id": "29752003",
-        "size_bytes": 1809550717,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-27T05:59:40.519492+00:00"
       }
     },
@@ -255901,16 +255914,10 @@
           "attempted_at": "2026-09-27T06:04:50.393993+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34713607",
-        "display_name": "Lovecký úplněk (2020) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T07:39:48.022829+00:00"
-      },
       "previous_target_id": "29752007",
-      "prepared": {
+      "upload": {
         "target_video_id": "29752007",
-        "size_bytes": 1694799558,
-        "prepared_at": "2026-09-27T06:00:10.558776+00:00"
+        "uploaded_at": "2026-09-27T07:50:01.378512+00:00"
       }
     },
     "34916": {
@@ -279824,5 +279831,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:49:52.642224+00:00"
+  "updated_at": "2026-09-27T07:50:01.378548+00:00"
 }
