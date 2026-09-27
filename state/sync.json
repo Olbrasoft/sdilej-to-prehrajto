@@ -250062,13 +250062,6 @@
           "permanent": false,
           "source_id": "34158835",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T02:43:48.406341+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34158835",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T08:49:51.089879+00:00"
         },
         {
@@ -250077,18 +250070,19 @@
           "reason": "Request failed for https://sdilej.cz/34158835/kosmonaut-z-cech-2024-sci-fi-drama-adam-sandler-czdab.uhdr.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:27:43.558493+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34158835",
+          "target_video_id": "29750600",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:05:26.952076+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34158835",
         "display_name": "Kosmonaut z Čech (2024) 4K CZ Dabing",
         "planned_at": "2026-09-27T03:47:24.455797+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
-        "claimed_at": "2026-09-27T03:51:07.051341+00:00",
-        "lease_expires_at": "2026-09-27T09:51:07.051341+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750600",
       "prepared": {
@@ -277898,5 +277892,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:04:01.205672+00:00"
+  "updated_at": "2026-09-27T04:05:26.952094+00:00"
 }
