@@ -254981,13 +254981,6 @@
           "permanent": false,
           "source_id": "31269155",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:28.306744+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31269155",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:15.034307+00:00"
         },
         {
@@ -254996,18 +254989,19 @@
           "reason": "Request failed for https://sdilej.cz/31269155/s-at-na-lasku-2022-romant.komedie-nizozemsko-czdab-1080p.mkv (HTTP 521)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:42:58.148804+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31269155",
+          "target_video_id": "29751889",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:52:30.345925+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31269155",
         "display_name": "S*át na lásku (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-27T05:30:12.199663+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
-        "claimed_at": "2026-09-27T05:46:07.201257+00:00",
-        "lease_expires_at": "2026-09-27T11:46:07.201257+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751889",
       "prepared": {
@@ -278647,5 +278641,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:47:46.587346+00:00"
+  "updated_at": "2026-09-27T05:52:30.345942+00:00"
 }
