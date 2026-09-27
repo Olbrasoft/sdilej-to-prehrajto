@@ -82768,7 +82768,13 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-09-11T03:46:35.374983+00:00"
       },
-      "previous_target_id": "29290054"
+      "previous_target_id": "29290054",
+      "claim": {
+        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-0",
+        "claimed_at": "2026-09-27T02:28:47.240995+00:00",
+        "lease_expires_at": "2026-09-27T08:28:47.240995+00:00",
+        "run_id": "36279320310"
+      }
     },
     "17928": {
       "attempts": [
@@ -83159,22 +83165,10 @@
           "attempted_at": "2026-09-26T11:48:20.906088+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11567602",
-        "display_name": "Vdovy (2018) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T02:28:06.141972+00:00"
-      },
       "previous_target_id": "29658742",
-      "prepared": {
+      "upload": {
         "target_video_id": "29658742",
-        "size_bytes": 3800000000,
-        "prepared_at": "2026-09-24T02:32:33.442316+00:00"
-      },
-      "claim": {
-        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-2",
-        "claimed_at": "2026-09-27T02:28:35.743030+00:00",
-        "lease_expires_at": "2026-09-27T08:28:35.743030+00:00",
-        "run_id": "36279320310"
+        "uploaded_at": "2026-09-27T02:28:48.073596+00:00"
       }
     },
     "11484": {
@@ -84493,13 +84487,6 @@
           "source_id": "25307977",
           "target_video_id": "29315006",
           "permanent": false,
-          "attempted_at": "2026-09-26T10:42:59.263082+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25307977",
-          "target_video_id": "29315006",
-          "permanent": false,
           "attempted_at": "2026-09-26T11:15:06.243066+00:00"
         },
         {
@@ -84508,6 +84495,13 @@
           "target_video_id": "29315006",
           "permanent": false,
           "attempted_at": "2026-09-26T11:48:25.955737+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25307977",
+          "target_video_id": "29315006",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:28:47.799178+00:00"
         }
       ],
       "last_plan": {
@@ -84520,13 +84514,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-12T03:06:54.336206+00:00"
       },
-      "previous_target_id": "29315006",
-      "claim": {
-        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-5",
-        "claimed_at": "2026-09-27T02:28:44.620241+00:00",
-        "lease_expires_at": "2026-09-27T08:28:44.620241+00:00",
-        "run_id": "36279320310"
-      }
+      "previous_target_id": "29315006"
     },
     "2810": {
       "attempts": [
@@ -84724,6 +84712,12 @@
         "target_video_id": "29675660",
         "size_bytes": 13800000000,
         "prepared_at": "2026-09-24T18:05:51.291468+00:00"
+      },
+      "claim": {
+        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-1",
+        "claimed_at": "2026-09-27T02:28:47.518846+00:00",
+        "lease_expires_at": "2026-09-27T08:28:47.518846+00:00",
+        "run_id": "36279320310"
       }
     },
     "11623": {
@@ -277519,5 +277513,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T02:28:44.893937+00:00"
+  "updated_at": "2026-09-27T02:28:48.073617+00:00"
 }
