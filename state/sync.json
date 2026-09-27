@@ -261059,13 +261059,6 @@
           "permanent": false,
           "source_id": "34849564",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:42.214013+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34849564",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:06.651780+00:00"
         },
         {
@@ -261074,6 +261067,13 @@
           "target_video_id": "29747169",
           "permanent": false,
           "attempted_at": "2026-09-26T23:08:28.692585+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34849564",
+          "target_video_id": "29747169",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:08:00.230638+00:00"
         }
       ],
       "last_plan": {
@@ -261084,7 +261084,7 @@
       "previous_target_id": "29747169",
       "prepared": {
         "target_video_id": "29747169",
-        "size_bytes": 3008276322,
+        "size_bytes": 3000000000,
         "prepared_at": "2026-09-26T22:59:16.299761+00:00"
       }
     },
@@ -261988,13 +261988,6 @@
           "permanent": false,
           "source_id": "30831027",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:26:43.018680+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30831027",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:37:06.993801+00:00"
         },
         {
@@ -262003,6 +261996,13 @@
           "target_video_id": "29747271",
           "permanent": false,
           "attempted_at": "2026-09-26T23:16:42.715049+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30831027",
+          "target_video_id": "29747271",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:08:01.194805+00:00"
         }
       ],
       "last_plan": {
@@ -262013,7 +262013,7 @@
       "previous_target_id": "29747271",
       "prepared": {
         "target_video_id": "29747271",
-        "size_bytes": 2804640616,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-09-26T23:08:39.536550+00:00"
       }
     },
@@ -262108,16 +262108,10 @@
           "attempted_at": "2026-09-26T23:22:42.884213+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34620724",
-        "display_name": "Jack Frost (1998) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T06:07:26.803904+00:00"
-      },
       "previous_target_id": "29747356",
-      "prepared": {
+      "upload": {
         "target_video_id": "29747356",
-        "size_bytes": 1943485264,
-        "prepared_at": "2026-09-26T23:17:02.010181+00:00"
+        "uploaded_at": "2026-09-27T06:08:02.217658+00:00"
       }
     },
     "7943": {
@@ -262298,6 +262292,12 @@
         "target_video_id": "29747429",
         "size_bytes": 1899867224,
         "prepared_at": "2026-09-26T23:23:11.051376+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
+        "claimed_at": "2026-09-27T06:08:01.568830+00:00",
+        "lease_expires_at": "2026-09-27T12:08:01.568830+00:00",
+        "run_id": "36297250526"
       }
     },
     "28335": {
@@ -278433,5 +278433,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:07:56.572752+00:00"
+  "updated_at": "2026-09-27T06:08:02.217677+00:00"
 }
