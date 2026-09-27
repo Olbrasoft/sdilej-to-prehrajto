@@ -249293,13 +249293,6 @@
     "7719": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6680684",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:34:03.282471+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "6680684",
           "target_video_id": "29724095",
@@ -249312,6 +249305,13 @@
           "target_video_id": "29724095",
           "permanent": false,
           "attempted_at": "2026-09-26T10:08:49.012075+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6680684",
+          "target_video_id": "29724095",
+          "permanent": false,
+          "attempted_at": "2026-09-27T01:45:23.771546+00:00"
         }
       ],
       "last_plan": {
@@ -249356,16 +249356,10 @@
           "attempted_at": "2026-09-26T10:08:50.663512+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11268019",
-        "display_name": "Drone (2017) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T01:04:22.875946+00:00"
-      },
       "previous_target_id": "29724101",
-      "prepared": {
+      "upload": {
         "target_video_id": "29724101",
-        "size_bytes": 9600000000,
-        "prepared_at": "2026-09-26T08:54:30.208136+00:00"
+        "uploaded_at": "2026-09-27T01:45:26.131011+00:00"
       }
     },
     "11967": {
@@ -277618,5 +277612,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T01:45:19.331234+00:00"
+  "updated_at": "2026-09-27T01:45:26.131028+00:00"
 }
