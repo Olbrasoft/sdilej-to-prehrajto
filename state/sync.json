@@ -254673,13 +254673,6 @@
           "permanent": false,
           "source_id": "27647463",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:20.669016+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27647463",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:11.433194+00:00"
         },
         {
@@ -254688,18 +254681,19 @@
           "reason": "Request failed for https://sdilej.cz/27647463/kronika-cz-dabing.avi (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:42:26.259494+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27647463",
+          "target_video_id": "29751868",
+          "permanent": false,
+          "attempted_at": "2026-09-27T05:47:41.068673+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27647463",
         "display_name": "Klinika (2010) SD CZ Dabing",
         "planned_at": "2026-09-27T05:30:11.370688+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T05:43:38.571821+00:00",
-        "lease_expires_at": "2026-09-27T11:43:38.571821+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29751868",
       "prepared": {
@@ -278641,5 +278635,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T05:46:10.420978+00:00"
+  "updated_at": "2026-09-27T05:47:41.068689+00:00"
 }
