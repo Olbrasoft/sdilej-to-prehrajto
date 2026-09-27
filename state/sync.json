@@ -66792,6 +66792,13 @@
           "target_video_id": "29752484",
           "permanent": false,
           "attempted_at": "2026-09-27T06:48:49.158486+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28057435",
+          "target_video_id": "29752484",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:18:04.218192+00:00"
         }
       ],
       "last_plan": {
@@ -66802,7 +66809,7 @@
       "previous_target_id": "29752484",
       "prepared": {
         "target_video_id": "29752484",
-        "size_bytes": 1849501353,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-09-27T06:43:54.816804+00:00"
       }
     },
@@ -135911,13 +135918,6 @@
           "source_id": "34150744",
           "target_video_id": "29706891",
           "permanent": false,
-          "attempted_at": "2026-09-26T11:24:35.331508+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34150744",
-          "target_video_id": "29706891",
-          "permanent": false,
           "attempted_at": "2026-09-27T02:08:50.686484+00:00"
         },
         {
@@ -135926,6 +135926,13 @@
           "target_video_id": "29706891",
           "permanent": false,
           "attempted_at": "2026-09-27T06:48:48.370120+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34150744",
+          "target_video_id": "29706891",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:18:02.484475+00:00"
         }
       ],
       "last_plan": {
@@ -136354,17 +136361,19 @@
       "attempts": []
     },
     "6502": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34662197",
+          "target_video_id": "29753811",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:18:08.962579+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34662197",
         "display_name": "10 kroků k lásce (2021) 1080p CZ Dabing",
         "planned_at": "2026-09-27T08:11:37.866441+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T08:12:34.378683+00:00",
-        "lease_expires_at": "2026-09-27T14:12:34.378683+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29753811",
       "prepared": {
@@ -137055,13 +137064,6 @@
           "source_id": "11985679",
           "target_video_id": "29717863",
           "permanent": false,
-          "attempted_at": "2026-09-26T11:24:39.455090+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11985679",
-          "target_video_id": "29717863",
-          "permanent": false,
           "attempted_at": "2026-09-27T02:08:52.136112+00:00"
         },
         {
@@ -137070,6 +137072,13 @@
           "target_video_id": "29717863",
           "permanent": false,
           "attempted_at": "2026-09-27T06:48:55.017250+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11985679",
+          "target_video_id": "29717863",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:18:08.196301+00:00"
         }
       ],
       "last_plan": {
@@ -137268,13 +137277,6 @@
           "source_id": "34684428",
           "target_video_id": "29218008",
           "permanent": false,
-          "attempted_at": "2026-09-26T11:24:39.184567+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34684428",
-          "target_video_id": "29218008",
-          "permanent": false,
           "attempted_at": "2026-09-27T02:08:51.065678+00:00"
         },
         {
@@ -137283,6 +137285,13 @@
           "target_video_id": "29218008",
           "permanent": false,
           "attempted_at": "2026-09-27T06:48:54.665966+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34684428",
+          "target_video_id": "29218008",
+          "permanent": false,
+          "attempted_at": "2026-09-27T08:18:05.913405+00:00"
         }
       ],
       "last_plan": {
@@ -137337,7 +137346,13 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-08T16:40:39.776700+00:00"
       },
-      "previous_target_id": "29218039"
+      "previous_target_id": "29218039",
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-3",
+        "claimed_at": "2026-09-27T08:18:08.591624+00:00",
+        "lease_expires_at": "2026-09-27T14:18:08.591624+00:00",
+        "run_id": "36297250526"
+      }
     },
     "11688": {
       "attempts": []
@@ -280190,5 +280205,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T08:17:58.639950+00:00"
+  "updated_at": "2026-09-27T08:18:08.962594+00:00"
 }
