@@ -85381,13 +85381,6 @@
           "source_id": "33677451",
           "target_video_id": "29676408",
           "permanent": false,
-          "attempted_at": "2026-09-26T10:43:09.658822+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33677451",
-          "target_video_id": "29676408",
-          "permanent": false,
           "attempted_at": "2026-09-26T11:15:08.605720+00:00"
         },
         {
@@ -85396,6 +85389,13 @@
           "target_video_id": "29676408",
           "permanent": false,
           "attempted_at": "2026-09-26T11:48:30.845892+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33677451",
+          "target_video_id": "29676408",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:29:00.944175+00:00"
         }
       ],
       "last_plan": {
@@ -85523,6 +85523,12 @@
         "target_video_id": "29671543",
         "size_bytes": 23500000000,
         "prepared_at": "2026-09-24T15:15:48.143905+00:00"
+      },
+      "claim": {
+        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-5",
+        "claimed_at": "2026-09-27T02:29:00.174911+00:00",
+        "lease_expires_at": "2026-09-27T08:29:00.174911+00:00",
+        "run_id": "36279320310"
       }
     },
     "13146": {
@@ -85710,17 +85716,16 @@
         "target_video_id": "29673112",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-24T16:23:03.061725+00:00"
+      },
+      "claim": {
+        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-4",
+        "claimed_at": "2026-09-27T02:28:59.532981+00:00",
+        "lease_expires_at": "2026-09-27T08:28:59.532981+00:00",
+        "run_id": "36279320310"
       }
     },
     "3022": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "25263125",
-          "target_video_id": "29676445",
-          "permanent": false,
-          "attempted_at": "2026-09-26T10:43:18.091616+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "25263125",
@@ -85734,6 +85739,13 @@
           "target_video_id": "29676445",
           "permanent": false,
           "attempted_at": "2026-09-26T11:48:32.023942+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25263125",
+          "target_video_id": "29676445",
+          "permanent": false,
+          "attempted_at": "2026-09-27T02:29:00.519759+00:00"
         }
       ],
       "last_plan": {
@@ -85772,16 +85784,10 @@
           "attempted_at": "2026-09-26T11:48:33.618189+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33746179",
-        "display_name": "Švindlíři (1990) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T02:28:11.388617+00:00"
-      },
       "previous_target_id": "29673125",
-      "prepared": {
+      "upload": {
         "target_video_id": "29673125",
-        "size_bytes": 2600000000,
-        "prepared_at": "2026-09-24T16:23:28.452421+00:00"
+        "uploaded_at": "2026-09-27T02:29:01.272462+00:00"
       }
     },
     "22494": {
@@ -85821,6 +85827,12 @@
         "target_video_id": "29676474",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-24T18:41:46.163232+00:00"
+      },
+      "claim": {
+        "worker_id": "2f2c0a883da8496e9e9ca2dc2ea393c4-shard-2",
+        "claimed_at": "2026-09-27T02:28:59.836868+00:00",
+        "lease_expires_at": "2026-09-27T08:28:59.836868+00:00",
+        "run_id": "36279320310"
       }
     },
     "18315": {
@@ -277489,5 +277501,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T02:28:56.404001+00:00"
+  "updated_at": "2026-09-27T02:29:01.272483+00:00"
 }
