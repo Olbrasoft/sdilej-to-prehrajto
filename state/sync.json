@@ -146058,6 +146058,12 @@
         "target_video_id": "29735386",
         "size_bytes": 2662699614,
         "prepared_at": "2026-09-26T16:36:19.886777+00:00"
+      },
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-0",
+        "claimed_at": "2026-09-27T03:40:47.753253+00:00",
+        "lease_expires_at": "2026-09-27T09:40:47.753253+00:00",
+        "run_id": "36279320310"
       }
     },
     "11482": {
@@ -272667,18 +272673,19 @@
           "reason": "Request failed for https://sdilej.cz/27113501/mimic-3-sentinel-2003-cz-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-26T16:27:29.629486+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27113501",
+          "target_video_id": "29750429",
+          "permanent": false,
+          "attempted_at": "2026-09-27T03:40:49.040216+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27113501",
         "display_name": "Mimic 3: Sentinel (2003) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:36:24.257138+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-2",
-        "claimed_at": "2026-09-27T03:36:56.263177+00:00",
-        "lease_expires_at": "2026-09-27T09:36:56.263177+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29750429",
       "prepared": {
@@ -277649,5 +277656,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T03:40:40.412920+00:00"
+  "updated_at": "2026-09-27T03:40:49.040232+00:00"
 }
