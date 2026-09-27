@@ -267476,13 +267476,6 @@
           "permanent": false,
           "source_id": "34735288",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-19T23:37:26.314770+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34735288",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T05:54:04.487650+00:00"
         },
         {
@@ -267491,18 +267484,19 @@
           "source_id": "34735288",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:58:58.960372+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34735288",
+          "reason": "Request failed for https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T01:32:03.674774+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34735288",
         "display_name": "The Week Of (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-27T01:04:12.777501+00:00"
-      },
-      "claim": {
-        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-4",
-        "claimed_at": "2026-09-27T01:31:17.487515+00:00",
-        "lease_expires_at": "2026-09-27T07:31:17.487515+00:00",
-        "run_id": "36279320310"
       }
     },
     "26764": {
@@ -267635,6 +267629,12 @@
         "source_id": "30760391",
         "display_name": "Zítra zemřeš (2012) SD CZ Dabing",
         "planned_at": "2026-09-27T01:04:13.170407+00:00"
+      },
+      "claim": {
+        "worker_id": "78cb7648f87240b2983c21a6b1ba54eb-shard-1",
+        "claimed_at": "2026-09-27T01:31:56.168443+00:00",
+        "lease_expires_at": "2026-09-27T07:31:56.168443+00:00",
+        "run_id": "36279320310"
       }
     },
     "8750": {
@@ -277630,5 +277630,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T01:31:53.776079+00:00"
+  "updated_at": "2026-09-27T01:32:03.674793+00:00"
 }
