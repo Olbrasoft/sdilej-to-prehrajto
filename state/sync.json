@@ -251304,13 +251304,6 @@
     "10208": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25328005",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T08:49:53.987884+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25328005",
           "reason": "Request failed for https://sdilej.cz/25328005/dnes-v-noci-spis-se-mnou-2023-webrip-cesky-dabing.mkv (HTTP 522)",
@@ -251323,18 +251316,19 @@
           "reason": "Request failed for https://sdilej.cz/25328005/dnes-v-noci-spis-se-mnou-2023-webrip-cesky-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T03:56:18.158677+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25328005",
+          "target_video_id": "29753093",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:31:03.431896+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25328005",
         "display_name": "Dnes v noci spíš se mnou (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-27T07:17:58.608783+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-2",
-        "claimed_at": "2026-09-27T07:25:28.750436+00:00",
-        "lease_expires_at": "2026-09-27T13:25:28.750436+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29753093",
       "prepared": {
@@ -279788,5 +279782,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:30:26.401286+00:00"
+  "updated_at": "2026-09-27T07:31:03.431913+00:00"
 }
