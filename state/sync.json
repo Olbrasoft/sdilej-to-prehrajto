@@ -252765,13 +252765,6 @@
           "permanent": false,
           "source_id": "25062055",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:53:02.220517+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25062055",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:35:02.616238+00:00"
         },
         {
@@ -252780,18 +252773,19 @@
           "reason": "Request failed for https://sdilej.cz/25062055/tata-lump-1993-cz.avi (HTTP 520)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:40:30.739434+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25062055",
+          "target_video_id": "29751303",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:55:08.347488+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25062055",
         "display_name": "Táta lump (1993) SD CZ Dabing",
         "planned_at": "2026-09-27T04:14:10.545020+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-2",
-        "claimed_at": "2026-09-27T04:52:29.154936+00:00",
-        "lease_expires_at": "2026-09-27T10:52:29.154936+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751303",
       "prepared": {
@@ -278268,5 +278262,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:54:04.036948+00:00"
+  "updated_at": "2026-09-27T04:55:08.347504+00:00"
 }
