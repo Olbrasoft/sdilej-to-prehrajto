@@ -147432,6 +147432,14 @@
           "permanent": false,
           "target_video_id": "29735484",
           "attempted_at": "2026-09-26T16:53:00.226049+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "32312058",
+          "target_video_id": "29735484",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-27T03:41:52.766522+00:00"
         }
       ],
       "last_plan": {
@@ -147439,7 +147447,13 @@
         "display_name": "Když draka bolí hlava (2018) 1080p CZ Dabing",
         "planned_at": "2026-09-27T03:36:37.196425+00:00"
       },
-      "previous_target_id": "29735484"
+      "previous_target_id": "29735484",
+      "claim": {
+        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-5",
+        "claimed_at": "2026-09-27T03:41:51.686196+00:00",
+        "lease_expires_at": "2026-09-27T09:41:51.686196+00:00",
+        "run_id": "36279320310"
+      }
     },
     "14923": {
       "attempts": []
@@ -272736,6 +272750,13 @@
           "target_video_id": "29735549",
           "permanent": false,
           "attempted_at": "2026-09-26T16:51:19.849354+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28644925",
+          "target_video_id": "29735549",
+          "permanent": false,
+          "attempted_at": "2026-09-27T03:41:51.276920+00:00"
         }
       ],
       "last_plan": {
@@ -272746,7 +272767,7 @@
       "previous_target_id": "29735549",
       "prepared": {
         "target_video_id": "29735549",
-        "size_bytes": 2429249859,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-09-26T16:47:08.201471+00:00"
       }
     },
@@ -272763,16 +272784,10 @@
           "attempted_at": "2026-09-26T16:53:17.635783+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "19748816",
-        "display_name": "Wrong Place, Wrong Time (2021) 1080p CZ Titulky",
-        "planned_at": "2026-09-27T03:36:37.608866+00:00"
-      },
       "previous_target_id": "29735564",
-      "prepared": {
+      "upload": {
         "target_video_id": "29735564",
-        "size_bytes": 2526169011,
-        "prepared_at": "2026-09-26T16:47:57.477741+00:00"
+        "uploaded_at": "2026-09-27T03:41:55.478767+00:00"
       }
     },
     "8922": {
@@ -277686,5 +277701,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T03:41:46.996368+00:00"
+  "updated_at": "2026-09-27T03:41:55.478778+00:00"
 }
