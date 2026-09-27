@@ -253510,16 +253510,10 @@
           "attempted_at": "2026-09-27T04:53:56.927628+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22244211",
-        "display_name": "Dračí srdce 3: Čarodějova kletba (2015) 1080p CZ Dabing",
-        "planned_at": "2026-09-27T07:28:01.672127+00:00"
-      },
       "previous_target_id": "29751202",
-      "prepared": {
+      "upload": {
         "target_video_id": "29751202",
-        "size_bytes": 3657691092,
-        "prepared_at": "2026-09-27T04:44:28.049179+00:00"
+        "uploaded_at": "2026-09-27T07:39:10.312643+00:00"
       }
     },
     "7377": {
@@ -253641,6 +253635,12 @@
         "target_video_id": "29751303",
         "size_bytes": 999496188,
         "prepared_at": "2026-09-27T04:52:33.221716+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T07:39:08.528048+00:00",
+        "lease_expires_at": "2026-09-27T13:39:08.528048+00:00",
+        "run_id": "36297250526"
       }
     },
     "35423": {
@@ -253923,13 +253923,6 @@
     "7285": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "21142891",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T11:35:01.490308+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "21142891",
           "reason": "Request failed for https://sdilej.cz/21142891/z-ciziho-krev-netece-2013-kom-cz-dab-dvd.mkv (HTTP 522)",
@@ -253942,6 +253935,13 @@
           "target_video_id": "29751254",
           "permanent": false,
           "attempted_at": "2026-09-27T04:52:26.715550+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21142891",
+          "target_video_id": "29751254",
+          "permanent": false,
+          "attempted_at": "2026-09-27T07:39:07.803583+00:00"
         }
       ],
       "last_plan": {
@@ -253952,14 +253952,8 @@
       "previous_target_id": "29751254",
       "prepared": {
         "target_video_id": "29751254",
-        "size_bytes": 1299006387,
+        "size_bytes": 1300000000,
         "prepared_at": "2026-09-27T04:48:40.025300+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T07:39:05.239958+00:00",
-        "lease_expires_at": "2026-09-27T13:39:05.239958+00:00",
-        "run_id": "36297250526"
       }
     },
     "32168": {
@@ -279763,5 +279757,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T07:39:05.626095+00:00"
+  "updated_at": "2026-09-27T07:39:10.312661+00:00"
 }
