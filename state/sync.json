@@ -249421,13 +249421,6 @@
           "source_id": "26409536",
           "target_video_id": "29723757",
           "permanent": false,
-          "attempted_at": "2026-09-26T08:34:24.990848+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26409536",
-          "target_video_id": "29723757",
-          "permanent": false,
           "attempted_at": "2026-09-26T10:08:28.659626+00:00"
         },
         {
@@ -249436,6 +249429,13 @@
           "target_video_id": "29723757",
           "permanent": false,
           "attempted_at": "2026-09-27T01:45:06.105238+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26409536",
+          "target_video_id": "29723757",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:43:30.589148+00:00"
         }
       ],
       "last_plan": {
@@ -249448,12 +249448,6 @@
         "target_video_id": "29723757",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-26T08:30:11.748394+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:43:25.224359+00:00",
-        "lease_expires_at": "2026-09-27T12:43:25.224359+00:00",
-        "run_id": "36297250526"
       }
     },
     "34056": {
@@ -249592,13 +249586,6 @@
           "source_id": "30105035",
           "target_video_id": "29723943",
           "permanent": false,
-          "attempted_at": "2026-09-26T08:45:15.054909+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30105035",
-          "target_video_id": "29723943",
-          "permanent": false,
           "attempted_at": "2026-09-26T10:08:31.733638+00:00"
         },
         {
@@ -249607,6 +249594,13 @@
           "target_video_id": "29723943",
           "permanent": false,
           "attempted_at": "2026-09-27T01:45:16.796660+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30105035",
+          "target_video_id": "29723943",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:43:32.272800+00:00"
         }
       ],
       "last_plan": {
@@ -249722,13 +249716,6 @@
           "source_id": "6680684",
           "target_video_id": "29724095",
           "permanent": false,
-          "attempted_at": "2026-09-26T08:54:20.360663+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6680684",
-          "target_video_id": "29724095",
-          "permanent": false,
           "attempted_at": "2026-09-26T10:08:49.012075+00:00"
         },
         {
@@ -249737,6 +249724,13 @@
           "target_video_id": "29724095",
           "permanent": false,
           "attempted_at": "2026-09-27T01:45:23.771546+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6680684",
+          "target_video_id": "29724095",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:43:32.988288+00:00"
         }
       ],
       "last_plan": {
@@ -268016,6 +268010,12 @@
         "target_video_id": "29748942",
         "size_bytes": 5946943920,
         "prepared_at": "2026-09-27T01:35:35.604799+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-2",
+        "claimed_at": "2026-09-27T06:43:32.606487+00:00",
+        "lease_expires_at": "2026-09-27T12:43:32.606487+00:00",
+        "run_id": "36297250526"
       }
     },
     "30100": {
@@ -268277,13 +268277,6 @@
           "permanent": false,
           "source_id": "33837245",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:54:07.848951+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33837245",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:59:03.049058+00:00"
         },
         {
@@ -268292,18 +268285,19 @@
           "reason": "Request failed for https://sdilej.cz/33837245/zlo-prichazi-z-hlubin-2005-horor-thriller-czdab.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T01:44:05.755497+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33837245",
+          "reason": "Request failed for https://sdilej.cz/33837245/zlo-prichazi-z-hlubin-2005-horor-thriller-czdab.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:43:33.891000+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33837245",
         "display_name": "Zlo přichází z hlubin (2005) 1080p CZ Dabing",
         "planned_at": "2026-09-27T06:34:44.493054+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-0",
-        "claimed_at": "2026-09-27T06:42:47.963519+00:00",
-        "lease_expires_at": "2026-09-27T12:42:47.963519+00:00",
-        "run_id": "36297250526"
       }
     },
     "26813": {
@@ -268346,6 +268340,12 @@
         "target_video_id": "29749046",
         "size_bytes": 2759210187,
         "prepared_at": "2026-09-27T01:43:35.507183+00:00"
+      },
+      "claim": {
+        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
+        "claimed_at": "2026-09-27T06:43:33.319861+00:00",
+        "lease_expires_at": "2026-09-27T12:43:33.319861+00:00",
+        "run_id": "36297250526"
       }
     },
     "24386": {
@@ -278461,5 +278461,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:43:25.606688+00:00"
+  "updated_at": "2026-09-27T06:43:33.891018+00:00"
 }
