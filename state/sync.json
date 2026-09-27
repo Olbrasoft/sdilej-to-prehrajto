@@ -21039,6 +21039,12 @@
         "target_video_id": "29786981",
         "size_bytes": 2865839030,
         "prepared_at": "2026-09-27T18:32:21.920196+00:00"
+      },
+      "claim": {
+        "worker_id": "359750b5edf4468c838bf636a61f65d3-shard-1",
+        "claimed_at": "2026-09-27T20:09:21.119716+00:00",
+        "lease_expires_at": "2026-09-28T02:09:21.119716+00:00",
+        "run_id": "36340937027"
       }
     },
     "14553": {
@@ -21183,7 +21189,15 @@
       "attempts": []
     },
     "29982": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17106204",
+          "target_video_id": "29786977",
+          "permanent": false,
+          "attempted_at": "2026-09-27T20:09:21.403704+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17106204",
         "display_name": "Zbytečná krutost (1984) 1080p CZ Dabing",
@@ -21192,14 +21206,8 @@
       "previous_target_id": "29786977",
       "prepared": {
         "target_video_id": "29786977",
-        "size_bytes": 9543850801,
+        "size_bytes": 9500000000,
         "prepared_at": "2026-09-27T18:32:11.977063+00:00"
-      },
-      "claim": {
-        "worker_id": "359750b5edf4468c838bf636a61f65d3-shard-2",
-        "claimed_at": "2026-09-27T20:09:16.920590+00:00",
-        "lease_expires_at": "2026-09-28T02:09:16.920590+00:00",
-        "run_id": "36340937027"
       }
     },
     "837": {
@@ -21429,6 +21437,12 @@
         "source_id": "26737308",
         "display_name": "Odpojit (2012) 1080p CZ Dabing",
         "planned_at": "2026-09-27T20:08:44.552148+00:00"
+      },
+      "claim": {
+        "worker_id": "359750b5edf4468c838bf636a61f65d3-shard-5",
+        "claimed_at": "2026-09-27T20:09:20.831495+00:00",
+        "lease_expires_at": "2026-09-28T02:09:20.831495+00:00",
+        "run_id": "36340937027"
       }
     },
     "36768": {
@@ -283277,5 +283291,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T20:09:18.613877+00:00"
+  "updated_at": "2026-09-27T20:09:21.403721+00:00"
 }
