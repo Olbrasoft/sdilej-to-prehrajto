@@ -29670,7 +29670,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-05T09:24:59.752643+00:00"
       },
-      "previous_target_id": "29128092"
+      "previous_target_id": "29128092",
+      "claim": {
+        "worker_id": "da0c1bae099b4ff3b5860f05b2cd0eb1-shard-5",
+        "claimed_at": "2026-09-27T17:26:43.132804+00:00",
+        "lease_expires_at": "2026-09-27T23:26:43.132804+00:00",
+        "run_id": "36333355646"
+      }
     },
     "32926": {
       "attempts": [
@@ -137342,18 +137348,19 @@
           "reason": "Request failed for https://sdilej.cz/34841855/big-ben-40-volny-pad-29-mp4.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T16:42:00.561275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34841855",
+          "target_video_id": "29785950",
+          "permanent": false,
+          "attempted_at": "2026-09-27T17:26:43.442350+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34841855",
         "display_name": "Volný pád (2014) 1080p CZ Dabing",
         "planned_at": "2026-09-27T17:20:22.032827+00:00"
-      },
-      "claim": {
-        "worker_id": "da0c1bae099b4ff3b5860f05b2cd0eb1-shard-1",
-        "claimed_at": "2026-09-27T17:20:38.686673+00:00",
-        "lease_expires_at": "2026-09-27T23:20:38.686673+00:00",
-        "run_id": "36333355646"
       },
       "previous_target_id": "29785950",
       "prepared": {
@@ -282852,5 +282859,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T17:26:40.821779+00:00"
+  "updated_at": "2026-09-27T17:26:43.442366+00:00"
 }
