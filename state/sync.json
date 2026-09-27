@@ -21479,17 +21479,19 @@
       }
     },
     "23311": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33687565",
+          "reason": "Request failed for https://sdilej.cz/33687565/hrac-1992-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-27T18:44:43.142834+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33687565",
         "display_name": "Hráč (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-27T18:31:50.220814+00:00"
-      },
-      "claim": {
-        "worker_id": "a2ddd37e25744c01938053f7aada5770-shard-1",
-        "claimed_at": "2026-09-27T18:43:57.023517+00:00",
-        "lease_expires_at": "2026-09-28T00:43:57.023517+00:00",
-        "run_id": "36333355646"
       }
     },
     "915": {
@@ -21513,6 +21515,12 @@
         "source_id": "34733422",
         "display_name": "Atletka A (2020) 1080p CZ Titulky",
         "planned_at": "2026-09-27T18:31:50.503875+00:00"
+      },
+      "claim": {
+        "worker_id": "a2ddd37e25744c01938053f7aada5770-shard-4",
+        "claimed_at": "2026-09-27T18:44:21.841991+00:00",
+        "lease_expires_at": "2026-09-28T00:44:21.841991+00:00",
+        "run_id": "36333355646"
       }
     },
     "28623": {
@@ -283118,5 +283126,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T18:44:15.556691+00:00"
+  "updated_at": "2026-09-27T18:44:43.142854+00:00"
 }
