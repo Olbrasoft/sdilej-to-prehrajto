@@ -251852,13 +251852,6 @@
           "permanent": false,
           "source_id": "6293529",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T04:52:51.035893+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "6293529",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:34:25.731887+00:00"
         },
         {
@@ -251867,18 +251860,19 @@
           "reason": "Request failed for https://sdilej.cz/6293529/viral-2016-titulky.cz.mkv (HTTP 522)",
           "permanent": false,
           "attempted_at": "2026-09-26T17:37:31.233855+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6293529",
+          "target_video_id": "29751079",
+          "permanent": false,
+          "attempted_at": "2026-09-27T04:37:49.043098+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6293529",
         "display_name": "Viral (2016) SD CZ Titulky",
         "planned_at": "2026-09-27T04:14:03.224839+00:00"
-      },
-      "claim": {
-        "worker_id": "b28c3b5c67dd4a5f90a65d6dbb426d4c-shard-4",
-        "claimed_at": "2026-09-27T04:33:54.038270+00:00",
-        "lease_expires_at": "2026-09-27T10:33:54.038270+00:00",
-        "run_id": "36279320310"
       },
       "previous_target_id": "29751079",
       "prepared": {
@@ -278190,5 +278184,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T04:36:24.382188+00:00"
+  "updated_at": "2026-09-27T04:37:49.043114+00:00"
 }
