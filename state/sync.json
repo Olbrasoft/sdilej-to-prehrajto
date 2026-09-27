@@ -256628,13 +256628,6 @@
         {
           "status": "source_refresh_failed",
           "source_id": "32107662",
-          "reason": "Request failed for https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi (HTTP 521)",
-          "permanent": false,
-          "attempted_at": "2026-09-26T17:43:15.850285+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "32107662",
           "reason": "Request failed for https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T06:00:04.729016+00:00"
@@ -256645,18 +256638,19 @@
           "reason": "Request failed for https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-27T07:50:43.081887+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32107662",
+          "target_video_id": "29755108",
+          "permanent": false,
+          "attempted_at": "2026-09-27T09:28:03.479045+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32107662",
         "display_name": "Dávné rituály (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-27T09:15:28.544392+00:00"
-      },
-      "claim": {
-        "worker_id": "56a896ecc3dc40cbbc379fe7cd7313c5-shard-1",
-        "claimed_at": "2026-09-27T09:15:59.726392+00:00",
-        "lease_expires_at": "2026-09-27T15:15:59.726392+00:00",
-        "run_id": "36297250526"
       },
       "previous_target_id": "29755108",
       "prepared": {
@@ -280645,5 +280639,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T09:27:57.738673+00:00"
+  "updated_at": "2026-09-27T09:28:03.479061+00:00"
 }
