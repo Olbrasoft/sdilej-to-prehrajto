@@ -259017,13 +259017,6 @@
           "permanent": false,
           "source_id": "34606426",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-20T05:25:04.054911+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34606426",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-20T11:36:11.680969+00:00"
         },
         {
@@ -259032,6 +259025,13 @@
           "target_video_id": "29739537",
           "permanent": false,
           "attempted_at": "2026-09-26T18:37:26.048859+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34606426",
+          "target_video_id": "29739537",
+          "permanent": false,
+          "attempted_at": "2026-09-27T06:06:33.766336+00:00"
         }
       ],
       "last_plan": {
@@ -259042,14 +259042,8 @@
       "previous_target_id": "29739537",
       "prepared": {
         "target_video_id": "29739537",
-        "size_bytes": 1895410171,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-09-26T18:31:57.821856+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-5",
-        "claimed_at": "2026-09-27T06:06:28.646297+00:00",
-        "lease_expires_at": "2026-09-27T12:06:28.646297+00:00",
-        "run_id": "36297250526"
       }
     },
     "7500": {
@@ -259131,22 +259125,10 @@
           "attempted_at": "2026-09-26T18:39:28.281954+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34716952",
-        "display_name": "Shark Hunter (2001) SD CZ Dabing",
-        "planned_at": "2026-09-27T06:05:42.739950+00:00"
-      },
       "previous_target_id": "29740069",
-      "prepared": {
+      "upload": {
         "target_video_id": "29740069",
-        "size_bytes": 1028639267,
-        "prepared_at": "2026-09-26T18:36:35.908743+00:00"
-      },
-      "claim": {
-        "worker_id": "8787c617cbdf46a297cf7602bd089749-shard-1",
-        "claimed_at": "2026-09-27T06:06:31.232575+00:00",
-        "lease_expires_at": "2026-09-27T12:06:31.232575+00:00",
-        "run_id": "36297250526"
+        "uploaded_at": "2026-09-27T06:06:34.114859+00:00"
       }
     },
     "32348": {
@@ -278553,5 +278535,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-27T06:06:31.564211+00:00"
+  "updated_at": "2026-09-27T06:06:34.114879+00:00"
 }
