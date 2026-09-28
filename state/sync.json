@@ -103309,17 +103309,19 @@
       "attempts": []
     },
     "14906": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30416416",
+          "target_video_id": "29805916",
+          "permanent": false,
+          "attempted_at": "2026-09-28T07:52:20.713764+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30416416",
         "display_name": "Bílé ticho (2022) 1080p SK Dabing",
         "planned_at": "2026-09-28T07:40:51.956682+00:00"
-      },
-      "claim": {
-        "worker_id": "cbe5a96f495441b3a017421c0829c266-shard-3",
-        "claimed_at": "2026-09-28T07:41:06.999133+00:00",
-        "lease_expires_at": "2026-09-28T13:41:06.999133+00:00",
-        "run_id": "36367269759"
       },
       "previous_target_id": "29805916",
       "prepared": {
@@ -143181,13 +143183,6 @@
           "source_id": "27774864",
           "target_video_id": "29219070",
           "permanent": false,
-          "attempted_at": "2026-09-28T05:24:32.942726+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27774864",
-          "target_video_id": "29219070",
-          "permanent": false,
           "attempted_at": "2026-09-28T06:32:21.941467+00:00"
         },
         {
@@ -143196,6 +143191,13 @@
           "target_video_id": "29219070",
           "permanent": false,
           "attempted_at": "2026-09-28T07:15:50.953456+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27774864",
+          "target_video_id": "29219070",
+          "permanent": false,
+          "attempted_at": "2026-09-28T07:52:20.346352+00:00"
         }
       ],
       "last_plan": {
@@ -143208,13 +143210,7 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-08T17:29:27.070853+00:00"
       },
-      "previous_target_id": "29219070",
-      "claim": {
-        "worker_id": "cbe5a96f495441b3a017421c0829c266-shard-2",
-        "claimed_at": "2026-09-28T07:52:17.126078+00:00",
-        "lease_expires_at": "2026-09-28T13:52:17.126078+00:00",
-        "run_id": "36367269759"
-      }
+      "previous_target_id": "29219070"
     },
     "14541": {
       "attempts": []
@@ -285189,5 +285185,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T07:52:17.857420+00:00"
+  "updated_at": "2026-09-28T07:52:20.713782+00:00"
 }
