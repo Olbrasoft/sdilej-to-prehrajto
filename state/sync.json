@@ -125717,18 +125717,19 @@
           "source_id": "32294110",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-28T18:48:34.636310+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32294110",
+          "target_video_id": "29821523",
+          "permanent": false,
+          "attempted_at": "2026-09-28T21:06:53.833686+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32294110",
         "display_name": "The Paragon (2023) 1080p CZ Titulky",
         "planned_at": "2026-09-28T20:39:25.616348+00:00"
-      },
-      "claim": {
-        "worker_id": "dcbb55b94bca47008229bb38409669e0-shard-0",
-        "claimed_at": "2026-09-28T20:45:43.862676+00:00",
-        "lease_expires_at": "2026-09-29T02:45:43.862676+00:00",
-        "run_id": "36449037103"
       },
       "previous_target_id": "29821523",
       "prepared": {
@@ -151703,7 +151704,13 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-08T18:29:23.962254+00:00"
       },
-      "previous_target_id": "29220527"
+      "previous_target_id": "29220527",
+      "claim": {
+        "worker_id": "dcbb55b94bca47008229bb38409669e0-shard-2",
+        "claimed_at": "2026-09-28T21:06:52.534237+00:00",
+        "lease_expires_at": "2026-09-29T03:06:52.534237+00:00",
+        "run_id": "36449037103"
+      }
     },
     "10814": {
       "attempts": []
@@ -287673,5 +287680,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T21:06:50.042434+00:00"
+  "updated_at": "2026-09-28T21:06:53.833700+00:00"
 }
