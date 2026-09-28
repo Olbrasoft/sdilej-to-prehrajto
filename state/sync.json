@@ -128528,17 +128528,20 @@
       }
     },
     "14248": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34685983",
+          "target_video_id": "29819207",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-09-28T18:41:19.094414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34685983",
         "display_name": "Pustina Mercy (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-28T18:10:20.196189+00:00"
-      },
-      "claim": {
-        "worker_id": "c85a2542f23c4f0a87babef5f0e4a380-shard-0",
-        "claimed_at": "2026-09-28T18:33:35.204939+00:00",
-        "lease_expires_at": "2026-09-29T00:33:35.204939+00:00",
-        "run_id": "36449037103"
       },
       "previous_target_id": "29819207",
       "prepared": {
@@ -249688,13 +249691,6 @@
           "source_id": "11620494",
           "target_video_id": "29709546",
           "permanent": false,
-          "attempted_at": "2026-09-28T15:02:14.362472+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11620494",
-          "target_video_id": "29709546",
-          "permanent": false,
           "attempted_at": "2026-09-28T15:45:03.733892+00:00"
         },
         {
@@ -249703,6 +249699,13 @@
           "target_video_id": "29709546",
           "permanent": false,
           "attempted_at": "2026-09-28T16:46:44.032878+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11620494",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:39:57.736784+00:00"
         }
       ],
       "last_plan": {
@@ -251264,13 +251267,6 @@
           "source_id": "11268800",
           "target_video_id": "29713558",
           "permanent": false,
-          "attempted_at": "2026-09-28T15:02:12.476653+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11268800",
-          "target_video_id": "29713558",
-          "permanent": false,
           "attempted_at": "2026-09-28T15:45:05.816232+00:00"
         },
         {
@@ -251279,6 +251275,13 @@
           "target_video_id": "29713558",
           "permanent": false,
           "attempted_at": "2026-09-28T16:46:46.499106+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11268800",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:40:59.929335+00:00"
         }
       ],
       "last_plan": {
@@ -251339,13 +251342,6 @@
           "source_id": "32727114",
           "target_video_id": "29714117",
           "permanent": false,
-          "attempted_at": "2026-09-28T15:02:06.505847+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32727114",
-          "target_video_id": "29714117",
-          "permanent": false,
           "attempted_at": "2026-09-28T15:45:03.229816+00:00"
         },
         {
@@ -251354,6 +251350,13 @@
           "target_video_id": "29714117",
           "permanent": false,
           "attempted_at": "2026-09-28T16:46:44.392182+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32727114",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:40:18.452641+00:00"
         }
       ],
       "last_plan": {
@@ -251633,13 +251636,6 @@
           "source_id": "31323232",
           "target_video_id": "29715014",
           "permanent": false,
-          "attempted_at": "2026-09-28T15:02:08.214099+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31323232",
-          "target_video_id": "29715014",
-          "permanent": false,
           "attempted_at": "2026-09-28T15:45:04.299047+00:00"
         },
         {
@@ -251648,6 +251644,13 @@
           "target_video_id": "29715014",
           "permanent": false,
           "attempted_at": "2026-09-28T16:46:45.293443+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31323232",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:40:39.201303+00:00"
         }
       ],
       "last_plan": {
@@ -276235,6 +276238,12 @@
         "target_video_id": "29541194",
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-19T23:37:31.200001+00:00"
+      },
+      "claim": {
+        "worker_id": "c85a2542f23c4f0a87babef5f0e4a380-shard-1",
+        "claimed_at": "2026-09-28T18:41:00.214529+00:00",
+        "lease_expires_at": "2026-09-29T00:41:00.214529+00:00",
+        "run_id": "36449037103"
       }
     },
     "8585": {
@@ -287055,5 +287064,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T18:39:30.441320+00:00"
+  "updated_at": "2026-09-28T18:41:19.094433+00:00"
 }
