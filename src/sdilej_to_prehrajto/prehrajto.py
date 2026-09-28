@@ -280,6 +280,12 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, i
     query = max((part.strip() for part in fragments), key=len, default="")
     if not query:
         raise PrehrajtoError("Cannot safely search for existing target")
+    year = re.search(r"\((\d{4})\)", display_name)
+    if len(query) < 3 and year:
+        # One-letter fragments (Z, V/H/S) match hundreds of listing pages.
+        # Film identity already requires this year, so searching by year keeps
+        # every possible match while avoiding the broad-query pagination cap.
+        query = year.group(1)
     page_key = "uploadedVideoListing-visualPaginator-page"
     page = 1
     for _ in range(100):

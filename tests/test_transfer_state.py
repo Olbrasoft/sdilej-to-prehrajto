@@ -46,6 +46,8 @@ class Response:
 
 
 @pytest.mark.parametrize("wanted,visible,query", [
+    ('Z (2019) 720p CZ Dabing', 'Z (2019) 1080p.mkv', '2019'),
+    ('V/H/S (2012) SD CZ Titulky', 'VHS (2012) SD.avi', '2012'),
     ('LADY NINJA ～青い影～ (2018) 1080p CZ Dabing', 'LADY NINJA (2018) 1080p CZ Dabing.mp4', 'LADY NINJA'),
     ('Apollo 10 ½: Dítě kosmického věku (2022) 1080p CZ Dabing', 'Apollo 10 Dítě kosmického věku (2022) 1080p CZ Dabing.mkv', 'Dítě kosmického věku'),
     ('Film (2000) 4K CZ Dabing', 'Film (2000) 720p CZ Titulky.avi', 'Film'),
@@ -67,6 +69,23 @@ def test_lookup_checks_later_search_pages():
                 return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-777">Film (2000) 4K.mkv</h3>')
             return Response(text='<h3>Film (2001) 4K</h3><a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
     assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K') == '777'
+
+
+@pytest.mark.parametrize("matching", [False, True])
+def test_year_query_still_checks_full_identity_and_later_pages(matching):
+    calls = []
+    class Session:
+        def get(self, _url, **kwargs):
+            params = kwargs['params']
+            assert params['searchPhrase'] == '2019'
+            page = params.get('uploadedVideoListing-visualPaginator-page', '1')
+            calls.append(page)
+            if page == '1':
+                return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-1">Other (2019)</h3><a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
+            name = 'Z (2019)' if matching else 'Z (1969)'
+            return Response(text=f'<h3 id="snippet-uploadedVideoListing-videoName-2">{name}</h3>')
+    assert uploaded_video_id_by_name(Session(), 'Z (2019) 720p') == ('2' if matching else None)
+    assert calls == ['1', '2']
 
 
 @pytest.mark.parametrize('processing', [False, True])
