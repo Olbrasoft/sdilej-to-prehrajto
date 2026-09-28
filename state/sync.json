@@ -50464,13 +50464,6 @@
           "source_id": "24916658",
           "target_video_id": "29156718",
           "permanent": false,
-          "attempted_at": "2026-09-28T03:06:24.306881+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24916658",
-          "target_video_id": "29156718",
-          "permanent": false,
           "attempted_at": "2026-09-28T03:37:42.369832+00:00"
         },
         {
@@ -50479,6 +50472,13 @@
           "target_video_id": "29156718",
           "permanent": false,
           "attempted_at": "2026-09-28T04:20:54.917212+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24916658",
+          "target_video_id": "29156718",
+          "permanent": false,
+          "attempted_at": "2026-09-28T04:59:09.738645+00:00"
         }
       ],
       "last_plan": {
@@ -50491,13 +50491,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-06T09:16:28.140539+00:00"
       },
-      "previous_target_id": "29156718",
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-0",
-        "claimed_at": "2026-09-28T04:59:02.503178+00:00",
-        "lease_expires_at": "2026-09-28T10:59:02.503178+00:00",
-        "run_id": "36367269759"
-      }
+      "previous_target_id": "29156718"
     },
     "1871": {
       "attempts": [
@@ -104298,17 +104292,19 @@
       "attempts": []
     },
     "16419": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33927026",
+          "target_video_id": "29801519",
+          "permanent": false,
+          "attempted_at": "2026-09-28T04:59:10.404390+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33927026",
         "display_name": "Jestřábí věž (1984) 720p CZ Dabing",
         "planned_at": "2026-09-28T04:50:42.382758+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-4",
-        "claimed_at": "2026-09-28T04:50:58.165467+00:00",
-        "lease_expires_at": "2026-09-28T10:50:58.165467+00:00",
-        "run_id": "36367269759"
       },
       "previous_target_id": "29801519",
       "prepared": {
@@ -246340,13 +246336,6 @@
           "source_id": "19227940",
           "target_video_id": "29708292",
           "permanent": false,
-          "attempted_at": "2026-09-28T03:06:24.631728+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19227940",
-          "target_video_id": "29708292",
-          "permanent": false,
           "attempted_at": "2026-09-28T03:37:50.099704+00:00"
         },
         {
@@ -246355,6 +246344,13 @@
           "target_video_id": "29708292",
           "permanent": false,
           "attempted_at": "2026-09-28T04:21:01.300461+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19227940",
+          "target_video_id": "29708292",
+          "permanent": false,
+          "attempted_at": "2026-09-28T04:59:10.087185+00:00"
         }
       ],
       "last_plan": {
@@ -246367,12 +246363,6 @@
         "target_video_id": "29708292",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-25T16:18:51.527058+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-1",
-        "claimed_at": "2026-09-28T04:59:03.466020+00:00",
-        "lease_expires_at": "2026-09-28T10:59:03.466020+00:00",
-        "run_id": "36367269759"
       }
     },
     "20134": {
@@ -284368,5 +284358,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T04:59:04.421124+00:00"
+  "updated_at": "2026-09-28T04:59:10.404407+00:00"
 }
