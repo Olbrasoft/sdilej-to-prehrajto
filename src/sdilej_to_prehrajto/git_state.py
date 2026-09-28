@@ -12,6 +12,10 @@ class GitStateError(RuntimeError):
     pass
 
 
+class GitPushContentionError(GitStateError):
+    """A committed checkpoint repeatedly lost a race to another writer."""
+
+
 class GitStatePersister:
     """Commit durable transfer checkpoints from an Actions runner."""
 
@@ -19,6 +23,7 @@ class GitStatePersister:
     PUSH_ATTEMPTS = 12
     INITIAL_SOURCE_CHECKPOINTS = 4
     INITIAL_DEEP_CHECKPOINTS = 1
+    DEFERABLE_EVENTS = {"source", "attempt", "deep_scan", "processing_refresh"}
     # Publish one upload-shard-sized source batch at a time. Keeping 25 sources
     # only inside a producer runner starves the six upload workers for too long.
     # Negative discovery results are cheap and common during a full backlog
@@ -74,7 +79,8 @@ class GitStatePersister:
                 event == "source"
                 and self._source_checkpoints < self.INITIAL_SOURCE_CHECKPOINTS
             ):
-                self._persist(state_path, event)
+                if not self._publish_checkpoint(state_path, event):
+                    return
                 self._source_checkpoints += 1
                 self._pending.clear()
                 return
@@ -84,15 +90,30 @@ class GitStatePersister:
             ):
                 # Publish one diagnostic result immediately after startup;
                 # subsequent deep results remain batched to protect history.
-                self._persist(state_path, event)
+                if not self._publish_checkpoint(state_path, event):
+                    return
                 self._deep_checkpoints += 1
                 self._pending.clear()
                 return
             self._pending[event] = self._pending.get(event, 0) + 1
             if self._pending[event] < interval:
                 return
-            self._persist(state_path, event)
+            if not self._publish_checkpoint(state_path, event):
+                return
             self._pending.clear()
+
+    def _publish_checkpoint(self, state_path: Path, event: str) -> bool:
+        try:
+            self._persist(state_path, event)
+        except GitPushContentionError:
+            if event not in self.DEFERABLE_EVENTS:
+                raise
+            # The commit stays in this runner and the next checkpoint retries
+            # publishing it. Never relax the prepared-ID durability boundary or
+            # the final flush, and never hide auth, disk, or rebase failures.
+            print(f"checkpoint_publish_deferred={event} reason=concurrent_updates", flush=True)
+            return False
+        return True
 
     def read_remote_file(self, relative_path: str) -> str:
         """Read a fresh origin/main file while serializing local git operations."""
@@ -140,19 +161,26 @@ class GitStatePersister:
         # A previous push may have failed after committing. An unchanged
         # worktree does not mean the durable checkpoint reached the remote.
         last_error = "concurrent update"
+        contention_only = True
         for attempt in range(self.PUSH_ATTEMPTS):
             pushed = self._run("push", "origin", "HEAD:main", check=False)
             if pushed.returncode == 0:
                 return
             last_error = self._failure_detail(pushed)
+            contention_only = contention_only and bool(re.search(
+                r"\[rejected\].*\((?:fetch first|non-fast-forward)\)",
+                (pushed.stderr or pushed.stdout),
+            ))
             if attempt + 1 < self.PUSH_ATTEMPTS:
                 # Competing workers must not repeatedly retry in lockstep.
                 # Wait before fetching so the rebase uses a fresh remote tip.
                 time.sleep(min(2 ** attempt, 30) + random.uniform(0, 2))
                 rebased, detail = self._rebase_checkpoint(relative_paths)
                 if not rebased:
+                    contention_only = False
                     last_error = "push: " + last_error + "; rebase: " + detail
-        raise GitStateError(
+        error_type = GitPushContentionError if contention_only else GitStateError
+        raise error_type(
             "git push failed after concurrent update retries: " + last_error
         )
 

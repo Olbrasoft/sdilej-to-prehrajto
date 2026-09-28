@@ -390,6 +390,24 @@ class SyncPipeline:
             raise PrehrajtoError("Existing target lookup failed; refusing duplicate risk") from None
         return None
 
+    def _pending_target_present(
+        self, target_session, film_id: int, source_id: str, video_id: str, name: str
+    ) -> bool | None:
+        """Distinguish an absent target from an unavailable reconciliation."""
+        try:
+            return self._target_id_by_name(target_session, name) == video_id
+        except PrehrajtoError:
+            # Keep the prepared ID and duplicate guard even if the relay raised
+            # before its normal checkpoint callback. Never infer absence from
+            # a lookup outage, and do not let one outage terminate the worker.
+            self.state.record_attempt(film_id, {
+                "status": "target_lookup_failed", "permanent": False,
+                "source_id": source_id, "target_video_id": video_id,
+                "reason": "Target reconciliation unavailable; retry deferred",
+            })
+            self.state.persist_external("failure")
+            return None
+
     def _finish_success(
         self, film: Film, candidate: Candidate, row: dict, upload: dict
     ) -> None:
@@ -478,9 +496,14 @@ class SyncPipeline:
                         completion_evidence="reconciled_statistics_and_uploaded_listing",
                     )
                     self._finish_success(film, candidate, row, upload)
-                elif self._target_id_by_name(
-                    target_session, row["display_name"]
-                ) == video_id:
+                    continue
+                present = self._pending_target_present(
+                    target_session, film.cr_film_id, candidate.source_id,
+                    video_id, row["display_name"],
+                )
+                if present is None:
+                    continue
+                if present:
                     self.state.record_target_processing(
                         film.cr_film_id,
                         video_id=video_id,
@@ -571,9 +594,14 @@ class SyncPipeline:
                         completion_evidence="reconciled_after_relay_error",
                     )
                     self._finish_success(film, candidate, row, upload)
-                elif target_video_id and self._target_id_by_name(
-                    target_session, row["display_name"]
-                ) == str(target_video_id):
+                    continue
+                present = self._pending_target_present(
+                    target_session, film.cr_film_id, candidate.source_id,
+                    str(target_video_id), row["display_name"],
+                ) if target_video_id else False
+                if present is None:
+                    continue
+                if present:
                     self.state.record_target_processing(
                         film.cr_film_id,
                         video_id=str(target_video_id),

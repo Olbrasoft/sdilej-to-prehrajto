@@ -268,7 +268,8 @@ class StateStore:
         with self._lock:
             row = self.film(film_id)
             if attempt.get("status") == "target_lookup_failed":
-                # No transfer was started. Release only the lease, never the
+                # Lookup can fail before or after a transfer. Release the lease,
+                # but never discard the
                 # prepared target or durable previous-ID duplicate guard.
                 row.pop("claim", None)
             # Migrate the historical ID before bounded attempt history drops it.

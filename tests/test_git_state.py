@@ -3,7 +3,58 @@ import pytest
 from sdilej_to_prehrajto.state import StateStore
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
-from sdilej_to_prehrajto.git_state import GitStateError
+from sdilej_to_prehrajto.git_state import GitStateError, GitPushContentionError
+
+
+@pytest.mark.parametrize("event", ["source", "attempt", "deep_scan", "processing_refresh"])
+def test_contention_defers_noncritical_checkpoint_then_retries(tmp_path, monkeypatch, event):
+    persister = GitStatePersister(tmp_path)
+    persister.CHECKPOINT_INTERVALS = {event: 1}
+    calls = []
+    def persist(_path, _event):
+        calls.append(_event)
+        if len(calls) == 1:
+            raise GitPushContentionError("concurrent update")
+    monkeypatch.setattr(persister, "_persist", persist)
+    persister(tmp_path / "state.json", event)
+    persister(tmp_path / "state.json", event)
+    assert calls == [event, event]
+    assert persister._pending == {}
+
+
+@pytest.mark.parametrize("event", ["prepared", "processing", "failure", "success", "flush"])
+def test_contention_never_relaxes_transfer_durability(tmp_path, monkeypatch, event):
+    persister = GitStatePersister(tmp_path)
+    def fail(*_args):
+        raise GitPushContentionError("concurrent update")
+    monkeypatch.setattr(persister, "_persist", fail)
+    with pytest.raises(GitPushContentionError):
+        persister(tmp_path / "state.json", event)
+
+
+def test_non_contention_source_failure_still_stops_worker(tmp_path, monkeypatch):
+    persister = GitStatePersister(tmp_path)
+    def fail(*_args):
+        raise GitStateError("authentication failed")
+    monkeypatch.setattr(persister, "_persist", fail)
+    with pytest.raises(GitStateError):
+        persister(tmp_path / "state.json", "source")
+
+
+@pytest.mark.parametrize("rebase_ok", [False, True])
+@pytest.mark.parametrize("rejection", ["[rejected] HEAD -> main (fetch first)", "permission denied"])
+def test_only_pure_push_contention_can_be_deferred(tmp_path, monkeypatch, rebase_ok, rejection):
+    state = tmp_path / "state.json"
+    state.write_text("{}")
+    persister = GitStatePersister(tmp_path)
+    persister.PUSH_ATTEMPTS = 2
+    monkeypatch.setattr(persister, "_run", lambda *args, **kwargs:
+        subprocess.CompletedProcess(args, 1 if args[0] == "push" else 0, "", rejection))
+    monkeypatch.setattr(persister, "_rebase_checkpoint", lambda *_: (rebase_ok, "rebase failed"))
+    expected = GitPushContentionError if rebase_ok and "[rejected]" in rejection else GitStateError
+    with pytest.raises(GitStateError) as caught:
+        persister._persist(state, "source")
+    assert type(caught.value) is expected
 
 
 def test_repeated_processing_batches_but_new_target_persists_immediately(tmp_path, monkeypatch):

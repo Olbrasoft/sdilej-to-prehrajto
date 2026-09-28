@@ -31,6 +31,56 @@ def test_plan_approval_digest_ignores_nondeterministic_probability() -> None:
     assert plan_sha([row(0.91)]) == plan_sha([row(0.99)])
 
 
+@pytest.mark.parametrize("stage", ["prepared", "relay_prepared", "relay_id_only"])
+def test_reconciliation_outage_preserves_target_and_continues(tmp_path, monkeypatch, stage):
+    from sdilej_to_prehrajto.prehrajto import PrehrajtoError
+    events = []
+    state = StateStore(tmp_path / "state.json", on_persist=lambda _path, event: events.append(event))
+    pipeline = SyncPipeline(
+        source_provider=object(), source_session=object(), target_session=object(),
+        state=state, subtitle_queue=SubtitleQueue(tmp_path / "subs.jsonl"),
+        selected_sources=SelectedSourceStore(tmp_path / "sources.jsonl"),
+    )
+    plan = []
+    for i in (1, 2):
+        film = Film(i, f"film-{i}", f"Film {i}", None, 2000, 90, "en")
+        pipeline._selected[i] = Candidate(str(i), f"https://sdilej.cz/{i}/film.mkv", f"Film {i}", size_bytes=100)
+        plan.append({"film": film.to_dict(), "display_name": f"Film {i}", "needs_czech_subtitles": False})
+    if stage == "prepared":
+        state.record_prepared(1, "777", 100)
+    lookups = iter([None, PrehrajtoError("lookup unavailable"), "888"])
+    def lookup(*_args):
+        result = next(lookups)
+        if isinstance(result, Exception):
+            raise result
+        return result
+    relays = []
+    def relay(*_args, **kwargs):
+        relays.append(1)
+        if stage == "relay_prepared":
+            kwargs["on_prepared"]("777", 100)
+        raise PrehrajtoError("relay interrupted", target_video_id="777")
+    monkeypatch.setattr(pipeline, "_target_id_by_name", lookup)
+    monkeypatch.setattr(pipeline, "_target_completed_and_named", lambda *_: False)
+    monkeypatch.setattr(pipeline, "_existing_target_complete", lambda *_: True)
+    monkeypatch.setattr("sdilej_to_prehrajto.pipeline.relay_upload", relay)
+    pipeline.execute(plan)
+    saved = StateStore(state.path).snapshot(1)
+    assert saved["previous_target_id"] == "777"
+    assert saved["attempts"][-1]["status"] == "target_lookup_failed"
+    assert not saved.get("claim") and not saved.get("upload")
+    assert state.deferred(1, source_id="1")
+    if stage != "relay_id_only":
+        assert saved["prepared"]["target_video_id"] == "777"
+    assert "failure" in events
+    assert state.uploaded(2)
+    assert len(relays) == (0 if stage == "prepared" else 1)
+    # Even a forced retry cannot create another upload for the known target.
+    monkeypatch.setattr(pipeline, "_target_id_by_name", lambda *_: None)
+    pipeline.execute(plan[:1])
+    assert len(relays) == (0 if stage == "prepared" else 1)
+
+
 @pytest.mark.parametrize("completed", [False, True])
 def test_target_reconciliation_does_not_require_available_source(tmp_path, monkeypatch, completed):
     class OfflineProvider:
