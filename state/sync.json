@@ -102485,17 +102485,19 @@
       }
     },
     "14304": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34885924",
+          "reason": "Request failed for https://sdilej.cz/34885924/attila-2020-sk-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T12:01:57.317357+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34885924",
         "display_name": "Attila (2020) 1080p SK Dabing",
         "planned_at": "2026-09-28T12:00:52.359346+00:00"
-      },
-      "claim": {
-        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-2",
-        "claimed_at": "2026-09-28T12:01:06.749629+00:00",
-        "lease_expires_at": "2026-09-28T18:01:06.749629+00:00",
-        "run_id": "36411241002"
       }
     },
     "33943": {
@@ -285807,5 +285809,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T12:01:54.938509+00:00"
+  "updated_at": "2026-09-28T12:01:57.317376+00:00"
 }
