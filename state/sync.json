@@ -143520,17 +143520,19 @@
       }
     },
     "21736": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34700098",
+          "reason": "Request failed for https://sdilej.cz/34700098/akce-mojzis-1964-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T13:14:19.212445+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34700098",
         "display_name": "Akce Mojžíš (1964) SD CZ Dabing",
         "planned_at": "2026-09-28T13:13:17.173440+00:00"
-      },
-      "claim": {
-        "worker_id": "037488c95e2e415cb9b2d4830cb1cd46-shard-1",
-        "claimed_at": "2026-09-28T13:13:33.277285+00:00",
-        "lease_expires_at": "2026-09-28T19:13:33.277285+00:00",
-        "run_id": "36411241002"
       }
     },
     "15136": {
@@ -286139,5 +286141,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T13:13:37.271283+00:00"
+  "updated_at": "2026-09-28T13:14:19.212464+00:00"
 }
