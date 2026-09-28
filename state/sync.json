@@ -120351,17 +120351,19 @@
       "attempts": []
     },
     "17652": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14502919",
+          "reason": "Request failed for https://sdilej.cz/14502919/nobadi-2019-cz-dabing-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T19:40:57.349512+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14502919",
         "display_name": "Nobadi (2019) SD CZ Dabing",
         "planned_at": "2026-09-28T19:39:56.393871+00:00"
-      },
-      "claim": {
-        "worker_id": "f42017e146b440bda2126b2b53c67e80-shard-1",
-        "claimed_at": "2026-09-28T19:40:11.281811+00:00",
-        "lease_expires_at": "2026-09-29T01:40:11.281811+00:00",
-        "run_id": "36449037103"
       }
     },
     "11927": {
@@ -287375,5 +287377,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T19:40:16.770825+00:00"
+  "updated_at": "2026-09-28T19:40:57.349532+00:00"
 }
