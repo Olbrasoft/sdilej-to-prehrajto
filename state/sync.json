@@ -19784,6 +19784,12 @@
         "target_video_id": "29732933",
         "size_bytes": 3300000000,
         "prepared_at": "2026-09-26T13:33:07.528488+00:00"
+      },
+      "claim": {
+        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-3",
+        "claimed_at": "2026-09-28T12:03:18.521978+00:00",
+        "lease_expires_at": "2026-09-28T18:03:18.521978+00:00",
+        "run_id": "36411241002"
       }
     },
     "11414": {
@@ -102629,17 +102635,19 @@
       "attempts": []
     },
     "13216": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33712803",
+          "reason": "Request failed for https://sdilej.cz/33712803/sefe-to-je-vec-1982-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T12:03:20.975297+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33712803",
         "display_name": "Šéfe, to je věc! (1982) 1080p CZ Dabing",
         "planned_at": "2026-09-28T12:02:18.666758+00:00"
-      },
-      "claim": {
-        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-5",
-        "claimed_at": "2026-09-28T12:02:34.084347+00:00",
-        "lease_expires_at": "2026-09-28T18:02:34.084347+00:00",
-        "run_id": "36411241002"
       }
     },
     "36796": {
@@ -269540,13 +269548,6 @@
           "source_id": "12374189",
           "target_video_id": "29732821",
           "permanent": false,
-          "attempted_at": "2026-09-28T09:59:22.626717+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12374189",
-          "target_video_id": "29732821",
-          "permanent": false,
           "attempted_at": "2026-09-28T10:42:14.189187+00:00"
         },
         {
@@ -269555,6 +269556,13 @@
           "target_video_id": "29732821",
           "permanent": false,
           "attempted_at": "2026-09-28T11:21:02.280471+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12374189",
+          "target_video_id": "29732821",
+          "permanent": false,
+          "attempted_at": "2026-09-28T12:03:19.806861+00:00"
         }
       ],
       "last_plan": {
@@ -269792,6 +269800,12 @@
         "target_video_id": "29732876",
         "size_bytes": 1000000000,
         "prepared_at": "2026-09-26T13:26:16.672524+00:00"
+      },
+      "claim": {
+        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-4",
+        "claimed_at": "2026-09-28T12:03:20.556530+00:00",
+        "lease_expires_at": "2026-09-28T18:03:20.556530+00:00",
+        "run_id": "36411241002"
       }
     },
     "13936": {
@@ -269919,13 +269933,6 @@
           "source_id": "26732679",
           "target_video_id": "29732895",
           "permanent": false,
-          "attempted_at": "2026-09-28T09:59:18.810378+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26732679",
-          "target_video_id": "29732895",
-          "permanent": false,
           "attempted_at": "2026-09-28T10:42:10.407637+00:00"
         },
         {
@@ -269934,6 +269941,13 @@
           "target_video_id": "29732895",
           "permanent": false,
           "attempted_at": "2026-09-28T11:20:58.995725+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26732679",
+          "target_video_id": "29732895",
+          "permanent": false,
+          "attempted_at": "2026-09-28T12:03:17.923440+00:00"
         }
       ],
       "last_plan": {
@@ -269946,12 +269960,6 @@
         "target_video_id": "29732895",
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-26T13:28:57.300956+00:00"
-      },
-      "claim": {
-        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-3",
-        "claimed_at": "2026-09-28T12:03:14.105251+00:00",
-        "lease_expires_at": "2026-09-28T18:03:14.105251+00:00",
-        "run_id": "36411241002"
       }
     },
     "21574": {
@@ -270089,6 +270097,12 @@
         "target_video_id": "29732901",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-26T13:29:33.613858+00:00"
+      },
+      "claim": {
+        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-2",
+        "claimed_at": "2026-09-28T12:03:18.824757+00:00",
+        "lease_expires_at": "2026-09-28T18:03:18.824757+00:00",
+        "run_id": "36411241002"
       }
     },
     "7850": {
@@ -270250,13 +270264,6 @@
           "source_id": "30188755",
           "target_video_id": "29732988",
           "permanent": false,
-          "attempted_at": "2026-09-28T09:59:24.409442+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30188755",
-          "target_video_id": "29732988",
-          "permanent": false,
           "attempted_at": "2026-09-28T10:42:15.881185+00:00"
         },
         {
@@ -270265,6 +270272,13 @@
           "target_video_id": "29732988",
           "permanent": false,
           "attempted_at": "2026-09-28T11:21:04.017243+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30188755",
+          "target_video_id": "29732988",
+          "permanent": false,
+          "attempted_at": "2026-09-28T12:03:20.194229+00:00"
         }
       ],
       "last_plan": {
@@ -285841,5 +285855,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T12:03:15.208340+00:00"
+  "updated_at": "2026-09-28T12:03:20.975315+00:00"
 }
