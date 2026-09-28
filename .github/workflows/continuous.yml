@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
     inputs:
       workers:
-        description: "Parallel upload workers"
+        description: "Parallel upload workers (maximum 3)"
         required: false
         type: choice
-        default: "6"
+        default: "3"
         options:
           - "1"
-          - "4"
-          - "6"
+          - "2"
+          - "3"
   schedule:
     - cron: "17 * * * *"
 
@@ -29,7 +29,7 @@ jobs:
       contents: write
     env:
       CONTINUOUS_ENABLED: ${{ vars.CONTINUOUS_ENABLED }}
-      UPLOAD_WORKERS: ${{ inputs.workers || '6' }}
+      UPLOAD_WORKERS: ${{ inputs.workers || '3' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}

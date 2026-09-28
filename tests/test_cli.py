@@ -1,6 +1,11 @@
+import pytest
+
 from sdilej_to_prehrajto.cli import (
     DEEP_DISCOVERY_TIMEOUT_SECONDS,
     MAX_PREPARE_WORKERS,
+    MAX_UPLOAD_WORKERS,
+    parser,
+    main,
     additional_worker_count,
     deep_prepare_worker_count,
     exclude_uploaded_films,
@@ -9,6 +14,26 @@ from sdilej_to_prehrajto.cli import (
 )
 from sdilej_to_prehrajto.models import Film
 from sdilej_to_prehrajto.state import StateStore
+
+
+def test_upload_default_is_three_workers(monkeypatch):
+    monkeypatch.delenv("UPLOAD_WORKERS", raising=False)
+    assert MAX_UPLOAD_WORKERS == 3
+    assert parser().parse_args(["upload"]).workers == 3
+
+
+@pytest.mark.parametrize("workers", [0, 4, 6])
+@pytest.mark.parametrize("via_env", [False, True])
+def test_upload_rejects_workers_outside_limit(monkeypatch, workers, via_env):
+    monkeypatch.delenv("UPLOAD_WORKERS", raising=False)
+    args = ["sdilej-sync", "upload"]
+    if via_env:
+        monkeypatch.setenv("UPLOAD_WORKERS", str(workers))
+    else:
+        args += ["--workers", str(workers)]
+    monkeypatch.setattr("sys.argv", args)
+    with pytest.raises(ValueError, match="--workers must be between 1 and 3"):
+        main()
 
 
 def test_empty_plan_does_not_create_additional_workers() -> None:

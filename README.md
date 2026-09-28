@@ -21,7 +21,7 @@ vyhledávání a jazykové ověřování po dobu až 330 minut jednoho runneru a
 postupně připravit celý backlog. Pět rychlých přípravných workerů kontroluje jen
 první tři kandidáty jednoho filmu. Kandidátsky náročný film pak uloží do trvalé
 hluboké fronty, kterou souběžně zpracovává šestý worker bez omezení počtu
-kandidátů. Uploader po stejnou dobu opakovaně odebírá připravené dávky po šesti
+kandidátů. Uploader po stejnou dobu opakovaně odebírá připravené dávky nejvýše po třech
 přenosech současně. Pokud je fronta krátce prázdná, čeká 30 sekund a znovu
 načte nové checkpointy produceru. Oba hodinové triggery se díky vlastním
 concurrency skupinám průběžně střídají bez vzájemného blokování.
@@ -33,7 +33,9 @@ do hluboké fronty po deseti a uploadové chyby po 25 změnách. Vše se ještě
 uloží na konci workflow, aby Git historie nerostla o commit pro každý claim.
 Před opakováním se přesný název ověří v nahraných videích, takže
 ani poslední necommitnutá dávka po pádu nevytvoří tichý duplicitní upload.
-Upload běží v šesti nezávislých workerech. Před převzetím filmu
+Upload běží nejvýše ve třech nezávislých workerech (výchozí hodnota je tři).
+Parametr `--workers` i proměnná `UPLOAD_WORKERS` přijímají pouze hodnoty 1–3.
+Před převzetím filmu
 worker atomicky uloží šestihodinový lease; ostatní workery jej přeskočí. Úspěch
 claim odstraní, běžná chyba jej okamžitě uvolní a po pádu procesu jej lze znovu
 převzít až po vypršení lease.
