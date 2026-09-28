@@ -49144,7 +49144,7 @@
       "last_plan": {
         "source_id": "34687019",
         "display_name": "Sedm vězněných (2021) 1080p CZ Titulky",
-        "planned_at": "2026-09-28T08:05:37.596260+00:00"
+        "planned_at": "2026-09-28T08:38:14.154653+00:00"
       },
       "prepared": {
         "target_video_id": "29419000",
@@ -49733,13 +49733,6 @@
           "source_id": "33855046",
           "target_video_id": "29439510",
           "permanent": false,
-          "attempted_at": "2026-09-28T06:46:49.810608+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855046",
-          "target_video_id": "29439510",
-          "permanent": false,
           "attempted_at": "2026-09-28T07:27:16.558061+00:00"
         },
         {
@@ -49748,6 +49741,13 @@
           "target_video_id": "29439510",
           "permanent": false,
           "attempted_at": "2026-09-28T08:07:11.489765+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855046",
+          "target_video_id": "29439510",
+          "permanent": false,
+          "attempted_at": "2026-09-28T08:38:13.570375+00:00"
         }
       ],
       "last_plan": {
@@ -49760,13 +49760,7 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-16T23:38:17.911070+00:00"
       },
-      "previous_target_id": "29439510",
-      "claim": {
-        "worker_id": "af2b535cbb06439695bab0acf4ebe0b3-shard-2",
-        "claimed_at": "2026-09-28T08:38:10.482237+00:00",
-        "lease_expires_at": "2026-09-28T14:38:10.482237+00:00",
-        "run_id": "36393426644"
-      }
+      "previous_target_id": "29439510"
     },
     "36929": {
       "attempts": [
@@ -113211,18 +113205,19 @@
           "reason": "Request failed for https://sdilej.cz/31587673/kamaradi-z-papuchalkovy-skaly-2023-cz-dabing-animovane.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-28T08:01:50.140591+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31587673",
+          "target_video_id": "29806885",
+          "permanent": false,
+          "attempted_at": "2026-09-28T08:38:14.417656+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31587673",
         "display_name": "Kamarádi z Papuchalkovy skály (2023) 720p CZ Dabing",
         "planned_at": "2026-09-28T08:32:59.187417+00:00"
-      },
-      "claim": {
-        "worker_id": "af2b535cbb06439695bab0acf4ebe0b3-shard-5",
-        "claimed_at": "2026-09-28T08:33:33.563255+00:00",
-        "lease_expires_at": "2026-09-28T14:33:33.563255+00:00",
-        "run_id": "36393426644"
       },
       "previous_target_id": "29806885",
       "prepared": {
@@ -285639,5 +285634,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T08:38:10.938999+00:00"
+  "updated_at": "2026-09-28T08:38:14.417675+00:00"
 }
