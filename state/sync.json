@@ -86694,13 +86694,6 @@
           "source_id": "25307977",
           "target_video_id": "29315006",
           "permanent": false,
-          "attempted_at": "2026-09-28T01:06:46.053368+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25307977",
-          "target_video_id": "29315006",
-          "permanent": false,
           "attempted_at": "2026-09-28T01:48:24.183862+00:00"
         },
         {
@@ -86709,6 +86702,13 @@
           "target_video_id": "29315006",
           "permanent": false,
           "attempted_at": "2026-09-28T02:26:32.171523+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25307977",
+          "target_video_id": "29315006",
+          "permanent": false,
+          "attempted_at": "2026-09-28T03:09:55.338630+00:00"
         }
       ],
       "last_plan": {
@@ -86721,13 +86721,7 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-09-12T03:06:54.336206+00:00"
       },
-      "previous_target_id": "29315006",
-      "claim": {
-        "worker_id": "3bd19c37e6d74a72bb78b092902b33e3-shard-3",
-        "claimed_at": "2026-09-28T03:09:47.257801+00:00",
-        "lease_expires_at": "2026-09-28T09:09:47.257801+00:00",
-        "run_id": "36367269759"
-      }
+      "previous_target_id": "29315006"
     },
     "2810": {
       "attempts": [
@@ -127004,17 +126998,19 @@
       "attempts": []
     },
     "30801": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10967660",
+          "target_video_id": "29798320",
+          "permanent": false,
+          "attempted_at": "2026-09-28T03:09:55.630539+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10967660",
         "display_name": "Born Racer (2018) 1080p CZ Titulky",
         "planned_at": "2026-09-28T02:53:49.079492+00:00"
-      },
-      "claim": {
-        "worker_id": "3bd19c37e6d74a72bb78b092902b33e3-shard-1",
-        "claimed_at": "2026-09-28T02:54:13.977100+00:00",
-        "lease_expires_at": "2026-09-28T08:54:13.977100+00:00",
-        "run_id": "36367269759"
       },
       "previous_target_id": "29798320",
       "prepared": {
@@ -284264,5 +284260,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T03:09:49.316233+00:00"
+  "updated_at": "2026-09-28T03:09:55.630558+00:00"
 }
