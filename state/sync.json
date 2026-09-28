@@ -119015,17 +119015,19 @@
       }
     },
     "26107": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35100981",
+          "reason": "Request failed for https://sdilej.cz/35100981/tajemstvi-lesni-zeme.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T16:15:40.608441+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35100981",
         "display_name": "Tajemství Lesní země (2006) 1080p CZ Dabing",
         "planned_at": "2026-09-28T16:14:37.246445+00:00"
-      },
-      "claim": {
-        "worker_id": "e4e904f77b734f84bae00dbd142b21f4-shard-0",
-        "claimed_at": "2026-09-28T16:14:54.805103+00:00",
-        "lease_expires_at": "2026-09-28T22:14:54.805103+00:00",
-        "run_id": "36411241002"
       }
     },
     "17038": {
@@ -286668,5 +286670,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T16:14:58.653936+00:00"
+  "updated_at": "2026-09-28T16:15:40.608462+00:00"
 }
