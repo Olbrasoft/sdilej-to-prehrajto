@@ -145885,17 +145885,19 @@
       "attempts": []
     },
     "30324": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34724954",
+          "reason": "Request failed for https://sdilej.cz/34724954/brak-2002-cesky-film.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T22:03:28.229138+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34724954",
         "display_name": "Brak (2002) SD",
         "planned_at": "2026-09-28T21:51:45.456460+00:00"
-      },
-      "claim": {
-        "worker_id": "3198773e844b4a9f99a309a4193825a8-shard-1",
-        "claimed_at": "2026-09-28T22:02:39.733781+00:00",
-        "lease_expires_at": "2026-09-29T04:02:39.733781+00:00",
-        "run_id": "36449037103"
       }
     },
     "7494": {
@@ -287866,5 +287868,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T22:03:25.484705+00:00"
+  "updated_at": "2026-09-28T22:03:28.229155+00:00"
 }
