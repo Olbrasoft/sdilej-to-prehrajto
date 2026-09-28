@@ -2431,7 +2431,13 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-05T01:32:04.136062+00:00"
       },
-      "previous_target_id": "29115694"
+      "previous_target_id": "29115694",
+      "claim": {
+        "worker_id": "dcbb55b94bca47008229bb38409669e0-shard-0",
+        "claimed_at": "2026-09-28T21:15:04.521120+00:00",
+        "lease_expires_at": "2026-09-29T03:15:04.521120+00:00",
+        "run_id": "36449037103"
+      }
     },
     "10669": {
       "attempts": []
@@ -142278,13 +142284,6 @@
           "source_id": "30661368",
           "target_video_id": "29754015",
           "permanent": false,
-          "attempted_at": "2026-09-28T16:20:31.729695+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30661368",
-          "target_video_id": "29754015",
-          "permanent": false,
           "attempted_at": "2026-09-28T17:11:05.411066+00:00"
         },
         {
@@ -142293,6 +142292,13 @@
           "target_video_id": "29754015",
           "permanent": false,
           "attempted_at": "2026-09-28T19:11:34.152580+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30661368",
+          "target_video_id": "29754015",
+          "permanent": false,
+          "attempted_at": "2026-09-28T21:15:03.935228+00:00"
         }
       ],
       "last_plan": {
@@ -142305,12 +142311,6 @@
         "target_video_id": "29754015",
         "size_bytes": 7900000000,
         "prepared_at": "2026-09-27T08:23:16.398725+00:00"
-      },
-      "claim": {
-        "worker_id": "dcbb55b94bca47008229bb38409669e0-shard-2",
-        "claimed_at": "2026-09-28T21:15:00.321643+00:00",
-        "lease_expires_at": "2026-09-29T03:15:00.321643+00:00",
-        "run_id": "36449037103"
       }
     },
     "15574": {
@@ -244324,16 +244324,10 @@
           "attempted_at": "2026-09-28T19:11:38.187870+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "21092588",
-        "display_name": "Báječný svět shopaholiků (2009) 1080p CZ Dabing",
-        "planned_at": "2026-09-28T21:14:26.688703+00:00"
-      },
       "previous_target_id": "29689096",
-      "prepared": {
+      "upload": {
         "target_video_id": "29689096",
-        "size_bytes": 2100000000,
-        "prepared_at": "2026-09-25T02:55:41.044195+00:00"
+        "uploaded_at": "2026-09-28T21:15:05.724774+00:00"
       }
     },
     "31433": {
@@ -287662,5 +287656,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T21:15:01.472487+00:00"
+  "updated_at": "2026-09-28T21:15:05.724790+00:00"
 }
