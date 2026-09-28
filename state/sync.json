@@ -125447,17 +125447,19 @@
       "attempts": []
     },
     "16116": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34863528",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:48:54.776832+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34863528",
         "display_name": "Vánoční pomsta (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-28T18:47:36.769781+00:00"
-      },
-      "claim": {
-        "worker_id": "c85a2542f23c4f0a87babef5f0e4a380-shard-0",
-        "claimed_at": "2026-09-28T18:48:34.348622+00:00",
-        "lease_expires_at": "2026-09-29T00:48:34.348622+00:00",
-        "run_id": "36449037103"
       }
     },
     "3249": {
@@ -128785,17 +128787,19 @@
       "attempts": []
     },
     "13667": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30726941",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:48:55.384004+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30726941",
         "display_name": "Maharal – Tajemství talismanu (2007) 1080p CZ Titulky",
         "planned_at": "2026-09-28T18:47:37.056445+00:00"
-      },
-      "claim": {
-        "worker_id": "c85a2542f23c4f0a87babef5f0e4a380-shard-1",
-        "claimed_at": "2026-09-28T18:48:34.959885+00:00",
-        "lease_expires_at": "2026-09-29T00:48:34.959885+00:00",
-        "run_id": "36449037103"
       }
     },
     "21638": {
@@ -128888,7 +128892,15 @@
       "attempts": []
     },
     "11938": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34674933",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T18:49:15.501213+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674933",
         "display_name": "V žáru královské lásky (1991) SD CZ Dabing",
@@ -128902,7 +128914,15 @@
       "attempts": []
     },
     "17296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34757863",
+          "reason": "Request failed for https://sdilej.cz/34757863/vykupne-za-nacelnika-1993-sk-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T18:50:00.901824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34757863",
         "display_name": "Výkupné za náčelníka (1993) 1080p SK Dabing",
@@ -253632,13 +253652,6 @@
           "source_id": "32964105",
           "target_video_id": "29720487",
           "permanent": false,
-          "attempted_at": "2026-09-28T15:03:27.759020+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32964105",
-          "target_video_id": "29720487",
-          "permanent": false,
           "attempted_at": "2026-09-28T15:45:33.115608+00:00"
         },
         {
@@ -253647,6 +253660,13 @@
           "target_video_id": "29720487",
           "permanent": false,
           "attempted_at": "2026-09-28T16:47:45.402031+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32964105",
+          "target_video_id": "29720487",
+          "permanent": false,
+          "attempted_at": "2026-09-28T18:49:55.218423+00:00"
         }
       ],
       "last_plan": {
@@ -254214,6 +254234,12 @@
         "target_video_id": "29720126",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-26T03:44:32.065074+00:00"
+      },
+      "claim": {
+        "worker_id": "c85a2542f23c4f0a87babef5f0e4a380-shard-0",
+        "claimed_at": "2026-09-28T18:49:55.531201+00:00",
+        "lease_expires_at": "2026-09-29T00:49:55.531201+00:00",
+        "run_id": "36449037103"
       }
     },
     "12552": {
@@ -287162,5 +287188,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T18:48:37.115496+00:00"
+  "updated_at": "2026-09-28T18:50:00.901843+00:00"
 }
