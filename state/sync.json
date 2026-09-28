@@ -221404,13 +221404,6 @@
         {
           "status": "source_refresh_failed",
           "source_id": "31348207",
-          "reason": "Request failed for https://sdilej.cz/31348207/san-andreas-2015-2160p-eac3-ces-eng-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-09-28T03:01:44.783742+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31348207",
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-28T03:33:24.696251+00:00"
@@ -221421,18 +221414,19 @@
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
           "attempted_at": "2026-09-28T04:14:34.211126+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31348207",
+          "reason": "Source detail has no authenticated download link; source_id=31348207",
+          "permanent": false,
+          "attempted_at": "2026-09-28T04:54:48.113102+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31348207",
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-09-28T04:52:59.947505+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-1",
-        "claimed_at": "2026-09-28T04:54:39.234606+00:00",
-        "lease_expires_at": "2026-09-28T10:54:39.234606+00:00",
-        "run_id": "36367269759"
       }
     },
     "5944": {
@@ -239763,6 +239757,12 @@
         "target_video_id": "29683796",
         "size_bytes": 6100000000,
         "prepared_at": "2026-09-24T23:35:23.420208+00:00"
+      },
+      "claim": {
+        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-5",
+        "claimed_at": "2026-09-28T04:54:46.501341+00:00",
+        "lease_expires_at": "2026-09-28T10:54:46.501341+00:00",
+        "run_id": "36367269759"
       }
     },
     "6722": {
@@ -239799,6 +239799,12 @@
         "target_video_id": "29686871",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-25T01:29:04.338256+00:00"
+      },
+      "claim": {
+        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-0",
+        "claimed_at": "2026-09-28T04:54:47.187728+00:00",
+        "lease_expires_at": "2026-09-28T10:54:47.187728+00:00",
+        "run_id": "36367269759"
       }
     },
     "14164": {
@@ -239806,13 +239812,6 @@
     },
     "20398": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "30618001",
-          "target_video_id": "29686870",
-          "permanent": false,
-          "attempted_at": "2026-09-28T03:01:51.284814+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "30618001",
@@ -239826,6 +239825,13 @@
           "target_video_id": "29686870",
           "permanent": false,
           "attempted_at": "2026-09-28T04:14:28.028781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30618001",
+          "target_video_id": "29686870",
+          "permanent": false,
+          "attempted_at": "2026-09-28T04:54:46.135656+00:00"
         }
       ],
       "last_plan": {
@@ -239838,12 +239844,6 @@
         "target_video_id": "29686870",
         "size_bytes": 3600000000,
         "prepared_at": "2026-09-25T01:29:01.954824+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-3",
-        "claimed_at": "2026-09-28T04:54:37.929791+00:00",
-        "lease_expires_at": "2026-09-28T10:54:37.929791+00:00",
-        "run_id": "36367269759"
       }
     },
     "15962": {
@@ -240360,6 +240360,12 @@
         "target_video_id": "29687305",
         "size_bytes": 931600000,
         "prepared_at": "2026-09-25T01:45:07.597065+00:00"
+      },
+      "claim": {
+        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-3",
+        "claimed_at": "2026-09-28T04:54:46.861920+00:00",
+        "lease_expires_at": "2026-09-28T10:54:46.861920+00:00",
+        "run_id": "36367269759"
       }
     },
     "7856": {
@@ -284362,5 +284368,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T04:54:39.639443+00:00"
+  "updated_at": "2026-09-28T04:54:48.113121+00:00"
 }
