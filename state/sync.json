@@ -81268,13 +81268,6 @@
           "source_id": "26697838",
           "target_video_id": "29567857",
           "permanent": false,
-          "attempted_at": "2026-09-28T03:09:36.171409+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26697838",
-          "target_video_id": "29567857",
-          "permanent": false,
           "attempted_at": "2026-09-28T03:40:45.041404+00:00"
         },
         {
@@ -81283,6 +81276,13 @@
           "target_video_id": "29567857",
           "permanent": false,
           "attempted_at": "2026-09-28T04:25:34.259776+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26697838",
+          "target_video_id": "29567857",
+          "permanent": false,
+          "attempted_at": "2026-09-28T05:02:05.126709+00:00"
         }
       ],
       "last_plan": {
@@ -81295,12 +81295,6 @@
         "target_video_id": "29567857",
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-20T21:27:31.805043+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-0",
-        "claimed_at": "2026-09-28T05:01:57.272881+00:00",
-        "lease_expires_at": "2026-09-28T11:01:57.272881+00:00",
-        "run_id": "36367269759"
       }
     },
     "28330": {
@@ -81402,13 +81396,6 @@
           "source_id": "30659384",
           "target_video_id": "29570722",
           "permanent": false,
-          "attempted_at": "2026-09-28T03:09:37.332382+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30659384",
-          "target_video_id": "29570722",
-          "permanent": false,
           "attempted_at": "2026-09-28T03:40:48.543212+00:00"
         },
         {
@@ -81417,6 +81404,13 @@
           "target_video_id": "29570722",
           "permanent": false,
           "attempted_at": "2026-09-28T04:25:34.578348+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30659384",
+          "target_video_id": "29570722",
+          "permanent": false,
+          "attempted_at": "2026-09-28T05:02:05.412372+00:00"
         }
       ],
       "last_plan": {
@@ -81429,12 +81423,6 @@
         "target_video_id": "29570722",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-20T23:32:45.528745+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-3",
-        "claimed_at": "2026-09-28T05:01:57.561912+00:00",
-        "lease_expires_at": "2026-09-28T11:01:57.561912+00:00",
-        "run_id": "36367269759"
       }
     },
     "28394": {
@@ -81636,6 +81624,12 @@
         "target_video_id": "29570727",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-20T23:32:47.992654+00:00"
+      },
+      "claim": {
+        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-4",
+        "claimed_at": "2026-09-28T05:02:04.845412+00:00",
+        "lease_expires_at": "2026-09-28T11:02:04.845412+00:00",
+        "run_id": "36367269759"
       }
     },
     "31126": {
@@ -104001,17 +103995,19 @@
       "attempts": []
     },
     "30374": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713472",
+          "target_video_id": "29801493",
+          "permanent": false,
+          "attempted_at": "2026-09-28T05:02:05.696448+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713472",
         "display_name": "Nevěsta s nejkrásnějšíma očima (1976) 1080p",
         "planned_at": "2026-09-28T04:49:39.303748+00:00"
-      },
-      "claim": {
-        "worker_id": "9cfb2e1401dc4014bf168a36c9ebaefe-shard-2",
-        "claimed_at": "2026-09-28T04:49:54.991562+00:00",
-        "lease_expires_at": "2026-09-28T10:49:54.991562+00:00",
-        "run_id": "36367269759"
       },
       "previous_target_id": "29801493",
       "prepared": {
@@ -284370,5 +284366,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T05:01:58.237146+00:00"
+  "updated_at": "2026-09-28T05:02:05.696472+00:00"
 }
