@@ -1435,13 +1435,6 @@
           "source_id": "18329991",
           "target_video_id": "28928664",
           "permanent": false,
-          "attempted_at": "2026-09-28T04:15:08.530317+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18329991",
-          "target_video_id": "28928664",
-          "permanent": false,
           "attempted_at": "2026-09-28T04:55:20.600591+00:00"
         },
         {
@@ -1450,6 +1443,13 @@
           "target_video_id": "28928664",
           "permanent": false,
           "attempted_at": "2026-09-28T05:32:56.913182+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18329991",
+          "target_video_id": "28928664",
+          "permanent": false,
+          "attempted_at": "2026-09-28T06:40:50.600511+00:00"
         }
       ],
       "last_plan": {
@@ -1522,13 +1522,6 @@
           "source_id": "30793920",
           "target_video_id": "28928358",
           "permanent": false,
-          "attempted_at": "2026-09-28T04:15:46.001462+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30793920",
-          "target_video_id": "28928358",
-          "permanent": false,
           "attempted_at": "2026-09-28T04:55:21.418906+00:00"
         },
         {
@@ -1537,6 +1530,13 @@
           "target_video_id": "28928358",
           "permanent": false,
           "attempted_at": "2026-09-28T05:33:16.685651+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30793920",
+          "target_video_id": "28928358",
+          "permanent": false,
+          "attempted_at": "2026-09-28T06:41:31.624868+00:00"
         }
       ],
       "last_plan": {
@@ -4197,13 +4197,6 @@
           "source_id": "15283636",
           "target_video_id": "29207536",
           "permanent": false,
-          "attempted_at": "2026-09-28T04:15:45.512245+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15283636",
-          "target_video_id": "29207536",
-          "permanent": false,
           "attempted_at": "2026-09-28T04:55:22.284667+00:00"
         },
         {
@@ -4212,6 +4205,13 @@
           "target_video_id": "29207536",
           "permanent": false,
           "attempted_at": "2026-09-28T05:33:18.477987+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15283636",
+          "target_video_id": "29207536",
+          "permanent": false,
+          "attempted_at": "2026-09-28T06:41:34.413586+00:00"
         }
       ],
       "last_plan": {
@@ -124838,6 +124838,12 @@
         "target_video_id": "29792934",
         "size_bytes": 4200000000,
         "prepared_at": "2026-09-27T23:39:19.501023+00:00"
+      },
+      "claim": {
+        "worker_id": "b7c4edfb32a845fdb6f12501bda5eeac-shard-1",
+        "claimed_at": "2026-09-28T06:41:33.325559+00:00",
+        "lease_expires_at": "2026-09-28T12:41:33.325559+00:00",
+        "run_id": "36367269759"
       }
     },
     "29646": {
@@ -148993,13 +148999,6 @@
           "permanent": false,
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-28T04:11:19.105991+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34851062",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-28T04:54:24.165245+00:00"
         },
         {
@@ -149008,6 +149007,13 @@
           "source_id": "34851062",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-28T05:32:54.065321+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851062",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T06:41:26.123429+00:00"
         }
       ],
       "last_plan": {
@@ -149020,13 +149026,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "b7c4edfb32a845fdb6f12501bda5eeac-shard-2",
-        "claimed_at": "2026-09-28T06:40:15.826611+00:00",
-        "lease_expires_at": "2026-09-28T12:40:15.826611+00:00",
-        "run_id": "36367269759"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -160397,17 +160397,19 @@
       "attempts": []
     },
     "26026": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35148365",
+          "target_video_id": "29804355",
+          "permanent": false,
+          "attempted_at": "2026-09-28T06:41:34.782779+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35148365",
         "display_name": "Stažení (2007) 1080p CZ Dabing",
         "planned_at": "2026-09-28T06:21:00.922302+00:00"
-      },
-      "claim": {
-        "worker_id": "b7c4edfb32a845fdb6f12501bda5eeac-shard-3",
-        "claimed_at": "2026-09-28T06:26:20.273350+00:00",
-        "lease_expires_at": "2026-09-28T12:26:20.273350+00:00",
-        "run_id": "36367269759"
       },
       "previous_target_id": "29804355",
       "prepared": {
@@ -241357,13 +241359,6 @@
           "source_id": "18651298",
           "target_video_id": "29692502",
           "permanent": false,
-          "attempted_at": "2026-09-28T04:15:10.348727+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18651298",
-          "target_video_id": "29692502",
-          "permanent": false,
           "attempted_at": "2026-09-28T04:55:21.111864+00:00"
         },
         {
@@ -241372,6 +241367,13 @@
           "target_video_id": "29692502",
           "permanent": false,
           "attempted_at": "2026-09-28T05:33:14.849555+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18651298",
+          "target_video_id": "29692502",
+          "permanent": false,
+          "attempted_at": "2026-09-28T06:41:28.736049+00:00"
         }
       ],
       "last_plan": {
@@ -250034,6 +250036,12 @@
         "source_id": "34454298",
         "display_name": "V/H/S (2012) SD CZ Titulky",
         "planned_at": "2026-09-28T06:39:32.753332+00:00"
+      },
+      "claim": {
+        "worker_id": "b7c4edfb32a845fdb6f12501bda5eeac-shard-0",
+        "claimed_at": "2026-09-28T06:40:51.392826+00:00",
+        "lease_expires_at": "2026-09-28T12:40:51.392826+00:00",
+        "run_id": "36367269759"
       }
     },
     "19777": {
@@ -250486,13 +250494,6 @@
           "permanent": false,
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-28T04:12:25.107312+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34667639",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-28T04:54:26.348211+00:00"
         },
         {
@@ -250501,18 +250502,19 @@
           "source_id": "34667639",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-28T05:32:56.625656+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34667639",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-28T06:41:32.473118+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34667639",
         "display_name": "Z (2019) 720p CZ Dabing",
         "planned_at": "2026-09-28T06:39:32.122025+00:00"
-      },
-      "claim": {
-        "worker_id": "b7c4edfb32a845fdb6f12501bda5eeac-shard-1",
-        "claimed_at": "2026-09-28T06:40:23.490052+00:00",
-        "lease_expires_at": "2026-09-28T12:40:23.490052+00:00",
-        "run_id": "36367269759"
       }
     },
     "11269": {
@@ -284921,5 +284923,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T06:40:41.030626+00:00"
+  "updated_at": "2026-09-28T06:41:34.782798+00:00"
 }
