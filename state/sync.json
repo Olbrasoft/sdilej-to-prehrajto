@@ -21752,17 +21752,19 @@
       }
     },
     "923": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27026672",
+          "reason": "Request failed for https://sdilej.cz/27026672/mala-lez-the-farewell-2019-cz-dabing.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T23:05:37.615676+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27026672",
         "display_name": "Malá lež (2019) SD CZ Dabing",
         "planned_at": "2026-09-28T23:04:36.511657+00:00"
-      },
-      "claim": {
-        "worker_id": "90099d9a4a574a339a37c9dd2a7ec725-shard-1",
-        "claimed_at": "2026-09-28T23:04:51.600946+00:00",
-        "lease_expires_at": "2026-09-29T05:04:51.600946+00:00",
-        "run_id": "36486055540"
       }
     },
     "23425": {
@@ -288115,5 +288117,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T23:04:55.840614+00:00"
+  "updated_at": "2026-09-28T23:05:37.615696+00:00"
 }
