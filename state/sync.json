@@ -124320,24 +124320,22 @@
       "attempts": []
     },
     "14971": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "35123787",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29818622",
+          "attempted_at": "2026-09-28T18:15:25.386143+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35123787",
         "display_name": "Přání k narozeninám (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-28T18:04:15.159839+00:00"
       },
-      "claim": {
-        "worker_id": "c85a2542f23c4f0a87babef5f0e4a380-shard-0",
-        "claimed_at": "2026-09-28T18:04:35.096671+00:00",
-        "lease_expires_at": "2026-09-29T00:04:35.096671+00:00",
-        "run_id": "36449037103"
-      },
-      "previous_target_id": "29818622",
-      "prepared": {
-        "target_video_id": "29818622",
-        "size_bytes": 3656971856,
-        "prepared_at": "2026-09-28T18:04:47.067669+00:00"
-      }
+      "previous_target_id": "29818622"
     },
     "12511": {
       "attempts": [
@@ -286970,5 +286968,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T18:13:53.998807+00:00"
+  "updated_at": "2026-09-28T18:15:25.386167+00:00"
 }
