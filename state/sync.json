@@ -113190,17 +113190,19 @@
       "attempts": []
     },
     "27002": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29645616",
+          "reason": "Request failed for https://sdilej.cz/29645616/nedodrzeny-slib.2009.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T08:06:33.125191+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Nedodržený slib (2009) 1080p CZ Dabing",
         "planned_at": "2026-09-28T08:05:28.192211+00:00"
-      },
-      "claim": {
-        "worker_id": "cbe5a96f495441b3a017421c0829c266-shard-5",
-        "claimed_at": "2026-09-28T08:05:46.468403+00:00",
-        "lease_expires_at": "2026-09-28T14:05:46.468403+00:00",
-        "run_id": "36367269759"
       }
     },
     "36843": {
@@ -285455,5 +285457,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T08:05:52.725038+00:00"
+  "updated_at": "2026-09-28T08:06:33.125215+00:00"
 }
