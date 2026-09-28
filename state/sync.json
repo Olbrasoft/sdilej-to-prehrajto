@@ -102156,17 +102156,19 @@
       "attempts": []
     },
     "33875": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12654237",
+          "reason": "Request failed for https://sdilej.cz/12654237/o-sevci-ondrovi-a-komtesce-julince-2005-pohadka-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-28T12:01:59.808721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12654237",
         "display_name": "O ševci Ondrovi a komtesce Julince (2005) SD CZ Dabing",
         "planned_at": "2026-09-28T12:00:52.060939+00:00"
-      },
-      "claim": {
-        "worker_id": "1dc9c1c69a2440bb916a2b39deee93ad-shard-1",
-        "claimed_at": "2026-09-28T12:01:07.165956+00:00",
-        "lease_expires_at": "2026-09-28T18:01:07.165956+00:00",
-        "run_id": "36411241002"
       }
     },
     "25997": {
@@ -285809,5 +285811,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-28T12:01:57.317376+00:00"
+  "updated_at": "2026-09-28T12:01:59.808740+00:00"
 }
