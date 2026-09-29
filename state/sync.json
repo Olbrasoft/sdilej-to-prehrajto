@@ -136375,13 +136375,6 @@
           "source_id": "34708426",
           "target_video_id": "29675496",
           "permanent": false,
-          "attempted_at": "2026-09-29T12:12:37.591109+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34708426",
-          "target_video_id": "29675496",
-          "permanent": false,
           "attempted_at": "2026-09-29T13:01:19.426557+00:00"
         },
         {
@@ -136390,6 +136383,13 @@
           "target_video_id": "29675496",
           "permanent": false,
           "attempted_at": "2026-09-29T14:32:58.532995+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34708426",
+          "target_video_id": "29675496",
+          "permanent": false,
+          "attempted_at": "2026-09-29T15:15:23.848874+00:00"
         }
       ],
       "last_plan": {
@@ -136402,12 +136402,6 @@
         "target_video_id": "29675496",
         "size_bytes": 1600000000,
         "prepared_at": "2026-09-24T17:56:32.479404+00:00"
-      },
-      "claim": {
-        "worker_id": "000aa424661846008a65506cebe6025d-shard-0",
-        "claimed_at": "2026-09-29T15:15:16.752320+00:00",
-        "lease_expires_at": "2026-09-29T21:15:16.752320+00:00",
-        "run_id": "36583129047"
       }
     },
     "3660": {
@@ -137415,7 +137409,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-10T04:36:20.952436+00:00"
       },
-      "previous_target_id": "29262591"
+      "previous_target_id": "29262591",
+      "claim": {
+        "worker_id": "000aa424661846008a65506cebe6025d-shard-1",
+        "claimed_at": "2026-09-29T15:15:24.708835+00:00",
+        "lease_expires_at": "2026-09-29T21:15:24.708835+00:00",
+        "run_id": "36583129047"
+      }
     },
     "31253": {
       "attempts": []
@@ -139024,13 +139024,6 @@
           "source_id": "25275828",
           "target_video_id": "29199678",
           "permanent": false,
-          "attempted_at": "2026-09-29T12:12:39.291546+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25275828",
-          "target_video_id": "29199678",
-          "permanent": false,
           "attempted_at": "2026-09-29T13:01:21.097857+00:00"
         },
         {
@@ -139039,6 +139032,13 @@
           "target_video_id": "29199678",
           "permanent": false,
           "attempted_at": "2026-09-29T14:32:59.599499+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25275828",
+          "target_video_id": "29199678",
+          "permanent": false,
+          "attempted_at": "2026-09-29T15:15:24.136736+00:00"
         }
       ],
       "last_plan": {
@@ -139051,13 +139051,7 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-07T23:21:27.589014+00:00"
       },
-      "previous_target_id": "29199678",
-      "claim": {
-        "worker_id": "000aa424661846008a65506cebe6025d-shard-1",
-        "claimed_at": "2026-09-29T15:15:17.680656+00:00",
-        "lease_expires_at": "2026-09-29T21:15:17.680656+00:00",
-        "run_id": "36583129047"
-      }
+      "previous_target_id": "29199678"
     },
     "17581": {
       "attempts": []
@@ -139418,16 +139412,10 @@
           "attempted_at": "2026-09-29T14:33:00.302450+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34150181",
-        "display_name": "Zámotek (1985) 1080p CZ Dabing",
-        "planned_at": "2026-09-29T15:14:37.514288+00:00"
-      },
       "previous_target_id": "29717747",
-      "prepared": {
+      "upload": {
         "target_video_id": "29717747",
-        "size_bytes": 2500000000,
-        "prepared_at": "2026-09-26T01:21:06.930585+00:00"
+        "uploaded_at": "2026-09-29T15:15:26.338929+00:00"
       }
     },
     "3303": {
@@ -140440,6 +140428,12 @@
         "target_video_id": "29719751",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-26T03:19:21.645789+00:00"
+      },
+      "claim": {
+        "worker_id": "000aa424661846008a65506cebe6025d-shard-0",
+        "claimed_at": "2026-09-29T15:15:25.002621+00:00",
+        "lease_expires_at": "2026-09-29T21:15:25.002621+00:00",
+        "run_id": "36583129047"
       }
     },
     "14439": {
@@ -290543,5 +290537,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T15:15:18.049135+00:00"
+  "updated_at": "2026-09-29T15:15:26.338949+00:00"
 }
