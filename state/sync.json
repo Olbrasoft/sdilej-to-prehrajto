@@ -28072,17 +28072,19 @@
       }
     },
     "21163": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33884050",
+          "reason": "Request failed for https://sdilej.cz/33884050/hombre-1967-cz-dab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-29T13:46:44.610494+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33884050",
         "display_name": "Hombre (1967) 1080p CZ Dabing",
         "planned_at": "2026-09-29T13:45:41.369235+00:00"
-      },
-      "claim": {
-        "worker_id": "9ac295bce2ea446dab00d21ebf7a5e13-shard-1",
-        "claimed_at": "2026-09-29T13:45:58.592507+00:00",
-        "lease_expires_at": "2026-09-29T19:45:58.592507+00:00",
-        "run_id": "36543930683"
       }
     },
     "33709": {
@@ -290259,5 +290261,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T13:46:36.196254+00:00"
+  "updated_at": "2026-09-29T13:46:44.610513+00:00"
 }
