@@ -129820,13 +129820,6 @@
           "permanent": false,
           "source_id": "30726941",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-28T18:48:55.384004+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30726941",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-28T20:58:57.458384+00:00"
         },
         {
@@ -129835,18 +129828,19 @@
           "reason": "Request failed for https://sdilej.cz/30726941/maharal-tajemstvi-talismanu-2007-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-28T22:39:14.082771+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30726941",
+          "target_video_id": "29825975",
+          "permanent": false,
+          "attempted_at": "2026-09-29T00:59:28.554284+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30726941",
         "display_name": "Maharal – Tajemství talismanu (2007) 1080p CZ Titulky",
         "planned_at": "2026-09-29T00:43:19.695174+00:00"
-      },
-      "claim": {
-        "worker_id": "ce2b7a5b61584cf788a27fbef2553d65-shard-2",
-        "claimed_at": "2026-09-29T00:44:27.092600+00:00",
-        "lease_expires_at": "2026-09-29T06:44:27.092600+00:00",
-        "run_id": "36486055540"
       },
       "previous_target_id": "29825975",
       "prepared": {
@@ -288635,5 +288629,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T00:55:06.960118+00:00"
+  "updated_at": "2026-09-29T00:59:28.554328+00:00"
 }
