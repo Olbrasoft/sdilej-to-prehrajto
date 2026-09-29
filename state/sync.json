@@ -27913,17 +27913,19 @@
       "attempts": []
     },
     "21470": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34756127",
+          "reason": "Request failed for https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-29T13:25:41.994621+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34756127",
         "display_name": "Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky",
         "planned_at": "2026-09-29T13:20:30.619843+00:00"
-      },
-      "claim": {
-        "worker_id": "9ac295bce2ea446dab00d21ebf7a5e13-shard-1",
-        "claimed_at": "2026-09-29T13:25:38.497737+00:00",
-        "lease_expires_at": "2026-09-29T19:25:38.497737+00:00",
-        "run_id": "36543930683"
       }
     },
     "27030": {
@@ -27938,6 +27940,12 @@
         "source_id": "33768118",
         "display_name": "Dobrodružství rabína Jákoba (1973) 1080p CZ Dabing",
         "planned_at": "2026-09-29T13:20:30.908301+00:00"
+      },
+      "claim": {
+        "worker_id": "9ac295bce2ea446dab00d21ebf7a5e13-shard-0",
+        "claimed_at": "2026-09-29T13:25:41.700166+00:00",
+        "lease_expires_at": "2026-09-29T19:25:41.700166+00:00",
+        "run_id": "36543930683"
       }
     },
     "30893": {
@@ -289950,5 +289958,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T13:25:38.820691+00:00"
+  "updated_at": "2026-09-29T13:25:41.994639+00:00"
 }
