@@ -48884,17 +48884,19 @@
       }
     },
     "26643": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34773343",
+          "reason": "Request failed for https://sdilej.cz/34773343/elephant-2020-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:06:06.747626+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34773343",
         "display_name": "Elephant (2020) 720p CZ Titulky",
         "planned_at": "2026-09-29T02:05:05.269559+00:00"
-      },
-      "claim": {
-        "worker_id": "ce2b7a5b61584cf788a27fbef2553d65-shard-2",
-        "claimed_at": "2026-09-29T02:05:20.484000+00:00",
-        "lease_expires_at": "2026-09-29T08:05:20.484000+00:00",
-        "run_id": "36486055540"
       }
     },
     "11518": {
@@ -289025,5 +289027,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T02:05:24.499988+00:00"
+  "updated_at": "2026-09-29T02:06:06.747644+00:00"
 }
