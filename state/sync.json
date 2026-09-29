@@ -157999,17 +157999,19 @@
       }
     },
     "3941": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28310094",
+          "reason": "Request failed for https://sdilej.cz/28310094/hrdost-a-slava-2008-pride-and-glory-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-29T00:53:57.275615+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28310094",
         "display_name": "Hrdost a sláva (2008) 720p CZ Dabing",
         "planned_at": "2026-09-29T00:52:55.049069+00:00"
-      },
-      "claim": {
-        "worker_id": "ce2b7a5b61584cf788a27fbef2553d65-shard-0",
-        "claimed_at": "2026-09-29T00:53:11.401677+00:00",
-        "lease_expires_at": "2026-09-29T06:53:11.401677+00:00",
-        "run_id": "36486055540"
       }
     },
     "13783": {
@@ -288607,5 +288609,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T00:53:15.616731+00:00"
+  "updated_at": "2026-09-29T00:53:57.275632+00:00"
 }
