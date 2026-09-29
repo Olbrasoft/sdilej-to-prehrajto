@@ -50197,6 +50197,12 @@
         "target_video_id": "29827482",
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-29T02:05:24.499973+00:00"
+      },
+      "claim": {
+        "worker_id": "2c9b940d2d9644e3a06ef1d9f09a7f39-shard-2",
+        "claimed_at": "2026-09-29T18:21:34.962734+00:00",
+        "lease_expires_at": "2026-09-30T00:21:34.962734+00:00",
+        "run_id": "36583129047"
       }
     },
     "1938": {
@@ -53381,6 +53387,12 @@
         "target_video_id": "29827496",
         "size_bytes": 2300000000,
         "prepared_at": "2026-09-29T02:06:12.983852+00:00"
+      },
+      "claim": {
+        "worker_id": "2c9b940d2d9644e3a06ef1d9f09a7f39-shard-0",
+        "claimed_at": "2026-09-29T18:21:35.259594+00:00",
+        "lease_expires_at": "2026-09-30T00:21:35.259594+00:00",
+        "run_id": "36583129047"
       }
     },
     "30120": {
@@ -155123,13 +155135,6 @@
           "source_id": "34851062",
           "target_video_id": "29220630",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:42:53.568574+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34851062",
-          "target_video_id": "29220630",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:30:27.329663+00:00"
         },
         {
@@ -155138,6 +155143,13 @@
           "target_video_id": "29220630",
           "permanent": false,
           "attempted_at": "2026-09-29T17:04:23.209292+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34851062",
+          "target_video_id": "29220630",
+          "permanent": false,
+          "attempted_at": "2026-09-29T18:21:34.668149+00:00"
         }
       ],
       "last_plan": {
@@ -155150,13 +155162,7 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-08T18:32:32.016661+00:00"
       },
-      "previous_target_id": "29220630",
-      "claim": {
-        "worker_id": "2c9b940d2d9644e3a06ef1d9f09a7f39-shard-0",
-        "claimed_at": "2026-09-29T18:21:00.523433+00:00",
-        "lease_expires_at": "2026-09-30T00:21:00.523433+00:00",
-        "run_id": "36583129047"
-      }
+      "previous_target_id": "29220630"
     },
     "7973": {
       "attempts": []
@@ -257620,22 +257626,10 @@
           "attempted_at": "2026-09-29T17:05:09.639313+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33767389",
-        "display_name": "Cesta Černého měsíce (1986) 1080p CZ Dabing",
-        "planned_at": "2026-09-29T18:20:36.744554+00:00"
-      },
       "previous_target_id": "29720066",
-      "prepared": {
+      "upload": {
         "target_video_id": "29720066",
-        "size_bytes": 2400000000,
-        "prepared_at": "2026-09-26T03:40:28.325261+00:00"
-      },
-      "claim": {
-        "worker_id": "2c9b940d2d9644e3a06ef1d9f09a7f39-shard-1",
-        "claimed_at": "2026-09-29T18:21:31.716419+00:00",
-        "lease_expires_at": "2026-09-30T00:21:31.716419+00:00",
-        "run_id": "36583129047"
+        "uploaded_at": "2026-09-29T18:21:35.555603+00:00"
       }
     },
     "7079": {
@@ -291214,5 +291208,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T18:21:32.127105+00:00"
+  "updated_at": "2026-09-29T18:21:35.555624+00:00"
 }
