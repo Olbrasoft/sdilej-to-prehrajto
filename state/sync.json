@@ -143959,7 +143959,13 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-08T16:38:45.738122+00:00"
       },
-      "previous_target_id": "29218008"
+      "previous_target_id": "29218008",
+      "claim": {
+        "worker_id": "9a660ffc8b334dbe9cf5032397446a2e-shard-0",
+        "claimed_at": "2026-09-29T03:26:12.250260+00:00",
+        "lease_expires_at": "2026-09-29T09:26:12.250260+00:00",
+        "run_id": "36486055540"
+      }
     },
     "31087": {
       "attempts": []
@@ -144770,17 +144776,19 @@
       "attempts": []
     },
     "15676": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32746960",
+          "target_video_id": "29828936",
+          "permanent": false,
+          "attempted_at": "2026-09-29T03:26:14.126551+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32746960",
         "display_name": "Vražedná výchova (2022) 1080p CZ Dabing",
         "planned_at": "2026-09-29T03:16:54.959798+00:00"
-      },
-      "claim": {
-        "worker_id": "9a660ffc8b334dbe9cf5032397446a2e-shard-2",
-        "claimed_at": "2026-09-29T03:17:10.930456+00:00",
-        "lease_expires_at": "2026-09-29T09:17:10.930456+00:00",
-        "run_id": "36486055540"
       },
       "previous_target_id": "29828936",
       "prepared": {
@@ -289509,5 +289517,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T03:26:06.444066+00:00"
+  "updated_at": "2026-09-29T03:26:14.126566+00:00"
 }
