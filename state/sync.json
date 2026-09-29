@@ -57364,13 +57364,6 @@
           "source_id": "30700247",
           "target_video_id": "29204451",
           "permanent": false,
-          "attempted_at": "2026-09-29T15:56:24.841976+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30700247",
-          "target_video_id": "29204451",
-          "permanent": false,
           "attempted_at": "2026-09-29T17:31:54.320287+00:00"
         },
         {
@@ -57379,6 +57372,13 @@
           "target_video_id": "29204451",
           "permanent": false,
           "attempted_at": "2026-09-29T18:59:05.740700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30700247",
+          "target_video_id": "29204451",
+          "permanent": false,
+          "attempted_at": "2026-09-29T20:49:10.819775+00:00"
         }
       ],
       "last_plan": {
@@ -57934,7 +57934,13 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-09-08T05:04:25.903912+00:00"
       },
-      "previous_target_id": "29204521"
+      "previous_target_id": "29204521",
+      "claim": {
+        "worker_id": "96ad0b698f7b48d594b9ee884a9ca4d8-shard-0",
+        "claimed_at": "2026-09-29T20:49:09.787209+00:00",
+        "lease_expires_at": "2026-09-30T02:49:09.787209+00:00",
+        "run_id": "36626869902"
+      }
     },
     "2390": {
       "attempts": [
@@ -58167,13 +58173,6 @@
           "source_id": "32997472",
           "target_video_id": "29136447",
           "permanent": false,
-          "attempted_at": "2026-09-29T15:56:24.479740+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32997472",
-          "target_video_id": "29136447",
-          "permanent": false,
           "attempted_at": "2026-09-29T17:31:52.720193+00:00"
         },
         {
@@ -58182,6 +58181,13 @@
           "source_id": "32997472",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-29T18:58:24.753842+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32997472",
+          "target_video_id": "29136447",
+          "permanent": false,
+          "attempted_at": "2026-09-29T20:49:11.241368+00:00"
         }
       ],
       "last_plan": {
@@ -291599,5 +291605,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T20:49:06.525886+00:00"
+  "updated_at": "2026-09-29T20:49:11.241390+00:00"
 }
