@@ -22451,18 +22451,19 @@
           "reason": "Request failed for https://sdilej.cz/25393845/kvety-valky-2011-drama-historicky-1920p.-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-29T01:31:41.763599+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25393845",
+          "target_video_id": "29828133",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:50:24.330188+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25393845",
         "display_name": "Květy války (2011) 1080p CZ Dabing",
         "planned_at": "2026-09-29T02:37:59.007584+00:00"
-      },
-      "claim": {
-        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-1",
-        "claimed_at": "2026-09-29T02:38:40.321131+00:00",
-        "lease_expires_at": "2026-09-29T08:38:40.321131+00:00",
-        "run_id": "36486055540"
       },
       "previous_target_id": "29828133",
       "prepared": {
@@ -133233,7 +133234,13 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-18T17:53:19.279745+00:00"
       },
-      "previous_target_id": "29493444"
+      "previous_target_id": "29493444",
+      "claim": {
+        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-0",
+        "claimed_at": "2026-09-29T02:50:23.546385+00:00",
+        "lease_expires_at": "2026-09-29T08:50:23.546385+00:00",
+        "run_id": "36486055540"
+      }
     },
     "10836": {
       "attempts": []
@@ -134297,13 +134304,6 @@
           "source_id": "32704855",
           "target_video_id": "29316667",
           "permanent": false,
-          "attempted_at": "2026-09-28T21:35:58.834693+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32704855",
-          "target_video_id": "29316667",
-          "permanent": false,
           "attempted_at": "2026-09-29T00:25:08.394768+00:00"
         },
         {
@@ -134312,6 +134312,13 @@
           "target_video_id": "29316667",
           "permanent": false,
           "attempted_at": "2026-09-29T01:52:16.196261+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32704855",
+          "target_video_id": "29316667",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:50:23.257079+00:00"
         }
       ],
       "last_plan": {
@@ -134324,13 +134331,7 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-12T05:15:13.365165+00:00"
       },
-      "previous_target_id": "29316667",
-      "claim": {
-        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-0",
-        "claimed_at": "2026-09-29T02:50:15.363745+00:00",
-        "lease_expires_at": "2026-09-29T08:50:15.363745+00:00",
-        "run_id": "36486055540"
-      }
+      "previous_target_id": "29316667"
     },
     "27151": {
       "attempts": []
@@ -134633,7 +134634,13 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T10:16:25.002637+00:00"
       },
-      "previous_target_id": "29129473"
+      "previous_target_id": "29129473",
+      "claim": {
+        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-2",
+        "claimed_at": "2026-09-29T02:50:23.852115+00:00",
+        "lease_expires_at": "2026-09-29T08:50:23.852115+00:00",
+        "run_id": "36486055540"
+      }
     },
     "15956": {
       "attempts": []
@@ -289348,5 +289355,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T02:50:16.531153+00:00"
+  "updated_at": "2026-09-29T02:50:24.330202+00:00"
 }
