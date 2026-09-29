@@ -102502,13 +102502,6 @@
           "source_id": "33817621",
           "target_video_id": "29129228",
           "permanent": false,
-          "attempted_at": "2026-09-29T09:12:13.148316+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33817621",
-          "target_video_id": "29129228",
-          "permanent": false,
           "attempted_at": "2026-09-29T09:56:25.640809+00:00"
         },
         {
@@ -102517,6 +102510,13 @@
           "target_video_id": "29129228",
           "permanent": false,
           "attempted_at": "2026-09-29T10:40:58.082832+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33817621",
+          "target_video_id": "29129228",
+          "permanent": false,
+          "attempted_at": "2026-09-29T11:28:49.116719+00:00"
         }
       ],
       "last_plan": {
@@ -102529,13 +102529,7 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-06T07:07:54.097453+00:00"
       },
-      "previous_target_id": "29129228",
-      "claim": {
-        "worker_id": "9e28122aa01a42cf93f2bf3452d5359f-shard-1",
-        "claimed_at": "2026-09-29T11:28:43.808861+00:00",
-        "lease_expires_at": "2026-09-29T17:28:43.808861+00:00",
-        "run_id": "36543930683"
-      }
+      "previous_target_id": "29129228"
     },
     "29900": {
       "attempts": [
@@ -102925,7 +102919,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-10T16:01:26.517255+00:00"
       },
-      "previous_target_id": "29276442"
+      "previous_target_id": "29276442",
+      "claim": {
+        "worker_id": "9e28122aa01a42cf93f2bf3452d5359f-shard-2",
+        "claimed_at": "2026-09-29T11:28:49.747694+00:00",
+        "lease_expires_at": "2026-09-29T17:28:49.747694+00:00",
+        "run_id": "36543930683"
+      }
     },
     "16177": {
       "attempts": [
@@ -104032,16 +104032,10 @@
           "attempted_at": "2026-09-29T10:41:09.038202+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30160695",
-        "display_name": "Pěnička a Paraplíčko (1971) 1080p CZ Dabing",
-        "planned_at": "2026-09-29T11:28:17.980229+00:00"
-      },
       "previous_target_id": "29705553",
-      "prepared": {
+      "upload": {
         "target_video_id": "29705553",
-        "size_bytes": 1700000000,
-        "prepared_at": "2026-09-25T13:35:37.735118+00:00"
+        "uploaded_at": "2026-09-29T11:28:51.265417+00:00"
       }
     },
     "33188": {
@@ -289885,5 +289879,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T11:28:44.327945+00:00"
+  "updated_at": "2026-09-29T11:28:51.265436+00:00"
 }
