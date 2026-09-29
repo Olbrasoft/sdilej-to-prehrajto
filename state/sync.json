@@ -87901,13 +87901,6 @@
           "source_id": "33873663",
           "target_video_id": "29314994",
           "permanent": false,
-          "attempted_at": "2026-09-29T10:39:58.594842+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33873663",
-          "target_video_id": "29314994",
-          "permanent": false,
           "attempted_at": "2026-09-29T11:27:57.021298+00:00"
         },
         {
@@ -87916,6 +87909,13 @@
           "target_video_id": "29314994",
           "permanent": false,
           "attempted_at": "2026-09-29T12:07:51.555609+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33873663",
+          "target_video_id": "29314994",
+          "permanent": false,
+          "attempted_at": "2026-09-29T12:56:42.150612+00:00"
         }
       ],
       "last_plan": {
@@ -87928,13 +87928,7 @@
         "size_bytes": 7100000000,
         "prepared_at": "2026-09-12T03:05:46.140238+00:00"
       },
-      "previous_target_id": "29314994",
-      "claim": {
-        "worker_id": "31026cc8365945bdbe1eeb30f54fbe51-shard-1",
-        "claimed_at": "2026-09-29T12:56:35.651665+00:00",
-        "lease_expires_at": "2026-09-29T18:56:35.651665+00:00",
-        "run_id": "36543930683"
-      }
+      "previous_target_id": "29314994"
     },
     "3098": {
       "attempts": [
@@ -90342,6 +90336,12 @@
         "target_video_id": "29571102",
         "size_bytes": 18600000000,
         "prepared_at": "2026-09-20T23:50:14.801518+00:00"
+      },
+      "claim": {
+        "worker_id": "31026cc8365945bdbe1eeb30f54fbe51-shard-0",
+        "claimed_at": "2026-09-29T12:56:43.012567+00:00",
+        "lease_expires_at": "2026-09-29T18:56:43.012567+00:00",
+        "run_id": "36543930683"
       }
     },
     "11818": {
@@ -91468,7 +91468,13 @@
         "size_bytes": 11700000000,
         "prepared_at": "2026-09-17T04:50:53.751459+00:00"
       },
-      "previous_target_id": "29443370"
+      "previous_target_id": "29443370",
+      "claim": {
+        "worker_id": "31026cc8365945bdbe1eeb30f54fbe51-shard-2",
+        "claimed_at": "2026-09-29T12:56:43.300541+00:00",
+        "lease_expires_at": "2026-09-29T18:56:43.300541+00:00",
+        "run_id": "36543930683"
+      }
     },
     "29773": {
       "attempts": [
@@ -94217,16 +94223,10 @@
           "attempted_at": "2026-09-29T12:07:53.959348+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30676301",
-        "display_name": "Zloděj z Paříže (1967) SD CZ Dabing",
-        "planned_at": "2026-09-29T12:56:08.528111+00:00"
-      },
       "previous_target_id": "29708579",
-      "prepared": {
+      "upload": {
         "target_video_id": "29708579",
-        "size_bytes": 6100000000,
-        "prepared_at": "2026-09-25T16:33:36.623903+00:00"
+        "uploaded_at": "2026-09-29T12:56:44.374177+00:00"
       }
     },
     "3266": {
@@ -130330,13 +130330,6 @@
           "source_id": "10967660",
           "target_video_id": "29798320",
           "permanent": false,
-          "attempted_at": "2026-09-29T10:39:57.588252+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10967660",
-          "target_video_id": "29798320",
-          "permanent": false,
           "attempted_at": "2026-09-29T11:27:57.361247+00:00"
         },
         {
@@ -130345,6 +130338,13 @@
           "target_video_id": "29798320",
           "permanent": false,
           "attempted_at": "2026-09-29T12:07:51.978180+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10967660",
+          "target_video_id": "29798320",
+          "permanent": false,
+          "attempted_at": "2026-09-29T12:56:42.437458+00:00"
         }
       ],
       "last_plan": {
@@ -130357,12 +130357,6 @@
         "target_video_id": "29798320",
         "size_bytes": 5600000000,
         "prepared_at": "2026-09-28T02:54:19.868363+00:00"
-      },
-      "claim": {
-        "worker_id": "31026cc8365945bdbe1eeb30f54fbe51-shard-2",
-        "claimed_at": "2026-09-29T12:56:36.300706+00:00",
-        "lease_expires_at": "2026-09-29T18:56:36.300706+00:00",
-        "run_id": "36543930683"
       }
     },
     "35488": {
@@ -289857,5 +289851,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T12:56:36.695840+00:00"
+  "updated_at": "2026-09-29T12:56:44.374196+00:00"
 }
