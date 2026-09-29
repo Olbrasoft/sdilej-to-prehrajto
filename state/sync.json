@@ -28472,17 +28472,19 @@
       }
     },
     "25456": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31218431",
+          "target_video_id": "29845684",
+          "permanent": false,
+          "attempted_at": "2026-09-29T13:53:17.582476+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31218431",
         "display_name": "Tajemství slov (2005) 720p CZ Dabing",
         "planned_at": "2026-09-29T13:45:42.067598+00:00"
-      },
-      "claim": {
-        "worker_id": "9ac295bce2ea446dab00d21ebf7a5e13-shard-1",
-        "claimed_at": "2026-09-29T13:46:47.239816+00:00",
-        "lease_expires_at": "2026-09-29T19:46:47.239816+00:00",
-        "run_id": "36543930683"
       },
       "previous_target_id": "29845684",
       "prepared": {
@@ -28698,6 +28700,12 @@
         "source_id": "33652634",
         "display_name": "Avengers: Age of Ultron (2015) 4K CZ Dabing",
         "planned_at": "2026-09-29T13:45:43.062446+00:00"
+      },
+      "claim": {
+        "worker_id": "9ac295bce2ea446dab00d21ebf7a5e13-shard-2",
+        "claimed_at": "2026-09-29T13:53:14.358590+00:00",
+        "lease_expires_at": "2026-09-29T19:53:14.358590+00:00",
+        "run_id": "36543930683"
       }
     },
     "1408": {
@@ -290303,5 +290311,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T13:53:00.548800+00:00"
+  "updated_at": "2026-09-29T13:53:17.582493+00:00"
 }
