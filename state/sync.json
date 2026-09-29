@@ -112139,13 +112139,6 @@
           "source_id": "34846248",
           "target_video_id": "29748115",
           "permanent": false,
-          "attempted_at": "2026-09-29T02:03:01.770903+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846248",
-          "target_video_id": "29748115",
-          "permanent": false,
           "attempted_at": "2026-09-29T03:03:18.105366+00:00"
         },
         {
@@ -112154,6 +112147,13 @@
           "target_video_id": "29748115",
           "permanent": false,
           "attempted_at": "2026-09-29T04:04:51.532584+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846248",
+          "target_video_id": "29748115",
+          "permanent": false,
+          "attempted_at": "2026-09-29T05:05:51.663962+00:00"
         }
       ],
       "last_plan": {
@@ -118633,13 +118633,6 @@
           "source_id": "29279355",
           "target_video_id": "29748221",
           "permanent": false,
-          "attempted_at": "2026-09-29T02:02:59.515138+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29279355",
-          "target_video_id": "29748221",
-          "permanent": false,
           "attempted_at": "2026-09-29T03:03:15.941332+00:00"
         },
         {
@@ -118648,6 +118641,13 @@
           "target_video_id": "29748221",
           "permanent": false,
           "attempted_at": "2026-09-29T04:04:44.692101+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29279355",
+          "target_video_id": "29748221",
+          "permanent": false,
+          "attempted_at": "2026-09-29T05:05:51.990362+00:00"
         }
       ],
       "last_plan": {
@@ -134336,17 +134336,19 @@
       "attempts": []
     },
     "8117": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30722470",
+          "target_video_id": "29831371",
+          "permanent": false,
+          "attempted_at": "2026-09-29T05:05:53.761576+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30722470",
         "display_name": "After Party (2024) 1080p CZ Dabing",
         "planned_at": "2026-09-29T05:00:32.458903+00:00"
-      },
-      "claim": {
-        "worker_id": "21a52e04468d45e9b0acef71cf2b33d1-shard-0",
-        "claimed_at": "2026-09-29T05:00:47.144649+00:00",
-        "lease_expires_at": "2026-09-29T11:00:47.144649+00:00",
-        "run_id": "36517734229"
       },
       "previous_target_id": "29831371",
       "prepared": {
@@ -265427,6 +265429,12 @@
         "target_video_id": "29751885",
         "size_bytes": 15000000000,
         "prepared_at": "2026-09-27T05:45:42.514944+00:00"
+      },
+      "claim": {
+        "worker_id": "21a52e04468d45e9b0acef71cf2b33d1-shard-2",
+        "claimed_at": "2026-09-29T05:05:52.285094+00:00",
+        "lease_expires_at": "2026-09-29T11:05:52.285094+00:00",
+        "run_id": "36517734229"
       }
     },
     "32008": {
@@ -273457,6 +273465,12 @@
         "target_video_id": "29747595",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-26T23:36:42.357409+00:00"
+      },
+      "claim": {
+        "worker_id": "21a52e04468d45e9b0acef71cf2b33d1-shard-1",
+        "claimed_at": "2026-09-29T05:05:52.567975+00:00",
+        "lease_expires_at": "2026-09-29T11:05:52.567975+00:00",
+        "run_id": "36517734229"
       }
     },
     "12041": {
@@ -289803,5 +289817,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T05:05:42.963558+00:00"
+  "updated_at": "2026-09-29T05:05:53.761595+00:00"
 }
