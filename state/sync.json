@@ -14933,13 +14933,6 @@
           "source_id": "28172188",
           "target_video_id": "29154104",
           "permanent": false,
-          "attempted_at": "2026-09-28T21:18:24.973631+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28172188",
-          "target_video_id": "29154104",
-          "permanent": false,
           "attempted_at": "2026-09-28T23:24:13.816241+00:00"
         },
         {
@@ -14948,6 +14941,13 @@
           "target_video_id": "29154104",
           "permanent": false,
           "attempted_at": "2026-09-29T01:29:11.504054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28172188",
+          "target_video_id": "29154104",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:37:14.925113+00:00"
         }
       ],
       "last_plan": {
@@ -17202,6 +17202,12 @@
         "target_video_id": "29558972",
         "size_bytes": 12800000000,
         "prepared_at": "2026-09-20T13:15:14.886604+00:00"
+      },
+      "claim": {
+        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-0",
+        "claimed_at": "2026-09-29T02:37:15.251381+00:00",
+        "lease_expires_at": "2026-09-29T08:37:15.251381+00:00",
+        "run_id": "36486055540"
       }
     },
     "24924": {
@@ -17605,13 +17611,6 @@
           "source_id": "15688372",
           "target_video_id": "29559364",
           "permanent": false,
-          "attempted_at": "2026-09-28T21:18:23.966729+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15688372",
-          "target_video_id": "29559364",
-          "permanent": false,
           "attempted_at": "2026-09-28T23:24:11.521275+00:00"
         },
         {
@@ -17620,6 +17619,13 @@
           "target_video_id": "29559364",
           "permanent": false,
           "attempted_at": "2026-09-29T01:29:09.280095+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15688372",
+          "target_video_id": "29559364",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:37:12.823985+00:00"
         }
       ],
       "last_plan": {
@@ -17710,13 +17716,6 @@
           "source_id": "34698821",
           "target_video_id": "29559466",
           "permanent": false,
-          "attempted_at": "2026-09-28T21:18:22.748250+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34698821",
-          "target_video_id": "29559466",
-          "permanent": false,
           "attempted_at": "2026-09-28T23:24:09.461491+00:00"
         },
         {
@@ -17725,6 +17724,13 @@
           "target_video_id": "29559466",
           "permanent": false,
           "attempted_at": "2026-09-29T01:29:07.167885+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34698821",
+          "target_video_id": "29559466",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:37:10.714129+00:00"
         }
       ],
       "last_plan": {
@@ -21932,6 +21938,13 @@
           "target_video_id": "29824249",
           "permanent": false,
           "attempted_at": "2026-09-29T01:29:04.987335+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34299369",
+          "target_video_id": "29824249",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:37:08.515157+00:00"
         }
       ],
       "last_plan": {
@@ -21944,12 +21957,6 @@
         "target_video_id": "29824249",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-28T23:05:44.580659+00:00"
-      },
-      "claim": {
-        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-0",
-        "claimed_at": "2026-09-29T02:37:00.951942+00:00",
-        "lease_expires_at": "2026-09-29T08:37:00.951942+00:00",
-        "run_id": "36486055540"
       }
     },
     "11600": {
@@ -159235,18 +159242,19 @@
           "reason": "Request failed for https://sdilej.cz/34041222/jackie-natalie-portman-peter-sarsgaard-greta-gerwig-2016-zivotopisny-drama-bdrip.-1080p.-cz-dabing.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-29T01:09:46.795593+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34041222",
+          "target_video_id": "29827977",
+          "permanent": false,
+          "attempted_at": "2026-09-29T02:37:17.275761+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34041222",
         "display_name": "Jackie (2016) 1080p CZ Dabing",
         "planned_at": "2026-09-29T02:29:34.827648+00:00"
-      },
-      "claim": {
-        "worker_id": "00d6a47462804416abdd839a50e2fc02-shard-1",
-        "claimed_at": "2026-09-29T02:30:04.406445+00:00",
-        "lease_expires_at": "2026-09-29T08:30:04.406445+00:00",
-        "run_id": "36486055540"
       },
       "previous_target_id": "29827977",
       "prepared": {
@@ -289220,5 +289228,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T02:37:01.304277+00:00"
+  "updated_at": "2026-09-29T02:37:17.275777+00:00"
 }
