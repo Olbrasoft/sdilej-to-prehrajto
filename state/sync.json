@@ -133394,17 +133394,19 @@
       "attempts": []
     },
     "14712": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25512131",
+          "reason": "Request failed for https://sdilej.cz/25512131/krive-obvineni-2010-krimi-drama-zivotopisni-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-29T16:41:38.742781+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25512131",
         "display_name": "Křivé obvinění (2010) 1080p CZ Dabing",
         "planned_at": "2026-09-29T16:35:00.390856+00:00"
-      },
-      "claim": {
-        "worker_id": "3c4bd189c9b843d5b557e8bf82c009c4-shard-0",
-        "claimed_at": "2026-09-29T16:40:52.874907+00:00",
-        "lease_expires_at": "2026-09-29T22:40:52.874907+00:00",
-        "run_id": "36583129047"
       }
     },
     "17164": {
@@ -290984,5 +290986,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T16:40:56.816609+00:00"
+  "updated_at": "2026-09-29T16:41:38.742798+00:00"
 }
