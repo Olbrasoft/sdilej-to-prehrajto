@@ -87147,13 +87147,6 @@
           "source_id": "32940647",
           "target_video_id": "29290054",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:30:39.677121+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32940647",
-          "target_video_id": "29290054",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:12:00.574478+00:00"
         },
         {
@@ -87162,6 +87155,13 @@
           "target_video_id": "29290054",
           "permanent": false,
           "attempted_at": "2026-09-29T16:49:04.217221+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32940647",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-29T17:57:26.814631+00:00"
         }
       ],
       "last_plan": {
@@ -111737,13 +111737,6 @@
           "source_id": "31033891",
           "target_video_id": "29710749",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:30:43.946454+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31033891",
-          "target_video_id": "29710749",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:12:02.741363+00:00"
         },
         {
@@ -111752,6 +111745,13 @@
           "target_video_id": "29710749",
           "permanent": false,
           "attempted_at": "2026-09-29T16:49:02.796523+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31033891",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-29T17:57:05.970469+00:00"
         }
       ],
       "last_plan": {
@@ -114062,13 +114062,6 @@
           "source_id": "29201504",
           "target_video_id": "29504151",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:30:45.627380+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29201504",
-          "target_video_id": "29504151",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:12:04.378222+00:00"
         },
         {
@@ -114077,6 +114070,13 @@
           "target_video_id": "29504151",
           "permanent": false,
           "attempted_at": "2026-09-29T16:49:04.987685+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29201504",
+          "target_video_id": "29504151",
+          "permanent": false,
+          "attempted_at": "2026-09-29T17:58:07.639962+00:00"
         }
       ],
       "last_plan": {
@@ -114469,13 +114469,6 @@
           "source_id": "28418103",
           "target_video_id": "29600242",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:30:45.989864+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28418103",
-          "target_video_id": "29600242",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:12:04.830139+00:00"
         },
         {
@@ -114484,6 +114477,13 @@
           "target_video_id": "29600242",
           "permanent": false,
           "attempted_at": "2026-09-29T16:49:06.646200+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28418103",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-29T17:58:28.408537+00:00"
         }
       ],
       "last_plan": {
@@ -114833,13 +114833,6 @@
           "source_id": "11688648",
           "target_video_id": "29581196",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:30:47.658727+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11688648",
-          "target_video_id": "29581196",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:12:06.420922+00:00"
         },
         {
@@ -114848,6 +114841,13 @@
           "target_video_id": "29581196",
           "permanent": false,
           "attempted_at": "2026-09-29T16:49:07.380695+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11688648",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-29T17:58:49.151646+00:00"
         }
       ],
       "last_plan": {
@@ -116511,7 +116511,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-17T10:19:37.422605+00:00"
       },
-      "previous_target_id": "29448179"
+      "previous_target_id": "29448179",
+      "claim": {
+        "worker_id": "a730b96387964b158e40ceda39547d56-shard-2",
+        "claimed_at": "2026-09-29T17:58:49.440156+00:00",
+        "lease_expires_at": "2026-09-29T23:58:49.440156+00:00",
+        "run_id": "36583129047"
+      }
     },
     "37450": {
       "attempts": []
@@ -170230,17 +170236,20 @@
       "attempts": []
     },
     "21423": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30760275",
+          "target_video_id": "29849686",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-09-29T17:58:53.229541+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30760275",
         "display_name": "Fort Yuma (1955) SD CZ Dabing",
         "planned_at": "2026-09-29T17:53:13.206099+00:00"
-      },
-      "claim": {
-        "worker_id": "a730b96387964b158e40ceda39547d56-shard-1",
-        "claimed_at": "2026-09-29T17:53:36.609710+00:00",
-        "lease_expires_at": "2026-09-29T23:53:36.609710+00:00",
-        "run_id": "36583129047"
       },
       "previous_target_id": "29849686",
       "prepared": {
@@ -291238,5 +291247,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T17:56:35.746342+00:00"
+  "updated_at": "2026-09-29T17:58:53.229560+00:00"
 }
