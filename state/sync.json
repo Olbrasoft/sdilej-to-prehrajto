@@ -44383,7 +44383,13 @@
         "size_bytes": 14200000000,
         "prepared_at": "2026-09-10T03:27:11.788654+00:00"
       },
-      "previous_target_id": "29261139"
+      "previous_target_id": "29261139",
+      "claim": {
+        "worker_id": "c588f6c6aa354d88b3f618308ef7909f-shard-2",
+        "claimed_at": "2026-09-29T20:44:31.634467+00:00",
+        "lease_expires_at": "2026-09-30T02:44:31.634467+00:00",
+        "run_id": "36583129047"
+      }
     },
     "2054": {
       "attempts": [
@@ -48400,13 +48406,6 @@
           "source_id": "29473098",
           "target_video_id": "29174349",
           "permanent": false,
-          "attempted_at": "2026-09-29T15:54:38.496685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29473098",
-          "target_video_id": "29174349",
-          "permanent": false,
           "attempted_at": "2026-09-29T17:30:25.575371+00:00"
         },
         {
@@ -48415,6 +48414,13 @@
           "source_id": "29473098",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-29T18:43:37.413379+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29473098",
+          "target_video_id": "29174349",
+          "permanent": false,
+          "attempted_at": "2026-09-29T20:44:33.395056+00:00"
         }
       ],
       "last_plan": {
@@ -49462,7 +49468,13 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-09-07T00:11:56.740060+00:00"
       },
-      "previous_target_id": "29174784"
+      "previous_target_id": "29174784",
+      "claim": {
+        "worker_id": "c588f6c6aa354d88b3f618308ef7909f-shard-1",
+        "claimed_at": "2026-09-29T20:44:31.921275+00:00",
+        "lease_expires_at": "2026-09-30T02:44:31.921275+00:00",
+        "run_id": "36583129047"
+      }
     },
     "15970": {
       "attempts": [
@@ -291605,5 +291617,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T20:44:28.952061+00:00"
+  "updated_at": "2026-09-29T20:44:33.395073+00:00"
 }
