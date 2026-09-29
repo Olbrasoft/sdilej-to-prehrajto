@@ -134442,17 +134442,19 @@
       }
     },
     "28766": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34465179",
+          "reason": "Request failed for https://sdilej.cz/34465179/musara-as.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-29T16:48:56.374438+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34465179",
         "display_name": "Musarañas (2014) SD CZ Titulky",
         "planned_at": "2026-09-29T16:35:01.287285+00:00"
-      },
-      "claim": {
-        "worker_id": "3c4bd189c9b843d5b557e8bf82c009c4-shard-1",
-        "claimed_at": "2026-09-29T16:48:08.381445+00:00",
-        "lease_expires_at": "2026-09-29T22:48:08.381445+00:00",
-        "run_id": "36583129047"
       }
     },
     "3279": {
@@ -291022,5 +291024,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T16:48:49.535833+00:00"
+  "updated_at": "2026-09-29T16:48:56.374455+00:00"
 }
