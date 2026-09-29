@@ -14909,7 +14909,13 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-09-13T02:27:33.040894+00:00"
       },
-      "previous_target_id": "29336236"
+      "previous_target_id": "29336236",
+      "claim": {
+        "worker_id": "9338d522145648ff981161bf189129ab-shard-1",
+        "claimed_at": "2026-09-29T18:36:54.119165+00:00",
+        "lease_expires_at": "2026-09-30T00:36:54.119165+00:00",
+        "run_id": "36583129047"
+      }
     },
     "823": {
       "attempts": [
@@ -15035,7 +15041,13 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-09-13T02:29:11.271768+00:00"
       },
-      "previous_target_id": "29336272"
+      "previous_target_id": "29336272",
+      "claim": {
+        "worker_id": "9338d522145648ff981161bf189129ab-shard-2",
+        "claimed_at": "2026-09-29T18:36:53.830843+00:00",
+        "lease_expires_at": "2026-09-30T00:36:53.830843+00:00",
+        "run_id": "36583129047"
+      }
     },
     "781": {
       "attempts": [
@@ -161574,13 +161586,6 @@
           "source_id": "32908424",
           "target_video_id": "29826607",
           "permanent": false,
-          "attempted_at": "2026-09-29T15:03:44.288385+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32908424",
-          "target_video_id": "29826607",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:50:41.908834+00:00"
         },
         {
@@ -161589,6 +161594,13 @@
           "target_video_id": "29826607",
           "permanent": false,
           "attempted_at": "2026-09-29T17:21:20.294291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32908424",
+          "target_video_id": "29826607",
+          "permanent": false,
+          "attempted_at": "2026-09-29T18:36:53.532806+00:00"
         }
       ],
       "last_plan": {
@@ -161601,12 +161613,6 @@
         "target_video_id": "29826607",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-29T01:22:51.025083+00:00"
-      },
-      "claim": {
-        "worker_id": "9338d522145648ff981161bf189129ab-shard-1",
-        "claimed_at": "2026-09-29T18:36:44.185794+00:00",
-        "lease_expires_at": "2026-09-30T00:36:44.185794+00:00",
-        "run_id": "36583129047"
       }
     },
     "20179": {
@@ -251505,22 +251511,10 @@
           "attempted_at": "2026-09-29T17:21:22.135484+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34076738",
-        "display_name": "Model House (2024) 1080p CZ Titulky",
-        "planned_at": "2026-09-29T18:36:15.749291+00:00"
-      },
       "previous_target_id": "29707140",
-      "prepared": {
+      "upload": {
         "target_video_id": "29707140",
-        "size_bytes": 2400000000,
-        "prepared_at": "2026-09-25T15:10:47.251760+00:00"
-      },
-      "claim": {
-        "worker_id": "9338d522145648ff981161bf189129ab-shard-0",
-        "claimed_at": "2026-09-29T18:36:45.179568+00:00",
-        "lease_expires_at": "2026-09-30T00:36:45.179568+00:00",
-        "run_id": "36583129047"
+        "uploaded_at": "2026-09-29T18:36:54.402585+00:00"
       }
     },
     "31728": {
@@ -291142,5 +291136,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T18:36:45.493010+00:00"
+  "updated_at": "2026-09-29T18:36:54.402606+00:00"
 }
