@@ -106539,13 +106539,6 @@
           "source_id": "30450442",
           "target_video_id": "29136456",
           "permanent": false,
-          "attempted_at": "2026-09-29T14:30:34.087345+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30450442",
-          "target_video_id": "29136456",
-          "permanent": false,
           "attempted_at": "2026-09-29T15:11:56.093330+00:00"
         },
         {
@@ -106554,6 +106547,13 @@
           "target_video_id": "29136456",
           "permanent": false,
           "attempted_at": "2026-09-29T16:34:53.697355+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30450442",
+          "target_video_id": "29136456",
+          "permanent": false,
+          "attempted_at": "2026-09-29T17:53:49.250103+00:00"
         }
       ],
       "last_plan": {
@@ -106566,13 +106566,7 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-09-05T15:04:20.235741+00:00"
       },
-      "previous_target_id": "29136456",
-      "claim": {
-        "worker_id": "a730b96387964b158e40ceda39547d56-shard-2",
-        "claimed_at": "2026-09-29T17:53:08.638686+00:00",
-        "lease_expires_at": "2026-09-29T23:53:08.638686+00:00",
-        "run_id": "36583129047"
-      }
+      "previous_target_id": "29136456"
     },
     "24046": {
       "attempts": [],
@@ -170153,17 +170147,19 @@
       "attempts": []
     },
     "6474": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33856473",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-29T17:53:47.741039+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33856473",
         "display_name": "Šach mat (2024) 720p CZ Dabing",
         "planned_at": "2026-09-29T17:53:12.920200+00:00"
-      },
-      "claim": {
-        "worker_id": "a730b96387964b158e40ceda39547d56-shard-0",
-        "claimed_at": "2026-09-29T17:53:27.285274+00:00",
-        "lease_expires_at": "2026-09-29T23:53:27.285274+00:00",
-        "run_id": "36583129047"
       }
     },
     "26885": {
@@ -170185,6 +170181,18 @@
         "source_id": "30760275",
         "display_name": "Fort Yuma (1955) SD CZ Dabing",
         "planned_at": "2026-09-29T17:53:13.206099+00:00"
+      },
+      "claim": {
+        "worker_id": "a730b96387964b158e40ceda39547d56-shard-1",
+        "claimed_at": "2026-09-29T17:53:36.609710+00:00",
+        "lease_expires_at": "2026-09-29T23:53:36.609710+00:00",
+        "run_id": "36583129047"
+      },
+      "previous_target_id": "29849686",
+      "prepared": {
+        "target_video_id": "29849686",
+        "size_bytes": 1085251584,
+        "prepared_at": "2026-09-29T17:53:59.228215+00:00"
       }
     },
     "7890": {
@@ -170277,6 +170285,12 @@
         "source_id": "27032654",
         "display_name": "Městečko Halloween (1998) SD CZ Dabing",
         "planned_at": "2026-09-29T17:53:13.491823+00:00"
+      },
+      "claim": {
+        "worker_id": "a730b96387964b158e40ceda39547d56-shard-0",
+        "claimed_at": "2026-09-29T17:53:48.029362+00:00",
+        "lease_expires_at": "2026-09-29T23:53:48.029362+00:00",
+        "run_id": "36583129047"
       }
     },
     "11896": {
@@ -170322,6 +170336,12 @@
         "source_id": "34360999",
         "display_name": "Hrdina proti své vůli (1992) 1080p CZ Dabing",
         "planned_at": "2026-09-29T17:53:13.776519+00:00"
+      },
+      "claim": {
+        "worker_id": "a730b96387964b158e40ceda39547d56-shard-2",
+        "claimed_at": "2026-09-29T17:53:49.540374+00:00",
+        "lease_expires_at": "2026-09-29T23:53:49.540374+00:00",
+        "run_id": "36583129047"
       }
     },
     "29277": {
@@ -291136,5 +291156,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T17:53:31.261633+00:00"
+  "updated_at": "2026-09-29T17:53:59.228230+00:00"
 }
