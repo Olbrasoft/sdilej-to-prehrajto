@@ -126707,6 +126707,13 @@
           "target_video_id": "29848267",
           "permanent": false,
           "attempted_at": "2026-09-29T16:22:07.848311+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19982845",
+          "target_video_id": "29848267",
+          "permanent": false,
+          "attempted_at": "2026-09-29T17:36:42.892690+00:00"
         }
       ],
       "last_plan": {
@@ -126717,7 +126724,7 @@
       "previous_target_id": "29848267",
       "prepared": {
         "target_video_id": "29848267",
-        "size_bytes": 1384713383,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-09-29T16:17:42.726322+00:00"
       }
     },
@@ -126744,6 +126751,13 @@
           "target_video_id": "29848285",
           "permanent": false,
           "attempted_at": "2026-09-29T16:28:31.574235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34903787",
+          "target_video_id": "29848285",
+          "permanent": false,
+          "attempted_at": "2026-09-29T17:36:44.951384+00:00"
         }
       ],
       "last_plan": {
@@ -126754,7 +126768,7 @@
       "previous_target_id": "29848285",
       "prepared": {
         "target_video_id": "29848285",
-        "size_bytes": 3229299169,
+        "size_bytes": 3200000000,
         "prepared_at": "2026-09-29T16:18:48.346609+00:00"
       }
     },
@@ -132804,6 +132818,14 @@
           "permanent": false,
           "target_video_id": "29848320",
           "attempted_at": "2026-09-29T16:32:32.631551+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34646244",
+          "target_video_id": "29848320",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-09-29T17:36:46.234381+00:00"
         }
       ],
       "last_plan": {
@@ -132811,7 +132833,13 @@
         "display_name": "Teroristka (2019) 1080p CZ Dabing",
         "planned_at": "2026-09-29T17:36:05.624951+00:00"
       },
-      "previous_target_id": "29848320"
+      "previous_target_id": "29848320",
+      "claim": {
+        "worker_id": "a730b96387964b158e40ceda39547d56-shard-2",
+        "claimed_at": "2026-09-29T17:36:45.334225+00:00",
+        "lease_expires_at": "2026-09-29T23:36:45.334225+00:00",
+        "run_id": "36583129047"
+      }
     },
     "36951": {
       "attempts": []
@@ -133030,6 +133058,13 @@
           "target_video_id": "29848353",
           "permanent": false,
           "attempted_at": "2026-09-29T16:33:14.296178+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33333813",
+          "target_video_id": "29848353",
+          "permanent": false,
+          "attempted_at": "2026-09-29T17:36:48.515678+00:00"
         }
       ],
       "last_plan": {
@@ -133040,7 +133075,7 @@
       "previous_target_id": "29848353",
       "prepared": {
         "target_video_id": "29848353",
-        "size_bytes": 2695330368,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-09-29T16:22:14.598043+00:00"
       }
     },
@@ -133202,6 +133237,18 @@
         "source_id": "34152128",
         "display_name": "13: hra smrti (2006) 720p CZ Dabing",
         "planned_at": "2026-09-29T17:36:06.216154+00:00"
+      },
+      "claim": {
+        "worker_id": "a730b96387964b158e40ceda39547d56-shard-2",
+        "claimed_at": "2026-09-29T17:36:48.887317+00:00",
+        "lease_expires_at": "2026-09-29T23:36:48.887317+00:00",
+        "run_id": "36583129047"
+      },
+      "previous_target_id": "29849447",
+      "prepared": {
+        "target_video_id": "29849447",
+        "size_bytes": 4495949755,
+        "prepared_at": "2026-09-29T17:36:54.534510+00:00"
       }
     },
     "17360": {
@@ -291037,5 +291084,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-29T17:36:38.714580+00:00"
+  "updated_at": "2026-09-29T17:36:54.534527+00:00"
 }
