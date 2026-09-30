@@ -24824,6 +24824,12 @@
         "target_video_id": "29751752",
         "size_bytes": 2100000000,
         "prepared_at": "2026-09-27T05:30:36.901965+00:00"
+      },
+      "claim": {
+        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-2",
+        "claimed_at": "2026-09-30T21:51:03.302648+00:00",
+        "lease_expires_at": "2026-10-01T03:51:03.302648+00:00",
+        "run_id": "36744983375"
       }
     },
     "19738": {
@@ -71482,13 +71488,6 @@
           "source_id": "32500243",
           "target_video_id": "29356044",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:13:27.673137+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500243",
-          "target_video_id": "29356044",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:44:33.876937+00:00"
         },
         {
@@ -71497,6 +71496,13 @@
           "target_video_id": "29356044",
           "permanent": false,
           "attempted_at": "2026-09-30T17:15:29.976383+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500243",
+          "target_video_id": "29356044",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:51:02.991992+00:00"
         }
       ],
       "last_plan": {
@@ -71509,13 +71515,7 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-13T19:27:12.091567+00:00"
       },
-      "previous_target_id": "29356044",
-      "claim": {
-        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-2",
-        "claimed_at": "2026-09-30T21:50:52.618233+00:00",
-        "lease_expires_at": "2026-10-01T03:50:52.618233+00:00",
-        "run_id": "36744983375"
-      }
+      "previous_target_id": "29356044"
     },
     "22960": {
       "attempts": []
@@ -136251,16 +136251,10 @@
           "attempted_at": "2026-09-30T17:15:39.911961+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32589675",
-        "display_name": "Jaro s Juliette (2024) 1080p CZ Dabing",
-        "planned_at": "2026-09-30T21:50:03.798190+00:00"
-      },
       "previous_target_id": "29831187",
-      "prepared": {
+      "upload": {
         "target_video_id": "29831187",
-        "size_bytes": 3900000000,
-        "prepared_at": "2026-09-29T04:52:08.769329+00:00"
+        "uploaded_at": "2026-09-30T21:51:04.399507+00:00"
       }
     },
     "11829": {
@@ -290787,5 +290781,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T21:51:00.059850+00:00"
+  "updated_at": "2026-09-30T21:51:04.399525+00:00"
 }
