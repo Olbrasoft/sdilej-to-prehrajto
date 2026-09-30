@@ -95999,17 +95999,19 @@
       "attempts": []
     },
     "31237": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32920979",
+          "target_video_id": "29883168",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:47:41.982206+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32920979",
         "display_name": "Klondike (2022) 1080p CZ Titulky",
         "planned_at": "2026-09-30T21:25:52.461223+00:00"
-      },
-      "claim": {
-        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-2",
-        "claimed_at": "2026-09-30T21:41:46.272807+00:00",
-        "lease_expires_at": "2026-10-01T03:41:46.272807+00:00",
-        "run_id": "36744983375"
       },
       "previous_target_id": "29883168",
       "prepared": {
@@ -115007,13 +115009,6 @@
           "source_id": "28418103",
           "target_video_id": "29600242",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:10:22.530723+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28418103",
-          "target_video_id": "29600242",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:41:29.551085+00:00"
         },
         {
@@ -115022,6 +115017,13 @@
           "target_video_id": "29600242",
           "permanent": false,
           "attempted_at": "2026-09-30T17:11:41.627718+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28418103",
+          "target_video_id": "29600242",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:47:40.328883+00:00"
         }
       ],
       "last_plan": {
@@ -135012,6 +135014,12 @@
         "target_video_id": "29848707",
         "size_bytes": 1600000000,
         "prepared_at": "2026-09-29T16:45:22.750985+00:00"
+      },
+      "claim": {
+        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-1",
+        "claimed_at": "2026-09-30T21:47:40.661635+00:00",
+        "lease_expires_at": "2026-10-01T03:47:40.661635+00:00",
+        "run_id": "36744983375"
       }
     },
     "33229": {
@@ -290839,5 +290847,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T21:47:32.680755+00:00"
+  "updated_at": "2026-09-30T21:47:41.982222+00:00"
 }
