@@ -20244,6 +20244,12 @@
         "target_video_id": "29733518",
         "size_bytes": 5100000000,
         "prepared_at": "2026-09-26T14:26:44.376261+00:00"
+      },
+      "claim": {
+        "worker_id": "f41b12acb8a4449c859698cc264bcd31-shard-1",
+        "claimed_at": "2026-09-30T01:46:36.655820+00:00",
+        "lease_expires_at": "2026-09-30T07:46:36.655820+00:00",
+        "run_id": "36626869902"
       }
     },
     "859": {
@@ -20389,6 +20395,12 @@
         "target_video_id": "29733537",
         "size_bytes": 3800000000,
         "prepared_at": "2026-09-26T14:29:31.740648+00:00"
+      },
+      "claim": {
+        "worker_id": "f41b12acb8a4449c859698cc264bcd31-shard-2",
+        "claimed_at": "2026-09-30T01:46:36.372566+00:00",
+        "lease_expires_at": "2026-09-30T07:46:36.372566+00:00",
+        "run_id": "36626869902"
       }
     },
     "895": {
@@ -20440,13 +20452,6 @@
           "source_id": "33853105",
           "target_video_id": "29733602",
           "permanent": false,
-          "attempted_at": "2026-09-29T23:52:40.661563+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33853105",
-          "target_video_id": "29733602",
-          "permanent": false,
           "attempted_at": "2026-09-30T00:29:44.681806+00:00"
         },
         {
@@ -20455,6 +20460,13 @@
           "target_video_id": "29733602",
           "permanent": false,
           "attempted_at": "2026-09-30T01:09:30.618140+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33853105",
+          "target_video_id": "29733602",
+          "permanent": false,
+          "attempted_at": "2026-09-30T01:46:35.799393+00:00"
         }
       ],
       "last_plan": {
@@ -20467,12 +20479,6 @@
         "target_video_id": "29733602",
         "size_bytes": 1500000000,
         "prepared_at": "2026-09-26T14:36:49.379725+00:00"
-      },
-      "claim": {
-        "worker_id": "f41b12acb8a4449c859698cc264bcd31-shard-1",
-        "claimed_at": "2026-09-30T01:46:29.691364+00:00",
-        "lease_expires_at": "2026-09-30T07:46:29.691364+00:00",
-        "run_id": "36626869902"
       }
     },
     "23515": {
@@ -275801,16 +275807,10 @@
           "attempted_at": "2026-09-30T01:09:34.904109+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11155255",
-        "display_name": "Nepřítel (2009) SD CZ Dabing",
-        "planned_at": "2026-09-30T01:45:46.009288+00:00"
-      },
       "previous_target_id": "29732898",
-      "prepared": {
+      "upload": {
         "target_video_id": "29732898",
-        "size_bytes": 1400000000,
-        "prepared_at": "2026-09-26T13:29:14.556871+00:00"
+        "uploaded_at": "2026-09-30T01:46:37.695510+00:00"
       }
     },
     "24676": {
@@ -278748,13 +278748,6 @@
           "source_id": "26984110",
           "target_video_id": "29733697",
           "permanent": false,
-          "attempted_at": "2026-09-29T23:52:36.766989+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26984110",
-          "target_video_id": "29733697",
-          "permanent": false,
           "attempted_at": "2026-09-30T00:29:43.330753+00:00"
         },
         {
@@ -278763,6 +278756,13 @@
           "target_video_id": "29733697",
           "permanent": false,
           "attempted_at": "2026-09-30T01:09:20.645696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26984110",
+          "target_video_id": "29733697",
+          "permanent": false,
+          "attempted_at": "2026-09-30T01:46:35.508209+00:00"
         }
       ],
       "last_plan": {
@@ -278775,12 +278775,6 @@
         "target_video_id": "29733697",
         "size_bytes": 1100000000,
         "prepared_at": "2026-09-26T14:47:41.414572+00:00"
-      },
-      "claim": {
-        "worker_id": "f41b12acb8a4449c859698cc264bcd31-shard-0",
-        "claimed_at": "2026-09-30T01:46:29.036035+00:00",
-        "lease_expires_at": "2026-09-30T07:46:29.036035+00:00",
-        "run_id": "36626869902"
       }
     },
     "26653": {
@@ -291577,5 +291571,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T01:46:30.114047+00:00"
+  "updated_at": "2026-09-30T01:46:37.695529+00:00"
 }
