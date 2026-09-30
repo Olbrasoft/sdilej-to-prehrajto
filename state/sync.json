@@ -50649,7 +50649,13 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-09-07T00:24:08.111176+00:00"
       },
-      "previous_target_id": "29174967"
+      "previous_target_id": "29174967",
+      "claim": {
+        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-0",
+        "claimed_at": "2026-09-30T23:24:21.604175+00:00",
+        "lease_expires_at": "2026-10-01T05:24:21.604175+00:00",
+        "run_id": "36779644909"
+      }
     },
     "35732": {
       "attempts": []
@@ -52294,13 +52300,6 @@
           "source_id": "33855046",
           "target_video_id": "29439510",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:32:43.392713+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855046",
-          "target_video_id": "29439510",
-          "permanent": false,
           "attempted_at": "2026-09-30T17:03:54.160445+00:00"
         },
         {
@@ -52309,6 +52308,13 @@
           "target_video_id": "29439510",
           "permanent": false,
           "attempted_at": "2026-09-30T19:30:58.376805+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855046",
+          "target_video_id": "29439510",
+          "permanent": false,
+          "attempted_at": "2026-09-30T23:24:21.312438+00:00"
         }
       ],
       "last_plan": {
@@ -52321,13 +52327,7 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-09-16T23:38:17.911070+00:00"
       },
-      "previous_target_id": "29439510",
-      "claim": {
-        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-2",
-        "claimed_at": "2026-09-30T23:24:18.349485+00:00",
-        "lease_expires_at": "2026-10-01T05:24:18.349485+00:00",
-        "run_id": "36779644909"
-      }
+      "previous_target_id": "29439510"
     },
     "36929": {
       "attempts": [
@@ -53400,7 +53400,13 @@
         "size_bytes": 895300000,
         "prepared_at": "2026-09-07T22:23:38.236879+00:00"
       },
-      "previous_target_id": "29198848"
+      "previous_target_id": "29198848",
+      "claim": {
+        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-2",
+        "claimed_at": "2026-09-30T23:24:21.891515+00:00",
+        "lease_expires_at": "2026-10-01T05:24:21.891515+00:00",
+        "run_id": "36779644909"
+      }
     },
     "35276": {
       "attempts": []
@@ -72805,18 +72811,19 @@
           "reason": "Request failed for https://sdilej.cz/30613866/muz-ktery-prodal-svou-kuzi-the.man.who.sold.his.skin.web-dl.cz.2020.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-30T19:30:43.603408+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30613866",
+          "reason": "Request failed for https://sdilej.cz/30613866/muz-ktery-prodal-svou-kuzi-the.man.who.sold.his.skin.web-dl.cz.2020.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-30T23:24:22.180144+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30613866",
         "display_name": "Muž, který prodal svou kůži (2020) 1080p CZ Dabing",
         "planned_at": "2026-09-30T23:22:25.804189+00:00"
-      },
-      "claim": {
-        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-1",
-        "claimed_at": "2026-09-30T23:23:35.518320+00:00",
-        "lease_expires_at": "2026-10-01T05:23:35.518320+00:00",
-        "run_id": "36779644909"
       }
     },
     "21650": {
@@ -291090,5 +291097,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T23:24:18.846618+00:00"
+  "updated_at": "2026-09-30T23:24:22.180163+00:00"
 }
