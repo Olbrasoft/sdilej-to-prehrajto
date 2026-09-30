@@ -105424,13 +105424,6 @@
           "source_id": "32500443",
           "target_video_id": "29810542",
           "permanent": false,
-          "attempted_at": "2026-09-30T03:04:01.474329+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500443",
-          "target_video_id": "29810542",
-          "permanent": false,
           "attempted_at": "2026-09-30T03:44:58.841079+00:00"
         },
         {
@@ -105439,6 +105432,13 @@
           "target_video_id": "29810542",
           "permanent": false,
           "attempted_at": "2026-09-30T04:21:17.549750+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500443",
+          "target_video_id": "29810542",
+          "permanent": false,
+          "attempted_at": "2026-09-30T05:00:12.068366+00:00"
         }
       ],
       "last_plan": {
@@ -105451,12 +105451,6 @@
         "target_video_id": "29810542",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-28T11:56:02.175290+00:00"
-      },
-      "claim": {
-        "worker_id": "51dedcef33e94d0c9dec13c494fbb0b2-shard-0",
-        "claimed_at": "2026-09-30T05:00:08.596509+00:00",
-        "lease_expires_at": "2026-09-30T11:00:08.596509+00:00",
-        "run_id": "36656604096"
       }
     },
     "32363": {
@@ -275191,22 +275185,10 @@
           "attempted_at": "2026-09-30T04:21:17.928081+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26683367",
-        "display_name": "Znamení hada (2004) SD CZ Dabing",
-        "planned_at": "2026-09-30T04:59:22.111764+00:00"
-      },
       "previous_target_id": "29732843",
-      "prepared": {
+      "upload": {
         "target_video_id": "29732843",
-        "size_bytes": 1500000000,
-        "prepared_at": "2026-09-26T13:22:53.370330+00:00"
-      },
-      "claim": {
-        "worker_id": "51dedcef33e94d0c9dec13c494fbb0b2-shard-1",
-        "claimed_at": "2026-09-30T05:00:09.289922+00:00",
-        "lease_expires_at": "2026-09-30T11:00:09.289922+00:00",
-        "run_id": "36656604096"
+        "uploaded_at": "2026-09-30T05:00:12.641707+00:00"
       }
     },
     "28877": {
@@ -276116,6 +276098,12 @@
         "target_video_id": "29733062",
         "size_bytes": 5700000000,
         "prepared_at": "2026-09-26T13:44:11.410626+00:00"
+      },
+      "claim": {
+        "worker_id": "51dedcef33e94d0c9dec13c494fbb0b2-shard-2",
+        "claimed_at": "2026-09-30T05:00:12.354369+00:00",
+        "lease_expires_at": "2026-09-30T11:00:12.354369+00:00",
+        "run_id": "36656604096"
       }
     },
     "7979": {
@@ -291193,5 +291181,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T05:00:09.628332+00:00"
+  "updated_at": "2026-09-30T05:00:12.641720+00:00"
 }
