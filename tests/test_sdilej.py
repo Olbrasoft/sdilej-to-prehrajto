@@ -231,6 +231,26 @@ def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     assert len(detector.seen) == 2
 
 
+@pytest.mark.parametrize("original", ["葉問", "ஜெய் பீம்"])
+def test_unsearchable_alternative_title_preserves_verified_candidates(original):
+    session = FakeSession()
+    provider = SdilejProvider(session, FakeDetector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {})
+    discovered = provider.discover(Film(1, "film", "Film", original, 2000, 100, "en"))
+    assert rank_candidates(discovered)[0].language_tier == LanguageTier.CZECH_AUDIO
+    assert [url for url in session.seen_urls if "/s/" in url] == [
+        "https://sdilej.cz/film-2000/s/-6", "https://sdilej.cz/film/s/-6",
+    ]
+
+
+def test_no_searchable_title_is_not_treated_as_valid_empty_search():
+    session = FakeSession()
+    provider = SdilejProvider(session, FakeDetector(), request_gap_seconds=0)
+    with pytest.raises(SdilejError, match="No searchable title"):
+        provider.discover(Film(1, "film", "葉問", None, 2008, 100, "zh"))
+    assert session.seen_urls == []
+
+
 def test_discovery_stops_at_4k_when_czech_audio_is_verified() -> None:
     class AlwaysCzechDetector(FakeDetector):
         def detect(self, url: str) -> tuple[str, float]:

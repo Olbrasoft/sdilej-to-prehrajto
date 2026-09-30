@@ -436,8 +436,12 @@ class SdilejProvider:
         verification_failed = False
         inspected = 0
         titles = dict.fromkeys(
-            item for item in (film.title, film.original_title) if item
+            item for item in (film.title, film.original_title) if item and slugify(item)
         )
+        if not titles:
+            # Non-Latin titles can normalize to an empty path. Never interpret
+            # the homepage (or a year-only search) as a film search result.
+            raise SdilejError("No searchable title after source URL normalization")
         for title in titles:
             queries = dict.fromkeys(
                 item for item in (f"{title} {film.year}" if film.year else title, title)
