@@ -95077,17 +95077,19 @@
       "attempts": []
     },
     "17094": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13097673",
+          "reason": "Request failed for https://sdilej.cz/13097673/boolhandang-2017-cz-dabing.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:41:43.747551+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13097673",
         "display_name": "Boolhandang (2017) SD CZ Dabing",
         "planned_at": "2026-09-30T21:25:51.887343+00:00"
-      },
-      "claim": {
-        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-2",
-        "claimed_at": "2026-09-30T21:40:57.590692+00:00",
-        "lease_expires_at": "2026-10-01T03:40:57.590692+00:00",
-        "run_id": "36744983375"
       }
     },
     "23170": {
@@ -95825,6 +95827,12 @@
         "source_id": "30854253",
         "display_name": "Vymyšlení (2023) 1080p CZ Dabing",
         "planned_at": "2026-09-30T21:25:52.174586+00:00"
+      },
+      "claim": {
+        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-1",
+        "claimed_at": "2026-09-30T21:41:27.233785+00:00",
+        "lease_expires_at": "2026-10-01T03:41:27.233785+00:00",
+        "run_id": "36744983375"
       }
     },
     "33937": {
@@ -290798,5 +290806,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T21:41:24.786261+00:00"
+  "updated_at": "2026-09-30T21:41:43.747568+00:00"
 }
