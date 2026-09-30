@@ -105244,13 +105244,6 @@
           "source_id": "32500443",
           "target_video_id": "29810542",
           "permanent": false,
-          "attempted_at": "2026-09-30T12:36:52.013800+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500443",
-          "target_video_id": "29810542",
-          "permanent": false,
           "attempted_at": "2026-09-30T13:07:21.600598+00:00"
         },
         {
@@ -105259,6 +105252,13 @@
           "target_video_id": "29810542",
           "permanent": false,
           "attempted_at": "2026-09-30T13:38:11.491696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500443",
+          "target_video_id": "29810542",
+          "permanent": false,
+          "attempted_at": "2026-09-30T14:09:04.395804+00:00"
         }
       ],
       "last_plan": {
@@ -105271,12 +105271,6 @@
         "target_video_id": "29810542",
         "size_bytes": 2200000000,
         "prepared_at": "2026-09-28T11:56:02.175290+00:00"
-      },
-      "claim": {
-        "worker_id": "b55c53a9a05a481db0794dc6e2c55aff-shard-1",
-        "claimed_at": "2026-09-30T14:08:59.672710+00:00",
-        "lease_expires_at": "2026-09-30T20:08:59.672710+00:00",
-        "run_id": "36702819662"
       }
     },
     "32363": {
@@ -149889,6 +149883,12 @@
         "target_video_id": "29843530",
         "size_bytes": 1400000000,
         "prepared_at": "2026-09-29T11:27:13.347479+00:00"
+      },
+      "claim": {
+        "worker_id": "b55c53a9a05a481db0794dc6e2c55aff-shard-2",
+        "claimed_at": "2026-09-30T14:09:04.657200+00:00",
+        "lease_expires_at": "2026-09-30T20:09:04.657200+00:00",
+        "run_id": "36702819662"
       }
     },
     "18235": {
@@ -274253,22 +274253,10 @@
           "attempted_at": "2026-09-30T13:38:07.891074+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33964547",
-        "display_name": "Za čárou (2021) 4K CZ Dabing",
-        "planned_at": "2026-09-30T14:08:31.073465+00:00"
-      },
       "previous_target_id": "29732766",
-      "prepared": {
+      "upload": {
         "target_video_id": "29732766",
-        "size_bytes": 6100000000,
-        "prepared_at": "2026-09-26T13:18:18.479152+00:00"
-      },
-      "claim": {
-        "worker_id": "b55c53a9a05a481db0794dc6e2c55aff-shard-0",
-        "claimed_at": "2026-09-30T14:08:59.404479+00:00",
-        "lease_expires_at": "2026-09-30T20:08:59.404479+00:00",
-        "run_id": "36702819662"
+        "uploaded_at": "2026-09-30T14:09:04.919821+00:00"
       }
     },
     "19696": {
@@ -290253,5 +290241,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T14:09:00.966559+00:00"
+  "updated_at": "2026-09-30T14:09:04.919845+00:00"
 }
