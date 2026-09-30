@@ -75767,7 +75767,13 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-06T21:35:54.355735+00:00"
       },
-      "previous_target_id": "29171374"
+      "previous_target_id": "29171374",
+      "claim": {
+        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-0",
+        "claimed_at": "2026-09-30T23:27:45.719729+00:00",
+        "lease_expires_at": "2026-10-01T05:27:45.719729+00:00",
+        "run_id": "36779644909"
+      }
     },
     "12782": {
       "attempts": [
@@ -80508,18 +80514,19 @@
           "source_id": "30529556",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-30T19:56:15.141608+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30529556",
+          "reason": "Request failed for https://sdilej.cz/30529556/107-matek-2021-uk-cs-subtitles-1080p-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-30T23:27:46.473349+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30529556",
         "display_name": "107 matek (2021) 1080p CZ Titulky",
         "planned_at": "2026-09-30T23:25:22.354213+00:00"
-      },
-      "claim": {
-        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-2",
-        "claimed_at": "2026-09-30T23:27:00.380902+00:00",
-        "lease_expires_at": "2026-10-01T05:27:00.380902+00:00",
-        "run_id": "36779644909"
       }
     },
     "12475": {
@@ -291152,5 +291159,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T23:27:43.337107+00:00"
+  "updated_at": "2026-09-30T23:27:46.473367+00:00"
 }
