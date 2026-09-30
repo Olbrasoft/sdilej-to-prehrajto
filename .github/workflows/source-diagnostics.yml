@@ -1,0 +1,63 @@
+name: source-diagnostics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "."
+      - name: Compare public and authenticated search responses
+        env:
+          SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+          SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          import requests
+          from bs4 import BeautifulSoup
+          from sdilej_to_prehrajto.sdilej import BASE_URL, USER_AGENT, login
+
+          # Read-only diagnostics: never log cookies, headers, raw HTML or URLs
+          # returned by the server. Only fixed public queries and counts leave
+          # the runner. No downloads, uploads or repository writes are made.
+          for authenticated in (False, True):
+              try:
+                  session = (login(os.environ['SDILEJ_EMAIL'], os.environ['SDILEJ_PASSWORD'])
+                             if authenticated else requests.Session())
+                  session.headers['User-Agent'] = USER_AGENT
+                  for path in ('/hlubina-1977/s/-6', '/hlubina-1977/s/',
+                               '/matrix-1999/s/-6', '/zznonexistentfilm987654321/s/-6'):
+                      response = session.get(BASE_URL + path, timeout=45)
+                      soup = BeautifulSoup(response.text, 'html.parser')
+                      visible = soup.get_text(' ', strip=True)
+                      print(json.dumps({
+                          'authenticated': authenticated, 'query_path': path,
+                          'status': response.status_code, 'bytes': len(response.text),
+                          'redirected': bool(response.history),
+                          'video_boxes': len(soup.select('div.videobox')),
+                          'explicit_empty': 'Na tvůj dotaz jsme nic nenašli' in visible,
+                          'logout_link': any(a.get_text(' ', strip=True).casefold() == 'odhlásit'
+                                             for a in soup.select('a[href]')),
+                          'premium_active': 'Neomezené stahování aktivní' in visible,
+                      }), flush=True)
+                      time.sleep(3)
+                  session.close()
+              except Exception as error:
+                  print(json.dumps({'authenticated': authenticated,
+                                    'error_type': type(error).__name__}), flush=True)
+                  raise SystemExit(1)
+          PY

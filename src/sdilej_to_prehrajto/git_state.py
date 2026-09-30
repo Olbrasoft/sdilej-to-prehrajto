@@ -168,7 +168,9 @@ class GitStatePersister:
                 return
             last_error = self._failure_detail(pushed)
             contention_only = contention_only and bool(re.search(
-                r"\[rejected\].*\((?:fetch first|non-fast-forward)\)",
+                r"\[rejected\].*\((?:fetch first|non-fast-forward)\)"
+                r"|\[remote rejected\].*\(cannot lock ref 'refs/heads/main': "
+                r"is at [0-9a-f]{40,64} but expected [0-9a-f]{40,64}\)",
                 (pushed.stderr or pushed.stdout),
             ))
             if attempt + 1 < self.PUSH_ATTEMPTS:
