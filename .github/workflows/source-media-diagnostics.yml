@@ -1,0 +1,36 @@
+name: source-media-diagnostics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      HF_HOME: /tmp/huggingface
+      WHISPER_CPU_THREADS: "1"
+      WHISPER_NUM_WORKERS: "1"
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Install diagnostic runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install ".[whisper]"
+      - name: Inspect authenticated original and player audio
+        run: python scripts/diagnose_source_media.py
