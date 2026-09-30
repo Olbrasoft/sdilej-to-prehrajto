@@ -18672,17 +18672,19 @@
       "attempts": []
     },
     "10848": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29515930",
+          "target_video_id": "29881014",
+          "permanent": false,
+          "attempted_at": "2026-09-30T19:58:34.843232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29515930",
         "display_name": "Řek Zorba (1964) 1080p CZ Dabing",
         "planned_at": "2026-09-30T19:15:09.795501+00:00"
-      },
-      "claim": {
-        "worker_id": "7af8f6267100474aaa704bcbbdfcf9a2-shard-2",
-        "claimed_at": "2026-09-30T19:15:27.897592+00:00",
-        "lease_expires_at": "2026-10-01T01:15:27.897592+00:00",
-        "run_id": "36744983375"
       },
       "previous_target_id": "29881014",
       "prepared": {
@@ -67382,7 +67384,13 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-09-05T20:47:36.272683+00:00"
       },
-      "previous_target_id": "29141791"
+      "previous_target_id": "29141791",
+      "claim": {
+        "worker_id": "7af8f6267100474aaa704bcbbdfcf9a2-shard-1",
+        "claimed_at": "2026-09-30T19:58:24.180702+00:00",
+        "lease_expires_at": "2026-10-01T01:58:24.180702+00:00",
+        "run_id": "36744983375"
+      }
     },
     "2558": {
       "attempts": []
@@ -70315,13 +70323,6 @@
           "source_id": "21301450",
           "target_video_id": "29215846",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:05:24.310542+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21301450",
-          "target_video_id": "29215846",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:36:50.355111+00:00"
         },
         {
@@ -70330,6 +70331,13 @@
           "target_video_id": "29215846",
           "permanent": false,
           "attempted_at": "2026-09-30T17:07:26.192464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21301450",
+          "target_video_id": "29215846",
+          "permanent": false,
+          "attempted_at": "2026-09-30T19:58:23.885848+00:00"
         }
       ],
       "last_plan": {
@@ -70381,13 +70389,6 @@
           "source_id": "32598879",
           "target_video_id": "29576959",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:05:22.354466+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32598879",
-          "target_video_id": "29576959",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:36:49.637831+00:00"
         },
         {
@@ -70396,6 +70397,13 @@
           "target_video_id": "29576959",
           "permanent": false,
           "attempted_at": "2026-09-30T17:07:24.184374+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32598879",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-30T19:57:57.455908+00:00"
         }
       ],
       "last_plan": {
@@ -70408,12 +70416,6 @@
         "target_video_id": "29576959",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-21T06:47:56.724996+00:00"
-      },
-      "claim": {
-        "worker_id": "7af8f6267100474aaa704bcbbdfcf9a2-shard-0",
-        "claimed_at": "2026-09-30T19:57:37.000353+00:00",
-        "lease_expires_at": "2026-10-01T01:57:37.000353+00:00",
-        "run_id": "36744983375"
       }
     },
     "31341": {
@@ -71619,7 +71621,13 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-09-16T00:33:00.459027+00:00"
       },
-      "previous_target_id": "29413408"
+      "previous_target_id": "29413408",
+      "claim": {
+        "worker_id": "7af8f6267100474aaa704bcbbdfcf9a2-shard-0",
+        "claimed_at": "2026-09-30T19:57:57.750729+00:00",
+        "lease_expires_at": "2026-10-01T01:57:57.750729+00:00",
+        "run_id": "36744983375"
+      }
     },
     "14106": {
       "attempts": []
@@ -290567,5 +290575,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T19:57:40.872611+00:00"
+  "updated_at": "2026-09-30T19:58:34.843249+00:00"
 }
