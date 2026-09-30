@@ -263,6 +263,28 @@ def login(
     return client
 
 
+class DiscoveryThrottle:
+    """Share source-site pacing and outage backoff across discovery workers."""
+
+    def __init__(self):
+        self.lock = threading.RLock()
+        self.last_request = 0.0
+        self.retry_after = 0.0
+        self.search_failures = 0
+
+    def search_failed(self):
+        with self.lock:
+            self.search_failures = min(self.search_failures + 1, 4)
+            delay = min(300, 60 * 2 ** (self.search_failures - 1))
+            self.retry_after = time.monotonic() + delay
+            print(f"source_search_backoff_seconds={delay}", flush=True)
+
+    def search_succeeded(self):
+        with self.lock:
+            self.search_failures = 0
+            # Do not clear a cooldown already requested by another worker.
+
+
 class SdilejProvider:
     def __init__(
         self,
@@ -274,6 +296,7 @@ class SdilejProvider:
         allow_unresolved_fallback: bool = False,
         minimum_language_probability: float = 0.65,
         request_gap_seconds: float = 2.0,
+        discovery_throttle: DiscoveryThrottle | None = None,
         media_probe: Callable[[str | None], dict[str, Any]] = probe_media,
     ):
         self.session = session
@@ -284,8 +307,7 @@ class SdilejProvider:
         self.minimum_language_probability = minimum_language_probability
         self.request_gap_seconds = request_gap_seconds
         self.media_probe = media_probe
-        self._last_request = 0.0
-        self._request_lock = threading.RLock()
+        self.discovery_throttle = discovery_throttle or DiscoveryThrottle()
 
     def _verify_candidate(self, film: Film, candidate: Candidate) -> Candidate | None:
         detail = parse_detail_html(self._get(candidate.url).text, candidate)
@@ -349,8 +371,12 @@ class SdilejProvider:
                 status = getattr(error.response, "status_code", None)
                 raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
             return response
-        with self._request_lock:
-            wait = self.request_gap_seconds - (time.monotonic() - self._last_request)
+        throttle = self.discovery_throttle
+        with throttle.lock:
+            wait = max(
+                throttle.last_request + self.request_gap_seconds,
+                throttle.retry_after,
+            ) - time.monotonic()
             if wait > 0:
                 time.sleep(wait)
             try:
@@ -360,7 +386,7 @@ class SdilejProvider:
                 status = getattr(error.response, "status_code", None)
                 raise SdilejError(f"Request failed for {safe_url(url)} (HTTP {status})") from None
             finally:
-                self._last_request = time.monotonic()
+                throttle.last_request = time.monotonic()
         return response
 
     def search(self, query: str, quality: str | None = None) -> list[Candidate]:
@@ -377,6 +403,7 @@ class SdilejProvider:
             # proof that a film has no sources. Only accept an explicit empty
             # search response from the source site.
             if "Na tvůj dotaz jsme nic nenašli" not in soup.get_text(" ", strip=True):
+                self.discovery_throttle.search_failed()
                 title = soup.title.get_text(" ", strip=True)[:120] if soup.title else "missing"
                 for element in soup.select("script, style, header, footer, form"):
                     element.decompose()
@@ -387,6 +414,7 @@ class SdilejProvider:
                     f"Unrecognized search response; refusing empty result; title={title!r}; "
                     f"bytes={len(response.text)}; notice={excerpt}"
                 )
+        self.discovery_throttle.search_succeeded()
         return rows
 
     def refresh_approved(

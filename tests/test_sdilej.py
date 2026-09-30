@@ -7,6 +7,7 @@ from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
     DeepScanRequired,
+    DiscoveryThrottle,
     PremiumRequiredError,
     SdilejError,
     SdilejProvider,
@@ -52,6 +53,59 @@ def test_search_rejects_successful_http_challenge_page(monkeypatch):
     monkeypatch.setattr(provider, "_get", lambda _url: FakeResponse("<h1>Checking your browser</h1>"))
     with pytest.raises(SdilejError, match="Unrecognized search response"):
         provider.search_by_quality("Film")
+
+
+def test_discovery_workers_share_request_spacing(monkeypatch):
+    clock = [100.0]
+    waits = []
+    monkeypatch.setattr("sdilej_to_prehrajto.sdilej.time.monotonic", lambda: clock[0])
+    def sleep(seconds):
+        waits.append(seconds)
+        clock[0] += seconds
+    monkeypatch.setattr("sdilej_to_prehrajto.sdilej.time.sleep", sleep)
+    throttle = DiscoveryThrottle()
+    first = SdilejProvider(FakeSession(), None, discovery_throttle=throttle)
+    second = SdilejProvider(FakeSession(), None, discovery_throttle=throttle)
+    first.search_by_quality("Film")
+    second.search_by_quality("Film")
+    assert waits == [2.0]
+
+
+def test_unrecognized_search_backs_off_all_discovery_workers(monkeypatch):
+    clock = [100.0]
+    waits = []
+    monkeypatch.setattr("sdilej_to_prehrajto.sdilej.time.monotonic", lambda: clock[0])
+    def sleep(seconds):
+        waits.append(seconds)
+        clock[0] += seconds
+    monkeypatch.setattr("sdilej_to_prehrajto.sdilej.time.sleep", sleep)
+    class BrokenSession(FakeSession):
+        def get(self, *_args, **_kwargs):
+            return FakeResponse("<h1>Search temporarily unavailable</h1>")
+    throttle = DiscoveryThrottle()
+    broken = SdilejProvider(BrokenSession(), None, discovery_throttle=throttle)
+    healthy = SdilejProvider(FakeSession(), None, discovery_throttle=throttle)
+    for _ in range(5):
+        with pytest.raises(SdilejError, match="Unrecognized search response"):
+            broken.search_by_quality("Film")
+    healthy.search_by_quality("Film")
+    assert waits == [60.0, 120.0, 240.0, 300.0, 300.0]
+    assert throttle.search_failures == 0
+    with pytest.raises(SdilejError):
+        broken.search_by_quality("Film")
+    assert throttle.retry_after - clock[0] == 60
+    # Approved transfer detail refreshes must not wait behind discovery backoff.
+    before = list(waits)
+    healthy._get("https://sdilej.cz/10/film.mkv", session=FakeSession())
+    assert waits == before
+
+
+def test_explicit_empty_search_is_valid_and_resets_failure_streak(monkeypatch):
+    provider = SdilejProvider(FakeSession(), None)
+    provider.discovery_throttle.search_failures = 3
+    monkeypatch.setattr(provider, "_get", lambda _url: FakeResponse("Na tvůj dotaz jsme nic nenašli"))
+    assert provider.search_by_quality("Missing film") == []
+    assert provider.discovery_throttle.search_failures == 0
 
 
 def test_deep_scan_does_not_treat_failed_verification_as_empty(monkeypatch):

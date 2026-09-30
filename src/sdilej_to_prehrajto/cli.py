@@ -259,6 +259,7 @@ def main() -> int:
                             else FAST_DISCOVERY_TIMEOUT_SECONDS
                         ),
                         allow_unresolved_fallback=deep_worker,
+                        discovery_throttle=pipeline.source_provider.discovery_throttle,
                     ),
                     source_session=worker_session,
                     target_session=target_session,
