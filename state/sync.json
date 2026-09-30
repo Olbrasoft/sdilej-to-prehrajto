@@ -87864,6 +87864,12 @@
         "target_video_id": "29747620",
         "size_bytes": 10800000000,
         "prepared_at": "2026-09-26T23:39:29.688482+00:00"
+      },
+      "claim": {
+        "worker_id": "20f71a7b91594010b293e33b20aba73a-shard-2",
+        "claimed_at": "2026-09-30T09:21:52.478914+00:00",
+        "lease_expires_at": "2026-09-30T15:21:52.478914+00:00",
+        "run_id": "36684914109"
       }
     },
     "33070": {
@@ -114376,6 +114382,12 @@
         "target_video_id": "29748119",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-27T00:17:44.759222+00:00"
+      },
+      "claim": {
+        "worker_id": "20f71a7b91594010b293e33b20aba73a-shard-0",
+        "claimed_at": "2026-09-30T09:21:52.762512+00:00",
+        "lease_expires_at": "2026-09-30T15:21:52.762512+00:00",
+        "run_id": "36684914109"
       }
     },
     "32326": {
@@ -115609,13 +115621,6 @@
           "source_id": "34911160",
           "target_video_id": "29748125",
           "permanent": false,
-          "attempted_at": "2026-09-30T07:32:32.778749+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34911160",
-          "target_video_id": "29748125",
-          "permanent": false,
           "attempted_at": "2026-09-30T08:09:25.014838+00:00"
         },
         {
@@ -115624,6 +115629,13 @@
           "target_video_id": "29748125",
           "permanent": false,
           "attempted_at": "2026-09-30T08:45:51.668807+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34911160",
+          "target_video_id": "29748125",
+          "permanent": false,
+          "attempted_at": "2026-09-30T09:21:52.195909+00:00"
         }
       ],
       "last_plan": {
@@ -115636,12 +115648,6 @@
         "target_video_id": "29748125",
         "size_bytes": 911400000,
         "prepared_at": "2026-09-27T00:18:23.363508+00:00"
-      },
-      "claim": {
-        "worker_id": "20f71a7b91594010b293e33b20aba73a-shard-2",
-        "claimed_at": "2026-09-30T09:21:47.736966+00:00",
-        "lease_expires_at": "2026-09-30T15:21:47.736966+00:00",
-        "run_id": "36684914109"
       }
     },
     "14630": {
@@ -264215,13 +264221,6 @@
           "source_id": "34755814",
           "reason": "Source detail has no authenticated download link; source_id=34755814",
           "permanent": false,
-          "attempted_at": "2026-09-30T07:32:35.036557+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "34755814",
-          "reason": "Source detail has no authenticated download link; source_id=34755814",
-          "permanent": false,
           "attempted_at": "2026-09-30T08:09:29.104320+00:00"
         },
         {
@@ -264230,18 +264229,19 @@
           "reason": "Source detail has no authenticated download link; source_id=34755814",
           "permanent": false,
           "attempted_at": "2026-09-30T08:45:52.307678+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34755814",
+          "reason": "Source detail has no authenticated download link; source_id=34755814",
+          "permanent": false,
+          "attempted_at": "2026-09-30T09:21:53.130599+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34755814",
         "display_name": "Emanuelle e gli ultimi cannibali (1977) SD CZ Titulky",
         "planned_at": "2026-09-30T09:21:19.696346+00:00"
-      },
-      "claim": {
-        "worker_id": "20f71a7b91594010b293e33b20aba73a-shard-1",
-        "claimed_at": "2026-09-30T09:21:48.304200+00:00",
-        "lease_expires_at": "2026-09-30T15:21:48.304200+00:00",
-        "run_id": "36684914109"
       }
     },
     "8192": {
@@ -290685,5 +290685,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T09:21:48.987870+00:00"
+  "updated_at": "2026-09-30T09:21:53.130616+00:00"
 }
