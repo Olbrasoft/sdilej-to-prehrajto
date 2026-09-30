@@ -69742,17 +69742,20 @@
       }
     },
     "2496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31418628",
+          "target_video_id": "29879831",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-09-30T18:29:03.562803+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31418628",
         "display_name": "Duch boje (2008) 1080p CZ Dabing",
         "planned_at": "2026-09-30T18:09:51.723692+00:00"
-      },
-      "claim": {
-        "worker_id": "2e444f6be04549d582e66c9a20461084-shard-2",
-        "claimed_at": "2026-09-30T18:15:16.114355+00:00",
-        "lease_expires_at": "2026-10-01T00:15:16.114355+00:00",
-        "run_id": "36744983375"
       },
       "previous_target_id": "29879831",
       "prepared": {
@@ -290191,5 +290194,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T18:26:59.221708+00:00"
+  "updated_at": "2026-09-30T18:29:03.562822+00:00"
 }
