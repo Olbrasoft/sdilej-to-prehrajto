@@ -72670,6 +72670,12 @@
         "target_video_id": "29763132",
         "size_bytes": 3100000000,
         "prepared_at": "2026-09-27T12:31:43.214869+00:00"
+      },
+      "claim": {
+        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-0",
+        "claimed_at": "2026-09-30T22:57:29.306671+00:00",
+        "lease_expires_at": "2026-10-01T04:57:29.306671+00:00",
+        "run_id": "36779644909"
       }
     },
     "31711": {
@@ -75537,6 +75543,12 @@
         "source_id": "26586446",
         "display_name": "Milionářský expres (1986) 1080p CZ Dabing",
         "planned_at": "2026-09-30T22:55:00.022916+00:00"
+      },
+      "claim": {
+        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-1",
+        "claimed_at": "2026-09-30T22:57:29.596498+00:00",
+        "lease_expires_at": "2026-10-01T04:57:29.596498+00:00",
+        "run_id": "36779644909"
       }
     },
     "29674": {
@@ -231747,13 +231759,6 @@
           "source_id": "27607379",
           "target_video_id": "29643795",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:25:43.644091+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27607379",
-          "target_video_id": "29643795",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:57:08.755558+00:00"
         },
         {
@@ -231762,6 +231767,13 @@
           "source_id": "27607379",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-09-30T18:41:31.003799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27607379",
+          "target_video_id": "29643795",
+          "permanent": false,
+          "attempted_at": "2026-09-30T22:57:30.669861+00:00"
         }
       ],
       "last_plan": {
@@ -291002,5 +291014,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T22:57:26.936793+00:00"
+  "updated_at": "2026-09-30T22:57:30.669879+00:00"
 }
