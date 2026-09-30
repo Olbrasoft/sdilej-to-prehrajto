@@ -127194,6 +127194,12 @@
         "target_video_id": "29818727",
         "size_bytes": 1200000000,
         "prepared_at": "2026-09-28T18:11:34.655050+00:00"
+      },
+      "claim": {
+        "worker_id": "34328c7f699a468ba59c1fcffb11c564-shard-0",
+        "claimed_at": "2026-09-30T00:39:47.779120+00:00",
+        "lease_expires_at": "2026-09-30T06:39:47.779120+00:00",
+        "run_id": "36626869902"
       }
     },
     "33544": {
@@ -131098,6 +131104,12 @@
         "target_video_id": "29818961",
         "size_bytes": 2500000000,
         "prepared_at": "2026-09-28T18:24:05.348186+00:00"
+      },
+      "claim": {
+        "worker_id": "34328c7f699a468ba59c1fcffb11c564-shard-1",
+        "claimed_at": "2026-09-30T00:39:48.067235+00:00",
+        "lease_expires_at": "2026-09-30T06:39:48.067235+00:00",
+        "run_id": "36626869902"
       }
     },
     "31350": {
@@ -161425,13 +161437,6 @@
           "source_id": "30695114",
           "target_video_id": "29826271",
           "permanent": false,
-          "attempted_at": "2026-09-29T22:39:36.503343+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30695114",
-          "target_video_id": "29826271",
-          "permanent": false,
           "attempted_at": "2026-09-29T23:21:04.270586+00:00"
         },
         {
@@ -161440,6 +161445,13 @@
           "target_video_id": "29826271",
           "permanent": false,
           "attempted_at": "2026-09-30T00:01:31.779516+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30695114",
+          "target_video_id": "29826271",
+          "permanent": false,
+          "attempted_at": "2026-09-30T00:39:47.203479+00:00"
         }
       ],
       "last_plan": {
@@ -161452,12 +161464,6 @@
         "target_video_id": "29826271",
         "size_bytes": 23100000000,
         "prepared_at": "2026-09-29T01:01:37.426817+00:00"
-      },
-      "claim": {
-        "worker_id": "34328c7f699a468ba59c1fcffb11c564-shard-1",
-        "claimed_at": "2026-09-30T00:39:39.776557+00:00",
-        "lease_expires_at": "2026-09-30T06:39:39.776557+00:00",
-        "run_id": "36626869902"
       }
     },
     "3902": {
@@ -255456,16 +255462,10 @@
           "attempted_at": "2026-09-30T00:01:32.718800+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "14027772",
-        "display_name": "Síly z temnot (2020) 1080p CZ Titulky",
-        "planned_at": "2026-09-30T00:39:10.831545+00:00"
-      },
       "previous_target_id": "29712151",
-      "prepared": {
+      "upload": {
         "target_video_id": "29712151",
-        "size_bytes": 1700000000,
-        "prepared_at": "2026-09-25T19:35:48.830970+00:00"
+        "uploaded_at": "2026-09-30T00:39:49.321928+00:00"
       }
     },
     "29173": {
@@ -262914,13 +262914,6 @@
           "source_id": "34670635",
           "target_video_id": "29725412",
           "permanent": false,
-          "attempted_at": "2026-09-29T22:39:34.781194+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34670635",
-          "target_video_id": "29725412",
-          "permanent": false,
           "attempted_at": "2026-09-29T23:20:30.188448+00:00"
         },
         {
@@ -262929,6 +262922,13 @@
           "target_video_id": "29725412",
           "permanent": false,
           "attempted_at": "2026-09-30T00:01:32.210831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34670635",
+          "target_video_id": "29725412",
+          "permanent": false,
+          "attempted_at": "2026-09-30T00:39:46.915387+00:00"
         }
       ],
       "last_plan": {
@@ -262941,12 +262941,6 @@
         "target_video_id": "29725412",
         "size_bytes": 3400000000,
         "prepared_at": "2026-09-26T10:31:53.773606+00:00"
-      },
-      "claim": {
-        "worker_id": "34328c7f699a468ba59c1fcffb11c564-shard-0",
-        "claimed_at": "2026-09-30T00:39:39.431990+00:00",
-        "lease_expires_at": "2026-09-30T06:39:39.431990+00:00",
-        "run_id": "36626869902"
       }
     },
     "29242": {
@@ -291703,5 +291697,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T00:39:40.063266+00:00"
+  "updated_at": "2026-09-30T00:39:49.321940+00:00"
 }
