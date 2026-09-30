@@ -24521,13 +24521,6 @@
           "source_id": "32919314",
           "target_video_id": "29751649",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:13:55.330843+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32919314",
-          "target_video_id": "29751649",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:44:38.378545+00:00"
         },
         {
@@ -24536,6 +24529,13 @@
           "target_video_id": "29751649",
           "permanent": false,
           "attempted_at": "2026-09-30T17:15:28.986209+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32919314",
+          "target_video_id": "29751649",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:50:52.303310+00:00"
         }
       ],
       "last_plan": {
@@ -71509,7 +71509,13 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-09-13T19:27:12.091567+00:00"
       },
-      "previous_target_id": "29356044"
+      "previous_target_id": "29356044",
+      "claim": {
+        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-2",
+        "claimed_at": "2026-09-30T21:50:52.618233+00:00",
+        "lease_expires_at": "2026-10-01T03:50:52.618233+00:00",
+        "run_id": "36744983375"
+      }
     },
     "22960": {
       "attempts": []
@@ -264448,13 +264454,6 @@
           "source_id": "12986037",
           "target_video_id": "29736261",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:13:43.629584+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12986037",
-          "target_video_id": "29736261",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:44:36.138361+00:00"
         },
         {
@@ -264463,6 +264462,13 @@
           "target_video_id": "29736261",
           "permanent": false,
           "attempted_at": "2026-09-30T17:15:26.429265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12986037",
+          "target_video_id": "29736261",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:50:50.259619+00:00"
         }
       ],
       "last_plan": {
@@ -264475,12 +264481,6 @@
         "target_video_id": "29736261",
         "size_bytes": 1700000000,
         "prepared_at": "2026-09-26T17:30:59.368244+00:00"
-      },
-      "claim": {
-        "worker_id": "c6df8393d6fe46c180a73c7ecf5a4d94-shard-2",
-        "claimed_at": "2026-09-30T21:50:47.542410+00:00",
-        "lease_expires_at": "2026-10-01T03:50:47.542410+00:00",
-        "run_id": "36744983375"
       }
     },
     "23481": {
@@ -266222,13 +266222,6 @@
           "source_id": "11878299",
           "target_video_id": "29751304",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:13:51.398847+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11878299",
-          "target_video_id": "29751304",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:44:37.428713+00:00"
         },
         {
@@ -266237,6 +266230,13 @@
           "target_video_id": "29751304",
           "permanent": false,
           "attempted_at": "2026-09-30T17:15:28.502117+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11878299",
+          "target_video_id": "29751304",
+          "permanent": false,
+          "attempted_at": "2026-09-30T21:50:52.982641+00:00"
         }
       ],
       "last_plan": {
@@ -266721,16 +266721,10 @@
           "attempted_at": "2026-09-30T17:15:32.369753+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29999440",
-        "display_name": "Pinocchiova dobrodružství (1996) 1080p CZ Dabing",
-        "planned_at": "2026-09-30T21:50:03.201513+00:00"
-      },
       "previous_target_id": "29751357",
-      "prepared": {
+      "upload": {
         "target_video_id": "29751357",
-        "size_bytes": 2300000000,
-        "prepared_at": "2026-09-27T04:56:51.447051+00:00"
+        "uploaded_at": "2026-09-30T21:50:55.260893+00:00"
       }
     },
     "7408": {
@@ -290799,5 +290793,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T21:50:47.848967+00:00"
+  "updated_at": "2026-09-30T21:50:55.260913+00:00"
 }
