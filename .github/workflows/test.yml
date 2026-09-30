@@ -16,3 +16,23 @@ jobs:
           cache: pip
       - run: pip install ".[test]"
       - run: pytest
+
+  whisper-runtime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      HF_HOME: /tmp/huggingface
+      WHISPER_CPU_THREADS: "1"
+      WHISPER_NUM_WORKERS: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - run: pip install ".[whisper]"
+      - run: python scripts/check_whisper_runtime.py

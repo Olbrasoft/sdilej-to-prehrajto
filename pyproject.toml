@@ -16,7 +16,9 @@ dependencies = [
 
 [project.optional-dependencies]
 test = ["pytest>=8.0"]
-whisper = ["faster-whisper>=1.0"]
+# PyAV 19 removed metadata_errors, which faster-whisper 1.2.1 still passes
+# while decoding every WAV. Keep the verified pair until upgraded together.
+whisper = ["faster-whisper==1.2.1", "av==18.1.0"]
 
 [project.scripts]
 sdilej-sync = "sdilej_to_prehrajto.cli:main"

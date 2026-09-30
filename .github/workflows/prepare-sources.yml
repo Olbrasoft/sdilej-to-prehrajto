@@ -44,6 +44,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           pip install ".[whisper]"
+      - name: Verify real Whisper runtime before scanning films
+        run: python scripts/check_whisper_runtime.py
       - name: Configure durable source checkpoints
         run: |
           git config user.name "github-actions[bot]"

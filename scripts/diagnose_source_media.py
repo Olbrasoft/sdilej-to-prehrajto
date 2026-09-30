@@ -28,6 +28,7 @@ def main():
     # Diagnostic only: keep inference in this bounded workflow process so its
     # stack can be inspected. Production retains its isolated hard watchdog.
     detector._load_model()
+    verified = 0
     try:
         for kind, url in (("player", detail.sample_url), ("original", detail.download_url)):
             try:
@@ -40,6 +41,7 @@ def main():
                 report(kind + "_metadata", metadata=probe_media(resolved))
                 language, probability = detector.detect(resolved)
                 report(kind + "_language", language=language, probability=probability)
+                verified += 1
             except LanguageDetectionError as error:
                 # This exception contains only fixed internal messages, never URLs.
                 report(kind + "_error", error_type=type(error).__name__, reason=str(error))
@@ -52,6 +54,9 @@ def main():
     finally:
         detector._stop_worker()
         session.close()
+    report("summary", verified_media=verified)
+    if not verified:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
