@@ -21854,17 +21854,20 @@
       }
     },
     "813": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30132132",
+          "target_video_id": "29881581",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-09-30T19:57:40.872592+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30132132",
         "display_name": "Obávaný bojovník (2006) 720p CZ Dabing",
         "planned_at": "2026-09-30T19:43:35.598859+00:00"
-      },
-      "claim": {
-        "worker_id": "7af8f6267100474aaa704bcbbdfcf9a2-shard-1",
-        "claimed_at": "2026-09-30T19:52:32.249925+00:00",
-        "lease_expires_at": "2026-10-01T01:52:32.249925+00:00",
-        "run_id": "36744983375"
       },
       "previous_target_id": "29881581",
       "prepared": {
@@ -66791,13 +66794,6 @@
           "source_id": "34827840",
           "target_video_id": "29141641",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:05:20.467978+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34827840",
-          "target_video_id": "29141641",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:36:48.947979+00:00"
         },
         {
@@ -66806,6 +66802,13 @@
           "target_video_id": "29141641",
           "permanent": false,
           "attempted_at": "2026-09-30T17:07:22.345381+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34827840",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-30T19:57:36.702911+00:00"
         }
       ],
       "last_plan": {
@@ -67031,13 +67034,6 @@
           "source_id": "34296350",
           "target_video_id": "29574480",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:05:16.739380+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "29574480",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:36:46.578443+00:00"
         },
         {
@@ -67046,6 +67042,13 @@
           "target_video_id": "29574480",
           "permanent": false,
           "attempted_at": "2026-09-30T17:07:09.783734+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34296350",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-30T19:56:35.933810+00:00"
         }
       ],
       "last_plan": {
@@ -70276,13 +70279,6 @@
           "source_id": "34731981",
           "target_video_id": "29576943",
           "permanent": false,
-          "attempted_at": "2026-09-30T16:05:18.668726+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34731981",
-          "target_video_id": "29576943",
-          "permanent": false,
           "attempted_at": "2026-09-30T16:36:47.870528+00:00"
         },
         {
@@ -70291,6 +70287,13 @@
           "target_video_id": "29576943",
           "permanent": false,
           "attempted_at": "2026-09-30T17:07:10.234119+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34731981",
+          "target_video_id": "29576943",
+          "permanent": false,
+          "attempted_at": "2026-09-30T19:57:15.951395+00:00"
         }
       ],
       "last_plan": {
@@ -70405,6 +70408,12 @@
         "target_video_id": "29576959",
         "size_bytes": 1800000000,
         "prepared_at": "2026-09-21T06:47:56.724996+00:00"
+      },
+      "claim": {
+        "worker_id": "7af8f6267100474aaa704bcbbdfcf9a2-shard-0",
+        "claimed_at": "2026-09-30T19:57:37.000353+00:00",
+        "lease_expires_at": "2026-10-01T01:57:37.000353+00:00",
+        "run_id": "36744983375"
       }
     },
     "31341": {
@@ -79865,7 +79874,15 @@
       }
     },
     "2565": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30529556",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-09-30T19:56:15.141608+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30529556",
         "display_name": "107 matek (2021) 1080p CZ Titulky",
@@ -290550,5 +290567,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T19:55:52.255349+00:00"
+  "updated_at": "2026-09-30T19:57:40.872611+00:00"
 }
