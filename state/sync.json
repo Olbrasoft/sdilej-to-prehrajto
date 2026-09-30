@@ -21521,17 +21521,19 @@
       }
     },
     "1042": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32936975",
+          "reason": "Request failed for https://sdilej.cz/32936975/klan-letajicich-dyk-2004-cz-dabing-uhdrdv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-09-30T22:37:50.863396+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32936975",
         "display_name": "Klan létajících dýk (2004) 4K CZ Dabing",
         "planned_at": "2026-09-30T22:36:48.174217+00:00"
-      },
-      "claim": {
-        "worker_id": "812bde6b4eba4e40b2cae764237eceb6-shard-0",
-        "claimed_at": "2026-09-30T22:37:04.750753+00:00",
-        "lease_expires_at": "2026-10-01T04:37:04.750753+00:00",
-        "run_id": "36779644909"
       }
     },
     "1052": {
@@ -23653,6 +23655,12 @@
         "source_id": "31582764",
         "display_name": "Zvířata (2022) 4K CZ Dabing",
         "planned_at": "2026-09-30T22:36:48.533045+00:00"
+      },
+      "claim": {
+        "worker_id": "812bde6b4eba4e40b2cae764237eceb6-shard-2",
+        "claimed_at": "2026-09-30T22:37:35.003818+00:00",
+        "lease_expires_at": "2026-10-01T04:37:35.003818+00:00",
+        "run_id": "36779644909"
       }
     },
     "22659": {
@@ -290890,5 +290898,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-09-30T22:37:32.662596+00:00"
+  "updated_at": "2026-09-30T22:37:50.863412+00:00"
 }
