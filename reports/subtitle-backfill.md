@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T17:33:58.396334+00:00
+Poslední aktualizace (UTC): 2026-10-01T17:34:06.613960+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 120.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 823, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 66, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 822, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 67, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -141,6 +141,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/c8640accd124b2bf) (ID 29515860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T14:15:11.889333+00:00 |
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/a1357595f75aca49) (ID 29522215) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T14:15:14.090370+00:00 |
 | [Evil Eye (2020) 1080p CZ Titulky](https://prehraj.to/evil-eye-2020-1080p-cz-titulky-mkv/12971da73dea41f4) (ID 29748405) | [Sdílej 17164570](https://sdilej.cz/17164570/evil.eye.2020.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:13.812304+00:00 |
+| [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:34:06.613855+00:00 |
 | [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:56.428289+00:00 |
 | [Farma zvířat (1954) SD CZ Titulky](https://prehraj.to/farma-zvirat-1954-sd-cz-titulky-avi/a39cc1f3c0a1d0b1) (ID 29153284) | [Sdílej 24657429](https://sdilej.cz/24657429/animal-farm.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:34.029936+00:00 |
 | [Fractured (2018) SD CZ Titulky](https://prehraj.to/fractured-2018-sd-cz-titulky-mkv/ccf8866a5cc6e4ff) (ID 29313928) | [Sdílej 10955141](https://sdilej.cz/10955141/fractured-2018-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:56.428305+00:00 |
