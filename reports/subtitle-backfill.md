@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:37:25.560479+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:37:35.367086+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 141.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 845, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 45, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 844, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 46, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -180,6 +180,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:03.970268+00:00 |
 | [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:20.143817+00:00 |
 | [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:34.226443+00:00 |
+| [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:37:35.366978+00:00 |
 | [Nekonečná cesta (2017) 1080p CZ Titulky](https://prehraj.to/nekonecna-cesta-2017-1080p-cz-titulky-mkv/16875fb3e5f80dfe) (ID 29633019) | [Sdílej 10615882](https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:03.970294+00:00 |
 | [Neohlížej se (1967) 1080p CZ Titulky](https://prehraj.to/neohlizej-se-1967-1080p-cz-titulky-mkv/ba4b5a8652b018da) (ID 29319512) | [Sdílej 33036676](https://sdilej.cz/33036676/1967-dont-look-back-bob-dylan-vostfr-1080p-x264-ac3.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:33.955262+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:13.819836+00:00 |
