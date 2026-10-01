@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:24:50.506153+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:25:18.170434+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 849, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 43, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 848, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 44, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -17,6 +17,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 84
 | [Al di là della legge (1968) SD CZ Titulky](https://prehraj.to/al-di-la-della-legge-1968-sd-cz-titulky-mkv/cc65e5323db8a2fc) (ID 29270176) | [Sdílej 34780009](https://sdilej.cz/34780009/western-cz-tit-beyond-the-law-al-di-l-della-legge-1968-dvdrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:09.900806+00:00 |
 | [Along with the Gods: The Last 49 Days (2018) 1080p CZ Titulky](https://prehraj.to/along-with-the-gods-the-last-49-days-2018-1080p-cz-titulky-mkv/7906af4bfd0cc448) (ID 29323499) | [Sdílej 11562320](https://sdilej.cz/11562320/along.with.the.gods-the.last.49.days.2018.1080p.fhdrip.h264.aac-nondrm-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:35.885314+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehrajto.cz/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T13:51:20.926513+00:00 |
+| [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:25:18.170318+00:00 |
 | [Asedio (2023) 1080p CZ Titulky](https://prehraj.to/asedio-2023-1080p-cz-titulky-mkv/fc640f56c94d7a1f) (ID 29278532) | [Sdílej 27828721](https://sdilej.cz/27828721/oblezeni-asedio-2023-hd-5.1-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:11.970184+00:00 |
 | [Avicii: True Stories (2017) 1080p CZ Titulky](https://prehraj.to/avicii-true-stories-2017-1080p-cz-titulky-mkv/b21e5051337d040e) (ID 29750924) | [Sdílej 27524862](https://sdilej.cz/27524862/avicii-true-stories.2017.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:17.832584+00:00 |
 | [Baaghi (2016) 1080p CZ Titulky](https://prehraj.to/baaghi-2016-1080p-cz-titulky-mkv/3e815fc9d9b61d4b) (ID 29749751) | [Sdílej 34799023](https://sdilej.cz/34799023/baaghi-1-akcni-indie-tiger-shroff-2016-cztit.1080p.bluray.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:17.832647+00:00 |
