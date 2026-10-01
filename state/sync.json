@@ -292652,17 +292652,19 @@
       "attempts": []
     },
     "9982": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21976339",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-01T18:56:26.170429+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21976339",
         "display_name": "Demonic (2021) SD CZ Titulky",
         "planned_at": "2026-10-01T18:14:18.758819+00:00"
-      },
-      "claim": {
-        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-2",
-        "claimed_at": "2026-10-01T18:56:05.759832+00:00",
-        "lease_expires_at": "2026-10-02T00:56:05.759832+00:00",
-        "run_id": "36877108712"
       }
     },
     "34946": {
@@ -292672,7 +292674,15 @@
       "attempts": []
     },
     "9280": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34024130",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-01T18:56:44.424624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34024130",
         "display_name": "Černá hodina (2011) 1080p CZ Dabing",
@@ -292691,6 +292701,18 @@
         "source_id": "29492710",
         "display_name": "Stánek s polibky 3 (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-01T18:14:19.371110+00:00"
+      },
+      "claim": {
+        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-2",
+        "claimed_at": "2026-10-01T18:56:26.444984+00:00",
+        "lease_expires_at": "2026-10-02T00:56:26.444984+00:00",
+        "run_id": "36877108712"
+      },
+      "previous_target_id": "29906000",
+      "prepared": {
+        "target_video_id": "29906000",
+        "size_bytes": 2530962560,
+        "prepared_at": "2026-10-01T18:56:49.117187+00:00"
       }
     },
     "25620": {
@@ -292891,6 +292913,12 @@
         "source_id": "34466744",
         "display_name": "Závist (2004) 1080p CZ Dabing",
         "planned_at": "2026-10-01T18:14:19.633053+00:00"
+      },
+      "claim": {
+        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-1",
+        "claimed_at": "2026-10-01T18:56:44.684798+00:00",
+        "lease_expires_at": "2026-10-02T00:56:44.684798+00:00",
+        "run_id": "36877108712"
       }
     },
     "12183": {
@@ -296013,5 +296041,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T18:56:21.557409+00:00"
+  "updated_at": "2026-10-01T18:56:49.117203+00:00"
 }
