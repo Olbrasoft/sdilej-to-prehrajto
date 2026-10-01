@@ -123823,13 +123823,6 @@
           "source_id": "33623584",
           "target_video_id": "29720431",
           "permanent": false,
-          "attempted_at": "2026-09-30T21:48:18.055247+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33623584",
-          "target_video_id": "29720431",
-          "permanent": false,
           "attempted_at": "2026-09-30T23:40:27.915710+00:00"
         },
         {
@@ -123838,6 +123831,13 @@
           "target_video_id": "29720431",
           "permanent": false,
           "attempted_at": "2026-10-01T00:23:43.959290+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33623584",
+          "target_video_id": "29720431",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:56:55.161311+00:00"
         }
       ],
       "last_plan": {
@@ -127628,13 +127628,6 @@
           "source_id": "34832451",
           "target_video_id": "29675268",
           "permanent": false,
-          "attempted_at": "2026-09-30T21:48:21.521733+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34832451",
-          "target_video_id": "29675268",
-          "permanent": false,
           "attempted_at": "2026-09-30T23:40:32.457702+00:00"
         },
         {
@@ -127643,6 +127636,13 @@
           "target_video_id": "29675268",
           "permanent": false,
           "attempted_at": "2026-10-01T00:23:46.781316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34832451",
+          "target_video_id": "29675268",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:57:01.302338+00:00"
         }
       ],
       "last_plan": {
@@ -127985,13 +127985,6 @@
           "source_id": "14024650",
           "target_video_id": "29137611",
           "permanent": false,
-          "attempted_at": "2026-09-30T21:48:19.441909+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14024650",
-          "target_video_id": "29137611",
-          "permanent": false,
           "attempted_at": "2026-09-30T23:40:30.103008+00:00"
         },
         {
@@ -128000,6 +127993,13 @@
           "target_video_id": "29137611",
           "permanent": false,
           "attempted_at": "2026-10-01T00:23:44.630729+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14024650",
+          "target_video_id": "29137611",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:56:57.217355+00:00"
         }
       ],
       "last_plan": {
@@ -128793,13 +128793,6 @@
           "source_id": "31963280",
           "target_video_id": "29137913",
           "permanent": false,
-          "attempted_at": "2026-09-30T21:48:20.175417+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31963280",
-          "target_video_id": "29137913",
-          "permanent": false,
           "attempted_at": "2026-09-30T23:40:32.100899+00:00"
         },
         {
@@ -128808,6 +128801,13 @@
           "target_video_id": "29137913",
           "permanent": false,
           "attempted_at": "2026-10-01T00:23:46.098005+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31963280",
+          "target_video_id": "29137913",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:56:59.363863+00:00"
         }
       ],
       "last_plan": {
@@ -135668,6 +135668,12 @@
         "target_video_id": "29851061",
         "size_bytes": 3900000000,
         "prepared_at": "2026-09-29T19:21:18.681031+00:00"
+      },
+      "claim": {
+        "worker_id": "07c1044af490431ca839208e95ebe684-shard-0",
+        "claimed_at": "2026-10-01T01:57:01.607192+00:00",
+        "lease_expires_at": "2026-10-01T07:57:01.607192+00:00",
+        "run_id": "36779644909"
       }
     },
     "17164": {
@@ -172668,13 +172674,6 @@
         {
           "status": "source_refresh_failed",
           "source_id": "33856473",
-          "reason": "Source detail has no authenticated download link; source_id=33856473",
-          "permanent": false,
-          "attempted_at": "2026-09-30T21:43:36.458245+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "33856473",
           "reason": "Request failed for https://sdilej.cz/33856473/sach-mat-2024-cz-dab-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-30T23:39:15.113536+00:00"
@@ -172685,18 +172684,19 @@
           "reason": "Request failed for https://sdilej.cz/33856473/sach-mat-2024-cz-dab-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-01T00:23:20.918285+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33856473",
+          "reason": "Request failed for https://sdilej.cz/33856473/sach-mat-2024-cz-dab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:57:02.920228+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33856473",
         "display_name": "Šach mat (2024) 720p CZ Dabing",
         "planned_at": "2026-10-01T01:49:33.861414+00:00"
-      },
-      "claim": {
-        "worker_id": "07c1044af490431ca839208e95ebe684-shard-2",
-        "claimed_at": "2026-10-01T01:56:16.656054+00:00",
-        "lease_expires_at": "2026-10-01T07:56:16.656054+00:00",
-        "run_id": "36779644909"
       }
     },
     "26885": {
@@ -292265,5 +292265,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T01:56:51.311984+00:00"
+  "updated_at": "2026-10-01T01:57:02.920246+00:00"
 }
