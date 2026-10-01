@@ -272227,17 +272227,20 @@
       }
     },
     "15140": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34061764",
+          "target_video_id": "29905379",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-01T18:56:21.557392+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34061764",
         "display_name": "Prokletá romance (2022) 4K CZ Dabing",
         "planned_at": "2026-10-01T18:14:11.393892+00:00"
-      },
-      "claim": {
-        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-1",
-        "claimed_at": "2026-10-01T18:27:15.351155+00:00",
-        "lease_expires_at": "2026-10-02T00:27:15.351155+00:00",
-        "run_id": "36877108712"
       },
       "previous_target_id": "29905379",
       "prepared": {
@@ -292654,6 +292657,12 @@
         "source_id": "21976339",
         "display_name": "Demonic (2021) SD CZ Titulky",
         "planned_at": "2026-10-01T18:14:18.758819+00:00"
+      },
+      "claim": {
+        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-2",
+        "claimed_at": "2026-10-01T18:56:05.759832+00:00",
+        "lease_expires_at": "2026-10-02T00:56:05.759832+00:00",
+        "run_id": "36877108712"
       }
     },
     "34946": {
@@ -296004,5 +296013,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T18:56:03.388116+00:00"
+  "updated_at": "2026-10-01T18:56:21.557409+00:00"
 }
