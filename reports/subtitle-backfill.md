@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T23:31:33.604886+00:00
+Poslední aktualizace (UTC): 2026-10-01T23:31:41.261089+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 751, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 126, `source_provenance_missing`: 97, `source_unavailable`: 14, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 750, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 127, `source_provenance_missing`: 97, `source_unavailable`: 14, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -272,6 +272,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:44.319302+00:00 |
 | [Run the Tide (2016) 1080p CZ Titulky](https://prehraj.to/run-the-tide-2016-1080p-cz-titulky-mkv/68ea03df9c2c23ba) (ID 29610986) | [Sdílej 6915501](https://sdilej.cz/6915501/run-the-tide.2016.web-dl.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:30:58.815450+00:00 |
 | [Sauna (2008) SD CZ Titulky](https://prehraj.to/sauna-2008-sd-cz-titulky-mp4/51917e3b9d5cd615) (ID 29273025) | [Sdílej 34751153](https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:32.009394+00:00 |
+| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:41.260990+00:00 |
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:36.622100+00:00 |
 | [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:27.911032+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:44.660518+00:00 |
