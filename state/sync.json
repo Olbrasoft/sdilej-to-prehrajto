@@ -30482,17 +30482,19 @@
       }
     },
     "35409": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34780408",
+          "reason": "Request failed for https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-01T13:51:30.659954+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34780408",
         "display_name": "Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky",
         "planned_at": "2026-10-01T13:50:29.464351+00:00"
-      },
-      "claim": {
-        "worker_id": "3963ca1ede9247f5b8b3445d678d1972-shard-0",
-        "claimed_at": "2026-10-01T13:50:44.594191+00:00",
-        "lease_expires_at": "2026-10-01T19:50:44.594191+00:00",
-        "run_id": "36843554180"
       }
     },
     "21701": {
@@ -294240,5 +294242,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T13:50:47.368379+00:00"
+  "updated_at": "2026-10-01T13:51:30.659970+00:00"
 }
