@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:21:20.143942+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:21:32.922877+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 865, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 27, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 864, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 28, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -163,6 +163,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 86
 | [Little Evil (2017) 720p CZ Titulky](https://prehraj.to/little-evil-2017-720p-cz-titulky-mkv/254b95fa1f1ce54e) (ID 29721068) | [Sdílej 7794278](https://sdilej.cz/7794278/little.evil.2017.720p.webrip.x264-strife.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:57.824252+00:00 |
 | [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:37.813354+00:00 |
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:07.785894+00:00 |
+| [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:32.922750+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:18:09.282148+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:25.864225+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehrajto.cz/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T13:46:43.447923+00:00 |
