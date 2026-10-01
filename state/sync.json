@@ -291751,7 +291751,15 @@
       "attempts": []
     },
     "10037": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27180594",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-01T18:53:13.849081+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27180594",
         "display_name": "Šťastně podvedená (2023) 1080p CZ Dabing",
@@ -291796,7 +291804,15 @@
       "attempts": []
     },
     "27500": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14294313",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-01T18:53:34.562335+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14294313",
         "display_name": "8213: Dům hrůz (2010) SD CZ Titulky",
@@ -291848,11 +291864,25 @@
       "attempts": []
     },
     "31197": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34731562",
+          "target_video_id": "29588938",
+          "permanent": false,
+          "attempted_at": "2026-10-01T18:54:14.388219+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34731562",
         "display_name": "Dashcam (2021) 1080p CZ Titulky",
         "planned_at": "2026-10-01T18:14:18.220147+00:00"
+      },
+      "previous_target_id": "29588938",
+      "prepared": {
+        "target_video_id": "29588938",
+        "size_bytes": 2500000000,
+        "prepared_at": "2026-10-01T18:54:14.388201+00:00"
       }
     },
     "19519": {
@@ -295960,5 +295990,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T18:52:46.992271+00:00"
+  "updated_at": "2026-10-01T18:54:14.388223+00:00"
 }
