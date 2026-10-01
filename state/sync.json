@@ -290444,17 +290444,19 @@
       "attempts": []
     },
     "16912": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33943204",
+          "target_video_id": "29908729",
+          "permanent": false,
+          "attempted_at": "2026-10-01T22:12:15.412133+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33943204",
         "display_name": "Mary (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-01T22:00:53.356194+00:00"
-      },
-      "claim": {
-        "worker_id": "9a28f6f4c91b487f803dab8eb3a3e7de-shard-0",
-        "claimed_at": "2026-10-01T22:08:47.263633+00:00",
-        "lease_expires_at": "2026-10-02T04:08:47.263633+00:00",
-        "run_id": "36922202635"
       },
       "previous_target_id": "29908729",
       "prepared": {
@@ -290957,6 +290959,12 @@
         "source_id": "33767212",
         "display_name": "Arachnid (2001) 1080p CZ Dabing",
         "planned_at": "2026-10-01T22:00:54.037184+00:00"
+      },
+      "claim": {
+        "worker_id": "9a28f6f4c91b487f803dab8eb3a3e7de-shard-2",
+        "claimed_at": "2026-10-01T22:12:13.936188+00:00",
+        "lease_expires_at": "2026-10-02T04:12:13.936188+00:00",
+        "run_id": "36922202635"
       }
     },
     "11590": {
@@ -298489,5 +298497,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T22:12:08.350801+00:00"
+  "updated_at": "2026-10-01T22:12:15.412153+00:00"
 }
