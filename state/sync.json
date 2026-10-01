@@ -10799,14 +10799,6 @@
     "36632": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34880521",
-          "target_video_id": "29880114",
-          "reason": "Target reconciliation unavailable; retry deferred",
-          "attempted_at": "2026-09-30T18:36:16.963561+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34880521",
           "target_video_id": "29880114",
@@ -10819,6 +10811,13 @@
           "target_video_id": "29880114",
           "permanent": false,
           "attempted_at": "2026-09-30T23:54:05.584212+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34880521",
+          "target_video_id": "29880114",
+          "permanent": false,
+          "attempted_at": "2026-10-01T00:44:16.115311+00:00"
         }
       ],
       "last_plan": {
@@ -144826,16 +144825,10 @@
           "attempted_at": "2026-09-30T23:54:09.678075+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "13351305",
-        "display_name": "Potvora (2017) 1080p CZ Titulky",
-        "planned_at": "2026-10-01T00:43:11.894755+00:00"
-      },
       "previous_target_id": "29785219",
-      "prepared": {
+      "upload": {
         "target_video_id": "29785219",
-        "size_bytes": 3200000000,
-        "prepared_at": "2026-09-27T16:35:54.735567+00:00"
+        "uploaded_at": "2026-10-01T00:44:20.245853+00:00"
       }
     },
     "12547": {
@@ -203691,13 +203684,6 @@
     "14110": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35046526",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-30T18:36:40.045870+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "35046526",
           "target_video_id": "29579296",
@@ -203710,6 +203696,13 @@
           "target_video_id": "29579296",
           "permanent": false,
           "attempted_at": "2026-09-30T23:54:07.738640+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35046526",
+          "target_video_id": "29579296",
+          "permanent": false,
+          "attempted_at": "2026-10-01T00:44:18.036392+00:00"
         }
       ],
       "last_plan": {
@@ -291702,5 +291695,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T00:44:10.123639+00:00"
+  "updated_at": "2026-10-01T00:44:20.245866+00:00"
 }
