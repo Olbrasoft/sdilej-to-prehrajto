@@ -3,7 +3,8 @@ from pathlib import Path
 
 import pytest
 
-from sdilej_to_prehrajto.cli import recover_failed_sources
+from sdilej_to_prehrajto.cli import prepare_source_batch, recover_failed_sources
+from sdilej_to_prehrajto.models import Film
 from sdilej_to_prehrajto.ranking import SELECTION_POLICY
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 from sdilej_to_prehrajto.state import StateStore
@@ -50,3 +51,30 @@ def test_source_recovery_preserves_all_target_guards(tmp_path, protected):
     assert state.snapshot(1) == original
     assert (sources.candidate(1) is None) == (protected is None)
     assert sources.get(1)['source_url'] == 'https://sdilej.cz/123/film.mkv'
+
+
+@pytest.mark.parametrize("deep", [False, True])
+def test_recovery_precedes_catalog_and_retries_are_fair(tmp_path, deep):
+    state = StateStore(tmp_path / "scan.json")
+    sources = SelectedSourceStore(tmp_path / "sources.jsonl")
+    films = [Film(i, str(i), str(i), None, 2000, 90, "en") for i in range(1, 7)]
+    for film_id, timestamp in [(1, "2026-10-01T16:00:00+00:00"), (2, "2026-10-01T15:00:00+00:00"), (6, "2026-10-01T17:00:00+00:00")]:
+        state.film(film_id)["attempts"] = [{"attempted_at": timestamp}]
+    sources.record({"cr_film_id": 6, "source_status": "rediscovery_needed"})
+    calls = []
+
+    class Pipeline:
+        def __init__(self):
+            self.state = state
+            self.selected_sources = sources
+
+        def prepare_sources(self, batch, limit, **kwargs):
+            assert kwargs.get("deep_scan_only", False) == deep
+            calls.append([film.cr_film_id for film in batch])
+            return []
+
+    prepare_source_batch([Pipeline(), Pipeline()], films, 4, max_scan=10,
+                         deadline_monotonic=None, deep_scan_only=deep)
+    # Recovery first; unseen ties preserve catalog rank; older retries first.
+    assert sorted(calls) == sorted([[6, 4, 2], [3, 5, 1]])
+    assert [film.cr_film_id for film in films] == list(range(1, 7))

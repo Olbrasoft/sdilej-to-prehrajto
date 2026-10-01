@@ -99,6 +99,21 @@ def prepare_source_batch(
     deep_scan_only: bool = False,
 ) -> list[dict]:
     """Search disjoint backlog slices concurrently and merge their results."""
+    # A catalog-ordered retry loop can revisit thousands of high-ranked films
+    # before reaching an unavailable cached source. Prioritize recovery, then
+    # serve the least recently visited films (stable ties retain catalog rank).
+    state = pipelines[0].state
+    sources = pipelines[0].selected_sources
+
+    def scan_priority(film: Film) -> tuple[bool, str]:
+        source = sources.get(film.cr_film_id) or {}
+        attempts = state.snapshot(film.cr_film_id).get("attempts") or []
+        return (
+            source.get("source_status") != "rediscovery_needed",
+            (attempts[-1].get("attempted_at") or "") if attempts else "",
+        )
+
+    films = sorted(films, key=scan_priority)
     worker_count = min(len(pipelines), limit)
     base_limit, extra = divmod(limit, worker_count)
 

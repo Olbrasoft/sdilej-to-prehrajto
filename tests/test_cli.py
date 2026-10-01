@@ -14,6 +14,7 @@ from sdilej_to_prehrajto.cli import (
 )
 from sdilej_to_prehrajto.models import Film
 from sdilej_to_prehrajto.state import StateStore
+from sdilej_to_prehrajto.sources import SelectedSourceStore
 
 
 def test_upload_default_is_three_workers(monkeypatch):
@@ -70,12 +71,14 @@ def test_prepare_backlog_excludes_already_uploaded_films(tmp_path) -> None:
     assert [film.cr_film_id for film in pending] == [2]
 
 
-def test_prepare_workers_search_disjoint_backlog_slices() -> None:
+def test_prepare_workers_search_disjoint_backlog_slices(tmp_path) -> None:
     calls = []
 
     class Pipeline:
         def __init__(self, worker: int):
             self.worker = worker
+            self.state = StateStore(tmp_path / "scan.json")
+            self.selected_sources = SelectedSourceStore(tmp_path / "sources.jsonl")
 
         def prepare_sources(
             self, films, limit, *, max_scan, deadline_monotonic
