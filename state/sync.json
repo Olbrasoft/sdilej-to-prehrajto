@@ -74713,13 +74713,6 @@
     "11356": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34673757",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-30T18:41:15.432771+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34673757",
           "reason": "Request failed for https://sdilej.cz/34673757/navrat-do-36.-komnaty-shaolinu-1980-cz.mp4 (HTTP None)",
@@ -74732,18 +74725,19 @@
           "reason": "Request failed for https://sdilej.cz/34673757/navrat-do-36.-komnaty-shaolinu-1980-cz.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-01T00:03:54.076607+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34673757",
+          "target_video_id": "29886627",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:00:59.322291+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34673757",
         "display_name": "Návrat do 36. komnaty Shaolinu (1980) 1080p CZ Dabing",
         "planned_at": "2026-10-01T00:45:22.392961+00:00"
-      },
-      "claim": {
-        "worker_id": "07c1044af490431ca839208e95ebe684-shard-2",
-        "claimed_at": "2026-10-01T00:45:44.140636+00:00",
-        "lease_expires_at": "2026-10-01T06:45:44.140636+00:00",
-        "run_id": "36779644909"
       },
       "previous_target_id": "29886627",
       "prepared": {
@@ -291748,5 +291742,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T00:54:07.492228+00:00"
+  "updated_at": "2026-10-01T01:00:59.322307+00:00"
 }
