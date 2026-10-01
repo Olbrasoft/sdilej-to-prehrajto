@@ -27312,13 +27312,6 @@
           "source_id": "13059529",
           "target_video_id": "29896172",
           "permanent": false,
-          "attempted_at": "2026-10-01T15:38:58.763666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13059529",
-          "target_video_id": "29896172",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:09:21.826979+00:00"
         },
         {
@@ -27327,6 +27320,13 @@
           "target_video_id": "29896172",
           "permanent": false,
           "attempted_at": "2026-10-01T16:40:29.305782+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13059529",
+          "target_video_id": "29896172",
+          "permanent": false,
+          "attempted_at": "2026-10-01T17:12:04.314096+00:00"
         }
       ],
       "last_plan": {
@@ -27967,6 +27967,12 @@
         "target_video_id": "29896195",
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-01T07:41:54.126457+00:00"
+      },
+      "claim": {
+        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-2",
+        "claimed_at": "2026-10-01T17:12:06.535482+00:00",
+        "lease_expires_at": "2026-10-01T23:12:06.535482+00:00",
+        "run_id": "36877108712"
       }
     },
     "31702": {
@@ -28452,13 +28458,6 @@
           "source_id": "15049066",
           "target_video_id": "29896240",
           "permanent": false,
-          "attempted_at": "2026-10-01T15:38:57.099954+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15049066",
-          "target_video_id": "29896240",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:09:20.946406+00:00"
         },
         {
@@ -28467,6 +28466,13 @@
           "target_video_id": "29896240",
           "permanent": false,
           "attempted_at": "2026-10-01T16:40:29.047216+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15049066",
+          "target_video_id": "29896240",
+          "permanent": false,
+          "attempted_at": "2026-10-01T17:12:02.356609+00:00"
         }
       ],
       "last_plan": {
@@ -30224,13 +30230,6 @@
           "source_id": "34619080",
           "target_video_id": "29896362",
           "permanent": false,
-          "attempted_at": "2026-10-01T15:39:02.190474+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34619080",
-          "target_video_id": "29896362",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:09:22.827749+00:00"
         },
         {
@@ -30239,6 +30238,13 @@
           "target_video_id": "29896362",
           "permanent": false,
           "attempted_at": "2026-10-01T16:40:30.984410+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34619080",
+          "target_video_id": "29896362",
+          "permanent": false,
+          "attempted_at": "2026-10-01T17:12:06.260727+00:00"
         }
       ],
       "last_plan": {
@@ -93327,13 +93333,6 @@
           "source_id": "33873663",
           "target_video_id": "29314994",
           "permanent": false,
-          "attempted_at": "2026-10-01T15:38:53.754748+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33873663",
-          "target_video_id": "29314994",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:09:20.676479+00:00"
         },
         {
@@ -93342,6 +93341,13 @@
           "target_video_id": "29314994",
           "permanent": false,
           "attempted_at": "2026-10-01T16:40:21.443567+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33873663",
+          "target_video_id": "29314994",
+          "permanent": false,
+          "attempted_at": "2026-10-01T17:12:00.414311+00:00"
         }
       ],
       "last_plan": {
@@ -294421,17 +294427,19 @@
       "attempts": []
     },
     "37533": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34910856",
+          "target_video_id": "29904339",
+          "permanent": false,
+          "attempted_at": "2026-10-01T17:12:06.877042+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34910856",
         "display_name": "Zelený rytíř (1993) SD CZ Dabing",
         "planned_at": "2026-10-01T17:10:47.885707+00:00"
-      },
-      "claim": {
-        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-0",
-        "claimed_at": "2026-10-01T17:11:02.637168+00:00",
-        "lease_expires_at": "2026-10-01T23:11:02.637168+00:00",
-        "run_id": "36877108712"
       },
       "previous_target_id": "29904339",
       "prepared": {
@@ -294596,5 +294604,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T17:11:56.363651+00:00"
+  "updated_at": "2026-10-01T17:12:06.877063+00:00"
 }
