@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T21:32:23.164016+00:00
+Poslední aktualizace (UTC): 2026-10-01T21:32:34.445078+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 40.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 778, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 101, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 777, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 102, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -55,6 +55,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Death Note (2017) SD CZ Titulky](https://prehraj.to/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:05.153872+00:00 |
 | [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:23.163908+00:00 |
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:47.208167+00:00 |
+| [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:34.444961+00:00 |
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:53.785399+00:00 |
 | [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:15.704467+00:00 |
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:40:30.029359+00:00 |
