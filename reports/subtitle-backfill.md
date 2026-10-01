@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T19:31:31.680978+00:00
+Poslední aktualizace (UTC): 2026-10-01T19:31:46.720714+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 80.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 809, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 70, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 808, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 71, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -268,6 +268,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [The Unheard (2023) 1080p CZ Titulky](https://prehraj.to/the-unheard-2023-1080p-cz-titulky-mkv/87e799e2e5622b73) (ID 29608710) | [Sdílej 25681345](https://sdilej.cz/25681345/the-unheard-2023-cz-titulky-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:47.856477+00:00 |
 | [The Vatican Tapes (2015) SD CZ Titulky.avi](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:30.285177+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:32:04.406230+00:00 |
+| [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:46.720566+00:00 |
 | [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:53.235335+00:00 |
 | [Třetí poločas (2012) SD CZ Titulky](https://prehraj.to/treti-polocas-2012-sd-cz-titulky-mkv/a7604740782d512f) (ID 29376136) | [Sdílej 34816306](https://sdilej.cz/34816306/the.third.half.2012.dvdrip.x264.ac-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T18:39:51.359252+00:00 |
 | [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:37:06.687709+00:00 |
