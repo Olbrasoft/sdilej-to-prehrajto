@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:24:19.074724+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:24:28.143198+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 853, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 39, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 852, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 40, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -210,6 +210,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 85
 | [Snow Falls (2023) SD CZ Titulky](https://prehraj.to/snow-falls-2023-sd-cz-titulky-mkv/67006585d9205c9a) (ID 29734733) | [Sdílej 25293770](https://sdilej.cz/25293770/snow-falls-horor-usa-2023-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:08.135430+00:00 |
 | [Sorjonen: Krvavé poselství (2021) 720p CZ Titulky](https://prehraj.to/sorjonen-krvave-poselstvi-2021-720p-cz-titulky-mkv/1c1ae9b82ed678e2) (ID 29332615) | [Sdílej 26270824](https://sdilej.cz/26270824/sorjonen-krvave-poselstvi-krimi-2021-cz-tit-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:37.882714+00:00 |
 | [Sorry, Baby (2025) 1080p CZ Titulky](https://prehrajto.cz/sorry-baby-2025-1080p-cz-titulky-mkv/fd6a7ea8e2f236d4) (ID 29199838) | [Sdílej 34559320](https://sdilej.cz/34559320/sorry-baby-2025-czsub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T13:51:35.015344+00:00 |
+| [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:28.143102+00:00 |
 | [Space Buddies (2009) 720p CZ Titulky](https://prehrajto.cz/space-buddies-2009-720p-cz-titulky-mkv/4e7a090626908843) (ID 29088612) | [Sdílej 15088025](https://sdilej.cz/15088025/space.buddies.2009.720p.bluray.x264-x0r.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:00.669736+00:00 |
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:35.939816+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:55.859341+00:00 |
