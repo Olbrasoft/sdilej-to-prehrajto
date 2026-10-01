@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:19:38.496821+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:19:47.396829+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 869, `source_czech_full_text_unsupported`: 1, `source_czech_text_missing`: 24, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 868, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 24, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -175,6 +175,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 86
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:13.819836+00:00 |
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:07.785876+00:00 |
 | [Nikdy nepláču (2020) 1080p CZ Titulky](https://prehraj.to/nikdy-neplacu-2020-1080p-cz-titulky-mkv/b304f3e4838aa6ae) (ID 29256661) | [Sdílej 21247329](https://sdilej.cz/21247329/nikdy-neplacu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:03.914108+00:00 |
+| [Nymfomanka, část II. (2013) SD CZ Titulky](https://prehraj.to/nymfomanka-cast-ii-2013-sd-cz-titulky-mkv/260057aa5f0a099a) (ID 29133738) | [Sdílej 31061813](https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:19:47.396719+00:00 |
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:15.805545+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:51.864494+00:00 |
 | [Osudový dotek 3: Odhalení (2009) SD CZ Titulky](https://prehraj.to/osudovy-dotek-3-odhaleni-2009-sd-cz-titulky-mkv/0e759944ec4e308c) (ID 29753210) | [Sdílej 25526950](https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:21.799707+00:00 |
