@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T17:32:10.473126+00:00
+Poslední aktualizace (UTC): 2026-10-01T17:32:22.857637+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 120.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 833, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 56, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 832, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 57, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -199,6 +199,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Osudový dotek 3: Odhalení (2009) SD CZ Titulky](https://prehraj.to/osudovy-dotek-3-odhaleni-2009-sd-cz-titulky-mkv/0e759944ec4e308c) (ID 29753210) | [Sdílej 25526950](https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:21.799707+00:00 |
 | [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:23.828787+00:00 |
 | [Out of Death (2021) 720p CZ Titulky](https://prehraj.to/out-of-death-2021-720p-cz-titulky-avi/9dbce487d8a4df83) (ID 29089541) | [Sdílej 17416471](https://sdilej.cz/17416471/out-of-death-2021-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:22.979381+00:00 |
+| [Pinball: The Man Who Saved the Game (2022) 720p CZ Titulky](https://prehraj.to/pinball-the-man-who-saved-the-game-2022-720p-cz-titulky-mp4/5d6db7d566c724e4) (ID 29213682) | [Sdílej 26372484](https://sdilej.cz/26372484/pinball-the-man-who-saved-the-game-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:22.857533+00:00 |
 | [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:30.664846+00:00 |
 | [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:37.804267+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:32:08.559606+00:00 |
