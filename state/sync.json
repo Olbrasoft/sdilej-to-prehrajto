@@ -24186,17 +24186,19 @@
       "attempts": []
     },
     "909": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30817922",
+          "reason": "Request failed for https://sdilej.cz/30817922/evangelium-1.11-monstrum-2007-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:28:25.717648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30817922",
         "display_name": "Evangelium: 1.11 Monstrum (2007) 720p CZ Dabing",
         "planned_at": "2026-10-01T01:27:21.244472+00:00"
-      },
-      "claim": {
-        "worker_id": "07c1044af490431ca839208e95ebe684-shard-2",
-        "claimed_at": "2026-10-01T01:27:37.949499+00:00",
-        "lease_expires_at": "2026-10-01T07:27:37.949499+00:00",
-        "run_id": "36779644909"
       }
     },
     "969": {
@@ -292033,5 +292035,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T01:28:23.537382+00:00"
+  "updated_at": "2026-10-01T01:28:25.717665+00:00"
 }
