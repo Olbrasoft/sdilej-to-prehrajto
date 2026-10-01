@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:37:12.319843+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:37:25.560479+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 141.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 1, `existing_tracks_uncertain`: 127, `pending`: 845, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 45, `source_provenance_missing`: 88, `target_processing`: 108, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 845, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 45, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -279,7 +279,6 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 1, `existing_tracks_uncert
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [The Killing (1956) SD CZ Titulky](https://prehraj.to/the-killing-1956-sd-cz-titulky-avi/4b8249550584366a) (ID 29208632) | [Sdílej 28727379](https://sdilej.cz/28727379/zabijeni-1956-the-killing-sterling-hayden-eng-cz-dab.-eng-cz-ttl..mkv) | upload_unconfirmed | 2026-10-01T14:37:12.319817+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
