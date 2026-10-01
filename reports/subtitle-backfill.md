@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T23:31:11.787388+00:00
+Poslední aktualizace (UTC): 2026-10-01T23:31:19.118941+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 754, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 123, `source_provenance_missing`: 97, `source_unavailable`: 14, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 753, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 124, `source_provenance_missing`: 97, `source_unavailable`: 14, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -205,6 +205,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Kyberpeklo: Jak odhalit zneužívání na internetu (2022) SD CZ Titulky](https://prehraj.to/kyberpeklo-jak-odhalit-zneuzivani-na-internetu-2022-sd-cz-titulky-mkv/f39fd4b8ee0d38a5) (ID 29262983) | [Sdílej 34842907](https://sdilej.cz/34842907/cyber-hell-exposing-an-internet-horror-2022-dokumentarni-krimi-jizni-korea-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:34.497060+00:00 |
 | [L'Étranger (2025) 1080p CZ Titulky](https://prehraj.to/l-etranger-2025-1080p-cz-titulky-mkv/89abec92aa515679) (ID 29460945) | [Sdílej 33445227](https://sdilej.cz/33445227/l.etranger.2025.french.ad.1080p.webrip.10.bits.eac3.5.1.x265-tyhd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T19:31:17.723692+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:32.593639+00:00 |
+| [Lego Jurassic World: Double Trouble (2020) 720p CZ Titulky](https://prehraj.to/lego-jurassic-world-double-trouble-2020-720p-cz-titulky-mp4/686b38f9f6e0b5b8) (ID 29276107) | [Sdílej 34733047](https://sdilej.cz/34733047/lego-jurassic-world-double-trouble-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:19.118821+00:00 |
 | [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:34.295670+00:00 |
 | [Lidská stonožka 3 (2015) 1080p CZ Titulky.mp4](https://prehraj.to/lidska-stonozka-3-2015-1080p-cz-titulky-mp4/78b7639c091505f3) (ID 29090222) | [Sdílej 33435537](https://sdilej.cz/33435537/lidska-stonoz-ka-3.-2015-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:17:59.158505+00:00 |
 | [Lisztomania (1975) SD CZ Titulky](https://prehraj.to/lisztomania-1975-sd-cz-titulky-mp4/4e5497aab17eb703) (ID 29242713) | [Sdílej 34787708](https://sdilej.cz/34787708/lisztomania-1975-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:26.937889+00:00 |
