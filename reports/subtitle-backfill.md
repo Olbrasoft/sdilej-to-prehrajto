@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:23:36.904588+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:23:53.458336+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 856, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 36, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 855, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 37, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -216,6 +216,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 85
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:34.169445+00:00 |
 | [Take Point (2018) SD CZ Titulky](https://prehraj.to/take-point-2018-sd-cz-titulky-mkv/b6097f931ecd0e90) (ID 29608451) | [Sdílej 12205647](https://sdilej.cz/12205647/take.point.2018.hdrip.xvid.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:47.856502+00:00 |
 | [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:28.542454+00:00 |
+| [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:53.458225+00:00 |
 | [Temná píseň (2016) SD CZ Titulky](https://prehraj.to/temna-pisen-2016-sd-cz-titulky-mkv/e7cdc01716a32bb4) (ID 29298293) | [Sdílej 7993384](https://sdilej.cz/7993384/a-dark-song.2016.hdrip.xvid.ac3-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:21.865006+00:00 |
 | [Temná tvář Brooklynu (2019) 1080p CZ Titulky](https://prehrajto.cz/temna-tvar-brooklynu-2019-1080p-cz-titulky-mkv/63502affc1943733) (ID 29143724) | [Sdílej 25951577](https://sdilej.cz/25951577/motherless-brookland-2019-temna-tvar-brooklynu-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T13:51:27.125100+00:00 |
 | [Tenkrát v Číně 3 (1992) 1080p CZ Titulky](https://prehraj.to/tenkrat-v-cine-3-1992-1080p-cz-titulky-mkv/c93281c28e13d200) (ID 29493403) | [Sdílej 33480035](https://sdilej.cz/33480035/once.upon.a.time.in.china.ii.1992.multi.vfi.1080p.hdlight.ac3.5.1.h264-lihdl.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:03.784497+00:00 |
