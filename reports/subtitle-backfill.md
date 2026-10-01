@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T17:32:51.287301+00:00
+Poslední aktualizace (UTC): 2026-10-01T17:33:06.938672+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 120.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 829, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 60, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 828, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 61, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -22,6 +22,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Aurora (2019) 1080p CZ Titulky](https://prehraj.to/aurora-2019-1080p-cz-titulky-mkv/7c2178b015ccb9d4) (ID 29214765) | [Sdílej 12389464](https://sdilej.cz/12389464/aurora.2019.1080p.bluray.x264-fico.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:51.287189+00:00 |
 | [Avicii: True Stories (2017) 1080p CZ Titulky](https://prehraj.to/avicii-true-stories-2017-1080p-cz-titulky-mkv/b21e5051337d040e) (ID 29750924) | [Sdílej 27524862](https://sdilej.cz/27524862/avicii-true-stories.2017.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:17.832584+00:00 |
 | [Baaghi (2016) 1080p CZ Titulky](https://prehraj.to/baaghi-2016-1080p-cz-titulky-mkv/3e815fc9d9b61d4b) (ID 29749751) | [Sdílej 34799023](https://sdilej.cz/34799023/baaghi-1-akcni-indie-tiger-shroff-2016-cztit.1080p.bluray.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:17.832647+00:00 |
+| [Baahubali: The Beginning (2015) SD CZ Titulky](https://prehraj.to/baahubali-the-beginning-2015-sd-cz-titulky-mp4/49e5f3a13e73fc13) (ID 29215227) | [Sdílej 34697577](https://sdilej.cz/34697577/baahubali-the-beginning-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:06.938564+00:00 |
 | [Bad Hair (2020) SD CZ Titulky](https://prehraj.to/bad-hair-2020-sd-cz-titulky-mkv/7a3027a9bed47828) (ID 29652733) | [Sdílej 16446524](https://sdilej.cz/16446524/bad-hair-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:21.854785+00:00 |
 | [Baisers cachés (2016) 720p CZ Titulky](https://prehraj.to/baisers-caches-2016-720p-cz-titulky-mkv/b957dda9c23a615e) (ID 29394141) | [Sdílej 7041561](https://sdilej.cz/7041561/hidden-kisses-baisers-caches-2016-.720p.web-dl-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:07.838535+00:00 |
 | [Balada o Busteru Scruggsovi (2018) 1080p CZ Titulky](https://prehraj.to/balada-o-busteru-scruggsovi-2018-1080p-cz-titulky-mkv/61f1549d8091eeea) (ID 29409756) | [Sdílej 10816367](https://sdilej.cz/10816367/the-ballad-of-buster-scruggs-2018-1080p.-titul.cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:23.836471+00:00 |
