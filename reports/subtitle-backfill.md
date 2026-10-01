@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T17:32:33.597968+00:00
+Poslední aktualizace (UTC): 2026-10-01T17:32:41.981694+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 120.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 831, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 58, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 830, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 59, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -211,6 +211,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:50.409717+00:00 |
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:37.804181+00:00 |
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:22.082836+00:00 |
+| [Ronnie Coleman: Relentless (2007) SD CZ Titulky](https://prehraj.to/ronnie-coleman-relentless-2007-sd-cz-titulky-mp4/b9a3d5e37c0ec05c) (ID 29214549) | [Sdílej 34781462](https://sdilej.cz/34781462/ronnie-coleman-relentless-2007-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:41.981594+00:00 |
 | [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:09.893851+00:00 |
 | [Run the Tide (2016) 1080p CZ Titulky](https://prehraj.to/run-the-tide-2016-1080p-cz-titulky-mkv/68ea03df9c2c23ba) (ID 29610986) | [Sdílej 6915501](https://sdilej.cz/6915501/run-the-tide.2016.web-dl.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:51.987574+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:37.855090+00:00 |
