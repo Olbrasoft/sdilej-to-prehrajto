@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T19:32:20.325211+00:00
+Poslední aktualizace (UTC): 2026-10-01T19:32:33.562407+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 80.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 805, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 74, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 804, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 75, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -262,6 +262,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [The Mortuary Assistant (2026) 1080p CZ Titulky](https://prehraj.to/the-mortuary-assistant-2026-1080p-cz-titulky-mkv/8bf3ce1b68341d18) (ID 29089395) | [Sdílej 33820880](https://sdilej.cz/33820880/the.mortuary.assistant-2026-sktit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:20.659405+00:00 |
 | [The Nameless Days (2022) 720p CZ Titulky](https://prehraj.to/the-nameless-days-2022-720p-cz-titulky-mkv/f0321bb693668428) (ID 29611943) | [Sdílej 29827464](https://sdilej.cz/29827464/the.nameless.days.2022.720p-sk-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:53.810685+00:00 |
 | [The Offering (2022) 1080p CZ Titulky](https://prehraj.to/the-offering-2022-1080p-cz-titulky-mkv/36f5b832613dd6b7) (ID 29740131) | [Sdílej 25686579](https://sdilej.cz/25686579/the-offering-2022-cz-sub-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:11.894056+00:00 |
+| [The Party (2017) SD CZ Titulky](https://prehraj.to/the-party-2017-sd-cz-titulky-avi/6b3de1f55a53c012) (ID 29230183) | [Sdílej 26648027](https://sdilej.cz/26648027/the-party-2017-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:33.562300+00:00 |
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:59.942943+00:00 |
 | [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:19.759505+00:00 |
 | [The Stalker (2020) 1080p CZ Titulky](https://prehraj.to/the-stalker-2020-1080p-cz-titulky-mkv/e02d7d2a31aff5a4) (ID 29706464) | [Sdílej 14019948](https://sdilej.cz/14019948/the.stalker.2020.1080p.amzn.web-dl.ddp2.0.h.264-ntg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:43.801734+00:00 |
