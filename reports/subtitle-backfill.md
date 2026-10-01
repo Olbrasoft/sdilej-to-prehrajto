@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T18:41:34.708899+00:00
+Poslední aktualizace (UTC): 2026-10-01T18:42:06.529559+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 100.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 818, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 69, `source_provenance_missing`: 88, `source_unavailable`: 3, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 817, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 69, `source_provenance_missing`: 88, `source_unavailable`: 4, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -305,6 +305,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | --- | --- | --- | --- |
 | [18. růže (2026) 1080p CZ Titulky](https://prehraj.to/18-ruze-2026-1080p-cz-titulky-mp4/e5c029f729d2e02d) (ID 29218776) | [Sdílej 34715175](https://sdilej.cz/34715175/18.-ruze-2026-cz.mp4) | source_unavailable | 2026-10-01T18:41:02.703643+00:00 |
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-01T14:37:40.389935+00:00 |
+| [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | source_unavailable | 2026-10-01T18:42:06.529466+00:00 |
 | [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | source_unavailable | 2026-10-01T18:41:34.708815+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
