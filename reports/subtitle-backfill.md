@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:26:56.471228+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:27:11.661721+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 847, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 44, `source_provenance_missing`: 88, `target_processing`: 108, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 382, `attached_verified`: 1, `existing_tracks_uncertain`: 127, `pending`: 847, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 44, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -278,7 +278,6 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 84
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [Valčík s Bašírem (2008) 1080p CZ Titulky](https://prehraj.to/valcik-s-basirem-2008-1080p-cz-titulky-mp4/e373907a6c2ae12a) (ID 29207632) | [Sdílej 29944164](https://sdilej.cz/29944164/valcik-s-basirem-2008-animovany-dokumentarni-historicky-valecny-zivotopisny-cztit.mkv) | upload_unconfirmed | 2026-10-01T14:26:56.471196+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
