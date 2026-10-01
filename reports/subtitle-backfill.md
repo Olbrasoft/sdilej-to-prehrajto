@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:23:00.083366+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:23:13.453778+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 860, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 32, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 859, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 33, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -201,6 +201,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 86
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:37.855090+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehrajto.cz/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:55.851138+00:00 |
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:08.135466+00:00 |
+| [Slon (2003) SD CZ Titulky](https://prehraj.to/slon-2003-sd-cz-titulky-avi/82c06f9529911a1b) (ID 29178314) | [Sdílej 21156263](https://sdilej.cz/21156263/slon-elephant-2003-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:13.453649+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:21.900591+00:00 |
 | [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:13.819888+00:00 |
 | [Sneekweek (2016) 1080p CZ Titulky](https://prehraj.to/sneekweek-2016-1080p-cz-titulky-mkv/7f737c1ee63dab54) (ID 29736959) | [Sdílej 31436654](https://sdilej.cz/31436654/sneekweek-2016-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:11.894125+00:00 |
