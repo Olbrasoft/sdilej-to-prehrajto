@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T17:33:06.938672+00:00
+Poslední aktualizace (UTC): 2026-10-01T17:33:19.296240+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 120.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 828, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 61, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 827, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 62, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -148,6 +148,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [GODZILLA (2017) SD CZ Titulky.avi](https://prehraj.to/godzilla-2017-sd-cz-titulky-avi/59059d956be70179) (ID 29615057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T14:15:57.860287+00:00 |
 | [HOMUNCULUS (2021) SD CZ Titulky](https://prehraj.to/homunculus-2021-sd-cz-titulky-mkv/ce56cc4caba57929) (ID 29657930) | [Sdílej 29787022](https://sdilej.cz/29787022/homunculus-drama-fantasy-mysteriozni-2021-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:25.911524+00:00 |
 | [Happily (2021) 1080p CZ Titulky](https://prehraj.to/happily-2021-1080p-cz-titulky-mkv/6ccd9041f76c97f7) (ID 29720642) | [Sdílej 16891054](https://sdilej.cz/16891054/happily-2021-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:57.824303+00:00 |
+| [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:19.296131+00:00 |
 | [Hotel Inferno (2013) 1080p CZ Titulky](https://prehraj.to/hotel-inferno-2013-1080p-cz-titulky-mkv/148fb56c56fa9d36) (ID 29539384) | [Sdílej 17823326](https://sdilej.cz/17823326/hotel.inferno.2013.1080p.bluray.h264.aac-rarbg.ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:15.834458+00:00 |
 | [Hunted (2020) 1080p CZ Titulky](https://prehraj.to/hunted-2020-1080p-cz-titulky-mkv/0f07ff8c28da87c9) (ID 29434313) | [Sdílej 16064242](https://sdilej.cz/16064242/hunted-akcni-horor-thriller-2020.1080p.webrip.2.0.x264.bez.titulku.66-.sten.ok.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:39.805638+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:23.828904+00:00 |
