@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T16:38:42.527377+00:00
+Poslední aktualizace (UTC): 2026-10-01T16:38:56.847013+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 140.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 835, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 54, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 834, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 55, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -172,6 +172,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:07.785894+00:00 |
 | [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:32.922750+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:18:09.282148+00:00 |
+| [Merrily We Roll Along (2025) 1080p CZ Titulky](https://prehraj.to/merrily-we-roll-along-2025-1080p-cz-titulky-mp4/aa02345e5988f324) (ID 29213153) | [Sdílej 34723802](https://sdilej.cz/34723802/merrily-we-roll-along-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T16:38:56.846891+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:25.864225+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:16.694467+00:00 |
 | [Model House (2024) 1080p CZ Titulky](https://prehraj.to/model-house-2024-1080p-cz-titulky-mkv/10b7df99e8ef40db) (ID 29707140) | [Sdílej 34076738](https://sdilej.cz/34076738/model-house-a-morte-segue-voc-.2024.1080p.web-dl.x264.dual.5.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:47.794366+00:00 |
