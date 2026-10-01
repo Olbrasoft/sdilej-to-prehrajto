@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T19:31:54.721243+00:00
+Poslední aktualizace (UTC): 2026-10-01T19:32:08.362945+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 80.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 807, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 72, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 806, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 73, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -161,6 +161,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:57.860196+00:00 |
 | [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:03.760051+00:00 |
 | [Jack a Jill (2011) 1080p CZ Titulky](https://prehraj.to/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:22.645350+00:00 |
+| [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:08.362823+00:00 |
 | [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:33.597862+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:10.608010+00:00 |
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:48.630109+00:00 |
