@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T20:36:03.162776+00:00
+Poslední aktualizace (UTC): 2026-10-01T20:36:12.852964+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 60.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 797, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 82, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 796, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 83, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -22,6 +22,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Asedio (2023) 1080p CZ Titulky](https://prehraj.to/asedio-2023-1080p-cz-titulky-mkv/fc640f56c94d7a1f) (ID 29278532) | [Sdílej 27828721](https://sdilej.cz/27828721/oblezeni-asedio-2023-hd-5.1-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:41.164432+00:00 |
 | [Aurora (2019) 1080p CZ Titulky](https://prehraj.to/aurora-2019-1080p-cz-titulky-mkv/7c2178b015ccb9d4) (ID 29214765) | [Sdílej 12389464](https://sdilej.cz/12389464/aurora.2019.1080p.bluray.x264-fico.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:51.287189+00:00 |
 | [Avicii: True Stories (2017) 1080p CZ Titulky](https://prehraj.to/avicii-true-stories-2017-1080p-cz-titulky-mkv/b21e5051337d040e) (ID 29750924) | [Sdílej 27524862](https://sdilej.cz/27524862/avicii-true-stories.2017.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:17.832584+00:00 |
+| [Ašoka (2001) SD CZ Titulky](https://prehraj.to/asoka-2001-sd-cz-titulky-mp4/3ae647b318928418) (ID 29236389) | [Sdílej 34903495](https://sdilej.cz/34903495/asoka-2001-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:12.852811+00:00 |
 | [Baaghi (2016) 1080p CZ Titulky](https://prehraj.to/baaghi-2016-1080p-cz-titulky-mkv/3e815fc9d9b61d4b) (ID 29749751) | [Sdílej 34799023](https://sdilej.cz/34799023/baaghi-1-akcni-indie-tiger-shroff-2016-cztit.1080p.bluray.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:17.832647+00:00 |
 | [Baahubali: The Beginning (2015) SD CZ Titulky](https://prehraj.to/baahubali-the-beginning-2015-sd-cz-titulky-mp4/49e5f3a13e73fc13) (ID 29215227) | [Sdílej 34697577](https://sdilej.cz/34697577/baahubali-the-beginning-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:06.938564+00:00 |
 | [Bad Hair (2020) SD CZ Titulky](https://prehraj.to/bad-hair-2020-sd-cz-titulky-mkv/7a3027a9bed47828) (ID 29652733) | [Sdílej 16446524](https://sdilej.cz/16446524/bad-hair-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:21.854785+00:00 |
