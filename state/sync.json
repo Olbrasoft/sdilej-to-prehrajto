@@ -71524,13 +71524,6 @@
           "source_id": "34253762",
           "target_video_id": "29215910",
           "permanent": false,
-          "attempted_at": "2026-09-30T17:07:44.915084+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34253762",
-          "target_video_id": "29215910",
-          "permanent": false,
           "attempted_at": "2026-09-30T20:00:05.539203+00:00"
         },
         {
@@ -71539,6 +71532,13 @@
           "target_video_id": "29215910",
           "permanent": false,
           "attempted_at": "2026-09-30T23:27:54.755021+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34253762",
+          "target_video_id": "29215910",
+          "permanent": false,
+          "attempted_at": "2026-10-01T00:18:52.437925+00:00"
         }
       ],
       "last_plan": {
@@ -76120,13 +76120,6 @@
     "16330": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "32962082",
-          "target_video_id": "29171374",
-          "permanent": false,
-          "attempted_at": "2026-09-30T17:07:42.740601+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32962082",
@@ -76139,6 +76132,13 @@
           "target_video_id": "29171374",
           "permanent": false,
           "attempted_at": "2026-09-30T23:27:48.620813+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32962082",
+          "target_video_id": "29171374",
+          "permanent": false,
+          "attempted_at": "2026-10-01T00:18:48.383479+00:00"
         }
       ],
       "last_plan": {
@@ -80006,6 +80006,12 @@
         "target_video_id": "29654092",
         "size_bytes": 4600000000,
         "prepared_at": "2026-09-23T21:42:43.048831+00:00"
+      },
+      "claim": {
+        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-1",
+        "claimed_at": "2026-10-01T00:18:52.766393+00:00",
+        "lease_expires_at": "2026-10-01T06:18:52.766393+00:00",
+        "run_id": "36779644909"
       }
     },
     "16704": {
@@ -80927,18 +80933,19 @@
           "reason": "Request failed for https://sdilej.cz/30529556/107-matek-2021-uk-cs-subtitles-1080p-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-09-30T23:27:46.473349+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30529556",
+          "reason": "Request failed for https://sdilej.cz/30529556/107-matek-2021-uk-cs-subtitles-1080p-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-01T00:18:53.849337+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30529556",
         "display_name": "107 matek (2021) 1080p CZ Titulky",
         "planned_at": "2026-10-01T00:14:15.071217+00:00"
-      },
-      "claim": {
-        "worker_id": "d0b59990c7184ce0aa18944df7a92d38-shard-0",
-        "claimed_at": "2026-10-01T00:18:07.876520+00:00",
-        "lease_expires_at": "2026-10-01T06:18:07.876520+00:00",
-        "run_id": "36779644909"
       }
     },
     "12475": {
@@ -83024,13 +83031,6 @@
     "10851": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34979725",
-          "target_video_id": "29630582",
-          "permanent": false,
-          "attempted_at": "2026-09-30T17:07:49.191277+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34979725",
@@ -83043,6 +83043,13 @@
           "target_video_id": "29630582",
           "permanent": false,
           "attempted_at": "2026-09-30T23:27:52.605476+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34979725",
+          "target_video_id": "29630582",
+          "permanent": false,
+          "attempted_at": "2026-10-01T00:18:50.468161+00:00"
         }
       ],
       "last_plan": {
@@ -291544,5 +291551,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T00:18:44.093216+00:00"
+  "updated_at": "2026-10-01T00:18:53.849353+00:00"
 }
