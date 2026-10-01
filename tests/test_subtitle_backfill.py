@@ -64,6 +64,16 @@ def test_unrecognized_listing_fails_closed():
     assert not trusted_action("https://other.example/profil/nahrana-videa?do=uploadedVideoListing-uploadSubtitles", "uploadSubtitles")
 
 
+def test_listing_uses_the_same_origin_as_authenticated_login():
+    from sdilej_to_prehrajto.prehrajto import BASE_URL
+    session = Mock()
+    session.get.return_value.text = listing()
+    target = SubtitleTarget(session, interval=0)
+    targets, _ = target.listing()
+    assert session.get.call_args.args[0] == BASE_URL + "/profil/nahrana-videa"
+    assert targets[0].action.startswith(BASE_URL + "/")
+
+
 def test_vtt_conversion_preserves_czech_text_and_timing():
     result = normalize_srt("\ufeffWEBVTT\n\ncue-id\n00:01.000 --> 00:02.500 align:start\nPříliš žluťoučký kůň.\n".encode())
     assert result == normalize_srt(SRT)

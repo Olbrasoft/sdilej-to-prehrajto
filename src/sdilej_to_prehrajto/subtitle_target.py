@@ -9,8 +9,10 @@ from urllib.parse import parse_qs, urljoin, urlsplit
 from bs4 import BeautifulSoup
 
 from .subtitle_media import is_czech
+from .prehrajto import BASE_URL as BASE
 
-BASE = "https://prehrajto.cz"
+# Keep the authenticated origin used by login; cookies are not shared between
+# the prehraj.to and prehrajto.cz aliases.
 LISTING = BASE + "/profil/nahrana-videa"
 PAGE_KEY = "uploadedVideoListing-visualPaginator-page"
 

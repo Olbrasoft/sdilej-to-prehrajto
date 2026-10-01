@@ -312,7 +312,9 @@ def main():
             if session is not None:
                 session.cookies.set(cookie["name"], cookie["value"], domain=cookie["domain"], path=cookie["path"])
     else:
+        print("subtitle_login=source", flush=True)
         source = source_login(os.environ["SDILEJ_EMAIL"], os.environ["SDILEJ_PASSWORD"])
+        print("subtitle_login=target", flush=True)
         target = target_login(os.environ["PREHRAJTO_EMAIL"], os.environ["PREHRAJTO_PASSWORD"])
     state_path = args.root / args.state
     report_path = args.root / args.report
@@ -330,5 +332,7 @@ if __name__ == "__main__":
         main()
     except Exception as error:
         # Tracebacks from requests/subprocess can leak temporary auth URLs.
-        print(f"subtitle_backfill_failed type={type(error).__name__}", flush=True)
+        # These two internal exception classes carry only fixed reason codes.
+        reason = str(error) if isinstance(error, (TargetUnavailable, SubtitleUnavailable)) else type(error).__name__
+        print(f"subtitle_backfill_failed type={type(error).__name__} reason={reason}", flush=True)
         raise SystemExit(1) from None
