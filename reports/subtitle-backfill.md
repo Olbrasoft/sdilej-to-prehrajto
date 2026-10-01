@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T17:34:06.613960+00:00
+Poslední aktualizace (UTC): 2026-10-01T17:34:21.864080+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 120.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 822, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 67, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 821, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 68, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -254,6 +254,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [The Exception (2016) 1080p CZ Titulky](https://prehraj.to/the-exception-2016-1080p-cz-titulky-mkv/38d783fd76aca73d) (ID 29680017) | [Sdílej 7576370](https://sdilej.cz/7576370/vyjimka-the-exception.2016.1080p.web-dl.dd5.1.h264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:35.886053+00:00 |
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:05.782315+00:00 |
 | [The Jester 2 (2025) 1080p CZ Titulky.mkv](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:41.745312+00:00 |
+| [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:34:21.863973+00:00 |
 | [The Mortuary Assistant (2026) 1080p CZ Titulky](https://prehraj.to/the-mortuary-assistant-2026-1080p-cz-titulky-mkv/8bf3ce1b68341d18) (ID 29089395) | [Sdílej 33820880](https://sdilej.cz/33820880/the.mortuary.assistant-2026-sktit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:20.659405+00:00 |
 | [The Nameless Days (2022) 720p CZ Titulky](https://prehraj.to/the-nameless-days-2022-720p-cz-titulky-mkv/f0321bb693668428) (ID 29611943) | [Sdílej 29827464](https://sdilej.cz/29827464/the.nameless.days.2022.720p-sk-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:53.810685+00:00 |
 | [The Offering (2022) 1080p CZ Titulky](https://prehraj.to/the-offering-2022-1080p-cz-titulky-mkv/36f5b832613dd6b7) (ID 29740131) | [Sdílej 25686579](https://sdilej.cz/25686579/the-offering-2022-cz-sub-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:11.894056+00:00 |
