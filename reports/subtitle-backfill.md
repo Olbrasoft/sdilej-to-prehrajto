@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T21:32:41.251671+00:00
+Poslední aktualizace (UTC): 2026-10-01T21:32:47.349973+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 40.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 776, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 103, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 775, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 104, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -187,6 +187,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Klondike (2022) 1080p CZ Titulky](https://prehraj.to/klondike-2022-1080p-cz-titulky-mkv/a6add9704ae9ee77) (ID 29883168) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:36.093628+00:00 |
 | [Kluk ve světě příšer (2015) 1080p CZ Titulky](https://prehraj.to/kluk-ve-svete-priser-2015-1080p-cz-titulky-mkv/52cbdca1a6a55353) (ID 29559657) | [Sdílej 12089240](https://sdilej.cz/12089240/bakemono-no-ko-bd-1080p-flac-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:39.126381+00:00 |
 | [Kokuhaku (2010) 1080p CZ Titulky](https://prehraj.to/kokuhaku-2010-1080p-cz-titulky-mkv/b2c99d3e607ebcba) (ID 29560872) | [Sdílej 7861515](https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:41.113145+00:00 |
+| [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:47.349855+00:00 |
 | [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:58.396217+00:00 |
 | [Krrish (2006) SD CZ Titulky](https://prehraj.to/krrish-2006-sd-cz-titulky-mp4/67cfe535e2d1b5ae) (ID 29234994) | [Sdílej 34751293](https://sdilej.cz/34751293/krrish-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:47.559852+00:00 |
 | [Kyberpeklo: Jak odhalit zneužívání na internetu (2022) SD CZ Titulky](https://prehraj.to/kyberpeklo-jak-odhalit-zneuzivani-na-internetu-2022-sd-cz-titulky-mkv/f39fd4b8ee0d38a5) (ID 29262983) | [Sdílej 34842907](https://sdilej.cz/34842907/cyber-hell-exposing-an-internet-horror-2022-dokumentarni-krimi-jizni-korea-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:34.497060+00:00 |
