@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:38:45.803454+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:39:03.760154+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 141.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 838, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 51, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 837, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 52, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -153,6 +153,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Icarus (2017) 720p CZ Titulky](https://prehraj.to/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:34.731818+00:00 |
 | [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:18.492729+00:00 |
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:57.860196+00:00 |
+| [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:03.760051+00:00 |
 | [Jack a Jill (2011) 1080p CZ Titulky](https://prehraj.to/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:22.645350+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:10.608010+00:00 |
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:48.630109+00:00 |
