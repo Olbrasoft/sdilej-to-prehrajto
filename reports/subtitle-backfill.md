@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:37:40.389997+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:38:06.362753+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 141.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 843, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 46, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 842, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 47, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -176,6 +176,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Moje mistrovské dílo (2018) 1080p CZ Titulky](https://prehraj.to/moje-mistrovske-dilo-2018-1080p-cz-titulky-avi/cddd61543768f9a1) (ID 29175853) | [Sdílej 34271003](https://sdilej.cz/34271003/2018-moje-mistrovske-dilo-komedie-drama-77-argentina-spanelsko-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:49.061899+00:00 |
 | [Moje noc s Maud (1969) SD CZ Titulky](https://prehraj.to/moje-noc-s-maud-1969-sd-cz-titulky-avi/4b2d296ba14ae59f) (ID 28948721) | [Sdílej 29230755](https://sdilej.cz/29230755/moje-noc-s-maud-1969-fran-oise-fabian-cz-tit-zdeno791.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:19.205881+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:44.826080+00:00 |
+| [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:06.362619+00:00 |
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:34.020604+00:00 |
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:03.970268+00:00 |
 | [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:20.143817+00:00 |
