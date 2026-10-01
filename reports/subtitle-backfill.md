@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:37:35.367086+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:37:40.389997+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 141.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 844, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 46, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 843, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 46, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -280,6 +280,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-01T14:37:40.389935+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
