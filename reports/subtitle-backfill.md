@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T22:30:53.132760+00:00
+Poslední aktualizace (UTC): 2026-10-01T22:31:03.606418+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 20.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 772, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 107, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 771, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 108, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -210,6 +210,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Model House (2024) 1080p CZ Titulky](https://prehraj.to/model-house-2024-1080p-cz-titulky-mkv/10b7df99e8ef40db) (ID 29707140) | [Sdílej 34076738](https://sdilej.cz/34076738/model-house-a-morte-segue-voc-.2024.1080p.web-dl.x264.dual.5.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:22.272001+00:00 |
 | [Moderní Popelka: Vánoční přání (2019) 1080p CZ Titulky](https://prehraj.to/moderni-popelka-vanocni-prani-2019-1080p-cz-titulky-mkv/6094ab3a525eae88) (ID 29732055) | [Sdílej 14725414](https://sdilej.cz/14725414/a-cinderella-story-christmas-wish-fantasy-2019-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:38.240763+00:00 |
 | [Moderní doba (1936) SD CZ Titulky](https://prehraj.to/moderni-doba-1936-sd-cz-titulky-avi/8a537b90fc61ac83) (ID 29188864) | [Sdílej 32220611](https://sdilej.cz/32220611/moderni-doba-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:11.473702+00:00 |
+| [Mohabbatein (2000) SD CZ Titulky](https://prehraj.to/mohabbatein-2000-sd-cz-titulky-mp4/596b2a114e81325a) (ID 29263611) | [Sdílej 34751508](https://sdilej.cz/34751508/mohabbatein-2000-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:03.606291+00:00 |
 | [Moje mistrovské dílo (2018) 1080p CZ Titulky](https://prehraj.to/moje-mistrovske-dilo-2018-1080p-cz-titulky-avi/cddd61543768f9a1) (ID 29175853) | [Sdílej 34271003](https://sdilej.cz/34271003/2018-moje-mistrovske-dilo-komedie-drama-77-argentina-spanelsko-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:49.061899+00:00 |
 | [Moje noc s Maud (1969) SD CZ Titulky](https://prehraj.to/moje-noc-s-maud-1969-sd-cz-titulky-avi/4b2d296ba14ae59f) (ID 28948721) | [Sdílej 29230755](https://sdilej.cz/29230755/moje-noc-s-maud-1969-fran-oise-fabian-cz-tit-zdeno791.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:19.205881+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:44.826080+00:00 |
