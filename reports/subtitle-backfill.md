@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:18:09.282269+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:18:15.704614+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 874, `source_czech_full_text_unsupported`: 1, `source_czech_text_missing`: 19, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 873, `source_czech_full_text_unsupported`: 1, `source_czech_text_missing`: 20, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -43,6 +43,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 87
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:21.799680+00:00 |
 | [Death Note (2017) SD CZ Titulky](https://prehrajto.cz/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:05.153872+00:00 |
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehrajto.cz/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:47.208167+00:00 |
+| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:15.704467+00:00 |
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:29.928714+00:00 |
 | [Dálniční hlídka (2019) 4K CZ Titulky](https://prehraj.to/dalnicni-hlidka-2019-4k-cz-titulky-mkv/2814e8c9b4087bcd) (ID 29400538) | [Sdílej 11927098](https://sdilej.cz/11927098/the.highwaymen.2019.2160p.webrip.x264-deflate.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:15.854010+00:00 |
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/75ea323d8e35160d) (ID 29355261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T14:13:46.055785+00:00 |
