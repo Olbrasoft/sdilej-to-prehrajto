@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T22:31:48.080765+00:00
+Poslední aktualizace (UTC): 2026-10-01T22:31:54.510626+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 20.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 765, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 114, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 764, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 115, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -274,6 +274,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T19:31:01.620902+00:00 |
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:27.287035+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:30.559390+00:00 |
+| [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:54.510496+00:00 |
 | [Superhost (2021) 1080p CZ Titulky](https://prehraj.to/superhost-2021-1080p-cz-titulky-mkv/b4059976607da9ce) (ID 29706516) | [Sdílej 18833126](https://sdilej.cz/18833126/superhost.2021.1080p.amzn.web-dl.ddp2.0.h.264-tepes.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:20.191238+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:34.169445+00:00 |
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:43:16.703602+00:00 |
