@@ -1,0 +1,67 @@
+name: backfill-subtitles
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: "Listing pages to inventory, oldest first"
+        default: "20"
+      max_sources:
+        description: "Original sources to inspect (serially)"
+        default: "12"
+      limit:
+        description: "Maximum subtitle attachments in one run"
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: film-original-subtitle-backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install subtitle extraction runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install .
+      - name: Configure checkpoint author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Backfill original Czech text subtitles
+        env:
+          SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+          SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+          PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+          PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+          MAX_PAGES: ${{ inputs.max_pages || '20' }}
+          MAX_SOURCES: ${{ inputs.max_sources || '12' }}
+          SUBTITLE_LIMIT: ${{ inputs.limit || '3' }}
+        run: |
+          python -m sdilej_to_prehrajto.subtitle_backfill \
+            --max-pages "$MAX_PAGES" --max-sources "$MAX_SOURCES" \
+            --limit "$SUBTITLE_LIMIT" --git-persist
+      - name: Preserve audit report even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: subtitle-backfill-report
+          path: |
+            reports/subtitle-backfill.md
+            state/subtitle-backfill.json
+          if-no-files-found: ignore

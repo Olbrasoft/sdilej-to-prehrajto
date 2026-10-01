@@ -420,6 +420,11 @@ class SyncPipeline:
                         "display_name": row["display_name"],
                         "status": "pending",
                         "queued_at": now_iso(),
+                        "source_id": candidate.source_id,
+                        "source_url": candidate.url,
+                        "source_filename": candidate.filename,
+                        "source_binding_verified": upload.get("completion_evidence")
+                        in {"relay_completed", "reconciled_after_relay_error"},
                     }
                 )
             self.state.record_success(film.cr_film_id, upload)

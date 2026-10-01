@@ -82,3 +82,40 @@ python -m venv .venv
 
 Pro vytvoření plánu je navíc potřeba FFmpeg, `faster-whisper` a stejné čtyři
 proměnné prostředí jako v GitHub Secrets.
+
+## Doplňování českých titulků
+
+Workflow `backfill-subtitles` běží každou hodinu, vždy pouze v jednom workeru.
+Nezastavuje nahrávání filmů a nemění jeho limit tří souběžných přenosů.
+Po dávkách prochází stránky `CZ Titulky` od nejstarších, aby zpracovávaná
+videa neblokovala dokončená. Kontroluje i položky mimo původní titulkovou frontu;
+bez doložené vazby na původní zdroj je ale automaticky neupravuje.
+
+- Přehled k ručnímu doplnění: [reports/subtitle-backfill.md](reports/subtitle-backfill.md).
+- Strojový stav a kurzor pro další běh: `state/subtitle-backfill.json`.
+- Zpracovávaná videa a existující české titulky se přeskakují. Neznámý jazyk
+  existující stopy vyžaduje kontrolu; stopa se nemaže ani nepřepisuje.
+- Používá se pouze přesně zaznamenaný zdroj na Sdílej.cz. Nově dokončené
+  přenosy ukládají zdroj do titulkové fronty; dohledání existujícího videa podle
+  názvu se nepovažuje za důkaz, že pochází ze právě vybraného zdroje.
+- České textové stopy se extrahují nebo převedou na UTF-8 SRT s CRLF. SRT,
+  WebVTT a ASS/SSA jsou podporované, obrazové ani natvrdo vložené titulky ne.
+  Nic se nepřekládá, negeneruje, nečte pomocí OCR ani nehledá u jiné verze filmu.
+- Chybějící česká stopa je v přehledu uvedená samostatně, s názvem filmu,
+  odkazem na video i původní zdroj a časem kontroly. Nová kontrola nejdříve za
+  sedm dní; dočasné chyby mají kratší interval a vlastní oddíl.
+- Před vložením se znovu ověří přesné ID videa a do Gitu uloží záměr včetně
+  hashe a jedinečného názvu SRT. Nejasná odpověď serveru vede pouze k ověřování,
+  nikdy k druhému POST. Úspěch vyžaduje novou odpovídající stopu v seznamu.
+
+První běh lze spustit ručně; výchozí dávka prohlédne 20 stránek a nejvýše
+12 zdrojů, vloží nejvýše tři titulkové soubory **postupně**. Celý zdrojový film
+se neukládá na disk, ale extrakce vnitřních titulků může vyžadovat jeho přečtení
+po síti. FFmpeg má pevný časový limit; tajné odkazy ani text titulků se do Gitu
+neukládají. Pro diagnostiku bez změn na webu použij samostatný lokální stav:
+
+```bash
+python -m sdilej_to_prehrajto.subtitle_backfill --dry-run \
+  --state /tmp/subtitle-inspection.json --report /tmp/subtitle-inspection.md \
+  --max-pages 2 --max-sources 4
+```
