@@ -41,8 +41,9 @@ jobs:
           key: whisper-small-${{ runner.os }}-v1
       - name: Install preparation runtime
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo python3 scripts/configure_ubuntu_mirrors.py
+          sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 update
+          sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 install -y --no-install-recommends ffmpeg
           pip install ".[whisper]"
       - name: Verify real Whisper runtime before scanning films
         run: python scripts/check_whisper_runtime.py

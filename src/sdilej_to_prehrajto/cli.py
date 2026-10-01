@@ -46,6 +46,35 @@ def exclude_uploaded_films(
     return [film for film in films if not upload_state.uploaded(film.cr_film_id)]
 
 
+def recover_failed_sources(upload_state: StateStore, sources: SelectedSourceStore) -> int:
+    """Let the producer rediscover repeatedly unavailable, untransferred files.
+
+    Only the producer owns the source manifest. Never discard target IDs,
+    change a source for an existing target, or invalidate on a single outage.
+    """
+    recovered = 0
+    for film_id in list(upload_state.data['films']):
+        row = upload_state.snapshot(int(film_id))
+        if any(row.get(key) for key in ('upload', 'prepared', 'previous_target_id', 'claim')):
+            continue
+        attempts = row.get('attempts') or []
+        source = sources.candidate(int(film_id))
+        if source is None or sources.uploaded(int(film_id)) or len(attempts) < 3:
+            continue
+        if any(attempt.get('target_video_id') for attempt in attempts):
+            continue
+        if not all(attempt.get('status') == 'source_refresh_failed'
+                   and str(attempt.get('source_id')) == source.source_id
+                   and str(attempt.get('reason', '')).startswith('Source detail has no authenticated download link;')
+                   for attempt in attempts[-3:]):
+            continue
+        sources.record({'cr_film_id': int(film_id), 'selection_policy': 'unavailable-source',
+                        'source_status': 'rediscovery_needed'})
+        print(f'source_rediscovery_needed film_id={film_id} source_id={source.source_id}', flush=True)
+        recovered += 1
+    return recovered
+
+
 def additional_worker_count(
     workers: int, plan_size: int, *, refill_enabled: bool = False
 ) -> int:
@@ -224,6 +253,10 @@ def main() -> int:
             print(f"released_orphaned_claims={released_claims}", flush=True)
     subtitle_queue = SubtitleQueue(subtitle_path)
     selected_sources = SelectedSourceStore(source_manifest_path)
+    if args.mode == 'prepare':
+        recovered = recover_failed_sources(StateStore(default_state), selected_sources)
+        if recovered and persister:
+            persister(state.path, 'flush')
     pipeline = SyncPipeline(
         source_provider=SdilejProvider(source_session, WhisperLanguageDetector()),
         source_session=source_session,
