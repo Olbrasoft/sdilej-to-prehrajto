@@ -242334,17 +242334,19 @@
       }
     },
     "22298": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31651625",
+          "target_video_id": "29905233",
+          "permanent": false,
+          "attempted_at": "2026-10-01T18:16:26.835413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31651625",
         "display_name": "Boží zbraň (1976) SD CZ Dabing",
         "planned_at": "2026-10-01T18:14:07.589192+00:00"
-      },
-      "claim": {
-        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-1",
-        "claimed_at": "2026-10-01T18:14:21.297191+00:00",
-        "lease_expires_at": "2026-10-02T00:14:21.297191+00:00",
-        "run_id": "36877108712"
       },
       "previous_target_id": "29905233",
       "prepared": {
@@ -242666,6 +242668,12 @@
         "source_id": "30198099",
         "display_name": "Nahlas a naplno (2012) SD CZ Dabing",
         "planned_at": "2026-10-01T18:14:08.139342+00:00"
+      },
+      "claim": {
+        "worker_id": "a7bfe1123c5d4a2f9857a9042e7c3de5-shard-0",
+        "claimed_at": "2026-10-01T18:16:25.170588+00:00",
+        "lease_expires_at": "2026-10-02T00:16:25.170588+00:00",
+        "run_id": "36877108712"
       }
     },
     "15195": {
@@ -295540,5 +295548,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T18:16:22.728539+00:00"
+  "updated_at": "2026-10-01T18:16:26.835430+00:00"
 }
