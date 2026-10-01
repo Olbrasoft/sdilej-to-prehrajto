@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:24:11.473809+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:24:19.074724+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 854, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 38, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 853, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 39, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -267,6 +267,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 85
 | [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:32.890110+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:09.838664+00:00 |
 | [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:00.083258+00:00 |
+| [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:19.074613+00:00 |
 
 ## Dočasné chyby a čekání na potvrzení
 
