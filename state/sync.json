@@ -23696,17 +23696,19 @@
       }
     },
     "856": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34530630",
+          "target_video_id": "29886981",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:26:55.693715+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34530630",
         "display_name": "Police Story (1985) 1080p CZ Dabing",
         "planned_at": "2026-10-01T01:10:29.678601+00:00"
-      },
-      "claim": {
-        "worker_id": "07c1044af490431ca839208e95ebe684-shard-0",
-        "claimed_at": "2026-10-01T01:11:57.313512+00:00",
-        "lease_expires_at": "2026-10-01T07:11:57.313512+00:00",
-        "run_id": "36779644909"
       },
       "previous_target_id": "29886981",
       "prepared": {
@@ -72075,13 +72077,6 @@
     "1732": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25775847",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-09-30T20:00:26.287469+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "25775847",
           "target_video_id": "29180133",
@@ -72094,6 +72089,13 @@
           "target_video_id": "29180133",
           "permanent": false,
           "attempted_at": "2026-10-01T00:18:58.157925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25775847",
+          "target_video_id": "29180133",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:26:53.755726+00:00"
         }
       ],
       "last_plan": {
@@ -74054,7 +74056,13 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-09-11T22:03:58.410129+00:00"
       },
-      "previous_target_id": "29311126"
+      "previous_target_id": "29311126",
+      "claim": {
+        "worker_id": "07c1044af490431ca839208e95ebe684-shard-2",
+        "claimed_at": "2026-10-01T01:26:54.098466+00:00",
+        "lease_expires_at": "2026-10-01T07:26:54.098466+00:00",
+        "run_id": "36779644909"
+      }
     },
     "35562": {
       "attempts": []
@@ -80400,13 +80408,6 @@
           "source_id": "34882942",
           "target_video_id": "29654092",
           "permanent": false,
-          "attempted_at": "2026-09-30T20:00:19.351742+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34882942",
-          "target_video_id": "29654092",
-          "permanent": false,
           "attempted_at": "2026-09-30T23:27:57.298687+00:00"
         },
         {
@@ -80415,6 +80416,13 @@
           "target_video_id": "29654092",
           "permanent": false,
           "attempted_at": "2026-10-01T00:18:56.079301+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34882942",
+          "target_video_id": "29654092",
+          "permanent": false,
+          "attempted_at": "2026-10-01T01:26:51.420868+00:00"
         }
       ],
       "last_plan": {
@@ -291997,5 +292005,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T01:26:43.919808+00:00"
+  "updated_at": "2026-10-01T01:26:55.693731+00:00"
 }
