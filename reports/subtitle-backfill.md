@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T18:40:30.029487+00:00
+Poslední aktualizace (UTC): 2026-10-01T18:41:02.703732+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 100.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 820, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 69, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 819, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 69, `source_provenance_missing`: 88, `source_unavailable`: 2, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -303,6 +303,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [18. růže (2026) 1080p CZ Titulky](https://prehraj.to/18-ruze-2026-1080p-cz-titulky-mp4/e5c029f729d2e02d) (ID 29218776) | [Sdílej 34715175](https://sdilej.cz/34715175/18.-ruze-2026-cz.mp4) | source_unavailable | 2026-10-01T18:41:02.703643+00:00 |
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-01T14:37:40.389935+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
