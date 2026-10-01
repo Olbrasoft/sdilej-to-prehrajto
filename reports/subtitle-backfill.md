@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:38:28.913270+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:38:37.175745+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 141.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 840, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 49, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 839, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 50, `source_provenance_missing`: 88, `source_unavailable`: 1, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -35,6 +35,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Brimstone (2016) 1080p CZ Titulky](https://prehraj.to/brimstone-2016-1080p-cz-titulky-mkv/2956b0c605fba62a) (ID 29428108) | [Sdílej 30615192](https://sdilej.cz/30615192/brimstone.2016.1080p.web-dl.x264-fgt-en-dub-sk-subtitles.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:14:33.922889+00:00 |
 | [Bráška (2019) 1080p CZ Titulky](https://prehraj.to/braska-2019-1080p-cz-titulky-mkv/984563bed19f01cc) (ID 29721471) | [Sdílej 12666589](https://sdilej.cz/12666589/mon-frere-brother.2019.french.1080p.webrip.x264-sp0utn1k-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:59.943040+00:00 |
 | [Bídníci (2019) 1080p CZ Titulky](https://prehraj.to/bidnici-2019-1080p-cz-titulky-mkv/c9fb98c2140cd65c) (ID 29555708) | [Sdílej 13352602](https://sdilej.cz/13352602/les.miserables.2019.bdrip.1080p-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:17.823612+00:00 |
+| [Být či nebýt (1942) 1080p CZ Titulky](https://prehraj.to/byt-ci-nebyt-1942-1080p-cz-titulky-mkv/ede885353090d3eb) (ID 29212505) | [Sdílej 34501012](https://sdilej.cz/34501012/byt-ci-nebyt-1942-cz-titulky-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:37.175601+00:00 |
 | [Chlapci ze sousedství (1991) 4K CZ Titulky](https://prehraj.to/chlapci-ze-sousedstvi-1991-4k-cz-titulky-mkv/294b7d2ae8062ccb) (ID 29317507) | [Sdílej 23258862](https://sdilej.cz/23258862/boyz-n-the-hood-1991-2160p-uhd-bluray-x265-iamable.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:32.085846+00:00 |
 | [Chlapec a jeho pes (1975) SD CZ Titulky](https://prehraj.to/chlapec-a-jeho-pes-1975-sd-cz-titulky-mkv/4ba7ed7d2b73c128) (ID 29229723) | [Sdílej 34831485](https://sdilej.cz/34831485/a-boy-and-his-dog-1975-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:46.656929+00:00 |
 | [Chum (2026) 1080p CZ Titulky](https://prehraj.to/chum-2026-1080p-cz-titulky-mkv/f776d9ad1711e741) (ID 29088573) | [Sdílej 34473094](https://sdilej.cz/34473094/chum-2026-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:56.999635+00:00 |
