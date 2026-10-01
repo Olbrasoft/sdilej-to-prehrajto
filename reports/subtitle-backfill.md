@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T23:29:58.871617+00:00
+Poslední aktualizace (UTC): 2026-10-01T23:30:06.187755+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 762, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 116, `source_provenance_missing`: 97, `source_unavailable`: 13, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 761, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 117, `source_provenance_missing`: 97, `source_unavailable`: 13, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -161,6 +161,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:34:06.613855+00:00 |
 | [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:56.428289+00:00 |
 | [Farma zvířat (1954) SD CZ Titulky](https://prehraj.to/farma-zvirat-1954-sd-cz-titulky-avi/a39cc1f3c0a1d0b1) (ID 29153284) | [Sdílej 24657429](https://sdilej.cz/24657429/animal-farm.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:34.029936+00:00 |
+| [Fast Girls (2012) SD CZ Titulky](https://prehraj.to/fast-girls-2012-sd-cz-titulky-mp4/43919444d28ae1ec) (ID 29272988) | [Sdílej 34780103](https://sdilej.cz/34780103/fast-girls-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:06.187657+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:17.331046+00:00 |
 | [Fractured (2018) SD CZ Titulky](https://prehraj.to/fractured-2018-sd-cz-titulky-mkv/ccf8866a5cc6e4ff) (ID 29313928) | [Sdílej 10955141](https://sdilej.cz/10955141/fractured-2018-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:31:56.428305+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:36:46.656968+00:00 |
