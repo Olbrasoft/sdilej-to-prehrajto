@@ -31023,17 +31023,19 @@
       "attempts": []
     },
     "12121": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18450085",
+          "target_video_id": "29901596",
+          "permanent": false,
+          "attempted_at": "2026-10-01T13:40:24.804149+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18450085",
         "display_name": "Tina Turner (1993) SD CZ Dabing",
         "planned_at": "2026-10-01T13:20:00.219482+00:00"
-      },
-      "claim": {
-        "worker_id": "3963ca1ede9247f5b8b3445d678d1972-shard-1",
-        "claimed_at": "2026-10-01T13:26:53.954948+00:00",
-        "lease_expires_at": "2026-10-01T19:26:53.954948+00:00",
-        "run_id": "36843554180"
       },
       "previous_target_id": "29901596",
       "prepared": {
@@ -31120,6 +31122,12 @@
         "source_id": "31741061",
         "display_name": "Suburra (2015) 1080p CZ Dabing",
         "planned_at": "2026-10-01T13:31:03.221884+00:00"
+      },
+      "claim": {
+        "worker_id": "3963ca1ede9247f5b8b3445d678d1972-shard-2",
+        "claimed_at": "2026-10-01T13:40:21.440498+00:00",
+        "lease_expires_at": "2026-10-01T19:40:21.440498+00:00",
+        "run_id": "36843554180"
       }
     },
     "10941": {
@@ -294058,5 +294066,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T13:40:18.121658+00:00"
+  "updated_at": "2026-10-01T13:40:24.804165+00:00"
 }
