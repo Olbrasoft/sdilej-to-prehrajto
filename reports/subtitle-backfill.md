@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:19:47.396829+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:20:18.492835+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 868, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 24, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 867, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 25, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -145,6 +145,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 86
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:23.828904+00:00 |
 | [I Am Not a Serial Killer (2016) 720p CZ Titulky](https://prehraj.to/i-am-not-a-serial-killer-2016-720p-cz-titulky-mkv/19d73b1378ad45ef) (ID 29607689) | [Sdílej 6846494](https://sdilej.cz/6846494/i-am-not-a-serial-killer.killer.2016.720p.bluray.x264.dts-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:45.866824+00:00 |
 | [Icarus (2017) 720p CZ Titulky](https://prehrajto.cz/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T13:51:35.015307+00:00 |
+| [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:18.492729+00:00 |
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:57.860196+00:00 |
 | [Jack a Jill (2011) 1080p CZ Titulky](https://prehrajto.cz/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T13:51:22.936845+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehrajto.cz/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:10.608010+00:00 |
