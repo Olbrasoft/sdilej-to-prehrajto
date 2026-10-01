@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T22:31:03.606418+00:00
+Poslední aktualizace (UTC): 2026-10-01T22:31:10.729645+00:00
 
 Zkontrolováno videí: 1600. Další stránka kontroly: 20.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 771, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 108, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
+Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncertain`: 127, `pending`: 770, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 109, `source_provenance_missing`: 88, `source_unavailable`: 11, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -239,6 +239,7 @@ Stavy: `already_has_czech`: 383, `attached_verified`: 2, `existing_tracks_uncert
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:58.092082+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:32:08.559606+00:00 |
 | [Post Mortem (2020) 1080p CZ Titulky](https://prehraj.to/post-mortem-2020-1080p-cz-titulky-mkv/d3e819e06f651968) (ID 29657657) | [Sdílej 19395386](https://sdilej.cz/19395386/post-mortem-2020-hun-audio-1080p-web-dl-h264-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:34.857916+00:00 |
+| [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:10.729513+00:00 |
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:42.108886+00:00 |
 | [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:14.654898+00:00 |
 | [Pásky z Nagana (2018) 1080p CZ Titulky](https://prehraj.to/pasky-z-nagana-2018-1080p-cz-titulky-avi/76c71685dd87f659) (ID 29175288) | [Sdílej 34670771](https://sdilej.cz/34670771/pasky-z-nagana-2018-dokument.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:10.009894+00:00 |
