@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-01T14:19:32.890218+00:00
+Poslední aktualizace (UTC): 2026-10-01T14:19:38.496821+00:00
 
 Zkontrolováno videí: 1599. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 870, `source_czech_full_text_unsupported`: 1, `source_czech_text_missing`: 23, `source_provenance_missing`: 88, `target_processing`: 108
+Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 869, `source_czech_full_text_unsupported`: 1, `source_czech_text_missing`: 24, `source_provenance_missing`: 88, `target_processing`: 108
 
 ## K ručnímu doplnění nebo ověření
 
@@ -245,6 +245,7 @@ Stavy: `already_has_czech`: 382, `existing_tracks_uncertain`: 127, `pending`: 87
 | [Waterloo (1970) 1080p CZ Titulky](https://prehraj.to/waterloo-1970-1080p-cz-titulky-mkv/6796db04770430db) (ID 29505250) | [Sdílej 33237576](https://sdilej.cz/33237576/waterloo.1970.bdrip.1080p.multi.hdlight.x264.ac3.5.1.ac3.2.0-bzh29.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:07.854289+00:00 |
 | [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:13.812365+00:00 |
 | [Whiskey zloděj (2017) SD CZ Titulky](https://prehraj.to/whiskey-zlodej-2017-sd-cz-titulky-mkv/6627ffd9aaf7733d) (ID 29308502) | [Sdílej 12073116](https://sdilej.cz/12073116/a-viszkis-the-whiskey-bandit-bdrip.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:27.855630+00:00 |
+| [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:38.496703+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:35.885346+00:00 |
 | [Ztracené písně (2023) 1080p CZ Titulky](https://prehraj.to/ztracene-pisne-2023-1080p-cz-titulky-mkv/1dc4ac4ba46a4f15) (ID 29710845) | [Sdílej 34025807](https://sdilej.cz/34025807/ztracene-pisne-2023-drama-komedie-japonsko-czdab.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:16:49.822288+00:00 |
 | [Záře (1996) 720p CZ Titulky](https://prehraj.to/zare-1996-720p-cz-titulky-mkv/188d8dda0e2b6921) (ID 29510085) | [Sdílej 32869545](https://sdilej.cz/32869545/shine-1996-1080p-fr-en-x264-ac3-mhdgz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:09.855799+00:00 |
