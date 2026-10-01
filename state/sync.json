@@ -25602,13 +25602,6 @@
           "source_id": "29297028",
           "target_video_id": "29117207",
           "permanent": false,
-          "attempted_at": "2026-10-01T11:39:10.237026+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29297028",
-          "target_video_id": "29117207",
-          "permanent": false,
           "attempted_at": "2026-10-01T12:10:14.781407+00:00"
         },
         {
@@ -25617,6 +25610,13 @@
           "target_video_id": "29117207",
           "permanent": false,
           "attempted_at": "2026-10-01T12:49:11.910455+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29297028",
+          "target_video_id": "29117207",
+          "permanent": false,
+          "attempted_at": "2026-10-01T13:59:08.699560+00:00"
         }
       ],
       "last_plan": {
@@ -27720,13 +27720,6 @@
           "source_id": "32676884",
           "target_video_id": "29635846",
           "permanent": false,
-          "attempted_at": "2026-10-01T11:39:16.592866+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32676884",
-          "target_video_id": "29635846",
-          "permanent": false,
           "attempted_at": "2026-10-01T12:10:16.976367+00:00"
         },
         {
@@ -27735,6 +27728,13 @@
           "target_video_id": "29635846",
           "permanent": false,
           "attempted_at": "2026-10-01T12:49:15.600412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32676884",
+          "target_video_id": "29635846",
+          "permanent": false,
+          "attempted_at": "2026-10-01T13:59:12.158748+00:00"
         }
       ],
       "last_plan": {
@@ -28260,7 +28260,13 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-09-05T03:43:51.599271+00:00"
       },
-      "previous_target_id": "29118333"
+      "previous_target_id": "29118333",
+      "claim": {
+        "worker_id": "3963ca1ede9247f5b8b3445d678d1972-shard-0",
+        "claimed_at": "2026-10-01T13:59:12.480846+00:00",
+        "lease_expires_at": "2026-10-01T19:59:12.480846+00:00",
+        "run_id": "36843554180"
+      }
     },
     "23298": {
       "attempts": [
@@ -28405,13 +28411,6 @@
           "source_id": "33527395",
           "target_video_id": "29118413",
           "permanent": false,
-          "attempted_at": "2026-10-01T11:39:11.953740+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33527395",
-          "target_video_id": "29118413",
-          "permanent": false,
           "attempted_at": "2026-10-01T12:10:15.073812+00:00"
         },
         {
@@ -28420,6 +28419,13 @@
           "target_video_id": "29118413",
           "permanent": false,
           "attempted_at": "2026-10-01T12:49:13.624751+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33527395",
+          "target_video_id": "29118413",
+          "permanent": false,
+          "attempted_at": "2026-10-01T13:59:10.409906+00:00"
         }
       ],
       "last_plan": {
@@ -30332,17 +30338,19 @@
       }
     },
     "30207": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32343286",
+          "target_video_id": "29901971",
+          "permanent": false,
+          "attempted_at": "2026-10-01T13:59:13.661295+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32343286",
         "display_name": "Pan Klein (1976) SD CZ Dabing",
         "planned_at": "2026-10-01T13:50:29.131765+00:00"
-      },
-      "claim": {
-        "worker_id": "3963ca1ede9247f5b8b3445d678d1972-shard-1",
-        "claimed_at": "2026-10-01T13:50:44.292381+00:00",
-        "lease_expires_at": "2026-10-01T19:50:44.292381+00:00",
-        "run_id": "36843554180"
       },
       "previous_target_id": "29901971",
       "prepared": {
@@ -294256,5 +294264,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-01T13:59:04.987856+00:00"
+  "updated_at": "2026-10-01T13:59:13.661311+00:00"
 }
