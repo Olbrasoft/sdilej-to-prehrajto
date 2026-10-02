@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T10:34:57.112646+00:00
+Poslední aktualizace (UTC): 2026-10-02T10:35:04.674381+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 134.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 620, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 250, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 619, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 251, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -283,6 +283,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Michael Jackson's This Is It (2009) 1080p CZ Titulky](https://prehraj.to/michael-jackson-s-this-is-it-2009-1080p-cz-titulky-mp4/bfc6a17dd54a987d) (ID 29319034) | [Sdílej 28787638](https://sdilej.cz/28787638/michael-jackson-s-this-is-it-2009-titulky-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:39.504614+00:00 |
 | [Milfs vs. Zombies (2015) SD CZ Titulky](https://prehraj.to/milfs-vs-zombies-2015-sd-cz-titulky-mkv/2ebc8b57b29b02ae) (ID 29904306) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:31.399040+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:20.063356+00:00 |
+| [Milovaná (2010) 1080p CZ Titulky](https://prehraj.to/milovana-2010-1080p-cz-titulky-mkv/b85d1bd0fef86acf) (ID 29382058) | [Sdílej 20917147](https://sdilej.cz/20917147/till.det.som.ar.vackert.2010.1080p.web-dl.dd5.1.h.264-pfxcpi.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:35:04.674229+00:00 |
 | [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:43.577383+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:01.494625+00:00 |
 | [Model House (2024) 1080p CZ Titulky](https://prehraj.to/model-house-2024-1080p-cz-titulky-mkv/10b7df99e8ef40db) (ID 29707140) | [Sdílej 34076738](https://sdilej.cz/34076738/model-house-a-morte-segue-voc-.2024.1080p.web-dl.x264.dual.5.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:20.473060+00:00 |
