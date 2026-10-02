@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:23:38.753986+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:23:54.310129+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 201, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 650, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 200, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 651, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -304,6 +304,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:18.091699+00:00 |
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:14.924343+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:17.331046+00:00 |
+| [Flamin' Hot: Koření úspěchu (2023) SD CZ Titulky](https://prehraj.to/flamin-hot-koreni-uspechu-2023-sd-cz-titulky-avi/3e52bb6f59445a44) (ID 29680006) | [Sdílej 26288113](https://sdilej.cz/26288113/flamin.hot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:23:54.309985+00:00 |
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:34:37.279343+00:00 |
 | [Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky](https://prehraj.to/fortune-feimster-sladka-i-slana-2020-1080p-cz-titulky-mp4/c7c66027480e2347) (ID 29578268) | [Sdílej 34733296](https://sdilej.cz/34733296/fortune-feimster-sladka-i-slana-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:03.245101+00:00 |
 | [Fotky zítřka (2014) SD CZ Titulky](https://prehraj.to/fotky-zitrka-2014-sd-cz-titulky-avi/677f01701b137158) (ID 29377773) | [Sdílej 22554309](https://sdilej.cz/22554309/time-lapse-2014-sktit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:22.419218+00:00 |
