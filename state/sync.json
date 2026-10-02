@@ -293400,17 +293400,19 @@
       "attempts": []
     },
     "19166": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34775356",
+          "reason": "Request failed for https://sdilej.cz/34775356/western-cz-dab-hickok.2017.sk-titulky.web-super-western-cz-tit.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T21:41:02.572130+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34775356",
         "display_name": "Hickok (2017) SD CZ Titulky",
         "planned_at": "2026-10-02T20:24:54.629375+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-1",
-        "claimed_at": "2026-10-02T21:40:16.670096+00:00",
-        "lease_expires_at": "2026-10-03T03:40:16.670096+00:00",
-        "run_id": "37054088523"
       }
     },
     "7831": {
@@ -314546,5 +314548,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T21:40:56.969967+00:00"
+  "updated_at": "2026-10-02T21:41:02.572148+00:00"
 }
