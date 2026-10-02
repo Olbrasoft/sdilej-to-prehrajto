@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:35:19.930661+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:35:28.672560+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 591, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 278, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 590, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 279, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -464,6 +464,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [The United States vs. Billie Holiday (2021) 1080p CZ Titulky](https://prehraj.to/the-united-states-vs-billie-holiday-2021-1080p-cz-titulky-mp4/fae63f49ee0e618c) (ID 29291389) | [Sdílej 34772632](https://sdilej.cz/34772632/the-united-states-vs.-billie-holiday-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:26.864513+00:00 |
 | [The Vatican Tapes (2015) SD CZ Titulky.avi](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:30.285177+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:32.004031+00:00 |
+| [Thriller - drsný film (1973) 1080p CZ Titulky](https://prehraj.to/thriller-drsny-film-1973-1080p-cz-titulky-mp4/d3b318601405ea7e) (ID 29398262) | [Sdílej 34755870](https://sdilej.cz/34755870/thriller-drsny-film-1973-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:28.672433+00:00 |
 | [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:46.720566+00:00 |
 | [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:48.636398+00:00 |
 | [Tobol (2019) SD CZ Titulky](https://prehraj.to/tobol-2019-sd-cz-titulky-mp4/793c7f85b112419e) (ID 29287806) | [Sdílej 34853793](https://sdilej.cz/34853793/tobol-the-conquest-of-siberia-2019-titulky.sk.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:25.392245+00:00 |
