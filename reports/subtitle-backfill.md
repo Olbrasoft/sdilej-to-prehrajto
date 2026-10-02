@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:38:21.814918+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:38:31.583894+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 576, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 293, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 575, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 294, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -312,6 +312,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Monster Island (2017) SD CZ Titulky](https://prehraj.to/monster-island-2017-sd-cz-titulky-avi/730f6bdb8f0d01aa) (ID 29294511) | [Sdílej 8202805](https://sdilej.cz/8202805/monster.island.2017.pldub.web-dl.xvid-kit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:26.166087+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:28.837214+00:00 |
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:41.653624+00:00 |
+| [My All American (2015) 720p CZ Titulky](https://prehraj.to/my-all-american-2015-720p-cz-titulky-mp4/271a4c43350a84ed) (ID 29407734) | [Sdílej 34775916](https://sdilej.cz/34775916/my-all-american-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:31.583798+00:00 |
 | [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:06.362619+00:00 |
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:46.458386+00:00 |
 | [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:56.781721+00:00 |
