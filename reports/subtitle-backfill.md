@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T11:33:14.713730+00:00
+Poslední aktualizace (UTC): 2026-10-02T11:33:20.133105+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 114.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 610, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 260, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 609, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 261, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -442,6 +442,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [The Party (2017) SD CZ Titulky](https://prehraj.to/the-party-2017-sd-cz-titulky-avi/6b3de1f55a53c012) (ID 29230183) | [Sdílej 26648027](https://sdilej.cz/26648027/the-party-2017-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:33.562300+00:00 |
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:32.544706+00:00 |
 | [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:17.307343+00:00 |
+| [The Siege of Jadotville (2016) 1080p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-2016-1080p-cz-titulky-mkv/f25496c787ff5a51) (ID 29393179) | [Sdílej 11755217](https://sdilej.cz/11755217/the.siege.of.jadotville.2016.1080p.webrip.dd5.1.x264-sh0w.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:20.132953+00:00 |
 | [The Stalker (2020) 1080p CZ Titulky](https://prehraj.to/the-stalker-2020-1080p-cz-titulky-mkv/e02d7d2a31aff5a4) (ID 29706464) | [Sdílej 14019948](https://sdilej.cz/14019948/the.stalker.2020.1080p.amzn.web-dl.ddp2.0.h.264-ntg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:16.476327+00:00 |
 | [The Surfer (2024) 1080p CZ Titulky](https://prehraj.to/the-surfer-2024-1080p-cz-titulky-mkv/4460dc700fbc6099) (ID 29655492) | [Sdílej 31261007](https://sdilej.cz/31261007/the-surfer-2024-1080p-amzn-web-dl-ddp5-1-h-264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:21.324518+00:00 |
 | [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:09.752740+00:00 |
