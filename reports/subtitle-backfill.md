@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:17:29.597904+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:17:37.816475+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 397, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 468, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 396, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 469, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -419,6 +419,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Nemocnice Parkland (2013) 1080p CZ Titulky](https://prehraj.to/nemocnice-parkland-2013-1080p-cz-titulky-mp4/8473f62b4cbed348) (ID 29284711) | [Sdílej 32945357](https://sdilej.cz/32945357/parkland-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:45.747521+00:00 |
 | [Neohlížej se (1967) 1080p CZ Titulky](https://prehraj.to/neohlizej-se-1967-1080p-cz-titulky-mkv/ba4b5a8652b018da) (ID 29319512) | [Sdílej 33036676](https://sdilej.cz/33036676/1967-dont-look-back-bob-dylan-vostfr-1080p-x264-ac3.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:28.012882+00:00 |
 | [Nepřátelé (2025) 1080p CZ Titulky](https://prehraj.to/nepratele-2025-1080p-cz-titulky-mp4/91c652c6c1dbe4c7) (ID 29468794) | [Sdílej 31685263](https://sdilej.cz/31685263/enemigos.2025.1080p.amzn.web-dl.ddp5.1.h.264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:59.208577+00:00 |
+| [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:37.816336+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:21.663760+00:00 |
 | [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:19.903541+00:00 |
 | [Neviňátka (1961) 1080p CZ Titulky](https://prehraj.to/nevinatka-1961-1080p-cz-titulky-mkv/933f47c2df417454) (ID 29397058) | [Sdílej 33293130](https://sdilej.cz/33293130/the-innocents-1961-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:12.934432+00:00 |
