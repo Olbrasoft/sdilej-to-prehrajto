@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T08:41:00.801959+00:00
+Poslední aktualizace (UTC): 2026-10-02T08:41:16.014896+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 649, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 223, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 648, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 224, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
 
 ## K ručnímu doplnění nebo ověření
 
@@ -90,6 +90,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Eden (2012) SD CZ Titulky](https://prehraj.to/eden-2012-sd-cz-titulky-avi/54f69e6d0ef48458) (ID 29234056) | [Sdílej 14579749](https://sdilej.cz/14579749/eden-drama-thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:25.483408+00:00 |
 | [Eenie Meanie (2025) 1080p CZ Titulky](https://prehraj.to/eenie-meanie-2025-1080p-cz-titulky-mkv/d743f4fd5e84441d) (ID 29907790) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:35.418747+00:00 |
 | [Ek Villain (2014) 720p CZ Titulky](https://prehraj.to/ek-villain-2014-720p-cz-titulky-mp4/4b09ae3a08f98378) (ID 29230526) | [Sdílej 34738457](https://sdilej.cz/34738457/ek-villain-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:43.162165+00:00 |
+| [El clan (2015) SD CZ Titulky](https://prehraj.to/el-clan-2015-sd-cz-titulky-mp4/8fa776cade235d46) (ID 29355449) | [Sdílej 34776027](https://sdilej.cz/34776027/el-clan-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:41:16.014795+00:00 |
 | [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:19.537747+00:00 |
 | [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:32.806916+00:00 |
 | [Escaping the Madhouse: The Nellie Bly Story (2019) 1080p CZ Titulky](https://prehraj.to/escaping-the-madhouse-the-nellie-bly-story-2019-1080p-cz-titulky-mp4/a055023ac112fad2) (ID 29282757) | [Sdílej 34734438](https://sdilej.cz/34734438/escaping-the-madhouse-the-nellie-bly-story-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:13.264073+00:00 |
