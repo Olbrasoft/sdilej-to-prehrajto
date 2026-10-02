@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:57:49.834256+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:58:00.202726+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 474, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 394, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 473, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 395, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -584,6 +584,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:49.304487+00:00 |
 | [V ringu smrti (2008) SD CZ Titulky](https://prehraj.to/v-ringu-smrti-2008-sd-cz-titulky-mkv/d4c75b88d301cf49) (ID 29612532) | [Sdílej 34837133](https://sdilej.cz/34837133/ring-of-death-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:51.184650+00:00 |
 | [V úskalí (2020) SD CZ Titulky](https://prehraj.to/v-uskali-2020-sd-cz-titulky-mkv/b4be3343a7259f4e) (ID 29284063) | [Sdílej 14433055](https://sdilej.cz/14433055/v-uskali-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:10.080658+00:00 |
+| [V/H/S/85 (2023) SD CZ Titulky](https://prehraj.to/v-h-s-85-2023-sd-cz-titulky-mp4/9af854231d75dff6) (ID 29539008) | [Sdílej 27431301](https://sdilej.cz/27431301/v-h-s-85-2023-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:58:00.202610+00:00 |
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:49.709383+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:49.606622+00:00 |
 | [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:11.338507+00:00 |
