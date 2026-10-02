@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T02:43:50.798225+00:00
+Poslední aktualizace (UTC): 2026-10-02T02:44:01.861427+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 106.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 726, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 150, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 725, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 151, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -165,6 +165,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:34:06.613855+00:00 |
 | [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:42.866097+00:00 |
 | [Farma zvířat (1954) SD CZ Titulky](https://prehraj.to/farma-zvirat-1954-sd-cz-titulky-avi/a39cc1f3c0a1d0b1) (ID 29153284) | [Sdílej 24657429](https://sdilej.cz/24657429/animal-farm.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:34.029936+00:00 |
+| [Fast Color (2018) 1080p CZ Titulky](https://prehraj.to/fast-color-2018-1080p-cz-titulky-mkv/e56a1a339bc42360) (ID 29293662) | [Sdílej 12912800](https://sdilej.cz/12912800/fast.color.2018.limited.1080p.bluray.x264-geckos.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:01.861291+00:00 |
 | [Fast Girls (2012) SD CZ Titulky](https://prehraj.to/fast-girls-2012-sd-cz-titulky-mp4/43919444d28ae1ec) (ID 29272988) | [Sdílej 34780103](https://sdilej.cz/34780103/fast-girls-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:06.187657+00:00 |
 | [Fetih 1453 (2012) SD CZ Titulky](https://prehraj.to/fetih-1453-2012-sd-cz-titulky-avi/9c8e788c36361b7f) (ID 29288120) | [Sdílej 15619435](https://sdilej.cz/15619435/fetih-1453-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:50.229450+00:00 |
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:14.924343+00:00 |
