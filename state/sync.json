@@ -263323,17 +263323,19 @@
       "attempts": []
     },
     "7182": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32657986",
+          "target_video_id": "29930679",
+          "permanent": false,
+          "attempted_at": "2026-10-02T23:55:54.872112+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32657986",
         "display_name": "Kód 8: Část 2 (2024) 1080p CZ Dabing",
         "planned_at": "2026-10-02T23:37:06.445211+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-1",
-        "claimed_at": "2026-10-02T23:48:56.237014+00:00",
-        "lease_expires_at": "2026-10-03T05:48:56.237014+00:00",
-        "run_id": "37054088523"
       },
       "previous_target_id": "29930679",
       "prepared": {
@@ -263587,6 +263589,12 @@
         "source_id": "28131822",
         "display_name": "V bezvědomí (2024) 1080p CZ Titulky",
         "planned_at": "2026-10-02T23:37:07.612712+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-0",
+        "claimed_at": "2026-10-02T23:55:18.928555+00:00",
+        "lease_expires_at": "2026-10-03T05:55:18.928555+00:00",
+        "run_id": "37054088523"
       }
     },
     "6450": {
@@ -316066,5 +316074,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T23:55:16.575513+00:00"
+  "updated_at": "2026-10-02T23:55:54.872129+00:00"
 }
