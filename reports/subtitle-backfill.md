@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:29:59.775668+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:30:10.116394+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 344, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 518, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 343, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 519, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -636,6 +636,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [The Clovehitch Killer (2018) SD CZ Titulky](https://prehraj.to/the-clovehitch-killer-2018-sd-cz-titulky-avi/7f908ff2189264d1) (ID 29372397) | [Sdílej 11007687](https://sdilej.cz/11007687/the-clovehitch-killer-2018-cz-titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:37:42.160278+00:00 |
 | [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:36.904486+00:00 |
 | [The Engineer (2023) 1080p CZ Titulky](https://prehraj.to/the-engineer-2023-1080p-cz-titulky-mkv/bbf93480adf4f2a6) (ID 29737979) | [Sdílej 34393567](https://sdilej.cz/34393567/the-engineer-2023-1080p-amzn-web-dl-ddp5-1-h-264-flux.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:44.499905+00:00 |
+| [The Escape of Prisoner 614 (2018) 1080p CZ Titulky](https://prehraj.to/the-escape-of-prisoner-614-2018-1080p-cz-titulky-mp4/35f646ff39be45b9) (ID 29612662) | [Sdílej 34735652](https://sdilej.cz/34735652/the-escape-of-prisoner-614-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:30:10.116278+00:00 |
 | [The Exception (2016) 1080p CZ Titulky](https://prehraj.to/the-exception-2016-1080p-cz-titulky-mkv/38d783fd76aca73d) (ID 29680017) | [Sdílej 7576370](https://sdilej.cz/7576370/vyjimka-the-exception.2016.1080p.web-dl.dd5.1.h264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:27:53.389713+00:00 |
 | [The Ghost Within (2023) 1080p CZ Titulky](https://prehraj.to/the-ghost-within-2023-1080p-cz-titulky-mkv/d2b41bf8850a58a0) (ID 29293444) | [Sdílej 26787220](https://sdilej.cz/26787220/the.ghost.within.2023.1080p.bluray.en.5.1.titulky-sk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:32.945279+00:00 |
 | [The Great Alaskan Race (2019) SD CZ Titulky](https://prehraj.to/the-great-alaskan-race-2019-sd-cz-titulky-avi/650c19202cf0c15c) (ID 29399740) | [Sdílej 13281983](https://sdilej.cz/13281983/the-great-alaskan-race-2019-sk-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:51.545795+00:00 |
