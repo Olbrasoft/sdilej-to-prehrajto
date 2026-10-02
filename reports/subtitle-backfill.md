@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T01:47:25.392380+00:00
+Poslední aktualizace (UTC): 2026-10-02T01:47:33.128373+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 126.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 735, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 141, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 734, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 142, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -349,6 +349,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Un moment d'égarement (2015) 1080p CZ Titulky](https://prehraj.to/un-moment-d-egarement-2015-1080p-cz-titulky-mkv/d1404c4af4942d54) (ID 29010356) | [Sdílej 17665210](https://sdilej.cz/17665210/un.moment.d-egarement.2015.1080p.x264.aac5.1-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:08:41.929530+00:00 |
 | [Unacknowledged (2017) 1080p CZ Titulky](https://prehraj.to/unacknowledged-2017-1080p-cz-titulky-mkv/df5daf294c594bec) (ID 29631739) | [Sdílej 7661428](https://sdilej.cz/7661428/unacknowledged-2017-.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:08.886668+00:00 |
 | [Unfriend (2016) SD CZ Titulky](https://prehraj.to/unfriend-2016-sd-cz-titulky-avi/e3c3cff865638b50) (ID 29089305) | [Sdílej 12685980](https://sdilej.cz/12685980/unfriend-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:12.155508+00:00 |
+| [Unleashing Mr. Darcy (2016) SD CZ Titulky](https://prehraj.to/unleashing-mr-darcy-2016-sd-cz-titulky-mp4/22f281d43d43efab) (ID 29287829) | [Sdílej 16620609](https://sdilej.cz/16620609/unleashing.mr.darcy.2016.webrip.x264-ion10.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:33.128258+00:00 |
 | [Uri: The Surgical Strike (2019) 1080p CZ Titulky](https://prehraj.to/uri-the-surgical-strike-2019-1080p-cz-titulky-avi/49f71f232d7277cb) (ID 29116528) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:49.825387+00:00 |
 | [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:49.304487+00:00 |
 | [V ringu smrti (2008) SD CZ Titulky](https://prehraj.to/v-ringu-smrti-2008-sd-cz-titulky-mkv/d4c75b88d301cf49) (ID 29612532) | [Sdílej 34837133](https://sdilej.cz/34837133/ring-of-death-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:01.022399+00:00 |
