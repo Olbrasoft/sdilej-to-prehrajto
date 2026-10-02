@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:51:52.442898+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:52:01.784575+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 136, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 709, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 135, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 710, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -104,6 +104,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Blood Shot (2013) SD CZ Titulky](https://prehraj.to/blood-shot-2013-sd-cz-titulky-mp4/391206f73351e444) (ID 29679551) | [Sdílej 31936352](https://sdilej.cz/31936352/blood-shot-2013-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:23:24.628416+00:00 |
 | [Blood Vessel (2019) SD CZ Titulky](https://prehraj.to/blood-vessel-2019-sd-cz-titulky-mkv/e122c56107dd526c) (ID 29912378) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:40:04.802784+00:00 |
 | [Blue Bayou (2021) 1080p CZ Titulky](https://prehraj.to/blue-bayou-2021-1080p-cz-titulky-mp4/c0e62c30ff25a742) (ID 29415797) | [Sdílej 34773049](https://sdilej.cz/34773049/blue-bayou-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:06.469262+00:00 |
+| [Blue Mountain State: The Rise of Thadland (2016) SD CZ Titulky](https://prehraj.to/blue-mountain-state-the-rise-of-thadland-2016-sd-cz-titulky-mp4/b6a01e7282922aca) (ID 29719125) | [Sdílej 34775362](https://sdilej.cz/34775362/blue-mountain-state-the-rise-of-thadland-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:01.784470+00:00 |
 | [Blutgletscher (2013) SD CZ Titulky](https://prehraj.to/blutgletscher-2013-sd-cz-titulky-avi/0f3554087f7cb179) (ID 29706180) | [Sdílej 27467306](https://sdilej.cz/27467306/blutgletscher-2013-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:46.413601+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:49.394996+00:00 |
 | [Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky](https://prehraj.to/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-1080p-cz-titulky-mp4/6376b023be19998c) (ID 29566506) | [Sdílej 34773043](https://sdilej.cz/34773043/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:44.907821+00:00 |
