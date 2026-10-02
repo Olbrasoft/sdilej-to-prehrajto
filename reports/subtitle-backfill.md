@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:07:50.364706+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:08:14.946773+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 95, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 748, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 94, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 749, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -1031,6 +1031,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:50.573803+00:00 |
 | [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:56.125849+00:00 |
 | [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:39:40.192370+00:00 |
+| [Šingeki no kjodžin (2015) 1080p CZ Titulky](https://prehraj.to/singeki-no-kjodzin-2015-1080p-cz-titulky-avi/4cd38c26c0cded08) (ID 29734090) | [Sdílej 8458716](https://sdilej.cz/8458716/shingeki-no-kyojin-attack-on-titan.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:08:14.946663+00:00 |
 | [Šlápni na to! (2020) 1080p CZ Titulky](https://prehraj.to/slapni-na-to-2020-1080p-cz-titulky-mp4/594cd284d5c37161) (ID 29695375) | [Sdílej 34731712](https://sdilej.cz/34731712/slapni-na-to-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:47.923753+00:00 |
 | [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:00.083258+00:00 |
 | [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:19.074613+00:00 |
