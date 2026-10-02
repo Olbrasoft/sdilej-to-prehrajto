@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:02:53.636957+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:03:06.071195+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 455, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 411, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 454, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 412, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -50,6 +50,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Bajirao Mastani (2015) SD CZ Titulky](https://prehraj.to/bajirao-mastani-2015-sd-cz-titulky-mp4/c5a3b4ba30efa8da) (ID 29489428) | [Sdílej 34738142](https://sdilej.cz/34738142/bajirao-mastani-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:09.755821+00:00 |
 | [Balada o Busteru Scruggsovi (2018) 1080p CZ Titulky](https://prehraj.to/balada-o-busteru-scruggsovi-2018-1080p-cz-titulky-mkv/61f1549d8091eeea) (ID 29409756) | [Sdílej 10816367](https://sdilej.cz/10816367/the-ballad-of-buster-scruggs-2018-1080p.-titul.cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636274+00:00 |
 | [Ballistic (2025) 1080p CZ Titulky](https://prehraj.to/ballistic-2025-1080p-cz-titulky-mkv/191c56cdd9034502) (ID 29479941) | [Sdílej 34602718](https://sdilej.cz/34602718/ballistic-2025-web-dl-1080p-latino.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:45.426440+00:00 |
+| [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:06.071055+00:00 |
 | [Bastard (2023) 1080p CZ Titulky](https://prehraj.to/bastard-2023-1080p-cz-titulky-mkv/0878f436cbf0562b) (ID 29509680) | [Sdílej 31415631](https://sdilej.cz/31415631/bastard-bastarden-the-promise-land-2023-dk-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:54:46.586392+00:00 |
 | [Battlestar Galactica: Plán (2009) 1080p CZ Titulky](https://prehraj.to/battlestar-galactica-plan-2009-1080p-cz-titulky-mp4/c7fd5b1914f6e432) (ID 29429444) | [Sdílej 32444722](https://sdilej.cz/32444722/battlestar-galactica-the-plan-2009-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:43:17.398387+00:00 |
 | [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:45.706002+00:00 |
