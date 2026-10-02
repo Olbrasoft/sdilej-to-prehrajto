@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:46:34.821919+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:46:44.255796+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 838, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 839, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 23, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -353,6 +353,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:14.924343+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:17.331046+00:00 |
 | [Flamin' Hot: Koření úspěchu (2023) SD CZ Titulky](https://prehraj.to/flamin-hot-koreni-uspechu-2023-sd-cz-titulky-avi/3e52bb6f59445a44) (ID 29680006) | [Sdílej 26288113](https://sdilej.cz/26288113/flamin.hot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:23:54.309985+00:00 |
+| [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:46:44.255671+00:00 |
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:34:37.279343+00:00 |
 | [Followed (2018) 1080p CZ Titulky](https://prehraj.to/followed-2018-1080p-cz-titulky-mp4/91e5ef8083cbbf6d) (ID 29711077) | [Sdílej 34737041](https://sdilej.cz/34737041/followed-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:45:34.489624+00:00 |
 | [Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky](https://prehraj.to/fortune-feimster-sladka-i-slana-2020-1080p-cz-titulky-mp4/c7c66027480e2347) (ID 29578268) | [Sdílej 34733296](https://sdilej.cz/34733296/fortune-feimster-sladka-i-slana-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:03.245101+00:00 |
@@ -1141,7 +1142,6 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-02T06:52:14.972558+00:00 |
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | source_unavailable | 2026-10-01T18:44:24.532751+00:00 |
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | source_unavailable | 2026-10-01T18:45:31.531356+00:00 |
-| [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | source_unavailable | 2026-10-01T18:42:06.529466+00:00 |
 | [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | source_unavailable | 2026-10-01T18:43:49.231017+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-01T22:32:02.070118+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-02T15:22:45.668707+00:00 |
