@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:36:24.970373+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:36:35.785212+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 319, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 542, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 318, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 543, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -757,6 +757,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Wither (2012) SD CZ Titulky](https://prehraj.to/wither-2012-sd-cz-titulky-mp4/41d842cf6f7fc279) (ID 29306068) | [Sdílej 34779874](https://sdilej.cz/34779874/wither-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:04.334667+00:00 |
 | [Woodstock 99: Mír, láska a běsnění (2021) 1080p CZ Titulky](https://prehraj.to/woodstock-99-mir-laska-a-besneni-2021-1080p-cz-titulky-mp4/7ca94472134e7fba) (ID 29445059) | [Sdílej 34728066](https://sdilej.cz/34728066/woodstock-99-mir-laska-a-besneni-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:15.525289+00:00 |
 | [World of Tomorrow (2015) 720p CZ Titulky](https://prehraj.to/world-of-tomorrow-2015-720p-cz-titulky-mp4/1f87f82a6017c286) (ID 29289142) | [Sdílej 34737901](https://sdilej.cz/34737901/world-of-tomorrow-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:57.320839+00:00 |
+| [Yao (2019) SD CZ Titulky](https://prehraj.to/yao-2019-sd-cz-titulky-mp4/1547d59a3602c700) (ID 29631456) | [Sdílej 34763000](https://sdilej.cz/34763000/yao-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:35.785106+00:00 |
 | [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:42.078665+00:00 |
 | [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:38.496703+00:00 |
 | [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:51.913200+00:00 |
