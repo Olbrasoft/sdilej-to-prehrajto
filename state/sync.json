@@ -274179,17 +274179,20 @@
       "attempts": []
     },
     "20204": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22094913",
+          "target_video_id": "29925563",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T18:43:57.141162+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22094913",
         "display_name": "Hvozd (2015) 1080p CZ Titulky",
         "planned_at": "2026-10-02T17:40:48.058083+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T18:32:34.693251+00:00",
-        "lease_expires_at": "2026-10-03T00:32:34.693251+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29925563",
       "prepared": {
@@ -312261,5 +312264,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T18:42:52.467624+00:00"
+  "updated_at": "2026-10-02T18:43:57.141179+00:00"
 }
