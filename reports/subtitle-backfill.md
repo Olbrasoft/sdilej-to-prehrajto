@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:44:16.095588+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:44:29.155311+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 159, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 687, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 158, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 688, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -516,6 +516,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Most Beautiful Island (2017) 1080p CZ Titulky](https://prehraj.to/most-beautiful-island-2017-1080p-cz-titulky-mkv/fd2ecf4fa2cc0ce9) (ID 29642449) | [Sdílej 8518733](https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:50:13.758796+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:28.837214+00:00 |
 | [Mrzout (2014) 720p CZ Titulky](https://prehraj.to/mrzout-2014-720p-cz-titulky-mkv/8968089b4ba16650) (ID 29656071) | [Sdílej 6530755](https://sdilej.cz/6530755/mrzout-mielensapahoittaja-2014-.720p.bluray.h264.dts-5.1-fin-slovenske-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:59:46.372109+00:00 |
+| [Mulberry Street (2006) SD CZ Titulky](https://prehraj.to/mulberry-street-2006-sd-cz-titulky-avi/e37bfb75579670f9) (ID 29709624) | [Sdílej 30456781](https://sdilej.cz/30456781/mulberry-street-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:29.155196+00:00 |
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:41.653624+00:00 |
 | [My All American (2015) 720p CZ Titulky](https://prehraj.to/my-all-american-2015-720p-cz-titulky-mp4/271a4c43350a84ed) (ID 29407734) | [Sdílej 34775916](https://sdilej.cz/34775916/my-all-american-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:31.583798+00:00 |
 | [My Bodyguard (1980) SD CZ Titulky](https://prehraj.to/my-bodyguard-1980-sd-cz-titulky-mp4/c3be1ac8d9ba7487) (ID 29445263) | [Sdílej 34755746](https://sdilej.cz/34755746/my-bodyguard-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:26.117699+00:00 |
