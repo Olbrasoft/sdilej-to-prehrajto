@@ -261511,6 +261511,12 @@
         "source_id": "29814735",
         "display_name": "Svět mutantů (2014) SD CZ Dabing",
         "planned_at": "2026-10-02T06:09:16.314847+00:00"
+      },
+      "claim": {
+        "worker_id": "3d8ef466ebec455cb4cf4ba063659bd5-shard-2",
+        "claimed_at": "2026-10-02T06:34:48.553121+00:00",
+        "lease_expires_at": "2026-10-02T12:34:48.553121+00:00",
+        "run_id": "36956698710"
       }
     },
     "7361": {
@@ -261540,7 +261546,15 @@
       }
     },
     "7090": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30829627",
+          "reason": "Request failed for https://sdilej.cz/30829627/utek-z-planety-zeme-2013-cz-en-1080p-escape-from-planet-earth-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T06:34:49.062449+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30829627",
         "display_name": "Útěk z planety Země (2013) 1080p CZ Dabing",
@@ -304219,5 +304233,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T06:34:45.988852+00:00"
+  "updated_at": "2026-10-02T06:34:49.062463+00:00"
 }
