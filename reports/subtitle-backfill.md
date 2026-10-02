@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:39:40.563006+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:39:49.827734+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 32, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 805, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 31, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 806, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -610,6 +610,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Neohlížej se (1967) 1080p CZ Titulky](https://prehraj.to/neohlizej-se-1967-1080p-cz-titulky-mkv/ba4b5a8652b018da) (ID 29319512) | [Sdílej 33036676](https://sdilej.cz/33036676/1967-dont-look-back-bob-dylan-vostfr-1080p-x264-ac3.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:28.012882+00:00 |
 | [Nepoužitelní (2012) SD CZ Titulky](https://prehraj.to/nepouzitelni-2012-sd-cz-titulky-avi/e45aef931c33e8ac) (ID 29646431) | [Sdílej 9530991](https://sdilej.cz/9530991/nepouzitelni-2012-titulky-richieall-sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:51:07.168536+00:00 |
 | [Nepřátelé (2025) 1080p CZ Titulky](https://prehraj.to/nepratele-2025-1080p-cz-titulky-mp4/91c652c6c1dbe4c7) (ID 29468794) | [Sdílej 31685263](https://sdilej.cz/31685263/enemigos.2025.1080p.amzn.web-dl.ddp5.1.h.264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:59.208577+00:00 |
+| [Nepříjemné pokračování: Nebát se říct pravdu (2017) 1080p CZ Titulky](https://prehraj.to/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-1080p-cz-titulky-mp4/f749b8d1545c4666) (ID 29804420) | [Sdílej 34774582](https://sdilej.cz/34774582/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:39:49.827634+00:00 |
 | [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:37.816336+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:21.663760+00:00 |
 | [Neveselé Vánoce (2022) 1080p CZ Titulky](https://prehraj.to/nevesele-vanoce-2022-1080p-cz-titulky-mp4/db93fd8ad4f8c5ba) (ID 29615990) | [Sdílej 34727004](https://sdilej.cz/34727004/nevesele-vanoce-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:05.102400+00:00 |
