@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:23:55.521487+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:24:17.314002+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 64, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 777, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 63, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 778, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -516,6 +516,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Lord of the Dance: Dangerous Games (2014) 1080p CZ Titulky](https://prehraj.to/lord-of-the-dance-dangerous-games-2014-1080p-cz-titulky-avi/b13d52a7e0a9faba) (ID 29717316) | [Sdílej 27726623](https://sdilej.cz/27726623/lord-of-the-dance-dangerous-games-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:49:42.542147+00:00 |
 | [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:45.938088+00:00 |
 | [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:37.232724+00:00 |
+| [Léto 85 (2020) 720p CZ Titulky](https://prehraj.to/leto-85-2020-720p-cz-titulky-avi/8f498b0623140179) (ID 29749358) | [Sdílej 15347014](https://sdilej.cz/15347014/leto-85.-2020-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:24:17.313899+00:00 |
 | [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:27:53.389669+00:00 |
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:05.907612+00:00 |
 | [Líbánky s mámou (2022) 720p CZ Titulky](https://prehraj.to/libanky-s-mamou-2022-720p-cz-titulky-mp4/70291b8f8feabd58) (ID 29613931) | [Sdílej 34727109](https://sdilej.cz/34727109/libanky-s-mamou-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:30:41.451675+00:00 |
