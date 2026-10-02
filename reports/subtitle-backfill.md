@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:18:39.053628+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:18:47.193095+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 390, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 475, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 389, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 476, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -590,6 +590,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Temná tvář Brooklynu (2019) 1080p CZ Titulky](https://prehraj.to/temna-tvar-brooklynu-2019-1080p-cz-titulky-mkv/63502affc1943733) (ID 29143724) | [Sdílej 25951577](https://sdilej.cz/25951577/motherless-brookland-2019-temna-tvar-brooklynu-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:10.813453+00:00 |
 | [Tenkrát v Číně 3 (1992) 1080p CZ Titulky](https://prehraj.to/tenkrat-v-cine-3-1992-1080p-cz-titulky-mkv/c93281c28e13d200) (ID 29493403) | [Sdílej 33480035](https://sdilej.cz/33480035/once.upon.a.time.in.china.ii.1992.multi.vfi.1080p.hdlight.ac3.5.1.h264-lihdl.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:49.423255+00:00 |
 | [Texas Rangers (2001) 720p CZ Titulky](https://prehraj.to/texas-rangers-2001-720p-cz-titulky-mkv/d07634f5e8c38ab3) (ID 29751439) | [Sdílej 34347758](https://sdilej.cz/34347758/texas-rangers-2001-akcni-western-usa-cztit.hd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:07.513322+00:00 |
+| [The Act of Reading (2021) 1080p CZ Titulky](https://prehraj.to/the-act-of-reading-2021-1080p-cz-titulky-mp4/70ed6c4107403ab8) (ID 29587600) | [Sdílej 34772666](https://sdilej.cz/34772666/the-act-of-reading-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:47.192989+00:00 |
 | [The Alpinist (2021) 1080p CZ Titulky](https://prehraj.to/the-alpinist-2021-1080p-cz-titulky-mkv/5eb14da44aa5aaef) (ID 29316522) | [Sdílej 18646868](https://sdilej.cz/18646868/the.alpinist.2021.1080p.web-dl.dd5.1.h.264-tepes.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:26.069845+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:42:57.481625+00:00 |
 | [The Bombing of Wall Street (2018) SD CZ Titulky](https://prehraj.to/the-bombing-of-wall-street-2018-sd-cz-titulky-mp4/c5a1153aa4e4f050) (ID 29562079) | [Sdílej 34736187](https://sdilej.cz/34736187/the-bombing-of-wall-street-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:43.478953+00:00 |
