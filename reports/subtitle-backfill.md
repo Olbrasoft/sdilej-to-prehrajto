@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:53:36.951938+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:53:50.935763+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 495, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 373, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 494, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 374, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -352,6 +352,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:46.458386+00:00 |
 | [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:56.781721+00:00 |
 | [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:25.956475+00:00 |
+| [Místo splněných přání (2017) SD CZ Titulky](https://prehraj.to/misto-splnenych-prani-2017-sd-cz-titulky-avi/188ebabb7f6d33cd) (ID 29505925) | [Sdílej 9037924](https://sdilej.cz/9037924/misto-splnenych-prani-the-place-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:53:50.935660+00:00 |
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:01.307910+00:00 |
 | [Městečko South Park: Vstup do světa patolízalů (2023) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-vstup-do-sveta-patolizalu-2023-1080p-cz-titulky-mp4/d89545ae8635af6a) (ID 29396144) | [Sdílej 27260067](https://sdilej.cz/27260067/south-park-joining-the-panderverse-2023-web-dl-full-hd-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:20.140297+00:00 |
 | [Můj král (2015) SD CZ Titulky](https://prehraj.to/muj-kral-2015-sd-cz-titulky-avi/b0309e1fd2265c5c) (ID 29212827) | [Sdílej 8877241](https://sdilej.cz/8877241/muj-kral-mon-roi-2015-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:49.026087+00:00 |
