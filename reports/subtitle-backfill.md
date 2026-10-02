@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:50:05.905490+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:50:13.758923+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 287, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 572, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 286, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 573, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -442,6 +442,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Moje nečekané sexuální dobrodružství (2012) 1080p CZ Titulky](https://prehraj.to/moje-necekane-sexualni-dobrodruzstvi-2012-1080p-cz-titulky-mp4/404091db2cb40115) (ID 29608644) | [Sdílej 34744322](https://sdilej.cz/34744322/moje-necekane-sexualni-dobrodruzstvi-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:44.326963+00:00 |
 | [Moje noc s Maud (1969) SD CZ Titulky](https://prehraj.to/moje-noc-s-maud-1969-sd-cz-titulky-avi/4b2d296ba14ae59f) (ID 28948721) | [Sdílej 29230755](https://sdilej.cz/29230755/moje-noc-s-maud-1969-fran-oise-fabian-cz-tit-zdeno791.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:19.205881+00:00 |
 | [Monster Island (2017) SD CZ Titulky](https://prehraj.to/monster-island-2017-sd-cz-titulky-avi/730f6bdb8f0d01aa) (ID 29294511) | [Sdílej 8202805](https://sdilej.cz/8202805/monster.island.2017.pldub.web-dl.xvid-kit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:26.166087+00:00 |
+| [Most Beautiful Island (2017) 1080p CZ Titulky](https://prehraj.to/most-beautiful-island-2017-1080p-cz-titulky-mkv/fd2ecf4fa2cc0ce9) (ID 29642449) | [Sdílej 8518733](https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:50:13.758796+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:28.837214+00:00 |
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:41.653624+00:00 |
 | [My All American (2015) 720p CZ Titulky](https://prehraj.to/my-all-american-2015-720p-cz-titulky-mp4/271a4c43350a84ed) (ID 29407734) | [Sdílej 34775916](https://sdilej.cz/34775916/my-all-american-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:31.583798+00:00 |
