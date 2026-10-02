@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:05:56.565456+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:06:05.691123+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 135, `pending`: 223, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 632, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 135, `pending`: 222, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 633, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -151,6 +151,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Daleká cesta (1949) 1080p CZ Titulky.mkv](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:21.789825+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:28.404704+00:00 |
 | [Dashcam (2021) 1080p CZ Titulky](https://prehraj.to/dashcam-2021-1080p-cz-titulky-mp4/0459afc4e8afde30) (ID 29588938) | [Sdílej 34731562](https://sdilej.cz/34731562/dashcam-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:03.928625+00:00 |
+| [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:06:05.690980+00:00 |
 | [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:05:32.470931+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:03:49.725156+00:00 |
 | [Dead Shot (2023) SD CZ Titulky](https://prehraj.to/dead-shot-2023-sd-cz-titulky-avi/79bf1a45fea75f94) (ID 29639581) | [Sdílej 27128248](https://sdilej.cz/27128248/dead.shot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:49:37.906171+00:00 |
