@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:45:08.830162+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:45:18.755272+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 541, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 328, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 540, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 329, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -449,6 +449,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:36:54.995675+00:00 |
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:27.287035+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:28.463479+00:00 |
+| [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:18.755165+00:00 |
 | [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:54.510496+00:00 |
 | [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:22.046172+00:00 |
 | [Suite Française (2015) SD CZ Titulky](https://prehraj.to/suite-francaise-2015-sd-cz-titulky-mp4/d1684521361ec087) (ID 29427034) | [Sdílej 34737967](https://sdilej.cz/34737967/suite-fran-aise-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:55.543085+00:00 |
