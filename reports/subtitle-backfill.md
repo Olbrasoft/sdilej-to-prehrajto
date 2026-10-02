@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:05:12.359976+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:05:22.151072+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 135, `pending`: 227, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 628, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 135, `pending`: 226, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 629, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -146,6 +146,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:19.765331+00:00 |
 | [Cucuy: The Boogeyman (2018) SD CZ Titulky](https://prehraj.to/cucuy-the-boogeyman-2018-sd-cz-titulky-mkv/4fc5508ffe853a60) (ID 29646449) | [Sdílej 11234215](https://sdilej.cz/11234215/cucuy-the-boogeyman-2018-sktit-v-obraze-esce-vetsi-novinka-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:19.714363+00:00 |
 | [Cuties (2020) 1080p CZ Titulky](https://prehraj.to/cuties-2020-1080p-cz-titulky-mp4/84a4010eac43a26d) (ID 29907805) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:15.724303+00:00 |
+| [Císařův slavík (1949) SD CZ Titulky](https://prehraj.to/cisaruv-slavik-1949-sd-cz-titulky-mp4/1bfe5bf8b71885f4) (ID 29663448) | [Sdílej 34714597](https://sdilej.cz/34714597/cisaruv-slavik-1949-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:05:22.150924+00:00 |
 | [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:04.469322+00:00 |
 | [Daleká cesta (1949) 1080p CZ Titulky.mkv](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:21.789825+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:28.404704+00:00 |
