@@ -170829,17 +170829,20 @@
       "attempts": []
     },
     "4118": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34748267",
+          "target_video_id": "29926279",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T18:57:08.804261+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34748267",
         "display_name": "Nekonečná zuřivost (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-02T18:45:02.467855+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T18:45:38.061791+00:00",
-        "lease_expires_at": "2026-10-03T00:45:38.061791+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29926279",
       "prepared": {
@@ -312740,5 +312743,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T18:51:00.769964+00:00"
+  "updated_at": "2026-10-02T18:57:08.804278+00:00"
 }
