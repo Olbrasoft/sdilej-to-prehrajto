@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:44:55.401003+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:45:34.489731+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 156, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 690, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 155, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 691, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -315,6 +315,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:17.331046+00:00 |
 | [Flamin' Hot: Koření úspěchu (2023) SD CZ Titulky](https://prehraj.to/flamin-hot-koreni-uspechu-2023-sd-cz-titulky-avi/3e52bb6f59445a44) (ID 29680006) | [Sdílej 26288113](https://sdilej.cz/26288113/flamin.hot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:23:54.309985+00:00 |
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:34:37.279343+00:00 |
+| [Followed (2018) 1080p CZ Titulky](https://prehraj.to/followed-2018-1080p-cz-titulky-mp4/91e5ef8083cbbf6d) (ID 29711077) | [Sdílej 34737041](https://sdilej.cz/34737041/followed-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:45:34.489624+00:00 |
 | [Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky](https://prehraj.to/fortune-feimster-sladka-i-slana-2020-1080p-cz-titulky-mp4/c7c66027480e2347) (ID 29578268) | [Sdílej 34733296](https://sdilej.cz/34733296/fortune-feimster-sladka-i-slana-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:03.245101+00:00 |
 | [Fotky zítřka (2014) SD CZ Titulky](https://prehraj.to/fotky-zitrka-2014-sd-cz-titulky-avi/677f01701b137158) (ID 29377773) | [Sdílej 22554309](https://sdilej.cz/22554309/time-lapse-2014-sktit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:22.419218+00:00 |
 | [Fotograf a Pošťák: Vražda José Luise Cabezase (2022) 1080p CZ Titulky](https://prehraj.to/fotograf-a-postak-vrazda-jose-luise-cabezase-2022-1080p-cz-titulky-mp4/55023c4835a10b61) (ID 29581594) | [Sdílej 34727364](https://sdilej.cz/34727364/fotograf-a-postak-vrazda-jose-luise-cabezase-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:36.829795+00:00 |
