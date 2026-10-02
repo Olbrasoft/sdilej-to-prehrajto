@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:31:22.785435+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:31:38.063645+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 21, `existing_tracks_uncertain`: 140, `pending`: 42, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 796, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 21, `existing_tracks_uncertain`: 140, `pending`: 41, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 797, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -703,6 +703,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Pouť za štěstím (1939) SD CZ Titulky](https://prehraj.to/pout-za-stestim-1939-sd-cz-titulky-mp4/6bce416158810883) (ID 29611281) | [Sdílej 34756215](https://sdilej.cz/34756215/pout-za-stestim-1939-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:28:32.451751+00:00 |
 | [Povstání mrtvých: Konečná hra (2016) 720p CZ Titulky](https://prehraj.to/povstani-mrtvych-konecna-hra-2016-720p-cz-titulky-mp4/b7b10bc8fcfe48ef) (ID 29740133) | [Sdílej 34770373](https://sdilej.cz/34770373/povstani-mrtvych-konecna-hra-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:17:27.709798+00:00 |
 | [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:10.729513+00:00 |
+| [Požehnání (2021) SD CZ Titulky](https://prehraj.to/pozehnani-2021-sd-cz-titulky-avi/3906a26d23e1f6d3) (ID 29785951) | [Sdílej 24242950](https://sdilej.cz/24242950/benediction.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:31:38.063538+00:00 |
 | [Požáry (2010) SD CZ Titulky](https://prehraj.to/pozary-2010-sd-cz-titulky-mkv/b5fb466d02e5e32a) (ID 29278839) | [Sdílej 14010999](https://sdilej.cz/14010999/incendies.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:26.589276+00:00 |
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:04:09.770299+00:00 |
 | [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:14.654898+00:00 |
