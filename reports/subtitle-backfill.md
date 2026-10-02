@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T05:34:37.279472+00:00
+Poslední aktualizace (UTC): 2026-10-02T05:36:53.852201+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 46.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 689, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 187, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 688, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 187, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141, `upload_unconfirmed`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -436,6 +436,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-01T14:37:40.389935+00:00 |
 | [Asi se zblázním (2021) SD CZ Titulky](https://prehraj.to/asi-se-zblaznim-2021-sd-cz-titulky-avi/975d6ac95e668e22) (ID 29219191) | [Sdílej 16134173](https://sdilej.cz/16134173/asi-se-zblaznim-2021-cz-titulky-novinka.avi) | source_unavailable | 2026-10-01T18:42:38.174603+00:00 |
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | source_unavailable | 2026-10-01T18:44:24.532751+00:00 |
+| [FYRE: Největší večírek, co nikdy nebyl (2019) 1080p CZ Titulky](https://prehraj.to/fyre-nejvetsi-vecirek-co-nikdy-nebyl-2019-1080p-cz-titulky-mp4/faac2870a2a22c2d) (ID 29318341) | [Sdílej 29268462](https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4) | upload_unconfirmed | 2026-10-02T05:36:53.852168+00:00 |
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | source_unavailable | 2026-10-01T18:45:31.531356+00:00 |
 | [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | source_unavailable | 2026-10-01T18:42:06.529466+00:00 |
 | [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | source_unavailable | 2026-10-01T18:43:49.231017+00:00 |
