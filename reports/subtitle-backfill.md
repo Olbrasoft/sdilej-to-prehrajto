@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:43:29.199544+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:43:41.270925+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 303, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 557, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 302, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 558, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -745,6 +745,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Vojákova dívka (2003) SD CZ Titulky](https://prehraj.to/vojakova-divka-2003-sd-cz-titulky-avi/12f0862fd05bddb6) (ID 29558973) | [Sdílej 26715144](https://sdilej.cz/26715144/vojakova-divka-romanticke-drama-2003-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:00.489424+00:00 |
 | [Vražedné utkání (1982) SD CZ Titulky](https://prehraj.to/vrazedne-utkani-1982-sd-cz-titulky-mkv/93b1d2b81987a7b7) (ID 28976232) | [Sdílej 26126750](https://sdilej.cz/26126750/deadly.encounter.1982.dvdrip.x264-e411-cg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:24.811298+00:00 |
 | [Vykopávky (2021) 1080p CZ Titulky](https://prehraj.to/vykopavky-2021-1080p-cz-titulky-mp4/a65a47006859bdd8) (ID 29408437) | [Sdílej 34728109](https://sdilej.cz/34728109/vykopavky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:52.399960+00:00 |
+| [Vzpomínka na Benátky (2018) 1080p CZ Titulky](https://prehraj.to/vzpominka-na-benatky-2018-1080p-cz-titulky-mp4/a9ddb00de5c628fc) (ID 29636691) | [Sdílej 34487542](https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:43:41.270785+00:00 |
 | [Vzpoura (1967) SD CZ Titulky](https://prehraj.to/vzpoura-1967-sd-cz-titulky-avi/c16fa85f4bc2e976) (ID 29122069) | [Sdílej 32744263](https://sdilej.cz/32744263/vzpoura-1967-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:10.955193+00:00 |
 | [Vábení sirén (2015) 1080p CZ Titulky](https://prehraj.to/vabeni-siren-2015-1080p-cz-titulky-mp4/839f1ed77a0a2e7d) (ID 29585630) | [Sdílej 34737935](https://sdilej.cz/34737935/vabeni-siren-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:53.603324+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:51.471994+00:00 |
