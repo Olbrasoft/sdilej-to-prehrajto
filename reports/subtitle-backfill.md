@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:25:39.753350+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:25:47.396786+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 355, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 508, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 354, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 509, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -117,6 +117,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Corpus Christi (2019) 1080p CZ Titulky](https://prehraj.to/corpus-christi-2019-1080p-cz-titulky-mp4/02c245d06ac8493d) (ID 29396360) | [Sdílej 31626440](https://sdilej.cz/31626440/corpus-christi-2019-pl-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:35.083720+00:00 |
 | [Counterfeiting in Suburbia (2018) 1080p CZ Titulky](https://prehraj.to/counterfeiting-in-suburbia-2018-1080p-cz-titulky-mp4/14fe5ce6397be744) (ID 29240545) | [Sdílej 34737087](https://sdilej.cz/34737087/counterfeiting-in-suburbia-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:56.386083+00:00 |
 | [Cowspiracy - Klíč k udržitelnosti (2014) SD CZ Titulky](https://prehraj.to/cowspiracy-klic-k-udrzitelnosti-2014-sd-cz-titulky-mp4/3e955fc1ee0b5e6f) (ID 29282106) | [Sdílej 34711193](https://sdilej.cz/34711193/cowspiracy-klic-k-udrzitelnosti-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:02.794279+00:00 |
+| [Crazy Lake (2016) 720p CZ Titulky](https://prehraj.to/crazy-lake-2016-720p-cz-titulky-mp4/a924f59a3dcf18fb) (ID 29611093) | [Sdílej 34737829](https://sdilej.cz/34737829/crazy-lake-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:47.396682+00:00 |
 | [Creation Stories (2021) 1080p CZ Titulky](https://prehraj.to/creation-stories-2021-1080p-cz-titulky-mkv/f894dca557a5f133) (ID 29375643) | [Sdílej 18049678](https://sdilej.cz/18049678/creation-stories-2021-1080p-web-dl-dd5-1-h-264-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:33:46.505940+00:00 |
 | [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:19.765331+00:00 |
 | [Cucuy: The Boogeyman (2018) SD CZ Titulky](https://prehraj.to/cucuy-the-boogeyman-2018-sd-cz-titulky-mkv/4fc5508ffe853a60) (ID 29646449) | [Sdílej 11234215](https://sdilej.cz/11234215/cucuy-the-boogeyman-2018-sktit-v-obraze-esce-vetsi-novinka-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:19.714363+00:00 |
