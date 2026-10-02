@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:43:41.270925+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:43:53.197404+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 302, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 558, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 301, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 559, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -323,6 +323,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [I am Jonas (2018) 1080p CZ Titulky](https://prehraj.to/i-am-jonas-2018-1080p-cz-titulky-mp4/c9e5426e57368765) (ID 29562401) | [Sdílej 34737006](https://sdilej.cz/34737006/i-am-jonas-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:05:07.197101+00:00 |
 | [Icarus (2017) 720p CZ Titulky](https://prehraj.to/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:19.021016+00:00 |
 | [Ice Guardians (2016) SD CZ Titulky](https://prehraj.to/ice-guardians-2016-sd-cz-titulky-avi/513ea5ea0677fe5a) (ID 29212744) | [Sdílej 23694462](https://sdilej.cz/23694462/ice-guardians-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:27.941086+00:00 |
+| [Ice Storm (2023) SD CZ Titulky](https://prehraj.to/ice-storm-2023-sd-cz-titulky-mp4/d0996c006ed31c47) (ID 29636715) | [Sdílej 34725616](https://sdilej.cz/34725616/ice-storm-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:43:53.197299+00:00 |
 | [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:18.492729+00:00 |
 | [Ida (2013) 720p CZ Titulky](https://prehraj.to/ida-2013-720p-cz-titulky-mp4/487c2cd46e0b073c) (ID 29634738) | [Sdílej 33614636](https://sdilej.cz/33614636/ida-2013-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:42:32.790694+00:00 |
 | [Il filo invisibile (2022) 1080p CZ Titulky](https://prehraj.to/il-filo-invisibile-2022-1080p-cz-titulky-mp4/bedcce1c23ecb1ee) (ID 29486927) | [Sdílej 34727277](https://sdilej.cz/34727277/il-filo-invisibile-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:45.313434+00:00 |
