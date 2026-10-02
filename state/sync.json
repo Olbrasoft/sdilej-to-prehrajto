@@ -183202,17 +183202,20 @@
       }
     },
     "35359": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34773690",
+          "target_video_id": "29927147",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T19:49:06.253593+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34773690",
         "display_name": "Mossad (2019) 720p CZ Titulky",
         "planned_at": "2026-10-02T19:36:05.447714+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T19:43:13.017743+00:00",
-        "lease_expires_at": "2026-10-03T01:43:13.017743+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29927147",
       "prepared": {
@@ -313359,5 +313362,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:43:35.135617+00:00"
+  "updated_at": "2026-10-02T19:49:06.253610+00:00"
 }
