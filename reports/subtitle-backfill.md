@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:50:16.418892+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:50:32.733619+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 143, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 703, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 142, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 704, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -451,6 +451,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:30.302524+00:00 |
 | [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:56.536659+00:00 |
 | [Kulky Spravedlnosti (2019) 1080p CZ Titulky](https://prehraj.to/kulky-spravedlnosti-2019-1080p-cz-titulky-mp4/929d935b71e6db53) (ID 29911357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:59.683048+00:00 |
+| [Kuře melancholik (1999) SD CZ Titulky](https://prehraj.to/kure-melancholik-1999-sd-cz-titulky-avi/44ec618802772a13) (ID 29717529) | [Sdílej 35068780](https://sdilej.cz/35068780/kure-melancholik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:50:32.733510+00:00 |
 | [Kyberpeklo: Jak odhalit zneužívání na internetu (2022) SD CZ Titulky](https://prehraj.to/kyberpeklo-jak-odhalit-zneuzivani-na-internetu-2022-sd-cz-titulky-mkv/f39fd4b8ee0d38a5) (ID 29262983) | [Sdílej 34842907](https://sdilej.cz/34842907/cyber-hell-exposing-an-internet-horror-2022-dokumentarni-krimi-jizni-korea-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:00.000565+00:00 |
 | [L'Étranger (2025) 1080p CZ Titulky](https://prehraj.to/l-etranger-2025-1080p-cz-titulky-mkv/89abec92aa515679) (ID 29460945) | [Sdílej 33445227](https://sdilej.cz/33445227/l.etranger.2025.french.ad.1080p.webrip.10.bits.eac3.5.1.x265-tyhd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:35.517560+00:00 |
 | [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:32.041619+00:00 |
