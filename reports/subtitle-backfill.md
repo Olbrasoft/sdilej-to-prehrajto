@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:43:53.197404+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:44:04.421616+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 301, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 559, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 300, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 560, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -614,6 +614,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Sociální dilema (2020) 1080p CZ Titulky](https://prehraj.to/socialni-dilema-2020-1080p-cz-titulky-mp4/a86bd82a6ccf9b9f) (ID 29558320) | [Sdílej 34647118](https://sdilej.cz/34647118/socialni-dilema-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:00:27.859017+00:00 |
 | [Socky na vzestupu (2025) 1080p CZ Titulky](https://prehraj.to/socky-na-vzestupu-2025-1080p-cz-titulky-mp4/61016ea660f228cb) (ID 29299340) | [Sdílej 34723497](https://sdilej.cz/34723497/socky-na-vzestupu-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:41.292844+00:00 |
 | [Soft & Quiet (2022) 1080p CZ Titulky](https://prehraj.to/soft-quiet-2022-1080p-cz-titulky-mp4/e2ae2a566735c982) (ID 29598584) | [Sdílej 34726778](https://sdilej.cz/34726778/soft-quiet-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:39.837280+00:00 |
+| [Sojuz spasenija (2019) 720p CZ Titulky](https://prehraj.to/sojuz-spasenija-2019-720p-cz-titulky-mp4/474454251c4e8271) (ID 29637006) | [Sdílej 34733852](https://sdilej.cz/34733852/sojuz-spasenija-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:44:04.421508+00:00 |
 | [Sorjonen: Krvavé poselství (2021) 720p CZ Titulky](https://prehraj.to/sorjonen-krvave-poselstvi-2021-720p-cz-titulky-mkv/1c1ae9b82ed678e2) (ID 29332615) | [Sdílej 26270824](https://sdilej.cz/26270824/sorjonen-krvave-poselstvi-krimi-2021-cz-tit-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:32.003959+00:00 |
 | [Sorry, Baby (2025) 1080p CZ Titulky](https://prehraj.to/sorry-baby-2025-1080p-cz-titulky-mkv/fd6a7ea8e2f236d4) (ID 29199838) | [Sdílej 34559320](https://sdilej.cz/34559320/sorry-baby-2025-czsub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:19.021052+00:00 |
 | [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:28.143102+00:00 |
