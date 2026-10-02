@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T04:39:09.752859+00:00
+Poslední aktualizace (UTC): 2026-10-02T04:39:27.401472+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 66.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 695, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 181, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 694, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 182, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -277,6 +277,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:22.697278+00:00 |
 | [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:24.957369+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T02:43:18.825000+00:00 |
+| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:27.401373+00:00 |
 | [Osudový dotek 3: Odhalení (2009) SD CZ Titulky](https://prehraj.to/osudovy-dotek-3-odhaleni-2009-sd-cz-titulky-mkv/0e759944ec4e308c) (ID 29753210) | [Sdílej 25526950](https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:28.625724+00:00 |
 | [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T04:37:38.355345+00:00 |
 | [Out of Death (2021) 720p CZ Titulky](https://prehraj.to/out-of-death-2021-720p-cz-titulky-avi/9dbce487d8a4df83) (ID 29089541) | [Sdílej 17416471](https://sdilej.cz/17416471/out-of-death-2021-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:22.979381+00:00 |
