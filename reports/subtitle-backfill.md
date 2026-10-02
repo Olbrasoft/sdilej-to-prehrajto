@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:52:57.769948+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:53:09.650375+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 499, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 369, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 498, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 370, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -359,6 +359,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Nattevagten (1994) SD CZ Titulky](https://prehraj.to/nattevagten-1994-sd-cz-titulky-avi/4383712abed91a80) (ID 29463717) | [Sdílej 33205327](https://sdilej.cz/33205327/hlidac-mrtvych-nattevagten-1994-horor-denmark-cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:10.311116+00:00 |
 | [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:34.226443+00:00 |
 | [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:37:35.366978+00:00 |
+| [Nejrychlejší (2011) 1080p CZ Titulky](https://prehraj.to/nejrychlejsi-2011-1080p-cz-titulky-mp4/403edc2ab59516a4) (ID 29505034) | [Sdílej 34747575](https://sdilej.cz/34747575/nejrychlejsi-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:53:09.650277+00:00 |
 | [Nekonečná cesta (2017) 1080p CZ Titulky](https://prehraj.to/nekonecna-cesta-2017-1080p-cz-titulky-mkv/16875fb3e5f80dfe) (ID 29633019) | [Sdílej 10615882](https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:01.307928+00:00 |
 | [Nemocnice Parkland (2013) 1080p CZ Titulky](https://prehraj.to/nemocnice-parkland-2013-1080p-cz-titulky-mp4/8473f62b4cbed348) (ID 29284711) | [Sdílej 32945357](https://sdilej.cz/32945357/parkland-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:45.747521+00:00 |
 | [Neohlížej se (1967) 1080p CZ Titulky](https://prehraj.to/neohlizej-se-1967-1080p-cz-titulky-mkv/ba4b5a8652b018da) (ID 29319512) | [Sdílej 33036676](https://sdilej.cz/33036676/1967-dont-look-back-bob-dylan-vostfr-1080p-x264-ac3.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:28.012882+00:00 |
