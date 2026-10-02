@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:27:59.249499+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:28:35.480397+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 20, `existing_tracks_uncertain`: 140, `pending`: 46, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 794, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 20, `existing_tracks_uncertain`: 140, `pending`: 45, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 795, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -214,6 +214,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Dune World (2021) 1080p CZ Titulky](https://prehraj.to/dune-world-2021-1080p-cz-titulky-mp4/9b10d8a8e4bf3945) (ID 29709431) | [Sdílej 34772958](https://sdilej.cz/34772958/dune-world-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:04.481773+00:00 |
 | [Dvě čarodějnice (2021) SD CZ Titulky](https://prehraj.to/dve-carodejnice-2021-sd-cz-titulky-avi/a8083f044b52b223) (ID 29753485) | [Sdílej 22953239](https://sdilej.cz/22953239/two.witches.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:27:37.026744+00:00 |
 | [Dálniční hlídka (2019) 4K CZ Titulky](https://prehraj.to/dalnicni-hlidka-2019-4k-cz-titulky-mkv/2814e8c9b4087bcd) (ID 29400538) | [Sdílej 11927098](https://sdilej.cz/11927098/the.highwaymen.2019.2160p.webrip.x264-deflate.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:56.581017+00:00 |
+| [Dávné rituály (2021) 1080p CZ Titulky](https://prehraj.to/davne-ritualy-2021-1080p-cz-titulky-avi/8b466b49d748f701) (ID 29755108) | [Sdílej 32107662](https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:28:35.480293+00:00 |
 | [Dítě džungle (2011) SD CZ Titulky](https://prehraj.to/dite-dzungle-2011-sd-cz-titulky-mp4/092db7b7d3b66961) (ID 29432566) | [Sdílej 34780351](https://sdilej.cz/34780351/dite-dzungle-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:11.978692+00:00 |
 | [Dívčí válka (2004) SD CZ Titulky](https://prehraj.to/divci-valka-2004-sd-cz-titulky-mkv/9cd76f456d2e88f5) (ID 29731402) | [Sdílej 35069958](https://sdilej.cz/35069958/gladiatress-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:03:50.418895+00:00 |
 | [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:35:54.355753+00:00 |
