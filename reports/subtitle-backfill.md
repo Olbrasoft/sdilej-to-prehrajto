@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:46:15.698569+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:46:25.350746+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 836, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 837, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -18,6 +18,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | --- | --- | --- | --- |
 | [12th Fail (2023) 1080p CZ Titulky.mkv](https://prehraj.to/12th-fail-2023-1080p-cz-titulky-mkv/a085d8774bcad9a5) (ID 28915304) | [Sdílej 27689267](https://sdilej.cz/27689267/12th-fail-2023-cz-titulky-hd-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T16:15:54.923006+00:00 |
 | [18 dárků (2020) 1080p CZ Titulky](https://prehraj.to/18-darku-2020-1080p-cz-titulky-mkv/67b3dcaebf0ffeef) (ID 29311505) | [Sdílej 17592772](https://sdilej.cz/17592772/18-darku-18-presents-2020-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:01.991565+00:00 |
+| [18. růže (2026) 1080p CZ Titulky](https://prehraj.to/18-ruze-2026-1080p-cz-titulky-mp4/e5c029f729d2e02d) (ID 29218776) | [Sdílej 34715175](https://sdilej.cz/34715175/18.-ruze-2026-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:46:25.350641+00:00 |
 | [1BR (2019) 1080p CZ Titulky](https://prehraj.to/1br-2019-1080p-cz-titulky-mkv/5e3b89f44bab2fa7) (ID 29688992) | [Sdílej 13377582](https://sdilej.cz/13377582/1br.2019.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:23.981365+00:00 |
 | [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:44.511063+00:00 |
 | [22 July (2018) 1080p CZ Titulky](https://prehraj.to/22-july-2018-1080p-cz-titulky-avi/7431fb18a4ca373e) (ID 29676030) | [Sdílej 11434044](https://sdilej.cz/11434044/22.-cervence-22-july-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:10.882917+00:00 |
@@ -1131,7 +1132,6 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [18. růže (2026) 1080p CZ Titulky](https://prehraj.to/18-ruze-2026-1080p-cz-titulky-mp4/e5c029f729d2e02d) (ID 29218776) | [Sdílej 34715175](https://sdilej.cz/34715175/18.-ruze-2026-cz.mp4) | source_unavailable | 2026-10-01T18:41:02.703643+00:00 |
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-02T16:46:15.698484+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-10-02T14:24:49.151083+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-10-02T13:59:53.749236+00:00 |
