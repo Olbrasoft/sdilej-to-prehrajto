@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:58:56.792596+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:59:09.326680+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 247, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 608, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 246, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 609, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -736,6 +736,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [The Stalker (2020) 1080p CZ Titulky](https://prehraj.to/the-stalker-2020-1080p-cz-titulky-mkv/e02d7d2a31aff5a4) (ID 29706464) | [Sdílej 14019948](https://sdilej.cz/14019948/the.stalker.2020.1080p.amzn.web-dl.ddp2.0.h.264-ntg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:01.443522+00:00 |
 | [The Surfer (2024) 1080p CZ Titulky](https://prehraj.to/the-surfer-2024-1080p-cz-titulky-mkv/4460dc700fbc6099) (ID 29655492) | [Sdílej 31261007](https://sdilej.cz/31261007/the-surfer-2024-1080p-amzn-web-dl-ddp5-1-h-264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:31.685211+00:00 |
 | [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:09.752740+00:00 |
+| [The Thundermans Return (2024) 1080p CZ Titulky](https://prehraj.to/the-thundermans-return-2024-1080p-cz-titulky-mp4/4c23216bcf1c4d73) (ID 29654246) | [Sdílej 34904138](https://sdilej.cz/34904138/the-thundermans-return-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:59:09.326571+00:00 |
 | [The Timber (2015) 1080p CZ Titulky](https://prehraj.to/the-timber-2015-1080p-cz-titulky-mkv/06127d5d1a067ce2) (ID 29708325) | [Sdílej 6773323](https://sdilej.cz/6773323/the-timber.2015.1080p.bluray.h264.aac-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:05.415801+00:00 |
 | [The Unheard (2023) 1080p CZ Titulky](https://prehraj.to/the-unheard-2023-1080p-cz-titulky-mkv/87e799e2e5622b73) (ID 29608710) | [Sdílej 25681345](https://sdilej.cz/25681345/the-unheard-2023-cz-titulky-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:58:55.745582+00:00 |
 | [The United States vs. Billie Holiday (2021) 1080p CZ Titulky](https://prehraj.to/the-united-states-vs-billie-holiday-2021-1080p-cz-titulky-mp4/fae63f49ee0e618c) (ID 29291389) | [Sdílej 34772632](https://sdilej.cz/34772632/the-united-states-vs.-billie-holiday-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:26.864513+00:00 |
