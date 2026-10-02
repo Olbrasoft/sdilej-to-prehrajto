@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T07:41:51.472121+00:00
+Poslední aktualizace (UTC): 2026-10-02T07:42:06.570409+00:00
 
 Zkontrolováno videí: 1658. Další stránka kontroly: 6.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 657, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 216, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
+Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 656, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 217, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
 
 ## K ručnímu doplnění nebo ověření
 
@@ -250,6 +250,7 @@ Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncert
 | [Maják na konci světa (1971) 720p CZ Titulky](https://prehraj.to/majak-na-konci-sveta-1971-720p-cz-titulky-mp4/76205f28e71023a1) (ID 29284598) | [Sdílej 34755903](https://sdilej.cz/34755903/majak-na-konci-sveta-1971-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:31.441804+00:00 |
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:09.513360+00:00 |
 | [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:18.242700+00:00 |
+| [Manyeo (2018) SD CZ Titulky](https://prehraj.to/manyeo-2018-sd-cz-titulky-avi/96cde4085ad349f1) (ID 29344325) | [Sdílej 11387846](https://sdilej.cz/11387846/manyeo-2018-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:42:06.570283+00:00 |
 | [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:32.922750+00:00 |
 | [Mardaani 2 (2019) 1080p CZ Titulky](https://prehraj.to/mardaani-2-2019-1080p-cz-titulky-mp4/161344f2866a3af7) (ID 29306854) | [Sdílej 34711873](https://sdilej.cz/34711873/mardaani-2-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:14.731333+00:00 |
 | [Marie-Octobre (1959) 720p CZ Titulky](https://prehraj.to/marie-octobre-1959-720p-cz-titulky-mp4/f86671e2cf85d19d) (ID 29261777) | [Sdílej 32217300](https://sdilej.cz/32217300/marie-octobre-1959-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:30:53.132638+00:00 |
