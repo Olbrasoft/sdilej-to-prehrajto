@@ -285648,17 +285648,19 @@
       "attempts": []
     },
     "8517": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34376669",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:58:00.533917+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34376669",
         "display_name": "Replicate (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:10.989080+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T19:57:40.158508+00:00",
-        "lease_expires_at": "2026-10-03T01:57:40.158508+00:00",
-        "run_id": "37020459901"
       }
     },
     "28134": {
@@ -285736,7 +285738,15 @@
       "attempts": []
     },
     "13675": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34650909",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:58:10.913347+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34650909",
         "display_name": "Smrti napospas (2006) 720p CZ Dabing",
@@ -287963,7 +287973,15 @@
       "attempts": []
     },
     "18099": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34140467",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:58:21.211666+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34140467",
         "display_name": "Dark House (2014) SD CZ Dabing",
@@ -287990,7 +288008,15 @@
       }
     },
     "30049": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11213795",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:58:31.588503+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11213795",
         "display_name": "Italské prázdniny (2003) SD CZ Dabing",
@@ -288089,7 +288115,15 @@
       }
     },
     "17265": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35103937",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:58:41.956007+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35103937",
         "display_name": "Thriller (2018) 4K CZ Dabing",
@@ -288115,6 +288149,18 @@
         "source_id": "34012265",
         "display_name": "Doupě (2014) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:12.364543+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-2",
+        "claimed_at": "2026-10-02T19:58:31.923011+00:00",
+        "lease_expires_at": "2026-10-03T01:58:31.923011+00:00",
+        "run_id": "37020459901"
+      },
+      "previous_target_id": "29927345",
+      "prepared": {
+        "target_video_id": "29927345",
+        "size_bytes": 2413503064,
+        "prepared_at": "2026-10-02T19:58:55.245804+00:00"
       }
     },
     "24789": {
@@ -288208,6 +288254,12 @@
         "source_id": "19683489",
         "display_name": "Probuzení (2019) 720p CZ Dabing",
         "planned_at": "2026-10-02T19:36:12.632858+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
+        "claimed_at": "2026-10-02T19:58:42.233008+00:00",
+        "lease_expires_at": "2026-10-03T01:58:42.233008+00:00",
+        "run_id": "37020459901"
       }
     },
     "32555": {
@@ -313536,5 +313588,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:57:48.253654+00:00"
+  "updated_at": "2026-10-02T19:58:55.245821+00:00"
 }
