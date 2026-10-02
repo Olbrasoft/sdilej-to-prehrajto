@@ -182018,17 +182018,20 @@
       "attempts": []
     },
     "12066": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34906024",
+          "target_video_id": "29927085",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T19:49:50.307461+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34906024",
         "display_name": "Zuřivý mnich (1993) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:04.630328+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-2",
-        "claimed_at": "2026-10-02T19:39:51.555178+00:00",
-        "lease_expires_at": "2026-10-03T01:39:51.555178+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29927085",
       "prepared": {
@@ -283825,7 +283828,15 @@
       }
     },
     "13192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22289254",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:49:34.965087+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22289254",
         "display_name": "Hra o čas (2002) SD CZ Dabing",
@@ -284021,7 +284032,15 @@
       "attempts": []
     },
     "7424": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28343079",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:49:35.302637+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28343079",
         "display_name": "Cesta na tajuplný ostrov 2 (2012) 1080p CZ Dabing",
@@ -284075,6 +284094,12 @@
         "source_id": "26171662",
         "display_name": "Noční recepční (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:06.264886+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
+        "claimed_at": "2026-10-02T19:49:35.997973+00:00",
+        "lease_expires_at": "2026-10-03T01:49:35.997973+00:00",
+        "run_id": "37020459901"
       }
     },
     "25146": {
@@ -284089,6 +284114,12 @@
         "source_id": "27937911",
         "display_name": "Alpha Code (2020) SD CZ Dabing",
         "planned_at": "2026-10-02T19:36:06.534090+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
+        "claimed_at": "2026-10-02T19:49:35.564590+00:00",
+        "lease_expires_at": "2026-10-03T01:49:35.564590+00:00",
+        "run_id": "37020459901"
       }
     },
     "7406": {
@@ -313365,5 +313396,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:49:12.394942+00:00"
+  "updated_at": "2026-10-02T19:49:50.307478+00:00"
 }
