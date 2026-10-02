@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:06:49.097336+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:06:59.572725+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 99, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 744, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 98, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 745, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -645,6 +645,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Paltan (2018) SD CZ Titulky](https://prehraj.to/paltan-2018-sd-cz-titulky-avi/c7574d0d7f7b9664) (ID 29301260) | [Sdílej 11250607](https://sdilej.cz/11250607/paltan-2018-sk-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:42.645311+00:00 |
 | [Paměť – zrod Vetřelce (2019) 1080p CZ Titulky](https://prehraj.to/pamet-zrod-vetrelce-2019-1080p-cz-titulky-mkv/256581c34fb010db) (ID 29468339) | [Sdílej 26720741](https://sdilej.cz/26720741/memory.the.origins.of.alien.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:24.011430+00:00 |
 | [Paprika (2006) 1080p CZ Titulky](https://prehraj.to/paprika-2006-1080p-cz-titulky-mp4/2ae77b094846078d) (ID 29395850) | [Sdílej 6792821](https://sdilej.cz/6792821/paprika-2006-1080p-jpn-5.1-eng-5.1-blu-ray.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:13.115672+00:00 |
+| [Paradox (2016) 1080p CZ Titulky](https://prehraj.to/paradox-2016-1080p-cz-titulky-mp4/bb4a8e887841423f) (ID 29733276) | [Sdílej 34737704](https://sdilej.cz/34737704/paradox-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:06:59.572613+00:00 |
 | [Pardon, nezastihli jsme vás (2019) 720p CZ Titulky](https://prehraj.to/pardon-nezastihli-jsme-vas-2019-720p-cz-titulky-mkv/9eb618883236ecba) (ID 29560434) | [Sdílej 34176971](https://sdilej.cz/34176971/2019-pardon-nezastihli-jsme-vas-drama-76-cztit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:45.530220+00:00 |
 | [Peccato che sia una canaglia (1954) SD CZ Titulky](https://prehraj.to/peccato-che-sia-una-canaglia-1954-sd-cz-titulky-mp4/9ea3995d4e766e60) (ID 29443620) | [Sdílej 34715750](https://sdilej.cz/34715750/peccato-che-sia-una-canaglia-1954-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:29.170284+00:00 |
 | [Pet Graveyard (2019) 1080p CZ Titulky](https://prehraj.to/pet-graveyard-2019-1080p-cz-titulky-mkv/9f49f03111633b78) (ID 29723521) | [Sdílej 11690579](https://sdilej.cz/11690579/pet-graveyard-2019-titulky.cz-1080p.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-02T16:02:49.484807+00:00 |
