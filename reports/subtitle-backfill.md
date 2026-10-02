@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T03:39:41.292942+00:00
+Poslední aktualizace (UTC): 2026-10-02T03:39:59.488797+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 86.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 710, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 166, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 709, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 167, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -187,6 +187,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Hotel Inferno (2013) 1080p CZ Titulky](https://prehraj.to/hotel-inferno-2013-1080p-cz-titulky-mkv/148fb56c56fa9d36) (ID 29539384) | [Sdílej 17823326](https://sdilej.cz/17823326/hotel.inferno.2013.1080p.bluray.h264.aac-rarbg.ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:35.276703+00:00 |
 | [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:25.272393+00:00 |
 | [Hunted (2020) 1080p CZ Titulky](https://prehraj.to/hunted-2020-1080p-cz-titulky-mkv/0f07ff8c28da87c9) (ID 29434313) | [Sdílej 16064242](https://sdilej.cz/16064242/hunted-akcni-horor-thriller-2020.1080p.webrip.2.0.x264.bez.titulku.66-.sten.ok.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T03:38:40.138208+00:00 |
+| [Hyena Road (2015) SD CZ Titulky](https://prehraj.to/hyena-road-2015-sd-cz-titulky-avi/bb09b84f9562c18b) (ID 29299434) | [Sdílej 27004212](https://sdilej.cz/27004212/hyena-road-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:59.488698+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:41.113191+00:00 |
 | [I Am Not a Serial Killer (2016) 720p CZ Titulky](https://prehraj.to/i-am-not-a-serial-killer-2016-720p-cz-titulky-mkv/19d73b1378ad45ef) (ID 29607689) | [Sdílej 6846494](https://sdilej.cz/6846494/i-am-not-a-serial-killer.killer.2016.720p.bluray.x264.dts-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:15:45.866824+00:00 |
 | [Icarus (2017) 720p CZ Titulky](https://prehraj.to/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:08:57.894103+00:00 |
