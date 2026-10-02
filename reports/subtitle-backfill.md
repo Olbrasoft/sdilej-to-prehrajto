@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:39:51.879377+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:40:05.784079+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 569, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 300, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 568, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 301, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -343,6 +343,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Nymfomanka, část II. (2013) SD CZ Titulky](https://prehraj.to/nymfomanka-cast-ii-2013-sd-cz-titulky-mkv/260057aa5f0a099a) (ID 29133738) | [Sdílej 31061813](https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:19:47.396719+00:00 |
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:04.863817+00:00 |
 | [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:24.957369+00:00 |
+| [Něco z Alenky (1988) SD CZ Titulky](https://prehraj.to/neco-z-alenky-1988-sd-cz-titulky-avi/e947df236f26ecfa) (ID 29411861) | [Sdílej 25735969](https://sdilej.cz/25735969/alice.darling.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:40:05.783954+00:00 |
 | [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:11.410625+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:34.532522+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:43.526840+00:00 |
