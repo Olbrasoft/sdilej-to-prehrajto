@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:41:40.817965+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:41:56.646501+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 311, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 549, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 310, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 550, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -759,6 +759,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [When Love Comes Knocking (2021) 1080p CZ Titulky](https://prehraj.to/when-love-comes-knocking-2021-1080p-cz-titulky-mp4/4b77e4614f18b346) (ID 29216889) | [Sdílej 34728038](https://sdilej.cz/34728038/when-love-comes-knocking-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:47.447813+00:00 |
 | [Whiskey zloděj (2017) SD CZ Titulky](https://prehraj.to/whiskey-zlodej-2017-sd-cz-titulky-mkv/6627ffd9aaf7733d) (ID 29308502) | [Sdílej 12073116](https://sdilej.cz/12073116/a-viszkis-the-whiskey-bandit-bdrip.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:21.980588+00:00 |
 | [White Bird in a Blizzard (2014) 720p CZ Titulky](https://prehraj.to/white-bird-in-a-blizzard-2014-720p-cz-titulky-avi/2088dfd98a9787af) (ID 29574916) | [Sdílej 3679154](https://sdilej.cz/3679154/white-bird-in-a-blizzard-2014-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:11:21.169047+00:00 |
+| [Who am I - žádný systém není bezpečný (2014) SD CZ Titulky](https://prehraj.to/who-am-i-zadny-system-neni-bezpecny-2014-sd-cz-titulky-avi/e37446b594b3d25d) (ID 29633458) | [Sdílej 8425095](https://sdilej.cz/8425095/who-am-i-kein-system-ist-sicher.2014.german.ac3.webrip.xvid-srt.sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:41:56.646380+00:00 |
 | [Wither (2012) SD CZ Titulky](https://prehraj.to/wither-2012-sd-cz-titulky-mp4/41d842cf6f7fc279) (ID 29306068) | [Sdílej 34779874](https://sdilej.cz/34779874/wither-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:04.334667+00:00 |
 | [Woodstock 99: Mír, láska a běsnění (2021) 1080p CZ Titulky](https://prehraj.to/woodstock-99-mir-laska-a-besneni-2021-1080p-cz-titulky-mp4/7ca94472134e7fba) (ID 29445059) | [Sdílej 34728066](https://sdilej.cz/34728066/woodstock-99-mir-laska-a-besneni-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:15.525289+00:00 |
 | [World of Tomorrow (2015) 720p CZ Titulky](https://prehraj.to/world-of-tomorrow-2015-720p-cz-titulky-mp4/1f87f82a6017c286) (ID 29289142) | [Sdílej 34737901](https://sdilej.cz/34737901/world-of-tomorrow-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:57.320839+00:00 |
