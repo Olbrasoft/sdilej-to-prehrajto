@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T06:51:11.338635+00:00
+Poslední aktualizace (UTC): 2026-10-02T06:51:18.636417+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 26.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 675, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 200, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 674, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 201, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -435,6 +435,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncert
 | [Zítřek už možná nepřijde (2003) SD CZ Titulky](https://prehraj.to/zitrek-uz-mozna-neprijde-2003-sd-cz-titulky-mp4/76f925bd5b940dfc) (ID 29279834) | [Sdílej 34751392](https://sdilej.cz/34751392/zitrek-uz-mozna-neprijde-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:09:34.545959+00:00 |
 | [Ánimas (2018) 1080p CZ Titulky](https://prehraj.to/animas-2018-1080p-cz-titulky-mkv/9661c7794d8b1c8a) (ID 29648131) | [Sdílej 11262471](https://sdilej.cz/11262471/animas-2018.1080p.x264-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:13.227687+00:00 |
 | [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:32.890110+00:00 |
+| [Člověk ze Západu (1940) 1080p CZ Titulky](https://prehraj.to/clovek-ze-zapadu-1940-1080p-cz-titulky-mkv/77644b1949622c67) (ID 29327215) | [Sdílej 29216985](https://sdilej.cz/29216985/the.westerner.1940.eng.fra.1080p.webrip.x264.aac-rht-sksub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:18.636264+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T02:43:34.792326+00:00 |
 | [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:00.083258+00:00 |
 | [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:19.074613+00:00 |
