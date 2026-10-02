@@ -285113,17 +285113,19 @@
       "attempts": []
     },
     "20031": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31527344",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:51:15.316865+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31527344",
         "display_name": "Filosofové (2013) SD CZ Dabing",
         "planned_at": "2026-10-02T19:36:09.583578+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-2",
-        "claimed_at": "2026-10-02T19:50:54.947222+00:00",
-        "lease_expires_at": "2026-10-03T01:50:54.947222+00:00",
-        "run_id": "37020459901"
       }
     },
     "24006": {
@@ -285357,17 +285359,19 @@
       "attempts": []
     },
     "28626": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32857051",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:51:18.727500+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32857051",
         "display_name": "Ruku na to (2015) SD CZ Dabing",
         "planned_at": "2026-10-02T19:36:09.852087+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T19:50:58.286818+00:00",
-        "lease_expires_at": "2026-10-03T01:50:58.286818+00:00",
-        "run_id": "37020459901"
       }
     },
     "8798": {
@@ -285409,6 +285413,18 @@
         "source_id": "34240293",
         "display_name": "Lyžařská akademie (1990) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:10.182159+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-2",
+        "claimed_at": "2026-10-02T19:51:15.598360+00:00",
+        "lease_expires_at": "2026-10-03T01:51:15.598360+00:00",
+        "run_id": "37020459901"
+      },
+      "previous_target_id": "29927253",
+      "prepared": {
+        "target_video_id": "29927253",
+        "size_bytes": 2123235349,
+        "prepared_at": "2026-10-02T19:51:38.589176+00:00"
       }
     },
     "8275": {
@@ -285513,6 +285529,12 @@
         "source_id": "34820800",
         "display_name": "Svatební pohromy (2020) SD CZ Dabing",
         "planned_at": "2026-10-02T19:36:10.450774+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
+        "claimed_at": "2026-10-02T19:51:19.116051+00:00",
+        "lease_expires_at": "2026-10-03T01:51:19.116051+00:00",
+        "run_id": "37020459901"
       }
     },
     "34974": {
@@ -313488,5 +313510,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:51:00.939990+00:00"
+  "updated_at": "2026-10-02T19:51:38.589191+00:00"
 }
