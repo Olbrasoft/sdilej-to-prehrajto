@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:34:47.923874+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:34:55.918053+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 14, `existing_tracks_uncertain`: 135, `pending`: 183, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 665, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 24, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 14, `existing_tracks_uncertain`: 135, `pending`: 182, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 666, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 24, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -30,6 +30,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:01:22.851687+00:00 |
 | [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:42:20.709044+00:00 |
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:45.169268+00:00 |
+| [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:55.917925+00:00 |
 | [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:45.829540+00:00 |
 | [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:32.382556+00:00 |
 | [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:22.681551+00:00 |
