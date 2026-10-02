@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:44:06.216099+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:44:15.438576+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 11, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 825, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 10, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 826, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -448,6 +448,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [JJ+E (2021) 1080p CZ Titulky](https://prehraj.to/jj-e-2021-1080p-cz-titulky-mp4/83ba8445d2caaced) (ID 29911428) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:59.683017+00:00 |
 | [Jack a Jill (2011) 1080p CZ Titulky](https://prehraj.to/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T16:16:02.783417+00:00 |
 | [Jack in Time for Christmas (2024) 1080p CZ Titulky](https://prehraj.to/jack-in-time-for-christmas-2024-1080p-cz-titulky-mp4/12d77989edb428cb) (ID 29639441) | [Sdílej 34771771](https://sdilej.cz/34771771/jack-in-time-for-christmas-2024-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:49:09.807886+00:00 |
+| [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:15.438480+00:00 |
 | [Jak se natáčel Dámský gambit (2021) 1080p CZ Titulky](https://prehraj.to/jak-se-natacel-damsky-gambit-2021-1080p-cz-titulky-mp4/864840362f92c3de) (ID 29434054) | [Sdílej 34730712](https://sdilej.cz/34730712/jak-se-natacel-damsky-gambit-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:19.749937+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:32:58.074234+00:00 |
 | [Jak vybrat banku: Poslední velká loupež (2022) 1080p CZ Titulky](https://prehraj.to/jak-vybrat-banku-posledni-velka-loupez-2022-1080p-cz-titulky-mp4/6e27039bd64c4066) (ID 29256375) | [Sdílej 34727231](https://sdilej.cz/34727231/jak-vybrat-banku-posledni-velka-loupez-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:51.264582+00:00 |
