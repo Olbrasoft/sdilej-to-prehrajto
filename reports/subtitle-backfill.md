@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T02:45:00.757705+00:00
+Poslední aktualizace (UTC): 2026-10-02T02:45:11.123909+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 106.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 718, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 158, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 717, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 159, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -256,6 +256,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Nemocnice Parkland (2013) 1080p CZ Titulky](https://prehraj.to/nemocnice-parkland-2013-1080p-cz-titulky-mp4/8473f62b4cbed348) (ID 29284711) | [Sdílej 32945357](https://sdilej.cz/32945357/parkland-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:45.747521+00:00 |
 | [Neohlížej se (1967) 1080p CZ Titulky](https://prehraj.to/neohlizej-se-1967-1080p-cz-titulky-mkv/ba4b5a8652b018da) (ID 29319512) | [Sdílej 33036676](https://sdilej.cz/33036676/1967-dont-look-back-bob-dylan-vostfr-1080p-x264-ac3.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:46.995426+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:22.970561+00:00 |
+| [Nevídaní (2019) 1080p CZ Titulky](https://prehraj.to/nevidani-2019-1080p-cz-titulky-mp4/d2acbf292d23f391) (ID 29295845) | [Sdílej 34734064](https://sdilej.cz/34734064/nevidani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:11.123776+00:00 |
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:14.904188+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T23:29:50.555527+00:00 |
 | [Nikdy nepláču (2020) 1080p CZ Titulky](https://prehraj.to/nikdy-neplacu-2020-1080p-cz-titulky-mkv/b304f3e4838aa6ae) (ID 29256661) | [Sdílej 21247329](https://sdilej.cz/21247329/nikdy-neplacu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:13:03.914108+00:00 |
