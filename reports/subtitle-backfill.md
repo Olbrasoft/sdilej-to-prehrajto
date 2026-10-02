@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:07:19.850276+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:07:27.233855+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 438, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 428, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 437, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 429, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -544,6 +544,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:50.224699+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:23.421406+00:00 |
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:43:16.703602+00:00 |
+| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:27.233748+00:00 |
 | [Sázka na teambuilding (2022) 1080p CZ Titulky](https://prehraj.to/sazka-na-teambuilding-2022-1080p-cz-titulky-avi/84764a32ef1bb9ce) (ID 29366691) | [Sdílej 24604399](https://sdilej.cz/24604399/sazka-na-teambuilding-teambuilding-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:37:18.737081+00:00 |
 | [Sůl Země (2014) 1080p CZ Titulky](https://prehraj.to/sul-zeme-2014-1080p-cz-titulky-mp4/ba9d51cf1c6730e4) (ID 29212321) | [Sdílej 34738271](https://sdilej.cz/34738271/sul-zeme-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:17.613328+00:00 |
 | [Tajný agent (2025) 4K CZ Titulky](https://prehraj.to/tajny-agent-2025-4k-cz-titulky-mkv/eabeb41353268d5b) (ID 29298951) | [Sdílej 33013860](https://sdilej.cz/33013860/the.secret.agent.2025.2160p.dcp.webrip.ac3.sdr.h265-aoc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:25.128225+00:00 |
