@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:21:34.662187+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:21:44.117882+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 74, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 767, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 73, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 768, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -330,6 +330,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Fermo posta Tinto Brass (1995) 1080p CZ Titulky](https://prehraj.to/fermo-posta-tinto-brass-1995-1080p-cz-titulky-mp4/cab93a0cf7795167) (ID 29648614) | [Sdílej 34785147](https://sdilej.cz/34785147/fermo-posta-tinto-brass-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:35.776355+00:00 |
 | [Ferry (2021) 1080p CZ Titulky](https://prehraj.to/ferry-2021-1080p-cz-titulky-mp4/728a8bbc40616471) (ID 29560808) | [Sdílej 34730871](https://sdilej.cz/34730871/ferry-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:53.636835+00:00 |
 | [Fetih 1453 (2012) SD CZ Titulky](https://prehraj.to/fetih-1453-2012-sd-cz-titulky-avi/9c8e788c36361b7f) (ID 29288120) | [Sdílej 15619435](https://sdilej.cz/15619435/fetih-1453-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:50.229450+00:00 |
+| [Fighting Fish (2012) SD CZ Titulky](https://prehraj.to/fighting-fish-2012-sd-cz-titulky-mp4/99a05f777431c8a6) (ID 29748235) | [Sdílej 34780100](https://sdilej.cz/34780100/fighting-fish-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:21:44.117770+00:00 |
 | [Final Fantasy VII: Advent Children (2005) 1080p CZ Titulky](https://prehraj.to/final-fantasy-vii-advent-children-2005-1080p-cz-titulky-mkv/af53cf83e22694a7) (ID 29460915) | [Sdílej 19680256](https://sdilej.cz/19680256/final.fantasy.vii.advent.children.complete.2005.-cz-titulky-japanese.1080p.bluray.h264.aac-vxt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:28.056007+00:00 |
 | [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:18.091699+00:00 |
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:14.924343+00:00 |
