@@ -288064,17 +288064,19 @@
       }
     },
     "37449": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34885578",
+          "reason": "Request failed for https://sdilej.cz/34885578/touzeni-desire-2026-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T06:07:36.282650+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34885578",
         "display_name": "Toužení (2026) 1080p CZ Dabing",
         "planned_at": "2026-10-02T04:18:57.128194+00:00"
-      },
-      "claim": {
-        "worker_id": "3d8ef466ebec455cb4cf4ba063659bd5-shard-1",
-        "claimed_at": "2026-10-02T06:06:50.395033+00:00",
-        "lease_expires_at": "2026-10-02T12:06:50.395033+00:00",
-        "run_id": "36956698710"
       }
     },
     "33810": {
@@ -303701,5 +303703,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T06:07:07.192963+00:00"
+  "updated_at": "2026-10-02T06:07:36.282669+00:00"
 }
