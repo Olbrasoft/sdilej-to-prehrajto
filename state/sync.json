@@ -258704,17 +258704,19 @@
       "attempts": []
     },
     "6567": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24030835",
+          "target_video_id": "29922681",
+          "permanent": false,
+          "attempted_at": "2026-10-02T15:40:08.614851+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24030835",
         "display_name": "Paroží (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-02T14:34:20.531449+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T15:38:03.756366+00:00",
-        "lease_expires_at": "2026-10-02T21:38:03.756366+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29922681",
       "prepared": {
@@ -258729,6 +258731,12 @@
         "source_id": "13071308",
         "display_name": "Addamsova rodina (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-02T14:34:20.794085+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
+        "claimed_at": "2026-10-02T15:40:05.381532+00:00",
+        "lease_expires_at": "2026-10-02T21:40:05.381532+00:00",
+        "run_id": "37020459901"
       }
     },
     "23043": {
@@ -310238,5 +310246,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T15:40:00.430809+00:00"
+  "updated_at": "2026-10-02T15:40:08.614868+00:00"
 }
