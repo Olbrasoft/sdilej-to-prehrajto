@@ -278067,17 +278067,20 @@
       "attempts": []
     },
     "7238": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "20888494",
+          "target_video_id": "29926342",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T19:03:26.612712+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20888494",
         "display_name": "Černý krab (2022) 1080p CZ Dabing",
         "planned_at": "2026-10-02T18:45:08.848058+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T18:50:37.605747+00:00",
-        "lease_expires_at": "2026-10-03T00:50:37.605747+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29926342",
       "prepared": {
@@ -312755,5 +312758,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T18:57:36.778333+00:00"
+  "updated_at": "2026-10-02T19:03:26.612729+00:00"
 }
