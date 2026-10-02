@@ -293349,17 +293349,19 @@
       "attempts": []
     },
     "8520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34882707",
+          "reason": "Request failed for https://sdilej.cz/34882707/ve-sluzbe-2019-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T21:40:50.534981+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34882707",
         "display_name": "Ve službě (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-02T20:24:54.314953+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-2",
-        "claimed_at": "2026-10-02T21:40:03.661101+00:00",
-        "lease_expires_at": "2026-10-03T03:40:03.661101+00:00",
-        "run_id": "37054088523"
       }
     },
     "28773": {
@@ -293403,6 +293405,12 @@
         "source_id": "34775356",
         "display_name": "Hickok (2017) SD CZ Titulky",
         "planned_at": "2026-10-02T20:24:54.629375+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-1",
+        "claimed_at": "2026-10-02T21:40:16.670096+00:00",
+        "lease_expires_at": "2026-10-03T03:40:16.670096+00:00",
+        "run_id": "37054088523"
       }
     },
     "7831": {
@@ -314526,5 +314534,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T21:40:13.276023+00:00"
+  "updated_at": "2026-10-02T21:40:50.535000+00:00"
 }
