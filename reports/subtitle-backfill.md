@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:42:16.866489+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:42:29.245574+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 15, `existing_tracks_uncertain`: 140, `pending`: 165, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 681, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 165, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 681, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -982,7 +982,6 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Andílek (2018) 720p CZ Titulky](https://prehraj.to/andilek-2018-720p-cz-titulky-avi/776d20f508586c25) (ID 29355975) | [Sdílej 13405604](https://sdilej.cz/13405604/el.angel.2018.pl.720p.brrip.ac3.xvid-mr.avi) | source_media_timeout | 2026-10-02T08:42:49.735873+00:00 |
 | [Asi se zblázním (2021) SD CZ Titulky](https://prehraj.to/asi-se-zblaznim-2021-sd-cz-titulky-avi/975d6ac95e668e22) (ID 29219191) | [Sdílej 16134173](https://sdilej.cz/16134173/asi-se-zblaznim-2021-cz-titulky-novinka.avi) | source_unavailable | 2026-10-01T18:42:38.174603+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-02T06:52:14.972558+00:00 |
-| [Bring Him to Me (2023) 1080p CZ Titulky](https://prehraj.to/bring-him-to-me-2023-1080p-cz-titulky-mkv/b9f1ba0d143cf1b5) (ID 29707367) | [Sdílej 28694146](https://sdilej.cz/28694146/bring.him.to.me-2023-cztit-1080p.mkv) | upload_unconfirmed | 2026-10-02T15:42:16.866467+00:00 |
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | source_unavailable | 2026-10-01T18:44:24.532751+00:00 |
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | source_unavailable | 2026-10-01T18:45:31.531356+00:00 |
 | [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | source_unavailable | 2026-10-01T18:42:06.529466+00:00 |
