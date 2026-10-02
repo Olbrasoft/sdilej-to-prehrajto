@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:38:31.583894+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:38:43.395362+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 575, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 294, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 574, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 295, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -216,6 +216,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Greystone Park (2012) SD CZ Titulky](https://prehraj.to/greystone-park-2012-sd-cz-titulky-avi/8af9662f0b917b08) (ID 29904695) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:31.399009+00:00 |
 | [H0us3 (2019) SD CZ Titulky](https://prehraj.to/h0us3-2019-sd-cz-titulky-avi/3a371c8e70c4dc0f) (ID 29242748) | [Sdílej 13982151](https://sdilej.cz/13982151/h0us3-2019-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:47.319773+00:00 |
 | [HOMUNCULUS (2021) SD CZ Titulky](https://prehraj.to/homunculus-2021-sd-cz-titulky-mkv/ce56cc4caba57929) (ID 29657930) | [Sdílej 29787022](https://sdilej.cz/29787022/homunculus-drama-fantasy-mysteriozni-2021-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:25.194787+00:00 |
+| [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:43.395248+00:00 |
 | [Hammers Over the Anvil (1994) SD CZ Titulky](https://prehraj.to/hammers-over-the-anvil-1994-sd-cz-titulky-mp4/75de8673e206249c) (ID 29366900) | [Sdílej 34785379](https://sdilej.cz/34785379/hammers-over-the-anvil-1994-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:37:26.004842+00:00 |
 | [Hanson and the Beast (2017) SD CZ Titulky](https://prehraj.to/hanson-and-the-beast-2017-sd-cz-titulky-mp4/7bcab0ac5a50a4cf) (ID 29229448) | [Sdílej 34769838](https://sdilej.cz/34769838/hanson-and-the-beast-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:20.325108+00:00 |
 | [Happily (2021) 1080p CZ Titulky](https://prehraj.to/happily-2021-1080p-cz-titulky-mkv/6ccd9041f76c97f7) (ID 29720642) | [Sdílej 16891054](https://sdilej.cz/16891054/happily-2021-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:30.659231+00:00 |
