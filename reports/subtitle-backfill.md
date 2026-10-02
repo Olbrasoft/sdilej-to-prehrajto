@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:53:28.315283+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:53:36.951938+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 496, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 372, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 495, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 373, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -304,6 +304,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:30.659328+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:58.604524+00:00 |
 | [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:57.112536+00:00 |
+| [Leave the World Behind (2014) SD CZ Titulky](https://prehraj.to/leave-the-world-behind-2014-sd-cz-titulky-mp4/2d3fd96d784cd743) (ID 29505113) | [Sdílej 34776328](https://sdilej.cz/34776328/leave-the-world-behind-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:53:36.951839+00:00 |
 | [Lego Jurassic World: Double Trouble (2020) 720p CZ Titulky](https://prehraj.to/lego-jurassic-world-double-trouble-2020-720p-cz-titulky-mp4/686b38f9f6e0b5b8) (ID 29276107) | [Sdílej 34733047](https://sdilej.cz/34733047/lego-jurassic-world-double-trouble-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:19.118821+00:00 |
 | [Lemmy (2010) SD CZ Titulky](https://prehraj.to/lemmy-2010-sd-cz-titulky-avi/fa9e7a12e72859c4) (ID 29469522) | [Sdílej 6632545](https://sdilej.cz/6632545/lemmy-dokument-cz-sub-2010-avi.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:12.943242+00:00 |
 | [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:40:49.646204+00:00 |
