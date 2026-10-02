@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T10:33:52.133588+00:00
+Poslední aktualizace (UTC): 2026-10-02T10:33:54.324718+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 134.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 627, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 244, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 626, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 244, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -511,6 +511,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Omukade (2026) 1080p CZ Titulky](https://prehraj.to/omukade-2026-1080p-cz-titulky-mp4/d314a1788a35b7ca) (ID 29221022) | [Sdílej 34909938](https://sdilej.cz/34909938/omukade-2026-cz-titulky.mp4) | source_unavailable | 2026-10-01T18:46:08.868149+00:00 |
 | [Papírový život (2021) 1080p CZ Titulky](https://prehraj.to/papirovy-zivot-2021-1080p-cz-titulky-mp4/f9f8a72792f7a411) (ID 29220346) | [Sdílej 34729011](https://sdilej.cz/34729011/papirovy-zivot-2021-cz-titulky.mp4) | source_unavailable | 2026-10-01T18:44:59.856933+00:00 |
 | [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | source_unavailable | 2026-10-02T01:10:06.219509+00:00 |
+| [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-02T10:33:54.324643+00:00 |
 | [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | source_unavailable | 2026-10-01T18:41:34.708815+00:00 |
 | [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | source_unavailable | 2026-10-01T18:46:40.259655+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-01T22:31:58.680654+00:00 |
