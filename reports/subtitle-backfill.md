@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:44:04.481892+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:44:16.095588+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 160, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 686, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 159, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 687, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -960,6 +960,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Zítřek už možná nepřijde (2003) SD CZ Titulky](https://prehraj.to/zitrek-uz-mozna-neprijde-2003-sd-cz-titulky-mp4/76f925bd5b940dfc) (ID 29279834) | [Sdílej 34751392](https://sdilej.cz/34751392/zitrek-uz-mozna-neprijde-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:09:34.545959+00:00 |
 | [Ánimas (2018) 1080p CZ Titulky](https://prehraj.to/animas-2018-1080p-cz-titulky-mkv/9661c7794d8b1c8a) (ID 29648131) | [Sdílej 11262471](https://sdilej.cz/11262471/animas-2018.1080p.x264-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:23.703082+00:00 |
 | [Úniková cesta (2016) 720p CZ Titulky](https://prehraj.to/unikova-cesta-2016-720p-cz-titulky-avi/f231757960d6becc) (ID 29709428) | [Sdílej 9549271](https://sdilej.cz/9549271/term-life-2016-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:43:53.769066+00:00 |
+| [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:16.095476+00:00 |
 | [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:46.643530+00:00 |
 | [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:48.779052+00:00 |
 | [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:32.890110+00:00 |
