@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:19:48.022246+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:19:56.632287+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 382, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 483, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 381, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 484, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -711,6 +711,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Zazie dans le métro (1960) SD CZ Titulky](https://prehraj.to/zazie-dans-le-metro-1960-sd-cz-titulky-mp4/a56f88f9ee076962) (ID 29256773) | [Sdílej 34715255](https://sdilej.cz/34715255/zazie-dans-le-metro-1960-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:16.606288+00:00 |
 | [Zelený had (2021) 1080p CZ Titulky](https://prehraj.to/zeleny-had-2021-1080p-cz-titulky-mp4/3d45635b0e18bbba) (ID 29460364) | [Sdílej 34727964](https://sdilej.cz/34727964/zeleny-had-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:20.914359+00:00 |
 | [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:46.150552+00:00 |
+| [Zero (2015) SD CZ Titulky](https://prehraj.to/zero-2015-sd-cz-titulky-mp4/9663f521233e2731) (ID 29601859) | [Sdílej 34737910](https://sdilej.cz/34737910/zero-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:56.632180+00:00 |
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:28.692114+00:00 |
 | [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:36:47.717055+00:00 |
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:33.604783+00:00 |
