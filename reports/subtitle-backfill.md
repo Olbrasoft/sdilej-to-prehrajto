@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:42:55.543189+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:43:06.212459+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 553, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 316, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 552, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 317, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -214,6 +214,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:35.524030+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:31.850357+00:00 |
 | [GODZILLA (2017) SD CZ Titulky.avi](https://prehraj.to/godzilla-2017-sd-cz-titulky-avi/59059d956be70179) (ID 29615057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T05:33:55.194193+00:00 |
+| [Gabbar is Back (2015) SD CZ Titulky](https://prehraj.to/gabbar-is-back-2015-sd-cz-titulky-mp4/da9e9a6d116e2a60) (ID 29428714) | [Sdílej 34738082](https://sdilej.cz/34738082/gabbar-is-back-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:43:06.212342+00:00 |
 | [George Michael: Freedom (2017) 1080p CZ Titulky](https://prehraj.to/george-michael-freedom-2017-1080p-cz-titulky-mp4/a9afcb03560f32b0) (ID 29394134) | [Sdílej 34774695](https://sdilej.cz/34774695/george-michael-freedom-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:45:59.984804+00:00 |
 | [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:41.740977+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:39.964292+00:00 |
