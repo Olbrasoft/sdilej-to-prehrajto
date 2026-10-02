@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:40:27.971703+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:40:37.516348+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 27, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 810, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 26, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 811, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -851,6 +851,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Superhost (2021) 1080p CZ Titulky](https://prehraj.to/superhost-2021-1080p-cz-titulky-mkv/b4059976607da9ce) (ID 29706516) | [Sdílej 18833126](https://sdilej.cz/18833126/superhost.2021.1080p.amzn.web-dl.ddp2.0.h.264-tepes.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:01.443487+00:00 |
 | [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:00:15.773110+00:00 |
 | [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:50.224699+00:00 |
+| [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:37.516227+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:15.724400+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:04:04.354188+00:00 |
 | [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:24:59.474294+00:00 |
