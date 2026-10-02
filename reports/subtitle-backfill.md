@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:48:41.988032+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:48:56.896464+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 148, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 698, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 147, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 699, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -959,6 +959,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:33.604783+00:00 |
 | [Znovu zrozen (2016) 1080p CZ Titulky](https://prehraj.to/znovu-zrozen-2016-1080p-cz-titulky-mkv/7f2b941812745f52) (ID 29566591) | [Sdílej 32832255](https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:54.489181+00:00 |
 | [Zola (2020) 720p CZ Titulky](https://prehraj.to/zola-2020-720p-cz-titulky-mp4/fe2f51475df96405) (ID 29400325) | [Sdílej 34773120](https://sdilej.cz/34773120/zola-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:11.390857+00:00 |
+| [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:48:56.896348+00:00 |
 | [Zpátky na frontě 2 (2010) SD CZ Titulky](https://prehraj.to/zpatky-na-fronte-2-2010-sd-cz-titulky-mp4/961f8e4bbb45bdcb) (ID 29639527) | [Sdílej 34709953](https://sdilej.cz/34709953/zpatky-na-fronte-2-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:49:22.710003+00:00 |
 | [Zrodila se hvězda (1937) SD CZ Titulky](https://prehraj.to/zrodila-se-hvezda-1937-sd-cz-titulky-mp4/59422715b7eacd5c) (ID 29463817) | [Sdílej 34789216](https://sdilej.cz/34789216/zrodila-se-hvezda-1937-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:21.341781+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:30.064423+00:00 |
