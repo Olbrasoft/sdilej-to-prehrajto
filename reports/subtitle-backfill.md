@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:36:18.091829+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:36:32.735870+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 587, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 282, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 586, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 283, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -400,6 +400,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:17.594925+00:00 |
 | [Skutečná cena (2015) 1080p CZ Titulky](https://prehraj.to/skutecna-cena-2015-1080p-cz-titulky-mp4/7be209ade69a9187) (ID 29888439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:27.326582+00:00 |
 | [Sladké dětství (2020) SD CZ Titulky](https://prehraj.to/sladke-detstvi-2020-sd-cz-titulky-mp4/c7e1de765dc3ea79) (ID 29256766) | [Sdílej 34732105](https://sdilej.cz/34732105/sladke-detstvi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:09.945841+00:00 |
+| [Slib (2014) SD CZ Titulky](https://prehraj.to/slib-2014-sd-cz-titulky-avi/06e40acfb4af1b6c) (ID 29399692) | [Sdílej 28142034](https://sdilej.cz/28142034/slib-obietnica-2014-titulky-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:32.735741+00:00 |
 | [Slon (2003) SD CZ Titulky](https://prehraj.to/slon-2003-sd-cz-titulky-avi/82c06f9529911a1b) (ID 29178314) | [Sdílej 21156263](https://sdilej.cz/21156263/slon-elephant-2003-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:13.453649+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636373+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:35.884649+00:00 |
