@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T04:39:51.057923+00:00
+Poslední aktualizace (UTC): 2026-10-02T04:39:59.025777+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 66.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 691, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 185, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 690, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 186, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -240,6 +240,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:32.922750+00:00 |
 | [Mardaani 2 (2019) 1080p CZ Titulky](https://prehraj.to/mardaani-2-2019-1080p-cz-titulky-mp4/161344f2866a3af7) (ID 29306854) | [Sdílej 34711873](https://sdilej.cz/34711873/mardaani-2-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:14.731333+00:00 |
 | [Marie-Octobre (1959) 720p CZ Titulky](https://prehraj.to/marie-octobre-1959-720p-cz-titulky-mp4/f86671e2cf85d19d) (ID 29261777) | [Sdílej 32217300](https://sdilej.cz/32217300/marie-octobre-1959-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:30:53.132638+00:00 |
+| [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:59.025680+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:18:09.282148+00:00 |
 | [Mejdan v Malibu (2015) SD CZ Titulky](https://prehraj.to/mejdan-v-malibu-2015-sd-cz-titulky-mkv/349e85c5ed394c72) (ID 29908598) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T23:29:56.662924+00:00 |
 | [Merrily We Roll Along (2025) 1080p CZ Titulky](https://prehraj.to/merrily-we-roll-along-2025-1080p-cz-titulky-mp4/aa02345e5988f324) (ID 29213153) | [Sdílej 34723802](https://sdilej.cz/34723802/merrily-we-roll-along-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T16:38:56.846891+00:00 |
