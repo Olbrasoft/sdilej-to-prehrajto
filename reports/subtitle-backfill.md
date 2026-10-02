@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:03:30.332888+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:03:51.913303+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 452, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 414, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 451, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 415, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -637,6 +637,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [World of Tomorrow (2015) 720p CZ Titulky](https://prehraj.to/world-of-tomorrow-2015-720p-cz-titulky-mp4/1f87f82a6017c286) (ID 29289142) | [Sdílej 34737901](https://sdilej.cz/34737901/world-of-tomorrow-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:57.320839+00:00 |
 | [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:42.078665+00:00 |
 | [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:38.496703+00:00 |
+| [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:51.913200+00:00 |
 | [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:00.237536+00:00 |
 | [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:33.576420+00:00 |
 | [Zatoulaný (2018) SD CZ Titulky](https://prehraj.to/zatoulany-2018-sd-cz-titulky-avi/ee32f1fd1bf7eafb) (ID 29412317) | [Sdílej 11160214](https://sdilej.cz/11160214/zatoulany-drama-cz-titulky-2018-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:39.596359+00:00 |
