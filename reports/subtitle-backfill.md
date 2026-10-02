@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:57:41.616316+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:57:51.814191+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 253, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 603, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 252, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 603, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -104,6 +104,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:48.080653+00:00 |
 | [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:07.252766+00:00 |
 | [Bráška (2019) 1080p CZ Titulky](https://prehraj.to/braska-2019-1080p-cz-titulky-mkv/984563bed19f01cc) (ID 29721471) | [Sdílej 12666589](https://sdilej.cz/12666589/mon-frere-brother.2019.french.1080p.webrip.x264-sp0utn1k-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:15.409323+00:00 |
+| [Bulvár (2014) 1080p CZ Titulky](https://prehraj.to/bulvar-2014-1080p-cz-titulky-mkv/ca8643b86aa8b7cf) (ID 29652778) | [Sdílej 34871761](https://sdilej.cz/34871761/bulvar-drama-usa-robin-williams-2014-cztit.1080p.bluray.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-02T14:57:51.814082+00:00 |
 | [Buzíci (1974) 720p CZ Titulky](https://prehraj.to/buzici-1974-720p-cz-titulky-mkv/d201314d3c8b9a52) (ID 29444563) | [Sdílej 24869171](https://sdilej.cz/24869171/buzici-les-valseuses-1974-komedie-fr.-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:36.971843+00:00 |
 | [Byl jsem lynčován (1936) SD CZ Titulky](https://prehraj.to/byl-jsem-lyncovan-1936-sd-cz-titulky-avi/98fd95b8bc1ca5b9) (ID 29396870) | [Sdílej 32305152](https://sdilej.cz/32305152/byl-jsem-lyncovan-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:43.799635+00:00 |
 | [Bídníci (2012) 1080p CZ Titulky](https://prehraj.to/bidnici-2012-1080p-cz-titulky-mp4/5a004ba7d7fa860f) (ID 29651861) | [Sdílej 34853378](https://sdilej.cz/34853378/bidnici-2012-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:57:41.616214+00:00 |
