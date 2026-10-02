@@ -268798,17 +268798,19 @@
       "attempts": []
     },
     "23721": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29956973",
+          "reason": "Request failed for https://sdilej.cz/29956973/porotce-1996-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T07:12:19.637434+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29956973",
         "display_name": "Porotce (1996) 1080p CZ Dabing",
         "planned_at": "2026-10-02T06:09:24.869825+00:00"
-      },
-      "claim": {
-        "worker_id": "3d8ef466ebec455cb4cf4ba063659bd5-shard-1",
-        "claimed_at": "2026-10-02T07:11:33.344928+00:00",
-        "lease_expires_at": "2026-10-02T13:11:33.344928+00:00",
-        "run_id": "36956698710"
       }
     },
     "7115": {
@@ -268978,6 +268980,12 @@
         "source_id": "12415800",
         "display_name": "Narok 6 metre (2018) 1080p CZ Titulky",
         "planned_at": "2026-10-02T06:09:25.220828+00:00"
+      },
+      "claim": {
+        "worker_id": "3d8ef466ebec455cb4cf4ba063659bd5-shard-2",
+        "claimed_at": "2026-10-02T07:12:15.826596+00:00",
+        "lease_expires_at": "2026-10-02T13:12:15.826596+00:00",
+        "run_id": "36956698710"
       }
     },
     "23107": {
@@ -304525,5 +304533,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T07:12:13.626086+00:00"
+  "updated_at": "2026-10-02T07:12:19.637454+00:00"
 }
