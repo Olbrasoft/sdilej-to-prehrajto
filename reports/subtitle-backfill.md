@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:21:44.827858+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:22:10.883039+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 210, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 642, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 209, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 643, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -19,6 +19,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [12th Fail (2023) 1080p CZ Titulky.mkv](https://prehraj.to/12th-fail-2023-1080p-cz-titulky-mkv/a085d8774bcad9a5) (ID 28915304) | [Sdílej 27689267](https://sdilej.cz/27689267/12th-fail-2023-cz-titulky-hd-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:35:56.869076+00:00 |
 | [18 dárků (2020) 1080p CZ Titulky](https://prehraj.to/18-darku-2020-1080p-cz-titulky-mkv/67b3dcaebf0ffeef) (ID 29311505) | [Sdílej 17592772](https://sdilej.cz/17592772/18-darku-18-presents-2020-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:01.991565+00:00 |
 | [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:44.511063+00:00 |
+| [22 July (2018) 1080p CZ Titulky](https://prehraj.to/22-july-2018-1080p-cz-titulky-avi/7431fb18a4ca373e) (ID 29676030) | [Sdílej 11434044](https://sdilej.cz/11434044/22.-cervence-22-july-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:10.882917+00:00 |
 | [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:57.914905+00:00 |
 | [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:21:36.231010+00:00 |
 | [37 sekund (2019) 1080p CZ Titulky](https://prehraj.to/37-sekund-2019-1080p-cz-titulky-mkv/8c1830443e4f7902) (ID 29409387) | [Sdílej 12981772](https://sdilej.cz/12981772/37-sekanzu-37-seconds-2019-cz-titulky-webrip.1080p-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636332+00:00 |
