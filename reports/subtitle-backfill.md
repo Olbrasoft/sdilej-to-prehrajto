@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T05:37:30.905865+00:00
+Poslední aktualizace (UTC): 2026-10-02T05:37:39.504729+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 46.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 685, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 190, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 684, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 191, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -246,6 +246,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncert
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:18:09.282148+00:00 |
 | [Mejdan v Malibu (2015) SD CZ Titulky](https://prehraj.to/mejdan-v-malibu-2015-sd-cz-titulky-mkv/349e85c5ed394c72) (ID 29908598) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T23:29:56.662924+00:00 |
 | [Merrily We Roll Along (2025) 1080p CZ Titulky](https://prehraj.to/merrily-we-roll-along-2025-1080p-cz-titulky-mp4/aa02345e5988f324) (ID 29213153) | [Sdílej 34723802](https://sdilej.cz/34723802/merrily-we-roll-along-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T16:38:56.846891+00:00 |
+| [Michael Jackson's This Is It (2009) 1080p CZ Titulky](https://prehraj.to/michael-jackson-s-this-is-it-2009-1080p-cz-titulky-mp4/bfc6a17dd54a987d) (ID 29319034) | [Sdílej 28787638](https://sdilej.cz/28787638/michael-jackson-s-this-is-it-2009-titulky-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:39.504614+00:00 |
 | [Milfs vs. Zombies (2015) SD CZ Titulky](https://prehraj.to/milfs-vs-zombies-2015-sd-cz-titulky-mkv/2ebc8b57b29b02ae) (ID 29904306) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:50.555549+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:40.861120+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:08:39.921949+00:00 |
