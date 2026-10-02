@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:34:30.132403+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:34:40.678888+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 329, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 532, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 328, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 533, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -405,6 +405,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Marlina, vražedkyně ve čtyřech aktech (2017) SD CZ Titulky](https://prehraj.to/marlina-vrazedkyne-ve-ctyrech-aktech-2017-sd-cz-titulky-avi/3ef241ec526d9034) (ID 29561541) | [Sdílej 11235817](https://sdilej.cz/11235817/marlina-vrazedkyne-ve-ctyrech-aktech-marlina-the-murderer-in-four-acts-2017-cz-titulky-brdrip-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:08.077749+00:00 |
 | [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:59.025680+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:18:09.282148+00:00 |
+| [Medea (1989) SD CZ Titulky](https://prehraj.to/medea-1989-sd-cz-titulky-mp4/227e04f115e4f30a) (ID 29628691) | [Sdílej 34754626](https://sdilej.cz/34754626/medea-1989-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:40.678738+00:00 |
 | [Mejdan v Malibu (2015) SD CZ Titulky](https://prehraj.to/mejdan-v-malibu-2015-sd-cz-titulky-mkv/349e85c5ed394c72) (ID 29908598) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:37.510494+00:00 |
 | [Merrily We Roll Along (2025) 1080p CZ Titulky](https://prehraj.to/merrily-we-roll-along-2025-1080p-cz-titulky-mp4/aa02345e5988f324) (ID 29213153) | [Sdílej 34723802](https://sdilej.cz/34723802/merrily-we-roll-along-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T16:38:56.846891+00:00 |
 | [Metallica: Through the Never (2013) 1080p CZ Titulky](https://prehraj.to/metallica-through-the-never-2013-1080p-cz-titulky-mp4/f1ebcfe158f2165a) (ID 29464033) | [Sdílej 33285707](https://sdilej.cz/33285707/metallica-throught-the-never-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:36.531967+00:00 |
