@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:41:30.661349+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:41:40.817965+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 312, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 548, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 311, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 549, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -482,6 +482,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:11.410625+00:00 |
 | [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:56.160809+00:00 |
 | [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:59.422577+00:00 |
+| [Obludárium (2017) 720p CZ Titulky](https://prehraj.to/obludarium-2017-720p-cz-titulky-mp4/ef02ba88d2c726dc) (ID 29632887) | [Sdílej 34737337](https://sdilej.cz/34737337/obludarium-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:41:40.817804+00:00 |
 | [Obviněný (2005) 720p CZ Titulky](https://prehraj.to/obvineny-2005-720p-cz-titulky-mp4/4bb7a750bf800f2d) (ID 29587306) | [Sdílej 33564212](https://sdilej.cz/33564212/obvineny-2005-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:29.482052+00:00 |
 | [Okamžitá smrt (2017) SD CZ Titulky](https://prehraj.to/okamzita-smrt-2017-sd-cz-titulky-mkv/e2827c7657fb2f16) (ID 29614071) | [Sdílej 11243558](https://sdilej.cz/11243558/instant-death-2017-cztitulky-by-becker.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:33:08.447683+00:00 |
 | [Oktoberfest (2006) SD CZ Titulky](https://prehraj.to/oktoberfest-2006-sd-cz-titulky-mkv/be440d34137bd7af) (ID 29579307) | [Sdílej 20584458](https://sdilej.cz/20584458/beerfest.2006.dvdrip.x264.ac3.bgaudio-siso.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:28.233083+00:00 |
