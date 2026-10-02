@@ -242789,17 +242789,19 @@
       "attempts": []
     },
     "6374": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33353084",
+          "target_video_id": "29925102",
+          "permanent": false,
+          "attempted_at": "2026-10-02T18:03:41.721237+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33353084",
         "display_name": "Zapomenutý ostrov (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-02T17:40:40.595497+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T17:59:44.251251+00:00",
-        "lease_expires_at": "2026-10-02T23:59:44.251251+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29925102",
       "prepared": {
@@ -242891,7 +242893,15 @@
       "attempts": []
     },
     "11199": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28783931",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T18:02:42.929940+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28783931",
         "display_name": "King Kong (1976) 1080p CZ Dabing",
@@ -259518,7 +259528,15 @@
       }
     },
     "6655": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "6794784",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T18:03:03.645934+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6794784",
         "display_name": "Morgan (2016) 1080p CZ Dabing",
@@ -271764,7 +271782,15 @@
       }
     },
     "9236": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "18961252",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T18:03:24.372466+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18961252",
         "display_name": "Sněžná mela (2019) 1080p CZ Dabing",
@@ -271936,6 +271962,12 @@
         "source_id": "35099483",
         "display_name": "Voskové muzeum 2: Ztraceni v čase (1992) 1080p CZ Dabing",
         "planned_at": "2026-10-02T17:40:41.890639+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
+        "claimed_at": "2026-10-02T18:03:24.717593+00:00",
+        "lease_expires_at": "2026-10-03T00:03:24.717593+00:00",
+        "run_id": "37020459901"
       }
     },
     "16271": {
@@ -311869,5 +311901,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T18:02:20.196914+00:00"
+  "updated_at": "2026-10-02T18:03:41.721253+00:00"
 }
