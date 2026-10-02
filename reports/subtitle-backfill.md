@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:56:54.850293+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:57:07.407307+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 256, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 600, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 255, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 601, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -121,6 +121,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Chlast (2020) 1080p CZ Titulky](https://prehraj.to/chlast-2020-1080p-cz-titulky-mp4/2af5d83c1c35af4a) (ID 29321672) | [Sdílej 32655241](https://sdilej.cz/32655241/chlast-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:38:23.042879+00:00 |
 | [Christmas in Tune (2021) 1080p CZ Titulky](https://prehraj.to/christmas-in-tune-2021-1080p-cz-titulky-mp4/e09325e7e40da953) (ID 29256609) | [Sdílej 34773020](https://sdilej.cz/34773020/christmas-in-tune-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:03.810390+00:00 |
 | [Chum (2026) 1080p CZ Titulky](https://prehraj.to/chum-2026-1080p-cz-titulky-mkv/f776d9ad1711e741) (ID 29088573) | [Sdílej 34473094](https://sdilej.cz/34473094/chum-2026-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:56.999635+00:00 |
+| [Chyba v Matrixu (2021) 1080p CZ Titulky](https://prehraj.to/chyba-v-matrixu-2021-1080p-cz-titulky-mp4/38e549b6c8448b20) (ID 29650917) | [Sdílej 26322552](https://sdilej.cz/26322552/a-glitch-in-the-matrix-2021-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:57:07.407182+00:00 |
 | [Citová hodnota (2025) 1080p CZ Titulky](https://prehraj.to/citova-hodnota-2025-1080p-cz-titulky-mkv/fcc0c54a241aa6a7) (ID 29396122) | [Sdílej 32756240](https://sdilej.cz/32756240/citova-hodnota-2025-cztit-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:48.558450+00:00 |
 | [Civil War (Or, Who Do We Think We Are) (2021) 1080p CZ Titulky](https://prehraj.to/civil-war-or-who-do-we-think-we-are-2021-1080p-cz-titulky-mp4/493af690f593ded3) (ID 29257379) | [Sdílej 34773002](https://sdilej.cz/34773002/civil-war-or-who-do-we-think-we-are-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:41.251529+00:00 |
 | [Cizí oči (1981) 1080p CZ Titulky](https://prehraj.to/cizi-oci-1981-1080p-cz-titulky-mkv/ad6fae4b71b4b32e) (ID 29578873) | [Sdílej 28527253](https://sdilej.cz/28527253/cizi-oci-eyes-of-a-stranger-1981-fhd-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:12.065822+00:00 |
