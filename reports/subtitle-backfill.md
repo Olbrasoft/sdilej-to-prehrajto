@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:04:03.969086+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:04:20.360354+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 110, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 733, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 109, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 734, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -86,6 +86,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Battlestar Galactica: Plán (2009) 1080p CZ Titulky](https://prehraj.to/battlestar-galactica-plan-2009-1080p-cz-titulky-mp4/c7fd5b1914f6e432) (ID 29429444) | [Sdílej 32444722](https://sdilej.cz/32444722/battlestar-galactica-the-plan-2009-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:43:17.398387+00:00 |
 | [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:11.046133+00:00 |
 | [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:45.706002+00:00 |
+| [Before the Fire (2020) SD CZ Titulky](https://prehraj.to/before-the-fire-2020-sd-cz-titulky-avi/424c149d6f91b6f7) (ID 29731607) | [Sdílej 27602574](https://sdilej.cz/27602574/before.the.fire.2020.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:04:20.360242+00:00 |
 | [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:21:47.275104+00:00 |
 | [Betonová past (2019) 1080p CZ Titulky](https://prehraj.to/betonova-past-2019-1080p-cz-titulky-mkv/23c84cd876df10a3) (ID 29089422) | [Sdílej 13193514](https://sdilej.cz/13193514/trauma-center-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:04.658562+00:00 |
 | [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:03.769736+00:00 |
