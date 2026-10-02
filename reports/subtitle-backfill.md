@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:29:17.159104+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:29:27.858560+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 347, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 515, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 346, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 516, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -32,6 +32,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:38:13.943433+00:00 |
 | [Akira (2016) SD CZ Titulky](https://prehraj.to/akira-2016-sd-cz-titulky-mp4/bd027bb78ce55fb6) (ID 29529063) | [Sdílej 34775394](https://sdilej.cz/34775394/akira-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:41.692745+00:00 |
 | [Al di là della legge (1968) SD CZ Titulky](https://prehraj.to/al-di-la-della-legge-1968-sd-cz-titulky-mkv/cc65e5323db8a2fc) (ID 29270176) | [Sdílej 34780009](https://sdilej.cz/34780009/western-cz-tit-beyond-the-law-al-di-l-della-legge-1968-dvdrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:03.977956+00:00 |
+| [Albion: The Enchanted Stallion (2016) SD CZ Titulky](https://prehraj.to/albion-the-enchanted-stallion-2016-sd-cz-titulky-mp4/66b6a5053a0b641c) (ID 29611924) | [Sdílej 34737873](https://sdilej.cz/34737873/albion-the-enchanted-stallion-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:29:27.858450+00:00 |
 | [Alexander Něvský (1938) SD CZ Titulky](https://prehraj.to/alexander-nevsky-1938-sd-cz-titulky-mp4/2b993025d1e3e6e6) (ID 29411883) | [Sdílej 34699493](https://sdilej.cz/34699493/alexander-nevsky-1938-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:40:56.525565+00:00 |
 | [Alien Apocalypse (2023) SD CZ Titulky](https://prehraj.to/alien-apocalypse-2023-sd-cz-titulky-mp4/15f5bcc46c9fbc77) (ID 29567475) | [Sdílej 34772109](https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:08:32.236392+00:00 |
 | [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:40:37.747823+00:00 |
