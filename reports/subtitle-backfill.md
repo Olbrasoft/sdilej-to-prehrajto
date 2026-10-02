@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T03:40:49.709489+00:00
+Poslední aktualizace (UTC): 2026-10-02T03:40:56.781818+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 86.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 705, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 171, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 704, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 172, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -251,6 +251,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:41.653624+00:00 |
 | [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:06.362619+00:00 |
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:51.247083+00:00 |
+| [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:56.781721+00:00 |
 | [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:25.956475+00:00 |
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:11.006615+00:00 |
 | [Můj král (2015) SD CZ Titulky](https://prehraj.to/muj-kral-2015-sd-cz-titulky-avi/b0309e1fd2265c5c) (ID 29212827) | [Sdílej 8877241](https://sdilej.cz/8877241/muj-kral-mon-roi-2015-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:49.026087+00:00 |
