@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:54:15.096649+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:54:25.082917+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 269, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 589, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 268, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 590, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -736,6 +736,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Tobol (2019) SD CZ Titulky](https://prehraj.to/tobol-2019-sd-cz-titulky-mp4/793c7f85b112419e) (ID 29287806) | [Sdílej 34853793](https://sdilej.cz/34853793/tobol-the-conquest-of-siberia-2019-titulky.sk.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:25.392245+00:00 |
 | [Toc Toc (2017) 720p CZ Titulky](https://prehraj.to/toc-toc-2017-720p-cz-titulky-mkv/b351d189c132acd8) (ID 29569899) | [Sdílej 14550282](https://sdilej.cz/14550282/toc.toc.2017.bluray.720p.x264.sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:31.192199+00:00 |
 | [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:40:47.483392+00:00 |
+| [Traumfrauen (2015) 720p CZ Titulky](https://prehraj.to/traumfrauen-2015-720p-cz-titulky-mkv/6cd0970920d69774) (ID 29648576) | [Sdílej 11544703](https://sdilej.cz/11544703/traumfrauen.2015.720p.bluray.dd5.1.x264-crisc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:25.082771+00:00 |
 | [Travis Scott: Koukej, mami, létám (2019) 1080p CZ Titulky](https://prehraj.to/travis-scott-koukej-mami-letam-2019-1080p-cz-titulky-mp4/9c55665abc1d9268) (ID 29287746) | [Sdílej 34709233](https://sdilej.cz/34709233/travis-scott-koukej-mami-letam-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:18.761892+00:00 |
 | [True: Zimní přání (2019) 1080p CZ Titulky](https://prehraj.to/true-zimni-prani-2019-1080p-cz-titulky-mp4/846581e6f4658021) (ID 29587566) | [Sdílej 34733680](https://sdilej.cz/34733680/true-zimni-prani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:39.053523+00:00 |
 | [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:24:36.746248+00:00 |
