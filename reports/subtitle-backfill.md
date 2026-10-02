@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:52:22.092322+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:52:31.883877+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 133, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 712, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 132, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 713, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -191,6 +191,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:33:00.958021+00:00 |
 | [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:51.057799+00:00 |
 | [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:47.070049+00:00 |
+| [Downrange (2018) SD CZ Titulky](https://prehraj.to/downrange-2018-sd-cz-titulky-mp4/91c531ae05b32ae5) (ID 29720076) | [Sdílej 34774302](https://sdilej.cz/34774302/downrange-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:31.883754+00:00 |
 | [Dracula (1931) SD CZ Titulky](https://prehraj.to/dracula-1931-sd-cz-titulky-avi/9ec9f4e02cbafdfb) (ID 29377121) | [Sdílej 32585697](https://sdilej.cz/32585697/dracula-1931-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:11.170856+00:00 |
 | [Dragon Ball Super: Broly (2018) 720p CZ Titulky](https://prehraj.to/dragon-ball-super-broly-2018-720p-cz-titulky-mp4/61f5d2a382919ad5) (ID 29396899) | [Sdílej 13724972](https://sdilej.cz/13724972/dragon-ball-super-movie-broly-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:00.675288+00:00 |
 | [Dragon Nest: Warriors' Dawn (2014) SD CZ Titulky](https://prehraj.to/dragon-nest-warriors-dawn-2014-sd-cz-titulky-mp4/71b6c45efc52cc53) (ID 29331098) | [Sdílej 34900012](https://sdilej.cz/34900012/dragon-nest-warriors-dawn-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:50.665459+00:00 |
