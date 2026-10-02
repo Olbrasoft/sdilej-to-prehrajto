@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T06:51:18.636417+00:00
+Poslední aktualizace (UTC): 2026-10-02T06:51:27.833428+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 26.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 674, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 201, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 673, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 202, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -347,6 +347,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncert
 | [Sorry, Baby (2025) 1080p CZ Titulky](https://prehraj.to/sorry-baby-2025-1080p-cz-titulky-mkv/fd6a7ea8e2f236d4) (ID 29199838) | [Sdílej 34559320](https://sdilej.cz/34559320/sorry-baby-2025-czsub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:08:57.894157+00:00 |
 | [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:28.143102+00:00 |
 | [Space Buddies (2009) 720p CZ Titulky](https://prehraj.to/space-buddies-2009-720p-cz-titulky-mkv/4e7a090626908843) (ID 29088612) | [Sdílej 15088025](https://sdilej.cz/15088025/space.buddies.2009.720p.bluray.x264-x0r.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:00.669736+00:00 |
+| [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:27.833268+00:00 |
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T03:38:36.356988+00:00 |
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:27.287035+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:28.463479+00:00 |
