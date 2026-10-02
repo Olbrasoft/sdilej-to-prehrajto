@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:06:37.681657+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:06:46.074952+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 442, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 424, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 441, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 425, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -422,6 +422,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:27.401373+00:00 |
 | [Osudový dotek 3: Odhalení (2009) SD CZ Titulky](https://prehraj.to/osudovy-dotek-3-odhaleni-2009-sd-cz-titulky-mkv/0e759944ec4e308c) (ID 29753210) | [Sdílej 25526950](https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:09.434290+00:00 |
 | [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:38.279067+00:00 |
+| [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:06:46.074836+00:00 |
 | [Out of Death (2021) 720p CZ Titulky](https://prehraj.to/out-of-death-2021-720p-cz-titulky-avi/9dbce487d8a4df83) (ID 29089541) | [Sdílej 17416471](https://sdilej.cz/17416471/out-of-death-2021-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:22.979381+00:00 |
 | [Outback (2019) SD CZ Titulky](https://prehraj.to/outback-2019-sd-cz-titulky-mkv/9ad1c366c7605f1f) (ID 29914704) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T08:40:02.398486+00:00 |
 | [Ovečka Shaun: Vánoční příběh (2021) 1080p CZ Titulky](https://prehraj.to/ovecka-shaun-vanocni-pribeh-2021-1080p-cz-titulky-mp4/7e484b8287927702) (ID 29415712) | [Sdílej 34647965](https://sdilej.cz/34647965/ovecka-shaun-vanocni-pribeh-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:48.141036+00:00 |
