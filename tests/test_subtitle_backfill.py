@@ -11,6 +11,7 @@ from sdilej_to_prehrajto import subtitle_backfill as worker_module
 from sdilej_to_prehrajto.subtitle_backfill import Backfill, report_markdown, source_map
 from sdilej_to_prehrajto.subtitle_media import (
     SubtitleUnavailable, choose_stream, convert_text_subtitle, normalize_srt, run_media,
+    extraction_timeout, extract_original,
 )
 from sdilej_to_prehrajto.subtitle_target import (
     Target, TargetUnavailable, SubtitleTarget, parse_listing, trusted_action,
@@ -238,3 +239,104 @@ def test_report_has_actionable_missing_list_and_separate_temporary_errors():
     assert "Původní soubor nemá samostatnou českou titulkovou stopu" in report
     assert "https://sdilej.cz/123/film.mkv" in report
     assert "Dočasné chyby" in report
+
+
+def test_batch_checks_120_sources_serially_and_continues(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    worker.state["videos"] = {str(i): {"target_video_id": str(i), "status": "pending"} for i in range(1, 123)}
+    monkeypatch.setattr(worker, "inventory", lambda _: None)
+    sleeps = []
+    monkeypatch.setattr(worker_module.time, "sleep", sleeps.append)
+    calls = []
+
+    def process(record):
+        calls.append(record["target_video_id"])
+        raise SubtitleUnavailable("source_czech_text_missing")
+
+    monkeypatch.setattr(worker, "process", process)
+    result = worker.run(20, 120, 30)
+    assert calls == [str(i) for i in range(1, 121)]
+    assert sleeps == [2] * 119
+    assert result["inspected_sources"] == 120
+    assert result["remaining_due"] == 2
+    assert result["stop_reason"] == "source_limit"
+    assert result["continue_backfill"]
+    assert json.loads(worker.state_path.read_text())["last_batch"] == result
+    assert "Kontrol: 120" in worker.report_path.read_text()
+
+
+@pytest.mark.parametrize("pages,dry_run,continuation", [(0, False, False), (3, False, True), (3, True, False)])
+def test_continuation_excludes_deferred_and_inventory_only_rows(tmp_path, monkeypatch, pages, dry_run, continuation):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    worker.dry_run = dry_run
+    statuses = list(worker_module.INVENTORY_ONLY_STATUSES) + ["source_czech_text_missing", "source_media_timeout", "upload_unconfirmed"]
+    worker.state["videos"] = {str(i): {"target_video_id": str(i), "status": status,
+                                      "retry_after": "2999-01-01T00:00:00+00:00" if status not in worker_module.INVENTORY_ONLY_STATUSES else ""}
+                              for i, status in enumerate(statuses)}
+    worker.state["next_page"] = pages
+    monkeypatch.setattr(worker, "inventory", lambda _: None)
+    process = Mock()
+    monkeypatch.setattr(worker, "process", process)
+    result = worker.run(20, 120, 30)
+    process.assert_not_called()
+    assert result["remaining_due"] == 0
+    assert result["continue_backfill"] == continuation
+
+
+def test_batch_deadline_preserves_pending_source_and_schedules_successor(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    monkeypatch.setattr(worker, "inventory", lambda _: None)
+    monkeypatch.setattr(worker, "process", Mock(side_effect=SubtitleUnavailable("batch_deadline_reached")))
+    result = worker.run(20, 120, 30)
+    assert row["status"] == "pending"
+    assert result["stop_reason"] == "time_budget"
+    assert result["remaining_due"] == 1
+    assert result["continue_backfill"]
+    target.upload.assert_not_called()
+
+
+def test_inventory_time_is_part_of_batch_budget(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    clock = [0]
+    monkeypatch.setattr(worker_module.time, "monotonic", lambda: clock[0])
+    monkeypatch.setattr(worker, "inventory", lambda _: clock.__setitem__(0, 2100))
+    process = Mock()
+    monkeypatch.setattr(worker, "process", process)
+    result = worker.run(20, 120, 30)
+    process.assert_not_called()
+    assert result["stop_reason"] == "time_budget"
+
+
+def test_extraction_uses_remaining_budget_without_misclassifying_source(monkeypatch):
+    from sdilej_to_prehrajto import subtitle_media as media
+    clock = [10]
+    monkeypatch.setattr(media.time, "monotonic", lambda: clock[0])
+    assert extraction_timeout(900, 20) == 10
+    assert extraction_timeout(900, None) == 900
+    with pytest.raises(SubtitleUnavailable, match="batch_deadline_reached"):
+        extraction_timeout(900, 10)
+
+    def timeout(*args, **kwargs):
+        clock[0] = 20
+        raise SubtitleUnavailable("source_media_timeout")
+
+    monkeypatch.setattr(media, "_extract_original", timeout)
+    with pytest.raises(SubtitleUnavailable, match="batch_deadline_reached"):
+        extract_original(Mock(), {}, deadline=20)
+
+
+def test_30_attachment_limit_includes_ambiguous_posts(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    worker.state["videos"] = {str(i): {"target_video_id": str(i), "status": "pending"} for i in range(1, 33)}
+    monkeypatch.setattr(worker, "inventory", lambda _: None)
+
+    def process(record):
+        record["intent"] = {"filename": "cs-unique.srt"}
+        raise requests.Timeout()
+
+    monkeypatch.setattr(worker, "process", process)
+    result = worker.run(20, 120, 30)
+    assert result["inspected_sources"] == result["attachments_submitted"] == 30
+    assert result["attached_verified"] == 0
+    assert result["remaining_due"] == 2
+    assert result["stop_reason"] == "attachment_limit"

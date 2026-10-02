@@ -5,10 +5,12 @@ import json
 import re
 import subprocess
 import tempfile
+import time
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 
 from bs4 import BeautifulSoup
+import requests
 
 from .models import Candidate
 from .sdilej import parse_detail_html
@@ -119,12 +121,28 @@ def choose_stream(streams: list[dict]) -> dict:
     return sorted(text, key=lambda stream: (-int(stream.get("disposition", {}).get("default", 0)), int(stream["index"])))[0]
 
 
-def extract_original(session, source: dict) -> tuple[bytes, dict]:
+def extraction_timeout(maximum: float, deadline: float | None) -> float:
+    remaining = maximum if deadline is None else deadline - time.monotonic()
+    if remaining <= 0:
+        raise SubtitleUnavailable("batch_deadline_reached")
+    return min(maximum, remaining)
+
+
+def extract_original(session, source: dict, *, deadline: float | None = None) -> tuple[bytes, dict]:
+    try:
+        return _extract_original(session, source, deadline=deadline)
+    except (SubtitleUnavailable, requests.RequestException, TimeoutError):
+        if deadline is not None and time.monotonic() >= deadline:
+            raise SubtitleUnavailable("batch_deadline_reached") from None
+        raise
+
+
+def _extract_original(session, source: dict, *, deadline: float | None) -> tuple[bytes, dict]:
     source_id, url = str(source["source_id"]), source["source_url"]
     parsed = urlsplit(url)
     if parsed.scheme != "https" or parsed.hostname != "sdilej.cz" or parsed.path.split("/")[1] != source_id:
         raise SubtitleUnavailable("source_provenance_invalid")
-    response = session.get(url, timeout=45)
+    response = session.get(url, timeout=extraction_timeout(45, deadline))
     response.raise_for_status()
     if urlsplit(response.url).path.split("/")[1] != source_id:
         raise SubtitleUnavailable("source_detail_changed")
@@ -139,10 +157,11 @@ def extract_original(session, source: dict) -> tuple[bytes, dict]:
         host = urlsplit(track_url).hostname or ""
         if urlsplit(track_url).scheme != "https" or not (host == "sdilej.cz" or host.endswith(".sdilej.cz")):
             continue
-        with session.get(track_url, stream=True, timeout=45) as subtitle:
+        with session.get(track_url, stream=True, timeout=extraction_timeout(45, deadline)) as subtitle:
             subtitle.raise_for_status()
             chunks, size = [], 0
             for chunk in subtitle.iter_content(64 * 1024):
+                extraction_timeout(45, deadline)
                 size += len(chunk)
                 if size > MAX_SUBTITLE_BYTES:
                     raise SubtitleUnavailable("subtitle_too_large")
@@ -150,20 +169,21 @@ def extract_original(session, source: dict) -> tuple[bytes, dict]:
         return convert_text_subtitle(b"".join(chunks)), {"method": "original_page_track", "source_id": source_id}
 
     detail = parse_detail_html(response.text, Candidate(source_id, url, source.get("source_filename", source_id)))
-    with session.get(detail.download_url, headers={"Range": "bytes=0-0", "Referer": url}, stream=True, timeout=(20, 30)) as original:
+    with session.get(detail.download_url, headers={"Range": "bytes=0-0", "Referer": url}, stream=True,
+                     timeout=(extraction_timeout(20, deadline), extraction_timeout(30, deadline))) as original:
         original.raise_for_status()
         resolved = original.url
     metadata = json.loads(run_media([
         "ffprobe", "-v", "error", "-rw_timeout", "20000000", "-select_streams", "s",
         "-show_streams", "-of", "json", resolved,
-    ], 90))
+    ], extraction_timeout(90, deadline)))
     stream = choose_stream(metadata.get("streams", []))
     with tempfile.TemporaryDirectory(prefix="original-subtitle-") as directory:
         output = Path(directory) / "cs.srt"
         run_media([
             "ffmpeg", "-nostdin", "-v", "error", "-rw_timeout", "20000000", "-i", resolved,
             "-map", f"0:{int(stream['index'])}", "-c:s", "srt", "-fs", str(MAX_SUBTITLE_BYTES), str(output),
-        ], 900)
+        ], extraction_timeout(900, deadline))
         if output.stat().st_size >= MAX_SUBTITLE_BYTES:
             raise SubtitleUnavailable("subtitle_too_large")
         payload = normalize_srt(output.read_bytes())

@@ -10,13 +10,14 @@ on:
         default: "20"
       max_sources:
         description: "Original sources to inspect (serially)"
-        default: "12"
+        default: "120"
       limit:
         description: "Maximum subtitle attachments in one run"
-        default: "3"
+        default: "30"
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: film-original-subtitle-backfill
@@ -46,14 +47,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Backfill original Czech text subtitles
+        id: backfill
         env:
           SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
           SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
           PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
           PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
           MAX_PAGES: ${{ inputs.max_pages || '20' }}
-          MAX_SOURCES: ${{ inputs.max_sources || '12' }}
-          SUBTITLE_LIMIT: ${{ inputs.limit || '3' }}
+          MAX_SOURCES: ${{ inputs.max_sources || '120' }}
+          SUBTITLE_LIMIT: ${{ inputs.limit || '30' }}
         run: |
           python -m sdilej_to_prehrajto.subtitle_backfill \
             --max-pages "$MAX_PAGES" --max-sources "$MAX_SOURCES" \
@@ -67,3 +69,15 @@ jobs:
             reports/subtitle-backfill.md
             state/subtitle-backfill.json
           if-no-files-found: ignore
+      - name: Queue next serial subtitle batch
+        if: success() && steps.backfill.outputs.continue_backfill == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          MAX_PAGES: ${{ inputs.max_pages || '20' }}
+          MAX_SOURCES: ${{ inputs.max_sources || '120' }}
+          SUBTITLE_LIMIT: ${{ inputs.limit || '30' }}
+        run: |
+          gh workflow run backfill-subtitles.yml --ref main \
+            -f max_pages="$MAX_PAGES" -f max_sources="$MAX_SOURCES" \
+            -f limit="$SUBTITLE_LIMIT"

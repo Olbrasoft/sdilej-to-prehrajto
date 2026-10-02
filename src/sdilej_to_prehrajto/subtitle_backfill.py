@@ -102,6 +102,16 @@ MANUAL_REASONS = {
     "subtitle_too_large": "Titulky přesahují bezpečný limit velikosti.",
 }
 
+INVENTORY_ONLY_STATUSES = {
+    "attached_verified", "already_has_czech", "source_provenance_missing",
+    "existing_tracks_uncertain", "target_processing",
+}
+
+
+def ready_for_source_check(row: dict, at: str) -> bool:
+    return (row.get("status") not in INVENTORY_ONLY_STATUSES
+            and row.get("retry_after", "") <= at)
+
 
 def report_markdown(state: dict) -> str:
     rows = list(state.get("videos", {}).values())
@@ -111,6 +121,12 @@ def report_markdown(state: dict) -> str:
              f"Zkontrolováno videí: {len(rows)}. Další stránka kontroly: {state.get('next_page', 0)}.", "",
              "Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.", "",
              "Stavy: " + ", ".join(f"`{key}`: {value}" for key, value in sorted(counts.items())), ""]
+    batch = state.get("last_batch")
+    if batch:
+        lines += ["## Poslední dávka", "",
+                  f"Kontrol: {batch['inspected_sources']}; odesláno: {batch['attachments_submitted']}; "
+                  f"potvrzeno: {batch['attached_verified']}; zbývá k prověření nyní: {batch['remaining_due']}. "
+                  f"Důvod ukončení: `{batch['stop_reason']}`.", ""]
 
     def table(selected):
         result = ["| Film | Původní zdroj | Důvod | Poslední ověření (UTC) |", "| --- | --- | --- | --- |"]
@@ -138,6 +154,7 @@ class Backfill:
         self.target, self.source_session = target, source_session
         self.root, self.state_path, self.report_path = root, state_path, report_path
         self.persist, self.dry_run = persist, dry_run
+        self.deadline = None
         self.state = json.loads(state_path.read_text()) if state_path.exists() else {"schema_version": 1, "videos": {}, "next_page": 0}
         self.sources = source_map(root)
 
@@ -180,6 +197,8 @@ class Backfill:
         page = min(self.state.get("next_page") or last, last)
         seen = set()
         for _ in range(max_pages):
+            if self.deadline is not None and time.monotonic() >= self.deadline:
+                break
             targets, _ = self.target.listing(page)
             signature = tuple(target.video_id for target in targets)
             if signature in seen:
@@ -235,7 +254,7 @@ class Backfill:
         if not target.ready or target.has_czech or target.unknown_tracks or not row.get("source"):
             return False
         print(f"subtitle_extract_start target={target.video_id} source={row['source']['source_id']}", flush=True)
-        payload, evidence = extract_original(self.source_session, row["source"])
+        payload, evidence = extract_original(self.source_session, row["source"], deadline=self.deadline)
         digest = hashlib.sha256(payload).hexdigest()
         row["extraction"] = {**evidence, "sha256": digest, "bytes": len(payload), "format": "utf8_srt_crlf"}
         if self.dry_run:
@@ -246,6 +265,8 @@ class Backfill:
         self.inspect(target)
         if not target.ready or target.has_czech or target.unknown_tracks:
             return False
+        if self.deadline is not None and time.monotonic() >= self.deadline:
+            raise SubtitleUnavailable("batch_deadline_reached")
         row["intent"] = {"filename": f"cs-{target.video_id}-{digest[:10]}.srt",
                          "before_ids": [track["id"] for track in target.tracks],
                          "created_at": now().isoformat(), "sha256": digest}
@@ -255,24 +276,38 @@ class Backfill:
         time.sleep(5)
         return self.reconcile(row)
 
-    def run(self, max_pages, max_sources, limit):
+    def run(self, max_pages, max_sources, limit, *, runtime_minutes=35, source_interval=2):
+        started = time.monotonic()
+        self.deadline = started + runtime_minutes * 60
         self.inventory(max_pages)
         attempted, attached, submitted = 0, 0, 0
-        deadline = time.monotonic() + 35 * 60
+        stop_reason = "queue_drained"
         rows = sorted(self.state["videos"].values(), key=lambda row: (row.get("checked_at", ""), int(row["target_video_id"])))
         for row in rows:
-            if attempted >= max_sources or submitted >= limit or time.monotonic() >= deadline:
+            if time.monotonic() >= self.deadline:
+                stop_reason = "time_budget"
                 break
-            if row.get("retry_after", "") > now().isoformat():
+            if not ready_for_source_check(row, now().isoformat()):
                 continue
-            if row.get("status") in {"attached_verified", "already_has_czech", "source_provenance_missing", "existing_tracks_uncertain", "target_processing"}:
-                continue
+            if attempted >= max_sources or submitted >= limit:
+                stop_reason = "source_limit" if attempted >= max_sources else "attachment_limit"
+                break
+            if attempted:
+                time.sleep(min(source_interval, max(0, self.deadline - time.monotonic())))
+            if time.monotonic() >= self.deadline:
+                stop_reason = "time_budget"
+                break
             attempted += 1
             had_intent = bool(row.get("intent"))
             try:
                 attached += int(self.process(row))
             except SubtitleUnavailable as error:
                 reason = str(error)
+                if reason == "batch_deadline_reached":
+                    # The batch budget says nothing about the source's health.
+                    # Leave it eligible for the next batch, without a 6h defer.
+                    stop_reason = "time_budget"
+                    break
                 self.status(row, reason, 168 if reason in MANUAL_REASONS else 6)
             except SdilejError:
                 self.status(row, "source_unavailable", 6)
@@ -281,9 +316,15 @@ class Backfill:
                 self.status(row, "upload_unconfirmed" if row.get("intent") else "target_unavailable" if isinstance(error, TargetUnavailable) else "source_unavailable", 1)
             submitted += int(not had_intent and bool(row.get("intent")))
             self.save()
+        remaining_due = sum(ready_for_source_check(row, now().isoformat()) for row in self.state["videos"].values())
+        summary = {"inspected_sources": attempted, "attachments_submitted": submitted,
+                   "attached_verified": attached, "remaining_due": remaining_due,
+                   "stop_reason": stop_reason, "elapsed_seconds": round(time.monotonic() - started),
+                   "continue_backfill": not self.dry_run and (remaining_due > 0 or self.state.get("next_page", 0) > 0)}
+        self.state["last_batch"] = summary
         self.save()
-        print(json.dumps({"inspected_sources": attempted, "attachments_submitted": submitted, "attached_verified": attached,
-                          "statuses": dict(Counter(row.get("status") for row in self.state["videos"].values()))}), flush=True)
+        print(json.dumps({**summary, "statuses": dict(Counter(row.get("status") for row in self.state["videos"].values()))}), flush=True)
+        return summary
 
 
 def main():
@@ -292,8 +333,8 @@ def main():
     parser.add_argument("--state", type=Path, default=Path("state/subtitle-backfill.json"))
     parser.add_argument("--report", type=Path, default=Path("reports/subtitle-backfill.md"))
     parser.add_argument("--max-pages", type=int, default=20)
-    parser.add_argument("--max-sources", type=int, default=12)
-    parser.add_argument("--limit", type=int, default=3)
+    parser.add_argument("--max-sources", type=int, default=120)
+    parser.add_argument("--limit", type=int, default=30)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--git-persist", action="store_true")
     parser.add_argument("--browser-state", type=Path, help="Local diagnostic only; never saved to reports")
@@ -321,7 +362,10 @@ def main():
     persist = GitStatePersister(args.root, (report_path,)) if args.git_persist else None
     worker = Backfill(SubtitleTarget(target), source, args.root, state_path, report_path, persist, args.dry_run)
     try:
-        worker.run(args.max_pages, args.max_sources, args.limit)
+        summary = worker.run(args.max_pages, args.max_sources, args.limit)
+        if args.git_persist and os.environ.get("GITHUB_OUTPUT"):
+            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+                output.write(f"continue_backfill={str(summary['continue_backfill']).lower()}\n")
     finally:
         source.close()
         target.close()

@@ -85,7 +85,8 @@ proměnné prostředí jako v GitHub Secrets.
 
 ## Doplňování českých titulků
 
-Workflow `backfill-subtitles` běží každou hodinu, vždy pouze v jednom workeru.
+Workflow `backfill-subtitles` má hodinový start a při zbývající práci automaticky
+navazuje další dávkou, vždy pouze v jednom workeru.
 Nezastavuje nahrávání filmů a nemění jeho limit tří souběžných přenosů.
 Po dávkách prochází stránky `CZ Titulky` od nejstarších, aby zpracovávaná
 videa neblokovala dokončená. Kontroluje i položky mimo původní titulkovou frontu;
@@ -109,7 +110,14 @@ bez doložené vazby na původní zdroj je ale automaticky neupravuje.
   nikdy k druhému POST. Úspěch vyžaduje novou odpovídající stopu v seznamu.
 
 První běh lze spustit ručně; výchozí dávka prohlédne 20 stránek a nejvýše
-12 zdrojů, vloží nejvýše tři titulkové soubory **postupně**. Celý zdrojový film
+120 zdrojů, vloží nejvýše 30 titulkových souborů **postupně**. Pracovní rozpočet
+dávky je 35 minut včetně inventury; extrakce respektuje zbývající čas. Mezi
+kontrolami zdrojů je dvousekundová prodleva a zůstává omezení četnosti požadavků
+na cíl. Bezprostřední další běh se zakládá jen po úspěšném uložení stavu, pokud
+zbývají právě způsobilé položky nebo nedokončený průchod seznamem. Samotné odklady
+a zpracovávaná videa další běh nezakládají; znovu je najde hodinový start.
+Report uvádí výsledky poslední dávky, zbývající práci a důvod ukončení.
+Celý zdrojový film
 se neukládá na disk, ale extrakce vnitřních titulků může vyžadovat jeho přečtení
 po síti. FFmpeg má pevný časový limit; tajné odkazy ani text titulků se do Gitu
 neukládají. Pro diagnostiku bez změn na webu použij samostatný lokální stav:
