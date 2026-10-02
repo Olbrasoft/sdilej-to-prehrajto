@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:40:35.592170+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:41:03.294095+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 314, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 546, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 314, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 546, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -815,7 +815,6 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | source_unavailable | 2026-10-01T18:45:31.531356+00:00 |
 | [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | source_unavailable | 2026-10-01T18:42:06.529466+00:00 |
 | [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | source_unavailable | 2026-10-01T18:43:49.231017+00:00 |
-| [Koputus (2022) 1080p CZ Titulky](https://prehraj.to/koputus-2022-1080p-cz-titulky-mp4/f71a0c07b2bed551) (ID 29632217) | [Sdílej 34850587](https://sdilej.cz/34850587/koputus-2022-horor-thriller-krimi-drama-finsko-cz-titulky.mp4) | upload_unconfirmed | 2026-10-02T14:40:35.592133+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-01T22:32:02.070118+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-02T14:00:48.903987+00:00 |
 | [Nezapomenutelné dětství (2004) 720p CZ Titulky](https://prehraj.to/nezapomenutelne-detstvi-2004-720p-cz-titulky-mkv/7ebe37f37b10426d) (ID 29443371) | [Sdílej 34871247](https://sdilej.cz/34871247/nezapomenutelne-detstvi-robin-williams-2004-czdab.hd.bluray.mkv) | source_unavailable | 2026-10-02T13:45:54.627703+00:00 |
