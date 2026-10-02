@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T10:35:04.674381+00:00
+Poslední aktualizace (UTC): 2026-10-02T10:35:11.717621+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 134.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 619, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 251, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 618, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 252, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -215,6 +215,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Home Invasion (2016) SD CZ Titulky](https://prehraj.to/home-invasion-2016-sd-cz-titulky-avi/3d433bbe8dcb9fc9) (ID 29905333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:33.411939+00:00 |
 | [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:19.296131+00:00 |
 | [Hosté večeře Páně (1963) 720p CZ Titulky](https://prehraj.to/hoste-vecere-pane-1963-720p-cz-titulky-mp4/1fd61b357bc984ec) (ID 29279387) | [Sdílej 34700257](https://sdilej.cz/34700257/hoste-vecere-pane-1963-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:09:26.890508+00:00 |
+| [Hot Chocolate Nutcracker: Klasika v novém podání (2020) 1080p CZ Titulky](https://prehraj.to/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-1080p-cz-titulky-mp4/d4e174c100b91362) (ID 29382292) | [Sdílej 34773295](https://sdilej.cz/34773295/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:35:11.717495+00:00 |
 | [Hotel Inferno (2013) 1080p CZ Titulky](https://prehraj.to/hotel-inferno-2013-1080p-cz-titulky-mkv/148fb56c56fa9d36) (ID 29539384) | [Sdílej 17823326](https://sdilej.cz/17823326/hotel.inferno.2013.1080p.bluray.h264.aac-rarbg.ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T04:37:30.431909+00:00 |
 | [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:25.272393+00:00 |
 | [Hunted (2020) 1080p CZ Titulky](https://prehraj.to/hunted-2020-1080p-cz-titulky-mkv/0f07ff8c28da87c9) (ID 29434313) | [Sdílej 16064242](https://sdilej.cz/16064242/hunted-akcni-horor-thriller-2020.1080p.webrip.2.0.x264.bez.titulku.66-.sten.ok.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T03:38:40.138208+00:00 |
