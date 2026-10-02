@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:24:17.314002+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:24:33.102868+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 63, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 778, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 62, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 779, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -815,6 +815,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:15.724353+00:00 |
 | [Stovky bobrů (2022) 1080p CZ Titulky](https://prehraj.to/stovky-bobru-2022-1080p-cz-titulky-mp4/e6dfada040fc7670) (ID 29583192) | [Sdílej 30207144](https://sdilej.cz/30207144/hundreds-of-beavers-stovky-bobru-2022-czsubbed-1080p-web-dl-aac2.0-h.264-nogrp.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:21.563403+00:00 |
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:27.287035+00:00 |
+| [Student Body (2022) SD CZ Titulky](https://prehraj.to/student-body-2022-sd-cz-titulky-avi/8a7501229949c698) (ID 29750052) | [Sdílej 23913108](https://sdilej.cz/23913108/student.body.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:24:33.102750+00:00 |
 | [Student of the Year (2012) 720p CZ Titulky](https://prehraj.to/student-of-the-year-2012-720p-cz-titulky-mp4/36e9d39ef221fa54) (ID 29748769) | [Sdílej 34743904](https://sdilej.cz/34743904/student-of-the-year-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:22:48.468471+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:11.498732+00:00 |
 | [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:18.755165+00:00 |
