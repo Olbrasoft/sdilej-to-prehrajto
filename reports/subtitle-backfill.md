@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:44:44.055380+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:44:54.842748+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 543, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 326, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 542, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 327, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -536,6 +536,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:19.930531+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:34.844160+00:00 |
 | [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:44.288141+00:00 |
+| [Wanda Sykes: Nenormální (2019) 1080p CZ Titulky](https://prehraj.to/wanda-sykes-nenormalni-2019-1080p-cz-titulky-mp4/52c65d095d10bc3f) (ID 29440609) | [Sdílej 34733622](https://sdilej.cz/34733622/wanda-sykes-nenormalni-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:54.842647+00:00 |
 | [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:54.721137+00:00 |
 | [WarHunt (2022) 1080p CZ Titulky](https://prehraj.to/warhunt-2022-1080p-cz-titulky-avi/98b2a36bc1f51031) (ID 29908392) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:37.510562+00:00 |
 | [Warning (2021) 1080p CZ Titulky](https://prehraj.to/warning-2021-1080p-cz-titulky-mkv/2195cc3c11f6f1a8) (ID 29734447) | [Sdílej 18976907](https://sdilej.cz/18976907/warning.2021.1080p.bluray.h264.aac-rarbg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:40.513064+00:00 |
