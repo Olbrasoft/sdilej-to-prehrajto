@@ -246633,17 +246633,19 @@
       }
     },
     "24673": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34706165",
+          "reason": "Request failed for https://sdilej.cz/34706165/princezna-zlodeju-2001-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T04:19:43.938181+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34706165",
         "display_name": "Princezna zlodějů (2001) 720p CZ Dabing",
         "planned_at": "2026-10-02T04:18:42.586930+00:00"
-      },
-      "claim": {
-        "worker_id": "3d8ef466ebec455cb4cf4ba063659bd5-shard-2",
-        "claimed_at": "2026-10-02T04:18:58.050060+00:00",
-        "lease_expires_at": "2026-10-02T10:18:58.050060+00:00",
-        "run_id": "36956698710"
       }
     },
     "12133": {
@@ -303111,5 +303113,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T04:19:40.001050+00:00"
+  "updated_at": "2026-10-02T04:19:43.938198+00:00"
 }
