@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:41:44.009991+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:41:55.118566+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 20, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 817, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 19, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 818, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -774,6 +774,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Schlussmacher (2013) SD CZ Titulky](https://prehraj.to/schlussmacher-2013-sd-cz-titulky-mp4/e885ad18f9bd10f8) (ID 29648017) | [Sdílej 34739355](https://sdilej.cz/34739355/schlussmacher-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:52:32.503426+00:00 |
 | [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:45.243575+00:00 |
 | [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:41.260990+00:00 |
+| [Sedlák (2019) 720p CZ Titulky](https://prehraj.to/sedlak-2019-720p-cz-titulky-mp4/6b72ee4f346efa22) (ID 29828988) | [Sdílej 34733869](https://sdilej.cz/34733869/sedlak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:41:55.118452+00:00 |
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:03:57.792565+00:00 |
 | [Sentinelle (2023) 1080p CZ Titulky](https://prehraj.to/sentinelle-2023-1080p-cz-titulky-mp4/1159da7830e47542) (ID 29911372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:59.683033+00:00 |
 | [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:55.954904+00:00 |
