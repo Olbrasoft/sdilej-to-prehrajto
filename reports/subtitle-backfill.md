@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:02:16.653912+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:02:30.824316+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 233, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 622, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 232, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 623, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -593,6 +593,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:33.533509+00:00 |
 | [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:16.032171+00:00 |
 | [Rande na oko (2020) 1080p CZ Titulky](https://prehraj.to/rande-na-oko-2020-1080p-cz-titulky-mp4/b312d76d695945f4) (ID 29430070) | [Sdílej 31626274](https://sdilej.cz/31626274/rande-na-oko-2020-en-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:43:45.203143+00:00 |
+| [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:02:30.824208+00:00 |
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:50.305456+00:00 |
 | [Re-Kill (2015) SD CZ Titulky](https://prehraj.to/re-kill-2015-sd-cz-titulky-avi/6cb5d0ca86c67b09) (ID 29540122) | [Sdílej 34850986](https://sdilej.cz/34850986/re-kill-.sk-tit.v-obraze-scifi-horor-2015.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:59:48.561030+00:00 |
 | [ReMastered: Devil at the Crossroads (2019) 1080p CZ Titulky](https://prehraj.to/remastered-devil-at-the-crossroads-2019-1080p-cz-titulky-mp4/61d7073f666022d4) (ID 29432057) | [Sdílej 34733904](https://sdilej.cz/34733904/remastered-devil-at-the-crossroads-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:43:53.492147+00:00 |
