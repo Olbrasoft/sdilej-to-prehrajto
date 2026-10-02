@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T11:33:37.623267+00:00
+Poslední aktualizace (UTC): 2026-10-02T11:33:44.288265+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 114.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 607, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 263, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 606, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 264, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -479,6 +479,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:51.471994+00:00 |
 | [Vánoce s vůní máty (2021) 1080p CZ Titulky](https://prehraj.to/vanoce-s-vuni-maty-2021-1080p-cz-titulky-mp4/6435dfae930e7710) (ID 29242109) | [Sdílej 34772685](https://sdilej.cz/34772685/vanoce-s-vuni-maty-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:14.481339+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:34.844160+00:00 |
+| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:44.288141+00:00 |
 | [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:54.721137+00:00 |
 | [WarHunt (2022) 1080p CZ Titulky](https://prehraj.to/warhunt-2022-1080p-cz-titulky-avi/98b2a36bc1f51031) (ID 29908392) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:37.510562+00:00 |
 | [Warning (2021) 1080p CZ Titulky](https://prehraj.to/warning-2021-1080p-cz-titulky-mkv/2195cc3c11f6f1a8) (ID 29734447) | [Sdílej 18976907](https://sdilej.cz/18976907/warning.2021.1080p.bluray.h264.aac-rarbg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:40.513064+00:00 |
