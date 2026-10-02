@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:48:01.090767+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:48:13.618386+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 845, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 17, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 846, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 16, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -910,6 +910,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [The Act of Reading (2021) 1080p CZ Titulky](https://prehraj.to/the-act-of-reading-2021-1080p-cz-titulky-mp4/70ed6c4107403ab8) (ID 29587600) | [Sdílej 34772666](https://sdilej.cz/34772666/the-act-of-reading-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:47.192989+00:00 |
 | [The Alpinist (2021) 1080p CZ Titulky](https://prehraj.to/the-alpinist-2021-1080p-cz-titulky-mkv/5eb14da44aa5aaef) (ID 29316522) | [Sdílej 18646868](https://sdilej.cz/18646868/the.alpinist.2021.1080p.web-dl.dd5.1.h.264-tepes.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:26.069845+00:00 |
 | [The Angriest Man in Brooklyn (2014) SD CZ Titulky](https://prehraj.to/the-angriest-man-in-brooklyn-2014-sd-cz-titulky-avi/af31faef6cd41137) (ID 29721122) | [Sdílej 28343869](https://sdilej.cz/28343869/the-angriest-man-in-brooklyn-2014-komedie-ceske-titulky-vlozeny-ve-filmu.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:01:10.543614+00:00 |
+| [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:48:13.618268+00:00 |
 | [The Aviary (2022) 1080p CZ Titulky](https://prehraj.to/the-aviary-2022-1080p-cz-titulky-mp4/aee6a96eb6881d7c) (ID 29712339) | [Sdílej 34904089](https://sdilej.cz/34904089/the-aviary-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:45:54.615378+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:42:57.481625+00:00 |
 | [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:54.815477+00:00 |
@@ -1154,7 +1155,6 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-02T10:33:54.324643+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-02T15:51:52.442865+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-02T14:51:59.067692+00:00 |
-| [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | source_unavailable | 2026-10-01T18:46:40.259655+00:00 |
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | source_media_timeout | 2026-10-02T14:32:17.876840+00:00 |
 | [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | source_unavailable | 2026-10-02T15:32:34.386305+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-01T22:31:58.680654+00:00 |
