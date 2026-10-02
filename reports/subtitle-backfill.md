@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:40:13.483170+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:40:27.971703+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 28, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 809, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 27, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 810, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -992,6 +992,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [V ringu smrti (2008) SD CZ Titulky](https://prehraj.to/v-ringu-smrti-2008-sd-cz-titulky-mkv/d4c75b88d301cf49) (ID 29612532) | [Sdílej 34837133](https://sdilej.cz/34837133/ring-of-death-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:01.754079+00:00 |
 | [V temném lese (2006) SD CZ Titulky](https://prehraj.to/v-temnem-lese-2006-sd-cz-titulky-mkv/7f8c18eaa0cb3e9b) (ID 29908077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:15.724267+00:00 |
 | [V úskalí (2020) SD CZ Titulky](https://prehraj.to/v-uskali-2020-sd-cz-titulky-mkv/b4be3343a7259f4e) (ID 29284063) | [Sdílej 14433055](https://sdilej.cz/14433055/v-uskali-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:10.080658+00:00 |
+| [V/H/S (2012) SD CZ Titulky](https://prehraj.to/v-h-s-2012-sd-cz-titulky-avi/f67d16fde51bd378) (ID 29809175) | [Sdílej 34454298](https://sdilej.cz/34454298/v.h.s-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:27.971605+00:00 |
 | [V/H/S/85 (2023) SD CZ Titulky](https://prehraj.to/v-h-s-85-2023-sd-cz-titulky-mp4/9af854231d75dff6) (ID 29539008) | [Sdílej 27431301](https://sdilej.cz/27431301/v-h-s-85-2023-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:58:00.202610+00:00 |
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:49.709383+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:49.606622+00:00 |
