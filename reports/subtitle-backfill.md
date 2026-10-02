@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:35:03.183441+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:35:11.497752+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 14, `existing_tracks_uncertain`: 135, `pending`: 181, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 667, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 24, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 14, `existing_tracks_uncertain`: 135, `pending`: 180, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 668, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 24, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -513,6 +513,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Můj král (2015) SD CZ Titulky](https://prehraj.to/muj-kral-2015-sd-cz-titulky-avi/b0309e1fd2265c5c) (ID 29212827) | [Sdílej 8877241](https://sdilej.cz/8877241/muj-kral-mon-roi-2015-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:49.026087+00:00 |
 | [Na Vánoce žádný zázrak (2020) 1080p CZ Titulky](https://prehraj.to/na-vanoce-zadny-zazrak-2020-1080p-cz-titulky-mp4/f56d9c6df66b9089) (ID 29240420) | [Sdílej 34732936](https://sdilej.cz/34732936/na-vanoce-zadny-zazrak-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:41.820174+00:00 |
 | [Na hraně demokracie (2019) 1080p CZ Titulky](https://prehraj.to/na-hrane-demokracie-2019-1080p-cz-titulky-mp4/acd0b3e435da76d1) (ID 29318402) | [Sdílej 34734103](https://sdilej.cz/34734103/na-hrane-demokracie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:16.690144+00:00 |
+| [Na krásném modrém Dunaji (1994) SD CZ Titulky](https://prehraj.to/na-krasnem-modrem-dunaji-1994-sd-cz-titulky-mkv/e45dec6951c76f95) (ID 29699304) | [Sdílej 33871018](https://sdilej.cz/33871018/1994-na-krasnom-modrom-dunaji.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:11.497630+00:00 |
 | [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:20.143817+00:00 |
 | [Nafukovací panna (2009) SD CZ Titulky](https://prehraj.to/nafukovaci-panna-2009-sd-cz-titulky-mp4/4810f16486c8df61) (ID 29511400) | [Sdílej 34911804](https://sdilej.cz/34911804/nafukovaci-panna-du-na-bae-arata-iura-2009-drama-fantasy-romanticky-bdrip.1080p.-jpn-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:55:08.050986+00:00 |
 | [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:11:38.737307+00:00 |
