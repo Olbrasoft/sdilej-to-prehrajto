@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T02:44:14.791701+00:00
+Poslední aktualizace (UTC): 2026-10-02T02:44:26.166224+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 106.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 723, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 153, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 722, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 154, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -239,6 +239,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Mohabbatein (2000) SD CZ Titulky](https://prehraj.to/mohabbatein-2000-sd-cz-titulky-mp4/596b2a114e81325a) (ID 29263611) | [Sdílej 34751508](https://sdilej.cz/34751508/mohabbatein-2000-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:03.606291+00:00 |
 | [Moje mistrovské dílo (2018) 1080p CZ Titulky](https://prehraj.to/moje-mistrovske-dilo-2018-1080p-cz-titulky-avi/cddd61543768f9a1) (ID 29175853) | [Sdílej 34271003](https://sdilej.cz/34271003/2018-moje-mistrovske-dilo-komedie-drama-77-argentina-spanelsko-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:49.061899+00:00 |
 | [Moje noc s Maud (1969) SD CZ Titulky](https://prehraj.to/moje-noc-s-maud-1969-sd-cz-titulky-avi/4b2d296ba14ae59f) (ID 28948721) | [Sdílej 29230755](https://sdilej.cz/29230755/moje-noc-s-maud-1969-fran-oise-fabian-cz-tit-zdeno791.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:19.205881+00:00 |
+| [Monster Island (2017) SD CZ Titulky](https://prehraj.to/monster-island-2017-sd-cz-titulky-avi/730f6bdb8f0d01aa) (ID 29294511) | [Sdílej 8202805](https://sdilej.cz/8202805/monster.island.2017.pldub.web-dl.xvid-kit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:26.166087+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:09:07.837388+00:00 |
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:41.653624+00:00 |
 | [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:06.362619+00:00 |
