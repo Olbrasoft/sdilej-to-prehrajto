@@ -284972,17 +284972,20 @@
       "attempts": []
     },
     "7616": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34299002",
+          "target_video_id": "29927247",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T19:57:34.454049+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34299002",
         "display_name": "Pekelná kuchyně (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:09.314423+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T19:50:38.532882+00:00",
-        "lease_expires_at": "2026-10-03T01:50:38.532882+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29927247",
       "prepared": {
@@ -313524,5 +313527,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:52:04.131875+00:00"
+  "updated_at": "2026-10-02T19:57:34.454067+00:00"
 }
