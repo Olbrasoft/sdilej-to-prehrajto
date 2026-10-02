@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:59:59.901295+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:00:17.646887+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 241, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 614, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 240, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 615, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -797,6 +797,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Vidíš měsíc, Danieli (2019) 1080p CZ Titulky](https://prehraj.to/vidis-mesic-danieli-2019-1080p-cz-titulky-mkv/366024272a4ad479) (ID 29502172) | [Sdílej 13336140](https://sdilej.cz/13336140/ser.du.maanen.daniel.2019.nordic.1080p.web-dl.h.264-rapidcows-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:49.423207+00:00 |
 | [Viking: The Berserkers (2014) SD CZ Titulky](https://prehraj.to/viking-the-berserkers-2014-sd-cz-titulky-mkv/1648f165f1694a06) (ID 29565059) | [Sdílej 35032461](https://sdilej.cz/35032461/viking-the-berserkers.2014.brrip.x264.ac3-srt.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:35.844551+00:00 |
 | [Violence Action (2022) 1080p CZ Titulky](https://prehraj.to/violence-action-2022-1080p-cz-titulky-mp4/d69a8bbc173eb1b8) (ID 29611154) | [Sdílej 34726508](https://sdilej.cz/34726508/violence-action-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:26:00.111112+00:00 |
+| [Virus Shark (2021) 1080p CZ Titulky](https://prehraj.to/virus-shark-2021-1080p-cz-titulky-mp4/4a92737f8ae2afca) (ID 29656500) | [Sdílej 34728190](https://sdilej.cz/34728190/virus-shark-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:00:17.646743+00:00 |
 | [Vnitřní démoni (1972) 1080p CZ Titulky](https://prehraj.to/vnitrni-demoni-1972-1080p-cz-titulky-mp4/aef1558cb487e231) (ID 29646520) | [Sdílej 34755959](https://sdilej.cz/34755959/vnitrni-demoni-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:51:30.422370+00:00 |
 | [Vojákova dívka (2003) SD CZ Titulky](https://prehraj.to/vojakova-divka-2003-sd-cz-titulky-avi/12f0862fd05bddb6) (ID 29558973) | [Sdílej 26715144](https://sdilej.cz/26715144/vojakova-divka-romanticke-drama-2003-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:00.489424+00:00 |
 | [Vražedné utkání (1982) SD CZ Titulky](https://prehraj.to/vrazedne-utkani-1982-sd-cz-titulky-mkv/93b1d2b81987a7b7) (ID 28976232) | [Sdílej 26126750](https://sdilej.cz/26126750/deadly.encounter.1982.dvdrip.x264-e411-cg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:24.811298+00:00 |
