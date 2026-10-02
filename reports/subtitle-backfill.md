@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:22:08.796244+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:22:21.551644+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 71, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 770, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 70, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 771, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -755,6 +755,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Shake Hands with the Devil (2007) 720p CZ Titulky](https://prehraj.to/shake-hands-with-the-devil-2007-720p-cz-titulky-mp4/f5836061dc777a34) (ID 29318910) | [Sdílej 34751222](https://sdilej.cz/34751222/shake-hands-with-the-devil-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:30.905713+00:00 |
 | [Shane (2022) 1080p CZ Titulky](https://prehraj.to/shane-2022-1080p-cz-titulky-mp4/f15b64329d7bc8b1) (ID 29400954) | [Sdílej 34772205](https://sdilej.cz/34772205/shane-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:38.726495+00:00 |
 | [Sharktopus (2023) 1080p CZ Titulky](https://prehraj.to/sharktopus-2023-1080p-cz-titulky-mkv/72560b8bcd6b16f3) (ID 29919398) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:40:19.826964+00:00 |
+| [Shelby Oaks (2024) 1080p CZ Titulky](https://prehraj.to/shelby-oaks-2024-1080p-cz-titulky-mkv/6ef2aef2076ba5bb) (ID 29748440) | [Sdílej 32452776](https://sdilej.cz/32452776/shelby-oaks-2024-1080p.-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:22:21.551541+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:04:05.907645+00:00 |
 | [Shirley (2020) 1080p CZ Titulky](https://prehraj.to/shirley-2020-1080p-cz-titulky-mkv/1cf529a63914c19b) (ID 29530075) | [Sdílej 13635231](https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:50.573869+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:55.851138+00:00 |
