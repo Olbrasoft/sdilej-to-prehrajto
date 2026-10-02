@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:44:25.129990+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:44:37.420222+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 298, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 562, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 297, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 563, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -542,6 +542,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:29.464576+00:00 |
 | [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:14.654898+00:00 |
 | [Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky](https://prehraj.to/pretty-guardian-sailor-moon-eternal-the-movie-2-cast-2023-1080p-cz-titulky-mp4/99b448b527daca12) (ID 29311259) | [Sdílej 34904096](https://sdilej.cz/34904096/pretty-guardian-sailor-moon-eternal-the-movie-2.-cast-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:56.023274+00:00 |
+| [Proč jsem se jen ženil (2007) 1080p CZ Titulky](https://prehraj.to/proc-jsem-se-jen-zenil-2007-1080p-cz-titulky-mp4/d00c4f2fc10b53ee) (ID 29638103) | [Sdílej 32449354](https://sdilej.cz/32449354/why-did-i-get-married-2007-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:44:37.420111+00:00 |
 | [První muži na měsíci (1964) 1080p CZ Titulky](https://prehraj.to/prvni-muzi-na-mesici-1964-1080p-cz-titulky-mkv/971b9b08e0730c2e) (ID 29366588) | [Sdílej 17636997](https://sdilej.cz/17636997/first.men.in.the.moon.1964.remastered.1080p.bluray.dd5.1.hevc.x265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:53.356840+00:00 |
 | [Présumé coupable (2011) 720p CZ Titulky](https://prehraj.to/presume-coupable-2011-720p-cz-titulky-avi/565a6e3b27656485) (ID 29440619) | [Sdílej 15151822](https://sdilej.cz/15151822/obvineny-presume-coupable-guilty-2011-.-bdrip.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:08.830027+00:00 |
 | [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:53.735987+00:00 |
