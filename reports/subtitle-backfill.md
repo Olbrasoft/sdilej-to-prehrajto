@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:48:28.056132+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:48:36.785133+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 522, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 346, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 521, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 347, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -305,6 +305,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:37.232724+00:00 |
 | [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:10.482142+00:00 |
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:25.400190+00:00 |
+| [M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky](https://prehraj.to/m-a-s-h-the-comedy-that-changed-television-2024-1080p-cz-titulky-mp4/a7f840407213d02d) (ID 29460944) | [Sdílej 34724940](https://sdilej.cz/34724940/m-a-s-h-the-comedy-that-changed-television-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:36.785007+00:00 |
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:05.304067+00:00 |
 | [Maják na konci světa (1971) 720p CZ Titulky](https://prehraj.to/majak-na-konci-sveta-1971-720p-cz-titulky-mp4/76205f28e71023a1) (ID 29284598) | [Sdílej 34755903](https://sdilej.cz/34755903/majak-na-konci-sveta-1971-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:31.441804+00:00 |
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:09.513360+00:00 |
