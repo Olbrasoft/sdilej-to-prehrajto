@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:43:17.398497+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:43:25.426214+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 551, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 318, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 550, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 319, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -517,6 +517,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:49.709383+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:49.606622+00:00 |
 | [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:11.338507+00:00 |
+| [Velká žranice (1973) SD CZ Titulky](https://prehraj.to/velka-zranice-1973-sd-cz-titulky-mkv/698806e8257de552) (ID 29429778) | [Sdílej 28396506](https://sdilej.cz/28396506/velka-zranice-grandebouffe-la-tvrip-ford.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:43:25.426113+00:00 |
 | [Vem si prášky: Xanax (2022) 1080p CZ Titulky](https://prehraj.to/vem-si-prasky-xanax-2022-1080p-cz-titulky-mp4/2659bccce1737841) (ID 29391229) | [Sdílej 34726530](https://sdilej.cz/34726530/vem-si-prasky-xanax-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:59.866498+00:00 |
 | [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:37.623117+00:00 |
 | [Vidíš měsíc, Danieli (2019) 1080p CZ Titulky](https://prehraj.to/vidis-mesic-danieli-2019-1080p-cz-titulky-mkv/366024272a4ad479) (ID 29502172) | [Sdílej 13336140](https://sdilej.cz/13336140/ser.du.maanen.daniel.2019.nordic.1080p.web-dl.h.264-rapidcows-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:49.423207+00:00 |
