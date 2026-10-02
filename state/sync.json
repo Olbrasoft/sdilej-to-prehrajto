@@ -175044,17 +175044,20 @@
       }
     },
     "7869": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30454888",
+          "target_video_id": "29927011",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T19:42:29.673242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30454888",
         "display_name": "Assassin - Poslední mise (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-02T19:36:04.077491+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T19:36:20.497060+00:00",
-        "lease_expires_at": "2026-10-03T01:36:20.497060+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29927011",
       "prepared": {
@@ -313328,5 +313331,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:40:15.809683+00:00"
+  "updated_at": "2026-10-02T19:42:29.673257+00:00"
 }
