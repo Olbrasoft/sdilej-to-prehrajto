@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:58:25.610001+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:58:41.696812+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 249, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 606, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 248, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 607, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -527,6 +527,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:08.840403+00:00 |
 | [Operace „Blue Sky“ (1994) 1080p CZ Titulky](https://prehraj.to/operace-blue-sky-1994-1080p-cz-titulky-mp4/20c6be7414d517b3) (ID 29392813) | [Sdílej 32752502](https://sdilej.cz/32752502/blue-sky-1994-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:14.713546+00:00 |
 | [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:27.401373+00:00 |
+| [Organ Trail (2023) SD CZ Titulky](https://prehraj.to/organ-trail-2023-sd-cz-titulky-avi/fce736dd590b7d22) (ID 29653440) | [Sdílej 27404612](https://sdilej.cz/27404612/organ.trail.2023.pl.480p.web-dl.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:58:41.696650+00:00 |
 | [Osudový dotek 3: Odhalení (2009) SD CZ Titulky](https://prehraj.to/osudovy-dotek-3-odhaleni-2009-sd-cz-titulky-mkv/0e759944ec4e308c) (ID 29753210) | [Sdílej 25526950](https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:09.434290+00:00 |
 | [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:38.279067+00:00 |
 | [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:06:46.074836+00:00 |
