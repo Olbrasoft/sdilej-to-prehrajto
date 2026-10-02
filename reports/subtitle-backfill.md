@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T12:47:58.102045+00:00
+Poslední aktualizace (UTC): 2026-10-02T12:48:04.241520+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 94.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 603, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 266, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 602, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 267, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -357,6 +357,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [První muži na měsíci (1964) 1080p CZ Titulky](https://prehraj.to/prvni-muzi-na-mesici-1964-1080p-cz-titulky-mkv/971b9b08e0730c2e) (ID 29366588) | [Sdílej 17636997](https://sdilej.cz/17636997/first.men.in.the.moon.1964.remastered.1080p.bluray.dd5.1.hevc.x265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:53.356840+00:00 |
 | [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:53.735987+00:00 |
 | [Pásky z Nagana (2018) 1080p CZ Titulky](https://prehraj.to/pasky-z-nagana-2018-1080p-cz-titulky-avi/76c71685dd87f659) (ID 29175288) | [Sdílej 34670771](https://sdilej.cz/34670771/pasky-z-nagana-2018-dokument.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:10.009894+00:00 |
+| [Přední linie (2011) SD CZ Titulky](https://prehraj.to/predni-linie-2011-sd-cz-titulky-mp4/c87757728860c807) (ID 29394657) | [Sdílej 34710405](https://sdilej.cz/34710405/predni-linie-2011-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:04.241414+00:00 |
 | [Případ ztracené kozy (2021) 720p CZ Titulky](https://prehraj.to/pripad-ztracene-kozy-2021-720p-cz-titulky-mp4/79697781d4793526) (ID 29239233) | [Sdílej 34728895](https://sdilej.cz/34728895/pripad-ztracene-kozy-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:35.061143+00:00 |
 | [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:33.533509+00:00 |
 | [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:16.032171+00:00 |
