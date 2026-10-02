@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T01:47:09.513474+00:00
+Poslední aktualizace (UTC): 2026-10-02T01:47:18.762046+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 126.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 737, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 139, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 736, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 140, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -341,6 +341,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:50.902146+00:00 |
 | [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:46.720566+00:00 |
 | [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:48.636398+00:00 |
+| [Travis Scott: Koukej, mami, létám (2019) 1080p CZ Titulky](https://prehraj.to/travis-scott-koukej-mami-letam-2019-1080p-cz-titulky-mp4/9c55665abc1d9268) (ID 29287746) | [Sdílej 34709233](https://sdilej.cz/34709233/travis-scott-koukej-mami-letam-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:18.761892+00:00 |
 | [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:53.235335+00:00 |
 | [Třetí poločas (2012) SD CZ Titulky](https://prehraj.to/treti-polocas-2012-sd-cz-titulky-mkv/a7604740782d512f) (ID 29376136) | [Sdílej 34816306](https://sdilej.cz/34816306/the.third.half.2012.dvdrip.x264.ac-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T18:39:51.359252+00:00 |
 | [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:37:06.687709+00:00 |
