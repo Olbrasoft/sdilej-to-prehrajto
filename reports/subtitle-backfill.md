@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T09:37:53.072982+00:00
+Poslední aktualizace (UTC): 2026-10-02T09:38:15.763000+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 154.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 635, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 236, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 634, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 237, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
 
 ## K ručnímu doplnění nebo ověření
 
@@ -220,6 +220,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Ice Guardians (2016) SD CZ Titulky](https://prehraj.to/ice-guardians-2016-sd-cz-titulky-avi/513ea5ea0677fe5a) (ID 29212744) | [Sdílej 23694462](https://sdilej.cz/23694462/ice-guardians-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:27.941086+00:00 |
 | [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:18.492729+00:00 |
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:55.194110+00:00 |
+| [In Praise of Older Women (1978) SD CZ Titulky](https://prehraj.to/in-praise-of-older-women-1978-sd-cz-titulky-avi/deec8f83f528ca0c) (ID 29372496) | [Sdílej 25839274](https://sdilej.cz/25839274/in-praise-of-older-women-1978-can-drama.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:38:15.762894+00:00 |
 | [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:03.760051+00:00 |
 | [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:32.926858+00:00 |
 | [Isi a Ossi (2020) 1080p CZ Titulky](https://prehraj.to/isi-a-ossi-2020-1080p-cz-titulky-mp4/9a1e759aa7b8d101) (ID 29252432) | [Sdílej 34733122](https://sdilej.cz/34733122/isi-a-ossi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:45.242279+00:00 |
