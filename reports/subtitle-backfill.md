@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:10:40.442208+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:10:48.942923+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 419, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 447, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 418, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 448, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -259,6 +259,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:39.964292+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:57.473656+00:00 |
 | [Greystone Park (2012) SD CZ Titulky](https://prehraj.to/greystone-park-2012-sd-cz-titulky-avi/8af9662f0b917b08) (ID 29904695) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:31.399009+00:00 |
+| [Gólověda (2019) 1080p CZ Titulky](https://prehraj.to/goloveda-2019-1080p-cz-titulky-mp4/0926bd5b806c11e6) (ID 29573394) | [Sdílej 34773789](https://sdilej.cz/34773789/goloveda-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:48.942812+00:00 |
 | [H0us3 (2019) SD CZ Titulky](https://prehraj.to/h0us3-2019-sd-cz-titulky-avi/3a371c8e70c4dc0f) (ID 29242748) | [Sdílej 13982151](https://sdilej.cz/13982151/h0us3-2019-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:47.319773+00:00 |
 | [HOMUNCULUS (2021) SD CZ Titulky](https://prehraj.to/homunculus-2021-sd-cz-titulky-mkv/ce56cc4caba57929) (ID 29657930) | [Sdílej 29787022](https://sdilej.cz/29787022/homunculus-drama-fantasy-mysteriozni-2021-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:33.879582+00:00 |
 | [Hacker (2018) 1080p CZ Titulky](https://prehraj.to/hacker-2018-1080p-cz-titulky-mp4/16959bdfb90f9e9f) (ID 29537480) | [Sdílej 34774306](https://sdilej.cz/34774306/hacker-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:40.800434+00:00 |
