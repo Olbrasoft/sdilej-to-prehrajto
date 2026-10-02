@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:16:28.233204+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:16:36.829905+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 404, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 461, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 403, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 462, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -251,6 +251,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:34:37.279343+00:00 |
 | [Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky](https://prehraj.to/fortune-feimster-sladka-i-slana-2020-1080p-cz-titulky-mp4/c7c66027480e2347) (ID 29578268) | [Sdílej 34733296](https://sdilej.cz/34733296/fortune-feimster-sladka-i-slana-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:03.245101+00:00 |
 | [Fotky zítřka (2014) SD CZ Titulky](https://prehraj.to/fotky-zitrka-2014-sd-cz-titulky-avi/677f01701b137158) (ID 29377773) | [Sdílej 22554309](https://sdilej.cz/22554309/time-lapse-2014-sktit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:22.419218+00:00 |
+| [Fotograf a Pošťák: Vražda José Luise Cabezase (2022) 1080p CZ Titulky](https://prehraj.to/fotograf-a-postak-vrazda-jose-luise-cabezase-2022-1080p-cz-titulky-mp4/55023c4835a10b61) (ID 29581594) | [Sdílej 34727364](https://sdilej.cz/34727364/fotograf-a-postak-vrazda-jose-luise-cabezase-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:36.829795+00:00 |
 | [Fractured (2018) SD CZ Titulky](https://prehraj.to/fractured-2018-sd-cz-titulky-mkv/ccf8866a5cc6e4ff) (ID 29313928) | [Sdílej 10955141](https://sdilej.cz/10955141/fractured-2018-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:21.980484+00:00 |
 | [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:35.524030+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:31.850357+00:00 |
