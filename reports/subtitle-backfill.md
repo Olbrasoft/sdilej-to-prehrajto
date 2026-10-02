@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T04:38:45.829639+00:00
+Poslední aktualizace (UTC): 2026-10-02T04:38:56.023379+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 66.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 698, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 178, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 697, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 179, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -290,6 +290,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Požáry (2010) SD CZ Titulky](https://prehraj.to/pozary-2010-sd-cz-titulky-mkv/b5fb466d02e5e32a) (ID 29278839) | [Sdílej 14010999](https://sdilej.cz/14010999/incendies.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:26.589276+00:00 |
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:48.653556+00:00 |
 | [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:14.654898+00:00 |
+| [Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky](https://prehraj.to/pretty-guardian-sailor-moon-eternal-the-movie-2-cast-2023-1080p-cz-titulky-mp4/99b448b527daca12) (ID 29311259) | [Sdílej 34904096](https://sdilej.cz/34904096/pretty-guardian-sailor-moon-eternal-the-movie-2.-cast-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:56.023274+00:00 |
 | [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:53.735987+00:00 |
 | [Pásky z Nagana (2018) 1080p CZ Titulky](https://prehraj.to/pasky-z-nagana-2018-1080p-cz-titulky-avi/76c71685dd87f659) (ID 29175288) | [Sdílej 34670771](https://sdilej.cz/34670771/pasky-z-nagana-2018-dokument.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:10.009894+00:00 |
 | [Případ ztracené kozy (2021) 720p CZ Titulky](https://prehraj.to/pripad-ztracene-kozy-2021-720p-cz-titulky-mp4/79697781d4793526) (ID 29239233) | [Sdílej 34728895](https://sdilej.cz/34728895/pripad-ztracene-kozy-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:35.061143+00:00 |
