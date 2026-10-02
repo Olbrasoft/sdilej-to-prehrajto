@@ -172430,17 +172430,20 @@
       "attempts": []
     },
     "5016": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28175860",
+          "target_video_id": "29924993",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T17:58:28.616738+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28175860",
         "display_name": "Pilot: boj o přežití (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-02T17:40:38.871163+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T17:52:33.274685+00:00",
-        "lease_expires_at": "2026-10-02T23:52:33.274685+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29924993",
       "prepared": {
@@ -311828,5 +311831,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T17:54:47.321873+00:00"
+  "updated_at": "2026-10-02T17:58:28.616755+00:00"
 }
