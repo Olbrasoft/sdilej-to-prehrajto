@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T02:44:52.127332+00:00
+Poslední aktualizace (UTC): 2026-10-02T02:45:00.757705+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 106.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 719, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 157, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 718, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 158, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -387,6 +387,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Zazie dans le métro (1960) SD CZ Titulky](https://prehraj.to/zazie-dans-le-metro-1960-sd-cz-titulky-mp4/a56f88f9ee076962) (ID 29256773) | [Sdílej 34715255](https://sdilej.cz/34715255/zazie-dans-le-metro-1960-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:16.606288+00:00 |
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:33.604783+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:48.960080+00:00 |
+| [Ztracené duše (2019) 720p CZ Titulky](https://prehraj.to/ztracene-duse-2019-720p-cz-titulky-mp4/59c7130b99408fec) (ID 29295830) | [Sdílej 34638611](https://sdilej.cz/34638611/ztracene-duse-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:00.757569+00:00 |
 | [Ztracené písně (2023) 1080p CZ Titulky](https://prehraj.to/ztracene-pisne-2023-1080p-cz-titulky-mkv/1dc4ac4ba46a4f15) (ID 29710845) | [Sdílej 34025807](https://sdilej.cz/34025807/ztracene-pisne-2023-drama-komedie-japonsko-czdab.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:24.238376+00:00 |
 | [Záře (1996) 720p CZ Titulky](https://prehraj.to/zare-1996-720p-cz-titulky-mkv/188d8dda0e2b6921) (ID 29510085) | [Sdílej 32869545](https://sdilej.cz/32869545/shine-1996-1080p-fr-en-x264-ac3-mhdgz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:29.139969+00:00 |
 | [Zítřek už možná nepřijde (2003) SD CZ Titulky](https://prehraj.to/zitrek-uz-mozna-neprijde-2003-sd-cz-titulky-mp4/76f925bd5b940dfc) (ID 29279834) | [Sdílej 34751392](https://sdilej.cz/34751392/zitrek-uz-mozna-neprijde-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:09:34.545959+00:00 |
