@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:35:54.299536+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:36:18.091829+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 588, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 281, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 587, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 282, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -199,6 +199,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Fast Color (2018) 1080p CZ Titulky](https://prehraj.to/fast-color-2018-1080p-cz-titulky-mkv/e56a1a339bc42360) (ID 29293662) | [Sdílej 12912800](https://sdilej.cz/12912800/fast.color.2018.limited.1080p.bluray.x264-geckos.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:01.861291+00:00 |
 | [Fast Girls (2012) SD CZ Titulky](https://prehraj.to/fast-girls-2012-sd-cz-titulky-mp4/43919444d28ae1ec) (ID 29272988) | [Sdílej 34780103](https://sdilej.cz/34780103/fast-girls-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:06.187657+00:00 |
 | [Fetih 1453 (2012) SD CZ Titulky](https://prehraj.to/fetih-1453-2012-sd-cz-titulky-avi/9c8e788c36361b7f) (ID 29288120) | [Sdílej 15619435](https://sdilej.cz/15619435/fetih-1453-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:50.229450+00:00 |
+| [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:18.091699+00:00 |
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:14.924343+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:17.331046+00:00 |
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:34:37.279343+00:00 |
