@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:40:06.112546+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:40:13.483170+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 29, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 808, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 28, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 809, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -804,6 +804,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Slumber Party Massacre (2021) 1080p CZ Titulky](https://prehraj.to/slumber-party-massacre-2021-1080p-cz-titulky-mp4/e0c008b04d1089e9) (ID 29753180) | [Sdílej 34761202](https://sdilej.cz/34761202/slumber-party-massacre-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:26:51.790036+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636373+00:00 |
 | [Smrt do roku 2020 (2020) 1080p CZ Titulky](https://prehraj.to/smrt-do-roku-2020-2020-1080p-cz-titulky-avi/94fe54d6492c94af) (ID 29747667) | [Sdílej 22458495](https://sdilej.cz/22458495/smrt-do-roku-2020-death-to-2020-2020-komedie-dokument-1920x1080p.-en-ct-title.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:21:34.662078+00:00 |
+| [Smrt za oponou (1967) 1080p CZ Titulky](https://prehraj.to/smrt-za-oponou-1967-1080p-cz-titulky-mkv/ab1104ce142dbcfe) (ID 29806237) | [Sdílej 34922724](https://sdilej.cz/34922724/smrt-za-oponou-1967-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:13.483057+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:35.884649+00:00 |
 | [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:04.513929+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:11.454401+00:00 |
