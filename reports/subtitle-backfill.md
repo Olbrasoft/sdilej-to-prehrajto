@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:52:21.136741+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:52:32.503547+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 275, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 583, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 274, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 584, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -593,6 +593,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:51:44.059751+00:00 |
 | [Scare Campaign (2016) 720p CZ Titulky](https://prehraj.to/scare-campaign-2016-720p-cz-titulky-mkv/a7b69d5133d273bc) (ID 29609224) | [Sdílej 34470083](https://sdilej.cz/34470083/scare-campaign.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:24:22.930348+00:00 |
 | [Scarlett (2020) 1080p CZ Titulky](https://prehraj.to/scarlett-2020-1080p-cz-titulky-mp4/206e601c2c5996ee) (ID 29575738) | [Sdílej 34773181](https://sdilej.cz/34773181/scarlett-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:15:22.448909+00:00 |
+| [Schlussmacher (2013) SD CZ Titulky](https://prehraj.to/schlussmacher-2013-sd-cz-titulky-mp4/e885ad18f9bd10f8) (ID 29648017) | [Sdílej 34739355](https://sdilej.cz/34739355/schlussmacher-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:52:32.503426+00:00 |
 | [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:45.243575+00:00 |
 | [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:41.260990+00:00 |
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:17.708809+00:00 |
