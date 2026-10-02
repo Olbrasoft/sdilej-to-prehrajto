@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:03:50.419005+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:04:03.969086+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 111, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 732, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 110, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 733, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -490,6 +490,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Lillian (2019) 1080p CZ Titulky](https://prehraj.to/lillian-2019-1080p-cz-titulky-mkv/8de6a16d12076fda) (ID 29649257) | [Sdílej 13568885](https://sdilej.cz/13568885/lillian-2019-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:53.521023+00:00 |
 | [Lisztomania (1975) SD CZ Titulky](https://prehraj.to/lisztomania-1975-sd-cz-titulky-mp4/4e5497aab17eb703) (ID 29242713) | [Sdílej 34787708](https://sdilej.cz/34787708/lisztomania-1975-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:26.937889+00:00 |
 | [Little Evil (2017) 720p CZ Titulky](https://prehraj.to/little-evil-2017-720p-cz-titulky-mkv/254b95fa1f1ce54e) (ID 29721068) | [Sdílej 7794278](https://sdilej.cz/7794278/little.evil.2017.720p.webrip.x264-strife.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:15.409363+00:00 |
+| [Locked Up (2017) SD CZ Titulky](https://prehraj.to/locked-up-2017-sd-cz-titulky-avi/1613fe3976f1ea40) (ID 29731440) | [Sdílej 10190664](https://sdilej.cz/10190664/locked-up-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:04:03.968955+00:00 |
 | [Lola (2019) 1080p CZ Titulky](https://prehraj.to/lola-2019-1080p-cz-titulky-mp4/27e25501dfe4af0c) (ID 29630740) | [Sdílej 34734181](https://sdilej.cz/34734181/lola-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:35:44.095316+00:00 |
 | [Lola Versus (2012) SD CZ Titulky](https://prehraj.to/lola-versus-2012-sd-cz-titulky-mp4/1459c0199f11857d) (ID 29723282) | [Sdílej 34780036](https://sdilej.cz/34780036/lola-versus-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:02:28.598158+00:00 |
 | [Lord of the Dance: Dangerous Games (2014) 1080p CZ Titulky](https://prehraj.to/lord-of-the-dance-dangerous-games-2014-1080p-cz-titulky-avi/b13d52a7e0a9faba) (ID 29717316) | [Sdílej 27726623](https://sdilej.cz/27726623/lord-of-the-dance-dangerous-games-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:49:42.542147+00:00 |
