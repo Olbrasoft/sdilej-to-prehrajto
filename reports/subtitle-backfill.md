@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T05:37:24.078377+00:00
+Poslední aktualizace (UTC): 2026-10-02T05:37:30.905865+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 46.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 686, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 189, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 685, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 190, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -319,6 +319,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncert
 | [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:41.260990+00:00 |
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:36.622100+00:00 |
 | [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:27.911032+00:00 |
+| [Shake Hands with the Devil (2007) 720p CZ Titulky](https://prehraj.to/shake-hands-with-the-devil-2007-720p-cz-titulky-mp4/f5836061dc777a34) (ID 29318910) | [Sdílej 34751222](https://sdilej.cz/34751222/shake-hands-with-the-devil-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:30.905713+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T23:29:44.660518+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:55.851138+00:00 |
 | [Sing Street (2016) SD CZ Titulky](https://prehraj.to/sing-street-2016-sd-cz-titulky-mp4/c3894a4ddc1e027f) (ID 29290332) | [Sdílej 34774971](https://sdilej.cz/34774971/sing-street-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:10.143342+00:00 |
