@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:00:27.859131+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:00:40.345961+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 468, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 399, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 19, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 467, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 400, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 19, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -425,6 +425,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Po bouři (2016) SD CZ Titulky](https://prehraj.to/po-bouri-2016-sd-cz-titulky-avi/edde76ac660cfec3) (ID 29411862) | [Sdílej 8877514](https://sdilej.cz/8877514/po-bouri-after-the-storm-2016-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:40:25.690512+00:00 |
 | [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:50.305539+00:00 |
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:58.092082+00:00 |
+| [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:00:40.345860+00:00 |
 | [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:58.704459+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:34.063806+00:00 |
 | [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:45.772038+00:00 |
