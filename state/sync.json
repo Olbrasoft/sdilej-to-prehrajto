@@ -235116,6 +235116,12 @@
         "source_id": "25429233",
         "display_name": "Nepřemožitelné zlo (2005) SD CZ Dabing",
         "planned_at": "2026-10-02T10:01:33.415302+00:00"
+      },
+      "claim": {
+        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-0",
+        "claimed_at": "2026-10-02T10:02:15.389996+00:00",
+        "lease_expires_at": "2026-10-02T16:02:15.389996+00:00",
+        "run_id": "36984991931"
       }
     },
     "22191": {
@@ -284953,17 +284959,19 @@
       "attempts": []
     },
     "7775": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26237409",
+          "target_video_id": "29917015",
+          "permanent": false,
+          "attempted_at": "2026-10-02T10:02:16.314647+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26237409",
         "display_name": "Zohan: Krycí jméno Kadeřník (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-02T08:44:00.317046+00:00"
-      },
-      "claim": {
-        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-1",
-        "claimed_at": "2026-10-02T09:59:32.204348+00:00",
-        "lease_expires_at": "2026-10-02T15:59:32.204348+00:00",
-        "run_id": "36984991931"
       },
       "previous_target_id": "29917015",
       "prepared": {
@@ -306815,5 +306823,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T10:02:12.999510+00:00"
+  "updated_at": "2026-10-02T10:02:16.314664+00:00"
 }
