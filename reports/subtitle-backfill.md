@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:17:01.848399+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:17:10.053098+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 400, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 465, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 399, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 466, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -452,6 +452,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Ošklivá nevlastní sestra (2025) 1080p CZ Titulky](https://prehraj.to/oskliva-nevlastni-sestra-2025-1080p-cz-titulky-mp4/0f6b247d0663e22d) (ID 29450742) | [Sdílej 34899920](https://sdilej.cz/34899920/oskliva-nevlastni-sestra-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:54.854132+00:00 |
 | [P!nk: All I Know So Far (2021) 720p CZ Titulky](https://prehraj.to/p-nk-all-i-know-so-far-2021-720p-cz-titulky-mp4/f56c61ef61113436) (ID 29412148) | [Sdílej 34772758](https://sdilej.cz/34772758/p-nk-all-i-know-so-far-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:18.289786+00:00 |
 | [Paddleton (2019) 1080p CZ Titulky](https://prehraj.to/paddleton-2019-1080p-cz-titulky-mp4/8063bd130acfec92) (ID 29339814) | [Sdílej 34733979](https://sdilej.cz/34733979/paddleton-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:01.777212+00:00 |
+| [Paintball Massacre (2020) 720p CZ Titulky](https://prehraj.to/paintball-massacre-2020-720p-cz-titulky-mp4/5677884787b5fce8) (ID 29582168) | [Sdílej 34773203](https://sdilej.cz/34773203/paintball-massacre-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:10.052990+00:00 |
 | [Palmy ve sněhu (2015) SD CZ Titulky](https://prehraj.to/palmy-ve-snehu-2015-sd-cz-titulky-mp4/b9be3e4c9f3f1024) (ID 29407324) | [Sdílej 34738002](https://sdilej.cz/34738002/palmy-ve-snehu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:08.309355+00:00 |
 | [Paltan (2018) SD CZ Titulky](https://prehraj.to/paltan-2018-sd-cz-titulky-avi/c7574d0d7f7b9664) (ID 29301260) | [Sdílej 11250607](https://sdilej.cz/11250607/paltan-2018-sk-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:42.645311+00:00 |
 | [Paměť – zrod Vetřelce (2019) 1080p CZ Titulky](https://prehraj.to/pamet-zrod-vetrelce-2019-1080p-cz-titulky-mkv/256581c34fb010db) (ID 29468339) | [Sdílej 26720741](https://sdilej.cz/26720741/memory.the.origins.of.alien.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:24.011430+00:00 |
