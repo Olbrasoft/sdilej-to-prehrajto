@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:41:14.281105+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:41:23.837497+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 23, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 814, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 22, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 815, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -711,6 +711,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Potulný samuraj Kenšin: Konec (2021) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-2021-1080p-cz-titulky-mp4/04355bfc74f6fc1d) (ID 29358418) | [Sdílej 34697415](https://sdilej.cz/34697415/potulny-samuraj-kensin-konec-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:06.422038+00:00 |
 | [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:33:52.133474+00:00 |
 | [Pouť za štěstím (1939) SD CZ Titulky](https://prehraj.to/pout-za-stestim-1939-sd-cz-titulky-mp4/6bce416158810883) (ID 29611281) | [Sdílej 34756215](https://sdilej.cz/34756215/pout-za-stestim-1939-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:28:32.451751+00:00 |
+| [Povedení strýčkové (1963) 720p CZ Titulky](https://prehraj.to/povedeni-stryckove-1963-720p-cz-titulky-mp4/7e57d63be522d6f1) (ID 29825249) | [Sdílej 34756035](https://sdilej.cz/34756035/povedeni-stryckove-1963-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:41:23.837392+00:00 |
 | [Povstání mrtvých: Konečná hra (2016) 720p CZ Titulky](https://prehraj.to/povstani-mrtvych-konecna-hra-2016-720p-cz-titulky-mp4/b7b10bc8fcfe48ef) (ID 29740133) | [Sdílej 34770373](https://sdilej.cz/34770373/povstani-mrtvych-konecna-hra-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:17:27.709798+00:00 |
 | [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:10.729513+00:00 |
 | [Požehnání (2021) SD CZ Titulky](https://prehraj.to/pozehnani-2021-sd-cz-titulky-avi/3906a26d23e1f6d3) (ID 29785951) | [Sdílej 24242950](https://sdilej.cz/24242950/benediction.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:31:38.063538+00:00 |
