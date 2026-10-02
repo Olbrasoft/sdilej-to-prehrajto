@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T04:38:02.361858+00:00
+Poslední aktualizace (UTC): 2026-10-02T04:38:14.731433+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 66.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 702, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 174, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 701, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 175, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -233,6 +233,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:09.513360+00:00 |
 | [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:18.242700+00:00 |
 | [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:21:32.922750+00:00 |
+| [Mardaani 2 (2019) 1080p CZ Titulky](https://prehraj.to/mardaani-2-2019-1080p-cz-titulky-mp4/161344f2866a3af7) (ID 29306854) | [Sdílej 34711873](https://sdilej.cz/34711873/mardaani-2-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:14.731333+00:00 |
 | [Marie-Octobre (1959) 720p CZ Titulky](https://prehraj.to/marie-octobre-1959-720p-cz-titulky-mp4/f86671e2cf85d19d) (ID 29261777) | [Sdílej 32217300](https://sdilej.cz/32217300/marie-octobre-1959-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:30:53.132638+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:18:09.282148+00:00 |
 | [Mejdan v Malibu (2015) SD CZ Titulky](https://prehraj.to/mejdan-v-malibu-2015-sd-cz-titulky-mkv/349e85c5ed394c72) (ID 29908598) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T23:29:56.662924+00:00 |
