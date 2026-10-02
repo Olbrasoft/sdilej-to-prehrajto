@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:57:40.800543+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:57:49.834256+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 475, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 393, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 474, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 394, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -104,6 +104,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:47.208167+00:00 |
 | [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:34.444961+00:00 |
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:53.785399+00:00 |
+| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:49.834141+00:00 |
 | [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:15.704467+00:00 |
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:40:30.029359+00:00 |
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:42.342612+00:00 |
