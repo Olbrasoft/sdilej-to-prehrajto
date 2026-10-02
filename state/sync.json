@@ -242220,17 +242220,20 @@
       }
     },
     "19910": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35042815",
+          "target_video_id": "29925081",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T18:02:20.196897+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35042815",
         "display_name": "Z for Zachariah (2015) SD CZ Titulky",
         "planned_at": "2026-10-02T17:40:40.238250+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T17:58:51.489453+00:00",
-        "lease_expires_at": "2026-10-02T23:58:51.489453+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29925081",
       "prepared": {
@@ -311866,5 +311869,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T18:00:07.926323+00:00"
+  "updated_at": "2026-10-02T18:02:20.196914+00:00"
 }
