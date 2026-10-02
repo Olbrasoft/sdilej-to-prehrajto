@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:52:01.784575+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:52:10.654185+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 135, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 710, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 134, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 711, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -177,6 +177,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:23.163908+00:00 |
 | [Dementia 13 (2017) SD CZ Titulky](https://prehraj.to/dementia-13-2017-sd-cz-titulky-avi/2e95f28c76e8cae3) (ID 29648315) | [Sdílej 8505109](https://sdilej.cz/8505109/dementia-13-thriller-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:53:40.451580+00:00 |
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:47.208167+00:00 |
+| [Demony wojny wg Goi (1998) SD CZ Titulky](https://prehraj.to/demony-wojny-wg-goi-1998-sd-cz-titulky-mp4/42bf8d5180a87ad4) (ID 29719575) | [Sdílej 34784059](https://sdilej.cz/34784059/demony-wojny-wg-goi-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:10.654085+00:00 |
 | [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:34.444961+00:00 |
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:53.785399+00:00 |
 | [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:49.834141+00:00 |
