@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:03:17.955893+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:03:30.332888+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 453, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 413, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 452, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 414, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -69,6 +69,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Border Hunters (2025) 1080p CZ Titulky](https://prehraj.to/border-hunters-2025-1080p-cz-titulky-mkv/14837bb8e6ca4c99) (ID 29614176) | [Sdílej 32794111](https://sdilej.cz/32794111/border.hunters.-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:03.679357+00:00 |
 | [Breakdown Lane (2017) SD CZ Titulky](https://prehraj.to/breakdown-lane-2017-sd-cz-titulky-mkv/bf91a3292885f16f) (ID 29658008) | [Sdílej 34798204](https://sdilej.cz/34798204/breakdown.lane.2017.720p.bluray.x264-getit.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:33.879540+00:00 |
 | [Breeder (2020) 1080p CZ Titulky](https://prehraj.to/breeder-2020-1080p-cz-titulky-mkv/205b001c0a9a5374) (ID 29912189) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T08:39:54.362234+00:00 |
+| [Brian Banks (2018) SD CZ Titulky](https://prehraj.to/brian-banks-2018-sd-cz-titulky-avi/a24a7f611603d7d6) (ID 29560923) | [Sdílej 14043585](https://sdilej.cz/14043585/brian.banks.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:30.332773+00:00 |
 | [Brimstone (2016) 1080p CZ Titulky](https://prehraj.to/brimstone-2016-1080p-cz-titulky-mkv/2956b0c605fba62a) (ID 29428108) | [Sdílej 30615192](https://sdilej.cz/30615192/brimstone.2016.1080p.web-dl.x264-fgt-en-dub-sk-subtitles.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:19.543480+00:00 |
 | [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:48.080653+00:00 |
 | [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:07.252766+00:00 |
