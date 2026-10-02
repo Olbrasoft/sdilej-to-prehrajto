@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:52:31.883877+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:52:45.599220+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 132, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 713, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 131, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 714, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -874,6 +874,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Travis Scott: Koukej, mami, létám (2019) 1080p CZ Titulky](https://prehraj.to/travis-scott-koukej-mami-letam-2019-1080p-cz-titulky-mp4/9c55665abc1d9268) (ID 29287746) | [Sdílej 34709233](https://sdilej.cz/34709233/travis-scott-koukej-mami-letam-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:18.761892+00:00 |
 | [Trench 11 (2017) SD CZ Titulky](https://prehraj.to/trench-11-2017-sd-cz-titulky-avi/1aae0d02ef599c80) (ID 29912109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:40:01.776004+00:00 |
 | [True: Zimní přání (2019) 1080p CZ Titulky](https://prehraj.to/true-zimni-prani-2019-1080p-cz-titulky-mp4/846581e6f4658021) (ID 29587566) | [Sdílej 34733680](https://sdilej.cz/34733680/true-zimni-prani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:39.053523+00:00 |
+| [Truth or Dare (2012) SD CZ Titulky](https://prehraj.to/truth-or-dare-2012-sd-cz-titulky-avi/c702cdbdf3fcc441) (ID 29720100) | [Sdílej 34453140](https://sdilej.cz/34453140/truth-or-dare.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:45.599104+00:00 |
 | [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:24:36.746248+00:00 |
 | [Tušení (2020) SD CZ Titulky](https://prehraj.to/tuseni-2020-sd-cz-titulky-avi/3134ed9adf8ea04a) (ID 29638596) | [Sdílej 13829355](https://sdilej.cz/13829355/tuseni-2020-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:45:00.785039+00:00 |
 | [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:53.235335+00:00 |
