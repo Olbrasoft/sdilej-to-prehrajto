@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:50:24.011527+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:50:33.449246+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 511, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 357, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 510, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 358, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -228,6 +228,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Geomgaek (2020) 1080p CZ Titulky](https://prehraj.to/geomgaek-2020-1080p-cz-titulky-mkv/3923dd4af370e51a) (ID 29468294) | [Sdílej 15095618](https://sdilej.cz/15095618/geomgaek.2020-the.swordsman.sktit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:15.092138+00:00 |
 | [George Michael: Freedom (2017) 1080p CZ Titulky](https://prehraj.to/george-michael-freedom-2017-1080p-cz-titulky-mp4/a9afcb03560f32b0) (ID 29394134) | [Sdílej 34774695](https://sdilej.cz/34774695/george-michael-freedom-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:45:59.984804+00:00 |
 | [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:41.740977+00:00 |
+| [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:33.449133+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:39.964292+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:57.473656+00:00 |
 | [Greystone Park (2012) SD CZ Titulky](https://prehraj.to/greystone-park-2012-sd-cz-titulky-avi/8af9662f0b917b08) (ID 29904695) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:31.399009+00:00 |
