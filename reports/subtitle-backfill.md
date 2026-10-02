@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:22:10.883039+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:22:21.511131+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 209, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 643, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 208, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 644, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -405,6 +405,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Klondike (2022) 1080p CZ Titulky](https://prehraj.to/klondike-2022-1080p-cz-titulky-mkv/a6add9704ae9ee77) (ID 29883168) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:04:04.354111+00:00 |
 | [Kluci v mém životě (2001) 1080p CZ Titulky](https://prehraj.to/kluci-v-mem-zivote-2001-1080p-cz-titulky-mp4/199ac8145f39695a) (ID 29285410) | [Sdílej 33201728](https://sdilej.cz/33201728/riding-in-cars-with-boys-2001-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:54.797100+00:00 |
 | [Kluk ve světě příšer (2015) 1080p CZ Titulky](https://prehraj.to/kluk-ve-svete-priser-2015-1080p-cz-titulky-mkv/52cbdca1a6a55353) (ID 29559657) | [Sdílej 12089240](https://sdilej.cz/12089240/bakemono-no-ko-bd-1080p-flac-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:34.385834+00:00 |
+| [Knězovy děti (2013) 1080p CZ Titulky](https://prehraj.to/knezovy-deti-2013-1080p-cz-titulky-mp4/ccfc423ad46db384) (ID 29676052) | [Sdílej 27941343](https://sdilej.cz/27941343/knazove-deti-2013.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:21.510994+00:00 |
 | [Kokuhaku (2010) 1080p CZ Titulky](https://prehraj.to/kokuhaku-2010-1080p-cz-titulky-mkv/b2c99d3e607ebcba) (ID 29560872) | [Sdílej 7861515](https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:36.370007+00:00 |
 | [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:55:16.942165+00:00 |
 | [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:47.349855+00:00 |
