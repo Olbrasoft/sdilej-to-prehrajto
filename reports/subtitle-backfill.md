@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:16:53.087922+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:17:03.390834+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 18, `existing_tracks_uncertain`: 140, `pending`: 80, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 762, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 18, `existing_tracks_uncertain`: 140, `pending`: 79, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 763, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -996,6 +996,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Woodstock 99: Mír, láska a běsnění (2021) 1080p CZ Titulky](https://prehraj.to/woodstock-99-mir-laska-a-besneni-2021-1080p-cz-titulky-mp4/7ca94472134e7fba) (ID 29445059) | [Sdílej 34728066](https://sdilej.cz/34728066/woodstock-99-mir-laska-a-besneni-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:15.525289+00:00 |
 | [World of Tomorrow (2015) 720p CZ Titulky](https://prehraj.to/world-of-tomorrow-2015-720p-cz-titulky-mp4/1f87f82a6017c286) (ID 29289142) | [Sdílej 34737901](https://sdilej.cz/34737901/world-of-tomorrow-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:57.320839+00:00 |
 | [Wražda (2021) 1080p CZ Titulky](https://prehraj.to/wrazda-2021-1080p-cz-titulky-mp4/6f5fa4bd404b0c02) (ID 29911307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:59.683072+00:00 |
+| [Wunderland (2018) SD CZ Titulky](https://prehraj.to/wunderland-2018-sd-cz-titulky-mp4/07eb74af3d9ffaa6) (ID 29738759) | [Sdílej 34716591](https://sdilej.cz/34716591/wunderland-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:17:03.390695+00:00 |
 | [Xtreme (2021) 1080p CZ Titulky](https://prehraj.to/xtreme-2021-1080p-cz-titulky-mp4/5a83197136ae94a8) (ID 29911838) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:40:01.776072+00:00 |
 | [Yao (2019) SD CZ Titulky](https://prehraj.to/yao-2019-sd-cz-titulky-mp4/1547d59a3602c700) (ID 29631456) | [Sdílej 34763000](https://sdilej.cz/34763000/yao-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:35.785106+00:00 |
 | [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:42.078665+00:00 |
