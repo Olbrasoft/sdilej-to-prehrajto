@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:45:51.329665+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:46:06.201439+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 1, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 835, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 836, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -34,6 +34,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:45.169268+00:00 |
 | [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:55.917925+00:00 |
 | [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:45.829540+00:00 |
+| [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:46:06.201336+00:00 |
 | [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:32.382556+00:00 |
 | [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:22.681551+00:00 |
 | [Agent Game (2022) 1080p CZ Titulky](https://prehraj.to/agent-game-2022-1080p-cz-titulky-avi/d9f07e78ab834281) (ID 29734967) | [Sdílej 23674241](https://sdilej.cz/23674241/agent-game-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:09:08.411750+00:00 |
