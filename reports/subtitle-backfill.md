@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:23:10.845881+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:23:24.628526+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 203, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 648, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 202, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 649, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -95,6 +95,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Blood Bags (2018) SD CZ Titulky](https://prehraj.to/blood-bags-2018-sd-cz-titulky-mkv/86be779f40539a79) (ID 29571581) | [Sdílej 12741441](https://sdilej.cz/12741441/blood.bags.2018.sk.sub.hdrip.ac3.x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:54.134525+00:00 |
 | [Blood Is Blood (2016) SD CZ Titulky](https://prehraj.to/blood-is-blood-2016-sd-cz-titulky-mp4/372fc0d943c961bc) (ID 29392783) | [Sdílej 34737840](https://sdilej.cz/34737840/blood-is-blood-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:08.011479+00:00 |
 | [Blood Machines (2019) 1080p CZ Titulky](https://prehraj.to/blood-machines-2019-1080p-cz-titulky-mkv/e96282f111c55a7e) (ID 29574743) | [Sdílej 13672105](https://sdilej.cz/13672105/blood.machines.2019.e01-e03.1080p.amzn.webrip.x264.dts-hd.ma-creative24.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:11:07.971553+00:00 |
+| [Blood Shot (2013) SD CZ Titulky](https://prehraj.to/blood-shot-2013-sd-cz-titulky-mp4/391206f73351e444) (ID 29679551) | [Sdílej 31936352](https://sdilej.cz/31936352/blood-shot-2013-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:23:24.628416+00:00 |
 | [Blood Vessel (2019) SD CZ Titulky](https://prehraj.to/blood-vessel-2019-sd-cz-titulky-mkv/e122c56107dd526c) (ID 29912378) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T08:39:56.401484+00:00 |
 | [Blue Bayou (2021) 1080p CZ Titulky](https://prehraj.to/blue-bayou-2021-1080p-cz-titulky-mp4/c0e62c30ff25a742) (ID 29415797) | [Sdílej 34773049](https://sdilej.cz/34773049/blue-bayou-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:06.469262+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:49.394996+00:00 |
