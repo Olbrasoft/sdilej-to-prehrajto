@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:31:48.829331+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:31:59.591354+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 21, `existing_tracks_uncertain`: 140, `pending`: 40, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 798, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 21, `existing_tracks_uncertain`: 140, `pending`: 39, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 799, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -599,6 +599,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Nattevagten (1994) SD CZ Titulky](https://prehraj.to/nattevagten-1994-sd-cz-titulky-avi/4383712abed91a80) (ID 29463717) | [Sdílej 33205327](https://sdilej.cz/33205327/hlidac-mrtvych-nattevagten-1994-horor-denmark-cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:10.311116+00:00 |
 | [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:34.226443+00:00 |
 | [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:37:35.366978+00:00 |
+| [Nejlepší show (2000) 1080p CZ Titulky](https://prehraj.to/nejlepsi-show-2000-1080p-cz-titulky-mkv/bf8ea7356c1d11ae) (ID 29787090) | [Sdílej 28247199](https://sdilej.cz/28247199/best-in-show-2000-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:31:59.591254+00:00 |
 | [Nejrychlejší (2011) 1080p CZ Titulky](https://prehraj.to/nejrychlejsi-2011-1080p-cz-titulky-mp4/403edc2ab59516a4) (ID 29505034) | [Sdílej 34747575](https://sdilej.cz/34747575/nejrychlejsi-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:53:09.650277+00:00 |
 | [Nekonečná cesta (2017) 1080p CZ Titulky](https://prehraj.to/nekonecna-cesta-2017-1080p-cz-titulky-mkv/16875fb3e5f80dfe) (ID 29633019) | [Sdílej 10615882](https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:11.863327+00:00 |
 | [Nekonečná smyčka (2022) 1080p CZ Titulky](https://prehraj.to/nekonecna-smycka-2022-1080p-cz-titulky-mp4/0b2ea40299ea8b7b) (ID 29751340) | [Sdílej 34727038](https://sdilej.cz/34727038/nekonecna-smycka-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:25:52.325068+00:00 |
