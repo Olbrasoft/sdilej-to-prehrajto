@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:22:30.981255+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:22:40.575738+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 207, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 645, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 206, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 646, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -473,6 +473,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Milfs vs. Zombies (2015) SD CZ Titulky](https://prehraj.to/milfs-vs-zombies-2015-sd-cz-titulky-mkv/2ebc8b57b29b02ae) (ID 29904306) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:04:11.774016+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:20.063356+00:00 |
 | [Milovaná (2010) 1080p CZ Titulky](https://prehraj.to/milovana-2010-1080p-cz-titulky-mkv/b85d1bd0fef86acf) (ID 29382058) | [Sdílej 20917147](https://sdilej.cz/20917147/till.det.som.ar.vackert.2010.1080p.web-dl.dd5.1.h.264-pfxcpi.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:35:04.674229+00:00 |
+| [Ministranti (2025) 1080p CZ Titulky](https://prehraj.to/ministranti-2025-1080p-cz-titulky-mkv/80d3be75247f9c94) (ID 29676188) | [Sdílej 33479712](https://sdilej.cz/33479712/ministranci-2025-1080p-web-dl-x264-odkaz-na-titulky.mkv.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:40.575616+00:00 |
 | [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:43.577383+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:01.494625+00:00 |
 | [Mob Town (2019) 1080p CZ Titulky](https://prehraj.to/mob-town-2019-1080p-cz-titulky-mkv/7f8cdbb765879ad1) (ID 29634038) | [Sdílej 12783098](https://sdilej.cz/12783098/mob.town.2019.1080p.web-dl.dd5.1.h264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:42:07.198242+00:00 |
