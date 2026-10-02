@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T08:42:49.736022+00:00
+Poslední aktualizace (UTC): 2026-10-02T08:42:57.481734+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 647, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 224, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 646, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 225, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
 
 ## K ručnímu doplnění nebo ověření
 
@@ -392,6 +392,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Tenkrát v Číně 3 (1992) 1080p CZ Titulky](https://prehraj.to/tenkrat-v-cine-3-1992-1080p-cz-titulky-mkv/c93281c28e13d200) (ID 29493403) | [Sdílej 33480035](https://sdilej.cz/33480035/once.upon.a.time.in.china.ii.1992.multi.vfi.1080p.hdlight.ac3.5.1.h264-lihdl.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T03:39:06.171048+00:00 |
 | [Texas Rangers (2001) 720p CZ Titulky](https://prehraj.to/texas-rangers-2001-720p-cz-titulky-mkv/d07634f5e8c38ab3) (ID 29751439) | [Sdílej 34347758](https://sdilej.cz/34347758/texas-rangers-2001-akcni-western-usa-cztit.hd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:07.513322+00:00 |
 | [The Alpinist (2021) 1080p CZ Titulky](https://prehraj.to/the-alpinist-2021-1080p-cz-titulky-mkv/5eb14da44aa5aaef) (ID 29316522) | [Sdílej 18646868](https://sdilej.cz/18646868/the.alpinist.2021.1080p.web-dl.dd5.1.h.264-tepes.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:44.977867+00:00 |
+| [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:42:57.481625+00:00 |
 | [The Canyons (2013) 720p CZ Titulky](https://prehraj.to/the-canyons-2013-720p-cz-titulky-mkv/7d16df0f32ed1f6b) (ID 29089664) | [Sdílej 16550507](https://sdilej.cz/16550507/the-canyons-2013-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:25.519806+00:00 |
 | [The Captives (2024) 1080p CZ Titulky](https://prehraj.to/the-captives-2024-1080p-cz-titulky-mkv/533a444dc80e40dd) (ID 29218606) | [Sdílej 29310288](https://sdilej.cz/29310288/the.captives.2024.1080p.x265-slov.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:09:05.772650+00:00 |
 | [The Car: Road to Revenge (2019) SD CZ Titulky](https://prehraj.to/the-car-road-to-revenge-2019-sd-cz-titulky-avi/ddf9680e4a06a238) (ID 29914720) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T08:40:02.398464+00:00 |
