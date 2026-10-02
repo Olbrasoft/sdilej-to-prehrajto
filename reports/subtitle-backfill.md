@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T08:43:16.134334+00:00
+Poslední aktualizace (UTC): 2026-10-02T08:43:22.093470+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 644, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 227, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 643, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 228, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
 
 ## K ručnímu doplnění nebo ověření
 
@@ -475,6 +475,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:00.083258+00:00 |
 | [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:19.074613+00:00 |
 | [Šťastný Lazzaro (2018) 1080p CZ Titulky](https://prehraj.to/stastny-lazzaro-2018-1080p-cz-titulky-mp4/df76be4cbe7979cf) (ID 29887528) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:27.326608+00:00 |
+| [Žaluji! (2019) 1080p CZ Titulky](https://prehraj.to/zaluji-2019-1080p-cz-titulky-mkv/a468d1ba2275760b) (ID 29364803) | [Sdílej 13347965](https://sdilej.cz/13347965/l-ufficiale-e-la-spia-j-accuse-2019-ita-fre-ac3-5.1-bdrip-1080p-h264-armor-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:22.093323+00:00 |
 | [Život v plné rychlosti: Příběh Juana Manuela Fangia (2020) 1080p CZ Titulky](https://prehraj.to/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-1080p-cz-titulky-mp4/5c3ac858474d20d1) (ID 29213500) | [Sdílej 34712013](https://sdilej.cz/34712013/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T16:39:04.919815+00:00 |
 
 ## Dočasné chyby a čekání na potvrzení
