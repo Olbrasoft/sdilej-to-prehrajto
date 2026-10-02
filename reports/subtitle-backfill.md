@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:28:35.480397+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:28:45.282146+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 20, `existing_tracks_uncertain`: 140, `pending`: 45, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 795, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 20, `existing_tracks_uncertain`: 140, `pending`: 44, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 796, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -775,6 +775,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:55.851138+00:00 |
 | [Sibir, Monamur (2011) SD CZ Titulky](https://prehraj.to/sibir-monamur-2011-sd-cz-titulky-avi/e5ecee3c6b6c3925) (ID 29387829) | [Sdílej 6812640](https://sdilej.cz/6812640/sibir-monamur-siberia-monamour-2011-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:36.932362+00:00 |
 | [Siccîn 4 (2017) 1080p CZ Titulky](https://prehraj.to/siccin-4-2017-1080p-cz-titulky-mp4/46be8adc844ab0bf) (ID 29634247) | [Sdílej 34774517](https://sdilej.cz/34774517/sicc-n-4-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:42:21.129379+00:00 |
+| [Simona Kossak (2024) 1080p CZ Titulky](https://prehraj.to/simona-kossak-2024-1080p-cz-titulky-mp4/b4efffee36781655) (ID 29755186) | [Sdílej 34724782](https://sdilej.cz/34724782/simona-kossak-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:28:45.282036+00:00 |
 | [Sing Street (2016) SD CZ Titulky](https://prehraj.to/sing-street-2016-sd-cz-titulky-mp4/c3894a4ddc1e027f) (ID 29290332) | [Sdílej 34774971](https://sdilej.cz/34774971/sing-street-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:10.143342+00:00 |
 | [Singham (2011) SD CZ Titulky](https://prehraj.to/singham-2011-sd-cz-titulky-mp4/9a63edd9bd9cea5e) (ID 29445959) | [Sdílej 34746723](https://sdilej.cz/34746723/singham-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:44.334583+00:00 |
 | [Singl na vdávání (2020) 1080p CZ Titulky](https://prehraj.to/singl-na-vdavani-2020-1080p-cz-titulky-mp4/993832c164970b56) (ID 29653123) | [Sdílej 34732130](https://sdilej.cz/34732130/singl-na-vdavani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:58:25.609836+00:00 |
