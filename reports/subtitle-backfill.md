@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:09:37.683176+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:09:45.938208+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 425, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 441, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 424, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 442, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -344,6 +344,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:22.643621+00:00 |
 | [Lisztomania (1975) SD CZ Titulky](https://prehraj.to/lisztomania-1975-sd-cz-titulky-mp4/4e5497aab17eb703) (ID 29242713) | [Sdílej 34787708](https://sdilej.cz/34787708/lisztomania-1975-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:26.937889+00:00 |
 | [Little Evil (2017) 720p CZ Titulky](https://prehraj.to/little-evil-2017-720p-cz-titulky-mkv/254b95fa1f1ce54e) (ID 29721068) | [Sdílej 7794278](https://sdilej.cz/7794278/little.evil.2017.720p.webrip.x264-strife.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:30.659167+00:00 |
+| [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:45.938088+00:00 |
 | [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:37.232724+00:00 |
 | [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:10.482142+00:00 |
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T07:40:25.400190+00:00 |
