@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:43:25.695645+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:43:45.826648+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 14, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 822, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 13, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 823, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -733,6 +733,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Pásky z Nagana (2018) 1080p CZ Titulky](https://prehraj.to/pasky-z-nagana-2018-1080p-cz-titulky-avi/76c71685dd87f659) (ID 29175288) | [Sdílej 34670771](https://sdilej.cz/34670771/pasky-z-nagana-2018-dokument.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:10.009894+00:00 |
 | [Přední linie (2011) SD CZ Titulky](https://prehraj.to/predni-linie-2011-sd-cz-titulky-mp4/c87757728860c807) (ID 29394657) | [Sdílej 34710405](https://sdilej.cz/34710405/predni-linie-2011-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:04.241414+00:00 |
 | [Příběh Rudého zla (2008) SD CZ Titulky](https://prehraj.to/pribeh-rudeho-zla-2008-sd-cz-titulky-mp4/a1e981fb5247c199) (ID 29564996) | [Sdílej 34781192](https://sdilej.cz/34781192/pribeh-rudeho-zla-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:19.850154+00:00 |
+| [Příběh z Tokia (1953) SD CZ Titulky](https://prehraj.to/pribeh-z-tokia-1953-sd-cz-titulky-avi/6aac07c152906537) (ID 29878868) | [Sdílej 32251531](https://sdilej.cz/32251531/pribeh-z-tokia-1953-cz-dab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:43:45.826549+00:00 |
 | [Příběhy Cheeche a Chonga (1980) 720p CZ Titulky](https://prehraj.to/pribehy-cheeche-a-chonga-1980-720p-cz-titulky-mp4/c5dd28873f15c3bd) (ID 29637882) | [Sdílej 34755727](https://sdilej.cz/34755727/pribehy-cheeche-a-chonga-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:44:25.129845+00:00 |
 | [Případ Kim Bok-Nam (2010) SD CZ Titulky](https://prehraj.to/pripad-kim-bok-nam-2010-sd-cz-titulky-mp4/bcf091365ba6d88a) (ID 29409799) | [Sdílej 34710041](https://sdilej.cz/34710041/pripad-kim-bok-nam-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:39:10.413951+00:00 |
 | [Případ ztracené kozy (2021) 720p CZ Titulky](https://prehraj.to/pripad-ztracene-kozy-2021-720p-cz-titulky-mp4/79697781d4793526) (ID 29239233) | [Sdílej 34728895](https://sdilej.cz/34728895/pripad-ztracene-kozy-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:35.061143+00:00 |
