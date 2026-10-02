@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T09:37:42.160382+00:00
+Poslední aktualizace (UTC): 2026-10-02T09:37:53.072982+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 154.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 636, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 235, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 635, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 236, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187
 
 ## K ručnímu doplnění nebo ověření
 
@@ -326,6 +326,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T04:37:50.401333+00:00 |
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:58.092082+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:54.952954+00:00 |
+| [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:37:53.072861+00:00 |
 | [Post Mortem (2020) 1080p CZ Titulky](https://prehraj.to/post-mortem-2020-1080p-cz-titulky-mkv/d3e819e06f651968) (ID 29657657) | [Sdílej 19395386](https://sdilej.cz/19395386/post-mortem-2020-hun-audio-1080p-web-dl-h264-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:23.236828+00:00 |
 | [Potulný samuraj Kenšin: Konec (2021) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-2021-1080p-cz-titulky-mp4/04355bfc74f6fc1d) (ID 29358418) | [Sdílej 34697415](https://sdilej.cz/34697415/potulny-samuraj-kensin-konec-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:06.422038+00:00 |
 | [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:10.729513+00:00 |
