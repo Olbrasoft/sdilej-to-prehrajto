@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:42:15.338804+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:42:25.520646+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 557, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 312, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 556, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 313, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -395,6 +395,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:22.082836+00:00 |
 | [Ronnie Coleman: Relentless (2007) SD CZ Titulky](https://prehraj.to/ronnie-coleman-relentless-2007-sd-cz-titulky-mp4/b9a3d5e37c0ec05c) (ID 29214549) | [Sdílej 34781462](https://sdilej.cz/34781462/ronnie-coleman-relentless-2007-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:41.981594+00:00 |
 | [Rooney (2022) 720p CZ Titulky](https://prehraj.to/rooney-2022-720p-cz-titulky-mp4/fe1bc46caa543d17) (ID 29216763) | [Sdílej 34726946](https://sdilej.cz/34726946/rooney-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:36.175220+00:00 |
+| [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:25.520542+00:00 |
 | [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:42.663768+00:00 |
 | [Run the Tide (2016) 1080p CZ Titulky](https://prehraj.to/run-the-tide-2016-1080p-cz-titulky-mkv/68ea03df9c2c23ba) (ID 29610986) | [Sdílej 6915501](https://sdilej.cz/6915501/run-the-tide.2016.web-dl.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:49.179418+00:00 |
 | [Ruská archa (2002) 1080p CZ Titulky](https://prehraj.to/ruska-archa-2002-1080p-cz-titulky-avi/eda8a5f642b0b600) (ID 29364840) | [Sdílej 28504418](https://sdilej.cz/28504418/ruska-archa-2002-----ru.-cz.-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:47.926141+00:00 |
