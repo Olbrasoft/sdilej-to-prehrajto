@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:21:25.747347+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:21:36.231134+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 212, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 640, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 211, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 641, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -20,6 +20,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [18 dárků (2020) 1080p CZ Titulky](https://prehraj.to/18-darku-2020-1080p-cz-titulky-mkv/67b3dcaebf0ffeef) (ID 29311505) | [Sdílej 17592772](https://sdilej.cz/17592772/18-darku-18-presents-2020-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:01.991565+00:00 |
 | [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:44.511063+00:00 |
 | [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:57.914905+00:00 |
+| [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:21:36.231010+00:00 |
 | [37 sekund (2019) 1080p CZ Titulky](https://prehraj.to/37-sekund-2019-1080p-cz-titulky-mkv/8c1830443e4f7902) (ID 29409387) | [Sdílej 12981772](https://sdilej.cz/12981772/37-sekanzu-37-seconds-2019-cz-titulky-webrip.1080p-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636332+00:00 |
 | [40: The Temptation of Christ (2020) 720p CZ Titulky](https://prehraj.to/40-the-temptation-of-christ-2020-720p-cz-titulky-mp4/b06c259f44d52252) (ID 29233225) | [Sdílej 34773492](https://sdilej.cz/34773492/40-the-temptation-of-christ-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:52.267440+00:00 |
 | [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:40.442087+00:00 |
