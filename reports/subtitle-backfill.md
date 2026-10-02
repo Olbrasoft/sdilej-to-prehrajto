@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T12:48:20.140398+00:00
+Poslední aktualizace (UTC): 2026-10-02T12:48:26.825438+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 94.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 600, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 269, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 599, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 270, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -49,6 +49,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Blood Is Blood (2016) SD CZ Titulky](https://prehraj.to/blood-is-blood-2016-sd-cz-titulky-mp4/372fc0d943c961bc) (ID 29392783) | [Sdílej 34737840](https://sdilej.cz/34737840/blood-is-blood-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:08.011479+00:00 |
 | [Blood Vessel (2019) SD CZ Titulky](https://prehraj.to/blood-vessel-2019-sd-cz-titulky-mkv/e122c56107dd526c) (ID 29912378) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T08:39:56.401484+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:49.394996+00:00 |
+| [Boku no Hero Academia the Movie 2: Heroes:Rising (2019) 1080p CZ Titulky](https://prehraj.to/boku-no-hero-academia-the-movie-2-heroes-rising-2019-1080p-cz-titulky-mp4/a5a45a86a114992e) (ID 29396179) | [Sdílej 34734691](https://sdilej.cz/34734691/boku-no-hero-academia-the-movie-2-heroes-rising-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:26.825332+00:00 |
 | [Border Hunters (2025) 1080p CZ Titulky](https://prehraj.to/border-hunters-2025-1080p-cz-titulky-mkv/14837bb8e6ca4c99) (ID 29614176) | [Sdílej 32794111](https://sdilej.cz/32794111/border.hunters.-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:53.201942+00:00 |
 | [Breakdown Lane (2017) SD CZ Titulky](https://prehraj.to/breakdown-lane-2017-sd-cz-titulky-mkv/bf91a3292885f16f) (ID 29658008) | [Sdílej 34798204](https://sdilej.cz/34798204/breakdown.lane.2017.720p.bluray.x264-getit.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:25.194780+00:00 |
 | [Breeder (2020) 1080p CZ Titulky](https://prehraj.to/breeder-2020-1080p-cz-titulky-mkv/205b001c0a9a5374) (ID 29912189) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T08:39:54.362234+00:00 |
