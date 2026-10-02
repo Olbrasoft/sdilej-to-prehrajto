@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:23:44.327069+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:23:55.247295+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 366, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 499, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 365, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 500, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -39,6 +39,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [American Satan (2017) SD CZ Titulky](https://prehraj.to/american-satan-2017-sd-cz-titulky-avi/df146b915e883159) (ID 29911940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T08:39:54.362330+00:00 |
 | [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:52.982095+00:00 |
 | [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:12.130947+00:00 |
+| [Antidote (2018) 1080p CZ Titulky](https://prehraj.to/antidote-2018-1080p-cz-titulky-mp4/454cf6f45d4b0ccd) (ID 29608713) | [Sdílej 34774428](https://sdilej.cz/34774428/antidote-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:55.247166+00:00 |
 | [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:22.688564+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:02.703142+00:00 |
 | [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:25:18.170318+00:00 |
