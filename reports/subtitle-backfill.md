@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T01:48:26.864622+00:00
+Poslední aktualizace (UTC): 2026-10-02T01:48:32.945409+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 126.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 727, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 149, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 726, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 150, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -327,6 +327,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:36.904486+00:00 |
 | [The Engineer (2023) 1080p CZ Titulky](https://prehraj.to/the-engineer-2023-1080p-cz-titulky-mkv/bbf93480adf4f2a6) (ID 29737979) | [Sdílej 34393567](https://sdilej.cz/34393567/the-engineer-2023-1080p-amzn-web-dl-ddp5-1-h-264-flux.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:11.894097+00:00 |
 | [The Exception (2016) 1080p CZ Titulky](https://prehraj.to/the-exception-2016-1080p-cz-titulky-mkv/38d783fd76aca73d) (ID 29680017) | [Sdílej 7576370](https://sdilej.cz/7576370/vyjimka-the-exception.2016.1080p.web-dl.dd5.1.h264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:10.221051+00:00 |
+| [The Ghost Within (2023) 1080p CZ Titulky](https://prehraj.to/the-ghost-within-2023-1080p-cz-titulky-mkv/d2b41bf8850a58a0) (ID 29293444) | [Sdílej 26787220](https://sdilej.cz/26787220/the.ghost.within.2023.1080p.bluray.en.5.1.titulky-sk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:32.945279+00:00 |
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:40.288500+00:00 |
 | [The Jester 2 (2025) 1080p CZ Titulky.mkv](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:41.745312+00:00 |
 | [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:34:21.863973+00:00 |
