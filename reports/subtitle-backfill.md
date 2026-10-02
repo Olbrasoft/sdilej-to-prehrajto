@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:51:28.418324+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:51:36.843104+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 506, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 362, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 505, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 363, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -312,6 +312,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky](https://prehraj.to/m-a-s-h-the-comedy-that-changed-television-2024-1080p-cz-titulky-mp4/a7f840407213d02d) (ID 29460944) | [Sdílej 34724940](https://sdilej.cz/34724940/m-a-s-h-the-comedy-that-changed-television-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:36.785007+00:00 |
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:34:05.304067+00:00 |
 | [Maják na konci světa (1971) 720p CZ Titulky](https://prehraj.to/majak-na-konci-sveta-1971-720p-cz-titulky-mp4/76205f28e71023a1) (ID 29284598) | [Sdílej 34755903](https://sdilej.cz/34755903/majak-na-konci-sveta-1971-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:31.441804+00:00 |
+| [Maktub (2017) SD CZ Titulky](https://prehraj.to/maktub-2017-sd-cz-titulky-mp4/180183a8c9c32ed3) (ID 29482808) | [Sdílej 34737380](https://sdilej.cz/34737380/maktub-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:36.842962+00:00 |
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:09.513360+00:00 |
 | [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:18.242700+00:00 |
 | [Manyeo (2018) SD CZ Titulky](https://prehraj.to/manyeo-2018-sd-cz-titulky-avi/96cde4085ad349f1) (ID 29344325) | [Sdílej 11387846](https://sdilej.cz/11387846/manyeo-2018-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:42:06.570283+00:00 |
