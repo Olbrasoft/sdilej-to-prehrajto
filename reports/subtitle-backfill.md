@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:44:24.493987+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:44:36.590010+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 9, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 827, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 8, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 828, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -590,6 +590,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [My Bodyguard (1980) SD CZ Titulky](https://prehraj.to/my-bodyguard-1980-sd-cz-titulky-mp4/c3be1ac8d9ba7487) (ID 29445263) | [Sdílej 34755746](https://sdilej.cz/34755746/my-bodyguard-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:26.117699+00:00 |
 | [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:06.362619+00:00 |
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:46.458386+00:00 |
+| [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:36.589891+00:00 |
 | [Májové hvězdy (1959) 1080p CZ Titulky](https://prehraj.to/majove-hvezdy-1959-1080p-cz-titulky-mkv/82f7991c0b09dc6f) (ID 29697994) | [Sdílej 34751185](https://sdilej.cz/34751185/majove-hvezdy-1959-pro-pametniky-valecny-povidkovy-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:03.183325+00:00 |
 | [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:56.781721+00:00 |
 | [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:25.956475+00:00 |
