@@ -263584,17 +263584,19 @@
       }
     },
     "9176": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28131822",
+          "reason": "Request failed for https://sdilej.cz/28131822/lights.out.2024.1080p.amzn.web-dl.ddp5.1.h.264-notasnitcherfromthatgroup.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T23:56:05.235176+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28131822",
         "display_name": "V bezvědomí (2024) 1080p CZ Titulky",
         "planned_at": "2026-10-02T23:37:07.612712+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-0",
-        "claimed_at": "2026-10-02T23:55:18.928555+00:00",
-        "lease_expires_at": "2026-10-03T05:55:18.928555+00:00",
-        "run_id": "37054088523"
       }
     },
     "6450": {
@@ -263636,6 +263638,12 @@
         "source_id": "30075366",
         "display_name": "Cadillac Man (1990) SD CZ Dabing",
         "planned_at": "2026-10-02T23:37:08.001666+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-1",
+        "claimed_at": "2026-10-02T23:55:57.278210+00:00",
+        "lease_expires_at": "2026-10-03T05:55:57.278210+00:00",
+        "run_id": "37054088523"
       }
     },
     "7653": {
@@ -316074,5 +316082,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T23:55:54.872129+00:00"
+  "updated_at": "2026-10-02T23:56:05.235195+00:00"
 }
