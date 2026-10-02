@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:09:54.134628+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:10:04.514044+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 423, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 443, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 422, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 444, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -523,6 +523,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Sloní královna (2018) 720p CZ Titulky](https://prehraj.to/sloni-kralovna-2018-720p-cz-titulky-mp4/f7a3690b7107d7d7) (ID 29559803) | [Sdílej 34736665](https://sdilej.cz/34736665/sloni-kralovna-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:13.403232+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636373+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:35.884649+00:00 |
+| [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:04.513929+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:11.454401+00:00 |
 | [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:03.154456+00:00 |
 | [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:21.663809+00:00 |
