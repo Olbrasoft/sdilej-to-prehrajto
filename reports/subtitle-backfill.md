@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:19:21.484353+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:19:31.131466+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 385, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 480, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 384, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 481, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -527,6 +527,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:17.708809+00:00 |
 | [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:55.954904+00:00 |
 | [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:27.911032+00:00 |
+| [Seven Cemeteries (2024) 720p CZ Titulky](https://prehraj.to/seven-cemeteries-2024-720p-cz-titulky-mp4/901851601b55d93d) (ID 29595112) | [Sdílej 34758438](https://sdilej.cz/34758438/seven-cemeteries-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:31.131338+00:00 |
 | [Shake Hands with the Devil (2007) 720p CZ Titulky](https://prehraj.to/shake-hands-with-the-devil-2007-720p-cz-titulky-mp4/f5836061dc777a34) (ID 29318910) | [Sdílej 34751222](https://sdilej.cz/34751222/shake-hands-with-the-devil-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:30.905713+00:00 |
 | [Shane (2022) 1080p CZ Titulky](https://prehraj.to/shane-2022-1080p-cz-titulky-mp4/f15b64329d7bc8b1) (ID 29400954) | [Sdílej 34772205](https://sdilej.cz/34772205/shane-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:38.726495+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:25.400208+00:00 |
