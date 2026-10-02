@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:40:52.623739+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:41:01.736499+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 25, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 812, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 22, `existing_tracks_uncertain`: 140, `pending`: 24, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 813, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -366,6 +366,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:41.740977+00:00 |
 | [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:33.449133+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:39.964292+00:00 |
+| [Good Boys for Life (2021) 720p CZ Titulky](https://prehraj.to/good-boys-for-life-2021-720p-cz-titulky-mp4/f76f1401a33e85df) (ID 29821305) | [Sdílej 34772914](https://sdilej.cz/34772914/good-boys-for-life-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:41:01.736403+00:00 |
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:57.750958+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:57.473656+00:00 |
 | [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:13.086714+00:00 |
