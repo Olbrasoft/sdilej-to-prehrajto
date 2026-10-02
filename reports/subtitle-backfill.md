@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T01:09:26.890626+00:00
+Poslední aktualizace (UTC): 2026-10-02T01:09:34.546075+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 146.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 749, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 128, `source_provenance_missing`: 97, `source_unavailable`: 14, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 748, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 129, `source_provenance_missing`: 97, `source_unavailable`: 14, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -361,6 +361,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T17:32:02.537741+00:00 |
 | [Ztracené písně (2023) 1080p CZ Titulky](https://prehraj.to/ztracene-pisne-2023-1080p-cz-titulky-mkv/1dc4ac4ba46a4f15) (ID 29710845) | [Sdílej 34025807](https://sdilej.cz/34025807/ztracene-pisne-2023-drama-komedie-japonsko-czdab.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:24.238376+00:00 |
 | [Záře (1996) 720p CZ Titulky](https://prehraj.to/zare-1996-720p-cz-titulky-mkv/188d8dda0e2b6921) (ID 29510085) | [Sdílej 32869545](https://sdilej.cz/32869545/shine-1996-1080p-fr-en-x264-ac3-mhdgz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T20:35:29.139969+00:00 |
+| [Zítřek už možná nepřijde (2003) SD CZ Titulky](https://prehraj.to/zitrek-uz-mozna-neprijde-2003-sd-cz-titulky-mp4/76f925bd5b940dfc) (ID 29279834) | [Sdílej 34751392](https://sdilej.cz/34751392/zitrek-uz-mozna-neprijde-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:09:34.545959+00:00 |
 | [Ánimas (2018) 1080p CZ Titulky](https://prehraj.to/animas-2018-1080p-cz-titulky-mkv/9661c7794d8b1c8a) (ID 29648131) | [Sdílej 11262471](https://sdilej.cz/11262471/animas-2018.1080p.x264-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:22.970449+00:00 |
 | [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:32.890110+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T18:40:06.379328+00:00 |
