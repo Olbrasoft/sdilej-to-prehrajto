@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T12:48:43.799742+00:00
+Poslední aktualizace (UTC): 2026-10-02T12:48:50.224808+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 94.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 597, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 272, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 596, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 273, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -415,6 +415,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:54.510496+00:00 |
 | [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:22.046172+00:00 |
 | [Superhost (2021) 1080p CZ Titulky](https://prehraj.to/superhost-2021-1080p-cz-titulky-mkv/b4059976607da9ce) (ID 29706516) | [Sdílej 18833126](https://sdilej.cz/18833126/superhost.2021.1080p.amzn.web-dl.ddp2.0.h.264-tepes.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:18.494990+00:00 |
+| [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:50.224699+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:23.421406+00:00 |
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:43:16.703602+00:00 |
 | [Sázka na teambuilding (2022) 1080p CZ Titulky](https://prehraj.to/sazka-na-teambuilding-2022-1080p-cz-titulky-avi/84764a32ef1bb9ce) (ID 29366691) | [Sdílej 24604399](https://sdilej.cz/24604399/sazka-na-teambuilding-teambuilding-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:37:18.737081+00:00 |
