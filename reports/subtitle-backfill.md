@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:34:31.951463+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:34:39.815020+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 14, `existing_tracks_uncertain`: 135, `pending`: 185, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 663, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 24, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 14, `existing_tracks_uncertain`: 135, `pending`: 184, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 664, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 24, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -345,6 +345,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Hatched (2021) 1080p CZ Titulky](https://prehraj.to/hatched-2021-1080p-cz-titulky-mkv/c15f08673a97d610) (ID 29914981) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T08:40:04.672818+00:00 |
 | [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:23:10.845763+00:00 |
 | [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:33.642652+00:00 |
+| [Holy Night: Demon Hunters (2025) 1080p CZ Titulky](https://prehraj.to/holy-night-demon-hunters-2025-1080p-cz-titulky-mp4/5749c49a012b57a8) (ID 29693713) | [Sdílej 31985859](https://sdilej.cz/31985859/holy-night-demon-hunters-2025-cz-titulky-by-karol.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:39.814889+00:00 |
 | [Holá sebeúcta (2021) 1080p CZ Titulky](https://prehraj.to/hola-sebeucta-2021-1080p-cz-titulky-mp4/ce3168e938c731d5) (ID 29332800) | [Sdílej 34730773](https://sdilej.cz/34730773/hola-sebeucta-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:52:04.436764+00:00 |
 | [Home Invasion (2016) SD CZ Titulky](https://prehraj.to/home-invasion-2016-sd-cz-titulky-avi/3d433bbe8dcb9fc9) (ID 29905333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:13.803967+00:00 |
 | [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:19.296131+00:00 |
