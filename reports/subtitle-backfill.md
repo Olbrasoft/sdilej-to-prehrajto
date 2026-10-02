@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:42:51.112344+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:43:25.695645+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 15, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 821, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 14, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 822, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -230,6 +230,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [El clan (2015) SD CZ Titulky](https://prehraj.to/el-clan-2015-sd-cz-titulky-mp4/8fa776cade235d46) (ID 29355449) | [Sdílej 34776027](https://sdilej.cz/34776027/el-clan-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:41:16.014795+00:00 |
 | [Elephant (2020) 720p CZ Titulky](https://prehraj.to/elephant-2020-720p-cz-titulky-mp4/9c337ea2491fa134) (ID 29828611) | [Sdílej 34773343](https://sdilej.cz/34773343/elephant-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:41:44.009895+00:00 |
 | [Eliminators (1986) SD CZ Titulky](https://prehraj.to/eliminators-1986-sd-cz-titulky-mp4/fe11e925d112d972) (ID 29720595) | [Sdílej 30090091](https://sdilej.cz/30090091/eliminators.1986.vhsrip-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:00:37.110179+00:00 |
+| [Elisa a Marcela (2019) 1080p CZ Titulky](https://prehraj.to/elisa-a-marcela-2019-1080p-cz-titulky-avi/909b92102766fa09) (ID 29848461) | [Sdílej 11824610](https://sdilej.cz/11824610/elisa-y-marcela-2019-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:43:25.695535+00:00 |
 | [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:19.537747+00:00 |
 | [Elizabeth Taylor: Ztracené nahrávky (2024) 1080p CZ Titulky](https://prehraj.to/elizabeth-taylor-ztracene-nahravky-2024-1080p-cz-titulky-mp4/62c39813e89e7b1c) (ID 29440774) | [Sdílej 34725065](https://sdilej.cz/34725065/elizabeth-taylor-ztracene-nahravky-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:30.589246+00:00 |
 | [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:32.806916+00:00 |
