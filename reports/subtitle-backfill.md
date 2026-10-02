@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:09:54.859682+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:10:06.988104+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 87, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 756, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 86, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 757, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -795,6 +795,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:19.543353+00:00 |
 | [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:24.287796+00:00 |
 | [Sto krvavých akrů (2012) SD CZ Titulky](https://prehraj.to/sto-krvavych-akru-2012-sd-cz-titulky-mp4/841d1b68f5de6bf4) (ID 29607800) | [Sdílej 34710625](https://sdilej.cz/34710625/sto-krvavych-akru-2012-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:43.397956+00:00 |
+| [Stopa vraha (2024) 1080p CZ Titulky](https://prehraj.to/stopa-vraha-2024-1080p-cz-titulky-mp4/2715d7a9263f33cf) (ID 29735549) | [Sdílej 28644925](https://sdilej.cz/28644925/damaged-2024-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:10:06.987984+00:00 |
 | [Stopy (2013) 720p CZ Titulky](https://prehraj.to/stopy-2013-720p-cz-titulky-mp4/efd06708ad320b80) (ID 29333413) | [Sdílej 34779528](https://sdilej.cz/34779528/stopy-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:52:11.695956+00:00 |
 | [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:36:54.995675+00:00 |
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:15.724353+00:00 |
