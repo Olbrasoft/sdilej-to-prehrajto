@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:22:45.668778+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:22:54.815580+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 205, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 646, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 204, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 647, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -735,6 +735,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [The Act of Reading (2021) 1080p CZ Titulky](https://prehraj.to/the-act-of-reading-2021-1080p-cz-titulky-mp4/70ed6c4107403ab8) (ID 29587600) | [Sdílej 34772666](https://sdilej.cz/34772666/the-act-of-reading-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:47.192989+00:00 |
 | [The Alpinist (2021) 1080p CZ Titulky](https://prehraj.to/the-alpinist-2021-1080p-cz-titulky-mkv/5eb14da44aa5aaef) (ID 29316522) | [Sdílej 18646868](https://sdilej.cz/18646868/the.alpinist.2021.1080p.web-dl.dd5.1.h.264-tepes.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:26.069845+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:42:57.481625+00:00 |
+| [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:54.815477+00:00 |
 | [The Beta Test (2021) 1080p CZ Titulky](https://prehraj.to/the-beta-test-2021-1080p-cz-titulky-mp4/a5779b40ccdaeff3) (ID 29607672) | [Sdílej 34772650](https://sdilej.cz/34772650/the-beta-test-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:11.045302+00:00 |
 | [The Bombing of Wall Street (2018) SD CZ Titulky](https://prehraj.to/the-bombing-of-wall-street-2018-sd-cz-titulky-mp4/c5a1153aa4e4f050) (ID 29562079) | [Sdílej 34736187](https://sdilej.cz/34736187/the-bombing-of-wall-street-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:43.478953+00:00 |
 | [The Canyons (2013) 720p CZ Titulky](https://prehraj.to/the-canyons-2013-720p-cz-titulky-mkv/7d16df0f32ed1f6b) (ID 29089664) | [Sdílej 16550507](https://sdilej.cz/16550507/the-canyons-2013-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:25.519806+00:00 |
