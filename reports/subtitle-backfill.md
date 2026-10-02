@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:25:32.041724+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:25:39.753350+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 356, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 507, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 355, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 508, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -137,6 +137,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:15.704467+00:00 |
 | [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:23.607028+00:00 |
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:40:30.029359+00:00 |
+| [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:39.753243+00:00 |
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:42.342612+00:00 |
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:33:00.958021+00:00 |
 | [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:51.057799+00:00 |
