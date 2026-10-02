@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T07:40:49.606751+00:00
+Poslední aktualizace (UTC): 2026-10-02T07:40:55.951644+00:00
 
 Zkontrolováno videí: 1658. Další stránka kontroly: 6.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 664, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 209, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
+Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 663, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 210, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
 
 ## K ručnímu doplnění nebo ověření
 
@@ -335,6 +335,7 @@ Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncert
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:25.400208+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:46:55.851138+00:00 |
 | [Sing Street (2016) SD CZ Titulky](https://prehraj.to/sing-street-2016-sd-cz-titulky-mp4/c3894a4ddc1e027f) (ID 29290332) | [Sdílej 34774971](https://sdilej.cz/34774971/sing-street-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:10.143342+00:00 |
+| [Sir Alex Ferguson: Nikdy se nevzdej (2021) 720p CZ Titulky](https://prehraj.to/sir-alex-ferguson-nikdy-se-nevzdej-2021-720p-cz-titulky-mp4/1ac1cd302d83495f) (ID 29337463) | [Sdílej 34699238](https://sdilej.cz/34699238/sir-alex-ferguson-nikdy-se-nevzdej-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:55.951517+00:00 |
 | [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:12.540702+00:00 |
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:40.513021+00:00 |
 | [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:17.594925+00:00 |
