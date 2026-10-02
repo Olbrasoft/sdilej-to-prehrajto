@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:07:44.907934+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:07:54.489294+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 435, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 431, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 434, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 432, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -663,6 +663,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:28.692114+00:00 |
 | [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:36:47.717055+00:00 |
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:33.604783+00:00 |
+| [Znovu zrozen (2016) 1080p CZ Titulky](https://prehraj.to/znovu-zrozen-2016-1080p-cz-titulky-mkv/7f2b941812745f52) (ID 29566591) | [Sdílej 32832255](https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:54.489181+00:00 |
 | [Zola (2020) 720p CZ Titulky](https://prehraj.to/zola-2020-720p-cz-titulky-mp4/fe2f51475df96405) (ID 29400325) | [Sdílej 34773120](https://sdilej.cz/34773120/zola-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:11.390857+00:00 |
 | [Zrodila se hvězda (1937) SD CZ Titulky](https://prehraj.to/zrodila-se-hvezda-1937-sd-cz-titulky-mp4/59422715b7eacd5c) (ID 29463817) | [Sdílej 34789216](https://sdilej.cz/34789216/zrodila-se-hvezda-1937-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:49:21.341781+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:30.064423+00:00 |
