@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:27:37.026887+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:27:49.862459+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 20, `existing_tracks_uncertain`: 140, `pending`: 48, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 792, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 20, `existing_tracks_uncertain`: 140, `pending`: 47, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 793, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -927,6 +927,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [The Veil (2017) SD CZ Titulky](https://prehraj.to/the-veil-2017-sd-cz-titulky-mp4/b880355a99a9d9ab) (ID 29907336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:13.803782+00:00 |
 | [The Viking War (2019) 1080p CZ Titulky](https://prehraj.to/the-viking-war-2019-1080p-cz-titulky-mkv/a62369332dea0ea2) (ID 29713558) | [Sdílej 11268800](https://sdilej.cz/11268800/the.viking.war.2019.eng.1080p.amzn.web-dl.x264.eac3.6ch-cmrg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:48:13.443623+00:00 |
 | [The Wall: Climb for Gold (2022) 1080p CZ Titulky](https://prehraj.to/the-wall-climb-for-gold-2022-1080p-cz-titulky-mp4/1e4065788c84354b) (ID 29589919) | [Sdílej 34772168](https://sdilej.cz/34772168/the-wall-climb-for-gold-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:21.484238+00:00 |
+| [The Week Of (2018) 1080p CZ Titulky](https://prehraj.to/the-week-of-2018-1080p-cz-titulky-mp4/f144495061bb07b8) (ID 29753494) | [Sdílej 34735288](https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:27:49.862324+00:00 |
 | [The Windigo (2024) 1080p CZ Titulky](https://prehraj.to/the-windigo-2024-1080p-cz-titulky-mp4/c536969876db52b2) (ID 29607776) | [Sdílej 34724644](https://sdilej.cz/34724644/the-windigo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:31.531290+00:00 |
 | [The World Will Tremble (2025) 1080p CZ Titulky](https://prehraj.to/the-world-will-tremble-2025-1080p-cz-titulky-mp4/6dae944ac1f66667) (ID 29468514) | [Sdílej 30991221](https://sdilej.cz/30991221/the-world-will-tremble-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:44.240044+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:32.004031+00:00 |
