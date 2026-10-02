@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:34:54.868637+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:35:13.269769+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 327, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 534, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 6, `existing_tracks_uncertain`: 133, `pending`: 326, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 535, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -770,6 +770,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:30.064423+00:00 |
 | [Ztracené duše (2019) 720p CZ Titulky](https://prehraj.to/ztracene-duse-2019-720p-cz-titulky-mp4/59c7130b99408fec) (ID 29295830) | [Sdílej 34638611](https://sdilej.cz/34638611/ztracene-duse-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:00.757569+00:00 |
 | [Ztracené písně (2023) 1080p CZ Titulky](https://prehraj.to/ztracene-pisne-2023-1080p-cz-titulky-mkv/1dc4ac4ba46a4f15) (ID 29710845) | [Sdílej 34025807](https://sdilej.cz/34025807/ztracene-pisne-2023-drama-komedie-japonsko-czdab.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:07.444938+00:00 |
+| [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:35:13.269636+00:00 |
 | [Zásadní změna (2018) SD CZ Titulky](https://prehraj.to/zasadni-zmena-2018-sd-cz-titulky-mp4/239bc12ee388fce7) (ID 29319501) | [Sdílej 13048286](https://sdilej.cz/13048286/the-game-changers-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:57.982768+00:00 |
 | [Zázračné houby (2019) 1080p CZ Titulky](https://prehraj.to/zazracne-houby-2019-1080p-cz-titulky-mp4/68dfcf2e53cd834f) (ID 29411891) | [Sdílej 34733558](https://sdilej.cz/34733558/zazracne-houby-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:06.275889+00:00 |
 | [Záře (1996) 720p CZ Titulky](https://prehraj.to/zare-1996-720p-cz-titulky-mkv/188d8dda0e2b6921) (ID 29510085) | [Sdílej 32869545](https://sdilej.cz/32869545/shine-1996-1080p-fr-en-x264-ac3-mhdgz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:22.450415+00:00 |
