@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T10:35:11.717621+00:00
+Poslední aktualizace (UTC): 2026-10-02T10:35:19.007223+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 134.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 618, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 252, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 617, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 253, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -355,6 +355,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:33.533509+00:00 |
 | [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:16.032171+00:00 |
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T04:37:52.428432+00:00 |
+| [Red Dog - psí legenda (2011) SD CZ Titulky](https://prehraj.to/red-dog-psi-legenda-2011-sd-cz-titulky-mp4/7e564ee5bf116a34) (ID 29387725) | [Sdílej 34746795](https://sdilej.cz/34746795/red-dog-psi-legenda-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:35:19.007106+00:00 |
 | [Redirected (2014) SD CZ Titulky](https://prehraj.to/redirected-2014-sd-cz-titulky-mp4/302149a0416e5a25) (ID 29283932) | [Sdílej 34776264](https://sdilej.cz/34776264/redirected-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:20.856233+00:00 |
 | [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:09.384316+00:00 |
 | [Road (2014) SD CZ Titulky](https://prehraj.to/road-2014-sd-cz-titulky-mp4/8a0d713a54896a3b) (ID 29307195) | [Sdílej 34776260](https://sdilej.cz/34776260/road-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:22.896847+00:00 |
