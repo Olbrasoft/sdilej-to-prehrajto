@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:06:54.590655+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:07:03.154588+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 440, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 426, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 439, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 427, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -514,6 +514,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636373+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:35.884649+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:11.454401+00:00 |
+| [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:03.154456+00:00 |
 | [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:21.663809+00:00 |
 | [Sneekweek (2016) 1080p CZ Titulky](https://prehraj.to/sneekweek-2016-1080p-cz-titulky-mkv/7f737c1ee63dab54) (ID 29736959) | [Sdílej 31436654](https://sdilej.cz/31436654/sneekweek-2016-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:44.499961+00:00 |
 | [Sniper: Finální rána (2017) 720p CZ Titulky](https://prehraj.to/sniper-finalni-rana-2017-720p-cz-titulky-mp4/53f72e836969de0d) (ID 29914261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T08:40:00.492139+00:00 |
