@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:25:16.265620+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:25:25.887404+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 59, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 782, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 58, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 783, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -673,6 +673,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Pinball: The Man Who Saved the Game (2022) 720p CZ Titulky](https://prehraj.to/pinball-the-man-who-saved-the-game-2022-720p-cz-titulky-mp4/5d6db7d566c724e4) (ID 29213682) | [Sdílej 26372484](https://sdilej.cz/26372484/pinball-the-man-who-saved-the-game-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:22.857533+00:00 |
 | [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T16:16:10.954210+00:00 |
 | [Playtime (1967) 720p CZ Titulky](https://prehraj.to/playtime-1967-720p-cz-titulky-mp4/f06d6d9c673d5e42) (ID 29325122) | [Sdílej 30754860](https://sdilej.cz/30754860/playtime-1967-fr-tvrip-hevc-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:38:33.114413+00:00 |
+| [Pláž Paradise (2019) 1080p CZ Titulky](https://prehraj.to/plaz-paradise-2019-1080p-cz-titulky-mp4/67fe31e31653b1c1) (ID 29751130) | [Sdílej 34734056](https://sdilej.cz/34734056/plaz-paradise-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:25:25.887282+00:00 |
 | [Po bouři (2016) SD CZ Titulky](https://prehraj.to/po-bouri-2016-sd-cz-titulky-avi/edde76ac660cfec3) (ID 29411862) | [Sdílej 8877514](https://sdilej.cz/8877514/po-bouri-after-the-storm-2016-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:40:25.690512+00:00 |
 | [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:50.305539+00:00 |
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:58.092082+00:00 |
