@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T06:50:54.723431+00:00
+Poslední aktualizace (UTC): 2026-10-02T06:51:01.626395+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 26.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 677, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 198, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 676, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 199, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -216,6 +216,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 3, `existing_tracks_uncert
 | [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:08.362823+00:00 |
 | [Je ne suis pas un homme facile (2018) 1080p CZ Titulky](https://prehraj.to/je-ne-suis-pas-un-homme-facile-2018-1080p-cz-titulky-mkv/265c940fa2240f75) (ID 29271998) | [Sdílej 11763794](https://sdilej.cz/11763794/je-ne-suis-pas-un-homme-facile-i-am-not-an-easy-man-2018-sk-titulky-1080pwebrip-x264-dd5.1-1-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:32:09.239831+00:00 |
 | [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:33.597862+00:00 |
+| [Jim Jefferies: Intolerance (2020) 1080p CZ Titulky](https://prehraj.to/jim-jefferies-intolerance-2020-1080p-cz-titulky-mp4/d59bb7f1d708870d) (ID 29326703) | [Sdílej 34733091](https://sdilej.cz/34733091/jim-jefferies-intolerance-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:01.626239+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:10.608010+00:00 |
 | [Jsem s tebou (2004) SD CZ Titulky](https://prehraj.to/jsem-s-tebou-2004-sd-cz-titulky-mp4/8fbc9f39ecdcba67) (ID 29261675) | [Sdílej 34751375](https://sdilej.cz/34751375/jsem-s-tebou-2004-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:33:07.321061+00:00 |
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:09:11.888211+00:00 |
