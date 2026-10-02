@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T11:32:59.866685+00:00
+Poslední aktualizace (UTC): 2026-10-02T11:33:08.011639+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 114.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 612, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 258, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncertain`: 133, `pending`: 611, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 259, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -46,6 +46,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 3, `existing_tracks_uncert
 | [Bitva o Alžír (1966) SD CZ Titulky](https://prehraj.to/bitva-o-alzir-1966-sd-cz-titulky-mp4/e6fc8f9040d48a35) (ID 29290572) | [Sdílej 34700110](https://sdilej.cz/34700110/bitva-o-alzir-1966-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:20.684149+00:00 |
 | [Black Mirror: Bandersnatch (2018) 1080p CZ Titulky](https://prehraj.to/black-mirror-bandersnatch-2018-1080p-cz-titulky-mkv/f8a34902e3bdafbf) (ID 29178134) | [Sdílej 11114231](https://sdilej.cz/11114231/black-mirror-bandersnatch-2018-1080p-webrip-xpau.se-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:14.747157+00:00 |
 | [Bliss (2019) 1080p CZ Titulky](https://prehraj.to/bliss-2019-1080p-cz-titulky-mkv/926638cd8d41ad37) (ID 29617027) | [Sdílej 12353725](https://sdilej.cz/12353725/bliss.2019.1080p.amzn.web-dl.ddp5.1.h.264.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:55.194174+00:00 |
+| [Blood Is Blood (2016) SD CZ Titulky](https://prehraj.to/blood-is-blood-2016-sd-cz-titulky-mp4/372fc0d943c961bc) (ID 29392783) | [Sdílej 34737840](https://sdilej.cz/34737840/blood-is-blood-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:08.011479+00:00 |
 | [Blood Vessel (2019) SD CZ Titulky](https://prehraj.to/blood-vessel-2019-sd-cz-titulky-mkv/e122c56107dd526c) (ID 29912378) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T08:39:56.401484+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:49.394996+00:00 |
 | [Border Hunters (2025) 1080p CZ Titulky](https://prehraj.to/border-hunters-2025-1080p-cz-titulky-mkv/14837bb8e6ca4c99) (ID 29614176) | [Sdílej 32794111](https://sdilej.cz/32794111/border.hunters.-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:53.201942+00:00 |
