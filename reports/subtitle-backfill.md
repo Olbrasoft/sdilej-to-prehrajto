@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:00:54.013023+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:01:08.005580+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 237, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 618, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 236, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 619, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -718,6 +718,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [The Exception (2016) 1080p CZ Titulky](https://prehraj.to/the-exception-2016-1080p-cz-titulky-mkv/38d783fd76aca73d) (ID 29680017) | [Sdílej 7576370](https://sdilej.cz/7576370/vyjimka-the-exception.2016.1080p.web-dl.dd5.1.h264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:27:53.389713+00:00 |
 | [The Ghost Within (2023) 1080p CZ Titulky](https://prehraj.to/the-ghost-within-2023-1080p-cz-titulky-mkv/d2b41bf8850a58a0) (ID 29293444) | [Sdílej 26787220](https://sdilej.cz/26787220/the.ghost.within.2023.1080p.bluray.en.5.1.titulky-sk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:32.945279+00:00 |
 | [The Great Alaskan Race (2019) SD CZ Titulky](https://prehraj.to/the-great-alaskan-race-2019-sd-cz-titulky-avi/650c19202cf0c15c) (ID 29399740) | [Sdílej 13281983](https://sdilej.cz/13281983/the-great-alaskan-race-2019-sk-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:51.545795+00:00 |
+| [The Hive (2015) SD CZ Titulky](https://prehraj.to/the-hive-2015-sd-cz-titulky-mp4/7a9d0a9fc0655f0c) (ID 29657646) | [Sdílej 34775489](https://sdilej.cz/34775489/the-hive-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:01:08.005442+00:00 |
 | [The Human Voice (2020) 1080p CZ Titulky](https://prehraj.to/the-human-voice-2020-1080p-cz-titulky-mp4/7d6e575a85d83642) (ID 29468199) | [Sdílej 34731984](https://sdilej.cz/34731984/the-human-voice-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:06.641231+00:00 |
 | [The Iceman (2012) SD CZ Titulky](https://prehraj.to/the-iceman-2012-sd-cz-titulky-avi/7bfaf2c147e1b3f2) (ID 29635298) | [Sdílej 23107484](https://sdilej.cz/23107484/the-iceman.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:43:02.862074+00:00 |
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:23.391323+00:00 |
