@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:48:13.443734+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:48:41.988032+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 149, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 697, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 148, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 698, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -445,6 +445,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Krrish (2006) SD CZ Titulky](https://prehraj.to/krrish-2006-sd-cz-titulky-mp4/67cfe535e2d1b5ae) (ID 29234994) | [Sdílej 34751293](https://sdilej.cz/34751293/krrish-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:47.559852+00:00 |
 | [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:52.127213+00:00 |
 | [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:47.975679+00:00 |
+| [Král Kobra (2016) SD CZ Titulky](https://prehraj.to/kral-kobra-2016-sd-cz-titulky-avi/624ec9fa66264b17) (ID 29714249) | [Sdílej 11544620](https://sdilej.cz/11544620/king-cobra-2016-cz-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:48:41.987898+00:00 |
 | [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:30.302524+00:00 |
 | [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:56.536659+00:00 |
 | [Kulky Spravedlnosti (2019) 1080p CZ Titulky](https://prehraj.to/kulky-spravedlnosti-2019-1080p-cz-titulky-mp4/929d935b71e6db53) (ID 29911357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:59.683048+00:00 |
