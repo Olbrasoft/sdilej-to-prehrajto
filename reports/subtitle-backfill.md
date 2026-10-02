@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:22:43.398081+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:22:56.927310+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 372, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 493, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 371, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 494, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -319,6 +319,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Je ne suis pas un homme facile (2018) 1080p CZ Titulky](https://prehraj.to/je-ne-suis-pas-un-homme-facile-2018-1080p-cz-titulky-mkv/265c940fa2240f75) (ID 29271998) | [Sdílej 11763794](https://sdilej.cz/11763794/je-ne-suis-pas-un-homme-facile-i-am-not-an-easy-man-2018-sk-titulky-1080pwebrip-x264-dd5.1-1-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:32:09.239831+00:00 |
 | [Je to jen konec sveta (2016) 1080p CZ Titulky](https://prehraj.to/je-to-jen-konec-sveta-2016-1080p-cz-titulky-mp4/3eaaa5216aaee4c8) (ID 29443232) | [Sdílej 30611907](https://sdilej.cz/30611907/je-to-jen-konec-sveta-2016-fr-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:50.206512+00:00 |
 | [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:33.597862+00:00 |
+| [Jen si tak trochu písknout (1981) SD CZ Titulky](https://prehraj.to/jen-si-tak-trochu-pisknout-1981-sd-cz-titulky-avi/9f2ef9b8f25b6343) (ID 29608037) | [Sdílej 27905927](https://sdilej.cz/27905927/jen-si-tak-trochu-pisknout-1981-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:56.927195+00:00 |
 | [Jim Jefferies: Intolerance (2020) 1080p CZ Titulky](https://prehraj.to/jim-jefferies-intolerance-2020-1080p-cz-titulky-mp4/d59bb7f1d708870d) (ID 29326703) | [Sdílej 34733091](https://sdilej.cz/34733091/jim-jefferies-intolerance-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:01.626239+00:00 |
 | [Jižní vítr (2018) 720p CZ Titulky](https://prehraj.to/jizni-vitr-2018-720p-cz-titulky-mkv/c467fd29ece9e008) (ID 29397063) | [Sdílej 12930446](https://sdilej.cz/12930446/juzni.vetar.2018.srbian.webrip.hevc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:22.785892+00:00 |
 | [Jméno (2012) SD CZ Titulky](https://prehraj.to/jmeno-2012-sd-cz-titulky-avi/fc24098a5dcb98ad) (ID 29387731) | [Sdílej 14483600](https://sdilej.cz/14483600/jmeno-le-prenom-2012-kome-drama-fr-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:24.860860+00:00 |
