@@ -241474,17 +241474,19 @@
       }
     },
     "14196": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29340160",
+          "reason": "Request failed for https://sdilej.cz/29340160/neveriaci-2019-sk-dabing-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T11:44:19.237818+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29340160",
         "display_name": "Nevěřící (2019) 1080p SK Dabing",
         "planned_at": "2026-10-02T11:17:14.114755+00:00"
-      },
-      "claim": {
-        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-1",
-        "claimed_at": "2026-10-02T11:43:33.384998+00:00",
-        "lease_expires_at": "2026-10-02T17:43:33.384998+00:00",
-        "run_id": "36984991931"
       }
     },
     "26658": {
@@ -242028,6 +242030,12 @@
         "source_id": "32673977",
         "display_name": "Die My Love (2025) 1440p CZ Titulky",
         "planned_at": "2026-10-02T11:17:14.516664+00:00"
+      },
+      "claim": {
+        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-2",
+        "claimed_at": "2026-10-02T11:44:17.122192+00:00",
+        "lease_expires_at": "2026-10-02T17:44:17.122192+00:00",
+        "run_id": "36984991931"
       }
     },
     "34950": {
@@ -307817,5 +307825,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T11:44:12.314042+00:00"
+  "updated_at": "2026-10-02T11:44:19.237834+00:00"
 }
