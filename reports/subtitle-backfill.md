@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:39:40.192479+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:39:51.879377+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 570, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 299, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 569, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 300, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -81,6 +81,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:04.469322+00:00 |
 | [Daleká cesta (1949) 1080p CZ Titulky.mkv](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:21.789825+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:09.434234+00:00 |
+| [Deaf President Now! (2025) 1080p CZ Titulky](https://prehraj.to/deaf-president-now-2025-1080p-cz-titulky-mp4/62ab18e2520a51f3) (ID 29409939) | [Sdílej 31247368](https://sdilej.cz/31247368/deaf-president-now-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:39:51.879273+00:00 |
 | [Death Note (2017) SD CZ Titulky](https://prehraj.to/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:05.153872+00:00 |
 | [Death of a Superhero (2011) 1080p CZ Titulky](https://prehraj.to/death-of-a-superhero-2011-1080p-cz-titulky-mp4/573f87a402dcceed) (ID 29373296) | [Sdílej 34748652](https://sdilej.cz/34748652/death-of-a-superhero-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:38:48.961818+00:00 |
 | [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:23.163908+00:00 |
