@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:24:33.102868+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:24:45.977111+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 62, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 779, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 61, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 780, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -330,6 +330,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Fast Girls (2012) SD CZ Titulky](https://prehraj.to/fast-girls-2012-sd-cz-titulky-mp4/43919444d28ae1ec) (ID 29272988) | [Sdílej 34780103](https://sdilej.cz/34780103/fast-girls-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:06.187657+00:00 |
 | [Fear Below (2024) 720p CZ Titulky](https://prehraj.to/fear-below-2024-720p-cz-titulky-mp4/4a0a00a0597ca2c9) (ID 29688974) | [Sdílej 34686484](https://sdilej.cz/34686484/fear-below-2024-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:15.461303+00:00 |
 | [Fed Up (2014) 1080p CZ Titulky](https://prehraj.to/fed-up-2014-1080p-cz-titulky-mp4/dd29153bb105c6c5) (ID 29559122) | [Sdílej 34738453](https://sdilej.cz/34738453/fed-up-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:09.331509+00:00 |
+| [Feral (2017) SD CZ Titulky](https://prehraj.to/feral-2017-sd-cz-titulky-mp4/bba7a63e6c5755d6) (ID 29750234) | [Sdílej 34471287](https://sdilej.cz/34471287/feral.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:24:45.977011+00:00 |
 | [Fermo posta Tinto Brass (1995) 1080p CZ Titulky](https://prehraj.to/fermo-posta-tinto-brass-1995-1080p-cz-titulky-mp4/cab93a0cf7795167) (ID 29648614) | [Sdílej 34785147](https://sdilej.cz/34785147/fermo-posta-tinto-brass-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:35.776355+00:00 |
 | [Ferry (2021) 1080p CZ Titulky](https://prehraj.to/ferry-2021-1080p-cz-titulky-mp4/728a8bbc40616471) (ID 29560808) | [Sdílej 34730871](https://sdilej.cz/34730871/ferry-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:53.636835+00:00 |
 | [Fetih 1453 (2012) SD CZ Titulky](https://prehraj.to/fetih-1453-2012-sd-cz-titulky-avi/9c8e788c36361b7f) (ID 29288120) | [Sdílej 15619435](https://sdilej.cz/15619435/fetih-1453-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:50.229450+00:00 |
