@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T04:39:27.401472+00:00
+Poslední aktualizace (UTC): 2026-10-02T04:39:35.524157+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 66.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 694, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 182, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 693, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 183, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -177,6 +177,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:14.924343+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:17.331046+00:00 |
 | [Fractured (2018) SD CZ Titulky](https://prehraj.to/fractured-2018-sd-cz-titulky-mkv/ccf8866a5cc6e4ff) (ID 29313928) | [Sdílej 10955141](https://sdilej.cz/10955141/fractured-2018-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:42.866120+00:00 |
+| [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:35.524030+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:09:09.809855+00:00 |
 | [GODZILLA (2017) SD CZ Titulky.avi](https://prehraj.to/godzilla-2017-sd-cz-titulky-avi/59059d956be70179) (ID 29615057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-01T21:31:04.907608+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:39.964292+00:00 |
