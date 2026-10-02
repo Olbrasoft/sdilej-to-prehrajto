@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:01:47.582684+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:01:56.969366+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 123, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 721, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 122, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 722, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -495,6 +495,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:15.632916+00:00 |
 | [Maják na konci světa (1971) 720p CZ Titulky](https://prehraj.to/majak-na-konci-sveta-1971-720p-cz-titulky-mp4/76205f28e71023a1) (ID 29284598) | [Sdílej 34755903](https://sdilej.cz/34755903/majak-na-konci-sveta-1971-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:31.441804+00:00 |
 | [Maktub (2017) SD CZ Titulky](https://prehraj.to/maktub-2017-sd-cz-titulky-mp4/180183a8c9c32ed3) (ID 29482808) | [Sdílej 34737380](https://sdilej.cz/34737380/maktub-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:36.842962+00:00 |
+| [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:01:56.969265+00:00 |
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:09.513360+00:00 |
 | [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:52:54.224818+00:00 |
 | [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:18.242700+00:00 |
