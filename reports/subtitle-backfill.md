@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T07:42:20.709150+00:00
+Poslední aktualizace (UTC): 2026-10-02T07:42:29.841005+00:00
 
 Zkontrolováno videí: 1658. Další stránka kontroly: 6.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 654, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 218, `source_provenance_missing`: 97, `source_unavailable`: 17, `target_processing`: 148
+Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 653, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 219, `source_provenance_missing`: 97, `source_unavailable`: 17, `target_processing`: 148
 
 ## K ručnímu doplnění nebo ověření
 
@@ -226,6 +226,7 @@ Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncert
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:10.608010+00:00 |
 | [Jsem s tebou (2004) SD CZ Titulky](https://prehraj.to/jsem-s-tebou-2004-sd-cz-titulky-mp4/8fbc9f39ecdcba67) (ID 29261675) | [Sdílej 34751375](https://sdilej.cz/34751375/jsem-s-tebou-2004-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:33:07.321061+00:00 |
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:09:11.888211+00:00 |
+| [Kdyby ulice Beale mohla mluvit (2018) 1080p CZ Titulky](https://prehraj.to/kdyby-ulice-beale-mohla-mluvit-2018-1080p-cz-titulky-mkv/6ea348ff9fee93f5) (ID 29347838) | [Sdílej 12514136](https://sdilej.cz/12514136/if.beale.street.could.talk.2018.1080p.bluray.x264.dts-hd.ma.cz.eng.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:42:29.840902+00:00 |
 | [Keeper of Darkness (2015) 1080p CZ Titulky](https://prehraj.to/keeper-of-darkness-2015-1080p-cz-titulky-mkv/b055d3c3f5d25f54) (ID 29284602) | [Sdílej 10328546](https://sdilej.cz/10328546/keeper-of-darkness-2015-chinese-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:38.723388+00:00 |
 | [Kevin Hart: What Now? (2016) 1080p CZ Titulky](https://prehraj.to/kevin-hart-what-now-2016-1080p-cz-titulky-mkv/9461846f718826b8) (ID 29614983) | [Sdílej 6918441](https://sdilej.cz/6918441/kevin-hart-what-now-2016-1080p-bluray-cyro.se-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T05:33:55.194204+00:00 |
 | [Klondike (2022) 1080p CZ Titulky](https://prehraj.to/klondike-2022-1080p-cz-titulky-mkv/a6add9704ae9ee77) (ID 29883168) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:23.421363+00:00 |
