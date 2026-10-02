@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:44:04.421616+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:44:15.497308+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 300, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 560, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 7, `existing_tracks_uncertain`: 133, `pending`: 299, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 561, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 21, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -479,6 +479,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [No Way Out (2022) SD CZ Titulky](https://prehraj.to/no-way-out-2022-sd-cz-titulky-avi/67803e090f82c453) (ID 29612619) | [Sdílej 27646570](https://sdilej.cz/27646570/no.way.out.2022.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:29:59.775534+00:00 |
 | [No entres (2024) 1080p CZ Titulky](https://prehraj.to/no-entres-2024-1080p-cz-titulky-mp4/d42c874b15edef05) (ID 29273058) | [Sdílej 34724888](https://sdilej.cz/34724888/no-entres-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:42.482976+00:00 |
 | [Noc ohňů (2021) 1080p CZ Titulky](https://prehraj.to/noc-ohnu-2021-1080p-cz-titulky-mp4/3089b26fdbde99d4) (ID 29560913) | [Sdílej 34729165](https://sdilej.cz/34729165/noc-ohnu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:17.955772+00:00 |
+| [Noc v New Yorku (2014) 1080p CZ Titulky](https://prehraj.to/noc-v-new-yorku-2014-1080p-cz-titulky-mp4/969ed265e9f762da) (ID 29637479) | [Sdílej 33219207](https://sdilej.cz/33219207/before-we-go-2014-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:44:15.497199+00:00 |
 | [Nymfomanka, část II. (2013) SD CZ Titulky](https://prehraj.to/nymfomanka-cast-ii-2013-sd-cz-titulky-mkv/260057aa5f0a099a) (ID 29133738) | [Sdílej 31061813](https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-01T14:19:47.396719+00:00 |
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T07:40:04.863817+00:00 |
 | [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:24.957369+00:00 |
