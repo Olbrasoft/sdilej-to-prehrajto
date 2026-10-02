@@ -290111,17 +290111,19 @@
       }
     },
     "8101": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33977351",
+          "reason": "Request failed for https://sdilej.cz/33977351/potopa-sveta-2025-sci-fi-drama-j.korea-czdab.uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T11:17:05.962005+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33977351",
         "display_name": "Potopa světa (2025) 4K CZ Dabing",
         "planned_at": "2026-10-02T10:01:51.379219+00:00"
-      },
-      "claim": {
-        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-2",
-        "claimed_at": "2026-10-02T11:16:20.187006+00:00",
-        "lease_expires_at": "2026-10-02T17:16:20.187006+00:00",
-        "run_id": "36984991931"
       }
     },
     "20429": {
@@ -291202,6 +291204,12 @@
         "source_id": "14753430",
         "display_name": "Rudý škorpion (1988) 1080p CZ Dabing",
         "planned_at": "2026-10-02T10:01:51.786813+00:00"
+      },
+      "claim": {
+        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-0",
+        "claimed_at": "2026-10-02T11:17:05.003973+00:00",
+        "lease_expires_at": "2026-10-02T17:17:05.003973+00:00",
+        "run_id": "36984991931"
       }
     },
     "15173": {
@@ -307433,5 +307441,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T11:17:02.731541+00:00"
+  "updated_at": "2026-10-02T11:17:05.962023+00:00"
 }
