@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:47:04.587225+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:47:15.107924+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 840, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 22, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 841, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 21, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -409,6 +409,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:38:33.642652+00:00 |
 | [Holka od koní (2020) 1080p CZ Titulky](https://prehraj.to/holka-od-koni-2020-1080p-cz-titulky-mp4/22b1f3a93a7f419c) (ID 29911915) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:40:01.776051+00:00 |
 | [Hollywoodské rajdy s motorovými pilami (1988) 1080p CZ Titulky](https://prehraj.to/hollywoodske-rajdy-s-motorovymi-pilami-1988-1080p-cz-titulky-mp4/58b415d109fc643f) (ID 29706678) | [Sdílej 32513560](https://sdilej.cz/32513560/hollywood-chainsaw-hookers-1988-legendado-1080p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:41:18.752297+00:00 |
+| [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:47:15.107794+00:00 |
 | [Holy Night: Demon Hunters (2025) 1080p CZ Titulky](https://prehraj.to/holy-night-demon-hunters-2025-1080p-cz-titulky-mp4/5749c49a012b57a8) (ID 29693713) | [Sdílej 31985859](https://sdilej.cz/31985859/holy-night-demon-hunters-2025-cz-titulky-by-karol.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:39.814889+00:00 |
 | [Holá sebeúcta (2021) 1080p CZ Titulky](https://prehraj.to/hola-sebeucta-2021-1080p-cz-titulky-mp4/ce3168e938c731d5) (ID 29332800) | [Sdílej 34730773](https://sdilej.cz/34730773/hola-sebeucta-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:52:04.436764+00:00 |
 | [Home Invasion (2016) SD CZ Titulky](https://prehraj.to/home-invasion-2016-sd-cz-titulky-avi/3d433bbe8dcb9fc9) (ID 29905333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:13.803967+00:00 |
@@ -1142,7 +1143,6 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-02T06:52:14.972558+00:00 |
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | source_unavailable | 2026-10-01T18:44:24.532751+00:00 |
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | source_unavailable | 2026-10-01T18:45:31.531356+00:00 |
-| [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | source_unavailable | 2026-10-01T18:43:49.231017+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-01T22:32:02.070118+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-02T15:22:45.668707+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-02T14:00:48.903987+00:00 |
