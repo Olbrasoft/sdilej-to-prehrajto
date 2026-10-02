@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:45:39.849806+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:45:50.206622+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 538, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 331, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 537, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 332, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 17, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -262,6 +262,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Jaký otec, takový syn (2013) 1080p CZ Titulky](https://prehraj.to/jaky-otec-takovy-syn-2013-1080p-cz-titulky-mp4/ee47f5378f3f2999) (ID 29320755) | [Sdílej 33466273](https://sdilej.cz/33466273/jaky-otec-takovy-syn-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:38:05.920427+00:00 |
 | [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:32:08.362823+00:00 |
 | [Je ne suis pas un homme facile (2018) 1080p CZ Titulky](https://prehraj.to/je-ne-suis-pas-un-homme-facile-2018-1080p-cz-titulky-mkv/265c940fa2240f75) (ID 29271998) | [Sdílej 11763794](https://sdilej.cz/11763794/je-ne-suis-pas-un-homme-facile-i-am-not-an-easy-man-2018-sk-titulky-1080pwebrip-x264-dd5.1-1-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:32:09.239831+00:00 |
+| [Je to jen konec sveta (2016) 1080p CZ Titulky](https://prehraj.to/je-to-jen-konec-sveta-2016-1080p-cz-titulky-mp4/3eaaa5216aaee4c8) (ID 29443232) | [Sdílej 30611907](https://sdilej.cz/30611907/je-to-jen-konec-sveta-2016-fr-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:50.206512+00:00 |
 | [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:33.597862+00:00 |
 | [Jim Jefferies: Intolerance (2020) 1080p CZ Titulky](https://prehraj.to/jim-jefferies-intolerance-2020-1080p-cz-titulky-mp4/d59bb7f1d708870d) (ID 29326703) | [Sdílej 34733091](https://sdilej.cz/34733091/jim-jefferies-intolerance-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:01.626239+00:00 |
 | [Jižní vítr (2018) 720p CZ Titulky](https://prehraj.to/jizni-vitr-2018-720p-cz-titulky-mkv/c467fd29ece9e008) (ID 29397063) | [Sdílej 12930446](https://sdilej.cz/12930446/juzni.vetar.2018.srbian.webrip.hevc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:22.785892+00:00 |
