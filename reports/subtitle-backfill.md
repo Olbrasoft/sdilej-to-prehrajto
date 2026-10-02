@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:17:03.390834+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:17:16.779046+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 18, `existing_tracks_uncertain`: 140, `pending`: 79, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 763, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 18, `existing_tracks_uncertain`: 140, `pending`: 78, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 764, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -361,6 +361,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Greystone Park (2012) SD CZ Titulky](https://prehraj.to/greystone-park-2012-sd-cz-titulky-avi/8af9662f0b917b08) (ID 29904695) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:11.773922+00:00 |
 | [Grizzly II: Revenge (2020) 720p CZ Titulky](https://prehraj.to/grizzly-ii-revenge-2020-720p-cz-titulky-mp4/ba65d6361e5f8c3c) (ID 29910796) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:57.750939+00:00 |
 | [Gun Crazy (1950) 1080p CZ Titulky](https://prehraj.to/gun-crazy-1950-1080p-cz-titulky-mp4/9d5c89bc93400a34) (ID 29584090) | [Sdílej 34789013](https://sdilej.cz/34789013/gun-crazy-1950-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:29.597782+00:00 |
+| [Gun Woman (2014) SD CZ Titulky](https://prehraj.to/gun-woman-2014-sd-cz-titulky-avi/34294356fc8c9f4e) (ID 29740089) | [Sdílej 9706216](https://sdilej.cz/9706216/gun-woman-zenska-zbran-akcni-drsny-thriller-2014-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:17:16.778910+00:00 |
 | [Gymkata (1985) SD CZ Titulky](https://prehraj.to/gymkata-1985-sd-cz-titulky-mp4/78cdd977c2cdb1e5) (ID 29734641) | [Sdílej 34755492](https://sdilej.cz/34755492/gymkata-1985-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:08:37.854884+00:00 |
 | [Gólověda (2019) 1080p CZ Titulky](https://prehraj.to/goloveda-2019-1080p-cz-titulky-mp4/0926bd5b806c11e6) (ID 29573394) | [Sdílej 34773789](https://sdilej.cz/34773789/goloveda-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:48.942812+00:00 |
 | [H0us3 (2019) SD CZ Titulky](https://prehraj.to/h0us3-2019-sd-cz-titulky-avi/3a371c8e70c4dc0f) (ID 29242748) | [Sdílej 13982151](https://sdilej.cz/13982151/h0us3-2019-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:47.319773+00:00 |
