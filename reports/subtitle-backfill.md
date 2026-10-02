@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:26:39.124785+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:26:51.790157+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 52, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 789, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 19, `existing_tracks_uncertain`: 140, `pending`: 51, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 790, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -786,6 +786,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Slib (2014) SD CZ Titulky](https://prehraj.to/slib-2014-sd-cz-titulky-avi/06e40acfb4af1b6c) (ID 29399692) | [Sdílej 28142034](https://sdilej.cz/28142034/slib-obietnica-2014-titulky-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:32.735741+00:00 |
 | [Slon (2003) SD CZ Titulky](https://prehraj.to/slon-2003-sd-cz-titulky-avi/82c06f9529911a1b) (ID 29178314) | [Sdílej 21156263](https://sdilej.cz/21156263/slon-elephant-2003-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:13.453649+00:00 |
 | [Sloní královna (2018) 720p CZ Titulky](https://prehraj.to/sloni-kralovna-2018-720p-cz-titulky-mp4/f7a3690b7107d7d7) (ID 29559803) | [Sdílej 34736665](https://sdilej.cz/34736665/sloni-kralovna-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:13.403232+00:00 |
+| [Slumber Party Massacre (2021) 1080p CZ Titulky](https://prehraj.to/slumber-party-massacre-2021-1080p-cz-titulky-mp4/e0c008b04d1089e9) (ID 29753180) | [Sdílej 34761202](https://sdilej.cz/34761202/slumber-party-massacre-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:26:51.790036+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636373+00:00 |
 | [Smrt do roku 2020 (2020) 1080p CZ Titulky](https://prehraj.to/smrt-do-roku-2020-2020-1080p-cz-titulky-avi/94fe54d6492c94af) (ID 29747667) | [Sdílej 22458495](https://sdilej.cz/22458495/smrt-do-roku-2020-death-to-2020-2020-komedie-dokument-1920x1080p.-en-ct-title.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:21:34.662078+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:35.884649+00:00 |
