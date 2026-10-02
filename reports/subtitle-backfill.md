@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:08:22.918208+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:08:32.236524+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 432, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 434, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 431, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 435, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -29,6 +29,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Akira (2016) SD CZ Titulky](https://prehraj.to/akira-2016-sd-cz-titulky-mp4/bd027bb78ce55fb6) (ID 29529063) | [Sdílej 34775394](https://sdilej.cz/34775394/akira-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:41.692745+00:00 |
 | [Al di là della legge (1968) SD CZ Titulky](https://prehraj.to/al-di-la-della-legge-1968-sd-cz-titulky-mkv/cc65e5323db8a2fc) (ID 29270176) | [Sdílej 34780009](https://sdilej.cz/34780009/western-cz-tit-beyond-the-law-al-di-l-della-legge-1968-dvdrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:03.977956+00:00 |
 | [Alexander Něvský (1938) SD CZ Titulky](https://prehraj.to/alexander-nevsky-1938-sd-cz-titulky-mp4/2b993025d1e3e6e6) (ID 29411883) | [Sdílej 34699493](https://sdilej.cz/34699493/alexander-nevsky-1938-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:40:56.525565+00:00 |
+| [Alien Apocalypse (2023) SD CZ Titulky](https://prehraj.to/alien-apocalypse-2023-sd-cz-titulky-mp4/15f5bcc46c9fbc77) (ID 29567475) | [Sdílej 34772109](https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:08:32.236392+00:00 |
 | [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:40:37.747823+00:00 |
 | [Along with the Gods: The Last 49 Days (2018) 1080p CZ Titulky](https://prehraj.to/along-with-the-gods-the-last-49-days-2018-1080p-cz-titulky-mkv/7906af4bfd0cc448) (ID 29323499) | [Sdílej 11562320](https://sdilej.cz/11562320/along.with.the.gods-the.last.49.days.2018.1080p.fhdrip.h264.aac-nondrm-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:30.064404+00:00 |
 | [American Satan (2017) SD CZ Titulky](https://prehraj.to/american-satan-2017-sd-cz-titulky-avi/df146b915e883159) (ID 29911940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T08:39:54.362330+00:00 |
