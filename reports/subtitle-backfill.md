@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:06:07.472043+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:06:20.186059+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 103, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 740, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 102, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 741, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -587,6 +587,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:19.903541+00:00 |
 | [Neviňátka (1961) 1080p CZ Titulky](https://prehraj.to/nevinatka-1961-1080p-cz-titulky-mkv/933f47c2df417454) (ID 29397058) | [Sdílej 33293130](https://sdilej.cz/33293130/the-innocents-1961-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:12.934432+00:00 |
 | [Nevídaní (2019) 1080p CZ Titulky](https://prehraj.to/nevidani-2019-1080p-cz-titulky-mp4/d2acbf292d23f391) (ID 29295845) | [Sdílej 34734064](https://sdilej.cz/34734064/nevidani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:11.123776+00:00 |
+| [Nightlight (2015) SD CZ Titulky](https://prehraj.to/nightlight-2015-sd-cz-titulky-avi/e7487c784ff10942) (ID 29732596) | [Sdílej 16621779](https://sdilej.cz/16621779/nightlight-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:06:20.185942+00:00 |
 | [Nightmare Cinema (2018) 1080p CZ Titulky](https://prehraj.to/nightmare-cinema-2018-1080p-cz-titulky-mkv/f75889b9b48eae26) (ID 29706566) | [Sdílej 30696122](https://sdilej.cz/30696122/nightmare-cinema-2018-1080p-bluray-x264-sk-sub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:40:33.764381+00:00 |
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:15.632895+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:04:11.773965+00:00 |
