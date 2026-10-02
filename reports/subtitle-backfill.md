@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:24:15.026875+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:24:23.386128+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 198, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 653, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 197, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 654, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -329,6 +329,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [H0us3 (2019) SD CZ Titulky](https://prehraj.to/h0us3-2019-sd-cz-titulky-avi/3a371c8e70c4dc0f) (ID 29242748) | [Sdílej 13982151](https://sdilej.cz/13982151/h0us3-2019-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:47.319773+00:00 |
 | [HOMUNCULUS (2021) SD CZ Titulky](https://prehraj.to/homunculus-2021-sd-cz-titulky-mkv/ce56cc4caba57929) (ID 29657930) | [Sdílej 29787022](https://sdilej.cz/29787022/homunculus-drama-fantasy-mysteriozni-2021-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:33.879582+00:00 |
 | [Hacker (2018) 1080p CZ Titulky](https://prehraj.to/hacker-2018-1080p-cz-titulky-mp4/16959bdfb90f9e9f) (ID 29537480) | [Sdílej 34774306](https://sdilej.cz/34774306/hacker-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:40.800434+00:00 |
+| [Hacker: Trust No One (2022) 1080p CZ Titulky](https://prehraj.to/hacker-trust-no-one-2022-1080p-cz-titulky-mp4/b7be2c90a59625b0) (ID 29682579) | [Sdílej 34772313](https://sdilej.cz/34772313/hacker-trust-no-one-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:24:23.385983+00:00 |
 | [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:43.395248+00:00 |
 | [Halušky: Dobrodružství s psychedeliky (2020) 1080p CZ Titulky](https://prehraj.to/halusky-dobrodruzstvi-s-psychedeliky-2020-1080p-cz-titulky-mp4/4082b7676326cc0f) (ID 29443389) | [Sdílej 34733180](https://sdilej.cz/34733180/halusky-dobrodruzstvi-s-psychedeliky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:03.679501+00:00 |
 | [Hammers Over the Anvil (1994) SD CZ Titulky](https://prehraj.to/hammers-over-the-anvil-1994-sd-cz-titulky-mp4/75de8673e206249c) (ID 29366900) | [Sdílej 34785379](https://sdilej.cz/34785379/hammers-over-the-anvil-1994-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:37:26.004842+00:00 |
