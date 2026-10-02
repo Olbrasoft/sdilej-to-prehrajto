@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:52:26.946403+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:52:34.939987+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 138.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 847, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 14, `target_processing`: 201, `target_unavailable`: 2
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 848, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 13, `target_processing`: 201, `target_unavailable`: 2
 
 ## Poslední dávka
 
@@ -1030,6 +1030,7 @@ Kontrol: 103; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 1. Důvo
 | [V/H/S (2012) SD CZ Titulky](https://prehraj.to/v-h-s-2012-sd-cz-titulky-avi/f67d16fde51bd378) (ID 29809175) | [Sdílej 34454298](https://sdilej.cz/34454298/v.h.s-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:27.971605+00:00 |
 | [V/H/S/85 (2023) SD CZ Titulky](https://prehraj.to/v-h-s-85-2023-sd-cz-titulky-mp4/9af854231d75dff6) (ID 29539008) | [Sdílej 27431301](https://sdilej.cz/27431301/v-h-s-85-2023-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:58:00.202610+00:00 |
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:49.709383+00:00 |
+| [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:52:34.939871+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:49.606622+00:00 |
 | [Vargur (2018) SD CZ Titulky](https://prehraj.to/vargur-2018-sd-cz-titulky-mkv/2859d2e928a3dc7a) (ID 29717946) | [Sdílej 30859872](https://sdilej.cz/30859872/darfur.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:50:58.495986+00:00 |
 | [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:11.338507+00:00 |
@@ -1156,7 +1157,6 @@ Kontrol: 103; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 1. Důvo
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-02T15:51:52.442865+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-02T14:51:59.067692+00:00 |
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | source_media_timeout | 2026-10-02T14:32:17.876840+00:00 |
-| [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | source_unavailable | 2026-10-02T15:32:34.386305+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-02T16:48:19.221224+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-02T16:48:30.276679+00:00 |
 | [Šiva Baby (2020) 1080p CZ Titulky](https://prehraj.to/siva-baby-2020-1080p-cz-titulky-mkv/b7840e05ea6bb506) (ID 29346819) | [Sdílej 27452081](https://sdilej.cz/27452081/shiva-baby-2020-1080p-bluray-x265-10bit-tigole-.mkv) | source_unavailable | 2026-10-02T16:48:53.122816+00:00 |
