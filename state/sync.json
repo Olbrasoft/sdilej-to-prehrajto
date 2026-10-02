@@ -291934,7 +291934,15 @@
       "attempts": []
     },
     "7462": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34194953",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T20:57:56.850736+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34194953",
         "display_name": "Minecraft film (2025) 4K CZ Dabing",
@@ -292005,6 +292013,18 @@
         "source_id": "27445102",
         "display_name": "Alexander Veliký (2004) 1080p CZ Dabing",
         "planned_at": "2026-10-02T20:24:50.208997+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-0",
+        "claimed_at": "2026-10-02T20:57:57.207745+00:00",
+        "lease_expires_at": "2026-10-03T02:57:57.207745+00:00",
+        "run_id": "37054088523"
+      },
+      "previous_target_id": "29928495",
+      "prepared": {
+        "target_video_id": "29928495",
+        "size_bytes": 3924710154,
+        "prepared_at": "2026-10-02T20:58:19.984963+00:00"
       }
     },
     "8152": {
@@ -314346,5 +314366,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T20:57:33.739171+00:00"
+  "updated_at": "2026-10-02T20:58:19.984978+00:00"
 }
