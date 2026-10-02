@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:48:30.276765+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:48:34.580624+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 846, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 16, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 846, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 15, `target_processing`: 201, `target_unavailable`: 2
 
 ## Poslední dávka
 
@@ -1150,7 +1150,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-02T15:22:45.668707+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-02T14:00:48.903987+00:00 |
 | [Nezapomenutelné dětství (2004) 720p CZ Titulky](https://prehraj.to/nezapomenutelne-detstvi-2004-720p-cz-titulky-mkv/7ebe37f37b10426d) (ID 29443371) | [Sdílej 34871247](https://sdilej.cz/34871247/nezapomenutelne-detstvi-robin-williams-2004-czdab.hd.bluray.mkv) | source_unavailable | 2026-10-02T13:45:54.627703+00:00 |
-| [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | source_unavailable | 2026-10-02T01:10:06.219509+00:00 |
+| [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | target_unavailable | 2026-10-02T16:48:34.580512+00:00 |
 | [Potvora (2017) 1080p CZ Titulky](https://prehraj.to/potvora-2017-1080p-cz-titulky-mkv/3b146ea8753086f1) (ID 29785219) | [Sdílej 13351305](https://sdilej.cz/13351305/en-frygtelig-kvinde-potvora-2017-.1080p.dansk-czsub.mkv) | source_unavailable | 2026-10-02T16:31:22.785344+00:00 |
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-02T10:33:54.324643+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-02T15:51:52.442865+00:00 |
