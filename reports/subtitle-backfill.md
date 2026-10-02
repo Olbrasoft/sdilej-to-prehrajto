@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:40:33.764492+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:40:42.745205+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 15, `existing_tracks_uncertain`: 140, `pending`: 173, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 674, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 15, `existing_tracks_uncertain`: 140, `pending`: 172, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 675, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -636,6 +636,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Proč jsem se jen ženil (2007) 1080p CZ Titulky](https://prehraj.to/proc-jsem-se-jen-zenil-2007-1080p-cz-titulky-mp4/d00c4f2fc10b53ee) (ID 29638103) | [Sdílej 32449354](https://sdilej.cz/32449354/why-did-i-get-married-2007-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:44:37.420111+00:00 |
 | [První muži na měsíci (1964) 1080p CZ Titulky](https://prehraj.to/prvni-muzi-na-mesici-1964-1080p-cz-titulky-mkv/971b9b08e0730c2e) (ID 29366588) | [Sdílej 17636997](https://sdilej.cz/17636997/first.men.in.the.moon.1964.remastered.1080p.bluray.dd5.1.hevc.x265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:53.356840+00:00 |
 | [Présumé coupable (2011) 720p CZ Titulky](https://prehraj.to/presume-coupable-2011-720p-cz-titulky-avi/565a6e3b27656485) (ID 29440619) | [Sdílej 15151822](https://sdilej.cz/15151822/obvineny-presume-coupable-guilty-2011-.-bdrip.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:08.830027+00:00 |
+| [Puppet Master XI: Axis Termination (2017) 1080p CZ Titulky](https://prehraj.to/puppet-master-xi-axis-termination-2017-1080p-cz-titulky-mp4/e0898a9b840c9764) (ID 29706614) | [Sdílej 34768888](https://sdilej.cz/34768888/puppet-master-xi-axis-termination-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:40:42.745096+00:00 |
 | [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:53.735987+00:00 |
 | [Pásky z Nagana (2018) 1080p CZ Titulky](https://prehraj.to/pasky-z-nagana-2018-1080p-cz-titulky-avi/76c71685dd87f659) (ID 29175288) | [Sdílej 34670771](https://sdilej.cz/34670771/pasky-z-nagana-2018-dokument.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:10.009894+00:00 |
 | [Přední linie (2011) SD CZ Titulky](https://prehraj.to/predni-linie-2011-sd-cz-titulky-mp4/c87757728860c807) (ID 29394657) | [Sdílej 34710405](https://sdilej.cz/34710405/predni-linie-2011-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:04.241414+00:00 |
