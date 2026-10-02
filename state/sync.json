@@ -274388,24 +274388,22 @@
       "attempts": []
     },
     "31399": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "34904162",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "29916801",
+          "attempted_at": "2026-10-02T09:53:51.010023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34904162",
         "display_name": "Escape (2023) 1080p CZ Titulky",
         "planned_at": "2026-10-02T08:43:57.895229+00:00"
       },
-      "claim": {
-        "worker_id": "0631a0d6da1c4554a1b147e4f6ab3aba-shard-0",
-        "claimed_at": "2026-10-02T09:44:49.401040+00:00",
-        "lease_expires_at": "2026-10-02T15:44:49.401040+00:00",
-        "run_id": "36984991931"
-      },
-      "previous_target_id": "29916801",
-      "prepared": {
-        "target_video_id": "29916801",
-        "size_bytes": 2029690137,
-        "prepared_at": "2026-10-02T09:44:52.994844+00:00"
-      }
+      "previous_target_id": "29916801"
     },
     "8352": {
       "attempts": [
@@ -306469,5 +306467,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T09:48:07.019988+00:00"
+  "updated_at": "2026-10-02T09:53:51.010040+00:00"
 }
