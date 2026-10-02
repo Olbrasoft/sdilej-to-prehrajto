@@ -268100,17 +268100,19 @@
       }
     },
     "7503": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28101997",
+          "reason": "Request failed for https://sdilej.cz/28101997/knihy-smrti-books-of-blood-1080p-web.dl-x264-ac3-5.1-en-ac3-cz-2020-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T06:01:21.265800+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28101997",
         "display_name": "Knihy smrti (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-02T04:18:55.566305+00:00"
-      },
-      "claim": {
-        "worker_id": "3d8ef466ebec455cb4cf4ba063659bd5-shard-1",
-        "claimed_at": "2026-10-02T06:00:35.410996+00:00",
-        "lease_expires_at": "2026-10-02T12:00:35.410996+00:00",
-        "run_id": "36956698710"
       }
     },
     "28756": {
@@ -303629,5 +303631,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T06:00:45.687650+00:00"
+  "updated_at": "2026-10-02T06:01:21.265818+00:00"
 }
