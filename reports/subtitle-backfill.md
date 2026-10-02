@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:02:03.999933+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:02:13.403352+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 460, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 406, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 459, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 407, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -494,6 +494,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Sladké dětství (2020) SD CZ Titulky](https://prehraj.to/sladke-detstvi-2020-sd-cz-titulky-mp4/c7e1de765dc3ea79) (ID 29256766) | [Sdílej 34732105](https://sdilej.cz/34732105/sladke-detstvi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:09.945841+00:00 |
 | [Slib (2014) SD CZ Titulky](https://prehraj.to/slib-2014-sd-cz-titulky-avi/06e40acfb4af1b6c) (ID 29399692) | [Sdílej 28142034](https://sdilej.cz/28142034/slib-obietnica-2014-titulky-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:32.735741+00:00 |
 | [Slon (2003) SD CZ Titulky](https://prehraj.to/slon-2003-sd-cz-titulky-avi/82c06f9529911a1b) (ID 29178314) | [Sdílej 21156263](https://sdilej.cz/21156263/slon-elephant-2003-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:13.453649+00:00 |
+| [Sloní královna (2018) 720p CZ Titulky](https://prehraj.to/sloni-kralovna-2018-720p-cz-titulky-mp4/f7a3690b7107d7d7) (ID 29559803) | [Sdílej 34736665](https://sdilej.cz/34736665/sloni-kralovna-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:13.403232+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636373+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:35.884649+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:11.454401+00:00 |
