@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:42:41.659650+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:42:51.112344+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 16, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 820, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 15, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 821, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -767,6 +767,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Rytíř stínů: Mezi jinem a jangem (2019) 720p CZ Titulky](https://prehraj.to/rytir-stinu-mezi-jinem-a-jangem-2019-720p-cz-titulky-mp4/baf7c9c01e700228) (ID 29660541) | [Sdílej 34712426](https://sdilej.cz/34712426/rytir-stinu-mezi-jinem-a-jangem-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:05:12.359847+00:00 |
 | [S.T.A.L.K.E.R. Shadow of the Zone (2024) 1080p CZ Titulky](https://prehraj.to/s-t-a-l-k-e-r-shadow-of-the-zone-2024-1080p-cz-titulky-mp4/3373e93e29aa93b4) (ID 29589362) | [Sdílej 34724815](https://sdilej.cz/34724815/s.t.a.l.k.e.r.-shadow-of-the-zone-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:13.642872+00:00 |
 | [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:28.418220+00:00 |
+| [Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky](https://prehraj.to/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-sd-cz-titulky-mp4/aed7498ebad752ae) (ID 29846766) | [Sdílej 34756127](https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:42:51.112244+00:00 |
 | [Sauna (2008) SD CZ Titulky](https://prehraj.to/sauna-2008-sd-cz-titulky-mp4/51917e3b9d5cd615) (ID 29273025) | [Sdílej 34751153](https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:32.009394+00:00 |
 | [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:51:44.059751+00:00 |
 | [Scaramouche (1952) 1080p CZ Titulky](https://prehraj.to/scaramouche-1952-1080p-cz-titulky-mkv/4204b49ede8f2f63) (ID 29845680) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:03:59.766791+00:00 |
