@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:08:32.236524+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:08:51.625895+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 431, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 435, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 430, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 436, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -327,6 +327,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:56.536659+00:00 |
 | [Kyberpeklo: Jak odhalit zneužívání na internetu (2022) SD CZ Titulky](https://prehraj.to/kyberpeklo-jak-odhalit-zneuzivani-na-internetu-2022-sd-cz-titulky-mkv/f39fd4b8ee0d38a5) (ID 29262983) | [Sdílej 34842907](https://sdilej.cz/34842907/cyber-hell-exposing-an-internet-horror-2022-dokumentarni-krimi-jizni-korea-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T10:33:00.000565+00:00 |
 | [L'Étranger (2025) 1080p CZ Titulky](https://prehraj.to/l-etranger-2025-1080p-cz-titulky-mkv/89abec92aa515679) (ID 29460945) | [Sdílej 33445227](https://sdilej.cz/33445227/l.etranger.2025.french.ad.1080p.webrip.10.bits.eac3.5.1.x265-tyhd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T12:45:35.517560+00:00 |
+| [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:08:51.625770+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T06:50:30.659328+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:58.604524+00:00 |
 | [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:57.112536+00:00 |
