@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:05:04.347461+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:05:12.359976+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 135, `pending`: 228, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 627, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 135, `pending`: 227, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 628, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 22, `target_processing`: 174, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -621,6 +621,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Ruská archa (2002) 1080p CZ Titulky](https://prehraj.to/ruska-archa-2002-1080p-cz-titulky-avi/eda8a5f642b0b600) (ID 29364840) | [Sdílej 28504418](https://sdilej.cz/28504418/ruska-archa-2002-----ru.-cz.-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:47.926141+00:00 |
 | [Rust Creek (2019) 720p CZ Titulky](https://prehraj.to/rust-creek-2019-720p-cz-titulky-mp4/bbb95fc52e247a48) (ID 29650410) | [Sdílej 34733890](https://sdilej.cz/34733890/rust-creek-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:56:34.548974+00:00 |
 | [Rvačka mezi muži (1955) 720p CZ Titulky](https://prehraj.to/rvacka-mezi-muzi-1955-720p-cz-titulky-mkv/5124ee132c79fa94) (ID 29293998) | [Sdílej 34572814](https://sdilej.cz/34572814/rvacka-mezi-muzi-1955-cz-titulky-720p-hd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:14.791586+00:00 |
+| [Rytíř stínů: Mezi jinem a jangem (2019) 720p CZ Titulky](https://prehraj.to/rytir-stinu-mezi-jinem-a-jangem-2019-720p-cz-titulky-mp4/baf7c9c01e700228) (ID 29660541) | [Sdílej 34712426](https://sdilej.cz/34712426/rytir-stinu-mezi-jinem-a-jangem-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:05:12.359847+00:00 |
 | [S.T.A.L.K.E.R. Shadow of the Zone (2024) 1080p CZ Titulky](https://prehraj.to/s-t-a-l-k-e-r-shadow-of-the-zone-2024-1080p-cz-titulky-mp4/3373e93e29aa93b4) (ID 29589362) | [Sdílej 34724815](https://sdilej.cz/34724815/s.t.a.l.k.e.r.-shadow-of-the-zone-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:13.642872+00:00 |
 | [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:51:28.418220+00:00 |
 | [Sauna (2008) SD CZ Titulky](https://prehraj.to/sauna-2008-sd-cz-titulky-mp4/51917e3b9d5cd615) (ID 29273025) | [Sdílej 34751153](https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:32.009394+00:00 |
