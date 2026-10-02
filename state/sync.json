@@ -172622,17 +172622,20 @@
       "attempts": []
     },
     "8103": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34878458",
+          "target_video_id": "29925020",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-02T17:59:41.806784+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34878458",
         "display_name": "Host (2025) 1080p CZ Dabing",
         "planned_at": "2026-10-02T17:40:39.210186+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
-        "claimed_at": "2026-10-02T17:54:18.793494+00:00",
-        "lease_expires_at": "2026-10-02T23:54:18.793494+00:00",
-        "run_id": "37020459901"
       },
       "previous_target_id": "29925020",
       "prepared": {
@@ -311851,5 +311854,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T17:59:14.417998+00:00"
+  "updated_at": "2026-10-02T17:59:41.806800+00:00"
 }
