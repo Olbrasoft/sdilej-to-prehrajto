@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:06:46.074952+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:06:54.590655+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 441, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 425, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 440, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 426, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -417,6 +417,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:59.422577+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:34.532522+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:43.526840+00:00 |
+| [Once Upon a Deadpool (2018) 1080p CZ Titulky](https://prehraj.to/once-upon-a-deadpool-2018-1080p-cz-titulky-mkv/dcab2c01cd73f62d) (ID 29563187) | [Sdílej 11074487](https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:06:54.590506+00:00 |
 | [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:08.840403+00:00 |
 | [Operace „Blue Sky“ (1994) 1080p CZ Titulky](https://prehraj.to/operace-blue-sky-1994-1080p-cz-titulky-mp4/20c6be7414d517b3) (ID 29392813) | [Sdílej 32752502](https://sdilej.cz/32752502/blue-sky-1994-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:14.713546+00:00 |
 | [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:27.401373+00:00 |
