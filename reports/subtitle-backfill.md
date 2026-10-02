@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:52:10.654185+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:52:22.092322+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 134, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 711, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 133, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 712, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -684,6 +684,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-02T15:39:57.750928+00:00 |
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:22.082836+00:00 |
 | [Ronnie Coleman: Relentless (2007) SD CZ Titulky](https://prehraj.to/ronnie-coleman-relentless-2007-sd-cz-titulky-mp4/b9a3d5e37c0ec05c) (ID 29214549) | [Sdílej 34781462](https://sdilej.cz/34781462/ronnie-coleman-relentless-2007-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:32:41.981594+00:00 |
+| [Room for Rent (2019) 1080p CZ Titulky](https://prehraj.to/room-for-rent-2019-1080p-cz-titulky-mp4/a0264f33b207020a) (ID 29719978) | [Sdílej 34773611](https://sdilej.cz/34773611/room-for-rent-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:22.092213+00:00 |
 | [Rooney (2022) 720p CZ Titulky](https://prehraj.to/rooney-2022-720p-cz-titulky-mp4/fe1bc46caa543d17) (ID 29216763) | [Sdílej 34726946](https://sdilej.cz/34726946/rooney-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:36.175220+00:00 |
 | [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:25.520542+00:00 |
 | [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T15:03:37.811660+00:00 |
