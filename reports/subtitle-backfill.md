@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:44:36.590010+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:44:46.393010+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 158.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 8, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 828, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 23, `existing_tracks_uncertain`: 140, `pending`: 7, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 829, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 26, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -464,6 +464,7 @@ Kontrol: 93; odesláno: 3; potvrzeno: 3; zbývá k prověření nyní: 102. Dův
 | [Jim Jefferies: Intolerance (2020) 1080p CZ Titulky](https://prehraj.to/jim-jefferies-intolerance-2020-1080p-cz-titulky-mp4/d59bb7f1d708870d) (ID 29326703) | [Sdílej 34733091](https://sdilej.cz/34733091/jim-jefferies-intolerance-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:01.626239+00:00 |
 | [Jižní vítr (2018) 720p CZ Titulky](https://prehraj.to/jizni-vitr-2018-720p-cz-titulky-mkv/c467fd29ece9e008) (ID 29397063) | [Sdílej 12930446](https://sdilej.cz/12930446/juzni.vetar.2018.srbian.webrip.hevc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:22.785892+00:00 |
 | [Jméno (2012) SD CZ Titulky](https://prehraj.to/jmeno-2012-sd-cz-titulky-avi/fc24098a5dcb98ad) (ID 29387731) | [Sdílej 14483600](https://sdilej.cz/14483600/jmeno-le-prenom-2012-kome-drama-fr-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:24.860860+00:00 |
+| [Jodhaa Akbar (2008) SD CZ Titulky](https://prehraj.to/jodhaa-akbar-2008-sd-cz-titulky-mp4/e97cd7eb29a39e91) (ID 29883714) | [Sdílej 34751215](https://sdilej.cz/34751215/jodhaa-akbar-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:46.392895+00:00 |
 | [Joe Prvý (2025) 1080p CZ Titulky](https://prehraj.to/joe-prvy-2025-1080p-cz-titulky-mkv/6edeac9723e0b978) (ID 29629848) | [Sdílej 34890319](https://sdilej.cz/34890319/joe-the-first-2025-sk-dabing-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:35:32.295714+00:00 |
 | [John Mulaney a parta svačinářů (2019) 1080p CZ Titulky](https://prehraj.to/john-mulaney-a-parta-svacinaru-2019-1080p-cz-titulky-mp4/eaad09f317dd6e25) (ID 29352289) | [Sdílej 34734252](https://sdilej.cz/34734252/john-mulaney-a-parta-svacinaru-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:40:17.764251+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:10.608010+00:00 |
