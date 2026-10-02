@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:02:45.530328+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:02:53.636957+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 456, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 410, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 455, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 411, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -228,6 +228,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Fast Color (2018) 1080p CZ Titulky](https://prehraj.to/fast-color-2018-1080p-cz-titulky-mkv/e56a1a339bc42360) (ID 29293662) | [Sdílej 12912800](https://sdilej.cz/12912800/fast.color.2018.limited.1080p.bluray.x264-geckos.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:01.861291+00:00 |
 | [Fast Girls (2012) SD CZ Titulky](https://prehraj.to/fast-girls-2012-sd-cz-titulky-mp4/43919444d28ae1ec) (ID 29272988) | [Sdílej 34780103](https://sdilej.cz/34780103/fast-girls-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:06.187657+00:00 |
 | [Fed Up (2014) 1080p CZ Titulky](https://prehraj.to/fed-up-2014-1080p-cz-titulky-mp4/dd29153bb105c6c5) (ID 29559122) | [Sdílej 34738453](https://sdilej.cz/34738453/fed-up-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:09.331509+00:00 |
+| [Ferry (2021) 1080p CZ Titulky](https://prehraj.to/ferry-2021-1080p-cz-titulky-mp4/728a8bbc40616471) (ID 29560808) | [Sdílej 34730871](https://sdilej.cz/34730871/ferry-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:53.636835+00:00 |
 | [Fetih 1453 (2012) SD CZ Titulky](https://prehraj.to/fetih-1453-2012-sd-cz-titulky-avi/9c8e788c36361b7f) (ID 29288120) | [Sdílej 15619435](https://sdilej.cz/15619435/fetih-1453-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:50.229450+00:00 |
 | [Final Fantasy VII: Advent Children (2005) 1080p CZ Titulky](https://prehraj.to/final-fantasy-vii-advent-children-2005-1080p-cz-titulky-mkv/af53cf83e22694a7) (ID 29460915) | [Sdílej 19680256](https://sdilej.cz/19680256/final.fantasy.vii.advent.children.complete.2005.-cz-titulky-japanese.1080p.bluray.h264.aac-vxt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:28.056007+00:00 |
 | [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:36:18.091699+00:00 |
