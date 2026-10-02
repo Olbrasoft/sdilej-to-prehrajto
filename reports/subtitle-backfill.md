@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T07:41:28.221483+00:00
+Poslední aktualizace (UTC): 2026-10-02T07:41:47.070170+00:00
 
 Zkontrolováno videí: 1658. Další stránka kontroly: 6.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 659, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 214, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
+Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 658, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 215, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
 
 ## K ručnímu doplnění nebo ověření
 
@@ -78,6 +78,7 @@ Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncert
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T04:37:44.411272+00:00 |
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:33:00.958021+00:00 |
 | [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:51.057799+00:00 |
+| [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:47.070049+00:00 |
 | [Dragon Nest: Warriors' Dawn (2014) SD CZ Titulky](https://prehraj.to/dragon-nest-warriors-dawn-2014-sd-cz-titulky-mp4/71b6c45efc52cc53) (ID 29331098) | [Sdílej 34900012](https://sdilej.cz/34900012/dragon-nest-warriors-dawn-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:50.665459+00:00 |
 | [Drishyam (2015) SD CZ Titulky](https://prehraj.to/drishyam-2015-sd-cz-titulky-mp4/4788947288566e8b) (ID 29206672) | [Sdílej 6121944](https://sdilej.cz/6121944/drishyam-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:50.506025+00:00 |
 | [Dálniční hlídka (2019) 4K CZ Titulky](https://prehraj.to/dalnicni-hlidka-2019-4k-cz-titulky-mkv/2814e8c9b4087bcd) (ID 29400538) | [Sdílej 11927098](https://sdilej.cz/11927098/the.highwaymen.2019.2160p.webrip.x264-deflate.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T02:43:43.272326+00:00 |
