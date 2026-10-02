@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T16:04:38.062794+00:00
+Poslední aktualizace (UTC): 2026-10-02T16:04:49.861481+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 108, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 735, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 17, `existing_tracks_uncertain`: 140, `pending`: 107, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 736, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 25, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -542,6 +542,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Moje mistrovské dílo (2018) 1080p CZ Titulky](https://prehraj.to/moje-mistrovske-dilo-2018-1080p-cz-titulky-avi/cddd61543768f9a1) (ID 29175853) | [Sdílej 34271003](https://sdilej.cz/34271003/2018-moje-mistrovske-dilo-komedie-drama-77-argentina-spanelsko-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:22:49.061899+00:00 |
 | [Moje nečekané sexuální dobrodružství (2012) 1080p CZ Titulky](https://prehraj.to/moje-necekane-sexualni-dobrodruzstvi-2012-1080p-cz-titulky-mp4/404091db2cb40115) (ID 29608644) | [Sdílej 34744322](https://sdilej.cz/34744322/moje-necekane-sexualni-dobrodruzstvi-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:44.326963+00:00 |
 | [Moje noc s Maud (1969) SD CZ Titulky](https://prehraj.to/moje-noc-s-maud-1969-sd-cz-titulky-avi/4b2d296ba14ae59f) (ID 28948721) | [Sdílej 29230755](https://sdilej.cz/29230755/moje-noc-s-maud-1969-fran-oise-fabian-cz-tit-zdeno791.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:19.205881+00:00 |
+| [Monolith (2016) 1080p CZ Titulky](https://prehraj.to/monolith-2016-1080p-cz-titulky-mkv/5ea71186d3e389e6) (ID 29732159) | [Sdílej 34220045](https://sdilej.cz/34220045/monolith-2016-1080p-web-dl-dd5-1-h-264-cro-diamond.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:04:49.861384+00:00 |
 | [Monster Island (2017) SD CZ Titulky](https://prehraj.to/monster-island-2017-sd-cz-titulky-avi/730f6bdb8f0d01aa) (ID 29294511) | [Sdílej 8202805](https://sdilej.cz/8202805/monster.island.2017.pldub.web-dl.xvid-kit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:26.166087+00:00 |
 | [Most Beautiful Island (2017) 1080p CZ Titulky](https://prehraj.to/most-beautiful-island-2017-1080p-cz-titulky-mkv/fd2ecf4fa2cc0ce9) (ID 29642449) | [Sdílej 8518733](https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:50:13.758796+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:28.837214+00:00 |
