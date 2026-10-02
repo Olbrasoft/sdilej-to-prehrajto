@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:57:07.407307+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:57:25.033549+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 255, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 601, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 254, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 602, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -158,6 +158,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:40:30.029359+00:00 |
 | [Dobrodružství Hedi a Koksáka (2021) 1080p CZ Titulky](https://prehraj.to/dobrodruzstvi-hedi-a-koksaka-2021-1080p-cz-titulky-mp4/8e1c76afaa3d9b54) (ID 29611354) | [Sdílej 34670770](https://sdilej.cz/34670770/dobrodruzstvi-hedi-a-koksaka-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:28:42.125438+00:00 |
 | [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:39.753243+00:00 |
+| [Dokonalý džentlmen (1992) SD CZ Titulky](https://prehraj.to/dokonaly-dzentlmen-1992-sd-cz-titulky-avi/12bf9562f2037222) (ID 29651304) | [Sdílej 29910183](https://sdilej.cz/29910183/eddie-murphy-dokonaly-dzentlmen-the-distinguished-gentleman-1992-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:57:25.033410+00:00 |
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:42.342612+00:00 |
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:33:00.958021+00:00 |
 | [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:51.057799+00:00 |
