@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T07:41:47.070170+00:00
+Poslední aktualizace (UTC): 2026-10-02T07:41:51.472121+00:00
 
 Zkontrolováno videí: 1658. Další stránka kontroly: 6.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 658, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 215, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
+Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncertain`: 129, `pending`: 657, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 216, `source_provenance_missing`: 97, `source_unavailable`: 16, `target_processing`: 148
 
 ## K ručnímu doplnění nebo ověření
 
@@ -424,6 +424,7 @@ Stavy: `already_has_czech`: 390, `attached_verified`: 3, `existing_tracks_uncert
 | [Vidíš měsíc, Danieli (2019) 1080p CZ Titulky](https://prehraj.to/vidis-mesic-danieli-2019-1080p-cz-titulky-mkv/366024272a4ad479) (ID 29502172) | [Sdílej 13336140](https://sdilej.cz/13336140/ser.du.maanen.daniel.2019.nordic.1080p.web-dl.h.264-rapidcows-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T03:39:06.170983+00:00 |
 | [Vražedné utkání (1982) SD CZ Titulky](https://prehraj.to/vrazedne-utkani-1982-sd-cz-titulky-mkv/93b1d2b81987a7b7) (ID 28976232) | [Sdílej 26126750](https://sdilej.cz/26126750/deadly.encounter.1982.dvdrip.x264-e411-cg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:47:24.811298+00:00 |
 | [Vzpoura (1967) SD CZ Titulky](https://prehraj.to/vzpoura-1967-sd-cz-titulky-avi/c16fa85f4bc2e976) (ID 29122069) | [Sdílej 32744263](https://sdilej.cz/32744263/vzpoura-1967-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:19:10.955193+00:00 |
+| [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:51.471994+00:00 |
 | [Vánoce s vůní máty (2021) 1080p CZ Titulky](https://prehraj.to/vanoce-s-vuni-maty-2021-1080p-cz-titulky-mp4/6435dfae930e7710) (ID 29242109) | [Sdílej 34772685](https://sdilej.cz/34772685/vanoce-s-vuni-maty-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:14.481339+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:09:13.892288+00:00 |
 | [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:54.721137+00:00 |
