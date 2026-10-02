@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T01:48:20.684259+00:00
+Poslední aktualizace (UTC): 2026-10-02T01:48:26.864622+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 126.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 728, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 148, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 727, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 149, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -341,6 +341,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [The Surfer (2024) 1080p CZ Titulky](https://prehraj.to/the-surfer-2024-1080p-cz-titulky-mkv/4460dc700fbc6099) (ID 29655492) | [Sdílej 31261007](https://sdilej.cz/31261007/the-surfer-2024-1080p-amzn-web-dl-ddp5-1-h-264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:30.992359+00:00 |
 | [The Timber (2015) 1080p CZ Titulky](https://prehraj.to/the-timber-2015-1080p-cz-titulky-mkv/06127d5d1a067ce2) (ID 29708325) | [Sdílej 6773323](https://sdilej.cz/6773323/the-timber.2015.1080p.bluray.h264.aac-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:24.238491+00:00 |
 | [The Unheard (2023) 1080p CZ Titulky](https://prehraj.to/the-unheard-2023-1080p-cz-titulky-mkv/87e799e2e5622b73) (ID 29608710) | [Sdílej 25681345](https://sdilej.cz/25681345/the-unheard-2023-cz-titulky-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:30:56.877437+00:00 |
+| [The United States vs. Billie Holiday (2021) 1080p CZ Titulky](https://prehraj.to/the-united-states-vs-billie-holiday-2021-1080p-cz-titulky-mp4/fae63f49ee0e618c) (ID 29291389) | [Sdílej 34772632](https://sdilej.cz/34772632/the-united-states-vs.-billie-holiday-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:48:26.864513+00:00 |
 | [The Vatican Tapes (2015) SD CZ Titulky.avi](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:30.285177+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T01:46:50.902146+00:00 |
 | [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:46.720566+00:00 |
