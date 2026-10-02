@@ -182707,7 +182707,15 @@
       }
     },
     "10095": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34671149",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:42:52.099999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34671149",
         "display_name": "Ženich a dvě nevěsty (2025) 1080p CZ Dabing",
@@ -182728,7 +182736,15 @@
       "attempts": []
     },
     "4843": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27689065",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:43:12.747138+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27689065",
         "display_name": "Metro (2013) 1080p CZ Dabing",
@@ -183191,6 +183207,18 @@
         "source_id": "34773690",
         "display_name": "Mossad (2019) 720p CZ Titulky",
         "planned_at": "2026-10-02T19:36:05.447714+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-0",
+        "claimed_at": "2026-10-02T19:43:13.017743+00:00",
+        "lease_expires_at": "2026-10-03T01:43:13.017743+00:00",
+        "run_id": "37020459901"
+      },
+      "previous_target_id": "29927147",
+      "prepared": {
+        "target_video_id": "29927147",
+        "size_bytes": 1952884078,
+        "prepared_at": "2026-10-02T19:43:35.135602+00:00"
       }
     },
     "15415": {
@@ -313331,5 +313359,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:42:29.673257+00:00"
+  "updated_at": "2026-10-02T19:43:35.135617+00:00"
 }
