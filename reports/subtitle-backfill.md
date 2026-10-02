@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T03:41:04.334768+00:00
+Poslední aktualizace (UTC): 2026-10-02T03:41:11.454496+00:00
 
 Zkontrolováno videí: 1649. Další stránka kontroly: 86.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 703, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 173, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
+Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncertain`: 129, `pending`: 702, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 174, `source_provenance_missing`: 97, `source_unavailable`: 15, `target_processing`: 141
 
 ## K ručnímu doplnění nebo ověření
 
@@ -315,6 +315,7 @@ Stavy: `already_has_czech`: 387, `attached_verified`: 2, `existing_tracks_uncert
 | [Sladké dětství (2020) SD CZ Titulky](https://prehraj.to/sladke-detstvi-2020-sd-cz-titulky-mp4/c7e1de765dc3ea79) (ID 29256766) | [Sdílej 34732105](https://sdilej.cz/34732105/sladke-detstvi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:09.945841+00:00 |
 | [Slon (2003) SD CZ Titulky](https://prehraj.to/slon-2003-sd-cz-titulky-avi/82c06f9529911a1b) (ID 29178314) | [Sdílej 21156263](https://sdilej.cz/21156263/slon-elephant-2003-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:23:13.453649+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T02:43:48.811988+00:00 |
+| [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:41:11.454401+00:00 |
 | [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T21:31:20.930412+00:00 |
 | [Sneekweek (2016) 1080p CZ Titulky](https://prehraj.to/sneekweek-2016-1080p-cz-titulky-mkv/7f737c1ee63dab54) (ID 29736959) | [Sdílej 31436654](https://sdilej.cz/31436654/sneekweek-2016-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T14:17:11.894125+00:00 |
 | [Snow Falls (2023) SD CZ Titulky](https://prehraj.to/snow-falls-2023-sd-cz-titulky-mkv/67006585d9205c9a) (ID 29734733) | [Sdílej 25293770](https://sdilej.cz/25293770/snow-falls-horor-usa-2023-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-01T22:30:42.338818+00:00 |
