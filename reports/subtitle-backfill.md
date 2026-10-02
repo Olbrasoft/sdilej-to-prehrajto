@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:52:09.141822+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:52:21.136741+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 276, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 582, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 8, `existing_tracks_uncertain`: 133, `pending`: 275, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 583, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -269,6 +269,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:33.015384+00:00 |
 | [Faith Under Fire (2018) 720p CZ Titulky](https://prehraj.to/faith-under-fire-2018-720p-cz-titulky-mp4/c0facb9c3c9d1d57) (ID 29636153) | [Sdílej 34770328](https://sdilej.cz/34770328/faith-under-fire-2018-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:43:17.282128+00:00 |
 | [Fall in Love at First Kiss (2019) SD CZ Titulky](https://prehraj.to/fall-in-love-at-first-kiss-2019-sd-cz-titulky-mp4/9185c604b6a73f0f) (ID 29300278) | [Sdílej 34734428](https://sdilej.cz/34734428/fall-in-love-at-first-kiss-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:19.734721+00:00 |
+| [Fantastická zvířata: Přírodní historie (2022) 1080p CZ Titulky](https://prehraj.to/fantasticka-zvirata-prirodni-historie-2022-1080p-cz-titulky-mp4/ed8d50b18d833bbc) (ID 29647401) | [Sdílej 34727377](https://sdilej.cz/34727377/fantasticka-zvirata-prirodni-historie-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:52:21.136627+00:00 |
 | [Farma zvířat (1954) SD CZ Titulky](https://prehraj.to/farma-zvirat-1954-sd-cz-titulky-avi/a39cc1f3c0a1d0b1) (ID 29153284) | [Sdílej 24657429](https://sdilej.cz/24657429/animal-farm.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:34.029936+00:00 |
 | [Fast Color (2018) 1080p CZ Titulky](https://prehraj.to/fast-color-2018-1080p-cz-titulky-mkv/e56a1a339bc42360) (ID 29293662) | [Sdílej 12912800](https://sdilej.cz/12912800/fast.color.2018.limited.1080p.bluray.x264-geckos.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:44:01.861291+00:00 |
 | [Fast Girls (2012) SD CZ Titulky](https://prehraj.to/fast-girls-2012-sd-cz-titulky-mp4/43919444d28ae1ec) (ID 29272988) | [Sdílej 34780103](https://sdilej.cz/34780103/fast-girls-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:30:06.187657+00:00 |
