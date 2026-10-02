@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T13:53:09.650375+00:00
+Poslední aktualizace (UTC): 2026-10-02T13:53:19.456387+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 74.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 498, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 370, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 497, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 371, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 18, `target_processing`: 187, `target_unavailable`: 1
 
 ## K ručnímu doplnění nebo ověření
 
@@ -256,6 +256,7 @@ Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncert
 | [Hyena Road (2015) SD CZ Titulky](https://prehraj.to/hyena-road-2015-sd-cz-titulky-avi/bb09b84f9562c18b) (ID 29299434) | [Sdílej 27004212](https://sdilej.cz/27004212/hyena-road-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:59.488698+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:36.370023+00:00 |
 | [I Am Not a Serial Killer (2016) 720p CZ Titulky](https://prehraj.to/i-am-not-a-serial-killer-2016-720p-cz-titulky-mkv/19d73b1378ad45ef) (ID 29607689) | [Sdílej 6846494](https://sdilej.cz/6846494/i-am-not-a-serial-killer.killer.2016.720p.bluray.x264.dts-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:34:58.321798+00:00 |
+| [I Can Only Imagine (2018) SD CZ Titulky](https://prehraj.to/i-can-only-imagine-2018-sd-cz-titulky-mp4/a446316ce9b0f18e) (ID 29505035) | [Sdílej 34774282](https://sdilej.cz/34774282/i-can-only-imagine-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:53:19.456262+00:00 |
 | [Icarus (2017) 720p CZ Titulky](https://prehraj.to/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T09:36:19.021016+00:00 |
 | [Ice Guardians (2016) SD CZ Titulky](https://prehraj.to/ice-guardians-2016-sd-cz-titulky-avi/513ea5ea0677fe5a) (ID 29212744) | [Sdílej 23694462](https://sdilej.cz/23694462/ice-guardians-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:39:27.941086+00:00 |
 | [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:20:18.492729+00:00 |
