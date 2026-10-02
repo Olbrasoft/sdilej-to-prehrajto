@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:59:46.372232+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:59:59.901295+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 34.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 242, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 613, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 10, `existing_tracks_uncertain`: 133, `pending`: 241, `source_czech_full_text_unsupported`: 3, `source_czech_text_missing`: 614, `source_media_timeout`: 2, `source_provenance_missing`: 102, `source_unavailable`: 22, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -735,6 +735,7 @@ Kontrol: 120; odesláno: 2; potvrzeno: 2; zbývá k prověření nyní: 371. Dů
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:17.489741+00:00 |
 | [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:12.834207+00:00 |
 | [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:45.729781+00:00 |
+| [The River Why (2010) SD CZ Titulky](https://prehraj.to/the-river-why-2010-sd-cz-titulky-mp4/358e6dd85d40e45d) (ID 29656392) | [Sdílej 34749257](https://sdilej.cz/34749257/the-river-why-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:59:59.901185+00:00 |
 | [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:27.720374+00:00 |
 | [The Siege of Jadotville (2016) 1080p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-2016-1080p-cz-titulky-mkv/f25496c787ff5a51) (ID 29393179) | [Sdílej 11755217](https://sdilej.cz/11755217/the.siege.of.jadotville.2016.1080p.webrip.dd5.1.x264-sh0w.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:20.132953+00:00 |
 | [The Stalker (2020) 1080p CZ Titulky](https://prehraj.to/the-stalker-2020-1080p-cz-titulky-mkv/e02d7d2a31aff5a4) (ID 29706464) | [Sdílej 14019948](https://sdilej.cz/14019948/the.stalker.2020.1080p.amzn.web-dl.ddp2.0.h.264-ntg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T14:28:01.443522+00:00 |
