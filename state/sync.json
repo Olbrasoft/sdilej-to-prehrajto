@@ -285524,17 +285524,19 @@
       }
     },
     "9213": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34820800",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-02T19:51:40.777317+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34820800",
         "display_name": "Svatební pohromy (2020) SD CZ Dabing",
         "planned_at": "2026-10-02T19:36:10.450774+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
-        "claimed_at": "2026-10-02T19:51:19.116051+00:00",
-        "lease_expires_at": "2026-10-03T01:51:19.116051+00:00",
-        "run_id": "37020459901"
       }
     },
     "34974": {
@@ -285549,6 +285551,18 @@
         "source_id": "31001301",
         "display_name": "Pět rande (2025) 1080p CZ Titulky",
         "planned_at": "2026-10-02T19:36:10.719089+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a751e11ac47139591d944170ba69c-shard-1",
+        "claimed_at": "2026-10-02T19:51:41.072093+00:00",
+        "lease_expires_at": "2026-10-03T01:51:41.072093+00:00",
+        "run_id": "37020459901"
+      },
+      "previous_target_id": "29927258",
+      "prepared": {
+        "target_video_id": "29927258",
+        "size_bytes": 7710647899,
+        "prepared_at": "2026-10-02T19:52:04.131858+00:00"
       }
     },
     "37303": {
@@ -313510,5 +313524,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T19:51:38.589191+00:00"
+  "updated_at": "2026-10-02T19:52:04.131875+00:00"
 }
