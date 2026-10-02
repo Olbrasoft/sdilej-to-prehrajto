@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:04:43.479061+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:04:59.422681+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 447, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 419, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 4, `existing_tracks_uncertain`: 133, `pending`: 446, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 420, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -411,6 +411,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Nůž ve vodě (1962) SD CZ Titulky](https://prehraj.to/nuz-ve-vode-1962-sd-cz-titulky-mp4/f5abe3c2b754b43c) (ID 29502555) | [Sdílej 34699986](https://sdilej.cz/34699986/nuz-ve-vode-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:57.769829+00:00 |
 | [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:11.410625+00:00 |
 | [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:56.160809+00:00 |
+| [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:59.422577+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:34.532522+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T04:39:43.526840+00:00 |
 | [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:08.840403+00:00 |
