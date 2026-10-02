@@ -286535,17 +286535,19 @@
       "attempts": []
     },
     "13703": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "18703352",
+          "reason": "Request failed for https://sdilej.cz/18703352/co-se-vlastne-stalo-2008-cz-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-02T22:44:42.221237+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18703352",
         "display_name": "Co se vlastně stalo (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-02T22:20:04.101468+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-2",
-        "claimed_at": "2026-10-02T22:43:56.230014+00:00",
-        "lease_expires_at": "2026-10-03T04:43:56.230014+00:00",
-        "run_id": "37054088523"
       }
     },
     "8174": {
@@ -286745,6 +286747,12 @@
         "source_id": "34667274",
         "display_name": "Mafia Mamma (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-02T22:20:04.436893+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-0",
+        "claimed_at": "2026-10-02T22:44:39.843103+00:00",
+        "lease_expires_at": "2026-10-03T04:44:39.843103+00:00",
+        "run_id": "37054088523"
       }
     },
     "7665": {
@@ -315194,5 +315202,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-02T22:44:34.942775+00:00"
+  "updated_at": "2026-10-02T22:44:42.221253+00:00"
 }
