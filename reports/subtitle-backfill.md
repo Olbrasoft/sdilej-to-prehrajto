@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:43:53.769184+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:44:04.481892+00:00
 
 Zkontrolováno videí: 1774. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 161, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 685, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
+Stavy: `already_has_czech`: 411, `attached_verified`: 16, `existing_tracks_uncertain`: 140, `pending`: 160, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 686, `source_media_timeout`: 2, `source_provenance_missing`: 129, `source_unavailable`: 24, `target_processing`: 201, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -191,6 +191,7 @@ Kontrol: 58; odesláno: 5; potvrzeno: 5; zbývá k prověření nyní: 194. Dův
 | [Drishyam (2015) SD CZ Titulky](https://prehraj.to/drishyam-2015-sd-cz-titulky-mp4/4788947288566e8b) (ID 29206672) | [Sdílej 6121944](https://sdilej.cz/6121944/drishyam-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:24:50.506025+00:00 |
 | [Driving Me Crazy (1991) SD CZ Titulky](https://prehraj.to/driving-me-crazy-1991-sd-cz-titulky-mkv/495a83c7e6c7b25b) (ID 29652800) | [Sdílej 30573590](https://sdilej.cz/30573590/blazniva-jazda-driving-me-crazy-1991-en.sk-dvdrip-hevc-576p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:58:01.334108+00:00 |
 | [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:20.169168+00:00 |
+| [Dune World (2021) 1080p CZ Titulky](https://prehraj.to/dune-world-2021-1080p-cz-titulky-mp4/9b10d8a8e4bf3945) (ID 29709431) | [Sdílej 34772958](https://sdilej.cz/34772958/dune-world-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:04.481773+00:00 |
 | [Dálniční hlídka (2019) 4K CZ Titulky](https://prehraj.to/dalnicni-hlidka-2019-4k-cz-titulky-mkv/2814e8c9b4087bcd) (ID 29400538) | [Sdílej 11927098](https://sdilej.cz/11927098/the.highwaymen.2019.2160p.webrip.x264-deflate.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:56.581017+00:00 |
 | [Dítě džungle (2011) SD CZ Titulky](https://prehraj.to/dite-dzungle-2011-sd-cz-titulky-mp4/092db7b7d3b66961) (ID 29432566) | [Sdílej 34780351](https://sdilej.cz/34780351/dite-dzungle-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:11.978692+00:00 |
 | [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:35:54.355753+00:00 |
