@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T15:24:23.386128+00:00
+Poslední aktualizace (UTC): 2026-10-02T15:31:27.667929+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 14.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 197, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 654, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1
+Stavy: `already_has_czech`: 403, `attached_verified`: 12, `existing_tracks_uncertain`: 135, `pending`: 196, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 654, `source_media_timeout`: 2, `source_provenance_missing`: 113, `source_unavailable`: 23, `target_processing`: 174, `target_unavailable`: 1, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -938,6 +938,7 @@ Kontrol: 120; odesláno: 4; potvrzeno: 4; zbývá k prověření nyní: 252. Dů
 | [Filles de joie (2020) 1080p CZ Titulky](https://prehraj.to/filles-de-joie-2020-1080p-cz-titulky-mp4/7683bcad24834e15) (ID 29220739) | [Sdílej 34720657](https://sdilej.cz/34720657/filles-de-joie-2020-cz.mp4) | source_unavailable | 2026-10-01T18:45:31.531356+00:00 |
 | [Flesh and the Spur (1956) 1080p CZ Titulky](https://prehraj.to/flesh-and-the-spur-1956-1080p-cz-titulky-mp4/d8c25e331dcefba2) (ID 29219004) | [Sdílej 34788820](https://sdilej.cz/34788820/flesh-and-the-spur-1956-.mp4) | source_unavailable | 2026-10-01T18:42:06.529466+00:00 |
 | [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | source_unavailable | 2026-10-01T18:43:49.231017+00:00 |
+| [Krvavá neděle (2002) 1080p CZ Titulky](https://prehraj.to/krvava-nedele-2002-1080p-cz-titulky-mkv/2e389ef7694ca348) (ID 29684200) | [Sdílej 27438732](https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv) | upload_unconfirmed | 2026-10-02T15:31:27.667897+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-01T22:32:02.070118+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-02T15:22:45.668707+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-02T14:00:48.903987+00:00 |
