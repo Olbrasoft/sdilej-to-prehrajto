@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:19:56.632287+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:20:11.927286+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 381, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 484, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 380, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 485, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -641,6 +641,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:46.720566+00:00 |
 | [Tiger 3 (2023) 720p CZ Titulky](https://prehraj.to/tiger-3-2023-720p-cz-titulky-mp4/1ec6dcddc853fcf1) (ID 29547184) | [Sdílej 34725287](https://sdilej.cz/34725287/tiger-3-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:00:05.468307+00:00 |
 | [Tina a Vore (2018) 1080p CZ Titulky](https://prehraj.to/tina-a-vore-2018-1080p-cz-titulky-avi/2eed4247752c5d6c) (ID 29490691) | [Sdílej 11294620](https://sdilej.cz/11294620/border-tina-a-vore-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:35.096998+00:00 |
+| [Titan (2021) 1080p CZ Titulky](https://prehraj.to/titan-2021-1080p-cz-titulky-mkv/6ade23cf8a345579) (ID 29602740) | [Sdílej 27451283](https://sdilej.cz/27451283/titane-2021-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:20:11.927167+00:00 |
 | [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:48.636398+00:00 |
 | [Tobol (2019) SD CZ Titulky](https://prehraj.to/tobol-2019-sd-cz-titulky-mp4/793c7f85b112419e) (ID 29287806) | [Sdílej 34853793](https://sdilej.cz/34853793/tobol-the-conquest-of-siberia-2019-titulky.sk.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:25.392245+00:00 |
 | [Toc Toc (2017) 720p CZ Titulky](https://prehraj.to/toc-toc-2017-720p-cz-titulky-mkv/b351d189c132acd8) (ID 29569899) | [Sdílej 14550282](https://sdilej.cz/14550282/toc.toc.2017.bluray.720p.x264.sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:31.192199+00:00 |
