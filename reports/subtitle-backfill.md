@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-02T14:17:37.816475+00:00
+Poslední aktualizace (UTC): 2026-10-02T14:17:45.461969+00:00
 
 Zkontrolováno videí: 1718. Další stránka kontroly: 54.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 396, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 469, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
+Stavy: `already_has_czech`: 402, `attached_verified`: 5, `existing_tracks_uncertain`: 133, `pending`: 395, `source_czech_full_text_unsupported`: 2, `source_czech_text_missing`: 470, `source_media_timeout`: 1, `source_provenance_missing`: 102, `source_unavailable`: 20, `target_processing`: 187, `target_unavailable`: 1
 
 ## Poslední dávka
 
@@ -51,6 +51,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 491. Dů
 | [Baahubali: The Beginning (2015) SD CZ Titulky](https://prehraj.to/baahubali-the-beginning-2015-sd-cz-titulky-mp4/49e5f3a13e73fc13) (ID 29215227) | [Sdílej 34697577](https://sdilej.cz/34697577/baahubali-the-beginning-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:06.938564+00:00 |
 | [Babysitting (2014) 1080p CZ Titulky](https://prehraj.to/babysitting-2014-1080p-cz-titulky-mkv/d35ee7db6c0e9950) (ID 29458514) | [Sdílej 19177621](https://sdilej.cz/19177621/babysitting-1-2014-fra.dab.-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:04.040757+00:00 |
 | [Bad Hair (2020) SD CZ Titulky](https://prehraj.to/bad-hair-2020-sd-cz-titulky-mkv/7a3027a9bed47828) (ID 29652733) | [Sdílej 16446524](https://sdilej.cz/16446524/bad-hair-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T13:59:27.720290+00:00 |
+| [Baggio: Božský copánek (2021) 1080p CZ Titulky](https://prehraj.to/baggio-bozsky-copanek-2021-1080p-cz-titulky-mp4/dce78961197bd72d) (ID 29585364) | [Sdílej 34731587](https://sdilej.cz/34731587/baggio-bozsky-copanek-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:45.461853+00:00 |
 | [Baisers cachés (2016) 720p CZ Titulky](https://prehraj.to/baisers-caches-2016-720p-cz-titulky-mkv/b957dda9c23a615e) (ID 29394141) | [Sdílej 7041561](https://sdilej.cz/7041561/hidden-kisses-baisers-caches-2016-.720p.web-dl-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:31:48.558536+00:00 |
 | [Bajirao Mastani (2015) SD CZ Titulky](https://prehraj.to/bajirao-mastani-2015-sd-cz-titulky-mp4/c5a3b4ba30efa8da) (ID 29489428) | [Sdílej 34738142](https://sdilej.cz/34738142/bajirao-mastani-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:09.755821+00:00 |
 | [Balada o Busteru Scruggsovi (2018) 1080p CZ Titulky](https://prehraj.to/balada-o-busteru-scruggsovi-2018-1080p-cz-titulky-mkv/61f1549d8091eeea) (ID 29409756) | [Sdílej 10816367](https://sdilej.cz/10816367/the-ballad-of-buster-scruggs-2018-1080p.-titul.cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-02T11:32:04.636274+00:00 |
