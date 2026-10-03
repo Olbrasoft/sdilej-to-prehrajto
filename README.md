@@ -33,8 +33,10 @@ do hluboké fronty po deseti a uploadové chyby po 25 změnách. Vše se ještě
 uloží na konci workflow, aby Git historie nerostla o commit pro každý claim.
 Před opakováním se přesný název ověří v nahraných videích, takže
 ani poslední necommitnutá dávka po pádu nevytvoří tichý duplicitní upload.
-Upload běží nejvýše ve třech nezávislých workerech (výchozí hodnota je tři).
-Parametr `--workers` i proměnná `UPLOAD_WORKERS` přijímají pouze hodnoty 1–3.
+Upload běží pouze v jednom workeru, aby se omezil přísun videí do zpracování
+na Přehraj.to. Parametr `--workers` i proměnná `UPLOAD_WORKERS` přijímají
+pouze hodnotu 1. Stejný limit platí pro kontinuální i ruční pilotní upload;
+sdílená concurrency skupina brání jejich současnému běhu.
 Před převzetím filmu
 worker atomicky uloží šestihodinový lease; ostatní workery jej přeskočí. Úspěch
 claim odstraní, běžná chyba jej okamžitě uvolní a po pádu procesu jej lze znovu
@@ -87,7 +89,7 @@ proměnné prostředí jako v GitHub Secrets.
 
 Workflow `backfill-subtitles` má hodinový start a při zbývající práci automaticky
 navazuje další dávkou, vždy pouze v jednom workeru.
-Nezastavuje nahrávání filmů a nemění jeho limit tří souběžných přenosů.
+Nezastavuje nahrávání filmů a nemění jeho limit jednoho přenosu.
 Po dávkách prochází stránky `CZ Titulky` od nejstarších, aby zpracovávaná
 videa neblokovala dokončená. Kontroluje i položky mimo původní titulkovou frontu;
 bez doložené vazby na původní zdroj je ale automaticky neupravuje.

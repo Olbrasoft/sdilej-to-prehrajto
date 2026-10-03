@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import pytest
 
 from sdilej_to_prehrajto.cli import (
@@ -17,24 +19,35 @@ from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 
 
-def test_upload_default_is_three_workers(monkeypatch):
+def test_upload_default_is_one_worker(monkeypatch):
     monkeypatch.delenv("UPLOAD_WORKERS", raising=False)
-    assert MAX_UPLOAD_WORKERS == 3
-    assert parser().parse_args(["upload"]).workers == 3
+    assert MAX_UPLOAD_WORKERS == 1
+    assert parser().parse_args(["upload"]).workers == 1
+    assert additional_worker_count(1, 50, refill_enabled=True) == 0
 
 
-@pytest.mark.parametrize("workers", [0, 4, 6])
+@pytest.mark.parametrize("workers", [0, 2, 3, 4, 6])
 @pytest.mark.parametrize("via_env", [False, True])
-def test_upload_rejects_workers_outside_limit(monkeypatch, workers, via_env):
+@pytest.mark.parametrize("mode", ["upload", "continuous"])
+def test_upload_rejects_workers_outside_limit(monkeypatch, workers, via_env, mode):
     monkeypatch.delenv("UPLOAD_WORKERS", raising=False)
-    args = ["sdilej-sync", "upload"]
+    monkeypatch.setenv("CONTINUOUS_ENABLED", "true")
+    args = ["sdilej-sync", mode]
     if via_env:
         monkeypatch.setenv("UPLOAD_WORKERS", str(workers))
     else:
         args += ["--workers", str(workers)]
     monkeypatch.setattr("sys.argv", args)
-    with pytest.raises(ValueError, match="--workers must be between 1 and 3"):
+    with pytest.raises(ValueError, match="--workers must be between 1 and 1"):
         main()
+
+
+@pytest.mark.parametrize("workflow", ["continuous.yml", "pilot-upload.yml"])
+def test_upload_workflows_enforce_one_worker_and_share_concurrency(workflow):
+    content = (Path(__file__).parents[1] / ".github/workflows" / workflow).read_text()
+    assert 'UPLOAD_WORKERS: "1"' in content
+    assert "group: sdilej-to-prehrajto-target-transfer" in content
+    assert "cancel-in-progress: false" in content
 
 
 def test_empty_plan_does_not_create_additional_workers() -> None:
