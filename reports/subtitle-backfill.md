@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-03T04:40:05.330071+00:00
+Poslední aktualizace (UTC): 2026-10-03T04:40:08.556436+00:00
 
 Zkontrolováno videí: 1852. Další stránka kontroly: 166.
 
@@ -1216,7 +1216,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | target_unavailable | 2026-10-03T03:51:26.151131+00:00 |
 | [Potvora (2017) 1080p CZ Titulky](https://prehraj.to/potvora-2017-1080p-cz-titulky-mkv/3b146ea8753086f1) (ID 29785219) | [Sdílej 13351305](https://sdilej.cz/13351305/en-frygtelig-kvinde-potvora-2017-.1080p.dansk-czsub.mkv) | source_unavailable | 2026-10-02T22:31:46.331586+00:00 |
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-03T03:51:30.181546+00:00 |
-| [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-02T22:31:41.230088+00:00 |
+| [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-03T04:40:08.556370+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-03T03:46:37.757762+00:00 |
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | source_media_timeout | 2026-10-03T02:50:19.750163+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-02T23:31:06.687236+00:00 |
