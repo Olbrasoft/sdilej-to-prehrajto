@@ -275857,17 +275857,19 @@
       }
     },
     "7103": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26229190",
+          "reason": "Request failed for https://sdilej.cz/26229190/saw-5-2008-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-03T00:18:47.311201+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26229190",
         "display_name": "Saw 5 (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-02T23:37:13.132106+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-0",
-        "claimed_at": "2026-10-03T00:18:01.026692+00:00",
-        "lease_expires_at": "2026-10-03T06:18:01.026692+00:00",
-        "run_id": "37054088523"
       }
     },
     "7054": {
@@ -283371,6 +283373,12 @@
         "source_id": "32921822",
         "display_name": "Chaos (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-02T23:37:13.538777+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-1",
+        "claimed_at": "2026-10-03T00:18:45.368853+00:00",
+        "lease_expires_at": "2026-10-03T06:18:45.368853+00:00",
+        "run_id": "37054088523"
       }
     },
     "11962": {
@@ -316246,5 +316254,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-03T00:18:42.843312+00:00"
+  "updated_at": "2026-10-03T00:18:47.311219+00:00"
 }
