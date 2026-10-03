@@ -275462,17 +275462,19 @@
       "attempts": []
     },
     "7783": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32706028",
+          "target_video_id": "29930959",
+          "permanent": false,
+          "attempted_at": "2026-10-03T00:18:42.843296+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32706028",
         "display_name": "Šťastné a krvavé (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-02T23:37:12.721680+00:00"
-      },
-      "claim": {
-        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-1",
-        "claimed_at": "2026-10-03T00:14:33.386756+00:00",
-        "lease_expires_at": "2026-10-03T06:14:33.386756+00:00",
-        "run_id": "37054088523"
       },
       "previous_target_id": "29930959",
       "prepared": {
@@ -275860,6 +275862,12 @@
         "source_id": "26229190",
         "display_name": "Saw 5 (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-02T23:37:13.132106+00:00"
+      },
+      "claim": {
+        "worker_id": "1a4618175cb24098a3908571dd68bd31-shard-0",
+        "claimed_at": "2026-10-03T00:18:01.026692+00:00",
+        "lease_expires_at": "2026-10-03T06:18:01.026692+00:00",
+        "run_id": "37054088523"
       }
     },
     "7054": {
@@ -316238,5 +316246,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-03T00:17:55.907845+00:00"
+  "updated_at": "2026-10-03T00:18:42.843312+00:00"
 }
