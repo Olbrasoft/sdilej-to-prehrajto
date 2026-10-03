@@ -287030,17 +287030,20 @@
       }
     },
     "7617": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34083655",
+          "target_video_id": "29971582",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-03T19:42:03.630786+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34083655",
         "display_name": "Láska se zárukou (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-03T18:02:37.107937+00:00"
-      },
-      "claim": {
-        "worker_id": "586361861df2471f82a1d90ffb398561-shard-0",
-        "claimed_at": "2026-10-03T19:35:29.287742+00:00",
-        "lease_expires_at": "2026-10-04T01:35:29.287742+00:00",
-        "run_id": "37130293001"
       },
       "previous_target_id": "29971582",
       "prepared": {
@@ -323737,5 +323740,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-03T19:35:33.437152+00:00"
+  "updated_at": "2026-10-03T19:42:03.630804+00:00"
 }
