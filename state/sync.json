@@ -289546,17 +289546,20 @@
       "attempts": []
     },
     "8378": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31331364",
+          "target_video_id": "29971796",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-03T20:01:12.340403+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31331364",
         "display_name": "Staroch (2024) 1080p CZ Dabing",
         "planned_at": "2026-10-03T18:02:41.309529+00:00"
-      },
-      "claim": {
-        "worker_id": "586361861df2471f82a1d90ffb398561-shard-0",
-        "claimed_at": "2026-10-03T19:49:36.874940+00:00",
-        "lease_expires_at": "2026-10-04T01:49:36.874940+00:00",
-        "run_id": "37130293001"
       },
       "previous_target_id": "29971796",
       "prepared": {
@@ -323928,5 +323931,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-03T19:50:01.665975+00:00"
+  "updated_at": "2026-10-03T20:01:12.340421+00:00"
 }
