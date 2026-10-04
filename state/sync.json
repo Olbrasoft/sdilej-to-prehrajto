@@ -30700,17 +30700,20 @@
       "previous_target_id": "29896385"
     },
     "19846": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34729380",
+          "target_video_id": "29999215",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-04T20:53:34.544940+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34729380",
         "display_name": "Neslýchané: Palácová potyčka (2021) 1080p CZ Titulky",
         "planned_at": "2026-10-04T20:35:09.571097+00:00"
-      },
-      "claim": {
-        "worker_id": "97a03be2f2fb489bba9aeff7698b49fb-shard-0",
-        "claimed_at": "2026-10-04T20:47:25.077833+00:00",
-        "lease_expires_at": "2026-10-05T02:47:25.077833+00:00",
-        "run_id": "37221577807"
       },
       "previous_target_id": "29999215",
       "prepared": {
@@ -329543,5 +329546,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-04T20:47:47.541417+00:00"
+  "updated_at": "2026-10-04T20:53:34.544960+00:00"
 }
