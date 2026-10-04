@@ -218989,7 +218989,15 @@
       "attempts": []
     },
     "11064": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30780201",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-04T17:51:25.074648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30780201",
         "display_name": "Město bastardů (1971) 1080p CZ Dabing",
@@ -219072,7 +219080,15 @@
       "attempts": []
     },
     "23702": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28485289",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-04T17:51:45.815844+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28485289",
         "display_name": "Smrtící léčba (1996) 1080p CZ Dabing",
@@ -219263,6 +219279,18 @@
         "source_id": "26767915",
         "display_name": "Batman: Duše draka (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-04T17:43:34.528344+00:00"
+      },
+      "claim": {
+        "worker_id": "518812e7b343496382d1bb14155f5646-shard-0",
+        "claimed_at": "2026-10-04T17:51:46.137641+00:00",
+        "lease_expires_at": "2026-10-04T23:51:46.137641+00:00",
+        "run_id": "37221577807"
+      },
+      "previous_target_id": "29996304",
+      "prepared": {
+        "target_video_id": "29996304",
+        "size_bytes": 5340463495,
+        "prepared_at": "2026-10-04T17:52:08.604870+00:00"
       }
     },
     "10796": {
@@ -328207,5 +328235,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-04T17:51:02.429823+00:00"
+  "updated_at": "2026-10-04T17:52:08.604883+00:00"
 }
