@@ -39387,17 +39387,20 @@
       }
     },
     "33600": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "5760244",
+          "target_video_id": "30031416",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-05T17:49:34.911819+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5760244",
         "display_name": "Buck (2011) SD CZ Dabing",
         "planned_at": "2026-10-05T17:05:35.172548+00:00"
-      },
-      "claim": {
-        "worker_id": "34e49f4b03134677addb828d44f74fe2-shard-0",
-        "claimed_at": "2026-10-05T17:45:40.855155+00:00",
-        "lease_expires_at": "2026-10-05T23:45:40.855155+00:00",
-        "run_id": "37341695633"
       },
       "previous_target_id": "30031416",
       "prepared": {
@@ -332220,5 +332223,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-05T17:46:04.693956+00:00"
+  "updated_at": "2026-10-05T17:49:34.911836+00:00"
 }
