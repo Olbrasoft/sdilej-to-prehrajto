@@ -40039,7 +40039,15 @@
       }
     },
     "1416": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "8646647",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-05T19:28:20.231960+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8646647",
         "display_name": "Marshall (2017) 1080p CZ Titulky",
@@ -40047,7 +40055,15 @@
       }
     },
     "1505": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "5347700",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-05T19:28:40.988226+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5347700",
         "display_name": "To nejsi Ty (2014) SD CZ Dabing",
@@ -40063,6 +40079,18 @@
         "source_id": "11926936",
         "display_name": "Barneyho ženy (2010) 1080p CZ Dabing",
         "planned_at": "2026-10-05T17:05:40.945969+00:00"
+      },
+      "claim": {
+        "worker_id": "34e49f4b03134677addb828d44f74fe2-shard-0",
+        "claimed_at": "2026-10-05T19:28:41.272026+00:00",
+        "lease_expires_at": "2026-10-06T01:28:41.272026+00:00",
+        "run_id": "37341695633"
+      },
+      "previous_target_id": "30033406",
+      "prepared": {
+        "target_video_id": "30033406",
+        "size_bytes": 2994890598,
+        "prepared_at": "2026-10-05T19:29:04.322972+00:00"
       }
     },
     "30035": {
@@ -332435,5 +332463,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-05T19:27:52.251786+00:00"
+  "updated_at": "2026-10-05T19:29:04.322989+00:00"
 }
