@@ -40074,17 +40074,20 @@
       "attempts": []
     },
     "14775": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11926936",
+          "target_video_id": "30033406",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-05T19:34:55.304132+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11926936",
         "display_name": "Barneyho ženy (2010) 1080p CZ Dabing",
         "planned_at": "2026-10-05T17:05:40.945969+00:00"
-      },
-      "claim": {
-        "worker_id": "34e49f4b03134677addb828d44f74fe2-shard-0",
-        "claimed_at": "2026-10-05T19:28:41.272026+00:00",
-        "lease_expires_at": "2026-10-06T01:28:41.272026+00:00",
-        "run_id": "37341695633"
       },
       "previous_target_id": "30033406",
       "prepared": {
@@ -332463,5 +332466,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-05T19:29:04.322989+00:00"
+  "updated_at": "2026-10-05T19:34:55.304151+00:00"
 }
