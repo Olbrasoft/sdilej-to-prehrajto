@@ -79299,17 +79299,20 @@
       }
     },
     "25591": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34513107",
+          "target_video_id": "30059312",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-06T19:49:58.022378+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34513107",
         "display_name": "Král videoher (2006) SD CZ Dabing",
         "planned_at": "2026-10-06T15:59:46.203130+00:00"
-      },
-      "claim": {
-        "worker_id": "9f6f10a40dd04245806543b94a07622f-shard-0",
-        "claimed_at": "2026-10-06T19:46:17.951775+00:00",
-        "lease_expires_at": "2026-10-07T01:46:17.951775+00:00",
-        "run_id": "37487749680"
       },
       "previous_target_id": "30059312",
       "prepared": {
@@ -337163,5 +337166,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-06T19:46:23.153114+00:00"
+  "updated_at": "2026-10-06T19:49:58.022398+00:00"
 }
