@@ -78008,17 +78008,20 @@
       }
     },
     "2660": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31370142",
+          "target_video_id": "30056841",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-06T16:57:55.545386+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31370142",
         "display_name": "Zabiják & bodyguard (2017) 1080p CZ Dabing",
         "planned_at": "2026-10-06T15:59:35.978656+00:00"
-      },
-      "claim": {
-        "worker_id": "9f6f10a40dd04245806543b94a07622f-shard-0",
-        "claimed_at": "2026-10-06T16:47:32.757701+00:00",
-        "lease_expires_at": "2026-10-06T22:47:32.757701+00:00",
-        "run_id": "37487749680"
       },
       "previous_target_id": "30056841",
       "prepared": {
@@ -336835,5 +336838,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-06T16:47:56.562763+00:00"
+  "updated_at": "2026-10-06T16:57:55.545405+00:00"
 }
