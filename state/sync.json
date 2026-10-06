@@ -78434,17 +78434,20 @@
       }
     },
     "26597": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14629570",
+          "target_video_id": "30058205",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-06T18:40:13.407208+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14629570",
         "display_name": "Triangle (2009) 1080p CZ Titulky",
         "planned_at": "2026-10-06T15:59:39.280691+00:00"
-      },
-      "claim": {
-        "worker_id": "9f6f10a40dd04245806543b94a07622f-shard-0",
-        "claimed_at": "2026-10-06T18:31:04.125273+00:00",
-        "lease_expires_at": "2026-10-07T00:31:04.125273+00:00",
-        "run_id": "37487749680"
       },
       "previous_target_id": "30058205",
       "prepared": {
@@ -336952,5 +336955,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-06T18:31:07.853993+00:00"
+  "updated_at": "2026-10-06T18:40:13.407266+00:00"
 }
