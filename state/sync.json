@@ -142363,17 +142363,20 @@
       }
     },
     "16244": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35055374",
+          "target_video_id": "30081817",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-07T19:51:18.487873+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35055374",
         "display_name": "Princezna na hrášku (2024) SD CZ Dabing",
         "planned_at": "2026-10-07T17:01:55.077486+00:00"
-      },
-      "claim": {
-        "worker_id": "ea53efe5d5b34e379fb7c2302ece8121-shard-0",
-        "claimed_at": "2026-10-07T19:45:28.121747+00:00",
-        "lease_expires_at": "2026-10-08T01:45:28.121747+00:00",
-        "run_id": "37652923766"
       },
       "previous_target_id": "30081817",
       "prepared": {
@@ -341242,5 +341245,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-07T19:45:51.314966+00:00"
+  "updated_at": "2026-10-07T19:51:18.487893+00:00"
 }
