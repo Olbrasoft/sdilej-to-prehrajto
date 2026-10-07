@@ -142307,17 +142307,20 @@
       }
     },
     "12804": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27746162",
+          "target_video_id": "30081711",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-07T19:45:20.953510+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27746162",
         "display_name": "Černá punčocha (1987) SD CZ Dabing",
         "planned_at": "2026-10-07T17:01:54.746511+00:00"
-      },
-      "claim": {
-        "worker_id": "ea53efe5d5b34e379fb7c2302ece8121-shard-0",
-        "claimed_at": "2026-10-07T19:39:37.731090+00:00",
-        "lease_expires_at": "2026-10-08T01:39:37.731090+00:00",
-        "run_id": "37652923766"
       },
       "previous_target_id": "30081711",
       "prepared": {
@@ -341227,5 +341230,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-07T19:39:42.087390+00:00"
+  "updated_at": "2026-10-07T19:45:20.953530+00:00"
 }
