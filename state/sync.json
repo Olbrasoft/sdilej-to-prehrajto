@@ -142595,7 +142595,15 @@
       "previous_target_id": "29137611"
     },
     "14932": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27737439",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-07T19:58:56.391862+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27737439",
         "display_name": "Velká premiéra (2022) 1080p CZ Dabing",
@@ -142648,7 +142656,15 @@
       }
     },
     "16708": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29682449",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-07T19:59:17.230156+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29682449",
         "display_name": "Medvědí princ (2015) 1080p CZ Dabing",
@@ -142661,6 +142677,18 @@
         "source_id": "33766775",
         "display_name": "Smrt stopařek (1979) 1080p CZ Dabing",
         "planned_at": "2026-10-07T17:01:57.074191+00:00"
+      },
+      "claim": {
+        "worker_id": "ea53efe5d5b34e379fb7c2302ece8121-shard-0",
+        "claimed_at": "2026-10-07T19:59:17.561694+00:00",
+        "lease_expires_at": "2026-10-08T01:59:17.561694+00:00",
+        "run_id": "37652923766"
+      },
+      "previous_target_id": "30082020",
+      "prepared": {
+        "target_video_id": "30082020",
+        "size_bytes": 1949488450,
+        "prepared_at": "2026-10-07T19:59:40.965274+00:00"
       }
     },
     "17163": {
@@ -341276,5 +341304,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-07T19:58:26.510132+00:00"
+  "updated_at": "2026-10-07T19:59:40.965291+00:00"
 }
