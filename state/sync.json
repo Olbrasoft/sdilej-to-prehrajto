@@ -141130,17 +141130,20 @@
       "previous_target_id": "29175998"
     },
     "16209": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33257531",
+          "target_video_id": "30080160",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-07T17:59:15.980962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33257531",
         "display_name": "Ušák Chicky 2 a tajemství Sviště (2025) 1080p CZ Dabing",
         "planned_at": "2026-10-07T17:01:50.422296+00:00"
-      },
-      "claim": {
-        "worker_id": "ea53efe5d5b34e379fb7c2302ece8121-shard-0",
-        "claimed_at": "2026-10-07T17:51:39.729432+00:00",
-        "lease_expires_at": "2026-10-07T23:51:39.729432+00:00",
-        "run_id": "37652923766"
       },
       "previous_target_id": "30080160",
       "prepared": {
@@ -341054,5 +341057,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-07T17:51:44.432366+00:00"
+  "updated_at": "2026-10-07T17:59:15.980984+00:00"
 }
