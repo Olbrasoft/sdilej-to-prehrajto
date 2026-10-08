@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T14:38:16.961325+00:00
+Poslední aktualizace (UTC): 2026-10-08T14:38:54.488148+00:00
 
 Zkontrolováno videí: 2043. Další stránka kontroly: 183.
 
@@ -1284,7 +1284,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Unleashing Mr. Darcy (2016) SD CZ Titulky](https://prehraj.to/unleashing-mr-darcy-2016-sd-cz-titulky-mp4/22f281d43d43efab) (ID 29287829) | [Sdílej 16620609](https://sdilej.cz/16620609/unleashing.mr.darcy.2016.webrip.x264-ion10.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:47:33.128258+00:00 |
 | [Unplanned (2019) 1080p CZ Titulky](https://prehraj.to/unplanned-2019-1080p-cz-titulky-mkv/d676a95faf1cebfa) (ID 29908256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T08:57:40.384065+00:00 |
 | [Untouchable (2019) 1080p CZ Titulky](https://prehraj.to/untouchable-2019-1080p-cz-titulky-mkv/1855a4aceb49edbc) (ID 30095289) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T14:00:50.095325+00:00 |
-| [Uri: The Surgical Strike (2019) 1080p CZ Titulky](https://prehraj.to/uri-the-surgical-strike-2019-1080p-cz-titulky-avi/49f71f232d7277cb) (ID 29116528) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:49.825387+00:00 |
+| [Uri: The Surgical Strike (2019) 1080p CZ Titulky](https://prehraj.to/uri-the-surgical-strike-2019-1080p-cz-titulky-avi/49f71f232d7277cb) (ID 29116528) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:38:54.488045+00:00 |
 | [Uspávač (2017) 720p CZ Titulky](https://prehraj.to/uspavac-2017-720p-cz-titulky-mkv/798165dc920bacd7) (ID 29818775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:53:19.463094+00:00 |
 | [V kuchyni (2024) 1080p CZ Titulky](https://prehraj.to/v-kuchyni-2024-1080p-cz-titulky-mkv/f62964fbf7b5264a) (ID 29576745) | [Sdílej 30627533](https://sdilej.cz/30627533/la-cocina-alonso-ruizpalacios-2024-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:15:32.136740+00:00 |
 | [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:54:07.266910+00:00 |
