@@ -147614,24 +147614,22 @@
       }
     },
     "5546": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "30679544",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30092357",
+          "attempted_at": "2026-10-08T06:51:22.068662+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30679544",
         "display_name": "Tátova volha (2018) 1080p CZ Dabing",
         "planned_at": "2026-10-08T04:44:20.741496+00:00"
       },
-      "claim": {
-        "worker_id": "aa755644969d4de09436dfe36566a634-shard-0",
-        "claimed_at": "2026-10-08T06:37:31.138560+00:00",
-        "lease_expires_at": "2026-10-08T12:37:31.138560+00:00",
-        "run_id": "37728196806"
-      },
-      "previous_target_id": "30092357",
-      "prepared": {
-        "target_video_id": "30092357",
-        "size_bytes": 1866448727,
-        "prepared_at": "2026-10-08T06:37:34.835181+00:00"
-      }
+      "previous_target_id": "30092357"
     },
     "37541": {
       "attempts": [
@@ -342872,5 +342870,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-08T06:37:34.835201+00:00"
+  "updated_at": "2026-10-08T06:51:22.068681+00:00"
 }
