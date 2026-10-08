@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T14:38:09.504134+00:00
+Poslední aktualizace (UTC): 2026-10-08T14:38:16.961325+00:00
 
 Zkontrolováno videí: 2043. Další stránka kontroly: 183.
 
@@ -262,7 +262,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:53.785399+00:00 |
 | [Detention (2011) SD CZ Titulky](https://prehraj.to/detention-2011-sd-cz-titulky-mp4/ff932bdfed1d8a14) (ID 29936501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:59:12.797057+00:00 |
 | [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:49.834141+00:00 |
-| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:18:15.704467+00:00 |
+| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:38:16.961193+00:00 |
 | [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:23.607028+00:00 |
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T18:40:30.029359+00:00 |
 | [Dobrodruzi (2017) SD CZ Titulky](https://prehraj.to/dobrodruzi-2017-sd-cz-titulky-mkv/082e111ddb1eec4e) (ID 29917102) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:57:46.011257+00:00 |
