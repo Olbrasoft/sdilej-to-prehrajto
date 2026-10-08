@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T13:56:15.317991+00:00
+Poslední aktualizace (UTC): 2026-10-08T13:56:28.174719+00:00
 
 Zkontrolováno videí: 2042. Další stránka kontroly: 43.
 
@@ -648,7 +648,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Lesní jahody (1957) SD CZ Titulky](https://prehraj.to/lesni-jahody-1957-sd-cz-titulky-avi/4633f5b3104c8921) (ID 29282104) | [Sdílej 32215590](https://sdilej.cz/32215590/lesni-jahody-1957-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:09:55.372530+00:00 |
 | [Letový režim (2020) 1080p CZ Titulky](https://prehraj.to/letovy-rezim-2020-1080p-cz-titulky-mp4/28294ab04560d3ca) (ID 29914287) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:01:39.824349+00:00 |
 | [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:15:46.751706+00:00 |
-| [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:34.295670+00:00 |
+| [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:56:28.174551+00:00 |
 | [Lidská stonožka 3 (2015) 1080p CZ Titulky.mp4](https://prehraj.to/lidska-stonozka-3-2015-1080p-cz-titulky-mp4/78b7639c091505f3) (ID 29090222) | [Sdílej 33435537](https://sdilej.cz/33435537/lidska-stonoz-ka-3.-2015-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:17:59.158505+00:00 |
 | [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:22.643621+00:00 |
 | [Life After Beth (2014) SD CZ Titulky](https://prehraj.to/life-after-beth-2014-sd-cz-titulky-avi/70e04e2402a204a1) (ID 29721145) | [Sdílej 3743477](https://sdilej.cz/3743477/life-after-beth-2014-360p-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:01:23.324668+00:00 |
