@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T22:34:34.351689+00:00
+Poslední aktualizace (UTC): 2026-10-08T22:34:43.103689+00:00
 
 Zkontrolováno videí: 2060. Další stránka kontroly: 184.
 
@@ -1107,7 +1107,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T21:47:43.450598+00:00 |
 | [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:18.755165+00:00 |
 | [Střed světa (2001) SD CZ Titulky](https://prehraj.to/stred-sveta-2001-sd-cz-titulky-avi/79acd4b2c9241474) (ID 29640156) | [Sdílej 23104985](https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:49:53.046927+00:00 |
-| [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:54.510496+00:00 |
+| [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T22:34:43.103572+00:00 |
 | [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:22.046172+00:00 |
 | [Suburban Gothic (2014) 720p CZ Titulky](https://prehraj.to/suburban-gothic-2014-720p-cz-titulky-mkv/2003e064355c0546) (ID 29947165) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T21:52:18.729271+00:00 |
 | [Suite Française (2015) SD CZ Titulky](https://prehraj.to/suite-francaise-2015-sd-cz-titulky-mp4/d1684521361ec087) (ID 29427034) | [Sdílej 34737967](https://sdilej.cz/34737967/suite-fran-aise-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:55.543085+00:00 |
