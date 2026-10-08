@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T14:45:52.186484+00:00
+Poslední aktualizace (UTC): 2026-10-08T14:46:15.977256+00:00
 
 Zkontrolováno videí: 2043. Další stránka kontroly: 183.
 
@@ -738,7 +738,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T22:31:41.653624+00:00 |
 | [My All American (2015) 720p CZ Titulky](https://prehraj.to/my-all-american-2015-720p-cz-titulky-mp4/271a4c43350a84ed) (ID 29407734) | [Sdílej 34775916](https://sdilej.cz/34775916/my-all-american-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:31.583798+00:00 |
 | [My Bodyguard (1980) SD CZ Titulky](https://prehraj.to/my-bodyguard-1980-sd-cz-titulky-mp4/c3be1ac8d9ba7487) (ID 29445263) | [Sdílej 34755746](https://sdilej.cz/34755746/my-bodyguard-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:26.117699+00:00 |
-| [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:38:06.362619+00:00 |
+| [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:46:15.977149+00:00 |
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:45:29.159418+00:00 |
 | [My Teacher, My Obsession (2018) 1080p CZ Titulky](https://prehraj.to/my-teacher-my-obsession-2018-1080p-cz-titulky-mkv/9379a804dc0d25be) (ID 29933231) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:59:08.763325+00:00 |
 | [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:36.589891+00:00 |
