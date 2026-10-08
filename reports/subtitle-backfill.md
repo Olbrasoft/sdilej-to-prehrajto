@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T19:35:07.598201+00:00
+Poslední aktualizace (UTC): 2026-10-08T19:35:27.952567+00:00
 
 Zkontrolováno videí: 2051. Další stránka kontroly: 4.
 
@@ -313,7 +313,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Elita armády (2005) 1080p CZ Titulky](https://prehraj.to/elita-armady-2005-1080p-cz-titulky-mp4/046814d690cc33d8) (ID 29936811) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T19:31:50.521543+00:00 |
 | [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:43:18.542533+00:00 |
 | [Elizabeth Taylor: Ztracené nahrávky (2024) 1080p CZ Titulky](https://prehraj.to/elizabeth-taylor-ztracene-nahravky-2024-1080p-cz-titulky-mp4/62c39813e89e7b1c) (ID 29440774) | [Sdílej 34725065](https://sdilej.cz/34725065/elizabeth-taylor-ztracene-nahravky-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:45:30.589246+00:00 |
-| [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:33:32.806916+00:00 |
+| [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:35:27.952454+00:00 |
 | [Emanuelle e gli ultimi cannibali (1977) SD CZ Titulky](https://prehraj.to/emanuelle-e-gli-ultimi-cannibali-1977-sd-cz-titulky-mp4/71072ef62e57ce57) (ID 29904303) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T18:50:14.887244+00:00 |
 | [Eradication (2022) 1080p CZ Titulky](https://prehraj.to/eradication-2022-1080p-cz-titulky-avi/69d22a5aaf077898) (ID 29908086) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T18:51:09.183731+00:00 |
 | [Escaping the Madhouse: The Nellie Bly Story (2019) 1080p CZ Titulky](https://prehraj.to/escaping-the-madhouse-the-nellie-bly-story-2019-1080p-cz-titulky-mp4/a055023ac112fad2) (ID 29282757) | [Sdílej 34734438](https://sdilej.cz/34734438/escaping-the-madhouse-the-nellie-bly-story-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:13.264073+00:00 |
