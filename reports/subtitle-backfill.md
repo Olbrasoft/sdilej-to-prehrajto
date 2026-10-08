@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T19:32:18.604549+00:00
+Poslední aktualizace (UTC): 2026-10-08T19:32:34.578746+00:00
 
 Zkontrolováno videí: 2051. Další stránka kontroly: 4.
 
@@ -1247,7 +1247,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Thor: God of Thunder (2022) 720p CZ Titulky](https://prehraj.to/thor-god-of-thunder-2022-720p-cz-titulky-mp4/d100c5e80baf1538) (ID 29648483) | [Sdílej 34772159](https://sdilej.cz/34772159/thor-god-of-thunder-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:15.096527+00:00 |
 | [Thriller - drsný film (1973) 1080p CZ Titulky](https://prehraj.to/thriller-drsny-film-1973-1080p-cz-titulky-mp4/d3b318601405ea7e) (ID 29398262) | [Sdílej 34755870](https://sdilej.cz/34755870/thriller-drsny-film-1973-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:28.672433+00:00 |
 | [Tichá noc, krvavá noc (2025) 1080p CZ Titulky](https://prehraj.to/ticha-noc-krvava-noc-2025-1080p-cz-titulky-mkv/cc8fc5bf92c84cf9) (ID 29994597) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T19:32:06.465030+00:00 |
-| [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T19:31:46.720566+00:00 |
+| [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:32:34.578631+00:00 |
 | [Tiger 3 (2023) 720p CZ Titulky](https://prehraj.to/tiger-3-2023-720p-cz-titulky-mp4/1ec6dcddc853fcf1) (ID 29547184) | [Sdílej 34725287](https://sdilej.cz/34725287/tiger-3-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:00:05.468307+00:00 |
 | [Tiger Zinda Hai (2017) 720p CZ Titulky](https://prehraj.to/tiger-zinda-hai-2017-720p-cz-titulky-mp4/e2b89efad4149c80) (ID 29659164) | [Sdílej 34737260](https://sdilej.cz/34737260/tiger-zinda-hai-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:04:29.340018+00:00 |
 | [Tina a Vore (2018) 1080p CZ Titulky](https://prehraj.to/tina-a-vore-2018-1080p-cz-titulky-avi/2eed4247752c5d6c) (ID 29490691) | [Sdílej 11294620](https://sdilej.cz/11294620/border-tina-a-vore-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:52:35.096998+00:00 |
