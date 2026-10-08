@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T21:33:40.818639+00:00
+Poslední aktualizace (UTC): 2026-10-08T21:33:50.038045+00:00
 
 Zkontrolováno videí: 2057. Další stránka kontroly: 184.
 
@@ -758,7 +758,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T18:46:05.376464+00:00 |
 | [Městečko South Park: Vstup do světa patolízalů (2023) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-vstup-do-sveta-patolizalu-2023-1080p-cz-titulky-mp4/d89545ae8635af6a) (ID 29396144) | [Sdílej 27260067](https://sdilej.cz/27260067/south-park-joining-the-panderverse-2023-web-dl-full-hd-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:20.140297+00:00 |
 | [Můj král (2015) SD CZ Titulky](https://prehraj.to/muj-kral-2015-sd-cz-titulky-avi/b0309e1fd2265c5c) (ID 29212827) | [Sdílej 8877241](https://sdilej.cz/8877241/muj-kral-mon-roi-2015-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:47:45.058610+00:00 |
-| [Na Vánoce žádný zázrak (2020) 1080p CZ Titulky](https://prehraj.to/na-vanoce-zadny-zazrak-2020-1080p-cz-titulky-mp4/f56d9c6df66b9089) (ID 29240420) | [Sdílej 34732936](https://sdilej.cz/34732936/na-vanoce-zadny-zazrak-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:41.820174+00:00 |
+| [Na Vánoce žádný zázrak (2020) 1080p CZ Titulky](https://prehraj.to/na-vanoce-zadny-zazrak-2020-1080p-cz-titulky-mp4/f56d9c6df66b9089) (ID 29240420) | [Sdílej 34732936](https://sdilej.cz/34732936/na-vanoce-zadny-zazrak-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:33:50.037935+00:00 |
 | [Na cestě s mámou (2022) 1080p CZ Titulky](https://prehraj.to/na-ceste-s-mamou-2022-1080p-cz-titulky-mp4/9f8edae81bcdb90a) (ID 29708585) | [Sdílej 32617097](https://sdilej.cz/32617097/na-ceste-s-mamou-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:43:25.781307+00:00 |
 | [Na hraně demokracie (2019) 1080p CZ Titulky](https://prehraj.to/na-hrane-demokracie-2019-1080p-cz-titulky-mp4/acd0b3e435da76d1) (ID 29318402) | [Sdílej 34734103](https://sdilej.cz/34734103/na-hrane-demokracie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:16.690144+00:00 |
 | [Na krásném modrém Dunaji (1994) SD CZ Titulky](https://prehraj.to/na-krasnem-modrem-dunaji-1994-sd-cz-titulky-mkv/e45dec6951c76f95) (ID 29699304) | [Sdílej 33871018](https://sdilej.cz/33871018/1994-na-krasnom-modrom-dunaji.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:11.497630+00:00 |
