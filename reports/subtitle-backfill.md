@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T17:36:33.974906+00:00
+Poslední aktualizace (UTC): 2026-10-08T17:36:50.041160+00:00
 
 Zkontrolováno videí: 2051. Další stránka kontroly: 164.
 
@@ -1015,7 +1015,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sentinelle (2023) 1080p CZ Titulky](https://prehraj.to/sentinelle-2023-1080p-cz-titulky-mp4/1159da7830e47542) (ID 29911372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T16:51:32.290154+00:00 |
 | [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:55.954904+00:00 |
 | [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:32:23.515229+00:00 |
-| [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:33:27.911032+00:00 |
+| [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:36:50.041027+00:00 |
 | [Seuwingkijeu (2018) 1080p CZ Titulky](https://prehraj.to/seuwingkijeu-2018-1080p-cz-titulky-mp4/0d9607ec07742737) (ID 30103692) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T16:54:45.132661+00:00 |
 | [Seven Cemeteries (2024) 720p CZ Titulky](https://prehraj.to/seven-cemeteries-2024-720p-cz-titulky-mp4/901851601b55d93d) (ID 29595112) | [Sdílej 34758438](https://sdilej.cz/34758438/seven-cemeteries-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:31.131338+00:00 |
 | [Shake Hands with the Devil (2007) 720p CZ Titulky](https://prehraj.to/shake-hands-with-the-devil-2007-720p-cz-titulky-mp4/f5836061dc777a34) (ID 29318910) | [Sdílej 34751222](https://sdilej.cz/34751222/shake-hands-with-the-devil-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:37:30.905713+00:00 |
