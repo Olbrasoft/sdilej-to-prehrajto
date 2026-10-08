@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T21:35:25.363534+00:00
+Poslední aktualizace (UTC): 2026-10-08T21:35:39.379813+00:00
 
 Zkontrolováno videí: 2057. Další stránka kontroly: 184.
 
@@ -566,7 +566,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Jak jsem se stal gangsterem (2019) 1080p CZ Titulky](https://prehraj.to/jak-jsem-se-stal-gangsterem-2019-1080p-cz-titulky-mp4/324af92328cc761f) (ID 30064961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T20:35:25.992150+00:00 |
 | [Jak se natáčel Dámský gambit (2021) 1080p CZ Titulky](https://prehraj.to/jak-se-natacel-damsky-gambit-2021-1080p-cz-titulky-mp4/864840362f92c3de) (ID 29434054) | [Sdílej 34730712](https://sdilej.cz/34730712/jak-se-natacel-damsky-gambit-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:19.749937+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:32:58.074234+00:00 |
-| [Jak vybrat banku: Poslední velká loupež (2022) 1080p CZ Titulky](https://prehraj.to/jak-vybrat-banku-posledni-velka-loupez-2022-1080p-cz-titulky-mp4/6e27039bd64c4066) (ID 29256375) | [Sdílej 34727231](https://sdilej.cz/34727231/jak-vybrat-banku-posledni-velka-loupez-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:31:51.264582+00:00 |
+| [Jak vybrat banku: Poslední velká loupež (2022) 1080p CZ Titulky](https://prehraj.to/jak-vybrat-banku-posledni-velka-loupez-2022-1080p-cz-titulky-mp4/6e27039bd64c4066) (ID 29256375) | [Sdílej 34727231](https://sdilej.cz/34727231/jak-vybrat-banku-posledni-velka-loupez-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:35:39.379704+00:00 |
 | [Jako malé děti (2006) 1080p CZ Titulky](https://prehraj.to/jako-male-deti-2006-1080p-cz-titulky-mkv/028d4da3cd230799) (ID 29786978) | [Sdílej 29549390](https://sdilej.cz/29549390/little-children-2006-1080p-amzn-web-dl-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:31:48.829216+00:00 |
 | [Jaký otec, takový syn (2013) 1080p CZ Titulky](https://prehraj.to/jaky-otec-takovy-syn-2013-1080p-cz-titulky-mp4/ee47f5378f3f2999) (ID 29320755) | [Sdílej 33466273](https://sdilej.cz/33466273/jaky-otec-takovy-syn-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T05:38:05.920427+00:00 |
 | [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:33:18.622076+00:00 |
