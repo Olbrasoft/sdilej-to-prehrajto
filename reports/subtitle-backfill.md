@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T13:54:38.768986+00:00
+Poslední aktualizace (UTC): 2026-10-08T13:54:53.043667+00:00
 
 Zkontrolováno videí: 2042. Další stránka kontroly: 43.
 
@@ -250,7 +250,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dead Trigger (2017) SD CZ Titulky](https://prehraj.to/dead-trigger-2017-sd-cz-titulky-mkv/1143014cba83d534) (ID 29935550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:03:11.797243+00:00 |
 | [DeadTectives (2018) 1080p CZ Titulky](https://prehraj.to/deadtectives-2018-1080p-cz-titulky-mkv/6e93fdf6db51c794) (ID 29983190) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:03:25.856369+00:00 |
 | [Deaf President Now! (2025) 1080p CZ Titulky](https://prehraj.to/deaf-president-now-2025-1080p-cz-titulky-mp4/62ab18e2520a51f3) (ID 29409939) | [Sdílej 31247368](https://sdilej.cz/31247368/deaf-president-now-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:39:51.879273+00:00 |
-| [Death Note (2017) SD CZ Titulky](https://prehraj.to/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:52:05.153872+00:00 |
+| [Death Note (2017) SD CZ Titulky](https://prehraj.to/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:54:53.043499+00:00 |
 | [Death of a Superhero (2011) 1080p CZ Titulky](https://prehraj.to/death-of-a-superhero-2011-1080p-cz-titulky-mp4/573f87a402dcceed) (ID 29373296) | [Sdílej 34748652](https://sdilej.cz/34748652/death-of-a-superhero-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:38:48.961818+00:00 |
 | [Deb a noc oživlých mrtvol (2015) 1080p CZ Titulky](https://prehraj.to/deb-a-noc-ozivlych-mrtvol-2015-1080p-cz-titulky-mkv/29851baba6196496) (ID 29908103) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:01:25.809473+00:00 |
 | [Def Leppard - Viva! Hysteria (2013) 1080p CZ Titulky](https://prehraj.to/def-leppard-viva-hysteria-2013-1080p-cz-titulky-mp4/8538c3e884985d39) (ID 30064630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:04:44.181034+00:00 |
