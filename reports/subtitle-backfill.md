@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T21:33:26.009247+00:00
+Poslední aktualizace (UTC): 2026-10-08T21:33:31.612755+00:00
 
 Zkontrolováno videí: 2057. Další stránka kontroly: 184.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 23, `existing_tracks_uncertain`: 187, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 849, `source_media_failed`: 1, `source_provenance_missing`: 389, `source_unavailable`: 13, `target_processing`: 85, `target_unavailable`: 2
+Stavy: `already_has_czech`: 503, `attached_verified`: 23, `existing_tracks_uncertain`: 187, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 848, `source_media_failed`: 1, `source_provenance_missing`: 389, `source_unavailable`: 14, `target_processing`: 85, `target_unavailable`: 2
 
 ## Poslední dávka
 
@@ -1100,7 +1100,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T18:51:09.183780+00:00 |
 | [Stovky bobrů (2022) 1080p CZ Titulky](https://prehraj.to/stovky-bobru-2022-1080p-cz-titulky-mp4/e6dfada040fc7670) (ID 29583192) | [Sdílej 30207144](https://sdilej.cz/30207144/hundreds-of-beavers-stovky-bobru-2022-czsubbed-1080p-web-dl-aac2.0-h.264-nogrp.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:21.563403+00:00 |
 | [Strach a touha (1952) 720p CZ Titulky](https://prehraj.to/strach-a-touha-1952-720p-cz-titulky-mp4/dab547de861fffb3) (ID 29752311) | [Sdílej 34756169](https://sdilej.cz/34756169/strach-a-touha-1952-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:26:16.982788+00:00 |
-| [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:36:27.287035+00:00 |
 | [Student Body (2022) SD CZ Titulky](https://prehraj.to/student-body-2022-sd-cz-titulky-avi/8a7501229949c698) (ID 29750052) | [Sdílej 23913108](https://sdilej.cz/23913108/student.body.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:24:33.102750+00:00 |
 | [Student of the Year (2012) 720p CZ Titulky](https://prehraj.to/student-of-the-year-2012-720p-cz-titulky-mp4/36e9d39ef221fa54) (ID 29748769) | [Sdílej 34743904](https://sdilej.cz/34743904/student-of-the-year-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:22:48.468471+00:00 |
 | [Studená válka (2018) SD CZ Titulky](https://prehraj.to/studena-valka-2018-sd-cz-titulky-avi/801f812db310fa53) (ID 29886969) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T18:50:10.859442+00:00 |
@@ -1464,6 +1463,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-08T20:35:43.275610+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-08T17:40:29.854308+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-08T17:40:10.824105+00:00 |
+| [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-08T21:33:31.612670+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-08T17:41:39.335102+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-08T18:44:01.254286+00:00 |
 | [Šiva Baby (2020) 1080p CZ Titulky](https://prehraj.to/siva-baby-2020-1080p-cz-titulky-mkv/b7840e05ea6bb506) (ID 29346819) | [Sdílej 27452081](https://sdilej.cz/27452081/shiva-baby-2020-1080p-bluray-x265-10bit-tigole-.mkv) | source_unavailable | 2026-10-08T18:44:25.724302+00:00 |
