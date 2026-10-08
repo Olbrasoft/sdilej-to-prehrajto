@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T13:53:33.472541+00:00
+Poslední aktualizace (UTC): 2026-10-08T13:53:43.307374+00:00
 
 Zkontrolováno videí: 2042. Další stránka kontroly: 43.
 
@@ -1186,7 +1186,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:52:57.403994+00:00 |
 | [The Innkeepers (2011) SD CZ Titulky](https://prehraj.to/the-innkeepers-2011-sd-cz-titulky-avi/be8c588563631484) (ID 29732578) | [Sdílej 24075498](https://sdilej.cz/24075498/tajemstvi-stareho-hotelu-the-innkeepers-horor.thriller-2011-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:06:07.471910+00:00 |
 | [The Internship (2026) 1080p CZ Titulky](https://prehraj.to/the-internship-2026-1080p-cz-titulky-mp4/f201e2c9c0de01ac) (ID 29706666) | [Sdílej 32909953](https://sdilej.cz/32909953/the-internship-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:40:55.849210+00:00 |
-| [The Jester 2 (2025) 1080p CZ Titulky.mkv](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T13:51:41.745312+00:00 |
+| [The Jester 2 (2025) 1080p CZ Titulky.mkv](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:53:43.307208+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:17.923135+00:00 |
 | [The Lair (2022) SD CZ Titulky](https://prehraj.to/the-lair-2022-sd-cz-titulky-avi/0de11181a2934f7f) (ID 29908784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:01:25.809280+00:00 |
 | [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:02:16.653771+00:00 |
