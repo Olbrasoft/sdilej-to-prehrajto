@@ -154189,7 +154189,15 @@
       "attempts": []
     },
     "3287": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24875573",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-08T19:43:39.660952+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24875573",
         "display_name": "Hunt (2022) 1080p CZ Titulky",
@@ -154231,6 +154239,18 @@
         "source_id": "34967355",
         "display_name": "Dvojčata (2022) 1080p CZ Dabing",
         "planned_at": "2026-10-08T16:25:45.199776+00:00"
+      },
+      "claim": {
+        "worker_id": "3a4ed18ba9d346229727637edbc66d7d-shard-0",
+        "claimed_at": "2026-10-08T19:43:39.866976+00:00",
+        "lease_expires_at": "2026-10-09T01:43:39.866976+00:00",
+        "run_id": "37801364545"
+      },
+      "previous_target_id": "30106766",
+      "prepared": {
+        "target_video_id": "30106766",
+        "size_bytes": 3875231011,
+        "prepared_at": "2026-10-08T19:44:09.348052+00:00"
       }
     },
     "23532": {
@@ -344947,5 +344967,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-08T19:43:08.562451+00:00"
+  "updated_at": "2026-10-08T19:44:09.348063+00:00"
 }
