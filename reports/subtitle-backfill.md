@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T14:45:01.303523+00:00
+Poslední aktualizace (UTC): 2026-10-08T14:45:27.275044+00:00
 
 Zkontrolováno videí: 2043. Další stránka kontroly: 183.
 
@@ -77,7 +77,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:06:49.097223+00:00 |
 | [Argylle: Tajný agent (2024) 4K CZ Titulky](https://prehraj.to/argylle-tajny-agent-2024-4k-cz-titulky-mkv/1753966117d652be) (ID 29928077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T13:59:02.986830+00:00 |
 | [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:20.154851+00:00 |
-| [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:25:18.170318+00:00 |
+| [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:45:27.274929+00:00 |
 | [Asedio (2023) 1080p CZ Titulky](https://prehraj.to/asedio-2023-1080p-cz-titulky-mkv/fc640f56c94d7a1f) (ID 29278532) | [Sdílej 27828721](https://sdilej.cz/27828721/oblezeni-asedio-2023-hd-5.1-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:39:50.454855+00:00 |
 | [Asi se zblázním (2021) SD CZ Titulky](https://prehraj.to/asi-se-zblaznim-2021-sd-cz-titulky-avi/975d6ac95e668e22) (ID 29219191) | [Sdílej 16134173](https://sdilej.cz/16134173/asi-se-zblaznim-2021-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:47:04.587124+00:00 |
 | [Atletka A (2020) 1080p CZ Titulky](https://prehraj.to/atletka-a-2020-1080p-cz-titulky-mp4/1710e7b2ccc77015) (ID 29788237) | [Sdílej 34733422](https://sdilej.cz/34733422/atletka-a-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:32:09.097494+00:00 |
