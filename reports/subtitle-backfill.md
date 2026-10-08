@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T21:35:05.887729+00:00
+Poslední aktualizace (UTC): 2026-10-08T21:35:15.746884+00:00
 
 Zkontrolováno videí: 2057. Další stránka kontroly: 184.
 
@@ -262,7 +262,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:47:20.778053+00:00 |
 | [Demony wojny wg Goi (1998) SD CZ Titulky](https://prehraj.to/demony-wojny-wg-goi-1998-sd-cz-titulky-mp4/42bf8d5180a87ad4) (ID 29719575) | [Sdílej 34784059](https://sdilej.cz/34784059/demony-wojny-wg-goi-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:10.654085+00:00 |
 | [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:34.444961+00:00 |
-| [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T20:37:53.785399+00:00 |
+| [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:35:15.746784+00:00 |
 | [Detention (2011) SD CZ Titulky](https://prehraj.to/detention-2011-sd-cz-titulky-mp4/ff932bdfed1d8a14) (ID 29936501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T19:31:48.372099+00:00 |
 | [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:49.834141+00:00 |
 | [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:38:16.961193+00:00 |
