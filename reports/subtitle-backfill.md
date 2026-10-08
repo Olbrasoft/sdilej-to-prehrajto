@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T14:45:27.275044+00:00
+Poslední aktualizace (UTC): 2026-10-08T14:45:40.862026+00:00
 
 Zkontrolováno videí: 2043. Další stránka kontroly: 183.
 
@@ -1269,7 +1269,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Tělo (2012) 720p CZ Titulky](https://prehraj.to/telo-2012-720p-cz-titulky-avi/72574bc6fc81e930) (ID 29509182) | [Sdílej 21997721](https://sdilej.cz/21997721/el-cuerpo-telo-2012-esp-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:54:14.836685+00:00 |
 | [Třetí poločas (2012) SD CZ Titulky](https://prehraj.to/treti-polocas-2012-sd-cz-titulky-mkv/a7604740782d512f) (ID 29376136) | [Sdílej 34816306](https://sdilej.cz/34816306/the.third.half.2012.dvdrip.x264.ac-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T13:41:48.607510+00:00 |
 | [Tři přání (1995) SD CZ Titulky](https://prehraj.to/tri-prani-1995-sd-cz-titulky-avi/cca230356167ece3) (ID 29567240) | [Sdílej 22107099](https://sdilej.cz/22107099/tre.piani.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:08:22.918100+00:00 |
-| [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T14:37:06.687709+00:00 |
+| [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:45:40.861929+00:00 |
 | [Třídní sraz 2 - Pohřeb (2014) SD CZ Titulky](https://prehraj.to/tridni-sraz-2-pohreb-2014-sd-cz-titulky-mp4/cbcc5f0231c71ee9) (ID 29599614) | [Sdílej 34711194](https://sdilej.cz/34711194/tridni-sraz-2-pohreb-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:48.022127+00:00 |
 | [U brány věčnosti (2018) 1080p CZ Titulky](https://prehraj.to/u-brany-vecnosti-2018-1080p-cz-titulky-avi/d12b33ec67ef2a7c) (ID 29434266) | [Sdílej 24585680](https://sdilej.cz/24585680/u-brany-vecnosti-2018-zivotopisny-drama-bdrip.-en-cz-titlevlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:44.055273+00:00 |
 | [Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky](https://prehraj.to/ultramarines-a-warhammer-40-000-movie-2010-1080p-cz-titulky-mp4/a8da8257183be7f9) (ID 29688874) | [Sdílej 34780444](https://sdilej.cz/34780444/ultramarines-a-warhammer-40-000-movie-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:33:52.657888+00:00 |
