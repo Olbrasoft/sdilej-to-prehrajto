@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T23:37:07.586729+00:00
+Poslední aktualizace (UTC): 2026-10-08T23:37:18.945493+00:00
 
 Zkontrolováno videí: 2061. Další stránka kontroly: 145.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 848, `source_media_failed`: 1, `source_provenance_missing`: 391, `source_unavailable`: 14, `target_processing`: 85, `target_unavailable`: 2
+Stavy: `already_has_czech`: 504, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 849, `source_provenance_missing`: 391, `source_unavailable`: 14, `target_processing`: 85, `target_unavailable`: 2
 
 ## Poslední dávka
 
@@ -514,6 +514,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Holy Night: Demon Hunters (2025) 1080p CZ Titulky](https://prehraj.to/holy-night-demon-hunters-2025-1080p-cz-titulky-mp4/5749c49a012b57a8) (ID 29693713) | [Sdílej 31985859](https://sdilej.cz/31985859/holy-night-demon-hunters-2025-cz-titulky-by-karol.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:39.814889+00:00 |
 | [Holá sebeúcta (2021) 1080p CZ Titulky](https://prehraj.to/hola-sebeucta-2021-1080p-cz-titulky-mp4/ce3168e938c731d5) (ID 29332800) | [Sdílej 34730773](https://sdilej.cz/34730773/hola-sebeucta-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:52:04.436764+00:00 |
 | [Home Invasion (2016) SD CZ Titulky](https://prehraj.to/home-invasion-2016-sd-cz-titulky-avi/3d433bbe8dcb9fc9) (ID 29905333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T22:47:13.908455+00:00 |
+| [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T23:37:18.945358+00:00 |
 | [Horalka (1960) SD CZ Titulky](https://prehraj.to/horalka-1960-sd-cz-titulky-mp4/c59d241b2441a3f5) (ID 29509328) | [Sdílej 34756075](https://sdilej.cz/34756075/horalka-1960-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:54:33.459435+00:00 |
 | [Horizont poznání (2020) 1080p CZ Titulky](https://prehraj.to/horizont-poznani-2020-1080p-cz-titulky-mp4/b445f944067e66c3) (ID 29650591) | [Sdílej 34733154](https://sdilej.cz/34733154/horizont-poznani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:56:54.850188+00:00 |
 | [Horror in the High Desert 2: Minerva (2023) 1080p CZ Titulky](https://prehraj.to/horror-in-the-high-desert-2-minerva-2023-1080p-cz-titulky-mp4/e4738cdeae1465ef) (ID 29647142) | [Sdílej 34725654](https://sdilej.cz/34725654/horror-in-the-high-desert-2-minerva-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:52:09.141679+00:00 |
@@ -1457,7 +1458,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-10-08T17:45:34.669375+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-10-08T18:44:36.550896+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-08T18:44:16.427346+00:00 |
-| [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | source_media_failed | 2026-10-08T17:36:33.974778+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-08T17:41:55.207337+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-08T17:40:20.610663+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-08T18:46:40.751337+00:00 |
