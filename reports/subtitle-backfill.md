@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T17:37:35.246560+00:00
+Poslední aktualizace (UTC): 2026-10-08T17:37:47.474949+00:00
 
 Zkontrolováno videí: 2051. Další stránka kontroly: 164.
 
@@ -407,7 +407,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/a1357595f75aca49) (ID 29522215) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T16:45:40.093611+00:00 |
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/4c388411cd8cf20d) (ID 29524679) | [Sdílej 6365016](https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:55:34.286109+00:00 |
 | [Evil Eye (2020) 1080p CZ Titulky](https://prehraj.to/evil-eye-2020-1080p-cz-titulky-mkv/12971da73dea41f4) (ID 29748405) | [Sdílej 17164570](https://sdilej.cz/17164570/evil.eye.2020.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T16:50:05.473793+00:00 |
-| [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T17:34:06.613855+00:00 |
+| [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:37:47.474850+00:00 |
 | [Evropa (1991) SD CZ Titulky](https://prehraj.to/evropa-1991-sd-cz-titulky-mp4/b84a567761e71627) (ID 29895545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T16:50:31.343235+00:00 |
 | [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:08:27.762918+00:00 |
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T16:53:10.820282+00:00 |
