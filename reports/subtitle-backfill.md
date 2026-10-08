@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T23:33:13.963505+00:00
+Poslední aktualizace (UTC): 2026-10-08T23:33:22.173899+00:00
 
 Zkontrolováno videí: 2061. Další stránka kontroly: 185.
 
@@ -1206,7 +1206,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Limehouse Golem (2016) SD CZ Titulky](https://prehraj.to/the-limehouse-golem-2016-sd-cz-titulky-mp4/a353585be7b9a51d) (ID 29573805) | [Sdílej 26970210](https://sdilej.cz/26970210/the-limehouse-golem-2016-web-dl-x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:59.169838+00:00 |
 | [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:23:16.875905+00:00 |
 | [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:38:10.723503+00:00 |
-| [The Marshes (2017) 720p CZ Titulky](https://prehraj.to/the-marshes-2017-720p-cz-titulky-mp4/67868ec2ae51f06a) (ID 29274565) | [Sdílej 34737253](https://sdilej.cz/34737253/the-marshes-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T23:31:11.787287+00:00 |
+| [The Marshes (2017) 720p CZ Titulky](https://prehraj.to/the-marshes-2017-720p-cz-titulky-mp4/67868ec2ae51f06a) (ID 29274565) | [Sdílej 34737253](https://sdilej.cz/34737253/the-marshes-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T23:33:22.173800+00:00 |
 | [The Mortuary Assistant (2026) 1080p CZ Titulky](https://prehraj.to/the-mortuary-assistant-2026-1080p-cz-titulky-mkv/8bf3ce1b68341d18) (ID 29089395) | [Sdílej 33820880](https://sdilej.cz/33820880/the.mortuary.assistant-2026-sktit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T23:31:32.274063+00:00 |
 | [The Nameless Days (2022) 720p CZ Titulky](https://prehraj.to/the-nameless-days-2022-720p-cz-titulky-mkv/f0321bb693668428) (ID 29611943) | [Sdílej 29827464](https://sdilej.cz/29827464/the.nameless.days.2022.720p-sk-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T22:43:30.684099+00:00 |
 | [The Negotiation (2018) 1080p CZ Titulky](https://prehraj.to/the-negotiation-2018-1080p-cz-titulky-mp4/9585473cc3f8e54c) (ID 29919855) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T22:48:38.745215+00:00 |
