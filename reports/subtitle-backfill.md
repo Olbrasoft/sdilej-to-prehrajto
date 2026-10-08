@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-08T21:36:24.694702+00:00
+Poslední aktualizace (UTC): 2026-10-08T21:36:34.759727+00:00
 
 Zkontrolováno videí: 2057. Další stránka kontroly: 184.
 
@@ -257,7 +257,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Death of a Superhero (2011) 1080p CZ Titulky](https://prehraj.to/death-of-a-superhero-2011-1080p-cz-titulky-mp4/573f87a402dcceed) (ID 29373296) | [Sdílej 34748652](https://sdilej.cz/34748652/death-of-a-superhero-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:38:48.961818+00:00 |
 | [Deb a noc oživlých mrtvol (2015) 1080p CZ Titulky](https://prehraj.to/deb-a-noc-ozivlych-mrtvol-2015-1080p-cz-titulky-mkv/29851baba6196496) (ID 29908103) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T18:51:09.183718+00:00 |
 | [Def Leppard - Viva! Hysteria (2013) 1080p CZ Titulky](https://prehraj.to/def-leppard-viva-hysteria-2013-1080p-cz-titulky-mp4/8538c3e884985d39) (ID 30064630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T20:35:25.992163+00:00 |
-| [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-01T21:32:23.163908+00:00 |
+| [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:36:34.759624+00:00 |
 | [Dementia 13 (2017) SD CZ Titulky](https://prehraj.to/dementia-13-2017-sd-cz-titulky-avi/2e95f28c76e8cae3) (ID 29648315) | [Sdílej 8505109](https://sdilej.cz/8505109/dementia-13-thriller-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:53:40.451580+00:00 |
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:47:20.778053+00:00 |
 | [Demony wojny wg Goi (1998) SD CZ Titulky](https://prehraj.to/demony-wojny-wg-goi-1998-sd-cz-titulky-mp4/42bf8d5180a87ad4) (ID 29719575) | [Sdílej 34784059](https://sdilej.cz/34784059/demony-wojny-wg-goi-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:10.654085+00:00 |
