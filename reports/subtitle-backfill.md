@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:39:31.031310+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:39:40.759748+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -510,7 +510,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Holka od koní (2020) 1080p CZ Titulky](https://prehraj.to/holka-od-koni-2020-1080p-cz-titulky-mp4/22b1f3a93a7f419c) (ID 29911915) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:23.334561+00:00 |
 | [Hollywoodské rajdy s motorovými pilami (1988) 1080p CZ Titulky](https://prehraj.to/hollywoodske-rajdy-s-motorovymi-pilami-1988-1080p-cz-titulky-mp4/58b415d109fc643f) (ID 29706678) | [Sdílej 32513560](https://sdilej.cz/32513560/hollywood-chainsaw-hookers-1988-legendado-1080p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:41:18.752297+00:00 |
 | [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:47:15.107794+00:00 |
-| [Holy Night: Demon Hunters (2025) 1080p CZ Titulky](https://prehraj.to/holy-night-demon-hunters-2025-1080p-cz-titulky-mp4/5749c49a012b57a8) (ID 29693713) | [Sdílej 31985859](https://sdilej.cz/31985859/holy-night-demon-hunters-2025-cz-titulky-by-karol.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:39.814889+00:00 |
+| [Holy Night: Demon Hunters (2025) 1080p CZ Titulky](https://prehraj.to/holy-night-demon-hunters-2025-1080p-cz-titulky-mp4/5749c49a012b57a8) (ID 29693713) | [Sdílej 31985859](https://sdilej.cz/31985859/holy-night-demon-hunters-2025-cz-titulky-by-karol.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:39:40.759638+00:00 |
 | [Holá sebeúcta (2021) 1080p CZ Titulky](https://prehraj.to/hola-sebeucta-2021-1080p-cz-titulky-mp4/ce3168e938c731d5) (ID 29332800) | [Sdílej 34730773](https://sdilej.cz/34730773/hola-sebeucta-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:54:35.423717+00:00 |
 | [Home Invasion (2016) SD CZ Titulky](https://prehraj.to/home-invasion-2016-sd-cz-titulky-avi/3d433bbe8dcb9fc9) (ID 29905333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:03:28.058215+00:00 |
 | [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T23:37:18.945358+00:00 |
