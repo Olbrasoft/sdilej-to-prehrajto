@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:27:49.155018+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:28:03.909139+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1095,7 +1095,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:53:47.720580+00:00 |
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:51:57.552383+00:00 |
 | [Stalker (2022) 1080p CZ Titulky](https://prehraj.to/stalker-2022-1080p-cz-titulky-mp4/8531b68e8c1f363e) (ID 29917499) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:07.580252+00:00 |
-| [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:24.287796+00:00 |
+| [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:28:03.909029+00:00 |
 | [Star Trek: Renegades (2015) SD CZ Titulky](https://prehraj.to/star-trek-renegades-2015-sd-cz-titulky-avi/8c149b7ff9b0ec67) (ID 29793115) | [Sdílej 27485360](https://sdilej.cz/27485360/star-trek-renegades-2015-cz-tit.akc.sci-fi-dobrodr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:32:41.557499+00:00 |
 | [Starlet (2012) SD CZ Titulky](https://prehraj.to/starlet-2012-sd-cz-titulky-mp4/96755751c1141fd8) (ID 30047833) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:59.301257+00:00 |
 | [Sting (2024) 1080p CZ Titulky](https://prehraj.to/sting-2024-1080p-cz-titulky-mkv/5c01b96b6e677206) (ID 29925491) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-05T15:48:41.865180+00:00 |
