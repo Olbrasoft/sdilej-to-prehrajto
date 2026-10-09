@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T11:35:27.942082+00:00
+Poslední aktualizace (UTC): 2026-10-09T11:35:36.473466+00:00
 
 Zkontrolováno videí: 2069. Další stránka kontroly: 165.
 
@@ -1342,7 +1342,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:19.930531+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T11:31:49.139752+00:00 |
 | [Výheň (2011) SD CZ Titulky](https://prehraj.to/vyhen-2011-sd-cz-titulky-avi/355cca1c01d64405) (ID 29916356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T10:50:14.459449+00:00 |
-| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:33:44.288141+00:00 |
+| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:35:36.473357+00:00 |
 | [Všechna ta krása a zabíjení (2022) 1080p CZ Titulky](https://prehraj.to/vsechna-ta-krasa-a-zabijeni-2022-1080p-cz-titulky-mp4/7adfb285aa1dbffd) (ID 30000019) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T10:51:58.256421+00:00 |
 | [Všechny roztleskávačky zemřou (2013) SD CZ Titulky](https://prehraj.to/vsechny-roztleskavacky-zemrou-2013-sd-cz-titulky-mp4/0ea5ee37e230c76e) (ID 29933836) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T10:51:38.338515+00:00 |
 | [Wake Up Sid (2009) SD CZ Titulky](https://prehraj.to/wake-up-sid-2009-sd-cz-titulky-mp4/98c86b703f74d650) (ID 29560140) | [Sdílej 34750990](https://sdilej.cz/34750990/wake-up-sid-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:30.161135+00:00 |
