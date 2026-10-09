@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:39:50.374303+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:39:59.896107+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -36,7 +36,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:02:00.404013+00:00 |
 | [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:46:31.046217+00:00 |
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:19:48.410792+00:00 |
-| [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:55.917925+00:00 |
+| [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:39:59.896009+00:00 |
 | [A.X.L. (2018) SD CZ Titulky](https://prehraj.to/a-x-l-2018-sd-cz-titulky-avi/8f1bc00b0cae419f) (ID 29931436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:48.446573+00:00 |
 | [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:41:40.353184+00:00 |
 | [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:46:06.201336+00:00 |
