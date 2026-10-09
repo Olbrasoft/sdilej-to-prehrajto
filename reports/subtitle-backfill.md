@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:40:09.846048+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:40:20.379544+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -289,7 +289,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dragon Nest: Warriors' Dawn (2014) SD CZ Titulky](https://prehraj.to/dragon-nest-warriors-dawn-2014-sd-cz-titulky-mp4/71b6c45efc52cc53) (ID 29331098) | [Sdílej 34900012](https://sdilej.cz/34900012/dragon-nest-warriors-dawn-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:54:16.201387+00:00 |
 | [Drishyam (2015) SD CZ Titulky](https://prehraj.to/drishyam-2015-sd-cz-titulky-mp4/4788947288566e8b) (ID 29206672) | [Sdílej 6121944](https://sdilej.cz/6121944/drishyam-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:45:01.303409+00:00 |
 | [Driving Me Crazy (1991) SD CZ Titulky](https://prehraj.to/driving-me-crazy-1991-sd-cz-titulky-mkv/495a83c7e6c7b25b) (ID 29652800) | [Sdílej 30573590](https://sdilej.cz/30573590/blazniva-jazda-driving-me-crazy-1991-en.sk-dvdrip-hevc-576p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:58:01.334108+00:00 |
-| [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:20.169168+00:00 |
+| [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:40:20.379414+00:00 |
 | [Dune World (2021) 1080p CZ Titulky](https://prehraj.to/dune-world-2021-1080p-cz-titulky-mp4/9b10d8a8e4bf3945) (ID 29709431) | [Sdílej 34772958](https://sdilej.cz/34772958/dune-world-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:04.481773+00:00 |
 | [Dvojitý milenec (2017) SD CZ Titulky](https://prehraj.to/dvojity-milenec-2017-sd-cz-titulky-avi/ca730e0fead0c614) (ID 29992396) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:47.300678+00:00 |
 | [Dvě čarodějnice (2021) SD CZ Titulky](https://prehraj.to/dve-carodejnice-2021-sd-cz-titulky-avi/a8083f044b52b223) (ID 29753485) | [Sdílej 22953239](https://sdilej.cz/22953239/two.witches.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:27:37.026744+00:00 |
