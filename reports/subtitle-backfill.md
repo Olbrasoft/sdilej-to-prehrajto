@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:39:58.881396+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:40:11.665235+00:00
 
 Zkontrolováno videí: 2076. Další stránka kontroly: 186.
 
@@ -780,7 +780,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Nejlepší v pekle (2022) 1080p CZ Titulky](https://prehraj.to/nejlepsi-v-pekle-2022-1080p-cz-titulky-mp4/848174af8735e68f) (ID 29923196) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:16:17.824520+00:00 |
 | [Nejrychlejší (2011) 1080p CZ Titulky](https://prehraj.to/nejrychlejsi-2011-1080p-cz-titulky-mp4/403edc2ab59516a4) (ID 29505034) | [Sdílej 34747575](https://sdilej.cz/34747575/nejrychlejsi-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:58:09.627564+00:00 |
 | [Nekonečná cesta (2017) 1080p CZ Titulky](https://prehraj.to/nekonecna-cesta-2017-1080p-cz-titulky-mkv/16875fb3e5f80dfe) (ID 29633019) | [Sdílej 10615882](https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:00:36.860784+00:00 |
-| [Nekonečná smyčka (2022) 1080p CZ Titulky](https://prehraj.to/nekonecna-smycka-2022-1080p-cz-titulky-mp4/0b2ea40299ea8b7b) (ID 29751340) | [Sdílej 34727038](https://sdilej.cz/34727038/nekonecna-smycka-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:25:52.325068+00:00 |
+| [Nekonečná smyčka (2022) 1080p CZ Titulky](https://prehraj.to/nekonecna-smycka-2022-1080p-cz-titulky-mp4/0b2ea40299ea8b7b) (ID 29751340) | [Sdílej 34727038](https://sdilej.cz/34727038/nekonecna-smycka-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:40:11.665134+00:00 |
 | [Nekrotronic (2018) 1080p CZ Titulky](https://prehraj.to/nekrotronic-2018-1080p-cz-titulky-mp4/f6a79f93d3dfff7e) (ID 29918788) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:16:13.762506+00:00 |
 | [Nemesis (1992) 1080p CZ Titulky](https://prehraj.to/nemesis-1992-1080p-cz-titulky-mp4/c3ceebce1960c2d1) (ID 29931759) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:17:09.486837+00:00 |
 | [Nemocnice Parkland (2013) 1080p CZ Titulky](https://prehraj.to/nemocnice-parkland-2013-1080p-cz-titulky-mp4/8473f62b4cbed348) (ID 29284711) | [Sdílej 32945357](https://sdilej.cz/32945357/parkland-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:16:08.707231+00:00 |
