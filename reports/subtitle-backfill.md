@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T08:45:36.735151+00:00
+Poslední aktualizace (UTC): 2026-10-09T08:45:43.754985+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -1449,7 +1449,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Švejk bourá Německo (1943) SD CZ Titulky](https://prehraj.to/svejk-boura-nemecko-1943-sd-cz-titulky-mp4/9b789097687f305a) (ID 29688069) | [Sdílej 34705807](https://sdilej.cz/34705807/svejk-boura-nemecko-1943-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:33:25.078679+00:00 |
 | [Švýcarák (2016) 720p CZ Titulky](https://prehraj.to/svycarak-2016-720p-cz-titulky-mkv/609b6be4d32304fb) (ID 30058349) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T08:00:59.467838+00:00 |
 | [Šťastný Lazzaro (2018) 1080p CZ Titulky](https://prehraj.to/stastny-lazzaro-2018-1080p-cz-titulky-mp4/df76be4cbe7979cf) (ID 29887528) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:57:26.958273+00:00 |
-| [Žaluji! (2019) 1080p CZ Titulky](https://prehraj.to/zaluji-2019-1080p-cz-titulky-mkv/a468d1ba2275760b) (ID 29364803) | [Sdílej 13347965](https://sdilej.cz/13347965/l-ufficiale-e-la-spia-j-accuse-2019-ita-fre-ac3-5.1-bdrip-1080p-h264-armor-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:43:22.093323+00:00 |
+| [Žaluji! (2019) 1080p CZ Titulky](https://prehraj.to/zaluji-2019-1080p-cz-titulky-mkv/a468d1ba2275760b) (ID 29364803) | [Sdílej 13347965](https://sdilej.cz/13347965/l-ufficiale-e-la-spia-j-accuse-2019-ita-fre-ac3-5.1-bdrip-1080p-h264-armor-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:45:43.754886+00:00 |
 | [Ženy mafiánů (2018) 1080p CZ Titulky](https://prehraj.to/zeny-mafianu-2018-1080p-cz-titulky-mkv/29527dd81cdf48ae) (ID 29912656) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:58:49.121431+00:00 |
 | [Život v plné rychlosti: Příběh Juana Manuela Fangia (2020) 1080p CZ Titulky](https://prehraj.to/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-1080p-cz-titulky-mp4/5c3ac858474d20d1) (ID 29213500) | [Sdílej 34712013](https://sdilej.cz/34712013/zivot-v-plne-rychlosti-pribeh-juana-manuela-fangia-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T16:39:34.599568+00:00 |
 
