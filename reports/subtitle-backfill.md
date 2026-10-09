@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T07:45:21.351330+00:00
+Poslední aktualizace (UTC): 2026-10-09T07:45:30.695801+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -195,7 +195,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Cesta divočinou (2017) 720p CZ Titulky](https://prehraj.to/cesta-divocinou-2017-720p-cz-titulky-mp4/c0d02031adf2b7e0) (ID 29922369) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:07:49.665069+00:00 |
 | [Cesta do Romy (2020) 1080p CZ Titulky](https://prehraj.to/cesta-do-romy-2020-1080p-cz-titulky-mp4/270f35fcfe6cb80d) (ID 29426061) | [Sdílej 34733320](https://sdilej.cz/34733320/cesta-do-romy-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:44.081908+00:00 |
 | [Cesta válečníka (2018) 1080p CZ Titulky](https://prehraj.to/cesta-valecnika-2018-1080p-cz-titulky-mkv/45805109373ac7a7) (ID 29917549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:07:43.694269+00:00 |
-| [Charlieho země (2013) SD CZ Titulky](https://prehraj.to/charlieho-zeme-2013-sd-cz-titulky-mkv/1b38b8f36805aa08) (ID 29340785) | [Sdílej 26530590](https://sdilej.cz/26530590/charlieho-zeme-2013-juraison-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:28.221356+00:00 |
+| [Charlieho země (2013) SD CZ Titulky](https://prehraj.to/charlieho-zeme-2013-sd-cz-titulky-mkv/1b38b8f36805aa08) (ID 29340785) | [Sdílej 26530590](https://sdilej.cz/26530590/charlieho-zeme-2013-juraison-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:45:30.695682+00:00 |
 | [Chasing Coral (2017) SD CZ Titulky](https://prehraj.to/chasing-coral-2017-sd-cz-titulky-mp4/d49affc0a7ed1301) (ID 29510434) | [Sdílej 34770336](https://sdilej.cz/34770336/chasing-coral-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:54:57.345452+00:00 |
 | [Chasing the Dragon (2017) SD CZ Titulky](https://prehraj.to/chasing-the-dragon-2017-sd-cz-titulky-mp4/328e929fee5a2ddd) (ID 30100738) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:10:42.995439+00:00 |
 | [Chhapaak (2020) 1080p CZ Titulky](https://prehraj.to/chhapaak-2020-1080p-cz-titulky-mp4/d77c0fd308087167) (ID 29913995) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:07:35.563865+00:00 |
