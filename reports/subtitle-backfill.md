@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:48:23.255210+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:48:32.478333+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -568,7 +568,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Jack in Time for Christmas (2024) 1080p CZ Titulky](https://prehraj.to/jack-in-time-for-christmas-2024-1080p-cz-titulky-mp4/12d77989edb428cb) (ID 29639441) | [Sdílej 34771771](https://sdilej.cz/34771771/jack-in-time-for-christmas-2024-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:49:09.807886+00:00 |
 | [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:15.438480+00:00 |
 | [Jak jsem se stal gangsterem (2019) 1080p CZ Titulky](https://prehraj.to/jak-jsem-se-stal-gangsterem-2019-1080p-cz-titulky-mp4/324af92328cc761f) (ID 30064961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T11:50:38.039488+00:00 |
-| [Jak se natáčel Dámský gambit (2021) 1080p CZ Titulky](https://prehraj.to/jak-se-natacel-damsky-gambit-2021-1080p-cz-titulky-mp4/864840362f92c3de) (ID 29434054) | [Sdílej 34730712](https://sdilej.cz/34730712/jak-se-natacel-damsky-gambit-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:44:19.749937+00:00 |
+| [Jak se natáčel Dámský gambit (2021) 1080p CZ Titulky](https://prehraj.to/jak-se-natacel-damsky-gambit-2021-1080p-cz-titulky-mp4/864840362f92c3de) (ID 29434054) | [Sdílej 34730712](https://sdilej.cz/34730712/jak-se-natacel-damsky-gambit-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:48:32.478200+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:32:58.074234+00:00 |
 | [Jak vybrat banku: Poslední velká loupež (2022) 1080p CZ Titulky](https://prehraj.to/jak-vybrat-banku-posledni-velka-loupez-2022-1080p-cz-titulky-mp4/6e27039bd64c4066) (ID 29256375) | [Sdílej 34727231](https://sdilej.cz/34727231/jak-vybrat-banku-posledni-velka-loupez-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:35:39.379704+00:00 |
 | [Jako malé děti (2006) 1080p CZ Titulky](https://prehraj.to/jako-male-deti-2006-1080p-cz-titulky-mkv/028d4da3cd230799) (ID 29786978) | [Sdílej 29549390](https://sdilej.cz/29549390/little-children-2006-1080p-amzn-web-dl-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:31:48.829216+00:00 |
