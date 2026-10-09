@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:00:52.453527+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:01:02.882762+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -899,7 +899,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Petr a vlk (2006) 1080p CZ Titulky](https://prehraj.to/petr-a-vlk-2006-1080p-cz-titulky-mp4/d1b3a4e499824982) (ID 30033532) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:53.214543+00:00 |
 | [Phantasm IV: Oblivion (1998) 1080p CZ Titulky](https://prehraj.to/phantasm-iv-oblivion-1998-1080p-cz-titulky-mp4/5262582f0b422e54) (ID 29723303) | [Sdílej 34783709](https://sdilej.cz/34783709/phantasm-iv-oblivion-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:02:40.182618+00:00 |
 | [Phantom (2015) SD CZ Titulky](https://prehraj.to/phantom-2015-sd-cz-titulky-mp4/9097442586fc0a3b) (ID 29615023) | [Sdílej 34775805](https://sdilej.cz/34775805/phantom-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:33:54.823800+00:00 |
-| [Phil (2019) 1080p CZ Titulky](https://prehraj.to/phil-2019-1080p-cz-titulky-mp4/bbe55f5635d61a35) (ID 29526645) | [Sdílej 34773646](https://sdilej.cz/34773646/phil-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:55:50.473893+00:00 |
+| [Phil (2019) 1080p CZ Titulky](https://prehraj.to/phil-2019-1080p-cz-titulky-mp4/bbe55f5635d61a35) (ID 29526645) | [Sdílej 34773646](https://sdilej.cz/34773646/phil-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:01:02.882621+00:00 |
 | [Pillion (2025) 1080p CZ Titulky](https://prehraj.to/pillion-2025-1080p-cz-titulky-mkv/a758d3177ab8b69a) (ID 30062530) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:01.252660+00:00 |
 | [Pinball: The Man Who Saved the Game (2022) 720p CZ Titulky](https://prehraj.to/pinball-the-man-who-saved-the-game-2022-720p-cz-titulky-mp4/5d6db7d566c724e4) (ID 29213682) | [Sdílej 26372484](https://sdilej.cz/26372484/pinball-the-man-who-saved-the-game-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:35:00.317510+00:00 |
 | [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:37:13.513137+00:00 |
