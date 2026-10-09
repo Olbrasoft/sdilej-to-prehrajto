@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:12:24.026867+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:12:33.839684+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1067,7 +1067,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Smyk (1960) SD CZ Titulky](https://prehraj.to/smyk-1960-sd-cz-titulky-avi/a710d8e22203f86d) (ID 29820103) | [Sdílej 12537063](https://sdilej.cz/12537063/smyk-1960-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:52.623636+00:00 |
 | [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:04.513929+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:45:57.238745+00:00 |
-| [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:03.154456+00:00 |
+| [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:33.839584+00:00 |
 | [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:55:05.139472+00:00 |
 | [Sneekweek (2016) 1080p CZ Titulky](https://prehraj.to/sneekweek-2016-1080p-cz-titulky-mkv/7f737c1ee63dab54) (ID 29736959) | [Sdílej 31436654](https://sdilej.cz/31436654/sneekweek-2016-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:58:10.636806+00:00 |
 | [Sniper: Assassin's End (2020) SD CZ Titulky](https://prehraj.to/sniper-assassin-s-end-2020-sd-cz-titulky-avi/1c0c605850ba5b9b) (ID 29925831) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:19.132918+00:00 |
