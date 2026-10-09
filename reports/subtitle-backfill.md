@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:40:20.379544+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:40:33.202016+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -630,7 +630,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T02:52:12.934650+00:00 |
 | [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:01:47.975679+00:00 |
 | [Král Kobra (2016) SD CZ Titulky](https://prehraj.to/kral-kobra-2016-sd-cz-titulky-avi/624ec9fa66264b17) (ID 29714249) | [Sdílej 11544620](https://sdilej.cz/11544620/king-cobra-2016-cz-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:48:41.987898+00:00 |
-| [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:30.302524+00:00 |
+| [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:40:33.201903+00:00 |
 | [Královna banditů (1994) SD CZ Titulky](https://prehraj.to/kralovna-banditu-1994-sd-cz-titulky-mp4/d515b251f4b3718b) (ID 30016219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:51.207159+00:00 |
 | [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:35:49.785948+00:00 |
 | [Krásná katastrofa (2023) 1440p CZ Titulky](https://prehraj.to/krasna-katastrofa-2023-1440p-cz-titulky-mkv/53a6f72fb12276f8) (ID 29932996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:27.354609+00:00 |
