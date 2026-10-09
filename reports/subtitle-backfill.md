@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:09:09.951637+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:09:24.389791+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -411,7 +411,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Evil Eye (2020) 1080p CZ Titulky](https://prehraj.to/evil-eye-2020-1080p-cz-titulky-mkv/12971da73dea41f4) (ID 29748405) | [Sdílej 17164570](https://sdilej.cz/17164570/evil.eye.2020.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:02:58.134120+00:00 |
 | [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:37:47.474850+00:00 |
 | [Evropa (1991) SD CZ Titulky](https://prehraj.to/evropa-1991-sd-cz-titulky-mp4/b84a567761e71627) (ID 29895545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:03:24.314502+00:00 |
-| [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:08:27.762918+00:00 |
+| [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:09:24.389684+00:00 |
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:57.161305+00:00 |
 | [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:46:56.041756+00:00 |
 | [Eye for an Eye (2022) 720p CZ Titulky](https://prehraj.to/eye-for-an-eye-2022-720p-cz-titulky-mp4/9cbd587088b02ba8) (ID 30101219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:12:29.018941+00:00 |
