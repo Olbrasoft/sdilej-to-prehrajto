@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T10:37:26.373661+00:00
+Poslední aktualizace (UTC): 2026-10-09T10:37:35.062261+00:00
 
 Zkontrolováno videí: 2069. Další stránka kontroly: 185.
 
@@ -519,7 +519,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Horizont poznání (2020) 1080p CZ Titulky](https://prehraj.to/horizont-poznani-2020-1080p-cz-titulky-mp4/b445f944067e66c3) (ID 29650591) | [Sdílej 34733154](https://sdilej.cz/34733154/horizont-poznani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:56:54.850188+00:00 |
 | [Horror in the High Desert 2: Minerva (2023) 1080p CZ Titulky](https://prehraj.to/horror-in-the-high-desert-2-minerva-2023-1080p-cz-titulky-mp4/e4738cdeae1465ef) (ID 29647142) | [Sdílej 34725654](https://sdilej.cz/34725654/horror-in-the-high-desert-2-minerva-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:52:09.141679+00:00 |
 | [Hosté večeře Páně (1963) 720p CZ Titulky](https://prehraj.to/hoste-vecere-pane-1963-720p-cz-titulky-mp4/1fd61b357bc984ec) (ID 29279387) | [Sdílej 34700257](https://sdilej.cz/34700257/hoste-vecere-pane-1963-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:14:24.701744+00:00 |
-| [Hot Chocolate Nutcracker: Klasika v novém podání (2020) 1080p CZ Titulky](https://prehraj.to/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-1080p-cz-titulky-mp4/d4e174c100b91362) (ID 29382292) | [Sdílej 34773295](https://sdilej.cz/34773295/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:35:11.717495+00:00 |
+| [Hot Chocolate Nutcracker: Klasika v novém podání (2020) 1080p CZ Titulky](https://prehraj.to/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-1080p-cz-titulky-mp4/d4e174c100b91362) (ID 29382292) | [Sdílej 34773295](https://sdilej.cz/34773295/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:37:35.062157+00:00 |
 | [Hotel Inferno (2013) 1080p CZ Titulky](https://prehraj.to/hotel-inferno-2013-1080p-cz-titulky-mkv/148fb56c56fa9d36) (ID 29539384) | [Sdílej 17823326](https://sdilej.cz/17823326/hotel.inferno.2013.1080p.bluray.h264.aac-rarbg.ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T09:48:22.147087+00:00 |
 | [Hotel Inferno 3: The Castle of Screams (2020) 720p CZ Titulky](https://prehraj.to/hotel-inferno-3-the-castle-of-screams-2020-720p-cz-titulky-mp4/72e4849ec29169b4) (ID 29398804) | [Sdílej 34733137](https://sdilej.cz/34733137/hotel-inferno-3-the-castle-of-screams-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:54.299426+00:00 |
 | [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:06:17.421044+00:00 |
