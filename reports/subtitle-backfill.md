@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:01:58.138141+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:02:07.652140+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -1164,7 +1164,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:36:04.884330+00:00 |
 | [The Bay (2012) 1080p CZ Titulky](https://prehraj.to/the-bay-2012-1080p-cz-titulky-mp4/f1e92022a69444bc) (ID 29926794) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:49.386619+00:00 |
 | [The Beta Test (2021) 1080p CZ Titulky](https://prehraj.to/the-beta-test-2021-1080p-cz-titulky-mp4/a5779b40ccdaeff3) (ID 29607672) | [Sdílej 34772650](https://sdilej.cz/34772650/the-beta-test-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:26:34.949716+00:00 |
-| [The Binge (2020) 1080p CZ Titulky](https://prehraj.to/the-binge-2020-1080p-cz-titulky-mp4/c2b7dfe6d9f80258) (ID 29721157) | [Sdílej 34773234](https://sdilej.cz/34773234/the-binge-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:01:37.744325+00:00 |
+| [The Binge (2020) 1080p CZ Titulky](https://prehraj.to/the-binge-2020-1080p-cz-titulky-mp4/c2b7dfe6d9f80258) (ID 29721157) | [Sdílej 34773234](https://sdilej.cz/34773234/the-binge-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:02:07.652005+00:00 |
 | [The Bombing of Wall Street (2018) SD CZ Titulky](https://prehraj.to/the-bombing-of-wall-street-2018-sd-cz-titulky-mp4/c5a1153aa4e4f050) (ID 29562079) | [Sdílej 34736187](https://sdilej.cz/34736187/the-bombing-of-wall-street-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:10:28.589614+00:00 |
 | [The Canal (2014) 720p CZ Titulky](https://prehraj.to/the-canal-2014-720p-cz-titulky-avi/57082c185b1c03a7) (ID 29912355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:23.334452+00:00 |
 | [The Canyons (2013) 720p CZ Titulky](https://prehraj.to/the-canyons-2013-720p-cz-titulky-mkv/7d16df0f32ed1f6b) (ID 29089664) | [Sdílej 16550507](https://sdilej.cz/16550507/the-canyons-2013-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:55:56.851218+00:00 |
