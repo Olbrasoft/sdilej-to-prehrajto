@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:00:34.514477+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:00:45.564809+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 65.
 
@@ -744,7 +744,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Most Beautiful Island (2017) 1080p CZ Titulky](https://prehraj.to/most-beautiful-island-2017-1080p-cz-titulky-mkv/fd2ecf4fa2cc0ce9) (ID 29642449) | [Sdílej 8518733](https://sdilej.cz/8518733/most-beautiful-island-2017-m1080p-web-dl-dd5.1-sk-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:52:04.503023+00:00 |
 | [Mother of Flies (2025) 1080p CZ Titulky](https://prehraj.to/mother-of-flies-2025-1080p-cz-titulky-mkv/dfdecd24d09aaf83) (ID 29917060) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:06.119946+00:00 |
 | [Moucha v kufru (2020) 1080p CZ Titulky](https://prehraj.to/moucha-v-kufru-2020-1080p-cz-titulky-mkv/2b7d5b285483d549) (ID 29219425) | [Sdílej 27064363](https://sdilej.cz/27064363/mandibules.2020.1080p.kp.web-dl.ddp5.1.h.264-eniahd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:37:27.498001+00:00 |
-| [Mrzout (2014) 720p CZ Titulky](https://prehraj.to/mrzout-2014-720p-cz-titulky-mkv/8968089b4ba16650) (ID 29656071) | [Sdílej 6530755](https://sdilej.cz/6530755/mrzout-mielensapahoittaja-2014-.720p.bluray.h264.dts-5.1-fin-slovenske-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:59:46.372109+00:00 |
+| [Mrzout (2014) 720p CZ Titulky](https://prehraj.to/mrzout-2014-720p-cz-titulky-mkv/8968089b4ba16650) (ID 29656071) | [Sdílej 6530755](https://sdilej.cz/6530755/mrzout-mielensapahoittaja-2014-.720p.bluray.h264.dts-5.1-fin-slovenske-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:00:45.564695+00:00 |
 | [Mudbound (2017) 720p CZ Titulky](https://prehraj.to/mudbound-2017-720p-cz-titulky-avi/37e3d8a5be67d6a2) (ID 29895650) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:38.650776+00:00 |
 | [Mulberry Street (2006) SD CZ Titulky](https://prehraj.to/mulberry-street-2006-sd-cz-titulky-avi/e37bfb75579670f9) (ID 29709624) | [Sdílej 30456781](https://sdilej.cz/30456781/mulberry-street-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:29.155196+00:00 |
 | [Mulm (2024) 1080p CZ Titulky](https://prehraj.to/mulm-2024-1080p-cz-titulky-mkv/4de77a97261e9e36) (ID 30086026) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:02:53.610161+00:00 |
