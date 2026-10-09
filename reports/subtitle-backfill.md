@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:49:12.722912+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:49:21.025347+00:00
 
 Zkontrolováno videí: 2076. Další stránka kontroly: 186.
 
@@ -605,7 +605,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kesari (2019) 1080p CZ Titulky](https://prehraj.to/kesari-2019-1080p-cz-titulky-mp4/7d6ff763167ba819) (ID 30102560) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:19:50.713766+00:00 |
 | [Kevin Hart: What Now? (2016) 1080p CZ Titulky](https://prehraj.to/kevin-hart-what-now-2016-1080p-cz-titulky-mkv/9461846f718826b8) (ID 29614983) | [Sdílej 6918441](https://sdilej.cz/6918441/kevin-hart-what-now-2016-1080p-bluray-cyro.se-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:00:30.705573+00:00 |
 | [Kick (2014) SD CZ Titulky](https://prehraj.to/kick-2014-sd-cz-titulky-mp4/249429b27658a2a4) (ID 29536732) | [Sdílej 34776445](https://sdilej.cz/34776445/kick-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:03:02.863910+00:00 |
-| [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:45:07.276193+00:00 |
+| [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:49:21.025229+00:00 |
 | [Kingdom (2019) 1080p CZ Titulky](https://prehraj.to/kingdom-2019-1080p-cz-titulky-mp4/9df35e3b2fab324f) (ID 29749185) | [Sdílej 34904048](https://sdilej.cz/34904048/kingdom-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:38:07.788076+00:00 |
 | [Klasický horor (2021) 1080p CZ Titulky](https://prehraj.to/klasicky-horor-2021-1080p-cz-titulky-mp4/ae505b6015551aee) (ID 29914742) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:16:05.851788+00:00 |
 | [Klaun k popukání (2012) 720p CZ Titulky](https://prehraj.to/klaun-k-popukani-2012-720p-cz-titulky-mp4/f653d07eac11a655) (ID 29706336) | [Sdílej 33856460](https://sdilej.cz/33856460/stitches.cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:15.311089+00:00 |
