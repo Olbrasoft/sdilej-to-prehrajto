@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:47:27.907651+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:47:39.777537+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 166.
 
@@ -1159,7 +1159,7 @@ Kontrol: 57; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 1. Důvod
 | [The Angriest Man in Brooklyn (2014) SD CZ Titulky](https://prehraj.to/the-angriest-man-in-brooklyn-2014-sd-cz-titulky-avi/af31faef6cd41137) (ID 29721122) | [Sdílej 28343869](https://sdilej.cz/28343869/the-angriest-man-in-brooklyn-2014-komedie-ceske-titulky-vlozeny-ve-filmu.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:01:10.543614+00:00 |
 | [The Appearance (2018) 1080p CZ Titulky](https://prehraj.to/the-appearance-2018-1080p-cz-titulky-mkv/5c7e6911dc2f41e1) (ID 29918173) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:39.228018+00:00 |
 | [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:48:13.618268+00:00 |
-| [The Aviary (2022) 1080p CZ Titulky](https://prehraj.to/the-aviary-2022-1080p-cz-titulky-mp4/aee6a96eb6881d7c) (ID 29712339) | [Sdílej 34904089](https://sdilej.cz/34904089/the-aviary-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:45:54.615378+00:00 |
+| [The Aviary (2022) 1080p CZ Titulky](https://prehraj.to/the-aviary-2022-1080p-cz-titulky-mp4/aee6a96eb6881d7c) (ID 29712339) | [Sdílej 34904089](https://sdilej.cz/34904089/the-aviary-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:47:39.777404+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:45:16.552533+00:00 |
 | [The Battery (2012) SD CZ Titulky](https://prehraj.to/the-battery-2012-sd-cz-titulky-mp4/56fd8ee2543587c8) (ID 29985690) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:06.421000+00:00 |
 | [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:36:04.884330+00:00 |
