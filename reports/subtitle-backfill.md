@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:06:50.107776+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:07:03.643639+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -803,7 +803,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Neztrácej naději (2025) 4K CZ Titulky](https://prehraj.to/neztracej-nadeji-2025-4k-cz-titulky-mkv/618341b6d296fe9f) (ID 29917633) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:37.385522+00:00 |
 | [Než se setmí (2000) 720p CZ Titulky](https://prehraj.to/nez-se-setmi-2000-720p-cz-titulky-avi/fdc7d1f6d18c3e99) (ID 30039061) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:20.567761+00:00 |
 | [Než skončí léto (2020) 1080p CZ Titulky](https://prehraj.to/nez-skonci-leto-2020-1080p-cz-titulky-mp4/4f3067c6f335e230) (ID 30036237) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:18.689035+00:00 |
-| [Nightlight (2015) SD CZ Titulky](https://prehraj.to/nightlight-2015-sd-cz-titulky-avi/e7487c784ff10942) (ID 29732596) | [Sdílej 16621779](https://sdilej.cz/16621779/nightlight-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:06:20.185942+00:00 |
+| [Nightlight (2015) SD CZ Titulky](https://prehraj.to/nightlight-2015-sd-cz-titulky-avi/e7487c784ff10942) (ID 29732596) | [Sdílej 16621779](https://sdilej.cz/16621779/nightlight-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:07:03.643522+00:00 |
 | [Nightmare Cinema (2018) 1080p CZ Titulky](https://prehraj.to/nightmare-cinema-2018-1080p-cz-titulky-mkv/f75889b9b48eae26) (ID 29706566) | [Sdílej 30696122](https://sdilej.cz/30696122/nightmare-cinema-2018-1080p-bluray-x264-sk-sub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:42.834761+00:00 |
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:00:40.773483+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:03:26.145271+00:00 |
