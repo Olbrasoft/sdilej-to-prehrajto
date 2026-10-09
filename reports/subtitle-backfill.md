@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:23:59.627127+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:24:09.530654+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -597,7 +597,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:37:44.390420+00:00 |
 | [Já a můj terapeut (2024) 720p CZ Titulky](https://prehraj.to/ja-a-muj-terapeut-2024-720p-cz-titulky-mp4/44c8713a06a38bee) (ID 29616776) | [Sdílej 34724968](https://sdilej.cz/34724968/ja-a-muj-terapeut-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:30.132274+00:00 |
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:37:31.674516+00:00 |
-| [Kadosh (1999) SD CZ Titulky](https://prehraj.to/kadosh-1999-sd-cz-titulky-mp4/bbdd665d9affcd2f) (ID 29606377) | [Sdílej 34789327](https://sdilej.cz/34789327/kosh.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:20:23.178179+00:00 |
+| [Kadosh (1999) SD CZ Titulky](https://prehraj.to/kadosh-1999-sd-cz-titulky-mp4/bbdd665d9affcd2f) (ID 29606377) | [Sdílej 34789327](https://sdilej.cz/34789327/kosh.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:24:09.530555+00:00 |
 | [Kadáver (2020) 720p CZ Titulky](https://prehraj.to/kadaver-2020-720p-cz-titulky-mkv/c5ef788a7ccc1d4a) (ID 29939984) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:01:37.221425+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-02T15:21:12.942051+00:00 |
 | [Kawaki (2014) SD CZ Titulky](https://prehraj.to/kawaki-2014-sd-cz-titulky-mp4/e6d89c700d6e259b) (ID 29924956) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:17.184347+00:00 |
