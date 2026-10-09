@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:38:06.083596+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:38:23.272346+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -463,7 +463,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Gangnam Zombie (2023) SD CZ Titulky](https://prehraj.to/gangnam-zombie-2023-sd-cz-titulky-avi/42d60f585520ab0a) (ID 29723757) | [Sdílej 26409536](https://sdilej.cz/26409536/gangnam.zombie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:03:03.816048+00:00 |
 | [Geomgaek (2020) 1080p CZ Titulky](https://prehraj.to/geomgaek-2020-1080p-cz-titulky-mkv/3923dd4af370e51a) (ID 29468294) | [Sdílej 15095618](https://sdilej.cz/15095618/geomgaek.2020-the.swordsman.sktit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:15.092138+00:00 |
 | [George Michael: Freedom (2017) 1080p CZ Titulky](https://prehraj.to/george-michael-freedom-2017-1080p-cz-titulky-mp4/a9afcb03560f32b0) (ID 29394134) | [Sdílej 34774695](https://sdilej.cz/34774695/george-michael-freedom-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:47:07.943892+00:00 |
-| [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:35:41.740977+00:00 |
+| [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:38:23.272209+00:00 |
 | [Godzilla (1954) 1080p CZ Titulky](https://prehraj.to/godzilla-1954-1080p-cz-titulky-mkv/7919d2f7c3816580) (ID 29881412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:32.615851+00:00 |
 | [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:50:33.449133+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:35:36.922859+00:00 |
