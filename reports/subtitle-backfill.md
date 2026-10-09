@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:03:48.858371+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:03:59.191260+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 45.
 
@@ -971,7 +971,7 @@ Kontrol: 54; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 1. Důvod
 | [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:05:03.671943+00:00 |
 | [Rampage (2009) SD CZ Titulky](https://prehraj.to/rampage-2009-sd-cz-titulky-mp4/b88dd7abf2937d75) (ID 29996473) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:47.300582+00:00 |
 | [Rande na oko (2020) 1080p CZ Titulky](https://prehraj.to/rande-na-oko-2020-1080p-cz-titulky-mp4/b312d76d695945f4) (ID 29430070) | [Sdílej 31626274](https://sdilej.cz/31626274/rande-na-oko-2020-en-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:51.850975+00:00 |
-| [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:02:30.824208+00:00 |
+| [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:03:59.191153+00:00 |
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:43:16.892122+00:00 |
 | [Re-Kill (2015) SD CZ Titulky](https://prehraj.to/re-kill-2015-sd-cz-titulky-avi/6cb5d0ca86c67b09) (ID 29540122) | [Sdílej 34850986](https://sdilej.cz/34850986/re-kill-.sk-tit.v-obraze-scifi-horor-2015.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:03:54.968924+00:00 |
 | [ReMastered: Devil at the Crossroads (2019) 1080p CZ Titulky](https://prehraj.to/remastered-devil-at-the-crossroads-2019-1080p-cz-titulky-mp4/61d7073f666022d4) (ID 29432057) | [Sdílej 34733904](https://sdilej.cz/34733904/remastered-devil-at-the-crossroads-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:48:01.893774+00:00 |
