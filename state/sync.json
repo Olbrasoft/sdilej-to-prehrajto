@@ -163815,17 +163815,20 @@
       "attempts": []
     },
     "14422": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30566544",
+          "target_video_id": "30133409",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-09T20:02:01.489553+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30566544",
         "display_name": "Dobrý člověk (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-09T19:54:47.096610+00:00"
-      },
-      "claim": {
-        "worker_id": "02545ea871b341df9d5ca37d43720213-shard-0",
-        "claimed_at": "2026-10-09T19:55:24.801118+00:00",
-        "lease_expires_at": "2026-10-10T01:55:24.801118+00:00",
-        "run_id": "37952015547"
       },
       "previous_target_id": "30133409",
       "prepared": {
@@ -349748,5 +349751,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-09T19:55:47.887700+00:00"
+  "updated_at": "2026-10-09T20:02:01.489573+00:00"
 }
