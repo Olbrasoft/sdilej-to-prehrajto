@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:26:55.215006+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:27:07.075346+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1099,7 +1099,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Star Trek: Renegades (2015) SD CZ Titulky](https://prehraj.to/star-trek-renegades-2015-sd-cz-titulky-avi/8c149b7ff9b0ec67) (ID 29793115) | [Sdílej 27485360](https://sdilej.cz/27485360/star-trek-renegades-2015-cz-tit.akc.sci-fi-dobrodr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:32:41.557499+00:00 |
 | [Starlet (2012) SD CZ Titulky](https://prehraj.to/starlet-2012-sd-cz-titulky-mp4/96755751c1141fd8) (ID 30047833) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:59.301257+00:00 |
 | [Sting (2024) 1080p CZ Titulky](https://prehraj.to/sting-2024-1080p-cz-titulky-mkv/5c01b96b6e677206) (ID 29925491) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-05T15:48:41.865180+00:00 |
-| [Sto krvavých akrů (2012) SD CZ Titulky](https://prehraj.to/sto-krvavych-akru-2012-sd-cz-titulky-mp4/841d1b68f5de6bf4) (ID 29607800) | [Sdílej 34710625](https://sdilej.cz/34710625/sto-krvavych-akru-2012-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:43.397956+00:00 |
+| [Sto krvavých akrů (2012) SD CZ Titulky](https://prehraj.to/sto-krvavych-akru-2012-sd-cz-titulky-mp4/841d1b68f5de6bf4) (ID 29607800) | [Sdílej 34710625](https://sdilej.cz/34710625/sto-krvavych-akru-2012-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:27:07.075229+00:00 |
 | [Stopa vraha (2024) 1080p CZ Titulky](https://prehraj.to/stopa-vraha-2024-1080p-cz-titulky-mp4/2715d7a9263f33cf) (ID 29735549) | [Sdílej 28644925](https://sdilej.cz/28644925/damaged-2024-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:10:06.987984+00:00 |
 | [Stopy (2013) 720p CZ Titulky](https://prehraj.to/stopy-2013-720p-cz-titulky-mp4/efd06708ad320b80) (ID 29333413) | [Sdílej 34779528](https://sdilej.cz/34779528/stopy-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:54:44.279643+00:00 |
 | [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:40:08.288937+00:00 |
