@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:56:34.106681+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:56:42.635823+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 65.
 
@@ -663,7 +663,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:01:44.205610+00:00 |
 | [Life After Beth (2014) SD CZ Titulky](https://prehraj.to/life-after-beth-2014-sd-cz-titulky-avi/70e04e2402a204a1) (ID 29721145) | [Sdílej 3743477](https://sdilej.cz/3743477/life-after-beth-2014-360p-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:01:23.324668+00:00 |
 | [Lights, Camera, Christmas! (2022) 1080p CZ Titulky](https://prehraj.to/lights-camera-christmas-2022-1080p-cz-titulky-mp4/7ea242ba37982fe8) (ID 30107279) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:57.726614+00:00 |
-| [Lillian (2019) 1080p CZ Titulky](https://prehraj.to/lillian-2019-1080p-cz-titulky-mkv/8de6a16d12076fda) (ID 29649257) | [Sdílej 13568885](https://sdilej.cz/13568885/lillian-2019-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:53.521023+00:00 |
+| [Lillian (2019) 1080p CZ Titulky](https://prehraj.to/lillian-2019-1080p-cz-titulky-mkv/8de6a16d12076fda) (ID 29649257) | [Sdílej 13568885](https://sdilej.cz/13568885/lillian-2019-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:56:42.635698+00:00 |
 | [Lisztomania (1975) SD CZ Titulky](https://prehraj.to/lisztomania-1975-sd-cz-titulky-mp4/4e5497aab17eb703) (ID 29242713) | [Sdílej 34787708](https://sdilej.cz/34787708/lisztomania-1975-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:34:45.665382+00:00 |
 | [Little Evil (2017) 720p CZ Titulky](https://prehraj.to/little-evil-2017-720p-cz-titulky-mkv/254b95fa1f1ce54e) (ID 29721068) | [Sdílej 7794278](https://sdilej.cz/7794278/little.evil.2017.720p.webrip.x264-strife.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:50:56.290608+00:00 |
 | [Little Monsters (2019) 1080p CZ Titulky](https://prehraj.to/little-monsters-2019-1080p-cz-titulky-mkv/cbf224a5801474bc) (ID 29976822) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:01:41.314354+00:00 |
