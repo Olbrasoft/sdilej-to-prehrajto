@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:45:02.682847+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:45:09.057689+00:00
 
 Zkontrolováno videí: 2076. Další stránka kontroly: 186.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 511, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 398, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 7
+Stavy: `already_has_czech`: 511, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 398, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 8
 
 ## Poslední dávka
 
@@ -1118,7 +1118,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Superhost (2021) 1080p CZ Titulky](https://prehraj.to/superhost-2021-1080p-cz-titulky-mkv/b4059976607da9ce) (ID 29706516) | [Sdílej 18833126](https://sdilej.cz/18833126/superhost.2021.1080p.amzn.web-dl.ddp2.0.h.264-tepes.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:13:02.016226+00:00 |
 | [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:05:48.047634+00:00 |
 | [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:50:16.096119+00:00 |
-| [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:37.516227+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:15:47.819920+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:14:44.361226+00:00 |
 | [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:29:23.871894+00:00 |
@@ -1473,6 +1472,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-09T11:44:18.519524+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-09T11:44:07.214448+00:00 |
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-09T15:53:48.458739+00:00 |
+| [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | target_unavailable | 2026-10-09T16:45:09.057633+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-10-09T16:11:32.962439+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-09T11:44:36.158709+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-09T14:39:09.303162+00:00 |
