@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:53:42.585481+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:53:48.458834+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 166.
 
@@ -1471,7 +1471,7 @@ Kontrol: 57; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 1. Důvod
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-09T15:45:37.234287+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-09T11:44:18.519524+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-09T11:44:07.214448+00:00 |
-| [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-09T09:47:16.194116+00:00 |
+| [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-09T15:53:48.458739+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-10-09T15:02:05.089596+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-09T11:44:36.158709+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-09T14:39:09.303162+00:00 |
