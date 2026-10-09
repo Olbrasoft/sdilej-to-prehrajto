@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:08:06.293767+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:08:16.020754+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1346,7 +1346,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:35:36.473357+00:00 |
 | [Všechna ta krása a zabíjení (2022) 1080p CZ Titulky](https://prehraj.to/vsechna-ta-krasa-a-zabijeni-2022-1080p-cz-titulky-mp4/7adfb285aa1dbffd) (ID 30000019) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:49.403960+00:00 |
 | [Všechny roztleskávačky zemřou (2013) SD CZ Titulky](https://prehraj.to/vsechny-roztleskavacky-zemrou-2013-sd-cz-titulky-mp4/0ea5ee37e230c76e) (ID 29933836) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:27.354521+00:00 |
-| [Wake Up Sid (2009) SD CZ Titulky](https://prehraj.to/wake-up-sid-2009-sd-cz-titulky-mp4/98c86b703f74d650) (ID 29560140) | [Sdílej 34750990](https://sdilej.cz/34750990/wake-up-sid-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:30.161135+00:00 |
+| [Wake Up Sid (2009) SD CZ Titulky](https://prehraj.to/wake-up-sid-2009-sd-cz-titulky-mp4/98c86b703f74d650) (ID 29560140) | [Sdílej 34750990](https://sdilej.cz/34750990/wake-up-sid-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:08:16.020643+00:00 |
 | [Wanda Sykes: Nenormální (2019) 1080p CZ Titulky](https://prehraj.to/wanda-sykes-nenormalni-2019-1080p-cz-titulky-mp4/52c65d095d10bc3f) (ID 29440609) | [Sdílej 34733622](https://sdilej.cz/34733622/wanda-sykes-nenormalni-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:49:12.897367+00:00 |
 | [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:32:57.815954+00:00 |
 | [War 2 (2025) 1080p CZ Titulky](https://prehraj.to/war-2-2025-1080p-cz-titulky-mp4/fb6349c2e6ccb9d0) (ID 29908677) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:44.277803+00:00 |
