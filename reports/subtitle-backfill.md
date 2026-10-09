@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:55:51.707312+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:56:02.927459+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 65.
 
@@ -1253,7 +1253,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The World Will Tremble (2025) 1080p CZ Titulky](https://prehraj.to/the-world-will-tremble-2025-1080p-cz-titulky-mp4/6dae944ac1f66667) (ID 29468514) | [Sdílej 30991221](https://sdilej.cz/30991221/the-world-will-tremble-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:55:39.507687+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:05:19.723032+00:00 |
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-03T14:54:30.116550+00:00 |
-| [Thor: God of Thunder (2022) 720p CZ Titulky](https://prehraj.to/thor-god-of-thunder-2022-720p-cz-titulky-mp4/d100c5e80baf1538) (ID 29648483) | [Sdílej 34772159](https://sdilej.cz/34772159/thor-god-of-thunder-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:15.096527+00:00 |
+| [Thor: God of Thunder (2022) 720p CZ Titulky](https://prehraj.to/thor-god-of-thunder-2022-720p-cz-titulky-mp4/d100c5e80baf1538) (ID 29648483) | [Sdílej 34772159](https://sdilej.cz/34772159/thor-god-of-thunder-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:56:02.927340+00:00 |
 | [Thriller - drsný film (1973) 1080p CZ Titulky](https://prehraj.to/thriller-drsny-film-1973-1080p-cz-titulky-mp4/d3b318601405ea7e) (ID 29398262) | [Sdílej 34755870](https://sdilej.cz/34755870/thriller-drsny-film-1973-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:38:06.083454+00:00 |
 | [Tichá noc, krvavá noc (2025) 1080p CZ Titulky](https://prehraj.to/ticha-noc-krvava-noc-2025-1080p-cz-titulky-mkv/cc8fc5bf92c84cf9) (ID 29994597) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T08:00:47.527130+00:00 |
 | [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:32:34.578631+00:00 |
