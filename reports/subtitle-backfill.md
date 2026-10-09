@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:16:18.766586+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:16:32.258603+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -43,7 +43,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Adopted (2021) 1080p CZ Titulky](https://prehraj.to/adopted-2021-1080p-cz-titulky-mp4/110850d7e057bc81) (ID 30104538) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:57.726658+00:00 |
 | [Ae Dil Hai Mushkil (2016) 720p CZ Titulky](https://prehraj.to/ae-dil-hai-mushkil-2016-720p-cz-titulky-mp4/7e78d8ac8d8afe19) (ID 29921424) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:11.427478+00:00 |
 | [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:32.382556+00:00 |
-| [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:22.681551+00:00 |
+| [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:16:32.258507+00:00 |
 | [Agent Game (2022) 1080p CZ Titulky](https://prehraj.to/agent-game-2022-1080p-cz-titulky-avi/d9f07e78ab834281) (ID 29734967) | [Sdílej 23674241](https://sdilej.cz/23674241/agent-game-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:09:08.411750+00:00 |
 | [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T05:39:19.885902+00:00 |
 | [Air Bud - Fotbalista (2000) 1080p CZ Titulky](https://prehraj.to/air-bud-fotbalista-2000-1080p-cz-titulky-mp4/27c81f6c018f3822) (ID 29933860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:27.354488+00:00 |
