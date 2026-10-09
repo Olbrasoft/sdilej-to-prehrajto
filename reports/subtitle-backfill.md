@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:50:57.342222+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:51:08.319056+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -1429,7 +1429,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Úkryt (2011) SD CZ Titulky](https://prehraj.to/ukryt-2011-sd-cz-titulky-avi/65f99a61ff732dfe) (ID 30022150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:51.207061+00:00 |
 | [Úniková cesta (2016) 720p CZ Titulky](https://prehraj.to/unikova-cesta-2016-720p-cz-titulky-avi/f231757960d6becc) (ID 29709428) | [Sdílej 9549271](https://sdilej.cz/9549271/term-life-2016-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:43:53.769066+00:00 |
 | [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:16.095476+00:00 |
-| [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:46.643530+00:00 |
+| [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:51:08.318931+00:00 |
 | [Čarovný les (2014) 1080p CZ Titulky](https://prehraj.to/carovny-les-2014-1080p-cz-titulky-mkv/48ef178fccd7e71c) (ID 29935980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:29.379314+00:00 |
 | [Časový posun (1979) SD CZ Titulky](https://prehraj.to/casovy-posun-1979-sd-cz-titulky-mkv/960cf3b93a1bc97a) (ID 29923350) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:15.211172+00:00 |
 | [Černá vdova (2012) 1080p CZ Titulky](https://prehraj.to/cerna-vdova-2012-1080p-cz-titulky-mp4/ced008d34bece1b4) (ID 30040903) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:57.269990+00:00 |
