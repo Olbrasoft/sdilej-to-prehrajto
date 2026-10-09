@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T10:36:48.029486+00:00
+Poslední aktualizace (UTC): 2026-10-09T10:36:55.453324+00:00
 
 Zkontrolováno videí: 2069. Další stránka kontroly: 185.
 
@@ -677,7 +677,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:45.938088+00:00 |
 | [Lumberjack Man (2015) SD CZ Titulky](https://prehraj.to/lumberjack-man-2015-sd-cz-titulky-mp4/4228562343a7aca6) (ID 29926192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T09:54:59.130946+00:00 |
 | [Lurker (2025) 1080p CZ Titulky](https://prehraj.to/lurker-2025-1080p-cz-titulky-mp4/4d45d5e1a3ef24e9) (ID 30106547) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T09:59:15.512302+00:00 |
-| [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:37.232724+00:00 |
+| [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:36:55.453221+00:00 |
 | [Léto 85 (2020) 720p CZ Titulky](https://prehraj.to/leto-85-2020-720p-cz-titulky-avi/8f498b0623140179) (ID 29749358) | [Sdílej 15347014](https://sdilej.cz/15347014/leto-85.-2020-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:24:17.313899+00:00 |
 | [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T09:51:33.653339+00:00 |
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T09:53:22.598357+00:00 |
