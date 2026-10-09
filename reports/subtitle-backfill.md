@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:34:25.117259+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:34:33.696747+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 145.
 
@@ -1337,7 +1337,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 13. Dův
 | [Vábení sirén (2015) 1080p CZ Titulky](https://prehraj.to/vabeni-siren-2015-1080p-cz-titulky-mp4/839f1ed77a0a2e7d) (ID 29585630) | [Sdílej 34737935](https://sdilej.cz/34737935/vabeni-siren-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:21:13.039718+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:46:01.450909+00:00 |
 | [Vánoce s vůní máty (2021) 1080p CZ Titulky](https://prehraj.to/vanoce-s-vuni-maty-2021-1080p-cz-titulky-mp4/6435dfae930e7710) (ID 29242109) | [Sdílej 34772685](https://sdilej.cz/34772685/vanoce-s-vuni-maty-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:34:33.937588+00:00 |
-| [Vánoční setkání (2020) 1080p CZ Titulky](https://prehraj.to/vanocni-setkani-2020-1080p-cz-titulky-mp4/9c0a1fc4b9051990) (ID 29612782) | [Sdílej 34731850](https://sdilej.cz/34731850/vanocni-setkani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:30:20.589012+00:00 |
+| [Vánoční setkání (2020) 1080p CZ Titulky](https://prehraj.to/vanocni-setkani-2020-1080p-cz-titulky-mp4/9c0a1fc4b9051990) (ID 29612782) | [Sdílej 34731850](https://sdilej.cz/34731850/vanocni-setkani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:33.696613+00:00 |
 | [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:37:55.230492+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:37:33.482882+00:00 |
 | [Výheň (2011) SD CZ Titulky](https://prehraj.to/vyhen-2011-sd-cz-titulky-avi/355cca1c01d64405) (ID 29916356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:06.120113+00:00 |
