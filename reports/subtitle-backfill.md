@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:19:07.310734+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:19:17.369565+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1147,7 +1147,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:43:53.619141+00:00 |
 | [Tarka the Otter (1979) SD CZ Titulky](https://prehraj.to/tarka-the-otter-1979-sd-cz-titulky-mp4/a623af7368961f52) (ID 30070924) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:51.589340+00:00 |
 | [Tau (2018) SD CZ Titulky](https://prehraj.to/tau-2018-sd-cz-titulky-avi/39aebab17d5de972) (ID 29912807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:56.437004+00:00 |
-| [Technoboys (2024) 1080p CZ Titulky](https://prehraj.to/technoboys-2024-1080p-cz-titulky-mp4/1d64604afe1ff2ca) (ID 29578891) | [Sdílej 34724763](https://sdilej.cz/34724763/technoboys-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:20.038434+00:00 |
+| [Technoboys (2024) 1080p CZ Titulky](https://prehraj.to/technoboys-2024-1080p-cz-titulky-mp4/1d64604afe1ff2ca) (ID 29578891) | [Sdílej 34724763](https://sdilej.cz/34724763/technoboys-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:19:17.369440+00:00 |
 | [Teefa in Trouble (2018) 1080p CZ Titulky](https://prehraj.to/teefa-in-trouble-2018-1080p-cz-titulky-mp4/695366ab12d765c6) (ID 29372882) | [Sdílej 34735790](https://sdilej.cz/34735790/teefa-in-trouble-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:41:43.824347+00:00 |
 | [Tell It to the Bees (2019) 1080p CZ Titulky](https://prehraj.to/tell-it-to-the-bees-2019-1080p-cz-titulky-mkv/3d6c464589813ff5) (ID 29851733) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:30.795279+00:00 |
 | [Temná píseň (2016) SD CZ Titulky](https://prehraj.to/temna-pisen-2016-sd-cz-titulky-mkv/e7cdc01716a32bb4) (ID 29298293) | [Sdílej 7993384](https://sdilej.cz/7993384/a-dark-song.2016.hdrip.xvid.ac3-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:05:03.671889+00:00 |
