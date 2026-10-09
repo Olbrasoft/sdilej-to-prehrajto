@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:34:05.840632+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:34:22.821304+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -908,7 +908,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:43:14.775532+00:00 |
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:35:49.148381+00:00 |
 | [Pohotovost (2022) 1080p CZ Titulky](https://prehraj.to/pohotovost-2022-1080p-cz-titulky-mp4/9733d1faac99634d) (ID 29983579) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:06.421076+00:00 |
-| [Pohoří smrti (1971) SD CZ Titulky](https://prehraj.to/pohori-smrti-1971-sd-cz-titulky-avi/19fcfffd442d6741) (ID 29674507) | [Sdílej 31350916](https://sdilej.cz/31350916/pohori-smrti-19-djevojaka-i-mornar-1971-czt-valecny-a-v.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:21:25.747249+00:00 |
+| [Pohoří smrti (1971) SD CZ Titulky](https://prehraj.to/pohori-smrti-1971-sd-cz-titulky-avi/19fcfffd442d6741) (ID 29674507) | [Sdílej 31350916](https://sdilej.cz/31350916/pohori-smrti-19-djevojaka-i-mornar-1971-czt-valecny-a-v.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:34:22.821201+00:00 |
 | [Pohrdání (1963) 1080p CZ Titulky](https://prehraj.to/pohrdani-1963-1080p-cz-titulky-mp4/297f345486230feb) (ID 29998390) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:12.630258+00:00 |
 | [Pohřeb (2023) 1080p CZ Titulky](https://prehraj.to/pohreb-2023-1080p-cz-titulky-mp4/2b2baad9716c8f4e) (ID 30038509) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:18.688983+00:00 |
 | [Pole v Anglii (festivalový název) (2013) SD CZ Titulky](https://prehraj.to/pole-v-anglii-festivalovy-nazev-2013-sd-cz-titulky-mp4/fd4388f47bc21a07) (ID 29608213) | [Sdílej 34779586](https://sdilej.cz/34779586/pole-v-anglii-festivalovy-nazev-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:27:39.057601+00:00 |
