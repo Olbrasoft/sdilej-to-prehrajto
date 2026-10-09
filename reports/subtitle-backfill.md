@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T09:39:58.277533+00:00
+Poslední aktualizace (UTC): 2026-10-09T09:40:08.289071+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -1102,7 +1102,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sto krvavých akrů (2012) SD CZ Titulky](https://prehraj.to/sto-krvavych-akru-2012-sd-cz-titulky-mp4/841d1b68f5de6bf4) (ID 29607800) | [Sdílej 34710625](https://sdilej.cz/34710625/sto-krvavych-akru-2012-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:22:43.397956+00:00 |
 | [Stopa vraha (2024) 1080p CZ Titulky](https://prehraj.to/stopa-vraha-2024-1080p-cz-titulky-mp4/2715d7a9263f33cf) (ID 29735549) | [Sdílej 28644925](https://sdilej.cz/28644925/damaged-2024-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:10:06.987984+00:00 |
 | [Stopy (2013) 720p CZ Titulky](https://prehraj.to/stopy-2013-720p-cz-titulky-mp4/efd06708ad320b80) (ID 29333413) | [Sdílej 34779528](https://sdilej.cz/34779528/stopy-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:54:44.279643+00:00 |
-| [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T09:36:54.995675+00:00 |
+| [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:40:08.288937+00:00 |
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T08:57:58.447290+00:00 |
 | [Stovky bobrů (2022) 1080p CZ Titulky](https://prehraj.to/stovky-bobru-2022-1080p-cz-titulky-mp4/e6dfada040fc7670) (ID 29583192) | [Sdílej 30207144](https://sdilej.cz/30207144/hundreds-of-beavers-stovky-bobru-2022-czsubbed-1080p-web-dl-aac2.0-h.264-nogrp.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:21.563403+00:00 |
 | [Strach a touha (1952) 720p CZ Titulky](https://prehraj.to/strach-a-touha-1952-720p-cz-titulky-mp4/dab547de861fffb3) (ID 29752311) | [Sdílej 34756169](https://sdilej.cz/34756169/strach-a-touha-1952-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:26:16.982788+00:00 |
