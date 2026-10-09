@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:43:37.455873+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:43:45.154486+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 105.
 
@@ -683,7 +683,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:36.611013+00:00 |
 | [Líbánky s mámou (2022) 720p CZ Titulky](https://prehraj.to/libanky-s-mamou-2022-720p-cz-titulky-mp4/70291b8f8feabd58) (ID 29613931) | [Sdílej 34727109](https://sdilej.cz/34727109/libanky-s-mamou-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:56.436277+00:00 |
 | [M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky](https://prehraj.to/m-a-s-h-the-comedy-that-changed-television-2024-1080p-cz-titulky-mp4/a7f840407213d02d) (ID 29460944) | [Sdílej 34724940](https://sdilej.cz/34724940/m-a-s-h-the-comedy-that-changed-television-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:53:11.308731+00:00 |
-| [Macbeth (2015) 1080p CZ Titulky](https://prehraj.to/macbeth-2015-1080p-cz-titulky-mkv/43b3019f4d881089) (ID 29632880) | [Sdílej 32362491](https://sdilej.cz/32362491/macbeth-drama.histor.vb.fr.us.2015.tvrip.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:41:30.661216+00:00 |
+| [Macbeth (2015) 1080p CZ Titulky](https://prehraj.to/macbeth-2015-1080p-cz-titulky-mkv/43b3019f4d881089) (ID 29632880) | [Sdílej 32362491](https://sdilej.cz/32362491/macbeth-drama.histor.vb.fr.us.2015.tvrip.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:43:45.154390+00:00 |
 | [Mad Heidi (2022) SD CZ Titulky](https://prehraj.to/mad-heidi-2022-sd-cz-titulky-avi/802e752d0e467d18) (ID 29913511) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:56.436802+00:00 |
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:54:58.972578+00:00 |
 | [Maharal – Tajemství talismanu (2007) 1080p CZ Titulky](https://prehraj.to/maharal-tajemstvi-talismanu-2007-1080p-cz-titulky-mp4/d1ccc57aad6f165f) (ID 29825975) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:28.649393+00:00 |
