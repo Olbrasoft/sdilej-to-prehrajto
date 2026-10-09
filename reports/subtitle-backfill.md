@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:46:13.234707+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:46:17.901314+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 105.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 511, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 396, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 4
+Stavy: `already_has_czech`: 511, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 396, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 5
 
 ## Poslední dávka
 
@@ -818,7 +818,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [No není to romantika? (2019) 1080p CZ Titulky](https://prehraj.to/no-neni-to-romantika-2019-1080p-cz-titulky-avi/ce19ca36cf4ce9e7) (ID 29924323) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:15.211046+00:00 |
 | [Noah’s Shark (2021) 720p CZ Titulky](https://prehraj.to/noah-s-shark-2021-720p-cz-titulky-mp4/7efa00206ca296a4) (ID 29689198) | [Sdílej 34730132](https://sdilej.cz/34730132/noah-s-shark-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:31.951359+00:00 |
 | [Noc ohňů (2021) 1080p CZ Titulky](https://prehraj.to/noc-ohnu-2021-1080p-cz-titulky-mp4/3089b26fdbde99d4) (ID 29560913) | [Sdílej 34729165](https://sdilej.cz/34729165/noc-ohnu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:09:02.904824+00:00 |
-| [Noc v New Yorku (2014) 1080p CZ Titulky](https://prehraj.to/noc-v-new-yorku-2014-1080p-cz-titulky-mp4/969ed265e9f762da) (ID 29637479) | [Sdílej 33219207](https://sdilej.cz/33219207/before-we-go-2014-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:44:15.497199+00:00 |
 | [Noc v ráji (2020) 720p CZ Titulky](https://prehraj.to/noc-v-raji-2020-720p-cz-titulky-mp4/842cd65a303fda0f) (ID 29659390) | [Sdílej 34732879](https://sdilej.cz/34732879/noc-v-raji-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:04:54.919337+00:00 |
 | [Nocturna (2020) 1080p CZ Titulky](https://prehraj.to/nocturna-2020-1080p-cz-titulky-avi/832d8f629bd81087) (ID 29913871) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:58.356962+00:00 |
 | [Noční režisér (2022) 1080p CZ Titulky](https://prehraj.to/nocni-reziser-2022-1080p-cz-titulky-mp4/585faa73383ca079) (ID 29654506) | [Sdílej 34726965](https://sdilej.cz/34726965/nocni-reziser-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:59:20.173182+00:00 |
@@ -1465,6 +1464,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-09T11:44:42.017140+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-09T11:44:13.020827+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-09T14:39:30.637364+00:00 |
+| [Noc v New Yorku (2014) 1080p CZ Titulky](https://prehraj.to/noc-v-new-yorku-2014-1080p-cz-titulky-mp4/969ed265e9f762da) (ID 29637479) | [Sdílej 33219207](https://sdilej.cz/33219207/before-we-go-2014-eng1080p-.mp4) | target_unavailable | 2026-10-09T14:46:17.901216+00:00 |
 | [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | target_unavailable | 2026-10-09T14:39:35.054866+00:00 |
 | [Potvora (2017) 1080p CZ Titulky](https://prehraj.to/potvora-2017-1080p-cz-titulky-mkv/3b146ea8753086f1) (ID 29785219) | [Sdílej 13351305](https://sdilej.cz/13351305/en-frygtelig-kvinde-potvora-2017-.1080p.dansk-czsub.mkv) | source_unavailable | 2026-10-09T11:44:24.482164+00:00 |
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-09T14:39:39.435939+00:00 |
