@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:23:38.674179+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:23:48.860441+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1397,7 +1397,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Země a krev (2020) 1080p CZ Titulky](https://prehraj.to/zeme-a-krev-2020-1080p-cz-titulky-avi/ccaf5f003ba8df8d) (ID 29913573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:58.356979+00:00 |
 | [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:34:21.809773+00:00 |
 | [Zemětřesení (2018) SD CZ Titulky](https://prehraj.to/zemetreseni-2018-sd-cz-titulky-avi/bf9dc1b755088deb) (ID 29993413) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:47.300611+00:00 |
-| [Zero (2015) SD CZ Titulky](https://prehraj.to/zero-2015-sd-cz-titulky-mp4/9663f521233e2731) (ID 29601859) | [Sdílej 34737910](https://sdilej.cz/34737910/zero-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:19:56.632180+00:00 |
+| [Zero (2015) SD CZ Titulky](https://prehraj.to/zero-2015-sd-cz-titulky-mp4/9663f521233e2731) (ID 29601859) | [Sdílej 34737910](https://sdilej.cz/34737910/zero-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:23:48.860333+00:00 |
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:35:17.269994+00:00 |
 | [Zhan lang 2 (2017) 720p CZ Titulky](https://prehraj.to/zhan-lang-2-2017-720p-cz-titulky-mp4/287868bc3830f8d9) (ID 29911336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:48.352545+00:00 |
 | [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:39:58.277420+00:00 |
