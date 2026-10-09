@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:08:15.932020+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:08:41.830796+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -501,7 +501,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:36:27.271565+00:00 |
 | [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:16:53.087801+00:00 |
 | [Hello World (2019) 1080p CZ Titulky](https://prehraj.to/hello-world-2019-1080p-cz-titulky-mp4/ef8e68a8310e045a) (ID 30102963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:12:29.018851+00:00 |
-| [Helloween (2025) 1080p CZ Titulky](https://prehraj.to/helloween-2025-1080p-cz-titulky-avi/289eb6e92cf9dd41) (ID 29734063) | [Sdílej 32212844](https://sdilej.cz/32212844/helloween-2025-cz-titulky-vlozeny-ac-3-5.1-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:07:50.364587+00:00 |
+| [Helloween (2025) 1080p CZ Titulky](https://prehraj.to/helloween-2025-1080p-cz-titulky-avi/289eb6e92cf9dd41) (ID 29734063) | [Sdílej 32212844](https://sdilej.cz/32212844/helloween-2025-cz-titulky-vlozeny-ac-3-5.1-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:08:41.830668+00:00 |
 | [High Life (2018) 1080p CZ Titulky](https://prehraj.to/high-life-2018-1080p-cz-titulky-avi/b8440a8e2b775300) (ID 29916939) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:35.270774+00:00 |
 | [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:41:30.452546+00:00 |
 | [Hmyzáci (2015) 1080p CZ Titulky](https://prehraj.to/hmyzaci-2015-1080p-cz-titulky-mp4/5bc1410dd6086fc0) (ID 29930175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:46.739194+00:00 |
