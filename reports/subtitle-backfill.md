@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:38:29.848784+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:38:41.576836+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 145.
 
@@ -712,7 +712,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 13. Dův
 | [Mayday (2021) 720p CZ Titulky](https://prehraj.to/mayday-2021-720p-cz-titulky-mp4/9ae805f3b900c58a) (ID 29938600) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:35.243711+00:00 |
 | [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:43:09.249761+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-08T14:38:09.504027+00:00 |
-| [Med v hlavě (2014) SD CZ Titulky](https://prehraj.to/med-v-hlave-2014-sd-cz-titulky-mp4/4d2b0d80bcfe2251) (ID 29631487) | [Sdílej 34711238](https://sdilej.cz/34711238/med-v-hlave-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:46.705433+00:00 |
+| [Med v hlavě (2014) SD CZ Titulky](https://prehraj.to/med-v-hlave-2014-sd-cz-titulky-mp4/4d2b0d80bcfe2251) (ID 29631487) | [Sdílej 34711238](https://sdilej.cz/34711238/med-v-hlave-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:41.576686+00:00 |
 | [Medea (1989) SD CZ Titulky](https://prehraj.to/medea-1989-sd-cz-titulky-mp4/227e04f115e4f30a) (ID 29628691) | [Sdílej 34754626](https://sdilej.cz/34754626/medea-1989-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:36:58.841141+00:00 |
 | [Mejdan v Malibu (2015) SD CZ Titulky](https://prehraj.to/mejdan-v-malibu-2015-sd-cz-titulky-mkv/349e85c5ed394c72) (ID 29908598) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:44.277843+00:00 |
 | [Mercy Black (2019) SD CZ Titulky](https://prehraj.to/mercy-black-2019-sd-cz-titulky-avi/443072b4658b5bb6) (ID 29930433) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:23.213202+00:00 |
