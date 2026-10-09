@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T08:44:12.673227+00:00
+Poslední aktualizace (UTC): 2026-10-09T08:44:32.882946+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -55,7 +55,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Alien Predator (2018) 1080p CZ Titulky](https://prehraj.to/alien-predator-2018-1080p-cz-titulky-mkv/8f763956a4cabb07) (ID 29909034) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:58:39.102856+00:00 |
 | [Alive (2018) 1080p CZ Titulky](https://prehraj.to/alive-2018-1080p-cz-titulky-avi/e336e8f3761ddd07) (ID 29911781) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T07:58:45.311490+00:00 |
 | [Alone (2020) SD CZ Titulky](https://prehraj.to/alone-2020-sd-cz-titulky-avi/11c7bfd92fe396de) (ID 29997873) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T08:00:47.527036+00:00 |
-| [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T08:40:37.747823+00:00 |
+| [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:44:32.882840+00:00 |
 | [Along with the Gods: The Last 49 Days (2018) 1080p CZ Titulky](https://prehraj.to/along-with-the-gods-the-last-49-days-2018-1080p-cz-titulky-mkv/7906af4bfd0cc448) (ID 29323499) | [Sdílej 11562320](https://sdilej.cz/11562320/along.with.the.gods-the.last.49.days.2018.1080p.fhdrip.h264.aac-nondrm-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T07:48:42.538107+00:00 |
 | [Alpha Rift (2021) 720p CZ Titulky](https://prehraj.to/alpha-rift-2021-720p-cz-titulky-mp4/02e83edbc35871a1) (ID 29723911) | [Sdílej 34731662](https://sdilej.cz/34731662/alpha-rift-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:03:13.203705+00:00 |
 | [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:05:27.294058+00:00 |
