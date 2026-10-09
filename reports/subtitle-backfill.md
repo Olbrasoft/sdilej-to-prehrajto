@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:50:38.398877+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:50:49.012245+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -889,7 +889,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Parazit z chlaďáku (2026) 4K CZ Titulky](https://prehraj.to/parazit-z-chladaku-2026-4k-cz-titulky-mkv/08036b151de6ef92) (ID 29911970) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-04T12:11:59.473372+00:00 |
 | [Pardon, nezastihli jsme vás (2019) 720p CZ Titulky](https://prehraj.to/pardon-nezastihli-jsme-vas-2019-720p-cz-titulky-mkv/9eb618883236ecba) (ID 29560434) | [Sdílej 34176971](https://sdilej.cz/34176971/2019-pardon-nezastihli-jsme-vas-drama-76-cztit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:45.530220+00:00 |
 | [Paterson (2016) SD CZ Titulky](https://prehraj.to/paterson-2016-sd-cz-titulky-mkv/14feaa2a0f273f3d) (ID 30024191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:51.207041+00:00 |
-| [Peccato che sia una canaglia (1954) SD CZ Titulky](https://prehraj.to/peccato-che-sia-una-canaglia-1954-sd-cz-titulky-mp4/9ea3995d4e766e60) (ID 29443620) | [Sdílej 34715750](https://sdilej.cz/34715750/peccato-che-sia-una-canaglia-1954-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:46:29.170284+00:00 |
+| [Peccato che sia una canaglia (1954) SD CZ Titulky](https://prehraj.to/peccato-che-sia-una-canaglia-1954-sd-cz-titulky-mp4/9ea3995d4e766e60) (ID 29443620) | [Sdílej 34715750](https://sdilej.cz/34715750/peccato-che-sia-una-canaglia-1954-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:50:49.012114+00:00 |
 | [Pekelné bingo (2021) 720p CZ Titulky](https://prehraj.to/pekelne-bingo-2021-720p-cz-titulky-mp4/96a4d5e2d81c0aab) (ID 29940510) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:37.221375+00:00 |
 | [Penance Lane (2020) 720p CZ Titulky](https://prehraj.to/penance-lane-2020-720p-cz-titulky-mp4/bcc21aa1d43a2b09) (ID 29754929) | [Sdílej 34732214](https://sdilej.cz/34732214/penance-lane-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:27:59.249390+00:00 |
 | [Perské lekce (2020) 1080p CZ Titulky](https://prehraj.to/perske-lekce-2020-1080p-cz-titulky-avi/0843aef1dbf1be0b) (ID 29845499) | [Sdílej 22268660](https://sdilej.cz/22268660/perske-lekce-2020-juraison-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:42:41.659551+00:00 |
