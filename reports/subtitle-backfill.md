@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:07:55.149901+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:08:06.293767+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -773,7 +773,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Nafukovací panna (2009) SD CZ Titulky](https://prehraj.to/nafukovaci-panna-2009-sd-cz-titulky-mp4/4810f16486c8df61) (ID 29511400) | [Sdílej 34911804](https://sdilej.cz/34911804/nafukovaci-panna-du-na-bae-arata-iura-2009-drama-fantasy-romanticky-bdrip.1080p.-jpn-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:00:20.999765+00:00 |
 | [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:11:38.737307+00:00 |
 | [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:07:10.969442+00:00 |
-| [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:02:22.242662+00:00 |
+| [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:08:06.293661+00:00 |
 | [Naprostí cizinci (2016) 720p CZ Titulky](https://prehraj.to/naprosti-cizinci-2016-720p-cz-titulky-mp4/0beaa73b6807cef9) (ID 29363411) | [Sdílej 34449418](https://sdilej.cz/34449418/2016-naprosti-cizinci-komedie-drama-83-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:45:36.735043+00:00 |
 | [Narok 6 metre (2018) 1080p CZ Titulky](https://prehraj.to/narok-6-metre-2018-1080p-cz-titulky-mp4/b07f9efdce769bd7) (ID 29914718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:00.383400+00:00 |
 | [Nattevagten (1994) SD CZ Titulky](https://prehraj.to/nattevagten-1994-sd-cz-titulky-avi/4383712abed91a80) (ID 29463717) | [Sdílej 33205327](https://sdilej.cz/33205327/hlidac-mrtvych-nattevagten-1994-horor-denmark-cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:53:53.360920+00:00 |
