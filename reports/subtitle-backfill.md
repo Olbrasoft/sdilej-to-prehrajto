@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:02:53.551904+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:03:05.100061+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -667,7 +667,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Little Monsters (2019) 1080p CZ Titulky](https://prehraj.to/little-monsters-2019-1080p-cz-titulky-mkv/cbf224a5801474bc) (ID 29976822) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:11:04.457617+00:00 |
 | [Locked Up (2017) SD CZ Titulky](https://prehraj.to/locked-up-2017-sd-cz-titulky-avi/1613fe3976f1ea40) (ID 29731440) | [Sdílej 10190664](https://sdilej.cz/10190664/locked-up-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:04:03.968955+00:00 |
 | [Lola (2019) 1080p CZ Titulky](https://prehraj.to/lola-2019-1080p-cz-titulky-mp4/27e25501dfe4af0c) (ID 29630740) | [Sdílej 34734181](https://sdilej.cz/34734181/lola-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:37:45.845007+00:00 |
-| [Lola Versus (2012) SD CZ Titulky](https://prehraj.to/lola-versus-2012-sd-cz-titulky-mp4/1459c0199f11857d) (ID 29723282) | [Sdílej 34780036](https://sdilej.cz/34780036/lola-versus-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:02:28.598158+00:00 |
+| [Lola Versus (2012) SD CZ Titulky](https://prehraj.to/lola-versus-2012-sd-cz-titulky-mp4/1459c0199f11857d) (ID 29723282) | [Sdílej 34780036](https://sdilej.cz/34780036/lola-versus-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:03:05.099941+00:00 |
 | [Lone Samurai (2025) 720p CZ Titulky](https://prehraj.to/lone-samurai-2025-720p-cz-titulky-mp4/55361b1df0c856b9) (ID 29979781) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:06.421254+00:00 |
 | [Long Distance (2024) 4K CZ Titulky](https://prehraj.to/long-distance-2024-4k-cz-titulky-mkv/f94ce08c3465a866) (ID 29919150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:39.227950+00:00 |
 | [Lord of the Dance: Dangerous Games (2014) 1080p CZ Titulky](https://prehraj.to/lord-of-the-dance-dangerous-games-2014-1080p-cz-titulky-avi/b13d52a7e0a9faba) (ID 29717316) | [Sdílej 27726623](https://sdilej.cz/27726623/lord-of-the-dance-dangerous-games-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:51:05.147470+00:00 |
