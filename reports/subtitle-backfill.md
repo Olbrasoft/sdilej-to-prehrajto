@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:00:20.999919+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:00:31.477304+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -619,7 +619,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Knězovy děti (2013) 1080p CZ Titulky](https://prehraj.to/knezovy-deti-2013-1080p-cz-titulky-mp4/ccfc423ad46db384) (ID 29676052) | [Sdílej 27941343](https://sdilej.cz/27941343/knazove-deti-2013.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:21.510994+00:00 |
 | [Kobiety mafii 2 (2019) 1080p CZ Titulky](https://prehraj.to/kobiety-mafii-2-2019-1080p-cz-titulky-mkv/325dbbac561ba242) (ID 29936545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:31.386086+00:00 |
 | [Kokuhaku (2010) 1080p CZ Titulky](https://prehraj.to/kokuhaku-2010-1080p-cz-titulky-mkv/b2c99d3e607ebcba) (ID 29560872) | [Sdílej 7861515](https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:53:30.360683+00:00 |
-| [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:55:16.942165+00:00 |
+| [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:00:31.477185+00:00 |
 | [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:37:08.457452+00:00 |
 | [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:37:35.246460+00:00 |
 | [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:44:57.873790+00:00 |
