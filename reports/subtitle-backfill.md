@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:33:40.981957+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:33:51.097088+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -527,7 +527,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hunted (2020) 1080p CZ Titulky](https://prehraj.to/hunted-2020-1080p-cz-titulky-mkv/0f07ff8c28da87c9) (ID 29434313) | [Sdílej 16064242](https://sdilej.cz/16064242/hunted-akcni-horor-thriller-2020.1080p.webrip.2.0.x264.bez.titulku.66-.sten.ok.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:40:44.330359+00:00 |
 | [Hunting Grounds (2025) 1080p CZ Titulky](https://prehraj.to/hunting-grounds-2025-1080p-cz-titulky-mp4/6bbc0b6167d80366) (ID 29997967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:10.480148+00:00 |
 | [Hvězda kriminálu (2014) SD CZ Titulky](https://prehraj.to/hvezda-kriminalu-2014-sd-cz-titulky-avi/7cdc1ab093f1e446) (ID 30029383) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:16.450023+00:00 |
-| [Hyacint (2021) 1080p CZ Titulky](https://prehraj.to/hyacint-2021-1080p-cz-titulky-mp4/8d1b8e7b27fa7a94) (ID 29673745) | [Sdílej 34730772](https://sdilej.cz/34730772/hyacint-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:20:56.126532+00:00 |
+| [Hyacint (2021) 1080p CZ Titulky](https://prehraj.to/hyacint-2021-1080p-cz-titulky-mp4/8d1b8e7b27fa7a94) (ID 29673745) | [Sdílej 34730772](https://sdilej.cz/34730772/hyacint-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:33:51.096968+00:00 |
 | [Hyena Road (2015) SD CZ Titulky](https://prehraj.to/hyena-road-2015-sd-cz-titulky-avi/bb09b84f9562c18b) (ID 29299434) | [Sdílej 27004212](https://sdilej.cz/27004212/hyena-road-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:44:34.891924+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:43:01.012216+00:00 |
 | [I Am Not a Serial Killer (2016) 720p CZ Titulky](https://prehraj.to/i-am-not-a-serial-killer-2016-720p-cz-titulky-mkv/19d73b1378ad45ef) (ID 29607689) | [Sdílej 6846494](https://sdilej.cz/6846494/i-am-not-a-serial-killer.killer.2016.720p.bluray.x264.dts-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:48:32.996209+00:00 |
