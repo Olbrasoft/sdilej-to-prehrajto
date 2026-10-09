@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:14:58.549195+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:15:11.319479+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -71,7 +71,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Antifascisterna (2017) 720p CZ Titulky](https://prehraj.to/antifascisterna-2017-720p-cz-titulky-mp4/17d81d0240e36f98) (ID 29630910) | [Sdílej 34737533](https://sdilej.cz/34737533/antifascisterna-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:04.397073+00:00 |
 | [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:47:56.057061+00:00 |
 | [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:45:11.318571+00:00 |
-| [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:22.688564+00:00 |
+| [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:15:11.319344+00:00 |
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:07.580127+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:37:03.603437+00:00 |
 | [Aporia (2023) SD CZ Titulky](https://prehraj.to/aporia-2023-sd-cz-titulky-avi/974fede927b423ce) (ID 29614082) | [Sdílej 27826016](https://sdilej.cz/27826016/aporia.2023.pl.480p.bdrip.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:33:23.600397+00:00 |
