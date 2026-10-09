@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:27:39.057694+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:27:49.155018+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -469,7 +469,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:48.352711+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:54:27.267042+00:00 |
 | [Goon: Last of the Enforcers (2017) 1080p CZ Titulky](https://prehraj.to/goon-last-of-the-enforcers-2017-1080p-cz-titulky-avi/389f8500bdc202e2) (ID 29922980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:13.291493+00:00 |
-| [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:13.086714+00:00 |
+| [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:27:49.154903+00:00 |
 | [Greystone Park (2012) SD CZ Titulky](https://prehraj.to/greystone-park-2012-sd-cz-titulky-avi/8af9662f0b917b08) (ID 29904695) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:42.608968+00:00 |
 | [Grizzly II: Revenge (2020) 720p CZ Titulky](https://prehraj.to/grizzly-ii-revenge-2020-720p-cz-titulky-mp4/ba65d6361e5f8c3c) (ID 29910796) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:48.352666+00:00 |
 | [Gruffalo (2009) SD CZ Titulky](https://prehraj.to/gruffalo-2009-sd-cz-titulky-mp4/282ca06fb42f7368) (ID 30001535) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:49.403947+00:00 |
