@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:26:08.183780+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:26:21.262946+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1140,7 +1140,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Tajný agent (2025) 4K CZ Titulky](https://prehraj.to/tajny-agent-2025-4k-cz-titulky-mkv/eabeb41353268d5b) (ID 29298951) | [Sdílej 33013860](https://sdilej.cz/33013860/the.secret.agent.2025.2160p.dcp.webrip.ac3.sdr.h265-aoc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:43:52.235039+00:00 |
 | [Tak jako v nebi (2004) SD CZ Titulky](https://prehraj.to/tak-jako-v-nebi-2004-sd-cz-titulky-mp4/9a46c9168543ef3c) (ID 29886931) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:36.610989+00:00 |
 | [Take Point (2018) SD CZ Titulky](https://prehraj.to/take-point-2018-sd-cz-titulky-mkv/b6097f931ecd0e90) (ID 29608451) | [Sdílej 12205647](https://sdilej.cz/12205647/take.point.2018.hdrip.xvid.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:54:38.974103+00:00 |
-| [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:21:59.952468+00:00 |
+| [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:26:21.262828+00:00 |
 | [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:16:43.596263+00:00 |
 | [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:43:29.516808+00:00 |
 | [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:43:53.619141+00:00 |
