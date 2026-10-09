@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:53:21.655155+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:53:35.766169+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -24,7 +24,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T02:52:02.724480+00:00 |
 | [200 metrů (2020) 1080p CZ Titulky](https://prehraj.to/200-metru-2020-1080p-cz-titulky-mp4/3affe035c9175021) (ID 30040571) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:57.270003+00:00 |
 | [22 July (2018) 1080p CZ Titulky](https://prehraj.to/22-july-2018-1080p-cz-titulky-avi/7431fb18a4ca373e) (ID 29676030) | [Sdílej 11434044](https://sdilej.cz/11434044/22.-cervence-22-july-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:22:10.882917+00:00 |
-| [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:48:57.914905+00:00 |
+| [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:53:35.766051+00:00 |
 | [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:21:36.231010+00:00 |
 | [37 sekund (2019) 1080p CZ Titulky](https://prehraj.to/37-sekund-2019-1080p-cz-titulky-mkv/8c1830443e4f7902) (ID 29409387) | [Sdílej 12981772](https://sdilej.cz/12981772/37-sekanzu-37-seconds-2019-cz-titulky-webrip.1080p-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:51:45.541348+00:00 |
 | [40: The Temptation of Christ (2020) 720p CZ Titulky](https://prehraj.to/40-the-temptation-of-christ-2020-720p-cz-titulky-mp4/b06c259f44d52252) (ID 29233225) | [Sdílej 34773492](https://sdilej.cz/34773492/40-the-temptation-of-christ-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:34:23.674448+00:00 |
