@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:08:33.533928+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:08:49.721132+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -108,7 +108,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Bajirao Mastani (2015) SD CZ Titulky](https://prehraj.to/bajirao-mastani-2015-sd-cz-titulky-mp4/c5a3b4ba30efa8da) (ID 29489428) | [Sdílej 34738142](https://sdilej.cz/34738142/bajirao-mastani-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:57:05.271791+00:00 |
 | [Balada o Busteru Scruggsovi (2018) 1080p CZ Titulky](https://prehraj.to/balada-o-busteru-scruggsovi-2018-1080p-cz-titulky-mkv/61f1549d8091eeea) (ID 29409756) | [Sdílej 10816367](https://sdilej.cz/10816367/the-ballad-of-buster-scruggs-2018-1080p.-titul.cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:51:45.541328+00:00 |
 | [Ballistic (2025) 1080p CZ Titulky](https://prehraj.to/ballistic-2025-1080p-cz-titulky-mkv/191c56cdd9034502) (ID 29479941) | [Sdílej 34602718](https://sdilej.cz/34602718/ballistic-2025-web-dl-1080p-latino.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:52:21.652058+00:00 |
-| [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:06.071055+00:00 |
+| [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:08:49.721027+00:00 |
 | [Bang Bang! (2014) 1080p CZ Titulky](https://prehraj.to/bang-bang-2014-1080p-cz-titulky-mp4/822669eb9921d6c4) (ID 29926327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:19.132860+00:00 |
 | [Bankéř (2020) 1080p CZ Titulky](https://prehraj.to/banker-2020-1080p-cz-titulky-mkv/7b79e977e8faabd4) (ID 30030662) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:01:53.214643+00:00 |
 | [Barbaque (2021) SD CZ Titulky](https://prehraj.to/barbaque-2021-sd-cz-titulky-mkv/ec1d88ea138b3946) (ID 29822826) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:58:26.793435+00:00 |
