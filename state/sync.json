@@ -157286,24 +157286,22 @@
       }
     },
     "5923": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "35183996",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30117079",
+          "attempted_at": "2026-10-09T06:10:19.583946+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35183996",
         "display_name": "Modelář (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-09T04:06:49.279669+00:00"
       },
-      "claim": {
-        "worker_id": "5c2299668c854a5e8d1978092c1f1a33-shard-0",
-        "claimed_at": "2026-10-09T06:00:34.787426+00:00",
-        "lease_expires_at": "2026-10-09T12:00:34.787426+00:00",
-        "run_id": "37880227752"
-      },
-      "previous_target_id": "30117079",
-      "prepared": {
-        "target_video_id": "30117079",
-        "size_bytes": 2554212627,
-        "prepared_at": "2026-10-09T06:00:38.625908+00:00"
-      }
+      "previous_target_id": "30117079"
     },
     "37134": {
       "attempts": []
@@ -346743,5 +346741,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-09T06:00:38.625925+00:00"
+  "updated_at": "2026-10-09T06:10:19.583963+00:00"
 }
