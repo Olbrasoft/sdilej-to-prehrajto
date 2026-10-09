@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T10:36:39.475683+00:00
+Poslední aktualizace (UTC): 2026-10-09T10:36:48.029486+00:00
 
 Zkontrolováno videí: 2069. Další stránka kontroly: 185.
 
@@ -925,7 +925,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Posedlý (2000) SD CZ Titulky](https://prehraj.to/posedly-2000-sd-cz-titulky-mkv/6f3310947941a8f8) (ID 29532966) | [Sdílej 15081219](https://sdilej.cz/15081219/possessor.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:00.773219+00:00 |
 | [Poslední autobus (2021) 1080p CZ Titulky](https://prehraj.to/posledni-autobus-2021-1080p-cz-titulky-mkv/afcb372bb516f3e6) (ID 29631425) | [Sdílej 31679567](https://sdilej.cz/31679567/the-last-bus-2021-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:24.970262+00:00 |
 | [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:41:11.140276+00:00 |
-| [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T10:34:28.673307+00:00 |
+| [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:36:48.029378+00:00 |
 | [Post Mortem (2020) 1080p CZ Titulky](https://prehraj.to/post-mortem-2020-1080p-cz-titulky-mkv/d3e819e06f651968) (ID 29657657) | [Sdílej 19395386](https://sdilej.cz/19395386/post-mortem-2020-hun-audio-1080p-web-dl-h264-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T09:51:23.534476+00:00 |
 | [Potulný samuraj Kenšin: Konec (2021) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-2021-1080p-cz-titulky-mp4/04355bfc74f6fc1d) (ID 29358418) | [Sdílej 34697415](https://sdilej.cz/34697415/potulny-samuraj-kensin-konec-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:45:25.711737+00:00 |
 | [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:36:05.261137+00:00 |
