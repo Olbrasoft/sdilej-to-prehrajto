@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:10:01.599685+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:10:11.398251+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -799,7 +799,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:37.816336+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:55:07.063802+00:00 |
 | [Neveselé Vánoce (2022) 1080p CZ Titulky](https://prehraj.to/nevesele-vanoce-2022-1080p-cz-titulky-mp4/db93fd8ad4f8c5ba) (ID 29615990) | [Sdílej 34727004](https://sdilej.cz/34727004/nevesele-vanoce-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:05.102400+00:00 |
-| [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:19.903541+00:00 |
+| [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:10:11.398136+00:00 |
 | [Neviditelná (2019) 1080p CZ Titulky](https://prehraj.to/neviditelna-2019-1080p-cz-titulky-mp4/ca19f44dca4f7818) (ID 29983357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:43.243470+00:00 |
 | [Neviňátka (1961) 1080p CZ Titulky](https://prehraj.to/nevinatka-1961-1080p-cz-titulky-mkv/933f47c2df417454) (ID 29397058) | [Sdílej 33293130](https://sdilej.cz/33293130/the-innocents-1961-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:50:36.532558+00:00 |
 | [Nevídaní (2019) 1080p CZ Titulky](https://prehraj.to/nevidani-2019-1080p-cz-titulky-mp4/d2acbf292d23f391) (ID 29295845) | [Sdílej 34734064](https://sdilej.cz/34734064/nevidani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T02:52:34.485090+00:00 |
