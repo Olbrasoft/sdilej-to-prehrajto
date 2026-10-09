@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:16:55.665036+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:17:05.995379+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -477,7 +477,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Gun Crazy (1950) 1080p CZ Titulky](https://prehraj.to/gun-crazy-1950-1080p-cz-titulky-mp4/9d5c89bc93400a34) (ID 29584090) | [Sdílej 34789013](https://sdilej.cz/34789013/gun-crazy-1950-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:29.597782+00:00 |
 | [Gun Woman (2014) SD CZ Titulky](https://prehraj.to/gun-woman-2014-sd-cz-titulky-avi/34294356fc8c9f4e) (ID 29740089) | [Sdílej 9706216](https://sdilej.cz/9706216/gun-woman-zenska-zbran-akcni-drsny-thriller-2014-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:17:16.778910+00:00 |
 | [Gymkata (1985) SD CZ Titulky](https://prehraj.to/gymkata-1985-sd-cz-titulky-mp4/78cdd977c2cdb1e5) (ID 29734641) | [Sdílej 34755492](https://sdilej.cz/34755492/gymkata-1985-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:08:37.854884+00:00 |
-| [Gólověda (2019) 1080p CZ Titulky](https://prehraj.to/goloveda-2019-1080p-cz-titulky-mp4/0926bd5b806c11e6) (ID 29573394) | [Sdílej 34773789](https://sdilej.cz/34773789/goloveda-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:48.942812+00:00 |
+| [Gólověda (2019) 1080p CZ Titulky](https://prehraj.to/goloveda-2019-1080p-cz-titulky-mp4/0926bd5b806c11e6) (ID 29573394) | [Sdílej 34773789](https://sdilej.cz/34773789/goloveda-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:17:05.995258+00:00 |
 | [H0us3 (2019) SD CZ Titulky](https://prehraj.to/h0us3-2019-sd-cz-titulky-avi/3a371c8e70c4dc0f) (ID 29242748) | [Sdílej 13982151](https://sdilej.cz/13982151/h0us3-2019-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:35:05.887624+00:00 |
 | [HOMUNCULUS (2021) SD CZ Titulky](https://prehraj.to/homunculus-2021-sd-cz-titulky-mkv/ce56cc4caba57929) (ID 29657930) | [Sdílej 29787022](https://sdilej.cz/29787022/homunculus-drama-fantasy-mysteriozni-2021-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:56:22.453963+00:00 |
 | [Hacker (2018) 1080p CZ Titulky](https://prehraj.to/hacker-2018-1080p-cz-titulky-mp4/16959bdfb90f9e9f) (ID 29537480) | [Sdílej 34774306](https://sdilej.cz/34774306/hacker-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:03:13.317462+00:00 |
