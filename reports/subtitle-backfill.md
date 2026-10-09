@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:31:02.914402+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:31:21.501187+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -102,7 +102,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Bad Hair (2020) SD CZ Titulky](https://prehraj.to/bad-hair-2020-sd-cz-titulky-mkv/7a3027a9bed47828) (ID 29652733) | [Sdílej 16446524](https://sdilej.cz/16446524/bad-hair-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:55:12.947418+00:00 |
 | [Bad Man (2025) 1080p CZ Titulky](https://prehraj.to/bad-man-2025-1080p-cz-titulky-mp4/0a3f65ed0547691d) (ID 29704195) | [Sdílej 32146338](https://sdilej.cz/32146338/bad-man-2025-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:30.091955+00:00 |
 | [Badland (2019) 1080p CZ Titulky](https://prehraj.to/badland-2019-1080p-cz-titulky-mkv/568000c5d80e1725) (ID 29922148) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:11.427387+00:00 |
-| [Badrinath Ki Dulhania (2017) SD CZ Titulky](https://prehraj.to/badrinath-ki-dulhania-2017-sd-cz-titulky-mp4/ae1bbefe2f26d754) (ID 29611698) | [Sdílej 34737525](https://sdilej.cz/34737525/badrinath-ki-dulhania-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:29:06.995199+00:00 |
+| [Badrinath Ki Dulhania (2017) SD CZ Titulky](https://prehraj.to/badrinath-ki-dulhania-2017-sd-cz-titulky-mp4/ae1bbefe2f26d754) (ID 29611698) | [Sdílej 34737525](https://sdilej.cz/34737525/badrinath-ki-dulhania-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:31:21.501071+00:00 |
 | [Baggio: Božský copánek (2021) 1080p CZ Titulky](https://prehraj.to/baggio-bozsky-copanek-2021-1080p-cz-titulky-mp4/dce78961197bd72d) (ID 29585364) | [Sdílej 34731587](https://sdilej.cz/34731587/baggio-bozsky-copanek-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:20:59.687381+00:00 |
 | [Baisers cachés (2016) 720p CZ Titulky](https://prehraj.to/baisers-caches-2016-720p-cz-titulky-mkv/b957dda9c23a615e) (ID 29394141) | [Sdílej 7041561](https://sdilej.cz/7041561/hidden-kisses-baisers-caches-2016-.720p.web-dl-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:48:39.897899+00:00 |
 | [Bajirao Mastani (2015) SD CZ Titulky](https://prehraj.to/bajirao-mastani-2015-sd-cz-titulky-mp4/c5a3b4ba30efa8da) (ID 29489428) | [Sdílej 34738142](https://sdilej.cz/34738142/bajirao-mastani-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:57:05.271791+00:00 |
