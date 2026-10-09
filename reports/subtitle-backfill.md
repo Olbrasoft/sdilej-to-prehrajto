@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:08:55.750734+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:09:05.538831+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 25.
 
@@ -244,7 +244,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dark Feed (2013) 1080p CZ Titulky](https://prehraj.to/dark-feed-2013-1080p-cz-titulky-mp4/49dc9ea45e84795c) (ID 29934954) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:29.379412+00:00 |
 | [Dark Nature (2022) 720p CZ Titulky](https://prehraj.to/dark-nature-2022-720p-cz-titulky-mp4/e2627b7178f76f4b) (ID 29924701) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:47.365626+00:00 |
 | [Dashcam (2021) 1080p CZ Titulky](https://prehraj.to/dashcam-2021-1080p-cz-titulky-mp4/0459afc4e8afde30) (ID 29588938) | [Sdílej 34731562](https://sdilej.cz/34731562/dashcam-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:22:43.544580+00:00 |
-| [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:06:05.690980+00:00 |
+| [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:09:05.538718+00:00 |
 | [Dcera divočiny (2023) 1080p CZ Titulky](https://prehraj.to/dcera-divociny-2023-1080p-cz-titulky-mkv/81bfcd0064fe51ae) (ID 29911608) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:21.174577+00:00 |
 | [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:11:30.536783+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:03:06.164033+00:00 |
