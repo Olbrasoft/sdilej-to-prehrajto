@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:09:18.534669+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:09:41.560874+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1385,7 +1385,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:39:42.187390+00:00 |
 | [Zabijáci z maloměsta (2017) 720p CZ Titulky](https://prehraj.to/zabijaci-z-malomesta-2017-720p-cz-titulky-avi/a27b7a3d3dd6356a) (ID 29912184) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:52.387326+00:00 |
 | [Zachránit Leningrad (2019) 1080p CZ Titulky](https://prehraj.to/zachranit-leningrad-2019-1080p-cz-titulky-mkv/bebd525c372cab25) (ID 29987922) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:45.289241+00:00 |
-| [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:03:51.913200+00:00 |
+| [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:09:41.560745+00:00 |
 | [Zakódované předsudky (2020) 1080p CZ Titulky](https://prehraj.to/zakodovane-predsudky-2020-1080p-cz-titulky-mp4/5082add70e242a8f) (ID 29673975) | [Sdílej 34731804](https://sdilej.cz/34731804/zakodovane-predsudky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:21:04.360143+00:00 |
 | [Zamrzlá země (2005) SD CZ Titulky](https://prehraj.to/zamrzla-zeme-2005-sd-cz-titulky-mkv/5f7bdd9a99d6f89e) (ID 30034906) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:01:55.218194+00:00 |
 | [Zapomeň na UFO (2022) 1080p CZ Titulky](https://prehraj.to/zapomen-na-ufo-2022-1080p-cz-titulky-mp4/cb7a6747d3998502) (ID 29657050) | [Sdílej 25788673](https://sdilej.cz/25788673/ufo-2022-1080p-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:00:54.012900+00:00 |
