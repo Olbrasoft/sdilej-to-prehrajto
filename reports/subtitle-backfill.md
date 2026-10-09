@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:52:02.264273+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:52:11.587055+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 166.
 
@@ -1311,7 +1311,7 @@ Kontrol: 57; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 1. Důvod
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:45:31.867999+00:00 |
 | [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:52:34.939871+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:44:46.320569+00:00 |
-| [Vargur (2018) SD CZ Titulky](https://prehraj.to/vargur-2018-sd-cz-titulky-mkv/2859d2e928a3dc7a) (ID 29717946) | [Sdílej 30859872](https://sdilej.cz/30859872/darfur.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:50:58.495986+00:00 |
+| [Vargur (2018) SD CZ Titulky](https://prehraj.to/vargur-2018-sd-cz-titulky-mkv/2859d2e928a3dc7a) (ID 29717946) | [Sdílej 30859872](https://sdilej.cz/30859872/darfur.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:52:11.586936+00:00 |
 | [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:53:23.191393+00:00 |
 | [Velká žranice (1973) SD CZ Titulky](https://prehraj.to/velka-zranice-1973-sd-cz-titulky-mkv/698806e8257de552) (ID 29429778) | [Sdílej 28396506](https://sdilej.cz/28396506/velka-zranice-grandebouffe-la-tvrip-ford.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:29.117769+00:00 |
 | [Velvet Buzzsaw (2019) 4K CZ Titulky](https://prehraj.to/velvet-buzzsaw-2019-4k-cz-titulky-mkv/f586c85084c93422) (ID 29937754) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:10:57.161128+00:00 |
