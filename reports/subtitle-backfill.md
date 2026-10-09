@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:02:31.473017+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:02:52.510822+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -185,7 +185,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Bělyj tigr (2012) 720p CZ Titulky](https://prehraj.to/belyj-tigr-2012-720p-cz-titulky-mp4/4ae43e0bf7fe3242) (ID 29981131) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:43.243514+00:00 |
 | [Cabin Fever: Patient Zero (2014) SD CZ Titulky](https://prehraj.to/cabin-fever-patient-zero-2014-sd-cz-titulky-avi/208b23722a7fa3a1) (ID 29909436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:46.356156+00:00 |
 | [Caged (2021) 1080p CZ Titulky](https://prehraj.to/caged-2021-1080p-cz-titulky-mkv/549b069b78217651) (ID 29611542) | [Sdílej 15654947](https://sdilej.cz/15654947/caged.2021.1080p.web-dl.dd5.1.h.264-fgt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:28:52.462189+00:00 |
-| [Cam (2018) SD CZ Titulky](https://prehraj.to/cam-2018-sd-cz-titulky-avi/b82ffd846e166717) (ID 29536599) | [Sdílej 10930071](https://sdilej.cz/10930071/cam-2018-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:20.076960+00:00 |
+| [Cam (2018) SD CZ Titulky](https://prehraj.to/cam-2018-sd-cz-titulky-avi/b82ffd846e166717) (ID 29536599) | [Sdílej 10930071](https://sdilej.cz/10930071/cam-2018-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:02:52.510692+00:00 |
 | [Candy Land (2022) 720p CZ Titulky](https://prehraj.to/candy-land-2022-720p-cz-titulky-mp4/b70ec660d8a4ea7a) (ID 29721061) | [Sdílej 25002521](https://sdilej.cz/25002521/candy-land-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:00:57.718629+00:00 |
 | [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:46:04.609417+00:00 |
 | [Cannibal Troll (2021) SD CZ Titulky](https://prehraj.to/cannibal-troll-2021-sd-cz-titulky-mp4/4d20b53c6ecf49c3) (ID 29609349) | [Sdílej 34761592](https://sdilej.cz/34761592/cannibal-troll-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:24:44.227820+00:00 |
