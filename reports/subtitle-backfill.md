@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:11:07.172106+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:11:18.812006+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -451,7 +451,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Frankie (2019) 1080p CZ Titulky](https://prehraj.to/frankie-2019-1080p-cz-titulky-mp4/5a4cbfdb36cce1ae) (ID 29616500) | [Sdílej 34734417](https://sdilej.cz/34734417/frankie-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:36:40.993048+00:00 |
 | [Freaks: Jedni z nás (2020) SD CZ Titulky](https://prehraj.to/freaks-jedni-z-nas-2020-sd-cz-titulky-mp4/7f3177d3f54460b8) (ID 29936552) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:54.567968+00:00 |
 | [Freaky Friday (1995) SD CZ Titulky](https://prehraj.to/freaky-friday-1995-sd-cz-titulky-mp4/8906855391a754da) (ID 29313961) | [Sdílej 34785134](https://sdilej.cz/34785134/freaky-friday-1995-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:42:39.133371+00:00 |
-| [Fuck the Prom (2017) SD CZ Titulky](https://prehraj.to/fuck-the-prom-2017-sd-cz-titulky-mp4/78e11a3cfac955c8) (ID 29736118) | [Sdílej 8243450](https://sdilej.cz/8243450/f.the.prom.2017.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:10:33.870677+00:00 |
+| [Fuck the Prom (2017) SD CZ Titulky](https://prehraj.to/fuck-the-prom-2017-sd-cz-titulky-mp4/78e11a3cfac955c8) (ID 29736118) | [Sdílej 8243450](https://sdilej.cz/8243450/f.the.prom.2017.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:11:18.811872+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:33:24.416955+00:00 |
 | [GODZILLA (2017) SD CZ Titulky.avi](https://prehraj.to/godzilla-2017-sd-cz-titulky-avi/59059d956be70179) (ID 29615057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:00:30.705555+00:00 |
 | [Gabbar is Back (2015) SD CZ Titulky](https://prehraj.to/gabbar-is-back-2015-sd-cz-titulky-mp4/da9e9a6d116e2a60) (ID 29428714) | [Sdílej 34738082](https://sdilej.cz/34738082/gabbar-is-back-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:06.453927+00:00 |
