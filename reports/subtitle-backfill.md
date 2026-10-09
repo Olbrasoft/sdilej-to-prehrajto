@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:05:05.514469+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:05:21.255151+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -911,7 +911,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pohrdání (1963) 1080p CZ Titulky](https://prehraj.to/pohrdani-1963-1080p-cz-titulky-mp4/297f345486230feb) (ID 29998390) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:12.630258+00:00 |
 | [Pohřeb (2023) 1080p CZ Titulky](https://prehraj.to/pohreb-2023-1080p-cz-titulky-mp4/2b2baad9716c8f4e) (ID 30038509) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:18.688983+00:00 |
 | [Pole v Anglii (festivalový název) (2013) SD CZ Titulky](https://prehraj.to/pole-v-anglii-festivalovy-nazev-2013-sd-cz-titulky-mp4/fd4388f47bc21a07) (ID 29608213) | [Sdílej 34779586](https://sdilej.cz/34779586/pole-v-anglii-festivalovy-nazev-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:27:39.057601+00:00 |
-| [Polityka (2019) SD CZ Titulky](https://prehraj.to/polityka-2019-sd-cz-titulky-avi/afa2d101685054e0) (ID 29731711) | [Sdílej 12855322](https://sdilej.cz/12855322/polityka-2019-pl.dvdrip.xvid-klio.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:04:38.062692+00:00 |
+| [Polityka (2019) SD CZ Titulky](https://prehraj.to/polityka-2019-sd-cz-titulky-avi/afa2d101685054e0) (ID 29731711) | [Sdílej 12855322](https://sdilej.cz/12855322/polityka-2019-pl.dvdrip.xvid-klio.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:05:21.255041+00:00 |
 | [Polytechnika (2009) 720p CZ Titulky](https://prehraj.to/polytechnika-2009-720p-cz-titulky-mkv/eb6184b509171e26) (ID 30036118) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:18.689046+00:00 |
 | [Pomsta upírek (2022) 720p CZ Titulky](https://prehraj.to/pomsta-upirek-2022-720p-cz-titulky-avi/fcc4c2f18567a092) (ID 29732167) | [Sdílej 23601371](https://sdilej.cz/23601371/v-for-vengeance-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:05:14.720926+00:00 |
 | [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:06:14.998159+00:00 |
