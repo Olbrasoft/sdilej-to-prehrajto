@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T03:43:52.235165+00:00
+Poslední aktualizace (UTC): 2026-10-09T03:44:03.058365+00:00
 
 Zkontrolováno videí: 2065. Další stránka kontroly: 185.
 
@@ -32,7 +32,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:45:51.329568+00:00 |
 | [A Breed Apart (2025) SD CZ Titulky](https://prehraj.to/a-breed-apart-2025-sd-cz-titulky-mp4/d4a88c01fc8f3efa) (ID 29752872) | [Sdílej 34758416](https://sdilej.cz/34758416/a-breed-apart-2025-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:26:28.197472+00:00 |
 | [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:10:40.442087+00:00 |
-| [A Man Named Scott (2021) 1080p CZ Titulky](https://prehraj.to/a-man-named-scott-2021-1080p-cz-titulky-mp4/a0f50a689caa72ee) (ID 29298987) | [Sdílej 34731688](https://sdilej.cz/34731688/a-man-named-scott-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:39:32.355619+00:00 |
+| [A Man Named Scott (2021) 1080p CZ Titulky](https://prehraj.to/a-man-named-scott-2021-1080p-cz-titulky-mp4/a0f50a689caa72ee) (ID 29298987) | [Sdílej 34731688](https://sdilej.cz/34731688/a-man-named-scott-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:44:03.058193+00:00 |
 | [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:01:22.851687+00:00 |
 | [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:42:20.709044+00:00 |
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:16:45.169268+00:00 |
