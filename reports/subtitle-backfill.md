@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:37:13.472534+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:37:24.020729+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -844,7 +844,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Once Upon a Deadpool (2018) 1080p CZ Titulky](https://prehraj.to/once-upon-a-deadpool-2018-1080p-cz-titulky-mkv/dcab2c01cd73f62d) (ID 29563187) | [Sdílej 11074487](https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:24.026751+00:00 |
 | [One More Shot (2024) 720p CZ Titulky](https://prehraj.to/one-more-shot-2024-720p-cz-titulky-mkv/e9c2f44e9819bced) (ID 29967909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:00.495900+00:00 |
 | [One Summer (2021) 1080p CZ Titulky](https://prehraj.to/one-summer-2021-1080p-cz-titulky-mp4/3a017359e66c4d5e) (ID 30051684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:22.493089+00:00 |
-| [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:24:05.157029+00:00 |
+| [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:37:24.020618+00:00 |
 | [Only for One Night (2016) 1080p CZ Titulky](https://prehraj.to/only-for-one-night-2016-1080p-cz-titulky-mp4/d68892f623b81df3) (ID 29611864) | [Sdílej 34775081](https://sdilej.cz/34775081/only-for-one-night-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:31:31.897343+00:00 |
 | [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:01:26.998820+00:00 |
 | [Open 24 Hours (2018) 1080p CZ Titulky](https://prehraj.to/open-24-hours-2018-1080p-cz-titulky-mkv/d9508402315fc510) (ID 29968991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:02.486740+00:00 |
