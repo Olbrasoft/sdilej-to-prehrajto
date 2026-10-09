@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:12:43.869242+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:12:52.664079+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -1128,7 +1128,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:42:05.877091+00:00 |
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T18:43:45.786030+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:46.356095+00:00 |
-| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:07:27.233748+00:00 |
+| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:52.663959+00:00 |
 | [Syn (2019) SD CZ Titulky](https://prehraj.to/syn-2019-sd-cz-titulky-mkv/5b0b1f88e314fd41) (ID 29921282) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:11.427489+00:00 |
 | [Syn Boží (2014) SD CZ Titulky](https://prehraj.to/syn-bozi-2014-sd-cz-titulky-avi/755a8747c84bf683) (ID 29947059) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:37.221334+00:00 |
 | [Sázka na teambuilding (2022) 1080p CZ Titulky](https://prehraj.to/sazka-na-teambuilding-2022-1080p-cz-titulky-avi/84764a32ef1bb9ce) (ID 29366691) | [Sdílej 24604399](https://sdilej.cz/24604399/sazka-na-teambuilding-teambuilding-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:40:31.479569+00:00 |
