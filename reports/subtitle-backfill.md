@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:20:40.290996+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:20:50.316759+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -795,7 +795,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Nepříjemné pokračování: Nebát se říct pravdu (2017) 1080p CZ Titulky](https://prehraj.to/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-1080p-cz-titulky-mp4/f749b8d1545c4666) (ID 29804420) | [Sdílej 34774582](https://sdilej.cz/34774582/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:39:49.827634+00:00 |
 | [Neslýchané: Palácová potyčka (2021) 1080p CZ Titulky](https://prehraj.to/neslychane-palacova-potycka-2021-1080p-cz-titulky-mp4/0094fccaf4c5d7d9) (ID 29999215) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:49.403984+00:00 |
 | [Neslýchané: Smlouva s ďáblem (2021) 1080p CZ Titulky](https://prehraj.to/neslychane-smlouva-s-dablem-2021-1080p-cz-titulky-mp4/5f5b009115bfb1ac) (ID 30038888) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:57.270120+00:00 |
-| [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:37.816336+00:00 |
+| [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:20:50.316658+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:55:07.063802+00:00 |
 | [Neveselé Vánoce (2022) 1080p CZ Titulky](https://prehraj.to/nevesele-vanoce-2022-1080p-cz-titulky-mp4/db93fd8ad4f8c5ba) (ID 29615990) | [Sdílej 34727004](https://sdilej.cz/34727004/nevesele-vanoce-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:05.102400+00:00 |
 | [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:10:11.398136+00:00 |
