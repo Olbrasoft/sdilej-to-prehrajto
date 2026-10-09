@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T06:53:32.617854+00:00
+Poslední aktualizace (UTC): 2026-10-09T06:53:47.720688+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -1092,7 +1092,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Spellbound (2011) 1080p CZ Titulky](https://prehraj.to/spellbound-2011-1080p-cz-titulky-mkv/af5d98de34bbf928) (ID 29883036) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T05:51:28.490890+00:00 |
 | [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:57.404812+00:00 |
 | [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:54:23.873625+00:00 |
-| [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T06:51:27.833268+00:00 |
+| [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:53:47.720580+00:00 |
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T05:44:22.602822+00:00 |
 | [Stalker (2022) 1080p CZ Titulky](https://prehraj.to/stalker-2022-1080p-cz-titulky-mp4/8531b68e8c1f363e) (ID 29917499) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T05:53:08.895743+00:00 |
 | [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:24.287796+00:00 |
