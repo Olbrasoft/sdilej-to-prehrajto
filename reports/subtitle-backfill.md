@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:41:02.730974+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:41:15.311204+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -609,7 +609,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:45:07.276193+00:00 |
 | [Kingdom (2019) 1080p CZ Titulky](https://prehraj.to/kingdom-2019-1080p-cz-titulky-mp4/9df35e3b2fab324f) (ID 29749185) | [Sdílej 34904048](https://sdilej.cz/34904048/kingdom-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:23:46.233139+00:00 |
 | [Klasický horor (2021) 1080p CZ Titulky](https://prehraj.to/klasicky-horor-2021-1080p-cz-titulky-mp4/ae505b6015551aee) (ID 29914742) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:31.198532+00:00 |
-| [Klaun k popukání (2012) 720p CZ Titulky](https://prehraj.to/klaun-k-popukani-2012-720p-cz-titulky-mp4/f653d07eac11a655) (ID 29706336) | [Sdílej 33856460](https://sdilej.cz/33856460/stitches.cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:56.787655+00:00 |
+| [Klaun k popukání (2012) 720p CZ Titulky](https://prehraj.to/klaun-k-popukani-2012-720p-cz-titulky-mp4/f653d07eac11a655) (ID 29706336) | [Sdílej 33856460](https://sdilej.cz/33856460/stitches.cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:15.311089+00:00 |
 | [Klondike (2022) 1080p CZ Titulky](https://prehraj.to/klondike-2022-1080p-cz-titulky-mkv/a6add9704ae9ee77) (ID 29883168) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:03:18.096194+00:00 |
 | [Kluci v mém životě (2001) 1080p CZ Titulky](https://prehraj.to/kluci-v-mem-zivote-2001-1080p-cz-titulky-mp4/199ac8145f39695a) (ID 29285410) | [Sdílej 33201728](https://sdilej.cz/33201728/riding-in-cars-with-boys-2001-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:16:20.962715+00:00 |
 | [Kluk ve světě příšer (2015) 1080p CZ Titulky](https://prehraj.to/kluk-ve-svete-priser-2015-1080p-cz-titulky-mkv/52cbdca1a6a55353) (ID 29559657) | [Sdílej 12089240](https://sdilej.cz/12089240/bakemono-no-ko-bd-1080p-flac-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:42:58.795183+00:00 |
