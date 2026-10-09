@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:34:01.317526+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:34:05.840632+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 511, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 5, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 397, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 5
+Stavy: `already_has_czech`: 511, `attached_verified`: 23, `existing_tracks_uncertain`: 188, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 397, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 6
 
 ## Poslední dávka
 
@@ -598,7 +598,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:33:26.498510+00:00 |
 | [Kadosh (1999) SD CZ Titulky](https://prehraj.to/kadosh-1999-sd-cz-titulky-mp4/bbdd665d9affcd2f) (ID 29606377) | [Sdílej 34789327](https://sdilej.cz/34789327/kosh.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:24:09.530555+00:00 |
 | [Kadáver (2020) 720p CZ Titulky](https://prehraj.to/kadaver-2020-720p-cz-titulky-mkv/c5ef788a7ccc1d4a) (ID 29939984) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:11:00.495981+00:00 |
-| [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-02T15:21:12.942051+00:00 |
 | [Kawaki (2014) SD CZ Titulky](https://prehraj.to/kawaki-2014-sd-cz-titulky-mp4/e6d89c700d6e259b) (ID 29924956) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:47.365616+00:00 |
 | [Kdyby ulice Beale mohla mluvit (2018) 1080p CZ Titulky](https://prehraj.to/kdyby-ulice-beale-mohla-mluvit-2018-1080p-cz-titulky-mkv/6ea348ff9fee93f5) (ID 29347838) | [Sdílej 12514136](https://sdilej.cz/12514136/if.beale.street.could.talk.2018.1080p.bluray.x264.dts-hd.ma.cz.eng.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:46:40.316934+00:00 |
 | [Když se vrací vlci (2024) 1080p CZ Titulky](https://prehraj.to/kdyz-se-vraci-vlci-2024-1080p-cz-titulky-mkv/2153bb98f79f1959) (ID 29925461) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:47.365576+00:00 |
@@ -1462,6 +1461,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | source_media_timeout | 2026-10-09T14:26:08.183660+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-09T14:39:14.379704+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-09T15:11:29.704004+00:00 |
+| [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-09T15:34:05.840560+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-09T11:44:42.017140+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-09T11:44:13.020827+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-09T14:39:30.637364+00:00 |
