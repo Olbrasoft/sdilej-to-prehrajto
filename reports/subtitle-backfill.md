@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:44:35.189809+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:44:47.078616+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -1424,7 +1424,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Úder 2 (2006) SD CZ Titulky](https://prehraj.to/uder-2-2006-sd-cz-titulky-mp4/f8392ff67765953f) (ID 29735371) | [Sdílej 34751522](https://sdilej.cz/34751522/uder-2-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:09:21.514879+00:00 |
 | [Úkryt (2011) SD CZ Titulky](https://prehraj.to/ukryt-2011-sd-cz-titulky-avi/65f99a61ff732dfe) (ID 30022150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:11:14.575323+00:00 |
 | [Úniková cesta (2016) 720p CZ Titulky](https://prehraj.to/unikova-cesta-2016-720p-cz-titulky-avi/f231757960d6becc) (ID 29709428) | [Sdílej 9549271](https://sdilej.cz/9549271/term-life-2016-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:44:25.522118+00:00 |
-| [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:44:16.095476+00:00 |
+| [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:44:47.078496+00:00 |
 | [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:51:08.318931+00:00 |
 | [Čarovný les (2014) 1080p CZ Titulky](https://prehraj.to/carovny-les-2014-1080p-cz-titulky-mkv/48ef178fccd7e71c) (ID 29935980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:52.530240+00:00 |
 | [Časový posun (1979) SD CZ Titulky](https://prehraj.to/casovy-posun-1979-sd-cz-titulky-mkv/960cf3b93a1bc97a) (ID 29923350) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:06:45.266291+00:00 |
