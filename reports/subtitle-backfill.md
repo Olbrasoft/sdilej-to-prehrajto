@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:47:14.857123+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:47:24.949225+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 105.
 
@@ -708,7 +708,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Masquerade (2021) 1080p CZ Titulky](https://prehraj.to/masquerade-2021-1080p-cz-titulky-avi/b0f50eb5832f2359) (ID 29916775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:06.120051+00:00 |
 | [Mass (2021) 1080p CZ Titulky](https://prehraj.to/mass-2021-1080p-cz-titulky-mp4/0ad233c411a240fa) (ID 29895547) | [Sdílej 19343713](https://sdilej.cz/19343713/mass.2021.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:45:37.877896+00:00 |
 | [Matthias a Maxime (2019) 1080p CZ Titulky](https://prehraj.to/matthias-a-maxime-2019-1080p-cz-titulky-mkv/2797d9d8ac8ecb6a) (ID 29687687) | [Sdílej 13605860](https://sdilej.cz/13605860/matthias.et.maxime.2019.pl.1080p.web-dl.x264-kit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:33:13.739058+00:00 |
-| [Max Schmeling (2010) SD CZ Titulky](https://prehraj.to/max-schmeling-2010-sd-cz-titulky-mp4/cb5a8d7377a04573) (ID 29639244) | [Sdílej 34750021](https://sdilej.cz/34750021/max-schmeling-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:45:25.254417+00:00 |
+| [Max Schmeling (2010) SD CZ Titulky](https://prehraj.to/max-schmeling-2010-sd-cz-titulky-mp4/cb5a8d7377a04573) (ID 29639244) | [Sdílej 34750021](https://sdilej.cz/34750021/max-schmeling-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:47:24.949127+00:00 |
 | [Mayday (2021) 720p CZ Titulky](https://prehraj.to/mayday-2021-720p-cz-titulky-mp4/9ae805f3b900c58a) (ID 29938600) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:35.243711+00:00 |
 | [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:43:09.249761+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-08T14:38:09.504027+00:00 |
