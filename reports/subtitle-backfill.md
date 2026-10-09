@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:56:23.944298+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:56:34.106681+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 65.
 
@@ -1224,7 +1224,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:50:58.595352+00:00 |
 | [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:14:58.549078+00:00 |
 | [The Rental (2020) 1080p CZ Titulky](https://prehraj.to/the-rental-2020-1080p-cz-titulky-mkv/ae447861aa3528da) (ID 29916859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:06.120031+00:00 |
-| [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:45.729781+00:00 |
+| [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:56:34.106557+00:00 |
 | [The River Why (2010) SD CZ Titulky](https://prehraj.to/the-river-why-2010-sd-cz-titulky-mp4/358e6dd85d40e45d) (ID 29656392) | [Sdílej 34749257](https://sdilej.cz/34749257/the-river-why-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:59:59.901185+00:00 |
 | [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:49:06.981585+00:00 |
 | [The Shift (2023) 1080p CZ Titulky](https://prehraj.to/the-shift-2023-1080p-cz-titulky-mkv/351dc9d961aa5e5e) (ID 29687346) | [Sdílej 28048191](https://sdilej.cz/28048191/the.shift.2023.1080p.webrip.ddp5.1.x265.10bit-galaxyrg265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:33:04.458481+00:00 |
