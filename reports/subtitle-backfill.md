@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:38:02.772974+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:38:11.411689+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 145.
 
@@ -1354,7 +1354,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 13. Dův
 | [Waterloo (1970) 1080p CZ Titulky](https://prehraj.to/waterloo-1970-1080p-cz-titulky-mkv/6796db04770430db) (ID 29505250) | [Sdílej 33237576](https://sdilej.cz/33237576/waterloo.1970.bdrip.1080p.multi.hdlight.x264.ac3.5.1.ac3.2.0-bzh29.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:53:14.272930+00:00 |
 | [We Bury the Dead (2024) 1080p CZ Titulky](https://prehraj.to/we-bury-the-dead-2024-1080p-cz-titulky-mp4/7f1149d431f002df) (ID 29937550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:33.272567+00:00 |
 | [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-06T21:44:05.749359+00:00 |
-| [Welcome to the Show (2021) 720p CZ Titulky](https://prehraj.to/welcome-to-the-show-2021-720p-cz-titulky-mp4/25cffb75227a4407) (ID 29631148) | [Sdílej 34772433](https://sdilej.cz/34772433/welcome-to-the-show-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:14.816306+00:00 |
+| [Welcome to the Show (2021) 720p CZ Titulky](https://prehraj.to/welcome-to-the-show-2021-720p-cz-titulky-mp4/25cffb75227a4407) (ID 29631148) | [Sdílej 34772433](https://sdilej.cz/34772433/welcome-to-the-show-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:11.411562+00:00 |
 | [Welp (2014) SD CZ Titulky](https://prehraj.to/welp-2014-sd-cz-titulky-avi/48ffd0777ee06443) (ID 29632189) | [Sdílej 34454026](https://sdilej.cz/34454026/welp.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:37:11.764617+00:00 |
 | [West of the Pecos (1945) SD CZ Titulky](https://prehraj.to/west-of-the-pecos-1945-sd-cz-titulky-mp4/0570f621e63a8474) (ID 29706821) | [Sdílej 34770688](https://sdilej.cz/34770688/west-of-the-pecos-1945-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:41:29.543534+00:00 |
 | [What Is a Woman? (2022) 1080p CZ Titulky](https://prehraj.to/what-is-a-woman-2022-1080p-cz-titulky-mp4/94ebd49186b4a081) (ID 29212546) | [Sdílej 34726466](https://sdilej.cz/34726466/what-is-a-woman-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:46:54.442760+00:00 |
