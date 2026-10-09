@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:01:44.205754+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:01:57.792358+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -418,7 +418,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:33.272690+00:00 |
 | [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:46:42.086663+00:00 |
 | [Eye for an Eye (2022) 720p CZ Titulky](https://prehraj.to/eye-for-an-eye-2022-720p-cz-titulky-mp4/9cbd587088b02ba8) (ID 30101219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:55.586123+00:00 |
-| [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:56:33.015384+00:00 |
+| [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:01:57.792236+00:00 |
 | [Fabricated City (2017) SD CZ Titulky](https://prehraj.to/fabricated-city-2017-sd-cz-titulky-avi/0930ce1fcebd5c2f) (ID 30070626) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:51.589433+00:00 |
 | [Faces of Death (2026) 1080p CZ Titulky](https://prehraj.to/faces-of-death-2026-1080p-cz-titulky-mkv/3015c3c683a8da0e) (ID 29914822) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:00.383344+00:00 |
 | [Faces of Death III (1985) 1080p CZ Titulky](https://prehraj.to/faces-of-death-iii-1985-1080p-cz-titulky-mp4/5925e04cfe104616) (ID 29908465) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:44.277888+00:00 |
