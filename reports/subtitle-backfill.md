@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:14:04.607508+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:14:38.174856+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -643,7 +643,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:32.041619+00:00 |
 | [Laal Kaptaan (2019) SD CZ Titulky](https://prehraj.to/laal-kaptaan-2019-sd-cz-titulky-mp4/41d4ab0e0465778d) (ID 30110731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:57.726512+00:00 |
 | [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:09:37.683052+00:00 |
-| [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:08:51.625770+00:00 |
+| [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:14:38.174718+00:00 |
 | [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:54:04.863440+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:56:52.368780+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:56:52.450434+00:00 |
