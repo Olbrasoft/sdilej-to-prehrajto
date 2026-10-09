@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T07:44:54.678437+00:00
+Poslední aktualizace (UTC): 2026-10-09T07:45:03.480182+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -874,7 +874,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ošklivá nevlastní sestra (2025) 1080p CZ Titulky](https://prehraj.to/oskliva-nevlastni-sestra-2025-1080p-cz-titulky-mp4/0f6b247d0663e22d) (ID 29450742) | [Sdílej 34899920](https://sdilej.cz/34899920/oskliva-nevlastni-sestra-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:54.854132+00:00 |
 | [P!nk: All I Know So Far (2021) 720p CZ Titulky](https://prehraj.to/p-nk-all-i-know-so-far-2021-720p-cz-titulky-mp4/f56c61ef61113436) (ID 29412148) | [Sdílej 34772758](https://sdilej.cz/34772758/p-nk-all-i-know-so-far-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:18.289786+00:00 |
 | [PK (2014) SD CZ Titulky](https://prehraj.to/pk-2014-sd-cz-titulky-mp4/cd2b0169314ad6bc) (ID 29878877) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:43:56.138803+00:00 |
-| [Paddleton (2019) 1080p CZ Titulky](https://prehraj.to/paddleton-2019-1080p-cz-titulky-mp4/8063bd130acfec92) (ID 29339814) | [Sdílej 34733979](https://sdilej.cz/34733979/paddleton-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:41:01.777212+00:00 |
+| [Paddleton (2019) 1080p CZ Titulky](https://prehraj.to/paddleton-2019-1080p-cz-titulky-mp4/8063bd130acfec92) (ID 29339814) | [Sdílej 34733979](https://sdilej.cz/34733979/paddleton-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:45:03.480059+00:00 |
 | [Paintball Massacre (2020) 720p CZ Titulky](https://prehraj.to/paintball-massacre-2020-720p-cz-titulky-mp4/5677884787b5fce8) (ID 29582168) | [Sdílej 34773203](https://sdilej.cz/34773203/paintball-massacre-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:10.052990+00:00 |
 | [Palmy ve sněhu (2015) SD CZ Titulky](https://prehraj.to/palmy-ve-snehu-2015-sd-cz-titulky-mp4/b9be3e4c9f3f1024) (ID 29407324) | [Sdílej 34738002](https://sdilej.cz/34738002/palmy-ve-snehu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:38:08.309355+00:00 |
 | [Paltan (2018) SD CZ Titulky](https://prehraj.to/paltan-2018-sd-cz-titulky-avi/c7574d0d7f7b9664) (ID 29301260) | [Sdílej 11250607](https://sdilej.cz/11250607/paltan-2018-sk-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:45:23.457728+00:00 |
