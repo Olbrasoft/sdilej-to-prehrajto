@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T02:52:44.537355+00:00
+Poslední aktualizace (UTC): 2026-10-09T02:52:55.144243+00:00
 
 Zkontrolováno videí: 2064. Další stránka kontroly: 185.
 
@@ -758,7 +758,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:36.589891+00:00 |
 | [Májové hvězdy (1959) 1080p CZ Titulky](https://prehraj.to/majove-hvezdy-1959-1080p-cz-titulky-mkv/82f7991c0b09dc6f) (ID 29697994) | [Sdílej 34751185](https://sdilej.cz/34751185/majove-hvezdy-1959-pro-pametniky-valecny-povidkovy-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:03.183325+00:00 |
 | [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:56.781721+00:00 |
-| [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T02:45:25.956475+00:00 |
+| [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T02:52:55.144104+00:00 |
 | [Místo splněných přání (2017) SD CZ Titulky](https://prehraj.to/misto-splnenych-prani-2017-sd-cz-titulky-avi/188ebabb7f6d33cd) (ID 29505925) | [Sdílej 9037924](https://sdilej.cz/9037924/misto-splnenych-prani-the-place-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:53:50.935660+00:00 |
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T02:03:10.675653+00:00 |
 | [Městečko South Park: Vstup do světa patolízalů (2023) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-vstup-do-sveta-patolizalu-2023-1080p-cz-titulky-mp4/d89545ae8635af6a) (ID 29396144) | [Sdílej 27260067](https://sdilej.cz/27260067/south-park-joining-the-panderverse-2023-web-dl-full-hd-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:48:20.140297+00:00 |
