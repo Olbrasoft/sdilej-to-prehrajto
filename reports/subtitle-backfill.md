@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:03:53.930419+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:04:03.383694+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 86.
 
@@ -644,7 +644,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:55:51.707176+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:50:56.290693+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:56:52.450434+00:00 |
-| [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:03:22.313470+00:00 |
+| [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:04:03.383592+00:00 |
 | [Le Petit Poucet (1972) SD CZ Titulky](https://prehraj.to/le-petit-poucet-1972-sd-cz-titulky-mp4/759257904a1288b2) (ID 30096693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:12:27.062157+00:00 |
 | [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:37:16.217217+00:00 |
 | [Leave the World Behind (2014) SD CZ Titulky](https://prehraj.to/leave-the-world-behind-2014-sd-cz-titulky-mp4/2d3fd96d784cd743) (ID 29505113) | [Sdílej 34776328](https://sdilej.cz/34776328/leave-the-world-behind-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:58:40.936021+00:00 |
