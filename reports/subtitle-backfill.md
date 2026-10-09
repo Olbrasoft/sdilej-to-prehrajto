@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:40:43.841376+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:40:56.664232+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -1434,7 +1434,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Čarovný les (2014) 1080p CZ Titulky](https://prehraj.to/carovny-les-2014-1080p-cz-titulky-mkv/48ef178fccd7e71c) (ID 29935980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:29.379314+00:00 |
 | [Časový posun (1979) SD CZ Titulky](https://prehraj.to/casovy-posun-1979-sd-cz-titulky-mkv/960cf3b93a1bc97a) (ID 29923350) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:15.211172+00:00 |
 | [Černá vdova (2012) 1080p CZ Titulky](https://prehraj.to/cerna-vdova-2012-1080p-cz-titulky-mp4/ced008d34bece1b4) (ID 30040903) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:57.269990+00:00 |
-| [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:37:48.779052+00:00 |
+| [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:40:56.664091+00:00 |
 | [Černý ostrov (2021) 1080p CZ Titulky](https://prehraj.to/cerny-ostrov-2021-1080p-cz-titulky-mp4/815922ba340a8c4d) (ID 29925375) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:17.184323+00:00 |
 | [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:39:33.972721+00:00 |
 | [Člověk ze Západu (1940) 1080p CZ Titulky](https://prehraj.to/clovek-ze-zapadu-1940-1080p-cz-titulky-mkv/77644b1949622c67) (ID 29327215) | [Sdílej 29216985](https://sdilej.cz/29216985/the.westerner.1940.eng.fra.1080p.webrip.x264.aac-rht-sksub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:53:32.617746+00:00 |
