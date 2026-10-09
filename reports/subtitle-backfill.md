@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:44:42.854187+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:44:53.498422+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -1422,7 +1422,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zvedá se vítr (2006) SD CZ Titulky](https://prehraj.to/zveda-se-vitr-2006-sd-cz-titulky-mp4/79a3d48ac2f7e606) (ID 29796253) | [Sdílej 32713304](https://sdilej.cz/32713304/zveda-se-vitr-2006-cz-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:32:51.067444+00:00 |
 | [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:35:13.269636+00:00 |
 | [Zásadní změna (2018) SD CZ Titulky](https://prehraj.to/zasadni-zmena-2018-sd-cz-titulky-mp4/239bc12ee388fce7) (ID 29319501) | [Sdílej 13048286](https://sdilej.cz/13048286/the-game-changers-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T05:38:54.361018+00:00 |
-| [Zázračné houby (2019) 1080p CZ Titulky](https://prehraj.to/zazracne-houby-2019-1080p-cz-titulky-mp4/68dfcf2e53cd834f) (ID 29411891) | [Sdílej 34733558](https://sdilej.cz/34733558/zazracne-houby-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:41:06.275889+00:00 |
+| [Zázračné houby (2019) 1080p CZ Titulky](https://prehraj.to/zazracne-houby-2019-1080p-cz-titulky-mp4/68dfcf2e53cd834f) (ID 29411891) | [Sdílej 34733558](https://sdilej.cz/34733558/zazracne-houby-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:44:53.498305+00:00 |
 | [Záře (1996) 720p CZ Titulky](https://prehraj.to/zare-1996-720p-cz-titulky-mkv/188d8dda0e2b6921) (ID 29510085) | [Sdílej 32869545](https://sdilej.cz/32869545/shine-1996-1080p-fr-en-x264-ac3-mhdgz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:53:18.707087+00:00 |
 | [Zítřek už možná nepřijde (2003) SD CZ Titulky](https://prehraj.to/zitrek-uz-mozna-neprijde-2003-sd-cz-titulky-mp4/76f925bd5b940dfc) (ID 29279834) | [Sdílej 34751392](https://sdilej.cz/34751392/zitrek-uz-mozna-neprijde-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:14:34.637584+00:00 |
 | [Ánimas (2018) 1080p CZ Titulky](https://prehraj.to/animas-2018-1080p-cz-titulky-mkv/9661c7794d8b1c8a) (ID 29648131) | [Sdílej 11262471](https://sdilej.cz/11262471/animas-2018.1080p.x264-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:55:07.063713+00:00 |
