@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:31:31.897470+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:31:42.257314+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -49,7 +49,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Air Bud - Fotbalista (2000) 1080p CZ Titulky](https://prehraj.to/air-bud-fotbalista-2000-1080p-cz-titulky-mp4/27c81f6c018f3822) (ID 29933860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:27.354488+00:00 |
 | [Akira (2016) SD CZ Titulky](https://prehraj.to/akira-2016-sd-cz-titulky-mp4/bd027bb78ce55fb6) (ID 29529063) | [Sdílej 34775394](https://sdilej.cz/34775394/akira-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:02:09.149077+00:00 |
 | [Al di là della legge (1968) SD CZ Titulky](https://prehraj.to/al-di-la-della-legge-1968-sd-cz-titulky-mkv/cc65e5323db8a2fc) (ID 29270176) | [Sdílej 34780009](https://sdilej.cz/34780009/western-cz-tit-beyond-the-law-al-di-l-della-legge-1968-dvdrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:04:49.665754+00:00 |
-| [Albion: The Enchanted Stallion (2016) SD CZ Titulky](https://prehraj.to/albion-the-enchanted-stallion-2016-sd-cz-titulky-mp4/66b6a5053a0b641c) (ID 29611924) | [Sdílej 34737873](https://sdilej.cz/34737873/albion-the-enchanted-stallion-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:29:27.858450+00:00 |
+| [Albion: The Enchanted Stallion (2016) SD CZ Titulky](https://prehraj.to/albion-the-enchanted-stallion-2016-sd-cz-titulky-mp4/66b6a5053a0b641c) (ID 29611924) | [Sdílej 34737873](https://sdilej.cz/34737873/albion-the-enchanted-stallion-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:31:42.257203+00:00 |
 | [Alexander Něvský (1938) SD CZ Titulky](https://prehraj.to/alexander-nevsky-1938-sd-cz-titulky-mp4/2b993025d1e3e6e6) (ID 29411883) | [Sdílej 34699493](https://sdilej.cz/34699493/alexander-nevsky-1938-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:44:42.854061+00:00 |
 | [Alien Apocalypse (2023) SD CZ Titulky](https://prehraj.to/alien-apocalypse-2023-sd-cz-titulky-mp4/15f5bcc46c9fbc77) (ID 29567475) | [Sdílej 34772109](https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:14:04.607415+00:00 |
 | [Alien Predator (2018) 1080p CZ Titulky](https://prehraj.to/alien-predator-2018-1080p-cz-titulky-mkv/8f763956a4cabb07) (ID 29909034) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:46.356198+00:00 |
