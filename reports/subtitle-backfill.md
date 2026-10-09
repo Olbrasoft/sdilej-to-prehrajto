@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:40:23.036072+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:40:33.131671+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 186.
 
@@ -1373,7 +1373,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Yaara (2020) 720p CZ Titulky](https://prehraj.to/yaara-2020-720p-cz-titulky-mp4/f14a0fac92ab531a) (ID 29936917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:57.161263+00:00 |
 | [Yao (2019) SD CZ Titulky](https://prehraj.to/yao-2019-sd-cz-titulky-mp4/1547d59a3602c700) (ID 29631456) | [Sdílej 34763000](https://sdilej.cz/34763000/yao-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:29.848659+00:00 |
 | [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:44:51.556165+00:00 |
-| [Yong shì (2016) SD CZ Titulky](https://prehraj.to/yong-shi-2016-sd-cz-titulky-mp4/7bed2760b20ceb41) (ID 29701775) | [Sdílej 34737582](https://sdilej.cz/34737582/yong-sh-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:35:20.039725+00:00 |
+| [Yong shì (2016) SD CZ Titulky](https://prehraj.to/yong-shi-2016-sd-cz-titulky-mp4/7bed2760b20ceb41) (ID 29701775) | [Sdílej 34737582](https://sdilej.cz/34737582/yong-sh-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:40:33.131570+00:00 |
 | [You Get Me (2017) SD CZ Titulky](https://prehraj.to/you-get-me-2017-sd-cz-titulky-avi/846c72e0593ae4b8) (ID 29907348) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:13.278363+00:00 |
 | [Your Host (2025) 1080p CZ Titulky](https://prehraj.to/your-host-2025-1080p-cz-titulky-mkv/7ca17c9b86029012) (ID 29917725) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:06:37.385514+00:00 |
 | [Z lásky (2025) 1080p CZ Titulky](https://prehraj.to/z-lasky-2025-1080p-cz-titulky-mp4/d3c7fa077288224d) (ID 29656881) | [Sdílej 34717900](https://sdilej.cz/34717900/preslapy-z-lasky-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:01:25.755263+00:00 |
