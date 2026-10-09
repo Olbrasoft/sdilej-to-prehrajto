@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T01:15:48.843725+00:00
+Poslední aktualizace (UTC): 2026-10-09T01:15:59.096830+00:00
 
 Zkontrolováno videí: 2063. Další stránka kontroly: 185.
 
@@ -603,7 +603,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kdyby ulice Beale mohla mluvit (2018) 1080p CZ Titulky](https://prehraj.to/kdyby-ulice-beale-mohla-mluvit-2018-1080p-cz-titulky-mkv/6ea348ff9fee93f5) (ID 29347838) | [Sdílej 12514136](https://sdilej.cz/12514136/if.beale.street.could.talk.2018.1080p.bluray.x264.dts-hd.ma.cz.eng.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:42:29.840902+00:00 |
 | [Když se vrací vlci (2024) 1080p CZ Titulky](https://prehraj.to/kdyz-se-vraci-vlci-2024-1080p-cz-titulky-mkv/2153bb98f79f1959) (ID 29925461) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T23:49:52.178067+00:00 |
 | [Keeper (2025) 1080p CZ Titulky](https://prehraj.to/keeper-2025-1080p-cz-titulky-mp4/2b41fd23c3d7b224) (ID 29927515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-03T20:11:03.811431+00:00 |
-| [Keeper of Darkness (2015) 1080p CZ Titulky](https://prehraj.to/keeper-of-darkness-2015-1080p-cz-titulky-mkv/b055d3c3f5d25f54) (ID 29284602) | [Sdílej 10328546](https://sdilej.cz/10328546/keeper-of-darkness-2015-chinese-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T01:10:38.723388+00:00 |
+| [Keeper of Darkness (2015) 1080p CZ Titulky](https://prehraj.to/keeper-of-darkness-2015-1080p-cz-titulky-mkv/b055d3c3f5d25f54) (ID 29284602) | [Sdílej 10328546](https://sdilej.cz/10328546/keeper-of-darkness-2015-chinese-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:15:59.096716+00:00 |
 | [Kesari (2019) 1080p CZ Titulky](https://prehraj.to/kesari-2019-1080p-cz-titulky-mp4/7d6ff763167ba819) (ID 30102560) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-08T23:53:28.607703+00:00 |
 | [Kevin Hart: What Now? (2016) 1080p CZ Titulky](https://prehraj.to/kevin-hart-what-now-2016-1080p-cz-titulky-mkv/9461846f718826b8) (ID 29614983) | [Sdílej 6918441](https://sdilej.cz/6918441/kevin-hart-what-now-2016-1080p-bluray-cyro.se-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-08T23:43:31.938584+00:00 |
 | [Kick (2014) SD CZ Titulky](https://prehraj.to/kick-2014-sd-cz-titulky-mp4/249429b27658a2a4) (ID 29536732) | [Sdílej 34776445](https://sdilej.cz/34776445/kick-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:57:32.273722+00:00 |
