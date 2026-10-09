@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:12:03.149122+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:12:13.260727+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -864,7 +864,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:53:32.228703+00:00 |
 | [Other (2025) 1080p CZ Titulky](https://prehraj.to/other-2025-1080p-cz-titulky-mkv/8eb5ce0c2469fbd9) (ID 29923402) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:15.211131+00:00 |
 | [Otřes mozku (2013) SD CZ Titulky](https://prehraj.to/otres-mozku-2013-sd-cz-titulky-avi/94b6105984e420e1) (ID 29664066) | [Sdílej 31070024](https://sdilej.cz/31070024/concussion-vostfr-2013-hdrip-xvid-etrg.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:05:33.822311+00:00 |
-| [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:06:46.074836+00:00 |
+| [Our Godfather (2019) SD CZ Titulky](https://prehraj.to/our-godfather-2019-sd-cz-titulky-mp4/e763c63f9511ff67) (ID 29562884) | [Sdílej 34733987](https://sdilej.cz/34733987/our-godfather-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:13.260631+00:00 |
 | [Out of Death (2021) 720p CZ Titulky](https://prehraj.to/out-of-death-2021-720p-cz-titulky-avi/9dbce487d8a4df83) (ID 29089541) | [Sdílej 17416471](https://sdilej.cz/17416471/out-of-death-2021-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:55:48.553152+00:00 |
 | [Out of the Blue (2022) 1080p CZ Titulky](https://prehraj.to/out-of-the-blue-2022-1080p-cz-titulky-mp4/7bf1f342c661dcf8) (ID 29753390) | [Sdílej 34726934](https://sdilej.cz/34726934/out-of-the-blue-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:27:21.623451+00:00 |
 | [Outback (2019) SD CZ Titulky](https://prehraj.to/outback-2019-sd-cz-titulky-mkv/9ad1c366c7605f1f) (ID 29914704) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T13:00:00.383410+00:00 |
