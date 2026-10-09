@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T11:34:21.809892+00:00
+Poslední aktualizace (UTC): 2026-10-09T11:34:30.776464+00:00
 
 Zkontrolováno videí: 2069. Další stránka kontroly: 165.
 
@@ -64,7 +64,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Andrej Rublev (1966) 720p CZ Titulky](https://prehraj.to/andrej-rublev-1966-720p-cz-titulky-mp4/d3da1268ba4212bc) (ID 29879096) | [Sdílej 34756095](https://sdilej.cz/34756095/andrej-rublev-1966-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:44:06.215999+00:00 |
 | [Andílek (2018) 720p CZ Titulky](https://prehraj.to/andilek-2018-720p-cz-titulky-avi/776d20f508586c25) (ID 29355975) | [Sdílej 13405604](https://sdilej.cz/13405604/el.angel.2018.pl.720p.brrip.ac3.xvid-mr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T23:32:58.008605+00:00 |
 | [Andělino vánoční přání (2020) 1080p CZ Titulky](https://prehraj.to/andelino-vanocni-prani-2020-1080p-cz-titulky-mp4/2e78ffcbdaeec45f) (ID 29629272) | [Sdílej 34733439](https://sdilej.cz/34733439/andelino-vanocni-prani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:54.868518+00:00 |
-| [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T11:32:52.982095+00:00 |
+| [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:34:30.776355+00:00 |
 | [Annette (2021) 1080p CZ Titulky](https://prehraj.to/annette-2021-1080p-cz-titulky-mp4/8f5e9a5d77385877) (ID 29977154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T10:51:52.266313+00:00 |
 | [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:44:48.898209+00:00 |
 | [Antidote (2018) 1080p CZ Titulky](https://prehraj.to/antidote-2018-1080p-cz-titulky-mp4/454cf6f45d4b0ccd) (ID 29608713) | [Sdílej 34774428](https://sdilej.cz/34774428/antidote-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:23:55.247166+00:00 |
