@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:18:36.675211+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:18:46.613409+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -132,7 +132,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Beware the Slenderman (2016) 1080p CZ Titulky](https://prehraj.to/beware-the-slenderman-2016-1080p-cz-titulky-mp4/67dcb00c4ef57b3f) (ID 29582153) | [Sdílej 34737859](https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:17:01.848293+00:00 |
 | [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:46:36.083853+00:00 |
 | [Bikini Drive-In (1995) SD CZ Titulky](https://prehraj.to/bikini-drive-in-1995-sd-cz-titulky-mkv/6a7c25c16d12d2cd) (ID 29637810) | [Sdílej 34828279](https://sdilej.cz/34828279/bikini-drive-in.1995.dvdrip.xvid-cg-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:55:01.013210+00:00 |
-| [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:15:54.772012+00:00 |
+| [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:18:46.613301+00:00 |
 | [Bitva kuchařů (2017) 720p CZ Titulky](https://prehraj.to/bitva-kucharu-2017-720p-cz-titulky-mp4/0e7cd421b93b6de5) (ID 29372608) | [Sdílej 34711958](https://sdilej.cz/34711958/bitva-kucharu-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:41:34.492826+00:00 |
 | [Bitva o Alžír (1966) SD CZ Titulky](https://prehraj.to/bitva-o-alzir-1966-sd-cz-titulky-mp4/e6fc8f9040d48a35) (ID 29290572) | [Sdílej 34700110](https://sdilej.cz/34700110/bitva-o-alzir-1966-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:55:15.818948+00:00 |
 | [Black '47 (2018) 720p CZ Titulky](https://prehraj.to/black-47-2018-720p-cz-titulky-avi/4da72eccce06e65f) (ID 29659387) | [Sdílej 28507849](https://sdilej.cz/28507849/black-47-hugo-weaving-james-frecheville-stephen-rea-2018-drama-bdrip.-1080p.-en-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:04:46.965840+00:00 |
