@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:46:29.816005+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:46:40.471544+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -194,7 +194,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Catwoman: Hunted (2022) 1080p CZ Titulky](https://prehraj.to/catwoman-hunted-2022-1080p-cz-titulky-avi/d8b8c42e1840faf5) (ID 29922442) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:13.291622+00:00 |
 | [Caveat (2020) 1080p CZ Titulky](https://prehraj.to/caveat-2020-1080p-cz-titulky-mkv/ea3be214d021aa55) (ID 29904418) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:58:40.629742+00:00 |
 | [Cesta divočinou (2017) 720p CZ Titulky](https://prehraj.to/cesta-divocinou-2017-720p-cz-titulky-mp4/c0d02031adf2b7e0) (ID 29922369) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:13.291654+00:00 |
-| [Cesta do Romy (2020) 1080p CZ Titulky](https://prehraj.to/cesta-do-romy-2020-1080p-cz-titulky-mp4/270f35fcfe6cb80d) (ID 29426061) | [Sdílej 34733320](https://sdilej.cz/34733320/cesta-do-romy-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:44.081908+00:00 |
+| [Cesta do Romy (2020) 1080p CZ Titulky](https://prehraj.to/cesta-do-romy-2020-1080p-cz-titulky-mp4/270f35fcfe6cb80d) (ID 29426061) | [Sdílej 34733320](https://sdilej.cz/34733320/cesta-do-romy-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:46:40.471403+00:00 |
 | [Cesta válečníka (2018) 1080p CZ Titulky](https://prehraj.to/cesta-valecnika-2018-1080p-cz-titulky-mkv/45805109373ac7a7) (ID 29917549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:07.580200+00:00 |
 | [Charlieho země (2013) SD CZ Titulky](https://prehraj.to/charlieho-zeme-2013-sd-cz-titulky-mkv/1b38b8f36805aa08) (ID 29340785) | [Sdílej 26530590](https://sdilej.cz/26530590/charlieho-zeme-2013-juraison-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:45:30.695682+00:00 |
 | [Chasing Coral (2017) SD CZ Titulky](https://prehraj.to/chasing-coral-2017-sd-cz-titulky-mp4/d49affc0a7ed1301) (ID 29510434) | [Sdílej 34770336](https://sdilej.cz/34770336/chasing-coral-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:54:57.345452+00:00 |
