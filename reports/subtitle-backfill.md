@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T16:37:00.930767+00:00
+Poslední aktualizace (UTC): 2026-10-09T16:37:11.878579+00:00
 
 Zkontrolováno videí: 2076. Další stránka kontroly: 186.
 
@@ -1079,7 +1079,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Solo Mio (2026) 1080p CZ Titulky](https://prehraj.to/solo-mio-2026-1080p-cz-titulky-mkv/8e01eab4d2651a80) (ID 29851997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T16:14:42.387747+00:00 |
 | [Sorjonen: Krvavé poselství (2021) 720p CZ Titulky](https://prehraj.to/sorjonen-krvave-poselstvi-2021-720p-cz-titulky-mkv/1c1ae9b82ed678e2) (ID 29332615) | [Sdílej 26270824](https://sdilej.cz/26270824/sorjonen-krvave-poselstvi-krimi-2021-cz-tit-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:47:05.980618+00:00 |
 | [Sorry, Baby (2025) 1080p CZ Titulky](https://prehraj.to/sorry-baby-2025-1080p-cz-titulky-mkv/fd6a7ea8e2f236d4) (ID 29199838) | [Sdílej 34559320](https://sdilej.cz/34559320/sorry-baby-2025-czsub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:35:29.227696+00:00 |
-| [Souboj s Antikristem (2013) 720p CZ Titulky](https://prehraj.to/souboj-s-antikristem-2013-720p-cz-titulky-mp4/be47ae41a4b4bb93) (ID 29748645) | [Sdílej 34779538](https://sdilej.cz/34779538/souboj-s-antikristem-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:22:38.172642+00:00 |
+| [Souboj s Antikristem (2013) 720p CZ Titulky](https://prehraj.to/souboj-s-antikristem-2013-720p-cz-titulky-mp4/be47ae41a4b4bb93) (ID 29748645) | [Sdílej 34779538](https://sdilej.cz/34779538/souboj-s-antikristem-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:37:11.878476+00:00 |
 | [Soukromá síť: Kdo zabil Manuela Buendíu? (2021) 1080p CZ Titulky](https://prehraj.to/soukroma-sit-kdo-zabil-manuela-buendiu-2021-1080p-cz-titulky-mp4/905654ccedbc1731) (ID 29649266) | [Sdílej 34728765](https://sdilej.cz/34728765/soukroma-sit-kdo-zabil-manuela-buendiu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:57:02.394883+00:00 |
 | [Soulm8te (2026) 1440p CZ Titulky](https://prehraj.to/soulm8te-2026-1440p-cz-titulky-mkv/50c0dedad110bb7f) (ID 29911136) | Nedoložen | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T16:15:53.795073+00:00 |
 | [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:44:33.435093+00:00 |
