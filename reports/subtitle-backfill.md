@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T15:51:36.285798+00:00
+Poslední aktualizace (UTC): 2026-10-09T15:51:49.119667+00:00
 
 Zkontrolováno videí: 2075. Další stránka kontroly: 166.
 
@@ -633,7 +633,7 @@ Kontrol: 57; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 1. Důvod
 | [Krásná katastrofa (2023) 1440p CZ Titulky](https://prehraj.to/krasna-katastrofa-2023-1440p-cz-titulky-mkv/53a6f72fb12276f8) (ID 29932996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:10:48.446416+00:00 |
 | [Kulky Spravedlnosti (2019) 1080p CZ Titulky](https://prehraj.to/kulky-spravedlnosti-2019-1080p-cz-titulky-mp4/929d935b71e6db53) (ID 29911357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:19.218652+00:00 |
 | [Kuwaresma (2019) 1080p CZ Titulky](https://prehraj.to/kuwaresma-2019-1080p-cz-titulky-mp4/ce64f8d0f9b55b2d) (ID 29850998) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:03:16.182623+00:00 |
-| [Kuře melancholik (1999) SD CZ Titulky](https://prehraj.to/kure-melancholik-1999-sd-cz-titulky-avi/44ec618802772a13) (ID 29717529) | [Sdílej 35068780](https://sdilej.cz/35068780/kure-melancholik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:50:32.733510+00:00 |
+| [Kuře melancholik (1999) SD CZ Titulky](https://prehraj.to/kure-melancholik-1999-sd-cz-titulky-avi/44ec618802772a13) (ID 29717529) | [Sdílej 35068780](https://sdilej.cz/35068780/kure-melancholik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:51:49.119565+00:00 |
 | [Kyberpeklo: Jak odhalit zneužívání na internetu (2022) SD CZ Titulky](https://prehraj.to/kyberpeklo-jak-odhalit-zneuzivani-na-internetu-2022-sd-cz-titulky-mkv/f39fd4b8ee0d38a5) (ID 29262983) | [Sdílej 34842907](https://sdilej.cz/34842907/cyber-hell-exposing-an-internet-horror-2022-dokumentarni-krimi-jizni-korea-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T15:46:34.250656+00:00 |
 | [Kšeft (2008) 1080p CZ Titulky](https://prehraj.to/kseft-2008-1080p-cz-titulky-mkv/ac7659e526bb8e0e) (ID 29917298) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T15:06:37.385556+00:00 |
 | [L'Étranger (2025) 1080p CZ Titulky](https://prehraj.to/l-etranger-2025-1080p-cz-titulky-mkv/89abec92aa515679) (ID 29460945) | [Sdílej 33445227](https://sdilej.cz/33445227/l.etranger.2025.french.ad.1080p.webrip.10.bits.eac3.5.1.x265-tyhd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T14:40:56.183452+00:00 |
