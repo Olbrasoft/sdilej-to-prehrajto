@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:42:31.593497+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:43:09.513606+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -1442,7 +1442,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:41:33.391417+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:48:43.720767+00:00 |
 | [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:36:56.125849+00:00 |
-| [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:39:40.192370+00:00 |
+| [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:43:09.513467+00:00 |
 | [Šingeki no kjodžin (2015) 1080p CZ Titulky](https://prehraj.to/singeki-no-kjodzin-2015-1080p-cz-titulky-avi/4cd38c26c0cded08) (ID 29734090) | [Sdílej 8458716](https://sdilej.cz/8458716/shingeki-no-kyojin-attack-on-titan.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:08:14.946663+00:00 |
 | [Šlápni na to! (2020) 1080p CZ Titulky](https://prehraj.to/slapni-na-to-2020-1080p-cz-titulky-mp4/594cd284d5c37161) (ID 29695375) | [Sdílej 34731712](https://sdilej.cz/34731712/slapni-na-to-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:34:47.923753+00:00 |
 | [Šok (2021) 4K CZ Titulky](https://prehraj.to/sok-2021-4k-cz-titulky-mkv/02de61ac85c32a4d) (ID 29936681) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:33.272779+00:00 |
