@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T12:50:26.055253+00:00
+Poslední aktualizace (UTC): 2026-10-09T12:50:36.532666+00:00
 
 Zkontrolováno videí: 2070. Další stránka kontroly: 145.
 
@@ -800,7 +800,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Neveselé Vánoce (2022) 1080p CZ Titulky](https://prehraj.to/nevesele-vanoce-2022-1080p-cz-titulky-mp4/db93fd8ad4f8c5ba) (ID 29615990) | [Sdílej 34727004](https://sdilej.cz/34727004/nevesele-vanoce-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:34:05.102400+00:00 |
 | [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:04:19.903541+00:00 |
 | [Neviditelná (2019) 1080p CZ Titulky](https://prehraj.to/neviditelna-2019-1080p-cz-titulky-mp4/ca19f44dca4f7818) (ID 29983357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T11:49:17.657550+00:00 |
-| [Neviňátka (1961) 1080p CZ Titulky](https://prehraj.to/nevinatka-1961-1080p-cz-titulky-mkv/933f47c2df417454) (ID 29397058) | [Sdílej 33293130](https://sdilej.cz/33293130/the-innocents-1961-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T12:49:12.934432+00:00 |
+| [Neviňátka (1961) 1080p CZ Titulky](https://prehraj.to/nevinatka-1961-1080p-cz-titulky-mkv/933f47c2df417454) (ID 29397058) | [Sdílej 33293130](https://sdilej.cz/33293130/the-innocents-1961-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:50:36.532558+00:00 |
 | [Nevídaní (2019) 1080p CZ Titulky](https://prehraj.to/nevidani-2019-1080p-cz-titulky-mp4/d2acbf292d23f391) (ID 29295845) | [Sdílej 34734064](https://sdilej.cz/34734064/nevidani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T02:52:34.485090+00:00 |
 | [Nezapomenutelné dětství (2004) 720p CZ Titulky](https://prehraj.to/nezapomenutelne-detstvi-2004-720p-cz-titulky-mkv/7ebe37f37b10426d) (ID 29443371) | [Sdílej 34871247](https://sdilej.cz/34871247/nezapomenutelne-detstvi-robin-williams-2004-czdab.hd.bluray.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:50:45.122100+00:00 |
 | [Neztrácej naději (2025) 4K CZ Titulky](https://prehraj.to/neztracej-nadeji-2025-4k-cz-titulky-mkv/618341b6d296fe9f) (ID 29917633) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T11:47:45.225514+00:00 |
