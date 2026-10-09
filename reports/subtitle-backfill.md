@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:51:56.179573+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:52:07.592557+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -85,7 +85,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Atomica (2017) SD CZ Titulky](https://prehraj.to/atomica-2017-sd-cz-titulky-avi/39b65aa72bf79f7c) (ID 29748370) | [Sdílej 8005043](https://sdilej.cz/8005043/deep-burial-atomica-2017-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:22:08.796144+00:00 |
 | [Audrey (2020) 1080p CZ Titulky](https://prehraj.to/audrey-2020-1080p-cz-titulky-mp4/51f86a89be6d8216) (ID 29429913) | [Sdílej 34773457](https://sdilej.cz/34773457/audrey-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:39.206719+00:00 |
 | [Aurora (2019) 1080p CZ Titulky](https://prehraj.to/aurora-2019-1080p-cz-titulky-mkv/7c2178b015ccb9d4) (ID 29214765) | [Sdílej 12389464](https://sdilej.cz/12389464/aurora.2019.1080p.bluray.x264-fico.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:35:48.951645+00:00 |
-| [Aurore (2005) 720p CZ Titulky](https://prehraj.to/aurore-2005-720p-cz-titulky-mkv/0973e010b35e7f9e) (ID 29445306) | [Sdílej 32454300](https://sdilej.cz/32454300/aurore-2005-cz-tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:35.659603+00:00 |
+| [Aurore (2005) 720p CZ Titulky](https://prehraj.to/aurore-2005-720p-cz-titulky-mkv/0973e010b35e7f9e) (ID 29445306) | [Sdílej 32454300](https://sdilej.cz/32454300/aurore-2005-cz-tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:52:07.592443+00:00 |
 | [Autobus naděje (2025) 1080p CZ Titulky](https://prehraj.to/autobus-nadeje-2025-1080p-cz-titulky-mp4/f3ce1551f0d8d612) (ID 30069637) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:02:51.589459+00:00 |
 | [Automat na lásku (2000) SD CZ Titulky](https://prehraj.to/automat-na-lasku-2000-sd-cz-titulky-avi/572bb107c93d78c7) (ID 29648180) | [Sdílej 28492278](https://sdilej.cz/28492278/levottomat-aka-restless-2000-lq-dvdrip.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:53:13.411455+00:00 |
 | [Avicii: True Stories (2017) 1080p CZ Titulky](https://prehraj.to/avicii-true-stories-2017-1080p-cz-titulky-mkv/b21e5051337d040e) (ID 29750924) | [Sdílej 27524862](https://sdilej.cz/27524862/avicii-true-stories.2017.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:58:16.670975+00:00 |
