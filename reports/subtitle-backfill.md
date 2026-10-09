@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T03:45:23.457844+00:00
+Poslední aktualizace (UTC): 2026-10-09T03:45:31.868132+00:00
 
 Zkontrolováno videí: 2065. Další stránka kontroly: 185.
 
@@ -1309,7 +1309,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [V/H/S (2012) SD CZ Titulky](https://prehraj.to/v-h-s-2012-sd-cz-titulky-avi/f67d16fde51bd378) (ID 29809175) | [Sdílej 34454298](https://sdilej.cz/34454298/v.h.s-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:40:27.971605+00:00 |
 | [V/H/S/85 (2023) SD CZ Titulky](https://prehraj.to/v-h-s-85-2023-sd-cz-titulky-mp4/9af854231d75dff6) (ID 29539008) | [Sdílej 27431301](https://sdilej.cz/27431301/v-h-s-85-2023-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:58:00.202610+00:00 |
 | [V/H/S/Halloween (2025) 1080p CZ Titulky](https://prehraj.to/v-h-s-halloween-2025-1080p-cz-titulky-mkv/dd87328f82296aa7) (ID 29913569) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T03:06:53.543493+00:00 |
-| [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T03:40:49.709383+00:00 |
+| [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:45:31.867999+00:00 |
 | [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:52:34.939871+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:49.606622+00:00 |
 | [Vargur (2018) SD CZ Titulky](https://prehraj.to/vargur-2018-sd-cz-titulky-mkv/2859d2e928a3dc7a) (ID 29717946) | [Sdílej 30859872](https://sdilej.cz/30859872/darfur.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:50:58.495986+00:00 |
