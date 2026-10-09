@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:12:13.260727+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:12:24.026867+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -844,7 +844,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:48:26.183845+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:42:49.755840+00:00 |
 | [Omukade (2026) 1080p CZ Titulky](https://prehraj.to/omukade-2026-1080p-cz-titulky-mp4/d314a1788a35b7ca) (ID 29221022) | [Sdílej 34909938](https://sdilej.cz/34909938/omukade-2026-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T16:48:01.090660+00:00 |
-| [Once Upon a Deadpool (2018) 1080p CZ Titulky](https://prehraj.to/once-upon-a-deadpool-2018-1080p-cz-titulky-mkv/dcab2c01cd73f62d) (ID 29563187) | [Sdílej 11074487](https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:06:54.590506+00:00 |
+| [Once Upon a Deadpool (2018) 1080p CZ Titulky](https://prehraj.to/once-upon-a-deadpool-2018-1080p-cz-titulky-mkv/dcab2c01cd73f62d) (ID 29563187) | [Sdílej 11074487](https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:24.026751+00:00 |
 | [One More Shot (2024) 720p CZ Titulky](https://prehraj.to/one-more-shot-2024-720p-cz-titulky-mkv/e9c2f44e9819bced) (ID 29967909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:37.221271+00:00 |
 | [One Summer (2021) 1080p CZ Titulky](https://prehraj.to/one-summer-2021-1080p-cz-titulky-mp4/3a017359e66c4d5e) (ID 30051684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:59.301139+00:00 |
 | [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:24:05.157029+00:00 |
