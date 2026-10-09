@@ -163659,17 +163659,20 @@
       "attempts": []
     },
     "12089": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27488583",
+          "target_video_id": "30133228",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-09T19:52:02.512252+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27488583",
         "display_name": "Muž bez tváře (1993) 1080p CZ Dabing",
         "planned_at": "2026-10-09T15:49:21.582972+00:00"
-      },
-      "claim": {
-        "worker_id": "9980b11a5cf14b5ba2b99d4448d4eafb-shard-0",
-        "claimed_at": "2026-10-09T19:47:00.829271+00:00",
-        "lease_expires_at": "2026-10-10T01:47:00.829271+00:00",
-        "run_id": "37952015547"
       },
       "previous_target_id": "30133228",
       "prepared": {
@@ -349435,5 +349438,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-09T19:47:24.697287+00:00"
+  "updated_at": "2026-10-09T19:52:02.512272+00:00"
 }
