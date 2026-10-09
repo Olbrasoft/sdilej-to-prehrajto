@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T07:44:46.320670+00:00
+Poslední aktualizace (UTC): 2026-10-09T07:44:54.678437+00:00
 
 Zkontrolováno videí: 2068. Další stránka kontroly: 185.
 
@@ -1045,7 +1045,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sing Street (2016) SD CZ Titulky](https://prehraj.to/sing-street-2016-sd-cz-titulky-mp4/c3894a4ddc1e027f) (ID 29290332) | [Sdílej 34774971](https://sdilej.cz/34774971/sing-street-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:54:57.211418+00:00 |
 | [Singham (2011) SD CZ Titulky](https://prehraj.to/singham-2011-sd-cz-titulky-mp4/9a63edd9bd9cea5e) (ID 29445959) | [Sdílej 34746723](https://sdilej.cz/34746723/singham-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:47:44.334583+00:00 |
 | [Singl na vdávání (2020) 1080p CZ Titulky](https://prehraj.to/singl-na-vdavani-2020-1080p-cz-titulky-mp4/993832c164970b56) (ID 29653123) | [Sdílej 34732130](https://sdilej.cz/34732130/singl-na-vdavani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:58:25.609836+00:00 |
-| [Sir Alex Ferguson: Nikdy se nevzdej (2021) 720p CZ Titulky](https://prehraj.to/sir-alex-ferguson-nikdy-se-nevzdej-2021-720p-cz-titulky-mp4/1ac1cd302d83495f) (ID 29337463) | [Sdílej 34699238](https://sdilej.cz/34699238/sir-alex-ferguson-nikdy-se-nevzdej-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T07:40:55.951517+00:00 |
+| [Sir Alex Ferguson: Nikdy se nevzdej (2021) 720p CZ Titulky](https://prehraj.to/sir-alex-ferguson-nikdy-se-nevzdej-2021-720p-cz-titulky-mp4/1ac1cd302d83495f) (ID 29337463) | [Sdílej 34699238](https://sdilej.cz/34699238/sir-alex-ferguson-nikdy-se-nevzdej-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:44:54.678295+00:00 |
 | [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:34:49.074852+00:00 |
 | [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:06:37.681554+00:00 |
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T07:05:56.933518+00:00 |
