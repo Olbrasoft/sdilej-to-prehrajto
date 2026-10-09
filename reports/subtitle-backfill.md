@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T13:46:08.442474+00:00
+Poslední aktualizace (UTC): 2026-10-09T13:46:19.980251+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 185.
 
@@ -999,7 +999,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ronnie Coleman: The King (2018) 1080p CZ Titulky](https://prehraj.to/ronnie-coleman-the-king-2018-1080p-cz-titulky-mp4/965cef32ee3ad9bf) (ID 30050630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:59.301202+00:00 |
 | [Room for Rent (2019) 1080p CZ Titulky](https://prehraj.to/room-for-rent-2019-1080p-cz-titulky-mp4/a0264f33b207020a) (ID 29719978) | [Sdílej 34773611](https://sdilej.cz/34773611/room-for-rent-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T15:52:22.092213+00:00 |
 | [Rooney (2022) 720p CZ Titulky](https://prehraj.to/rooney-2022-720p-cz-titulky-mp4/fe1bc46caa543d17) (ID 29216763) | [Sdílej 34726946](https://sdilej.cz/34726946/rooney-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:37:07.052005+00:00 |
-| [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T13:42:25.520542+00:00 |
+| [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:46:19.980111+00:00 |
 | [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:58:08.658768+00:00 |
 | [Run the Tide (2016) 1080p CZ Titulky](https://prehraj.to/run-the-tide-2016-1080p-cz-titulky-mkv/68ea03df9c2c23ba) (ID 29610986) | [Sdílej 6915501](https://sdilej.cz/6915501/run-the-tide.2016.web-dl.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-09T12:54:43.034425+00:00 |
 | [Rusalka: Ozero myortvykh (2018) SD CZ Titulky](https://prehraj.to/rusalka-ozero-myortvykh-2018-sd-cz-titulky-avi/2ae1661a87a1228a) (ID 29938406) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:01:35.243733+00:00 |
