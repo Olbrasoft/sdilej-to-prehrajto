@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-09T14:21:13.039810+00:00
+Poslední aktualizace (UTC): 2026-10-09T14:21:36.064189+00:00
 
 Zkontrolováno videí: 2074. Další stránka kontroly: 165.
 
@@ -119,7 +119,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Dův
 | [Bastard (2023) 1080p CZ Titulky](https://prehraj.to/bastard-2023-1080p-cz-titulky-mkv/0878f436cbf0562b) (ID 29509680) | [Sdílej 31415631](https://sdilej.cz/31415631/bastard-bastarden-the-promise-land-2023-dk-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:59:56.688657+00:00 |
 | [Battle in Space: The Armada Attacks (2021) 1080p CZ Titulky](https://prehraj.to/battle-in-space-the-armada-attacks-2021-1080p-cz-titulky-mkv/a3375308d91903d4) (ID 29610349) | [Sdílej 15433815](https://sdilej.cz/15433815/battle.in.space.the.armada.attacks.2021.1080p.amzn.web-dl.ddp2.0.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:25:07.319493+00:00 |
 | [Battlestar Galactica: Plán (2009) 1080p CZ Titulky](https://prehraj.to/battlestar-galactica-plan-2009-1080p-cz-titulky-mp4/c7fd5b1914f6e432) (ID 29429444) | [Sdílej 32444722](https://sdilej.cz/32444722/battlestar-galactica-the-plan-2009-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:19.800724+00:00 |
-| [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-02T14:18:11.046133+00:00 |
+| [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:21:36.064086+00:00 |
 | [Beast of War (2025) 1080p CZ Titulky](https://prehraj.to/beast-of-war-2025-1080p-cz-titulky-mkv/8cb50dbc9d5472b3) (ID 29912694) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T12:59:54.493758+00:00 |
 | [Becoming (2020) 1080p CZ Titulky](https://prehraj.to/becoming-2020-1080p-cz-titulky-mkv/37fc72f0e44640c7) (ID 29917921) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-09T13:00:07.580072+00:00 |
 | [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:57:48.337788+00:00 |
