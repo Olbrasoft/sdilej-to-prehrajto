@@ -171617,7 +171617,15 @@
       }
     },
     "18240": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30253298",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-10T15:47:52.121982+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30253298",
         "display_name": "TACHO (2010) SD CZ Dabing",
@@ -171625,7 +171633,15 @@
       }
     },
     "26277": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21478670",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-10T15:48:12.899037+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21478670",
         "display_name": "Zvrhlost (2019) 1080p CZ Titulky",
@@ -171648,7 +171664,15 @@
       "attempts": []
     },
     "31452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34721697",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-10T15:48:33.677536+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34721697",
         "display_name": "Láska z nebes (2025) 1080p CZ Dabing",
@@ -171689,6 +171713,18 @@
         "source_id": "34175829",
         "display_name": "Bábovky (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-10T14:56:04.844211+00:00"
+      },
+      "claim": {
+        "worker_id": "b49653bf389c4c4abf7725f51917b5f1-shard-0",
+        "claimed_at": "2026-10-10T15:48:34.010635+00:00",
+        "lease_expires_at": "2026-10-10T21:48:34.010635+00:00",
+        "run_id": "38059667472"
+      },
+      "previous_target_id": "30153599",
+      "prepared": {
+        "target_video_id": "30153599",
+        "size_bytes": 1991928004,
+        "prepared_at": "2026-10-10T15:48:56.018144+00:00"
       }
     },
     "16267": {
@@ -353438,5 +353474,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-10T15:47:29.334062+00:00"
+  "updated_at": "2026-10-10T15:48:56.018157+00:00"
 }
