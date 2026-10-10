@@ -176519,7 +176519,15 @@
       }
     },
     "3799": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12043020",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-10T19:54:20.851012+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12043020",
         "display_name": "Blaze (2018) SD CZ Dabing",
@@ -176547,6 +176555,18 @@
         "source_id": "34139574",
         "display_name": "Fatal Fandom (2022) 1080p CZ Dabing",
         "planned_at": "2026-10-10T19:42:45.352100+00:00"
+      },
+      "claim": {
+        "worker_id": "80ae6f9b18a4413cbfa5eee6252d8b99-shard-0",
+        "claimed_at": "2026-10-10T19:54:21.200878+00:00",
+        "lease_expires_at": "2026-10-11T01:54:21.200878+00:00",
+        "run_id": "38059667472"
+      },
+      "previous_target_id": "30158022",
+      "prepared": {
+        "target_video_id": "30158022",
+        "size_bytes": 2018046201,
+        "prepared_at": "2026-10-10T19:54:43.971950+00:00"
       }
     },
     "12638": {
@@ -354913,5 +354933,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-10T19:53:54.791331+00:00"
+  "updated_at": "2026-10-10T19:54:43.971967+00:00"
 }
