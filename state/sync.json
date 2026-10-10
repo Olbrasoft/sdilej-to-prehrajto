@@ -171828,7 +171828,15 @@
       }
     },
     "3672": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26117911",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-10T15:58:09.952203+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26117911",
         "display_name": "Tajná mise v Soulu 2: Přízrak zkázy (2022) 1080p CZ Dabing",
@@ -171862,6 +171870,18 @@
         "source_id": "33886788",
         "display_name": "Holčička (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-10T14:56:06.918231+00:00"
+      },
+      "claim": {
+        "worker_id": "b49653bf389c4c4abf7725f51917b5f1-shard-0",
+        "claimed_at": "2026-10-10T15:58:10.291377+00:00",
+        "lease_expires_at": "2026-10-10T21:58:10.291377+00:00",
+        "run_id": "38059667472"
+      },
+      "previous_target_id": "30153827",
+      "prepared": {
+        "target_video_id": "30153827",
+        "size_bytes": 2309554063,
+        "prepared_at": "2026-10-10T15:58:32.761901+00:00"
       }
     },
     "33745": {
@@ -353508,5 +353528,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-10T15:57:47.061131+00:00"
+  "updated_at": "2026-10-10T15:58:32.761916+00:00"
 }
