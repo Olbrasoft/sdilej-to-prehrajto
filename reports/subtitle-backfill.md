@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-10T23:45:12.123747+00:00
+Poslední aktualizace (UTC): 2026-10-10T23:46:48.499377+00:00
 
 Zkontrolováno videí: 2102. Další stránka kontroly: 88.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 518, `attached_verified`: 23, `existing_tracks_uncertain`: 192, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_media_timeout`: 2, `source_provenance_missing`: 413, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 8
+Stavy: `already_has_czech`: 518, `attached_verified`: 23, `existing_tracks_uncertain`: 192, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 413, `source_unavailable`: 14, `target_processing`: 86, `target_unavailable`: 8
 
 ## Poslední dávka
 
@@ -62,6 +62,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [American Satan (2017) SD CZ Titulky](https://prehraj.to/american-satan-2017-sd-cz-titulky-avi/df146b915e883159) (ID 29911940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-10T22:44:08.577139+00:00 |
 | [Amityville: Probuzení (2017) 1080p CZ Titulky](https://prehraj.to/amityville-probuzeni-2017-1080p-cz-titulky-mkv/0e13c1914b411c06) (ID 29908934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-10T22:44:02.411533+00:00 |
 | [Andrej Rublev (1966) 720p CZ Titulky](https://prehraj.to/andrej-rublev-1966-720p-cz-titulky-mp4/d3da1268ba4212bc) (ID 29879096) | [Sdílej 34756095](https://sdilej.cz/34756095/andrej-rublev-1966-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:48:22.994725+00:00 |
+| [Andílek (2018) 720p CZ Titulky](https://prehraj.to/andilek-2018-720p-cz-titulky-avi/776d20f508586c25) (ID 29355975) | [Sdílej 13405604](https://sdilej.cz/13405604/el.angel.2018.pl.720p.brrip.ac3.xvid-mr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-10T23:46:48.499259+00:00 |
 | [Andělino vánoční přání (2020) 1080p CZ Titulky](https://prehraj.to/andelino-vanocni-prani-2020-1080p-cz-titulky-mp4/2e78ffcbdaeec45f) (ID 29629272) | [Sdílej 34733439](https://sdilej.cz/34733439/andelino-vanocni-prani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:37:07.326887+00:00 |
 | [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:34:30.776355+00:00 |
 | [Annette (2021) 1080p CZ Titulky](https://prehraj.to/annette-2021-1080p-cz-titulky-mp4/8f5e9a5d77385877) (ID 29977154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-10T22:45:54.463929+00:00 |
@@ -1475,7 +1476,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-10T19:29:55.483903+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-10-10T19:30:11.888456+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-10-10T21:39:58.584783+00:00 |
-| [Andílek (2018) 720p CZ Titulky](https://prehraj.to/andilek-2018-720p-cz-titulky-avi/776d20f508586c25) (ID 29355975) | [Sdílej 13405604](https://sdilej.cz/13405604/el.angel.2018.pl.720p.brrip.ac3.xvid-mr.avi) | source_media_timeout | 2026-10-10T17:41:32.284100+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-10T21:39:46.939977+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-10T23:35:59.234803+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-10T23:36:11.979064+00:00 |
