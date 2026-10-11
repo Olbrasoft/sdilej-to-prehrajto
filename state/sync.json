@@ -184241,7 +184241,15 @@
       }
     },
     "26864": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30162271",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-11T09:56:16.624896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30162271",
         "display_name": "Mulan (2009) 720p CZ Dabing",
@@ -184309,7 +184317,15 @@
       "attempts": []
     },
     "14595": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "19908531",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-11T09:56:37.402617+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19908531",
         "display_name": "Ochutnávka lásky (2020) 1080p CZ Dabing",
@@ -184415,6 +184431,18 @@
         "source_id": "32300863",
         "display_name": "Mavka: Strážkyně lesa (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-11T08:26:54.791709+00:00"
+      },
+      "claim": {
+        "worker_id": "dbf4afb80d51475f950adce061f38b4c-shard-0",
+        "claimed_at": "2026-10-11T09:56:37.782639+00:00",
+        "lease_expires_at": "2026-10-11T15:56:37.782639+00:00",
+        "run_id": "38121837123"
+      },
+      "previous_target_id": "30173193",
+      "prepared": {
+        "target_video_id": "30173193",
+        "size_bytes": 2974563307,
+        "prepared_at": "2026-10-11T09:57:01.686446+00:00"
       }
     },
     "20954": {
@@ -357384,5 +357412,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-11T09:55:50.672647+00:00"
+  "updated_at": "2026-10-11T09:57:01.686464+00:00"
 }
