@@ -186222,7 +186222,15 @@
       }
     },
     "3768": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35178312",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-11T16:42:42.711445+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35178312",
         "display_name": "Téměř dokonalá tajemství (2019) 1080p CZ Dabing",
@@ -186298,6 +186306,18 @@
         "source_id": "20630118",
         "display_name": "Ve stínu Fukušimy (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-11T14:05:17.996347+00:00"
+      },
+      "claim": {
+        "worker_id": "a709a162cc9d4ee8bd326708b72a9311-shard-0",
+        "claimed_at": "2026-10-11T16:42:42.938111+00:00",
+        "lease_expires_at": "2026-10-11T22:42:42.938111+00:00",
+        "run_id": "38143241898"
+      },
+      "previous_target_id": "30180324",
+      "prepared": {
+        "target_video_id": "30180324",
+        "size_bytes": 3201282328,
+        "prepared_at": "2026-10-11T16:43:05.249789+00:00"
       }
     },
     "30477": {
@@ -358233,5 +358253,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-11T16:42:16.741493+00:00"
+  "updated_at": "2026-10-11T16:43:05.249808+00:00"
 }
