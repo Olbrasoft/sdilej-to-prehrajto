@@ -184171,17 +184171,20 @@
       "attempts": []
     },
     "15936": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31712757",
+          "target_video_id": "30172980",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-11T09:55:50.672625+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31712757",
         "display_name": "Cena útěchy (2024) 1080p CZ Dabing",
         "planned_at": "2026-10-11T08:26:53.825749+00:00"
-      },
-      "claim": {
-        "worker_id": "dbf4afb80d51475f950adce061f38b4c-shard-0",
-        "claimed_at": "2026-10-11T09:46:45.166303+00:00",
-        "lease_expires_at": "2026-10-11T15:46:45.166303+00:00",
-        "run_id": "38121837123"
       },
       "previous_target_id": "30172980",
       "prepared": {
@@ -357381,5 +357384,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-11T09:46:49.752523+00:00"
+  "updated_at": "2026-10-11T09:55:50.672647+00:00"
 }
