@@ -184449,7 +184449,15 @@
       }
     },
     "20954": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12371958",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-11T10:02:37.859238+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12371958",
         "display_name": "Jeff Dunham: Relative Disaster (2017) 720p CZ Titulky",
@@ -184512,6 +184520,18 @@
         "source_id": "11074872",
         "display_name": "Ashes in the Snow (2018) SD CZ Titulky",
         "planned_at": "2026-10-11T08:26:55.442319+00:00"
+      },
+      "claim": {
+        "worker_id": "dbf4afb80d51475f950adce061f38b4c-shard-0",
+        "claimed_at": "2026-10-11T10:02:38.214720+00:00",
+        "lease_expires_at": "2026-10-11T16:02:38.214720+00:00",
+        "run_id": "38121837123"
+      },
+      "previous_target_id": "30173308",
+      "prepared": {
+        "target_video_id": "30173308",
+        "size_bytes": 1013810674,
+        "prepared_at": "2026-10-11T10:03:01.316722+00:00"
       }
     },
     "28039": {
@@ -357415,5 +357435,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-11T10:02:14.759962+00:00"
+  "updated_at": "2026-10-11T10:03:01.316740+00:00"
 }
