@@ -186811,17 +186811,20 @@
       "attempts": []
     },
     "34980": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30206533",
+          "target_video_id": "30181581",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-11T18:31:38.711970+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30206533",
         "display_name": "Král Vánoc (2015) 1080p CZ Dabing",
         "planned_at": "2026-10-11T14:05:19.940015+00:00"
-      },
-      "claim": {
-        "worker_id": "a709a162cc9d4ee8bd326708b72a9311-shard-0",
-        "claimed_at": "2026-10-11T18:20:33.722252+00:00",
-        "lease_expires_at": "2026-10-12T00:20:33.722252+00:00",
-        "run_id": "38143241898"
       },
       "previous_target_id": "30181581",
       "prepared": {
@@ -358349,5 +358352,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-11T18:20:38.367672+00:00"
+  "updated_at": "2026-10-11T18:31:38.711989+00:00"
 }
