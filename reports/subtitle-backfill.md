@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:17:40.376096+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:17:47.490702+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 32, `pending`: 85, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 33, `pending`: 84, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -874,6 +874,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Office Uprising (2018) 1080p CZ Titulky](https://prehraj.to/office-uprising-2018-1080p-cz-titulky-avi/91a24a218d1fa87f) (ID 29908148) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.018841+00:00 |
 | [Okamžitá smrt (2017) SD CZ Titulky](https://prehraj.to/okamzita-smrt-2017-sd-cz-titulky-mkv/e2827c7657fb2f16) (ID 29614071) | [Sdílej 11243558](https://sdilej.cz/11243558/instant-death-2017-cztitulky-by-becker.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:35:38.333192+00:00 |
 | [Oktoberfest (2006) SD CZ Titulky](https://prehraj.to/oktoberfest-2006-sd-cz-titulky-mkv/be440d34137bd7af) (ID 29579307) | [Sdílej 20584458](https://sdilej.cz/20584458/beerfest.2006.dvdrip.x264.ac3.bgaudio-siso.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:19:27.765043+00:00 |
+| [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:47.490665+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:42:49.755840+00:00 |
 | [Omukade (2026) 1080p CZ Titulky](https://prehraj.to/omukade-2026-1080p-cz-titulky-mp4/d314a1788a35b7ca) (ID 29221022) | [Sdílej 34909938](https://sdilej.cz/34909938/omukade-2026-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:51:58.948712+00:00 |
 | [Once Upon a Deadpool (2018) 1080p CZ Titulky](https://prehraj.to/once-upon-a-deadpool-2018-1080p-cz-titulky-mkv/dcab2c01cd73f62d) (ID 29563187) | [Sdílej 11074487](https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:24.026751+00:00 |
