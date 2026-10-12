@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:19:23.718249+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:19:27.849424+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 55, `pending`: 62, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 56, `pending`: 61, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -908,6 +908,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Osmá noc (2021) 1080p CZ Titulky](https://prehraj.to/osma-noc-2021-1080p-cz-titulky-mp4/3a4ea5d9034a28e4) (ID 29914467) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019646+00:00 |
 | [Ostrý holky (2018) 1080p CZ Titulky](https://prehraj.to/ostry-holky-2018-1080p-cz-titulky-mp4/97ceca05861e1bd7) (ID 29909879) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019100+00:00 |
 | [Osvobození (2022) 720p CZ Titulky](https://prehraj.to/osvobozeni-2022-720p-cz-titulky-mp4/2d33eef1d31c41ce) (ID 29978552) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021421+00:00 |
+| [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:27.849390+00:00 |
 | [Other (2025) 1080p CZ Titulky](https://prehraj.to/other-2025-1080p-cz-titulky-mkv/8eb5ce0c2469fbd9) (ID 29923402) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020232+00:00 |
 | [Otřes mozku (2013) SD CZ Titulky](https://prehraj.to/otres-mozku-2013-sd-cz-titulky-avi/94b6105984e420e1) (ID 29664066) | [Sdílej 31070024](https://sdilej.cz/31070024/concussion-vostfr-2013-hdrip-xvid-etrg.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:08:30.019344+00:00 |
 | [Our Girls (2025) 1080p CZ Titulky](https://prehraj.to/our-girls-2025-1080p-cz-titulky-mkv/632484251331b136) (ID 30036296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021781+00:00 |
