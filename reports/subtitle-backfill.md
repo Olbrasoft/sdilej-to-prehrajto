@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:25:13.802828+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:25:17.863557+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 97, `pending`: 19, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 98, `pending`: 18, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1322,6 +1322,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [The Other Side of the Wind (2018) 1080p CZ Titulky](https://prehraj.to/the-other-side-of-the-wind-2018-1080p-cz-titulky-mp4/064978af3d4b292e) (ID 30178487) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.758324+00:00 |
 | [The Party (2017) SD CZ Titulky](https://prehraj.to/the-party-2017-sd-cz-titulky-avi/6b3de1f55a53c012) (ID 29230183) | [Sdílej 26648027](https://sdilej.cz/26648027/the-party-2017-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:33:54.883024+00:00 |
 | [The Phenomenon (2020) 1080p CZ Titulky](https://prehraj.to/the-phenomenon-2020-1080p-cz-titulky-mp4/ee7b751c3eb235a6) (ID 29407497) | [Sdílej 34731975](https://sdilej.cz/34731975/the-phenomenon-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:41:30.896881+00:00 |
+| [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:17.863506+00:00 |
 | [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:14:58.549078+00:00 |
 | [The Real Right Stuff (2020) 1080p CZ Titulky.mp4](https://prehraj.to/the-real-right-stuff-2020-1080p-cz-titulky-mp4/19b92d8636074dd1) (ID 29576943) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.753881+00:00 |
 | [The Rental (2020) 1080p CZ Titulky](https://prehraj.to/the-rental-2020-1080p-cz-titulky-mkv/ae447861aa3528da) (ID 29916859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755378+00:00 |
