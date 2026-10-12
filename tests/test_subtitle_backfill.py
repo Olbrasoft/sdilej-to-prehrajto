@@ -75,6 +75,44 @@ def test_listing_uses_the_same_origin_as_authenticated_login():
     assert targets[0].action.startswith(BASE_URL + "/")
 
 
+def test_listing_recovers_from_temporary_http_error(monkeypatch, capsys):
+    monkeypatch.setattr("sdilej_to_prehrajto.http_recovery.time.sleep", Mock())
+    session = Mock()
+    session.get.side_effect = [Mock(status_code=503, headers={}), Mock(status_code=200, text=listing())]
+    targets, _ = SubtitleTarget(session, interval=0).listing()
+    assert targets[0].video_id == "42"
+    assert session.get.call_count == 2
+    assert "phase=target_listing status=503" in capsys.readouterr().out
+
+
+@pytest.mark.parametrize("timeout", [False, True])
+def test_subtitle_post_is_never_retried(timeout, monkeypatch, capsys):
+    monkeypatch.setattr("sdilej_to_prehrajto.http_recovery.time.sleep", Mock())
+    session = Mock()
+    if timeout:
+        session.post.side_effect = requests.Timeout("PRIVATE_TOKEN")
+    else:
+        session.post.return_value = Mock(status_code=503, headers={})
+    target = parse_listing(listing())[0][0]
+    with pytest.raises((requests.Timeout, TargetUnavailable)):
+        SubtitleTarget(session, interval=0).upload(target, "cs-test.srt", SRT)
+    session.post.assert_called_once()
+    output = capsys.readouterr().out
+    assert "phase=target_subtitle_upload" in output
+    assert "PRIVATE" not in output
+
+
+def test_mutating_language_get_is_not_retried(monkeypatch, capsys):
+    monkeypatch.setattr("sdilej_to_prehrajto.http_recovery.time.sleep", Mock())
+    session = Mock()
+    session.get.return_value = Mock(status_code=503, headers={})
+    target = parse_listing(listing(tracks=track(), count=1))[0][0]
+    with pytest.raises(TargetUnavailable, match="subtitle_language_unconfirmed"):
+        SubtitleTarget(session, interval=0).set_own_czech_language(target.tracks[0], "42")
+    session.get.assert_called_once()
+    assert "phase=target_subtitle_language status=503" in capsys.readouterr().out
+
+
 def test_vtt_conversion_preserves_czech_text_and_timing():
     result = normalize_srt("\ufeffWEBVTT\n\ncue-id\n00:01.000 --> 00:02.500 align:start\nPříliš žluťoučký kůň.\n".encode())
     assert result == normalize_srt(SRT)

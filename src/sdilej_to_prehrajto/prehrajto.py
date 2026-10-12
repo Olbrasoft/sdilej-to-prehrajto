@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 
 from .models import Candidate
+from .http_recovery import request as http_request
 
 
 BASE_URL = "https://prehraj.to"
@@ -43,9 +44,10 @@ def login(
         raise PrehrajtoError("PREHRAJTO_PASSWORD is required")
     client = session or requests.Session()
     client.headers["User-Agent"] = USER_AGENT
-    prime = client.get(BASE_URL + "/", timeout=30)
+    prime = http_request(lambda: client.get(BASE_URL + "/", timeout=30),
+                         phase="target_login_page", retry_safe=True)
     prime.raise_for_status()
-    response = client.post(
+    response = http_request(lambda: client.post(
         BASE_URL + "/?frm=homepageLoginForm-loginForm",
         files={
             "email": (None, email),
@@ -60,9 +62,10 @@ def login(
         },
         allow_redirects=False,
         timeout=30,
-    )
+    ), phase="target_login_submit")
     response.raise_for_status()
-    check = client.get(BASE_URL + "/profil", allow_redirects=False, timeout=30)
+    check = http_request(lambda: client.get(BASE_URL + "/profil", allow_redirects=False, timeout=30),
+                         phase="target_login_verify", retry_safe=True)
     if check.status_code != 200:
         raise PrehrajtoError("Target account login verification failed")
     return client

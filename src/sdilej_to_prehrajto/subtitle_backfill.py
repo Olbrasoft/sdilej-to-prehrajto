@@ -15,6 +15,7 @@ from urllib.parse import quote, urlsplit
 import requests
 
 from .git_state import GitStatePersister
+from .http_recovery import log_failure
 from .prehrajto import login as target_login
 from .sdilej import login as source_login, SdilejError
 from .subtitle_media import extract_original, SubtitleUnavailable
@@ -354,9 +355,17 @@ def main():
                 session.cookies.set(cookie["name"], cookie["value"], domain=cookie["domain"], path=cookie["path"])
     else:
         print("subtitle_login=source", flush=True)
-        source = source_login(os.environ["SDILEJ_EMAIL"], os.environ["SDILEJ_PASSWORD"])
+        try:
+            source = source_login(os.environ["SDILEJ_EMAIL"], os.environ["SDILEJ_PASSWORD"])
+        except requests.RequestException as error:
+            log_failure("source_login", error)
+            raise
         print("subtitle_login=target", flush=True)
-        target = target_login(os.environ["PREHRAJTO_EMAIL"], os.environ["PREHRAJTO_PASSWORD"])
+        try:
+            target = target_login(os.environ["PREHRAJTO_EMAIL"], os.environ["PREHRAJTO_PASSWORD"])
+        except Exception:
+            source.close()
+            raise
     state_path = args.root / args.state
     report_path = args.root / args.report
     persist = GitStatePersister(args.root, (report_path,)) if args.git_persist else None

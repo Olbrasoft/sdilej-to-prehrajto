@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 
 from .subtitle_media import is_czech
 from .prehrajto import BASE_URL as BASE
+from .http_recovery import request as http_request
 
 # Keep the authenticated origin used by login; cookies are not shared between
 # the prehraj.to and prehrajto.cz aliases.
@@ -116,7 +117,10 @@ class SubtitleTarget:
 
     def listing(self, page=1, search="CZ Titulky"):
         self.throttle()
-        response = self.session.get(LISTING, params={PAGE_KEY: page, "searchPhrase": search}, timeout=45)
+        response = http_request(
+            lambda: self.session.get(LISTING, params={PAGE_KEY: page, "searchPhrase": search}, timeout=45),
+            phase="target_listing", retry_safe=True,
+        )
         response.raise_for_status()
         return parse_listing(response.text, page)
 
@@ -142,10 +146,10 @@ class SubtitleTarget:
         if not target.ready or target.has_czech or target.unknown_tracks or not trusted_action(target.action, "uploadSubtitles"):
             raise TargetUnavailable("target_not_safe_to_attach")
         self.throttle()
-        response = self.session.post(target.action, data={"video": target.video_id},
+        response = http_request(lambda: self.session.post(target.action, data={"video": target.video_id},
                                      files={"files[]": (filename, content, "application/x-subrip")},
                                      headers={"X-Requested-With": "XMLHttpRequest", "Accept": "application/json", "Origin": BASE, "Referer": LISTING},
-                                     allow_redirects=False, timeout=60)
+                                     allow_redirects=False, timeout=60), phase="target_subtitle_upload")
         if response.status_code != 200:
             raise TargetUnavailable("subtitle_upload_unconfirmed")
         # A 200 is not success: the caller reconciles the durable intent against
@@ -156,6 +160,9 @@ class SubtitleTarget:
         if not trusted_action(action, "changeSubtitleLanguage", video_id):
             raise TargetUnavailable("subtitle_language_action_missing")
         self.throttle()
-        response = self.session.get(action, headers={"X-Requested-With": "XMLHttpRequest"}, allow_redirects=False, timeout=45)
+        response = http_request(
+            lambda: self.session.get(action, headers={"X-Requested-With": "XMLHttpRequest"}, allow_redirects=False, timeout=45),
+            phase="target_subtitle_language",
+        )
         if response.status_code != 200:
             raise TargetUnavailable("subtitle_language_unconfirmed")

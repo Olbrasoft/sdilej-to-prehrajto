@@ -119,6 +119,16 @@ na cíl. Bezprostřední další běh se zakládá jen po úspěšném uložení
 zbývají právě způsobilé položky nebo nedokončený průchod seznamem. Samotné odklady
 a zpracovávaná videa další běh nezakládají; znovu je najde hodinový start.
 Report uvádí výsledky poslední dávky, zbývající práci a důvod ukončení.
+
+Čtení seznamu videí a čtecí kroky přihlášení na Přehraj.to mají nejvýše tři
+pokusy při výpadku spojení, timeoutu nebo HTTP 408/429/500/502/503/504. Prodlevy
+jsou 5 a 10 sekund; delší `Retry-After` se respektuje až do 120 sekund. Pokud
+server požaduje více, další pokus se v této dávce neprovádí. HTTP 401/403 ani
+chyby TLS se neopakují. Přihlašovací POST, vložení titulků a změna jejich jazyka
+se nikdy automaticky neopakují (změna jazyka používá GET, ale jde o zápis).
+Diagnostika `http_failure` uvádí pevný název fáze, HTTP stav, typ chyby a případné
+opakování; nezapisuje URL, obsah odpovědí, cookies ani přihlašovací údaje.
+
 Celý zdrojový film
 se neukládá na disk, ale extrakce vnitřních titulků může vyžadovat jeho přečtení
 po síti. FFmpeg má pevný časový limit; tajné odkazy ani text titulků se do Gitu
