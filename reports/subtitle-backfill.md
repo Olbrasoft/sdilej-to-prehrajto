@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:25:34.983834+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:25:38.998019+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 102, `pending`: 14, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 103, `pending`: 13, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1095,6 +1095,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Room for Rent (2019) 1080p CZ Titulky](https://prehraj.to/room-for-rent-2019-1080p-cz-titulky-mp4/a0264f33b207020a) (ID 29719978) | [Sdílej 34773611](https://sdilej.cz/34773611/room-for-rent-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:53:18.176639+00:00 |
 | [Rooney (2022) 720p CZ Titulky](https://prehraj.to/rooney-2022-720p-cz-titulky-mp4/fe1bc46caa543d17) (ID 29216763) | [Sdílej 34726946](https://sdilej.cz/34726946/rooney-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:37:07.052005+00:00 |
 | [Rose (2026) 1080p CZ Titulky](https://prehraj.to/rose-2026-1080p-cz-titulky-mkv/048cc23bede989f4) (ID 29417398) | [Sdílej 35000223](https://sdilej.cz/35000223/rose-2026-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:46:19.980111+00:00 |
+| [Roseovi (2025) 4K CZ Titulky](https://prehraj.to/roseovi-2025-4k-cz-titulky-mkv/945ebfb7bb29bc30) (ID 29735982) | [Sdílej 32152538](https://sdilej.cz/32152538/the.roses-2025-cz-sktit-v-obraze-2160p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:38.997972+00:00 |
 | [Run the Tide (2016) 1080p CZ Titulky](https://prehraj.to/run-the-tide-2016-1080p-cz-titulky-mkv/68ea03df9c2c23ba) (ID 29610986) | [Sdílej 6915501](https://sdilej.cz/6915501/run-the-tide.2016.web-dl.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:00.752807+00:00 |
 | [Rusalka: Ozero myortvykh (2018) SD CZ Titulky](https://prehraj.to/rusalka-ozero-myortvykh-2018-sd-cz-titulky-avi/2ae1661a87a1228a) (ID 29938406) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756089+00:00 |
 | [Ruská archa (2002) 1080p CZ Titulky](https://prehraj.to/ruska-archa-2002-1080p-cz-titulky-avi/eda8a5f642b0b600) (ID 29364840) | [Sdílej 28504418](https://sdilej.cz/28504418/ruska-archa-2002-----ru.-cz.-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T08:46:10.387879+00:00 |
