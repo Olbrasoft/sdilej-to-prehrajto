@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:25:26.226851+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:25:30.487224+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 100, `pending`: 16, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 101, `pending`: 15, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1465,6 +1465,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [War 2 (2025) 1080p CZ Titulky](https://prehraj.to/war-2-2025-1080p-cz-titulky-mp4/fb6349c2e6ccb9d0) (ID 29908677) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.754860+00:00 |
 | [War of the Worlds: Annihilation (2021) SD CZ Titulky](https://prehraj.to/war-of-the-worlds-annihilation-2021-sd-cz-titulky-mp4/ec5784b1d618ec26) (ID 29709661) | [Sdílej 34909877](https://sdilej.cz/34909877/war-of-the-worlds-annihilation-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:45:12.196514+00:00 |
 | [WarHunt (2022) 1080p CZ Titulky](https://prehraj.to/warhunt-2022-1080p-cz-titulky-avi/98b2a36bc1f51031) (ID 29908392) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.754824+00:00 |
+| [Warning (2021) 1080p CZ Titulky](https://prehraj.to/warning-2021-1080p-cz-titulky-mkv/2195cc3c11f6f1a8) (ID 29734447) | [Sdílej 18976907](https://sdilej.cz/18976907/warning.2021.1080p.bluray.h264.aac-rarbg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:30.487173+00:00 |
 | [Waterloo (1970) 1080p CZ Titulky](https://prehraj.to/waterloo-1970-1080p-cz-titulky-mkv/6796db04770430db) (ID 29505250) | [Sdílej 33237576](https://sdilej.cz/33237576/waterloo.1970.bdrip.1080p.multi.hdlight.x264.ac3.5.1.ac3.2.0-bzh29.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:58.011692+00:00 |
 | [We Bury the Dead (2024) 1080p CZ Titulky](https://prehraj.to/we-bury-the-dead-2024-1080p-cz-titulky-mp4/7f1149d431f002df) (ID 29937550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756066+00:00 |
 | [Welcome to the Show (2021) 720p CZ Titulky](https://prehraj.to/welcome-to-the-show-2021-720p-cz-titulky-mp4/25cffb75227a4407) (ID 29631148) | [Sdílej 34772433](https://sdilej.cz/34772433/welcome-to-the-show-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:11.411562+00:00 |
