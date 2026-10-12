@@ -205314,17 +205314,20 @@
       "attempts": []
     },
     "4066": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34642068",
+          "target_video_id": "30205557",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-12T18:52:05.617719+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34642068",
         "display_name": "Opravna malých motorů (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-12T17:58:41.863656+00:00"
-      },
-      "claim": {
-        "worker_id": "9e8b0b5b42b143faa8cd34852c060401-shard-0",
-        "claimed_at": "2026-10-12T18:37:29.024194+00:00",
-        "lease_expires_at": "2026-10-13T00:37:29.024194+00:00",
-        "run_id": "38252530826"
       },
       "previous_target_id": "30205557",
       "prepared": {
@@ -364493,5 +364496,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-12T18:37:52.432355+00:00"
+  "updated_at": "2026-10-12T18:52:05.617739+00:00"
 }
