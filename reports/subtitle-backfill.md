@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:25:55.721946+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:25:59.914879+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 107, `pending`: 9, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 108, `pending`: 8, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1169,6 +1169,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:33.839584+00:00 |
 | [Snadný prachy (2010) SD CZ Titulky](https://prehraj.to/snadny-prachy-2010-sd-cz-titulky-mp4/4169c43a8e39c051) (ID 30127797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.757778+00:00 |
 | [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:04.780099+00:00 |
+| [Sneekweek (2016) 1080p CZ Titulky](https://prehraj.to/sneekweek-2016-1080p-cz-titulky-mkv/7f737c1ee63dab54) (ID 29736959) | [Sdílej 31436654](https://sdilej.cz/31436654/sneekweek-2016-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:59.914832+00:00 |
 | [Sniper: Assassin's End (2020) SD CZ Titulky](https://prehraj.to/sniper-assassin-s-end-2020-sd-cz-titulky-avi/1c0c605850ba5b9b) (ID 29925831) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755666+00:00 |
 | [Sniper: Finální rána (2017) 720p CZ Titulky](https://prehraj.to/sniper-finalni-rana-2017-720p-cz-titulky-mp4/53f72e836969de0d) (ID 29914261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755182+00:00 |
 | [Snow Falls (2023) SD CZ Titulky](https://prehraj.to/snow-falls-2023-sd-cz-titulky-mkv/67006585d9205c9a) (ID 29734733) | [Sdílej 25293770](https://sdilej.cz/25293770/snow-falls-horor-usa-2023-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:43.191187+00:00 |
