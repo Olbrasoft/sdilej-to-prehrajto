@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:15:11.850608+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:15:16.017051+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 10, `pending`: 109, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 11, `pending`: 108, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1200,6 +1200,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [The Bombing of Wall Street (2018) SD CZ Titulky](https://prehraj.to/the-bombing-of-wall-street-2018-sd-cz-titulky-mp4/c5a1153aa4e4f050) (ID 29562079) | [Sdílej 34736187](https://sdilej.cz/34736187/the-bombing-of-wall-street-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:10:28.589614+00:00 |
 | [The Canal (2014) 720p CZ Titulky](https://prehraj.to/the-canal-2014-720p-cz-titulky-avi/57082c185b1c03a7) (ID 29912355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019406+00:00 |
 | [The Canyons (2013) 720p CZ Titulky](https://prehraj.to/the-canyons-2013-720p-cz-titulky-mkv/7d16df0f32ed1f6b) (ID 29089664) | [Sdílej 16550507](https://sdilej.cz/16550507/the-canyons-2013-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:55:56.851218+00:00 |
+| [The Captives (2024) 1080p CZ Titulky](https://prehraj.to/the-captives-2024-1080p-cz-titulky-mkv/533a444dc80e40dd) (ID 29218606) | [Sdílej 29310288](https://sdilej.cz/29310288/the.captives.2024.1080p.x265-slov.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:16.017016+00:00 |
 | [The Car: Road to Revenge (2019) SD CZ Titulky](https://prehraj.to/the-car-road-to-revenge-2019-sd-cz-titulky-avi/ddf9680e4a06a238) (ID 29914720) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019690+00:00 |
 | [The Cellar (2022) 1080p CZ Titulky](https://prehraj.to/the-cellar-2022-1080p-cz-titulky-mp4/304d4811bcce2ddd) (ID 29928653) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020596+00:00 |
 | [The Christmas Setup (2020) SD CZ Titulky](https://prehraj.to/the-christmas-setup-2020-sd-cz-titulky-mkv/b5131dad23641223) (ID 30095812) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022334+00:00 |
