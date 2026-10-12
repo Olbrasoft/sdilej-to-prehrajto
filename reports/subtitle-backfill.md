@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:02:50.548268+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:02:53.832783+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 133, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 7, `target_processing`: 5, `target_unavailable`: 8
+Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 132, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 8, `target_processing`: 5, `target_unavailable`: 8
 
 ## Poslední dávka
 
@@ -762,6 +762,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:21:46.784647+00:00 |
 | [Just Before Dawn (1981) SD CZ Titulky](https://prehraj.to/just-before-dawn-1981-sd-cz-titulky-avi/0ffe576723da5bce) (ID 29612468) | [Sdílej 6227474](https://sdilej.cz/6227474/just-before-dawn-horor.thriller-1981-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:03.970230+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:37:44.390420+00:00 |
+| [Justice Society: World War II (2021) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29269710) | [Sdílej 16889647](https://sdilej.cz/16889647/justice.society.world.war.ii.2021.1080p.webrip.dd5.1.x264.cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-12T18:02:53.832700+00:00 |
 | [Já a můj terapeut (2024) 720p CZ Titulky](https://prehraj.to/ja-a-muj-terapeut-2024-720p-cz-titulky-mp4/44c8713a06a38bee) (ID 29616776) | [Sdílej 34724968](https://sdilej.cz/34724968/ja-a-muj-terapeut-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:36:50.074219+00:00 |
 | [Já, Daniel Blake (2016) 1080p CZ Titulky](https://prehraj.to/ja-daniel-blake-2016-1080p-cz-titulky-mkv/c8b8e8b61d1b517e) (ID 29899453) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:02:28.680608+00:00 |
 | [Kadosh (1999) SD CZ Titulky](https://prehraj.to/kadosh-1999-sd-cz-titulky-mp4/bbdd665d9affcd2f) (ID 29606377) | [Sdílej 34789327](https://sdilej.cz/34789327/kosh.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:24:09.530555+00:00 |
