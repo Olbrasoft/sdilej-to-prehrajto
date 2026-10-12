@@ -6,14 +6,18 @@ on:
   workflow_dispatch:
     inputs:
       max_pages:
-        description: "Listing pages to inventory, oldest first"
-        default: "20"
+        description: "Unfiltered pages for missing detail URLs only (0 disables indexing)"
+        default: "2"
       max_sources:
         description: "Original sources to inspect (serially)"
         default: "120"
       limit:
         description: "Maximum subtitle attachments in one run"
         default: "30"
+      continue_backfill:
+        description: "Queue another batch when work remains (disable for a bounded smoke test)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -53,7 +57,7 @@ jobs:
           SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
           PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
           PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
-          MAX_PAGES: ${{ inputs.max_pages || '20' }}
+          MAX_PAGES: ${{ inputs.max_pages || '2' }}
           MAX_SOURCES: ${{ inputs.max_sources || '120' }}
           SUBTITLE_LIMIT: ${{ inputs.limit || '30' }}
         run: |
@@ -70,11 +74,11 @@ jobs:
             state/subtitle-backfill.json
           if-no-files-found: ignore
       - name: Queue next serial subtitle batch
-        if: success() && steps.backfill.outputs.continue_backfill == 'true'
+        if: success() && steps.backfill.outputs.continue_backfill == 'true' && (github.event_name != 'workflow_dispatch' || inputs.continue_backfill)
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
-          MAX_PAGES: ${{ inputs.max_pages || '20' }}
+          MAX_PAGES: ${{ inputs.max_pages || '2' }}
           MAX_SOURCES: ${{ inputs.max_sources || '120' }}
           SUBTITLE_LIMIT: ${{ inputs.limit || '30' }}
         run: |

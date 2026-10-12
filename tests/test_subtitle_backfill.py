@@ -258,16 +258,19 @@ def test_attachment_limit_counts_unconfirmed_posts(tmp_path, monkeypatch):
     assert attempts == ["42"]
 
 
-def test_inventory_cursor_advances_and_revisits_processing(tmp_path, monkeypatch):
+def test_inventory_recovers_links_without_search_or_overwriting_processing(tmp_path, monkeypatch):
     worker, row, target = make_worker(tmp_path, monkeypatch)
-    pending = Target("42", "Film CZ Titulky", False)
-    ready = Target("42", "Film CZ Titulky", True)
-    target.listing.side_effect = [([pending], 2), ([pending], 2)]
-    worker.inventory(1)
-    assert worker.state["next_page"] == 1 and row["status"] == "target_processing"
-    target.listing.side_effect = [([ready], 2), ([ready], 2)]
-    worker.inventory(1)
-    assert worker.state["next_page"] == 0 and row["status"] == "pending"
+    row["status"] = "target_processing"
+    pending = Target("42", "Film CZ Titulky", False, detail_url="https://prehraj.to/film/1234567890abcdef")
+    target.listing.return_value = ([pending], 2)
+    worker.inventory(2)
+    target.listing.assert_called_once_with(1)
+    assert worker.state["next_page"] == 0 and row["status"] == "target_processing"
+    assert row["detail_url"] == pending.detail_url
+    assert worker_module.ready_for_source_check(row, worker_module.now().isoformat())
+    target.listing.reset_mock()
+    worker.inventory(2)
+    target.listing.assert_not_called()
 
 
 def test_report_has_actionable_missing_list_and_separate_temporary_errors():
@@ -303,7 +306,7 @@ def test_batch_checks_120_sources_serially_and_continues(tmp_path, monkeypatch):
     assert "Kontrol: 120" in worker.report_path.read_text()
 
 
-@pytest.mark.parametrize("pages,dry_run,continuation", [(0, False, False), (3, False, True), (3, True, False)])
+@pytest.mark.parametrize("pages,dry_run,continuation", [(0, False, False), (3, False, False), (3, True, False)])
 def test_continuation_excludes_deferred_and_inventory_only_rows(tmp_path, monkeypatch, pages, dry_run, continuation):
     worker, row, target = make_worker(tmp_path, monkeypatch)
     worker.dry_run = dry_run
@@ -378,3 +381,54 @@ def test_30_attachment_limit_includes_ambiguous_posts(tmp_path, monkeypatch):
     assert result["attached_verified"] == 0
     assert result["remaining_due"] == 2
     assert result["stop_reason"] == "attachment_limit"
+
+
+def test_local_queue_seeds_details_without_remote_inventory(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    url = "https://prehraj.to/film/1234567890abcdef"
+    (tmp_path / "plans/subtitle-followup.jsonl").write_text(json.dumps({"cr_film_id": 1, "target_video_id": "42", "display_name": "Film CZ Titulky", "detail_url": url}))
+    worker.inventory(2)
+    target.listing.assert_not_called()
+    assert row["detail_url"] == url
+    assert row["source"]["source_id"] == "123"
+    assert worker.state["inventory_mode"] == "local-detail-v1"
+
+
+def test_missing_link_index_advances_and_failure_does_not_abort_queue(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    worker.state["detail_index_next_page"] = 5
+    target.listing.return_value = ([], 100)
+    worker.inventory(2)
+    assert [call.args for call in target.listing.call_args_list] == [(1,), (5,)]
+    assert worker.state["detail_index_next_page"] == 6
+    target.listing.side_effect = requests.HTTPError("secret")
+    worker.inventory(2)
+    assert row["status"] == "pending" and row["source"]
+
+
+def test_direct_reconciliation_requires_own_new_id_content_and_czech(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    row["intent"] = {"filename": "cs-42-hash.srt", "before_ids": ["7"], "sha256": "expected"}
+    target.refresh.return_value.detail_verified = True
+    target.refresh.return_value.tracks = [{"id": "8", "czech": True, "url": "PRIVATE"}]
+    target.verify_content.return_value = False
+    assert not worker.reconcile(row)
+    target.verify_content.return_value = True
+    target.refresh.return_value.tracks[0]["czech"] = False
+    assert not worker.reconcile(row)
+    target.refresh.return_value.tracks[0]["czech"] = True
+    assert worker.reconcile(row)
+    worker.save()
+    assert row["intent"]["subtitle_id"] == "8"
+    assert "PRIVATE" not in worker.state_path.read_text()
+    target.upload.assert_not_called()
+    target.set_own_czech_language.assert_not_called()
+
+
+def test_direct_reconciliation_rejects_preexisting_track(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    row["intent"] = {"filename": "cs-42-hash.srt", "before_ids": ["7"], "sha256": "expected"}
+    target.refresh.return_value.detail_verified = True
+    target.refresh.return_value.tracks = [{"id": "7", "czech": True}]
+    assert not worker.reconcile(row)
+    target.verify_content.assert_not_called()

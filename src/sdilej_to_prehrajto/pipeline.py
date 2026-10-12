@@ -409,15 +409,19 @@ class SyncPipeline:
             return None
 
     def _finish_success(
-        self, film: Film, candidate: Candidate, row: dict, upload: dict
+        self, film: Film, candidate: Candidate, row: dict, upload: dict, target_session=None
     ) -> None:
         with self._completion_lock:
+            detail_urls = getattr(target_session, "_prehrajto_detail_urls", {})
+            if isinstance(detail_urls, dict) and detail_urls.get(upload["target_video_id"]):
+                upload["detail_url"] = detail_urls[upload["target_video_id"]]
             if row["needs_czech_subtitles"]:
                 self.subtitle_queue.enqueue(
                     {
                         "cr_film_id": film.cr_film_id,
                         "target_video_id": upload["target_video_id"],
                         "display_name": row["display_name"],
+                        "detail_url": upload.get("detail_url", ""),
                         "status": "pending",
                         "queued_at": now_iso(),
                         "source_id": candidate.source_id,
@@ -468,7 +472,7 @@ class SyncPipeline:
                         size_bytes=int(candidate.size_bytes or 0),
                         completion_evidence="reconciled_existing_film",
                     )
-                    self._finish_success(film, candidate, row, upload)
+                    self._finish_success(film, candidate, row, upload, target_session)
                 else:
                     self.state.record_target_processing(
                         film.cr_film_id,
@@ -500,7 +504,7 @@ class SyncPipeline:
                         size_bytes=int(prepared["size_bytes"]),
                         completion_evidence="reconciled_statistics_and_uploaded_listing",
                     )
-                    self._finish_success(film, candidate, row, upload)
+                    self._finish_success(film, candidate, row, upload, target_session)
                     continue
                 present = self._pending_target_present(
                     target_session, film.cr_film_id, candidate.source_id,
@@ -598,7 +602,7 @@ class SyncPipeline:
                         size_bytes=int(prepared.get("size_bytes") or candidate.size_bytes or 0),
                         completion_evidence="reconciled_after_relay_error",
                     )
-                    self._finish_success(film, candidate, row, upload)
+                    self._finish_success(film, candidate, row, upload, target_session)
                     continue
                 present = self._pending_target_present(
                     target_session, film.cr_film_id, candidate.source_id,
@@ -634,7 +638,7 @@ class SyncPipeline:
                 completion_evidence="relay_completed",
             )
             if result.completed:
-                self._finish_success(film, candidate, row, upload)
+                self._finish_success(film, candidate, row, upload, target_session)
             else:
                 self.state.record_target_processing(
                     film.cr_film_id,

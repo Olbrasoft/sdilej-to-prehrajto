@@ -7,10 +7,11 @@ from datetime import datetime, timedelta, timezone
 import hashlib
 import json
 import os
+import re
 from pathlib import Path
 import tempfile
 import time
-from urllib.parse import quote, urlsplit
+from urllib.parse import urlsplit
 
 import requests
 
@@ -19,7 +20,7 @@ from .http_recovery import log_failure
 from .prehrajto import login as target_login
 from .sdilej import login as source_login, SdilejError
 from .subtitle_media import extract_original, SubtitleUnavailable
-from .subtitle_target import SubtitleTarget, TargetUnavailable
+from .subtitle_target import SubtitleTarget, TargetUnavailable, trusted_detail, LISTING
 
 
 def now():
@@ -101,11 +102,12 @@ MANUAL_REASONS = {
     "subtitle_empty": "Zdrojová titulková stopa je prázdná.",
     "subtitle_empty_cue": "Zdrojové titulky obsahují prázdný úsek.",
     "subtitle_too_large": "Titulky přesahují bezpečný limit velikosti.",
+    "target_detail_url_missing": "Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu.",
 }
 
 INVENTORY_ONLY_STATUSES = {
     "attached_verified", "already_has_czech", "source_provenance_missing",
-    "existing_tracks_uncertain", "target_processing",
+    "existing_tracks_uncertain",
 }
 
 
@@ -133,7 +135,7 @@ def report_markdown(state: dict) -> str:
         result = ["| Film | Původní zdroj | Důvod | Poslední ověření (UTC) |", "| --- | --- | --- | --- |"]
         for row in sorted(selected, key=lambda value: value.get("title", "")):
             title = row.get("title", row["target_video_id"]).replace("|", "\\|").replace("\n", " ").replace("[", "(").replace("]", ")")
-            target = row.get("detail_url") or "https://prehrajto.cz/profil/nahrana-videa?searchPhrase=" + quote(row.get("title", ""))
+            target = row.get("detail_url") or LISTING
             source = row.get("source", {})
             source_link = f"[Sdílej {source['source_id']}]({source['source_url']})" if source.get("source_url") else "Nedoložen"
             reason = MANUAL_REASONS.get(row.get("status"), row.get("status", "pending"))
@@ -193,32 +195,74 @@ class Backfill:
         return row
 
     def inventory(self, max_pages):
-        # Start with the oldest pages: most new uploads are still processing.
-        _, last = self.target.listing()
-        page = min(self.state.get("next_page") or last, last)
-        seen = set()
-        for _ in range(max_pages):
+        # The local ledger determines work. The remote listing is only an
+        # optional, bounded recovery index for missing public detail links.
+        uploads = [row.get("upload", {}) for row in json.loads((self.root / "state/sync.json").read_text())["films"].values()]
+        queued = list(jsonl(self.root / "plans/subtitle-followup.jsonl"))
+        candidates = [row for row in uploads if row.get("needs_czech_subtitles") or re.search(r"CZ\s+Titulky", row.get("display_name", ""), re.I)] + queued
+        for candidate in candidates:
+            video_id = str(candidate.get("target_video_id", ""))
+            if not video_id.isdigit():
+                continue
+            row = self.state["videos"].setdefault(video_id, {"target_video_id": video_id, "status": "pending"})
+            if candidate.get("display_name"):
+                row["title"] = candidate["display_name"]
+            if trusted_detail(candidate.get("detail_url", "")):
+                row["detail_url"] = candidate["detail_url"]
+        for video_id, row in self.state["videos"].items():
+            if video_id in self.sources:
+                row["source"] = self.sources[video_id]
+                if row.get("status") == "source_provenance_missing":
+                    row.update(status="pending", retry_after="")
+            if self.state.get("inventory_mode") != "local-detail-v1" and row.get("status") == "existing_tracks_uncertain":
+                row.update(status="pending", retry_after="")
+            if not row.get("source") and not row.get("intent"):
+                self.status(row, "source_provenance_missing", 24)
+        self.state.update(inventory_mode="local-detail-v1", next_page=0)
+        missing = {key for key, row in self.state["videos"].items()
+                   if not trusted_detail(row.get("detail_url", "")) and (row.get("source") or row.get("intent"))}
+        self.state["missing_detail_urls"] = len(missing)
+        for index in range(max_pages if missing else 0):
             if self.deadline is not None and time.monotonic() >= self.deadline:
                 break
-            targets, _ = self.target.listing(page)
-            signature = tuple(target.video_id for target in targets)
-            if signature in seen:
-                raise TargetUnavailable("target_inventory_pagination_repeated")
-            seen.add(signature)
-            for target in targets:
-                self.inspect(target)
-            self.state["next_page"] = page - 1
-            self.save(publish=False)
-            print(f"subtitle_inventory_page={page} rows={len(targets)}", flush=True)
-            if page == 1:
-                self.state["last_full_sweep_at"] = now().isoformat()
+            page = (self.state.get("detail_index_next_page", 1) if max_pages == 1
+                    else 1 if index == 0 else self.state.get("detail_index_next_page", 2))
+            try:
+                targets, last = self.target.listing(page)
+            except (TargetUnavailable, requests.RequestException):
+                print("subtitle_detail_index=unavailable continuing_local_queue=true", flush=True)
                 break
-            page -= 1
+            for target in targets:
+                if target.video_id in missing and trusted_detail(target.detail_url):
+                    row = self.state["videos"][target.video_id]
+                    row["detail_url"] = target.detail_url
+                    if row.get("status") == "target_detail_url_missing":
+                        row.update(status="pending", retry_after="")
+                    missing.discard(target.video_id)
+            if index or max_pages == 1:
+                self.state["detail_index_next_page"] = page + 1 if page < last else 2
+            print(f"subtitle_detail_index_page={page} missing={len(missing)}", flush=True)
+            if not missing:
+                break
+        self.state["missing_detail_urls"] = len(missing)
         self.save()
 
+    def refresh(self, row):
+        return self.target.refresh(row["target_video_id"], row.get("title", ""), row.get("detail_url", ""))
+
     def reconcile(self, row):
-        target = self.target.refresh(row["target_video_id"], row["title"])
+        target = self.refresh(row)
         intent = row["intent"]
+        if target.detail_verified:
+            own = [track for track in target.tracks if track["id"] not in intent["before_ids"]
+                   and (not intent.get("subtitle_id") or track["id"] == intent["subtitle_id"])
+                   and self.target.verify_content(track, intent["sha256"])]
+            if len(own) != 1 or not own[0]["czech"]:
+                self.status(row, "upload_unconfirmed", 1)
+                return False
+            intent.update(subtitle_id=own[0]["id"], language_confirmed=True)
+            self.status(row, "attached_verified", 24)
+            return True
         stem = Path(intent["filename"]).stem
         own = [track for track in target.tracks if track["id"] not in intent["before_ids"]
                and (stem in track["name"] or track["id"] == intent.get("subtitle_id"))]
@@ -238,7 +282,7 @@ class Backfill:
             self.target.set_own_czech_language(track, target.video_id)
             # Read again after the change. The filename itself proves Czech
             # provenance; the selector verifies the site's language assignment.
-            checked = self.target.refresh(target.video_id, row["title"])
+            checked = self.refresh(row)
             found = next((item for item in checked.tracks if item["id"] == track["id"]), None)
             if not found or found["processing"]:
                 self.status(row, "upload_unconfirmed", 1)
@@ -250,7 +294,7 @@ class Backfill:
     def process(self, row):
         if row.get("intent"):
             return self.reconcile(row)
-        target = self.target.refresh(row["target_video_id"], row["title"])
+        target = self.refresh(row)
         self.inspect(target)
         if not target.ready or target.has_czech or target.unknown_tracks or not row.get("source"):
             return False
@@ -262,7 +306,7 @@ class Backfill:
             self.status(row, "source_subtitle_available")
             return False
         # Extraction may take minutes; check processing/existing captions again.
-        target = self.target.refresh(target.video_id, row["title"])
+        target = self.refresh(row)
         self.inspect(target)
         if not target.ready or target.has_czech or target.unknown_tracks:
             return False
@@ -314,14 +358,15 @@ class Backfill:
                 self.status(row, "source_unavailable", 6)
             except (TargetUnavailable, requests.RequestException) as error:
                 # Do not log exception text; it may include signed media URLs.
-                self.status(row, "upload_unconfirmed" if row.get("intent") else "target_unavailable" if isinstance(error, TargetUnavailable) else "source_unavailable", 1)
+                reason = "target_detail_url_missing" if isinstance(error, TargetUnavailable) and str(error) == "target_detail_url_missing" else "target_unavailable" if isinstance(error, TargetUnavailable) else "source_unavailable"
+                self.status(row, "upload_unconfirmed" if row.get("intent") else reason, 1)
             submitted += int(not had_intent and bool(row.get("intent")))
             self.save()
         remaining_due = sum(ready_for_source_check(row, now().isoformat()) for row in self.state["videos"].values())
         summary = {"inspected_sources": attempted, "attachments_submitted": submitted,
                    "attached_verified": attached, "remaining_due": remaining_due,
                    "stop_reason": stop_reason, "elapsed_seconds": round(time.monotonic() - started),
-                   "continue_backfill": not self.dry_run and (remaining_due > 0 or self.state.get("next_page", 0) > 0)}
+                   "continue_backfill": not self.dry_run and remaining_due > 0}
         self.state["last_batch"] = summary
         self.save()
         print(json.dumps({**summary, "statuses": dict(Counter(row.get("status") for row in self.state["videos"].values()))}), flush=True)
@@ -333,15 +378,15 @@ def main():
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--state", type=Path, default=Path("state/subtitle-backfill.json"))
     parser.add_argument("--report", type=Path, default=Path("reports/subtitle-backfill.md"))
-    parser.add_argument("--max-pages", type=int, default=20)
+    parser.add_argument("--max-pages", type=int, default=2, help="Unfiltered pages to recover missing detail URLs; 0 disables indexing")
     parser.add_argument("--max-sources", type=int, default=120)
     parser.add_argument("--limit", type=int, default=30)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--git-persist", action="store_true")
     parser.add_argument("--browser-state", type=Path, help="Local diagnostic only; never saved to reports")
     args = parser.parse_args()
-    if min(args.max_pages, args.max_sources, args.limit) < 1:
-        parser.error("Limits must be positive")
+    if args.max_pages < 0 or min(args.max_sources, args.limit) < 1:
+        parser.error("Source and attachment limits must be positive; page limit must be nonnegative")
     if args.dry_run and args.git_persist:
         parser.error("Dry-run reports must not replace production state")
     if args.browser_state and not args.dry_run:

@@ -90,9 +90,13 @@ proměnné prostředí jako v GitHub Secrets.
 Workflow `backfill-subtitles` má hodinový start a při zbývající práci automaticky
 navazuje další dávkou, vždy pouze v jednom workeru.
 Nezastavuje nahrávání filmů a nemění jeho limit jednoho přenosu.
-Po dávkách prochází stránky `CZ Titulky` od nejstarších, aby zpracovávaná
-videa neblokovala dokončená. Kontroluje i položky mimo původní titulkovou frontu;
-bez doložené vazby na původní zdroj je ale automaticky neupravuje.
+Práci vybírá z lokální evidence uploadů, titulkové fronty a předchozích kontrol.
+Nepoužívá hledání názvů ani filtr `searchPhrase` na Přehraj.to. Konkrétní video
+ověřuje přes uložený přímý odkaz a přesné ID v konfiguraci přehrávače.
+Nové uploady ukládají odkaz již z odpovědí, které uploader běžně načítá.
+Jen pro chybějící odkazy lze postupně projít omezený počet nefiltrovaných stránek;
+výpadek tohoto pomocného indexu nezablokuje práci se známými odkazy.
+Bez doložené vazby na původní zdroj se video automaticky neupravuje.
 
 - Přehled k ručnímu doplnění: [reports/subtitle-backfill.md](reports/subtitle-backfill.md).
 - Strojový stav a kurzor pro další běh: `state/subtitle-backfill.json`.
@@ -109,18 +113,21 @@ bez doložené vazby na původní zdroj je ale automaticky neupravuje.
   sedm dní; dočasné chyby mají kratší interval a vlastní oddíl.
 - Před vložením se znovu ověří přesné ID videa a do Gitu uloží záměr včetně
   hashe a jedinečného názvu SRT. Nejasná odpověď serveru vede pouze k ověřování,
-  nikdy k druhému POST. Úspěch vyžaduje novou odpovídající stopu v seznamu.
+  nikdy k druhému POST. Úspěch vyžaduje novou českou stopu se stejným kontrolním
+  součtem normalizovaného obsahu jako odeslané SRT, ověřenou v detailu téhož ID.
+  Existující stopy se nemažou, nepřepisují ani se jim nemění jazyk.
 
-První běh lze spustit ručně; výchozí dávka prohlédne 20 stránek a nejvýše
+První běh lze spustit ručně; výchozí dávka prohlédne nejvýše dvě nefiltrované
+stránky, pouze pokud chybí přímé odkazy (`--max-pages 0` index zcela vypne), a nejvýše
 120 zdrojů, vloží nejvýše 30 titulkových souborů **postupně**. Pracovní rozpočet
 dávky je 35 minut včetně inventury; extrakce respektuje zbývající čas. Mezi
 kontrolami zdrojů je dvousekundová prodleva a zůstává omezení četnosti požadavků
 na cíl. Bezprostřední další běh se zakládá jen po úspěšném uložení stavu, pokud
-zbývají právě způsobilé položky nebo nedokončený průchod seznamem. Samotné odklady
+zbývají právě způsobilé položky v lokální frontě. Samotné odklady
 a zpracovávaná videa další běh nezakládají; znovu je najde hodinový start.
 Report uvádí výsledky poslední dávky, zbývající práci a důvod ukončení.
 
-Čtení seznamu videí a čtecí kroky přihlášení na Přehraj.to mají nejvýše tři
+Čtení detailů, pomocného seznamu a čtecí kroky přihlášení na Přehraj.to mají nejvýše tři
 pokusy při výpadku spojení, timeoutu nebo HTTP 408/429/500/502/503/504. Prodlevy
 jsou 5 a 10 sekund; delší `Retry-After` se respektuje až do 120 sekund. Pokud
 server požaduje více, další pokus se v této dávce neprovádí. HTTP 401/403 ani

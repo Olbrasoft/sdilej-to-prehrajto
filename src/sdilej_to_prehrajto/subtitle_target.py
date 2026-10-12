@@ -3,12 +3,14 @@ from __future__ import annotations
 
 import re
 import time
+import json
+import hashlib
 from dataclasses import dataclass, field
 from urllib.parse import parse_qs, urljoin, urlsplit
 
 from bs4 import BeautifulSoup
 
-from .subtitle_media import is_czech
+from .subtitle_media import is_czech, normalize_srt, MAX_SUBTITLE_BYTES, SubtitleUnavailable
 from .prehrajto import BASE_URL as BASE
 from .http_recovery import request as http_request
 
@@ -32,6 +34,7 @@ class Target:
     page: int = 1
     detail_url: str = ""
     unknown_tracks: bool = False
+    detail_verified: bool = False
 
     @property
     def has_czech(self):
@@ -105,6 +108,79 @@ def parse_listing(html: str, page: int = 1) -> tuple[list[Target], int]:
     return targets, last_page
 
 
+def trusted_detail(url: str) -> bool:
+    try:
+        parsed = urlsplit(url)
+        port = parsed.port
+    except ValueError:
+        return False
+    return (parsed.scheme == "https" and parsed.hostname in {"prehraj.to", "prehrajto.cz"}
+            and not parsed.username and not parsed.password and port in {None, 443}
+            and not parsed.query and not parsed.fragment
+            and bool(re.fullmatch(r"/[^/?]+/[a-f0-9]{12,32}", parsed.path)))
+
+
+def trusted_track(url: str) -> bool:
+    try:
+        parsed = urlsplit(url)
+        port = parsed.port
+    except ValueError:
+        return False
+    return (parsed.scheme == "https" and bool(parsed.hostname)
+            and parsed.hostname.endswith(".premiumcdn.net")
+            and not parsed.username and not parsed.password and port in {None, 443}
+            and parsed.path.endswith(".vtt"))
+
+
+def parse_detail(html: str, video_id: str, title: str, url: str) -> Target:
+    """Read the observed inline player config, never execute JavaScript."""
+    scripts = "\n".join(node.get_text() for node in BeautifulSoup(html, "html.parser").select("script:not([src])"))
+    ids = set(re.findall(r"['\"]videoId['\"]\s*:\s*(\d+)", scripts))
+    if ids != {video_id}:
+        raise TargetUnavailable("target_detail_identity_unverified")
+    arrays = re.findall(r"var\s+tracks\s*=\s*\[([\s\S]*?)\]\s*;", scripts)
+    # Two players can expose the same tracks. Only the video.js config has
+    # explicit srclang; JWPlayer's display label is not language evidence.
+    tracks, recognized, declared_ids = [], False, set()
+    for array in arrays:
+        if not array.strip():
+            recognized = True
+            continue
+        if not re.search(r"\bsrc\s*:", array):
+            labels = re.findall(r'label\s*:\s*"(?:[^"\\]|\\.)*? - (\d+) - ', array)
+            if not labels or not re.search(r"\bfile\s*:", array):
+                raise TargetUnavailable("target_detail_tracks_unrecognized")
+            declared_ids.update(labels)
+            continue
+        blocks = re.findall(r"\{([^{}]*)\}", array)
+        if re.sub(r"\{[^{}]*\}|[\s,]", "", array) or not blocks:
+            raise TargetUnavailable("target_detail_tracks_unrecognized")
+        parsed_tracks = []
+        for block in blocks:
+            try:
+                props = {key: json.loads(value) for key, value in re.findall(
+                    r'\b(src|srclang|label|kind)\s*:\s*("(?:\\.|[^"\\])*")', block)}
+            except ValueError:
+                raise TargetUnavailable("target_detail_tracks_unrecognized") from None
+            match = re.match(r"^[^-]+-\s*(\d+)\s*-", props.get("label", ""))
+            if not match or not trusted_track(props.get("src", "")) or not props.get("srclang"):
+                raise TargetUnavailable("target_detail_tracks_unrecognized")
+            parsed_tracks.append({"id": match[1], "name": props["label"],
+                                  "czech": is_czech(props["srclang"]), "processing": False,
+                                  "url": props["src"], "language_action": ""})
+        tracks.extend(parsed_tracks)
+        recognized = True
+    if not recognized or len({track['id'] for track in tracks}) != len(tracks) or declared_ids - {track['id'] for track in tracks}:
+        raise TargetUnavailable("target_detail_tracks_unrecognized")
+    ready = bool(re.search(r"videos\.push\(\s*\{", scripts))
+    known_languages = {"en", "eng", "sk", "slk", "slo", "de", "deu", "ger", "fr", "fra", "pl", "pol", "it", "ita", "es", "spa", "ru", "rus", "ja", "jpn", "ko", "kor", "zh", "zho"}
+    languages = re.findall(r'\bsrclang\s*:\s*"([^"\\]*)"', scripts)
+    unknown = any(not is_czech(language) and language.lower() not in known_languages for language in languages)
+    return Target(video_id, title, ready, tracks,
+                  LISTING + "?do=uploadedVideoListing-uploadSubtitles", detail_url=url,
+                  unknown_tracks=unknown, detail_verified=True)
+
+
 class SubtitleTarget:
     def __init__(self, session, interval: float = 2):
         self.session = session
@@ -115,32 +191,53 @@ class SubtitleTarget:
         time.sleep(max(0, self.interval - (time.monotonic() - self.last_request)))
         self.last_request = time.monotonic()
 
-    def listing(self, page=1, search="CZ Titulky"):
+    def listing(self, page=1):
         self.throttle()
         response = http_request(
-            lambda: self.session.get(LISTING, params={PAGE_KEY: page, "searchPhrase": search}, timeout=45),
+            lambda: self.session.get(LISTING, params={PAGE_KEY: page}, timeout=45),
             phase="target_listing", retry_safe=True,
         )
         response.raise_for_status()
         return parse_listing(response.text, page)
 
-    def refresh(self, video_id: str, title: str) -> Target:
-        # Exact ID is mandatory. A similar name or duplicate must not receive
-        # the subtitle intended for this specific uploaded file.
-        page, seen = 1, set()
-        while page <= 20:
-            targets, last = self.listing(page, title)
-            signature = tuple(target.video_id for target in targets)
-            if signature in seen:
-                raise TargetUnavailable("target_pagination_repeated")
-            seen.add(signature)
-            for target in targets:
-                if target.video_id == video_id:
-                    return target
-            if page >= last:
+    def refresh(self, video_id: str, title: str, detail_url: str = "") -> Target:
+        if not trusted_detail(detail_url):
+            raise TargetUnavailable("target_detail_url_missing")
+        self.throttle()
+        response = http_request(lambda: self.session.get(detail_url, timeout=45, allow_redirects=False),
+                                phase="target_detail", retry_safe=True)
+        if response.status_code != 200:
+            raise TargetUnavailable("target_detail_unavailable")
+        return parse_detail(response.text, video_id, title, detail_url)
+
+    def verify_content(self, track: dict, expected_digest: str) -> bool:
+        url = track.get("url", "")
+        for _ in range(4):
+            if not trusted_track(url):
+                raise TargetUnavailable("target_subtitle_url_untrusted")
+            self.throttle()
+            response = http_request(lambda: self.session.get(url, stream=True, timeout=(15, 30), allow_redirects=False),
+                                    phase="target_subtitle_verify", retry_safe=True)
+            if response.status_code not in {301, 302, 303, 307, 308}:
                 break
-            page += 1
-        raise TargetUnavailable("target_id_not_found")
+            url = urljoin(url, response.headers.get("Location", ""))
+            response.close()
+        else:
+            raise TargetUnavailable("target_subtitle_redirect_limit")
+        try:
+            if response.status_code != 200:
+                raise TargetUnavailable("target_subtitle_unavailable")
+            payload = bytearray()
+            for chunk in response.iter_content(65536):
+                payload.extend(chunk)
+                if len(payload) > MAX_SUBTITLE_BYTES:
+                    raise TargetUnavailable("target_subtitle_too_large")
+            try:
+                return hashlib.sha256(normalize_srt(bytes(payload))).hexdigest() == expected_digest
+            except SubtitleUnavailable:
+                raise TargetUnavailable("target_subtitle_unrecognized") from None
+        finally:
+            response.close()
 
     def upload(self, target: Target, filename: str, content: bytes):
         if not target.ready or target.has_czech or target.unknown_tracks or not trusted_action(target.action, "uploadSubtitles"):

@@ -6,6 +6,7 @@ import re
 import unicodedata
 import threading
 import time
+from urllib.parse import urljoin, urlsplit
 from dataclasses import dataclass
 from typing import Callable
 
@@ -185,6 +186,7 @@ def uploaded_video_confirmed(
         timeout=30,
     )
     response.raise_for_status()
+    remember_detail_urls(session, response.text)
     return (
         _uploaded_video_id_from_html(
             response.text,
@@ -197,6 +199,27 @@ def uploaded_video_confirmed(
 
 
 PROCESSING_SUFFIX_RE = re.compile(r"\s*\(zpracovává se\)\s*$", re.I)
+
+
+def remember_detail_urls(session, html_text: str) -> None:
+    """Capture ID-bound public links from pages the uploader already fetched."""
+    known = getattr(session, "_prehrajto_detail_urls", {})
+    if not isinstance(known, dict):
+        known = {}
+    for block in BeautifulSoup(html_text, "html.parser").select('[id^="snippet-uploadedVideoListing-video-"]'):
+        video_id = block.get("id", "").rsplit("-", 1)[-1]
+        if not video_id.isdigit():
+            continue
+        for anchor in block.select('a[href]'):
+            url = urljoin(BASE_URL, anchor['href'])
+            parsed = urlsplit(url)
+            if (parsed.scheme == "https" and parsed.hostname in {"prehraj.to", "prehrajto.cz"}
+                    and not parsed.query and not parsed.fragment and not parsed.username
+                    and not parsed.password and parsed.port in {None, 443}
+                    and re.fullmatch(r"/[^/?]+/[a-f0-9]{12,32}", parsed.path)):
+                known[video_id] = url
+                break
+    session._prehrajto_detail_urls = known
 
 
 def _visible_uploaded_name(element) -> str:
@@ -297,6 +320,7 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, i
             params[page_key] = str(page)
         response = session.get(BASE_URL + "/profil/nahrana-videa", params=params, timeout=30)
         response.raise_for_status()
+        remember_detail_urls(session, response.text)
         found = _uploaded_video_id_from_html(response.text, display_name, include_processing=include_processing)
         if found:
             return found
