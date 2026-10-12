@@ -287889,13 +287889,6 @@
     "11452": {
       "attempts": [
         {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Unrecognized search response; refusing empty result; title='Blazniva Mise 1982 online | Sdilej.cz'; bytes=189400; notice=Kvalita Vše 4K 1080p+ 720p+",
-          "attempted_at": "2026-09-30T08:25:01.254334+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -287908,6 +287901,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-10-09T21:32:04.574084+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-10-12T00:31:42.719235+00:00"
         }
       ]
     },
@@ -611068,13 +611068,6 @@
     "26579": {
       "attempts": [
         {
-          "status": "source_deep_scan_needed",
-          "permanent": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "A preferred quality tier could not be fully verified",
-          "attempted_at": "2026-09-16T11:22:48.447237+00:00"
-        },
-        {
           "status": "source_deep_scan_failed",
           "permanent": false,
           "selection_policy": "compact-quality-v13",
@@ -611087,6 +611080,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "Candidate verification failed; no source was ruled out conclusively",
           "attempted_at": "2026-10-09T22:23:40.437371+00:00"
+        },
+        {
+          "status": "source_deep_scan_failed",
+          "permanent": false,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate verification failed; no source was ruled out conclusively",
+          "attempted_at": "2026-10-12T00:32:33.955760+00:00"
         }
       ]
     },
@@ -721996,5 +721996,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-12T00:31:15.071087+00:00"
+  "updated_at": "2026-10-12T00:32:33.955778+00:00"
 }
