@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:18:49.571127+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:18:53.744805+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 47, `pending`: 70, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 48, `pending`: 69, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1211,6 +1211,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Temná píseň (2016) SD CZ Titulky](https://prehraj.to/temna-pisen-2016-sd-cz-titulky-mkv/e7cdc01716a32bb4) (ID 29298293) | [Sdílej 7993384](https://sdilej.cz/7993384/a-dark-song.2016.hdrip.xvid.ac3-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:41.631706+00:00 |
 | [Temná tvář Brooklynu (2019) 1080p CZ Titulky](https://prehraj.to/temna-tvar-brooklynu-2019-1080p-cz-titulky-mkv/63502affc1943733) (ID 29143724) | [Sdílej 25951577](https://sdilej.cz/25951577/motherless-brookland-2019-temna-tvar-brooklynu-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:46.316341+00:00 |
 | [Ten den přijde (2016) 1080p CZ Titulky](https://prehraj.to/ten-den-prijde-2016-1080p-cz-titulky-mp4/ebfa33db271192a9) (ID 29469067) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.016529+00:00 |
+| [Tenkrát v Číně 3 (1992) 1080p CZ Titulky](https://prehraj.to/tenkrat-v-cine-3-1992-1080p-cz-titulky-mkv/c93281c28e13d200) (ID 29493403) | [Sdílej 33480035](https://sdilej.cz/33480035/once.upon.a.time.in.china.ii.1992.multi.vfi.1080p.hdlight.ac3.5.1.h264-lihdl.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:53.744765+00:00 |
 | [Terrifier (2016) 1080p CZ Titulky](https://prehraj.to/terrifier-2016-1080p-cz-titulky-mp4/ca87c518e303ec78) (ID 29929405) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020648+00:00 |
 | [Terrifier 2 (2022) 1080p CZ Titulky](https://prehraj.to/terrifier-2-2022-1080p-cz-titulky-mkv/7d880e94d3e2e470) (ID 29911592) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019247+00:00 |
 | [Texaský masakr motorovou pilou 2 (1986) SD CZ Titulky](https://prehraj.to/texasky-masakr-motorovou-pilou-2-1986-sd-cz-titulky-mkv/99ec8b572457fcfd) (ID 29936734) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021166+00:00 |
