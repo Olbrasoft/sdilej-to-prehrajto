@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:14:50.424864+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:15:00.833858+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 8, `pending`: 112, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 8, `pending`: 111, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -926,6 +926,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Phil (2019) 1080p CZ Titulky](https://prehraj.to/phil-2019-1080p-cz-titulky-mp4/bbe55f5635d61a35) (ID 29526645) | [Sdílej 34773646](https://sdilej.cz/34773646/phil-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:01:02.882621+00:00 |
 | [Pillion (2025) 1080p CZ Titulky](https://prehraj.to/pillion-2025-1080p-cz-titulky-mkv/a758d3177ab8b69a) (ID 30062530) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021949+00:00 |
 | [Pinball: The Man Who Saved the Game (2022) 720p CZ Titulky](https://prehraj.to/pinball-the-man-who-saved-the-game-2022-720p-cz-titulky-mp4/5d6db7d566c724e4) (ID 29213682) | [Sdílej 26372484](https://sdilej.cz/26372484/pinball-the-man-who-saved-the-game-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:35:00.317510+00:00 |
+| [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-12T18:15:00.833752+00:00 |
 | [Piranha (1972) 720p CZ Titulky](https://prehraj.to/piranha-1972-720p-cz-titulky-mp4/7c27f004f255cc8c) (ID 29936149) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021100+00:00 |
 | [Playboy: Playmate Playoffs (1986) SD CZ Titulky](https://prehraj.to/playboy-playmate-playoffs-1986-sd-cz-titulky-mp4/4e268a6be1538dbb) (ID 29354037) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.014809+00:00 |
 | [Playtime (1967) 720p CZ Titulky](https://prehraj.to/playtime-1967-720p-cz-titulky-mp4/f06d6d9c673d5e42) (ID 29325122) | [Sdílej 30754860](https://sdilej.cz/30754860/playtime-1967-fr-tvrip-hevc-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T05:39:44.575428+00:00 |
