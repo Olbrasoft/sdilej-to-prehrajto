@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:26:20.774570+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:26:24.953414+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 113, `pending`: 3, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 114, `pending`: 2, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -936,6 +936,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Osamělí vlci (2019) 1080p CZ Titulky](https://prehraj.to/osameli-vlci-2019-1080p-cz-titulky-mkv/485b0ab0d1f3f27b) (ID 29655964) | [Sdílej 17308103](https://sdilej.cz/17308103/osameli-vlci-lone-wolves-2019-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:00:34.514362+00:00 |
 | [Osmá noc (2021) 1080p CZ Titulky](https://prehraj.to/osma-noc-2021-1080p-cz-titulky-mp4/3a4ea5d9034a28e4) (ID 29914467) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755199+00:00 |
 | [Ostrý holky (2018) 1080p CZ Titulky](https://prehraj.to/ostry-holky-2018-1080p-cz-titulky-mp4/97ceca05861e1bd7) (ID 29909879) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.754908+00:00 |
+| [Osudový dotek 3: Odhalení (2009) SD CZ Titulky](https://prehraj.to/osudovy-dotek-3-odhaleni-2009-sd-cz-titulky-mkv/0e759944ec4e308c) (ID 29753210) | [Sdílej 25526950](https://sdilej.cz/25526950/osudovy-dotek-3-the-butterfly-effect-3-revelations-2009-fantasy-thriller-scifi-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:24.953366+00:00 |
 | [Osvobození (2022) 720p CZ Titulky](https://prehraj.to/osvobozeni-2022-720p-cz-titulky-mp4/2d33eef1d31c41ce) (ID 29978552) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756261+00:00 |
 | [Otcové a dcery (2015) 1080p CZ Titulky](https://prehraj.to/otcove-a-dcery-2015-1080p-cz-titulky-mkv/e27539b95acaaed0) (ID 29561515) | [Sdílej 26127767](https://sdilej.cz/26127767/fathers-and-daughters-2015-otcovia-a-dcery-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:27.849390+00:00 |
 | [Other (2025) 1080p CZ Titulky](https://prehraj.to/other-2025-1080p-cz-titulky-mkv/8eb5ce0c2469fbd9) (ID 29923402) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755602+00:00 |
