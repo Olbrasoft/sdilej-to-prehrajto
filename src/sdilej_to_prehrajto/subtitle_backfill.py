@@ -216,7 +216,7 @@ class Backfill:
                     row.update(status="pending", retry_after="")
             if self.state.get("inventory_mode") != "local-detail-v1" and row.get("status") == "existing_tracks_uncertain":
                 row.update(status="pending", retry_after="")
-            if not row.get("source") and not row.get("intent"):
+            if not row.get("source") and not row.get("intent") and row.get("status") not in {"already_has_czech", "attached_verified"}:
                 self.status(row, "source_provenance_missing", 24)
         self.state.update(inventory_mode="local-detail-v1", next_page=0)
         missing = {key for key, row in self.state["videos"].items()

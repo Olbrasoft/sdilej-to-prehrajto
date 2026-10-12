@@ -432,3 +432,13 @@ def test_direct_reconciliation_rejects_preexisting_track(tmp_path, monkeypatch):
     target.refresh.return_value.tracks = [{"id": "7", "czech": True}]
     assert not worker.reconcile(row)
     target.verify_content.assert_not_called()
+
+
+def test_seed_preserves_existing_czech_evidence_without_source(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    row.update(status="already_has_czech", checked_at="2026-10-01T00:00:00+00:00")
+    row.pop("source")
+    worker.sources = {}
+    worker.inventory(0)
+    assert row["status"] == "already_has_czech"
+    assert row["checked_at"] == "2026-10-01T00:00:00+00:00"
