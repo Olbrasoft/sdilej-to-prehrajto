@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:14:29.395172+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:14:33.789877+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 3, `pending`: 117, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 4, `pending`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -581,6 +581,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [JFK návrat: Za zrcadlem (2021) 1080p CZ Titulky](https://prehraj.to/jfk-navrat-za-zrcadlem-2021-1080p-cz-titulky-mp4/3fa4fad5f3a7754a) (ID 30031943) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021732+00:00 |
 | [JIN-ROH (1999) SD CZ Titulky.mkv](https://prehraj.to/jin-roh-1999-sd-cz-titulky-mkv/c72092319105fd49) (ID 29439366) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.016165+00:00 |
 | [JJ+E (2021) 1080p CZ Titulky](https://prehraj.to/jj-e-2021-1080p-cz-titulky-mp4/83ba8445d2caaced) (ID 29911428) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019233+00:00 |
+| [Jack a Jill (2011) 1080p CZ Titulky](https://prehraj.to/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:33.789843+00:00 |
 | [Jack in Time for Christmas (2024) 1080p CZ Titulky](https://prehraj.to/jack-in-time-for-christmas-2024-1080p-cz-titulky-mp4/12d77989edb428cb) (ID 29639441) | [Sdílej 34771771](https://sdilej.cz/34771771/jack-in-time-for-christmas-2024-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:49:18.547365+00:00 |
 | [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:48:32.315379+00:00 |
 | [Jak jsem se stal gangsterem (2019) 1080p CZ Titulky](https://prehraj.to/jak-jsem-se-stal-gangsterem-2019-1080p-cz-titulky-mp4/324af92328cc761f) (ID 30064961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022032+00:00 |
