@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:21:52.381574+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:21:56.679165+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 88, `pending`: 28, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 89, `pending`: 27, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -742,6 +742,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:36:55.453221+00:00 |
 | [Léto 84 (2018) 1080p CZ Titulky](https://prehraj.to/leto-84-2018-1080p-cz-titulky-mkv/48ea95e9bfb6fef8) (ID 30136200) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022983+00:00 |
 | [Léto 85 (2020) 720p CZ Titulky](https://prehraj.to/leto-85-2020-720p-cz-titulky-avi/8f498b0623140179) (ID 29749358) | [Sdílej 15347014](https://sdilej.cz/15347014/leto-85.-2020-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:38:37.157642+00:00 |
+| [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:56.679132+00:00 |
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.018248+00:00 |
 | [Líbánky s mámou (2022) 720p CZ Titulky](https://prehraj.to/libanky-s-mamou-2022-720p-cz-titulky-mp4/70291b8f8feabd58) (ID 29613931) | [Sdílej 34727109](https://sdilej.cz/34727109/libanky-s-mamou-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:56.436277+00:00 |
 | [M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky](https://prehraj.to/m-a-s-h-the-comedy-that-changed-television-2024-1080p-cz-titulky-mp4/a7f840407213d02d) (ID 29460944) | [Sdílej 34724940](https://sdilej.cz/34724940/m-a-s-h-the-comedy-that-changed-television-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:53:11.308731+00:00 |
