@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:18:45.120000+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:18:49.571127+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 46, `pending`: 71, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 47, `pending`: 70, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1380,6 +1380,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Veselé Vánoce, pane Lawrenci (1983) 720p CZ Titulky](https://prehraj.to/vesele-vanoce-pane-lawrenci-1983-720p-cz-titulky-avi/c81ab93b8363c108) (ID 30103995) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022607+00:00 |
 | [Večeře po americku (2020) 720p CZ Titulky](https://prehraj.to/vecere-po-americku-2020-720p-cz-titulky-mp4/182d5e4324e28145) (ID 29888517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.018375+00:00 |
 | [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:35:27.941969+00:00 |
+| [Vidíš měsíc, Danieli (2019) 1080p CZ Titulky](https://prehraj.to/vidis-mesic-danieli-2019-1080p-cz-titulky-mkv/366024272a4ad479) (ID 29502172) | [Sdílej 13336140](https://sdilej.cz/13336140/ser.du.maanen.daniel.2019.nordic.1080p.web-dl.h.264-rapidcows-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:49.571086+00:00 |
 | [Viking: The Berserkers (2014) SD CZ Titulky](https://prehraj.to/viking-the-berserkers-2014-sd-cz-titulky-mkv/1648f165f1694a06) (ID 29565059) | [Sdílej 35032461](https://sdilej.cz/35032461/viking-the-berserkers.2014.brrip.x264.ac3-srt.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:13:02.802673+00:00 |
 | [Violence Action (2022) 1080p CZ Titulky](https://prehraj.to/violence-action-2022-1080p-cz-titulky-mp4/d69a8bbc173eb1b8) (ID 29611154) | [Sdílej 34726508](https://sdilej.cz/34726508/violence-action-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:30:32.385403+00:00 |
 | [Virus (2019) 720p CZ Titulky](https://prehraj.to/virus-2019-720p-cz-titulky-mp4/7a98ea5b0d03bd98) (ID 29887510) | [Sdílej 34733658](https://sdilej.cz/34733658/virus-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:49:39.011080+00:00 |
