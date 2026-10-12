@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:21:43.986813+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:21:48.134587+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 86, `pending`: 30, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 87, `pending`: 29, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1276,6 +1276,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [The Den (2013) SD CZ Titulky](https://prehraj.to/the-den-2013-sd-cz-titulky-avi/ed587265a2987826) (ID 29642468) | [Sdílej 34453340](https://sdilej.cz/34453340/the-den.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:52:19.340703+00:00 |
 | [The Escape of Prisoner 614 (2018) 1080p CZ Titulky](https://prehraj.to/the-escape-of-prisoner-614-2018-1080p-cz-titulky-mp4/35f646ff39be45b9) (ID 29612662) | [Sdílej 34735652](https://sdilej.cz/34735652/the-escape-of-prisoner-614-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:25.117122+00:00 |
 | [The Escort (2015) 1080p CZ Titulky](https://prehraj.to/the-escort-2015-1080p-cz-titulky-avi/1019bfda02c3be4d) (ID 29907584) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.018735+00:00 |
+| [The Exception (2016) 1080p CZ Titulky](https://prehraj.to/the-exception-2016-1080p-cz-titulky-mkv/38d783fd76aca73d) (ID 29680017) | [Sdílej 7576370](https://sdilej.cz/7576370/vyjimka-the-exception.2016.1080p.web-dl.dd5.1.h264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:48.134543+00:00 |
 | [The Fortress (2017) 720p CZ Titulky](https://prehraj.to/the-fortress-2017-720p-cz-titulky-mp4/1ab617d52580e36e) (ID 30114696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022784+00:00 |
 | [The Fundamentals of Caring (2016) 720p CZ Titulky](https://prehraj.to/the-fundamentals-of-caring-2016-720p-cz-titulky-mkv/1878bc733867b1f5) (ID 29376069) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.015149+00:00 |
 | [The Furies (2019) 1080p CZ Titulky](https://prehraj.to/the-furies-2019-1080p-cz-titulky-mkv/91b683d3b7eb52d0) (ID 29926913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020477+00:00 |
