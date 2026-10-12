@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:18:40.857257+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:18:45.120000+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 45, `pending`: 72, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 46, `pending`: 71, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -108,6 +108,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Baisers cachés (2016) 720p CZ Titulky](https://prehraj.to/baisers-caches-2016-720p-cz-titulky-mkv/b957dda9c23a615e) (ID 29394141) | [Sdílej 7041561](https://sdilej.cz/7041561/hidden-kisses-baisers-caches-2016-.720p.web-dl-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:59.499662+00:00 |
 | [Bajirao Mastani (2015) SD CZ Titulky](https://prehraj.to/bajirao-mastani-2015-sd-cz-titulky-mp4/c5a3b4ba30efa8da) (ID 29489428) | [Sdílej 34738142](https://sdilej.cz/34738142/bajirao-mastani-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:57:05.271791+00:00 |
 | [Balada o Busteru Scruggsovi (2018) 1080p CZ Titulky](https://prehraj.to/balada-o-busteru-scruggsovi-2018-1080p-cz-titulky-mkv/61f1549d8091eeea) (ID 29409756) | [Sdílej 10816367](https://sdilej.cz/10816367/the-ballad-of-buster-scruggs-2018-1080p.-titul.cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:20.154347+00:00 |
+| [Ballistic (2025) 1080p CZ Titulky](https://prehraj.to/ballistic-2025-1080p-cz-titulky-mkv/191c56cdd9034502) (ID 29479941) | [Sdílej 34602718](https://sdilej.cz/34602718/ballistic-2025-web-dl-1080p-latino.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:45.119940+00:00 |
 | [Banana Split (2018) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 28999060) | [Sdílej 13831999](https://sdilej.cz/13831999/banana-split-en-vlozene-titulky-2018-komedie-1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-12T18:02:30.261240+00:00 |
 | [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:08:49.721027+00:00 |
 | [Bang Bang! (2014) 1080p CZ Titulky](https://prehraj.to/bang-bang-2014-1080p-cz-titulky-mp4/822669eb9921d6c4) (ID 29926327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020450+00:00 |
