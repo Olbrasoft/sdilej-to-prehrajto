@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:19:19.548244+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:19:23.718249+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 54, `pending`: 63, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 55, `pending`: 62, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -568,6 +568,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Hyacint (2021) 1080p CZ Titulky](https://prehraj.to/hyacint-2021-1080p-cz-titulky-mp4/8d1b8e7b27fa7a94) (ID 29673745) | [Sdílej 34730772](https://sdilej.cz/34730772/hyacint-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:33:51.096968+00:00 |
 | [Hyena Road (2015) SD CZ Titulky](https://prehraj.to/hyena-road-2015-sd-cz-titulky-avi/bb09b84f9562c18b) (ID 29299434) | [Sdílej 27004212](https://sdilej.cz/27004212/hyena-road-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:44:34.891924+00:00 |
 | [Hříšná hudba (2019) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29272205) | [Sdílej 34958189](https://sdilej.cz/34958189/dirt.music.2019.1080p.webrip.dl.eac3.x264-majo.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-12T18:02:57.165975+00:00 |
+| [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:23.718214+00:00 |
 | [I Am Soldier (2014) SD CZ Titulky](https://prehraj.to/i-am-soldier-2014-sd-cz-titulky-avi/a89560a03ca7bc51) (ID 29721964) | [Sdílej 27587211](https://sdilej.cz/27587211/i-am-soldier-2014cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:02:43.581526+00:00 |
 | [I Can Only Imagine (2018) SD CZ Titulky](https://prehraj.to/i-can-only-imagine-2018-sd-cz-titulky-mp4/a446316ce9b0f18e) (ID 29505035) | [Sdílej 34774282](https://sdilej.cz/34774282/i-can-only-imagine-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:58:20.393261+00:00 |
 | [I Hear the Trees Whispering (2022) 1080p CZ Titulky](https://prehraj.to/i-hear-the-trees-whispering-2022-1080p-cz-titulky-mp4/d384c048ef14bba5) (ID 29613960) | [Sdílej 34760540](https://sdilej.cz/34760540/i-hear-the-trees-whispering-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:35:05.244028+00:00 |
