@@ -205135,17 +205135,20 @@
       "attempts": []
     },
     "16805": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34695270",
+          "target_video_id": "30205465",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-12T18:35:41.998549+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34695270",
         "display_name": "Rodinný masakr (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-12T17:58:39.723993+00:00"
-      },
-      "claim": {
-        "worker_id": "9e8b0b5b42b143faa8cd34852c060401-shard-0",
-        "claimed_at": "2026-10-12T18:27:47.392646+00:00",
-        "lease_expires_at": "2026-10-13T00:27:47.392646+00:00",
-        "run_id": "38252530826"
       },
       "previous_target_id": "30205465",
       "prepared": {
@@ -364438,5 +364441,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-12T18:28:10.774911+00:00"
+  "updated_at": "2026-10-12T18:35:41.998568+00:00"
 }
