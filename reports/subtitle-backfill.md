@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:21:48.134587+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:21:52.381574+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 87, `pending`: 29, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 88, `pending`: 28, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1265,6 +1265,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [The Car: Road to Revenge (2019) SD CZ Titulky](https://prehraj.to/the-car-road-to-revenge-2019-sd-cz-titulky-avi/ddf9680e4a06a238) (ID 29914720) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019690+00:00 |
 | [The Cellar (2022) 1080p CZ Titulky](https://prehraj.to/the-cellar-2022-1080p-cz-titulky-mp4/304d4811bcce2ddd) (ID 29928653) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020596+00:00 |
 | [The Christmas Setup (2020) SD CZ Titulky](https://prehraj.to/the-christmas-setup-2020-sd-cz-titulky-mkv/b5131dad23641223) (ID 30095812) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022334+00:00 |
+| [The Cleaning Lady (2018) SD CZ Titulky](https://prehraj.to/the-cleaning-lady-2018-sd-cz-titulky-mkv/f995d2224d687209) (ID 29677894) | [Sdílej 12656947](https://sdilej.cz/12656947/the-cleaning-lady-2018-sk-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:52.381535+00:00 |
 | [The Clearing (2020) 1080p CZ Titulky](https://prehraj.to/the-clearing-2020-1080p-cz-titulky-mkv/eef420d28463e011) (ID 29915070) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019724+00:00 |
 | [The Clovehitch Killer (2018) SD CZ Titulky](https://prehraj.to/the-clovehitch-killer-2018-sd-cz-titulky-avi/7f908ff2189264d1) (ID 29372397) | [Sdílej 11007687](https://sdilej.cz/11007687/the-clovehitch-killer-2018-cz-titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:40:59.093336+00:00 |
 | [The Cloverfield Paradox (2018) 1080p CZ Titulky](https://prehraj.to/the-cloverfield-paradox-2018-1080p-cz-titulky-mkv/5079d9a2d05b6d6d) (ID 29931322) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020742+00:00 |
