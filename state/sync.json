@@ -199304,17 +199304,20 @@
       }
     },
     "16016": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29911632",
+          "target_video_id": "30203710",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-12T16:45:08.655699+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29911632",
         "display_name": "Vysnívaná rodinka (2023) 1080p SK Dabing",
         "planned_at": "2026-10-12T13:27:29.198480+00:00"
-      },
-      "claim": {
-        "worker_id": "2239cee4f0eb4525932fd7434c198c97-shard-0",
-        "claimed_at": "2026-10-12T16:35:11.076376+00:00",
-        "lease_expires_at": "2026-10-12T22:35:11.076376+00:00",
-        "run_id": "38252530826"
       },
       "previous_target_id": "30203710",
       "prepared": {
@@ -361909,5 +361912,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-12T16:35:34.735807+00:00"
+  "updated_at": "2026-10-12T16:45:08.655719+00:00"
 }
