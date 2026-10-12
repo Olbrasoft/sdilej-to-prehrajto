@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:20:05.565255+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:20:09.693306+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 65, `pending`: 52, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 66, `pending`: 51, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1285,6 +1285,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [The Marshes (2017) 720p CZ Titulky](https://prehraj.to/the-marshes-2017-720p-cz-titulky-mp4/67868ec2ae51f06a) (ID 29274565) | [Sdílej 34737253](https://sdilej.cz/34737253/the-marshes-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T23:33:22.173800+00:00 |
 | [The Mortuary Assistant (2026) 1080p CZ Titulky](https://prehraj.to/the-mortuary-assistant-2026-1080p-cz-titulky-mkv/8bf3ce1b68341d18) (ID 29089395) | [Sdílej 33820880](https://sdilej.cz/33820880/the.mortuary.assistant-2026-sktit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:42.101278+00:00 |
 | [The Mystery of Her (2022) SD CZ Titulky](https://prehraj.to/the-mystery-of-her-2022-sd-cz-titulky-mp4/f6556e6b4b92a758) (ID 30186980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.023708+00:00 |
+| [The Nameless Days (2022) 720p CZ Titulky](https://prehraj.to/the-nameless-days-2022-720p-cz-titulky-mkv/f0321bb693668428) (ID 29611943) | [Sdílej 29827464](https://sdilej.cz/29827464/the.nameless.days.2022.720p-sk-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:09.693269+00:00 |
 | [The Negotiation (2018) 1080p CZ Titulky](https://prehraj.to/the-negotiation-2018-1080p-cz-titulky-mp4/9585473cc3f8e54c) (ID 29919855) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019949+00:00 |
 | [The Nightingale (2018) 1080p CZ Titulky](https://prehraj.to/the-nightingale-2018-1080p-cz-titulky-mkv/05781f1bad4664ec) (ID 30030971) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021725+00:00 |
 | [The Nine Lives of Ozzy Osbourne (2020) 1080p CZ Titulky](https://prehraj.to/the-nine-lives-of-ozzy-osbourne-2020-1080p-cz-titulky-mp4/1d9a1dc4b7bb8d0f) (ID 29417622) | [Sdílej 34731971](https://sdilej.cz/34731971/the-nine-lives-of-ozzy-osbourne-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:46:29.815887+00:00 |
