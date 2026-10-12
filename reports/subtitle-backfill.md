@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:14:46.316376+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:14:50.424864+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 7, `pending`: 113, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 8, `pending`: 112, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -133,6 +133,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Bitva o Alžír (1966) SD CZ Titulky](https://prehraj.to/bitva-o-alzir-1966-sd-cz-titulky-mp4/e6fc8f9040d48a35) (ID 29290572) | [Sdílej 34700110](https://sdilej.cz/34700110/bitva-o-alzir-1966-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:55:15.818948+00:00 |
 | [Black '47 (2018) 720p CZ Titulky](https://prehraj.to/black-47-2018-720p-cz-titulky-avi/4da72eccce06e65f) (ID 29659387) | [Sdílej 28507849](https://sdilej.cz/28507849/black-47-hugo-weaving-james-frecheville-stephen-rea-2018-drama-bdrip.-1080p.-en-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:07:30.051383+00:00 |
 | [Black Lotus (2023) 1080p CZ Titulky](https://prehraj.to/black-lotus-2023-1080p-cz-titulky-mkv/c9358b17d38f9585) (ID 29935298) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021058+00:00 |
+| [Black Mirror: Bandersnatch (2018) 1080p CZ Titulky](https://prehraj.to/black-mirror-bandersnatch-2018-1080p-cz-titulky-mkv/f8a34902e3bdafbf) (ID 29178134) | [Sdílej 11114231](https://sdilej.cz/11114231/black-mirror-bandersnatch-2018-1080p-webrip-xpau.se-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:50.424830+00:00 |
 | [Blades of the Guardians (2026) 1080p CZ Titulky](https://prehraj.to/blades-of-the-guardians-2026-1080p-cz-titulky-mkv/9b17dfe4666b11bf) (ID 29688514) | [Sdílej 34473058](https://sdilej.cz/34473058/blades-of-the-guardians-2026-1080p-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:38:28.878556+00:00 |
 | [Bleed (2016) SD CZ Titulky](https://prehraj.to/bleed-2016-sd-cz-titulky-avi/492b2e2fc66bb83f) (ID 29748826) | [Sdílej 35027400](https://sdilej.cz/35027400/bleed-horor.thriller-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:37:54.193839+00:00 |
 | [Blind (2019) 720p CZ Titulky](https://prehraj.to/blind-2019-720p-cz-titulky-mp4/e5e3924ccd6ac3be) (ID 29732972) | [Sdílej 34734539](https://sdilej.cz/34734539/curse-of-the-blind-dead-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:07:23.296081+00:00 |
