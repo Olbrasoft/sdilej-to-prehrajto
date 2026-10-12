@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:16:45.881257+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:16:50.223081+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 22, `pending`: 96, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 23, `pending`: 95, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1398,6 +1398,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [What Is a Woman? (2022) 1080p CZ Titulky](https://prehraj.to/what-is-a-woman-2022-1080p-cz-titulky-mp4/94ebd49186b4a081) (ID 29212546) | [Sdílej 34726466](https://sdilej.cz/34726466/what-is-a-woman-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:46:54.442760+00:00 |
 | [When Love Comes Knocking (2021) 1080p CZ Titulky](https://prehraj.to/when-love-comes-knocking-2021-1080p-cz-titulky-mp4/4b77e4614f18b346) (ID 29216889) | [Sdílej 34728038](https://sdilej.cz/34728038/when-love-comes-knocking-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:37:20.083380+00:00 |
 | [When the Lights Went Out (2012) SD CZ Titulky](https://prehraj.to/when-the-lights-went-out-2012-sd-cz-titulky-avi/8d328ff80349e2fa) (ID 29750671) | [Sdílej 26715369](https://sdilej.cz/26715369/when-the-lights-went-out-kdyz-jsou-svetla-mimo-horor.thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:39:35.316333+00:00 |
+| [Whiskey zloděj (2017) SD CZ Titulky](https://prehraj.to/whiskey-zlodej-2017-sd-cz-titulky-mkv/6627ffd9aaf7733d) (ID 29308502) | [Sdílej 12073116](https://sdilej.cz/12073116/a-viszkis-the-whiskey-bandit-bdrip.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:50.223039+00:00 |
 | [White Bird in a Blizzard (2014) 720p CZ Titulky](https://prehraj.to/white-bird-in-a-blizzard-2014-720p-cz-titulky-avi/2088dfd98a9787af) (ID 29574916) | [Sdílej 3679154](https://sdilej.cz/3679154/white-bird-in-a-blizzard-2014-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:17:45.489926+00:00 |
 | [White Girl Apokalypse (2021) 1080p CZ Titulky](https://prehraj.to/white-girl-apokalypse-2021-1080p-cz-titulky-mp4/dcac5428deb73bb1) (ID 30144975) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.023158+00:00 |
 | [Whitney: Být sama sebou (2017) SD CZ Titulky](https://prehraj.to/whitney-byt-sama-sebou-2017-sd-cz-titulky-mp4/32b4e64c7034fe55) (ID 30070747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022215+00:00 |
