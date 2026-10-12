@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:14:24.375619+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:14:29.395172+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 3, `pending`: 118, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 14, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 3, `pending`: 117, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1479,6 +1479,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-12T18:11:32.179912+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-10-12T18:11:48.860758+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-10-12T18:13:46.514537+00:00 |
+| [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-10-12T18:14:29.395107+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-12T18:13:36.072896+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-12T14:44:37.573767+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-12T14:44:50.997270+00:00 |
