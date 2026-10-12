@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:26:16.492019+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:26:20.774570+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 112, `pending`: 4, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 113, `pending`: 3, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -92,6 +92,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Aurore (2005) 720p CZ Titulky](https://prehraj.to/aurore-2005-720p-cz-titulky-mkv/0973e010b35e7f9e) (ID 29445306) | [Sdílej 32454300](https://sdilej.cz/32454300/aurore-2005-cz-tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:52:07.592443+00:00 |
 | [Autobus naděje (2025) 1080p CZ Titulky](https://prehraj.to/autobus-nadeje-2025-1080p-cz-titulky-mp4/f3ce1551f0d8d612) (ID 30069637) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.757115+00:00 |
 | [Automat na lásku (2000) SD CZ Titulky](https://prehraj.to/automat-na-lasku-2000-sd-cz-titulky-avi/572bb107c93d78c7) (ID 29648180) | [Sdílej 28492278](https://sdilej.cz/28492278/levottomat-aka-restless-2000-lq-dvdrip.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:54:54.977949+00:00 |
+| [Avicii: True Stories (2017) 1080p CZ Titulky](https://prehraj.to/avicii-true-stories-2017-1080p-cz-titulky-mkv/b21e5051337d040e) (ID 29750924) | [Sdílej 27524862](https://sdilej.cz/27524862/avicii-true-stories.2017.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:20.774523+00:00 |
 | [Await Further Instructions (2018) SD CZ Titulky](https://prehraj.to/await-further-instructions-2018-sd-cz-titulky-avi/cc7f0f33a4bbb4b9) (ID 29908591) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.754849+00:00 |
 | [Ašoka (2001) SD CZ Titulky](https://prehraj.to/asoka-2001-sd-cz-titulky-mp4/3ae647b318928418) (ID 29236389) | [Sdílej 34903495](https://sdilej.cz/34903495/asoka-2001-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:33:11.250999+00:00 |
 | [Až do poslední smrti (2019) 1080p CZ Titulky](https://prehraj.to/az-do-posledni-smrti-2019-1080p-cz-titulky-mp4/4937041ca14a46a2) (ID 29613447) | [Sdílej 34764110](https://sdilej.cz/34764110/az-do-posledni-smrti-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:43.954005+00:00 |
