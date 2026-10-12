@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:26:12.409419+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:26:16.492019+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 111, `pending`: 5, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 112, `pending`: 4, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1260,6 +1260,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Tenkrát v Číně 3 (1992) 1080p CZ Titulky](https://prehraj.to/tenkrat-v-cine-3-1992-1080p-cz-titulky-mkv/c93281c28e13d200) (ID 29493403) | [Sdílej 33480035](https://sdilej.cz/33480035/once.upon.a.time.in.china.ii.1992.multi.vfi.1080p.hdlight.ac3.5.1.h264-lihdl.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:53.744765+00:00 |
 | [Terrifier (2016) 1080p CZ Titulky](https://prehraj.to/terrifier-2016-1080p-cz-titulky-mp4/ca87c518e303ec78) (ID 29929405) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755767+00:00 |
 | [Terrifier 2 (2022) 1080p CZ Titulky](https://prehraj.to/terrifier-2-2022-1080p-cz-titulky-mkv/7d880e94d3e2e470) (ID 29911592) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.754991+00:00 |
+| [Texas Rangers (2001) 720p CZ Titulky](https://prehraj.to/texas-rangers-2001-720p-cz-titulky-mkv/d07634f5e8c38ab3) (ID 29751439) | [Sdílej 34347758](https://sdilej.cz/34347758/texas-rangers-2001-akcni-western-usa-cztit.hd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:16.491963+00:00 |
 | [Texaský masakr motorovou pilou 2 (1986) SD CZ Titulky](https://prehraj.to/texasky-masakr-motorovou-pilou-2-1986-sd-cz-titulky-mkv/99ec8b572457fcfd) (ID 29936734) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756026+00:00 |
 | [The Act of Reading (2021) 1080p CZ Titulky](https://prehraj.to/the-act-of-reading-2021-1080p-cz-titulky-mp4/70ed6c4107403ab8) (ID 29587600) | [Sdílej 34772666](https://sdilej.cz/34772666/the-act-of-reading-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:22:22.171637+00:00 |
 | [The Alpinist (2021) 1080p CZ Titulky](https://prehraj.to/the-alpinist-2021-1080p-cz-titulky-mkv/5eb14da44aa5aaef) (ID 29316522) | [Sdílej 18646868](https://sdilej.cz/18646868/the.alpinist.2021.1080p.web-dl.dd5.1.h.264-tepes.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:10.545312+00:00 |
