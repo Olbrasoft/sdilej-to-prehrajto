@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:26:29.141184+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:26:33.831763+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 115, `pending`: 1, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1141,6 +1141,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Sharktopus (2023) 1080p CZ Titulky](https://prehraj.to/sharktopus-2023-1080p-cz-titulky-mkv/72560b8bcd6b16f3) (ID 29919398) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755490+00:00 |
 | [Sharp Teeth (2024) 720p CZ Titulky](https://prehraj.to/sharp-teeth-2024-720p-cz-titulky-mp4/b2b07c5b5db7805b) (ID 29919412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755496+00:00 |
 | [Shelby Oaks (2024) 1080p CZ Titulky](https://prehraj.to/shelby-oaks-2024-1080p-cz-titulky-mkv/6ef2aef2076ba5bb) (ID 29748440) | [Sdílej 32452776](https://sdilej.cz/32452776/shelby-oaks-2024-1080p.-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:37:00.930637+00:00 |
+| [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:33.831714+00:00 |
 | [Shirley (2020) 1080p CZ Titulky](https://prehraj.to/shirley-2020-1080p-cz-titulky-mkv/1cf529a63914c19b) (ID 29530075) | [Sdílej 13635231](https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:02:19.463965+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T13:47:41.851854+00:00 |
 | [Sibir, Monamur (2011) SD CZ Titulky](https://prehraj.to/sibir-monamur-2011-sd-cz-titulky-avi/e5ecee3c6b6c3925) (ID 29387829) | [Sdílej 6812640](https://sdilej.cz/6812640/sibir-monamur-siberia-monamour-2011-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:34:11.606385+00:00 |
