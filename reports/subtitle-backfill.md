@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:03:24.468801+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:03:28.587154+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 123, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 16, `target_processing`: 5, `target_unavailable`: 9
+Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 122, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 16, `target_processing`: 5, `target_unavailable`: 10
 
 ## Poslední dávka
 
@@ -1742,6 +1742,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | source_media_timeout | 2026-10-12T10:52:36.214784+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-12T08:59:57.102876+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-12T10:52:44.592841+00:00 |
+| [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | target_unavailable | 2026-10-12T18:03:28.587113+00:00 |
 | [Šiva Baby (2020) 1080p CZ Titulky](https://prehraj.to/siva-baby-2020-1080p-cz-titulky-mkv/b7840e05ea6bb506) (ID 29346819) | [Sdílej 27452081](https://sdilej.cz/27452081/shiva-baby-2020-1080p-bluray-x265-10bit-tigole-.mkv) | source_unavailable | 2026-10-12T10:52:55.874681+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
