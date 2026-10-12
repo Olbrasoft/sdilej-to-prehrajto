@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:20:31.459927+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:20:35.689560+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 71, `pending`: 46, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 72, `pending`: 45, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -222,6 +222,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Citová hodnota (2025) 1080p CZ Titulky](https://prehraj.to/citova-hodnota-2025-1080p-cz-titulky-mkv/fcc0c54a241aa6a7) (ID 29396122) | [Sdílej 32756240](https://sdilej.cz/32756240/citova-hodnota-2025-cztit-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:03.640720+00:00 |
 | [Civil War (Or, Who Do We Think We Are) (2021) 1080p CZ Titulky](https://prehraj.to/civil-war-or-who-do-we-think-we-are-2021-1080p-cz-titulky-mp4/493af690f593ded3) (ID 29257379) | [Sdílej 34773002](https://sdilej.cz/34773002/civil-war-or-who-do-we-think-we-are-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:36:59.555924+00:00 |
 | [Cizí oči (1981) 1080p CZ Titulky](https://prehraj.to/cizi-oci-1981-1080p-cz-titulky-mkv/ad6fae4b71b4b32e) (ID 29578873) | [Sdílej 28527253](https://sdilej.cz/28527253/cizi-oci-eyes-of-a-stranger-1981-fhd-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:19:07.310605+00:00 |
+| [Clara (2018) SD CZ Titulky](https://prehraj.to/clara-2018-sd-cz-titulky-mkv/e34b2249266f3b5d) (ID 29631340) | [Sdílej 12083199](https://sdilej.cz/12083199/clara-2018-web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:35.689513+00:00 |
 | [Clear Cut (2024) 720p CZ Titulky](https://prehraj.to/clear-cut-2024-720p-cz-titulky-mp4/ab83a817a6c97c2e) (ID 29904826) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.018598+00:00 |
 | [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:52:28.804494+00:00 |
 | [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T05:38:00.863763+00:00 |
