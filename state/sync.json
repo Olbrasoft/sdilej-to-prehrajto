@@ -201297,17 +201297,20 @@
       }
     },
     "3979": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33177418",
+          "target_video_id": "30204242",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-12T17:25:12.147951+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33177418",
         "display_name": "Oko dravce (2008) 4K CZ Dabing",
         "planned_at": "2026-10-12T17:03:46.659749+00:00"
-      },
-      "claim": {
-        "worker_id": "9401f822a0884b289f83b98d978b32e9-shard-0",
-        "claimed_at": "2026-10-12T17:06:07.208876+00:00",
-        "lease_expires_at": "2026-10-12T23:06:07.208876+00:00",
-        "run_id": "38252530826"
       },
       "previous_target_id": "30204242",
       "prepared": {
@@ -362880,5 +362883,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-12T17:06:26.813254+00:00"
+  "updated_at": "2026-10-12T17:25:12.147970+00:00"
 }
