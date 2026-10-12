@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:26:08.281539+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:26:12.409419+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 110, `pending`: 6, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 111, `pending`: 5, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -96,6 +96,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Ašoka (2001) SD CZ Titulky](https://prehraj.to/asoka-2001-sd-cz-titulky-mp4/3ae647b318928418) (ID 29236389) | [Sdílej 34903495](https://sdilej.cz/34903495/asoka-2001-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:33:11.250999+00:00 |
 | [Až do poslední smrti (2019) 1080p CZ Titulky](https://prehraj.to/az-do-posledni-smrti-2019-1080p-cz-titulky-mp4/4937041ca14a46a2) (ID 29613447) | [Sdílej 34764110](https://sdilej.cz/34764110/az-do-posledni-smrti-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:34:43.954005+00:00 |
 | [Až na věky (2024) 1080p CZ Titulky](https://prehraj.to/az-na-veky-2024-1080p-cz-titulky-mp4/b8e0b025dbc56392) (ID 30030557) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756657+00:00 |
+| [Baaghi (2016) 1080p CZ Titulky](https://prehraj.to/baaghi-2016-1080p-cz-titulky-mkv/3e815fc9d9b61d4b) (ID 29749751) | [Sdílej 34799023](https://sdilej.cz/34799023/baaghi-1-akcni-indie-tiger-shroff-2016-cztit.1080p.bluray.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:12.409369+00:00 |
 | [Baahubali: The Beginning (2015) SD CZ Titulky](https://prehraj.to/baahubali-the-beginning-2015-sd-cz-titulky-mp4/49e5f3a13e73fc13) (ID 29215227) | [Sdílej 34697577](https://sdilej.cz/34697577/baahubali-the-beginning-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T17:36:05.384425+00:00 |
 | [Babadook (2014) 1080p CZ Titulky](https://prehraj.to/babadook-2014-1080p-cz-titulky-mkv/3d27c0c347053c48) (ID 29654576) | [Sdílej 24232095](https://sdilej.cz/24232095/the-babadook-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:00:25.529720+00:00 |
 | [Babygirl (2024) 1080p CZ Titulky](https://prehraj.to/babygirl-2024-1080p-cz-titulky-mp4/5941aa4bea043be3) (ID 29937986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756078+00:00 |
