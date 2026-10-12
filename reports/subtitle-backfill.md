@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:24:52.663451+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:24:56.863638+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 92, `pending`: 24, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 93, `pending`: 23, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -792,6 +792,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T06:54:04.759721+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:16.462931+00:00 |
 | [Mob Town (2019) 1080p CZ Titulky](https://prehraj.to/mob-town-2019-1080p-cz-titulky-mkv/7f8cdbb765879ad1) (ID 29634038) | [Sdílej 12783098](https://sdilej.cz/12783098/mob.town.2019.1080p.web-dl.dd5.1.h264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:44:25.185687+00:00 |
+| [Model House (2024) 1080p CZ Titulky](https://prehraj.to/model-house-2024-1080p-cz-titulky-mkv/10b7df99e8ef40db) (ID 29707140) | [Sdílej 34076738](https://sdilej.cz/34076738/model-house-a-morte-segue-voc-.2024.1080p.web-dl.x264.dual.5.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:56.863586+00:00 |
 | [Moderní doba (1936) SD CZ Titulky](https://prehraj.to/moderni-doba-1936-sd-cz-titulky-avi/8a537b90fc61ac83) (ID 29188864) | [Sdílej 32220611](https://sdilej.cz/32220611/moderni-doba-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:44:13.117981+00:00 |
 | [Mohabbatein (2000) SD CZ Titulky](https://prehraj.to/mohabbatein-2000-sd-cz-titulky-mp4/596b2a114e81325a) (ID 29263611) | [Sdílej 34751508](https://sdilej.cz/34751508/mohabbatein-2000-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T22:33:38.424558+00:00 |
 | [Moje dcera je zombie (2025) 1080p CZ Titulky](https://prehraj.to/moje-dcera-je-zombie-2025-1080p-cz-titulky-mkv/142026d0abb3719d) (ID 29919615) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755501+00:00 |
