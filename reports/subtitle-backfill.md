@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:16:41.631760+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:16:45.881257+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 21, `pending`: 97, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 22, `pending`: 96, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1017,6 +1017,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Que Dios nos perdone (2016) SD CZ Titulky](https://prehraj.to/que-dios-nos-perdone-2016-sd-cz-titulky-avi/c0a87f748dac40c0) (ID 30039913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021822+00:00 |
 | [Ra.One (2011) SD CZ Titulky](https://prehraj.to/ra-one-2011-sd-cz-titulky-mp4/7734dccf7f2e3e3b) (ID 29753011) | [Sdílej 34747028](https://sdilej.cz/34747028/ra.one-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:40:48.823732+00:00 |
 | [Rabid (2019) SD CZ Titulky](https://prehraj.to/rabid-2019-sd-cz-titulky-mkv/bfcd5f70f8fb6d23) (ID 29929068) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020609+00:00 |
+| [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:45.881217+00:00 |
 | [Rampage (2009) SD CZ Titulky](https://prehraj.to/rampage-2009-sd-cz-titulky-mp4/b88dd7abf2937d75) (ID 29996473) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021548+00:00 |
 | [Rande na oko (2020) 1080p CZ Titulky](https://prehraj.to/rande-na-oko-2020-1080p-cz-titulky-mp4/b312d76d695945f4) (ID 29430070) | [Sdílej 31626274](https://sdilej.cz/31626274/rande-na-oko-2020-en-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:51.850975+00:00 |
 | [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:03:59.191153+00:00 |
