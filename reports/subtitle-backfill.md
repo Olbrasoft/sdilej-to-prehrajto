@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:16:16.975137+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:16:20.875655+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 15, `pending`: 103, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 16, `pending`: 102, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -834,6 +834,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Nightlight (2015) SD CZ Titulky](https://prehraj.to/nightlight-2015-sd-cz-titulky-avi/e7487c784ff10942) (ID 29732596) | [Sdílej 16621779](https://sdilej.cz/16621779/nightlight-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:07:03.643522+00:00 |
 | [Nightmare Cinema (2018) 1080p CZ Titulky](https://prehraj.to/nightmare-cinema-2018-1080p-cz-titulky-mkv/f75889b9b48eae26) (ID 29706566) | [Sdílej 30696122](https://sdilej.cz/30696122/nightmare-cinema-2018-1080p-bluray-x264-sk-sub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:42.834761+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.018552+00:00 |
+| [Nikdy nepláču (2020) 1080p CZ Titulky](https://prehraj.to/nikdy-neplacu-2020-1080p-cz-titulky-mkv/b304f3e4838aa6ae) (ID 29256661) | [Sdílej 21247329](https://sdilej.cz/21247329/nikdy-neplacu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:20.875609+00:00 |
 | [Nikdy neříkej sbohem (2006) SD CZ Titulky](https://prehraj.to/nikdy-nerikej-sbohem-2006-sd-cz-titulky-mp4/958214e0a5713b0d) (ID 29614101) | [Sdílej 34751294](https://sdilej.cz/34751294/nikdy-nerikej-sbohem-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:36:13.180373+00:00 |
 | [No Beast So Fierce (2016) 720p CZ Titulky](https://prehraj.to/no-beast-so-fierce-2016-720p-cz-titulky-mp4/1854930a19d1ae3f) (ID 29282010) | [Sdílej 34737709](https://sdilej.cz/34737709/no-beast-so-fierce-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:14:45.035858+00:00 |
 | [No Safe Spaces (2019) 1080p CZ Titulky](https://prehraj.to/no-safe-spaces-2019-1080p-cz-titulky-mp4/c796a048dd88b09a) (ID 29629794) | [Sdílej 34902754](https://sdilej.cz/34902754/no-safe-spaces-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:37:27.442322+00:00 |
