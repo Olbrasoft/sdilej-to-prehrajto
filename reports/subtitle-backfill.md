@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:25:47.137294+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:25:51.386869+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 105, `pending`: 11, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 106, `pending`: 10, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1322,6 +1322,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 27. Dův
 | [The Nightingale (2018) 1080p CZ Titulky](https://prehraj.to/the-nightingale-2018-1080p-cz-titulky-mkv/05781f1bad4664ec) (ID 30030971) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.756675+00:00 |
 | [The Nine Lives of Ozzy Osbourne (2020) 1080p CZ Titulky](https://prehraj.to/the-nine-lives-of-ozzy-osbourne-2020-1080p-cz-titulky-mp4/1d9a1dc4b7bb8d0f) (ID 29417622) | [Sdílej 34731971](https://sdilej.cz/34731971/the-nine-lives-of-ozzy-osbourne-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:46:29.815887+00:00 |
 | [The Occupant (2025) 4K CZ Titulky](https://prehraj.to/the-occupant-2025-4k-cz-titulky-mkv/174d168f8ac44197) (ID 29928626) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755740+00:00 |
+| [The Offering (2022) 1080p CZ Titulky](https://prehraj.to/the-offering-2022-1080p-cz-titulky-mkv/36f5b832613dd6b7) (ID 29740131) | [Sdílej 25686579](https://sdilej.cz/25686579/the-offering-2022-cz-sub-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:51.386813+00:00 |
 | [The Old Way (2023) 1080p CZ Titulky](https://prehraj.to/the-old-way-2023-1080p-cz-titulky-avi/b2c9c7a791c2a853) (ID 29936176) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:22:59.755980+00:00 |
 | [The Orphan Killer (2011) SD CZ Titulky](https://prehraj.to/the-orphan-killer-2011-sd-cz-titulky-mp4/2012452475b525db) (ID 29748318) | [Sdílej 34745875](https://sdilej.cz/34745875/the-orphan-killer-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:36:34.772105+00:00 |
 | [The Other (2025) 1080p CZ Titulky](https://prehraj.to/the-other-2025-1080p-cz-titulky-mkv/da3c92b1164cead0) (ID 29649805) | [Sdílej 31430379](https://sdilej.cz/31430379/the-other-2025-1080p-eng-tit-by-pefto-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:57:21.867521+00:00 |
