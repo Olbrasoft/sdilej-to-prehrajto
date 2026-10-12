@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:03:13.562726+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:03:16.866479+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 126, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 14, `target_processing`: 5, `target_unavailable`: 8
+Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 125, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 15, `target_processing`: 5, `target_unavailable`: 8
 
 ## Poslední dávka
 
@@ -819,6 +819,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:15:30.361931+00:00 |
 | [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:14:38.174718+00:00 |
 | [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:55:51.707176+00:00 |
+| [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-12T18:03:16.866411+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:56:52.450434+00:00 |
 | [Lazarat (2019) 1080p CZ Titulky](https://prehraj.to/lazarat-2019-1080p-cz-titulky-mkv/8250b6eda6f4bcc1) (ID 29991853) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:02:28.682144+00:00 |
 | [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:04:03.383592+00:00 |
