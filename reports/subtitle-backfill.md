@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:02:44.016064+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:02:47.284817+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 135, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 5, `target_processing`: 5, `target_unavailable`: 8
+Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 134, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 6, `target_processing`: 5, `target_unavailable`: 8
 
 ## Poslední dávka
 
@@ -1117,6 +1117,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:37:06.747781+00:00 |
 | [Posedlá kontrolou (2025) 1080p CZ Titulky](https://prehraj.to/posedla-kontrolou-2025-1080p-cz-titulky-mp4/cb9490a669054a3a) (ID 29747271) | [Sdílej 30831027](https://sdilej.cz/30831027/control-freak-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:35:52.589831+00:00 |
 | [Posedlý (2000) SD CZ Titulky](https://prehraj.to/posedly-2000-sd-cz-titulky-mkv/6f3310947941a8f8) (ID 29532966) | [Sdílej 15081219](https://sdilej.cz/15081219/possessor.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:02:31.472898+00:00 |
+| [Poslední Viking (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29212781) | [Sdílej 33265909](https://sdilej.cz/33265909/2025-posledni-viking-komedie-drama-79-dansko-cz-tit..mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-12T18:02:47.284733+00:00 |
 | [Poslední autobus (2021) 1080p CZ Titulky](https://prehraj.to/posledni-autobus-2021-1080p-cz-titulky-mkv/afcb372bb516f3e6) (ID 29631425) | [Sdílej 31679567](https://sdilej.cz/31679567/the-last-bus-2021-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:21.411647+00:00 |
 | [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:41:11.140276+00:00 |
 | [Poslední víkend (2024) 1080p CZ Titulky](https://prehraj.to/posledni-vikend-2024-1080p-cz-titulky-mkv/8436b0079b7507cc) (ID 30136129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:02:28.683001+00:00 |
