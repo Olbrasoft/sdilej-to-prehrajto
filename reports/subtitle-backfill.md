@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:19:35.787050+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:19:39.930220+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 58, `pending`: 59, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 59, `pending`: 58, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -966,6 +966,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Plán pro rodinu 2 (2025) 1080p CZ Titulky](https://prehraj.to/plan-pro-rodinu-2-2025-1080p-cz-titulky-mkv/e36f30a084a0a417) (ID 29937266) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021195+00:00 |
 | [Pláž Paradise (2019) 1080p CZ Titulky](https://prehraj.to/plaz-paradise-2019-1080p-cz-titulky-mp4/67fe31e31653b1c1) (ID 29751130) | [Sdílej 34734056](https://sdilej.cz/34734056/plaz-paradise-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:39:44.066221+00:00 |
 | [Po bouři (2016) SD CZ Titulky](https://prehraj.to/po-bouri-2016-sd-cz-titulky-avi/edde76ac660cfec3) (ID 29411862) | [Sdílej 8877514](https://sdilej.cz/8877514/po-bouri-after-the-storm-2016-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:44:05.245427+00:00 |
+| [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:39.930187+00:00 |
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:35:49.148381+00:00 |
 | [Pohotovost (2022) 1080p CZ Titulky](https://prehraj.to/pohotovost-2022-1080p-cz-titulky-mp4/9733d1faac99634d) (ID 29983579) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021463+00:00 |
 | [Pohoří smrti (1971) SD CZ Titulky](https://prehraj.to/pohori-smrti-1971-sd-cz-titulky-avi/19fcfffd442d6741) (ID 29674507) | [Sdílej 31350916](https://sdilej.cz/31350916/pohori-smrti-19-djevojaka-i-mornar-1971-czt-valecny-a-v.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:34:22.821201+00:00 |
