@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:21:00.679432+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:21:04.780140+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 78, `pending`: 39, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 79, `pending`: 38, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -1154,6 +1154,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 147. Dův
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:45:57.238745+00:00 |
 | [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:12:33.839584+00:00 |
 | [Snadný prachy (2010) SD CZ Titulky](https://prehraj.to/snadny-prachy-2010-sd-cz-titulky-mp4/4169c43a8e39c051) (ID 30127797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.022890+00:00 |
+| [Sneaks (2025) 720p CZ Titulky](https://prehraj.to/sneaks-2025-720p-cz-titulky-mkv/5108753c1968d45c) (ID 29646492) | [Sdílej 31019560](https://sdilej.cz/31019560/sneaks.2025.720p.amzn.web-dl.ddp5.1.h.264-byndr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:04.780099+00:00 |
 | [Sniper: Assassin's End (2020) SD CZ Titulky](https://prehraj.to/sniper-assassin-s-end-2020-sd-cz-titulky-avi/1c0c605850ba5b9b) (ID 29925831) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.020406+00:00 |
 | [Sniper: Finální rána (2017) 720p CZ Titulky](https://prehraj.to/sniper-finalni-rana-2017-720p-cz-titulky-mp4/53f72e836969de0d) (ID 29914261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.019607+00:00 |
 | [Snowden (2016) 1080p CZ Titulky](https://prehraj.to/snowden-2016-1080p-cz-titulky-mp4/c2cc21626046f0d3) (ID 30014660) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:11:07.021637+00:00 |
