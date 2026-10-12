@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-12T18:02:28.693685+00:00
+Poslední aktualizace (UTC): 2026-10-12T18:02:30.261288+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 140, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_processing`: 5, `target_unavailable`: 8
+Stavy: `already_has_czech`: 278, `attached_verified`: 23, `pending`: 139, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 835, `source_unavailable`: 14, `target_detail_url_missing`: 1, `target_processing`: 5, `target_unavailable`: 8
 
 ## Poslední dávka
 
@@ -114,6 +114,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Badrinath Ki Dulhania (2017) SD CZ Titulky](https://prehraj.to/badrinath-ki-dulhania-2017-sd-cz-titulky-mp4/ae1bbefe2f26d754) (ID 29611698) | [Sdílej 34737525](https://sdilej.cz/34737525/badrinath-ki-dulhania-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:31:21.501071+00:00 |
 | [Baggio: Božský copánek (2021) 1080p CZ Titulky](https://prehraj.to/baggio-bozsky-copanek-2021-1080p-cz-titulky-mp4/dce78961197bd72d) (ID 29585364) | [Sdílej 34731587](https://sdilej.cz/34731587/baggio-bozsky-copanek-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:20:59.687381+00:00 |
 | [Bajirao Mastani (2015) SD CZ Titulky](https://prehraj.to/bajirao-mastani-2015-sd-cz-titulky-mp4/c5a3b4ba30efa8da) (ID 29489428) | [Sdílej 34738142](https://sdilej.cz/34738142/bajirao-mastani-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:57:05.271791+00:00 |
+| [Banana Split (2018) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 28999060) | [Sdílej 13831999](https://sdilej.cz/13831999/banana-split-en-vlozene-titulky-2018-komedie-1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-12T18:02:30.261240+00:00 |
 | [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:08:49.721027+00:00 |
 | [Bang Bang! (2014) 1080p CZ Titulky](https://prehraj.to/bang-bang-2014-1080p-cz-titulky-mp4/822669eb9921d6c4) (ID 29926327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:02:28.681547+00:00 |
 | [Bankéř (2020) 1080p CZ Titulky](https://prehraj.to/banker-2020-1080p-cz-titulky-mkv/7b79e977e8faabd4) (ID 30030662) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-12T18:02:28.682306+00:00 |
