@@ -214761,7 +214761,15 @@
       "attempts": []
     },
     "16776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11227658",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-13T11:57:34.553017+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11227658",
         "display_name": "Cézanne a já (2016) 1080p CZ Dabing",
@@ -214804,7 +214812,15 @@
       "attempts": []
     },
     "10996": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34061123",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-13T11:57:55.123651+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34061123",
         "display_name": "Mayerling (1968) 720p CZ Dabing",
@@ -214818,7 +214834,15 @@
       "attempts": []
     },
     "8470": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "21006578",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-13T11:58:15.687183+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21006578",
         "display_name": "Rodiče versus influenceři (2021) 1080p SK Dabing",
@@ -214849,6 +214873,18 @@
         "source_id": "25785941",
         "display_name": "Hannie Caulderová (1971) 1080p CZ Dabing",
         "planned_at": "2026-10-13T06:59:36.237988+00:00"
+      },
+      "claim": {
+        "worker_id": "17b5afc267234be7ab690dbcc9921d8c-shard-0",
+        "claimed_at": "2026-10-13T11:58:15.913478+00:00",
+        "lease_expires_at": "2026-10-13T17:58:15.913478+00:00",
+        "run_id": "38359010450"
+      },
+      "previous_target_id": "30218512",
+      "prepared": {
+        "target_video_id": "30218512",
+        "size_bytes": 2054529088,
+        "prepared_at": "2026-10-13T11:58:39.483600+00:00"
       }
     },
     "26024": {
@@ -368740,5 +368776,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-13T11:57:08.459892+00:00"
+  "updated_at": "2026-10-13T11:58:39.483614+00:00"
 }
