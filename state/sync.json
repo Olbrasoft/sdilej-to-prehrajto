@@ -216631,17 +216631,20 @@
       "attempts": []
     },
     "37216": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34924754",
+          "target_video_id": "30222109",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-13T17:00:46.143345+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34924754",
         "display_name": "El Susurro (2026) 4K CZ Dabing",
         "planned_at": "2026-10-13T12:50:13.436317+00:00"
-      },
-      "claim": {
-        "worker_id": "3523ad46daea445c8563dbb05c4c4975-shard-0",
-        "claimed_at": "2026-10-13T16:07:00.911192+00:00",
-        "lease_expires_at": "2026-10-13T22:07:00.911192+00:00",
-        "run_id": "38399556484"
       },
       "previous_target_id": "30222109",
       "prepared": {
@@ -369456,5 +369459,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-13T16:07:05.098062+00:00"
+  "updated_at": "2026-10-13T17:00:46.143364+00:00"
 }
