@@ -218757,7 +218757,15 @@
       "attempts": []
     },
     "24994": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "16787138",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-13T19:55:04.459356+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16787138",
         "display_name": "Ztracené (2003) 1080p CZ Dabing",
@@ -218785,6 +218793,18 @@
         "source_id": "34681058",
         "display_name": "Nero, císař římský (2004) SD CZ Dabing",
         "planned_at": "2026-10-13T18:40:45.431599+00:00"
+      },
+      "claim": {
+        "worker_id": "fe77f24be886445a80ac1be8ecf2344e-shard-0",
+        "claimed_at": "2026-10-13T19:55:04.826618+00:00",
+        "lease_expires_at": "2026-10-14T01:55:04.826618+00:00",
+        "run_id": "38448204230"
+      },
+      "previous_target_id": "30226720",
+      "prepared": {
+        "target_video_id": "30226720",
+        "size_bytes": 1800050786,
+        "prepared_at": "2026-10-13T19:55:28.143788+00:00"
       }
     },
     "4071": {
@@ -370091,5 +370111,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-13T19:54:41.105955+00:00"
+  "updated_at": "2026-10-13T19:55:28.143807+00:00"
 }
