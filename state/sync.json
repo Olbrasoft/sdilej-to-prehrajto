@@ -226076,17 +226076,20 @@
       }
     },
     "15400": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33103012",
+          "target_video_id": "30247123",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-14T18:49:25.871285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33103012",
         "display_name": "Maturita duchů (2012) 720p CZ Dabing",
         "planned_at": "2026-10-14T18:03:13.527033+00:00"
-      },
-      "claim": {
-        "worker_id": "b7f814c22ecb410f8a8a23643714191e-shard-0",
-        "claimed_at": "2026-10-14T18:43:02.232344+00:00",
-        "lease_expires_at": "2026-10-15T00:43:02.232344+00:00",
-        "run_id": "38606659090"
       },
       "previous_target_id": "30247123",
       "prepared": {
@@ -372909,5 +372912,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-14T18:43:24.995386+00:00"
+  "updated_at": "2026-10-14T18:49:25.871305+00:00"
 }
