@@ -226950,7 +226950,15 @@
       }
     },
     "5483": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34506578",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-14T20:01:35.393902+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34506578",
         "display_name": "Pýcha a předsudek pod jmelím (2018) 1080p CZ Dabing",
@@ -226994,7 +227002,15 @@
       }
     },
     "33394": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29740492",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-14T20:01:56.165527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29740492",
         "display_name": "Anděl spravedlnosti (2007) SD CZ Dabing",
@@ -227017,11 +227033,25 @@
       }
     },
     "30409": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31646008",
+          "target_video_id": "30009276",
+          "permanent": false,
+          "attempted_at": "2026-10-14T20:02:36.393475+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31646008",
         "display_name": "Herkules (1997) 1080p CZ Dabing",
         "planned_at": "2026-10-14T18:03:21.991780+00:00"
+      },
+      "previous_target_id": "30009276",
+      "prepared": {
+        "target_video_id": "30009276",
+        "size_bytes": 2100000000,
+        "prepared_at": "2026-10-14T20:02:36.393457+00:00"
       }
     },
     "31027": {
@@ -373103,5 +373133,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-14T20:01:11.875417+00:00"
+  "updated_at": "2026-10-14T20:02:36.393480+00:00"
 }
