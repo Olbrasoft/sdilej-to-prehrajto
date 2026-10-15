@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T20:33:51.834497+00:00
+Poslední aktualizace (UTC): 2026-10-15T20:33:55.702229+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1602,7 +1602,7 @@ Kontrol: 16; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-15T18:43:21.304917+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-15T18:42:50.293529+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-15T18:42:58.954946+00:00 |
-| [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-15T18:42:46.606061+00:00 |
+| [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-15T20:33:55.702173+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | target_unavailable | 2026-10-15T20:33:36.522289+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-15T19:29:05.676781+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-15T19:28:37.961535+00:00 |
