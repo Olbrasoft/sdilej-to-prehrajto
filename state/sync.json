@@ -233747,7 +233747,15 @@
       "attempts": []
     },
     "4434": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33199058",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-15T18:52:34.792606+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33199058",
         "display_name": "Splitsville (2025) 4K CZ Titulky",
@@ -233800,7 +233808,15 @@
       "attempts": []
     },
     "6582": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35005090",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-15T18:52:55.653263+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35005090",
         "display_name": "Nerozluční (2019) 1080p CZ Dabing",
@@ -233828,6 +233844,18 @@
         "source_id": "28086288",
         "display_name": "První úkol - Dračí srdce (1985) 1080p CZ Dabing",
         "planned_at": "2026-10-15T17:27:08.227246+00:00"
+      },
+      "claim": {
+        "worker_id": "40d05c4d21704df48bb729a3704326bb-shard-0",
+        "claimed_at": "2026-10-15T18:52:55.977749+00:00",
+        "lease_expires_at": "2026-10-16T00:52:55.977749+00:00",
+        "run_id": "38777179477"
+      },
+      "previous_target_id": "30271100",
+      "prepared": {
+        "target_video_id": "30271100",
+        "size_bytes": 2132277631,
+        "prepared_at": "2026-10-15T18:53:19.371003+00:00"
       }
     },
     "18062": {
@@ -376227,5 +376255,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-15T18:52:09.375124+00:00"
+  "updated_at": "2026-10-15T18:53:19.371018+00:00"
 }
