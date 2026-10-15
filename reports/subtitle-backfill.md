@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T22:30:27.692939+00:00
+Poslední aktualizace (UTC): 2026-10-15T22:30:37.852785+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -248,7 +248,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Crazy Lake (2016) 720p CZ Titulky](https://prehraj.to/crazy-lake-2016-720p-cz-titulky-mp4/a924f59a3dcf18fb) (ID 29611093) | [Sdílej 34737829](https://sdilej.cz/34737829/crazy-lake-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:30:21.493915+00:00 |
 | [Creation Stories (2021) 1080p CZ Titulky](https://prehraj.to/creation-stories-2021-1080p-cz-titulky-mkv/f894dca557a5f133) (ID 29375643) | [Sdílej 18049678](https://sdilej.cz/18049678/creation-stories-2021-1080p-web-dl-dd5-1-h-264-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:35:57.044302+00:00 |
 | [Creation of the Gods I: Kingdom of Storms (2023) 1080p CZ Titulky](https://prehraj.to/creation-of-the-gods-i-kingdom-of-storms-2023-1080p-cz-titulky-mp4/1c5bd848f28ba74b) (ID 30171813) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.271229+00:00 |
-| [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:33:26.009138+00:00 |
+| [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:30:37.852661+00:00 |
 | [Cropsey (2009) 720p CZ Titulky](https://prehraj.to/cropsey-2009-720p-cz-titulky-mp4/4a6145fd13cbe1b0) (ID 29243103) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.265074+00:00 |
 | [Crypto (2019) 1080p CZ Titulky](https://prehraj.to/crypto-2019-1080p-cz-titulky-mkv/d362967681099f1a) (ID 29915674) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.268223+00:00 |
 | [Cuckoo (2024) 4K CZ Titulky](https://prehraj.to/cuckoo-2024-4k-cz-titulky-mp4/d92eab08a10ff57d) (ID 29932128) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.269062+00:00 |
