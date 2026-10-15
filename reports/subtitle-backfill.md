@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T14:42:07.006193+00:00
+Poslední aktualizace (UTC): 2026-10-15T14:42:14.452962+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1510,7 +1510,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Your Host (2025) 1080p CZ Titulky](https://prehraj.to/your-host-2025-1080p-cz-titulky-mkv/7ca17c9b86029012) (ID 29917725) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.949061+00:00 |
 | [Z lásky (2025) 1080p CZ Titulky](https://prehraj.to/z-lasky-2025-1080p-cz-titulky-mp4/d3c7fa077288224d) (ID 29656881) | [Sdílej 34717900](https://sdilej.cz/34717900/preslapy-z-lasky-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:01:25.755263+00:00 |
 | [Za hranicí strachu (2007) SD CZ Titulky](https://prehraj.to/za-hranici-strachu-2007-sd-cz-titulky-avi/8209afc211328529) (ID 29931688) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.949714+00:00 |
-| [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:39:42.187390+00:00 |
+| [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:42:14.452837+00:00 |
 | [Zabijáci z maloměsta (2017) 720p CZ Titulky](https://prehraj.to/zabijaci-z-malomesta-2017-720p-cz-titulky-avi/a27b7a3d3dd6356a) (ID 29912184) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.948646+00:00 |
 | [Zachránit Leningrad (2019) 1080p CZ Titulky](https://prehraj.to/zachranit-leningrad-2019-1080p-cz-titulky-mkv/bebd525c372cab25) (ID 29987922) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.950656+00:00 |
 | [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:09:41.560745+00:00 |
