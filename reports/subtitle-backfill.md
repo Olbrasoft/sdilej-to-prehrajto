@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T22:35:16.417048+00:00
+Poslední aktualizace (UTC): 2026-10-15T22:35:20.284999+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 16
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 16
 
 ## Poslední dávka
 
@@ -602,7 +602,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [In Your Eyes (2014) 1080p CZ Titulky](https://prehraj.to/in-your-eyes-2014-1080p-cz-titulky-mp4/4ca7257a996ad0b1) (ID 29373572) | [Sdílej 32965271](https://sdilej.cz/32965271/in-your-eyes-2014-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:42:17.220635+00:00 |
 | [In the Trap (2019) SD CZ Titulky](https://prehraj.to/in-the-trap-2019-sd-cz-titulky-avi/176a356be83090e4) (ID 29646475) | [Sdílej 13633864](https://sdilej.cz/13633864/in.the.trap.2019.hdrip.xvid.ac3-evo.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:53:09.475803+00:00 |
 | [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:50:36.001364+00:00 |
-| [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T22:34:15.556409+00:00 |
 | [Inner Demons (2014) SD CZ Titulky](https://prehraj.to/inner-demons-2014-sd-cz-titulky-avi/49e73732dbab1b79) (ID 29679619) | [Sdílej 34447135](https://sdilej.cz/34447135/inner-demons.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:36:56.997361+00:00 |
 | [Internet Famous (2016) SD CZ Titulky](https://prehraj.to/internet-famous-2016-sd-cz-titulky-mp4/14f9f8f47b2fcc8e) (ID 29751947) | [Sdílej 34737763](https://sdilej.cz/34737763/internet-famous-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:40:20.790017+00:00 |
 | [Into the Ashes (2019) 1080p CZ Titulky](https://prehraj.to/into-the-ashes-2019-1080p-cz-titulky-mkv/0d20a038c2f1901a) (ID 29927444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.268859+00:00 |
@@ -1601,6 +1600,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-15T20:34:18.663186+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-15T20:34:30.074422+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-15T20:33:59.659450+00:00 |
+| [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | source_unavailable | 2026-10-15T22:35:20.284963+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-15T20:34:07.278739+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-15T20:33:55.702173+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | target_unavailable | 2026-10-15T20:33:36.522289+00:00 |
