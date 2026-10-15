@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T14:41:28.838863+00:00
+Poslední aktualizace (UTC): 2026-10-15T14:41:50.440766+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1459,7 +1459,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Vymahač (2016) 720p CZ Titulky](https://prehraj.to/vymahac-2016-720p-cz-titulky-avi/222857be29a41454) (ID 30138959) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.952112+00:00 |
 | [Vzplanutí na Rye Lane (2023) 1080p CZ Titulky](https://prehraj.to/vzplanuti-na-rye-lane-2023-1080p-cz-titulky-mkv/66fb072f3c0169cb) (ID 29339891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.943904+00:00 |
 | [Vzpomínka na Benátky (2018) 1080p CZ Titulky](https://prehraj.to/vzpominka-na-benatky-2018-1080p-cz-titulky-mp4/a9ddb00de5c628fc) (ID 29636691) | [Sdílej 34487542](https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:45:50.986621+00:00 |
-| [Vzpoura (1967) SD CZ Titulky](https://prehraj.to/vzpoura-1967-sd-cz-titulky-avi/c16fa85f4bc2e976) (ID 29122069) | [Sdílej 32744263](https://sdilej.cz/32744263/vzpoura-1967-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:39:18.018366+00:00 |
+| [Vzpoura (1967) SD CZ Titulky](https://prehraj.to/vzpoura-1967-sd-cz-titulky-avi/c16fa85f4bc2e976) (ID 29122069) | [Sdílej 32744263](https://sdilej.cz/32744263/vzpoura-1967-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:41:50.440643+00:00 |
 | [Vábení sirén (2015) 1080p CZ Titulky](https://prehraj.to/vabeni-siren-2015-1080p-cz-titulky-mp4/839f1ed77a0a2e7d) (ID 29585630) | [Sdílej 34737935](https://sdilej.cz/34737935/vabeni-siren-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:21:13.039718+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T07:46:01.450909+00:00 |
 | [Vánoce s vůní máty (2021) 1080p CZ Titulky](https://prehraj.to/vanoce-s-vuni-maty-2021-1080p-cz-titulky-mp4/6435dfae930e7710) (ID 29242109) | [Sdílej 34772685](https://sdilej.cz/34772685/vanoce-s-vuni-maty-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:34:33.937588+00:00 |
