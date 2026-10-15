@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T22:33:35.489934+00:00
+Poslední aktualizace (UTC): 2026-10-15T22:33:49.899232+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -283,7 +283,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:33:24.730232+00:00 |
 | [Demony wojny wg Goi (1998) SD CZ Titulky](https://prehraj.to/demony-wojny-wg-goi-1998-sd-cz-titulky-mp4/42bf8d5180a87ad4) (ID 29719575) | [Sdílej 34784059](https://sdilej.cz/34784059/demony-wojny-wg-goi-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:53:07.099262+00:00 |
 | [Depeche Mode: M (2025) 1080p CZ Titulky](https://prehraj.to/depeche-mode-m-2025-1080p-cz-titulky-mp4/ae8a95e138d4b1b2) (ID 29444344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.266002+00:00 |
-| [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:36:49.824660+00:00 |
+| [Deset kánoí (2006) SD CZ Titulky](https://prehraj.to/deset-kanoi-2006-sd-cz-titulky-avi/5d7558ba06f99f4c) (ID 29256878) | [Sdílej 25837816](https://sdilej.cz/25837816/deset-kanoi-2006-aus-dobrodruzny-komedie-drama-valecny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:33:49.899105+00:00 |
 | [Deset malých černoušků (1965) SD CZ Titulky](https://prehraj.to/deset-malych-cernousku-1965-sd-cz-titulky-avi/77b425dc3e950fdc) (ID 30168747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.271209+00:00 |
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:32:29.832562+00:00 |
 | [Detention (2011) SD CZ Titulky](https://prehraj.to/detention-2011-sd-cz-titulky-mp4/ff932bdfed1d8a14) (ID 29936501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.269300+00:00 |
