@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T22:30:59.294512+00:00
+Poslední aktualizace (UTC): 2026-10-15T22:31:08.992280+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1381,7 +1381,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Tina a Vore (2018) 1080p CZ Titulky](https://prehraj.to/tina-a-vore-2018-1080p-cz-titulky-avi/2eed4247752c5d6c) (ID 29490691) | [Sdílej 11294620](https://sdilej.cz/11294620/border-tina-a-vore-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:57:35.469577+00:00 |
 | [Titan (2021) 1080p CZ Titulky](https://prehraj.to/titan-2021-1080p-cz-titulky-mkv/6ade23cf8a345579) (ID 29602740) | [Sdílej 27451283](https://sdilej.cz/27451283/titane-2021-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:23:59.627018+00:00 |
 | [Tlumočník (2018) 720p CZ Titulky](https://prehraj.to/tlumocnik-2018-720p-cz-titulky-mp4/2cb9d3921394872f) (ID 29636511) | [Sdílej 27481835](https://sdilej.cz/27481835/tlumocnik-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:45:39.066620+00:00 |
-| [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T21:34:00.047998+00:00 |
+| [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:31:08.992140+00:00 |
 | [Tobol (2019) SD CZ Titulky](https://prehraj.to/tobol-2019-sd-cz-titulky-mp4/793c7f85b112419e) (ID 29287806) | [Sdílej 34853793](https://sdilej.cz/34853793/tobol-the-conquest-of-siberia-2019-titulky.sk.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:53:45.451616+00:00 |
 | [Toc Toc (2017) 720p CZ Titulky](https://prehraj.to/toc-toc-2017-720p-cz-titulky-mkv/b351d189c132acd8) (ID 29569899) | [Sdílej 14550282](https://sdilej.cz/14550282/toc.toc.2017.bluray.720p.x264.sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:15:21.673644+00:00 |
 | [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:44:31.893507+00:00 |
