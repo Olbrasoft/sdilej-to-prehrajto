@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T14:47:01.996086+00:00
+Poslední aktualizace (UTC): 2026-10-15T14:47:17.464271+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1252,7 +1252,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:26:21.262828+00:00 |
 | [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:17:54.669217+00:00 |
 | [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:46:52.238141+00:00 |
-| [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:43:53.619141+00:00 |
+| [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:47:17.464167+00:00 |
 | [Tarka the Otter (1979) SD CZ Titulky](https://prehraj.to/tarka-the-otter-1979-sd-cz-titulky-mp4/a623af7368961f52) (ID 30070924) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.951616+00:00 |
 | [Tau (2018) SD CZ Titulky](https://prehraj.to/tau-2018-sd-cz-titulky-avi/39aebab17d5de972) (ID 29912807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.948738+00:00 |
 | [Technoboys (2024) 1080p CZ Titulky](https://prehraj.to/technoboys-2024-1080p-cz-titulky-mp4/1d64604afe1ff2ca) (ID 29578891) | [Sdílej 34724763](https://sdilej.cz/34724763/technoboys-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:19:17.369440+00:00 |
