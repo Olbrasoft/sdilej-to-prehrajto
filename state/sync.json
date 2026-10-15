@@ -233839,17 +233839,20 @@
       }
     },
     "11637": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28086288",
+          "target_video_id": "30271100",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-15T19:03:30.581542+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28086288",
         "display_name": "První úkol - Dračí srdce (1985) 1080p CZ Dabing",
         "planned_at": "2026-10-15T17:27:08.227246+00:00"
-      },
-      "claim": {
-        "worker_id": "40d05c4d21704df48bb729a3704326bb-shard-0",
-        "claimed_at": "2026-10-15T18:52:55.977749+00:00",
-        "lease_expires_at": "2026-10-16T00:52:55.977749+00:00",
-        "run_id": "38777179477"
       },
       "previous_target_id": "30271100",
       "prepared": {
@@ -376255,5 +376258,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-15T18:53:19.371018+00:00"
+  "updated_at": "2026-10-15T19:03:30.581559+00:00"
 }
