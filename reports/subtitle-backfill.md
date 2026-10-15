@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T20:31:19.299298+00:00
+Poslední aktualizace (UTC): 2026-10-15T20:31:31.388152+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -29,7 +29,7 @@ Kontrol: 16; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:34:35.576767+00:00 |
 | [37 sekund (2019) 1080p CZ Titulky](https://prehraj.to/37-sekund-2019-1080p-cz-titulky-mkv/8c1830443e4f7902) (ID 29409387) | [Sdílej 12981772](https://sdilej.cz/12981772/37-sekanzu-37-seconds-2019-cz-titulky-webrip.1080p-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:24.379830+00:00 |
 | [3:10 Vlak do Yumy (1957) 1080p CZ Titulky.mkv](https://prehraj.to/3-10-vlak-do-yumy-1957-1080p-cz-titulky-mkv/c212bc031d773dc1) (ID 29564989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T20:30:04.240989+00:00 |
-| [40: The Temptation of Christ (2020) 720p CZ Titulky](https://prehraj.to/40-the-temptation-of-christ-2020-720p-cz-titulky-mp4/b06c259f44d52252) (ID 29233225) | [Sdílej 34773492](https://sdilej.cz/34773492/40-the-temptation-of-christ-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T19:34:23.674448+00:00 |
+| [40: The Temptation of Christ (2020) 720p CZ Titulky](https://prehraj.to/40-the-temptation-of-christ-2020-720p-cz-titulky-mp4/b06c259f44d52252) (ID 29233225) | [Sdílej 34773492](https://sdilej.cz/34773492/40-the-temptation-of-christ-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T20:31:31.388019+00:00 |
 | [438 dní (2019) 1080p CZ Titulky](https://prehraj.to/438-dni-2019-1080p-cz-titulky-mp4/a3bebed4874353a2) (ID 30097551) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T20:30:04.247648+00:00 |
 | [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:50:02.985984+00:00 |
 | [71 (2014) 1080p CZ Titulky](https://prehraj.to/71-2014-1080p-cz-titulky-mkv/8e64d972d904819d) (ID 29387970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T20:30:04.239333+00:00 |
