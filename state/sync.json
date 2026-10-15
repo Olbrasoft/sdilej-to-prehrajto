@@ -233721,17 +233721,20 @@
       }
     },
     "26443": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31643828",
+          "target_video_id": "30270957",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-15T18:52:09.375106+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31643828",
         "display_name": "Švindl na druhou (2008) SD CZ Dabing",
         "planned_at": "2026-10-15T17:27:07.242939+00:00"
-      },
-      "claim": {
-        "worker_id": "40d05c4d21704df48bb729a3704326bb-shard-0",
-        "claimed_at": "2026-10-15T18:44:35.300739+00:00",
-        "lease_expires_at": "2026-10-16T00:44:35.300739+00:00",
-        "run_id": "38777179477"
       },
       "previous_target_id": "30270957",
       "prepared": {
@@ -376224,5 +376227,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-15T18:44:57.583779+00:00"
+  "updated_at": "2026-10-15T18:52:09.375124+00:00"
 }
