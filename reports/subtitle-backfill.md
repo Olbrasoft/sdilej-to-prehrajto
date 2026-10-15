@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T22:35:06.680671+00:00
+Poslední aktualizace (UTC): 2026-10-15T22:35:16.417048+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -575,7 +575,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hounded (2022) 1080p CZ Titulky.mkv](https://prehraj.to/hounded-2022-1080p-cz-titulky-mkv/9fc9e9a943eb6578) (ID 29651252) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.266793+00:00 |
 | [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:09:22.551172+00:00 |
 | [Hranice ovládání (2009) 720p CZ Titulky](https://prehraj.to/hranice-ovladani-2009-720p-cz-titulky-mp4/1e44c7b60b432cb3) (ID 29996684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.269918+00:00 |
-| [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T22:34:06.179994+00:00 |
+| [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:35:16.416925+00:00 |
 | [Hunted (2020) 1080p CZ Titulky](https://prehraj.to/hunted-2020-1080p-cz-titulky-mkv/0f07ff8c28da87c9) (ID 29434313) | [Sdílej 16064242](https://sdilej.cz/16064242/hunted-akcni-horor-thriller-2020.1080p.webrip.2.0.x264.bez.titulku.66-.sten.ok.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:36.599075+00:00 |
 | [Hunting Grounds (2025) 1080p CZ Titulky](https://prehraj.to/hunting-grounds-2025-1080p-cz-titulky-mp4/6bbc0b6167d80366) (ID 29997967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.269937+00:00 |
 | [Hustler White (1996) 1080p CZ Titulky](https://prehraj.to/hustler-white-1996-1080p-cz-titulky-mp4/86cf852c3a99f4b2) (ID 29278231) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T22:30:15.265145+00:00 |
