@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T14:42:14.452962+00:00
+Poslední aktualizace (UTC): 2026-10-15T14:42:24.042667+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -900,7 +900,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Noční klid (2023) 1080p CZ Titulky](https://prehraj.to/nocni-klid-2023-1080p-cz-titulky-mkv/d041867268bc8cf8) (ID 29269961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.943671+00:00 |
 | [Noční režisér (2022) 1080p CZ Titulky](https://prehraj.to/nocni-reziser-2022-1080p-cz-titulky-mp4/585faa73383ca079) (ID 29654506) | [Sdílej 34726965](https://sdilej.cz/34726965/nocni-reziser-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:00:16.383100+00:00 |
 | [Noční směna (2014) 1080p CZ Titulky](https://prehraj.to/nocni-smena-2014-1080p-cz-titulky-mp4/c0f4ce21dcb1d6f4) (ID 29968763) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.950412+00:00 |
-| [Nymfomanka, část II. (2013) SD CZ Titulky](https://prehraj.to/nymfomanka-cast-ii-2013-sd-cz-titulky-mkv/260057aa5f0a099a) (ID 29133738) | [Sdílej 31061813](https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-08T14:39:52.240784+00:00 |
+| [Nymfomanka, část II. (2013) SD CZ Titulky](https://prehraj.to/nymfomanka-cast-ii-2013-sd-cz-titulky-mkv/260057aa5f0a099a) (ID 29133738) | [Sdílej 31061813](https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-15T14:42:24.042540+00:00 |
 | [Nájemník (1976) 1080p CZ Titulky.mkv](https://prehraj.to/najemnik-1976-1080p-cz-titulky-mkv/5198f8b9e47618ba) (ID 29883677) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.947503+00:00 |
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:04.133389+00:00 |
 | [Náš domov (2010) SD CZ Titulky](https://prehraj.to/nas-domov-2010-sd-cz-titulky-avi/bfc5250265c6bf4b) (ID 29718314) | [Sdílej 15647793](https://sdilej.cz/15647793/nas-domov-drama-cz-tit.-2010-beri.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:52:48.090733+00:00 |
