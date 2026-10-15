@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-15T14:50:01.452771+00:00
+Poslední aktualizace (UTC): 2026-10-15T14:50:11.582988+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -191,7 +191,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Bílá oblaka (1962) 1080p CZ Titulky.mkv](https://prehraj.to/bila-oblaka-1962-1080p-cz-titulky-mkv/9e5ca12c2c893e31) (ID 29883859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.947530+00:00 |
 | [Bílá vrána (2018) 1080p CZ Titulky](https://prehraj.to/bila-vrana-2018-1080p-cz-titulky-mkv/12b66300926a393b) (ID 29805290) | [Sdílej 12786760](https://sdilej.cz/12786760/bila-vrana-the-white-crow-2018-1080p-x264-cz-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:44:30.070915+00:00 |
 | [Bílý tygr (2021) 1080p CZ Titulky](https://prehraj.to/bily-tygr-2021-1080p-cz-titulky-mp4/66f66a35b222fcfd) (ID 30037338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.951184+00:00 |
-| [Být či nebýt (1942) 1080p CZ Titulky](https://prehraj.to/byt-ci-nebyt-1942-1080p-cz-titulky-mkv/ede885353090d3eb) (ID 29212505) | [Sdílej 34501012](https://sdilej.cz/34501012/byt-ci-nebyt-1942-cz-titulky-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T14:46:45.689697+00:00 |
+| [Být či nebýt (1942) 1080p CZ Titulky](https://prehraj.to/byt-ci-nebyt-1942-1080p-cz-titulky-mkv/ede885353090d3eb) (ID 29212505) | [Sdílej 34501012](https://sdilej.cz/34501012/byt-ci-nebyt-1942-cz-titulky-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:50:11.582876+00:00 |
 | [Bělyj tigr (2012) 720p CZ Titulky](https://prehraj.to/belyj-tigr-2012-720p-cz-titulky-mp4/4ae43e0bf7fe3242) (ID 29981131) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.950584+00:00 |
 | [Cabin Fever: Patient Zero (2014) SD CZ Titulky](https://prehraj.to/cabin-fever-patient-zero-2014-sd-cz-titulky-avi/208b23722a7fa3a1) (ID 29909436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-15T14:40:19.948456+00:00 |
 | [Caged (2021) 1080p CZ Titulky](https://prehraj.to/caged-2021-1080p-cz-titulky-mkv/549b069b78217651) (ID 29611542) | [Sdílej 15654947](https://sdilej.cz/15654947/caged.2021.1080p.web-dl.dd5.1.h.264-fgt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:31:02.914303+00:00 |
