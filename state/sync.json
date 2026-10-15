@@ -234353,7 +234353,15 @@
       "attempts": []
     },
     "28658": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32362343",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-15T19:46:06.050586+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32362343",
         "display_name": "Odlesk v mrtvém diamantu (2025) 1080p CZ Titulky",
@@ -234367,7 +234375,15 @@
       "attempts": []
     },
     "5093": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12152720",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-15T19:46:26.794730+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12152720",
         "display_name": "Vše je pravdivé (2018) 1080p CZ Dabing",
@@ -234441,6 +234457,18 @@
         "source_id": "16438413",
         "display_name": "Kameňák 4 (2013) 1080p CZ Dabing",
         "planned_at": "2026-10-15T17:27:11.473690+00:00"
+      },
+      "claim": {
+        "worker_id": "40d05c4d21704df48bb729a3704326bb-shard-0",
+        "claimed_at": "2026-10-15T19:46:27.139658+00:00",
+        "lease_expires_at": "2026-10-16T01:46:27.139658+00:00",
+        "run_id": "38777179477"
+      },
+      "previous_target_id": "30271946",
+      "prepared": {
+        "target_video_id": "30271946",
+        "size_bytes": 1739867938,
+        "prepared_at": "2026-10-15T19:46:49.498009+00:00"
       }
     },
     "11997": {
@@ -376331,5 +376359,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-15T19:45:38.670156+00:00"
+  "updated_at": "2026-10-15T19:46:49.498023+00:00"
 }
