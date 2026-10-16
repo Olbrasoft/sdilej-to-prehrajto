@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:42:32.450106+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:42:43.853134+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1075,7 +1075,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Red Sundown (1956) SD CZ Titulky](https://prehraj.to/red-sundown-1956-sd-cz-titulky-mp4/db854b4e32c50c82) (ID 30115522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.415122+00:00 |
 | [Redirected (2014) SD CZ Titulky](https://prehraj.to/redirected-2014-sd-cz-titulky-mp4/302149a0416e5a25) (ID 29283932) | [Sdílej 34776264](https://sdilej.cz/34776264/redirected-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:39:12.065059+00:00 |
 | [Reign of Assassins (2010) SD CZ Titulky](https://prehraj.to/reign-of-assassins-2010-sd-cz-titulky-mp4/82eb7e08ec058394) (ID 29883206) | [Sdílej 34780507](https://sdilej.cz/34780507/reign-of-assassins-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:48:41.454892+00:00 |
-| [Relationship Goals (2026) 1080p CZ Titulky](https://prehraj.to/relationship-goals-2026-1080p-cz-titulky-mp4/c67aadcf7258f4d3) (ID 29660359) | [Sdílej 33219138](https://sdilej.cz/33219138/relationship-goals-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:07:53.329085+00:00 |
+| [Relationship Goals (2026) 1080p CZ Titulky](https://prehraj.to/relationship-goals-2026-1080p-cz-titulky-mp4/c67aadcf7258f4d3) (ID 29660359) | [Sdílej 33219138](https://sdilej.cz/33219138/relationship-goals-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:42:43.853026+00:00 |
 | [Reprise (2006) 1080p CZ Titulky](https://prehraj.to/reprise-2006-1080p-cz-titulky-mkv/f098c0c978267120) (ID 30034803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.413919+00:00 |
 | [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T03:36:57.580796+00:00 |
 | [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:46:00.995046+00:00 |
