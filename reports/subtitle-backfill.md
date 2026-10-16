@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:42:13.231627+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:42:26.603285+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -31,7 +31,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [3:10 Vlak do Yumy (1957) 1080p CZ Titulky.mkv](https://prehraj.to/3-10-vlak-do-yumy-1957-1080p-cz-titulky-mkv/c212bc031d773dc1) (ID 29564989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.116816+00:00 |
 | [40: The Temptation of Christ (2020) 720p CZ Titulky](https://prehraj.to/40-the-temptation-of-christ-2020-720p-cz-titulky-mp4/b06c259f44d52252) (ID 29233225) | [Sdílej 34773492](https://sdilej.cz/34773492/40-the-temptation-of-christ-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T20:31:31.388019+00:00 |
 | [438 dní (2019) 1080p CZ Titulky](https://prehraj.to/438-dni-2019-1080p-cz-titulky-mp4/a3bebed4874353a2) (ID 30097551) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.125231+00:00 |
-| [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:50:02.985984+00:00 |
+| [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:42:26.603178+00:00 |
 | [71 (2014) 1080p CZ Titulky](https://prehraj.to/71-2014-1080p-cz-titulky-mkv/8e64d972d904819d) (ID 29387970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.114834+00:00 |
 | [A Breed Apart (2025) SD CZ Titulky](https://prehraj.to/a-breed-apart-2025-sd-cz-titulky-mp4/d4a88c01fc8f3efa) (ID 29752872) | [Sdílej 34758416](https://sdilej.cz/34758416/a-breed-apart-2025-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:33:06.531748+00:00 |
 | [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:08:41.912767+00:00 |
