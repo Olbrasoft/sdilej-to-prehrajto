@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:26:58.547500+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:27:08.091555+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1565,7 +1565,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:46:02.366316+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:07.821783+00:00 |
 | [Říše zvířat (2023) 720p CZ Titulky.mp4](https://prehraj.to/rise-zvirat-2023-720p-cz-titulky-mp4/ef1471bd90be42e3) (ID 30163327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.415531+00:00 |
-| [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:50.825066+00:00 |
+| [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:27:08.091428+00:00 |
 | [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:38:40.758710+00:00 |
 | [Šingeki no kjodžin (2015) 1080p CZ Titulky](https://prehraj.to/singeki-no-kjodzin-2015-1080p-cz-titulky-avi/4cd38c26c0cded08) (ID 29734090) | [Sdílej 8458716](https://sdilej.cz/8458716/shingeki-no-kyojin-attack-on-titan.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:09:09.951530+00:00 |
 | [Šlápni na to! (2020) 1080p CZ Titulky](https://prehraj.to/slapni-na-to-2020-1080p-cz-titulky-mp4/594cd284d5c37161) (ID 29695375) | [Sdílej 34731712](https://sdilej.cz/34731712/slapni-na-to-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:39:50.374185+00:00 |
