@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:35:36.220055+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:35:47.103002+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -849,7 +849,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:48:04.719356+00:00 |
 | [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:49:14.061335+00:00 |
 | [Neighborhood Watch (2025) 1080p CZ Titulky](https://prehraj.to/neighborhood-watch-2025-1080p-cz-titulky-mkv/12a8008e8e7f5752) (ID 29985086) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.123459+00:00 |
-| [Nejlepší show (2000) 1080p CZ Titulky](https://prehraj.to/nejlepsi-show-2000-1080p-cz-titulky-mkv/bf8ea7356c1d11ae) (ID 29787090) | [Sdílej 28247199](https://sdilej.cz/28247199/best-in-show-2000-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:43:15.272749+00:00 |
+| [Nejlepší show (2000) 1080p CZ Titulky](https://prehraj.to/nejlepsi-show-2000-1080p-cz-titulky-mkv/bf8ea7356c1d11ae) (ID 29787090) | [Sdílej 28247199](https://sdilej.cz/28247199/best-in-show-2000-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:35:47.102898+00:00 |
 | [Nejlepší v pekle (2022) 1080p CZ Titulky](https://prehraj.to/nejlepsi-v-pekle-2022-1080p-cz-titulky-mp4/848174af8735e68f) (ID 29923196) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.121107+00:00 |
 | [Nejrychlejší (2011) 1080p CZ Titulky](https://prehraj.to/nejrychlejsi-2011-1080p-cz-titulky-mp4/403edc2ab59516a4) (ID 29505034) | [Sdílej 34747575](https://sdilej.cz/34747575/nejrychlejsi-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:51:40.054664+00:00 |
 | [Nekonečná cesta (2017) 1080p CZ Titulky](https://prehraj.to/nekonecna-cesta-2017-1080p-cz-titulky-mkv/16875fb3e5f80dfe) (ID 29633019) | [Sdílej 10615882](https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:43.879423+00:00 |
