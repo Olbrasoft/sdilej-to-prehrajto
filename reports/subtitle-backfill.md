@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:23:54.526163+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:24:09.168441+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -77,7 +77,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:07:04.959480+00:00 |
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.410516+00:00 |
 | [Apollo 11 (2019) 4K CZ Titulky](https://prehraj.to/apollo-11-2019-4k-cz-titulky-mkv/1f9727305c011995) (ID 29207536) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.403728+00:00 |
-| [Aporia (2023) SD CZ Titulky](https://prehraj.to/aporia-2023-sd-cz-titulky-avi/974fede927b423ce) (ID 29614082) | [Sdílej 27826016](https://sdilej.cz/27826016/aporia.2023.pl.480p.bdrip.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:35:52.086829+00:00 |
+| [Aporia (2023) SD CZ Titulky](https://prehraj.to/aporia-2023-sd-cz-titulky-avi/974fede927b423ce) (ID 29614082) | [Sdílej 27826016](https://sdilej.cz/27826016/aporia.2023.pl.480p.bdrip.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:24:09.168323+00:00 |
 | [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:07:34.804657+00:00 |
 | [Argylle: Tajný agent (2024) 4K CZ Titulky](https://prehraj.to/argylle-tajny-agent-2024-4k-cz-titulky-mkv/1753966117d652be) (ID 29928077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.411429+00:00 |
 | [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:19:31.142041+00:00 |
