@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T01:39:42.114228+00:00
+Poslední aktualizace (UTC): 2026-10-16T01:39:54.036630+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -675,7 +675,7 @@ Kontrol: 45; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Klasický horor (2021) 1080p CZ Titulky](https://prehraj.to/klasicky-horor-2021-1080p-cz-titulky-mp4/ae505b6015551aee) (ID 29914742) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.653313+00:00 |
 | [Klaun k popukání (2012) 720p CZ Titulky](https://prehraj.to/klaun-k-popukani-2012-720p-cz-titulky-mp4/f653d07eac11a655) (ID 29706336) | [Sdílej 33856460](https://sdilej.cz/33856460/stitches.cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:15.311089+00:00 |
 | [Klondike (2022) 1080p CZ Titulky](https://prehraj.to/klondike-2022-1080p-cz-titulky-mkv/a6add9704ae9ee77) (ID 29883168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.652499+00:00 |
-| [Kluci v mém životě (2001) 1080p CZ Titulky](https://prehraj.to/kluci-v-mem-zivote-2001-1080p-cz-titulky-mp4/199ac8145f39695a) (ID 29285410) | [Sdílej 33201728](https://sdilej.cz/33201728/riding-in-cars-with-boys-2001-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:16:20.962715+00:00 |
+| [Kluci v mém životě (2001) 1080p CZ Titulky](https://prehraj.to/kluci-v-mem-zivote-2001-1080p-cz-titulky-mp4/199ac8145f39695a) (ID 29285410) | [Sdílej 33201728](https://sdilej.cz/33201728/riding-in-cars-with-boys-2001-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:39:54.036526+00:00 |
 | [Kluk ve světě příšer (2015) 1080p CZ Titulky](https://prehraj.to/kluk-ve-svete-priser-2015-1080p-cz-titulky-mkv/52cbdca1a6a55353) (ID 29559657) | [Sdílej 12089240](https://sdilej.cz/12089240/bakemono-no-ko-bd-1080p-flac-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:15.011831+00:00 |
 | [Knoflíkáři (1997) 1080p CZ Titulky](https://prehraj.to/knoflikari-1997-1080p-cz-titulky-mkv/f7765e47e787ca7e) (ID 29427702) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.651228+00:00 |
 | [Knězovy děti (2013) 1080p CZ Titulky](https://prehraj.to/knezovy-deti-2013-1080p-cz-titulky-mp4/ccfc423ad46db384) (ID 29676052) | [Sdílej 27941343](https://sdilej.cz/27941343/knazove-deti-2013.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:35:32.772835+00:00 |
