@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:32:39.632270+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:32:49.263390+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -229,7 +229,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Cizí oči (1981) 1080p CZ Titulky](https://prehraj.to/cizi-oci-1981-1080p-cz-titulky-mkv/ad6fae4b71b4b32e) (ID 29578873) | [Sdílej 28527253](https://sdilej.cz/28527253/cizi-oci-eyes-of-a-stranger-1981-fhd-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:10:48.271160+00:00 |
 | [Clara (2018) SD CZ Titulky](https://prehraj.to/clara-2018-sd-cz-titulky-mkv/e34b2249266f3b5d) (ID 29631340) | [Sdílej 12083199](https://sdilej.cz/12083199/clara-2018-web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:35.689513+00:00 |
 | [Clear Cut (2024) 720p CZ Titulky](https://prehraj.to/clear-cut-2024-720p-cz-titulky-mp4/ab83a817a6c97c2e) (ID 29904826) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.408547+00:00 |
-| [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:52:28.804494+00:00 |
+| [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:32:49.263267+00:00 |
 | [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T06:48:20.686143+00:00 |
 | [Co tě drží naživu (2018) 1080p CZ Titulky](https://prehraj.to/co-te-drzi-nazivu-2018-1080p-cz-titulky-avi/8d39960c23efb3e0) (ID 29914193) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.409892+00:00 |
 | [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:38:02.621864+00:00 |
