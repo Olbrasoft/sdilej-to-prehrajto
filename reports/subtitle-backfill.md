@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:54:27.735785+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:54:41.843107+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -727,7 +727,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:18:36.675107+00:00 |
 | [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:37:20.735835+00:00 |
 | [Lidská stonožka 3 (2015) 1080p CZ Titulky](https://prehraj.to/lidska-stonozka-3-2015-1080p-cz-titulky-mp4/78b7639c091505f3) (ID 29090222) | [Sdílej 33435537](https://sdilej.cz/33435537/lidska-stonoz-ka-3.-2015-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:40:36.785738+00:00 |
-| [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:01:44.205610+00:00 |
+| [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:54:41.842979+00:00 |
 | [Life After Beth (2014) SD CZ Titulky](https://prehraj.to/life-after-beth-2014-sd-cz-titulky-avi/70e04e2402a204a1) (ID 29721145) | [Sdílej 3743477](https://sdilej.cz/3743477/life-after-beth-2014-360p-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:01:58.138028+00:00 |
 | [Lights, Camera, Christmas! (2022) 1080p CZ Titulky](https://prehraj.to/lights-camera-christmas-2022-1080p-cz-titulky-mp4/7ea242ba37982fe8) (ID 30107279) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.381588+00:00 |
 | [Lillian (2019) 1080p CZ Titulky](https://prehraj.to/lillian-2019-1080p-cz-titulky-mkv/8de6a16d12076fda) (ID 29649257) | [Sdílej 13568885](https://sdilej.cz/13568885/lillian-2019-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:56:42.635698+00:00 |
