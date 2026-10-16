@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:56:48.966356+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:56:58.107643+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1433,7 +1433,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Velký závod (2013) SD CZ Titulky](https://prehraj.to/velky-zavod-2013-sd-cz-titulky-avi/331243de988c7ffd) (ID 30190229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.401969+00:00 |
 | [Velvet Buzzsaw (2019) 4K CZ Titulky](https://prehraj.to/velvet-buzzsaw-2019-4k-cz-titulky-mkv/f586c85084c93422) (ID 29937754) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.399289+00:00 |
 | [Vem si prášky: Xanax (2022) 1080p CZ Titulky](https://prehraj.to/vem-si-prasky-xanax-2022-1080p-cz-titulky-mp4/2659bccce1737841) (ID 29391229) | [Sdílej 34726530](https://sdilej.cz/34726530/vem-si-prasky-xanax-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T12:44:00.836260+00:00 |
-| [Veneciafrenia (2021) 720p CZ Titulky](https://prehraj.to/veneciafrenia-2021-720p-cz-titulky-mp4/48a4e729528b6bc6) (ID 29711863) | [Sdílej 24966547](https://sdilej.cz/24966547/veneciafrenia-2021-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:47:27.907542+00:00 |
+| [Veneciafrenia (2021) 720p CZ Titulky](https://prehraj.to/veneciafrenia-2021-720p-cz-titulky-mp4/48a4e729528b6bc6) (ID 29711863) | [Sdílej 24966547](https://sdilej.cz/24966547/veneciafrenia-2021-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:56:58.107514+00:00 |
 | [Veselé Vánoce, pane Lawrenci (1983) 720p CZ Titulky](https://prehraj.to/vesele-vanoce-pane-lawrenci-1983-720p-cz-titulky-avi/c81ab93b8363c108) (ID 30103995) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.401167+00:00 |
 | [Večeře po americku (2020) 720p CZ Titulky](https://prehraj.to/vecere-po-americku-2020-720p-cz-titulky-mp4/182d5e4324e28145) (ID 29888517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.396163+00:00 |
 | [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T12:44:48.438289+00:00 |
