@@ -253249,17 +253249,20 @@
       }
     },
     "20851": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13060715",
+          "target_video_id": "30293487",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-16T20:51:13.052151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13060715",
         "display_name": "Legenda o Kolovratovi (2017) SD CZ Titulky",
         "planned_at": "2026-10-16T20:00:47.358460+00:00"
-      },
-      "claim": {
-        "worker_id": "1f139801ba844874a3ebca608add53a0-shard-0",
-        "claimed_at": "2026-10-16T20:43:51.584761+00:00",
-        "lease_expires_at": "2026-10-17T02:43:51.584761+00:00",
-        "run_id": "38932240621"
       },
       "previous_target_id": "30293487",
       "prepared": {
@@ -380438,5 +380441,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-16T20:43:55.728637+00:00"
+  "updated_at": "2026-10-16T20:51:13.052170+00:00"
 }
