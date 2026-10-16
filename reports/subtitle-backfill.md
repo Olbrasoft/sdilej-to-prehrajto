@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:49:02.151612+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:49:12.941534+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -518,7 +518,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [H0us3 (2019) SD CZ Titulky](https://prehraj.to/h0us3-2019-sd-cz-titulky-avi/3a371c8e70c4dc0f) (ID 29242748) | [Sdílej 13982151](https://sdilej.cz/13982151/h0us3-2019-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:32:20.585660+00:00 |
 | [HOMUNCULUS (2021) SD CZ Titulky](https://prehraj.to/homunculus-2021-sd-cz-titulky-mkv/ce56cc4caba57929) (ID 29657930) | [Sdílej 29787022](https://sdilej.cz/29787022/homunculus-drama-fantasy-mysteriozni-2021-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:43.986775+00:00 |
 | [Hacker (2018) 1080p CZ Titulky](https://prehraj.to/hacker-2018-1080p-cz-titulky-mp4/16959bdfb90f9e9f) (ID 29537480) | [Sdílej 34774306](https://sdilej.cz/34774306/hacker-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:55:56.716555+00:00 |
-| [Hacker: Trust No One (2022) 1080p CZ Titulky](https://prehraj.to/hacker-trust-no-one-2022-1080p-cz-titulky-mp4/b7be2c90a59625b0) (ID 29682579) | [Sdílej 34772313](https://sdilej.cz/34772313/hacker-trust-no-one-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:37:46.196757+00:00 |
+| [Hacker: Trust No One (2022) 1080p CZ Titulky](https://prehraj.to/hacker-trust-no-one-2022-1080p-cz-titulky-mp4/b7be2c90a59625b0) (ID 29682579) | [Sdílej 34772313](https://sdilej.cz/34772313/hacker-trust-no-one-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:49:12.941414+00:00 |
 | [Hadí vejce (1977) SD CZ Titulky.mkv](https://prehraj.to/hadi-vejce-1977-sd-cz-titulky-mkv/61408a89d590b055) (ID 29675311) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.395580+00:00 |
 | [Hafan hasičem (2007) 1080p CZ Titulky](https://prehraj.to/hafan-hasicem-2007-1080p-cz-titulky-mp4/2aca0c9ea9047267) (ID 29930732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.398663+00:00 |
 | [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:37:44.951943+00:00 |
