@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:06:38.356790+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:06:47.923074+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -334,7 +334,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Eenie Meanie (2025) 1080p CZ Titulky](https://prehraj.to/eenie-meanie-2025-1080p-cz-titulky-mkv/d743f4fd5e84441d) (ID 29907790) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.396540+00:00 |
 | [Ek Villain (2014) 720p CZ Titulky](https://prehraj.to/ek-villain-2014-720p-cz-titulky-mp4/4b09ae3a08f98378) (ID 29230526) | [Sdílej 34738457](https://sdilej.cz/34738457/ek-villain-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T20:31:19.299190+00:00 |
 | [Eksiteu (2019) 1080p CZ Titulky](https://prehraj.to/eksiteu-2019-1080p-cz-titulky-mp4/8ea312b8ebc8d52a) (ID 30048029) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.400638+00:00 |
-| [El Gringo (2012) 720p CZ Titulky](https://prehraj.to/el-gringo-2012-720p-cz-titulky-mp4/607e6579f3e90132) (ID 29725165) | [Sdílej 34780122](https://sdilej.cz/34780122/el-gringo-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:04:13.171617+00:00 |
+| [El Gringo (2012) 720p CZ Titulky](https://prehraj.to/el-gringo-2012-720p-cz-titulky-mp4/607e6579f3e90132) (ID 29725165) | [Sdílej 34780122](https://sdilej.cz/34780122/el-gringo-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:47.922934+00:00 |
 | [El clan (2015) SD CZ Titulky](https://prehraj.to/el-clan-2015-sd-cz-titulky-mp4/8fa776cade235d46) (ID 29355449) | [Sdílej 34776027](https://sdilej.cz/34776027/el-clan-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:54.581170+00:00 |
 | [El pacto (2018) SD CZ Titulky](https://prehraj.to/el-pacto-2018-sd-cz-titulky-avi/c99abde04e9a057c) (ID 29998055) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.400011+00:00 |
 | [Elektra Luxx (2011) SD CZ Titulky](https://prehraj.to/elektra-luxx-2011-sd-cz-titulky-avi/927856fdad31cbb1) (ID 29934863) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.398973+00:00 |
