@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:57:10.379167+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:57:19.412995+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -197,7 +197,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Cam (2018) SD CZ Titulky](https://prehraj.to/cam-2018-sd-cz-titulky-avi/b82ffd846e166717) (ID 29536599) | [Sdílej 10930071](https://sdilej.cz/10930071/cam-2018-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:55:38.905362+00:00 |
 | [Candy Corn (2019) 1080p CZ Titulky.mkv](https://prehraj.to/candy-corn-2019-1080p-cz-titulky-mkv/8c96c1c5cfe58167) (ID 29736310) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.395851+00:00 |
 | [Candy Land (2022) 720p CZ Titulky](https://prehraj.to/candy-land-2022-720p-cz-titulky-mp4/b70ec660d8a4ea7a) (ID 29721061) | [Sdílej 25002521](https://sdilej.cz/25002521/candy-land-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:01:31.103076+00:00 |
-| [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:47:50.722461+00:00 |
+| [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:57:19.412860+00:00 |
 | [Cannibal Troll (2021) SD CZ Titulky](https://prehraj.to/cannibal-troll-2021-sd-cz-titulky-mp4/4d20b53c6ecf49c3) (ID 29609349) | [Sdílej 34761592](https://sdilej.cz/34761592/cannibal-troll-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:18:51.720344+00:00 |
 | [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:40:41.805121+00:00 |
 | [Carrie Pilby (2017) 1080p CZ Titulky](https://prehraj.to/carrie-pilby-2017-1080p-cz-titulky-mp4/3d8283cf15969e3e) (ID 30123501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.401350+00:00 |
