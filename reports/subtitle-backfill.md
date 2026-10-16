@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:57:19.412995+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:57:41.188895+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1299,7 +1299,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [The Great Alaskan Race (2019) SD CZ Titulky](https://prehraj.to/the-great-alaskan-race-2019-sd-cz-titulky-avi/650c19202cf0c15c) (ID 29399740) | [Sdílej 13281983](https://sdilej.cz/13281983/the-great-alaskan-race-2019-sk-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:35:56.880445+00:00 |
 | [The Guest (2014) 1080p CZ Titulky](https://prehraj.to/the-guest-2014-1080p-cz-titulky-mkv/e681352b20964a04) (ID 30143657) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.401534+00:00 |
 | [The Hard Way (2019) 1080p CZ Titulky](https://prehraj.to/the-hard-way-2019-1080p-cz-titulky-mp4/1cb8e5b9272b782e) (ID 29929561) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.398621+00:00 |
-| [The Heretics (2017) 720p CZ Titulky](https://prehraj.to/the-heretics-2017-720p-cz-titulky-avi/76ff84dc24807a84) (ID 29713257) | [Sdílej 10214515](https://sdilej.cz/10214515/the-heretics-horor-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:48:13.559600+00:00 |
+| [The Heretics (2017) 720p CZ Titulky](https://prehraj.to/the-heretics-2017-720p-cz-titulky-avi/76ff84dc24807a84) (ID 29713257) | [Sdílej 10214515](https://sdilej.cz/10214515/the-heretics-horor-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:57:41.188769+00:00 |
 | [The Hive (2015) SD CZ Titulky](https://prehraj.to/the-hive-2015-sd-cz-titulky-mp4/7a9d0a9fc0655f0c) (ID 29657646) | [Sdílej 34775489](https://sdilej.cz/34775489/the-hive-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:41:11.549753+00:00 |
 | [The Hole in the Ground (2019) SD CZ Titulky](https://prehraj.to/the-hole-in-the-ground-2019-sd-cz-titulky-avi/2b46d032759b17a7) (ID 29926239) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.398391+00:00 |
 | [The Human Voice (2020) 1080p CZ Titulky](https://prehraj.to/the-human-voice-2020-1080p-cz-titulky-mp4/7d6e575a85d83642) (ID 29468199) | [Sdílej 34731984](https://sdilej.cz/34731984/the-human-voice-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:48:47.176405+00:00 |
