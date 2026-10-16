@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:38:14.510081+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:38:23.269036+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1017,7 +1017,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Potopa (2024) 1080p CZ Titulky](https://prehraj.to/potopa-2024-1080p-cz-titulky-mkv/5609321acff1d912) (ID 30137991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.125841+00:00 |
 | [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:37:57.941162+00:00 |
 | [Pouť za štěstím (1939) SD CZ Titulky](https://prehraj.to/pout-za-stestim-1939-sd-cz-titulky-mp4/6bce416158810883) (ID 29611281) | [Sdílej 34756215](https://sdilej.cz/34756215/pout-za-stestim-1939-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:20:20.434808+00:00 |
-| [Povedení strýčkové (1963) 720p CZ Titulky](https://prehraj.to/povedeni-stryckove-1963-720p-cz-titulky-mp4/7e57d63be522d6f1) (ID 29825249) | [Sdílej 34756035](https://sdilej.cz/34756035/povedeni-stryckove-1963-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:45:53.518252+00:00 |
+| [Povedení strýčkové (1963) 720p CZ Titulky](https://prehraj.to/povedeni-stryckove-1963-720p-cz-titulky-mp4/7e57d63be522d6f1) (ID 29825249) | [Sdílej 34756035](https://sdilej.cz/34756035/povedeni-stryckove-1963-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:38:23.268917+00:00 |
 | [Povstání mrtvých: Konečná hra (2016) 720p CZ Titulky](https://prehraj.to/povstani-mrtvych-konecna-hra-2016-720p-cz-titulky-mp4/b7b10bc8fcfe48ef) (ID 29740133) | [Sdílej 34770373](https://sdilej.cz/34770373/povstani-mrtvych-konecna-hra-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:22:07.171189+00:00 |
 | [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:34:57.444294+00:00 |
 | [Powstaniec 1863 (2024) 1080p CZ Titulky](https://prehraj.to/powstaniec-1863-2024-1080p-cz-titulky-mp4/e2875ed4971e84e4) (ID 30152841) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.126012+00:00 |
