@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:39:38.880324+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:39:48.181504+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -892,7 +892,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Nocturna (2020) 1080p CZ Titulky](https://prehraj.to/nocturna-2020-1080p-cz-titulky-avi/832d8f629bd81087) (ID 29913871) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.409853+00:00 |
 | [Nowhere Safe (2014) 1080p CZ Titulky](https://prehraj.to/nowhere-safe-2014-1080p-cz-titulky-mp4/1131d01bcc656dd0) (ID 29993082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.413301+00:00 |
 | [Noční klid (2023) 1080p CZ Titulky](https://prehraj.to/nocni-klid-2023-1080p-cz-titulky-mkv/d041867268bc8cf8) (ID 29269961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.403968+00:00 |
-| [Noční režisér (2022) 1080p CZ Titulky](https://prehraj.to/nocni-reziser-2022-1080p-cz-titulky-mp4/585faa73383ca079) (ID 29654506) | [Sdílej 34726965](https://sdilej.cz/34726965/nocni-reziser-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:00:16.383100+00:00 |
+| [Noční režisér (2022) 1080p CZ Titulky](https://prehraj.to/nocni-reziser-2022-1080p-cz-titulky-mp4/585faa73383ca079) (ID 29654506) | [Sdílej 34726965](https://sdilej.cz/34726965/nocni-reziser-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:39:48.181403+00:00 |
 | [Noční směna (2014) 1080p CZ Titulky](https://prehraj.to/nocni-smena-2014-1080p-cz-titulky-mp4/c0f4ce21dcb1d6f4) (ID 29968763) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.412838+00:00 |
 | [Nymfomanka, část II. (2013) SD CZ Titulky](https://prehraj.to/nymfomanka-cast-ii-2013-sd-cz-titulky-mkv/260057aa5f0a099a) (ID 29133738) | [Sdílej 31061813](https://sdilej.cz/31061813/nymfomanka-cast-ii-nymph-maniac-2-2013-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-15T14:42:24.042540+00:00 |
 | [Nájemník (1976) 1080p CZ Titulky.mkv](https://prehraj.to/najemnik-1976-1080p-cz-titulky-mkv/5198f8b9e47618ba) (ID 29883677) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.408083+00:00 |
