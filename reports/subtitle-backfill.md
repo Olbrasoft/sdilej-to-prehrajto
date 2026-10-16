@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:41:30.672162+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:41:39.778430+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1310,7 +1310,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [The Internship (2026) 1080p CZ Titulky](https://prehraj.to/the-internship-2026-1080p-cz-titulky-mp4/f201e2c9c0de01ac) (ID 29706666) | [Sdílej 32909953](https://sdilej.cz/32909953/the-internship-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:42:05.899976+00:00 |
 | [The Jester 2 (2025) 1080p CZ Titulky](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:34:59.243576+00:00 |
 | [The Lair (2022) SD CZ Titulky](https://prehraj.to/the-lair-2022-sd-cz-titulky-avi/0de11181a2934f7f) (ID 29908784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.409025+00:00 |
-| [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:03:48.858231+00:00 |
+| [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:41:39.778331+00:00 |
 | [The Legend of La Llorona (2022) 1080p CZ Titulky](https://prehraj.to/the-legend-of-la-llorona-2022-1080p-cz-titulky-mp4/c86c0ea379abb5bf) (ID 29905435) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.408605+00:00 |
 | [The Limehouse Golem (2016) SD CZ Titulky](https://prehraj.to/the-limehouse-golem-2016-sd-cz-titulky-mp4/a353585be7b9a51d) (ID 29573805) | [Sdílej 26970210](https://sdilej.cz/26970210/the-limehouse-golem-2016-web-dl-x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:09:03.941901+00:00 |
 | [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:37:41.015664+00:00 |
