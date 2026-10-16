@@ -250580,17 +250580,20 @@
       "attempts": []
     },
     "24082": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29353019",
+          "target_video_id": "30292638",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-16T19:58:42.910377+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29353019",
         "display_name": "Mambo (2000) 1080p CZ Dabing",
         "planned_at": "2026-10-16T16:50:01.256010+00:00"
-      },
-      "claim": {
-        "worker_id": "aad5807ef247439e8526513d29ea6d21-shard-0",
-        "claimed_at": "2026-10-16T19:45:41.028280+00:00",
-        "lease_expires_at": "2026-10-17T01:45:41.028280+00:00",
-        "run_id": "38932240621"
       },
       "previous_target_id": "30292638",
       "prepared": {
@@ -379989,5 +379992,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-16T19:46:04.515928+00:00"
+  "updated_at": "2026-10-16T19:58:42.910397+00:00"
 }
