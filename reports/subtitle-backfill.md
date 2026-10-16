@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T13:33:40.349733+00:00
+Poslední aktualizace (UTC): 2026-10-16T13:33:50.995376+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1228,7 +1228,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Super Volcano (2022) 1080p CZ Titulky](https://prehraj.to/super-volcano-2022-1080p-cz-titulky-mp4/3d9e3e85ee29610a) (ID 29989189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T13:32:37.513294+00:00 |
 | [Superhost (2021) 1080p CZ Titulky](https://prehraj.to/superhost-2021-1080p-cz-titulky-mkv/b4059976607da9ce) (ID 29706516) | [Sdílej 18833126](https://sdilej.cz/18833126/superhost.2021.1080p.amzn.web-dl.ddp2.0.h.264-tepes.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:44.166876+00:00 |
 | [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:05:48.047634+00:00 |
-| [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:50:16.096119+00:00 |
+| [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T13:33:50.995245+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T13:32:37.510063+00:00 |
 | [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:29:23.871894+00:00 |
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:43:15.359372+00:00 |
