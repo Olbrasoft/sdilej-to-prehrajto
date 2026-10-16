@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:10:28.012126+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:10:37.583842+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -481,7 +481,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T06:48:02.297292+00:00 |
 | [Followed (2018) 1080p CZ Titulky](https://prehraj.to/followed-2018-1080p-cz-titulky-mp4/91e5ef8083cbbf6d) (ID 29711077) | [Sdílej 34737041](https://sdilej.cz/34737041/followed-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:47:18.821682+00:00 |
 | [Forgotten (2017) 720p CZ Titulky](https://prehraj.to/forgotten-2017-720p-cz-titulky-mkv/4e6decadabf8dc16) (ID 29900926) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841054+00:00 |
-| [Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky](https://prehraj.to/fortune-feimster-sladka-i-slana-2020-1080p-cz-titulky-mp4/c7c66027480e2347) (ID 29578268) | [Sdílej 34733296](https://sdilej.cz/34733296/fortune-feimster-sladka-i-slana-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:18:56.438930+00:00 |
+| [Fortune Feimster: Sladká i slaná (2020) 1080p CZ Titulky](https://prehraj.to/fortune-feimster-sladka-i-slana-2020-1080p-cz-titulky-mp4/c7c66027480e2347) (ID 29578268) | [Sdílej 34733296](https://sdilej.cz/34733296/fortune-feimster-sladka-i-slana-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:10:37.583722+00:00 |
 | [Fotky zítřka (2014) SD CZ Titulky](https://prehraj.to/fotky-zitrka-2014-sd-cz-titulky-avi/677f01701b137158) (ID 29377773) | [Sdílej 22554309](https://sdilej.cz/22554309/time-lapse-2014-sktit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:38:34.770644+00:00 |
 | [Fotograf a Pošťák: Vražda José Luise Cabezase (2022) 1080p CZ Titulky](https://prehraj.to/fotograf-a-postak-vrazda-jose-luise-cabezase-2022-1080p-cz-titulky-mp4/55023c4835a10b61) (ID 29581594) | [Sdílej 34727364](https://sdilej.cz/34727364/fotograf-a-postak-vrazda-jose-luise-cabezase-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:19:38.249631+00:00 |
 | [Fractured (2018) SD CZ Titulky](https://prehraj.to/fractured-2018-sd-cz-titulky-mkv/ccf8866a5cc6e4ff) (ID 29313928) | [Sdílej 10955141](https://sdilej.cz/10955141/fractured-2018-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:06.359376+00:00 |
