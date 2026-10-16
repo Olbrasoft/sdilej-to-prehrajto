@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:27:52.415106+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:28:06.162667+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1487,7 +1487,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [White Bird in a Blizzard (2014) 720p CZ Titulky](https://prehraj.to/white-bird-in-a-blizzard-2014-720p-cz-titulky-avi/2088dfd98a9787af) (ID 29574916) | [Sdílej 3679154](https://sdilej.cz/3679154/white-bird-in-a-blizzard-2014-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:09:31.291843+00:00 |
 | [White Girl Apokalypse (2021) 1080p CZ Titulky](https://prehraj.to/white-girl-apokalypse-2021-1080p-cz-titulky-mp4/dcac5428deb73bb1) (ID 30144975) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.415356+00:00 |
 | [Whitney: Být sama sebou (2017) SD CZ Titulky](https://prehraj.to/whitney-byt-sama-sebou-2017-sd-cz-titulky-mp4/32b4e64c7034fe55) (ID 30070747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.414650+00:00 |
-| [Who am I - žádný systém není bezpečný (2014) SD CZ Titulky](https://prehraj.to/who-am-i-zadny-system-neni-bezpecny-2014-sd-cz-titulky-avi/e37446b594b3d25d) (ID 29633458) | [Sdílej 8425095](https://sdilej.cz/8425095/who-am-i-kein-system-ist-sicher.2014.german.ac3.webrip.xvid-srt.sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:44:10.318771+00:00 |
+| [Who am I - žádný systém není bezpečný (2014) SD CZ Titulky](https://prehraj.to/who-am-i-zadny-system-neni-bezpecny-2014-sd-cz-titulky-avi/e37446b594b3d25d) (ID 29633458) | [Sdílej 8425095](https://sdilej.cz/8425095/who-am-i-kein-system-ist-sicher.2014.german.ac3.webrip.xvid-srt.sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:28:06.162550+00:00 |
 | [Wish Man (2019) 1080p CZ Titulky](https://prehraj.to/wish-man-2019-1080p-cz-titulky-mkv/bb569f9f8471b517) (ID 30053343) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.414424+00:00 |
 | [Wither (2012) SD CZ Titulky](https://prehraj.to/wither-2012-sd-cz-titulky-mp4/41d842cf6f7fc279) (ID 29306068) | [Sdílej 34779874](https://sdilej.cz/34779874/wither-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T04:37:44.731332+00:00 |
 | [Woodstock 99: Mír, láska a běsnění (2021) 1080p CZ Titulky](https://prehraj.to/woodstock-99-mir-laska-a-besneni-2021-1080p-cz-titulky-mp4/7ca94472134e7fba) (ID 29445059) | [Sdílej 34728066](https://sdilej.cz/34728066/woodstock-99-mir-laska-a-besneni-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:46:10.113570+00:00 |
