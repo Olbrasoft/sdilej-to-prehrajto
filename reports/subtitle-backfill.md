@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:40:41.805231+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:40:50.767378+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1500,7 +1500,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Yong shì (2016) SD CZ Titulky](https://prehraj.to/yong-shi-2016-sd-cz-titulky-mp4/7bed2760b20ceb41) (ID 29701775) | [Sdílej 34737582](https://sdilej.cz/34737582/yong-sh-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:40:33.131570+00:00 |
 | [You Get Me (2017) SD CZ Titulky](https://prehraj.to/you-get-me-2017-sd-cz-titulky-avi/846c72e0593ae4b8) (ID 29907348) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.408663+00:00 |
 | [Your Host (2025) 1080p CZ Titulky](https://prehraj.to/your-host-2025-1080p-cz-titulky-mkv/7ca17c9b86029012) (ID 29917725) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.410498+00:00 |
-| [Z lásky (2025) 1080p CZ Titulky](https://prehraj.to/z-lasky-2025-1080p-cz-titulky-mp4/d3c7fa077288224d) (ID 29656881) | [Sdílej 34717900](https://sdilej.cz/34717900/preslapy-z-lasky-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:01:25.755263+00:00 |
+| [Z lásky (2025) 1080p CZ Titulky](https://prehraj.to/z-lasky-2025-1080p-cz-titulky-mp4/d3c7fa077288224d) (ID 29656881) | [Sdílej 34717900](https://sdilej.cz/34717900/preslapy-z-lasky-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:40:50.767274+00:00 |
 | [Za hranicí strachu (2007) SD CZ Titulky](https://prehraj.to/za-hranici-strachu-2007-sd-cz-titulky-avi/8209afc211328529) (ID 29931688) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.411728+00:00 |
 | [Za zvuků hudby (1965) 1080p CZ Titulky](https://prehraj.to/za-zvuku-hudby-1965-1080p-cz-titulky-mkv/973ebcfb431c6736) (ID 29123717) | [Sdílej 18937386](https://sdilej.cz/18937386/the-sound-of-music-1965-za-zvuku-hudby-cz-cz-tit.-2021.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:42:14.452837+00:00 |
 | [Zabijáci z maloměsta (2017) 720p CZ Titulky](https://prehraj.to/zabijaci-z-malomesta-2017-720p-cz-titulky-avi/a27b7a3d3dd6356a) (ID 29912184) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.409537+00:00 |
