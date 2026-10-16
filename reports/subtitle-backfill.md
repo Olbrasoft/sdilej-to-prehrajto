@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:40:43.753183+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:40:53.438565+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -620,7 +620,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [JJ+E (2021) 1080p CZ Titulky](https://prehraj.to/jj-e-2021-1080p-cz-titulky-mp4/83ba8445d2caaced) (ID 29911428) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.119473+00:00 |
 | [Jack a Jill (2011) 1080p CZ Titulky](https://prehraj.to/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:33.789843+00:00 |
 | [Jack in Time for Christmas (2024) 1080p CZ Titulky](https://prehraj.to/jack-in-time-for-christmas-2024-1080p-cz-titulky-mp4/12d77989edb428cb) (ID 29639441) | [Sdílej 34771771](https://sdilej.cz/34771771/jack-in-time-for-christmas-2024-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:31:28.314637+00:00 |
-| [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:48:32.315379+00:00 |
+| [Jai Bhim (2021) 720p CZ Titulky](https://prehraj.to/jai-bhim-2021-720p-cz-titulky-mp4/79257e06c559044f) (ID 29882898) | [Sdílej 34730753](https://sdilej.cz/34730753/jai-bhim-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:40:53.438458+00:00 |
 | [Jak jsem se stal gangsterem (2019) 1080p CZ Titulky](https://prehraj.to/jak-jsem-se-stal-gangsterem-2019-1080p-cz-titulky-mp4/324af92328cc761f) (ID 30064961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.124888+00:00 |
 | [Jak se natáčel Dámský gambit (2021) 1080p CZ Titulky](https://prehraj.to/jak-se-natacel-damsky-gambit-2021-1080p-cz-titulky-mp4/864840362f92c3de) (ID 29434054) | [Sdílej 34730712](https://sdilej.cz/34730712/jak-se-natacel-damsky-gambit-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:43:19.647062+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:32:33.953692+00:00 |
