@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:32:33.953815+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:32:41.713820+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_media_failed`: 1, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 19
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_media_failed`: 1, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 17, `target_detail_url_missing`: 16, `target_unavailable`: 19
 
 ## Poslední dávka
 
@@ -644,6 +644,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Jižní vítr (2018) 720p CZ Titulky](https://prehraj.to/jizni-vitr-2018-720p-cz-titulky-mkv/c467fd29ece9e008) (ID 29397063) | [Sdílej 12930446](https://sdilej.cz/12930446/juzni.vetar.2018.srbian.webrip.hevc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T13:34:22.154264+00:00 |
 | [Jméno (2012) SD CZ Titulky](https://prehraj.to/jmeno-2012-sd-cz-titulky-avi/fc24098a5dcb98ad) (ID 29387731) | [Sdílej 14483600](https://sdilej.cz/14483600/jmeno-le-prenom-2012-kome-drama-fr-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T12:43:13.330789+00:00 |
 | [Jodhaa Akbar (2008) SD CZ Titulky](https://prehraj.to/jodhaa-akbar-2008-sd-cz-titulky-mp4/e97cd7eb29a39e91) (ID 29883714) | [Sdílej 34751215](https://sdilej.cz/34751215/jodhaa-akbar-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:49:03.754733+00:00 |
+| [Joe Prvý (2025) 1080p CZ Titulky](https://prehraj.to/joe-prvy-2025-1080p-cz-titulky-mkv/6edeac9723e0b978) (ID 29629848) | [Sdílej 34890319](https://sdilej.cz/34890319/joe-the-first-2025-sk-dabing-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:32:41.713703+00:00 |
 | [John Mulaney a parta svačinářů (2019) 1080p CZ Titulky](https://prehraj.to/john-mulaney-a-parta-svacinaru-2019-1080p-cz-titulky-mp4/eaad09f317dd6e25) (ID 29352289) | [Sdílej 34734252](https://sdilej.cz/34734252/john-mulaney-a-parta-svacinaru-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:02.389500+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:34:15.183808+00:00 |
 | [Jonas Brothers Family Roast (2021) 1080p CZ Titulky](https://prehraj.to/jonas-brothers-family-roast-2021-1080p-cz-titulky-mp4/09ec0f4b8ab593fa) (ID 29639336) | [Sdílej 34772886](https://sdilej.cz/34772886/jonas-brothers-family-roast-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:31:19.110187+00:00 |
@@ -1596,7 +1597,6 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-16T16:19:58.270396+00:00 |
 | [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | source_unavailable | 2026-10-16T15:43:47.825877+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-16T16:19:28.830709+00:00 |
-| [Joe Prvý (2025) 1080p CZ Titulky](https://prehraj.to/joe-prvy-2025-1080p-cz-titulky-mkv/6edeac9723e0b978) (ID 29629848) | [Sdílej 34890319](https://sdilej.cz/34890319/joe-the-first-2025-sk-dabing-1080p-fhd.mkv) | source_unavailable | 2026-10-16T15:25:52.034121+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-16T16:20:09.742940+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-16T16:19:36.248288+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-16T16:19:25.128671+00:00 |
