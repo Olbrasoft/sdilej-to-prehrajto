@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T04:35:19.907164+00:00
+Poslední aktualizace (UTC): 2026-10-16T04:35:31.353307+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1158,7 +1158,7 @@ Kontrol: 13; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:47.137232+00:00 |
 | [Skinwalker (2021) 720p CZ Titulky](https://prehraj.to/skinwalker-2021-720p-cz-titulky-mp4/0a33d370a6ac740e) (ID 29403790) | [Sdílej 34772693](https://sdilej.cz/34772693/skinwalker-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:41:06.672630+00:00 |
 | [Sklízení duší (2019) 1080p CZ Titulky](https://prehraj.to/sklizeni-dusi-2019-1080p-cz-titulky-mkv/e410af12642741f6) (ID 29721179) | [Sdílej 18068680](https://sdilej.cz/18068680/soul.reaper.2019.1080p.nf.web-dl.ddp5.1.x264-titulky-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:02:17.549929+00:00 |
-| [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:43:43.835320+00:00 |
+| [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T04:35:31.353185+00:00 |
 | [Skutečná cena (2015) 1080p CZ Titulky](https://prehraj.to/skutecna-cena-2015-1080p-cz-titulky-mp4/7be209ade69a9187) (ID 29888439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T04:35:17.019781+00:00 |
 | [Sladké dětství (2020) SD CZ Titulky](https://prehraj.to/sladke-detstvi-2020-sd-cz-titulky-mp4/c7e1de765dc3ea79) (ID 29256766) | [Sdílej 34732105](https://sdilej.cz/34732105/sladke-detstvi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:33:16.952918+00:00 |
 | [Slib (2014) SD CZ Titulky](https://prehraj.to/slib-2014-sd-cz-titulky-avi/06e40acfb4af1b6c) (ID 29399692) | [Sdílej 28142034](https://sdilej.cz/28142034/slib-obietnica-2014-titulky-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:39:23.206816+00:00 |
