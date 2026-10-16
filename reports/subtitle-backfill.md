@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T05:32:46.393865+00:00
+Poslední aktualizace (UTC): 2026-10-16T05:33:03.480754+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -931,7 +931,7 @@ Kontrol: 44; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Open 24 Hours (2018) 1080p CZ Titulky](https://prehraj.to/open-24-hours-2018-1080p-cz-titulky-mkv/d9508402315fc510) (ID 29968991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.617655+00:00 |
 | [Operace Brothers (2019) 1080p CZ Titulky](https://prehraj.to/operace-brothers-2019-1080p-cz-titulky-mp4/5c338c24cf2dc0b9) (ID 29735386) | [Sdílej 12061134](https://sdilej.cz/12061134/the.red.sea.diving.resort.2019.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:10:18.612506+00:00 |
 | [Operace „Blue Sky“ (1994) 1080p CZ Titulky](https://prehraj.to/operace-blue-sky-1994-1080p-cz-titulky-mp4/20c6be7414d517b3) (ID 29392813) | [Sdílej 32752502](https://sdilej.cz/32752502/blue-sky-1994-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T11:34:58.779221+00:00 |
-| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:42:28.944718+00:00 |
+| [Operator (2015) SD CZ Titulky](https://prehraj.to/operator-2015-sd-cz-titulky-avi/f883e15297a21a9a) (ID 29313124) | [Sdílej 6242213](https://sdilej.cz/6242213/operator-2015-brrip-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:33:03.480642+00:00 |
 | [Opičí Král 2 (2016) SD CZ Titulky](https://prehraj.to/opici-kral-2-2016-sd-cz-titulky-mp4/fe8fd3411741f183) (ID 29934306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.617105+00:00 |
 | [Organ Trail (2023) SD CZ Titulky](https://prehraj.to/organ-trail-2023-sd-cz-titulky-avi/fce736dd590b7d22) (ID 29653440) | [Sdílej 27404612](https://sdilej.cz/27404612/organ.trail.2023.pl.480p.web-dl.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:59:40.134727+00:00 |
 | [Osamělí vlci (2019) 1080p CZ Titulky](https://prehraj.to/osameli-vlci-2019-1080p-cz-titulky-mkv/485b0ab0d1f3f27b) (ID 29655964) | [Sdílej 17308103](https://sdilej.cz/17308103/osameli-vlci-lone-wolves-2019-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:00:34.514362+00:00 |
