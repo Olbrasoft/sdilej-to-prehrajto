@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:29:40.891506+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:30:00.931874+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1316,7 +1316,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:41:39.778331+00:00 |
 | [The Legend of La Llorona (2022) 1080p CZ Titulky](https://prehraj.to/the-legend-of-la-llorona-2022-1080p-cz-titulky-mp4/c86c0ea379abb5bf) (ID 29905435) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.118727+00:00 |
 | [The Limehouse Golem (2016) SD CZ Titulky](https://prehraj.to/the-limehouse-golem-2016-sd-cz-titulky-mp4/a353585be7b9a51d) (ID 29573805) | [Sdílej 26970210](https://sdilej.cz/26970210/the-limehouse-golem-2016-web-dl-x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:09:03.941901+00:00 |
-| [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:37:41.015664+00:00 |
+| [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:30:00.931776+00:00 |
 | [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T18:41:18.624668+00:00 |
 | [The Marine 6: Close Quarters (2018) 1080p CZ Titulky.mkv](https://prehraj.to/the-marine-6-close-quarters-2018-1080p-cz-titulky-mkv/ed4d64590f0eb597) (ID 29657108) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.117352+00:00 |
 | [The Marshes (2017) 720p CZ Titulky](https://prehraj.to/the-marshes-2017-720p-cz-titulky-mp4/67868ec2ae51f06a) (ID 29274565) | [Sdílej 34737253](https://sdilej.cz/34737253/the-marshes-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:00:45.261303+00:00 |
