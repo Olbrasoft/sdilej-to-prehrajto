@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:18:51.720466+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:19:04.703181+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1228,7 +1228,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:57:41.864299+00:00 |
 | [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T13:33:50.995245+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841158+00:00 |
-| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:29:23.871894+00:00 |
+| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:19:04.703066+00:00 |
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:43:15.359372+00:00 |
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T19:28:26.771843+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841288+00:00 |
