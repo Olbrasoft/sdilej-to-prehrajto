@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T13:33:50.995376+00:00
+Poslední aktualizace (UTC): 2026-10-16T13:34:01.477879+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -307,7 +307,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:40:11.517389+00:00 |
 | [Downrange (2018) SD CZ Titulky](https://prehraj.to/downrange-2018-sd-cz-titulky-mp4/91c531ae05b32ae5) (ID 29720076) | [Sdílej 34774302](https://sdilej.cz/34774302/downrange-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:53:27.781322+00:00 |
 | [Dracula (1931) SD CZ Titulky](https://prehraj.to/dracula-1931-sd-cz-titulky-avi/9ec9f4e02cbafdfb) (ID 29377121) | [Sdílej 32585697](https://sdilej.cz/32585697/dracula-1931-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:38:19.911310+00:00 |
-| [Dragon Ball Super: Broly (2018) 720p CZ Titulky](https://prehraj.to/dragon-ball-super-broly-2018-720p-cz-titulky-mp4/61f5d2a382919ad5) (ID 29396899) | [Sdílej 13724972](https://sdilej.cz/13724972/dragon-ball-super-movie-broly-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:50:26.055134+00:00 |
+| [Dragon Ball Super: Broly (2018) 720p CZ Titulky](https://prehraj.to/dragon-ball-super-broly-2018-720p-cz-titulky-mp4/61f5d2a382919ad5) (ID 29396899) | [Sdílej 13724972](https://sdilej.cz/13724972/dragon-ball-super-movie-broly-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T13:34:01.477742+00:00 |
 | [Dragon Ball Z: Bardock - The Father of Goku (1990) 1080p CZ Titulky](https://prehraj.to/dragon-ball-z-bardock-the-father-of-goku-1990-1080p-cz-titulky-mp4/536f172a4a8cc246) (ID 29559509) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T13:32:37.508812+00:00 |
 | [Dragon Ball Z: The History of Trunks (1993) 1080p CZ Titulky](https://prehraj.to/dragon-ball-z-the-history-of-trunks-1993-1080p-cz-titulky-mp4/ee15ad84afc48a27) (ID 29559537) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T13:32:37.508826+00:00 |
 | [Dragon Nest: Warriors' Dawn (2014) SD CZ Titulky](https://prehraj.to/dragon-nest-warriors-dawn-2014-sd-cz-titulky-mp4/71b6c45efc52cc53) (ID 29331098) | [Sdílej 34900012](https://sdilej.cz/34900012/dragon-nest-warriors-dawn-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T07:35:54.086277+00:00 |
