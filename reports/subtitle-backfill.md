@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:05:10.351365+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:05:23.792858+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -582,7 +582,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Hříšná hudba (2019) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29272205) | [Sdílej 34958189](https://sdilej.cz/34958189/dirt.music.2019.1080p.webrip.dl.eac3.x264-majo.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-16T12:45:42.377068+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:23.718214+00:00 |
 | [I Am Not a Serial Killer (2016) 720p CZ Titulky](https://prehraj.to/i-am-not-a-serial-killer-2016-720p-cz-titulky-mkv/19d73b1378ad45ef) (ID 29607689) | [Sdílej 6846494](https://sdilej.cz/6846494/i-am-not-a-serial-killer.killer.2016.720p.bluray.x264.dts-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:48.116681+00:00 |
-| [I Am Soldier (2014) SD CZ Titulky](https://prehraj.to/i-am-soldier-2014-sd-cz-titulky-avi/a89560a03ca7bc51) (ID 29721964) | [Sdílej 27587211](https://sdilej.cz/27587211/i-am-soldier-2014cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:02:43.581526+00:00 |
+| [I Am Soldier (2014) SD CZ Titulky](https://prehraj.to/i-am-soldier-2014-sd-cz-titulky-avi/a89560a03ca7bc51) (ID 29721964) | [Sdílej 27587211](https://sdilej.cz/27587211/i-am-soldier-2014cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:05:23.792744+00:00 |
 | [I Can Only Imagine (2018) SD CZ Titulky](https://prehraj.to/i-can-only-imagine-2018-sd-cz-titulky-mp4/a446316ce9b0f18e) (ID 29505035) | [Sdílej 34774282](https://sdilej.cz/34774282/i-can-only-imagine-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:51:48.939543+00:00 |
 | [I Hear the Trees Whispering (2022) 1080p CZ Titulky](https://prehraj.to/i-hear-the-trees-whispering-2022-1080p-cz-titulky-mp4/d384c048ef14bba5) (ID 29613960) | [Sdílej 34760540](https://sdilej.cz/34760540/i-hear-the-trees-whispering-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:23:39.797237+00:00 |
 | [I am Jonas (2018) 1080p CZ Titulky](https://prehraj.to/i-am-jonas-2018-1080p-cz-titulky-mp4/c9e5426e57368765) (ID 29562401) | [Sdílej 34737006](https://sdilej.cz/34737006/i-am-jonas-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:02:32.577199+00:00 |
