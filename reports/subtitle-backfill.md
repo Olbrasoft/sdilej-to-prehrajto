@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:52:41.031149+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:52:55.311523+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1026,7 +1026,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky](https://prehraj.to/pretty-guardian-sailor-moon-eternal-the-movie-2-cast-2023-1080p-cz-titulky-mp4/99b448b527daca12) (ID 29311259) | [Sdílej 34904096](https://sdilej.cz/34904096/pretty-guardian-sailor-moon-eternal-the-movie-2.-cast-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:32:30.753860+00:00 |
 | [Primitive War (2025) 4K CZ Titulky](https://prehraj.to/primitive-war-2025-4k-cz-titulky-mkv/370daf1fa2823664) (ID 29929207) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.398592+00:00 |
 | [Pro větší slávu (2012) SD CZ Titulky](https://prehraj.to/pro-vetsi-slavu-2012-sd-cz-titulky-mp4/86d956f0e834f95d) (ID 30164453) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.401768+00:00 |
-| [Probudím se zase včera (2014) SD CZ Titulky](https://prehraj.to/probudim-se-zase-vcera-2014-sd-cz-titulky-avi/22baabe5d878315d) (ID 29706459) | [Sdílej 28108196](https://sdilej.cz/28108196/premature-cz-tit.v-obraze-komedie-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:30.922619+00:00 |
+| [Probudím se zase včera (2014) SD CZ Titulky](https://prehraj.to/probudim-se-zase-vcera-2014-sd-cz-titulky-avi/22baabe5d878315d) (ID 29706459) | [Sdílej 28108196](https://sdilej.cz/28108196/premature-cz-tit.v-obraze-komedie-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:52:55.311412+00:00 |
 | [Prolomit hranice: Naše planeta je věda (2021) 720p CZ Titulky](https://prehraj.to/prolomit-hranice-nase-planeta-je-veda-2021-720p-cz-titulky-mp4/99891ff1be3da01b) (ID 29901922) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.396278+00:00 |
 | [Promare (2019) 1080p CZ Titulky](https://prehraj.to/promare-2019-1080p-cz-titulky-mp4/8bc2366ed4ebf464) (ID 30049000) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.400650+00:00 |
 | [Proti přírodě (2014) 1080p CZ Titulky](https://prehraj.to/proti-prirode-2014-1080p-cz-titulky-mp4/66fd2542e287a0b8) (ID 30066066) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.400820+00:00 |
