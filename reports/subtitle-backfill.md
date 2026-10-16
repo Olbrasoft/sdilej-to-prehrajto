@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:37:22.994653+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:37:32.219175+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -170,7 +170,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Borderline (2025) 1080p CZ Titulky](https://prehraj.to/borderline-2025-1080p-cz-titulky-mp4/630f5556d48aac7d) (ID 29936642) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.412294+00:00 |
 | [Bornless Ones (2016) SD CZ Titulky](https://prehraj.to/bornless-ones-2016-sd-cz-titulky-avi/9098102a3bd38e8b) (ID 29653704) | [Sdílej 27467415](https://sdilej.cz/27467415/bornless-ones-2016-cz.tit.-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:59:55.112992+00:00 |
 | [Bože chraň: Skandál, který zničil celou dynastii (2022) 1080p CZ Titulky](https://prehraj.to/boze-chran-skandal-ktery-znicil-celou-dynastii-2022-1080p-cz-titulky-mp4/b0ba9fe1e0884617) (ID 29676055) | [Sdílej 34772367](https://sdilej.cz/34772367/boze-chran-skandal-ktery-znicil-celou-dynastii-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:35:42.510836+00:00 |
-| [Brambůrkovy sny o Americe (2021) 1080p CZ Titulky](https://prehraj.to/bramburkovy-sny-o-americe-2021-1080p-cz-titulky-mp4/b5937f9d95f9599c) (ID 29650557) | [Sdílej 34731488](https://sdilej.cz/34731488/bramburkovy-sny-o-americe-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:57:43.316335+00:00 |
+| [Brambůrkovy sny o Americe (2021) 1080p CZ Titulky](https://prehraj.to/bramburkovy-sny-o-americe-2021-1080p-cz-titulky-mp4/b5937f9d95f9599c) (ID 29650557) | [Sdílej 34731488](https://sdilej.cz/34731488/bramburkovy-sny-o-americe-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:37:32.219073+00:00 |
 | [Brave Citizen (2023) 1080p CZ Titulky](https://prehraj.to/brave-citizen-2023-1080p-cz-titulky-mp4/9a237b3934794785) (ID 29803955) | [Sdílej 34772096](https://sdilej.cz/34772096/brave-citizen-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:44:12.983616+00:00 |
 | [Breakdown Lane (2017) SD CZ Titulky](https://prehraj.to/breakdown-lane-2017-sd-cz-titulky-mkv/bf91a3292885f16f) (ID 29658008) | [Sdílej 34798204](https://sdilej.cz/34798204/breakdown.lane.2017.720p.bluray.x264-getit.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:39.948736+00:00 |
 | [Breeder (2020) 1080p CZ Titulky](https://prehraj.to/breeder-2020-1080p-cz-titulky-mkv/205b001c0a9a5374) (ID 29912189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.409555+00:00 |
