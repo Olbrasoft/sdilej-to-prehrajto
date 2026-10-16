@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:02:08.121462+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:02:23.336511+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -909,7 +909,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:59:27.026315+00:00 |
 | [ONE PIECE STAMPEDE (2019) SD CZ Titulky](https://prehraj.to/one-piece-stampede-2019-sd-cz-titulky-mkv/3d846d84c01258fb) (ID 29901446) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841060+00:00 |
 | [OSS 117 - Milostné pozdravy z Afriky (2021) SD CZ Titulky](https://prehraj.to/oss-117-milostne-pozdravy-z-afriky-2021-sd-cz-titulky-mp4/4b2ae12d2591439c) (ID 29904732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841103+00:00 |
-| [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:10:47.598191+00:00 |
+| [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:02:23.336374+00:00 |
 | [Obludárium (2017) 720p CZ Titulky](https://prehraj.to/obludarium-2017-720p-cz-titulky-mp4/ef02ba88d2c726dc) (ID 29632887) | [Sdílej 34737337](https://sdilej.cz/34737337/obludarium-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:43:55.027083+00:00 |
 | [Obviněný (2005) 720p CZ Titulky](https://prehraj.to/obvineny-2005-720p-cz-titulky-mp4/4bb7a750bf800f2d) (ID 29587306) | [Sdílej 33564212](https://sdilej.cz/33564212/obvineny-2005-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:22:00.717062+00:00 |
 | [Odnaždy v pustyně (2022) 1080p CZ Titulky](https://prehraj.to/odnazdy-v-pustyne-2022-1080p-cz-titulky-mp4/98024405e4e6e4e3) (ID 29923368) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841882+00:00 |
