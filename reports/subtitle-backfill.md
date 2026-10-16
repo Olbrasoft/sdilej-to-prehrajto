@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:04:47.652610+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:04:57.043498+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1062,7 +1062,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [Přízraky ze snů (1999) 1080p CZ Titulky](https://prehraj.to/prizraky-ze-snu-1999-1080p-cz-titulky-mp4/5bbbb0c6a414215b) (ID 29905356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841121+00:00 |
 | [Přízračný svět (2001) 1080p CZ Titulky](https://prehraj.to/prizracny-svet-2001-1080p-cz-titulky-mkv/0e6844f6c52a2ce9) (ID 30020064) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.842877+00:00 |
 | [Příšerná besídka (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29443443) | [Sdílej 32331186](https://sdilej.cz/32331186/the.best.christmas.pageant.ever.2024.1080p.webrip.x265.10bit.aac5.1-cz.titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-16T12:45:58.929476+00:00 |
-| [Příšerné Vánoce (2021) 1080p CZ Titulky](https://prehraj.to/priserne-vanoce-2021-1080p-cz-titulky-mp4/e1c614f93f367299) (ID 29566728) | [Sdílej 34728776](https://sdilej.cz/34728776/priserne-vanoce-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:13:34.768404+00:00 |
+| [Příšerné Vánoce (2021) 1080p CZ Titulky](https://prehraj.to/priserne-vanoce-2021-1080p-cz-titulky-mp4/e1c614f93f367299) (ID 29566728) | [Sdílej 34728776](https://sdilej.cz/34728776/priserne-vanoce-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:04:57.043395+00:00 |
 | [Příští stanice Greenwich Village (1976) 720p CZ Titulky.mkv](https://prehraj.to/pristi-stanice-greenwich-village-1976-720p-cz-titulky-mkv/ca77c438e0b44152) (ID 29586797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.840242+00:00 |
 | [Půlnoc v zahradě dobra a zla (1997) 720p CZ Titulky.mkv](https://prehraj.to/pulnoc-v-zahrade-dobra-a-zla-1997-720p-cz-titulky-mkv/88e48b9c8217baf5) (ID 29675454) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.840559+00:00 |
 | [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T03:37:25.651486+00:00 |
