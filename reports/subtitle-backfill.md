@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:10:16.505615+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:10:29.657106+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -958,7 +958,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Papírový život (2021) 1080p CZ Titulky](https://prehraj.to/papirovy-zivot-2021-1080p-cz-titulky-mp4/f9f8a72792f7a411) (ID 29220346) | [Sdílej 34729011](https://sdilej.cz/34729011/papirovy-zivot-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:51:38.397402+00:00 |
 | [Paradise City (2019) SD CZ Titulky](https://prehraj.to/paradise-city-2019-sd-cz-titulky-avi/a3960111d027f033) (ID 29818623) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.395961+00:00 |
 | [Paradise v plamenech (2019) 1080p CZ Titulky](https://prehraj.to/paradise-v-plamenech-2019-1080p-cz-titulky-mp4/ff885716a15d5121) (ID 30040420) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.400547+00:00 |
-| [Paradox (2016) 1080p CZ Titulky](https://prehraj.to/paradox-2016-1080p-cz-titulky-mp4/bb4a8e887841423f) (ID 29733276) | [Sdílej 34737704](https://sdilej.cz/34737704/paradox-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:07:46.935620+00:00 |
+| [Paradox (2016) 1080p CZ Titulky](https://prehraj.to/paradox-2016-1080p-cz-titulky-mp4/bb4a8e887841423f) (ID 29733276) | [Sdílej 34737704](https://sdilej.cz/34737704/paradox-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:10:29.656985+00:00 |
 | [Parazit z chlaďáku (2026) 4K CZ Titulky](https://prehraj.to/parazit-z-chladaku-2026-4k-cz-titulky-mkv/08036b151de6ef92) (ID 29911970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.397084+00:00 |
 | [Pardon, nezastihli jsme vás (2019) 720p CZ Titulky](https://prehraj.to/pardon-nezastihli-jsme-vas-2019-720p-cz-titulky-mkv/9eb618883236ecba) (ID 29560434) | [Sdílej 34176971](https://sdilej.cz/34176971/2019-pardon-nezastihli-jsme-vas-drama-76-cztit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:00:12.458984+00:00 |
 | [Paterson (2016) SD CZ Titulky](https://prehraj.to/paterson-2016-sd-cz-titulky-mkv/14feaa2a0f273f3d) (ID 30024191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.400208+00:00 |
