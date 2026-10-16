@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T01:39:22.872604+00:00
+Poslední aktualizace (UTC): 2026-10-16T01:39:32.670852+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -665,7 +665,7 @@ Kontrol: 45; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Kdybych měla nohy, tak ti nakopu (2025) 1080p CZ Titulky](https://prehraj.to/kdybych-mela-nohy-tak-ti-nakopu-2025-1080p-cz-titulky-mkv/030bb40d979625c8) (ID 30200443) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.655802+00:00 |
 | [Když se vrací vlci (2024) 1080p CZ Titulky](https://prehraj.to/kdyz-se-vraci-vlci-2024-1080p-cz-titulky-mkv/2153bb98f79f1959) (ID 29925461) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.653772+00:00 |
 | [Keeper (2025) 1080p CZ Titulky](https://prehraj.to/keeper-2025-1080p-cz-titulky-mp4/2b41fd23c3d7b224) (ID 29927515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.653858+00:00 |
-| [Keeper of Darkness (2015) 1080p CZ Titulky](https://prehraj.to/keeper-of-darkness-2015-1080p-cz-titulky-mkv/b055d3c3f5d25f54) (ID 29284602) | [Sdílej 10328546](https://sdilej.cz/10328546/keeper-of-darkness-2015-chinese-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T01:15:59.096716+00:00 |
+| [Keeper of Darkness (2015) 1080p CZ Titulky](https://prehraj.to/keeper-of-darkness-2015-1080p-cz-titulky-mkv/b055d3c3f5d25f54) (ID 29284602) | [Sdílej 10328546](https://sdilej.cz/10328546/keeper-of-darkness-2015-chinese-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:39:32.670747+00:00 |
 | [Kes (1970) 1080p CZ Titulky](https://prehraj.to/kes-1970-1080p-cz-titulky-mkv/aafaae88ad2ec5b3) (ID 29289637) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.649947+00:00 |
 | [Kesari (2019) 1080p CZ Titulky](https://prehraj.to/kesari-2019-1080p-cz-titulky-mp4/7d6ff763167ba819) (ID 30102560) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T01:37:55.655317+00:00 |
 | [Kevin Hart: What Now? (2016) 1080p CZ Titulky](https://prehraj.to/kevin-hart-what-now-2016-1080p-cz-titulky-mkv/9461846f718826b8) (ID 29614983) | [Sdílej 6918441](https://sdilej.cz/6918441/kevin-hart-what-now-2016-1080p-bluray-cyro.se-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:18.007826+00:00 |
