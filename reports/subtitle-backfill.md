@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:06:42.820676+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:06:52.699868+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1337,7 +1337,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [The Party (2017) SD CZ Titulky](https://prehraj.to/the-party-2017-sd-cz-titulky-avi/6b3de1f55a53c012) (ID 29230183) | [Sdílej 26648027](https://sdilej.cz/26648027/the-party-2017-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T20:31:07.070999+00:00 |
 | [The Phenomenon (2020) 1080p CZ Titulky](https://prehraj.to/the-phenomenon-2020-1080p-cz-titulky-mp4/ee7b751c3eb235a6) (ID 29407497) | [Sdílej 34731975](https://sdilej.cz/34731975/the-phenomenon-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:37:27.395369+00:00 |
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:17.863506+00:00 |
-| [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:14:58.549078+00:00 |
+| [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:06:52.699742+00:00 |
 | [The Real Right Stuff (2020) 1080p CZ Titulky.mp4](https://prehraj.to/the-real-right-stuff-2020-1080p-cz-titulky-mp4/19b92d8636074dd1) (ID 29576943) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.840218+00:00 |
 | [The Rental (2020) 1080p CZ Titulky](https://prehraj.to/the-rental-2020-1080p-cz-titulky-mkv/ae447861aa3528da) (ID 29916859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841669+00:00 |
 | [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:56:34.106557+00:00 |
