@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:49:37.305836+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:49:55.595693+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -717,7 +717,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Leave the World Behind (2014) SD CZ Titulky](https://prehraj.to/leave-the-world-behind-2014-sd-cz-titulky-mp4/2d3fd96d784cd743) (ID 29505113) | [Sdílej 34776328](https://sdilej.cz/34776328/leave-the-world-behind-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:58:40.936021+00:00 |
 | [Lego Jurassic World: Double Trouble (2020) 720p CZ Titulky](https://prehraj.to/lego-jurassic-world-double-trouble-2020-720p-cz-titulky-mp4/686b38f9f6e0b5b8) (ID 29276107) | [Sdílej 34733047](https://sdilej.cz/34733047/lego-jurassic-world-double-trouble-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:00:54.979214+00:00 |
 | [Leibstandarte: My Honor Was Loyalty (2015) 720p CZ Titulky](https://prehraj.to/leibstandarte-my-honor-was-loyalty-2015-720p-cz-titulky-mp4/0f0947074b9bc7f7) (ID 29658136) | [Sdílej 34738035](https://sdilej.cz/34738035/leibstandarte-my-honor-was-loyalty-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:03:40.091869+00:00 |
-| [Lemmy (2010) SD CZ Titulky](https://prehraj.to/lemmy-2010-sd-cz-titulky-avi/fa9e7a12e72859c4) (ID 29469522) | [Sdílej 6632545](https://sdilej.cz/6632545/lemmy-dokument-cz-sub-2010-avi.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:56:10.992530+00:00 |
+| [Lemmy (2010) SD CZ Titulky](https://prehraj.to/lemmy-2010-sd-cz-titulky-avi/fa9e7a12e72859c4) (ID 29469522) | [Sdílej 6632545](https://sdilej.cz/6632545/lemmy-dokument-cz-sub-2010-avi.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:49:55.595565+00:00 |
 | [Leprechaun Returns (2018) 1080p CZ Titulky](https://prehraj.to/leprechaun-returns-2018-1080p-cz-titulky-mkv/234c548e1492679f) (ID 29932416) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.379137+00:00 |
 | [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:36.379587+00:00 |
 | [Les Crevettes pailletées (2019) SD CZ Titulky](https://prehraj.to/les-crevettes-pailletees-2019-sd-cz-titulky-mp4/9b0ce3bed95c5b4b) (ID 29220527) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.372529+00:00 |
