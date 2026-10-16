@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T12:48:06.853974+00:00
+Poslední aktualizace (UTC): 2026-10-16T12:48:15.734005+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -498,7 +498,7 @@ Kontrol: 45; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 1. Důvod
 | [Gamgi (2013) 1080p CZ Titulky](https://prehraj.to/gamgi-2013-1080p-cz-titulky-mp4/4686273d99a86a87) (ID 30183719) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T12:48:04.206187+00:00 |
 | [Gangnam Zombie (2023) SD CZ Titulky](https://prehraj.to/gangnam-zombie-2023-sd-cz-titulky-avi/42d60f585520ab0a) (ID 29723757) | [Sdílej 26409536](https://sdilej.cz/26409536/gangnam.zombie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:03:43.890082+00:00 |
 | [Geomgaek (2020) 1080p CZ Titulky](https://prehraj.to/geomgaek-2020-1080p-cz-titulky-mkv/3923dd4af370e51a) (ID 29468294) | [Sdílej 15095618](https://sdilej.cz/15095618/geomgaek.2020-the.swordsman.sktit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:55:04.370689+00:00 |
-| [George Michael: Freedom (2017) 1080p CZ Titulky](https://prehraj.to/george-michael-freedom-2017-1080p-cz-titulky-mp4/a9afcb03560f32b0) (ID 29394134) | [Sdílej 34774695](https://sdilej.cz/34774695/george-michael-freedom-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T12:47:07.943892+00:00 |
+| [George Michael: Freedom (2017) 1080p CZ Titulky](https://prehraj.to/george-michael-freedom-2017-1080p-cz-titulky-mp4/a9afcb03560f32b0) (ID 29394134) | [Sdílej 34774695](https://sdilej.cz/34774695/george-michael-freedom-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T12:48:15.733888+00:00 |
 | [Gigi (1958) SD CZ Titulky](https://prehraj.to/gigi-1958-sd-cz-titulky-mp4/6acf90e747750d2b) (ID 30197996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T12:48:04.206282+00:00 |
 | [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:38:23.272209+00:00 |
 | [Godzilla (1954) 1080p CZ Titulky](https://prehraj.to/godzilla-1954-1080p-cz-titulky-mkv/7919d2f7c3816580) (ID 29881412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T12:48:04.198872+00:00 |
