@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T03:38:16.499303+00:00
+Poslední aktualizace (UTC): 2026-10-16T03:38:25.314683+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1518,7 +1518,7 @@ Kontrol: 44; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Zamrzlá země (2005) SD CZ Titulky](https://prehraj.to/zamrzla-zeme-2005-sd-cz-titulky-mkv/5f7bdd9a99d6f89e) (ID 30034906) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T03:36:37.010938+00:00 |
 | [Zapomeň na UFO (2022) 1080p CZ Titulky](https://prehraj.to/zapomen-na-ufo-2022-1080p-cz-titulky-mp4/cb7a6747d3998502) (ID 29657050) | [Sdílej 25788673](https://sdilej.cz/25788673/ufo-2022-1080p-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:01:38.849087+00:00 |
 | [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:39:56.703343+00:00 |
-| [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T02:53:05.565148+00:00 |
+| [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T03:38:25.314541+00:00 |
 | [Zastávka v Kansasu (1956) SD CZ Titulky](https://prehraj.to/zastavka-v-kansasu-1956-sd-cz-titulky-mp4/249bce8493be1eae) (ID 29572293) | [Sdílej 34699745](https://sdilej.cz/34699745/zastavka-v-kansasu-1956-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:16:18.766472+00:00 |
 | [Zatoulaný (2018) SD CZ Titulky](https://prehraj.to/zatoulany-2018-sd-cz-titulky-avi/ee32f1fd1bf7eafb) (ID 29412317) | [Sdílej 11160214](https://sdilej.cz/11160214/zatoulany-drama-cz-titulky-2018-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:45:27.206059+00:00 |
 | [Zazie dans le métro (1960) SD CZ Titulky](https://prehraj.to/zazie-dans-le-metro-1960-sd-cz-titulky-mp4/a56f88f9ee076962) (ID 29256773) | [Sdílej 34715255](https://sdilej.cz/34715255/zazie-dans-le-metro-1960-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:33:25.667800+00:00 |
