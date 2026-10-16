@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:08:36.396287+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:08:46.189241+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -61,7 +61,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:22.920038+00:00 |
 | [Along with the Gods: The Last 49 Days (2018) 1080p CZ Titulky](https://prehraj.to/along-with-the-gods-the-last-49-days-2018-1080p-cz-titulky-mkv/7906af4bfd0cc448) (ID 29323499) | [Sdílej 11562320](https://sdilej.cz/11562320/along.with.the.gods-the.last.49.days.2018.1080p.fhdrip.h264.aac-nondrm-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:27.574932+00:00 |
 | [Alpha Rift (2021) 720p CZ Titulky](https://prehraj.to/alpha-rift-2021-720p-cz-titulky-mp4/02e83edbc35871a1) (ID 29723911) | [Sdílej 34731662](https://sdilej.cz/34731662/alpha-rift-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:28.756345+00:00 |
-| [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:06:08.817673+00:00 |
+| [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:08:46.189088+00:00 |
 | [American Satan (2017) SD CZ Titulky](https://prehraj.to/american-satan-2017-sd-cz-titulky-avi/df146b915e883159) (ID 29911940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.397069+00:00 |
 | [Amityville: Probuzení (2017) 1080p CZ Titulky](https://prehraj.to/amityville-probuzeni-2017-1080p-cz-titulky-mkv/0e13c1914b411c06) (ID 29908934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.396736+00:00 |
 | [Andrej Rublev (1966) 720p CZ Titulky](https://prehraj.to/andrej-rublev-1966-720p-cz-titulky-mp4/d3da1268ba4212bc) (ID 29879096) | [Sdílej 34756095](https://sdilej.cz/34756095/andrej-rublev-1966-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:48:22.994725+00:00 |
