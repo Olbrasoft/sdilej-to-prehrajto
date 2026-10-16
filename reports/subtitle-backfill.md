@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T10:37:39.986629+00:00
+Poslední aktualizace (UTC): 2026-10-16T10:37:49.121016+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -246,7 +246,7 @@ Kontrol: 46; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Counterfeiting in Suburbia (2018) 1080p CZ Titulky](https://prehraj.to/counterfeiting-in-suburbia-2018-1080p-cz-titulky-mp4/14fe5ce6397be744) (ID 29240545) | [Sdílej 34737087](https://sdilej.cz/34737087/counterfeiting-in-suburbia-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:31:18.245707+00:00 |
 | [Cowspiracy - Klíč k udržitelnosti (2014) SD CZ Titulky](https://prehraj.to/cowspiracy-klic-k-udrzitelnosti-2014-sd-cz-titulky-mp4/3e955fc1ee0b5e6f) (ID 29282106) | [Sdílej 34711193](https://sdilej.cz/34711193/cowspiracy-klic-k-udrzitelnosti-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:38:53.612743+00:00 |
 | [Crazy Lake (2016) 720p CZ Titulky](https://prehraj.to/crazy-lake-2016-720p-cz-titulky-mp4/a924f59a3dcf18fb) (ID 29611093) | [Sdílej 34737829](https://sdilej.cz/34737829/crazy-lake-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:30:21.493915+00:00 |
-| [Creation Stories (2021) 1080p CZ Titulky](https://prehraj.to/creation-stories-2021-1080p-cz-titulky-mkv/f894dca557a5f133) (ID 29375643) | [Sdílej 18049678](https://sdilej.cz/18049678/creation-stories-2021-1080p-web-dl-dd5-1-h-264-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T10:35:57.044302+00:00 |
+| [Creation Stories (2021) 1080p CZ Titulky](https://prehraj.to/creation-stories-2021-1080p-cz-titulky-mkv/f894dca557a5f133) (ID 29375643) | [Sdílej 18049678](https://sdilej.cz/18049678/creation-stories-2021-1080p-web-dl-dd5-1-h-264-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:37:49.120866+00:00 |
 | [Creation of the Gods I: Kingdom of Storms (2023) 1080p CZ Titulky](https://prehraj.to/creation-of-the-gods-i-kingdom-of-storms-2023-1080p-cz-titulky-mp4/1c5bd848f28ba74b) (ID 30171813) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T10:37:37.321462+00:00 |
 | [Crocodile Island (2020) SD CZ Titulky](https://prehraj.to/crocodile-island-2020-sd-cz-titulky-mp4/5100b5eb67c6d547) (ID 29238075) | [Sdílej 34733274](https://sdilej.cz/34733274/crocodile-island-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:30:37.852661+00:00 |
 | [Cropsey (2009) 720p CZ Titulky](https://prehraj.to/cropsey-2009-720p-cz-titulky-mp4/4a6145fd13cbe1b0) (ID 29243103) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T10:37:37.311044+00:00 |
