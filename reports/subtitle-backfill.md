@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T05:33:29.025939+00:00
+Poslední aktualizace (UTC): 2026-10-16T05:33:37.765514+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -782,7 +782,7 @@ Kontrol: 44; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Matthias a Maxime (2019) 1080p CZ Titulky](https://prehraj.to/matthias-a-maxime-2019-1080p-cz-titulky-mkv/2797d9d8ac8ecb6a) (ID 29687687) | [Sdílej 13605860](https://sdilej.cz/13605860/matthias.et.maxime.2019.pl.1080p.web-dl.x264-kit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:38:05.908814+00:00 |
 | [Max Schmeling (2010) SD CZ Titulky](https://prehraj.to/max-schmeling-2010-sd-cz-titulky-mp4/cb5a8d7377a04573) (ID 29639244) | [Sdílej 34750021](https://sdilej.cz/34750021/max-schmeling-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:47:24.949127+00:00 |
 | [Mayday (2021) 720p CZ Titulky](https://prehraj.to/mayday-2021-720p-cz-titulky-mp4/9ae805f3b900c58a) (ID 29938600) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.617443+00:00 |
-| [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:43:09.249761+00:00 |
+| [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:33:37.765416+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-15T14:40:48.025327+00:00 |
 | [Med v hlavě (2014) SD CZ Titulky](https://prehraj.to/med-v-hlave-2014-sd-cz-titulky-mp4/4d2b0d80bcfe2251) (ID 29631487) | [Sdílej 34711238](https://sdilej.cz/34711238/med-v-hlave-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:38:41.576686+00:00 |
 | [Medea (1989) SD CZ Titulky](https://prehraj.to/medea-1989-sd-cz-titulky-mp4/227e04f115e4f30a) (ID 29628691) | [Sdílej 34754626](https://sdilej.cz/34754626/medea-1989-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:36:58.841141+00:00 |
