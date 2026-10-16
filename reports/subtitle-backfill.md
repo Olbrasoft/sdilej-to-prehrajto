@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:09:40.487588+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:09:51.847343+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -839,7 +839,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [Na krásném modrém Dunaji (1994) SD CZ Titulky](https://prehraj.to/na-krasnem-modrem-dunaji-1994-sd-cz-titulky-mkv/e45dec6951c76f95) (ID 29699304) | [Sdílej 33871018](https://sdilej.cz/33871018/1994-na-krasnom-modrom-dunaji.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:40:23.035969+00:00 |
 | [Na západní frontě klid (1930) 1080p CZ Titulky](https://prehraj.to/na-zapadni-fronte-klid-1930-1080p-cz-titulky-avi/aabec1924f51d3ce) (ID 29154528) | [Sdílej 29049675](https://sdilej.cz/29049675/01-na-zapadnom-fronte-klud-1930-cz-titulky-ocik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:44:39.749707+00:00 |
 | [Nafukovací panna (2009) SD CZ Titulky](https://prehraj.to/nafukovaci-panna-2009-sd-cz-titulky-mp4/4810f16486c8df61) (ID 29511400) | [Sdílej 34911804](https://sdilej.cz/34911804/nafukovaci-panna-du-na-bae-arata-iura-2009-drama-fantasy-romanticky-bdrip.1080p.-jpn-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:53:31.719903+00:00 |
-| [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:18:08.316703+00:00 |
+| [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:09:51.847236+00:00 |
 | [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:59:06.032775+00:00 |
 | [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:59:55.236419+00:00 |
 | [Naprostí cizinci (2016) 720p CZ Titulky](https://prehraj.to/naprosti-cizinci-2016-720p-cz-titulky-mp4/0beaa73b6807cef9) (ID 29363411) | [Sdílej 34449418](https://sdilej.cz/34449418/2016-naprosti-cizinci-komedie-drama-83-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:48:18.271356+00:00 |
