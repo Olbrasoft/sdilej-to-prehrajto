@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:37:53.833651+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:38:02.621980+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -233,7 +233,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:52:28.804494+00:00 |
 | [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T06:48:20.686143+00:00 |
 | [Co tě drží naživu (2018) 1080p CZ Titulky](https://prehraj.to/co-te-drzi-nazivu-2018-1080p-cz-titulky-avi/8d39960c23efb3e0) (ID 29914193) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.377753+00:00 |
-| [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:42:21.045083+00:00 |
+| [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:38:02.621864+00:00 |
 | [Cold Meat (2023) 1080p CZ Titulky](https://prehraj.to/cold-meat-2023-1080p-cz-titulky-mp4/cd345aa685724de7) (ID 29912376) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.377571+00:00 |
 | [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:52:39.136669+00:00 |
 | [Conor McGregor: Notorious (2017) 1080p CZ Titulky](https://prehraj.to/conor-mcgregor-notorious-2017-1080p-cz-titulky-mkv/9ae07d66666bf58b) (ID 29427630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.374134+00:00 |
