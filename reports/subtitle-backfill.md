@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:20:09.742999+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:20:20.495809+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 838, `source_media_failed`: 1, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 20, `target_detail_url_missing`: 16, `target_unavailable`: 19
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 839, `source_media_failed`: 1, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 19
 
 ## Poslední dávka
 
@@ -311,6 +311,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Dův
 | [Dragon Nest: Warriors' Dawn (2014) SD CZ Titulky](https://prehraj.to/dragon-nest-warriors-dawn-2014-sd-cz-titulky-mp4/71b6c45efc52cc53) (ID 29331098) | [Sdílej 34900012](https://sdilej.cz/34900012/dragon-nest-warriors-dawn-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T07:35:54.086277+00:00 |
 | [Drishyam (2015) SD CZ Titulky](https://prehraj.to/drishyam-2015-sd-cz-titulky-mp4/4788947288566e8b) (ID 29206672) | [Sdílej 6121944](https://sdilej.cz/6121944/drishyam-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:48:23.426435+00:00 |
 | [Driving Me Crazy (1991) SD CZ Titulky](https://prehraj.to/driving-me-crazy-1991-sd-cz-titulky-mkv/495a83c7e6c7b25b) (ID 29652800) | [Sdílej 30573590](https://sdilej.cz/30573590/blazniva-jazda-driving-me-crazy-1991-en.sk-dvdrip-hevc-576p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:38:44.353622+00:00 |
+| [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:20:20.495657+00:00 |
 | [Dune World (2021) 1080p CZ Titulky](https://prehraj.to/dune-world-2021-1080p-cz-titulky-mp4/9b10d8a8e4bf3945) (ID 29709431) | [Sdílej 34772958](https://sdilej.cz/34772958/dune-world-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:55:49.865305+00:00 |
 | [Dva neznámí z parku (2026) 1080p CZ Titulky](https://prehraj.to/dva-neznami-z-parku-2026-1080p-cz-titulky-mp4/3e072fd9b8eea3a2) (ID 30138369) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T16:15:02.170532+00:00 |
 | [Dveře v podlaze (2004) 1080p CZ Titulky](https://prehraj.to/dvere-v-podlaze-2004-1080p-cz-titulky-mp4/a455ab9b4269d98a) (ID 30184168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T16:15:02.171104+00:00 |
@@ -1594,7 +1595,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Dův
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-16T16:19:58.270396+00:00 |
 | [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | source_unavailable | 2026-10-16T15:43:47.825877+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-16T16:19:28.830709+00:00 |
-| [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | source_unavailable | 2026-10-16T14:36:27.374531+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | source_unavailable | 2026-10-16T15:23:44.116310+00:00 |
 | [Joe Prvý (2025) 1080p CZ Titulky](https://prehraj.to/joe-prvy-2025-1080p-cz-titulky-mkv/6edeac9723e0b978) (ID 29629848) | [Sdílej 34890319](https://sdilej.cz/34890319/joe-the-first-2025-sk-dabing-1080p-fhd.mkv) | source_unavailable | 2026-10-16T15:25:52.034121+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-16T16:20:09.742940+00:00 |
