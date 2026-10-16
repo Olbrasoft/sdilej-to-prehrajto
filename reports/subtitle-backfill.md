@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T04:35:31.353307+00:00
+Poslední aktualizace (UTC): 2026-10-16T04:35:40.895147+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1246,7 +1246,7 @@ Kontrol: 13; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ta druhá (2025) 1080p CZ Titulky](https://prehraj.to/ta-druha-2025-1080p-cz-titulky-mp4/6904d9c4cb05e26a) (ID 29404171) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T04:35:17.017099+00:00 |
 | [Ta druhá Zoey (2023) 1080p CZ Titulky](https://prehraj.to/ta-druha-zoey-2023-1080p-cz-titulky-mp4/e555e8664ff0f4a1) (ID 29916050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T04:35:17.021212+00:00 |
 | [Tajemství noci (2017) SD CZ Titulky](https://prehraj.to/tajemstvi-noci-2017-sd-cz-titulky-avi/527733fb18004557) (ID 29929188) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T04:35:17.022125+00:00 |
-| [Tajný agent (2025) 4K CZ Titulky](https://prehraj.to/tajny-agent-2025-4k-cz-titulky-mkv/eabeb41353268d5b) (ID 29298951) | [Sdílej 33013860](https://sdilej.cz/33013860/the.secret.agent.2025.2160p.dcp.webrip.ac3.sdr.h265-aoc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T03:43:52.235039+00:00 |
+| [Tajný agent (2025) 4K CZ Titulky](https://prehraj.to/tajny-agent-2025-4k-cz-titulky-mkv/eabeb41353268d5b) (ID 29298951) | [Sdílej 33013860](https://sdilej.cz/33013860/the.secret.agent.2025.2160p.dcp.webrip.ac3.sdr.h265-aoc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T04:35:40.895015+00:00 |
 | [Tak jako v nebi (2004) SD CZ Titulky](https://prehraj.to/tak-jako-v-nebi-2004-sd-cz-titulky-mp4/9a46c9168543ef3c) (ID 29886931) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T04:35:17.019694+00:00 |
 | [Take Point (2018) SD CZ Titulky](https://prehraj.to/take-point-2018-sd-cz-titulky-mkv/b6097f931ecd0e90) (ID 29608451) | [Sdílej 12205647](https://sdilej.cz/12205647/take.point.2018.hdrip.xvid.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:56.506112+00:00 |
 | [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:26:21.262828+00:00 |
