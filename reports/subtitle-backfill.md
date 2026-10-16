@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:46:03.134440+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:46:06.711323+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -570,7 +570,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hot Chocolate Nutcracker: Klasika v novém podání (2020) 1080p CZ Titulky](https://prehraj.to/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-1080p-cz-titulky-mp4/d4e174c100b91362) (ID 29382292) | [Sdílej 34773295](https://sdilej.cz/34773295/hot-chocolate-nutcracker-klasika-v-novem-podani-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:39:36.119236+00:00 |
 | [Hotel Inferno (2013) 1080p CZ Titulky](https://prehraj.to/hotel-inferno-2013-1080p-cz-titulky-mkv/148fb56c56fa9d36) (ID 29539384) | [Sdílej 17823326](https://sdilej.cz/17823326/hotel.inferno.2013.1080p.bluray.h264.aac-rarbg.ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:06.524604+00:00 |
 | [Hotel Inferno 3: The Castle of Screams (2020) 720p CZ Titulky](https://prehraj.to/hotel-inferno-3-the-castle-of-screams-2020-720p-cz-titulky-mp4/72e4849ec29169b4) (ID 29398804) | [Sdílej 34733137](https://sdilej.cz/34733137/hotel-inferno-3-the-castle-of-screams-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:34:53.012598+00:00 |
-| [Hotel Mumbai (2018) 720p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29558577) | [Sdílej 31885956](https://sdilej.cz/31885956/hotel-mumbai-2018-czdab-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-16T16:19:02.612041+00:00 |
+| [Hotel Mumbai (2018) 720p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29558577) | [Sdílej 31885956](https://sdilej.cz/31885956/hotel-mumbai-2018-czdab-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-16T17:46:06.711256+00:00 |
 | [Hounded (2022) 1080p CZ Titulky.mkv](https://prehraj.to/hounded-2022-1080p-cz-titulky-mkv/9fc9e9a943eb6578) (ID 29651252) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.117284+00:00 |
 | [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:44:01.218621+00:00 |
 | [Hranice ovládání (2009) 720p CZ Titulky](https://prehraj.to/hranice-ovladani-2009-720p-cz-titulky-mp4/1e44c7b60b432cb3) (ID 29996684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.123717+00:00 |
