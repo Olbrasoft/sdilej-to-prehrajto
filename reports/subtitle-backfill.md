@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:46:55.896547+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:47:05.393645+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -672,7 +672,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Kluci v mém životě (2001) 1080p CZ Titulky](https://prehraj.to/kluci-v-mem-zivote-2001-1080p-cz-titulky-mp4/199ac8145f39695a) (ID 29285410) | [Sdílej 33201728](https://sdilej.cz/33201728/riding-in-cars-with-boys-2001-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:39:54.036526+00:00 |
 | [Kluk ve světě příšer (2015) 1080p CZ Titulky](https://prehraj.to/kluk-ve-svete-priser-2015-1080p-cz-titulky-mkv/52cbdca1a6a55353) (ID 29559657) | [Sdílej 12089240](https://sdilej.cz/12089240/bakemono-no-ko-bd-1080p-flac-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:15.011831+00:00 |
 | [Knoflíkáři (1997) 1080p CZ Titulky](https://prehraj.to/knoflikari-1997-1080p-cz-titulky-mkv/f7765e47e787ca7e) (ID 29427702) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.393983+00:00 |
-| [Knězovy děti (2013) 1080p CZ Titulky](https://prehraj.to/knezovy-deti-2013-1080p-cz-titulky-mp4/ccfc423ad46db384) (ID 29676052) | [Sdílej 27941343](https://sdilej.cz/27941343/knazove-deti-2013.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:35:32.772835+00:00 |
+| [Knězovy děti (2013) 1080p CZ Titulky](https://prehraj.to/knezovy-deti-2013-1080p-cz-titulky-mp4/ccfc423ad46db384) (ID 29676052) | [Sdílej 27941343](https://sdilej.cz/27941343/knazove-deti-2013.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:47:05.393530+00:00 |
 | [Kobiety mafii 2 (2019) 1080p CZ Titulky](https://prehraj.to/kobiety-mafii-2-2019-1080p-cz-titulky-mkv/325dbbac561ba242) (ID 29936545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.399122+00:00 |
 | [Koe no katači (2016) 1080p CZ Titulky](https://prehraj.to/koe-no-kataci-2016-1080p-cz-titulky-mkv/9965e33ac049c36f) (ID 29115694) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.392031+00:00 |
 | [Kokuhaku (2010) 1080p CZ Titulky](https://prehraj.to/kokuhaku-2010-1080p-cz-titulky-mkv/b2c99d3e607ebcba) (ID 29560872) | [Sdílej 7861515](https://sdilej.cz/7861515/kokuhaku-confessions.2010.1080p.bluray.x264.dts-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:19.548205+00:00 |
