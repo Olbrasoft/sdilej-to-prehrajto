@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:12:58.574973+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:13:07.585045+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -256,7 +256,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 98. Dův
 | [Císařův slavík (1949) SD CZ Titulky](https://prehraj.to/cisaruv-slavik-1949-sd-cz-titulky-mp4/1bfe5bf8b71885f4) (ID 29663448) | [Sdílej 34714597](https://sdilej.cz/34714597/cisaruv-slavik-1949-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:43:03.937016+00:00 |
 | [Daaaaaalí! (2023) 1080p CZ Titulky](https://prehraj.to/daaaaaali-2023-1080p-cz-titulky-mp4/00721f8e39597eb8) (ID 30158609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.401666+00:00 |
 | [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:00:35.395915+00:00 |
-| [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:10:28.277687+00:00 |
+| [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:13:07.584929+00:00 |
 | [Daleká cesta (1949) 1080p CZ Titulky](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:34:40.860368+00:00 |
 | [Dangal (2016) 1080p CZ Titulky](https://prehraj.to/dangal-2016-1080p-cz-titulky-mkv/df8c26d4d2452a53) (ID 29111363) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.391961+00:00 |
 | [Danielle Steel: Prsten (1996) 1080p CZ Titulky](https://prehraj.to/danielle-steel-prsten-1996-1080p-cz-titulky-mkv/94300c9b1829a16b) (ID 29431004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:45:42.394027+00:00 |
