@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:45:39.510846+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:46:00.995163+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1083,7 +1083,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Relationship Goals (2026) 1080p CZ Titulky](https://prehraj.to/relationship-goals-2026-1080p-cz-titulky-mp4/c67aadcf7258f4d3) (ID 29660359) | [Sdílej 33219138](https://sdilej.cz/33219138/relationship-goals-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:07:53.329085+00:00 |
 | [Reprise (2006) 1080p CZ Titulky](https://prehraj.to/reprise-2006-1080p-cz-titulky-mkv/f098c0c978267120) (ID 30034803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.380720+00:00 |
 | [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T03:36:57.580796+00:00 |
-| [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:51:32.782968+00:00 |
+| [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:46:00.995046+00:00 |
 | [Rise of the Zombies (2012) 1080p CZ Titulky](https://prehraj.to/rise-of-the-zombies-2012-1080p-cz-titulky-mp4/361c55ec98f51a60) (ID 29906087) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.376846+00:00 |
 | [Rituální zabiják (2023) 1080p CZ Titulky](https://prehraj.to/ritualni-zabijak-2023-1080p-cz-titulky-mp4/2ef56b31ce04736e) (ID 29910439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.377249+00:00 |
 | [Road (2014) SD CZ Titulky](https://prehraj.to/road-2014-sd-cz-titulky-mp4/8a0d713a54896a3b) (ID 29307195) | [Sdílej 34776260](https://sdilej.cz/34776260/road-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:32:02.296666+00:00 |
