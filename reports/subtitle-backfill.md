@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T01:01:05.083027+00:00
+Poslední aktualizace (UTC): 2026-10-16T01:01:21.173074+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1530,7 +1530,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zhan lang 2 (2017) 720p CZ Titulky](https://prehraj.to/zhan-lang-2-2017-720p-cz-titulky-mp4/287868bc3830f8d9) (ID 29911336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T00:59:20.453856+00:00 |
 | [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T09:39:58.277420+00:00 |
 | [Zloději aut (2025) 1080p CZ Titulky](https://prehraj.to/zlodeji-aut-2025-1080p-cz-titulky-mkv/1ac38c370498a447) (ID 29917167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T00:59:20.454663+00:00 |
-| [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-08T23:33:47.912245+00:00 |
+| [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:01:21.172965+00:00 |
 | [Znamení voodoo (2020) 1080p CZ Titulky](https://prehraj.to/znameni-voodoo-2020-1080p-cz-titulky-avi/4f390f64c2c7f833) (ID 29936659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T00:59:20.456270+00:00 |
 | [Znovu zrozen (2016) 1080p CZ Titulky](https://prehraj.to/znovu-zrozen-2016-1080p-cz-titulky-mkv/7f2b941812745f52) (ID 29566591) | [Sdílej 32832255](https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:13:24.457680+00:00 |
 | [Zola (2020) 720p CZ Titulky](https://prehraj.to/zola-2020-720p-cz-titulky-mp4/fe2f51475df96405) (ID 29400325) | [Sdílej 34773120](https://sdilej.cz/34773120/zola-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:40:09.845925+00:00 |
