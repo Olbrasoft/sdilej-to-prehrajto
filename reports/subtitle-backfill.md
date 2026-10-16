@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:40:04.863939+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:40:14.083045+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -950,7 +950,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ovečka Shaun: Vánoční příběh (2021) 1080p CZ Titulky](https://prehraj.to/ovecka-shaun-vanocni-pribeh-2021-1080p-cz-titulky-mp4/7e484b8287927702) (ID 29415712) | [Sdílej 34647965](https://sdilej.cz/34647965/ovecka-shaun-vanocni-pribeh-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:45:37.238248+00:00 |
 | [Oči mé matky (2016) 1080p CZ Titulky](https://prehraj.to/oci-me-matky-2016-1080p-cz-titulky-mkv/baee96c43f9dd84f) (ID 29992901) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.380253+00:00 |
 | [Ošklivá nevlastní sestra (2025) 1080p CZ Titulky](https://prehraj.to/oskliva-nevlastni-sestra-2025-1080p-cz-titulky-mp4/0f6b247d0663e22d) (ID 29450742) | [Sdílej 34899920](https://sdilej.cz/34899920/oskliva-nevlastni-sestra-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:52:31.174068+00:00 |
-| [P!nk: All I Know So Far (2021) 720p CZ Titulky](https://prehraj.to/p-nk-all-i-know-so-far-2021-720p-cz-titulky-mp4/f56c61ef61113436) (ID 29412148) | [Sdílej 34772758](https://sdilej.cz/34772758/p-nk-all-i-know-so-far-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:45:03.781403+00:00 |
+| [P!nk: All I Know So Far (2021) 720p CZ Titulky](https://prehraj.to/p-nk-all-i-know-so-far-2021-720p-cz-titulky-mp4/f56c61ef61113436) (ID 29412148) | [Sdílej 34772758](https://sdilej.cz/34772758/p-nk-all-i-know-so-far-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:40:14.082929+00:00 |
 | [PK (2014) SD CZ Titulky](https://prehraj.to/pk-2014-sd-cz-titulky-mp4/cd2b0169314ad6bc) (ID 29878877) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:48:13.734034+00:00 |
 | [Paddleton (2019) 1080p CZ Titulky](https://prehraj.to/paddleton-2019-1080p-cz-titulky-mp4/8063bd130acfec92) (ID 29339814) | [Sdílej 34733979](https://sdilej.cz/34733979/paddleton-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:39:12.425995+00:00 |
 | [Paintball Massacre (2020) 720p CZ Titulky](https://prehraj.to/paintball-massacre-2020-720p-cz-titulky-mp4/5677884787b5fce8) (ID 29582168) | [Sdílej 34773203](https://sdilej.cz/34773203/paintball-massacre-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:20:16.945102+00:00 |
