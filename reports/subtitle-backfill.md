@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:52:20.395857+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:52:43.522061+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1397,7 +1397,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Tygři (2024) 1080p CZ Titulky](https://prehraj.to/tygri-2024-1080p-cz-titulky-mp4/674e5585d67ab62e) (ID 29415991) | [Sdílej 34724647](https://sdilej.cz/34724647/tygri-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:41:09.705757+00:00 |
 | [Téměř dokonalý (2012) 720p CZ Titulky](https://prehraj.to/temer-dokonaly-2012-720p-cz-titulky-mp4/2794f7a09bfe893c) (ID 29289240) | [Sdílej 34965884](https://sdilej.cz/34965884/temer-dokonaly-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T02:39:36.274206+00:00 |
 | [Tísňové volání (2018) 1080p CZ Titulky](https://prehraj.to/tisnove-volani-2018-1080p-cz-titulky-mkv/9b663ed89380f9b3) (ID 29824745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.376243+00:00 |
-| [Tělo (2012) 720p CZ Titulky](https://prehraj.to/telo-2012-720p-cz-titulky-avi/72574bc6fc81e930) (ID 29509182) | [Sdílej 21997721](https://sdilej.cz/21997721/el-cuerpo-telo-2012-esp-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:59:21.945432+00:00 |
+| [Tělo (2012) 720p CZ Titulky](https://prehraj.to/telo-2012-720p-cz-titulky-avi/72574bc6fc81e930) (ID 29509182) | [Sdílej 21997721](https://sdilej.cz/21997721/el-cuerpo-telo-2012-esp-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:52:43.521930+00:00 |
 | [Třetí poločas (2012) SD CZ Titulky](https://prehraj.to/treti-polocas-2012-sd-cz-titulky-mkv/a7604740782d512f) (ID 29376136) | [Sdílej 34816306](https://sdilej.cz/34816306/the.third.half.2012.dvdrip.x264.ac-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:52.181405+00:00 |
 | [Tři přání (1995) SD CZ Titulky](https://prehraj.to/tri-prani-1995-sd-cz-titulky-avi/cca230356167ece3) (ID 29567240) | [Sdílej 22107099](https://sdilej.cz/22107099/tre.piani.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:13:52.055866+00:00 |
 | [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:49:03.171516+00:00 |
