@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:44:14.459334+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:44:25.256059+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1266,7 +1266,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The American (2023) 1080p CZ Titulky](https://prehraj.to/the-american-2023-1080p-cz-titulky-mkv/09eb607b014ed38c) (ID 29482020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.116324+00:00 |
 | [The Angriest Man in Brooklyn (2014) SD CZ Titulky](https://prehraj.to/the-angriest-man-in-brooklyn-2014-sd-cz-titulky-avi/af31faef6cd41137) (ID 29721122) | [Sdílej 28343869](https://sdilej.cz/28343869/the-angriest-man-in-brooklyn-2014-komedie-ceske-titulky-vlozeny-ve-filmu.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:04:26.470114+00:00 |
 | [The Appearance (2018) 1080p CZ Titulky](https://prehraj.to/the-appearance-2018-1080p-cz-titulky-mkv/5c7e6911dc2f41e1) (ID 29918173) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.120748+00:00 |
-| [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:52:09.680921+00:00 |
+| [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:44:25.255949+00:00 |
 | [The Aviary (2022) 1080p CZ Titulky](https://prehraj.to/the-aviary-2022-1080p-cz-titulky-mp4/aee6a96eb6881d7c) (ID 29712339) | [Sdílej 34904089](https://sdilej.cz/34904089/the-aviary-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:57:10.379028+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:48:03.668761+00:00 |
 | [The Battery (2012) SD CZ Titulky](https://prehraj.to/the-battery-2012-sd-cz-titulky-mp4/56fd8ee2543587c8) (ID 29985690) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.123478+00:00 |
