@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:35:07.068421+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:35:21.972871+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1021,7 +1021,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Povstání mrtvých: Konečná hra (2016) 720p CZ Titulky](https://prehraj.to/povstani-mrtvych-konecna-hra-2016-720p-cz-titulky-mp4/b7b10bc8fcfe48ef) (ID 29740133) | [Sdílej 34770373](https://sdilej.cz/34770373/povstani-mrtvych-konecna-hra-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:22:07.171189+00:00 |
 | [Povídky ze záhrobí: Rytíř Démon (1995) 1080p CZ Titulky](https://prehraj.to/povidky-ze-zahrobi-rytir-demon-1995-1080p-cz-titulky-mkv/5852c5e3e3e87f4c) (ID 29264167) | [Sdílej 22562277](https://sdilej.cz/22562277/tales-from-the-crypt-demon-knight-1995-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:34:57.444294+00:00 |
 | [Powstaniec 1863 (2024) 1080p CZ Titulky](https://prehraj.to/powstaniec-1863-2024-1080p-cz-titulky-mp4/e2875ed4971e84e4) (ID 30152841) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.126012+00:00 |
-| [Požehnání (2021) SD CZ Titulky](https://prehraj.to/pozehnani-2021-sd-cz-titulky-avi/3906a26d23e1f6d3) (ID 29785951) | [Sdílej 24242950](https://sdilej.cz/24242950/benediction.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:42:50.568722+00:00 |
+| [Požehnání (2021) SD CZ Titulky](https://prehraj.to/pozehnani-2021-sd-cz-titulky-avi/3906a26d23e1f6d3) (ID 29785951) | [Sdílej 24242950](https://sdilej.cz/24242950/benediction.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:35:21.972749+00:00 |
 | [Požáry (2010) SD CZ Titulky](https://prehraj.to/pozary-2010-sd-cz-titulky-mkv/b5fb466d02e5e32a) (ID 29278839) | [Sdílej 14010999](https://sdilej.cz/14010999/incendies.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T01:01:05.082922+00:00 |
 | [Pramen panny (1960) 1080p CZ Titulky](https://prehraj.to/pramen-panny-1960-1080p-cz-titulky-mkv/7e1ce4846d09ed3a) (ID 29179268) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.113879+00:00 |
 | [Pravidla hry (1994) SD CZ Titulky](https://prehraj.to/pravidla-hry-1994-sd-cz-titulky-mkv/2dd4a800cc65992d) (ID 29890273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.118386+00:00 |
