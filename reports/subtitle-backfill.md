@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:35:36.939938+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:35:56.880571+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1303,7 +1303,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Furies (2019) 1080p CZ Titulky](https://prehraj.to/the-furies-2019-1080p-cz-titulky-mkv/91b683d3b7eb52d0) (ID 29926913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.378796+00:00 |
 | [The Ghost Within (2023) 1080p CZ Titulky](https://prehraj.to/the-ghost-within-2023-1080p-cz-titulky-mkv/d2b41bf8850a58a0) (ID 29293444) | [Sdílej 26787220](https://sdilej.cz/26787220/the.ghost.within.2023.1080p.bluray.en.5.1.titulky-sk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T02:40:18.909076+00:00 |
 | [The Golem (2018) 1080p CZ Titulky](https://prehraj.to/the-golem-2018-1080p-cz-titulky-mkv/2a123f5e6247a8e5) (ID 29914412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.377797+00:00 |
-| [The Great Alaskan Race (2019) SD CZ Titulky](https://prehraj.to/the-great-alaskan-race-2019-sd-cz-titulky-avi/650c19202cf0c15c) (ID 29399740) | [Sdílej 13281983](https://sdilej.cz/13281983/the-great-alaskan-race-2019-sk-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:39:45.945246+00:00 |
+| [The Great Alaskan Race (2019) SD CZ Titulky](https://prehraj.to/the-great-alaskan-race-2019-sd-cz-titulky-avi/650c19202cf0c15c) (ID 29399740) | [Sdílej 13281983](https://sdilej.cz/13281983/the-great-alaskan-race-2019-sk-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:35:56.880445+00:00 |
 | [The Guest (2014) 1080p CZ Titulky](https://prehraj.to/the-guest-2014-1080p-cz-titulky-mkv/e681352b20964a04) (ID 30143657) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.381865+00:00 |
 | [The Hard Way (2019) 1080p CZ Titulky](https://prehraj.to/the-hard-way-2019-1080p-cz-titulky-mp4/1cb8e5b9272b782e) (ID 29929561) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.378985+00:00 |
 | [The Heretics (2017) 720p CZ Titulky](https://prehraj.to/the-heretics-2017-720p-cz-titulky-avi/76ff84dc24807a84) (ID 29713257) | [Sdílej 10214515](https://sdilej.cz/10214515/the-heretics-horor-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:48:13.559600+00:00 |
