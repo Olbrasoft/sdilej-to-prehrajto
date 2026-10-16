@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T16:19:25.128751+00:00
+Poslední aktualizace (UTC): 2026-10-16T16:19:28.830802+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1593,7 +1593,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Dův
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-16T12:46:50.949379+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-16T12:47:02.037969+00:00 |
 | [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | source_unavailable | 2026-10-16T15:43:47.825877+00:00 |
-| [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-16T12:46:31.628573+00:00 |
+| [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-16T16:19:28.830709+00:00 |
 | [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | source_unavailable | 2026-10-16T14:36:27.374531+00:00 |
 | [Jak ukrást bizona (1996) SD CZ Titulky](https://prehraj.to/jak-ukrast-bizona-1996-sd-cz-titulky-avi/afc73f4700bd9805) (ID 29614018) | [Sdílej 35072272](https://sdilej.cz/35072272/jak-ukrast-bizona-dustin-hoffman-dennis-franz-1996-drama-hdrip.-1080p.-cz-dabing.avi) | source_unavailable | 2026-10-16T15:23:44.116310+00:00 |
 | [Joe Prvý (2025) 1080p CZ Titulky](https://prehraj.to/joe-prvy-2025-1080p-cz-titulky-mkv/6edeac9723e0b978) (ID 29629848) | [Sdílej 34890319](https://sdilej.cz/34890319/joe-the-first-2025-sk-dabing-1080p-fhd.mkv) | source_unavailable | 2026-10-16T15:25:52.034121+00:00 |
