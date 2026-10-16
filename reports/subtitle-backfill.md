@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T05:32:20.157382+00:00
+Poslední aktualizace (UTC): 2026-10-16T05:32:30.753995+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1032,7 +1032,7 @@ Kontrol: 44; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pravidla hry (1994) SD CZ Titulky](https://prehraj.to/pravidla-hry-1994-sd-cz-titulky-mkv/2dd4a800cc65992d) (ID 29890273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.614477+00:00 |
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.614527+00:00 |
 | [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:36:29.297099+00:00 |
-| [Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky](https://prehraj.to/pretty-guardian-sailor-moon-eternal-the-movie-2-cast-2023-1080p-cz-titulky-mp4/99b448b527daca12) (ID 29311259) | [Sdílej 34904096](https://sdilej.cz/34904096/pretty-guardian-sailor-moon-eternal-the-movie-2.-cast-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T04:41:52.053082+00:00 |
+| [Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky](https://prehraj.to/pretty-guardian-sailor-moon-eternal-the-movie-2-cast-2023-1080p-cz-titulky-mp4/99b448b527daca12) (ID 29311259) | [Sdílej 34904096](https://sdilej.cz/34904096/pretty-guardian-sailor-moon-eternal-the-movie-2.-cast-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:32:30.753860+00:00 |
 | [Primitive War (2025) 4K CZ Titulky](https://prehraj.to/primitive-war-2025-4k-cz-titulky-mkv/370daf1fa2823664) (ID 29929207) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.616788+00:00 |
 | [Pro větší slávu (2012) SD CZ Titulky](https://prehraj.to/pro-vetsi-slavu-2012-sd-cz-titulky-mp4/86d956f0e834f95d) (ID 30164453) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T05:31:44.620842+00:00 |
 | [Probudím se zase včera (2014) SD CZ Titulky](https://prehraj.to/probudim-se-zase-vcera-2014-sd-cz-titulky-avi/22baabe5d878315d) (ID 29706459) | [Sdílej 28108196](https://sdilej.cz/28108196/premature-cz-tit.v-obraze-komedie-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:41:30.922619+00:00 |
