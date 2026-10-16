@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:40:14.083045+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:40:33.580286+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1517,7 +1517,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:36:05.406339+00:00 |
 | [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T03:38:25.314541+00:00 |
 | [Zastávka v Kansasu (1956) SD CZ Titulky](https://prehraj.to/zastavka-v-kansasu-1956-sd-cz-titulky-mp4/249bce8493be1eae) (ID 29572293) | [Sdílej 34699745](https://sdilej.cz/34699745/zastavka-v-kansasu-1956-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:16:18.766472+00:00 |
-| [Zatoulaný (2018) SD CZ Titulky](https://prehraj.to/zatoulany-2018-sd-cz-titulky-avi/ee32f1fd1bf7eafb) (ID 29412317) | [Sdílej 11160214](https://sdilej.cz/11160214/zatoulany-drama-cz-titulky-2018-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:45:27.206059+00:00 |
+| [Zatoulaný (2018) SD CZ Titulky](https://prehraj.to/zatoulany-2018-sd-cz-titulky-avi/ee32f1fd1bf7eafb) (ID 29412317) | [Sdílej 11160214](https://sdilej.cz/11160214/zatoulany-drama-cz-titulky-2018-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:40:33.580149+00:00 |
 | [Zazie dans le métro (1960) SD CZ Titulky](https://prehraj.to/zazie-dans-le-metro-1960-sd-cz-titulky-mp4/a56f88f9ee076962) (ID 29256773) | [Sdílej 34715255](https://sdilej.cz/34715255/zazie-dans-le-metro-1960-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:33:25.667800+00:00 |
 | [Zelený had (2021) 1080p CZ Titulky](https://prehraj.to/zeleny-had-2021-1080p-cz-titulky-mp4/3d45635b0e18bbba) (ID 29460364) | [Sdílej 34727964](https://sdilej.cz/34727964/zeleny-had-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:52:52.424556+00:00 |
 | [Země a krev (2020) 1080p CZ Titulky](https://prehraj.to/zeme-a-krev-2020-1080p-cz-titulky-avi/ccaf5f003ba8df8d) (ID 29913573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.377712+00:00 |
