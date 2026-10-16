@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T17:33:34.834882+00:00
+Poslední aktualizace (UTC): 2026-10-16T17:33:54.440413+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -316,7 +316,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dva neznámí z parku (2026) 1080p CZ Titulky](https://prehraj.to/dva-neznami-z-parku-2026-1080p-cz-titulky-mp4/3e072fd9b8eea3a2) (ID 30138369) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.125859+00:00 |
 | [Dveře v podlaze (2004) 1080p CZ Titulky](https://prehraj.to/dvere-v-podlaze-2004-1080p-cz-titulky-mp4/a455ab9b4269d98a) (ID 30184168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.126480+00:00 |
 | [Dvojitý milenec (2017) SD CZ Titulky](https://prehraj.to/dvojity-milenec-2017-sd-cz-titulky-avi/ca730e0fead0c614) (ID 29992396) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T17:28:05.123557+00:00 |
-| [Dvě čarodějnice (2021) SD CZ Titulky](https://prehraj.to/dve-carodejnice-2021-sd-cz-titulky-avi/a8083f044b52b223) (ID 29753485) | [Sdílej 22953239](https://sdilej.cz/22953239/two.witches.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:41:20.751640+00:00 |
+| [Dvě čarodějnice (2021) SD CZ Titulky](https://prehraj.to/dve-carodejnice-2021-sd-cz-titulky-avi/a8083f044b52b223) (ID 29753485) | [Sdílej 22953239](https://sdilej.cz/22953239/two.witches.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:33:54.440294+00:00 |
 | [Dálniční hlídka (2019) 4K CZ Titulky](https://prehraj.to/dalnicni-hlidka-2019-4k-cz-titulky-mkv/2814e8c9b4087bcd) (ID 29400538) | [Sdílej 11927098](https://sdilej.cz/11927098/the.highwaymen.2019.2160p.webrip.x264-deflate.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:11.928177+00:00 |
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:51:30.138667+00:00 |
 | [Dávné rituály (2021) 1080p CZ Titulky](https://prehraj.to/davne-ritualy-2021-1080p-cz-titulky-avi/8b466b49d748f701) (ID 29755108) | [Sdílej 32107662](https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:42:22.487107+00:00 |
