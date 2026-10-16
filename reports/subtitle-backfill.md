@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T14:41:48.972798+00:00
+Poslední aktualizace (UTC): 2026-10-16T14:42:00.227572+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -491,7 +491,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Fuck the Prom (2017) SD CZ Titulky](https://prehraj.to/fuck-the-prom-2017-sd-cz-titulky-mp4/78e11a3cfac955c8) (ID 29736118) | [Sdílej 8243450](https://sdilej.cz/8243450/f.the.prom.2017.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:11:18.811872+00:00 |
 | [Futurologický kongres (2013) SD CZ Titulky](https://prehraj.to/futurologicky-kongres-2013-sd-cz-titulky-mkv/86fe3f83e61faadd) (ID 29229721) | [Sdílej 29868396](https://sdilej.cz/29868396/futurologicky-kongres-the-congress-2013-eng.ge.fr-sktit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:35.216695+00:00 |
 | [GODZILLA (2017) SD CZ Titulky.avi](https://prehraj.to/godzilla-2017-sd-cz-titulky-avi/59059d956be70179) (ID 29615057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.375438+00:00 |
-| [Gabbar is Back (2015) SD CZ Titulky](https://prehraj.to/gabbar-is-back-2015-sd-cz-titulky-mp4/da9e9a6d116e2a60) (ID 29428714) | [Sdílej 34738082](https://sdilej.cz/34738082/gabbar-is-back-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T13:47:06.453927+00:00 |
+| [Gabbar is Back (2015) SD CZ Titulky](https://prehraj.to/gabbar-is-back-2015-sd-cz-titulky-mp4/da9e9a6d116e2a60) (ID 29428714) | [Sdílej 34738082](https://sdilej.cz/34738082/gabbar-is-back-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:42:00.227441+00:00 |
 | [Game of Death (2017) 1080p CZ Titulky](https://prehraj.to/game-of-death-2017-1080p-cz-titulky-mp4/50129cc0f410afa9) (ID 29725257) | [Sdílej 34737424](https://sdilej.cz/34737424/game-of-death-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:04:22.662839+00:00 |
 | [Gamera kontra Gaos (1967) SD CZ Titulky](https://prehraj.to/gamera-kontra-gaos-1967-sd-cz-titulky-mp4/25f34685dc8d72f1) (ID 29665275) | [Sdílej 30088615](https://sdilej.cz/30088615/gamera-kontra-gaos-s...ujteto.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:08:55.750617+00:00 |
 | [Gamgi (2013) 1080p CZ Titulky](https://prehraj.to/gamgi-2013-1080p-cz-titulky-mp4/4686273d99a86a87) (ID 30183719) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:33:58.382237+00:00 |
