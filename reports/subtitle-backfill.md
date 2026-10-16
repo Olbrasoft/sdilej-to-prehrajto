@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:18:19.691263+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:18:37.100143+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1390,7 +1390,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 241. Dů
 | [Trench 11 (2017) SD CZ Titulky](https://prehraj.to/trench-11-2017-sd-cz-titulky-avi/1aae0d02ef599c80) (ID 29912109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T14:57:28.841418+00:00 |
 | [True: Zimní přání (2019) 1080p CZ Titulky](https://prehraj.to/true-zimni-prani-2019-1080p-cz-titulky-mp4/846581e6f4658021) (ID 29587566) | [Sdílej 34733680](https://sdilej.cz/34733680/true-zimni-prani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:13:37.505824+00:00 |
 | [Truth or Dare (2012) SD CZ Titulky](https://prehraj.to/truth-or-dare-2012-sd-cz-titulky-avi/c702cdbdf3fcc441) (ID 29720100) | [Sdílej 34453140](https://sdilej.cz/34453140/truth-or-dare.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:53:42.585362+00:00 |
-| [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:29:00.653406+00:00 |
+| [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:18:37.100036+00:00 |
 | [Tušení (2020) SD CZ Titulky](https://prehraj.to/tuseni-2020-sd-cz-titulky-avi/3134ed9adf8ea04a) (ID 29638596) | [Sdílej 13829355](https://sdilej.cz/13829355/tuseni-2020-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:47:04.788603+00:00 |
 | [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:35:29.883423+00:00 |
 | [Tygr lidožrout (2007) SD CZ Titulky](https://prehraj.to/tygr-lidozrout-2007-sd-cz-titulky-avi/3744b085a3f3ed2e) (ID 29664192) | [Sdílej 23245687](https://sdilej.cz/23245687/maneater.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T15:08:45.621129+00:00 |
