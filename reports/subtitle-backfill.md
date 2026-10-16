@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-16T15:24:09.168441+00:00
+Poslední aktualizace (UTC): 2026-10-16T15:24:19.018831+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -766,7 +766,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Manhunt (2017) SD CZ Titulky](https://prehraj.to/manhunt-2017-sd-cz-titulky-mp4/492e172d52bf5783) (ID 29968850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-16T15:22:59.412856+00:00 |
 | [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T03:38:08.282130+00:00 |
 | [Manyeo (2018) SD CZ Titulky](https://prehraj.to/manyeo-2018-sd-cz-titulky-avi/96cde4085ad349f1) (ID 29344325) | [Sdílej 11387846](https://sdilej.cz/11387846/manyeo-2018-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:40:40.477636+00:00 |
-| [Manželství na body (2022) 1080p CZ Titulky](https://prehraj.to/manzelstvi-na-body-2022-1080p-cz-titulky-mp4/341af2b84b0e7b8a) (ID 29614088) | [Sdílej 34727082](https://sdilej.cz/34727082/manzelstvi-na-body-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T14:36:03.234484+00:00 |
+| [Manželství na body (2022) 1080p CZ Titulky](https://prehraj.to/manzelstvi-na-body-2022-1080p-cz-titulky-mp4/341af2b84b0e7b8a) (ID 29614088) | [Sdílej 34727082](https://sdilej.cz/34727082/manzelstvi-na-body-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:24:19.018712+00:00 |
 | [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:44:50.296807+00:00 |
 | [Mardaani 2 (2019) 1080p CZ Titulky](https://prehraj.to/mardaani-2-2019-1080p-cz-titulky-mp4/161344f2866a3af7) (ID 29306854) | [Sdílej 34711873](https://sdilej.cz/34711873/mardaani-2-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:31:54.055081+00:00 |
 | [Margrete – královna severu (2021) 1080p CZ Titulky](https://prehraj.to/margrete-kralovna-severu-2021-1080p-cz-titulky-mkv/4375553db53a847b) (ID 29803586) | [Sdílej 20710494](https://sdilej.cz/20710494/margrete-kralovna-severu-2021-1080p-bdrip-x264-titulky-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-09T16:44:04.314327+00:00 |
