@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-17T02:38:09.592142+00:00
+Poslední aktualizace (UTC): 2026-10-17T02:38:12.916469+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1060,7 +1060,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Přísahám, že za to nemůžu (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29113572) | [Sdílej 34430968](https://sdilej.cz/34430968/i-swear-2025-1080p-cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-17T02:37:36.082204+00:00 |
 | [Přízraky ze snů (1999) 1080p CZ Titulky](https://prehraj.to/prizraky-ze-snu-1999-1080p-cz-titulky-mp4/5bbbb0c6a414215b) (ID 29905356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-17T02:37:21.268068+00:00 |
 | [Přízračný svět (2001) 1080p CZ Titulky](https://prehraj.to/prizracny-svet-2001-1080p-cz-titulky-mkv/0e6844f6c52a2ce9) (ID 30020064) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-17T02:37:21.270013+00:00 |
-| [Příšerná besídka (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29443443) | [Sdílej 32331186](https://sdilej.cz/32331186/the.best.christmas.pageant.ever.2024.1080p.webrip.x265.10bit.aac5.1-cz.titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-17T01:01:05.939920+00:00 |
+| [Příšerná besídka (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29443443) | [Sdílej 32331186](https://sdilej.cz/32331186/the.best.christmas.pageant.ever.2024.1080p.webrip.x265.10bit.aac5.1-cz.titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-17T02:38:12.916395+00:00 |
 | [Příšerné Vánoce (2021) 1080p CZ Titulky](https://prehraj.to/priserne-vanoce-2021-1080p-cz-titulky-mp4/e1c614f93f367299) (ID 29566728) | [Sdílej 34728776](https://sdilej.cz/34728776/priserne-vanoce-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:04:57.043395+00:00 |
 | [Příští stanice Greenwich Village (1976) 720p CZ Titulky.mkv](https://prehraj.to/pristi-stanice-greenwich-village-1976-720p-cz-titulky-mkv/ca77c438e0b44152) (ID 29586797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-17T02:37:21.267147+00:00 |
 | [Půlnoc v zahradě dobra a zla (1997) 720p CZ Titulky.mkv](https://prehraj.to/pulnoc-v-zahrade-dobra-a-zla-1997-720p-cz-titulky-mkv/88e48b9c8217baf5) (ID 29675454) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-17T02:37:21.267442+00:00 |
