@@ -267214,7 +267214,15 @@
       "attempts": []
     },
     "22355": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31259198",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-17T18:49:31.095925+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31259198",
         "display_name": "Dům hrůzy (1976) SD CZ Dabing",
@@ -267349,7 +267357,15 @@
       }
     },
     "27632": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11740535",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-17T18:49:51.922769+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11740535",
         "display_name": "Popelka v pasti (2013) SD CZ Dabing",
@@ -267396,6 +267412,18 @@
         "source_id": "34435396",
         "display_name": "Sergio (2020) SD CZ Titulky",
         "planned_at": "2026-10-17T16:12:36.211820+00:00"
+      },
+      "claim": {
+        "worker_id": "19072332c1bc4e60bd8e11ab85fb3c49-shard-0",
+        "claimed_at": "2026-10-17T18:49:52.288123+00:00",
+        "lease_expires_at": "2026-10-18T00:49:52.288123+00:00",
+        "run_id": "39044850608"
+      },
+      "previous_target_id": "30308741",
+      "prepared": {
+        "target_video_id": "30308741",
+        "size_bytes": 1271342598,
+        "prepared_at": "2026-10-17T18:50:15.320881+00:00"
       }
     },
     "5422": {
@@ -382601,5 +382629,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-17T18:49:05.111784+00:00"
+  "updated_at": "2026-10-17T18:50:15.320898+00:00"
 }
