@@ -266798,17 +266798,20 @@
       }
     },
     "5170": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30734314",
+          "target_video_id": "30308553",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-17T18:44:18.393882+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30734314",
         "display_name": "Duch ve stroji (2017) 1080p CZ Dabing",
         "planned_at": "2026-10-17T16:12:34.437922+00:00"
-      },
-      "claim": {
-        "worker_id": "19072332c1bc4e60bd8e11ab85fb3c49-shard-0",
-        "claimed_at": "2026-10-17T18:36:29.939721+00:00",
-        "lease_expires_at": "2026-10-18T00:36:29.939721+00:00",
-        "run_id": "39044850608"
       },
       "previous_target_id": "30308553",
       "prepared": {
@@ -382575,5 +382578,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-17T18:36:52.865333+00:00"
+  "updated_at": "2026-10-17T18:44:18.393900+00:00"
 }
