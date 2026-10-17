@@ -277505,17 +277505,20 @@
       }
     },
     "23761": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29976633",
+          "target_video_id": "30312516",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-17T20:48:29.176516+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29976633",
         "display_name": "Jménem spravedlnosti (1996) SD CZ Dabing",
         "planned_at": "2026-10-17T16:12:45.138676+00:00"
-      },
-      "claim": {
-        "worker_id": "19072332c1bc4e60bd8e11ab85fb3c49-shard-0",
-        "claimed_at": "2026-10-17T20:43:37.582378+00:00",
-        "lease_expires_at": "2026-10-18T02:43:37.582378+00:00",
-        "run_id": "39044850608"
       },
       "previous_target_id": "30312516",
       "prepared": {
@@ -382923,5 +382926,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-17T20:44:01.273099+00:00"
+  "updated_at": "2026-10-17T20:48:29.176535+00:00"
 }
