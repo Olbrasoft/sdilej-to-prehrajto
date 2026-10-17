@@ -267897,7 +267897,15 @@
       }
     },
     "17234": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34695766",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-17T19:03:28.161448+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34695766",
         "display_name": "Operace Gold (2018) 1080p CZ Dabing",
@@ -267949,6 +267957,18 @@
         "source_id": "30283514",
         "display_name": "Somnio (2016) 1080p CZ Titulky",
         "planned_at": "2026-10-17T16:12:37.568696+00:00"
+      },
+      "claim": {
+        "worker_id": "19072332c1bc4e60bd8e11ab85fb3c49-shard-0",
+        "claimed_at": "2026-10-17T19:03:28.658718+00:00",
+        "lease_expires_at": "2026-10-18T01:03:28.658718+00:00",
+        "run_id": "39044850608"
+      },
+      "previous_target_id": "30308941",
+      "prepared": {
+        "target_video_id": "30308941",
+        "size_bytes": 2124434326,
+        "prepared_at": "2026-10-17T19:03:33.626534+00:00"
       }
     },
     "20200": {
@@ -382655,5 +382675,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-17T19:03:01.946018+00:00"
+  "updated_at": "2026-10-17T19:03:33.626551+00:00"
 }
