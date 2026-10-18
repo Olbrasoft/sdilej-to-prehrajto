@@ -294829,17 +294829,19 @@
       }
     },
     "5883": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33204399",
+          "target_video_id": "30345216",
+          "permanent": false,
+          "attempted_at": "2026-10-18T23:52:03.848624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33204399",
         "display_name": "Zrozená pro pomstu (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-18T21:24:43.391117+00:00"
-      },
-      "claim": {
-        "worker_id": "949fa93185b448819d7f7d78b0526598-shard-0",
-        "claimed_at": "2026-10-18T23:44:15.927833+00:00",
-        "lease_expires_at": "2026-10-19T05:44:15.927833+00:00",
-        "run_id": "39167635489"
       },
       "previous_target_id": "30345216",
       "prepared": {
@@ -387718,5 +387720,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-18T23:44:19.625039+00:00"
+  "updated_at": "2026-10-18T23:52:03.848640+00:00"
 }
