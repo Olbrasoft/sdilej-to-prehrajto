@@ -285985,17 +285985,20 @@
       }
     },
     "22856": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34639380",
+          "target_video_id": "30337011",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-18T16:43:34.321177+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34639380",
         "display_name": "Tygří oči (1986) 1080p CZ Dabing",
         "planned_at": "2026-10-18T15:33:58.015110+00:00"
-      },
-      "claim": {
-        "worker_id": "7f275120f88944d995dda03d3559a0c6-shard-0",
-        "claimed_at": "2026-10-18T16:33:21.550379+00:00",
-        "lease_expires_at": "2026-10-18T22:33:21.550379+00:00",
-        "run_id": "39140309780"
       },
       "previous_target_id": "30337011",
       "prepared": {
@@ -385781,5 +385784,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-18T16:33:26.603942+00:00"
+  "updated_at": "2026-10-18T16:43:34.321194+00:00"
 }
