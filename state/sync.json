@@ -292096,17 +292096,20 @@
       }
     },
     "16511": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34723764",
+          "target_video_id": "30340147",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-18T19:01:54.591959+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34723764",
         "display_name": "Influencers (2025) 1080p CZ Titulky",
         "planned_at": "2026-10-18T18:50:01.389851+00:00"
-      },
-      "claim": {
-        "worker_id": "8ad5fbf38287460eb6b68d1dc07ecabc-shard-0",
-        "claimed_at": "2026-10-18T18:51:21.957095+00:00",
-        "lease_expires_at": "2026-10-19T00:51:21.957095+00:00",
-        "run_id": "39140309780"
       },
       "previous_target_id": "30340147",
       "prepared": {
@@ -387109,5 +387112,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-18T18:51:45.262677+00:00"
+  "updated_at": "2026-10-18T19:01:54.591979+00:00"
 }
