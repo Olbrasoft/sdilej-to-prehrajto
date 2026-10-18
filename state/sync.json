@@ -291730,17 +291730,20 @@
       "previous_target_id": "29615057"
     },
     "30104": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34485744",
+          "target_video_id": "30339914",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-18T18:48:39.630246+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34485744",
         "display_name": "Zlatá brána (2009) 720p CZ Dabing",
         "planned_at": "2026-10-18T17:55:14.640601+00:00"
-      },
-      "claim": {
-        "worker_id": "bd5987ea5f524653afa5ac70bc8f0f62-shard-0",
-        "claimed_at": "2026-10-18T18:39:09.469023+00:00",
-        "lease_expires_at": "2026-10-19T00:39:09.469023+00:00",
-        "run_id": "39140309780"
       },
       "previous_target_id": "30339914",
       "prepared": {
@@ -386816,5 +386819,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-18T18:39:34.104411+00:00"
+  "updated_at": "2026-10-18T18:48:39.630265+00:00"
 }
