@@ -287092,7 +287092,15 @@
       "attempts": []
     },
     "30605": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11645907",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-18T17:38:41.811283+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11645907",
         "display_name": "Anna a apokalypsa (2017) SD CZ Titulky",
@@ -287100,7 +287108,15 @@
       }
     },
     "25653": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35075194",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-18T17:39:02.736228+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35075194",
         "display_name": "Velké dobrodružství (2005) SD CZ Dabing",
@@ -287317,6 +287333,18 @@
         "source_id": "13719116",
         "display_name": "Noc s králem (2006) SD CZ Dabing",
         "planned_at": "2026-10-18T15:34:05.982301+00:00"
+      },
+      "claim": {
+        "worker_id": "7f275120f88944d995dda03d3559a0c6-shard-0",
+        "claimed_at": "2026-10-18T17:39:03.109696+00:00",
+        "lease_expires_at": "2026-10-18T23:39:03.109696+00:00",
+        "run_id": "39140309780"
+      },
+      "previous_target_id": "30338627",
+      "prepared": {
+        "target_video_id": "30338627",
+        "size_bytes": 1419957214,
+        "prepared_at": "2026-10-18T17:39:26.441278+00:00"
       }
     },
     "5836": {
@@ -385966,5 +385994,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-18T17:38:15.147379+00:00"
+  "updated_at": "2026-10-18T17:39:26.441294+00:00"
 }
