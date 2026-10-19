@@ -360146,7 +360146,15 @@
       }
     },
     "25587": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35279983",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-19T19:43:19.439535+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35279983",
         "display_name": "Stopař (2007) 1080p CZ Dabing",
@@ -360179,7 +360187,15 @@
       }
     },
     "15441": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33925847",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-19T19:43:40.081313+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33925847",
         "display_name": "Vesmírný lov (2018) 1080p CZ Dabing",
@@ -360288,6 +360304,18 @@
         "source_id": "26629190",
         "display_name": "Maggie (2015) 1080p SK Dabing",
         "planned_at": "2026-10-19T14:47:53.807829+00:00"
+      },
+      "claim": {
+        "worker_id": "b78aff92000b46a388534743f7eee9b9-shard-0",
+        "claimed_at": "2026-10-19T19:43:40.329847+00:00",
+        "lease_expires_at": "2026-10-20T01:43:40.329847+00:00",
+        "run_id": "39269366010"
+      },
+      "previous_target_id": "30365180",
+      "prepared": {
+        "target_video_id": "30365180",
+        "size_bytes": 2383791311,
+        "prepared_at": "2026-10-19T19:44:03.127604+00:00"
       }
     },
     "7663": {
@@ -390442,5 +390470,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-19T19:42:53.346775+00:00"
+  "updated_at": "2026-10-19T19:44:03.127620+00:00"
 }
