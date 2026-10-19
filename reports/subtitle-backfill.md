@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-19T01:07:15.495444+00:00
+Poslední aktualizace (UTC): 2026-10-19T01:07:18.892649+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -709,7 +709,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:06:33.104934+00:00 |
 | [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:35:50.357374+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:01.033048+00:00 |
-| [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-18T22:28:46.470997+00:00 |
+| [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-19T01:07:18.892577+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:50:31.443906+00:00 |
 | [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:38.356672+00:00 |
 | [Le Petit Poucet (1972) SD CZ Titulky](https://prehraj.to/le-petit-poucet-1972-sd-cz-titulky-mp4/759257904a1288b2) (ID 30096693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-19T01:06:23.162412+00:00 |
