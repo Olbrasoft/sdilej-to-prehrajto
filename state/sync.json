@@ -359964,17 +359964,20 @@
       }
     },
     "17851": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "22370895",
+          "target_video_id": "30365069",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-19T19:42:53.346759+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22370895",
         "display_name": "Střelec v ohrožení (2007) 720p CZ Dabing",
         "planned_at": "2026-10-19T14:47:53.075244+00:00"
-      },
-      "claim": {
-        "worker_id": "b78aff92000b46a388534743f7eee9b9-shard-0",
-        "claimed_at": "2026-10-19T19:35:05.016618+00:00",
-        "lease_expires_at": "2026-10-20T01:35:05.016618+00:00",
-        "run_id": "39269366010"
       },
       "previous_target_id": "30365069",
       "prepared": {
@@ -390439,5 +390442,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-19T19:35:09.561664+00:00"
+  "updated_at": "2026-10-19T19:42:53.346775+00:00"
 }
