@@ -378670,17 +378670,20 @@
       }
     },
     "8487": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29472051",
+          "target_video_id": "30389551",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-20T18:44:06.903073+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29472051",
         "display_name": "Vpád (2021) 1080p CZ Dabing",
         "planned_at": "2026-10-20T18:20:18.661878+00:00"
-      },
-      "claim": {
-        "worker_id": "b46a7ea6e1004cfa89d43d2d86ae2d73-shard-0",
-        "claimed_at": "2026-10-20T18:38:52.846226+00:00",
-        "lease_expires_at": "2026-10-21T00:38:52.846226+00:00",
-        "run_id": "39430902632"
       },
       "previous_target_id": "30389551",
       "prepared": {
@@ -394862,5 +394865,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-20T18:39:16.042571+00:00"
+  "updated_at": "2026-10-20T18:44:06.903090+00:00"
 }
