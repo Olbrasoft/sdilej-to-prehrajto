@@ -382278,7 +382278,15 @@
       }
     },
     "9812": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13516069",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-20T21:01:52.009290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13516069",
         "display_name": "Antikrist přichází (2017) SD CZ Dabing",
@@ -382291,6 +382299,18 @@
         "source_id": "12347516",
         "display_name": "Nebezpečné hry 4 (2010) SD CZ Dabing",
         "planned_at": "2026-10-20T20:01:49.212140+00:00"
+      },
+      "claim": {
+        "worker_id": "dd05cf8c528a41eba1e15d020c6c3634-shard-0",
+        "claimed_at": "2026-10-20T21:01:52.252586+00:00",
+        "lease_expires_at": "2026-10-21T03:01:52.252586+00:00",
+        "run_id": "39483364984"
+      },
+      "previous_target_id": "30392678",
+      "prepared": {
+        "target_video_id": "30392678",
+        "size_bytes": 802327274,
+        "prepared_at": "2026-10-20T21:02:15.709062+00:00"
       }
     },
     "16713": {
@@ -395771,5 +395791,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-20T21:01:29.022779+00:00"
+  "updated_at": "2026-10-20T21:02:15.709079+00:00"
 }
