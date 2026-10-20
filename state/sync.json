@@ -378467,17 +378467,20 @@
       }
     },
     "9048": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34841301",
+          "target_video_id": "30389383",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-20T18:37:26.378538+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34841301",
         "display_name": "Malum (2023) 1080p CZ Titulky",
         "planned_at": "2026-10-20T18:20:16.954918+00:00"
-      },
-      "claim": {
-        "worker_id": "b46a7ea6e1004cfa89d43d2d86ae2d73-shard-0",
-        "claimed_at": "2026-10-20T18:31:20.540643+00:00",
-        "lease_expires_at": "2026-10-21T00:31:20.540643+00:00",
-        "run_id": "39430902632"
       },
       "previous_target_id": "30389383",
       "prepared": {
@@ -394815,5 +394818,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-20T18:31:24.830986+00:00"
+  "updated_at": "2026-10-20T18:37:26.378555+00:00"
 }
