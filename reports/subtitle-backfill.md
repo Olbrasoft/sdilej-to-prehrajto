@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-21T04:37:08.108203+00:00
+Poslední aktualizace (UTC): 2026-10-21T04:37:11.653498+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -959,7 +959,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Palmy ve sněhu (2015) SD CZ Titulky](https://prehraj.to/palmy-ve-snehu-2015-sd-cz-titulky-mp4/b9be3e4c9f3f1024) (ID 29407324) | [Sdílej 34738002](https://sdilej.cz/34738002/palmy-ve-snehu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:37:17.927375+00:00 |
 | [Paltan (2018) SD CZ Titulky](https://prehraj.to/paltan-2018-sd-cz-titulky-avi/c7574d0d7f7b9664) (ID 29301260) | [Sdílej 11250607](https://sdilej.cz/11250607/paltan-2018-sk-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T04:37:15.440874+00:00 |
 | [Paměť – zrod Vetřelce (2019) 1080p CZ Titulky](https://prehraj.to/pamet-zrod-vetrelce-2019-1080p-cz-titulky-mkv/256581c34fb010db) (ID 29468339) | [Sdílej 26720741](https://sdilej.cz/26720741/memory.the.origins.of.alien.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:49:05.153769+00:00 |
-| [Paní Harrisová jede do Paříže (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29333337) | [Sdílej 24609620](https://sdilej.cz/24609620/mrs-harris-goes-to-paris-2022-cztitulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-21T02:41:01.658880+00:00 |
+| [Paní Harrisová jede do Paříže (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29333337) | [Sdílej 24609620](https://sdilej.cz/24609620/mrs-harris-goes-to-paris-2022-cztitulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-21T04:37:11.653425+00:00 |
 | [Paprika (2006) 1080p CZ Titulky](https://prehraj.to/paprika-2006-1080p-cz-titulky-mp4/2ae77b094846078d) (ID 29395850) | [Sdílej 6792821](https://sdilej.cz/6792821/paprika-2006-1080p-jpn-5.1-eng-5.1-blu-ray.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T13:32:59.593299+00:00 |
 | [Papírový život (2021) 1080p CZ Titulky](https://prehraj.to/papirovy-zivot-2021-1080p-cz-titulky-mp4/f9f8a72792f7a411) (ID 29220346) | [Sdílej 34729011](https://sdilej.cz/34729011/papirovy-zivot-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:43:53.475874+00:00 |
 | [Paradise City (2019) SD CZ Titulky](https://prehraj.to/paradise-city-2019-sd-cz-titulky-avi/a3960111d027f033) (ID 29818623) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-21T04:36:15.979930+00:00 |
