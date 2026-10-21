@@ -401691,7 +401691,15 @@
       "attempts": []
     },
     "22976": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34786396",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-21T20:59:16.143943+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786396",
         "display_name": "Železný orel 2 (1988) 1080p CZ Dabing",
@@ -401748,6 +401756,18 @@
         "source_id": "20332411",
         "display_name": "Texaský masakr motorovou pilou (2022) 1080p CZ Dabing",
         "planned_at": "2026-10-21T19:53:46.824083+00:00"
+      },
+      "claim": {
+        "worker_id": "bd479b238ba9463bad16b05e2071eaa2-shard-0",
+        "claimed_at": "2026-10-21T20:59:16.393620+00:00",
+        "lease_expires_at": "2026-10-22T02:59:16.393620+00:00",
+        "run_id": "39653678188"
+      },
+      "previous_target_id": "30421407",
+      "prepared": {
+        "target_video_id": "30421407",
+        "size_bytes": 1957458741,
+        "prepared_at": "2026-10-21T20:59:39.813207+00:00"
       }
     },
     "33307": {
@@ -404271,5 +404291,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-21T20:58:50.041865+00:00"
+  "updated_at": "2026-10-21T20:59:39.813228+00:00"
 }
