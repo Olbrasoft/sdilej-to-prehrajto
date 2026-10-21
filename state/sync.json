@@ -399546,7 +399546,15 @@
       }
     },
     "15397": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32599045",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-21T18:41:54.486531+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32599045",
         "display_name": "Zvrácená sestřička (2013) SD CZ Dabing",
@@ -399579,7 +399587,15 @@
       }
     },
     "12882": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34489528",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-21T18:42:15.395371+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34489528",
         "display_name": "Beethoven 3 (2000) SD CZ Dabing",
@@ -399599,6 +399615,18 @@
         "source_id": "10857192",
         "display_name": "Cena lidské duše (2017) SD CZ Dabing",
         "planned_at": "2026-10-21T17:51:16.007072+00:00"
+      },
+      "claim": {
+        "worker_id": "ee23923d85ad4389955a7527e31a582f-shard-0",
+        "claimed_at": "2026-10-21T18:42:15.799243+00:00",
+        "lease_expires_at": "2026-10-22T00:42:15.799243+00:00",
+        "run_id": "39601261325"
+      },
+      "previous_target_id": "30419657",
+      "prepared": {
+        "target_video_id": "30419657",
+        "size_bytes": 1264771320,
+        "prepared_at": "2026-10-21T18:42:39.147640+00:00"
       }
     },
     "25361": {
@@ -402970,5 +402998,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-21T18:41:22.212301+00:00"
+  "updated_at": "2026-10-21T18:42:39.147657+00:00"
 }
