@@ -392526,17 +392526,19 @@
       }
     },
     "9000": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34286769",
+          "target_video_id": "30413537",
+          "permanent": false,
+          "attempted_at": "2026-10-21T12:55:59.588686+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34286769",
         "display_name": "HIM (2025) 1080p CZ Dabing",
         "planned_at": "2026-10-21T10:34:14.667573+00:00"
-      },
-      "claim": {
-        "worker_id": "1a0fbd1a236f48f48161cb8909e92710-shard-0",
-        "claimed_at": "2026-10-21T12:50:14.568644+00:00",
-        "lease_expires_at": "2026-10-21T18:50:14.568644+00:00",
-        "run_id": "39563038487"
       },
       "previous_target_id": "30413537",
       "prepared": {
@@ -400480,5 +400482,5 @@
       "attempts": []
     }
   },
-  "updated_at": "2026-10-21T12:50:19.421849+00:00"
+  "updated_at": "2026-10-21T12:55:59.588706+00:00"
 }
