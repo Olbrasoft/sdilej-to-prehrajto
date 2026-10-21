@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-21T06:48:42.434238+00:00
+Poslední aktualizace (UTC): 2026-10-21T06:48:45.882594+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -582,7 +582,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hvězda kriminálu (2014) SD CZ Titulky](https://prehraj.to/hvezda-kriminalu-2014-sd-cz-titulky-avi/7cdc1ab093f1e446) (ID 30029383) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-21T06:48:10.187223+00:00 |
 | [Hyacint (2021) 1080p CZ Titulky](https://prehraj.to/hyacint-2021-1080p-cz-titulky-mp4/8d1b8e7b27fa7a94) (ID 29673745) | [Sdílej 34730772](https://sdilej.cz/34730772/hyacint-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:44:42.907181+00:00 |
 | [Hyena Road (2015) SD CZ Titulky](https://prehraj.to/hyena-road-2015-sd-cz-titulky-avi/bb09b84f9562c18b) (ID 29299434) | [Sdílej 27004212](https://sdilej.cz/27004212/hyena-road-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T04:36:23.045336+00:00 |
-| [Hříšná hudba (2019) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29272205) | [Sdílej 34958189](https://sdilej.cz/34958189/dirt.music.2019.1080p.webrip.dl.eac3.x264-majo.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-21T04:36:57.574374+00:00 |
+| [Hříšná hudba (2019) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29272205) | [Sdílej 34958189](https://sdilej.cz/34958189/dirt.music.2019.1080p.webrip.dl.eac3.x264-majo.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-21T06:48:45.882526+00:00 |
 | [I Am Bolt (2016) 1080p CZ Titulky](https://prehraj.to/i-am-bolt-2016-1080p-cz-titulky-mkv/2c794edfdf138bad) (ID 29560544) | [Sdílej 7002430](https://sdilej.cz/7002430/i-am-bolt.2016.1080p.bluray.5.1.x264-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:23.718214+00:00 |
 | [I Am Not a Serial Killer (2016) 720p CZ Titulky](https://prehraj.to/i-am-not-a-serial-killer-2016-720p-cz-titulky-mkv/19d73b1378ad45ef) (ID 29607689) | [Sdílej 6846494](https://sdilej.cz/6846494/i-am-not-a-serial-killer.killer.2016.720p.bluray.x264.dts-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:48.116681+00:00 |
 | [I Am Soldier (2014) SD CZ Titulky](https://prehraj.to/i-am-soldier-2014-sd-cz-titulky-avi/a89560a03ca7bc51) (ID 29721964) | [Sdílej 27587211](https://sdilej.cz/27587211/i-am-soldier-2014cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:05:23.792744+00:00 |
