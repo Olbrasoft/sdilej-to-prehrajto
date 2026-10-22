@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T14:54:42.884790+00:00
+Poslední aktualizace (UTC): 2026-10-22T14:54:47.286687+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_media_failed`: 3, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 19
+Stavy: `already_has_czech`: 525, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_media_failed`: 3, `source_provenance_missing`: 588, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 19
 
 ## Poslední dávka
 
@@ -1481,7 +1481,6 @@ Kontrol: 78; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | [Welcome to the Show (2021) 720p CZ Titulky](https://prehraj.to/welcome-to-the-show-2021-720p-cz-titulky-mp4/25cffb75227a4407) (ID 29631148) | [Sdílej 34772433](https://sdilej.cz/34772433/welcome-to-the-show-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:26:31.005249+00:00 |
 | [Welp (2014) SD CZ Titulky](https://prehraj.to/welp-2014-sd-cz-titulky-avi/48ffd0777ee06443) (ID 29632189) | [Sdílej 34454026](https://sdilej.cz/34454026/welp.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:27:21.664133+00:00 |
 | [West of the Pecos (1945) SD CZ Titulky](https://prehraj.to/west-of-the-pecos-1945-sd-cz-titulky-mp4/0570f621e63a8474) (ID 29706821) | [Sdílej 34770688](https://sdilej.cz/34770688/west-of-the-pecos-1945-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:53:59.121868+00:00 |
-| [What Is a Woman? (2022) 1080p CZ Titulky](https://prehraj.to/what-is-a-woman-2022-1080p-cz-titulky-mp4/94ebd49186b4a081) (ID 29212546) | [Sdílej 34726466](https://sdilej.cz/34726466/what-is-a-woman-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:50:20.863902+00:00 |
 | [When Love Comes Knocking (2021) 1080p CZ Titulky](https://prehraj.to/when-love-comes-knocking-2021-1080p-cz-titulky-mp4/4b77e4614f18b346) (ID 29216889) | [Sdílej 34728038](https://sdilej.cz/34728038/when-love-comes-knocking-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T18:40:39.283893+00:00 |
 | [When the Lights Went Out (2012) SD CZ Titulky](https://prehraj.to/when-the-lights-went-out-2012-sd-cz-titulky-avi/8d328ff80349e2fa) (ID 29750671) | [Sdílej 26715369](https://sdilej.cz/26715369/when-the-lights-went-out-kdyz-jsou-svetla-mimo-horor.thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:32:03.241470+00:00 |
 | [Whiskey zloděj (2017) SD CZ Titulky](https://prehraj.to/whiskey-zlodej-2017-sd-cz-titulky-mkv/6627ffd9aaf7733d) (ID 29308502) | [Sdílej 12073116](https://sdilej.cz/12073116/a-viszkis-the-whiskey-bandit-bdrip.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:50.223039+00:00 |
@@ -1622,6 +1621,7 @@ Kontrol: 78; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-22T14:44:59.703601+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-22T14:45:15.535517+00:00 |
 | [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | target_unavailable | 2026-10-22T14:47:00.681429+00:00 |
+| [What Is a Woman? (2022) 1080p CZ Titulky](https://prehraj.to/what-is-a-woman-2022-1080p-cz-titulky-mp4/94ebd49186b4a081) (ID 29212546) | [Sdílej 34726466](https://sdilej.cz/34726466/what-is-a-woman-2022-cz-titulky.mp4) | source_unavailable | 2026-10-22T14:54:47.286643+00:00 |
 | [Čaroděj z Kremlu (2025) 1080p CZ Titulky](https://prehraj.to/carodej-z-kremlu-2025-1080p-cz-titulky-mkv/4c6cbdde12c9f937) (ID 29010087) | [Sdílej 34829855](https://sdilej.cz/34829855/2025-carodej-z-kremlu-drama-thriller-63-francie-usa-cztit..mkv) | target_unavailable | 2026-10-22T14:47:31.231749+00:00 |
 | [Šiva Baby (2020) 1080p CZ Titulky](https://prehraj.to/siva-baby-2020-1080p-cz-titulky-mkv/b7840e05ea6bb506) (ID 29346819) | [Sdílej 27452081](https://sdilej.cz/27452081/shiva-baby-2020-1080p-bluray-x265-10bit-tigole-.mkv) | source_unavailable | 2026-10-22T14:45:26.309555+00:00 |
 
