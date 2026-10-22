@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T14:38:41.375432+00:00
+Poslední aktualizace (UTC): 2026-10-22T14:39:05.843710+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1422,7 +1422,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Uspávač (2017) 720p CZ Titulky](https://prehraj.to/uspavac-2017-720p-cz-titulky-mkv/798165dc920bacd7) (ID 29818775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:36:31.585018+00:00 |
 | [V kuchyni (2024) 1080p CZ Titulky](https://prehraj.to/v-kuchyni-2024-1080p-cz-titulky-mkv/f62964fbf7b5264a) (ID 29576745) | [Sdílej 30627533](https://sdilej.cz/30627533/la-cocina-alonso-ruizpalacios-2024-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:10:09.914232+00:00 |
 | [V lásce a válce (2018) 720p CZ Titulky](https://prehraj.to/v-lasce-a-valce-2018-720p-cz-titulky-mkv/641bc8a9880f1272) (ID 30157444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:36:31.590091+00:00 |
-| [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:35:20.069867+00:00 |
+| [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:39:05.843596+00:00 |
 | [V ringu smrti (2008) SD CZ Titulky](https://prehraj.to/v-ringu-smrti-2008-sd-cz-titulky-mkv/d4c75b88d301cf49) (ID 29612532) | [Sdílej 34837133](https://sdilej.cz/34837133/ring-of-death-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:05.565219+00:00 |
 | [V temném lese (2006) SD CZ Titulky](https://prehraj.to/v-temnem-lese-2006-sd-cz-titulky-mkv/7f8c18eaa0cb3e9b) (ID 29908077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:36:31.585711+00:00 |
 | [V úskalí (2020) SD CZ Titulky](https://prehraj.to/v-uskali-2020-sd-cz-titulky-mkv/b4be3343a7259f4e) (ID 29284063) | [Sdílej 14433055](https://sdilej.cz/14433055/v-uskali-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:37.584321+00:00 |
