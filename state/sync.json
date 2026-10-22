@@ -300932,13 +300932,6 @@
           "source_id": "31348207",
           "reason": "Source detail has no authenticated download link; source_id=31348207",
           "permanent": false,
-          "attempted_at": "2026-10-01T16:01:13.061042+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31348207",
-          "reason": "Source detail has no authenticated download link; source_id=31348207",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:31:42.966129+00:00"
         },
         {
@@ -300947,6 +300940,14 @@
           "target_video_id": "29904307",
           "permanent": false,
           "attempted_at": "2026-10-01T17:19:44.597933+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32870924",
+          "target_video_id": "29904307",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-22T20:05:09.042982+00:00"
         }
       ],
       "last_plan": {
@@ -300954,12 +300955,7 @@
         "display_name": "San Andreas (2015) 4K CZ Dabing",
         "planned_at": "2026-10-22T19:58:37.996538+00:00"
       },
-      "previous_target_id": "29904307",
-      "prepared": {
-        "target_video_id": "29904307",
-        "size_bytes": 5370724072,
-        "prepared_at": "2026-10-01T17:08:03.635643+00:00"
-      }
+      "previous_target_id": "29904307"
     },
     "5944": {
       "attempts": [],
@@ -409356,5 +409352,5 @@
       }
     }
   },
-  "updated_at": "2026-10-22T20:05:02.658840+00:00"
+  "updated_at": "2026-10-22T20:05:09.043001+00:00"
 }
