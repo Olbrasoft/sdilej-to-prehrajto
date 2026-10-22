@@ -396767,6 +396767,13 @@
           "target_video_id": "29905972",
           "permanent": false,
           "attempted_at": "2026-10-01T19:03:08.934161+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21030598",
+          "target_video_id": "29905972",
+          "permanent": false,
+          "attempted_at": "2026-10-22T20:55:37.603050+00:00"
         }
       ],
       "last_plan": {
@@ -396777,7 +396784,7 @@
       "previous_target_id": "29905972",
       "prepared": {
         "target_video_id": "29905972",
-        "size_bytes": 2477009750,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-10-01T18:54:43.785913+00:00"
       }
     },
@@ -396874,6 +396881,13 @@
           "source_id": "34024130",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-01T18:56:44.424624+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34024130",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-22T20:54:56.633131+00:00"
         }
       ],
       "last_plan": {
@@ -396917,16 +396931,10 @@
           "attempted_at": "2026-10-01T19:04:35.382999+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29492710",
-        "display_name": "Stánek s polibky 3 (2021) 1080p CZ Dabing",
-        "planned_at": "2026-10-22T20:42:03.540606+00:00"
-      },
       "previous_target_id": "29906000",
-      "prepared": {
+      "upload": {
         "target_video_id": "29906000",
-        "size_bytes": 2530962560,
-        "prepared_at": "2026-10-01T18:56:49.117187+00:00"
+        "uploaded_at": "2026-10-22T20:56:38.169553+00:00"
       }
     },
     "25620": {
@@ -397539,6 +397547,13 @@
           "target_video_id": "29906002",
           "permanent": false,
           "attempted_at": "2026-10-01T19:03:16.349234+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34466744",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-22T20:55:58.476415+00:00"
         }
       ],
       "last_plan": {
@@ -409038,5 +409053,5 @@
       }
     }
   },
-  "updated_at": "2026-10-22T20:54:33.228366+00:00"
+  "updated_at": "2026-10-22T20:56:38.169571+00:00"
 }
