@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T20:32:19.326993+00:00
+Poslední aktualizace (UTC): 2026-10-22T20:32:28.095829+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -530,7 +530,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hands of Stone (2016) 720p CZ Titulky](https://prehraj.to/hands-of-stone-2016-720p-cz-titulky-mp4/27fd03434214036f) (ID 30187168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T20:31:43.413164+00:00 |
 | [Handsome Guys (2024) 1080p CZ Titulky](https://prehraj.to/handsome-guys-2024-1080p-cz-titulky-mkv/f5a74811e21a4ac0) (ID 29923153) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T20:31:43.406470+00:00 |
 | [Hansan: Rising Dragon (2022) 1080p CZ Titulky](https://prehraj.to/hansan-rising-dragon-2022-1080p-cz-titulky-mp4/76a4cda260571b64) (ID 30152691) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T20:31:43.412507+00:00 |
-| [Hanson and the Beast (2017) SD CZ Titulky](https://prehraj.to/hanson-and-the-beast-2017-sd-cz-titulky-mp4/7bcab0ac5a50a4cf) (ID 29229448) | [Sdílej 34769838](https://sdilej.cz/34769838/hanson-and-the-beast-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T20:30:53.202907+00:00 |
+| [Hanson and the Beast (2017) SD CZ Titulky](https://prehraj.to/hanson-and-the-beast-2017-sd-cz-titulky-mp4/7bcab0ac5a50a4cf) (ID 29229448) | [Sdílej 34769838](https://sdilej.cz/34769838/hanson-and-the-beast-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T20:32:28.095710+00:00 |
 | [Happier Than Ever: A Love Letter to Los Angeles (2021) 1080p CZ Titulky](https://prehraj.to/happier-than-ever-a-love-letter-to-los-angeles-2021-1080p-cz-titulky-mp4/67d36acb44ffdd03) (ID 29441313) | [Sdílej 34772911](https://sdilej.cz/34772911/happier-than-ever-a-love-letter-to-los-angeles-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:44:49.229453+00:00 |
 | [Happily (2021) 1080p CZ Titulky](https://prehraj.to/happily-2021-1080p-cz-titulky-mkv/6ccd9041f76c97f7) (ID 29720642) | [Sdílej 16891054](https://sdilej.cz/16891054/happily-2021-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:13.802778+00:00 |
 | [Happy Hunting (2017) 720p CZ Titulky](https://prehraj.to/happy-hunting-2017-720p-cz-titulky-avi/4c871748cdb5f2e9) (ID 29707832) | [Sdílej 10569086](https://sdilej.cz/10569086/happy-hunting-horor-2017-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:54:53.419444+00:00 |
