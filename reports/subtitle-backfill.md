@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T14:55:02.219192+00:00
+Poslední aktualizace (UTC): 2026-10-22T14:55:24.862521+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -592,7 +592,7 @@ Kontrol: 78; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | [I'll Take Your Dead (2018) 1080p CZ Titulky.mkv](https://prehraj.to/i-ll-take-your-dead-2018-1080p-cz-titulky-mkv/98558fbe1747e87d) (ID 29657112) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.711385+00:00 |
 | [Ibiza (2018) SD CZ Titulky](https://prehraj.to/ibiza-2018-sd-cz-titulky-avi/e2dc63a5442516d3) (ID 29943595) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.715515+00:00 |
 | [Icarus (2017) 720p CZ Titulky](https://prehraj.to/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:07.485875+00:00 |
-| [Ice Guardians (2016) SD CZ Titulky](https://prehraj.to/ice-guardians-2016-sd-cz-titulky-avi/513ea5ea0677fe5a) (ID 29212744) | [Sdílej 23694462](https://sdilej.cz/23694462/ice-guardians-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:50:56.498485+00:00 |
+| [Ice Guardians (2016) SD CZ Titulky](https://prehraj.to/ice-guardians-2016-sd-cz-titulky-avi/513ea5ea0677fe5a) (ID 29212744) | [Sdílej 23694462](https://sdilej.cz/23694462/ice-guardians-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:55:24.862393+00:00 |
 | [Ice Storm (2023) SD CZ Titulky](https://prehraj.to/ice-storm-2023-sd-cz-titulky-mp4/d0996c006ed31c47) (ID 29636715) | [Sdílej 34725616](https://sdilej.cz/34725616/ice-storm-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:30:02.860008+00:00 |
 | [Ichi the Killer (2001) 1080p CZ Titulky](https://prehraj.to/ichi-the-killer-2001-1080p-cz-titulky-avi/f1dd678349c46df9) (ID 29142691) | [Sdílej 11740156](https://sdilej.cz/11740156/ichi-the-killer-koroshiya-1-2001-hc.titulky.cz-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:44:07.841596+00:00 |
 | [Ida (2013) 720p CZ Titulky](https://prehraj.to/ida-2013-720p-cz-titulky-mp4/487c2cd46e0b073c) (ID 29634738) | [Sdílej 33614636](https://sdilej.cz/33614636/ida-2013-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:28:35.072965+00:00 |
