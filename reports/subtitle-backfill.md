@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T14:52:30.811706+00:00
+Poslední aktualizace (UTC): 2026-10-22T14:52:41.680020+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1573,7 +1573,7 @@ Kontrol: 78; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | [Šlápni na to! (2020) 1080p CZ Titulky](https://prehraj.to/slapni-na-to-2020-1080p-cz-titulky-mp4/594cd284d5c37161) (ID 29695375) | [Sdílej 34731712](https://sdilej.cz/34731712/slapni-na-to-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:51:14.274007+00:00 |
 | [Šok (2021) 4K CZ Titulky](https://prehraj.to/sok-2021-4k-cz-titulky-mkv/02de61ac85c32a4d) (ID 29936681) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.715216+00:00 |
 | [Špičák (2009) 1080p CZ Titulky](https://prehraj.to/spicak-2009-1080p-cz-titulky-mkv/2cb3c15432e6c848) (ID 29178166) | [Sdílej 33034247](https://sdilej.cz/33034247/dogtooth-2009-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:51:14.195774+00:00 |
-| [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:47:47.237698+00:00 |
+| [Šumař na střeše (1971) 1080p CZ Titulky](https://prehraj.to/sumar-na-strese-1971-1080p-cz-titulky-mkv/a3fd50a0fe0b67a5) (ID 29195039) | [Sdílej 30832586](https://sdilej.cz/30832586/fiddler-on-the-roof-1971-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:52:41.679903+00:00 |
 | [Švejk bourá Německo (1943) SD CZ Titulky](https://prehraj.to/svejk-boura-nemecko-1943-sd-cz-titulky-mp4/9b789097687f305a) (ID 29688069) | [Sdílej 34705807](https://sdilej.cz/34705807/svejk-boura-nemecko-1943-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:49:47.600610+00:00 |
 | [Švédská teorie lásky (2015) 1080p CZ Titulky](https://prehraj.to/svedska-teorie-lasky-2015-1080p-cz-titulky-mp4/f14c80243df657a5) (ID 30125189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.717534+00:00 |
 | [Švýcarák (2016) 720p CZ Titulky](https://prehraj.to/svycarak-2016-720p-cz-titulky-mkv/609b6be4d32304fb) (ID 30058349) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.716876+00:00 |
