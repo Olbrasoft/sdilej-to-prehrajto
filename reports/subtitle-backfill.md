@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T20:31:55.613801+00:00
+Poslední aktualizace (UTC): 2026-10-22T20:32:04.351610+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1471,7 +1471,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Vždycky budeš moje možná (2019) 1080p CZ Titulky](https://prehraj.to/vzdycky-budes-moje-mozna-2019-1080p-cz-titulky-mp4/faf5e2a144cc65e1) (ID 30138883) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T20:31:43.412391+00:00 |
 | [Wake Up Sid (2009) SD CZ Titulky](https://prehraj.to/wake-up-sid-2009-sd-cz-titulky-mp4/98c86b703f74d650) (ID 29560140) | [Sdílej 34750990](https://sdilej.cz/34750990/wake-up-sid-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:00:04.632293+00:00 |
 | [Wanda Sykes: Nenormální (2019) 1080p CZ Titulky](https://prehraj.to/wanda-sykes-nenormalni-2019-1080p-cz-titulky-mp4/52c65d095d10bc3f) (ID 29440609) | [Sdílej 34733622](https://sdilej.cz/34733622/wanda-sykes-nenormalni-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:43:59.359335+00:00 |
-| [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T20:30:27.043175+00:00 |
+| [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T20:32:04.351487+00:00 |
 | [War 2 (2025) 1080p CZ Titulky](https://prehraj.to/war-2-2025-1080p-cz-titulky-mp4/fb6349c2e6ccb9d0) (ID 29908677) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T20:31:43.404956+00:00 |
 | [War of the Worlds: Annihilation (2021) SD CZ Titulky](https://prehraj.to/war-of-the-worlds-annihilation-2021-sd-cz-titulky-mp4/ec5784b1d618ec26) (ID 29709661) | [Sdílej 34909877](https://sdilej.cz/34909877/war-of-the-worlds-annihilation-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:56:24.595674+00:00 |
 | [WarHunt (2022) 1080p CZ Titulky](https://prehraj.to/warhunt-2022-1080p-cz-titulky-avi/98b2a36bc1f51031) (ID 29908392) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T20:31:43.404865+00:00 |
