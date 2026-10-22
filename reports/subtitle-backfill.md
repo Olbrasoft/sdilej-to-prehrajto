@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T18:45:34.175016+00:00
+Poslední aktualizace (UTC): 2026-10-22T18:45:46.386948+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -684,7 +684,7 @@ Kontrol: 35; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:53:40.530880+00:00 |
 | [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T22:34:07.440929+00:00 |
 | [Konvoj do Murmanska (1943) SD CZ Titulky.mkv](https://prehraj.to/konvoj-do-murmanska-1943-sd-cz-titulky-mkv/4e7bc2b5b5a3630d) (ID 29576776) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T18:42:37.389353+00:00 |
-| [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T18:40:51.124136+00:00 |
+| [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T18:45:46.386816+00:00 |
 | [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:45.669442+00:00 |
 | [Kraken (2025) 1080p CZ Titulky.mkv](https://prehraj.to/kraken-2025-1080p-cz-titulky-mkv/007438b1eb79ac22) (ID 29915927) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T18:42:37.393153+00:00 |
 | [Krev zmizelého (2005) SD CZ Titulky](https://prehraj.to/krev-zmizeleho-2005-sd-cz-titulky-mkv/798e41df1dae9b0a) (ID 29717465) | [Sdílej 35085090](https://sdilej.cz/35085090/krev-zmizeleho.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:01:05.227206+00:00 |
