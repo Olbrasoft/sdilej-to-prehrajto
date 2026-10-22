@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-22T14:52:41.680020+00:00
+Poslední aktualizace (UTC): 2026-10-22T14:52:52.255623+00:00
 
 Zkontrolováno videí: 2151. Další stránka kontroly: 0.
 
@@ -1188,7 +1188,7 @@ Kontrol: 78; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | [Souboj s Antikristem (2013) 720p CZ Titulky](https://prehraj.to/souboj-s-antikristem-2013-720p-cz-titulky-mp4/be47ae41a4b4bb93) (ID 29748645) | [Sdílej 34779538](https://sdilej.cz/34779538/souboj-s-antikristem-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:29:32.004991+00:00 |
 | [Soukromá síť: Kdo zabil Manuela Buendíu? (2021) 1080p CZ Titulky](https://prehraj.to/soukroma-sit-kdo-zabil-manuela-buendiu-2021-1080p-cz-titulky-mp4/905654ccedbc1731) (ID 29649266) | [Sdílej 34728765](https://sdilej.cz/34728765/soukroma-sit-kdo-zabil-manuela-buendiu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:36:56.084453+00:00 |
 | [Soulm8te (2026) 1440p CZ Titulky](https://prehraj.to/soulm8te-2026-1440p-cz-titulky-mkv/50c0dedad110bb7f) (ID 29911136) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.712883+00:00 |
-| [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-15T14:47:57.705400+00:00 |
+| [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:52:52.255498+00:00 |
 | [Southbound (2015) 1080p CZ Titulky](https://prehraj.to/southbound-2015-1080p-cz-titulky-mp4/270d142bfbf9f0f8) (ID 29919146) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-22T14:49:23.713930+00:00 |
 | [Space Buddies (2009) 720p CZ Titulky](https://prehraj.to/space-buddies-2009-720p-cz-titulky-mkv/4e7a090626908843) (ID 29088612) | [Sdílej 15088025](https://sdilej.cz/15088025/space.buddies.2009.720p.bluray.x264-x0r.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:39:39.278563+00:00 |
 | [Sparkle: A Unicorn Tale (2023) 1080p CZ Titulky](https://prehraj.to/sparkle-a-unicorn-tale-2023-1080p-cz-titulky-mp4/a343955c780de9ac) (ID 29680774) | [Sdílej 34771929](https://sdilej.cz/34771929/sparkle-a-unicorn-tale-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:49:02.151483+00:00 |
