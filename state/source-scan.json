@@ -320343,15 +320343,6 @@
     "15050": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-10-17T00:42:25.472134+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -320366,6 +320357,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-10-20T12:59:55.689737+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-10-22T14:37:49.715338+00:00"
         }
       ]
     },
@@ -723110,5 +723108,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-22T14:35:04.691638+00:00"
+  "updated_at": "2026-10-22T14:37:49.715355+00:00"
 }
