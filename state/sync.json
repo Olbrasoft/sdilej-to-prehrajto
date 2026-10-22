@@ -27544,13 +27544,6 @@
           "source_id": "29802990",
           "target_video_id": "29887755",
           "permanent": false,
-          "attempted_at": "2026-10-01T16:11:44.857057+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29802990",
-          "target_video_id": "29887755",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:42:28.265692+00:00"
         },
         {
@@ -27559,6 +27552,14 @@
           "target_video_id": "29887755",
           "permanent": false,
           "attempted_at": "2026-10-01T17:41:00.001062+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29802990",
+          "target_video_id": "29887755",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-22T20:09:37.220515+00:00"
         }
       ],
       "last_plan": {
@@ -27566,12 +27567,7 @@
         "display_name": "Velká hra (2017) 1080p CZ Dabing",
         "planned_at": "2026-10-22T20:06:56.530504+00:00"
       },
-      "previous_target_id": "29887755",
-      "prepared": {
-        "target_video_id": "29887755",
-        "size_bytes": 3000000000,
-        "prepared_at": "2026-10-01T01:47:51.234669+00:00"
-      }
+      "previous_target_id": "29887755"
     },
     "1234": {
       "attempts": [
@@ -409154,5 +409150,5 @@
       }
     }
   },
-  "updated_at": "2026-10-22T20:09:30.454422+00:00"
+  "updated_at": "2026-10-22T20:09:37.220535+00:00"
 }
