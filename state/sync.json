@@ -161547,13 +161547,6 @@
           "source_id": "34708426",
           "target_video_id": "29675496",
           "permanent": false,
-          "attempted_at": "2026-10-01T16:14:22.049934+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34708426",
-          "target_video_id": "29675496",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:44:39.738662+00:00"
         },
         {
@@ -161562,6 +161555,13 @@
           "target_video_id": "29675496",
           "permanent": false,
           "attempted_at": "2026-10-01T19:08:15.011885+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34708426",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-22T20:58:07.663611+00:00"
         }
       ],
       "last_plan": {
@@ -166220,13 +166220,6 @@
           "source_id": "25275828",
           "target_video_id": "29199678",
           "permanent": false,
-          "attempted_at": "2026-10-01T16:14:21.455565+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25275828",
-          "target_video_id": "29199678",
-          "permanent": false,
           "attempted_at": "2026-10-01T16:44:38.909656+00:00"
         },
         {
@@ -166235,6 +166228,13 @@
           "target_video_id": "29199678",
           "permanent": false,
           "attempted_at": "2026-10-01T19:08:13.081991+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25275828",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-22T20:57:46.796444+00:00"
         }
       ],
       "last_plan": {
@@ -397702,16 +397702,10 @@
           "attempted_at": "2026-10-01T19:09:05.625678+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34743949",
-        "display_name": "Rise of the Zombies (2012) 1080p CZ Titulky",
-        "planned_at": "2026-10-22T20:42:05.051428+00:00"
-      },
       "previous_target_id": "29906087",
-      "prepared": {
+      "upload": {
         "target_video_id": "29906087",
-        "size_bytes": 2422374855,
-        "prepared_at": "2026-10-01T19:03:22.666531+00:00"
+        "uploaded_at": "2026-10-22T20:58:48.250131+00:00"
       }
     },
     "23614": {
@@ -398057,6 +398051,13 @@
           "target_video_id": "29906113",
           "permanent": false,
           "attempted_at": "2026-10-01T19:08:05.309422+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19544206",
+          "target_video_id": "29906113",
+          "permanent": false,
+          "attempted_at": "2026-10-22T20:57:25.927232+00:00"
         }
       ],
       "last_plan": {
@@ -398067,7 +398068,7 @@
       "previous_target_id": "29906113",
       "prepared": {
         "target_video_id": "29906113",
-        "size_bytes": 1758011750,
+        "size_bytes": 1800000000,
         "prepared_at": "2026-10-01T19:04:43.297717+00:00"
       }
     },
@@ -409053,5 +409054,5 @@
       }
     }
   },
-  "updated_at": "2026-10-22T20:56:38.169571+00:00"
+  "updated_at": "2026-10-22T20:58:48.250142+00:00"
 }
