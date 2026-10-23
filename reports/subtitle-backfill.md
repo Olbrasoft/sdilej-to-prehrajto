@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:01:02.211756+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:01:06.240339+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1593,7 +1593,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | source_unavailable | 2026-10-23T15:18:46.584570+00:00 |
 | [Hayride 2 (2015) SD CZ Titulky](https://prehraj.to/hayride-2-2015-sd-cz-titulky-avi/de9b2b5b93a63784) (ID 29707155) | [Sdílej 18964980](https://sdilej.cz/18964980/hayride-2-akcni-horor-2015-cz.titulky.avi) | source_unavailable | 2026-10-23T15:55:33.590260+00:00 |
 | [Jen si tak trochu písknout (1981) SD CZ Titulky](https://prehraj.to/jen-si-tak-trochu-pisknout-1981-sd-cz-titulky-avi/9f2ef9b8f25b6343) (ID 29608037) | [Sdílej 27905927](https://sdilej.cz/27905927/jen-si-tak-trochu-pisknout-1981-.avi) | source_unavailable | 2026-10-23T15:18:33.157415+00:00 |
-| [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-23T12:44:07.475741+00:00 |
+| [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-23T16:01:06.240184+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-23T16:00:31.355993+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-23T16:00:19.561902+00:00 |
 | [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | source_unavailable | 2026-10-23T15:01:18.210444+00:00 |
