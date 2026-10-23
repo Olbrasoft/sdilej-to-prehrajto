@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:19:26.419437+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:19:34.480764+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1107,7 +1107,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Dův
 | [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:33:41.285705+00:00 |
 | [Sbohem, synu (2019) 1080p CZ Titulky](https://prehraj.to/sbohem-synu-2019-1080p-cz-titulky-mp4/fa644cbcbcd46510) (ID 29887468) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.745682+00:00 |
 | [Scaramouche (1952) 1080p CZ Titulky](https://prehraj.to/scaramouche-1952-1080p-cz-titulky-mkv/4204b49ede8f2f63) (ID 29845680) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.745337+00:00 |
-| [Scare Campaign (2016) 720p CZ Titulky](https://prehraj.to/scare-campaign-2016-720p-cz-titulky-mkv/a7b69d5133d273bc) (ID 29609224) | [Sdílej 34470083](https://sdilej.cz/34470083/scare-campaign.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:18:19.691151+00:00 |
+| [Scare Campaign (2016) 720p CZ Titulky](https://prehraj.to/scare-campaign-2016-720p-cz-titulky-mkv/a7b69d5133d273bc) (ID 29609224) | [Sdílej 34470083](https://sdilej.cz/34470083/scare-campaign.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:19:34.480628+00:00 |
 | [Scarecrows (2017) SD CZ Titulky](https://prehraj.to/scarecrows-2017-sd-cz-titulky-mp4/d898fc1bb9f30674) (ID 29652878) | [Sdílej 34737299](https://sdilej.cz/34737299/scarecrows-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:38:55.334463+00:00 |
 | [Scarlett (2020) 1080p CZ Titulky](https://prehraj.to/scarlett-2020-1080p-cz-titulky-mp4/206e601c2c5996ee) (ID 29575738) | [Sdílej 34773181](https://sdilej.cz/34773181/scarlett-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:11:27.459795+00:00 |
 | [Schlussmacher (2013) SD CZ Titulky](https://prehraj.to/schlussmacher-2013-sd-cz-titulky-mp4/e885ad18f9bd10f8) (ID 29648017) | [Sdílej 34739355](https://sdilej.cz/34739355/schlussmacher-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:34:22.019253+00:00 |
