@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T10:37:52.304918+00:00
+Poslední aktualizace (UTC): 2026-10-23T10:38:01.261838+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -526,7 +526,7 @@ Kontrol: 53; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Hafan hasičem (2007) 1080p CZ Titulky](https://prehraj.to/hafan-hasicem-2007-1080p-cz-titulky-mp4/2aca0c9ea9047267) (ID 29930732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T10:37:03.456024+00:00 |
 | [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:37:44.951943+00:00 |
 | [Halušky: Dobrodružství s psychedeliky (2020) 1080p CZ Titulky](https://prehraj.to/halusky-dobrodruzstvi-s-psychedeliky-2020-1080p-cz-titulky-mp4/4082b7676326cc0f) (ID 29443389) | [Sdílej 34733180](https://sdilej.cz/34733180/halusky-dobrodruzstvi-s-psychedeliky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:45:13.084268+00:00 |
-| [Hammers Over the Anvil (1994) SD CZ Titulky](https://prehraj.to/hammers-over-the-anvil-1994-sd-cz-titulky-mp4/75de8673e206249c) (ID 29366900) | [Sdílej 34785379](https://sdilej.cz/34785379/hammers-over-the-anvil-1994-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:33:03.560011+00:00 |
+| [Hammers Over the Anvil (1994) SD CZ Titulky](https://prehraj.to/hammers-over-the-anvil-1994-sd-cz-titulky-mp4/75de8673e206249c) (ID 29366900) | [Sdílej 34785379](https://sdilej.cz/34785379/hammers-over-the-anvil-1994-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:38:01.261708+00:00 |
 | [Hands of Stone (2016) 720p CZ Titulky](https://prehraj.to/hands-of-stone-2016-720p-cz-titulky-mp4/27fd03434214036f) (ID 30187168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T10:37:03.459248+00:00 |
 | [Handsome Guys (2024) 1080p CZ Titulky](https://prehraj.to/handsome-guys-2024-1080p-cz-titulky-mkv/f5a74811e21a4ac0) (ID 29923153) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T10:37:03.455731+00:00 |
 | [Hansan: Rising Dragon (2022) 1080p CZ Titulky](https://prehraj.to/hansan-rising-dragon-2022-1080p-cz-titulky-mp4/76a4cda260571b64) (ID 30152691) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T10:37:03.458651+00:00 |
