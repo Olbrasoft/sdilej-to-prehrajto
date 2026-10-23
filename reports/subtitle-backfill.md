@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:57:19.780296+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:57:28.735597+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1466,7 +1466,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Wanda Sykes: Nenormální (2019) 1080p CZ Titulky](https://prehraj.to/wanda-sykes-nenormalni-2019-1080p-cz-titulky-mp4/52c65d095d10bc3f) (ID 29440609) | [Sdílej 34733622](https://sdilej.cz/34733622/wanda-sykes-nenormalni-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:46:49.094096+00:00 |
 | [War (2019) 720p CZ Titulky](https://prehraj.to/war-2019-720p-cz-titulky-mp4/407e2f9524949c61) (ID 29221764) | [Sdílej 34713688](https://sdilej.cz/34713688/war-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T20:32:04.351487+00:00 |
 | [War 2 (2025) 1080p CZ Titulky](https://prehraj.to/war-2-2025-1080p-cz-titulky-mp4/fb6349c2e6ccb9d0) (ID 29908677) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:47:06.743185+00:00 |
-| [War of the Worlds: Annihilation (2021) SD CZ Titulky](https://prehraj.to/war-of-the-worlds-annihilation-2021-sd-cz-titulky-mp4/ec5784b1d618ec26) (ID 29709661) | [Sdílej 34909877](https://sdilej.cz/34909877/war-of-the-worlds-annihilation-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:56:24.595674+00:00 |
+| [War of the Worlds: Annihilation (2021) SD CZ Titulky](https://prehraj.to/war-of-the-worlds-annihilation-2021-sd-cz-titulky-mp4/ec5784b1d618ec26) (ID 29709661) | [Sdílej 34909877](https://sdilej.cz/34909877/war-of-the-worlds-annihilation-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:57:28.735469+00:00 |
 | [WarHunt (2022) 1080p CZ Titulky](https://prehraj.to/warhunt-2022-1080p-cz-titulky-avi/98b2a36bc1f51031) (ID 29908392) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:47:06.743138+00:00 |
 | [Warning (2021) 1080p CZ Titulky](https://prehraj.to/warning-2021-1080p-cz-titulky-mkv/2195cc3c11f6f1a8) (ID 29734447) | [Sdílej 18976907](https://sdilej.cz/18976907/warning.2021.1080p.bluray.h264.aac-rarbg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:30.487173+00:00 |
 | [Waterloo (1970) 1080p CZ Titulky](https://prehraj.to/waterloo-1970-1080p-cz-titulky-mkv/6796db04770430db) (ID 29505250) | [Sdílej 33237576](https://sdilej.cz/33237576/waterloo.1970.bdrip.1080p.multi.hdlight.x264.ac3.5.1.ac3.2.0-bzh29.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:58.011692+00:00 |
