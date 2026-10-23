@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:42:23.460631+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:42:36.227896+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1505,7 +1505,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:03:25.246132+00:00 |
 | [Zakódované předsudky (2020) 1080p CZ Titulky](https://prehraj.to/zakodovane-predsudky-2020-1080p-cz-titulky-mp4/5082add70e242a8f) (ID 29673975) | [Sdílej 34731804](https://sdilej.cz/34731804/zakodovane-predsudky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:44:52.778006+00:00 |
 | [Zamrzlá země (2005) SD CZ Titulky](https://prehraj.to/zamrzla-zeme-2005-sd-cz-titulky-mkv/5f7bdd9a99d6f89e) (ID 30034906) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.724666+00:00 |
-| [Zapomeň na UFO (2022) 1080p CZ Titulky](https://prehraj.to/zapomen-na-ufo-2022-1080p-cz-titulky-mp4/cb7a6747d3998502) (ID 29657050) | [Sdílej 25788673](https://sdilej.cz/25788673/ufo-2022-1080p-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:41:02.016267+00:00 |
+| [Zapomeň na UFO (2022) 1080p CZ Titulky](https://prehraj.to/zapomen-na-ufo-2022-1080p-cz-titulky-mp4/cb7a6747d3998502) (ID 29657050) | [Sdílej 25788673](https://sdilej.cz/25788673/ufo-2022-1080p-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:42:36.227759+00:00 |
 | [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:39:11.578124+00:00 |
 | [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T03:39:51.601135+00:00 |
 | [Zatoulaný (2018) SD CZ Titulky](https://prehraj.to/zatoulany-2018-sd-cz-titulky-avi/ee32f1fd1bf7eafb) (ID 29412317) | [Sdílej 11160214](https://sdilej.cz/11160214/zatoulany-drama-cz-titulky-2018-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:43:32.041950+00:00 |
