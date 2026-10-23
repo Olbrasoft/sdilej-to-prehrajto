@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:51:49.017020+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:52:00.000615+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1367,7 +1367,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Well (2023) 1080p CZ Titulky](https://prehraj.to/the-well-2023-1080p-cz-titulky-mp4/65861bbd3bd73da0) (ID 29934372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.663790+00:00 |
 | [The Wind (2018) 1080p CZ Titulky](https://prehraj.to/the-wind-2018-1080p-cz-titulky-mp4/93b62986f7146902) (ID 29925459) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.663055+00:00 |
 | [The Windigo (2024) 1080p CZ Titulky](https://prehraj.to/the-windigo-2024-1080p-cz-titulky-mp4/c536969876db52b2) (ID 29607776) | [Sdílej 34724644](https://sdilej.cz/34724644/the-windigo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:16:32.018681+00:00 |
-| [The World Will Tremble (2025) 1080p CZ Titulky](https://prehraj.to/the-world-will-tremble-2025-1080p-cz-titulky-mp4/6dae944ac1f66667) (ID 29468514) | [Sdílej 30991221](https://sdilej.cz/30991221/the-world-will-tremble-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:49:25.146051+00:00 |
+| [The World Will Tremble (2025) 1080p CZ Titulky](https://prehraj.to/the-world-will-tremble-2025-1080p-cz-titulky-mp4/6dae944ac1f66667) (ID 29468514) | [Sdílej 30991221](https://sdilej.cz/30991221/the-world-will-tremble-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:52:00.000488+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:36.257742+00:00 |
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T22:31:36.471325+00:00 |
 | [Thor: God of Thunder (2022) 720p CZ Titulky](https://prehraj.to/thor-god-of-thunder-2022-720p-cz-titulky-mp4/d100c5e80baf1538) (ID 29648483) | [Sdílej 34772159](https://sdilej.cz/34772159/thor-god-of-thunder-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:36:01.246075+00:00 |
