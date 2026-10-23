@@ -138257,6 +138257,14 @@
           "permanent": false,
           "target_video_id": "29919494",
           "attempted_at": "2026-10-02T13:16:13.778529+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "33793349",
+          "target_video_id": "29919494",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-23T05:50:45.971960+00:00"
         }
       ],
       "last_plan": {
@@ -138264,7 +138272,13 @@
         "display_name": "Líbánky (2024) 1080p CZ Dabing",
         "planned_at": "2026-10-23T05:27:02.395823+00:00"
       },
-      "previous_target_id": "29919494"
+      "previous_target_id": "29919494",
+      "claim": {
+        "worker_id": "610de1ab26e04e9597fd4856b61ab25d-shard-0",
+        "claimed_at": "2026-10-23T05:50:44.761296+00:00",
+        "lease_expires_at": "2026-10-23T11:50:44.761296+00:00",
+        "run_id": "39900816009"
+      }
     },
     "15466": {
       "attempts": []
@@ -142137,6 +142151,18 @@
         "source_id": "28419372",
         "display_name": "Věž beze stínu (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-23T05:27:02.781277+00:00"
+      },
+      "claim": {
+        "worker_id": "610de1ab26e04e9597fd4856b61ab25d-shard-0",
+        "claimed_at": "2026-10-23T05:50:46.363816+00:00",
+        "lease_expires_at": "2026-10-23T11:50:46.363816+00:00",
+        "run_id": "39900816009"
+      },
+      "previous_target_id": "30452972",
+      "prepared": {
+        "target_video_id": "30452972",
+        "size_bytes": 2907798436,
+        "prepared_at": "2026-10-23T05:50:51.159065+00:00"
       }
     },
     "16695": {
@@ -407329,5 +407355,5 @@
       }
     }
   },
-  "updated_at": "2026-10-23T05:50:41.842279+00:00"
+  "updated_at": "2026-10-23T05:50:51.159083+00:00"
 }
