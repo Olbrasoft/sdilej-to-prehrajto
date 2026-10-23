@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:38:31.074631+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:38:39.826268+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1324,7 +1324,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [The Offering (2022) 1080p CZ Titulky](https://prehraj.to/the-offering-2022-1080p-cz-titulky-mkv/36f5b832613dd6b7) (ID 29740131) | [Sdílej 25686579](https://sdilej.cz/25686579/the-offering-2022-cz-sub-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:51.386813+00:00 |
 | [The Old Way (2023) 1080p CZ Titulky](https://prehraj.to/the-old-way-2023-1080p-cz-titulky-avi/b2c9c7a791c2a853) (ID 29936176) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.723244+00:00 |
 | [The Orphan Killer (2011) SD CZ Titulky](https://prehraj.to/the-orphan-killer-2011-sd-cz-titulky-mp4/2012452475b525db) (ID 29748318) | [Sdílej 34745875](https://sdilej.cz/34745875/the-orphan-killer-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:28:55.522329+00:00 |
-| [The Other (2025) 1080p CZ Titulky](https://prehraj.to/the-other-2025-1080p-cz-titulky-mkv/da3c92b1164cead0) (ID 29649805) | [Sdílej 31430379](https://sdilej.cz/31430379/the-other-2025-1080p-eng-tit-by-pefto-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:37:13.169253+00:00 |
+| [The Other (2025) 1080p CZ Titulky](https://prehraj.to/the-other-2025-1080p-cz-titulky-mkv/da3c92b1164cead0) (ID 29649805) | [Sdílej 31430379](https://sdilej.cz/31430379/the-other-2025-1080p-eng-tit-by-pefto-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:38:39.826144+00:00 |
 | [The Other Side of the Wind (2018) 1080p CZ Titulky](https://prehraj.to/the-other-side-of-the-wind-2018-1080p-cz-titulky-mp4/064978af3d4b292e) (ID 30178487) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.725898+00:00 |
 | [The Party (2017) SD CZ Titulky](https://prehraj.to/the-party-2017-sd-cz-titulky-avi/6b3de1f55a53c012) (ID 29230183) | [Sdílej 26648027](https://sdilej.cz/26648027/the-party-2017-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T20:32:41.211322+00:00 |
 | [The Phenomenon (2020) 1080p CZ Titulky](https://prehraj.to/the-phenomenon-2020-1080p-cz-titulky-mp4/ee7b751c3eb235a6) (ID 29407497) | [Sdílej 34731975](https://sdilej.cz/34731975/the-phenomenon-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:40:20.290725+00:00 |
