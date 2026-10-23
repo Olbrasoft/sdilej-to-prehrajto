@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:39:52.221283+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:39:59.733684+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -188,7 +188,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Bídníci (2012) 1080p CZ Titulky](https://prehraj.to/bidnici-2012-1080p-cz-titulky-mp4/5a004ba7d7fa860f) (ID 29651861) | [Sdílej 34853378](https://sdilej.cz/34853378/bidnici-2012-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:39:56.733039+00:00 |
 | [Bídníci (2019) 1080p CZ Titulky](https://prehraj.to/bidnici-2019-1080p-cz-titulky-mkv/c9fb98c2140cd65c) (ID 29555708) | [Sdílej 13352602](https://sdilej.cz/13352602/les.miserables.2019.bdrip.1080p-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:10.809366+00:00 |
 | [Bílá oblaka (1962) 1080p CZ Titulky.mkv](https://prehraj.to/bila-oblaka-1962-1080p-cz-titulky-mkv/9e5ca12c2c893e31) (ID 29883859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.351710+00:00 |
-| [Bílá vrána (2018) 1080p CZ Titulky](https://prehraj.to/bila-vrana-2018-1080p-cz-titulky-mkv/12b66300926a393b) (ID 29805290) | [Sdílej 12786760](https://sdilej.cz/12786760/bila-vrana-the-white-crow-2018-1080p-x264-cz-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:37:04.961963+00:00 |
+| [Bílá vrána (2018) 1080p CZ Titulky](https://prehraj.to/bila-vrana-2018-1080p-cz-titulky-mkv/12b66300926a393b) (ID 29805290) | [Sdílej 12786760](https://sdilej.cz/12786760/bila-vrana-the-white-crow-2018-1080p-x264-cz-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:39:59.733544+00:00 |
 | [Bílý tygr (2021) 1080p CZ Titulky](https://prehraj.to/bily-tygr-2021-1080p-cz-titulky-mp4/66f66a35b222fcfd) (ID 30037338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.356245+00:00 |
 | [Být či nebýt (1942) 1080p CZ Titulky](https://prehraj.to/byt-ci-nebyt-1942-1080p-cz-titulky-mkv/ede885353090d3eb) (ID 29212505) | [Sdílej 34501012](https://sdilej.cz/34501012/byt-ci-nebyt-1942-cz-titulky-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:54:42.884683+00:00 |
 | [Bělyj tigr (2012) 720p CZ Titulky](https://prehraj.to/belyj-tigr-2012-720p-cz-titulky-mp4/4ae43e0bf7fe3242) (ID 29981131) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.355558+00:00 |
