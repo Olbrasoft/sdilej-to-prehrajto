@@ -238141,18 +238141,20 @@
           "reason": "Request failed for https://sdilej.cz/26611774/resident-evil-rozklad-resident-evil-degeneration-2008-cz-en-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-02T22:26:21.619174+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26611774",
+          "target_video_id": "30464263",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-23T18:30:18.170487+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26611774",
         "display_name": "Resident Evil: Rozklad (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-23T17:08:36.899055+00:00"
-      },
-      "claim": {
-        "worker_id": "6c8bf0a26945440c851a8f3cd8098c74-shard-0",
-        "claimed_at": "2026-10-23T18:20:00.437626+00:00",
-        "lease_expires_at": "2026-10-24T00:20:00.437626+00:00",
-        "run_id": "39987543985"
       },
       "previous_target_id": "30464263",
       "prepared": {
@@ -407603,5 +407605,5 @@
       }
     }
   },
-  "updated_at": "2026-10-23T18:20:04.850980+00:00"
+  "updated_at": "2026-10-23T18:30:18.170506+00:00"
 }
