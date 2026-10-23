@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:09:28.218909+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:09:37.277584+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -754,7 +754,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Maktub (2017) SD CZ Titulky](https://prehraj.to/maktub-2017-sd-cz-titulky-mp4/180183a8c9c32ed3) (ID 29482808) | [Sdílej 34737380](https://sdilej.cz/34737380/maktub-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:52:45.096035+00:00 |
 | [Mal de pierres (2016) 720p CZ Titulky](https://prehraj.to/mal-de-pierres-2016-720p-cz-titulky-mkv/0e824b5c9a46cf6c) (ID 30172821) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.726284+00:00 |
 | [Malevolent (2018) 1080p CZ Titulky](https://prehraj.to/malevolent-2018-1080p-cz-titulky-mkv/d9b8824b54c393cf) (ID 29909133) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.722910+00:00 |
-| [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:05:10.351230+00:00 |
+| [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:09:37.277471+00:00 |
 | [Malí muži (2016) 1080p CZ Titulky](https://prehraj.to/mali-muzi-2016-1080p-cz-titulky-mkv/9523294f745f3bde) (ID 30108261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.726056+00:00 |
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T02:41:18.350059+00:00 |
 | [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:36:02.294478+00:00 |
