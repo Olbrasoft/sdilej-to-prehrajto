@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:41:55.180256+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:42:09.258946+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -904,7 +904,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:04.133389+00:00 |
 | [Náš domov (2010) SD CZ Titulky](https://prehraj.to/nas-domov-2010-sd-cz-titulky-avi/bfc5250265c6bf4b) (ID 29718314) | [Sdílej 15647793](https://sdilej.cz/15647793/nas-domov-drama-cz-tit.-2010-beri.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:02:40.349863+00:00 |
 | [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:04:11.962858+00:00 |
-| [Něco z Alenky (1988) SD CZ Titulky](https://prehraj.to/neco-z-alenky-1988-sd-cz-titulky-avi/e947df236f26ecfa) (ID 29411861) | [Sdílej 25735969](https://sdilej.cz/25735969/alice.darling.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:39:07.417069+00:00 |
+| [Něco z Alenky (1988) SD CZ Titulky](https://prehraj.to/neco-z-alenky-1988-sd-cz-titulky-avi/e947df236f26ecfa) (ID 29411861) | [Sdílej 25735969](https://sdilej.cz/25735969/alice.darling.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:42:09.258822+00:00 |
 | [Nůž ve vodě (1962) SD CZ Titulky](https://prehraj.to/nuz-ve-vode-1962-sd-cz-titulky-mp4/f5abe3c2b754b43c) (ID 29502555) | [Sdílej 34699986](https://sdilej.cz/34699986/nuz-ve-vode-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:51:31.064406+00:00 |
 | [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T08:39:48.974870+00:00 |
 | [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:59:27.026315+00:00 |
