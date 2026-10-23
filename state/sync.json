@@ -347669,6 +347669,14 @@
           "permanent": false,
           "target_video_id": "29916801",
           "attempted_at": "2026-10-02T09:53:51.010023+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34904162",
+          "target_video_id": "29916801",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-23T02:27:01.612702+00:00"
         }
       ],
       "last_plan": {
@@ -347676,7 +347684,13 @@
         "display_name": "Escape (2023) 1080p CZ Titulky",
         "planned_at": "2026-10-23T02:07:25.191378+00:00"
       },
-      "previous_target_id": "29916801"
+      "previous_target_id": "29916801",
+      "claim": {
+        "worker_id": "18b9fdfb46c74e7bbf0f10fadf6eafd3-shard-0",
+        "claimed_at": "2026-10-23T02:27:00.462075+00:00",
+        "lease_expires_at": "2026-10-23T08:27:00.462075+00:00",
+        "run_id": "39871723022"
+      }
     },
     "8352": {
       "attempts": [
@@ -347944,16 +347958,10 @@
           "attempted_at": "2026-10-02T09:55:54.992827+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34468171",
-        "display_name": "The Rental (2020) 1080p CZ Titulky",
-        "planned_at": "2026-10-23T02:07:25.545562+00:00"
-      },
       "previous_target_id": "29916859",
-      "prepared": {
+      "upload": {
         "target_video_id": "29916859",
-        "size_bytes": 5082232799,
-        "prepared_at": "2026-10-02T09:48:07.019971+00:00"
+        "uploaded_at": "2026-10-23T02:27:03.659353+00:00"
       }
     },
     "10923": {
@@ -407520,5 +407528,5 @@
       }
     }
   },
-  "updated_at": "2026-10-23T02:26:57.551661+00:00"
+  "updated_at": "2026-10-23T02:27:03.659377+00:00"
 }
