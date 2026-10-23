@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:10:45.922772+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:11:03.356352+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1402,7 +1402,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Dův
 | [U brány věčnosti (2018) 1080p CZ Titulky](https://prehraj.to/u-brany-vecnosti-2018-1080p-cz-titulky-avi/d12b33ec67ef2a7c) (ID 29434266) | [Sdílej 24585680](https://sdilej.cz/24585680/u-brany-vecnosti-2018-zivotopisny-drama-bdrip.-en-cz-titlevlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:46:41.205410+00:00 |
 | [Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky](https://prehraj.to/ultramarines-a-warhammer-40-000-movie-2010-1080p-cz-titulky-mp4/a8da8257183be7f9) (ID 29688874) | [Sdílej 34780444](https://sdilej.cz/34780444/ultramarines-a-warhammer-40-000-movie-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:50:11.109447+00:00 |
 | [Umlčené svědectví (2021) 1080p CZ Titulky](https://prehraj.to/umlcene-svedectvi-2021-1080p-cz-titulky-mp4/aaa8d6d41fe4b334) (ID 29517754) | [Sdílej 34728537](https://sdilej.cz/34728537/umlcene-svedectvi-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:56:05.486842+00:00 |
-| [Un hipster en la España vacía (2024) 720p CZ Titulky](https://prehraj.to/un-hipster-en-la-espana-vacia-2024-720p-cz-titulky-mp4/ec0634a4118036c7) (ID 29575065) | [Sdílej 34724603](https://sdilej.cz/34724603/un-hipster-en-la-espa-a-vacia-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:09:40.487474+00:00 |
+| [Un hipster en la España vacía (2024) 720p CZ Titulky](https://prehraj.to/un-hipster-en-la-espana-vacia-2024-720p-cz-titulky-mp4/ec0634a4118036c7) (ID 29575065) | [Sdílej 34724603](https://sdilej.cz/34724603/un-hipster-en-la-espa-a-vacia-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:11:03.356211+00:00 |
 | [Un moment d'égarement (2015) 1080p CZ Titulky](https://prehraj.to/un-moment-d-egarement-2015-1080p-cz-titulky-mkv/d1404c4af4942d54) (ID 29010356) | [Sdílej 17665210](https://sdilej.cz/17665210/un.moment.d-egarement.2015.1080p.x264.aac5.1-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:20.542454+00:00 |
 | [Unacknowledged (2017) 1080p CZ Titulky](https://prehraj.to/unacknowledged-2017-1080p-cz-titulky-mkv/df5daf294c594bec) (ID 29631739) | [Sdílej 7661428](https://sdilej.cz/7661428/unacknowledged-2017-.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:31.459887+00:00 |
 | [Uncle Drew (2018) 1080p CZ Titulky](https://prehraj.to/uncle-drew-2018-1080p-cz-titulky-mp4/7c603d364972af24) (ID 29688963) | [Sdílej 29032600](https://sdilej.cz/29032600/uncle-drew-2018-1080p-nf-web-dl-ddp5-1-h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:50:24.425248+00:00 |
