@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:04:14.487584+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:04:31.797613+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1526,7 +1526,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Zombi 3 (1988) 720p CZ Titulky](https://prehraj.to/zombi-3-1988-720p-cz-titulky-mkv/1444b50ee3044878) (ID 29933340) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.724968+00:00 |
 | [Zombie Hunter (2013) SD CZ Titulky](https://prehraj.to/zombie-hunter-2013-sd-cz-titulky-avi/1d4bf98178006eee) (ID 29736101) | [Sdílej 30456953](https://sdilej.cz/30456953/zombie-hunter.2013.brrip.-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:13:51.085017+00:00 |
 | [Zombies (2016) 1080p CZ Titulky](https://prehraj.to/zombies-2016-1080p-cz-titulky-mkv/8aa4398537b03492) (ID 29971372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725332+00:00 |
-| [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:00:01.557289+00:00 |
+| [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:04:31.797489+00:00 |
 | [Zpátky na frontě 2 (2010) SD CZ Titulky](https://prehraj.to/zpatky-na-fronte-2-2010-sd-cz-titulky-mp4/961f8e4bbb45bdcb) (ID 29639527) | [Sdílej 34709953](https://sdilej.cz/34709953/zpatky-na-fronte-2-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:32:46.299644+00:00 |
 | [Zrodila se hvězda (1937) SD CZ Titulky](https://prehraj.to/zrodila-se-hvezda-1937-sd-cz-titulky-mp4/59422715b7eacd5c) (ID 29463817) | [Sdílej 34789216](https://sdilej.cz/34789216/zrodila-se-hvezda-1937-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:50:42.160306+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:18.997468+00:00 |
