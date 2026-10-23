@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:18:53.830804+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:19:03.036722+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 834, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 24, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 835, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 23, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -158,6 +158,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Bláznivé mládí (2013) SD CZ Titulky](https://prehraj.to/blaznive-mladi-2013-sd-cz-titulky-mp4/53ec2d4a06415fe0) (ID 30028750) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725665+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T06:49:13.853084+00:00 |
 | [Blücher (2025) 4K CZ Titulky](https://prehraj.to/bluecher-2025-4k-cz-titulky-mkv/91148b44d0e97e8d) (ID 30052306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725848+00:00 |
+| [Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky](https://prehraj.to/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-1080p-cz-titulky-mp4/6376b023be19998c) (ID 29566506) | [Sdílej 34773043](https://sdilej.cz/34773043/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:19:03.036605+00:00 |
 | [Body at Brighton Rock (2019) 1080p CZ Titulky](https://prehraj.to/body-at-brighton-rock-2019-1080p-cz-titulky-avi/a74ee7c11541c31f) (ID 29927397) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.724570+00:00 |
 | [Bodycam (2025) 1080p CZ Titulky](https://prehraj.to/bodycam-2025-1080p-cz-titulky-mp4/dbb77e5144b9bd90) (ID 29931107) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.724798+00:00 |
 | [Bojová pouta (2023) SD CZ Titulky](https://prehraj.to/bojova-pouta-2023-sd-cz-titulky-avi/ba5f373ba5794da4) (ID 29940451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725261+00:00 |
@@ -1587,7 +1588,6 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-10-23T10:32:39.362060+00:00 |
 | [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | source_unavailable | 2026-10-23T15:07:53.726491+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-23T10:32:19.261412+00:00 |
-| [Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky](https://prehraj.to/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-1080p-cz-titulky-mp4/6376b023be19998c) (ID 29566506) | [Sdílej 34773043](https://sdilej.cz/34773043/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-.mp4) | source_unavailable | 2026-10-23T15:06:40.254934+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-23T16:00:42.980624+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-23T16:00:54.655182+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-23T16:00:23.604779+00:00 |
