@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:50:50.506429+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:50:58.684844+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1117,7 +1117,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Scarecrows (2017) SD CZ Titulky](https://prehraj.to/scarecrows-2017-sd-cz-titulky-mp4/d898fc1bb9f30674) (ID 29652878) | [Sdílej 34737299](https://sdilej.cz/34737299/scarecrows-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:38:55.334463+00:00 |
 | [Scarlett (2020) 1080p CZ Titulky](https://prehraj.to/scarlett-2020-1080p-cz-titulky-mp4/206e601c2c5996ee) (ID 29575738) | [Sdílej 34773181](https://sdilej.cz/34773181/scarlett-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:10:01.718118+00:00 |
 | [Schlussmacher (2013) SD CZ Titulky](https://prehraj.to/schlussmacher-2013-sd-cz-titulky-mp4/e885ad18f9bd10f8) (ID 29648017) | [Sdílej 34739355](https://sdilej.cz/34739355/schlussmacher-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:34:22.019253+00:00 |
-| [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:48:27.564450+00:00 |
+| [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:50:58.684736+00:00 |
 | [Se min kjole (2009) 1080p CZ Titulky](https://prehraj.to/se-min-kjole-2009-1080p-cz-titulky-mp4/1121be52ba5134ec) (ID 30154744) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.666565+00:00 |
 | [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:05:37.888631+00:00 |
 | [Sebastian (2024) 1080p CZ Titulky](https://prehraj.to/sebastian-2024-1080p-cz-titulky-mkv/8873a3986b8be1da) (ID 29604868) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.659387+00:00 |
