@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:45:58.734851+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:46:10.957124+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -42,7 +42,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:53:07.337411+00:00 |
 | [A.X.L. (2018) SD CZ Titulky](https://prehraj.to/a-x-l-2018-sd-cz-titulky-avi/8f1bc00b0cae419f) (ID 29931436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.354580+00:00 |
 | [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T05:33:09.466847+00:00 |
-| [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:42:38.107880+00:00 |
+| [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:46:10.956965+00:00 |
 | [Adopted (2021) 1080p CZ Titulky](https://prehraj.to/adopted-2021-1080p-cz-titulky-mp4/110850d7e057bc81) (ID 30104538) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.356972+00:00 |
 | [Ae Dil Hai Mushkil (2016) 720p CZ Titulky](https://prehraj.to/ae-dil-hai-mushkil-2016-720p-cz-titulky-mp4/7e78d8ac8d8afe19) (ID 29921424) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.353877+00:00 |
 | [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:19:08.601345+00:00 |
