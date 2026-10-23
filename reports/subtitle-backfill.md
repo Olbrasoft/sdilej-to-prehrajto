@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:34:06.431907+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:34:15.992160+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -233,7 +233,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Co tě drží naživu (2018) 1080p CZ Titulky](https://prehraj.to/co-te-drzi-nazivu-2018-1080p-cz-titulky-avi/8d39960c23efb3e0) (ID 29914193) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.721283+00:00 |
 | [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:41:05.813967+00:00 |
 | [Cold Meat (2023) 1080p CZ Titulky](https://prehraj.to/cold-meat-2023-1080p-cz-titulky-mp4/cd345aa685724de7) (ID 29912376) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.721074+00:00 |
-| [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:32:58.746809+00:00 |
+| [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:34:15.992021+00:00 |
 | [Conor McGregor: Notorious (2017) 1080p CZ Titulky](https://prehraj.to/conor-mcgregor-notorious-2017-1080p-cz-titulky-mkv/9ae07d66666bf58b) (ID 29427630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.717546+00:00 |
 | [Consecration (2023) 1080p CZ Titulky](https://prehraj.to/consecration-2023-1080p-cz-titulky-avi/897379aaaf50fbff) (ID 29938329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.723471+00:00 |
 | [Cool Daddy (2021) 1080p CZ Titulky](https://prehraj.to/cool-daddy-2021-1080p-cz-titulky-mp4/e3340bbffefc4188) (ID 29715960) | [Sdílej 34772995](https://sdilej.cz/34772995/cool-daddy-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:00:12.849024+00:00 |
