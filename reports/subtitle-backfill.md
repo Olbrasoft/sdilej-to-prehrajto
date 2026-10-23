@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:45:21.605216+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:45:31.617434+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -492,7 +492,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [GODZILLA (2017) SD CZ Titulky.avi](https://prehraj.to/godzilla-2017-sd-cz-titulky-avi/59059d956be70179) (ID 29615057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.718797+00:00 |
 | [Gabbar is Back (2015) SD CZ Titulky](https://prehraj.to/gabbar-is-back-2015-sd-cz-titulky-mp4/da9e9a6d116e2a60) (ID 29428714) | [Sdílej 34738082](https://sdilej.cz/34738082/gabbar-is-back-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:44:52.183946+00:00 |
 | [Game of Death (2017) 1080p CZ Titulky](https://prehraj.to/game-of-death-2017-1080p-cz-titulky-mp4/50129cc0f410afa9) (ID 29725257) | [Sdílej 34737424](https://sdilej.cz/34737424/game-of-death-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:56.954530+00:00 |
-| [Gamera kontra Gaos (1967) SD CZ Titulky](https://prehraj.to/gamera-kontra-gaos-1967-sd-cz-titulky-mp4/25f34685dc8d72f1) (ID 29665275) | [Sdílej 30088615](https://sdilej.cz/30088615/gamera-kontra-gaos-s...ujteto.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:43:43.557984+00:00 |
+| [Gamera kontra Gaos (1967) SD CZ Titulky](https://prehraj.to/gamera-kontra-gaos-1967-sd-cz-titulky-mp4/25f34685dc8d72f1) (ID 29665275) | [Sdílej 30088615](https://sdilej.cz/30088615/gamera-kontra-gaos-s...ujteto.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:45:31.617288+00:00 |
 | [Gamgi (2013) 1080p CZ Titulky](https://prehraj.to/gamgi-2013-1080p-cz-titulky-mp4/4686273d99a86a87) (ID 30183719) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.725919+00:00 |
 | [Gangnam Zombie (2023) SD CZ Titulky](https://prehraj.to/gangnam-zombie-2023-sd-cz-titulky-avi/42d60f585520ab0a) (ID 29723757) | [Sdílej 26409536](https://sdilej.cz/26409536/gangnam.zombie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:18.612051+00:00 |
 | [Geomgaek (2020) 1080p CZ Titulky](https://prehraj.to/geomgaek-2020-1080p-cz-titulky-mkv/3923dd4af370e51a) (ID 29468294) | [Sdílej 15095618](https://sdilej.cz/15095618/geomgaek.2020-the.swordsman.sktit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:51:30.752155+00:00 |
