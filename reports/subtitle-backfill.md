@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:41:01.616479+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:41:18.879039+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -972,7 +972,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Perfect Blue (1997) 4K CZ Titulky](https://prehraj.to/perfect-blue-1997-4k-cz-titulky-mkv/3daac9cd95a0456d) (ID 29219736) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.347922+00:00 |
 | [Perný den (1964) 1080p CZ Titulky](https://prehraj.to/perny-den-1964-1080p-cz-titulky-mkv/175850ab70b2d561) (ID 29882993) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.351622+00:00 |
 | [Perské lekce (2020) 1080p CZ Titulky](https://prehraj.to/perske-lekce-2020-1080p-cz-titulky-avi/0843aef1dbf1be0b) (ID 29845499) | [Sdílej 22268660](https://sdilej.cz/22268660/perske-lekce-2020-juraison-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:39:16.326871+00:00 |
-| [Persuasion (1995) SD CZ Titulky](https://prehraj.to/persuasion-1995-sd-cz-titulky-avi/468cca380fd236cc) (ID 29825211) | [Sdílej 29261980](https://sdilej.cz/29261980/persuasion-1995-en.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:38:14.509963+00:00 |
+| [Persuasion (1995) SD CZ Titulky](https://prehraj.to/persuasion-1995-sd-cz-titulky-avi/468cca380fd236cc) (ID 29825211) | [Sdílej 29261980](https://sdilej.cz/29261980/persuasion-1995-en.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:41:18.878904+00:00 |
 | [Pet Graveyard (2019) 1080p CZ Titulky](https://prehraj.to/pet-graveyard-2019-1080p-cz-titulky-mkv/9f49f03111633b78) (ID 29723521) | [Sdílej 11690579](https://sdilej.cz/11690579/pet-graveyard-2019-titulky.cz-1080p.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-23T16:10:32.780842+00:00 |
 | [Peter Tatchell: Láska a nenávist (2021) 1080p CZ Titulky](https://prehraj.to/peter-tatchell-laska-a-nenavist-2021-1080p-cz-titulky-mp4/eb751ad3a4245d76) (ID 29461088) | [Sdílej 34728984](https://sdilej.cz/34728984/peter-tatchell-laska-a-nenavist-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:50:07.268932+00:00 |
 | [Petr a vlk (2006) 1080p CZ Titulky](https://prehraj.to/petr-a-vlk-2006-1080p-cz-titulky-mp4/d1b3a4e499824982) (ID 30033532) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.356137+00:00 |
