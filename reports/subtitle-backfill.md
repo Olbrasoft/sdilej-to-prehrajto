@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:19:03.036722+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:19:12.237666+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 835, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 23, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 836, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 22, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -134,6 +134,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-17T03:36:02.134672+00:00 |
 | [Bethany (2017) SD CZ Titulky](https://prehraj.to/bethany-2017-sd-cz-titulky-avi/dc0f7c3661d7a4d5) (ID 29928082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.724643+00:00 |
 | [Betonová past (2019) 1080p CZ Titulky](https://prehraj.to/betonova-past-2019-1080p-cz-titulky-mkv/23c84cd876df10a3) (ID 29089422) | [Sdílej 13193514](https://sdilej.cz/13193514/trauma-center-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:37.956207+00:00 |
+| [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:19:12.237544+00:00 |
 | [Beware the Slenderman (2016) 1080p CZ Titulky](https://prehraj.to/beware-the-slenderman-2016-1080p-cz-titulky-mp4/67dcb00c4ef57b3f) (ID 29582153) | [Sdílej 34737859](https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:13:19.027666+00:00 |
 | [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:54:32.468302+00:00 |
 | [Bikini Drive-In (1995) SD CZ Titulky](https://prehraj.to/bikini-drive-in-1995-sd-cz-titulky-mkv/6a7c25c16d12d2cd) (ID 29637810) | [Sdílej 34828279](https://sdilej.cz/34828279/bikini-drive-in.1995.dvdrip.xvid-cg-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:48.012561+00:00 |
@@ -1586,7 +1587,6 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-10-23T10:32:29.402368+00:00 |
 | [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | source_media_timeout | 2026-10-23T16:03:44.705344+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-10-23T10:32:39.362060+00:00 |
-| [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | source_unavailable | 2026-10-23T15:07:53.726491+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-23T10:32:19.261412+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-23T16:00:42.980624+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-23T16:00:54.655182+00:00 |
