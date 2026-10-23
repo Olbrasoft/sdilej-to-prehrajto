@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:53:37.758878+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:53:48.276433+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -128,7 +128,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:13:04.849702+00:00 |
 | [Beast of War (2025) 1080p CZ Titulky](https://prehraj.to/beast-of-war-2025-1080p-cz-titulky-mkv/8cb50dbc9d5472b3) (ID 29912694) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.661851+00:00 |
 | [Becoming (2020) 1080p CZ Titulky](https://prehraj.to/becoming-2020-1080p-cz-titulky-mkv/37fc72f0e44640c7) (ID 29917921) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.662564+00:00 |
-| [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:51:21.535645+00:00 |
+| [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:53:48.276312+00:00 |
 | [Becoming Warren Buffett (2017) 1080p CZ Titulky](https://prehraj.to/becoming-warren-buffett-2017-1080p-cz-titulky-avi/11404215fbc3706a) (ID 30035020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.665410+00:00 |
 | [Before the Fire (2020) SD CZ Titulky](https://prehraj.to/before-the-fire-2020-sd-cz-titulky-avi/424c149d6f91b6f7) (ID 29731607) | [Sdílej 27602574](https://sdilej.cz/27602574/before.the.fire.2020.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:07:39.733467+00:00 |
 | [Ben Is Back (2018) 1080p CZ Titulky](https://prehraj.to/ben-is-back-2018-1080p-cz-titulky-mkv/18ba157b68fa8733) (ID 30131400) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.666483+00:00 |
