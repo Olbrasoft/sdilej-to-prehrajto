@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:49:25.787729+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:49:35.034329+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -101,7 +101,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Baahubali: The Beginning (2015) SD CZ Titulky](https://prehraj.to/baahubali-the-beginning-2015-sd-cz-titulky-mp4/49e5f3a13e73fc13) (ID 29215227) | [Sdílej 34697577](https://sdilej.cz/34697577/baahubali-the-beginning-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T18:45:07.089721+00:00 |
 | [Babadook (2014) 1080p CZ Titulky](https://prehraj.to/babadook-2014-1080p-cz-titulky-mkv/3d27c0c347053c48) (ID 29654576) | [Sdílej 24232095](https://sdilej.cz/24232095/the-babadook-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:39:56.457321+00:00 |
 | [Babygirl (2024) 1080p CZ Titulky](https://prehraj.to/babygirl-2024-1080p-cz-titulky-mp4/5941aa4bea043be3) (ID 29937986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.664161+00:00 |
-| [Babysitting (2014) 1080p CZ Titulky](https://prehraj.to/babysitting-2014-1080p-cz-titulky-mkv/d35ee7db6c0e9950) (ID 29458514) | [Sdílej 19177621](https://sdilej.cz/19177621/babysitting-1-2014-fra.dab.-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:46:59.260000+00:00 |
+| [Babysitting (2014) 1080p CZ Titulky](https://prehraj.to/babysitting-2014-1080p-cz-titulky-mkv/d35ee7db6c0e9950) (ID 29458514) | [Sdílej 19177621](https://sdilej.cz/19177621/babysitting-1-2014-fra.dab.-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:49:35.034160+00:00 |
 | [Backcountry (2015) SD CZ Titulky](https://prehraj.to/backcountry-2015-sd-cz-titulky-mp4/cc23d2f72757ccff) (ID 29646966) | [Sdílej 34738140](https://sdilej.cz/34738140/backcountry-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:33:51.000563+00:00 |
 | [Bad Hair (2020) SD CZ Titulky](https://prehraj.to/bad-hair-2020-sd-cz-titulky-mkv/7a3027a9bed47828) (ID 29652733) | [Sdílej 16446524](https://sdilej.cz/16446524/bad-hair-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:27.365328+00:00 |
 | [Bad Man (2025) 1080p CZ Titulky](https://prehraj.to/bad-man-2025-1080p-cz-titulky-mp4/0a3f65ed0547691d) (ID 29704195) | [Sdílej 32146338](https://sdilej.cz/32146338/bad-man-2025-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:52:07.842632+00:00 |
