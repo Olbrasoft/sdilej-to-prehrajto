@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:32:46.299758+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:33:02.292743+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -266,7 +266,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Dcera divočiny (2023) 1080p CZ Titulky](https://prehraj.to/dcera-divociny-2023-1080p-cz-titulky-mkv/81bfcd0064fe51ae) (ID 29911608) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.720881+00:00 |
 | [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:05:01.549421+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:29.141133+00:00 |
-| [Dead Shot (2023) SD CZ Titulky](https://prehraj.to/dead-shot-2023-sd-cz-titulky-avi/79bf1a45fea75f94) (ID 29639581) | [Sdílej 27128248](https://sdilej.cz/27128248/dead.shot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:31:51.580665+00:00 |
+| [Dead Shot (2023) SD CZ Titulky](https://prehraj.to/dead-shot-2023-sd-cz-titulky-avi/79bf1a45fea75f94) (ID 29639581) | [Sdílej 27128248](https://sdilej.cz/27128248/dead.shot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:33:02.292610+00:00 |
 | [Dead Trigger (2017) SD CZ Titulky](https://prehraj.to/dead-trigger-2017-sd-cz-titulky-mkv/1143014cba83d534) (ID 29935550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.723204+00:00 |
 | [DeadTectives (2018) 1080p CZ Titulky](https://prehraj.to/deadtectives-2018-1080p-cz-titulky-mkv/6e93fdf6db51c794) (ID 29983190) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.723953+00:00 |
 | [Deaf President Now! (2025) 1080p CZ Titulky](https://prehraj.to/deaf-president-now-2025-1080p-cz-titulky-mp4/62ab18e2520a51f3) (ID 29409939) | [Sdílej 31247368](https://sdilej.cz/31247368/deaf-president-now-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:41:55.180089+00:00 |
