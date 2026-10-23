@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:03:44.705501+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:03:55.052756+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1350,7 +1350,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [The Vatican Tapes (2015) SD CZ Titulky](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:41:12.803933+00:00 |
 | [The Veil (2016) SD CZ Titulky](https://prehraj.to/the-veil-2016-sd-cz-titulky-avi/b320b0d95b088a9f) (ID 29733905) | [Sdílej 18550814](https://sdilej.cz/18550814/the-veil-horor-2016-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:10:58.375918+00:00 |
 | [The Veil (2017) SD CZ Titulky](https://prehraj.to/the-veil-2017-sd-cz-titulky-mp4/b880355a99a9d9ab) (ID 29907336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.722574+00:00 |
-| [The Viking War (2019) 1080p CZ Titulky](https://prehraj.to/the-viking-war-2019-1080p-cz-titulky-mkv/a62369332dea0ea2) (ID 29713558) | [Sdílej 11268800](https://sdilej.cz/11268800/the.viking.war.2019.eng.1080p.amzn.web-dl.x264.eac3.6ch-cmrg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:59:20.734452+00:00 |
+| [The Viking War (2019) 1080p CZ Titulky](https://prehraj.to/the-viking-war-2019-1080p-cz-titulky-mkv/a62369332dea0ea2) (ID 29713558) | [Sdílej 11268800](https://sdilej.cz/11268800/the.viking.war.2019.eng.1080p.amzn.web-dl.x264.eac3.6ch-cmrg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:03:55.052648+00:00 |
 | [The Walking Deceased (2015) SD CZ Titulky](https://prehraj.to/the-walking-deceased-2015-sd-cz-titulky-mkv/834c07b33f9138c7) (ID 29909456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.722936+00:00 |
 | [The Wall: Climb for Gold (2022) 1080p CZ Titulky](https://prehraj.to/the-wall-climb-for-gold-2022-1080p-cz-titulky-mp4/1e4065788c84354b) (ID 29589919) | [Sdílej 34772168](https://sdilej.cz/34772168/the-wall-climb-for-gold-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:16:02.840584+00:00 |
 | [The Week Of (2018) 1080p CZ Titulky](https://prehraj.to/the-week-of-2018-1080p-cz-titulky-mp4/f144495061bb07b8) (ID 29753494) | [Sdílej 34735288](https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:34:03.396251+00:00 |
