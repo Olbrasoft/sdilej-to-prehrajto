@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:43:41.137626+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:44:04.773080+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -141,7 +141,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:12:02.081544+00:00 |
 | [Bitva kuchařů (2017) 720p CZ Titulky](https://prehraj.to/bitva-kucharu-2017-720p-cz-titulky-mp4/0e7cd421b93b6de5) (ID 29372608) | [Sdílej 34711958](https://sdilej.cz/34711958/bitva-kucharu-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:39:00.949841+00:00 |
 | [Bitva o Alžír (1966) SD CZ Titulky](https://prehraj.to/bitva-o-alzir-1966-sd-cz-titulky-mp4/e6fc8f9040d48a35) (ID 29290572) | [Sdílej 34700110](https://sdilej.cz/34700110/bitva-o-alzir-1966-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T02:42:48.640117+00:00 |
-| [Black '47 (2018) 720p CZ Titulky](https://prehraj.to/black-47-2018-720p-cz-titulky-avi/4da72eccce06e65f) (ID 29659387) | [Sdílej 28507849](https://sdilej.cz/28507849/black-47-hugo-weaving-james-frecheville-stephen-rea-2018-drama-bdrip.-1080p.-en-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:42:23.312327+00:00 |
+| [Black '47 (2018) 720p CZ Titulky](https://prehraj.to/black-47-2018-720p-cz-titulky-avi/4da72eccce06e65f) (ID 29659387) | [Sdílej 28507849](https://sdilej.cz/28507849/black-47-hugo-weaving-james-frecheville-stephen-rea-2018-drama-bdrip.-1080p.-en-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:44:04.772960+00:00 |
 | [Black Lotus (2023) 1080p CZ Titulky](https://prehraj.to/black-lotus-2023-1080p-cz-titulky-mkv/c9358b17d38f9585) (ID 29935298) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.723189+00:00 |
 | [Black Mirror: Bandersnatch (2018) 1080p CZ Titulky](https://prehraj.to/black-mirror-bandersnatch-2018-1080p-cz-titulky-mkv/f8a34902e3bdafbf) (ID 29178134) | [Sdílej 11114231](https://sdilej.cz/11114231/black-mirror-bandersnatch-2018-1080p-webrip-xpau.se-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:50.424830+00:00 |
 | [Blades of the Guardians (2026) 1080p CZ Titulky](https://prehraj.to/blades-of-the-guardians-2026-1080p-cz-titulky-mkv/9b17dfe4666b11bf) (ID 29688514) | [Sdílej 34473058](https://sdilej.cz/34473058/blades-of-the-guardians-2026-1080p-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:49:57.575915+00:00 |
