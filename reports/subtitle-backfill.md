@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:25:14.227923+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:25:23.634067+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -975,7 +975,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Petr a vlk (2006) 1080p CZ Titulky](https://prehraj.to/petr-a-vlk-2006-1080p-cz-titulky-mp4/d1b3a4e499824982) (ID 30033532) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.724634+00:00 |
 | [Phantasm IV: Oblivion (1998) 1080p CZ Titulky](https://prehraj.to/phantasm-iv-oblivion-1998-1080p-cz-titulky-mp4/5262582f0b422e54) (ID 29723303) | [Sdílej 34783709](https://sdilej.cz/34783709/phantasm-iv-oblivion-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:05:53.363844+00:00 |
 | [Phantom (2013) 4K CZ Titulky.mkv](https://prehraj.to/phantom-2013-4k-cz-titulky-mkv/17f3cd9d6cf104e1) (ID 29650273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.718969+00:00 |
-| [Phantom (2015) SD CZ Titulky](https://prehraj.to/phantom-2015-sd-cz-titulky-mp4/9097442586fc0a3b) (ID 29615023) | [Sdílej 34775805](https://sdilej.cz/34775805/phantom-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:24:37.582554+00:00 |
+| [Phantom (2015) SD CZ Titulky](https://prehraj.to/phantom-2015-sd-cz-titulky-mp4/9097442586fc0a3b) (ID 29615023) | [Sdílej 34775805](https://sdilej.cz/34775805/phantom-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:25:23.633948+00:00 |
 | [Phil (2019) 1080p CZ Titulky](https://prehraj.to/phil-2019-1080p-cz-titulky-mp4/bbe55f5635d61a35) (ID 29526645) | [Sdílej 34773646](https://sdilej.cz/34773646/phil-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:56:23.601041+00:00 |
 | [Pillion (2025) 1080p CZ Titulky](https://prehraj.to/pillion-2025-1080p-cz-titulky-mkv/a758d3177ab8b69a) (ID 30062530) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.725116+00:00 |
 | [Pinball: The Man Who Saved the Game (2022) 720p CZ Titulky](https://prehraj.to/pinball-the-man-who-saved-the-game-2022-720p-cz-titulky-mp4/5d6db7d566c724e4) (ID 29213682) | [Sdílej 26372484](https://sdilej.cz/26372484/pinball-the-man-who-saved-the-game-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T18:44:25.583997+00:00 |
