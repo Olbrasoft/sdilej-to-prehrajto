@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T08:41:35.346533+00:00
+Poslední aktualizace (UTC): 2026-10-23T08:41:50.533385+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_media_failed`: 5, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 19
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_media_failed`: 4, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 19
 
 ## Poslední dávka
 
@@ -722,6 +722,7 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Leprechaun Returns (2018) 1080p CZ Titulky](https://prehraj.to/leprechaun-returns-2018-1080p-cz-titulky-mkv/234c548e1492679f) (ID 29932416) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T08:39:11.781981+00:00 |
 | [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:36.379587+00:00 |
 | [Les Crevettes pailletées (2019) SD CZ Titulky](https://prehraj.to/les-crevettes-pailletees-2019-sd-cz-titulky-mp4/9b0ce3bed95c5b4b) (ID 29220527) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T08:39:11.778481+00:00 |
+| [Lesní jahody (1957) SD CZ Titulky](https://prehraj.to/lesni-jahody-1957-sd-cz-titulky-avi/4633f5b3104c8921) (ID 29282104) | [Sdílej 32215590](https://sdilej.cz/32215590/lesni-jahody-1957-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T08:41:50.533243+00:00 |
 | [Lesní rituál (2017) 1080p CZ Titulky.mkv](https://prehraj.to/lesni-ritual-2017-1080p-cz-titulky-mkv/ed0bc326a27ad5fa) (ID 29972175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T08:39:11.782250+00:00 |
 | [Letový režim (2020) 1080p CZ Titulky](https://prehraj.to/letovy-rezim-2020-1080p-cz-titulky-mp4/28294ab04560d3ca) (ID 29914287) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T08:39:11.781541+00:00 |
 | [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:10:18.760905+00:00 |
@@ -1597,7 +1598,6 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-23T06:52:13.878308+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-23T06:51:40.071187+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-23T06:51:28.524131+00:00 |
-| [Lesní jahody (1957) SD CZ Titulky](https://prehraj.to/lesni-jahody-1957-sd-cz-titulky-avi/4633f5b3104c8921) (ID 29282104) | [Sdílej 32215590](https://sdilej.cz/32215590/lesni-jahody-1957-cz-tit.avi) | source_media_failed | 2026-10-23T01:42:42.778127+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | target_unavailable | 2026-10-23T06:51:09.677926+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-23T03:40:33.045440+00:00 |
 | [My Sassy Girl (2001) SD CZ Titulky](https://prehraj.to/my-sassy-girl-2001-sd-cz-titulky-avi/f7af6ee4d43fe8d1) (ID 29209938) | [Sdílej 30978366](https://sdilej.cz/30978366/my-sassy-girl-yeopgijeogin-geunyeo-2001-jk.avi) | source_media_failed | 2026-10-23T03:41:33.598430+00:00 |
