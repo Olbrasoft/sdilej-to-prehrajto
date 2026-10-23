@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T12:47:25.019459+00:00
+Poslední aktualizace (UTC): 2026-10-23T12:47:39.307563+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -695,7 +695,7 @@ Kontrol: 35; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 6. Důvod
 | [Král Kobra (2016) SD CZ Titulky](https://prehraj.to/kral-kobra-2016-sd-cz-titulky-avi/624ec9fa66264b17) (ID 29714249) | [Sdílej 11544620](https://sdilej.cz/11544620/king-cobra-2016-cz-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:59:46.876091+00:00 |
 | [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:36:37.974289+00:00 |
 | [Královna banditů (1994) SD CZ Titulky](https://prehraj.to/kralovna-banditu-1994-sd-cz-titulky-mp4/d515b251f4b3718b) (ID 30016219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T12:45:24.205714+00:00 |
-| [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T12:45:11.981508+00:00 |
+| [Království zvěrstev (2010) SD CZ Titulky](https://prehraj.to/kralovstvi-zverstev-2010-sd-cz-titulky-avi/73a80ed35a88ca83) (ID 29394133) | [Sdílej 33324077](https://sdilej.cz/33324077/kralovstvi-zverstev-animal-kingdom-2010-krimi-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:47:39.307446+00:00 |
 | [Krásná katastrofa (2023) 1440p CZ Titulky](https://prehraj.to/krasna-katastrofa-2023-1440p-cz-titulky-mkv/53a6f72fb12276f8) (ID 29932996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T12:45:24.204216+00:00 |
 | [Kulky Spravedlnosti (2019) 1080p CZ Titulky](https://prehraj.to/kulky-spravedlnosti-2019-1080p-cz-titulky-mp4/929d935b71e6db53) (ID 29911357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T12:45:24.203277+00:00 |
 | [Kuwaresma (2019) 1080p CZ Titulky](https://prehraj.to/kuwaresma-2019-1080p-cz-titulky-mp4/ce64f8d0f9b55b2d) (ID 29850998) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T12:45:24.202785+00:00 |
