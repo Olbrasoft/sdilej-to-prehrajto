@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:45:30.479960+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:45:42.755884+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -775,7 +775,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Martyrs Lane (2021) SD CZ Titulky](https://prehraj.to/martyrs-lane-2021-sd-cz-titulky-avi/35ac025199364fdf) (ID 29632570) | [Sdílej 24430252](https://sdilej.cz/24430252/martyrs.lane.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:28:41.166403+00:00 |
 | [Masaryk (2016) SD CZ Titulky](https://prehraj.to/masaryk-2016-sd-cz-titulky-avi/df63a430e5e3839f) (ID 29717479) | [Sdílej 23085369](https://sdilej.cz/23085369/masaryk-2016-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:05:53.221949+00:00 |
 | [Masquerade (2021) 1080p CZ Titulky](https://prehraj.to/masquerade-2021-1080p-cz-titulky-avi/b0f50eb5832f2359) (ID 29916775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.353564+00:00 |
-| [Mass (2021) 1080p CZ Titulky](https://prehraj.to/mass-2021-1080p-cz-titulky-mp4/0ad233c411a240fa) (ID 29895547) | [Sdílej 19343713](https://sdilej.cz/19343713/mass.2021.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:42:13.231528+00:00 |
+| [Mass (2021) 1080p CZ Titulky](https://prehraj.to/mass-2021-1080p-cz-titulky-mp4/0ad233c411a240fa) (ID 29895547) | [Sdílej 19343713](https://sdilej.cz/19343713/mass.2021.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:45:42.755754+00:00 |
 | [Matthias a Maxime (2019) 1080p CZ Titulky](https://prehraj.to/matthias-a-maxime-2019-1080p-cz-titulky-mkv/2797d9d8ac8ecb6a) (ID 29687687) | [Sdílej 13605860](https://sdilej.cz/13605860/matthias.et.maxime.2019.pl.1080p.web-dl.x264-kit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:51:23.406984+00:00 |
 | [Max Schmeling (2010) SD CZ Titulky](https://prehraj.to/max-schmeling-2010-sd-cz-titulky-mp4/cb5a8d7377a04573) (ID 29639244) | [Sdílej 34750021](https://sdilej.cz/34750021/max-schmeling-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:32:17.543134+00:00 |
 | [Mayday (2021) 720p CZ Titulky](https://prehraj.to/mayday-2021-720p-cz-titulky-mp4/9ae805f3b900c58a) (ID 29938600) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.355168+00:00 |
