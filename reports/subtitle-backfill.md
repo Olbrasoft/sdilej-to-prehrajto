@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T09:36:15.384582+00:00
+Poslední aktualizace (UTC): 2026-10-23T09:36:25.136267+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -338,7 +338,7 @@ Kontrol: 48; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ek Villain (2014) 720p CZ Titulky](https://prehraj.to/ek-villain-2014-720p-cz-titulky-mp4/4b09ae3a08f98378) (ID 29230526) | [Sdílej 34738457](https://sdilej.cz/34738457/ek-villain-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T20:32:51.835958+00:00 |
 | [Eksiteu (2019) 1080p CZ Titulky](https://prehraj.to/eksiteu-2019-1080p-cz-titulky-mp4/8ea312b8ebc8d52a) (ID 30048029) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T09:35:17.551126+00:00 |
 | [El Gringo (2012) 720p CZ Titulky](https://prehraj.to/el-gringo-2012-720p-cz-titulky-mp4/607e6579f3e90132) (ID 29725165) | [Sdílej 34780122](https://sdilej.cz/34780122/el-gringo-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:47.922934+00:00 |
-| [El clan (2015) SD CZ Titulky](https://prehraj.to/el-clan-2015-sd-cz-titulky-mp4/8fa776cade235d46) (ID 29355449) | [Sdílej 34776027](https://sdilej.cz/34776027/el-clan-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T08:47:54.581170+00:00 |
+| [El clan (2015) SD CZ Titulky](https://prehraj.to/el-clan-2015-sd-cz-titulky-mp4/8fa776cade235d46) (ID 29355449) | [Sdílej 34776027](https://sdilej.cz/34776027/el-clan-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T09:36:25.136127+00:00 |
 | [El pacto (2018) SD CZ Titulky](https://prehraj.to/el-pacto-2018-sd-cz-titulky-avi/c99abde04e9a057c) (ID 29998055) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T09:35:17.550392+00:00 |
 | [Elektra Luxx (2011) SD CZ Titulky](https://prehraj.to/elektra-luxx-2011-sd-cz-titulky-avi/927856fdad31cbb1) (ID 29934863) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T09:35:17.549127+00:00 |
 | [Elephant (2020) 720p CZ Titulky](https://prehraj.to/elephant-2020-720p-cz-titulky-mp4/9c337ea2491fa134) (ID 29828611) | [Sdílej 34773343](https://sdilej.cz/34773343/elephant-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:38:41.984731+00:00 |
