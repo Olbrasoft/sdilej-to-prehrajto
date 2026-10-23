@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:18:42.091267+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:18:46.584612+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 837, `source_provenance_missing`: 588, `source_unavailable`: 23, `target_detail_url_missing`: 16, `target_unavailable`: 19
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 836, `source_provenance_missing`: 588, `source_unavailable`: 24, `target_detail_url_missing`: 16, `target_unavailable`: 19
 
 ## Poslední dávka
 
@@ -507,7 +507,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Dův
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.746835+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T07:39:33.862786+00:00 |
 | [Goon: Last of the Enforcers (2017) 1080p CZ Titulky](https://prehraj.to/goon-last-of-the-enforcers-2017-1080p-cz-titulky-avi/389f8500bdc202e2) (ID 29922980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.748804+00:00 |
-| [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:17:26.688086+00:00 |
 | [Greyhound: Bitva o Atlantik (2020) 1080p CZ Titulky](https://prehraj.to/greyhound-bitva-o-atlantik-2020-1080p-cz-titulky-mkv/69e7773b415a42b0) (ID 29427907) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.742954+00:00 |
 | [Greystone Park (2012) SD CZ Titulky](https://prehraj.to/greystone-park-2012-sd-cz-titulky-avi/8af9662f0b917b08) (ID 29904695) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.746050+00:00 |
 | [Grizzly II: Revenge (2020) 720p CZ Titulky](https://prehraj.to/grizzly-ii-revenge-2020-720p-cz-titulky-mp4/ba65d6361e5f8c3c) (ID 29910796) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.746878+00:00 |
@@ -1593,6 +1592,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Dův
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-23T12:43:43.461608+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-23T12:43:55.596954+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-23T12:43:23.720612+00:00 |
+| [Grande école (2004) SD CZ Titulky](https://prehraj.to/grande-ecole-2004-sd-cz-titulky-mkv/bf868ffd5f25ff4d) (ID 29608294) | [Sdílej 31089246](https://sdilej.cz/31089246/grande-ecole-2004-.mkv) | source_unavailable | 2026-10-23T15:18:46.584570+00:00 |
 | [Jen si tak trochu písknout (1981) SD CZ Titulky](https://prehraj.to/jen-si-tak-trochu-pisknout-1981-sd-cz-titulky-avi/9f2ef9b8f25b6343) (ID 29608037) | [Sdílej 27905927](https://sdilej.cz/27905927/jen-si-tak-trochu-pisknout-1981-.avi) | source_unavailable | 2026-10-23T15:18:33.157415+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-23T12:44:07.475741+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-23T12:43:31.626613+00:00 |
