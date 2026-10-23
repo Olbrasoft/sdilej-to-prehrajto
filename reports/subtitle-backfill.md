@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:11:26.380692+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:11:38.763832+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -322,7 +322,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Démon (2015) SD CZ Titulky](https://prehraj.to/demon-2015-sd-cz-titulky-avi/bd799696a307af42) (ID 29991498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725515+00:00 |
 | [Dítě džungle (2011) SD CZ Titulky](https://prehraj.to/dite-dzungle-2011-sd-cz-titulky-mp4/092db7b7d3b66961) (ID 29432566) | [Sdílej 34780351](https://sdilej.cz/34780351/dite-dzungle-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:46:08.439982+00:00 |
 | [Dívka s jehlicí (2024) 1080p CZ Titulky](https://prehraj.to/divka-s-jehlici-2024-1080p-cz-titulky-avi/5459fb1724e16197) (ID 29887887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.722219+00:00 |
-| [Dívčí válka (2004) SD CZ Titulky](https://prehraj.to/divci-valka-2004-sd-cz-titulky-mkv/9cd76f456d2e88f5) (ID 29731402) | [Sdílej 35069958](https://sdilej.cz/35069958/gladiatress-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:07:08.298598+00:00 |
+| [Dívčí válka (2004) SD CZ Titulky](https://prehraj.to/divci-valka-2004-sd-cz-titulky-mkv/9cd76f456d2e88f5) (ID 29731402) | [Sdílej 35069958](https://sdilej.cz/35069958/gladiatress-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:11:38.763716+00:00 |
 | [Děsivé dědictví (2018) 1080p CZ Titulky](https://prehraj.to/desive-dedictvi-2018-1080p-cz-titulky-mkv/1acbfc40673b536b) (ID 30003284) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725609+00:00 |
 | [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:27:02.452651+00:00 |
 | [Dům běsů (2023) 1080p CZ Titulky](https://prehraj.to/dum-besu-2023-1080p-cz-titulky-mp4/efbbe4005a9be74f) (ID 30160550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.726217+00:00 |
