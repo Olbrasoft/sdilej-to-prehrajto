@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:54:27.664026+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:54:38.488175+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -876,7 +876,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Než se setmí (2000) 720p CZ Titulky](https://prehraj.to/nez-se-setmi-2000-720p-cz-titulky-avi/fdc7d1f6d18c3e99) (ID 30039061) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:47:06.745120+00:00 |
 | [Než skončí léto (2020) 1080p CZ Titulky](https://prehraj.to/nez-skonci-leto-2020-1080p-cz-titulky-mp4/4f3067c6f335e230) (ID 30036237) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:47:06.745096+00:00 |
 | [Nightlight (2015) SD CZ Titulky](https://prehraj.to/nightlight-2015-sd-cz-titulky-avi/e7487c784ff10942) (ID 29732596) | [Sdílej 16621779](https://sdilej.cz/16621779/nightlight-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:09:47.246890+00:00 |
-| [Nightmare Cinema (2018) 1080p CZ Titulky](https://prehraj.to/nightmare-cinema-2018-1080p-cz-titulky-mkv/f75889b9b48eae26) (ID 29706566) | [Sdílej 30696122](https://sdilej.cz/30696122/nightmare-cinema-2018-1080p-bluray-x264-sk-sub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:53:05.583499+00:00 |
+| [Nightmare Cinema (2018) 1080p CZ Titulky](https://prehraj.to/nightmare-cinema-2018-1080p-cz-titulky-mkv/f75889b9b48eae26) (ID 29706566) | [Sdílej 30696122](https://sdilej.cz/30696122/nightmare-cinema-2018-1080p-bluray-x264-sk-sub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:54:38.488051+00:00 |
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:52.201829+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:47:06.742944+00:00 |
 | [Nikdy nepláču (2020) 1080p CZ Titulky](https://prehraj.to/nikdy-neplacu-2020-1080p-cz-titulky-mkv/b304f3e4838aa6ae) (ID 29256661) | [Sdílej 21247329](https://sdilej.cz/21247329/nikdy-neplacu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:20.875609+00:00 |
