@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:39:11.578257+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:39:22.316335+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1532,7 +1532,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:05:28.292793+00:00 |
 | [Znamení voodoo (2020) 1080p CZ Titulky](https://prehraj.to/znameni-voodoo-2020-1080p-cz-titulky-avi/4f390f64c2c7f833) (ID 29936659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.664021+00:00 |
 | [Znovu zrozen (2016) 1080p CZ Titulky](https://prehraj.to/znovu-zrozen-2016-1080p-cz-titulky-mkv/7f2b941812745f52) (ID 29566591) | [Sdílej 32832255](https://sdilej.cz/32832255/re.born-2016-1080p-bluray-x265-10bit-eac3-5.1-japanese-sampa-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:04:47.652501+00:00 |
-| [Zola (2020) 720p CZ Titulky](https://prehraj.to/zola-2020-720p-cz-titulky-mp4/fe2f51475df96405) (ID 29400325) | [Sdílej 34773120](https://sdilej.cz/34773120/zola-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:36:19.309006+00:00 |
+| [Zola (2020) 720p CZ Titulky](https://prehraj.to/zola-2020-720p-cz-titulky-mp4/fe2f51475df96405) (ID 29400325) | [Sdílej 34773120](https://sdilej.cz/34773120/zola-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:39:22.316181+00:00 |
 | [Zombeavers (2014) 1080p CZ Titulky](https://prehraj.to/zombeavers-2014-1080p-cz-titulky-mp4/43fafd36e9c5ae44) (ID 29907381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.661010+00:00 |
 | [Zombi 2 (1979) SD CZ Titulky](https://prehraj.to/zombi-2-1979-sd-cz-titulky-mkv/2e7d4ae6be28c721) (ID 30069703) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.665950+00:00 |
 | [Zombi 3 (1988) 720p CZ Titulky](https://prehraj.to/zombi-3-1988-720p-cz-titulky-mkv/1444b50ee3044878) (ID 29933340) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.663712+00:00 |
