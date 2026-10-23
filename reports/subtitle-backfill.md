@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T04:37:33.172045+00:00
+Poslední aktualizace (UTC): 2026-10-23T04:37:48.139787+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -69,7 +69,7 @@ Kontrol: 30; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Andělino vánoční přání (2020) 1080p CZ Titulky](https://prehraj.to/andelino-vanocni-prani-2020-1080p-cz-titulky-mp4/2e78ffcbdaeec45f) (ID 29629272) | [Sdílej 34733439](https://sdilej.cz/34733439/andelino-vanocni-prani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:25:24.624295+00:00 |
 | [Angie: Lost Girls (2020) 1080p CZ Titulky](https://prehraj.to/angie-lost-girls-2020-1080p-cz-titulky-mp4/ac8650b2819ddd1c) (ID 29389569) | [Sdílej 34773466](https://sdilej.cz/34773466/angie-lost-girls-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T12:43:48.446198+00:00 |
 | [Annette (2021) 1080p CZ Titulky](https://prehraj.to/annette-2021-1080p-cz-titulky-mp4/8f5e9a5d77385877) (ID 29977154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T04:36:31.422747+00:00 |
-| [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T04:36:37.995128+00:00 |
+| [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T04:37:48.139660+00:00 |
 | [Antidote (2018) 1080p CZ Titulky](https://prehraj.to/antidote-2018-1080p-cz-titulky-mp4/454cf6f45d4b0ccd) (ID 29608713) | [Sdílej 34774428](https://sdilej.cz/34774428/antidote-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:18:11.627098+00:00 |
 | [Antifascisterna (2017) 720p CZ Titulky](https://prehraj.to/antifascisterna-2017-720p-cz-titulky-mp4/17d81d0240e36f98) (ID 29630910) | [Sdílej 34737533](https://sdilej.cz/34737533/antifascisterna-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:26:21.962759+00:00 |
 | [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:59:07.586671+00:00 |
