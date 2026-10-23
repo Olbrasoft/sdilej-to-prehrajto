@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:45:46.417051+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:46:00.528956+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -210,7 +210,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Chasing Coral (2017) SD CZ Titulky](https://prehraj.to/chasing-coral-2017-sd-cz-titulky-mp4/d49affc0a7ed1301) (ID 29510434) | [Sdílej 34770336](https://sdilej.cz/34770336/chasing-coral-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:55:39.166785+00:00 |
 | [Chasing the Dragon (2017) SD CZ Titulky](https://prehraj.to/chasing-the-dragon-2017-sd-cz-titulky-mp4/328e929fee5a2ddd) (ID 30100738) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.725476+00:00 |
 | [Chhapaak (2020) 1080p CZ Titulky](https://prehraj.to/chhapaak-2020-1080p-cz-titulky-mp4/d77c0fd308087167) (ID 29913995) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.721267+00:00 |
-| [Child Eater (2016) SD CZ Titulky](https://prehraj.to/child-eater-2016-sd-cz-titulky-avi/0f60ac44d2be3784) (ID 29666095) | [Sdílej 11004288](https://sdilej.cz/11004288/child-eater-2016-cz-titulky-bluray.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:44:14.526136+00:00 |
+| [Child Eater (2016) SD CZ Titulky](https://prehraj.to/child-eater-2016-sd-cz-titulky-avi/0f60ac44d2be3784) (ID 29666095) | [Sdílej 11004288](https://sdilej.cz/11004288/child-eater-2016-cz-titulky-bluray.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:46:00.528808+00:00 |
 | [Chimera Strain (2018) 1080p CZ Titulky.mkv](https://prehraj.to/chimera-strain-2018-1080p-cz-titulky-mkv/548ab677f3aca8f2) (ID 29927662) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.722598+00:00 |
 | [Chiméra (2023) 1080p CZ Titulky](https://prehraj.to/chimera-2023-1080p-cz-titulky-mp4/6f0f5a90948d8851) (ID 29505036) | [Sdílej 34713787](https://sdilej.cz/34713787/chimera-2023-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:54:21.724681+00:00 |
 | [Chlapci ze sousedství (1991) 4K CZ Titulky](https://prehraj.to/chlapci-ze-sousedstvi-1991-4k-cz-titulky-mkv/294b7d2ae8062ccb) (ID 29317507) | [Sdílej 23258862](https://sdilej.cz/23258862/boyz-n-the-hood-1991-2160p-uhd-bluray-x265-iamable.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:14.793856+00:00 |
