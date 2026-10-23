@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T05:32:41.177831+00:00
+Poslední aktualizace (UTC): 2026-10-23T05:32:51.115148+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -549,7 +549,7 @@ Kontrol: 47; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Helloween (2025) 1080p CZ Titulky](https://prehraj.to/helloween-2025-1080p-cz-titulky-avi/289eb6e92cf9dd41) (ID 29734063) | [Sdílej 32212844](https://sdilej.cz/32212844/helloween-2025-cz-titulky-vlozeny-ac-3-5.1-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:11:25.227409+00:00 |
 | [High Life (2018) 1080p CZ Titulky](https://prehraj.to/high-life-2018-1080p-cz-titulky-avi/b8440a8e2b775300) (ID 29916939) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T05:32:20.105213+00:00 |
 | [Higher Power (2018) 1080p CZ Titulky.mkv](https://prehraj.to/higher-power-2018-1080p-cz-titulky-mkv/89151ca96103d63f) (ID 29932986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T05:32:20.106536+00:00 |
-| [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T05:32:11.078266+00:00 |
+| [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T05:32:51.115016+00:00 |
 | [History of the World: Part I (1981) 720p CZ Titulky](https://prehraj.to/history-of-the-world-part-i-1981-720p-cz-titulky-mkv/37d95f7bcbd876da) (ID 29315006) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T05:32:20.099660+00:00 |
 | [Hmyzáci (2015) 1080p CZ Titulky](https://prehraj.to/hmyzaci-2015-1080p-cz-titulky-mp4/5bc1410dd6086fc0) (ID 29930175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T05:32:20.106334+00:00 |
 | [Hnus (1965) SD CZ Titulky](https://prehraj.to/hnus-1965-sd-cz-titulky-avi/1b79fb43a9a63661) (ID 29883617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T05:32:20.103238+00:00 |
