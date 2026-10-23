@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:39:56.733152+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:40:07.773005+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -180,7 +180,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T22:37:25.125516+00:00 |
 | [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T22:33:20.750924+00:00 |
 | [Bráška (2019) 1080p CZ Titulky](https://prehraj.to/braska-2019-1080p-cz-titulky-mkv/984563bed19f01cc) (ID 29721471) | [Sdílej 12666589](https://sdilej.cz/12666589/mon-frere-brother.2019.french.1080p.webrip.x264-sp0utn1k-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:22.026712+00:00 |
-| [Bulvár (2014) 1080p CZ Titulky](https://prehraj.to/bulvar-2014-1080p-cz-titulky-mkv/ca8643b86aa8b7cf) (ID 29652778) | [Sdílej 34871761](https://sdilej.cz/34871761/bulvar-drama-usa-robin-williams-2014-cztit.1080p.bluray.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-16T15:38:35.221002+00:00 |
+| [Bulvár (2014) 1080p CZ Titulky](https://prehraj.to/bulvar-2014-1080p-cz-titulky-mkv/ca8643b86aa8b7cf) (ID 29652778) | [Sdílej 34871761](https://sdilej.cz/34871761/bulvar-drama-usa-robin-williams-2014-cztit.1080p.bluray.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-23T15:40:07.772872+00:00 |
 | [Buranský masakr (2011) 1080p CZ Titulky.mp4](https://prehraj.to/buransky-masakr-2011-1080p-cz-titulky-mp4/c4b74d422275b483) (ID 29938675) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.723508+00:00 |
 | [Buzíci (1974) 720p CZ Titulky](https://prehraj.to/buzici-1974-720p-cz-titulky-mkv/d201314d3c8b9a52) (ID 29444563) | [Sdílej 24869171](https://sdilej.cz/24869171/buzici-les-valseuses-1974-komedie-fr.-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:48:08.690561+00:00 |
 | [Byl jsem lynčován (1936) SD CZ Titulky](https://prehraj.to/byl-jsem-lyncovan-1936-sd-cz-titulky-avi/98fd95b8bc1ca5b9) (ID 29396870) | [Sdílej 32305152](https://sdilej.cz/32305152/byl-jsem-lyncovan-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:36:40.677457+00:00 |
