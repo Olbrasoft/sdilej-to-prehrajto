@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:48:42.201851+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:49:04.796602+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 17, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -540,6 +540,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Hatchet (2006) SD CZ Titulky](https://prehraj.to/hatchet-2006-sd-cz-titulky-mp4/ed511f0ec0d40fe3) (ID 29916659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.353551+00:00 |
 | [Haunt (2013) SD CZ Titulky](https://prehraj.to/haunt-2013-sd-cz-titulky-avi/2ebf6f74d95b09a8) (ID 29933256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.354713+00:00 |
 | [Havenhurst (2016) SD CZ Titulky](https://prehraj.to/havenhurst-2016-sd-cz-titulky-avi/f6d827dc77a0deb0) (ID 29733359) | [Sdílej 35027491](https://sdilej.cz/35027491/havenhurst-horor-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:15:11.072988+00:00 |
+| [Hayride 2 (2015) SD CZ Titulky](https://prehraj.to/hayride-2-2015-sd-cz-titulky-avi/de9b2b5b93a63784) (ID 29707155) | [Sdílej 18964980](https://sdilej.cz/18964980/hayride-2-akcni-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:49:04.796480+00:00 |
 | [He's Out There (2018) 1080p CZ Titulky](https://prehraj.to/he-s-out-there-2018-1080p-cz-titulky-avi/d64dfe30a3b0c704) (ID 29732481) | [Sdílej 11707849](https://sdilej.cz/11707849/he-s-out-there-scarecrow-2018-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:13:43.365892+00:00 |
 | [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:49:35.304487+00:00 |
 | [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:36:29.441528+00:00 |
@@ -1596,7 +1597,6 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-10-23T16:00:42.980624+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-10-23T16:00:54.655182+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-23T16:00:23.604779+00:00 |
-| [Hayride 2 (2015) SD CZ Titulky](https://prehraj.to/hayride-2-2015-sd-cz-titulky-avi/de9b2b5b93a63784) (ID 29707155) | [Sdílej 18964980](https://sdilej.cz/18964980/hayride-2-akcni-horor-2015-cz.titulky.avi) | source_unavailable | 2026-10-23T15:55:33.590260+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-23T16:01:06.240184+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-23T16:00:31.355993+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-23T16:00:19.561902+00:00 |
