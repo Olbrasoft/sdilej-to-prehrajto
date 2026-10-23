@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:31:34.016604+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:31:58.448478+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1383,7 +1383,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [True: Zimní přání (2019) 1080p CZ Titulky](https://prehraj.to/true-zimni-prani-2019-1080p-cz-titulky-mp4/846581e6f4658021) (ID 29587566) | [Sdílej 34733680](https://sdilej.cz/34733680/true-zimni-prani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:15:07.857120+00:00 |
 | [Truth or Dare (2012) SD CZ Titulky](https://prehraj.to/truth-or-dare-2012-sd-cz-titulky-avi/c702cdbdf3fcc441) (ID 29720100) | [Sdílej 34453140](https://sdilej.cz/34453140/truth-or-dare.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:03:38.290345+00:00 |
 | [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:19:51.001342+00:00 |
-| [Tušení (2020) SD CZ Titulky](https://prehraj.to/tuseni-2020-sd-cz-titulky-avi/3134ed9adf8ea04a) (ID 29638596) | [Sdílej 13829355](https://sdilej.cz/13829355/tuseni-2020-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:30:52.131740+00:00 |
+| [Tušení (2020) SD CZ Titulky](https://prehraj.to/tuseni-2020-sd-cz-titulky-avi/3134ed9adf8ea04a) (ID 29638596) | [Sdílej 13829355](https://sdilej.cz/13829355/tuseni-2020-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:31:58.448310+00:00 |
 | [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:39:16.985015+00:00 |
 | [Tygr lidožrout (2007) SD CZ Titulky](https://prehraj.to/tygr-lidozrout-2007-sd-cz-titulky-avi/3744b085a3f3ed2e) (ID 29664192) | [Sdílej 23245687](https://sdilej.cz/23245687/maneater.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:43:32.151665+00:00 |
 | [Tygři (2024) 1080p CZ Titulky](https://prehraj.to/tygri-2024-1080p-cz-titulky-mp4/674e5585d67ab62e) (ID 29415991) | [Sdílej 34724647](https://sdilej.cz/34724647/tygri-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:44:05.177478+00:00 |
