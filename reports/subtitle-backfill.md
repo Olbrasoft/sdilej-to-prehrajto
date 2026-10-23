@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:12:51.518746+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:13:00.143159+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -38,7 +38,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Dův
 | [A Man Named Scott (2021) 1080p CZ Titulky](https://prehraj.to/a-man-named-scott-2021-1080p-cz-titulky-mp4/a0f50a689caa72ee) (ID 29298987) | [Sdílej 34731688](https://sdilej.cz/34731688/a-man-named-scott-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T04:37:00.110988+00:00 |
 | [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:41:21.271604+00:00 |
 | [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T08:41:21.597970+00:00 |
-| [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:11:26.606906+00:00 |
+| [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:13:00.143025+00:00 |
 | [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:51:27.254520+00:00 |
 | [A.X.L. (2018) SD CZ Titulky](https://prehraj.to/a-x-l-2018-sd-cz-titulky-avi/8f1bc00b0cae419f) (ID 29931436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.749779+00:00 |
 | [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T05:33:09.466847+00:00 |
