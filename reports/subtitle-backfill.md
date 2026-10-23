@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:18:01.291021+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:18:20.574745+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1524,7 +1524,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Zombeavers (2014) 1080p CZ Titulky](https://prehraj.to/zombeavers-2014-1080p-cz-titulky-mp4/43fafd36e9c5ae44) (ID 29907381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.722606+00:00 |
 | [Zombi 2 (1979) SD CZ Titulky](https://prehraj.to/zombi-2-1979-sd-cz-titulky-mkv/2e7d4ae6be28c721) (ID 30069703) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725912+00:00 |
 | [Zombi 3 (1988) 720p CZ Titulky](https://prehraj.to/zombi-3-1988-720p-cz-titulky-mkv/1444b50ee3044878) (ID 29933340) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.724968+00:00 |
-| [Zombie Hunter (2013) SD CZ Titulky](https://prehraj.to/zombie-hunter-2013-sd-cz-titulky-avi/1d4bf98178006eee) (ID 29736101) | [Sdílej 30456953](https://sdilej.cz/30456953/zombie-hunter.2013.brrip.-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:13:51.085017+00:00 |
+| [Zombie Hunter (2013) SD CZ Titulky](https://prehraj.to/zombie-hunter-2013-sd-cz-titulky-avi/1d4bf98178006eee) (ID 29736101) | [Sdílej 30456953](https://sdilej.cz/30456953/zombie-hunter.2013.brrip.-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:18:20.574629+00:00 |
 | [Zombies (2016) 1080p CZ Titulky](https://prehraj.to/zombies-2016-1080p-cz-titulky-mkv/8aa4398537b03492) (ID 29971372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.725332+00:00 |
 | [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:04:31.797489+00:00 |
 | [Zpátky na frontě 2 (2010) SD CZ Titulky](https://prehraj.to/zpatky-na-fronte-2-2010-sd-cz-titulky-mp4/961f8e4bbb45bdcb) (ID 29639527) | [Sdílej 34709953](https://sdilej.cz/34709953/zpatky-na-fronte-2-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:32:46.299644+00:00 |
