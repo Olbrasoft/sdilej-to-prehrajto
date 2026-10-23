@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:02:10.302467+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:03:44.705501+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 834, `source_provenance_missing`: 588, `source_unavailable`: 25, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 833, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 25, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T04:37:48.139660+00:00 |
 | [Antidote (2018) 1080p CZ Titulky](https://prehraj.to/antidote-2018-1080p-cz-titulky-mp4/454cf6f45d4b0ccd) (ID 29608713) | [Sdílej 34774428](https://sdilej.cz/34774428/antidote-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:19:26.419319+00:00 |
 | [Antifascisterna (2017) 720p CZ Titulky](https://prehraj.to/antifascisterna-2017-720p-cz-titulky-mp4/17d81d0240e36f98) (ID 29630910) | [Sdílej 34737533](https://sdilej.cz/34737533/antifascisterna-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:27:11.751394+00:00 |
-| [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:59:07.586671+00:00 |
 | [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:32:08.270416+00:00 |
 | [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:08:14.375443+00:00 |
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.723948+00:00 |
@@ -1583,6 +1582,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-10-23T10:31:54.355280+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-10-23T10:32:09.199761+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-10-23T10:32:29.402368+00:00 |
+| [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | source_media_timeout | 2026-10-23T16:03:44.705344+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-10-23T10:32:39.362060+00:00 |
 | [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | source_unavailable | 2026-10-23T15:07:53.726491+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-10-23T10:32:19.261412+00:00 |
