@@ -351870,6 +351870,14 @@
           "permanent": false,
           "target_video_id": "29938820",
           "attempted_at": "2026-10-03T08:25:35.108768+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "35059199",
+          "target_video_id": "29938820",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-23T22:50:57.758337+00:00"
         }
       ],
       "last_plan": {
@@ -351877,7 +351885,13 @@
         "display_name": "Narušitel (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-23T22:49:59.388106+00:00"
       },
-      "previous_target_id": "29938820"
+      "previous_target_id": "29938820",
+      "claim": {
+        "worker_id": "2cb2c2f6a06148b3b021ab67c073bcdf-shard-0",
+        "claimed_at": "2026-10-23T22:50:56.659839+00:00",
+        "lease_expires_at": "2026-10-24T04:50:56.659839+00:00",
+        "run_id": "40033567347"
+      }
     },
     "32899": {
       "attempts": []
@@ -352631,16 +352645,10 @@
           "attempted_at": "2026-10-03T08:28:20.083605+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "17484215",
-        "display_name": "Renegáti (2017) 1080p CZ Dabing",
-        "planned_at": "2026-10-23T22:49:59.762125+00:00"
-      },
       "previous_target_id": "29938923",
-      "prepared": {
+      "upload": {
         "target_video_id": "29938923",
-        "size_bytes": 2740521264,
-        "prepared_at": "2026-10-03T08:20:58.104444+00:00"
+        "uploaded_at": "2026-10-23T22:50:59.838729+00:00"
       }
     },
     "28825": {
@@ -407435,5 +407443,5 @@
       }
     }
   },
-  "updated_at": "2026-10-23T22:50:53.858723+00:00"
+  "updated_at": "2026-10-23T22:50:59.838745+00:00"
 }
