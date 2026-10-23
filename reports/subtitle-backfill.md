@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:25:09.673786+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:25:14.227923+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 836, `source_provenance_missing`: 588, `source_unavailable`: 24, `target_detail_url_missing`: 16, `target_unavailable`: 19
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 835, `source_provenance_missing`: 588, `source_unavailable`: 24, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -880,7 +880,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:52.201829+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.720118+00:00 |
 | [Nikdy nepláču (2020) 1080p CZ Titulky](https://prehraj.to/nikdy-neplacu-2020-1080p-cz-titulky-mkv/b304f3e4838aa6ae) (ID 29256661) | [Sdílej 21247329](https://sdilej.cz/21247329/nikdy-neplacu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:20.875609+00:00 |
-| [Nikdy neříkej sbohem (2006) SD CZ Titulky](https://prehraj.to/nikdy-nerikej-sbohem-2006-sd-cz-titulky-mp4/958214e0a5713b0d) (ID 29614101) | [Sdílej 34751294](https://sdilej.cz/34751294/nikdy-nerikej-sbohem-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:24:28.325948+00:00 |
 | [No Beast So Fierce (2016) 720p CZ Titulky](https://prehraj.to/no-beast-so-fierce-2016-720p-cz-titulky-mp4/1854930a19d1ae3f) (ID 29282010) | [Sdílej 34737709](https://sdilej.cz/34737709/no-beast-so-fierce-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:42:36.558264+00:00 |
 | [No Safe Spaces (2019) 1080p CZ Titulky](https://prehraj.to/no-safe-spaces-2019-1080p-cz-titulky-mp4/c796a048dd88b09a) (ID 29629794) | [Sdílej 34902754](https://sdilej.cz/34902754/no-safe-spaces-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:25:46.914368+00:00 |
 | [No Way Out (2022) SD CZ Titulky](https://prehraj.to/no-way-out-2022-sd-cz-titulky-avi/67803e090f82c453) (ID 29612619) | [Sdílej 27646570](https://sdilej.cz/27646570/no.way.out.2022.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:23:39.539268+00:00 |
@@ -1602,6 +1601,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-10-23T10:32:04.284644+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-10-23T10:31:38.809214+00:00 |
 | [Neviditelný muž (1933) SD CZ Titulky](https://prehraj.to/neviditelny-muz-1933-sd-cz-titulky-avi/786d49fd1f4caca0) (ID 29558943) | [Sdílej 20332628](https://sdilej.cz/20332628/neviditelny-muz-the-invisible-man-1933-.cz..avi) | source_unavailable | 2026-10-23T10:32:34.299589+00:00 |
+| [Nikdy neříkej sbohem (2006) SD CZ Titulky](https://prehraj.to/nikdy-nerikej-sbohem-2006-sd-cz-titulky-mp4/958214e0a5713b0d) (ID 29614101) | [Sdílej 34751294](https://sdilej.cz/34751294/nikdy-nerikej-sbohem-2006-cz-titulky.mp4) | target_unavailable | 2026-10-23T15:25:14.227877+00:00 |
 | [Noc v New Yorku (2014) 1080p CZ Titulky](https://prehraj.to/noc-v-new-yorku-2014-1080p-cz-titulky-mp4/969ed265e9f762da) (ID 29637479) | [Sdílej 33219207](https://sdilej.cz/33219207/before-we-go-2014-eng1080p-.mp4) | target_unavailable | 2026-10-23T12:43:47.438123+00:00 |
 | [Organ Trail (2023) SD CZ Titulky](https://prehraj.to/organ-trail-2023-sd-cz-titulky-avi/fce736dd590b7d22) (ID 29653440) | [Sdílej 27404612](https://sdilej.cz/27404612/organ.trail.2023.pl.480p.web-dl.xvid.dd5.1-k83.avi) | target_unavailable | 2026-10-23T12:44:11.505400+00:00 |
 | [Osvícení (1980) 1080p CZ Titulky](https://prehraj.to/osviceni-1980-1080p-cz-titulky-mkv/243d05562981a3e8) (ID 28924994) | [Sdílej 31182551](https://sdilej.cz/31182551/osviceni-the-shining-1980-.mkv) | target_unavailable | 2026-10-23T12:43:15.705280+00:00 |
