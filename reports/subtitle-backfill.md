@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:34:51.732747+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:35:01.103609+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1103,7 +1103,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:52:36.698941+00:00 |
 | [Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky](https://prehraj.to/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-sd-cz-titulky-mp4/aed7498ebad752ae) (ID 29846766) | [Sdílej 34756127](https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:39:25.243874+00:00 |
 | [Sauna (2008) SD CZ Titulky](https://prehraj.to/sauna-2008-sd-cz-titulky-mp4/51917e3b9d5cd615) (ID 29273025) | [Sdílej 34751153](https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:04:20.826783+00:00 |
-| [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:33:41.285705+00:00 |
+| [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:35:01.103472+00:00 |
 | [Sbohem, synu (2019) 1080p CZ Titulky](https://prehraj.to/sbohem-synu-2019-1080p-cz-titulky-mp4/fa644cbcbcd46510) (ID 29887468) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.719870+00:00 |
 | [Scaramouche (1952) 1080p CZ Titulky](https://prehraj.to/scaramouche-1952-1080p-cz-titulky-mkv/4204b49ede8f2f63) (ID 29845680) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.719612+00:00 |
 | [Scare Campaign (2016) 720p CZ Titulky](https://prehraj.to/scare-campaign-2016-720p-cz-titulky-mkv/a7b69d5133d273bc) (ID 29609224) | [Sdílej 34470083](https://sdilej.cz/34470083/scare-campaign.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:19:34.480628+00:00 |
