@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:51:13.210940+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:51:29.881029+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -1003,6 +1003,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Polycarp (2015) SD CZ Titulky](https://prehraj.to/polycarp-2015-sd-cz-titulky-mkv/23c49061d09c85c0) (ID 30144568) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.357298+00:00 |
 | [Polytechnika (2009) 720p CZ Titulky](https://prehraj.to/polytechnika-2009-720p-cz-titulky-mkv/eb6184b509171e26) (ID 30036118) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.356191+00:00 |
 | [Pomsta upírek (2022) 720p CZ Titulky](https://prehraj.to/pomsta-upirek-2022-720p-cz-titulky-avi/fcc4c2f18567a092) (ID 29732167) | [Sdílej 23601371](https://sdilej.cz/23601371/v-for-vengeance-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:13:02.274199+00:00 |
+| [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:51:29.880901+00:00 |
 | [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:51:09.749589+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:40.376059+00:00 |
 | [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:41:10.402207+00:00 |
@@ -1609,7 +1610,6 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Organ Trail (2023) SD CZ Titulky](https://prehraj.to/organ-trail-2023-sd-cz-titulky-avi/fce736dd590b7d22) (ID 29653440) | [Sdílej 27404612](https://sdilej.cz/27404612/organ.trail.2023.pl.480p.web-dl.xvid.dd5.1-k83.avi) | target_unavailable | 2026-10-23T17:51:13.210894+00:00 |
 | [Osvícení (1980) 1080p CZ Titulky](https://prehraj.to/osviceni-1980-1080p-cz-titulky-mkv/243d05562981a3e8) (ID 28924994) | [Sdílej 31182551](https://sdilej.cz/31182551/osviceni-the-shining-1980-.mkv) | target_unavailable | 2026-10-23T17:50:18.320783+00:00 |
 | [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | target_unavailable | 2026-10-23T17:50:38.206095+00:00 |
-| [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | source_unavailable | 2026-10-23T16:01:15.597881+00:00 |
 | [Potulný samuraj Kenšin: Konec (2021) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-2021-1080p-cz-titulky-mp4/04355bfc74f6fc1d) (ID 29358418) | [Sdílej 34697415](https://sdilej.cz/34697415/potulny-samuraj-kensin-konec-2021-cz.mp4) | target_unavailable | 2026-10-23T17:51:05.580139+00:00 |
 | [Potvora (2017) 1080p CZ Titulky](https://prehraj.to/potvora-2017-1080p-cz-titulky-mkv/3b146ea8753086f1) (ID 29785219) | [Sdílej 13351305](https://sdilej.cz/13351305/en-frygtelig-kvinde-potvora-2017-.1080p.dansk-czsub.mkv) | source_unavailable | 2026-10-23T16:38:07.811632+00:00 |
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-23T17:50:42.033920+00:00 |
