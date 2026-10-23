@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T10:41:10.402333+00:00
+Poslední aktualizace (UTC): 2026-10-23T10:41:20.541974+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -714,7 +714,7 @@ Kontrol: 53; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:50:31.443906+00:00 |
 | [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:06:38.356672+00:00 |
 | [Le Petit Poucet (1972) SD CZ Titulky](https://prehraj.to/le-petit-poucet-1972-sd-cz-titulky-mp4/759257904a1288b2) (ID 30096693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T10:37:03.457767+00:00 |
-| [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:39:14.690376+00:00 |
+| [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:41:20.541834+00:00 |
 | [Leave the World Behind (2014) SD CZ Titulky](https://prehraj.to/leave-the-world-behind-2014-sd-cz-titulky-mp4/2d3fd96d784cd743) (ID 29505113) | [Sdílej 34776328](https://sdilej.cz/34776328/leave-the-world-behind-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:52:07.179531+00:00 |
 | [Lego Jurassic World: Double Trouble (2020) 720p CZ Titulky](https://prehraj.to/lego-jurassic-world-double-trouble-2020-720p-cz-titulky-mp4/686b38f9f6e0b5b8) (ID 29276107) | [Sdílej 34733047](https://sdilej.cz/34733047/lego-jurassic-world-double-trouble-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:05:08.768990+00:00 |
 | [Leibstandarte: My Honor Was Loyalty (2015) 720p CZ Titulky](https://prehraj.to/leibstandarte-my-honor-was-loyalty-2015-720p-cz-titulky-mp4/0f0947074b9bc7f7) (ID 29658136) | [Sdílej 34738035](https://sdilej.cz/34738035/leibstandarte-my-honor-was-loyalty-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:41:30.672061+00:00 |
