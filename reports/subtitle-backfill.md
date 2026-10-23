@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:19:34.813783+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:19:46.337347+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 838, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 20, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 839, `source_media_timeout`: 1, `source_provenance_missing`: 588, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -1240,6 +1240,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Tajný agent (2025) 4K CZ Titulky](https://prehraj.to/tajny-agent-2025-4k-cz-titulky-mkv/eabeb41353268d5b) (ID 29298951) | [Sdílej 33013860](https://sdilej.cz/33013860/the.secret.agent.2025.2160p.dcp.webrip.ac3.sdr.h265-aoc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T04:36:51.182423+00:00 |
 | [Tak jako v nebi (2004) SD CZ Titulky](https://prehraj.to/tak-jako-v-nebi-2004-sd-cz-titulky-mp4/9a46c9168543ef3c) (ID 29886931) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T16:02:07.722153+00:00 |
 | [Take Point (2018) SD CZ Titulky](https://prehraj.to/take-point-2018-sd-cz-titulky-mkv/b6097f931ecd0e90) (ID 29608451) | [Sdílej 12205647](https://sdilej.cz/12205647/take.point.2018.hdrip.xvid.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:56.506112+00:00 |
+| [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:19:46.337234+00:00 |
 | [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:21:23.920594+00:00 |
 | [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:51:46.611529+00:00 |
 | [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:52:10.501935+00:00 |
@@ -1617,7 +1618,6 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-23T10:31:28.692900+00:00 |
 | [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | target_unavailable | 2026-10-23T16:00:58.397905+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-10-23T16:00:01.548139+00:00 |
-| [Taken from Rio Bravo (2024) SD CZ Titulky](https://prehraj.to/taken-from-rio-bravo-2024-sd-cz-titulky-mp4/05fb6b6ce5042ef4) (ID 29607659) | [Sdílej 34724748](https://sdilej.cz/34724748/taken-from-rio-bravo-2024-cz-titulky.mp4) | source_unavailable | 2026-10-23T15:17:36.544079+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-10-23T16:00:50.876243+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-23T10:31:59.457502+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-23T10:32:14.208151+00:00 |
