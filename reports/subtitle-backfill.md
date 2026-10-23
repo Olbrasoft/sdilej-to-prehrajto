@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:56:03.314245+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:56:15.256509+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1345,7 +1345,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-23T12:42:05.693262+00:00 |
 | [The Timber (2015) 1080p CZ Titulky](https://prehraj.to/the-timber-2015-1080p-cz-titulky-mkv/06127d5d1a067ce2) (ID 29708325) | [Sdílej 6773323](https://sdilej.cz/6773323/the-timber.2015.1080p.bluray.h264.aac-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:52.663398+00:00 |
 | [The Unfamiliar (2020) 1080p CZ Titulky](https://prehraj.to/the-unfamiliar-2020-1080p-cz-titulky-mkv/2486d6f6c572b06d) (ID 29933846) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:47:06.744447+00:00 |
-| [The Unhealer (2020) SD CZ Titulky](https://prehraj.to/the-unhealer-2020-sd-cz-titulky-mkv/bac59cce1954336f) (ID 29708292) | [Sdílej 19227940](https://sdilej.cz/19227940/the.unhealer.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:55:03.938692+00:00 |
+| [The Unhealer (2020) SD CZ Titulky](https://prehraj.to/the-unhealer-2020-sd-cz-titulky-mkv/bac59cce1954336f) (ID 29708292) | [Sdílej 19227940](https://sdilej.cz/19227940/the.unhealer.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:56:15.256391+00:00 |
 | [The Unheard (2023) 1080p CZ Titulky](https://prehraj.to/the-unheard-2023-1080p-cz-titulky-mkv/87e799e2e5622b73) (ID 29608710) | [Sdílej 25681345](https://sdilej.cz/25681345/the-unheard-2023-cz-titulky-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:52.268134+00:00 |
 | [The United States vs. Billie Holiday (2021) 1080p CZ Titulky](https://prehraj.to/the-united-states-vs-billie-holiday-2021-1080p-cz-titulky-mp4/fae63f49ee0e618c) (ID 29291389) | [Sdílej 34772632](https://sdilej.cz/34772632/the-united-states-vs.-billie-holiday-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T02:42:57.290684+00:00 |
 | [The Vatican Tapes (2015) SD CZ Titulky](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:41:12.803933+00:00 |
