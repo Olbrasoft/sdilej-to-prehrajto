@@ -358311,18 +358311,20 @@
           "source_id": "19705981",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-02T20:00:44.456889+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "19705981",
+          "target_video_id": "30462849",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-23T17:03:56.509579+00:00"
         }
       ],
       "last_plan": {
         "source_id": "19705981",
         "display_name": "Večerní škola (2018) 1080p CZ Dabing",
         "planned_at": "2026-10-23T14:51:36.744218+00:00"
-      },
-      "claim": {
-        "worker_id": "b8dd9710d2644f798f52419041f1748b-shard-0",
-        "claimed_at": "2026-10-23T16:45:49.411924+00:00",
-        "lease_expires_at": "2026-10-23T22:45:49.411924+00:00",
-        "run_id": "39939258339"
       },
       "previous_target_id": "30462849",
       "prepared": {
@@ -407309,5 +407311,5 @@
       }
     }
   },
-  "updated_at": "2026-10-23T16:45:53.884109+00:00"
+  "updated_at": "2026-10-23T17:03:56.509598+00:00"
 }
