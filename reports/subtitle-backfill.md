@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T14:39:32.906828+00:00
+Poslední aktualizace (UTC): 2026-10-23T14:39:41.390864+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1134,7 +1134,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Seuwingkijeu (2018) 1080p CZ Titulky](https://prehraj.to/seuwingkijeu-2018-1080p-cz-titulky-mp4/0d9607ec07742737) (ID 30103692) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.666313+00:00 |
 | [Seven Cemeteries (2024) 720p CZ Titulky](https://prehraj.to/seven-cemeteries-2024-720p-cz-titulky-mp4/901851601b55d93d) (ID 29595112) | [Sdílej 34758438](https://sdilej.cz/34758438/seven-cemeteries-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:14:39.659844+00:00 |
 | [Shake Hands with the Devil (2007) 720p CZ Titulky](https://prehraj.to/shake-hands-with-the-devil-2007-720p-cz-titulky-mp4/f5836061dc777a34) (ID 29318910) | [Sdílej 34751222](https://sdilej.cz/34751222/shake-hands-with-the-devil-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T06:48:48.896651+00:00 |
-| [Shane (2022) 1080p CZ Titulky](https://prehraj.to/shane-2022-1080p-cz-titulky-mp4/f15b64329d7bc8b1) (ID 29400954) | [Sdílej 34772205](https://sdilej.cz/34772205/shane-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T14:36:46.551963+00:00 |
+| [Shane (2022) 1080p CZ Titulky](https://prehraj.to/shane-2022-1080p-cz-titulky-mp4/f15b64329d7bc8b1) (ID 29400954) | [Sdílej 34772205](https://sdilej.cz/34772205/shane-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:39:41.390740+00:00 |
 | [Sharktopus (2023) 1080p CZ Titulky](https://prehraj.to/sharktopus-2023-1080p-cz-titulky-mkv/72560b8bcd6b16f3) (ID 29919398) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.662643+00:00 |
 | [Sharp Teeth (2024) 720p CZ Titulky](https://prehraj.to/sharp-teeth-2024-720p-cz-titulky-mp4/b2b07c5b5db7805b) (ID 29919412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:35:36.662659+00:00 |
 | [Shelby Oaks (2024) 1080p CZ Titulky](https://prehraj.to/shelby-oaks-2024-1080p-cz-titulky-mkv/6ef2aef2076ba5bb) (ID 29748440) | [Sdílej 32452776](https://sdilej.cz/32452776/shelby-oaks-2024-1080p.-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:29:20.586550+00:00 |
