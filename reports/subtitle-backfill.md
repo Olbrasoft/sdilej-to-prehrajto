@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T17:40:51.964997+00:00
+Poslední aktualizace (UTC): 2026-10-23T17:41:01.616479+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -504,7 +504,7 @@ Kontrol: 25; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Godzilla: City on the Edge of Battle (2018) 1080p CZ Titulky.mkv](https://prehraj.to/godzilla-city-on-the-edge-of-battle-2018-1080p-cz-titulky-mkv/cbc04d9e28ee7880) (ID 29644087) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.350854+00:00 |
 | [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:51:49.016888+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T20:33:56.290725+00:00 |
-| [Good Boys for Life (2021) 720p CZ Titulky](https://prehraj.to/good-boys-for-life-2021-720p-cz-titulky-mp4/f76f1401a33e85df) (ID 29821305) | [Sdílej 34772914](https://sdilej.cz/34772914/good-boys-for-life-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:38:01.062559+00:00 |
+| [Good Boys for Life (2021) 720p CZ Titulky](https://prehraj.to/good-boys-for-life-2021-720p-cz-titulky-mp4/f76f1401a33e85df) (ID 29821305) | [Sdílej 34772914](https://sdilej.cz/34772914/good-boys-for-life-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:41:01.616357+00:00 |
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.352632+00:00 |
 | [Good Samaritans (2020) 1080p CZ Titulky](https://prehraj.to/good-samaritans-2020-1080p-cz-titulky-mp4/95ca7cf81626edc5) (ID 29331141) | [Sdílej 34733179](https://sdilej.cz/34733179/good-samaritans-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T07:39:33.862786+00:00 |
 | [Goon: Last of the Enforcers (2017) 1080p CZ Titulky](https://prehraj.to/goon-last-of-the-enforcers-2017-1080p-cz-titulky-avi/389f8500bdc202e2) (ID 29922980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T17:30:22.353973+00:00 |
