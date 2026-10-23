@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T10:39:50.620271+00:00
+Poslední aktualizace (UTC): 2026-10-23T10:40:00.863007+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1017,7 +1017,7 @@ Kontrol: 53; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:38:44.694980+00:00 |
 | [Post Mortem (2020) 1080p CZ Titulky](https://prehraj.to/post-mortem-2020-1080p-cz-titulky-mkv/d3e819e06f651968) (ID 29657657) | [Sdílej 19395386](https://sdilej.cz/19395386/post-mortem-2020-hun-audio-1080p-web-dl-h264-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:35.708610+00:00 |
 | [Potopa (2024) 1080p CZ Titulky](https://prehraj.to/potopa-2024-1080p-cz-titulky-mkv/5609321acff1d912) (ID 30137991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T10:37:03.458477+00:00 |
-| [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T10:37:57.941162+00:00 |
+| [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:40:00.862884+00:00 |
 | [Pouť za štěstím (1939) SD CZ Titulky](https://prehraj.to/pout-za-stestim-1939-sd-cz-titulky-mp4/6bce416158810883) (ID 29611281) | [Sdílej 34756215](https://sdilej.cz/34756215/pout-za-stestim-1939-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:20:20.434808+00:00 |
 | [Povedení strýčkové (1963) 720p CZ Titulky](https://prehraj.to/povedeni-stryckove-1963-720p-cz-titulky-mp4/7e57d63be522d6f1) (ID 29825249) | [Sdílej 34756035](https://sdilej.cz/34756035/povedeni-stryckove-1963-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:38:23.268917+00:00 |
 | [Povstání mrtvých: Konečná hra (2016) 720p CZ Titulky](https://prehraj.to/povstani-mrtvych-konecna-hra-2016-720p-cz-titulky-mp4/b7b10bc8fcfe48ef) (ID 29740133) | [Sdílej 34770373](https://sdilej.cz/34770373/povstani-mrtvych-konecna-hra-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:22:07.171189+00:00 |
