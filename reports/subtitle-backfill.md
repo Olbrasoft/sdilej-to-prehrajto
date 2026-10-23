@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T16:14:21.469547+00:00
+Poslední aktualizace (UTC): 2026-10-23T16:14:30.423343+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -145,7 +145,7 @@ Kontrol: 94; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Black Mirror: Bandersnatch (2018) 1080p CZ Titulky](https://prehraj.to/black-mirror-bandersnatch-2018-1080p-cz-titulky-mkv/f8a34902e3bdafbf) (ID 29178134) | [Sdílej 11114231](https://sdilej.cz/11114231/black-mirror-bandersnatch-2018-1080p-webrip-xpau.se-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:50.424830+00:00 |
 | [Blades of the Guardians (2026) 1080p CZ Titulky](https://prehraj.to/blades-of-the-guardians-2026-1080p-cz-titulky-mkv/9b17dfe4666b11bf) (ID 29688514) | [Sdílej 34473058](https://sdilej.cz/34473058/blades-of-the-guardians-2026-1080p-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:51:44.511009+00:00 |
 | [Bleed (2016) SD CZ Titulky](https://prehraj.to/bleed-2016-sd-cz-titulky-avi/492b2e2fc66bb83f) (ID 29748826) | [Sdílej 35027400](https://sdilej.cz/35027400/bleed-horor.thriller-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T17:30:15.921873+00:00 |
-| [Blind (2019) 720p CZ Titulky](https://prehraj.to/blind-2019-720p-cz-titulky-mp4/e5e3924ccd6ac3be) (ID 29732972) | [Sdílej 34734539](https://sdilej.cz/34734539/curse-of-the-blind-dead-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:10:05.333747+00:00 |
+| [Blind (2019) 720p CZ Titulky](https://prehraj.to/blind-2019-720p-cz-titulky-mp4/e5e3924ccd6ac3be) (ID 29732972) | [Sdílej 34734539](https://sdilej.cz/34734539/curse-of-the-blind-dead-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:14:30.423237+00:00 |
 | [Bliss (2019) 1080p CZ Titulky](https://prehraj.to/bliss-2019-1080p-cz-titulky-mkv/926638cd8d41ad37) (ID 29617027) | [Sdílej 12353725](https://sdilej.cz/12353725/bliss.2019.1080p.amzn.web-dl.ddp5.1.h.264.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:14.005103+00:00 |
 | [Blood Bags (2018) SD CZ Titulky](https://prehraj.to/blood-bags-2018-sd-cz-titulky-mkv/86be779f40539a79) (ID 29571581) | [Sdílej 12741441](https://sdilej.cz/12741441/blood.bags.2018.sk.sub.hdrip.ac3.x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:08:45.101091+00:00 |
 | [Blood Is Blood (2016) SD CZ Titulky](https://prehraj.to/blood-is-blood-2016-sd-cz-titulky-mp4/372fc0d943c961bc) (ID 29392783) | [Sdílej 34737840](https://sdilej.cz/34737840/blood-is-blood-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:46:40.690121+00:00 |
