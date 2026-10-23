@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:14:37.310596+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:14:47.409616+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -650,7 +650,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Dův
 | [Jonas Brothers Family Roast (2021) 1080p CZ Titulky](https://prehraj.to/jonas-brothers-family-roast-2021-1080p-cz-titulky-mp4/09ec0f4b8ab593fa) (ID 29639336) | [Sdílej 34772886](https://sdilej.cz/34772886/jonas-brothers-family-roast-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:31:19.110187+00:00 |
 | [Journey to the West: Demon Chapter (2017) SD CZ Titulky](https://prehraj.to/journey-to-the-west-demon-chapter-2017-sd-cz-titulky-mp4/6ba85bdd5bf019a6) (ID 29938773) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T14:58:15.750759+00:00 |
 | [Jsem s tebou (2004) SD CZ Titulky](https://prehraj.to/jsem-s-tebou-2004-sd-cz-titulky-mp4/8fbc9f39ecdcba67) (ID 29261675) | [Sdílej 34751375](https://sdilej.cz/34751375/jsem-s-tebou-2004-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T22:36:16.643109+00:00 |
-| [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:13:15.423266+00:00 |
+| [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:14:47.409500+00:00 |
 | [Just Before Dawn (1981) SD CZ Titulky](https://prehraj.to/just-before-dawn-1981-sd-cz-titulky-avi/0ffe576723da5bce) (ID 29612468) | [Sdílej 6227474](https://sdilej.cz/6227474/just-before-dawn-horor.thriller-1981-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:21:25.926938+00:00 |
 | [Justice Society: World War II (2021) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29269710) | [Sdílej 16889647](https://sdilej.cz/16889647/justice.society.world.war.ii.2021.1080p.webrip.dd5.1.x264.cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-23T12:42:27.579123+00:00 |
 | [Já a můj terapeut (2024) 720p CZ Titulky](https://prehraj.to/ja-a-muj-terapeut-2024-720p-cz-titulky-mp4/44c8713a06a38bee) (ID 29616776) | [Sdílej 34724968](https://sdilej.cz/34724968/ja-a-muj-terapeut-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:25:06.739563+00:00 |
