@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-23T15:44:36.019111+00:00
+Poslední aktualizace (UTC): 2026-10-23T15:44:49.503914+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -252,7 +252,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Dův
 | [Cuckoo (2024) 4K CZ Titulky](https://prehraj.to/cuckoo-2024-4k-cz-titulky-mp4/d92eab08a10ff57d) (ID 29932128) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.722904+00:00 |
 | [Cucuy: The Boogeyman (2018) SD CZ Titulky](https://prehraj.to/cucuy-the-boogeyman-2018-sd-cz-titulky-mkv/4fc5508ffe853a60) (ID 29646449) | [Sdílej 11234215](https://sdilej.cz/11234215/cucuy-the-boogeyman-2018-sktit-v-obraze-esce-vetsi-novinka-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:09.094892+00:00 |
 | [Cuties (2020) 1080p CZ Titulky](https://prehraj.to/cuties-2020-1080p-cz-titulky-mp4/84a4010eac43a26d) (ID 29907805) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.720357+00:00 |
-| [Císařův slavík (1949) SD CZ Titulky](https://prehraj.to/cisaruv-slavik-1949-sd-cz-titulky-mp4/1bfe5bf8b71885f4) (ID 29663448) | [Sdílej 34714597](https://sdilej.cz/34714597/cisaruv-slavik-1949-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T15:43:03.937016+00:00 |
+| [Císařův slavík (1949) SD CZ Titulky](https://prehraj.to/cisaruv-slavik-1949-sd-cz-titulky-mp4/1bfe5bf8b71885f4) (ID 29663448) | [Sdílej 34714597](https://sdilej.cz/34714597/cisaruv-slavik-1949-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:44:49.503790+00:00 |
 | [Daaaaaalí! (2023) 1080p CZ Titulky](https://prehraj.to/daaaaaali-2023-1080p-cz-titulky-mp4/00721f8e39597eb8) (ID 30158609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-23T15:22:17.725798+00:00 |
 | [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:04:51.249077+00:00 |
 | [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-16T16:13:07.584929+00:00 |
