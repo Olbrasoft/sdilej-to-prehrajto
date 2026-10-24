@@ -273218,18 +273218,20 @@
           "source_id": "34087382",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-04T18:42:52.364545+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34087382",
+          "target_video_id": "30484875",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-24T18:33:48.569252+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34087382",
         "display_name": "Influencer (2022) 1080p CZ Titulky",
         "planned_at": "2026-10-24T16:12:52.761636+00:00"
-      },
-      "claim": {
-        "worker_id": "1fc9f48910b148789d0e28d3664887c3-shard-0",
-        "claimed_at": "2026-10-24T18:26:29.557073+00:00",
-        "lease_expires_at": "2026-10-25T00:26:29.557073+00:00",
-        "run_id": "40106847013"
       },
       "previous_target_id": "30484875",
       "prepared": {
@@ -408251,5 +408253,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T18:26:35.128646+00:00"
+  "updated_at": "2026-10-24T18:33:48.569272+00:00"
 }
