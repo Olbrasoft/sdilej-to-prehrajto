@@ -32532,18 +32532,20 @@
           "reason": "Request failed for https://sdilej.cz/32301038/bohemsky-zivot-1992-cz-tit.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-04T22:49:48.014652+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32301038",
+          "target_video_id": "30486254",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-24T19:57:31.175637+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32301038",
         "display_name": "Bohémský život (1992) SD CZ Titulky",
         "planned_at": "2026-10-24T19:38:59.485142+00:00"
-      },
-      "claim": {
-        "worker_id": "203d437708e2408abee7cf34de51bd76-shard-0",
-        "claimed_at": "2026-10-24T19:53:39.494774+00:00",
-        "lease_expires_at": "2026-10-25T01:53:39.494774+00:00",
-        "run_id": "40106847013"
       },
       "previous_target_id": "30486254",
       "prepared": {
@@ -408953,5 +408955,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T19:54:02.738908+00:00"
+  "updated_at": "2026-10-24T19:57:31.175657+00:00"
 }
