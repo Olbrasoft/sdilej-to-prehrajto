@@ -339020,6 +339020,14 @@
           "target_video_id": "29970569",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-10-03T18:48:32.536778+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29431218",
+          "target_video_id": "29970569",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-24T03:05:00.838020+00:00"
         }
       ],
       "last_plan": {
@@ -339027,12 +339035,7 @@
         "display_name": "V oku tornáda (2014) 1080p CZ Dabing",
         "planned_at": "2026-10-24T01:18:49.166986+00:00"
       },
-      "previous_target_id": "29970569",
-      "prepared": {
-        "target_video_id": "29970569",
-        "size_bytes": 5214428551,
-        "prepared_at": "2026-10-03T18:32:49.264958+00:00"
-      }
+      "previous_target_id": "29970569"
     },
     "7184": {
       "attempts": []
@@ -407466,5 +407469,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T03:04:54.212656+00:00"
+  "updated_at": "2026-10-24T03:05:00.838038+00:00"
 }
