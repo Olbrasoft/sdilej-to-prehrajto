@@ -35952,18 +35952,20 @@
           "reason": "Request failed for https://sdilej.cz/34346004/13-hodin-tajni-vojaci-z-benghazi-2016-uhdr-cz-en.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-05T07:29:59.554587+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34346004",
+          "target_video_id": "30486798",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-24T20:58:56.376039+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34346004",
         "display_name": "13 hodin: Tajní vojáci z Benghází (2016) 4K CZ Dabing",
         "planned_at": "2026-10-24T20:06:29.029789+00:00"
-      },
-      "claim": {
-        "worker_id": "1718d58739674d2f9faecfe6459cda48-shard-0",
-        "claimed_at": "2026-10-24T20:25:49.464385+00:00",
-        "lease_expires_at": "2026-10-25T02:25:49.464385+00:00",
-        "run_id": "40106847013"
       },
       "previous_target_id": "30486798",
       "prepared": {
@@ -409071,5 +409073,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T20:25:53.700368+00:00"
+  "updated_at": "2026-10-24T20:58:56.376061+00:00"
 }
