@@ -273401,18 +273401,20 @@
           "source_id": "34705751",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-04T18:43:54.604082+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34705751",
+          "target_video_id": "30485040",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-24T18:39:29.427838+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34705751",
         "display_name": "Nostradamus (2000) SD CZ Dabing",
         "planned_at": "2026-10-24T16:12:53.522358+00:00"
-      },
-      "claim": {
-        "worker_id": "1fc9f48910b148789d0e28d3664887c3-shard-0",
-        "claimed_at": "2026-10-24T18:34:36.232904+00:00",
-        "lease_expires_at": "2026-10-25T00:34:36.232904+00:00",
-        "run_id": "40106847013"
       },
       "previous_target_id": "30485040",
       "prepared": {
@@ -408279,5 +408281,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T18:35:00.173444+00:00"
+  "updated_at": "2026-10-24T18:39:29.427857+00:00"
 }
