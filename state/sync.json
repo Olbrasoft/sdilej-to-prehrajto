@@ -255228,6 +255228,14 @@
           "permanent": false,
           "target_video_id": "29977252",
           "attempted_at": "2026-10-04T01:40:49.612289+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34530510",
+          "target_video_id": "29977252",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-24T08:20:24.372074+00:00"
         }
       ],
       "last_plan": {
@@ -255235,7 +255243,13 @@
         "display_name": "Včelka Mája (2014) 1080p CZ Dabing",
         "planned_at": "2026-10-24T07:53:11.090019+00:00"
       },
-      "previous_target_id": "29977252"
+      "previous_target_id": "29977252",
+      "claim": {
+        "worker_id": "9f37fe39b9c145dba606757511b74381-shard-0",
+        "claimed_at": "2026-10-24T08:20:23.326411+00:00",
+        "lease_expires_at": "2026-10-24T14:20:23.326411+00:00",
+        "run_id": "40062541127"
+      }
     },
     "33197": {
       "attempts": []
@@ -256286,6 +256300,18 @@
         "source_id": "34840717",
         "display_name": "Lowlifes (2024) 1080p CZ Titulky",
         "planned_at": "2026-10-24T07:53:11.427249+00:00"
+      },
+      "claim": {
+        "worker_id": "9f37fe39b9c145dba606757511b74381-shard-0",
+        "claimed_at": "2026-10-24T08:20:24.710011+00:00",
+        "lease_expires_at": "2026-10-24T14:20:24.710011+00:00",
+        "run_id": "40062541127"
+      },
+      "previous_target_id": "30475889",
+      "prepared": {
+        "target_video_id": "30475889",
+        "size_bytes": 3462031976,
+        "prepared_at": "2026-10-24T08:20:29.187608+00:00"
       }
     },
     "6296": {
@@ -407821,5 +407847,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T08:20:20.421437+00:00"
+  "updated_at": "2026-10-24T08:20:29.187624+00:00"
 }
