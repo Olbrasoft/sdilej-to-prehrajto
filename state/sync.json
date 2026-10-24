@@ -267952,6 +267952,14 @@
           "permanent": false,
           "target_video_id": "29989614",
           "attempted_at": "2026-10-04T13:12:40.206378+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "30975097",
+          "target_video_id": "29989614",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-24T12:58:17.897294+00:00"
         }
       ],
       "last_plan": {
@@ -267959,7 +267967,13 @@
         "display_name": "Indián (1999) SD CZ Dabing",
         "planned_at": "2026-10-24T11:53:06.984887+00:00"
       },
-      "previous_target_id": "29989614"
+      "previous_target_id": "29989614",
+      "claim": {
+        "worker_id": "30bc098d907d40088a189630069c225c-shard-0",
+        "claimed_at": "2026-10-24T12:58:16.890737+00:00",
+        "lease_expires_at": "2026-10-24T18:58:16.890737+00:00",
+        "run_id": "40081983105"
+      }
     },
     "33265": {
       "attempts": []
@@ -268077,6 +268091,13 @@
           "target_video_id": "29990308",
           "permanent": false,
           "attempted_at": "2026-10-04T13:16:33.094302+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32761813",
+          "target_video_id": "29990308",
+          "permanent": false,
+          "attempted_at": "2026-10-24T12:58:19.613997+00:00"
         }
       ],
       "last_plan": {
@@ -268087,7 +268108,7 @@
       "previous_target_id": "29990308",
       "prepared": {
         "target_video_id": "29990308",
-        "size_bytes": 2800379346,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-10-04T13:12:49.839313+00:00"
       }
     },
@@ -268101,16 +268122,10 @@
           "attempted_at": "2026-10-04T13:26:17.225271+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34618272",
-        "display_name": "Diabeł (2024) 4K CZ Titulky",
-        "planned_at": "2026-10-24T11:53:07.504740+00:00"
-      },
       "previous_target_id": "29990698",
-      "prepared": {
+      "upload": {
         "target_video_id": "29990698",
-        "size_bytes": 8079852370,
-        "prepared_at": "2026-10-04T13:16:38.712160+00:00"
+        "uploaded_at": "2026-10-24T12:58:21.346891+00:00"
       }
     },
     "36649": {
@@ -407867,5 +407882,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T12:58:14.403455+00:00"
+  "updated_at": "2026-10-24T12:58:21.346908+00:00"
 }
