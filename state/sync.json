@@ -274754,18 +274754,20 @@
           "source_id": "34734019",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-04T18:57:35.343102+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34734019",
+          "target_video_id": "30485321",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-24T18:58:50.822020+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34734019",
         "display_name": "Někdo skvělý (2019) 1080p CZ Titulky",
         "planned_at": "2026-10-24T18:47:54.728894+00:00"
-      },
-      "claim": {
-        "worker_id": "c40df765b0784d05854ba7ce391004fb-shard-0",
-        "claimed_at": "2026-10-24T18:52:12.257686+00:00",
-        "lease_expires_at": "2026-10-25T00:52:12.257686+00:00",
-        "run_id": "40106847013"
       },
       "previous_target_id": "30485321",
       "prepared": {
@@ -408480,5 +408482,5 @@
       }
     }
   },
-  "updated_at": "2026-10-24T18:52:36.036492+00:00"
+  "updated_at": "2026-10-24T18:58:50.822040+00:00"
 }
