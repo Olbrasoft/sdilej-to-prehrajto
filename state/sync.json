@@ -51550,17 +51550,20 @@
       "attempts": []
     },
     "23561": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35380851",
+          "target_video_id": "30496953",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-25T12:58:02.678020+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35380851",
         "display_name": "Knoflíková válka (1994) 1080p CZ Dabing",
         "planned_at": "2026-10-25T12:23:52.777870+00:00"
-      },
-      "claim": {
-        "worker_id": "b899eee7532d485d94e90ae2e0a37c0c-shard-0",
-        "claimed_at": "2026-10-25T12:42:53.856342+00:00",
-        "lease_expires_at": "2026-10-25T18:42:53.856342+00:00",
-        "run_id": "40180665076"
       },
       "previous_target_id": "30496953",
       "prepared": {
@@ -409804,5 +409807,5 @@
       }
     }
   },
-  "updated_at": "2026-10-25T12:42:58.256601+00:00"
+  "updated_at": "2026-10-25T12:58:02.678042+00:00"
 }
