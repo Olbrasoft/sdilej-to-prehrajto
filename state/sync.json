@@ -152921,6 +152921,14 @@
           "permanent": false,
           "target_video_id": "30092357",
           "attempted_at": "2026-10-08T06:51:22.068662+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "30679544",
+          "target_video_id": "30092357",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-25T23:42:52.833077+00:00"
         }
       ],
       "last_plan": {
@@ -152928,7 +152936,13 @@
         "display_name": "Tátova volha (2018) 1080p CZ Dabing",
         "planned_at": "2026-10-25T23:16:37.078017+00:00"
       },
-      "previous_target_id": "30092357"
+      "previous_target_id": "30092357",
+      "claim": {
+        "worker_id": "f1685f9ac62d45df9953a72fab62788e-shard-0",
+        "claimed_at": "2026-10-25T23:42:51.804274+00:00",
+        "lease_expires_at": "2026-10-26T05:42:51.804274+00:00",
+        "run_id": "40230732315"
+      }
     },
     "37541": {
       "attempts": [
@@ -152965,6 +152979,18 @@
         "source_id": "32374594",
         "display_name": "Hlídač č. 47 (2008) 1080p CZ Dabing",
         "planned_at": "2026-10-25T23:16:37.414393+00:00"
+      },
+      "claim": {
+        "worker_id": "f1685f9ac62d45df9953a72fab62788e-shard-0",
+        "claimed_at": "2026-10-25T23:42:53.179303+00:00",
+        "lease_expires_at": "2026-10-26T05:42:53.179303+00:00",
+        "run_id": "40230732315"
+      },
+      "previous_target_id": "30511533",
+      "prepared": {
+        "target_video_id": "30511533",
+        "size_bytes": 4904902230,
+        "prepared_at": "2026-10-25T23:42:57.923727+00:00"
       }
     },
     "14329": {
@@ -412310,5 +412336,5 @@
       }
     }
   },
-  "updated_at": "2026-10-25T23:42:48.949897+00:00"
+  "updated_at": "2026-10-25T23:42:57.923742+00:00"
 }
