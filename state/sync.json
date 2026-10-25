@@ -152040,7 +152040,15 @@
       }
     },
     "15622": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30968306",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-25T23:02:37.837718+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30968306",
         "display_name": "Slíbil jsi mi moře (2023) 1080p CZ Dabing",
@@ -152148,6 +152156,13 @@
           "target_video_id": "30089866",
           "permanent": false,
           "attempted_at": "2026-10-08T04:50:01.648576+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34727853",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-25T23:02:58.708305+00:00"
         }
       ],
       "last_plan": {
@@ -152170,6 +152185,13 @@
           "target_video_id": "30089953",
           "permanent": false,
           "attempted_at": "2026-10-08T04:52:25.026598+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30629024",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-25T23:03:19.803738+00:00"
         }
       ],
       "last_plan": {
@@ -152222,6 +152244,13 @@
           "target_video_id": "30089998",
           "permanent": false,
           "attempted_at": "2026-10-08T04:59:39.579007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26648505",
+          "target_video_id": "30089998",
+          "permanent": false,
+          "attempted_at": "2026-10-25T23:04:00.583328+00:00"
         }
       ],
       "last_plan": {
@@ -152232,7 +152261,7 @@
       "previous_target_id": "30089998",
       "prepared": {
         "target_video_id": "30089998",
-        "size_bytes": 2581906715,
+        "size_bytes": 2600000000,
         "prepared_at": "2026-10-08T04:52:34.695960+00:00"
       }
     },
@@ -152250,6 +152279,18 @@
         "source_id": "12521096",
         "display_name": "Vrahův advokát (2018) 1080p CZ Dabing",
         "planned_at": "2026-10-25T21:09:17.772125+00:00"
+      },
+      "claim": {
+        "worker_id": "ed9c9e443b634267be39f90e562563f3-shard-0",
+        "claimed_at": "2026-10-25T23:04:00.953957+00:00",
+        "lease_expires_at": "2026-10-26T05:04:00.953957+00:00",
+        "run_id": "40230732315"
+      },
+      "previous_target_id": "30510643",
+      "prepared": {
+        "target_video_id": "30510643",
+        "size_bytes": 3826348508,
+        "prepared_at": "2026-10-25T23:04:15.472153+00:00"
       }
     },
     "16913": {
@@ -412247,5 +412288,5 @@
       }
     }
   },
-  "updated_at": "2026-10-25T23:02:14.630754+00:00"
+  "updated_at": "2026-10-25T23:04:15.472169+00:00"
 }
