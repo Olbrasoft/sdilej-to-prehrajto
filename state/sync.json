@@ -49886,18 +49886,20 @@
           "reason": "Request failed for https://sdilej.cz/35159894/2017-pan-a-pani-adelmanovi-drama-72-.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-05T22:40:53.814369+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35159894",
+          "target_video_id": "30496316",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-25T11:40:16.552623+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35159894",
         "display_name": "Pan a paní Adelmanovi (2017) SD CZ Dabing",
         "planned_at": "2026-10-25T09:37:51.059524+00:00"
-      },
-      "claim": {
-        "worker_id": "0e2cbd7e612b4bddb34a94ca3f0fa61b-shard-0",
-        "claimed_at": "2026-10-25T11:32:39.241851+00:00",
-        "lease_expires_at": "2026-10-25T17:32:39.241851+00:00",
-        "run_id": "40180665076"
       },
       "previous_target_id": "30496316",
       "prepared": {
@@ -409789,5 +409791,5 @@
       }
     }
   },
-  "updated_at": "2026-10-25T11:32:43.905476+00:00"
+  "updated_at": "2026-10-25T11:40:16.552644+00:00"
 }
