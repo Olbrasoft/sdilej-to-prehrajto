@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-25T20:30:22.395732+00:00
+Poslední aktualizace (UTC): 2026-10-25T20:30:25.920272+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1349,7 +1349,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The System (2022) 1080p CZ Titulky](https://prehraj.to/the-system-2022-1080p-cz-titulky-mkv/c91db76e90c6d73e) (ID 29931022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-25T20:30:13.573878+00:00 |
 | [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T05:34:04.016005+00:00 |
 | [The Thundermans Return (2024) 1080p CZ Titulky](https://prehraj.to/the-thundermans-return-2024-1080p-cz-titulky-mp4/4c23216bcf1c4d73) (ID 29654246) | [Sdílej 34904138](https://sdilej.cz/34904138/the-thundermans-return-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:41:10.395843+00:00 |
-| [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-25T18:36:13.811764+00:00 |
+| [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-25T20:30:25.920216+00:00 |
 | [The Timber (2015) 1080p CZ Titulky](https://prehraj.to/the-timber-2015-1080p-cz-titulky-mkv/06127d5d1a067ce2) (ID 29708325) | [Sdílej 6773323](https://sdilej.cz/6773323/the-timber.2015.1080p.bluray.h264.aac-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:52.663398+00:00 |
 | [The Unfamiliar (2020) 1080p CZ Titulky](https://prehraj.to/the-unfamiliar-2020-1080p-cz-titulky-mkv/2486d6f6c572b06d) (ID 29933846) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-25T20:30:13.574068+00:00 |
 | [The Unhealer (2020) SD CZ Titulky](https://prehraj.to/the-unhealer-2020-sd-cz-titulky-mkv/bac59cce1954336f) (ID 29708292) | [Sdílej 19227940](https://sdilej.cz/19227940/the.unhealer.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:56:15.256391+00:00 |
