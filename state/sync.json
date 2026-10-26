@@ -157725,6 +157725,14 @@
           "target_video_id": "30104672",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-10-08T17:50:41.257106+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "33021931",
+          "target_video_id": "30104672",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-26T05:03:01.542764+00:00"
         }
       ],
       "last_plan": {
@@ -157732,12 +157740,7 @@
         "display_name": "Vánoční pásmo Život není krásný (2024) 1080p CZ Dabing",
         "planned_at": "2026-10-26T04:42:55.774124+00:00"
       },
-      "previous_target_id": "30104672",
-      "prepared": {
-        "target_video_id": "30104672",
-        "size_bytes": 3172207581,
-        "prepared_at": "2026-10-08T17:36:28.066521+00:00"
-      }
+      "previous_target_id": "30104672"
     },
     "31757": {
       "attempts": []
@@ -412408,5 +412411,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T05:02:53.810979+00:00"
+  "updated_at": "2026-10-26T05:03:01.542785+00:00"
 }
