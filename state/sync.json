@@ -186942,6 +186942,14 @@
           "permanent": false,
           "target_video_id": "30169091",
           "attempted_at": "2026-10-11T07:08:20.808478+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "33553888",
+          "target_video_id": "30169091",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-26T22:04:44.856147+00:00"
         }
       ],
       "last_plan": {
@@ -186949,7 +186957,13 @@
         "display_name": "Specialisté (1985) SD CZ Dabing",
         "planned_at": "2026-10-26T21:32:34.635418+00:00"
       },
-      "previous_target_id": "30169091"
+      "previous_target_id": "30169091",
+      "claim": {
+        "worker_id": "408f7ea1bdd0453890c674e8fb05e2c5-shard-0",
+        "claimed_at": "2026-10-26T22:04:43.793068+00:00",
+        "lease_expires_at": "2026-10-27T04:04:43.793068+00:00",
+        "run_id": "40386834295"
+      }
     },
     "15844": {
       "attempts": [
@@ -187007,16 +187021,10 @@
           "attempted_at": "2026-10-11T07:12:04.926770+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34698548",
-        "display_name": "Nebezpečná kořist (2011) 1080p CZ Dabing",
-        "planned_at": "2026-10-26T21:32:34.875386+00:00"
-      },
       "previous_target_id": "30169380",
-      "prepared": {
+      "upload": {
         "target_video_id": "30169380",
-        "size_bytes": 2210958149,
-        "prepared_at": "2026-10-11T07:08:32.963626+00:00"
+        "uploaded_at": "2026-10-26T22:04:46.985399+00:00"
       }
     },
     "22468": {
@@ -413395,5 +413403,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T22:04:41.264456+00:00"
+  "updated_at": "2026-10-26T22:04:46.985419+00:00"
 }
