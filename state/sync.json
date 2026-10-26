@@ -172444,6 +172444,14 @@
           "permanent": false,
           "target_video_id": "30144085",
           "attempted_at": "2026-10-10T07:10:44.676953+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "31626861",
+          "target_video_id": "30144085",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-26T18:12:42.146205+00:00"
         }
       ],
       "last_plan": {
@@ -172451,7 +172459,13 @@
         "display_name": "Dvojníci (2016) 1080p CZ Dabing",
         "planned_at": "2026-10-26T18:12:08.419133+00:00"
       },
-      "previous_target_id": "30144085"
+      "previous_target_id": "30144085",
+      "claim": {
+        "worker_id": "0df737e18b5b4931996d823c18914885-shard-0",
+        "claimed_at": "2026-10-26T18:12:41.207870+00:00",
+        "lease_expires_at": "2026-10-27T00:12:41.207870+00:00",
+        "run_id": "40336141531"
+      }
     },
     "21722": {
       "attempts": []
@@ -172538,6 +172552,14 @@
           "target_video_id": "30144159",
           "permanent": false,
           "attempted_at": "2026-10-10T07:21:56.178370+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34520447",
+          "target_video_id": "30144159",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-26T18:12:45.849303+00:00"
         }
       ],
       "last_plan": {
@@ -172545,12 +172567,7 @@
         "display_name": "Šílená noc (2022) 4K CZ Dabing",
         "planned_at": "2026-10-26T18:12:08.794671+00:00"
       },
-      "previous_target_id": "30144159",
-      "prepared": {
-        "target_video_id": "30144159",
-        "size_bytes": 4775016770,
-        "prepared_at": "2026-10-10T07:10:53.554901+00:00"
-      }
+      "previous_target_id": "30144159"
     },
     "22202": {
       "attempts": [
@@ -412421,5 +412438,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T18:12:37.883955+00:00"
+  "updated_at": "2026-10-26T18:12:45.849322+00:00"
 }
