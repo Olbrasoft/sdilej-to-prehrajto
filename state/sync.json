@@ -158888,6 +158888,14 @@
           "permanent": false,
           "target_video_id": "30105664",
           "attempted_at": "2026-10-08T18:43:12.947721+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "31413666",
+          "target_video_id": "30105664",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-26T06:58:25.470229+00:00"
         }
       ],
       "last_plan": {
@@ -158895,7 +158903,13 @@
         "display_name": "Ženská pomsta (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-26T04:42:59.658459+00:00"
       },
-      "previous_target_id": "30105664"
+      "previous_target_id": "30105664",
+      "claim": {
+        "worker_id": "899393ba0bde489ab034eb7754ee42e1-shard-0",
+        "claimed_at": "2026-10-26T06:58:24.719054+00:00",
+        "lease_expires_at": "2026-10-26T12:58:24.719054+00:00",
+        "run_id": "40260373223"
+      }
     },
     "33047": {
       "attempts": []
@@ -158914,6 +158928,18 @@
         "source_id": "28280402",
         "display_name": "Poslední Vermeer (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-26T04:42:59.896675+00:00"
+      },
+      "claim": {
+        "worker_id": "899393ba0bde489ab034eb7754ee42e1-shard-0",
+        "claimed_at": "2026-10-26T06:58:25.718573+00:00",
+        "lease_expires_at": "2026-10-26T12:58:25.718573+00:00",
+        "run_id": "40260373223"
+      },
+      "previous_target_id": "30522947",
+      "prepared": {
+        "target_video_id": "30522947",
+        "size_bytes": 7649688138,
+        "prepared_at": "2026-10-26T06:58:30.484509+00:00"
       }
     },
     "3439": {
@@ -412539,5 +412565,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T06:58:22.065419+00:00"
+  "updated_at": "2026-10-26T06:58:30.484527+00:00"
 }
