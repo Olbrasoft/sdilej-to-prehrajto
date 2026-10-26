@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-26T15:21:44.299484+00:00
+Poslední aktualizace (UTC): 2026-10-26T15:21:47.814035+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1008,7 +1008,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:41:10.402207+00:00 |
 | [Posedlá kontrolou (2025) 1080p CZ Titulky](https://prehraj.to/posedla-kontrolou-2025-1080p-cz-titulky-mp4/cb9490a669054a3a) (ID 29747271) | [Sdílej 30831027](https://sdilej.cz/30831027/control-freak-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:30:34.206296+00:00 |
 | [Posedlý (2000) SD CZ Titulky](https://prehraj.to/posedly-2000-sd-cz-titulky-mkv/6f3310947941a8f8) (ID 29532966) | [Sdílej 15081219](https://sdilej.cz/15081219/possessor.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:58:32.098974+00:00 |
-| [Poslední Viking (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29212781) | [Sdílej 33265909](https://sdilej.cz/33265909/2025-posledni-viking-komedie-drama-79-dansko-cz-tit..mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-26T14:10:05.465053+00:00 |
+| [Poslední Viking (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29212781) | [Sdílej 33265909](https://sdilej.cz/33265909/2025-posledni-viking-komedie-drama-79-dansko-cz-tit..mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-26T15:21:47.813966+00:00 |
 | [Poslední autobus (2021) 1080p CZ Titulky](https://prehraj.to/posledni-autobus-2021-1080p-cz-titulky-mkv/afcb372bb516f3e6) (ID 29631425) | [Sdílej 31679567](https://sdilej.cz/31679567/the-last-bus-2021-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:27:37.288516+00:00 |
 | [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:38:36.906190+00:00 |
 | [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:40:45.138793+00:00 |
