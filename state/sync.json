@@ -189082,6 +189082,14 @@
           "target_video_id": "30173193",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-10-11T10:02:14.759943+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32300863",
+          "target_video_id": "30173193",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-26T22:16:47.971894+00:00"
         }
       ],
       "last_plan": {
@@ -189089,12 +189097,7 @@
         "display_name": "Mavka: Strážkyně lesa (2023) 1080p CZ Dabing",
         "planned_at": "2026-10-26T22:05:25.449405+00:00"
       },
-      "previous_target_id": "30173193",
-      "prepared": {
-        "target_video_id": "30173193",
-        "size_bytes": 2974563307,
-        "prepared_at": "2026-10-11T09:57:01.686446+00:00"
-      }
+      "previous_target_id": "30173193"
     },
     "20954": {
       "attempts": [
@@ -413286,5 +413289,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T22:16:40.363894+00:00"
+  "updated_at": "2026-10-26T22:16:47.971911+00:00"
 }
