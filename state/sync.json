@@ -153570,6 +153570,14 @@
           "reason": "Request failed for https://sdilej.cz/33810926/hastrman-2018-pohadka-1080p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-08T10:00:10.482893+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33810926",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30513722",
+          "attempted_at": "2026-10-26T01:32:26.712927+00:00"
         }
       ],
       "last_plan": {
@@ -153577,18 +153585,7 @@
         "display_name": "Hastrman (2018) 1080p CZ Dabing",
         "planned_at": "2026-10-25T23:16:45.618162+00:00"
       },
-      "claim": {
-        "worker_id": "f1685f9ac62d45df9953a72fab62788e-shard-0",
-        "claimed_at": "2026-10-26T01:04:12.360665+00:00",
-        "lease_expires_at": "2026-10-26T07:04:12.360665+00:00",
-        "run_id": "40230732315"
-      },
-      "previous_target_id": "30513722",
-      "prepared": {
-        "target_video_id": "30513722",
-        "size_bytes": 2335268826,
-        "prepared_at": "2026-10-26T01:04:17.174913+00:00"
-      }
+      "previous_target_id": "30513722"
     },
     "15138": {
       "attempts": []
@@ -412334,5 +412331,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T01:04:17.174929+00:00"
+  "updated_at": "2026-10-26T01:32:26.712945+00:00"
 }
