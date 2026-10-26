@@ -162359,6 +162359,14 @@
           "permanent": false,
           "target_video_id": "30118404",
           "attempted_at": "2026-10-09T07:23:14.818328+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "31624003",
+          "target_video_id": "30118404",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-26T10:27:52.701521+00:00"
         }
       ],
       "last_plan": {
@@ -162366,7 +162374,13 @@
         "display_name": "Špunti na vodě (2017) 1080p CZ Dabing",
         "planned_at": "2026-10-26T09:32:38.394279+00:00"
       },
-      "previous_target_id": "30118404"
+      "previous_target_id": "30118404",
+      "claim": {
+        "worker_id": "bd712916df8e4ba581c43f9293eb4033-shard-0",
+        "claimed_at": "2026-10-26T10:27:51.635697+00:00",
+        "lease_expires_at": "2026-10-26T16:27:51.635697+00:00",
+        "run_id": "40287658009"
+      }
     },
     "26850": {
       "attempts": []
@@ -162425,6 +162439,18 @@
         "source_id": "12139621",
         "display_name": "Breakheartský průsmyk (1975) 1080p CZ Dabing",
         "planned_at": "2026-10-26T09:32:38.776457+00:00"
+      },
+      "claim": {
+        "worker_id": "bd712916df8e4ba581c43f9293eb4033-shard-0",
+        "claimed_at": "2026-10-26T10:27:53.093073+00:00",
+        "lease_expires_at": "2026-10-26T16:27:53.093073+00:00",
+        "run_id": "40287658009"
+      },
+      "previous_target_id": "30528483",
+      "prepared": {
+        "target_video_id": "30528483",
+        "size_bytes": 2306026919,
+        "prepared_at": "2026-10-26T10:27:57.153074+00:00"
       }
     },
     "14611": {
@@ -412451,5 +412477,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T10:27:48.871761+00:00"
+  "updated_at": "2026-10-26T10:27:57.153089+00:00"
 }
