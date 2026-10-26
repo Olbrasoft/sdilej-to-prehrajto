@@ -161707,6 +161707,14 @@
           "permanent": false,
           "target_video_id": "30117079",
           "attempted_at": "2026-10-09T06:10:19.583946+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "35183996",
+          "target_video_id": "30117079",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-26T10:06:38.667004+00:00"
         }
       ],
       "last_plan": {
@@ -161714,7 +161722,13 @@
         "display_name": "Modelář (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-26T09:32:31.509554+00:00"
       },
-      "previous_target_id": "30117079"
+      "previous_target_id": "30117079",
+      "claim": {
+        "worker_id": "bd712916df8e4ba581c43f9293eb4033-shard-0",
+        "claimed_at": "2026-10-26T10:06:37.607497+00:00",
+        "lease_expires_at": "2026-10-26T16:06:37.607497+00:00",
+        "run_id": "40287658009"
+      }
     },
     "37134": {
       "attempts": []
@@ -161751,16 +161765,10 @@
           "attempted_at": "2026-10-09T06:12:16.684946+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34695203",
-        "display_name": "Pan učitel Žabák (2016) 720p CZ Dabing",
-        "planned_at": "2026-10-26T09:32:31.888093+00:00"
-      },
       "previous_target_id": "30117205",
-      "prepared": {
+      "upload": {
         "target_video_id": "30117205",
-        "size_bytes": 1552522233,
-        "prepared_at": "2026-10-09T06:10:29.917350+00:00"
+        "uploaded_at": "2026-10-26T10:06:40.761150+00:00"
       }
     },
     "15047": {
@@ -412466,5 +412474,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T10:06:34.753784+00:00"
+  "updated_at": "2026-10-26T10:06:40.761166+00:00"
 }
