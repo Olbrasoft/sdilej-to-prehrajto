@@ -177297,18 +177297,20 @@
           "source_id": "33516649",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-10T18:01:08.188314+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33516649",
+          "target_video_id": "30542953",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-26T19:31:00.756880+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33516649",
         "display_name": "Poslední naschvál (2025) 1080p CZ Dabing",
         "planned_at": "2026-10-26T19:02:31.416845+00:00"
-      },
-      "claim": {
-        "worker_id": "7093ee093f2940b8bb0301b83c65b83b-shard-0",
-        "claimed_at": "2026-10-26T19:26:20.702639+00:00",
-        "lease_expires_at": "2026-10-27T01:26:20.702639+00:00",
-        "run_id": "40336141531"
       },
       "previous_target_id": "30542953",
       "prepared": {
@@ -412811,5 +412813,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T19:26:46.621692+00:00"
+  "updated_at": "2026-10-26T19:31:00.756900+00:00"
 }
