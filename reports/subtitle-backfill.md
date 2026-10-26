@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-26T18:48:07.197289+00:00
+Poslední aktualizace (UTC): 2026-10-26T18:48:20.052883+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -449,7 +449,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Evropa (1991) SD CZ Titulky](https://prehraj.to/evropa-1991-sd-cz-titulky-mp4/b84a567761e71627) (ID 29895545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-26T18:47:00.422327+00:00 |
 | [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:16:34.440051+00:00 |
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-26T18:47:00.426277+00:00 |
-| [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-19T18:41:21.887813+00:00 |
+| [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-26T18:48:20.052728+00:00 |
 | [Eye for an Eye (2022) 720p CZ Titulky](https://prehraj.to/eye-for-an-eye-2022-720p-cz-titulky-mp4/9cbd587088b02ba8) (ID 30101219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-26T18:47:00.428679+00:00 |
 | [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:57:07.532010+00:00 |
 | [Fabricated City (2017) SD CZ Titulky](https://prehraj.to/fabricated-city-2017-sd-cz-titulky-avi/0930ce1fcebd5c2f) (ID 30070626) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-26T18:47:00.428415+00:00 |
