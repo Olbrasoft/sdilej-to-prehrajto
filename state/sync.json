@@ -162524,6 +162524,13 @@
           "target_video_id": "30163251",
           "permanent": false,
           "attempted_at": "2026-10-11T02:32:03.836615+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34775038",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-26T21:58:37.740794+00:00"
         }
       ],
       "last_plan": {
@@ -163417,7 +163424,15 @@
       "attempts": []
     },
     "27487": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34725223",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-26T21:58:58.395222+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34725223",
         "display_name": "Říše zvířat (2023) 720p CZ Titulky",
@@ -168871,6 +168886,13 @@
           "target_video_id": "30163369",
           "permanent": false,
           "attempted_at": "2026-10-11T02:39:08.477869+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34715914",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-26T21:59:19.033956+00:00"
         }
       ],
       "last_plan": {
@@ -170307,16 +170329,10 @@
           "attempted_at": "2026-10-11T02:44:13.258477+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34720732",
-        "display_name": "Případ pro tančící detektivku: Vražedné tango (2023) 1080p SK Dabing",
-        "planned_at": "2026-10-26T21:32:27.426540+00:00"
-      },
       "previous_target_id": "30163392",
-      "prepared": {
+      "upload": {
         "target_video_id": "30163392",
-        "size_bytes": 2273027652,
-        "prepared_at": "2026-10-11T02:39:15.221542+00:00"
+        "uploaded_at": "2026-10-26T21:59:58.708194+00:00"
       }
     },
     "11191": {
@@ -413388,5 +413404,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T21:58:11.048813+00:00"
+  "updated_at": "2026-10-26T21:59:58.708214+00:00"
 }
