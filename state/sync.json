@@ -162983,6 +162983,14 @@
           "reason": "Request failed for https://sdilej.cz/27370790/stridavka-2022-cz-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-09T08:32:37.722414+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "27370790",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30528819",
+          "attempted_at": "2026-10-26T10:53:12.036023+00:00"
         }
       ],
       "last_plan": {
@@ -162990,18 +162998,7 @@
         "display_name": "Střídavka (2022) 1080p CZ Dabing",
         "planned_at": "2026-10-26T10:40:49.076810+00:00"
       },
-      "claim": {
-        "worker_id": "097cc3f77e3f44f2a6943b26c7550b33-shard-0",
-        "claimed_at": "2026-10-26T10:41:23.562262+00:00",
-        "lease_expires_at": "2026-10-26T16:41:23.562262+00:00",
-        "run_id": "40287658009"
-      },
-      "previous_target_id": "30528819",
-      "prepared": {
-        "target_video_id": "30528819",
-        "size_bytes": 2157637409,
-        "prepared_at": "2026-10-26T10:41:27.388913+00:00"
-      }
+      "previous_target_id": "30528819"
     },
     "10691": {
       "attempts": []
@@ -412430,5 +412427,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T10:41:27.388924+00:00"
+  "updated_at": "2026-10-26T10:53:12.036040+00:00"
 }
