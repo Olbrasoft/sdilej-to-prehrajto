@@ -161032,6 +161032,14 @@
           "permanent": false,
           "target_video_id": "30115548",
           "attempted_at": "2026-10-09T04:32:24.223430+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "30683324",
+          "target_video_id": "30115548",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-26T09:27:37.945557+00:00"
         }
       ],
       "last_plan": {
@@ -161039,7 +161047,13 @@
         "display_name": "Na lovu (2022) 720p CZ Titulky",
         "planned_at": "2026-10-26T08:37:44.888896+00:00"
       },
-      "previous_target_id": "30115548"
+      "previous_target_id": "30115548",
+      "claim": {
+        "worker_id": "5121816077ac498b9c1bebbed366554d-shard-0",
+        "claimed_at": "2026-10-26T09:27:36.914868+00:00",
+        "lease_expires_at": "2026-10-26T15:27:36.914868+00:00",
+        "run_id": "40287658009"
+      }
     },
     "28360": {
       "attempts": []
@@ -161055,6 +161069,13 @@
           "reason": "Request failed for https://sdilej.cz/35160152/house-of-tolerance-2011-aka-house-of-pleasures-1080p-bluray-x265-10bit-ac3-5.1-cabiria.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-09T04:33:12.586712+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35160152",
+          "reason": "Request failed for https://sdilej.cz/35160152/house-of-tolerance-2011-aka-house-of-pleasures-1080p-bluray-x265-10bit-ac3-5.1-cabiria.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-26T09:28:24.393000+00:00"
         }
       ],
       "last_plan": {
@@ -412395,5 +412416,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T09:27:34.046610+00:00"
+  "updated_at": "2026-10-26T09:28:24.393020+00:00"
 }
