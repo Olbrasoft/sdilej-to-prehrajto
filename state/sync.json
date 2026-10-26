@@ -183175,18 +183175,20 @@
           "source_id": "26223310",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-10T20:56:46.922619+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26223310",
+          "target_video_id": "30544307",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-26T20:53:08.656812+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26223310",
         "display_name": "Konec básníků v Čechách... (1993) 4K CZ Dabing",
         "planned_at": "2026-10-26T20:13:44.891009+00:00"
-      },
-      "claim": {
-        "worker_id": "d241d447429f4e3b81656177d31359ce-shard-0",
-        "claimed_at": "2026-10-26T20:30:15.905915+00:00",
-        "lease_expires_at": "2026-10-27T02:30:15.905915+00:00",
-        "run_id": "40386834295"
       },
       "previous_target_id": "30544307",
       "prepared": {
@@ -413361,5 +413363,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T20:30:20.509694+00:00"
+  "updated_at": "2026-10-26T20:53:08.656834+00:00"
 }
