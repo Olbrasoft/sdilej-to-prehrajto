@@ -36888,6 +36888,13 @@
           "target_video_id": "30103403",
           "permanent": false,
           "attempted_at": "2026-10-08T16:40:53.400838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16914387",
+          "target_video_id": "30103403",
+          "permanent": false,
+          "attempted_at": "2026-10-26T05:01:11.752176+00:00"
         }
       ],
       "last_plan": {
@@ -36898,7 +36905,7 @@
       "previous_target_id": "30103403",
       "prepared": {
         "target_video_id": "30103403",
-        "size_bytes": 4855722756,
+        "size_bytes": 4900000000,
         "prepared_at": "2026-10-08T16:25:54.171303+00:00"
       }
     },
@@ -44198,6 +44205,13 @@
           "target_video_id": "30103692",
           "permanent": false,
           "attempted_at": "2026-10-08T16:50:41.871144+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34736702",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-26T05:01:32.375311+00:00"
         }
       ],
       "last_plan": {
@@ -46379,16 +46393,10 @@
           "attempted_at": "2026-10-08T16:59:02.573192+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33286772",
-        "display_name": "Ong Bak (2003) 1080p CZ Dabing",
-        "planned_at": "2026-10-26T04:42:53.845349+00:00"
-      },
       "previous_target_id": "30103866",
-      "prepared": {
+      "upload": {
         "target_video_id": "30103866",
-        "size_bytes": 3600401820,
-        "prepared_at": "2026-10-08T16:50:56.851295+00:00"
+        "uploaded_at": "2026-10-26T05:02:12.886922+00:00"
       }
     },
     "33596": {
@@ -157429,6 +157437,13 @@
           "target_video_id": "30103291",
           "permanent": false,
           "attempted_at": "2026-10-08T16:22:38.405351+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27445199",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-26T05:00:10.645462+00:00"
         }
       ],
       "last_plan": {
@@ -157450,7 +157465,15 @@
       "attempts": []
     },
     "3259": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34751591",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-26T05:00:31.281030+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34751591",
         "display_name": "Tajná mise v Soulu (2017) 1080p CZ Dabing",
@@ -412427,5 +412450,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T04:59:44.741879+00:00"
+  "updated_at": "2026-10-26T05:02:12.886941+00:00"
 }
