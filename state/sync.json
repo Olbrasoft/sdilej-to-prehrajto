@@ -177261,18 +177261,20 @@
           "source_id": "33616123",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-10T18:00:47.387461+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33616123",
+          "target_video_id": "30542809",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-26T19:26:15.101343+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33616123",
         "display_name": "Komikova smrt (2025) 1080p CZ Dabing",
         "planned_at": "2026-10-26T19:02:31.028053+00:00"
-      },
-      "claim": {
-        "worker_id": "7093ee093f2940b8bb0301b83c65b83b-shard-0",
-        "claimed_at": "2026-10-26T19:19:14.144625+00:00",
-        "lease_expires_at": "2026-10-27T01:19:14.144625+00:00",
-        "run_id": "40336141531"
       },
       "previous_target_id": "30542809",
       "prepared": {
@@ -412797,5 +412799,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T19:19:18.140007+00:00"
+  "updated_at": "2026-10-26T19:26:15.101362+00:00"
 }
