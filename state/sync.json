@@ -175026,18 +175026,20 @@
           "reason": "Request failed for https://sdilej.cz/33810236/cert-vi-proc-2003-pohadka-1080p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-10T12:44:11.308149+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33810236",
+          "target_video_id": "30542014",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-26T18:47:07.485938+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33810236",
         "display_name": "Čert ví proč (2003) 1080p CZ Dabing",
         "planned_at": "2026-10-26T18:35:11.436890+00:00"
-      },
-      "claim": {
-        "worker_id": "22cb4bf46fd44990aab6209b44d31186-shard-0",
-        "claimed_at": "2026-10-26T18:42:22.927024+00:00",
-        "lease_expires_at": "2026-10-27T00:42:22.927024+00:00",
-        "run_id": "40336141531"
       },
       "previous_target_id": "30542014",
       "prepared": {
@@ -412408,5 +412410,5 @@
       }
     }
   },
-  "updated_at": "2026-10-26T18:42:27.196984+00:00"
+  "updated_at": "2026-10-26T18:47:07.485959+00:00"
 }
