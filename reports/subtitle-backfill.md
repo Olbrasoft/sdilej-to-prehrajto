@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-27T03:41:59.041720+00:00
+Poslední aktualizace (UTC): 2026-10-27T03:42:04.538978+00:00
 
 Zkontrolováno videí: 2152. Další stránka kontroly: 0.
 
@@ -1614,7 +1614,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-27T02:43:46.766602+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-26T21:37:28.165870+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-26T21:37:18.150990+00:00 |
-| [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-26T21:37:13.312844+00:00 |
+| [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-27T03:42:04.538900+00:00 |
 | [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | target_unavailable | 2026-10-27T02:44:05.749775+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-10-27T02:43:15.975429+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-10-27T02:43:58.065814+00:00 |
