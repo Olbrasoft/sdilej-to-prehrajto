@@ -215012,18 +215012,20 @@
           "source_id": "26256519",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-12T19:05:12.408432+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26256519",
+          "target_video_id": "30571970",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-27T20:40:39.535861+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26256519",
         "display_name": "Věž smrti (2012) 1080p CZ Dabing",
         "planned_at": "2026-10-27T20:34:17.501678+00:00"
-      },
-      "claim": {
-        "worker_id": "dc79be2539c3403aa4f7e7accb1f9f43-shard-0",
-        "claimed_at": "2026-10-27T20:35:38.604935+00:00",
-        "lease_expires_at": "2026-10-28T02:35:38.604935+00:00",
-        "run_id": "40568180685"
       },
       "previous_target_id": "30571970",
       "prepared": {
@@ -416780,5 +416782,5 @@
       }
     }
   },
-  "updated_at": "2026-10-27T20:36:01.383179+00:00"
+  "updated_at": "2026-10-27T20:40:39.535881+00:00"
 }
