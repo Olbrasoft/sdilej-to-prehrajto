@@ -211272,18 +211272,20 @@
           "source_id": "35009422",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-12T17:54:20.837442+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35009422",
+          "target_video_id": "30569900",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-27T18:45:22.896890+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35009422",
         "display_name": "Mongolská spojka (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-27T18:32:37.016820+00:00"
-      },
-      "claim": {
-        "worker_id": "73774ab694c14327b8f18014502a3ee5-shard-0",
-        "claimed_at": "2026-10-27T18:37:42.555609+00:00",
-        "lease_expires_at": "2026-10-28T00:37:42.555609+00:00",
-        "run_id": "40513172183"
       },
       "previous_target_id": "30569900",
       "prepared": {
@@ -416031,5 +416033,5 @@
       }
     }
   },
-  "updated_at": "2026-10-27T18:38:06.587486+00:00"
+  "updated_at": "2026-10-27T18:45:22.896907+00:00"
 }
