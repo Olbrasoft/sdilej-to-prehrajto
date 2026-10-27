@@ -193510,6 +193510,14 @@
           "target_video_id": "30182122",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-10-11T19:04:09.560833+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32312701",
+          "target_video_id": "30182122",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-10-27T02:18:32.199870+00:00"
         }
       ],
       "last_plan": {
@@ -193517,12 +193525,7 @@
         "display_name": "Případ mrtvého nebožtíka (2020) 1080p CZ Dabing",
         "planned_at": "2026-10-27T02:04:32.950038+00:00"
       },
-      "previous_target_id": "30182122",
-      "prepared": {
-        "target_video_id": "30182122",
-        "size_bytes": 1908109640,
-        "prepared_at": "2026-10-11T18:56:13.842789+00:00"
-      }
+      "previous_target_id": "30182122"
     },
     "15767": {
       "attempts": [
@@ -413727,5 +413730,5 @@
       }
     }
   },
-  "updated_at": "2026-10-27T02:18:25.398085+00:00"
+  "updated_at": "2026-10-27T02:18:32.199887+00:00"
 }
