@@ -213609,18 +213609,20 @@
           "source_id": "34710571",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-12T18:56:52.526667+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34710571",
+          "target_video_id": "30571267",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-27T19:56:55.416640+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34710571",
         "display_name": "Tátové (2025) 1080p CZ Dabing",
         "planned_at": "2026-10-27T19:28:50.854566+00:00"
-      },
-      "claim": {
-        "worker_id": "c49b42a69f6a43c6bb4f43df1a6a6206-shard-0",
-        "claimed_at": "2026-10-27T19:52:36.831117+00:00",
-        "lease_expires_at": "2026-10-28T01:52:36.831117+00:00",
-        "run_id": "40568180685"
       },
       "previous_target_id": "30571267",
       "prepared": {
@@ -416543,5 +416545,5 @@
       }
     }
   },
-  "updated_at": "2026-10-27T19:53:00.004649+00:00"
+  "updated_at": "2026-10-27T19:56:55.416659+00:00"
 }
