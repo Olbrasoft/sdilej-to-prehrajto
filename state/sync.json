@@ -218236,18 +218236,20 @@
           "source_id": "27872767",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-12T19:41:05.989630+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27872767",
+          "target_video_id": "30573058",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-27T22:02:10.227057+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27872767",
         "display_name": "Má jediná touha (2022) 1080p CZ Dabing",
         "planned_at": "2026-10-27T21:01:57.580545+00:00"
-      },
-      "claim": {
-        "worker_id": "c700554fb604410592b270e1182a76ad-shard-0",
-        "claimed_at": "2026-10-27T21:50:02.325472+00:00",
-        "lease_expires_at": "2026-10-28T03:50:02.325472+00:00",
-        "run_id": "40568180685"
       },
       "previous_target_id": "30573058",
       "prepared": {
@@ -417309,5 +417311,5 @@
       }
     }
   },
-  "updated_at": "2026-10-27T21:50:25.672413+00:00"
+  "updated_at": "2026-10-27T22:02:10.227077+00:00"
 }
