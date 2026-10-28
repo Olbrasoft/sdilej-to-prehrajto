@@ -242481,6 +242481,14 @@
           "permanent": false,
           "target_video_id": "30268725",
           "attempted_at": "2026-10-15T17:18:51.268364+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "29182268",
+          "target_video_id": "30268725",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-10-28T15:42:17.198200+00:00"
         }
       ],
       "last_plan": {
@@ -242488,7 +242496,13 @@
         "display_name": "Hurvínek a kouzelné muzeum (2017) 4K CZ Dabing",
         "planned_at": "2026-10-28T15:33:11.991345+00:00"
       },
-      "previous_target_id": "30268725"
+      "previous_target_id": "30268725",
+      "claim": {
+        "worker_id": "b20466cf76594185a01db9b2f5d23857-shard-0",
+        "claimed_at": "2026-10-28T15:42:16.256063+00:00",
+        "lease_expires_at": "2026-10-28T21:42:16.256063+00:00",
+        "run_id": "40688182507"
+      }
     },
     "16197": {
       "attempts": [
@@ -242506,7 +242520,15 @@
       }
     },
     "17241": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21636076",
+          "target_video_id": "30269590",
+          "permanent": false,
+          "attempted_at": "2026-10-28T15:42:19.305806+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21636076",
         "display_name": "Vše o Nině (2018) 1080p CZ Dabing",
@@ -242515,7 +242537,7 @@
       "previous_target_id": "30269590",
       "prepared": {
         "target_video_id": "30269590",
-        "size_bytes": 3291308596,
+        "size_bytes": 3300000000,
         "prepared_at": "2026-10-15T17:19:05.134398+00:00"
       }
     },
@@ -417937,5 +417959,5 @@
       }
     }
   },
-  "updated_at": "2026-10-28T15:42:12.740293+00:00"
+  "updated_at": "2026-10-28T15:42:19.305823+00:00"
 }
