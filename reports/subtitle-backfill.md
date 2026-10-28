@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-28T12:33:41.170141+00:00
+Poslední aktualizace (UTC): 2026-10-28T12:33:44.833839+00:00
 
 Zkontrolováno videí: 2190. Další stránka kontroly: 0.
 
@@ -621,7 +621,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Inner Demons (2014) SD CZ Titulky](https://prehraj.to/inner-demons-2014-sd-cz-titulky-avi/49e73732dbab1b79) (ID 29679619) | [Sdílej 34447135](https://sdilej.cz/34447135/inner-demons.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:50:02.368522+00:00 |
 | [Internet Famous (2016) SD CZ Titulky](https://prehraj.to/internet-famous-2016-sd-cz-titulky-mp4/14f9f8f47b2fcc8e) (ID 29751947) | [Sdílej 34737763](https://sdilej.cz/34737763/internet-famous-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:35:31.281860+00:00 |
 | [Into the Ashes (2019) 1080p CZ Titulky](https://prehraj.to/into-the-ashes-2019-1080p-cz-titulky-mkv/0d20a038c2f1901a) (ID 29927444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-28T12:33:18.522890+00:00 |
-| [Invaze: Operace Mincemeat (2021) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29222250) | [Sdílej 29331445](https://sdilej.cz/29331445/operation.mincemeat-2021-cztit-v-obraze.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-28T11:28:09.690630+00:00 |
+| [Invaze: Operace Mincemeat (2021) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29222250) | [Sdílej 29331445](https://sdilej.cz/29331445/operation.mincemeat-2021-cztit-v-obraze.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-28T12:33:44.833757+00:00 |
 | [Ip Man: Kung Fu Master (2019) 720p CZ Titulky](https://prehraj.to/ip-man-kung-fu-master-2019-720p-cz-titulky-mp4/49337b2327af4462) (ID 29649588) | [Sdílej 34734418](https://sdilej.cz/34734418/ip-man-kung-fu-master-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:38:31.074495+00:00 |
 | [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-28T12:33:34.094824+00:00 |
 | [Iron Sky (2012) 1080p CZ Titulky](https://prehraj.to/iron-sky-2012-1080p-cz-titulky-mp4/70fc71db9141d6f2) (ID 29912564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-28T12:33:18.520740+00:00 |
