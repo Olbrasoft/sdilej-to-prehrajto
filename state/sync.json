@@ -254160,18 +254160,20 @@
           "reason": "Request failed for https://sdilej.cz/29787953/prazdniny-pana-beana-2007-novinka-cz-dabing-full-hd-1080p-pucci-film.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-16T16:00:07.731545+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29787953",
+          "target_video_id": "30592163",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-28T18:37:12.443844+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29787953",
         "display_name": "Prázdniny pana Beana (2007) 1080p CZ Dabing",
         "planned_at": "2026-10-28T18:09:11.421012+00:00"
-      },
-      "claim": {
-        "worker_id": "272f6623ac4346d1baf2098a9fb6a1d7-shard-0",
-        "claimed_at": "2026-10-28T18:20:26.277353+00:00",
-        "lease_expires_at": "2026-10-29T00:20:26.277353+00:00",
-        "run_id": "40688182507"
       },
       "previous_target_id": "30592163",
       "prepared": {
@@ -418595,5 +418597,5 @@
       }
     }
   },
-  "updated_at": "2026-10-28T18:20:30.439802+00:00"
+  "updated_at": "2026-10-28T18:37:12.443864+00:00"
 }
