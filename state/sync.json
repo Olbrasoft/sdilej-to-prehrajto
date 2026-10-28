@@ -260652,18 +260652,20 @@
           "source_id": "4232937",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-16T19:45:40.690150+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "4232937",
+          "target_video_id": "30593360",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-28T19:33:27.601164+00:00"
         }
       ],
       "last_plan": {
         "source_id": "4232937",
         "display_name": "Bionicle 2: Legenda Metru Nui (2004) SD CZ Dabing",
         "planned_at": "2026-10-28T18:52:37.978178+00:00"
-      },
-      "claim": {
-        "worker_id": "fdc13b47694b448fb85e93a654fb2e08-shard-0",
-        "claimed_at": "2026-10-28T19:28:07.211806+00:00",
-        "lease_expires_at": "2026-10-29T01:28:07.211806+00:00",
-        "run_id": "40745051348"
       },
       "previous_target_id": "30593360",
       "prepared": {
@@ -418961,5 +418963,5 @@
       }
     }
   },
-  "updated_at": "2026-10-28T19:28:13.388514+00:00"
+  "updated_at": "2026-10-28T19:33:27.601184+00:00"
 }
