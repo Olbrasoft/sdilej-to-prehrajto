@@ -252718,18 +252718,20 @@
           "reason": "Request failed for https://sdilej.cz/29287355/modry-blesk-1080p-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-16T13:51:03.589724+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29287355",
+          "target_video_id": "30591773",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-28T18:02:45.878036+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29287355",
         "display_name": "Modrý blesk (1999) 1080p CZ Dabing",
         "planned_at": "2026-10-28T17:30:11.463310+00:00"
-      },
-      "claim": {
-        "worker_id": "384cf7ea978a4ea3bd238e2cf35a28ba-shard-0",
-        "claimed_at": "2026-10-28T17:53:32.876916+00:00",
-        "lease_expires_at": "2026-10-28T23:53:32.876916+00:00",
-        "run_id": "40688182507"
       },
       "previous_target_id": "30591773",
       "prepared": {
@@ -418547,5 +418549,5 @@
       }
     }
   },
-  "updated_at": "2026-10-28T17:53:56.356851+00:00"
+  "updated_at": "2026-10-28T18:02:45.878053+00:00"
 }
