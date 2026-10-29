@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T08:30:31.962648+00:00
+Poslední aktualizace (UTC): 2026-10-29T08:30:41.069546+00:00
 
 Zkontrolováno videí: 2259. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `pending`: 1, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 693, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 693, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -259,6 +259,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Corpus Christi (2019) 1080p CZ Titulky](https://prehraj.to/corpus-christi-2019-1080p-cz-titulky-mp4/02c245d06ac8493d) (ID 29396360) | [Sdílej 31626440](https://sdilej.cz/31626440/corpus-christi-2019-pl-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:36:26.553493+00:00 |
 | [Corti circuiti erotici Vol.1 (1998) 1080p CZ Titulky](https://prehraj.to/corti-circuiti-erotici-vol-1-1998-1080p-cz-titulky-mp4/ac16d53173d3c4ab) (ID 30248807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T08:30:29.353215+00:00 |
 | [Counterfeiting in Suburbia (2018) 1080p CZ Titulky](https://prehraj.to/counterfeiting-in-suburbia-2018-1080p-cz-titulky-mp4/14fe5ce6397be744) (ID 29240545) | [Sdílej 34737087](https://sdilej.cz/34737087/counterfeiting-in-suburbia-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T22:33:07.261327+00:00 |
+| [Coven (2020) 1080p CZ Titulky](https://prehraj.to/coven-2020-1080p-cz-titulky-mp4/b24d18e5382f7449) (ID 30605750) | [Sdílej 34773360](https://sdilej.cz/34773360/coven-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T08:30:41.069415+00:00 |
 | [Cowspiracy - Klíč k udržitelnosti (2014) SD CZ Titulky](https://prehraj.to/cowspiracy-klic-k-udrzitelnosti-2014-sd-cz-titulky-mp4/3e955fc1ee0b5e6f) (ID 29282106) | [Sdílej 34711193](https://sdilej.cz/34711193/cowspiracy-klic-k-udrzitelnosti-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:42:51.314888+00:00 |
 | [Crazy Lake (2016) 720p CZ Titulky](https://prehraj.to/crazy-lake-2016-720p-cz-titulky-mp4/a924f59a3dcf18fb) (ID 29611093) | [Sdílej 34737829](https://sdilej.cz/34737829/crazy-lake-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:21:05.228793+00:00 |
 | [Creation Stories (2021) 1080p CZ Titulky](https://prehraj.to/creation-stories-2021-1080p-cz-titulky-mkv/f894dca557a5f133) (ID 29375643) | [Sdílej 18049678](https://sdilej.cz/18049678/creation-stories-2021-1080p-web-dl-dd5-1-h-264-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:39:50.620155+00:00 |
