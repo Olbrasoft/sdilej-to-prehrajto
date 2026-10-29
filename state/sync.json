@@ -307865,18 +307865,20 @@
           "reason": "Request failed for https://sdilej.cz/33346893/one-mile-chapter-one-2026-cz-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-19T02:21:09.445870+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33346893",
+          "target_video_id": "30617797",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-29T19:47:51.376883+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33346893",
         "display_name": "One Mile: Chapter One (2026) 1080p CZ Titulky",
         "planned_at": "2026-10-29T19:03:16.881830+00:00"
-      },
-      "claim": {
-        "worker_id": "4f9df3a4fd384b83a0c8341d8c6fc771-shard-0",
-        "claimed_at": "2026-10-29T19:39:44.290950+00:00",
-        "lease_expires_at": "2026-10-30T01:39:44.290950+00:00",
-        "run_id": "40920507808"
       },
       "previous_target_id": "30617797",
       "prepared": {
@@ -420822,5 +420824,5 @@
       }
     }
   },
-  "updated_at": "2026-10-29T19:40:12.866225+00:00"
+  "updated_at": "2026-10-29T19:47:51.376903+00:00"
 }
