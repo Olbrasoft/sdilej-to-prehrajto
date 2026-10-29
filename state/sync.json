@@ -297825,18 +297825,20 @@
           "source_id": "34727080",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-18T16:56:15.171813+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34727080",
+          "target_video_id": "30606658",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-29T09:01:39.015271+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34727080",
         "display_name": "Mira (2022) 1080p CZ Titulky",
         "planned_at": "2026-10-29T08:15:31.756405+00:00"
-      },
-      "claim": {
-        "worker_id": "94fefbb382eb4efe924bd5b560fe5a30-shard-0",
-        "claimed_at": "2026-10-29T08:49:33.051641+00:00",
-        "lease_expires_at": "2026-10-29T14:49:33.051641+00:00",
-        "run_id": "40829848542"
       },
       "previous_target_id": "30606658",
       "prepared": {
@@ -419492,5 +419494,5 @@
       }
     }
   },
-  "updated_at": "2026-10-29T08:49:37.993631+00:00"
+  "updated_at": "2026-10-29T09:01:39.015297+00:00"
 }
