@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:31:51.862287+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:32:08.550674+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -1448,7 +1448,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Unhealer (2020) SD CZ Titulky](https://prehraj.to/the-unhealer-2020-sd-cz-titulky-mkv/bac59cce1954336f) (ID 29708292) | [Sdílej 19227940](https://sdilej.cz/19227940/the.unhealer.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:56:15.256391+00:00 |
 | [The Unheard (2023) 1080p CZ Titulky](https://prehraj.to/the-unheard-2023-1080p-cz-titulky-mkv/87e799e2e5622b73) (ID 29608710) | [Sdílej 25681345](https://sdilej.cz/25681345/the-unheard-2023-cz-titulky-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:52.268134+00:00 |
 | [The United States vs. Billie Holiday (2021) 1080p CZ Titulky](https://prehraj.to/the-united-states-vs-billie-holiday-2021-1080p-cz-titulky-mp4/fae63f49ee0e618c) (ID 29291389) | [Sdílej 34772632](https://sdilej.cz/34772632/the-united-states-vs.-billie-holiday-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T02:42:57.290684+00:00 |
-| [The Vatican Tapes (2015) SD CZ Titulky](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:41:12.803933+00:00 |
+| [The Vatican Tapes (2015) SD CZ Titulky](https://prehraj.to/the-vatican-tapes-2015-sd-cz-titulky-avi/ba724825d71a3303) (ID 29089792) | [Sdílej 30581352](https://sdilej.cz/30581352/the-vatican-tapes-2015-cz-titulky-horor-novinka-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:32:08.550541+00:00 |
 | [The Veil (2016) SD CZ Titulky](https://prehraj.to/the-veil-2016-sd-cz-titulky-avi/b320b0d95b088a9f) (ID 29733905) | [Sdílej 18550814](https://sdilej.cz/18550814/the-veil-horor-2016-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:15:25.671995+00:00 |
 | [The Veil (2017) SD CZ Titulky](https://prehraj.to/the-veil-2017-sd-cz-titulky-mp4/b880355a99a9d9ab) (ID 29907336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.303820+00:00 |
 | [The Viking War (2019) 1080p CZ Titulky](https://prehraj.to/the-viking-war-2019-1080p-cz-titulky-mkv/a62369332dea0ea2) (ID 29713558) | [Sdílej 11268800](https://sdilej.cz/11268800/the.viking.war.2019.eng.1080p.amzn.web-dl.x264.eac3.6ch-cmrg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:03:55.052648+00:00 |
