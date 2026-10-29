@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:38:56.799169+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:39:07.661052+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -1603,7 +1603,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Xtreme (2021) 1080p CZ Titulky](https://prehraj.to/xtreme-2021-1080p-cz-titulky-mp4/5a83197136ae94a8) (ID 29911838) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.304340+00:00 |
 | [Yaara (2020) 720p CZ Titulky](https://prehraj.to/yaara-2020-720p-cz-titulky-mp4/f14a0fac92ab531a) (ID 29936917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.305879+00:00 |
 | [Yao (2019) SD CZ Titulky](https://prehraj.to/yao-2019-sd-cz-titulky-mp4/1547d59a3602c700) (ID 29631456) | [Sdílej 34763000](https://sdilej.cz/34763000/yao-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:27:47.028102+00:00 |
-| [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:53:09.565739+00:00 |
+| [Yojimbo (1961) 1080p CZ Titulky](https://prehraj.to/yojimbo-1961-1080p-cz-titulky-mkv/b69ef8a5565e239e) (ID 29206671) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:39:07.660923+00:00 |
 | [Yong shì (2016) SD CZ Titulky](https://prehraj.to/yong-shi-2016-sd-cz-titulky-mp4/7bed2760b20ceb41) (ID 29701775) | [Sdílej 34737582](https://sdilej.cz/34737582/yong-sh-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:53:33.963835+00:00 |
 | [You Get Me (2017) SD CZ Titulky](https://prehraj.to/you-get-me-2017-sd-cz-titulky-avi/846c72e0593ae4b8) (ID 29907348) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.303837+00:00 |
 | [Your Host (2025) 1080p CZ Titulky](https://prehraj.to/your-host-2025-1080p-cz-titulky-mkv/7ca17c9b86029012) (ID 29917725) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.304985+00:00 |
