@@ -372177,18 +372177,20 @@
           "source_id": "35279983",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-19T19:43:19.439535+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35279983",
+          "target_video_id": "30619746",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-29T21:43:20.301103+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35279983",
         "display_name": "Stopař (2007) 1080p CZ Dabing",
         "planned_at": "2026-10-29T21:30:07.634232+00:00"
-      },
-      "claim": {
-        "worker_id": "fb0835da556245e9ac956ef6b765ecfe-shard-0",
-        "claimed_at": "2026-10-29T21:30:58.986741+00:00",
-        "lease_expires_at": "2026-10-30T03:30:58.986741+00:00",
-        "run_id": "40920507808"
       },
       "previous_target_id": "30619746",
       "prepared": {
@@ -421364,5 +421366,5 @@
       }
     }
   },
-  "updated_at": "2026-10-29T21:31:03.963251+00:00"
+  "updated_at": "2026-10-29T21:43:20.301152+00:00"
 }
