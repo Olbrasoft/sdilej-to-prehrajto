@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:29:03.377539+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:29:11.549081+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -277,7 +277,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Daaaaaalí! (2023) 1080p CZ Titulky](https://prehraj.to/daaaaaali-2023-1080p-cz-titulky-mp4/00721f8e39597eb8) (ID 30158609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.307159+00:00 |
 | [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:04:51.249077+00:00 |
 | [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:17:36.127804+00:00 |
-| [Daleká cesta (1949) 1080p CZ Titulky](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:38:17.386078+00:00 |
+| [Daleká cesta (1949) 1080p CZ Titulky](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:29:11.548941+00:00 |
 | [Dangal (2016) 1080p CZ Titulky](https://prehraj.to/dangal-2016-1080p-cz-titulky-mkv/df8c26d4d2452a53) (ID 29111363) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.299827+00:00 |
 | [Danielle Steel: Prsten (1996) 1080p CZ Titulky](https://prehraj.to/danielle-steel-prsten-1996-1080p-cz-titulky-mkv/94300c9b1829a16b) (ID 29431004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.301522+00:00 |
 | [Dark Feed (2013) 1080p CZ Titulky](https://prehraj.to/dark-feed-2013-1080p-cz-titulky-mp4/49dc9ea45e84795c) (ID 29934954) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.305763+00:00 |
