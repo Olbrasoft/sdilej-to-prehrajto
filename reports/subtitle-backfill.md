@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:37:40.071962+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:37:50.283640+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -1375,7 +1375,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Curse of Audrey Earnshaw (2020) 1080p CZ Titulky.mkv](https://prehraj.to/the-curse-of-audrey-earnshaw-2020-1080p-cz-titulky-mkv/65ee279ab1a34b56) (ID 29657104) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.302642+00:00 |
 | [The DUFF (2015) SD CZ Titulky](https://prehraj.to/the-duff-2015-sd-cz-titulky-mkv/a3a2524e261b5722) (ID 30287165) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.307862+00:00 |
 | [The Dark (2018) 4K CZ Titulky](https://prehraj.to/the-dark-2018-4k-cz-titulky-mkv/4ec95b593d9c0936) (ID 29924355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.305305+00:00 |
-| [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:51:56.602435+00:00 |
+| [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:37:50.283503+00:00 |
 | [The Den (2013) SD CZ Titulky](https://prehraj.to/the-den-2013-sd-cz-titulky-avi/ed587265a2987826) (ID 29642468) | [Sdílej 34453340](https://sdilej.cz/34453340/the-den.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:33:57.349490+00:00 |
 | [The Discovery (2017) 1080p CZ Titulky](https://prehraj.to/the-discovery-2017-1080p-cz-titulky-mkv/dac97060aa7df167) (ID 30309670) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.308006+00:00 |
 | [The Engineer (2023) 1080p CZ Titulky](https://prehraj.to/the-engineer-2023-1080p-cz-titulky-mkv/bbf93480adf4f2a6) (ID 29737979) | [Sdílej 34393567](https://sdilej.cz/34393567/the-engineer-2023-1080p-amzn-web-dl-ddp5-1-h-264-flux.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:55.721895+00:00 |
