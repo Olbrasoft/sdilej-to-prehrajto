@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:30:32.029125+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:30:46.288490+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -291,7 +291,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Dead Trigger (2017) SD CZ Titulky](https://prehraj.to/dead-trigger-2017-sd-cz-titulky-mkv/1143014cba83d534) (ID 29935550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.305784+00:00 |
 | [DeadTectives (2018) 1080p CZ Titulky](https://prehraj.to/deadtectives-2018-1080p-cz-titulky-mkv/6e93fdf6db51c794) (ID 29983190) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.306225+00:00 |
 | [Deaf President Now! (2025) 1080p CZ Titulky](https://prehraj.to/deaf-president-now-2025-1080p-cz-titulky-mp4/62ab18e2520a51f3) (ID 29409939) | [Sdílej 31247368](https://sdilej.cz/31247368/deaf-president-now-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:41:55.180089+00:00 |
-| [Death Note (2017) SD CZ Titulky](https://prehraj.to/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:39:54.355725+00:00 |
+| [Death Note (2017) SD CZ Titulky](https://prehraj.to/death-note-2017-sd-cz-titulky-avi/ba6f8cbaa8d67cc4) (ID 29089005) | [Sdílej 34852550](https://sdilej.cz/34852550/death.note.2017.avi-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:30:46.288363+00:00 |
 | [Death of a Superhero (2011) 1080p CZ Titulky](https://prehraj.to/death-of-a-superhero-2011-1080p-cz-titulky-mp4/573f87a402dcceed) (ID 29373296) | [Sdílej 34748652](https://sdilej.cz/34748652/death-of-a-superhero-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:39:31.873146+00:00 |
 | [Deathstalker (2025) 4K CZ Titulky](https://prehraj.to/deathstalker-2025-4k-cz-titulky-mkv/9273b9179fdb57d3) (ID 30326336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.308254+00:00 |
 | [Deb a noc oživlých mrtvol (2015) 1080p CZ Titulky](https://prehraj.to/deb-a-noc-ozivlych-mrtvol-2015-1080p-cz-titulky-mkv/29851baba6196496) (ID 29908103) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.303997+00:00 |
