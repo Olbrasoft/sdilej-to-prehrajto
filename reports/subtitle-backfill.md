@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:40:01.575641+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:40:11.260553+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -1319,7 +1319,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Syn Boží (2014) SD CZ Titulky](https://prehraj.to/syn-bozi-2014-sd-cz-titulky-avi/755a8747c84bf683) (ID 29947059) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.306088+00:00 |
 | [Sázka na teambuilding (2022) 1080p CZ Titulky](https://prehraj.to/sazka-na-teambuilding-2022-1080p-cz-titulky-avi/84764a32ef1bb9ce) (ID 29366691) | [Sdílej 24604399](https://sdilej.cz/24604399/sazka-na-teambuilding-teambuilding-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:37:52.304774+00:00 |
 | [Síla ducha (2020) 1080p CZ Titulky](https://prehraj.to/sila-ducha-2020-1080p-cz-titulky-mp4/79f724d71ece0579) (ID 30098639) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.306852+00:00 |
-| [Sůl Země (2014) 1080p CZ Titulky](https://prehraj.to/sul-zeme-2014-1080p-cz-titulky-mp4/ba9d51cf1c6730e4) (ID 29212321) | [Sdílej 34738271](https://sdilej.cz/34738271/sul-zeme-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:54:21.077388+00:00 |
+| [Sůl Země (2014) 1080p CZ Titulky](https://prehraj.to/sul-zeme-2014-1080p-cz-titulky-mp4/ba9d51cf1c6730e4) (ID 29212321) | [Sdílej 34738271](https://sdilej.cz/34738271/sul-zeme-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:40:11.260417+00:00 |
 | [T11 Incomplete (2020) 1080p CZ Titulky](https://prehraj.to/t11-incomplete-2020-1080p-cz-titulky-mkv/dadaecf58198b4ed) (ID 30215459) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.307412+00:00 |
 | [THE QUEST: Nepal (2022) 1080p CZ Titulky](https://prehraj.to/the-quest-nepal-2022-1080p-cz-titulky-mp4/3f24e892e871053d) (ID 29667862) | [Sdílej 34726723](https://sdilej.cz/34726723/the-quest-nepal-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:46:17.434369+00:00 |
 | [THX 1138 (1971) 1080p CZ Titulky](https://prehraj.to/thx-1138-1971-1080p-cz-titulky-mp4/2d2a75fdc8a528a3) (ID 29735516) | [Sdílej 34577993](https://sdilej.cz/34577993/thx.1138.1971.dc.1080p.bluray.x264.dts-fgt-cztit.converted.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:17:48.171052+00:00 |
