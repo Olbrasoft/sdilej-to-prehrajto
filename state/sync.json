@@ -372628,18 +372628,20 @@
           "source_id": "29848762",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-19T19:53:55.589085+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29848762",
+          "target_video_id": "30620000",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-29T21:54:28.853591+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29848762",
         "display_name": "Hráčské doupě (2017) 1080p CZ Dabing",
         "planned_at": "2026-10-29T21:30:08.807002+00:00"
-      },
-      "claim": {
-        "worker_id": "fb0835da556245e9ac956ef6b765ecfe-shard-0",
-        "claimed_at": "2026-10-29T21:44:09.282039+00:00",
-        "lease_expires_at": "2026-10-30T03:44:09.282039+00:00",
-        "run_id": "40920507808"
       },
       "previous_target_id": "30620000",
       "prepared": {
@@ -421392,5 +421394,5 @@
       }
     }
   },
-  "updated_at": "2026-10-29T21:44:32.752780+00:00"
+  "updated_at": "2026-10-29T21:54:28.853612+00:00"
 }
