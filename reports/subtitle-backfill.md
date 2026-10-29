@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:40:11.260553+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:40:23.499971+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -146,7 +146,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:19:12.237544+00:00 |
 | [Betonrauš (2020) 1080p CZ Titulky](https://prehraj.to/betonraus-2020-1080p-cz-titulky-mkv/47a04ec254b17672) (ID 30313587) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.308063+00:00 |
 | [Beware the Slenderman (2016) 1080p CZ Titulky](https://prehraj.to/beware-the-slenderman-2016-1080p-cz-titulky-mp4/67dcb00c4ef57b3f) (ID 29582153) | [Sdílej 34737859](https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:13:19.027666+00:00 |
-| [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:54:32.468302+00:00 |
+| [Bhaag Milkha Bhaag (2013) SD CZ Titulky](https://prehraj.to/bhaag-milkha-bhaag-2013-sd-cz-titulky-mp4/1ba06e799f148ba0) (ID 29212380) | [Sdílej 34742267](https://sdilej.cz/34742267/bhaag-milkha-bhaag-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:40:23.499819+00:00 |
 | [Bikini Drive-In (1995) SD CZ Titulky](https://prehraj.to/bikini-drive-in-1995-sd-cz-titulky-mkv/6a7c25c16d12d2cd) (ID 29637810) | [Sdílej 34828279](https://sdilej.cz/34828279/bikini-drive-in.1995.dvdrip.xvid-cg-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:48.012561+00:00 |
 | [Bitcoin: Konec peněz jak je známe (2015) 1080p CZ Titulky](https://prehraj.to/bitcoin-konec-penez-jak-je-zname-2015-1080p-cz-titulky-mp4/d42cc963c656de4e) (ID 29578193) | [Sdílej 34738133](https://sdilej.cz/34738133/bitcoin-konec-penez-jak-je-zname-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:12:02.081544+00:00 |
 | [Bitva kuchařů (2017) 720p CZ Titulky](https://prehraj.to/bitva-kucharu-2017-720p-cz-titulky-mp4/0e7cd421b93b6de5) (ID 29372608) | [Sdílej 34711958](https://sdilej.cz/34711958/bitva-kucharu-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:39:00.949841+00:00 |
