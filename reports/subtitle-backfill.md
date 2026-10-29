@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:33:52.195925+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:34:08.770935+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -1670,7 +1670,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:39:51.841946+00:00 |
 | [Černý medvěd (2020) 1080p CZ Titulky](https://prehraj.to/cerny-medved-2020-1080p-cz-titulky-mkv/a731f555ebcb4abf) (ID 30216779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.307433+00:00 |
 | [Černý ostrov (2021) 1080p CZ Titulky](https://prehraj.to/cerny-ostrov-2021-1080p-cz-titulky-mp4/815922ba340a8c4d) (ID 29925375) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.305338+00:00 |
-| [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:43:13.813052+00:00 |
+| [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:34:08.770766+00:00 |
 | [Člověk ze Západu (1940) 1080p CZ Titulky](https://prehraj.to/clovek-ze-zapadu-1940-1080p-cz-titulky-mkv/77644b1949622c67) (ID 29327215) | [Sdílej 29216985](https://sdilej.cz/29216985/the.westerner.1940.eng.fra.1080p.webrip.x264.aac-rht-sksub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T07:38:48.015196+00:00 |
 | [Čokoládový dortík (2022) SD CZ Titulky](https://prehraj.to/cokoladovy-dortik-2022-sd-cz-titulky-avi/7c77e44c74b91ff3) (ID 29606406) | [Sdílej 24428260](https://sdilej.cz/24428260/cokoladovy-dortik-sachertorte-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:17:31.705220+00:00 |
 | [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:41:39.200813+00:00 |
