@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:36:14.799113+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:36:25.071302+00:00
 
 Zkontrolováno videí: 2262. Další stránka kontroly: 0.
 
@@ -1160,7 +1160,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Roadrunner: Film o Anthonym Bourdainovi (2021) 1080p CZ Titulky](https://prehraj.to/roadrunner-film-o-anthonym-bourdainovi-2021-1080p-cz-titulky-mp4/8f39ffccc8497830) (ID 29559554) | [Sdílej 34772730](https://sdilej.cz/34772730/roadrunner-film-o-anthonym-bourdainovi-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:01:40.122184+00:00 |
 | [Robert the Bruce (2019) 720p CZ Titulky](https://prehraj.to/robert-the-bruce-2019-720p-cz-titulky-mp4/db1e6f5556e9487c) (ID 29912743) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.304504+00:00 |
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-29T15:27:31.304231+00:00 |
-| [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T14:50:33.394269+00:00 |
+| [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:36:25.071165+00:00 |
 | [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:46:30.649264+00:00 |
 | [Rok, kdy jsem začala masturbovat (2022) 1080p CZ Titulky](https://prehraj.to/rok-kdy-jsem-zacala-masturbovat-2022-1080p-cz-titulky-mp4/bbdfbd2beaa38b58) (ID 29722723) | [Sdílej 34726868](https://sdilej.cz/34726868/rok-kdy-jsem-zacala-masturbovat-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:10:00.729043+00:00 |
 | [Ronnie Coleman: Relentless (2007) SD CZ Titulky](https://prehraj.to/ronnie-coleman-relentless-2007-sd-cz-titulky-mp4/b9a3d5e37c0ec05c) (ID 29214549) | [Sdílej 34781462](https://sdilej.cz/34781462/ronnie-coleman-relentless-2007-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-22T18:44:46.581751+00:00 |
