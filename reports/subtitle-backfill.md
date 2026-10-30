@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:41:13.335865+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:41:32.860816+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1220,7 +1220,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Revolt (2017) SD CZ Titulky](https://prehraj.to/revolt-2017-sd-cz-titulky-avi/2e38fbed2726da1d) (ID 30371729) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153382+00:00 |
 | [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:29:27.147544+00:00 |
 | [Ride On (2023) 1080p CZ Titulky](https://prehraj.to/ride-on-2023-1080p-cz-titulky-mp4/cb860af57d0ce99d) (ID 30280693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152935+00:00 |
-| [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:48:37.753953+00:00 |
+| [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:41:32.860690+00:00 |
 | [Rise of the Zombies (2012) 1080p CZ Titulky](https://prehraj.to/rise-of-the-zombies-2012-1080p-cz-titulky-mp4/361c55ec98f51a60) (ID 29906087) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.147216+00:00 |
 | [Rituální zabiják (2023) 1080p CZ Titulky](https://prehraj.to/ritualni-zabijak-2023-1080p-cz-titulky-mp4/2ef56b31ce04736e) (ID 29910439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.147591+00:00 |
 | [Road (2014) SD CZ Titulky](https://prehraj.to/road-2014-sd-cz-titulky-mp4/8a0d713a54896a3b) (ID 29307195) | [Sdílej 34776260](https://sdilej.cz/34776260/road-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T06:40:22.061231+00:00 |
