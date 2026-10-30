@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:53:48.505175+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:54:09.293316+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1119,7 +1119,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Polityka (2019) SD CZ Titulky](https://prehraj.to/polityka-2019-sd-cz-titulky-avi/afa2d101685054e0) (ID 29731711) | [Sdílej 12855322](https://sdilej.cz/12855322/polityka-2019-pl.dvdrip.xvid-klio.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:53:39.216189+00:00 |
 | [Polycarp (2015) SD CZ Titulky](https://prehraj.to/polycarp-2015-sd-cz-titulky-mkv/23c49061d09c85c0) (ID 30144568) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588433+00:00 |
 | [Polytechnika (2009) 720p CZ Titulky](https://prehraj.to/polytechnika-2009-720p-cz-titulky-mkv/eb6184b509171e26) (ID 30036118) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587968+00:00 |
-| [Pomsta upírek (2022) 720p CZ Titulky](https://prehraj.to/pomsta-upirek-2022-720p-cz-titulky-avi/fcc4c2f18567a092) (ID 29732167) | [Sdílej 23601371](https://sdilej.cz/23601371/v-for-vengeance-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:13:02.274199+00:00 |
+| [Pomsta upírek (2022) 720p CZ Titulky](https://prehraj.to/pomsta-upirek-2022-720p-cz-titulky-avi/fcc4c2f18567a092) (ID 29732167) | [Sdílej 23601371](https://sdilej.cz/23601371/v-for-vengeance-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:54:09.293182+00:00 |
 | [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:51:29.880901+00:00 |
 | [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:57.509605+00:00 |
 | [Popeye the Slayer Man (2025) 1080p CZ Titulky](https://prehraj.to/popeye-the-slayer-man-2025-1080p-cz-titulky-mkv/2e3c54d792ba9b3f) (ID 30417286) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589593+00:00 |
