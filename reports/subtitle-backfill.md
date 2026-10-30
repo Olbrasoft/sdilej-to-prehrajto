@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:53:22.662187+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:53:34.060795+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1617,7 +1617,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [V zemi (2021) 1080p CZ Titulky](https://prehraj.to/v-zemi-2021-1080p-cz-titulky-mkv/885e0f646c7ded6b) (ID 30392344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.791840+00:00 |
 | [V úskalí (2020) SD CZ Titulky](https://prehraj.to/v-uskali-2020-sd-cz-titulky-mkv/b4be3343a7259f4e) (ID 29284063) | [Sdílej 14433055](https://sdilej.cz/14433055/v-uskali-2020-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:37.584321+00:00 |
 | [V/H/S (2012) SD CZ Titulky](https://prehraj.to/v-h-s-2012-sd-cz-titulky-avi/f67d16fde51bd378) (ID 29809175) | [Sdílej 34454298](https://sdilej.cz/34454298/v.h.s-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:40:34.792921+00:00 |
-| [V/H/S/85 (2023) SD CZ Titulky](https://prehraj.to/v-h-s-85-2023-sd-cz-titulky-mp4/9af854231d75dff6) (ID 29539008) | [Sdílej 27431301](https://sdilej.cz/27431301/v-h-s-85-2023-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:59:30.773728+00:00 |
+| [V/H/S/85 (2023) SD CZ Titulky](https://prehraj.to/v-h-s-85-2023-sd-cz-titulky-mp4/9af854231d75dff6) (ID 29539008) | [Sdílej 27431301](https://sdilej.cz/27431301/v-h-s-85-2023-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:53:34.060653+00:00 |
 | [V/H/S/99 (2022) 1080p CZ Titulky.mkv](https://prehraj.to/v-h-s-99-2022-1080p-cz-titulky-mkv/9eb4d712ce67dd6b) (ID 29932930) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.782657+00:00 |
 | [V/H/S/Halloween (2025) 1080p CZ Titulky](https://prehraj.to/v-h-s-halloween-2025-1080p-cz-titulky-mkv/dd87328f82296aa7) (ID 29913569) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.780219+00:00 |
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:28:24.871053+00:00 |
