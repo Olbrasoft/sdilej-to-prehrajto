@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:51:34.565382+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:51:45.137784+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1091,7 +1091,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Pet Graveyard (2019) 1080p CZ Titulky](https://prehraj.to/pet-graveyard-2019-1080p-cz-titulky-mkv/9f49f03111633b78) (ID 29723521) | [Sdílej 11690579](https://sdilej.cz/11690579/pet-graveyard-2019-titulky.cz-1080p.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-23T16:10:32.780842+00:00 |
 | [Peter Tatchell: Láska a nenávist (2021) 1080p CZ Titulky](https://prehraj.to/peter-tatchell-laska-a-nenavist-2021-1080p-cz-titulky-mp4/eb751ad3a4245d76) (ID 29461088) | [Sdílej 34728984](https://sdilej.cz/34728984/peter-tatchell-laska-a-nenavist-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:42:59.058071+00:00 |
 | [Petr a vlk (2006) 1080p CZ Titulky](https://prehraj.to/petr-a-vlk-2006-1080p-cz-titulky-mp4/d1b3a4e499824982) (ID 30033532) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587945+00:00 |
-| [Phantasm IV: Oblivion (1998) 1080p CZ Titulky](https://prehraj.to/phantasm-iv-oblivion-1998-1080p-cz-titulky-mp4/5262582f0b422e54) (ID 29723303) | [Sdílej 34783709](https://sdilej.cz/34783709/phantasm-iv-oblivion-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:10:21.430198+00:00 |
+| [Phantasm IV: Oblivion (1998) 1080p CZ Titulky](https://prehraj.to/phantasm-iv-oblivion-1998-1080p-cz-titulky-mp4/5262582f0b422e54) (ID 29723303) | [Sdílej 34783709](https://sdilej.cz/34783709/phantasm-iv-oblivion-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:51:45.137665+00:00 |
 | [Phantom (2013) 4K CZ Titulky.mkv](https://prehraj.to/phantom-2013-4k-cz-titulky-mkv/17f3cd9d6cf104e1) (ID 29650273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.585641+00:00 |
 | [Phantom (2015) SD CZ Titulky](https://prehraj.to/phantom-2015-sd-cz-titulky-mp4/9097442586fc0a3b) (ID 29615023) | [Sdílej 34775805](https://sdilej.cz/34775805/phantom-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:16:10.239436+00:00 |
 | [Phil (2019) 1080p CZ Titulky](https://prehraj.to/phil-2019-1080p-cz-titulky-mp4/bbe55f5635d61a35) (ID 29526645) | [Sdílej 34773646](https://sdilej.cz/34773646/phil-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:49:02.668361+00:00 |
