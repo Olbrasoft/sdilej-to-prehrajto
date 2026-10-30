@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:58:01.501546+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:58:10.305947+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -661,7 +661,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [I Am Soldier (2014) SD CZ Titulky](https://prehraj.to/i-am-soldier-2014-sd-cz-titulky-avi/a89560a03ca7bc51) (ID 29721964) | [Sdílej 27587211](https://sdilej.cz/27587211/i-am-soldier-2014cz-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:09:51.653679+00:00 |
 | [I Can Only Imagine (2018) SD CZ Titulky](https://prehraj.to/i-can-only-imagine-2018-sd-cz-titulky-mp4/a446316ce9b0f18e) (ID 29505035) | [Sdílej 34774282](https://sdilej.cz/34774282/i-can-only-imagine-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:46:43.213260+00:00 |
 | [I Hear the Trees Whispering (2022) 1080p CZ Titulky](https://prehraj.to/i-hear-the-trees-whispering-2022-1080p-cz-titulky-mp4/d384c048ef14bba5) (ID 29613960) | [Sdílej 34760540](https://sdilej.cz/34760540/i-hear-the-trees-whispering-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:24:31.351660+00:00 |
-| [I am Jonas (2018) 1080p CZ Titulky](https://prehraj.to/i-am-jonas-2018-1080p-cz-titulky-mp4/c9e5426e57368765) (ID 29562401) | [Sdílej 34737006](https://sdilej.cz/34737006/i-am-jonas-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:04:29.359319+00:00 |
+| [I am Jonas (2018) 1080p CZ Titulky](https://prehraj.to/i-am-jonas-2018-1080p-cz-titulky-mp4/c9e5426e57368765) (ID 29562401) | [Sdílej 34737006](https://sdilej.cz/34737006/i-am-jonas-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:58:10.305824+00:00 |
 | [I'll Take Your Dead (2018) 1080p CZ Titulky.mkv](https://prehraj.to/i-ll-take-your-dead-2018-1080p-cz-titulky-mkv/98558fbe1747e87d) (ID 29657112) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.777213+00:00 |
 | [Ibiza (2018) SD CZ Titulky](https://prehraj.to/ibiza-2018-sd-cz-titulky-avi/e2dc63a5442516d3) (ID 29943595) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.783755+00:00 |
 | [Icarus (2017) 720p CZ Titulky](https://prehraj.to/icarus-2017-720p-cz-titulky-mkv/defdd2bfae480175) (ID 29203765) | [Sdílej 7985775](https://sdilej.cz/7985775/icarus-2017-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:07.485875+00:00 |
