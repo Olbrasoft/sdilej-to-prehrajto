@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:29:15.995707+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:29:22.844963+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -114,7 +114,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [Až na věky (2024) 1080p CZ Titulky](https://prehraj.to/az-na-veky-2024-1080p-cz-titulky-mp4/b8e0b025dbc56392) (ID 30030557) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797313+00:00 |
 | [Baaghi (2016) 1080p CZ Titulky](https://prehraj.to/baaghi-2016-1080p-cz-titulky-mkv/3e815fc9d9b61d4b) (ID 29749751) | [Sdílej 34799023](https://sdilej.cz/34799023/baaghi-1-akcni-indie-tiger-shroff-2016-cztit.1080p.bluray.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:12.409369+00:00 |
 | [Baahubali: The Beginning (2015) SD CZ Titulky](https://prehraj.to/baahubali-the-beginning-2015-sd-cz-titulky-mp4/49e5f3a13e73fc13) (ID 29215227) | [Sdílej 34697577](https://sdilej.cz/34697577/baahubali-the-beginning-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:25:54.296654+00:00 |
-| [Babadook (2014) 1080p CZ Titulky](https://prehraj.to/babadook-2014-1080p-cz-titulky-mkv/3d27c0c347053c48) (ID 29654576) | [Sdílej 24232095](https://sdilej.cz/24232095/the-babadook-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:41:27.506853+00:00 |
+| [Babadook (2014) 1080p CZ Titulky](https://prehraj.to/babadook-2014-1080p-cz-titulky-mkv/3d27c0c347053c48) (ID 29654576) | [Sdílej 24232095](https://sdilej.cz/24232095/the-babadook-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:29:22.844833+00:00 |
 | [Babygirl (2024) 1080p CZ Titulky](https://prehraj.to/babygirl-2024-1080p-cz-titulky-mp4/5941aa4bea043be3) (ID 29937986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.796702+00:00 |
 | [Babysitting (2014) 1080p CZ Titulky](https://prehraj.to/babysitting-2014-1080p-cz-titulky-mkv/d35ee7db6c0e9950) (ID 29458514) | [Sdílej 19177621](https://sdilej.cz/19177621/babysitting-1-2014-fra.dab.-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:42:28.063817+00:00 |
 | [Backcountry (2015) SD CZ Titulky](https://prehraj.to/backcountry-2015-sd-cz-titulky-mp4/cc23d2f72757ccff) (ID 29646966) | [Sdílej 34738140](https://sdilej.cz/34738140/backcountry-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:24:09.804381+00:00 |
