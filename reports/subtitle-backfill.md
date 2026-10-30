@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:09:37.480270+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:09:47.324209+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -326,7 +326,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:53:22.662046+00:00 |
 | [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:32:53.620042+00:00 |
 | [Dirty Angels (2024) 1080p CZ Titulky](https://prehraj.to/dirty-angels-2024-1080p-cz-titulky-mkv/fa6c335e2f8da21f) (ID 30413288) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.792353+00:00 |
-| [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:17:54.238735+00:00 |
+| [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:09:47.324067+00:00 |
 | [Divoký Stomp (2007) SD CZ Titulky](https://prehraj.to/divoky-stomp-2007-sd-cz-titulky-mkv/a4de82efb97e641b) (ID 30367917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.790868+00:00 |
 | [Do Not Enter (2026) 4K CZ Titulky](https://prehraj.to/do-not-enter-2026-4k-cz-titulky-mkv/c2f3dc1a0653175c) (ID 30414278) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.792400+00:00 |
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:26:57.389048+00:00 |
