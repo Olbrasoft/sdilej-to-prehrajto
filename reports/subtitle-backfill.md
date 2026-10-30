@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T11:28:18.368997+00:00
+Poslední aktualizace (UTC): 2026-10-30T11:28:27.452721+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1127,7 +1127,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:51:09.749589+00:00 |
 | [Popeye the Slayer Man (2025) 1080p CZ Titulky](https://prehraj.to/popeye-the-slayer-man-2025-1080p-cz-titulky-mkv/2e3c54d792ba9b3f) (ID 30417286) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.574984+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:40.376059+00:00 |
-| [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:41:10.402207+00:00 |
+| [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:28:27.452549+00:00 |
 | [Porodní bába (2015) SD CZ Titulky](https://prehraj.to/porodni-baba-2015-sd-cz-titulky-avi/2721f55c52d5baec) (ID 30250814) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.572378+00:00 |
 | [Pose (2026) 1080p CZ Titulky](https://prehraj.to/pose-2026-1080p-cz-titulky-mkv/16f6fc58a043cce6) (ID 30417731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.575014+00:00 |
 | [Posedlá kontrolou (2025) 1080p CZ Titulky](https://prehraj.to/posedla-kontrolou-2025-1080p-cz-titulky-mp4/cb9490a669054a3a) (ID 29747271) | [Sdílej 30831027](https://sdilej.cz/30831027/control-freak-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:30:34.206296+00:00 |
