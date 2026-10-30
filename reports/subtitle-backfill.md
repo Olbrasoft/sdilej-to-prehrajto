@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T18:42:18.092140+00:00
+Poslední aktualizace (UTC): 2026-10-30T18:42:25.692367+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -754,7 +754,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kick (2014) SD CZ Titulky](https://prehraj.to/kick-2014-sd-cz-titulky-mp4/249429b27658a2a4) (ID 29536732) | [Sdílej 34776445](https://sdilej.cz/34776445/kick-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:53:04.128255+00:00 |
 | [Kickboxer: Vengeance (2016) 1080p CZ Titulky](https://prehraj.to/kickboxer-vengeance-2016-1080p-cz-titulky-mkv/6382705ca596135c) (ID 30411655) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.574582+00:00 |
 | [Kill Switch (2017) 1080p CZ Titulky](https://prehraj.to/kill-switch-2017-1080p-cz-titulky-mkv/4d8f8822f267124f) (ID 30413382) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.574650+00:00 |
-| [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:45:10.185313+00:00 |
+| [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:42:25.692256+00:00 |
 | [King Kong vs. Godzilla (1962) SD CZ Titulky](https://prehraj.to/king-kong-vs-godzilla-1962-sd-cz-titulky-avi/70d5085ad0d3920e) (ID 30257880) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.572136+00:00 |
 | [Kingdom (2019) 1080p CZ Titulky](https://prehraj.to/kingdom-2019-1080p-cz-titulky-mp4/9df35e3b2fab324f) (ID 29749185) | [Sdílej 34904048](https://sdilej.cz/34904048/kingdom-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:33:25.616573+00:00 |
 | [Klasický horor (2021) 1080p CZ Titulky](https://prehraj.to/klasicky-horor-2021-1080p-cz-titulky-mp4/ae505b6015551aee) (ID 29914742) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.565725+00:00 |
