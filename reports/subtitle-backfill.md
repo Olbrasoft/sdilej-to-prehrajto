@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T08:31:16.263872+00:00
+Poslední aktualizace (UTC): 2026-10-30T08:31:25.278225+00:00
 
 Zkontrolováno videí: 2356. Další stránka kontroly: 0.
 
@@ -1306,7 +1306,7 @@ Kontrol: 11; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Smrt do roku 2020 (2020) 1080p CZ Titulky](https://prehraj.to/smrt-do-roku-2020-2020-1080p-cz-titulky-avi/94fe54d6492c94af) (ID 29747667) | [Sdílej 22458495](https://sdilej.cz/22458495/smrt-do-roku-2020-death-to-2020-2020-komedie-dokument-1920x1080p.-en-ct-title.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:30:58.380554+00:00 |
 | [Smrt roku 2021! (2021) 1080p CZ Titulky](https://prehraj.to/smrt-roku-2021-2021-1080p-cz-titulky-avi/212688a30e86f589) (ID 29976229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T08:30:31.099228+00:00 |
 | [Smrt za oponou (1967) 1080p CZ Titulky](https://prehraj.to/smrt-za-oponou-1967-1080p-cz-titulky-mkv/ab1104ce142dbcfe) (ID 29806237) | [Sdílej 34922724](https://sdilej.cz/34922724/smrt-za-oponou-1967-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:40:18.154994+00:00 |
-| [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T07:39:09.126048+00:00 |
+| [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:31:25.278111+00:00 |
 | [Smyk (1960) SD CZ Titulky](https://prehraj.to/smyk-1960-sd-cz-titulky-avi/a710d8e22203f86d) (ID 29820103) | [Sdílej 12537063](https://sdilej.cz/12537063/smyk-1960-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:40:51.964864+00:00 |
 | [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:08:56.099537+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:28:47.209542+00:00 |
