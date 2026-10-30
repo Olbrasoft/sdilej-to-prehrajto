@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:40:27.389947+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:40:35.446656+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -924,7 +924,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [My Soul to Keep (2019) 1080p CZ Titulky](https://prehraj.to/my-soul-to-keep-2019-1080p-cz-titulky-mkv/2d9acfdacc12a194) (ID 29573170) | [Sdílej 12388992](https://sdilej.cz/12388992/my.soul.to.keep.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:35.787012+00:00 |
 | [My Teacher, My Obsession (2018) 1080p CZ Titulky](https://prehraj.to/my-teacher-my-obsession-2018-1080p-cz-titulky-mkv/9379a804dc0d25be) (ID 29933231) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587317+00:00 |
 | [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:44:37.288817+00:00 |
-| [Májové hvězdy (1959) 1080p CZ Titulky](https://prehraj.to/majove-hvezdy-1959-1080p-cz-titulky-mkv/82f7991c0b09dc6f) (ID 29697994) | [Sdílej 34751185](https://sdilej.cz/34751185/majove-hvezdy-1959-pro-pametniky-valecny-povidkovy-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:53:15.239988+00:00 |
+| [Májové hvězdy (1959) 1080p CZ Titulky](https://prehraj.to/majove-hvezdy-1959-1080p-cz-titulky-mkv/82f7991c0b09dc6f) (ID 29697994) | [Sdílej 34751185](https://sdilej.cz/34751185/majove-hvezdy-1959-pro-pametniky-valecny-povidkovy-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:40:35.446551+00:00 |
 | [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:28:32.042786+00:00 |
 | [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:30:39.065311+00:00 |
 | [México bárbaro (2014) 1080p CZ Titulky.mp4](https://prehraj.to/mexico-barbaro-2014-1080p-cz-titulky-mp4/137c28ec8289ecbf) (ID 29635798) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.585564+00:00 |
