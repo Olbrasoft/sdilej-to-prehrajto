@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:37:08.228161+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:37:16.276118+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1580,7 +1580,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Tušení (2020) SD CZ Titulky](https://prehraj.to/tuseni-2020-sd-cz-titulky-avi/3134ed9adf8ea04a) (ID 29638596) | [Sdílej 13829355](https://sdilej.cz/13829355/tuseni-2020-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:31:58.448310+00:00 |
 | [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:30:08.405254+00:00 |
 | [Tygr lidožrout (2007) SD CZ Titulky](https://prehraj.to/tygr-lidozrout-2007-sd-cz-titulky-avi/3744b085a3f3ed2e) (ID 29664192) | [Sdílej 23245687](https://sdilej.cz/23245687/maneater.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:45:21.605102+00:00 |
-| [Tygři (2024) 1080p CZ Titulky](https://prehraj.to/tygri-2024-1080p-cz-titulky-mp4/674e5585d67ab62e) (ID 29415991) | [Sdílej 34724647](https://sdilej.cz/34724647/tygri-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:44:05.177478+00:00 |
+| [Tygři (2024) 1080p CZ Titulky](https://prehraj.to/tygri-2024-1080p-cz-titulky-mp4/674e5585d67ab62e) (ID 29415991) | [Sdílej 34724647](https://sdilej.cz/34724647/tygri-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:37:16.276011+00:00 |
 | [Téměř dokonalý (2012) 720p CZ Titulky](https://prehraj.to/temer-dokonaly-2012-720p-cz-titulky-mp4/2794f7a09bfe893c) (ID 29289240) | [Sdílej 34965884](https://sdilej.cz/34965884/temer-dokonaly-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T03:31:20.023343+00:00 |
 | [Tísňové volání (2018) 1080p CZ Titulky](https://prehraj.to/tisnove-volani-2018-1080p-cz-titulky-mkv/9b663ed89380f9b3) (ID 29824745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.146699+00:00 |
 | [Tělo (2012) 720p CZ Titulky](https://prehraj.to/telo-2012-720p-cz-titulky-avi/72574bc6fc81e930) (ID 29509182) | [Sdílej 21997721](https://sdilej.cz/21997721/el-cuerpo-telo-2012-esp-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:55:03.075239+00:00 |
