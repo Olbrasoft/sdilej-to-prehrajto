@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T11:28:03.975393+00:00
+Poslední aktualizace (UTC): 2026-10-30T11:28:11.319642+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1138,7 +1138,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:26:29.589023+00:00 |
 | [Poslední rytíři (2015) 1080p CZ Titulky](https://prehraj.to/posledni-rytiri-2015-1080p-cz-titulky-mkv/d6a9311ce19cb138) (ID 30313478) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.573113+00:00 |
 | [Poslední střih (2022) 720p CZ Titulky](https://prehraj.to/posledni-strih-2022-720p-cz-titulky-mp4/9f3fcc98a4ef11bd) (ID 30270290) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.572688+00:00 |
-| [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:40:45.138793+00:00 |
+| [Poslední ženy moře (2024) 1080p CZ Titulky](https://prehraj.to/posledni-zeny-more-2024-1080p-cz-titulky-mp4/f40938b711cb8997) (ID 29380715) | [Sdílej 34724860](https://sdilej.cz/34724860/posledni-zeny-more-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:28:11.319496+00:00 |
 | [Post Mortem (2020) 1080p CZ Titulky](https://prehraj.to/post-mortem-2020-1080p-cz-titulky-mkv/d3e819e06f651968) (ID 29657657) | [Sdílej 19395386](https://sdilej.cz/19395386/post-mortem-2020-hun-audio-1080p-web-dl-h264-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:35.708610+00:00 |
 | [Potichu (2019) 1080p CZ Titulky](https://prehraj.to/potichu-2019-1080p-cz-titulky-mkv/6a7ceddec2c82489) (ID 30388158) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.574139+00:00 |
 | [Potopa (2024) 1080p CZ Titulky](https://prehraj.to/potopa-2024-1080p-cz-titulky-mkv/5609321acff1d912) (ID 30137991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.571144+00:00 |
