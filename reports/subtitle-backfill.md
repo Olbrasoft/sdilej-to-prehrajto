@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:57:59.771088+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:58:08.369940+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -288,7 +288,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [DOORS (2021) 1080p CZ Titulky](https://prehraj.to/doors-2021-1080p-cz-titulky-mkv/c0981b8eef3c1202) (ID 30246427) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588837+00:00 |
 | [Daaaaaalí! (2023) 1080p CZ Titulky](https://prehraj.to/daaaaaali-2023-1080p-cz-titulky-mp4/00721f8e39597eb8) (ID 30158609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588480+00:00 |
 | [Dabangg (2010) SD CZ Titulky](https://prehraj.to/dabangg-2010-sd-cz-titulky-mp4/c00c5d48513f1cf2) (ID 29273268) | [Sdílej 34780654](https://sdilej.cz/34780654/dabangg-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:29:50.122201+00:00 |
-| [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:17:36.127804+00:00 |
+| [Daddy (2017) SD CZ Titulky](https://prehraj.to/daddy-2017-sd-cz-titulky-mp4/a13b771d4c355196) (ID 29735490) | [Sdílej 34903833](https://sdilej.cz/34903833/daddy-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:58:08.369814+00:00 |
 | [Dagr (2024) 1080p CZ Titulky](https://prehraj.to/dagr-2024-1080p-cz-titulky-mp4/ecced93a58c92859) (ID 30406547) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589523+00:00 |
 | [Daleká cesta (1949) 1080p CZ Titulky](https://prehraj.to/daleka-cesta-1949-1080p-cz-titulky-mkv/fb67bb029d701f4c) (ID 28964101) | [Sdílej 32944966](https://sdilej.cz/32944966/daleka-cesta.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:29:11.548941+00:00 |
 | [Dangal (2016) 1080p CZ Titulky](https://prehraj.to/dangal-2016-1080p-cz-titulky-mkv/df8c26d4d2452a53) (ID 29111363) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.583217+00:00 |
