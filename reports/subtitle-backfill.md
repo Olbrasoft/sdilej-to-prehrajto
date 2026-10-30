@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T01:29:34.539668+00:00
+Poslední aktualizace (UTC): 2026-10-30T01:29:42.710960+00:00
 
 Zkontrolováno videí: 2291. Další stránka kontroly: 0.
 
@@ -1129,7 +1129,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ptáci z ráje (2021) SD CZ Titulky](https://prehraj.to/ptaci-z-raje-2021-sd-cz-titulky-mkv/1d4dce9b4e4f472b) (ID 29993189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.941385+00:00 |
 | [Pulimurugan (2016) SD CZ Titulky](https://prehraj.to/pulimurugan-2016-sd-cz-titulky-mp4/0327beb977ddf904) (ID 30163251) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.941917+00:00 |
 | [Puppet Master XI: Axis Termination (2017) 1080p CZ Titulky](https://prehraj.to/puppet-master-xi-axis-termination-2017-1080p-cz-titulky-mp4/e0898a9b840c9764) (ID 29706614) | [Sdílej 34768888](https://sdilej.cz/34768888/puppet-master-xi-axis-termination-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:54:47.170177+00:00 |
-| [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:04:42.191664+00:00 |
+| [Puppet Master: Doktor Death (2022) 1080p CZ Titulky](https://prehraj.to/puppet-master-doktor-death-2022-1080p-cz-titulky-mp4/f96b53f6923b5273) (ID 29273117) | [Sdílej 34726876](https://sdilej.cz/34726876/puppet-master-doktor-death-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:29:42.710825+00:00 |
 | [Puppet Master: The Littlest Reich (2018) 1080p CZ Titulky](https://prehraj.to/puppet-master-the-littlest-reich-2018-1080p-cz-titulky-mkv/a57b7439b43281ac) (ID 29915284) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.940619+00:00 |
 | [Pásky z Nagana (2018) 1080p CZ Titulky](https://prehraj.to/pasky-z-nagana-2018-1080p-cz-titulky-avi/76c71685dd87f659) (ID 29175288) | [Sdílej 34670771](https://sdilej.cz/34670771/pasky-z-nagana-2018-dokument.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:36:14.798965+00:00 |
 | [Péčko pro začátečníky (2003) SD CZ Titulky](https://prehraj.to/pecko-pro-zacatecniky-2003-sd-cz-titulky-mpg/a9cd1949cc6a78e5) (ID 29908578) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.940265+00:00 |
