@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:31:56.007024+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:32:06.720314+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1242,7 +1242,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [Rust (2024) 4K CZ Titulky.mkv](https://prehraj.to/rust-2024-4k-cz-titulky-mkv/bb41364f9646c8c9) (ID 29921550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.795924+00:00 |
 | [Rust Creek (2019) 720p CZ Titulky](https://prehraj.to/rust-creek-2019-720p-cz-titulky-mp4/bbb95fc52e247a48) (ID 29650410) | [Sdílej 34733890](https://sdilej.cz/34733890/rust-creek-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:27:07.504908+00:00 |
 | [Rvačka mezi muži (1955) 720p CZ Titulky](https://prehraj.to/rvacka-mezi-muzi-1955-720p-cz-titulky-mkv/5124ee132c79fa94) (ID 29293998) | [Sdílej 34572814](https://sdilej.cz/34572814/rvacka-mezi-muzi-1955-cz-titulky-720p-hd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:29:34.137395+00:00 |
-| [Rytíř stínů: Mezi jinem a jangem (2019) 720p CZ Titulky](https://prehraj.to/rytir-stinu-mezi-jinem-a-jangem-2019-720p-cz-titulky-mp4/baf7c9c01e700228) (ID 29660541) | [Sdílej 34712426](https://sdilej.cz/34712426/rytir-stinu-mezi-jinem-a-jangem-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:44:36.018983+00:00 |
+| [Rytíř stínů: Mezi jinem a jangem (2019) 720p CZ Titulky](https://prehraj.to/rytir-stinu-mezi-jinem-a-jangem-2019-720p-cz-titulky-mp4/baf7c9c01e700228) (ID 29660541) | [Sdílej 34712426](https://sdilej.cz/34712426/rytir-stinu-mezi-jinem-a-jangem-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:32:06.720137+00:00 |
 | [S.T.A.L.K.E.R. Shadow of the Zone (2024) 1080p CZ Titulky](https://prehraj.to/s-t-a-l-k-e-r-shadow-of-the-zone-2024-1080p-cz-titulky-mp4/3373e93e29aa93b4) (ID 29589362) | [Sdílej 34724815](https://sdilej.cz/34724815/s.t.a.l.k.e.r.-shadow-of-the-zone-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:08:03.203269+00:00 |
 | [Saja (2019) 1080p CZ Titulky](https://prehraj.to/saja-2019-1080p-cz-titulky-mkv/324e0eea7e005435) (ID 30260721) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.798611+00:00 |
 | [Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky](https://prehraj.to/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-sd-cz-titulky-mp4/aed7498ebad752ae) (ID 29846766) | [Sdílej 34756127](https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:42:33.220279+00:00 |
