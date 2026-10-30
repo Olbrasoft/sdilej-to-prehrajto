@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:30:04.898400+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:30:15.028044+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -268,7 +268,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Cooties (2014) SD CZ Titulky](https://prehraj.to/cooties-2014-sd-cz-titulky-mp4/5a6cf14239463ea5) (ID 29915713) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.148212+00:00 |
 | [Cordelia (2019) SD CZ Titulky](https://prehraj.to/cordelia-2019-sd-cz-titulky-avi/d8aa47427933f630) (ID 29943997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149865+00:00 |
 | [Corona Zombies (2020) 1080p CZ Titulky](https://prehraj.to/corona-zombies-2020-1080p-cz-titulky-mp4/9d35e6e0be115c80) (ID 29732755) | [Sdílej 34773399](https://sdilej.cz/34773399/corona-zombies-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:14:21.469414+00:00 |
-| [Corpus Christi (2019) 1080p CZ Titulky](https://prehraj.to/corpus-christi-2019-1080p-cz-titulky-mp4/02c245d06ac8493d) (ID 29396360) | [Sdílej 31626440](https://sdilej.cz/31626440/corpus-christi-2019-pl-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:36:26.553493+00:00 |
+| [Corpus Christi (2019) 1080p CZ Titulky](https://prehraj.to/corpus-christi-2019-1080p-cz-titulky-mp4/02c245d06ac8493d) (ID 29396360) | [Sdílej 31626440](https://sdilej.cz/31626440/corpus-christi-2019-pl-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:30:15.027921+00:00 |
 | [Corti circuiti erotici Vol.1 (1998) 1080p CZ Titulky](https://prehraj.to/corti-circuiti-erotici-vol-1-1998-1080p-cz-titulky-mp4/ac16d53173d3c4ab) (ID 30248807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152577+00:00 |
 | [Counterfeiting in Suburbia (2018) 1080p CZ Titulky](https://prehraj.to/counterfeiting-in-suburbia-2018-1080p-cz-titulky-mp4/14fe5ce6397be744) (ID 29240545) | [Sdílej 34737087](https://sdilej.cz/34737087/counterfeiting-in-suburbia-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:27:19.836316+00:00 |
 | [Coven (2020) 1080p CZ Titulky](https://prehraj.to/coven-2020-1080p-cz-titulky-mp4/b24d18e5382f7449) (ID 30605750) | [Sdílej 34773360](https://sdilej.cz/34773360/coven-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T08:30:41.069415+00:00 |
