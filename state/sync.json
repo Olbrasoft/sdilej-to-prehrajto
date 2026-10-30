@@ -417917,18 +417917,20 @@
           "reason": "Source detail has no authenticated download link; source_id=30188034",
           "permanent": false,
           "attempted_at": "2026-10-22T06:20:50.183183+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30188034",
+          "target_video_id": "30645636",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-30T21:39:08.716139+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30188034",
         "display_name": "Herkules: Zrození legendy (2014) 1080p CZ Dabing",
         "planned_at": "2026-10-30T20:42:07.935227+00:00"
-      },
-      "claim": {
-        "worker_id": "42852ece2d1a4d5787bd9a2aaf395294-shard-0",
-        "claimed_at": "2026-10-30T21:28:49.521419+00:00",
-        "lease_expires_at": "2026-10-31T03:28:49.521419+00:00",
-        "run_id": "41089347220"
       },
       "previous_target_id": "30645636",
       "prepared": {
@@ -422322,5 +422324,5 @@
       }
     }
   },
-  "updated_at": "2026-10-30T21:28:53.929202+00:00"
+  "updated_at": "2026-10-30T21:39:08.716154+00:00"
 }
