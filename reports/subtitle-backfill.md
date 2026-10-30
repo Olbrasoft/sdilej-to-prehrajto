@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T09:29:05.953992+00:00
+Poslední aktualizace (UTC): 2026-10-30T09:29:13.404172+00:00
 
 Zkontrolováno videí: 2362. Další stránka kontroly: 0.
 
@@ -1617,7 +1617,7 @@ Kontrol: 48; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [V/H/S/Halloween (2025) 1080p CZ Titulky](https://prehraj.to/v-h-s-halloween-2025-1080p-cz-titulky-mkv/dd87328f82296aa7) (ID 29913569) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T09:29:03.286163+00:00 |
 | [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:28:24.871053+00:00 |
 | [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:48:32.555697+00:00 |
-| [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T08:39:22.013838+00:00 |
+| [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:29:13.404065+00:00 |
 | [Vargur (2018) SD CZ Titulky](https://prehraj.to/vargur-2018-sd-cz-titulky-mkv/2859d2e928a3dc7a) (ID 29717946) | [Sdílej 30859872](https://sdilej.cz/30859872/darfur.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:06:34.204216+00:00 |
 | [Ve stínu slunce (2005) SD CZ Titulky](https://prehraj.to/ve-stinu-slunce-2005-sd-cz-titulky-avi/8b05856545c28484) (ID 30161046) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T09:29:03.290895+00:00 |
 | [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:30:57.725679+00:00 |
