@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:37:02.164160+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:37:19.504619+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -606,7 +606,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Hayride 2 (2015) SD CZ Titulky](https://prehraj.to/hayride-2-2015-sd-cz-titulky-avi/de9b2b5b93a63784) (ID 29707155) | [Sdílej 18964980](https://sdilej.cz/18964980/hayride-2-akcni-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:49:04.796480+00:00 |
 | [He's Out There (2018) 1080p CZ Titulky](https://prehraj.to/he-s-out-there-2018-1080p-cz-titulky-avi/d64dfe30a3b0c704) (ID 29732481) | [Sdílej 11707849](https://sdilej.cz/11707849/he-s-out-there-scarecrow-2018-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:13:43.365892+00:00 |
 | [Hejno kobylek (2021) 1080p CZ Titulky](https://prehraj.to/hejno-kobylek-2021-1080p-cz-titulky-mkv/0e7164b3e77fa6f5) (ID 30367228) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589248+00:00 |
-| [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:49:35.304487+00:00 |
+| [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:37:19.504501+00:00 |
 | [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:36:29.441528+00:00 |
 | [Hello World (2019) 1080p CZ Titulky](https://prehraj.to/hello-world-2019-1080p-cz-titulky-mp4/ef8e68a8310e045a) (ID 30102963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588270+00:00 |
 | [Helloween (2025) 1080p CZ Titulky](https://prehraj.to/helloween-2025-1080p-cz-titulky-avi/289eb6e92cf9dd41) (ID 29734063) | [Sdílej 32212844](https://sdilej.cz/32212844/helloween-2025-cz-titulky-vlozeny-ac-3-5.1-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:15:49.835293+00:00 |
