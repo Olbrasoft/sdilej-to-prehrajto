@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T23:28:21.731364+00:00
+Poslední aktualizace (UTC): 2026-10-30T23:28:30.427449+00:00
 
 Zkontrolováno videí: 2379. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `pending`: 1, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_provenance_missing`: 812, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_provenance_missing`: 812, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -778,6 +778,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Konvoj do Murmanska (1943) SD CZ Titulky.mkv](https://prehraj.to/konvoj-do-murmanska-1943-sd-cz-titulky-mkv/4e7bc2b5b5a3630d) (ID 29576776) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T23:28:14.844811+00:00 |
 | [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:26:28.805979+00:00 |
 | [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T10:27:37.144095+00:00 |
+| [Kočičky (2020) 1080p CZ Titulky](https://prehraj.to/kocicky-2020-1080p-cz-titulky-mp4/020b6904a7b0311c) (ID 30647101) | [Sdílej 34712572](https://sdilej.cz/34712572/kocicky-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T23:28:30.427344+00:00 |
 | [Kraken (2025) 1080p CZ Titulky](https://prehraj.to/kraken-2025-1080p-cz-titulky-mkv/007438b1eb79ac22) (ID 29915927) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T23:28:14.847048+00:00 |
 | [Krev zmizelého (2005) SD CZ Titulky](https://prehraj.to/krev-zmizeleho-2005-sd-cz-titulky-mkv/798e41df1dae9b0a) (ID 29717465) | [Sdílej 35085090](https://sdilej.cz/35085090/krev-zmizeleho.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:47:29.306868+00:00 |
 | [Kripl kemp: Revoluce na kolečkách (2020) 1080p CZ Titulky](https://prehraj.to/kripl-kemp-revoluce-na-koleckach-2020-1080p-cz-titulky-mp4/503affdb39de17b1) (ID 29581930) | [Sdílej 34696167](https://sdilej.cz/34696167/kripl-kemp-revoluce-na-koleckach-2020-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:05:31.961334+00:00 |
