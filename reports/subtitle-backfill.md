@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:53:13.676615+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:53:22.662187+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -323,7 +323,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Deset malých černoušků (1965) SD CZ Titulky](https://prehraj.to/deset-malych-cernousku-1965-sd-cz-titulky-avi/77b425dc3e950fdc) (ID 30168747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.787628+00:00 |
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:28:31.552060+00:00 |
 | [Detention (2011) SD CZ Titulky](https://prehraj.to/detention-2011-sd-cz-titulky-mp4/ff932bdfed1d8a14) (ID 29936501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.783186+00:00 |
-| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:59:19.555273+00:00 |
+| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:53:22.662046+00:00 |
 | [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:32:53.620042+00:00 |
 | [Dirty Angels (2024) 1080p CZ Titulky](https://prehraj.to/dirty-angels-2024-1080p-cz-titulky-mkv/fa6c335e2f8da21f) (ID 30413288) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.792353+00:00 |
 | [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:17:54.238735+00:00 |
