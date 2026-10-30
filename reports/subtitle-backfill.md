@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T11:25:17.198944+00:00
+Poslední aktualizace (UTC): 2026-10-30T11:25:28.427532+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1736,7 +1736,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:47:06.241048+00:00 |
 | [Zeta (2026) 1080p CZ Titulky](https://prehraj.to/zeta-2026-1080p-cz-titulky-mkv/9159d711195b9791) (ID 30337722) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.573370+00:00 |
 | [Zhan lang 2 (2017) 720p CZ Titulky](https://prehraj.to/zhan-lang-2-2017-720p-cz-titulky-mp4/287868bc3830f8d9) (ID 29911336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.564987+00:00 |
-| [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:37:20.296744+00:00 |
+| [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:25:28.427425+00:00 |
 | [Zloději aut (2025) 1080p CZ Titulky](https://prehraj.to/zlodeji-aut-2025-1080p-cz-titulky-mkv/1ac38c370498a447) (ID 29917167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.565817+00:00 |
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:30:23.721131+00:00 |
 | [Znamení voodoo (2020) 1080p CZ Titulky](https://prehraj.to/znameni-voodoo-2020-1080p-cz-titulky-avi/4f390f64c2c7f833) (ID 29936659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.568212+00:00 |
