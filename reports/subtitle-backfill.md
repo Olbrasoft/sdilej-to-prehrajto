@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:55:45.633224+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:55:58.156728+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -602,7 +602,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Hatched (2021) 1080p CZ Titulky](https://prehraj.to/hatched-2021-1080p-cz-titulky-mkv/c15f08673a97d610) (ID 29914981) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586744+00:00 |
 | [Hatchet (2006) SD CZ Titulky](https://prehraj.to/hatchet-2006-sd-cz-titulky-mp4/ed511f0ec0d40fe3) (ID 29916659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586803+00:00 |
 | [Haunt (2013) SD CZ Titulky](https://prehraj.to/haunt-2013-sd-cz-titulky-avi/2ebf6f74d95b09a8) (ID 29933256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587323+00:00 |
-| [Havenhurst (2016) SD CZ Titulky](https://prehraj.to/havenhurst-2016-sd-cz-titulky-avi/f6d827dc77a0deb0) (ID 29733359) | [Sdílej 35027491](https://sdilej.cz/35027491/havenhurst-horor-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:15:11.072988+00:00 |
+| [Havenhurst (2016) SD CZ Titulky](https://prehraj.to/havenhurst-2016-sd-cz-titulky-avi/f6d827dc77a0deb0) (ID 29733359) | [Sdílej 35027491](https://sdilej.cz/35027491/havenhurst-horor-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:55:58.156596+00:00 |
 | [Hayride 2 (2015) SD CZ Titulky](https://prehraj.to/hayride-2-2015-sd-cz-titulky-avi/de9b2b5b93a63784) (ID 29707155) | [Sdílej 18964980](https://sdilej.cz/18964980/hayride-2-akcni-horor-2015-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:49:04.796480+00:00 |
 | [He's Out There (2018) 1080p CZ Titulky](https://prehraj.to/he-s-out-there-2018-1080p-cz-titulky-avi/d64dfe30a3b0c704) (ID 29732481) | [Sdílej 11707849](https://sdilej.cz/11707849/he-s-out-there-scarecrow-2018-hc.titulky.cz-1080p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:54:40.306774+00:00 |
 | [Hejno kobylek (2021) 1080p CZ Titulky](https://prehraj.to/hejno-kobylek-2021-1080p-cz-titulky-mkv/0e7164b3e77fa6f5) (ID 30367228) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589248+00:00 |
