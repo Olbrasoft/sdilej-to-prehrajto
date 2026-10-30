@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T17:05:15.194090+00:00
+Poslední aktualizace (UTC): 2026-10-30T17:05:20.530196+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1836,7 +1836,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 62. Dův
 | [The Wall: Climb for Gold (2022) 1080p CZ Titulky](https://prehraj.to/the-wall-climb-for-gold-2022-1080p-cz-titulky-mp4/1e4065788c84354b) (ID 29589919) | [Sdílej 34772168](https://sdilej.cz/34772168/the-wall-climb-for-gold-2022-.mp4) | source_unavailable | 2026-10-30T16:08:07.463554+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-30T17:05:04.430017+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | source_unavailable | 2026-10-30T17:04:28.732549+00:00 |
-| [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-30T10:35:36.011958+00:00 |
+| [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-30T17:05:20.530125+00:00 |
 | [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | target_unavailable | 2026-10-30T14:31:38.305640+00:00 |
 | [Welcome to the Show (2021) 720p CZ Titulky](https://prehraj.to/welcome-to-the-show-2021-720p-cz-titulky-mp4/25cffb75227a4407) (ID 29631148) | [Sdílej 34772433](https://sdilej.cz/34772433/welcome-to-the-show-2021-.mp4) | source_unavailable | 2026-10-30T16:17:46.306103+00:00 |
 | [Čaroděj z Kremlu (2025) 1080p CZ Titulky](https://prehraj.to/carodej-z-kremlu-2025-1080p-cz-titulky-mkv/4c6cbdde12c9f937) (ID 29010087) | [Sdílej 34829855](https://sdilej.cz/34829855/2025-carodej-z-kremlu-drama-thriller-63-francie-usa-cztit..mkv) | target_unavailable | 2026-10-30T14:32:00.970126+00:00 |
