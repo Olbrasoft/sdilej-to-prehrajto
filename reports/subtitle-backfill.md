@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:42:08.734971+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:42:19.629721+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1058,7 +1058,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Over Your Dead Body (2026) 1440p CZ Titulky](https://prehraj.to/over-your-dead-body-2026-1440p-cz-titulky-mkv/f827b90d86559ae6) (ID 29978807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.150073+00:00 |
 | [Ovečka Shaun: Vánoční příběh (2021) 1080p CZ Titulky](https://prehraj.to/ovecka-shaun-vanocni-pribeh-2021-1080p-cz-titulky-mp4/7e484b8287927702) (ID 29415712) | [Sdílej 34647965](https://sdilej.cz/34647965/ovecka-shaun-vanocni-pribeh-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:36:51.608400+00:00 |
 | [Oči mé matky (2016) 1080p CZ Titulky](https://prehraj.to/oci-me-matky-2016-1080p-cz-titulky-mkv/baee96c43f9dd84f) (ID 29992901) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.150221+00:00 |
-| [Ošklivá nevlastní sestra (2025) 1080p CZ Titulky](https://prehraj.to/oskliva-nevlastni-sestra-2025-1080p-cz-titulky-mp4/0f6b247d0663e22d) (ID 29450742) | [Sdílej 34899920](https://sdilej.cz/34899920/oskliva-nevlastni-sestra-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:49:25.787621+00:00 |
+| [Ošklivá nevlastní sestra (2025) 1080p CZ Titulky](https://prehraj.to/oskliva-nevlastni-sestra-2025-1080p-cz-titulky-mp4/0f6b247d0663e22d) (ID 29450742) | [Sdílej 34899920](https://sdilej.cz/34899920/oskliva-nevlastni-sestra-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:42:19.629595+00:00 |
 | [P!nk: All I Know So Far (2021) 720p CZ Titulky](https://prehraj.to/p-nk-all-i-know-so-far-2021-720p-cz-titulky-mp4/f56c61ef61113436) (ID 29412148) | [Sdílej 34772758](https://sdilej.cz/34772758/p-nk-all-i-know-so-far-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:36:23.894365+00:00 |
 | [PK (2014) SD CZ Titulky](https://prehraj.to/pk-2014-sd-cz-titulky-mp4/cd2b0169314ad6bc) (ID 29878877) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:43:50.606877+00:00 |
 | [Paddleton (2019) 1080p CZ Titulky](https://prehraj.to/paddleton-2019-1080p-cz-titulky-mp4/8063bd130acfec92) (ID 29339814) | [Sdílej 34733979](https://sdilej.cz/34733979/paddleton-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:29:31.174834+00:00 |
