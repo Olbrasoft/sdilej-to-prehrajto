@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T18:37:38.606828+00:00
+Poslední aktualizace (UTC): 2026-10-30T18:37:46.213297+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1273,7 +1273,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sekigahara (2017) 720p CZ Titulky](https://prehraj.to/sekigahara-2017-720p-cz-titulky-mp4/b64ff43d1649191d) (ID 29923228) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.566505+00:00 |
 | [Sentinelle (2023) 1080p CZ Titulky](https://prehraj.to/sentinelle-2023-1080p-cz-titulky-mp4/1159da7830e47542) (ID 29911372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.565100+00:00 |
 | [Sergeant (2023) 1080p CZ Titulky](https://prehraj.to/sergeant-2023-1080p-cz-titulky-mp4/e0ab02e880e61e7d) (ID 29588360) | [Sdílej 34771949](https://sdilej.cz/34771949/sergeant-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:07:42.797560+00:00 |
-| [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:38:55.676585+00:00 |
+| [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:37:46.213192+00:00 |
 | [Settlers (2021) 1080p CZ Titulky](https://prehraj.to/settlers-2021-1080p-cz-titulky-mkv/c9b2af009f9e7dfa) (ID 30397967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.574103+00:00 |
 | [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:26:02.290426+00:00 |
 | [Seuwingkijeu (2018) 1080p CZ Titulky](https://prehraj.to/seuwingkijeu-2018-1080p-cz-titulky-mp4/0d9607ec07742737) (ID 30103692) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.570179+00:00 |
