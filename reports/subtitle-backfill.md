@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T13:30:31.856444+00:00
+Poslední aktualizace (UTC): 2026-10-30T13:30:42.633798+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1729,7 +1729,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Zelený had (2021) 1080p CZ Titulky](https://prehraj.to/zeleny-had-2021-1080p-cz-titulky-mp4/3d45635b0e18bbba) (ID 29460364) | [Sdílej 34727964](https://sdilej.cz/34727964/zeleny-had-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:49:43.147134+00:00 |
 | [Zelený lučištník (1961) 1080p CZ Titulky](https://prehraj.to/zeleny-lucistnik-1961-1080p-cz-titulky-mkv/337918ac4eccbeff) (ID 30215002) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.982155+00:00 |
 | [Země a krev (2020) 1080p CZ Titulky](https://prehraj.to/zeme-a-krev-2020-1080p-cz-titulky-avi/ccaf5f003ba8df8d) (ID 29913573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.978332+00:00 |
-| [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:46:12.646926+00:00 |
+| [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:30:42.633680+00:00 |
 | [Země kůlů (2010) 1080p CZ Titulky](https://prehraj.to/zeme-kulu-2010-1080p-cz-titulky-mkv/e3fce2bb4d5b167f) (ID 30280807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.982873+00:00 |
 | [Zemětřesení (2018) SD CZ Titulky](https://prehraj.to/zemetreseni-2018-sd-cz-titulky-avi/bf9dc1b755088deb) (ID 29993413) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.980389+00:00 |
 | [Zero (2015) SD CZ Titulky](https://prehraj.to/zero-2015-sd-cz-titulky-mp4/9663f521233e2731) (ID 29601859) | [Sdílej 34737910](https://sdilej.cz/34737910/zero-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:16:43.495886+00:00 |
