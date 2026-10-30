@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:16:54.599260+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:17:06.365794+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1750,7 +1750,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [Ztracená duše (1977) SD CZ Titulky](https://prehraj.to/ztracena-duse-1977-sd-cz-titulky-avi/c591ab6bb6f3bca0) (ID 30066605) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797575+00:00 |
 | [Ztracené duše (2019) 720p CZ Titulky](https://prehraj.to/ztracene-duse-2019-720p-cz-titulky-mp4/59c7130b99408fec) (ID 29295830) | [Sdílej 34638611](https://sdilej.cz/34638611/ztracene-duse-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:30:16.931831+00:00 |
 | [Zvedá se vítr (2006) SD CZ Titulky](https://prehraj.to/zveda-se-vitr-2006-sd-cz-titulky-mp4/79a3d48ac2f7e606) (ID 29796253) | [Sdílej 32713304](https://sdilej.cz/32713304/zveda-se-vitr-2006-cz-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:39:21.845647+00:00 |
-| [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:26:31.402059+00:00 |
+| [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:17:06.365659+00:00 |
 | [Zákeřná setkání (2020) 1080p CZ Titulky](https://prehraj.to/zakerna-setkani-2020-1080p-cz-titulky-mp4/139f13f80336e6c7) (ID 30409980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.799552+00:00 |
 | [Zásadní změna (2018) SD CZ Titulky](https://prehraj.to/zasadni-zmena-2018-sd-cz-titulky-mp4/239bc12ee388fce7) (ID 29319501) | [Sdílej 13048286](https://sdilej.cz/13048286/the-game-changers-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:29:12.622802+00:00 |
 | [Zázračné houby (2019) 1080p CZ Titulky](https://prehraj.to/zazracne-houby-2019-1080p-cz-titulky-mp4/68dfcf2e53cd834f) (ID 29411891) | [Sdílej 34733558](https://sdilej.cz/34733558/zazracne-houby-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:36:15.667664+00:00 |
