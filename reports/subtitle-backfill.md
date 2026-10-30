@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T13:30:51.372935+00:00
+Poslední aktualizace (UTC): 2026-10-30T13:31:00.233329+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1631,7 +1631,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Velká žranice (1973) SD CZ Titulky](https://prehraj.to/velka-zranice-1973-sd-cz-titulky-mkv/698806e8257de552) (ID 29429778) | [Sdílej 28396506](https://sdilej.cz/28396506/velka-zranice-grandebouffe-la-tvrip-ford.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:45:19.867792+00:00 |
 | [Velký závod (2013) SD CZ Titulky](https://prehraj.to/velky-zavod-2013-sd-cz-titulky-avi/331243de988c7ffd) (ID 30190229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.982001+00:00 |
 | [Velvet Buzzsaw (2019) 4K CZ Titulky](https://prehraj.to/velvet-buzzsaw-2019-4k-cz-titulky-mkv/f586c85084c93422) (ID 29937754) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.979859+00:00 |
-| [Vem si prášky: Xanax (2022) 1080p CZ Titulky](https://prehraj.to/vem-si-prasky-xanax-2022-1080p-cz-titulky-mp4/2659bccce1737841) (ID 29391229) | [Sdílej 34726530](https://sdilej.cz/34726530/vem-si-prasky-xanax-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:46:29.178320+00:00 |
+| [Vem si prášky: Xanax (2022) 1080p CZ Titulky](https://prehraj.to/vem-si-prasky-xanax-2022-1080p-cz-titulky-mp4/2659bccce1737841) (ID 29391229) | [Sdílej 34726530](https://sdilej.cz/34726530/vem-si-prasky-xanax-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:31:00.233194+00:00 |
 | [Veneciafrenia (2021) 720p CZ Titulky](https://prehraj.to/veneciafrenia-2021-720p-cz-titulky-mp4/48a4e729528b6bc6) (ID 29711863) | [Sdílej 24966547](https://sdilej.cz/24966547/veneciafrenia-2021-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:58:01.497408+00:00 |
 | [Venganza (2026) 4K CZ Titulky](https://prehraj.to/venganza-2026-4k-cz-titulky-mkv/f29b3291937b41fa) (ID 30325890) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.983205+00:00 |
 | [Verónica (2017) 1080p CZ Titulky](https://prehraj.to/veronica-2017-1080p-cz-titulky-mp4/3c03d3e6052199bc) (ID 30314763) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.983105+00:00 |
