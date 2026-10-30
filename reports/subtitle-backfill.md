@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:53:50.041445+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:53:58.363403+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1384,7 +1384,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Super Volcano (2022) 1080p CZ Titulky](https://prehraj.to/super-volcano-2022-1080p-cz-titulky-mp4/3d9e3e85ee29610a) (ID 29989189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.784407+00:00 |
 | [Superhost (2021) 1080p CZ Titulky](https://prehraj.to/superhost-2021-1080p-cz-titulky-mkv/b4059976607da9ce) (ID 29706516) | [Sdílej 18833126](https://sdilej.cz/18833126/superhost.2021.1080p.amzn.web-dl.ddp2.0.h.264-tepes.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:44.166876+00:00 |
 | [Superman: Red Son (2020) 1080p CZ Titulky](https://prehraj.to/superman-red-son-2020-1080p-cz-titulky-mkv/91008632a6708e5d) (ID 30271391) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.789535+00:00 |
-| [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:00:06.371556+00:00 |
+| [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:53:58.363275+00:00 |
 | [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:30:35.709627+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.778873+00:00 |
 | [Svaha: Šestý prst (2019) 1080p CZ Titulky](https://prehraj.to/svaha-sesty-prst-2019-1080p-cz-titulky-avi/f2f4fe56402a4daf) (ID 30272804) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.789602+00:00 |
