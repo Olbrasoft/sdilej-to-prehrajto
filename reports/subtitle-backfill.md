@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:55:24.306532+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:55:34.836605+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -88,7 +88,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586903+00:00 |
 | [Aplikace (2019) 1080p CZ Titulky](https://prehraj.to/aplikace-2019-1080p-cz-titulky-mp4/d85ea4d04c6ab69a) (ID 30404271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589512+00:00 |
 | [Apollo 11 (2019) 4K CZ Titulky](https://prehraj.to/apollo-11-2019-4k-cz-titulky-mkv/1f9727305c011995) (ID 29207536) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.583354+00:00 |
-| [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:14:43.487963+00:00 |
+| [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:55:34.836470+00:00 |
 | [Argylle: Tajný agent (2024) 4K CZ Titulky](https://prehraj.to/argylle-tajny-agent-2024-4k-cz-titulky-mkv/1753966117d652be) (ID 29928077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587178+00:00 |
 | [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:12:02.070716+00:00 |
 | [Army of One (2020) 1080p CZ Titulky](https://prehraj.to/army-of-one-2020-1080p-cz-titulky-mkv/7c794c1907357b10) (ID 30415303) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589583+00:00 |
