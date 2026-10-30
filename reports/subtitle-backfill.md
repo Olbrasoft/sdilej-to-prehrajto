@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T17:03:26.045884+00:00
+Poslední aktualizace (UTC): 2026-10-30T17:03:39.351043+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -575,7 +575,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 62. Dův
 | [Grizzly II: Revenge (2020) 720p CZ Titulky](https://prehraj.to/grizzly-ii-revenge-2020-720p-cz-titulky-mp4/ba65d6361e5f8c3c) (ID 29910796) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T17:01:20.147090+00:00 |
 | [Gruffalo (2009) SD CZ Titulky](https://prehraj.to/gruffalo-2009-sd-cz-titulky-mp4/282ca06fb42f7368) (ID 30001535) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T17:01:20.151877+00:00 |
 | [Gun Crazy (1950) 1080p CZ Titulky](https://prehraj.to/gun-crazy-1950-1080p-cz-titulky-mp4/9d5c89bc93400a34) (ID 29584090) | [Sdílej 34789013](https://sdilej.cz/34789013/gun-crazy-1950-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:06:08.867809+00:00 |
-| [Gun Woman (2014) SD CZ Titulky](https://prehraj.to/gun-woman-2014-sd-cz-titulky-avi/34294356fc8c9f4e) (ID 29740089) | [Sdílej 9706216](https://sdilej.cz/9706216/gun-woman-zenska-zbran-akcni-drsny-thriller-2014-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:36:50.361614+00:00 |
+| [Gun Woman (2014) SD CZ Titulky](https://prehraj.to/gun-woman-2014-sd-cz-titulky-avi/34294356fc8c9f4e) (ID 29740089) | [Sdílej 9706216](https://sdilej.cz/9706216/gun-woman-zenska-zbran-akcni-drsny-thriller-2014-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:03:39.350888+00:00 |
 | [Gunless (2010) SD CZ Titulky](https://prehraj.to/gunless-2010-sd-cz-titulky-avi/286ade810ef64d10) (ID 30211754) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T17:01:20.154029+00:00 |
 | [Gymkata (1985) SD CZ Titulky](https://prehraj.to/gymkata-1985-sd-cz-titulky-mp4/78cdd977c2cdb1e5) (ID 29734641) | [Sdílej 34755492](https://sdilej.cz/34755492/gymkata-1985-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:57:17.701935+00:00 |
 | [Gólověda (2019) 1080p CZ Titulky](https://prehraj.to/goloveda-2019-1080p-cz-titulky-mp4/0926bd5b806c11e6) (ID 29573394) | [Sdílej 34773789](https://sdilej.cz/34773789/goloveda-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:02:53.648256+00:00 |
