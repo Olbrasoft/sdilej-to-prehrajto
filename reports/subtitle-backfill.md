@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:56:55.458529+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:57:08.745938+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -497,7 +497,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:26:37.833027+00:00 |
 | [Evita (1996) 1080p CZ Titulky](https://prehraj.to/evita-1996-1080p-cz-titulky-mkv/ff0300fef542f3d8) (ID 30299464) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589101+00:00 |
 | [Evropa (1991) SD CZ Titulky](https://prehraj.to/evropa-1991-sd-cz-titulky-mp4/b84a567761e71627) (ID 29895545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586206+00:00 |
-| [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:16:34.440051+00:00 |
+| [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:57:08.745795+00:00 |
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587469+00:00 |
 | [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-26T18:48:20.052728+00:00 |
 | [Extraterrestrial (2014) 720p CZ Titulky](https://prehraj.to/extraterrestrial-2014-720p-cz-titulky-mkv/78ce759ddab7ca46) (ID 30410520) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589549+00:00 |
