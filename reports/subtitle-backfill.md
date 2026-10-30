@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:12:02.070865+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:12:10.720502+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -795,7 +795,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Kšeft (2008) 1080p CZ Titulky](https://prehraj.to/kseft-2008-1080p-cz-titulky-mkv/ac7659e526bb8e0e) (ID 29917298) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.780934+00:00 |
 | [L'Étranger (2025) 1080p CZ Titulky](https://prehraj.to/l-etranger-2025-1080p-cz-titulky-mkv/89abec92aa515679) (ID 29460945) | [Sdílej 33445227](https://sdilej.cz/33445227/l.etranger.2025.french.ad.1080p.webrip.10.bits.eac3.5.1.x265-tyhd.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:40.857223+00:00 |
 | [La cara oculta (2011) 1080p CZ Titulky](https://prehraj.to/la-cara-oculta-2011-1080p-cz-titulky-mkv/05ae3d9eb3a59c39) (ID 30029724) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.785112+00:00 |
-| [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:20:47.605274+00:00 |
+| [La cueva (2014) 1080p CZ Titulky](https://prehraj.to/la-cueva-2014-1080p-cz-titulky-mp4/fe01d5744f07daa5) (ID 29610525) | [Sdílej 34738388](https://sdilej.cz/34738388/la-cueva-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:12:10.720396+00:00 |
 | [Laal Kaptaan (2019) SD CZ Titulky](https://prehraj.to/laal-kaptaan-2019-sd-cz-titulky-mp4/41d4ab0e0465778d) (ID 30110731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.786798+00:00 |
 | [Labutí píseň (2021) 720p CZ Titulky](https://prehraj.to/labuti-pisen-2021-720p-cz-titulky-mkv/e2c314d842927e6f) (ID 29570060) | [Sdílej 34057205](https://sdilej.cz/34057205/2021-labuti-pisen-drama-sci-fi-64-usa-cz-tit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:01:46.750156+00:00 |
 | [Labyrint podle Davea (2017) 1080p CZ Titulky](https://prehraj.to/labyrint-podle-davea-2017-1080p-cz-titulky-avi/fb85e0700ab54ce8) (ID 29567534) | [Sdílej 11112400](https://sdilej.cz/11112400/labyrint-podle-davea-dave-made-a-maze-2017-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:01:18.322737+00:00 |
