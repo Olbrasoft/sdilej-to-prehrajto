@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:43:31.156134+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:43:39.140314+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -886,7 +886,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Mejdan v Malibu (2015) SD CZ Titulky](https://prehraj.to/mejdan-v-malibu-2015-sd-cz-titulky-mkv/349e85c5ed394c72) (ID 29908598) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.147452+00:00 |
 | [Mercy Black (2019) SD CZ Titulky](https://prehraj.to/mercy-black-2019-sd-cz-titulky-avi/443072b4658b5bb6) (ID 29930433) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149147+00:00 |
 | [Merrily We Roll Along (2025) 1080p CZ Titulky](https://prehraj.to/merrily-we-roll-along-2025-1080p-cz-titulky-mp4/aa02345e5988f324) (ID 29213153) | [Sdílej 34723802](https://sdilej.cz/34723802/merrily-we-roll-along-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T17:34:36.626654+00:00 |
-| [Metallica: Through the Never (2013) 1080p CZ Titulky](https://prehraj.to/metallica-through-the-never-2013-1080p-cz-titulky-mp4/f1ebcfe158f2165a) (ID 29464033) | [Sdílej 33285707](https://sdilej.cz/33285707/metallica-throught-the-never-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:50:50.506298+00:00 |
+| [Metallica: Through the Never (2013) 1080p CZ Titulky](https://prehraj.to/metallica-through-the-never-2013-1080p-cz-titulky-mp4/f1ebcfe158f2165a) (ID 29464033) | [Sdílej 33285707](https://sdilej.cz/33285707/metallica-throught-the-never-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:39.140197+00:00 |
 | [Mezi námi děvčaty 2 (2025) 1080p CZ Titulky](https://prehraj.to/mezi-nami-devcaty-2-2025-1080p-cz-titulky-mkv/791341b7f48dd299) (ID 30310186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153034+00:00 |
 | [Michael Jackson's This Is It (2009) 1080p CZ Titulky](https://prehraj.to/michael-jackson-s-this-is-it-2009-1080p-cz-titulky-mp4/bfc6a17dd54a987d) (ID 29319034) | [Sdílej 28787638](https://sdilej.cz/28787638/michael-jackson-s-this-is-it-2009-titulky-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:28:53.882825+00:00 |
 | [Milarepa (2006) SD CZ Titulky](https://prehraj.to/milarepa-2006-sd-cz-titulky-mkv/b1b91b6782e17473) (ID 30065192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.151042+00:00 |
