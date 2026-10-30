@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:49:19.064008+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:49:28.438542+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -347,7 +347,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Door Lock (2018) 720p CZ Titulky](https://prehraj.to/door-lock-2018-720p-cz-titulky-mkv/7f65376892824fc1) (ID 30212338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588673+00:00 |
 | [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:30:30.386532+00:00 |
 | [Dora a pátrání po Sol Doradu (2025) 1080p CZ Titulky](https://prehraj.to/dora-a-patrani-po-sol-doradu-2025-1080p-cz-titulky-mp4/ca2af3500bbdd550) (ID 30314599) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589155+00:00 |
-| [Downrange (2018) SD CZ Titulky](https://prehraj.to/downrange-2018-sd-cz-titulky-mp4/91c531ae05b32ae5) (ID 29720076) | [Sdílej 34774302](https://sdilej.cz/34774302/downrange-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:07:49.781539+00:00 |
+| [Downrange (2018) SD CZ Titulky](https://prehraj.to/downrange-2018-sd-cz-titulky-mp4/91c531ae05b32ae5) (ID 29720076) | [Sdílej 34774302](https://sdilej.cz/34774302/downrange-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:49:28.438428+00:00 |
 | [Dracula (1931) SD CZ Titulky](https://prehraj.to/dracula-1931-sd-cz-titulky-avi/9ec9f4e02cbafdfb) (ID 29377121) | [Sdílej 32585697](https://sdilej.cz/32585697/dracula-1931-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:27:53.088721+00:00 |
 | [Dracula 2: Vzkříšení (2003) 1080p CZ Titulky](https://prehraj.to/dracula-2-vzkriseni-2003-1080p-cz-titulky-mp4/b8db91d7c18d32f9) (ID 30400782) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589487+00:00 |
 | [Dragon Ball Super: Broly (2018) 720p CZ Titulky](https://prehraj.to/dragon-ball-super-broly-2018-720p-cz-titulky-mp4/61f5d2a382919ad5) (ID 29396899) | [Sdílej 13724972](https://sdilej.cz/13724972/dragon-ball-super-movie-broly-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:30:43.876627+00:00 |
