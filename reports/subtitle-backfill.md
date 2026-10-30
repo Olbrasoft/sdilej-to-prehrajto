@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:17:24.897385+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:17:33.325842+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -372,7 +372,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [Dívka s jehlicí (2024) 1080p CZ Titulky](https://prehraj.to/divka-s-jehlici-2024-1080p-cz-titulky-avi/5459fb1724e16197) (ID 29887887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.793086+00:00 |
 | [Dívčí válka (2004) SD CZ Titulky](https://prehraj.to/divci-valka-2004-sd-cz-titulky-mkv/9cd76f456d2e88f5) (ID 29731402) | [Sdílej 35069958](https://sdilej.cz/35069958/gladiatress-2004-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:11:38.763716+00:00 |
 | [Děsivé dědictví (2018) 1080p CZ Titulky](https://prehraj.to/desive-dedictvi-2018-1080p-cz-titulky-mkv/1acbfc40673b536b) (ID 30003284) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797078+00:00 |
-| [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:27:02.452651+00:00 |
+| [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:17:33.325706+00:00 |
 | [Dům běsů (2023) 1080p CZ Titulky](https://prehraj.to/dum-besu-2023-1080p-cz-titulky-mp4/efbbe4005a9be74f) (ID 30160550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797955+00:00 |
 | [EPiC: Elvis Presley in Concert (2026) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29319498) | [Sdílej 33941520](https://sdilej.cz/33941520/epic-elvis-presley-in-concert-2026-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-30T14:31:16.733520+00:00 |
 | [Earth to Echo (2014) SD CZ Titulky](https://prehraj.to/earth-to-echo-2014-sd-cz-titulky-mp4/54f815491411b324) (ID 29721032) | [Sdílej 34738450](https://sdilej.cz/34738450/earth-to-echo-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:08:29.244840+00:00 |
