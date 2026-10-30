@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:31:22.818719+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:31:35.728150+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -559,7 +559,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ghost Stories (2017) 1080p CZ Titulky](https://prehraj.to/ghost-stories-2017-1080p-cz-titulky-mkv/494c23100c4280fe) (ID 30280088) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152923+00:00 |
 | [Ghostland (2018) 1080p CZ Titulky](https://prehraj.to/ghostland-2018-1080p-cz-titulky-mkv/8f5389c97de7c084) (ID 30281178) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152947+00:00 |
 | [Gigi (1958) SD CZ Titulky](https://prehraj.to/gigi-1958-sd-cz-titulky-mp4/6acf90e747750d2b) (ID 30197996) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152071+00:00 |
-| [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:37:49.062227+00:00 |
+| [Gimme Shelter (2013) SD CZ Titulky](https://prehraj.to/gimme-shelter-2013-sd-cz-titulky-avi/d9f5806ef446e581) (ID 29398786) | [Sdílej 3367570](https://sdilej.cz/3367570/gimme-shelter-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:31:35.728018+00:00 |
 | [Girl on the Third Floor (2019) 1080p CZ Titulky](https://prehraj.to/girl-on-the-third-floor-2019-1080p-cz-titulky-mp4/8e2007ffdb8bce55) (ID 30416260) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153693+00:00 |
 | [Godzilla (1954) 1080p CZ Titulky](https://prehraj.to/godzilla-1954-1080p-cz-titulky-mkv/7919d2f7c3816580) (ID 29881412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.146789+00:00 |
 | [Godzilla: City on the Edge of Battle (2018) 1080p CZ Titulky.mkv](https://prehraj.to/godzilla-city-on-the-edge-of-battle-2018-1080p-cz-titulky-mkv/cbc04d9e28ee7880) (ID 29644087) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.146211+00:00 |
