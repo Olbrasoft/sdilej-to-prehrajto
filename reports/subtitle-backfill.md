@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:53:34.060795+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:53:38.084251+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_provenance_missing`: 803, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_provenance_missing`: 803, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -1206,7 +1206,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Rande na oko (2020) 1080p CZ Titulky](https://prehraj.to/rande-na-oko-2020-1080p-cz-titulky-mp4/b312d76d695945f4) (ID 29430070) | [Sdílej 31626274](https://sdilej.cz/31626274/rande-na-oko-2020-en-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:38:36.377188+00:00 |
 | [Ravage (2020) 720p CZ Titulky](https://prehraj.to/ravage-2020-720p-cz-titulky-mp4/17fab1c1a9869c06) (ID 29659107) | [Sdílej 34732167](https://sdilej.cz/34732167/ravage-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:43:28.500667+00:00 |
 | [Raymond & Ray (2022) 1080p CZ Titulky](https://prehraj.to/raymond-ray-2022-1080p-cz-titulky-mkv/9681752b725c0ee7) (ID 29579297) | [Sdílej 23454392](https://sdilej.cz/23454392/raymond-a-ray-2022-cz-sub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:44.023747+00:00 |
-| [Re-Kill (2015) SD CZ Titulky](https://prehraj.to/re-kill-2015-sd-cz-titulky-avi/6cb5d0ca86c67b09) (ID 29540122) | [Sdílej 34850986](https://sdilej.cz/34850986/re-kill-.sk-tit.v-obraze-scifi-horor-2015.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:59:45.083079+00:00 |
 | [ReMastered: Devil at the Crossroads (2019) 1080p CZ Titulky](https://prehraj.to/remastered-devil-at-the-crossroads-2019-1080p-cz-titulky-mp4/61d7073f666022d4) (ID 29432057) | [Sdílej 34733904](https://sdilej.cz/34733904/remastered-devil-at-the-crossroads-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:38:53.098374+00:00 |
 | [Rebel (2022) 720p CZ Titulky](https://prehraj.to/rebel-2022-720p-cz-titulky-mp4/fd628e2b5a38719e) (ID 30261234) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.789401+00:00 |
 | [Red Dog - psí legenda (2011) SD CZ Titulky](https://prehraj.to/red-dog-psi-legenda-2011-sd-cz-titulky-mp4/7e564ee5bf116a34) (ID 29387725) | [Sdílej 34746795](https://sdilej.cz/34746795/red-dog-psi-legenda-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:28:59.289993+00:00 |
@@ -1828,6 +1827,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Potulný samuraj Kenšin: Konec (2021) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-2021-1080p-cz-titulky-mp4/04355bfc74f6fc1d) (ID 29358418) | [Sdílej 34697415](https://sdilej.cz/34697415/potulny-samuraj-kensin-konec-2021-cz.mp4) | target_unavailable | 2026-10-30T14:32:35.244849+00:00 |
 | [Potvora (2017) 1080p CZ Titulky](https://prehraj.to/potvora-2017-1080p-cz-titulky-mkv/3b146ea8753086f1) (ID 29785219) | [Sdílej 13351305](https://sdilej.cz/13351305/en-frygtelig-kvinde-potvora-2017-.1080p.dansk-czsub.mkv) | source_unavailable | 2026-10-30T10:35:15.514786+00:00 |
 | [Pressure (2026) 1440p CZ Titulky](https://prehraj.to/pressure-2026-1440p-cz-titulky-mp4/22166d8d26688e29) (ID 29376332) | [Sdílej 34641180](https://sdilej.cz/34641180/pressure.2026.hdr.2160p.web.h265-ethel-ceske-titulky-top-kvalita.mp4) | target_unavailable | 2026-10-30T14:32:12.775261+00:00 |
+| [Re-Kill (2015) SD CZ Titulky](https://prehraj.to/re-kill-2015-sd-cz-titulky-avi/6cb5d0ca86c67b09) (ID 29540122) | [Sdílej 34850986](https://sdilej.cz/34850986/re-kill-.sk-tit.v-obraze-scifi-horor-2015.avi) | source_unavailable | 2026-10-30T15:53:38.084212+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-30T10:35:10.190341+00:00 |
 | [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | source_unavailable | 2026-10-30T15:45:10.806646+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-30T10:34:59.645225+00:00 |
