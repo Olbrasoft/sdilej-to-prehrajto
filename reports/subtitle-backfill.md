@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:58:10.305947+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:58:19.209771+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -600,7 +600,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Happy Hunting (2017) 720p CZ Titulky](https://prehraj.to/happy-hunting-2017-720p-cz-titulky-avi/4c871748cdb5f2e9) (ID 29707832) | [Sdílej 10569086](https://sdilej.cz/10569086/happy-hunting-horor-2017-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:56:03.314130+00:00 |
 | [Hardcore Never Dies (2023) 1080p CZ Titulky](https://prehraj.to/hardcore-never-dies-2023-1080p-cz-titulky-mp4/8441ee55ed9068ac) (ID 29674776) | [Sdílej 34725933](https://sdilej.cz/34725933/hardcore-never-dies-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:48:01.948983+00:00 |
 | [Harriet (2019) SD CZ Titulky](https://prehraj.to/harriet-2019-sd-cz-titulky-mp4/a5baaee104411b2a) (ID 29672979) | [Sdílej 34695153](https://sdilej.cz/34695153/harriet-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:46:26.646863+00:00 |
-| [Hasee Toh Phasee (2014) SD CZ Titulky](https://prehraj.to/hasee-toh-phasee-2014-sd-cz-titulky-mp4/d94a50c1052b78a2) (ID 29562725) | [Sdílej 34776933](https://sdilej.cz/34776933/hasee-toh-phasee-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:04:38.376571+00:00 |
+| [Hasee Toh Phasee (2014) SD CZ Titulky](https://prehraj.to/hasee-toh-phasee-2014-sd-cz-titulky-mp4/d94a50c1052b78a2) (ID 29562725) | [Sdílej 34776933](https://sdilej.cz/34776933/hasee-toh-phasee-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:58:19.209666+00:00 |
 | [Hatched (2021) 1080p CZ Titulky](https://prehraj.to/hatched-2021-1080p-cz-titulky-mkv/c15f08673a97d610) (ID 29914981) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.780540+00:00 |
 | [Hatchet (2006) SD CZ Titulky](https://prehraj.to/hatchet-2006-sd-cz-titulky-mp4/ed511f0ec0d40fe3) (ID 29916659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.780775+00:00 |
 | [Haunt (2013) SD CZ Titulky](https://prehraj.to/haunt-2013-sd-cz-titulky-avi/2ebf6f74d95b09a8) (ID 29933256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.782772+00:00 |
