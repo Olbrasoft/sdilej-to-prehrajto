@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:03:49.214252+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:03:58.538214+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1254,7 +1254,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Scaramouche (1952) 1080p CZ Titulky](https://prehraj.to/scaramouche-1952-1080p-cz-titulky-mkv/4204b49ede8f2f63) (ID 29845680) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.777840+00:00 |
 | [Scare Campaign (2016) 720p CZ Titulky](https://prehraj.to/scare-campaign-2016-720p-cz-titulky-mkv/a7b69d5133d273bc) (ID 29609224) | [Sdílej 34470083](https://sdilej.cz/34470083/scare-campaign.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:19:34.480628+00:00 |
 | [Scarecrows (2017) SD CZ Titulky](https://prehraj.to/scarecrows-2017-sd-cz-titulky-mp4/d898fc1bb9f30674) (ID 29652878) | [Sdílej 34737299](https://sdilej.cz/34737299/scarecrows-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:40:30.234870+00:00 |
-| [Scarlett (2020) 1080p CZ Titulky](https://prehraj.to/scarlett-2020-1080p-cz-titulky-mp4/206e601c2c5996ee) (ID 29575738) | [Sdílej 34773181](https://sdilej.cz/34773181/scarlett-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:11:27.459795+00:00 |
+| [Scarlett (2020) 1080p CZ Titulky](https://prehraj.to/scarlett-2020-1080p-cz-titulky-mp4/206e601c2c5996ee) (ID 29575738) | [Sdílej 34773181](https://sdilej.cz/34773181/scarlett-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:03:58.538064+00:00 |
 | [Schlussmacher (2013) SD CZ Titulky](https://prehraj.to/schlussmacher-2013-sd-cz-titulky-mp4/e885ad18f9bd10f8) (ID 29648017) | [Sdílej 34739355](https://sdilej.cz/34739355/schlussmacher-2013-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:35:39.334621+00:00 |
 | [Scooby-Doo! The Sword and the Scoob (2021) 1080p CZ Titulky](https://prehraj.to/scooby-doo-the-sword-and-the-scoob-2021-1080p-cz-titulky-mp4/69b451229f1098dd) (ID 30248084) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.788911+00:00 |
 | [Scorched Earth (2018) 1080p CZ Titulky](https://prehraj.to/scorched-earth-2018-1080p-cz-titulky-mkv/a0187b848a2488da) (ID 30398191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.791954+00:00 |
