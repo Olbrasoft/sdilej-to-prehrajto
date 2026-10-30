@@ -417004,18 +417004,20 @@
           "reason": "Source detail has no authenticated download link; source_id=15641955",
           "permanent": false,
           "attempted_at": "2026-10-22T06:13:39.994629+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "15641955",
+          "target_video_id": "30644429",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-30T20:47:55.774481+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15641955",
         "display_name": "Pavouci (2013) SD CZ Titulky",
         "planned_at": "2026-10-30T20:41:59.196764+00:00"
-      },
-      "claim": {
-        "worker_id": "42852ece2d1a4d5787bd9a2aaf395294-shard-0",
-        "claimed_at": "2026-10-30T20:43:53.528290+00:00",
-        "lease_expires_at": "2026-10-31T02:43:53.528290+00:00",
-        "run_id": "41089347220"
       },
       "previous_target_id": "30644429",
       "prepared": {
@@ -422052,5 +422054,5 @@
       }
     }
   },
-  "updated_at": "2026-10-30T20:44:16.042775+00:00"
+  "updated_at": "2026-10-30T20:47:55.774502+00:00"
 }
