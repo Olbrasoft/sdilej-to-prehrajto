@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T11:27:14.780815+00:00
+Poslední aktualizace (UTC): 2026-10-30T11:27:21.940221+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -676,7 +676,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:27.405059+00:00 |
 | [Immanence (2022) 1080p CZ Titulky](https://prehraj.to/immanence-2022-1080p-cz-titulky-mp4/3698c678aa15f46b) (ID 30369784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.573646+00:00 |
 | [In Praise of Older Women (1978) SD CZ Titulky](https://prehraj.to/in-praise-of-older-women-1978-sd-cz-titulky-avi/deec8f83f528ca0c) (ID 29372496) | [Sdílej 25839274](https://sdilej.cz/25839274/in-praise-of-older-women-1978-can-drama.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:26:41.658506+00:00 |
-| [In Your Eyes (2014) 1080p CZ Titulky](https://prehraj.to/in-your-eyes-2014-1080p-cz-titulky-mp4/4ca7257a996ad0b1) (ID 29373572) | [Sdílej 32965271](https://sdilej.cz/32965271/in-your-eyes-2014-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T10:39:40.378012+00:00 |
+| [In Your Eyes (2014) 1080p CZ Titulky](https://prehraj.to/in-your-eyes-2014-1080p-cz-titulky-mp4/4ca7257a996ad0b1) (ID 29373572) | [Sdílej 32965271](https://sdilej.cz/32965271/in-your-eyes-2014-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:27:21.940098+00:00 |
 | [In the Grey (2026) 4K CZ Titulky](https://prehraj.to/in-the-grey-2026-4k-cz-titulky-mkv/8ea3447923a9f9d4) (ID 30299033) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T11:25:14.572931+00:00 |
 | [In the Trap (2019) SD CZ Titulky](https://prehraj.to/in-the-trap-2019-sd-cz-titulky-avi/176a356be83090e4) (ID 29646475) | [Sdílej 13633864](https://sdilej.cz/13633864/in.the.trap.2019.hdrip.xvid.ac3-evo.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:34:42.699667+00:00 |
 | [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:40:53.852574+00:00 |
