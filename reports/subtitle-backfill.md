@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T18:32:09.524363+00:00
+Poslední aktualizace (UTC): 2026-10-30T18:32:20.701858+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -100,7 +100,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Asi to ukončím (2020) 1080p CZ Titulky](https://prehraj.to/asi-to-ukoncim-2020-1080p-cz-titulky-mp4/30902fc304e68e5d) (ID 30235220) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.571757+00:00 |
 | [Astronautka (2025) 1080p CZ Titulky](https://prehraj.to/astronautka-2025-1080p-cz-titulky-mkv/a079ce28ec7afe28) (ID 30413805) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.574666+00:00 |
 | [Atletka A (2020) 1080p CZ Titulky](https://prehraj.to/atletka-a-2020-1080p-cz-titulky-mp4/1710e7b2ccc77015) (ID 29788237) | [Sdílej 34733422](https://sdilej.cz/34733422/atletka-a-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:38:46.222333+00:00 |
-| [Atomica (2017) SD CZ Titulky](https://prehraj.to/atomica-2017-sd-cz-titulky-avi/39b65aa72bf79f7c) (ID 29748370) | [Sdílej 8005043](https://sdilej.cz/8005043/deep-burial-atomica-2017-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:31:37.137813+00:00 |
+| [Atomica (2017) SD CZ Titulky](https://prehraj.to/atomica-2017-sd-cz-titulky-avi/39b65aa72bf79f7c) (ID 29748370) | [Sdílej 8005043](https://sdilej.cz/8005043/deep-burial-atomica-2017-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:32:20.701738+00:00 |
 | [Audrey (2020) 1080p CZ Titulky](https://prehraj.to/audrey-2020-1080p-cz-titulky-mp4/51f86a89be6d8216) (ID 29429913) | [Sdílej 34773457](https://sdilej.cz/34773457/audrey-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:38:27.065377+00:00 |
 | [Aurora (2019) 1080p CZ Titulky](https://prehraj.to/aurora-2019-1080p-cz-titulky-mkv/7c2178b015ccb9d4) (ID 29214765) | [Sdílej 12389464](https://sdilej.cz/12389464/aurora.2019.1080p.bluray.x264-fico.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:25:43.929328+00:00 |
 | [Aurore (2005) 720p CZ Titulky](https://prehraj.to/aurore-2005-720p-cz-titulky-mkv/0973e010b35e7f9e) (ID 29445306) | [Sdílej 32454300](https://sdilej.cz/32454300/aurore-2005-cz-tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:42:00.629224+00:00 |
