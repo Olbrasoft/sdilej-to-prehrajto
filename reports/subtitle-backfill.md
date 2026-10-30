@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T13:31:38.654801+00:00
+Poslední aktualizace (UTC): 2026-10-30T13:31:49.633683+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1639,7 +1639,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Vesmírný pirát Kapitán Harlock (2013) SD CZ Titulky](https://prehraj.to/vesmirny-pirat-kapitan-harlock-2013-sd-cz-titulky-avi/a6003e8d225ae769) (ID 30257690) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.982641+00:00 |
 | [Večeře po americku (2020) 720p CZ Titulky](https://prehraj.to/vecere-po-americku-2020-720p-cz-titulky-mp4/182d5e4324e28145) (ID 29888517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.977436+00:00 |
 | [Veřejný dům hrůzy (2012) 1080p CZ Titulky](https://prehraj.to/verejny-dum-hruzy-2012-1080p-cz-titulky-mkv/e712c5a315cf68ae) (ID 30323410) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.983172+00:00 |
-| [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:47:16.760912+00:00 |
+| [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:31:49.633558+00:00 |
 | [Vidíš měsíc, Danieli (2019) 1080p CZ Titulky](https://prehraj.to/vidis-mesic-danieli-2019-1080p-cz-titulky-mkv/366024272a4ad479) (ID 29502172) | [Sdílej 13336140](https://sdilej.cz/13336140/ser.du.maanen.daniel.2019.nordic.1080p.web-dl.h.264-rapidcows-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:49.571086+00:00 |
 | [Viking: The Berserkers (2014) SD CZ Titulky](https://prehraj.to/viking-the-berserkers-2014-sd-cz-titulky-mkv/1648f165f1694a06) (ID 29565059) | [Sdílej 35032461](https://sdilej.cz/35032461/viking-the-berserkers.2014.brrip.x264.ac3-srt.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:06:35.993310+00:00 |
 | [Violence Action (2022) 1080p CZ Titulky](https://prehraj.to/violence-action-2022-1080p-cz-titulky-mp4/d69a8bbc173eb1b8) (ID 29611154) | [Sdílej 34726508](https://sdilej.cz/34726508/violence-action-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:21:14.015895+00:00 |
