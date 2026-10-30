@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:34:01.736432+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:34:09.775378+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -587,7 +587,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Hacker: Trust No One (2022) 1080p CZ Titulky](https://prehraj.to/hacker-trust-no-one-2022-1080p-cz-titulky-mp4/b7be2c90a59625b0) (ID 29682579) | [Sdílej 34772313](https://sdilej.cz/34772313/hacker-trust-no-one-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:51:03.396475+00:00 |
 | [Hadí vejce (1977) SD CZ Titulky.mkv](https://prehraj.to/hadi-vejce-1977-sd-cz-titulky-mkv/61408a89d590b055) (ID 29675311) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.146337+00:00 |
 | [Hafan hasičem (2007) 1080p CZ Titulky](https://prehraj.to/hafan-hasicem-2007-1080p-cz-titulky-mp4/2aca0c9ea9047267) (ID 29930732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149159+00:00 |
-| [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:40:36.540959+00:00 |
+| [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:34:09.775241+00:00 |
 | [Halloweenský lov (2019) 1080p CZ Titulky](https://prehraj.to/halloweensky-lov-2019-1080p-cz-titulky-mkv/b8b27493c2a2f07f) (ID 30301837) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152997+00:00 |
 | [Halušky: Dobrodružství s psychedeliky (2020) 1080p CZ Titulky](https://prehraj.to/halusky-dobrodruzstvi-s-psychedeliky-2020-1080p-cz-titulky-mp4/4082b7676326cc0f) (ID 29443389) | [Sdílej 34733180](https://sdilej.cz/34733180/halusky-dobrodruzstvi-s-psychedeliky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:47:52.845238+00:00 |
 | [Hammers Over the Anvil (1994) SD CZ Titulky](https://prehraj.to/hammers-over-the-anvil-1994-sd-cz-titulky-mp4/75de8673e206249c) (ID 29366900) | [Sdílej 34785379](https://sdilej.cz/34785379/hammers-over-the-anvil-1994-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:26:02.953404+00:00 |
