@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T17:07:55.034572+00:00
+Poslední aktualizace (UTC): 2026-10-30T17:07:58.752857+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1809,7 +1809,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 62. Dův
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-10-30T17:07:14.325370+00:00 |
 | [Gamera kontra Gaos (1967) SD CZ Titulky](https://prehraj.to/gamera-kontra-gaos-1967-sd-cz-titulky-mp4/25f34685dc8d72f1) (ID 29665275) | [Sdílej 30088615](https://sdilej.cz/30088615/gamera-kontra-gaos-s...ujteto.mp4) | source_unavailable | 2026-10-30T16:32:47.687929+00:00 |
 | [Hotel Inferno 3: The Castle of Screams (2020) 720p CZ Titulky](https://prehraj.to/hotel-inferno-3-the-castle-of-screams-2020-720p-cz-titulky-mp4/72e4849ec29169b4) (ID 29398804) | [Sdílej 34733137](https://sdilej.cz/34733137/hotel-inferno-3-the-castle-of-screams-2020-cz-titulky.mp4) | source_unavailable | 2026-10-30T15:31:39.858197+00:00 |
-| [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-30T14:32:38.911236+00:00 |
+| [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-10-30T17:07:58.752813+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-10-30T17:07:22.173464+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-10-30T17:07:09.378506+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | target_unavailable | 2026-10-30T17:06:49.440287+00:00 |
