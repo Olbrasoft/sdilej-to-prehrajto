@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:47:30.912910+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:47:40.192423+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1352,7 +1352,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Spirit (2001) 4K CZ Titulky](https://prehraj.to/spirit-2001-4k-cz-titulky-mkv/3c9b4d38844fb6d1) (ID 30259616) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152780+00:00 |
 | [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:37:00.206396+00:00 |
 | [Spolu nespolu (2021) 1080p CZ Titulky](https://prehraj.to/spolu-nespolu-2021-1080p-cz-titulky-mkv/5bd76ac6f67332e4) (ID 30250371) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152625+00:00 |
-| [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:55:12.495720+00:00 |
+| [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:47:40.192288+00:00 |
 | [Spravedlnost podle Spensera (2020) 1080p CZ Titulky](https://prehraj.to/spravedlnost-podle-spensera-2020-1080p-cz-titulky-mp4/fa5a6940b9db7bbd) (ID 30325739) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153197+00:00 |
 | [Spring (2021) 720p CZ Titulky](https://prehraj.to/spring-2021-720p-cz-titulky-mkv/648812789eb4b12f) (ID 30171050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.151903+00:00 |
 | [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:31:16.263738+00:00 |
