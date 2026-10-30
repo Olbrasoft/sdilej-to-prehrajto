@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:01:46.750294+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:01:55.494005+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -837,7 +837,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Lost Girls & Love Hotels (2020) 1080p CZ Titulky](https://prehraj.to/lost-girls-love-hotels-2020-1080p-cz-titulky-mkv/59d52c558f8844a9) (ID 30404232) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.792180+00:00 |
 | [Lovci bájných relikvií (2013) SD CZ Titulky](https://prehraj.to/lovci-bajnych-relikvii-2013-sd-cz-titulky-avi/edf599abc67d5112) (ID 30375319) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.791323+00:00 |
 | [Love Reset (2023) 1080p CZ Titulky](https://prehraj.to/love-reset-2023-1080p-cz-titulky-mp4/5de9660bffda9818) (ID 30096836) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.786370+00:00 |
-| [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:08:35.161105+00:00 |
+| [Lovná zvěř (1986) SD CZ Titulky](https://prehraj.to/lovna-zver-1986-sd-cz-titulky-mp4/e48003459881f5ce) (ID 29571577) | [Sdílej 34755371](https://sdilej.cz/34755371/lovna-zver-1986-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:01:55.493896+00:00 |
 | [Lumberjack Man (2015) SD CZ Titulky](https://prehraj.to/lumberjack-man-2015-sd-cz-titulky-mp4/4228562343a7aca6) (ID 29926192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.781939+00:00 |
 | [Lurker (2025) 1080p CZ Titulky](https://prehraj.to/lurker-2025-1080p-cz-titulky-mp4/4d45d5e1a3ef24e9) (ID 30106547) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.786684+00:00 |
 | [Láska mezi regály (2018) 720p CZ Titulky](https://prehraj.to/laska-mezi-regaly-2018-720p-cz-titulky-mkv/caecac1a90fa7d92) (ID 29381478) | [Sdílej 34794807](https://sdilej.cz/34794807/laska.mezi.regaly.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:28:18.368863+00:00 |
