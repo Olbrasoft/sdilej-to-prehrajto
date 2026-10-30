@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T18:38:37.159124+00:00
+Poslední aktualizace (UTC): 2026-10-30T18:38:44.913816+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -714,7 +714,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Jeanne du Barry – Králova milenka (2023) 1080p CZ Titulky](https://prehraj.to/jeanne-du-barry-kralova-milenka-2023-1080p-cz-titulky-mp4/d0f724546bcda986) (ID 30125036) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.570396+00:00 |
 | [Jedním dechem (2021) 1080p CZ Titulky](https://prehraj.to/jednim-dechem-2021-1080p-cz-titulky-mp4/2d5d5ee664fff6ee) (ID 30155718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.570736+00:00 |
 | [Jeff Dunham: Unhinged in Hollywood (2015) 1080p CZ Titulky](https://prehraj.to/jeff-dunham-unhinged-in-hollywood-2015-1080p-cz-titulky-mp4/cc74299980551325) (ID 29214267) | [Sdílej 12371964](https://sdilej.cz/12371964/jeff.dunham.unhinged.in.hollywood.2015.uncensored.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:25:27.333205+00:00 |
-| [Jeff Garlin: Náš člověk v Chicagu (2019) 720p CZ Titulky](https://prehraj.to/jeff-garlin-nas-clovek-v-chicagu-2019-720p-cz-titulky-mp4/9eb6fdb73b076786) (ID 29805320) | [Sdílej 34734254](https://sdilej.cz/34734254/jeff-garlin-nas-clovek-v-chicagu-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:40:10.367433+00:00 |
+| [Jeff Garlin: Náš člověk v Chicagu (2019) 720p CZ Titulky](https://prehraj.to/jeff-garlin-nas-clovek-v-chicagu-2019-720p-cz-titulky-mp4/9eb6fdb73b076786) (ID 29805320) | [Sdílej 34734254](https://sdilej.cz/34734254/jeff-garlin-nas-clovek-v-chicagu-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:38:44.913702+00:00 |
 | [Jen my dva (2023) 720p CZ Titulky](https://prehraj.to/jen-my-dva-2023-720p-cz-titulky-mkv/3bb891ec2cbe6ecf) (ID 30190023) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.571129+00:00 |
 | [Jen si tak trochu písknout (1981) SD CZ Titulky](https://prehraj.to/jen-si-tak-trochu-pisknout-1981-sd-cz-titulky-avi/9f2ef9b8f25b6343) (ID 29608037) | [Sdílej 27905927](https://sdilej.cz/27905927/jen-si-tak-trochu-pisknout-1981-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:00:16.945335+00:00 |
 | [Jennifer Lopez: Poločas (2022) 1080p CZ Titulky](https://prehraj.to/jennifer-lopez-polocas-2022-1080p-cz-titulky-mp4/017bba82a7746309) (ID 29717883) | [Sdílej 34867444](https://sdilej.cz/34867444/jennifer-lopez-halftime-2022-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:48:10.770524+00:00 |
