@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:34:02.011932+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:34:12.406375+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -28,7 +28,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:09.314356+00:00 |
 | [25 let neviny (2020) 1080p CZ Titulky](https://prehraj.to/25-let-neviny-2020-1080p-cz-titulky-mkv/ccb4fe7ab705d118) (ID 30321465) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.798876+00:00 |
 | [2898 (2024) 720p CZ Titulky.avi](https://prehraj.to/2898-2024-720p-cz-titulky-avi/44ba3b2824c6af99) (ID 30041803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797449+00:00 |
-| [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:47:53.035764+00:00 |
+| [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:34:12.406249+00:00 |
 | [37 sekund (2019) 1080p CZ Titulky](https://prehraj.to/37-sekund-2019-1080p-cz-titulky-mkv/8c1830443e4f7902) (ID 29409387) | [Sdílej 12981772](https://sdilej.cz/12981772/37-sekanzu-37-seconds-2019-cz-titulky-webrip.1080p-5.1-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:24.379830+00:00 |
 | [3:10 Vlak do Yumy (1957) 1080p CZ Titulky.mkv](https://prehraj.to/3-10-vlak-do-yumy-1957-1080p-cz-titulky-mkv/c212bc031d773dc1) (ID 29564989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.791944+00:00 |
 | [40 Acres (2024) 1080p CZ Titulky](https://prehraj.to/40-acres-2024-1080p-cz-titulky-mkv/25257cec3ffa95fd) (ID 30246511) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.798476+00:00 |
