@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:39:16.694076+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:39:39.697416+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1590,7 +1590,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:40:01.575520+00:00 |
 | [Třídní sraz 2 - Pohřeb (2014) SD CZ Titulky](https://prehraj.to/tridni-sraz-2-pohreb-2014-sd-cz-titulky-mp4/cbcc5f0231c71ee9) (ID 29599614) | [Sdílej 34711194](https://sdilej.cz/34711194/tridni-sraz-2-pohreb-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:16:34.904007+00:00 |
 | [U Zlaté rukavice (2019) SD CZ Titulky](https://prehraj.to/u-zlate-rukavice-2019-sd-cz-titulky-mp4/f4900cd7b669e226) (ID 30128747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.151551+00:00 |
-| [U brány věčnosti (2018) 1080p CZ Titulky](https://prehraj.to/u-brany-vecnosti-2018-1080p-cz-titulky-avi/d12b33ec67ef2a7c) (ID 29434266) | [Sdílej 24585680](https://sdilej.cz/24585680/u-brany-vecnosti-2018-zivotopisny-drama-bdrip.-en-cz-titlevlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:46:41.205410+00:00 |
+| [U brány věčnosti (2018) 1080p CZ Titulky](https://prehraj.to/u-brany-vecnosti-2018-1080p-cz-titulky-avi/d12b33ec67ef2a7c) (ID 29434266) | [Sdílej 24585680](https://sdilej.cz/24585680/u-brany-vecnosti-2018-zivotopisny-drama-bdrip.-en-cz-titlevlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:39:39.697272+00:00 |
 | [U moře (2015) 1080p CZ Titulky](https://prehraj.to/u-more-2015-1080p-cz-titulky-avi/c8f7fdc72bafc507) (ID 30389132) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153488+00:00 |
 | [UFO Švédsko (2022) 1080p CZ Titulky](https://prehraj.to/ufo-svedsko-2022-1080p-cz-titulky-mp4/3deda55ea79f137d) (ID 30247370) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152552+00:00 |
 | [Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky](https://prehraj.to/ultramarines-a-warhammer-40-000-movie-2010-1080p-cz-titulky-mp4/a8da8257183be7f9) (ID 29688874) | [Sdílej 34780444](https://sdilej.cz/34780444/ultramarines-a-warhammer-40-000-movie-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:51:56.638720+00:00 |
