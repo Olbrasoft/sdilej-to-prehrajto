@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T02:32:12.546041+00:00
+Poslední aktualizace (UTC): 2026-10-30T02:32:21.182076+00:00
 
 Zkontrolováno videí: 2311. Další stránka kontroly: 0.
 
@@ -961,7 +961,7 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Nightshift (2018) 1080p CZ Titulky](https://prehraj.to/nightshift-2018-1080p-cz-titulky-mkv/7127bc8a87c1ba45) (ID 29637681) | [Sdílej 14876648](https://sdilej.cz/14876648/morto-n-o-fala-the-nightshifter.2018.portuguese.1080p.bluray.h264.aac-vxt.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:52.201829+00:00 |
 | [Nikdo nepřežije (2012) SD CZ Titulky](https://prehraj.to/nikdo-neprezije-2012-sd-cz-titulky-avi/585f903cbc9cd5ad) (ID 29904525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T02:31:53.580215+00:00 |
 | [Nikdy nepláču (2020) 1080p CZ Titulky](https://prehraj.to/nikdy-neplacu-2020-1080p-cz-titulky-mkv/b304f3e4838aa6ae) (ID 29256661) | [Sdílej 21247329](https://sdilej.cz/21247329/nikdy-neplacu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:20.875609+00:00 |
-| [No Beast So Fierce (2016) 720p CZ Titulky](https://prehraj.to/no-beast-so-fierce-2016-720p-cz-titulky-mp4/1854930a19d1ae3f) (ID 29282010) | [Sdílej 34737709](https://sdilej.cz/34737709/no-beast-so-fierce-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:42:36.558264+00:00 |
+| [No Beast So Fierce (2016) 720p CZ Titulky](https://prehraj.to/no-beast-so-fierce-2016-720p-cz-titulky-mp4/1854930a19d1ae3f) (ID 29282010) | [Sdílej 34737709](https://sdilej.cz/34737709/no-beast-so-fierce-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T02:32:21.181961+00:00 |
 | [No Safe Spaces (2019) 1080p CZ Titulky](https://prehraj.to/no-safe-spaces-2019-1080p-cz-titulky-mp4/c796a048dd88b09a) (ID 29629794) | [Sdílej 34902754](https://sdilej.cz/34902754/no-safe-spaces-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:26:41.365965+00:00 |
 | [No Way Out (2022) SD CZ Titulky](https://prehraj.to/no-way-out-2022-sd-cz-titulky-avi/67803e090f82c453) (ID 29612619) | [Sdílej 27646570](https://sdilej.cz/27646570/no.way.out.2022.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:23:39.539268+00:00 |
 | [No entres (2024) 1080p CZ Titulky](https://prehraj.to/no-entres-2024-1080p-cz-titulky-mp4/d42c874b15edef05) (ID 29273058) | [Sdílej 34724888](https://sdilej.cz/34724888/no-entres-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:29:34.539546+00:00 |
