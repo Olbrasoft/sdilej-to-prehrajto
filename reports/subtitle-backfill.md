@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T18:39:41.213855+00:00
+Poslední aktualizace (UTC): 2026-10-30T18:39:48.506565+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1779,7 +1779,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Čivava z Beverly Hills 3 (2012) 720p CZ Titulky](https://prehraj.to/civava-z-beverly-hills-3-2012-720p-cz-titulky-mkv/0972991fd01125cb) (ID 30378915) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.573690+00:00 |
 | [Člověk ze Západu (1940) 1080p CZ Titulky](https://prehraj.to/clovek-ze-zapadu-1940-1080p-cz-titulky-mkv/77644b1949622c67) (ID 29327215) | [Sdílej 29216985](https://sdilej.cz/29216985/the.westerner.1940.eng.fra.1080p.webrip.x264.aac-rht-sksub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:31:06.028808+00:00 |
 | [Čokoládový dortík (2022) SD CZ Titulky](https://prehraj.to/cokoladovy-dortik-2022-sd-cz-titulky-avi/7c77e44c74b91ff3) (ID 29606406) | [Sdílej 24428260](https://sdilej.cz/24428260/cokoladovy-dortik-sachertorte-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:09:28.487976+00:00 |
-| [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:41:39.200813+00:00 |
+| [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:39:48.506413+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:07.821783+00:00 |
 | [Říše zvířat (2023) 720p CZ Titulky.mp4](https://prehraj.to/rise-zvirat-2023-720p-cz-titulky-mp4/ef1471bd90be42e3) (ID 30163327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.570852+00:00 |
 | [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:18:21.881203+00:00 |
