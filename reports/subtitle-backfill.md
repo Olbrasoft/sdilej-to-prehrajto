@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T01:30:23.721297+00:00
+Poslední aktualizace (UTC): 2026-10-30T01:30:32.832711+00:00
 
 Zkontrolováno videí: 2291. Další stránka kontroly: 0.
 
@@ -1212,7 +1212,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Scooby-Doo! The Sword and the Scoob (2021) 1080p CZ Titulky](https://prehraj.to/scooby-doo-the-sword-and-the-scoob-2021-1080p-cz-titulky-mp4/69b451229f1098dd) (ID 30248084) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.942179+00:00 |
 | [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:50:58.684736+00:00 |
 | [Se min kjole (2009) 1080p CZ Titulky](https://prehraj.to/se-min-kjole-2009-1080p-cz-titulky-mp4/1121be52ba5134ec) (ID 30154744) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.941884+00:00 |
-| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T01:05:37.888631+00:00 |
+| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:30:32.832578+00:00 |
 | [Sebastian (2024) 1080p CZ Titulky](https://prehraj.to/sebastian-2024-1080p-cz-titulky-mkv/8873a3986b8be1da) (ID 29604868) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.938984+00:00 |
 | [Secrets in the Sky: The Untold Story of Skunk Works (2019) 1080p CZ Titulky](https://prehraj.to/secrets-in-the-sky-the-untold-story-of-skunk-works-2019-1080p-cz-titulky-mp4/d97cb97bc77e91f8) (ID 30064235) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T01:28:45.941644+00:00 |
 | [Sedlák (2019) 720p CZ Titulky](https://prehraj.to/sedlak-2019-720p-cz-titulky-mp4/6b72ee4f346efa22) (ID 29828988) | [Sdílej 34733869](https://sdilej.cz/34733869/sedlak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:42:01.459379+00:00 |
