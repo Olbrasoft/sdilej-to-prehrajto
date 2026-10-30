@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T07:29:38.225858+00:00
+Poslední aktualizace (UTC): 2026-10-30T07:29:48.146120+00:00
 
 Zkontrolováno videí: 2329. Další stránka kontroly: 0.
 
@@ -1078,7 +1078,7 @@ Kontrol: 49; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pink Floyd: The Wall (1982) 1080p CZ Titulky](https://prehraj.to/pink-floyd-the-wall-1982-1080p-cz-titulky-mkv/ca81b0ba681e9e35) (ID 29178622) | [Sdílej 10107109](https://sdilej.cz/10107109/pink.floyd-the.wall.1982.x264.hdtvrip-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-26T18:47:55.662285+00:00 |
 | [Piranha (1972) 720p CZ Titulky](https://prehraj.to/piranha-1972-720p-cz-titulky-mp4/7c27f004f255cc8c) (ID 29936149) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.349539+00:00 |
 | [Playboy: Playmate Playoffs (1986) SD CZ Titulky](https://prehraj.to/playboy-playmate-playoffs-1986-sd-cz-titulky-mp4/4e268a6be1538dbb) (ID 29354037) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.341701+00:00 |
-| [Playtime (1967) 720p CZ Titulky](https://prehraj.to/playtime-1967-720p-cz-titulky-mp4/f06d6d9c673d5e42) (ID 29325122) | [Sdílej 30754860](https://sdilej.cz/30754860/playtime-1967-fr-tvrip-hevc-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T06:50:12.406129+00:00 |
+| [Playtime (1967) 720p CZ Titulky](https://prehraj.to/playtime-1967-720p-cz-titulky-mp4/f06d6d9c673d5e42) (ID 29325122) | [Sdílej 30754860](https://sdilej.cz/30754860/playtime-1967-fr-tvrip-hevc-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:29:48.145978+00:00 |
 | [Plivu na tvůj hrob (1978) 1080p CZ Titulky](https://prehraj.to/plivu-na-tvuj-hrob-1978-1080p-cz-titulky-mkv/b8a5a41c2df5c6ff) (ID 29916548) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.347139+00:00 |
 | [Plán pro rodinu (2023) 4K CZ Titulky](https://prehraj.to/plan-pro-rodinu-2023-4k-cz-titulky-mkv/a38db1b322c22070) (ID 30303685) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.356525+00:00 |
 | [Plán pro rodinu 2 (2025) 1080p CZ Titulky](https://prehraj.to/plan-pro-rodinu-2-2025-1080p-cz-titulky-mkv/e36f30a084a0a417) (ID 29937266) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.349865+00:00 |
