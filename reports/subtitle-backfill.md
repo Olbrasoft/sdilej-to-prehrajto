@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:33:35.367109+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:33:45.385811+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1066,7 +1066,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Painted Skin: The Resurrection (2012) SD CZ Titulky.mp4](https://prehraj.to/painted-skin-the-resurrection-2012-sd-cz-titulky-mp4/cb7126d126ea6040) (ID 29571679) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.146054+00:00 |
 | [Paisà (1946) SD CZ Titulky](https://prehraj.to/paisa-1946-sd-cz-titulky-mp4/bf2ff48f4aa82833) (ID 30279727) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152916+00:00 |
 | [Palmer (2021) 1080p CZ Titulky](https://prehraj.to/palmer-2021-1080p-cz-titulky-mkv/a29da1f136fb25ba) (ID 29489297) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.145900+00:00 |
-| [Palmy ve sněhu (2015) SD CZ Titulky](https://prehraj.to/palmy-ve-snehu-2015-sd-cz-titulky-mp4/b9be3e4c9f3f1024) (ID 29407324) | [Sdílej 34738002](https://sdilej.cz/34738002/palmy-ve-snehu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:40:11.862278+00:00 |
+| [Palmy ve sněhu (2015) SD CZ Titulky](https://prehraj.to/palmy-ve-snehu-2015-sd-cz-titulky-mp4/b9be3e4c9f3f1024) (ID 29407324) | [Sdílej 34738002](https://sdilej.cz/34738002/palmy-ve-snehu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:33:45.385689+00:00 |
 | [Paltan (2018) SD CZ Titulky](https://prehraj.to/paltan-2018-sd-cz-titulky-avi/c7574d0d7f7b9664) (ID 29301260) | [Sdílej 11250607](https://sdilej.cz/11250607/paltan-2018-sk-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:28:17.702305+00:00 |
 | [Paměť – zrod Vetřelce (2019) 1080p CZ Titulky](https://prehraj.to/pamet-zrod-vetrelce-2019-1080p-cz-titulky-mkv/256581c34fb010db) (ID 29468339) | [Sdílej 26720741](https://sdilej.cz/26720741/memory.the.origins.of.alien.2019.1080p.amzn.web-dl.ddp5.1.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:51:40.816803+00:00 |
 | [Pan Nepolapitelný (2022) 1080p CZ Titulky](https://prehraj.to/pan-nepolapitelny-2022-1080p-cz-titulky-mkv/6b27c2e42306e4f9) (ID 30216884) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152289+00:00 |
