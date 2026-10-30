@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:47:59.731180+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:48:10.770646+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -715,7 +715,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Jeff Garlin: Náš člověk v Chicagu (2019) 720p CZ Titulky](https://prehraj.to/jeff-garlin-nas-clovek-v-chicagu-2019-720p-cz-titulky-mp4/9eb6fdb73b076786) (ID 29805320) | [Sdílej 34734254](https://sdilej.cz/34734254/jeff-garlin-nas-clovek-v-chicagu-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:40:10.367433+00:00 |
 | [Jen my dva (2023) 720p CZ Titulky](https://prehraj.to/jen-my-dva-2023-720p-cz-titulky-mkv/3bb891ec2cbe6ecf) (ID 30190023) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588611+00:00 |
 | [Jen si tak trochu písknout (1981) SD CZ Titulky](https://prehraj.to/jen-si-tak-trochu-pisknout-1981-sd-cz-titulky-avi/9f2ef9b8f25b6343) (ID 29608037) | [Sdílej 27905927](https://sdilej.cz/27905927/jen-si-tak-trochu-pisknout-1981-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:20:03.265646+00:00 |
-| [Jennifer Lopez: Poločas (2022) 1080p CZ Titulky](https://prehraj.to/jennifer-lopez-polocas-2022-1080p-cz-titulky-mp4/017bba82a7746309) (ID 29717883) | [Sdílej 34867444](https://sdilej.cz/34867444/jennifer-lopez-halftime-2022-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:06:23.838096+00:00 |
+| [Jennifer Lopez: Poločas (2022) 1080p CZ Titulky](https://prehraj.to/jennifer-lopez-polocas-2022-1080p-cz-titulky-mp4/017bba82a7746309) (ID 29717883) | [Sdílej 34867444](https://sdilej.cz/34867444/jennifer-lopez-halftime-2022-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:48:10.770524+00:00 |
 | [Jenny Slate: Tréma na jevišti (2019) 1080p CZ Titulky](https://prehraj.to/jenny-slate-trema-na-jevisti-2019-1080p-cz-titulky-mp4/330ef8aec3359acb) (ID 29284592) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.583552+00:00 |
 | [Jersey Shore Massacre (2014) SD CZ Titulky](https://prehraj.to/jersey-shore-massacre-2014-sd-cz-titulky-avi/280c97fac5e29970) (ID 30399898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589465+00:00 |
 | [Jexi: Láska z mobilu (2019) 1080p CZ Titulky](https://prehraj.to/jexi-laska-z-mobilu-2019-1080p-cz-titulky-mkv/d600502c74896b63) (ID 29917533) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586854+00:00 |
