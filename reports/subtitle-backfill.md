@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T18:35:27.083169+00:00
+Poslední aktualizace (UTC): 2026-10-30T18:35:35.197640+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1197,7 +1197,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Půlnoc v zahradě dobra a zla (1997) 720p CZ Titulky.mkv](https://prehraj.to/pulnoc-v-zahrade-dobra-a-zla-1997-720p-cz-titulky-mkv/88e48b9c8217baf5) (ID 29675454) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.563354+00:00 |
 | [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:29:53.216678+00:00 |
 | [Que Dios nos perdone (2016) SD CZ Titulky](https://prehraj.to/que-dios-nos-perdone-2016-sd-cz-titulky-avi/c0a87f748dac40c0) (ID 30039913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.569384+00:00 |
-| [Ra.One (2011) SD CZ Titulky](https://prehraj.to/ra-one-2011-sd-cz-titulky-mp4/7734dccf7f2e3e3b) (ID 29753011) | [Sdílej 34747028](https://sdilej.cz/34747028/ra.one-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:36:03.459323+00:00 |
+| [Ra.One (2011) SD CZ Titulky](https://prehraj.to/ra-one-2011-sd-cz-titulky-mp4/7734dccf7f2e3e3b) (ID 29753011) | [Sdílej 34747028](https://sdilej.cz/34747028/ra.one-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:35:35.197466+00:00 |
 | [Rabid (2019) SD CZ Titulky](https://prehraj.to/rabid-2019-sd-cz-titulky-mkv/bfcd5f70f8fb6d23) (ID 29929068) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.567045+00:00 |
 | [Radium Girls (2020) 1080p CZ Titulky](https://prehraj.to/radium-girls-2020-1080p-cz-titulky-mp4/7e512ed9c7308002) (ID 30215915) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T18:30:51.571426+00:00 |
 | [Raging Grace (2023) 1080p CZ Titulky](https://prehraj.to/raging-grace-2023-1080p-cz-titulky-mkv/1711bfa381c01dcc) (ID 29297018) | [Sdílej 30540717](https://sdilej.cz/30540717/raging-grace-2023-horor-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:45.881217+00:00 |
