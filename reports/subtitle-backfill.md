@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T13:31:49.633683+00:00
+Poslední aktualizace (UTC): 2026-10-30T13:31:58.537909+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1666,7 +1666,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Vítej doma (2018) SD CZ Titulky](https://prehraj.to/vitej-doma-2018-sd-cz-titulky-avi/ac384bc9687afc30) (ID 30370191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.983491+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:39.155601+00:00 |
 | [Výheň (2011) SD CZ Titulky](https://prehraj.to/vyhen-2011-sd-cz-titulky-avi/355cca1c01d64405) (ID 29916356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.978561+00:00 |
-| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T12:47:25.019305+00:00 |
+| [Věřte mi: Únos Lisy McVeyové (2018) 1080p CZ Titulky](https://prehraj.to/verte-mi-unos-lisy-mcveyove-2018-1080p-cz-titulky-mp4/bafd0c41c2aeae4b) (ID 29393996) | [Sdílej 34735084](https://sdilej.cz/34735084/verte-mi-unos-lisy-mcveyove-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:31:58.537794+00:00 |
 | [Všechna ta krása a zabíjení (2022) 1080p CZ Titulky](https://prehraj.to/vsechna-ta-krasa-a-zabijeni-2022-1080p-cz-titulky-mp4/7adfb285aa1dbffd) (ID 30000019) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.980499+00:00 |
 | [Všechno je, jak má být (1995) SD CZ Titulky](https://prehraj.to/vsechno-je-jak-ma-byt-1995-sd-cz-titulky-avi/674b09a7ddcb383d) (ID 29688687) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.976779+00:00 |
 | [Všechny malé zázraky (2020) 720p CZ Titulky](https://prehraj.to/vsechny-male-zazraky-2020-720p-cz-titulky-mkv/2d8b2d2b5bce5212) (ID 30201204) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T13:29:54.982045+00:00 |
