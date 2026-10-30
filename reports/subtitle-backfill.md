@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:53:08.031635+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:53:23.061560+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -145,7 +145,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Becoming (2020) 1080p CZ Titulky](https://prehraj.to/becoming-2020-1080p-cz-titulky-mkv/37fc72f0e44640c7) (ID 29917921) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586909+00:00 |
 | [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:46:19.004417+00:00 |
 | [Becoming Warren Buffett (2017) 1080p CZ Titulky](https://prehraj.to/becoming-warren-buffett-2017-1080p-cz-titulky-avi/11404215fbc3706a) (ID 30035020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587963+00:00 |
-| [Before the Fire (2020) SD CZ Titulky](https://prehraj.to/before-the-fire-2020-sd-cz-titulky-avi/424c149d6f91b6f7) (ID 29731607) | [Sdílej 27602574](https://sdilej.cz/27602574/before.the.fire.2020.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:12:10.321795+00:00 |
+| [Before the Fire (2020) SD CZ Titulky](https://prehraj.to/before-the-fire-2020-sd-cz-titulky-avi/424c149d6f91b6f7) (ID 29731607) | [Sdílej 27602574](https://sdilej.cz/27602574/before.the.fire.2020.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:53:23.061431+00:00 |
 | [Beirut (2018) SD CZ Titulky](https://prehraj.to/beirut-2018-sd-cz-titulky-avi/13151a44d9ab6960) (ID 30223731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588762+00:00 |
 | [Bejvalka ze záhrobí (2014) 1080p CZ Titulky](https://prehraj.to/bejvalka-ze-zahrobi-2014-1080p-cz-titulky-mkv/173d2acd46daef4d) (ID 30366736) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589241+00:00 |
 | [Ben Is Back (2018) 1080p CZ Titulky](https://prehraj.to/ben-is-back-2018-1080p-cz-titulky-mkv/18ba157b68fa8733) (ID 30131400) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588386+00:00 |
