@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:07:04.752885+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:07:15.845875+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1017,7 +1017,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [OSS 117 - Milostné pozdravy z Afriky (2021) SD CZ Titulky](https://prehraj.to/oss-117-milostne-pozdravy-z-afriky-2021-sd-cz-titulky-mp4/4b2ae12d2591439c) (ID 29904732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.778660+00:00 |
 | [OUTsideři (2014) SD CZ Titulky](https://prehraj.to/outsideri-2014-sd-cz-titulky-avi/036b6d6f32a892b2) (ID 29562375) | [Sdílej 8173680](https://sdilej.cz/8173680/outsideri-the-road-within-2014-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:58:01.501421+00:00 |
 | [Obludárium (2017) 720p CZ Titulky](https://prehraj.to/obludarium-2017-720p-cz-titulky-mp4/ef02ba88d2c726dc) (ID 29632887) | [Sdílej 34737337](https://sdilej.cz/34737337/obludarium-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:28:50.883133+00:00 |
-| [Obviněný (2005) 720p CZ Titulky](https://prehraj.to/obvineny-2005-720p-cz-titulky-mp4/4bb7a750bf800f2d) (ID 29587306) | [Sdílej 33564212](https://sdilej.cz/33564212/obvineny-2005-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:14:59.094164+00:00 |
+| [Obviněný (2005) 720p CZ Titulky](https://prehraj.to/obvineny-2005-720p-cz-titulky-mp4/4bb7a750bf800f2d) (ID 29587306) | [Sdílej 33564212](https://sdilej.cz/33564212/obvineny-2005-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:07:15.845750+00:00 |
 | [Odebrat z přátel (2014) 1080p CZ Titulky](https://prehraj.to/odebrat-z-pratel-2014-1080p-cz-titulky-mkv/ae563b27f91bcc16) (ID 30367308) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.790815+00:00 |
 | [Odebrat z přátel: Dark web (2018) 1080p CZ Titulky](https://prehraj.to/odebrat-z-pratel-dark-web-2018-1080p-cz-titulky-mkv/56e0e9ab87a519cb) (ID 30345364) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.790590+00:00 |
 | [Odemčená identita (2023) 1080p CZ Titulky](https://prehraj.to/odemcena-identita-2023-1080p-cz-titulky-mkv/26e57306d44afe1b) (ID 30209931) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.788058+00:00 |
