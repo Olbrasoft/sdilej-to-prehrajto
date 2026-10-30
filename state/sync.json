@@ -410403,18 +410403,20 @@
           "source_id": "34489528",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-21T18:42:15.395371+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34489528",
+          "target_video_id": "30638356",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-30T15:03:35.849435+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34489528",
         "display_name": "Beethoven 3 (2000) SD CZ Dabing",
         "planned_at": "2026-10-30T11:23:03.638670+00:00"
-      },
-      "claim": {
-        "worker_id": "612d1f61294547b9853100550259b24e-shard-0",
-        "claimed_at": "2026-10-30T14:59:03.549977+00:00",
-        "lease_expires_at": "2026-10-30T20:59:03.549977+00:00",
-        "run_id": "41047351078"
       },
       "previous_target_id": "30638356",
       "prepared": {
@@ -420679,5 +420681,5 @@
       }
     }
   },
-  "updated_at": "2026-10-30T14:59:27.028810+00:00"
+  "updated_at": "2026-10-30T15:03:35.849455+00:00"
 }
