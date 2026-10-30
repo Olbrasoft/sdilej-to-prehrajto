@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:10:17.734768+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:10:23.191374+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_provenance_missing`: 803, `source_unavailable`: 20, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_provenance_missing`: 803, `source_unavailable`: 21, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -1358,7 +1358,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Spy Intervention (2020) 1080p CZ Titulky](https://prehraj.to/spy-intervention-2020-1080p-cz-titulky-mkv/fd4293bf5e744cca) (ID 30386639) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.791665+00:00 |
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:28.322194+00:00 |
 | [Stalker (2022) 1080p CZ Titulky](https://prehraj.to/stalker-2022-1080p-cz-titulky-mp4/8531b68e8c1f363e) (ID 29917499) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.780957+00:00 |
-| [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:18:59.832849+00:00 |
 | [Star Trek: Renegades (2015) SD CZ Titulky](https://prehraj.to/star-trek-renegades-2015-sd-cz-titulky-avi/8c149b7ff9b0ec67) (ID 29793115) | [Sdílej 27485360](https://sdilej.cz/27485360/star-trek-renegades-2015-cz-tit.akc.sci-fi-dobrodr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:39:11.834118+00:00 |
 | [Starlet (2012) SD CZ Titulky](https://prehraj.to/starlet-2012-sd-cz-titulky-mp4/96755751c1141fd8) (ID 30047833) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.785680+00:00 |
 | [Sting (2024) 1080p CZ Titulky](https://prehraj.to/sting-2024-1080p-cz-titulky-mkv/5c01b96b6e677206) (ID 29925491) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.781869+00:00 |
@@ -1829,6 +1828,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Re-Kill (2015) SD CZ Titulky](https://prehraj.to/re-kill-2015-sd-cz-titulky-avi/6cb5d0ca86c67b09) (ID 29540122) | [Sdílej 34850986](https://sdilej.cz/34850986/re-kill-.sk-tit.v-obraze-scifi-horor-2015.avi) | source_unavailable | 2026-10-30T15:53:38.084212+00:00 |
 | [SOS (2026) 4K CZ Titulky](https://prehraj.to/sos-2026-4k-cz-titulky-mkv/9d1d94211a9086b6) (ID 29718479) | [Sdílej 33847017](https://sdilej.cz/33847017/send.help.2026.2160p.amzn.web-dl.ddp5.1.h.265.mkv) | source_unavailable | 2026-10-30T10:35:10.190341+00:00 |
 | [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | source_unavailable | 2026-10-30T15:45:10.806646+00:00 |
+| [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | source_unavailable | 2026-10-30T16:10:23.191311+00:00 |
 | [Stephanie (2017) 1080p CZ Titulky](https://prehraj.to/stephanie-2017-1080p-cz-titulky-mkv/d9a3c89eb46a9a27) (ID 29646984) | [Sdílej 30713512](https://sdilej.cz/30713512/stephanie-2017-1080p-bluray-x264-mafi10.mkv) | source_unavailable | 2026-10-30T10:34:59.645225+00:00 |
 | [Strange Harvest (2024) 1080p CZ Titulky](https://prehraj.to/strange-harvest-2024-1080p-cz-titulky-mp4/101dcf13fd57682a) (ID 29239024) | [Sdílej 34724768](https://sdilej.cz/34724768/strange-harvest-2024-cz-titulky.mp4) | source_unavailable | 2026-10-30T10:34:54.466495+00:00 |
 | [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | target_unavailable | 2026-10-30T14:32:31.582814+00:00 |
