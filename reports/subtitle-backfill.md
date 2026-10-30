@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:29:56.416354+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:30:04.898400+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -184,7 +184,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Bodycam (2025) 1080p CZ Titulky](https://prehraj.to/bodycam-2025-1080p-cz-titulky-mp4/dbb77e5144b9bd90) (ID 29931107) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149184+00:00 |
 | [Bojová pouta (2023) SD CZ Titulky](https://prehraj.to/bojova-pouta-2023-sd-cz-titulky-avi/ba5f373ba5794da4) (ID 29940451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149828+00:00 |
 | [Bokeh (2017) 1080p CZ Titulky](https://prehraj.to/bokeh-2017-1080p-cz-titulky-mkv/7f34a68e62e3f655) (ID 29935106) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149464+00:00 |
-| [Boku no Hero Academia the Movie 2: Heroes:Rising (2019) 1080p CZ Titulky](https://prehraj.to/boku-no-hero-academia-the-movie-2-heroes-rising-2019-1080p-cz-titulky-mp4/a5a45a86a114992e) (ID 29396179) | [Sdílej 34734691](https://sdilej.cz/34734691/boku-no-hero-academia-the-movie-2-heroes-rising-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:36:16.355040+00:00 |
+| [Boku no Hero Academia the Movie 2: Heroes:Rising (2019) 1080p CZ Titulky](https://prehraj.to/boku-no-hero-academia-the-movie-2-heroes-rising-2019-1080p-cz-titulky-mp4/a5a45a86a114992e) (ID 29396179) | [Sdílej 34734691](https://sdilej.cz/34734691/boku-no-hero-academia-the-movie-2-heroes-rising-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:30:04.898278+00:00 |
 | [Bone Lake (2024) 1080p CZ Titulky](https://prehraj.to/bone-lake-2024-1080p-cz-titulky-mkv/cc1f4554dc84f793) (ID 29936209) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149536+00:00 |
 | [Border Hunters (2025) 1080p CZ Titulky](https://prehraj.to/border-hunters-2025-1080p-cz-titulky-mkv/14837bb8e6ca4c99) (ID 29614176) | [Sdílej 32794111](https://sdilej.cz/32794111/border.hunters.-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:23.245516+00:00 |
 | [Borderline (2025) 1080p CZ Titulky](https://prehraj.to/borderline-2025-1080p-cz-titulky-mp4/630f5556d48aac7d) (ID 29936642) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.149586+00:00 |
