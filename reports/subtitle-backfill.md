@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:58:19.209771+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:58:40.344862+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -299,7 +299,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Dashcam (2021) 1080p CZ Titulky](https://prehraj.to/dashcam-2021-1080p-cz-titulky-mp4/0459afc4e8afde30) (ID 29588938) | [Sdílej 34731562](https://sdilej.cz/34731562/dashcam-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:15:41.256252+00:00 |
 | [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:48:42.201719+00:00 |
 | [Dcera divočiny (2023) 1080p CZ Titulky](https://prehraj.to/dcera-divociny-2023-1080p-cz-titulky-mkv/81bfcd0064fe51ae) (ID 29911608) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.779706+00:00 |
-| [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:05:01.549421+00:00 |
+| [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:58:40.344721+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:29.141133+00:00 |
 | [Dead Shot (2023) SD CZ Titulky](https://prehraj.to/dead-shot-2023-sd-cz-titulky-avi/79bf1a45fea75f94) (ID 29639581) | [Sdílej 27128248](https://sdilej.cz/27128248/dead.shot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:33:02.292610+00:00 |
 | [Dead Trigger (2017) SD CZ Titulky](https://prehraj.to/dead-trigger-2017-sd-cz-titulky-mkv/1143014cba83d534) (ID 29935550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.783045+00:00 |
