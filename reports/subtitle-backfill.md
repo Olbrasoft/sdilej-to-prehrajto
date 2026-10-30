@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T08:31:06.028930+00:00
+Poslední aktualizace (UTC): 2026-10-30T08:31:16.263872+00:00
 
 Zkontrolováno videí: 2356. Další stránka kontroly: 0.
 
@@ -1346,7 +1346,7 @@ Kontrol: 11; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:55:12.495720+00:00 |
 | [Spravedlnost podle Spensera (2020) 1080p CZ Titulky](https://prehraj.to/spravedlnost-podle-spensera-2020-1080p-cz-titulky-mp4/fa5a6940b9db7bbd) (ID 30325739) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T08:30:31.103609+00:00 |
 | [Spring (2021) 720p CZ Titulky](https://prehraj.to/spring-2021-720p-cz-titulky-mkv/648812789eb4b12f) (ID 30171050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T08:30:31.101703+00:00 |
-| [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T07:38:58.780470+00:00 |
+| [Správný čas žít (2018) SD CZ Titulky](https://prehraj.to/spravny-cas-zit-2018-sd-cz-titulky-mp4/6e154cd9adc928cd) (ID 29327249) | [Sdílej 11165487](https://sdilej.cz/11165487/then.came.you.2018.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:31:16.263738+00:00 |
 | [Spy Intervention (2020) 1080p CZ Titulky](https://prehraj.to/spy-intervention-2020-1080p-cz-titulky-mkv/fd4293bf5e744cca) (ID 30386639) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T08:30:31.104454+00:00 |
 | [Srdcová královna (2019) 1080p CZ Titulky](https://prehraj.to/srdcova-kralovna-2019-1080p-cz-titulky-mkv/616cf6741cdfe93b) (ID 29429659) | [Sdílej 12804193](https://sdilej.cz/12804193/dronningen.2019.nordic.1080p.web-dl.h.264-rapidcows.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:28.322194+00:00 |
 | [Stalker (2022) 1080p CZ Titulky](https://prehraj.to/stalker-2022-1080p-cz-titulky-mp4/8531b68e8c1f363e) (ID 29917499) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T08:30:31.097061+00:00 |
