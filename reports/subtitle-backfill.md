@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:36:51.608521+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:37:00.206520+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1351,7 +1351,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Speed Faster (2026) SD CZ Titulky](https://prehraj.to/speed-faster-2026-sd-cz-titulky-mp4/8dc4af08129b5e65) (ID 29706671) | [Sdílej 34770840](https://sdilej.cz/34770840/speed-faster-2026-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:55:09.081148+00:00 |
 | [Spellbound (2011) 1080p CZ Titulky](https://prehraj.to/spellbound-2011-1080p-cz-titulky-mkv/af5d98de34bbf928) (ID 29883036) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.146816+00:00 |
 | [Spirit (2001) 4K CZ Titulky](https://prehraj.to/spirit-2001-4k-cz-titulky-mkv/3c9b4d38844fb6d1) (ID 30259616) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152780+00:00 |
-| [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:43:48.328343+00:00 |
+| [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:37:00.206396+00:00 |
 | [Spolu nespolu (2021) 1080p CZ Titulky](https://prehraj.to/spolu-nespolu-2021-1080p-cz-titulky-mkv/5bd76ac6f67332e4) (ID 30250371) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.152625+00:00 |
 | [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:55:12.495720+00:00 |
 | [Spravedlnost podle Spensera (2020) 1080p CZ Titulky](https://prehraj.to/spravedlnost-podle-spensera-2020-1080p-cz-titulky-mp4/fa5a6940b9db7bbd) (ID 30325739) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153197+00:00 |
