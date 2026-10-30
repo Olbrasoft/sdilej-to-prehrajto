@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T06:41:46.482766+00:00
+Poslední aktualizace (UTC): 2026-10-30T06:41:55.500640+00:00
 
 Zkontrolováno videí: 2321. Další stránka kontroly: 0.
 
@@ -330,7 +330,7 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:30:25.911441+00:00 |
 | [Dokud se tančí (2019) 1080p CZ Titulky](https://prehraj.to/dokud-se-tanci-2019-1080p-cz-titulky-mp4/54645d6125d9cfe5) (ID 29886077) | [Sdílej 34647076](https://sdilej.cz/34647076/dokud-se-tanci-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:45:20.241298+00:00 |
 | [Dolphin Reef (2018) 720p CZ Titulky](https://prehraj.to/dolphin-reef-2018-720p-cz-titulky-mp4/a82632e299708527) (ID 29749298) | [Sdílej 34774320](https://sdilej.cz/34774320/dolphin-reef-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:33:20.495351+00:00 |
-| [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T05:35:00.472653+00:00 |
+| [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T06:41:55.500526+00:00 |
 | [Donekonečna (2017) 1080p CZ Titulky](https://prehraj.to/donekonecna-2017-1080p-cz-titulky-mkv/5b6ece7e519dcce8) (ID 30230117) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T06:40:03.460783+00:00 |
 | [Door Lock (2018) 720p CZ Titulky](https://prehraj.to/door-lock-2018-720p-cz-titulky-mkv/7f65376892824fc1) (ID 30212338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T06:40:03.460590+00:00 |
 | [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T08:40:43.184893+00:00 |
