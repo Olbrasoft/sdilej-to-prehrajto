@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T07:29:21.944643+00:00
+Poslední aktualizace (UTC): 2026-10-30T07:29:29.271993+00:00
 
 Zkontrolováno videí: 2329. Další stránka kontroly: 0.
 
@@ -55,7 +55,7 @@ Kontrol: 49; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [After Masks (2021) 1080p CZ Titulky](https://prehraj.to/after-masks-2021-1080p-cz-titulky-mp4/c6d2b358506601c9) (ID 30398515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.358496+00:00 |
 | [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:09:21.332485+00:00 |
 | [Agent Game (2022) 1080p CZ Titulky](https://prehraj.to/agent-game-2022-1080p-cz-titulky-avi/d9f07e78ab834281) (ID 29734967) | [Sdílej 23674241](https://sdilej.cz/23674241/agent-game-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:17:05.953124+00:00 |
-| [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T06:49:46.632438+00:00 |
+| [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:29:29.271891+00:00 |
 | [Air Bud - Fotbalista (2000) 1080p CZ Titulky](https://prehraj.to/air-bud-fotbalista-2000-1080p-cz-titulky-mp4/27c81f6c018f3822) (ID 29933860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T07:28:11.349201+00:00 |
 | [Akira (2016) SD CZ Titulky](https://prehraj.to/akira-2016-sd-cz-titulky-mp4/bd027bb78ce55fb6) (ID 29529063) | [Sdílej 34775394](https://sdilej.cz/34775394/akira-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:57:15.618340+00:00 |
 | [Al di là della legge (1968) SD CZ Titulky](https://prehraj.to/al-di-la-della-legge-1968-sd-cz-titulky-mkv/cc65e5323db8a2fc) (ID 29270176) | [Sdílej 34780009](https://sdilej.cz/34780009/western-cz-tit-beyond-the-law-al-di-l-della-legge-1968-dvdrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:29.255132+00:00 |
