@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T09:30:30.386687+00:00
+Poslední aktualizace (UTC): 2026-10-30T09:30:36.196815+00:00
 
 Zkontrolováno videí: 2362. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_provenance_missing`: 796, `source_unavailable`: 15, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_provenance_missing`: 796, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -1652,7 +1652,6 @@ Kontrol: 48; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Vzpomínka na Benátky (2018) 1080p CZ Titulky](https://prehraj.to/vzpominka-na-benatky-2018-1080p-cz-titulky-mp4/a9ddb00de5c628fc) (ID 29636691) | [Sdílej 34487542](https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:30:36.710618+00:00 |
 | [Vzpoura (1967) SD CZ Titulky](https://prehraj.to/vzpoura-1967-sd-cz-titulky-avi/c16fa85f4bc2e976) (ID 29122069) | [Sdílej 32744263](https://sdilej.cz/32744263/vzpoura-1967-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:33:52.195775+00:00 |
 | [Vábení sirén (2015) 1080p CZ Titulky](https://prehraj.to/vabeni-siren-2015-1080p-cz-titulky-mp4/839f1ed77a0a2e7d) (ID 29585630) | [Sdílej 34737935](https://sdilej.cz/34737935/vabeni-siren-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:14:14.921347+00:00 |
-| [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T08:40:50.644838+00:00 |
 | [Vánoce s vůní máty (2021) 1080p CZ Titulky](https://prehraj.to/vanoce-s-vuni-maty-2021-1080p-cz-titulky-mp4/6435dfae930e7710) (ID 29242109) | [Sdílej 34772685](https://sdilej.cz/34772685/vanoce-s-vuni-maty-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:27:55.147402+00:00 |
 | [Vánoční setkání (2020) 1080p CZ Titulky](https://prehraj.to/vanocni-setkani-2020-1080p-cz-titulky-mp4/9c0a1fc4b9051990) (ID 29612782) | [Sdílej 34731850](https://sdilej.cz/34731850/vanocni-setkani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:24:02.879116+00:00 |
 | [Vážený občan (2016) 1080p CZ Titulky.mp4](https://prehraj.to/vazeny-obcan-2016-1080p-cz-titulky-mp4/9c7b2e66853ad588) (ID 29751541) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T09:29:03.284431+00:00 |
@@ -1830,6 +1829,7 @@ Kontrol: 48; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-10-30T08:33:16.718414+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-10-30T08:33:57.261457+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-10-30T04:31:14.152416+00:00 |
+| [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | source_unavailable | 2026-10-30T09:30:36.196731+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-10-30T04:31:27.785440+00:00 |
 | [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | target_unavailable | 2026-10-30T08:33:12.491634+00:00 |
 | [Čaroděj z Kremlu (2025) 1080p CZ Titulky](https://prehraj.to/carodej-z-kremlu-2025-1080p-cz-titulky-mkv/4c6cbdde12c9f937) (ID 29010087) | [Sdílej 34829855](https://sdilej.cz/34829855/2025-carodej-z-kremlu-drama-thriller-63-francie-usa-cztit..mkv) | target_unavailable | 2026-10-30T08:33:35.335981+00:00 |
