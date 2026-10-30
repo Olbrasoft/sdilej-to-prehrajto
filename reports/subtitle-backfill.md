@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:39:08.745029+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:39:20.971801+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1587,7 +1587,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [U brány věčnosti (2018) 1080p CZ Titulky](https://prehraj.to/u-brany-vecnosti-2018-1080p-cz-titulky-avi/d12b33ec67ef2a7c) (ID 29434266) | [Sdílej 24585680](https://sdilej.cz/24585680/u-brany-vecnosti-2018-zivotopisny-drama-bdrip.-en-cz-titlevlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:39:39.697272+00:00 |
 | [U moře (2015) 1080p CZ Titulky](https://prehraj.to/u-more-2015-1080p-cz-titulky-avi/c8f7fdc72bafc507) (ID 30389132) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.589395+00:00 |
 | [UFO Švédsko (2022) 1080p CZ Titulky](https://prehraj.to/ufo-svedsko-2022-1080p-cz-titulky-mp4/3deda55ea79f137d) (ID 30247370) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588848+00:00 |
-| [Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky](https://prehraj.to/ultramarines-a-warhammer-40-000-movie-2010-1080p-cz-titulky-mp4/a8da8257183be7f9) (ID 29688874) | [Sdílej 34780444](https://sdilej.cz/34780444/ultramarines-a-warhammer-40-000-movie-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:51:56.638720+00:00 |
+| [Ultramarines: A Warhammer 40,000 Movie (2010) 1080p CZ Titulky](https://prehraj.to/ultramarines-a-warhammer-40-000-movie-2010-1080p-cz-titulky-mp4/a8da8257183be7f9) (ID 29688874) | [Sdílej 34780444](https://sdilej.cz/34780444/ultramarines-a-warhammer-40-000-movie-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:39:20.971694+00:00 |
 | [Umlčené svědectví (2021) 1080p CZ Titulky](https://prehraj.to/umlcene-svedectvi-2021-1080p-cz-titulky-mp4/aaa8d6d41fe4b334) (ID 29517754) | [Sdílej 34728537](https://sdilej.cz/34728537/umlcene-svedectvi-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:48:44.719516+00:00 |
 | [Un hipster en la España vacía (2024) 720p CZ Titulky](https://prehraj.to/un-hipster-en-la-espana-vacia-2024-720p-cz-titulky-mp4/ec0634a4118036c7) (ID 29575065) | [Sdílej 34724603](https://sdilej.cz/34724603/un-hipster-en-la-espa-a-vacia-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:03:38.177428+00:00 |
 | [Un moment d'égarement (2015) 1080p CZ Titulky](https://prehraj.to/un-moment-d-egarement-2015-1080p-cz-titulky-mkv/d1404c4af4942d54) (ID 29010356) | [Sdílej 17665210](https://sdilej.cz/17665210/un.moment.d-egarement.2015.1080p.x264.aac5.1-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:20.542454+00:00 |
