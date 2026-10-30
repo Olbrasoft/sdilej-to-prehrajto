@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:43:47.664158+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:43:57.509729+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1123,7 +1123,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Polytechnika (2009) 720p CZ Titulky](https://prehraj.to/polytechnika-2009-720p-cz-titulky-mkv/eb6184b509171e26) (ID 30036118) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.150674+00:00 |
 | [Pomsta upírek (2022) 720p CZ Titulky](https://prehraj.to/pomsta-upirek-2022-720p-cz-titulky-avi/fcc4c2f18567a092) (ID 29732167) | [Sdílej 23601371](https://sdilej.cz/23601371/v-for-vengeance-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:13:02.274199+00:00 |
 | [Popel a démant (1958) SD CZ Titulky](https://prehraj.to/popel-a-demant-1958-sd-cz-titulky-avi/5b35057b2324cec0) (ID 29558608) | [Sdílej 31010197](https://sdilej.cz/31010197/popel-a-demant-popiol-i-diament-1958-valecny-x1.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:51:29.880901+00:00 |
-| [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:51:09.749589+00:00 |
+| [Popelka (1997) SD CZ Titulky](https://prehraj.to/popelka-1997-sd-cz-titulky-mp4/99d5e1576dd63fc7) (ID 29468162) | [Sdílej 34784463](https://sdilej.cz/34784463/popelka-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:57.509605+00:00 |
 | [Popeye the Slayer Man (2025) 1080p CZ Titulky](https://prehraj.to/popeye-the-slayer-man-2025-1080p-cz-titulky-mkv/2e3c54d792ba9b3f) (ID 30417286) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153702+00:00 |
 | [Porco Rosso (1992) 1080p CZ Titulky](https://prehraj.to/porco-rosso-1992-1080p-cz-titulky-mkv/9dad0ee34af177f9) (ID 29336328) | [Sdílej 32535114](https://sdilej.cz/32535114/-animerg-porco-rosso-1992-crimson-pig-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:40.376059+00:00 |
 | [Pornografický vztah (1999) SD CZ Titulky](https://prehraj.to/pornograficky-vztah-1999-sd-cz-titulky-mp4/12be045773f1af37) (ID 29381772) | [Sdílej 33315588](https://sdilej.cz/33315588/1999-pornograficky-vztah-drama-romanticky-psychologicky-77-francie-svycarsko-belgie-lucembursko-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:28:27.452549+00:00 |
