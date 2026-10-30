@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:26:27.435017+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:26:34.998190+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1451,7 +1451,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [The Cloverfield Paradox (2018) 1080p CZ Titulky](https://prehraj.to/the-cloverfield-paradox-2018-1080p-cz-titulky-mkv/5079d9a2d05b6d6d) (ID 29931322) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.796436+00:00 |
 | [The Collective (2023) 1080p CZ Titulky](https://prehraj.to/the-collective-2023-1080p-cz-titulky-mp4/ae8b59bb61190f7f) (ID 29736148) | [Sdílej 34725353](https://sdilej.cz/34725353/the-collective-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:18:41.895991+00:00 |
 | [The Coven (2022) 1080p CZ Titulky](https://prehraj.to/the-coven-2022-1080p-cz-titulky-mp4/72c6e94e2ba75cc1) (ID 30400902) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.799468+00:00 |
-| [The Cure (2020) 720p CZ Titulky](https://prehraj.to/the-cure-2020-720p-cz-titulky-mp4/1acf95ccc927b216) (ID 29649258) | [Sdílej 34732000](https://sdilej.cz/34732000/the-cure-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:38:10.991109+00:00 |
+| [The Cure (2020) 720p CZ Titulky](https://prehraj.to/the-cure-2020-720p-cz-titulky-mp4/1acf95ccc927b216) (ID 29649258) | [Sdílej 34732000](https://sdilej.cz/34732000/the-cure-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:26:34.998014+00:00 |
 | [The Curse of Audrey Earnshaw (2020) 1080p CZ Titulky.mkv](https://prehraj.to/the-curse-of-audrey-earnshaw-2020-1080p-cz-titulky-mkv/65ee279ab1a34b56) (ID 29657104) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.792350+00:00 |
 | [The DUFF (2015) SD CZ Titulky](https://prehraj.to/the-duff-2015-sd-cz-titulky-mkv/a3a2524e261b5722) (ID 30287165) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.798746+00:00 |
 | [The Dark (2018) 4K CZ Titulky](https://prehraj.to/the-dark-2018-4k-cz-titulky-mkv/4ec95b593d9c0936) (ID 29924355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.796216+00:00 |
