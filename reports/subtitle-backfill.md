@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:19:09.323022+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:19:18.150912+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -896,7 +896,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [Miss Baek (2018) 1080p CZ Titulky](https://prehraj.to/miss-baek-2018-1080p-cz-titulky-mp4/cbb922ab795ad0dd) (ID 30070857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797607+00:00 |
 | [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:31:32.180975+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:16.462931+00:00 |
-| [Mob Town (2019) 1080p CZ Titulky](https://prehraj.to/mob-town-2019-1080p-cz-titulky-mkv/7f8cdbb765879ad1) (ID 29634038) | [Sdílej 12783098](https://sdilej.cz/12783098/mob.town.2019.1080p.web-dl.dd5.1.h264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:29:18.056769+00:00 |
+| [Mob Town (2019) 1080p CZ Titulky](https://prehraj.to/mob-town-2019-1080p-cz-titulky-mkv/7f8cdbb765879ad1) (ID 29634038) | [Sdílej 12783098](https://sdilej.cz/12783098/mob.town.2019.1080p.web-dl.dd5.1.h264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:19:18.150796+00:00 |
 | [Model House (2024) 1080p CZ Titulky](https://prehraj.to/model-house-2024-1080p-cz-titulky-mkv/10b7df99e8ef40db) (ID 29707140) | [Sdílej 34076738](https://sdilej.cz/34076738/model-house-a-morte-segue-voc-.2024.1080p.web-dl.x264.dual.5.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:56.863586+00:00 |
 | [Moderní Popelka: Vánoční přání (2019) 1080p CZ Titulky](https://prehraj.to/moderni-popelka-vanocni-prani-2019-1080p-cz-titulky-mkv/6094ab3a525eae88) (ID 29732055) | [Sdílej 14725414](https://sdilej.cz/14725414/a-cinderella-story-christmas-wish-fantasy-2019-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:26.226803+00:00 |
 | [Moderní doba (1936) SD CZ Titulky](https://prehraj.to/moderni-doba-1936-sd-cz-titulky-avi/8a537b90fc61ac83) (ID 29188864) | [Sdílej 32220611](https://sdilej.cz/32220611/moderni-doba-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:38:26.831009+00:00 |
