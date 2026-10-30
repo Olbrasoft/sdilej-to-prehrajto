@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:42:59.058183+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:43:09.314481+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -25,7 +25,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [20.0 Megaquake (2022) SD CZ Titulky](https://prehraj.to/20-0-megaquake-2022-sd-cz-titulky-mp4/8f0322e0a9504d0b) (ID 29295641) | [Sdílej 34760691](https://sdilej.cz/34760691/20.0-megaquake-2022-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:30:00.307153+00:00 |
 | [200 metrů (2020) 1080p CZ Titulky](https://prehraj.to/200-metru-2020-1080p-cz-titulky-mp4/3affe035c9175021) (ID 30040571) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.150806+00:00 |
 | [22 July (2018) 1080p CZ Titulky](https://prehraj.to/22-july-2018-1080p-cz-titulky-avi/7431fb18a4ca373e) (ID 29676030) | [Sdílej 11434044](https://sdilej.cz/11434044/22.-cervence-22-july-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:48:36.811265+00:00 |
-| [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:50:18.560752+00:00 |
+| [25 km/h (2018) 1080p CZ Titulky](https://prehraj.to/25-km-h-2018-1080p-cz-titulky-mp4/a57b882fd4bcf21c) (ID 29461434) | [Sdílej 30612611](https://sdilej.cz/30612611/25-km-h-2018-de-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:09.314356+00:00 |
 | [25 let neviny (2020) 1080p CZ Titulky](https://prehraj.to/25-let-neviny-2020-1080p-cz-titulky-mkv/ccb4fe7ab705d118) (ID 30321465) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.153178+00:00 |
 | [2898 (2024) 720p CZ Titulky.avi](https://prehraj.to/2898-2024-720p-cz-titulky-avi/44ba3b2824c6af99) (ID 30041803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:29:22.150830+00:00 |
 | [2:37 (2006) SD CZ Titulky](https://prehraj.to/2-37-2006-sd-cz-titulky-mp4/f3fa945e6fb563b0) (ID 29674582) | [Sdílej 33563983](https://sdilej.cz/33563983/2.37-2006-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:47:53.035764+00:00 |
