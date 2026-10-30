@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:15:16.492437+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:15:24.064530+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -110,7 +110,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 249. Dů
 | [Await Further Instructions (2018) SD CZ Titulky](https://prehraj.to/await-further-instructions-2018-sd-cz-titulky-avi/cc7f0f33a4bbb4b9) (ID 29908591) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.793825+00:00 |
 | [Azrael (2024) 1080p CZ Titulky](https://prehraj.to/azrael-2024-1080p-cz-titulky-mkv/2fc5a3ce9a9588db) (ID 30379469) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.799231+00:00 |
 | [Ašoka (2001) SD CZ Titulky](https://prehraj.to/asoka-2001-sd-cz-titulky-mp4/3ae647b318928418) (ID 29236389) | [Sdílej 34903495](https://sdilej.cz/34903495/asoka-2001-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:26:27.924091+00:00 |
-| [Až do poslední smrti (2019) 1080p CZ Titulky](https://prehraj.to/az-do-posledni-smrti-2019-1080p-cz-titulky-mp4/4937041ca14a46a2) (ID 29613447) | [Sdílej 34764110](https://sdilej.cz/34764110/az-do-posledni-smrti-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:24:12.309924+00:00 |
+| [Až do poslední smrti (2019) 1080p CZ Titulky](https://prehraj.to/az-do-posledni-smrti-2019-1080p-cz-titulky-mp4/4937041ca14a46a2) (ID 29613447) | [Sdílej 34764110](https://sdilej.cz/34764110/az-do-posledni-smrti-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:15:24.064385+00:00 |
 | [Až na dno (2025) 1080p CZ Titulky](https://prehraj.to/az-na-dno-2025-1080p-cz-titulky-mkv/16ccc5474b623425) (ID 30371141) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.799083+00:00 |
 | [Až na věky (2024) 1080p CZ Titulky](https://prehraj.to/az-na-veky-2024-1080p-cz-titulky-mp4/b8e0b025dbc56392) (ID 30030557) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:15:13.797313+00:00 |
 | [Baaghi (2016) 1080p CZ Titulky](https://prehraj.to/baaghi-2016-1080p-cz-titulky-mkv/3e815fc9d9b61d4b) (ID 29749751) | [Sdílej 34799023](https://sdilej.cz/34799023/baaghi-1-akcni-indie-tiger-shroff-2016-cztit.1080p.bluray.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:12.409369+00:00 |
