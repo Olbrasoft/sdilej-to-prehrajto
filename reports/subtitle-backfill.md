@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T17:03:16.028822+00:00
+Poslední aktualizace (UTC): 2026-10-30T17:03:26.045884+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1694,7 +1694,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 62. Dův
 | [World of Tomorrow (2015) 720p CZ Titulky](https://prehraj.to/world-of-tomorrow-2015-720p-cz-titulky-mp4/1f87f82a6017c286) (ID 29289142) | [Sdílej 34737901](https://sdilej.cz/34737901/world-of-tomorrow-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T03:31:09.704166+00:00 |
 | [Wražda (2021) 1080p CZ Titulky](https://prehraj.to/wrazda-2021-1080p-cz-titulky-mp4/6f5fa4bd404b0c02) (ID 29911307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T17:01:20.147126+00:00 |
 | [Wrecker (2015) SD CZ Titulky](https://prehraj.to/wrecker-2015-sd-cz-titulky-mp4/e12af80b0fc965c1) (ID 29750574) | [Sdílej 34737903](https://sdilej.cz/34737903/wrecker-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:34:29.544816+00:00 |
-| [Wunderland (2018) SD CZ Titulky](https://prehraj.to/wunderland-2018-sd-cz-titulky-mp4/07eb74af3d9ffaa6) (ID 29738759) | [Sdílej 34716591](https://sdilej.cz/34716591/wunderland-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:36:37.576255+00:00 |
+| [Wunderland (2018) SD CZ Titulky](https://prehraj.to/wunderland-2018-sd-cz-titulky-mp4/07eb74af3d9ffaa6) (ID 29738759) | [Sdílej 34716591](https://sdilej.cz/34716591/wunderland-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:03:26.045737+00:00 |
 | [Xtreme (2021) 1080p CZ Titulky](https://prehraj.to/xtreme-2021-1080p-cz-titulky-mp4/5a83197136ae94a8) (ID 29911838) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T17:01:20.147221+00:00 |
 | [Yaara (2020) 720p CZ Titulky](https://prehraj.to/yaara-2020-720p-cz-titulky-mp4/f14a0fac92ab531a) (ID 29936917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T17:01:20.150804+00:00 |
 | [Yao (2019) SD CZ Titulky](https://prehraj.to/yao-2019-sd-cz-titulky-mp4/1547d59a3602c700) (ID 29631456) | [Sdílej 34763000](https://sdilej.cz/34763000/yao-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:18:04.192983+00:00 |
