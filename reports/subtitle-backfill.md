@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:11:47.337586+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:12:02.070865+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -91,7 +91,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Aporia (2023) SD CZ Titulky](https://prehraj.to/aporia-2023-sd-cz-titulky-avi/974fede927b423ce) (ID 29614082) | [Sdílej 27826016](https://sdilej.cz/27826016/aporia.2023.pl.480p.bdrip.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:25:00.464827+00:00 |
 | [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:14:43.487963+00:00 |
 | [Argylle: Tajný agent (2024) 4K CZ Titulky](https://prehraj.to/argylle-tajny-agent-2024-4k-cz-titulky-mkv/1753966117d652be) (ID 29928077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.782195+00:00 |
-| [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:20:38.852792+00:00 |
+| [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:12:02.070716+00:00 |
 | [Army of One (2020) 1080p CZ Titulky](https://prehraj.to/army-of-one-2020-1080p-cz-titulky-mkv/7c794c1907357b10) (ID 30415303) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.792411+00:00 |
 | [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:39:48.958203+00:00 |
 | [Asedio (2023) 1080p CZ Titulky](https://prehraj.to/asedio-2023-1080p-cz-titulky-mkv/fc640f56c94d7a1f) (ID 29278532) | [Sdílej 27828721](https://sdilej.cz/27828721/oblezeni-asedio-2023-hd-5.1-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:33.478045+00:00 |
