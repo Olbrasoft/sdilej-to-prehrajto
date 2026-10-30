@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T10:27:18.631426+00:00
+Poslední aktualizace (UTC): 2026-10-30T10:27:29.537086+00:00
 
 Zkontrolováno videí: 2368. Další stránka kontroly: 0.
 
@@ -813,7 +813,7 @@ Kontrol: 13; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Leibstandarte: My Honor Was Loyalty (2015) 720p CZ Titulky](https://prehraj.to/leibstandarte-my-honor-was-loyalty-2015-720p-cz-titulky-mp4/0f0947074b9bc7f7) (ID 29658136) | [Sdílej 34738035](https://sdilej.cz/34738035/leibstandarte-my-honor-was-loyalty-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:43:05.731194+00:00 |
 | [Lemmy (2010) SD CZ Titulky](https://prehraj.to/lemmy-2010-sd-cz-titulky-avi/fa9e7a12e72859c4) (ID 29469522) | [Sdílej 6632545](https://sdilej.cz/6632545/lemmy-dokument-cz-sub-2010-avi.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:52:28.045631+00:00 |
 | [Leprechaun Returns (2018) 1080p CZ Titulky](https://prehraj.to/leprechaun-returns-2018-1080p-cz-titulky-mkv/234c548e1492679f) (ID 29932416) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T10:26:52.670854+00:00 |
-| [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T09:36:06.101361+00:00 |
+| [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T10:27:29.536962+00:00 |
 | [Les Crevettes pailletées (2019) SD CZ Titulky](https://prehraj.to/les-crevettes-pailletees-2019-sd-cz-titulky-mp4/9b0ce3bed95c5b4b) (ID 29220527) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T10:26:52.662155+00:00 |
 | [Lesní jahody (1957) SD CZ Titulky](https://prehraj.to/lesni-jahody-1957-sd-cz-titulky-avi/4633f5b3104c8921) (ID 29282104) | [Sdílej 32215590](https://sdilej.cz/32215590/lesni-jahody-1957-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:31:31.582576+00:00 |
 | [Lesní rituál (2017) 1080p CZ Titulky.mkv](https://prehraj.to/lesni-ritual-2017-1080p-cz-titulky-mkv/ed0bc326a27ad5fa) (ID 29972175) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T10:26:52.672101+00:00 |
