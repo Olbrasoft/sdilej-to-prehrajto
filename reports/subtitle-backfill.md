@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:58:40.344862+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:59:06.860711+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -1297,7 +1297,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Singl na vdávání (2020) 1080p CZ Titulky](https://prehraj.to/singl-na-vdavani-2020-1080p-cz-titulky-mp4/993832c164970b56) (ID 29653123) | [Sdílej 34732130](https://sdilej.cz/34732130/singl-na-vdavani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:40:42.692181+00:00 |
 | [Sir Alex Ferguson: Nikdy se nevzdej (2021) 720p CZ Titulky](https://prehraj.to/sir-alex-ferguson-nikdy-se-nevzdej-2021-720p-cz-titulky-mp4/1ac1cd302d83495f) (ID 29337463) | [Sdílej 34699238](https://sdilej.cz/34699238/sir-alex-ferguson-nikdy-se-nevzdej-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:29:22.001624+00:00 |
 | [Sirius (2013) SD CZ Titulky](https://prehraj.to/sirius-2013-sd-cz-titulky-avi/c552939e2e21f3d1) (ID 29234030) | [Sdílej 11779816](https://sdilej.cz/11779816/sirius-odhaleni-2013-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T20:36:07.312807+00:00 |
-| [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:05:30.397689+00:00 |
+| [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:59:06.860573+00:00 |
 | [Skif (2018) 1080p CZ Titulky](https://prehraj.to/skif-2018-1080p-cz-titulky-mkv/9a048ef3f2b928bb) (ID 30253451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.789097+00:00 |
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:47.137232+00:00 |
 | [Skinwalker (2021) 720p CZ Titulky](https://prehraj.to/skinwalker-2021-720p-cz-titulky-mp4/0a33d370a6ac740e) (ID 29403790) | [Sdílej 34772693](https://sdilej.cz/34772693/skinwalker-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:33:35.366982+00:00 |
