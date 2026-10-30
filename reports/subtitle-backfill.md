@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:59:13.366941+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:59:21.973290+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -178,7 +178,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Bláznivé mládí (2013) SD CZ Titulky](https://prehraj.to/blaznive-mladi-2013-sd-cz-titulky-mp4/53ec2d4a06415fe0) (ID 30028750) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587906+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:29:03.628947+00:00 |
 | [Blücher (2025) 4K CZ Titulky](https://prehraj.to/bluecher-2025-4k-cz-titulky-mkv/91148b44d0e97e8d) (ID 30052306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.588098+00:00 |
-| [Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky](https://prehraj.to/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-1080p-cz-titulky-mp4/6376b023be19998c) (ID 29566506) | [Sdílej 34773043](https://sdilej.cz/34773043/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:19:03.036605+00:00 |
+| [Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky](https://prehraj.to/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-1080p-cz-titulky-mp4/6376b023be19998c) (ID 29566506) | [Sdílej 34773043](https://sdilej.cz/34773043/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:59:21.973176+00:00 |
 | [Body at Brighton Rock (2019) 1080p CZ Titulky](https://prehraj.to/body-at-brighton-rock-2019-1080p-cz-titulky-avi/a74ee7c11541c31f) (ID 29927397) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587155+00:00 |
 | [Bodycam (2025) 1080p CZ Titulky](https://prehraj.to/bodycam-2025-1080p-cz-titulky-mp4/dbb77e5144b9bd90) (ID 29931107) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587254+00:00 |
 | [Bojová pouta (2023) SD CZ Titulky](https://prehraj.to/bojova-pouta-2023-sd-cz-titulky-avi/ba5f373ba5794da4) (ID 29940451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587557+00:00 |
