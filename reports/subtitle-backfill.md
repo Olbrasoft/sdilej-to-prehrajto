@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:02:23.611005+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:02:44.435746+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -37,7 +37,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [5 centimetrů za sekundu (2007) SD CZ Titulky](https://prehraj.to/5-centimetru-za-sekundu-2007-sd-cz-titulky-avi/a380ea78e880f8e3) (ID 29900709) | [Sdílej 8731378](https://sdilej.cz/8731378/5-centimetru-za-sekundu-by-soku-5-centimeter-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:45:58.734720+00:00 |
 | [71 (2014) 1080p CZ Titulky](https://prehraj.to/71-2014-1080p-cz-titulky-mkv/8e64d972d904819d) (ID 29387970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.774163+00:00 |
 | [A Breed Apart (2025) SD CZ Titulky](https://prehraj.to/a-breed-apart-2025-sd-cz-titulky-mp4/d4a88c01fc8f3efa) (ID 29752872) | [Sdílej 34758416](https://sdilej.cz/34758416/a-breed-apart-2025-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T17:35:53.756619+00:00 |
-| [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:09:54.474138+00:00 |
+| [A Cinderella Story: Starstruck (2021) 720p CZ Titulky](https://prehraj.to/a-cinderella-story-starstruck-2021-720p-cz-titulky-avi/9af73b7cd5359066) (ID 29573005) | [Sdílej 25108769](https://sdilej.cz/25108769/a-cinderella-story-starstruck-webrip-hd-cz-titulky-2021.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:02:44.435639+00:00 |
 | [A Man Named Scott (2021) 1080p CZ Titulky](https://prehraj.to/a-man-named-scott-2021-1080p-cz-titulky-mp4/a0f50a689caa72ee) (ID 29298987) | [Sdílej 34731688](https://sdilej.cz/34731688/a-man-named-scott-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:27:13.835175+00:00 |
 | [A Perfect Ending (2012) 1080p CZ Titulky](https://prehraj.to/a-perfect-ending-2012-1080p-cz-titulky-mp4/6656d2e8d8d54a83) (ID 29657911) | [Sdílej 34745399](https://sdilej.cz/34745399/a-perfect-ending-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T15:42:54.386622+00:00 |
 | [A Reckoning (2018) SD CZ Titulky](https://prehraj.to/a-reckoning-2018-sd-cz-titulky-avi/d75948e208d6befe) (ID 30248956) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T15:52:21.788957+00:00 |
