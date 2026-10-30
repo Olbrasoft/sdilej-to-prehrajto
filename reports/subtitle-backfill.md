@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:46:41.453734+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:46:49.863836+00:00
 
 Zkontrolováno videí: 2369. Další stránka kontroly: 0.
 
@@ -263,7 +263,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:23:23.095777+00:00 |
 | [Conor McGregor: Notorious (2017) 1080p CZ Titulky](https://prehraj.to/conor-mcgregor-notorious-2017-1080p-cz-titulky-mkv/9ae07d66666bf58b) (ID 29427630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.584549+00:00 |
 | [Consecration (2023) 1080p CZ Titulky](https://prehraj.to/consecration-2023-1080p-cz-titulky-avi/897379aaaf50fbff) (ID 29938329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587506+00:00 |
-| [Cool Daddy (2021) 1080p CZ Titulky](https://prehraj.to/cool-daddy-2021-1080p-cz-titulky-mp4/e3340bbffefc4188) (ID 29715960) | [Sdílej 34772995](https://sdilej.cz/34772995/cool-daddy-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:04:41.589254+00:00 |
+| [Cool Daddy (2021) 1080p CZ Titulky](https://prehraj.to/cool-daddy-2021-1080p-cz-titulky-mp4/e3340bbffefc4188) (ID 29715960) | [Sdílej 34772995](https://sdilej.cz/34772995/cool-daddy-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:46:49.863725+00:00 |
 | [Cooties (2014) SD CZ Titulky](https://prehraj.to/cooties-2014-sd-cz-titulky-mp4/5a6cf14239463ea5) (ID 29915713) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.586773+00:00 |
 | [Cordelia (2019) SD CZ Titulky](https://prehraj.to/cordelia-2019-sd-cz-titulky-avi/d8aa47427933f630) (ID 29943997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T16:36:59.587574+00:00 |
 | [Corona Zombies (2020) 1080p CZ Titulky](https://prehraj.to/corona-zombies-2020-1080p-cz-titulky-mp4/9d35e6e0be115c80) (ID 29732755) | [Sdílej 34773399](https://sdilej.cz/34773399/corona-zombies-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T16:14:21.469414+00:00 |
