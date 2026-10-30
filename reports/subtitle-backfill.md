@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T04:29:19.957290+00:00
+Poslední aktualizace (UTC): 2026-10-30T04:29:27.147661+00:00
 
 Zkontrolováno videí: 2313. Další stránka kontroly: 0.
 
@@ -1183,7 +1183,7 @@ Kontrol: 11; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Reprise (2006) 1080p CZ Titulky](https://prehraj.to/reprise-2006-1080p-cz-titulky-mkv/f098c0c978267120) (ID 30034803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T04:29:11.178652+00:00 |
 | [Restart the Earth (2021) 1080p CZ Titulky](https://prehraj.to/restart-the-earth-2021-1080p-cz-titulky-mp4/df634c0923fbfc12) (ID 30345573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T04:29:11.180143+00:00 |
 | [Revolt (2017) SD CZ Titulky](https://prehraj.to/revolt-2017-sd-cz-titulky-avi/2e38fbed2726da1d) (ID 30371729) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T04:29:11.180260+00:00 |
-| [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T03:38:11.811676+00:00 |
+| [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:29:27.147544+00:00 |
 | [Ride On (2023) 1080p CZ Titulky](https://prehraj.to/ride-on-2023-1080p-cz-titulky-mp4/cb860af57d0ce99d) (ID 30280693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T04:29:11.179941+00:00 |
 | [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-23T14:48:37.753953+00:00 |
 | [Rise of the Zombies (2012) 1080p CZ Titulky](https://prehraj.to/rise-of-the-zombies-2012-1080p-cz-titulky-mp4/361c55ec98f51a60) (ID 29906087) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-30T04:29:11.177085+00:00 |
