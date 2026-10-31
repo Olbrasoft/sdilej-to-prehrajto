@@ -83729,18 +83729,20 @@
           "source_id": "34683237",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-25T17:46:13.499695+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34683237",
+          "target_video_id": "30678951",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T21:31:31.886175+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34683237",
         "display_name": "Neuvěřitelný život rockera Coxe (2007) 720p CZ Dabing",
         "planned_at": "2026-10-31T20:56:49.277756+00:00"
-      },
-      "claim": {
-        "worker_id": "cd2573da16234fc796414919b9442959-shard-0",
-        "claimed_at": "2026-10-31T21:28:07.086383+00:00",
-        "lease_expires_at": "2026-11-01T03:28:07.086383+00:00",
-        "run_id": "41219162394"
       },
       "previous_target_id": "30678951",
       "prepared": {
@@ -425847,5 +425849,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T21:28:10.719568+00:00"
+  "updated_at": "2026-10-31T21:31:31.886194+00:00"
 }
