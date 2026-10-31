@@ -353276,18 +353276,20 @@
           "source_id": "26375437",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-23T18:55:58.249853+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26375437",
+          "target_video_id": "30671640",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T15:40:45.194349+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26375437",
         "display_name": "Pronásledovatelé (1988) 720p CZ Dabing",
         "planned_at": "2026-10-31T15:22:49.942155+00:00"
-      },
-      "claim": {
-        "worker_id": "41ad67aa15ac4c4e91e448e4013970a0-shard-0",
-        "claimed_at": "2026-10-31T15:34:57.435884+00:00",
-        "lease_expires_at": "2026-10-31T21:34:57.435884+00:00",
-        "run_id": "41192329173"
       },
       "previous_target_id": "30671640",
       "prepared": {
@@ -423225,5 +423227,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T15:35:01.442385+00:00"
+  "updated_at": "2026-10-31T15:40:45.194370+00:00"
 }
