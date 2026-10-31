@@ -282788,18 +282788,20 @@
           "source_id": "30780201",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-24T17:59:47.850068+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30780201",
+          "target_video_id": "30674455",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T17:51:16.510861+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30780201",
         "display_name": "Město bastardů (1971) 1080p CZ Dabing",
         "planned_at": "2026-10-31T17:43:19.552459+00:00"
-      },
-      "claim": {
-        "worker_id": "774ba0bdcb874830bd1b8451473e88d2-shard-0",
-        "claimed_at": "2026-10-31T17:43:59.515787+00:00",
-        "lease_expires_at": "2026-10-31T23:43:59.515787+00:00",
-        "run_id": "41219162394"
       },
       "previous_target_id": "30674455",
       "prepared": {
@@ -423764,5 +423766,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T17:44:22.502217+00:00"
+  "updated_at": "2026-10-31T17:51:16.510880+00:00"
 }
