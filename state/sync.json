@@ -83847,18 +83847,20 @@
           "source_id": "33239949",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-25T17:47:16.053253+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33239949",
+          "target_video_id": "30679122",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T21:37:34.555978+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33239949",
         "display_name": "Přes palubu (1987) 1080p CZ Dabing",
         "planned_at": "2026-10-31T20:56:50.453068+00:00"
-      },
-      "claim": {
-        "worker_id": "cd2573da16234fc796414919b9442959-shard-0",
-        "claimed_at": "2026-10-31T21:32:16.476139+00:00",
-        "lease_expires_at": "2026-11-01T03:32:16.476139+00:00",
-        "run_id": "41219162394"
       },
       "previous_target_id": "30679122",
       "prepared": {
@@ -425875,5 +425877,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T21:32:39.551332+00:00"
+  "updated_at": "2026-10-31T21:37:34.555997+00:00"
 }
