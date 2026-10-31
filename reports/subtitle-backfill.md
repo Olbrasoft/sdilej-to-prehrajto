@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T18:29:40.027518+00:00
+Poslední aktualizace (UTC): 2026-10-31T18:29:43.469588+00:00
 
 Zkontrolováno videí: 2434. Další stránka kontroly: 0.
 
@@ -714,7 +714,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Invaze: Operace Mincemeat (2021) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29222250) | [Sdílej 29331445](https://sdilej.cz/29331445/operation.mincemeat-2021-cztit-v-obraze.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-31T17:25:18.384661+00:00 |
 | [Ip Man: Kung Fu Master (2019) 720p CZ Titulky](https://prehraj.to/ip-man-kung-fu-master-2019-720p-cz-titulky-mp4/49337b2327af4462) (ID 29649588) | [Sdílej 34734418](https://sdilej.cz/34734418/ip-man-kung-fu-master-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:26:52.013946+00:00 |
 | [Iron Lung (2026) 1080p CZ Titulky](https://prehraj.to/iron-lung-2026-1080p-cz-titulky-mkv/83a4b601101ae9f6) (ID 30448670) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-31T18:29:25.656500+00:00 |
-| [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-31T17:25:07.851501+00:00 |
+| [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-31T18:29:43.469521+00:00 |
 | [Iron Sky (2012) 1080p CZ Titulky](https://prehraj.to/iron-sky-2012-1080p-cz-titulky-mp4/70fc71db9141d6f2) (ID 29912564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-31T18:29:25.649170+00:00 |
 | [Irčan v rozhovorech (2019) 1080p CZ Titulky](https://prehraj.to/ircan-v-rozhovorech-2019-1080p-cz-titulky-mp4/2a1c4ff91d77e010) (ID 29833818) | [Sdílej 34734267](https://sdilej.cz/34734267/ircan-v-rozhovorech-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:40:12.561896+00:00 |
 | [Is That Black Enough for You (2022) 1080p CZ Titulky.mp4](https://prehraj.to/is-that-black-enough-for-you-2022-1080p-cz-titulky-mp4/143cef4bfc972ff7) (ID 30047329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-10-31T18:29:25.652877+00:00 |
