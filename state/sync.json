@@ -349254,18 +349254,20 @@
           "reason": "Request failed for https://sdilej.cz/31586216/streleny-1996-akcni-komedie-usa-adam-sandler-czdab-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-24T01:58:03.481522+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31586216",
+          "target_video_id": "30673037",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T16:53:01.533251+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31586216",
         "display_name": "Střelený (1996) 1080p CZ Dabing",
         "planned_at": "2026-10-31T16:33:09.179668+00:00"
-      },
-      "claim": {
-        "worker_id": "98c3f3e1db2f4779a9728dd94c6af797-shard-0",
-        "claimed_at": "2026-10-31T16:42:35.863711+00:00",
-        "lease_expires_at": "2026-10-31T22:42:35.863711+00:00",
-        "run_id": "41219162394"
       },
       "previous_target_id": "30673037",
       "prepared": {
@@ -423698,5 +423700,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T16:42:39.340558+00:00"
+  "updated_at": "2026-10-31T16:53:01.533315+00:00"
 }
