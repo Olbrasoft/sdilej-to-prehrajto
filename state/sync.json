@@ -85105,18 +85105,20 @@
           "source_id": "34077481",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-25T17:52:42.845715+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34077481",
+          "target_video_id": "30679489",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T21:47:28.510947+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34077481",
         "display_name": "Ve stínu upíra (2000) 1080p CZ Dabing",
         "planned_at": "2026-10-31T20:56:55.942389+00:00"
-      },
-      "claim": {
-        "worker_id": "cd2573da16234fc796414919b9442959-shard-0",
-        "claimed_at": "2026-10-31T21:42:33.730864+00:00",
-        "lease_expires_at": "2026-11-01T03:42:33.730864+00:00",
-        "run_id": "41219162394"
       },
       "previous_target_id": "30679489",
       "prepared": {
@@ -425980,5 +425982,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T21:42:57.280972+00:00"
+  "updated_at": "2026-10-31T21:47:28.510964+00:00"
 }
