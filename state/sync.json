@@ -36468,18 +36468,20 @@
           "source_id": "11536557",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-24T21:03:21.922277+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11536557",
+          "target_video_id": "30676018",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-10-31T19:25:04.183928+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11536557",
         "display_name": "Potíže s Arizonou (1987) SD CZ Dabing",
         "planned_at": "2026-10-31T19:06:03.707346+00:00"
-      },
-      "claim": {
-        "worker_id": "cdd19da5d4fe418e926066b79778e957-shard-0",
-        "claimed_at": "2026-10-31T19:19:35.812928+00:00",
-        "lease_expires_at": "2026-11-01T01:19:35.812928+00:00",
-        "run_id": "41219162394"
       },
       "previous_target_id": "30676018",
       "prepared": {
@@ -424344,5 +424346,5 @@
       }
     }
   },
-  "updated_at": "2026-10-31T19:19:39.415722+00:00"
+  "updated_at": "2026-10-31T19:25:04.183949+00:00"
 }
