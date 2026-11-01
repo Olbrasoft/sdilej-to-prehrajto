@@ -201259,6 +201259,13 @@
           "reason": "Source detail has no authenticated download link; source_id=12999464",
           "permanent": false,
           "attempted_at": "2026-10-27T07:17:54.629735+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12999464",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T17:49:42.161680+00:00"
         }
       ],
       "last_plan": {
@@ -201460,6 +201467,13 @@
           "permanent": false,
           "target_video_id": "30555604",
           "attempted_at": "2026-10-27T07:27:10.699936+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31624554",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T17:50:03.052989+00:00"
         }
       ],
       "last_plan": {
@@ -201589,6 +201603,14 @@
           "target_video_id": "30555752",
           "permanent": false,
           "attempted_at": "2026-10-27T07:32:26.267435+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24336801",
+          "target_video_id": "30555752",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T17:51:15.305038+00:00"
         }
       ],
       "last_plan": {
@@ -426658,5 +426680,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T17:49:18.922523+00:00"
+  "updated_at": "2026-11-01T17:51:15.305059+00:00"
 }
