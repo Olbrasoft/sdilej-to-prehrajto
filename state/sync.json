@@ -196201,6 +196201,13 @@
           "reason": "Request failed for https://sdilej.cz/34727780/bejval-sem-slavnej-2022-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-27T03:48:29.322621+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34727780",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T17:02:36.009472+00:00"
         }
       ],
       "last_plan": {
@@ -196302,6 +196309,14 @@
           "target_video_id": "30551928",
           "permanent": false,
           "attempted_at": "2026-10-27T03:55:19.935488+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33478515",
+          "target_video_id": "30551928",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T17:03:48.323863+00:00"
         }
       ],
       "last_plan": {
@@ -426587,5 +426602,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T17:02:12.791499+00:00"
+  "updated_at": "2026-11-01T17:03:48.323882+00:00"
 }
