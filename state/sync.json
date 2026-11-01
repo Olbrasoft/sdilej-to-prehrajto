@@ -155075,6 +155075,13 @@
           "target_video_id": "30095541",
           "permanent": false,
           "attempted_at": "2026-10-26T01:03:46.474401+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32009450",
+          "target_video_id": "30095541",
+          "permanent": false,
+          "attempted_at": "2026-11-01T02:01:00.085666+00:00"
         }
       ],
       "last_plan": {
@@ -155206,6 +155213,14 @@
           "permanent": false,
           "target_video_id": "30513722",
           "attempted_at": "2026-10-26T01:32:26.712927+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "33810926",
+          "target_video_id": "30513722",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-01T02:01:01.780096+00:00"
         }
       ],
       "last_plan": {
@@ -155213,7 +155228,13 @@
         "display_name": "Hastrman (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-01T02:00:26.994497+00:00"
       },
-      "previous_target_id": "30513722"
+      "previous_target_id": "30513722",
+      "claim": {
+        "worker_id": "4c28649ee1314bd2b6500cd3b7bfe454-shard-0",
+        "claimed_at": "2026-11-01T02:01:00.481346+00:00",
+        "lease_expires_at": "2026-11-01T08:01:00.481346+00:00",
+        "run_id": "41243119830"
+      }
     },
     "15138": {
       "attempts": []
@@ -155341,6 +155362,13 @@
           "target_video_id": "30096731",
           "permanent": false,
           "attempted_at": "2026-10-26T01:32:49.502911+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34723399",
+          "target_video_id": "30096731",
+          "permanent": false,
+          "attempted_at": "2026-11-01T02:01:03.890596+00:00"
         }
       ],
       "last_plan": {
@@ -155577,16 +155605,10 @@
           "attempted_at": "2026-10-26T02:03:22.492267+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29920006",
-        "display_name": "Goebbels (2024) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T02:00:27.769368+00:00"
-      },
       "previous_target_id": "30514542",
-      "prepared": {
+      "upload": {
         "target_video_id": "30514542",
-        "size_bytes": 7157365346,
-        "prepared_at": "2026-10-26T01:33:04.297945+00:00"
+        "uploaded_at": "2026-11-01T02:01:06.031026+00:00"
       }
     },
     "16175": {
@@ -426087,5 +426109,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T02:00:55.574762+00:00"
+  "updated_at": "2026-11-01T02:01:06.031039+00:00"
 }
