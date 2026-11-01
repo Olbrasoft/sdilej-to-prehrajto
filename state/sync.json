@@ -177730,6 +177730,14 @@
           "source_id": "34175829",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T18:59:59.823684+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34175829",
+          "target_video_id": "30153599",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:56:56.824878+00:00"
         }
       ],
       "last_plan": {
@@ -177737,12 +177745,7 @@
         "display_name": "Bábovky (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-01T07:32:03.824152+00:00"
       },
-      "previous_target_id": "30153599",
-      "prepared": {
-        "target_video_id": "30153599",
-        "size_bytes": 1991928004,
-        "prepared_at": "2026-10-10T15:48:56.018144+00:00"
-      }
+      "previous_target_id": "30153599"
     },
     "16267": {
       "attempts": [
@@ -425956,5 +425959,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T07:56:47.360555+00:00"
+  "updated_at": "2026-11-01T07:56:56.824896+00:00"
 }
