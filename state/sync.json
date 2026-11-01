@@ -213544,18 +213544,20 @@
           "source_id": "28731700",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T18:37:00.405905+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28731700",
+          "target_video_id": "30705515",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T20:04:23.540282+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28731700",
         "display_name": "Di Ambang Kematian (2023) 1080p CZ Titulky",
         "planned_at": "2026-11-01T19:20:52.489704+00:00"
-      },
-      "claim": {
-        "worker_id": "44f1c49dfad44da7872ff0de4cbb5100-shard-0",
-        "claimed_at": "2026-11-01T19:55:55.934984+00:00",
-        "lease_expires_at": "2026-11-02T01:55:55.934984+00:00",
-        "run_id": "41336073093"
       },
       "previous_target_id": "30705515",
       "prepared": {
@@ -426995,5 +426997,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T19:56:20.076851+00:00"
+  "updated_at": "2026-11-01T20:04:23.540301+00:00"
 }
