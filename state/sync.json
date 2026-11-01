@@ -211639,6 +211639,13 @@
           "reason": "Request failed for https://sdilej.cz/14762786/vrazedny-podvod-traceless.2010.1080p.bluray.cz.dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-27T17:48:50.770427+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14762786",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T19:28:41.867710+00:00"
         }
       ],
       "last_plan": {
@@ -211662,6 +211669,14 @@
           "target_video_id": "30569126",
           "permanent": false,
           "attempted_at": "2026-10-27T17:49:37.654493+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "10459414",
+          "target_video_id": "30569126",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T19:29:55.078540+00:00"
         }
       ],
       "last_plan": {
@@ -426675,5 +426690,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T19:28:05.084258+00:00"
+  "updated_at": "2026-11-01T19:29:55.078559+00:00"
 }
