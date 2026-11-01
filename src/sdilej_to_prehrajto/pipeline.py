@@ -450,48 +450,8 @@ class SyncPipeline:
                 print(f"upload_skipped=claimed cr_film_id={film.cr_film_id}", flush=True)
                 continue
             candidate = self._selected[film.cr_film_id]
-            try:
-                existing_video_id = self._target_id_by_name(
-                    target_session, row["display_name"]
-                )
-            except PrehrajtoError:
-                self.state.record_attempt(film.cr_film_id, {
-                    "status": "target_lookup_failed", "permanent": False,
-                    "source_id": candidate.source_id,
-                    "reason": "Existing target lookup failed; upload deferred",
-                })
-                continue
-            if existing_video_id:
-                if self._existing_target_complete(
-                    target_session, existing_video_id, row["display_name"]
-                ):
-                    upload = self._upload_record(
-                        row,
-                        candidate,
-                        video_id=existing_video_id,
-                        size_bytes=int(candidate.size_bytes or 0),
-                        completion_evidence="reconciled_existing_film",
-                    )
-                    self._finish_success(film, candidate, row, upload, target_session)
-                else:
-                    self.state.record_target_processing(
-                        film.cr_film_id,
-                        video_id=existing_video_id,
-                        size=int(candidate.size_bytes or 0),
-                        source_id=candidate.source_id,
-                    )
-                continue
             checkpoint = self.state.snapshot(film.cr_film_id)
             prepared = checkpoint.get("prepared")
-            if not prepared:
-                previous_id = checkpoint.get("previous_target_id") or next((attempt.get("target_video_id") for attempt in reversed(checkpoint.get("attempts", [])) if attempt.get("target_video_id")), None)
-                if previous_id:
-                    self.state.record_attempt(film.cr_film_id, {
-                        "status": "target_requires_review", "permanent": False,
-                        "source_id": candidate.source_id, "target_video_id": previous_id,
-                        "reason": "Previous target ID exists; automatic reupload blocked",
-                    })
-                    continue
             if prepared:
                 video_id = str(prepared["target_video_id"])
                 if self._target_completed_and_named(
@@ -531,6 +491,46 @@ class SyncPipeline:
                         },
                     )
                 continue
+            try:
+                existing_video_id = self._target_id_by_name(
+                    target_session, row["display_name"]
+                )
+            except PrehrajtoError:
+                self.state.record_attempt(film.cr_film_id, {
+                    "status": "target_lookup_failed", "permanent": False,
+                    "source_id": candidate.source_id,
+                    "reason": "Existing target lookup failed; upload deferred",
+                })
+                continue
+            if existing_video_id:
+                if self._existing_target_complete(
+                    target_session, existing_video_id, row["display_name"]
+                ):
+                    upload = self._upload_record(
+                        row,
+                        candidate,
+                        video_id=existing_video_id,
+                        size_bytes=int(candidate.size_bytes or 0),
+                        completion_evidence="reconciled_existing_film",
+                    )
+                    self._finish_success(film, candidate, row, upload, target_session)
+                else:
+                    self.state.record_target_processing(
+                        film.cr_film_id,
+                        video_id=existing_video_id,
+                        size=int(candidate.size_bytes or 0),
+                        source_id=candidate.source_id,
+                    )
+                continue
+            if not prepared:
+                previous_id = checkpoint.get("previous_target_id") or next((attempt.get("target_video_id") for attempt in reversed(checkpoint.get("attempts", [])) if attempt.get("target_video_id")), None)
+                if previous_id:
+                    self.state.record_attempt(film.cr_film_id, {
+                        "status": "target_requires_review", "permanent": False,
+                        "source_id": candidate.source_id, "target_video_id": previous_id,
+                        "reason": "Previous target ID exists; automatic reupload blocked",
+                    })
+                    continue
             refresh = getattr(self.source_provider, "refresh_approved", None)
             if refresh:
                 try:

@@ -13,6 +13,7 @@ from sdilej_to_prehrajto.prehrajto import (
     response_total_size,
     uploaded_video_confirmed,
     uploaded_video_id_by_name,
+    rename_video,
 )
 from sdilej_to_prehrajto.state import StateStore
 
@@ -69,6 +70,41 @@ def test_lookup_checks_later_search_pages():
                 return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-777">Film (2000) 4K.mkv</h3>')
             return Response(text='<h3>Film (2001) 4K</h3><a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
     assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K') == '777'
+
+
+def test_target_lookup_deadline_never_reports_false_absence(monkeypatch):
+    ticks = iter([0, 0, 61])
+    monkeypatch.setattr('sdilej_to_prehrajto.prehrajto.time.monotonic', lambda: next(ticks))
+    calls = []
+    class Session:
+        def get(self, _url, **kwargs):
+            calls.append(kwargs)
+            return Response(text='<a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
+    with pytest.raises(PrehrajtoError, match='deadline exceeded'):
+        uploaded_video_id_by_name(Session(), 'Film (2000) 4K')
+    assert len(calls) == 1
+    assert calls[0]['timeout'] <= 30
+
+
+@pytest.mark.parametrize('rejected', [False, True])
+def test_rename_uses_observed_get_query_and_checks_name_error(rejected):
+    calls = []
+    class Session:
+        def get(self, url, **kwargs):
+            calls.append((url, kwargs))
+            return Response(headers={'Content-Type': 'application/json'}, payload={'nameError': rejected})
+    if rejected:
+        with pytest.raises(PrehrajtoError, match='rejected'):
+            rename_video(Session(), '777', 'Film (2000) 4K')
+    else:
+        rename_video(Session(), '777', 'Film (2000) 4K')
+    assert len(calls) == 1
+    assert calls[0][1]['params'] == {
+        'uploadedVideoListing-videoId': '777',
+        'do': 'uploadedVideoListing-changeVideoName',
+        'uploadedVideoListing-name': 'Film (2000) 4K',
+    }
+    assert calls[0][1]['allow_redirects'] is False
 
 
 @pytest.mark.parametrize("matching", [False, True])
@@ -242,6 +278,9 @@ class TargetSession:
         self.uploaded_count = 0
 
     def get(self, url, *_args, **_kwargs) -> Response:
+        if _kwargs.get('params', {}).get('do') == 'uploadedVideoListing-changeVideoName':
+            self.renamed_to = _kwargs['params']['uploadedVideoListing-name']
+            return Response()
         if "statistiky" in url:
             return Response(text=f"Nahráno videí celkem {self.uploaded_count}")
         if "nahrana-videa" in url and self.renamed_to:
@@ -265,6 +304,7 @@ class TargetSession:
                 }
             )
         if "api.premiumcdn.net" in url:
+            self.upload_timeout = kwargs['timeout']
             encoder = kwargs["data"]
             chunks = []
             while True:
@@ -304,6 +344,7 @@ def test_relay_upload_streams_payload_and_renames() -> None:
     assert source_payload in target.uploaded_body
     assert prepared == [("777", len(source_payload))]
     assert target.renamed_to == "Film (2000) 4K"
+    assert target.upload_timeout == (30, 300)
 
 
 def test_relay_upload_renames_when_listing_confirms_before_request_returns() -> None:
@@ -323,7 +364,7 @@ def test_relay_upload_renames_when_listing_confirms_before_request_returns() -> 
     original_get = target.get
 
     def get_with_unrenamed_listing(url, *_args, **_kwargs):
-        if "nahrana-videa" in url and upload_read.is_set():
+        if "nahrana-videa" in url and upload_read.is_set() and not _kwargs.get('params', {}).get('do'):
             name = target.renamed_to or "Film (2000) 4K.mkv"
             return Response(text=f'<div data-video-id="777"><h3>{name}</h3></div>')
         return original_get(url, *_args, **_kwargs)
@@ -369,7 +410,7 @@ def test_relay_upload_reports_target_processing_as_pending() -> None:
     original_get = target.get
 
     def processing_listing(url, *_args, **_kwargs):
-        if "nahrana-videa" in url and target.renamed_to:
+        if "nahrana-videa" in url and target.renamed_to and not _kwargs.get('params', {}).get('do'):
             return Response(
                 text=(
                     '<div data-video-id="777"><h3>'

@@ -42,6 +42,13 @@ worker atomicky uloží šestihodinový lease; ostatní workery jej přeskočí.
 claim odstraní, běžná chyba jej okamžitě uvolní a po pádu procesu jej lze znovu
 převzít až po vypršení lease.
 
+Již přidělené cílové ID se kontroluje před obecným hledáním podle názvu.
+Stránkované hledání má celkový limit 60 sekund; vypršení limitu neznamená,
+že video neexistuje. Čekání na nečinnou odpověď upload serveru je omezené na
+pět minut, zatímco přenos s průběžným postupem může trvat déle. Přejmenování
+používá ověřený GET kontrakt webu a kontroluje i chybu názvu v JSON odpovědi.
+Při odložení k ruční kontrole se uvolní claim a zachová cílové ID proti duplicitě.
+
 Jakmile je zdroj ověřen, jeho stabilní detailová URL se atomicky zapíše do
 jediného `manifests/selected-sources.jsonl`. Během workflow funguje jako
 append-only žurnál a na konci se atomicky zkompaktuje na právě jeden řádek na

@@ -164,15 +164,22 @@ def prepare_video(
 
 
 def rename_video(session: requests.Session, video_id: str, name: str) -> None:
-    response = session.post(
-        BASE_URL
-        + f"/profil/nahrana-videa?uploadedVideoListing-videoId={video_id}"
-        "&do=uploadedVideoListing-changeVideoName",
-        data={"uploadedVideoListing-name": name},
-        headers={"X-Requested-With": "XMLHttpRequest"},
+    # Match the live Naja handler: both the signal and value are query parameters.
+    # This GET mutates state, so it must never use the retry-safe read wrapper.
+    response = session.get(
+        BASE_URL + "/profil/nahrana-videa",
+        params={
+            "uploadedVideoListing-videoId": str(video_id),
+            "do": "uploadedVideoListing-changeVideoName",
+            "uploadedVideoListing-name": name,
+        },
+        headers={"X-Requested-With": "XMLHttpRequest", "Accept": "application/json"},
+        allow_redirects=False,
         timeout=30,
     )
     response.raise_for_status()
+    if "application/json" in response.headers.get("Content-Type", "") and response.json().get("nameError"):
+        raise PrehrajtoError("Target rejected the video name", target_video_id=str(video_id))
 
 
 def uploaded_video_confirmed(
@@ -299,7 +306,10 @@ def _uploaded_video_id_from_html(
     return None
 
 
-def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, include_processing: bool = True) -> str | None:
+def uploaded_video_id_by_name(
+    session: requests.Session, display_name: str, *, include_processing: bool = True,
+    lookup_timeout_seconds: float = 60,
+) -> str | None:
     """Search punctuation-tolerantly, then compare complete normalized names."""
     title = re.split(r"\s*\(\d{4}\)", display_name, maxsplit=1)[0]
     fragments = re.findall(r"[\w\s]+", title)
@@ -314,11 +324,15 @@ def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, i
         query = year.group(1)
     page_key = "uploadedVideoListing-visualPaginator-page"
     page = 1
+    deadline = time.monotonic() + lookup_timeout_seconds
     for _ in range(100):
+        remaining = deadline - time.monotonic()
+        if remaining <= 0:
+            raise PrehrajtoError("Target lookup deadline exceeded; refusing duplicate risk")
         params = {"searchPhrase": query}
         if page > 1:
             params[page_key] = str(page)
-        response = session.get(BASE_URL + "/profil/nahrana-videa", params=params, timeout=30)
+        response = session.get(BASE_URL + "/profil/nahrana-videa", params=params, timeout=min(30, remaining))
         response.raise_for_status()
         remember_detail_urls(session, response.text)
         found = _uploaded_video_id_from_html(response.text, display_name, include_processing=include_processing)
@@ -475,7 +489,9 @@ def relay_upload(
                         "Origin": BASE_URL,
                         "User-Agent": USER_AGENT,
                     },
-                    timeout=(30, 7200),
+                    # Limit an idle server response, not the total duration of
+                    # a progressing multi-gigabyte transfer.
+                    timeout=(30, stall_timeout_seconds),
                 )
             except BaseException as error:
                 upload_result["error"] = error

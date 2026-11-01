@@ -48,7 +48,10 @@ def test_reconciliation_outage_preserves_target_and_continues(tmp_path, monkeypa
         plan.append({"film": film.to_dict(), "display_name": f"Film {i}", "needs_czech_subtitles": False})
     if stage == "prepared":
         state.record_prepared(1, "777", 100)
-    lookups = iter([None, PrehrajtoError("lookup unavailable"), "888"])
+    lookups = iter(
+        [PrehrajtoError("lookup unavailable"), "888"]
+        if stage == "prepared" else [None, PrehrajtoError("lookup unavailable"), "888"]
+    )
     def lookup(*_args):
         result = next(lookups)
         if isinstance(result, Exception):
@@ -97,7 +100,7 @@ def test_target_reconciliation_does_not_require_available_source(tmp_path, monke
     candidate = Candidate("10", "https://sdilej.cz/10/film.mkv", "Film", size_bytes=100)
     film = Film(1, "film", "Film", None, 2000, 100, "en")
     pipeline._selected[1] = candidate
-    ids = iter([None, "777"])
+    ids = iter(["777"])
     monkeypatch.setattr(pipeline, "_target_id_by_name", lambda *_: next(ids))
     monkeypatch.setattr(pipeline, "_target_completed_and_named", lambda *_: completed)
     pipeline._execute_shard(
@@ -135,6 +138,24 @@ def test_duplicate_guard_never_relays_or_renames(tmp_path, monkeypatch, existing
     assert not state.uploaded(1)
     if previous:
         assert state.deferred(1)
+        assert not state.snapshot(1).get('claim')
+
+
+def test_known_prepared_target_is_completed_without_broad_name_search(tmp_path, monkeypatch):
+    state = StateStore(tmp_path / 'state.json')
+    state.record_prepared(1, '777', 100)
+    pipeline = SyncPipeline(source_provider=object(), source_session=object(), target_session=object(),
+        state=state, subtitle_queue=SubtitleQueue(tmp_path / 'subs.jsonl'),
+        selected_sources=SelectedSourceStore(tmp_path / 'sources.jsonl'))
+    pipeline._selected[1] = Candidate('10', 'https://sdilej.cz/10/x', 'Film', size_bytes=100)
+    monkeypatch.setattr(pipeline, '_target_completed_and_named', lambda *_: True)
+    def forbidden(*_args, **_kwargs):
+        pytest.fail('A known, completed ID must not scan the entire target library or upload again')
+    monkeypatch.setattr(pipeline, '_target_id_by_name', forbidden)
+    monkeypatch.setattr('sdilej_to_prehrajto.pipeline.relay_upload', forbidden)
+    film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
+    pipeline.execute([{'film': film.to_dict(), 'display_name': 'Film', 'needs_czech_subtitles': False}])
+    assert state.snapshot(1)['upload']['target_video_id'] == '777'
 
 
 def test_prepare_replaces_candidate_from_old_selection_policy(tmp_path) -> None:
