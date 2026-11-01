@@ -216795,18 +216795,20 @@
           "source_id": "3485619",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:03:13.549729+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "3485619",
+          "target_video_id": "30708105",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T21:55:57.166020+00:00"
         }
       ],
       "last_plan": {
         "source_id": "3485619",
         "display_name": "Ve jménu Říma (1959) SD CZ Dabing",
         "planned_at": "2026-11-01T21:14:45.792940+00:00"
-      },
-      "claim": {
-        "worker_id": "347cfb8fcebb49be9e6f168a2aeb5172-shard-0",
-        "claimed_at": "2026-11-01T21:51:41.310584+00:00",
-        "lease_expires_at": "2026-11-02T03:51:41.310584+00:00",
-        "run_id": "41336073093"
       },
       "previous_target_id": "30708105",
       "prepared": {
@@ -427533,5 +427535,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T21:52:05.256497+00:00"
+  "updated_at": "2026-11-01T21:55:57.166037+00:00"
 }
