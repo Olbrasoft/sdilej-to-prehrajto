@@ -211746,6 +211746,13 @@
           "reason": "Request failed for https://sdilej.cz/31182225/zlaty-kolovratok-1995-sk-tvrip-720p.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-27T17:52:56.061890+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31182225",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T19:31:37.597477+00:00"
         }
       ],
       "last_plan": {
@@ -211772,6 +211779,14 @@
           "target_video_id": "30569167",
           "permanent": false,
           "attempted_at": "2026-10-27T17:54:34.058449+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12375903",
+          "target_video_id": "30569167",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T19:32:52.137549+00:00"
         }
       ],
       "last_plan": {
@@ -426698,5 +426713,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T19:31:14.052467+00:00"
+  "updated_at": "2026-11-01T19:32:52.137569+00:00"
 }
