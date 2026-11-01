@@ -195792,6 +195792,13 @@
           "reason": "Request failed for https://sdilej.cz/34024151/loupeni-jehnatek-2007-can-gb-mysteriozny-drama.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-27T02:38:59.232442+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34024151",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T16:54:36.350318+00:00"
         }
       ],
       "last_plan": {
@@ -195818,6 +195825,14 @@
           "target_video_id": "30550350",
           "permanent": false,
           "attempted_at": "2026-10-27T02:52:30.525436+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34695269",
+          "target_video_id": "30550350",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T16:55:49.098259+00:00"
         }
       ],
       "last_plan": {
@@ -426539,5 +426554,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T16:54:13.248481+00:00"
+  "updated_at": "2026-11-01T16:55:49.098279+00:00"
 }
