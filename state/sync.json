@@ -209779,6 +209779,13 @@
           "target_video_id": "30566894",
           "permanent": false,
           "attempted_at": "2026-10-27T15:15:54.070261+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34686329",
+          "target_video_id": "30566894",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:52:27.846032+00:00"
         }
       ],
       "last_plan": {
@@ -209808,6 +209815,13 @@
           "reason": "Request failed for https://sdilej.cz/34756661/ktera-je-ta-prava-2019-sk-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-27T15:15:58.668646+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34756661",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T18:52:48.738431+00:00"
         }
       ],
       "last_plan": {
@@ -209834,6 +209848,14 @@
           "target_video_id": "30566956",
           "permanent": false,
           "attempted_at": "2026-10-27T15:17:10.344086+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34673263",
+          "target_video_id": "30566956",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T18:54:01.161824+00:00"
         }
       ],
       "last_plan": {
@@ -426606,5 +426628,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T18:51:12.473246+00:00"
+  "updated_at": "2026-11-01T18:54:01.161843+00:00"
 }
