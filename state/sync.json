@@ -150276,6 +150276,14 @@
           "source_id": "34239728",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-25T21:03:28.781814+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34239728",
+          "target_video_id": "30084200",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-01T01:29:54.370004+00:00"
         }
       ],
       "last_plan": {
@@ -150283,7 +150291,13 @@
         "display_name": "Úsměvy smutných mužů (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-01T01:28:46.151208+00:00"
       },
-      "previous_target_id": "30084200"
+      "previous_target_id": "30084200",
+      "claim": {
+        "worker_id": "dacb41ea988b4b73bed42a08bd81e8ed-shard-0",
+        "claimed_at": "2026-11-01T01:29:53.124590+00:00",
+        "lease_expires_at": "2026-11-01T07:29:53.124590+00:00",
+        "run_id": "41243119830"
+      }
     },
     "13332": {
       "attempts": []
@@ -150305,16 +150319,10 @@
           "attempted_at": "2026-10-25T21:03:49.648822+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33848620",
-        "display_name": "Tělo bez duše (1996) SD CZ Dabing",
-        "planned_at": "2026-11-01T01:28:46.542562+00:00"
-      },
       "previous_target_id": "30084383",
-      "prepared": {
+      "upload": {
         "target_video_id": "30084383",
-        "size_bytes": 1185584444,
-        "prepared_at": "2026-10-07T22:45:44.460144+00:00"
+        "uploaded_at": "2026-11-01T01:29:56.711062+00:00"
       }
     },
     "15071": {
@@ -426216,5 +426224,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T01:29:50.472485+00:00"
+  "updated_at": "2026-11-01T01:29:56.711078+00:00"
 }
