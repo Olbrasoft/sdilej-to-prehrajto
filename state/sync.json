@@ -179399,18 +179399,20 @@
           "source_id": "35148989",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T19:36:57.859714+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35148989",
+          "target_video_id": "30695691",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-01T13:45:38.597946+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35148989",
         "display_name": "My Little Pony: Equestria Girls – Hry přátelství (2015) 1080p CZ Dabing",
         "planned_at": "2026-11-01T13:32:43.849564+00:00"
-      },
-      "claim": {
-        "worker_id": "8c7cd27df7ce4723a0e28386c347e0c3-shard-0",
-        "claimed_at": "2026-11-01T13:33:13.250156+00:00",
-        "lease_expires_at": "2026-11-01T19:33:13.250156+00:00",
-        "run_id": "41311291600"
       },
       "previous_target_id": "30695691",
       "prepared": {
@@ -426084,5 +426086,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T13:33:17.234917+00:00"
+  "updated_at": "2026-11-01T13:45:38.597967+00:00"
 }
