@@ -148106,6 +148106,14 @@
           "source_id": "34180541",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-25T20:51:30.600604+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "34180541",
+          "target_video_id": "30080876",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-01T00:39:13.347219+00:00"
         }
       ],
       "last_plan": {
@@ -148113,7 +148121,13 @@
         "display_name": "Přání k mání (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-01T00:04:46.943053+00:00"
       },
-      "previous_target_id": "30080876"
+      "previous_target_id": "30080876",
+      "claim": {
+        "worker_id": "a652efd29fae44f2bb23b5cbdd85c696-shard-0",
+        "claimed_at": "2026-11-01T00:39:11.769306+00:00",
+        "lease_expires_at": "2026-11-01T06:39:11.769306+00:00",
+        "run_id": "41243119830"
+      }
     },
     "37140": {
       "attempts": [
@@ -148374,16 +148388,10 @@
           "attempted_at": "2026-10-25T20:51:51.456484+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29855657",
-        "display_name": "Zloději zelených koní (2016) 1080p CZ Dabing",
-        "planned_at": "2026-11-01T00:04:47.333656+00:00"
-      },
       "previous_target_id": "30081044",
-      "prepared": {
+      "upload": {
         "target_video_id": "30081044",
-        "size_bytes": 2991847522,
-        "prepared_at": "2026-10-07T18:50:21.444972+00:00"
+        "uploaded_at": "2026-11-01T00:39:15.454869+00:00"
       }
     },
     "26240": {
@@ -426251,5 +426259,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T00:39:08.815863+00:00"
+  "updated_at": "2026-11-01T00:39:15.454889+00:00"
 }
