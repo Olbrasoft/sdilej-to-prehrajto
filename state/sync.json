@@ -185663,6 +185663,13 @@
           "source_id": "34479597",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T20:57:57.489933+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34479597",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T16:04:07.211487+00:00"
         }
       ],
       "last_plan": {
@@ -185712,6 +185719,13 @@
           "source_id": "24638915",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T20:58:18.109937+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24638915",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-01T16:04:28.098290+00:00"
         }
       ],
       "last_plan": {
@@ -185759,6 +185773,13 @@
           "target_video_id": "30544958",
           "permanent": false,
           "attempted_at": "2026-10-26T21:04:48.886575+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30977734",
+          "target_video_id": "30544958",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:05:31.674487+00:00"
         }
       ],
       "last_plan": {
@@ -185950,6 +185971,13 @@
           "target_video_id": "30545089",
           "permanent": false,
           "attempted_at": "2026-10-26T21:08:13.764130+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33036667",
+          "target_video_id": "30545089",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:05:35.345510+00:00"
         }
       ],
       "last_plan": {
@@ -186028,6 +186056,13 @@
           "target_video_id": "30159516",
           "permanent": false,
           "attempted_at": "2026-10-26T21:08:22.894232+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12898822",
+          "target_video_id": "30159516",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:05:39.300329+00:00"
         }
       ],
       "last_plan": {
@@ -186115,6 +186150,14 @@
           "target_video_id": "30545154",
           "permanent": false,
           "attempted_at": "2026-10-26T21:13:07.174153+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "33062672",
+          "target_video_id": "30545154",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:05:42.841680+00:00"
         }
       ],
       "last_plan": {
@@ -186122,12 +186165,7 @@
         "display_name": "Dívka jménem Willow (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-01T15:48:39.378081+00:00"
       },
-      "previous_target_id": "30545154",
-      "prepared": {
-        "target_video_id": "30545154",
-        "size_bytes": 3076167158,
-        "prepared_at": "2026-10-26T21:08:32.756826+00:00"
-      }
+      "previous_target_id": "30545154"
     },
     "25898": {
       "attempts": []
@@ -426575,5 +426613,5 @@
       }
     }
   },
-  "updated_at": "2026-11-01T16:03:43.918947+00:00"
+  "updated_at": "2026-11-01T16:05:42.841697+00:00"
 }
