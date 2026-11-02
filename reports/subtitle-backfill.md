@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:31:54.875418+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:31:58.345995+00:00
 
 Zkontrolováno videí: 2546. Další stránka kontroly: 0.
 
@@ -419,7 +419,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Děsivé dědictví (2018) 1080p CZ Titulky](https://prehraj.to/desive-dedictvi-2018-1080p-cz-titulky-mkv/1acbfc40673b536b) (ID 30003284) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T16:31:16.017069+00:00 |
 | [Děti kapitána Granta (1936) SD CZ Titulky](https://prehraj.to/deti-kapitana-granta-1936-sd-cz-titulky-mp4/02c885a162875de7) (ID 29630830) | [Sdílej 34699486](https://sdilej.cz/34699486/deti-kapitana-granta-1936-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:17:33.325706+00:00 |
 | [Dům běsů (2023) 1080p CZ Titulky](https://prehraj.to/dum-besu-2023-1080p-cz-titulky-mp4/efbbe4005a9be74f) (ID 30160550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T16:31:16.019587+00:00 |
-| [EPiC: Elvis Presley in Concert (2026) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29319498) | [Sdílej 33941520](https://sdilej.cz/33941520/epic-elvis-presley-in-concert-2026-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-02T15:29:57.151290+00:00 |
+| [EPiC: Elvis Presley in Concert (2026) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29319498) | [Sdílej 33941520](https://sdilej.cz/33941520/epic-elvis-presley-in-concert-2026-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-02T16:31:58.345910+00:00 |
 | [Earth to Echo (2014) SD CZ Titulky](https://prehraj.to/earth-to-echo-2014-sd-cz-titulky-mp4/54f815491411b324) (ID 29721032) | [Sdílej 34738450](https://sdilej.cz/34738450/earth-to-echo-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:50:02.390032+00:00 |
 | [Ebigejl (2019) 1080p CZ Titulky.mp4](https://prehraj.to/ebigejl-2019-1080p-cz-titulky-mp4/b6eeb5696e202457) (ID 29939326) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T16:31:16.015927+00:00 |
 | [Eddington (2025) 1080p CZ Titulky](https://prehraj.to/eddington-2025-1080p-cz-titulky-mkv/fd1541c444495b52) (ID 30557934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T16:31:16.025223+00:00 |
