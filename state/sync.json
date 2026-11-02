@@ -308415,18 +308415,20 @@
           "source_id": "14590919",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-29T17:57:15.241089+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14590919",
+          "target_video_id": "30740614",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-02T19:40:10.529860+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14590919",
         "display_name": "The Dark and the Wicked (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-02T18:40:11.764741+00:00"
-      },
-      "claim": {
-        "worker_id": "695979d883b8458fb22c6158a761da0d-shard-0",
-        "claimed_at": "2026-11-02T19:35:25.096165+00:00",
-        "lease_expires_at": "2026-11-03T01:35:25.096165+00:00",
-        "run_id": "41499959079"
       },
       "previous_target_id": "30740614",
       "prepared": {
@@ -428686,5 +428688,5 @@
       }
     }
   },
-  "updated_at": "2026-11-02T19:35:29.799291+00:00"
+  "updated_at": "2026-11-02T19:40:10.529881+00:00"
 }
