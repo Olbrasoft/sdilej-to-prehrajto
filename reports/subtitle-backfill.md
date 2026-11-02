@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T22:24:45.479756+00:00
+Poslední aktualizace (UTC): 2026-11-02T22:26:16.801728+00:00
 
 Zkontrolováno videí: 2590. Další stránka kontroly: 0.
 
@@ -178,7 +178,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Beirut (2018) SD CZ Titulky](https://prehraj.to/beirut-2018-sd-cz-titulky-avi/13151a44d9ab6960) (ID 30223731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.550237+00:00 |
 | [Bejvalka ze záhrobí (2014) 1080p CZ Titulky](https://prehraj.to/bejvalka-ze-zahrobi-2014-1080p-cz-titulky-mkv/173d2acd46daef4d) (ID 30366736) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.551888+00:00 |
 | [Ben Is Back (2018) 1080p CZ Titulky](https://prehraj.to/ben-is-back-2018-1080p-cz-titulky-mkv/18ba157b68fa8733) (ID 30131400) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.549613+00:00 |
-| [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-26T21:35:25.306770+00:00 |
+| [Bernie (2012) 720p CZ Titulky](https://prehraj.to/bernie-2012-720p-cz-titulky-avi/2f0f784c3c713cd4) (ID 29607411) | [Sdílej 14198247](https://sdilej.cz/14198247/bernie.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-02T22:26:16.801577+00:00 |
 | [Bethany (2017) SD CZ Titulky](https://prehraj.to/bethany-2017-sd-cz-titulky-avi/dc0f7c3661d7a4d5) (ID 29928082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.548175+00:00 |
 | [Betonová past (2019) 1080p CZ Titulky](https://prehraj.to/betonova-past-2019-1080p-cz-titulky-mkv/23c84cd876df10a3) (ID 29089422) | [Sdílej 13193514](https://sdilej.cz/13193514/trauma-center-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:37.956207+00:00 |
 | [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:59:30.599096+00:00 |
