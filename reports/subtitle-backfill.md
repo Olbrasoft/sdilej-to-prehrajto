@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T22:24:31.255337+00:00
+Poslední aktualizace (UTC): 2026-11-02T22:24:45.479756+00:00
 
 Zkontrolováno videí: 2590. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `pending`: 1, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_provenance_missing`: 1022, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 847, `source_provenance_missing`: 1022, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -114,6 +114,7 @@ Kontrol: 51; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ashes in the Snow (2018) SD CZ Titulky](https://prehraj.to/ashes-in-the-snow-2018-sd-cz-titulky-avi/24a1ca39a4e5d88a) (ID 30173308) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.549817+00:00 |
 | [Asi se zblázním (2021) SD CZ Titulky](https://prehraj.to/asi-se-zblaznim-2021-sd-cz-titulky-avi/975d6ac95e668e22) (ID 29219191) | [Sdílej 16134173](https://sdilej.cz/16134173/asi-se-zblaznim-2021-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:43:48.894683+00:00 |
 | [Asi to ukončím (2020) 1080p CZ Titulky](https://prehraj.to/asi-to-ukoncim-2020-1080p-cz-titulky-mp4/30902fc304e68e5d) (ID 30235220) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.550456+00:00 |
+| [Asmodexia (2014) SD CZ Titulky](https://prehraj.to/asmodexia-2014-sd-cz-titulky-avi/619773939104fe48) (ID 30742902) | [Sdílej 35026136](https://sdilej.cz/35026136/asmodexia-horor-2014-sk.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-02T22:24:45.479615+00:00 |
 | [Assassin (2015) SD CZ Titulky](https://prehraj.to/assassin-2015-sd-cz-titulky-avi/2d69b723f1e7a4c3) (ID 30293714) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.551400+00:00 |
 | [Astronautka (2025) 1080p CZ Titulky](https://prehraj.to/astronautka-2025-1080p-cz-titulky-mkv/a079ce28ec7afe28) (ID 30413805) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.553643+00:00 |
 | [Aterrados (2017) 1080p CZ Titulky](https://prehraj.to/aterrados-2017-1080p-cz-titulky-avi/16e4b387bb85239f) (ID 30580909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-02T22:24:28.556674+00:00 |
