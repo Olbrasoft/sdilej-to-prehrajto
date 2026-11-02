@@ -306113,18 +306113,20 @@
           "reason": "Request failed for https://sdilej.cz/34296241/sabotaz-cz-dab-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-29T13:58:18.847599+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34296241",
+          "target_video_id": "30739176",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-02T18:34:48.065259+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34296241",
         "display_name": "Samotář (2008) SD SK Dabing",
         "planned_at": "2026-11-02T17:58:49.588276+00:00"
-      },
-      "claim": {
-        "worker_id": "943b58b29d514e6ea36d40ea0a6cbbb0-shard-0",
-        "claimed_at": "2026-11-02T18:32:07.894341+00:00",
-        "lease_expires_at": "2026-11-03T00:32:07.894341+00:00",
-        "run_id": "41444640012"
       },
       "previous_target_id": "30739176",
       "prepared": {
@@ -428434,5 +428436,5 @@
       }
     }
   },
-  "updated_at": "2026-11-02T18:32:12.891792+00:00"
+  "updated_at": "2026-11-02T18:34:48.065279+00:00"
 }
