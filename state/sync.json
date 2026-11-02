@@ -291687,6 +291687,13 @@
           "reason": "Request failed for https://sdilej.cz/23601671/20-000-mil-pod-morem.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-28T21:18:10.982995+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23601671",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-02T16:54:56.990682+00:00"
         }
       ],
       "last_plan": {
@@ -293251,6 +293258,14 @@
           "target_video_id": "30595222",
           "permanent": false,
           "attempted_at": "2026-10-28T22:35:55.457675+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29472136",
+          "target_video_id": "30595222",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-02T16:56:09.806709+00:00"
         }
       ],
       "last_plan": {
@@ -428387,5 +428402,5 @@
       }
     }
   },
-  "updated_at": "2026-11-02T16:54:32.414300+00:00"
+  "updated_at": "2026-11-02T16:56:09.806727+00:00"
 }
