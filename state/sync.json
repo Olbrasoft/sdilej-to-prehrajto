@@ -311968,6 +311968,13 @@
           "source_id": "29307486",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-29T19:03:48.870525+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29307486",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-02T20:40:20.272585+00:00"
         }
       ],
       "last_plan": {
@@ -311991,6 +311998,14 @@
           "source_id": "32212501",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-29T19:04:09.808226+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32212501",
+          "target_video_id": "30345156",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:41:32.884667+00:00"
         }
       ],
       "last_plan": {
@@ -311998,12 +312013,7 @@
         "display_name": "Elliot: Nejmenší sobík (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-02T19:55:17.730287+00:00"
       },
-      "previous_target_id": "30345156",
-      "prepared": {
-        "target_video_id": "30345156",
-        "size_bytes": 1756421519,
-        "prepared_at": "2026-10-18T23:40:04.148449+00:00"
-      }
+      "previous_target_id": "30345156"
     },
     "32411": {
       "attempts": [
@@ -428954,5 +428964,5 @@
       }
     }
   },
-  "updated_at": "2026-11-02T20:39:56.777262+00:00"
+  "updated_at": "2026-11-02T20:41:32.884705+00:00"
 }
