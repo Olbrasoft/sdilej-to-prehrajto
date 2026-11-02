@@ -311272,18 +311272,20 @@
           "source_id": "34086281",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-29T19:00:45.119940+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34086281",
+          "target_video_id": "30741257",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-02T20:35:00.405179+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34086281",
         "display_name": "The Huntsman (2026) 1080p CZ Titulky",
         "planned_at": "2026-11-02T19:55:15.695815+00:00"
-      },
-      "claim": {
-        "worker_id": "660269085172499c9074cf18fe690cf2-shard-0",
-        "claimed_at": "2026-11-02T20:26:28.036028+00:00",
-        "lease_expires_at": "2026-11-03T02:26:28.036028+00:00",
-        "run_id": "41499959079"
       },
       "previous_target_id": "30741257",
       "prepared": {
@@ -428920,5 +428922,5 @@
       }
     }
   },
-  "updated_at": "2026-11-02T20:26:31.868472+00:00"
+  "updated_at": "2026-11-02T20:35:00.405199+00:00"
 }
