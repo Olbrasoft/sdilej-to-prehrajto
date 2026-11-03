@@ -354497,13 +354497,6 @@
     "9308": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30548805",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T17:50:54.560507+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30548805",
           "reason": "Request failed for https://sdilej.cz/30548805/sniper-the-last-stand-2025-cz-titulky-v-obraze.mp4 (HTTP None)",
@@ -354516,18 +354509,19 @@
           "source_id": "30548805",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:53:49.700988+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30548805",
+          "target_video_id": "30773054",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:13:15.295292+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30548805",
         "display_name": "Odstřelovač - Poslední vzdor (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-03T20:44:26.323344+00:00"
-      },
-      "claim": {
-        "worker_id": "eb149a0c18344057b1d1c484134402c0-shard-0",
-        "claimed_at": "2026-11-03T21:07:17.864451+00:00",
-        "lease_expires_at": "2026-11-04T03:07:17.864451+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30773054",
       "prepared": {
@@ -429370,5 +429364,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:07:22.612203+00:00"
+  "updated_at": "2026-11-03T21:13:15.295313+00:00"
 }
