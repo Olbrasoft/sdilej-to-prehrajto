@@ -377559,13 +377559,6 @@
     "30934": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "19683489",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-02T19:59:21.732381+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "19683489",
           "reason": "Request failed for https://sdilej.cz/19683489/katie-fforde-probuzeni-polibkem-romant.srn.2019.tvrip.cz.mkv (HTTP None)",
@@ -377578,6 +377571,13 @@
           "target_video_id": "30660014",
           "permanent": false,
           "attempted_at": "2026-10-31T07:41:54.522224+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19683489",
+          "target_video_id": "30660014",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:11:40.075256+00:00"
         }
       ],
       "last_plan": {
@@ -377900,16 +377900,10 @@
           "attempted_at": "2026-10-31T07:50:22.892013+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24113243",
-        "display_name": "Bestie (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T17:10:54.344229+00:00"
-      },
       "previous_target_id": "30660126",
-      "prepared": {
+      "upload": {
         "target_video_id": "30660126",
-        "size_bytes": 2005536595,
-        "prepared_at": "2026-10-31T07:42:16.591733+00:00"
+        "uploaded_at": "2026-11-03T17:11:41.520655+00:00"
       }
     },
     "11677": {
@@ -429547,5 +429541,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T17:11:32.673835+00:00"
+  "updated_at": "2026-11-03T17:11:41.520678+00:00"
 }
