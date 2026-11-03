@@ -287790,13 +287790,6 @@
     "5808": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29303478",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-04T18:42:10.888736+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29303478",
           "target_video_id": "30484661",
@@ -287810,6 +287803,14 @@
           "target_video_id": "30484661",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-10-31T17:57:08.285862+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29303478",
+          "target_video_id": "30484661",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:47:23.843246+00:00"
         }
       ],
       "last_plan": {
@@ -287817,12 +287818,7 @@
         "display_name": "Kouzelná Beruška a Černý kocour ve filmu (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:44:43.490916+00:00"
       },
-      "previous_target_id": "30484661",
-      "prepared": {
-        "target_video_id": "30484661",
-        "size_bytes": 2521420224,
-        "prepared_at": "2026-10-24T18:13:18.365992+00:00"
-      }
+      "previous_target_id": "30484661"
     },
     "11866": {
       "attempts": [
@@ -429363,5 +429359,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T22:47:16.915641+00:00"
+  "updated_at": "2026-11-03T22:47:23.843265+00:00"
 }
