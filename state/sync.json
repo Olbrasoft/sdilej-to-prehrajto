@@ -366815,13 +366815,6 @@
     "7853": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32778166",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T18:49:19.734771+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32778166",
           "reason": "Request failed for https://sdilej.cz/32778166/atelier-smrti-the-kill-room-1080p-bluray-x264-dts-en-ac3-cz-2023.mkv (HTTP None)",
@@ -366834,18 +366827,19 @@
           "source_id": "32778166",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:58:41.921733+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32778166",
+          "target_video_id": "30773693",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:47:28.635036+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32778166",
         "display_name": "Ateliér smrti (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:14:13.442872+00:00"
-      },
-      "claim": {
-        "worker_id": "81eb9aa3a3f443649c8ae2a13966939a-shard-0",
-        "claimed_at": "2026-11-03T21:43:23.656442+00:00",
-        "lease_expires_at": "2026-11-04T03:43:23.656442+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30773693",
       "prepared": {
@@ -429365,5 +429359,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:43:27.721481+00:00"
+  "updated_at": "2026-11-03T21:47:28.635056+00:00"
 }
