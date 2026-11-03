@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T22:33:36.641594+00:00
+Poslední aktualizace (UTC): 2026-11-03T22:33:43.393934+00:00
 
 Zkontrolováno videí: 2670. Další stránka kontroly: 0.
 
@@ -246,7 +246,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Brestská pevnost (2010) 720p CZ Titulky](https://prehraj.to/brestska-pevnost-2010-720p-cz-titulky-avi/8eb183c5b0821a97) (ID 30103403) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-03T22:33:33.850033+00:00 |
 | [Brian Banks (2018) SD CZ Titulky](https://prehraj.to/brian-banks-2018-sd-cz-titulky-avi/a24a7f611603d7d6) (ID 29560923) | [Sdílej 14043585](https://sdilej.cz/14043585/brian.banks.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:56:47.280635+00:00 |
 | [Brimstone (2016) 1080p CZ Titulky](https://prehraj.to/brimstone-2016-1080p-cz-titulky-mkv/2956b0c605fba62a) (ID 29428108) | [Sdílej 30615192](https://sdilej.cz/30615192/brimstone.2016.1080p.web-dl.x264-fgt-en-dub-sk-subtitles.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:32.368764+00:00 |
-| [Brimstone Incorporated (2021) 1080p CZ Titulky](https://prehraj.to/brimstone-incorporated-2021-1080p-cz-titulky-mp4/d56cf1f00031bc6e) (ID 30572883) | [Sdílej 34773042](https://sdilej.cz/34773042/brimstone-incorporated-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-27T22:25:19.466781+00:00 |
+| [Brimstone Incorporated (2021) 1080p CZ Titulky](https://prehraj.to/brimstone-incorporated-2021-1080p-cz-titulky-mp4/d56cf1f00031bc6e) (ID 30572883) | [Sdílej 34773042](https://sdilej.cz/34773042/brimstone-incorporated-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-03T22:33:43.393820+00:00 |
 | [Broken Contract (2018) SD CZ Titulky](https://prehraj.to/broken-contract-2018-sd-cz-titulky-avi/49f2ef4135a66748) (ID 30191328) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-03T22:33:33.851346+00:00 |
 | [Bros Before Hos (2013) SD CZ Titulky](https://prehraj.to/bros-before-hos-2013-sd-cz-titulky-mp4/9e9bcbc8f6370168) (ID 30242923) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-03T22:33:33.852122+00:00 |
 | [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:31:32.455931+00:00 |
