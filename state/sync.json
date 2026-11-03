@@ -376122,13 +376122,6 @@
     "20536": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "15082640",
-          "reason": "Request failed for https://sdilej.cz/15082640/12.rounds.3.lockdown.2015.720p.bluray.x264-x0r.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-03T01:31:24.907217+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "15082640",
@@ -376141,18 +376134,20 @@
           "source_id": "15082640",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:03:27.944996+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "15082640",
+          "target_video_id": "30772835",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T20:55:56.894201+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15082640",
         "display_name": "12 Rounds 3: Lockdown (2015) 720p CZ Titulky",
         "planned_at": "2026-11-03T20:44:15.763725+00:00"
-      },
-      "claim": {
-        "worker_id": "eb149a0c18344057b1d1c484134402c0-shard-0",
-        "claimed_at": "2026-11-03T20:50:40.620121+00:00",
-        "lease_expires_at": "2026-11-04T02:50:40.620121+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30772835",
       "prepared": {
@@ -429334,5 +429329,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T20:51:03.557710+00:00"
+  "updated_at": "2026-11-03T20:55:56.894223+00:00"
 }
