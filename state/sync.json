@@ -381462,13 +381462,6 @@
     "7725": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35064567",
-          "reason": "Request failed for https://sdilej.cz/35064567/ochrance-2005-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-02T23:05:04.216181+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35064567",
@@ -381481,6 +381474,14 @@
           "target_video_id": "30669629",
           "permanent": false,
           "attempted_at": "2026-10-31T14:52:17.645542+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35064567",
+          "target_video_id": "30669629",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T18:55:19.631984+00:00"
         }
       ],
       "last_plan": {
@@ -429476,5 +429477,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T18:53:57.293823+00:00"
+  "updated_at": "2026-11-03T18:55:19.632008+00:00"
 }
