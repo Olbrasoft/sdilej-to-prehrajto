@@ -354901,13 +354901,6 @@
     "12823": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30777294",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T17:52:16.587225+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30777294",
           "reason": "Request failed for https://sdilej.cz/30777294/falesna-hra-2000-1080p-cz.mkv (HTTP None)",
@@ -354920,18 +354913,19 @@
           "source_id": "30777294",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:55:13.198224+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30777294",
+          "target_video_id": "30773241",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:25:17.244343+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30777294",
         "display_name": "Falešná hra (2000) 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:14:10.866688+00:00"
-      },
-      "claim": {
-        "worker_id": "81eb9aa3a3f443649c8ae2a13966939a-shard-0",
-        "claimed_at": "2026-11-03T21:20:17.353179+00:00",
-        "lease_expires_at": "2026-11-04T03:20:17.353179+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30773241",
       "prepared": {
@@ -429377,5 +429371,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:20:21.825502+00:00"
+  "updated_at": "2026-11-03T21:25:17.244362+00:00"
 }
