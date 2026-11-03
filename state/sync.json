@@ -353940,13 +353940,6 @@
     "7193": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35179793",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T17:48:51.566889+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "35179793",
           "reason": "Request failed for https://sdilej.cz/35179793/krakenteena-ruby-2023-cz.mkv (HTTP None)",
@@ -353959,6 +353952,14 @@
           "target_video_id": "30672989",
           "permanent": false,
           "attempted_at": "2026-10-31T16:42:24.157781+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "35179793",
+          "target_video_id": "30672989",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:06:51.883371+00:00"
         }
       ],
       "last_plan": {
@@ -353966,12 +353967,7 @@
         "display_name": "Krakenteena Ruby (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-03T20:44:25.046627+00:00"
       },
-      "previous_target_id": "30672989",
-      "prepared": {
-        "target_video_id": "30672989",
-        "size_bytes": 1938824291,
-        "prepared_at": "2026-10-31T16:39:48.600675+00:00"
-      }
+      "previous_target_id": "30672989"
     },
     "34158": {
       "attempts": []
@@ -429374,5 +429370,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:06:43.844781+00:00"
+  "updated_at": "2026-11-03T21:06:51.883394+00:00"
 }
