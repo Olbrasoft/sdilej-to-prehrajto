@@ -200441,15 +200441,6 @@
     "16210": {
       "attempts": [
         {
-          "status": "no_acceptable_source",
-          "permanent": false,
-          "discovery_complete": true,
-          "search_response_validated": true,
-          "selection_policy": "compact-quality-v13",
-          "reason": "No identity-, language-, and quality-verified source",
-          "attempted_at": "2026-10-28T13:22:10.054408+00:00"
-        },
-        {
           "status": "source_deep_scan_needed",
           "permanent": true,
           "selection_policy": "compact-quality-v13",
@@ -200464,6 +200455,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-01T01:16:48.578607+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "Candidate limit reached before verification completed",
+          "attempted_at": "2026-11-03T08:31:41.649358+00:00"
         }
       ]
     },
@@ -613920,13 +613918,6 @@
     "35404": {
       "attempts": [
         {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Unrecognized search response; refusing empty result; title='Vampyros Lesbos 1971 online | Sdilej.cz'; bytes=189492; notice=Kvalita Vše 4K 1080p+ 720p+",
-          "attempted_at": "2026-10-27T17:17:15.778453+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -613943,6 +613934,15 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-11-01T01:16:07.006985+00:00"
+        },
+        {
+          "status": "no_acceptable_source",
+          "permanent": false,
+          "discovery_complete": true,
+          "search_response_validated": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "No identity-, language-, and quality-verified source",
+          "attempted_at": "2026-11-03T08:31:05.964851+00:00"
         }
       ]
     },
@@ -722708,5 +722708,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-03T08:27:40.968674+00:00"
+  "updated_at": "2026-11-03T08:31:41.649375+00:00"
 }
