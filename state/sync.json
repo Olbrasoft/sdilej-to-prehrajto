@@ -345674,13 +345674,6 @@
     "21056": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "13770445",
-          "reason": "Request failed for https://sdilej.cz/13770445/une-fille-facile-2019-preums.cz-tit.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-02T23:48:53.827612+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "13770445",
@@ -345693,18 +345686,19 @@
           "source_id": "13770445",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T15:05:44.827965+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13770445",
+          "target_video_id": "30771551",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:27:39.437299+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13770445",
         "display_name": "Bezstarostná dívka (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-03T19:06:08.718404+00:00"
-      },
-      "claim": {
-        "worker_id": "278357006fcd449c96d830adb63c1e47-shard-0",
-        "claimed_at": "2026-11-03T19:21:17.562545+00:00",
-        "lease_expires_at": "2026-11-04T01:21:17.562545+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30771551",
       "prepared": {
@@ -429417,5 +429411,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T19:21:20.897945+00:00"
+  "updated_at": "2026-11-03T19:27:39.437318+00:00"
 }
