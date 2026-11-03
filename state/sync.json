@@ -382222,13 +382222,6 @@
     "14115": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32926331",
-          "reason": "Request failed for https://sdilej.cz/32926331/eden-log-jeskyne-smrti-eden-log-2007-en-cz-dabing-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-02T23:12:25.059170+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32926331",
@@ -382241,6 +382234,14 @@
           "target_video_id": "30670606",
           "permanent": false,
           "attempted_at": "2026-10-31T14:57:11.667003+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32926331",
+          "target_video_id": "30670606",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T18:56:46.500628+00:00"
         }
       ],
       "last_plan": {
@@ -429477,5 +429478,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T18:55:19.632008+00:00"
+  "updated_at": "2026-11-03T18:56:46.500649+00:00"
 }
