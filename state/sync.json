@@ -370633,13 +370633,6 @@
     "7300": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35007895",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T19:44:08.601563+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "35007895",
           "target_video_id": "30472251",
@@ -370652,6 +370645,14 @@
           "source_id": "35007895",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T17:02:31.520988+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "35007895",
+          "target_video_id": "30472251",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:05:14.181448+00:00"
         }
       ],
       "last_plan": {
@@ -370659,12 +370660,7 @@
         "display_name": "Řbitov zviřátek (2019) 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:14:16.304348+00:00"
       },
-      "previous_target_id": "30472251",
-      "prepared": {
-        "target_video_id": "30472251",
-        "size_bytes": 2408615036,
-        "prepared_at": "2026-10-24T04:02:15.822223+00:00"
-      }
+      "previous_target_id": "30472251"
     },
     "7122": {
       "attempts": [],
@@ -429353,5 +429349,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T22:05:05.756883+00:00"
+  "updated_at": "2026-11-03T22:05:14.181473+00:00"
 }
