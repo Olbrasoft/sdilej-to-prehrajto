@@ -369858,13 +369858,6 @@
     "16364": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31783478",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T19:42:26.064773+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31783478",
           "reason": "Request failed for https://sdilej.cz/31783478/lookout.2025.vostfr.1080p.web-dl.h264-slay3r.mkv (HTTP None)",
@@ -369877,18 +369870,20 @@
           "source_id": "31783478",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T17:00:47.157086+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31783478",
+          "target_video_id": "30773821",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T22:01:41.163542+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31783478",
         "display_name": "Lookout (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-03T21:14:15.000893+00:00"
-      },
-      "claim": {
-        "worker_id": "81eb9aa3a3f443649c8ae2a13966939a-shard-0",
-        "claimed_at": "2026-11-03T21:54:43.585515+00:00",
-        "lease_expires_at": "2026-11-04T03:54:43.585515+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30773821",
       "prepared": {
@@ -429373,5 +429368,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:55:06.400898+00:00"
+  "updated_at": "2026-11-03T22:01:41.163559+00:00"
 }
