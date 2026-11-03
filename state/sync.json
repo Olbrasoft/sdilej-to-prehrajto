@@ -391619,13 +391619,6 @@
     "8416": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27999054",
-          "reason": "Request failed for https://sdilej.cz/27999054/i.s.s.2023.1080p.amzn.web-dl.ddp5.1.h.264-flux.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-03T01:42:04.835149+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "27999054",
@@ -391638,6 +391631,13 @@
           "source_id": "27999054",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:05:44.546555+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27999054",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-03T21:00:54.772055+00:00"
         }
       ],
       "last_plan": {
@@ -391978,13 +391978,6 @@
     "15173": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "11856181",
-          "reason": "Request failed for https://sdilej.cz/11856181/sacrifice-2011-cz-dabing-bluray-.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-03T01:46:21.456697+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "11856181",
@@ -391997,6 +391990,13 @@
           "target_video_id": "30672315",
           "permanent": false,
           "attempted_at": "2026-10-31T16:08:36.244002+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11856181",
+          "target_video_id": "30672315",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:02:07.115412+00:00"
         }
       ],
       "last_plan": {
@@ -392064,13 +392064,6 @@
           "source_id": "34851005",
           "target_video_id": "29932385",
           "permanent": false,
-          "attempted_at": "2026-10-03T01:49:23.113940+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34851005",
-          "target_video_id": "29932385",
-          "permanent": false,
           "attempted_at": "2026-10-23T20:20:22.740100+00:00"
         },
         {
@@ -392079,6 +392072,14 @@
           "target_video_id": "29932385",
           "permanent": false,
           "attempted_at": "2026-10-31T16:08:45.358156+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34851005",
+          "target_video_id": "29932385",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T21:03:19.365115+00:00"
         }
       ],
       "last_plan": {
@@ -429326,5 +429327,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:00:29.467231+00:00"
+  "updated_at": "2026-11-03T21:03:19.365137+00:00"
 }
