@@ -411747,13 +411747,6 @@
           "permanent": false,
           "source_id": "34694599",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-01T18:47:08.674373+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34694599",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-22T20:49:31.980544+00:00"
         },
         {
@@ -411762,18 +411755,19 @@
           "reason": "Request failed for https://sdilej.cz/34694599/kral-skorpion-cesta-za-moci-2015-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T03:42:14.506876+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34694599",
+          "target_video_id": "30768382",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:53:09.988979+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34694599",
         "display_name": "Král Škorpion: Cesta za mocí (2015) 720p CZ Dabing",
         "planned_at": "2026-11-03T16:48:01.745226+00:00"
-      },
-      "claim": {
-        "worker_id": "bd034cb4b1ae4696a51c9a6978308ba9-shard-0",
-        "claimed_at": "2026-11-03T16:49:04.896131+00:00",
-        "lease_expires_at": "2026-11-03T22:49:04.896131+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30768382",
       "prepared": {
@@ -429626,5 +429620,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T16:49:09.134896+00:00"
+  "updated_at": "2026-11-03T16:53:09.989001+00:00"
 }
