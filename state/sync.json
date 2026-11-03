@@ -385329,13 +385329,6 @@
     "11879": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31289529",
-          "reason": "Request failed for https://sdilej.cz/31289529/megalodon-cerny-demon-cz-dabing-1080p-.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-03T00:40:18.437139+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31289529",
           "target_video_id": "30465113",
@@ -385348,6 +385341,13 @@
           "source_id": "31289529",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T15:44:58.215775+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31289529",
+          "target_video_id": "30465113",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:19:10.862660+00:00"
         }
       ],
       "last_plan": {
@@ -429357,5 +429357,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T20:18:53.991188+00:00"
+  "updated_at": "2026-11-03T20:19:10.862680+00:00"
 }
