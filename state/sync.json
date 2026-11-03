@@ -274323,13 +274323,6 @@
     "5022": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "26942586",
-          "target_video_id": "29931496",
-          "permanent": false,
-          "attempted_at": "2026-10-03T00:58:44.823727+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26942586",
@@ -274342,6 +274335,14 @@
           "source_id": "26942586",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T15:46:48.125376+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "26942586",
+          "target_video_id": "29931496",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:20:39.265661+00:00"
         }
       ],
       "last_plan": {
@@ -274349,12 +274350,7 @@
         "display_name": "Tomiris (2019) 1080p SK Dabing",
         "planned_at": "2026-11-03T19:06:13.448497+00:00"
       },
-      "previous_target_id": "29931496",
-      "prepared": {
-        "target_video_id": "29931496",
-        "size_bytes": 5256381459,
-        "prepared_at": "2026-10-03T00:50:22.494634+00:00"
-      }
+      "previous_target_id": "29931496"
     },
     "5009": {
       "attempts": [
@@ -429339,5 +429335,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T20:20:22.611209+00:00"
+  "updated_at": "2026-11-03T20:20:39.265684+00:00"
 }
