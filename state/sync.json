@@ -370449,13 +370449,6 @@
     "9192": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34482252",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T19:43:48.091274+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34482252",
           "target_video_id": "30472222",
@@ -370468,6 +370461,14 @@
           "source_id": "34482252",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T17:02:10.653005+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34482252",
+          "target_video_id": "30472222",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:05:05.756858+00:00"
         }
       ],
       "last_plan": {
@@ -370475,12 +370476,7 @@
         "display_name": "Zámečník (2023) SD CZ Dabing",
         "planned_at": "2026-11-03T21:14:16.040828+00:00"
       },
-      "previous_target_id": "30472222",
-      "prepared": {
-        "target_video_id": "30472222",
-        "size_bytes": 1143746939,
-        "prepared_at": "2026-10-24T03:59:46.273108+00:00"
-      }
+      "previous_target_id": "30472222"
     },
     "14694": {
       "attempts": [
@@ -429357,5 +429353,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T22:04:46.931924+00:00"
+  "updated_at": "2026-11-03T22:05:05.756883+00:00"
 }
