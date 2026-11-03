@@ -374700,13 +374700,6 @@
     "7809": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30548022",
-          "reason": "Request failed for https://sdilej.cz/30548022/sympatie-k-dablu-sympathy-for-the-devil-1080p-bluray-x264-dts-en-eac3-cz-2023.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-02T22:47:46.595190+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "30548022",
@@ -374719,6 +374712,13 @@
           "reason": "Request failed for https://sdilej.cz/30548022/sympatie-k-dablu-sympathy-for-the-devil-1080p-bluray-x264-dts-en-eac3-cz-2023.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T14:24:37.620151+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30548022",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-03T18:51:20.387358+00:00"
         }
       ],
       "last_plan": {
@@ -375073,13 +375073,6 @@
     "8700": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "32704030",
-          "target_video_id": "29930058",
-          "permanent": false,
-          "attempted_at": "2026-10-02T22:58:38.477658+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32704030",
@@ -375092,6 +375085,14 @@
           "target_video_id": "29930058",
           "permanent": false,
           "attempted_at": "2026-10-31T14:25:16.956363+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32704030",
+          "target_video_id": "29930058",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T18:52:32.736318+00:00"
         }
       ],
       "last_plan": {
@@ -429474,5 +429475,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T18:50:47.546072+00:00"
+  "updated_at": "2026-11-03T18:52:32.736339+00:00"
 }
