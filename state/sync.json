@@ -368201,13 +368201,6 @@
     "20225": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "5730781",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T18:50:41.695633+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "5730781",
           "reason": "Request failed for https://sdilej.cz/5730781/girlhouse.2014.brrip.xvid.ac3-slovenske-titulky.mkv (HTTP None)",
@@ -368220,18 +368213,20 @@
           "source_id": "5730781",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T17:00:05.414560+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "5730781",
+          "target_video_id": "30773758",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T21:53:19.702118+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5730781",
         "display_name": "Girlhouse (2014) SD CZ Titulky",
         "planned_at": "2026-11-03T21:14:14.479854+00:00"
-      },
-      "claim": {
-        "worker_id": "81eb9aa3a3f443649c8ae2a13966939a-shard-0",
-        "claimed_at": "2026-11-03T21:49:38.397313+00:00",
-        "lease_expires_at": "2026-11-04T03:49:38.397313+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30773758",
       "prepared": {
@@ -429365,5 +429360,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:50:01.556211+00:00"
+  "updated_at": "2026-11-03T21:53:19.702142+00:00"
 }
