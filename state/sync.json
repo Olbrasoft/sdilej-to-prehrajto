@@ -369735,13 +369735,6 @@
     "7928": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28474553",
-          "reason": "Request failed for https://sdilej.cz/28474553/bigbug-2022-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-03T01:16:28.092482+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "28474553",
@@ -369754,18 +369747,20 @@
           "source_id": "28474553",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T15:58:29.433814+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28474553",
+          "target_video_id": "30772486",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-03T20:36:31.839896+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28474553",
         "display_name": "Bigbug (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-03T19:06:16.488729+00:00"
-      },
-      "claim": {
-        "worker_id": "278357006fcd449c96d830adb63c1e47-shard-0",
-        "claimed_at": "2026-11-03T20:30:21.921415+00:00",
-        "lease_expires_at": "2026-11-04T02:30:21.921415+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30772486",
       "prepared": {
@@ -429324,5 +429319,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T20:30:25.552227+00:00"
+  "updated_at": "2026-11-03T20:36:31.839918+00:00"
 }
