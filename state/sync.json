@@ -286796,13 +286796,6 @@
     "20819": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34699143",
-          "reason": "Request failed for https://sdilej.cz/34699143/puvod-neznamy-2020-cz.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-04T17:51:02.429807+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34699143",
@@ -286815,18 +286808,19 @@
           "source_id": "34699143",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T17:43:59.119889+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34699143",
+          "target_video_id": "30774302",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:25:02.556561+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34699143",
         "display_name": "Původ neznámý (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-03T22:08:32.659470+00:00"
-      },
-      "claim": {
-        "worker_id": "a85db1149ef445779ebd5909756eab79-shard-0",
-        "claimed_at": "2026-11-03T22:22:57.955973+00:00",
-        "lease_expires_at": "2026-11-04T04:22:57.955973+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30774302",
       "prepared": {
@@ -429372,5 +429366,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T22:23:01.731203+00:00"
+  "updated_at": "2026-11-03T22:25:02.556581+00:00"
 }
