@@ -356838,13 +356838,6 @@
     "9066": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22699490",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-03T18:03:23.016056+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "22699490",
           "reason": "Request failed for https://sdilej.cz/22699490/vlna.veder.heatwave.2022.cz.dabing.mkv (HTTP None)",
@@ -356857,18 +356850,19 @@
           "source_id": "22699490",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:57:39.304082+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22699490",
+          "target_video_id": "30773560",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:38:52.932699+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22699490",
         "display_name": "Vlna veder (2022) SD CZ Dabing",
         "planned_at": "2026-11-03T21:14:12.665159+00:00"
-      },
-      "claim": {
-        "worker_id": "81eb9aa3a3f443649c8ae2a13966939a-shard-0",
-        "claimed_at": "2026-11-03T21:35:48.179366+00:00",
-        "lease_expires_at": "2026-11-04T03:35:48.179366+00:00",
-        "run_id": "41673364935"
       },
       "previous_target_id": "30773560",
       "prepared": {
@@ -429371,5 +429365,5 @@
       }
     }
   },
-  "updated_at": "2026-11-03T21:35:52.153364+00:00"
+  "updated_at": "2026-11-03T21:38:52.932720+00:00"
 }
