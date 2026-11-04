@@ -211215,13 +211215,6 @@
           "permanent": false,
           "source_id": "33507609",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T17:43:55.942304+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33507609",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T18:04:27.699805+00:00"
         },
         {
@@ -211230,6 +211223,14 @@
           "source_id": "33507609",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:39:32.583666+00:00"
+        },
+        {
+          "status": "upload_failed",
+          "source_id": "33507609",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30785821",
+          "attempted_at": "2026-11-04T13:05:30.133979+00:00"
         }
       ],
       "last_plan": {
@@ -211237,18 +211238,7 @@
         "display_name": "Zoufalé ženy dělají zoufalé věci (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:32:33.770193+00:00"
       },
-      "claim": {
-        "worker_id": "5a46a381f44e4cf6a09b179ca28857db-shard-0",
-        "claimed_at": "2026-11-04T12:52:58.110337+00:00",
-        "lease_expires_at": "2026-11-04T18:52:58.110337+00:00",
-        "run_id": "41806766517"
-      },
-      "previous_target_id": "30785821",
-      "prepared": {
-        "target_video_id": "30785821",
-        "size_bytes": 3732703205,
-        "prepared_at": "2026-11-04T12:53:02.509776+00:00"
-      }
+      "previous_target_id": "30785821"
     },
     "35216": {
       "attempts": []
@@ -428034,5 +428024,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T12:53:02.509792+00:00"
+  "updated_at": "2026-11-04T13:05:30.133999+00:00"
 }
