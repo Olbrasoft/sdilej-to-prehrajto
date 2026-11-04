@@ -91449,13 +91449,6 @@
     "2637": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32690013",
-          "reason": "Request failed for https://sdilej.cz/32690013/spolu-to-dame-2017-drama-komedie-nemecko-czdab-1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T01:58:45.555813+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32690013",
@@ -91468,18 +91461,19 @@
           "source_id": "32690013",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T22:04:50.422595+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32690013",
+          "target_video_id": "30781503",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:29:27.134749+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32690013",
         "display_name": "Spolu to dáme (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:14:53.376922+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T07:27:09.551170+00:00",
-        "lease_expires_at": "2026-11-04T13:27:09.551170+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781503",
       "prepared": {
@@ -428506,5 +428500,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:27:13.256815+00:00"
+  "updated_at": "2026-11-04T07:29:27.134764+00:00"
 }
