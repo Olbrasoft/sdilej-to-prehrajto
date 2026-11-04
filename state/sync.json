@@ -306258,13 +306258,6 @@
           "permanent": false,
           "source_id": "34563699",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-18T18:38:48.167885+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34563699",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-29T17:56:13.079622+00:00"
         },
         {
@@ -306273,6 +306266,14 @@
           "target_video_id": "30740364",
           "permanent": false,
           "attempted_at": "2026-11-02T19:26:43.937053+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34563699",
+          "target_video_id": "30740364",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T22:35:12.642232+00:00"
         }
       ],
       "last_plan": {
@@ -306280,12 +306281,7 @@
         "display_name": "Láska na první polibek (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:21:51.491630+00:00"
       },
-      "previous_target_id": "30740364",
-      "prepared": {
-        "target_video_id": "30740364",
-        "size_bytes": 2091423678,
-        "prepared_at": "2026-11-02T19:24:05.608522+00:00"
-      }
+      "previous_target_id": "30740364"
     },
     "6295": {
       "attempts": [
@@ -427317,5 +427313,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T22:35:06.527064+00:00"
+  "updated_at": "2026-11-04T22:35:12.642252+00:00"
 }
