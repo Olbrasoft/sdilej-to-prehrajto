@@ -179471,13 +179471,6 @@
     "8713": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22108149",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-10T18:53:02.056080+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "22108149",
           "reason": "Request failed for https://sdilej.cz/22108149/jsme-v-tom-spolu-prva-cast-with-in-volume-1-cz-1080p-2021-malasorte.mkv (HTTP None)",
@@ -179490,18 +179483,19 @@
           "source_id": "22108149",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T13:49:04.228735+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22108149",
+          "target_video_id": "30782276",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:34:07.102088+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22108149",
         "display_name": "Jsme v tom spolu (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-04T08:06:31.126759+00:00"
-      },
-      "claim": {
-        "worker_id": "9970fa9009d24cd58b2ee088bae86969-shard-0",
-        "claimed_at": "2026-11-04T08:28:36.348309+00:00",
-        "lease_expires_at": "2026-11-04T14:28:36.348309+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30782276",
       "prepared": {
@@ -428278,5 +428272,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T08:28:39.970621+00:00"
+  "updated_at": "2026-11-04T08:34:07.102103+00:00"
 }
