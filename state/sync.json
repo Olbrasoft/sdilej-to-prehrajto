@@ -291578,13 +291578,6 @@
     "18887": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "17096275",
-          "reason": "Request failed for https://sdilej.cz/17096275/the-wall.2017.1080p.web-dl.dd5.1.h264.cz.tit.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-04T19:57:49.742623+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "17096275",
@@ -291597,18 +291590,19 @@
           "source_id": "17096275",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:45:26.999704+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17096275",
+          "target_video_id": "30775554",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:13:49.638291+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17096275",
         "display_name": "The Wall (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-04T00:02:57.197500+00:00"
-      },
-      "claim": {
-        "worker_id": "3d5242429ad4440f96553a876d5a7212-shard-0",
-        "claimed_at": "2026-11-04T00:09:32.403055+00:00",
-        "lease_expires_at": "2026-11-04T06:09:32.403055+00:00",
-        "run_id": "41729860614"
       },
       "previous_target_id": "30775554",
       "prepared": {
@@ -429397,5 +429391,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T00:09:36.175724+00:00"
+  "updated_at": "2026-11-04T00:13:49.638310+00:00"
 }
