@@ -208203,13 +208203,6 @@
     "3748": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30864012",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T17:01:00.732695+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30864012",
           "target_video_id": "30566423",
@@ -208223,6 +208216,14 @@
           "target_video_id": "30566423",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-01T18:39:28.828690+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "30864012",
+          "target_video_id": "30566423",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:31:46.812900+00:00"
         }
       ],
       "last_plan": {
@@ -208230,12 +208231,7 @@
         "display_name": "Boratův navázaný telefilm (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:10:59.316282+00:00"
       },
-      "previous_target_id": "30566423",
-      "prepared": {
-        "target_video_id": "30566423",
-        "size_bytes": 2263529589,
-        "prepared_at": "2026-10-27T14:35:46.465974+00:00"
-      }
+      "previous_target_id": "30566423"
     },
     "22534": {
       "attempts": [
@@ -428132,5 +428128,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T11:31:40.269297+00:00"
+  "updated_at": "2026-11-04T11:31:46.812918+00:00"
 }
