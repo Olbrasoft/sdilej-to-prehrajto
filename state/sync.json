@@ -82417,13 +82417,6 @@
     "35547": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34445359",
-          "reason": "Request failed for https://sdilej.cz/34445359/grave-encounters.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T19:28:50.582614+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34445359",
@@ -82436,18 +82429,19 @@
           "source_id": "34445359",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:03:32.604788+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34445359",
+          "target_video_id": "30779368",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:54:10.553804+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34445359",
         "display_name": "Grave (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-04T04:24:30.195603+00:00"
-      },
-      "claim": {
-        "worker_id": "5956a904a2574acfa57e97135d237f89-shard-0",
-        "claimed_at": "2026-11-04T04:46:37.641816+00:00",
-        "lease_expires_at": "2026-11-04T10:46:37.641816+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30779368",
       "prepared": {
@@ -428677,5 +428671,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T04:46:41.199048+00:00"
+  "updated_at": "2026-11-04T04:54:10.553821+00:00"
 }
