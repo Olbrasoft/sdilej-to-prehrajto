@@ -219696,13 +219696,6 @@
           "permanent": false,
           "source_id": "11176335",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T19:34:07.805888+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11176335",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T21:02:30.274478+00:00"
         },
         {
@@ -219711,6 +219704,13 @@
           "target_video_id": "30716504",
           "permanent": false,
           "attempted_at": "2026-11-02T04:29:45.048617+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11176335",
+          "target_video_id": "30716504",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:14:10.985907+00:00"
         }
       ],
       "last_plan": {
@@ -219752,16 +219752,10 @@
           "attempted_at": "2026-11-02T04:31:25.408026+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34697438",
-        "display_name": "Rodinné zájmy (2011) SD CZ Dabing",
-        "planned_at": "2026-11-04T18:13:43.716741+00:00"
-      },
       "previous_target_id": "30716547",
-      "prepared": {
+      "upload": {
         "target_video_id": "30716547",
-        "size_bytes": 1011208857,
-        "prepared_at": "2026-11-02T04:29:54.781532+00:00"
+        "uploaded_at": "2026-11-04T18:14:13.151580+00:00"
       }
     },
     "12039": {
@@ -427939,5 +427933,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:14:03.953886+00:00"
+  "updated_at": "2026-11-04T18:14:13.151595+00:00"
 }
