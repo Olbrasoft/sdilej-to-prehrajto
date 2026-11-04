@@ -196860,13 +196860,6 @@
     "10814": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25236826",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-11T20:56:20.001282+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25236826",
           "reason": "Request failed for https://sdilej.cz/25236826/cartouche-1962.-cz.mkv (HTTP None)",
@@ -196879,18 +196872,19 @@
           "reason": "Request failed for https://sdilej.cz/25236826/cartouche-1962.-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-01T17:18:31.178453+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25236826",
+          "target_video_id": "30784353",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:14:52.518359+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25236826",
         "display_name": "Cartouche (1962) 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:10:42.936948+00:00"
-      },
-      "claim": {
-        "worker_id": "e23fa04b027f4d13a13c66a281ab1028-shard-0",
-        "claimed_at": "2026-11-04T11:11:01.138392+00:00",
-        "lease_expires_at": "2026-11-04T17:11:01.138392+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30784353",
       "prepared": {
@@ -428220,5 +428214,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T11:11:06.135862+00:00"
+  "updated_at": "2026-11-04T11:14:52.518378+00:00"
 }
