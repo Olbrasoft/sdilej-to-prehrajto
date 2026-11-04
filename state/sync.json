@@ -142857,13 +142857,6 @@
     "17001": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34695488",
-          "reason": "Request failed for https://sdilej.cz/34695488/laska-na-cestach-2017-cz-dabing.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T13:01:10.883939+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34695488",
@@ -142876,18 +142869,19 @@
           "reason": "Request failed for https://sdilej.cz/34695488/laska-na-cestach-2017-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T23:47:47.468359+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34695488",
+          "target_video_id": "30781733",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:46:36.262714+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34695488",
         "display_name": "Láska na cestách (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:39:04.866540+00:00"
-      },
-      "claim": {
-        "worker_id": "e2155c05ce2b4c8a9a95f6c66af9d005-shard-0",
-        "claimed_at": "2026-11-04T07:45:04.979376+00:00",
-        "lease_expires_at": "2026-11-04T13:45:04.979376+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781733",
       "prepared": {
@@ -428463,5 +428457,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:45:08.448247+00:00"
+  "updated_at": "2026-11-04T07:46:36.262730+00:00"
 }
