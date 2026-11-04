@@ -86185,13 +86185,6 @@
     "11787": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33796289",
-          "reason": "Request failed for https://sdilej.cz/33796289/tucker-clovek-a-jeho-sen-1988-1080p-cz.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T22:32:54.815394+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "33796289",
@@ -86204,18 +86197,19 @@
           "source_id": "33796289",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:53:35.820355+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33796289",
+          "target_video_id": "30780657",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:21:07.112711+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33796289",
         "display_name": "Tucker: Člověk a jeho sen (1988) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:14:41.657304+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T06:18:53.796380+00:00",
-        "lease_expires_at": "2026-11-04T12:18:53.796380+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30780657",
       "prepared": {
@@ -428578,5 +428572,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T06:18:57.438578+00:00"
+  "updated_at": "2026-11-04T06:21:07.112727+00:00"
 }
