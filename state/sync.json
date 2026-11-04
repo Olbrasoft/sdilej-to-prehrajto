@@ -219461,13 +219461,6 @@
           "permanent": false,
           "source_id": "30860133",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T19:32:04.493311+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30860133",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:59:47.545478+00:00"
         },
         {
@@ -219476,6 +219469,14 @@
           "target_video_id": "30715881",
           "permanent": false,
           "attempted_at": "2026-11-02T04:04:54.975506+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "30860133",
+          "target_video_id": "30715881",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:13:06.527932+00:00"
         }
       ],
       "last_plan": {
@@ -219483,12 +219484,7 @@
         "display_name": "Pan Blake k vašim službám! (2023) 1080p SK Dabing",
         "planned_at": "2026-11-04T18:03:31.126248+00:00"
       },
-      "previous_target_id": "30715881",
-      "prepared": {
-        "target_video_id": "30715881",
-        "size_bytes": 2591322159,
-        "prepared_at": "2026-11-02T04:01:06.402853+00:00"
-      }
+      "previous_target_id": "30715881"
     },
     "26026": {
       "attempts": [
@@ -427971,5 +427967,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:12:59.744616+00:00"
+  "updated_at": "2026-11-04T18:13:06.527951+00:00"
 }
