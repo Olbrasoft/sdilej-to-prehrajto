@@ -219840,13 +219840,6 @@
           "permanent": false,
           "source_id": "31561370",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T19:35:09.472368+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31561370",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T21:03:32.998320+00:00"
         },
         {
@@ -219855,6 +219848,14 @@
           "target_video_id": "30716642",
           "permanent": false,
           "attempted_at": "2026-11-02T04:37:42.792768+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31561370",
+          "target_video_id": "30716642",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:14:26.687981+00:00"
         }
       ],
       "last_plan": {
@@ -219862,12 +219863,7 @@
         "display_name": "Suprákovi (2022) 720p CZ Dabing",
         "planned_at": "2026-11-04T18:13:44.507338+00:00"
       },
-      "previous_target_id": "30716642",
-      "prepared": {
-        "target_video_id": "30716642",
-        "size_bytes": 1698944806,
-        "prepared_at": "2026-11-02T04:34:37.823752+00:00"
-      }
+      "previous_target_id": "30716642"
     },
     "16714": {
       "attempts": []
@@ -427927,5 +427923,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:14:19.074919+00:00"
+  "updated_at": "2026-11-04T18:14:26.687999+00:00"
 }
