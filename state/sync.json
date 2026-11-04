@@ -81060,13 +81060,6 @@
     "2531": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31764837",
-          "target_video_id": "30057186",
-          "permanent": false,
-          "attempted_at": "2026-10-06T17:24:25.938952+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "31764837",
@@ -81079,6 +81072,14 @@
           "source_id": "31764837",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:54:31.385869+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31764837",
+          "target_video_id": "30057186",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:22:13.200929+00:00"
         }
       ],
       "last_plan": {
@@ -81086,12 +81087,7 @@
         "display_name": "Wonka (2023) 4K CZ Dabing",
         "planned_at": "2026-11-04T02:24:22.454836+00:00"
       },
-      "previous_target_id": "30057186",
-      "prepared": {
-        "target_video_id": "30057186",
-        "size_bytes": 4410448189,
-        "prepared_at": "2026-10-06T17:12:04.144861+00:00"
-      }
+      "previous_target_id": "30057186"
     },
     "12916": {
       "attempts": [
@@ -428605,5 +428601,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T03:22:06.663030+00:00"
+  "updated_at": "2026-11-04T03:22:13.200947+00:00"
 }
