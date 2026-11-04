@@ -271233,13 +271233,6 @@
     "6066": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "14580925",
-          "target_video_id": "30298878",
-          "permanent": false,
-          "attempted_at": "2026-10-17T05:42:33.436429+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "14580925",
@@ -271252,6 +271245,14 @@
           "target_video_id": "30298878",
           "permanent": false,
           "attempted_at": "2026-11-02T16:11:53.324674+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14580925",
+          "target_video_id": "30298878",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-04T18:31:24.514786+00:00"
         }
       ],
       "last_plan": {
@@ -427455,5 +427456,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:30:04.987380+00:00"
+  "updated_at": "2026-11-04T18:31:24.514804+00:00"
 }
