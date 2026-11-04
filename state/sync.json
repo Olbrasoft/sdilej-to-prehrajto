@@ -182520,13 +182520,6 @@
     "21268": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28709833",
-          "reason": "Request failed for https://sdilej.cz/28709833/plast-a-dyka-1946-cloak-and-dagger-gary-cooper-eng-cz-dab.-eng-ttl..mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-10T19:53:54.791311+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "28709833",
@@ -182539,18 +182532,19 @@
           "source_id": "28709833",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T15:47:58.095328+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28709833",
+          "target_video_id": "30783455",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:04:08.603847+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28709833",
         "display_name": "Plášť a dýka (1946) 720p CZ Dabing",
         "planned_at": "2026-11-04T08:55:37.840406+00:00"
-      },
-      "claim": {
-        "worker_id": "706fd2c4711a4479846254c5ed620ae9-shard-0",
-        "claimed_at": "2026-11-04T09:59:30.486573+00:00",
-        "lease_expires_at": "2026-11-04T15:59:30.486573+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30783455",
       "prepared": {
@@ -428265,5 +428259,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T09:59:33.860785+00:00"
+  "updated_at": "2026-11-04T10:04:08.603862+00:00"
 }
