@@ -81274,13 +81274,6 @@
     "2605": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26079082",
-          "reason": "Request failed for https://sdilej.cz/26079082/love-and-monster-2020-cz-sub-1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T18:23:57.653640+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26079082",
@@ -81293,18 +81286,19 @@
           "source_id": "26079082",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:57:16.817086+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26079082",
+          "target_video_id": "30778393",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:32:46.522280+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26079082",
         "display_name": "Láska a příšery (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-04T02:24:24.108891+00:00"
-      },
-      "claim": {
-        "worker_id": "c668317be6084d2a94e81d75fb63bd73-shard-0",
-        "claimed_at": "2026-11-04T03:26:54.297120+00:00",
-        "lease_expires_at": "2026-11-04T09:26:54.297120+00:00",
-        "run_id": "41729860614"
       },
       "previous_target_id": "30778393",
       "prepared": {
@@ -428609,5 +428603,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T03:26:58.704214+00:00"
+  "updated_at": "2026-11-04T03:32:46.522295+00:00"
 }
