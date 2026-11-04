@@ -304323,13 +304323,6 @@
     "7654": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22878084",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-18T18:01:32.060652+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "22878084",
           "target_video_id": "30612658",
@@ -304343,6 +304336,14 @@
           "target_video_id": "30612658",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T18:38:30.084228+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "22878084",
+          "target_video_id": "30612658",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:21:57.177693+00:00"
         }
       ],
       "last_plan": {
@@ -304350,12 +304351,7 @@
         "display_name": "Sammyho dobrodružství 2 (2012) 1080p CZ Dabing",
         "planned_at": "2026-11-04T19:20:43.037926+00:00"
       },
-      "previous_target_id": "30612658",
-      "prepared": {
-        "target_video_id": "30612658",
-        "size_bytes": 2545106134,
-        "prepared_at": "2026-10-29T15:00:33.706878+00:00"
-      }
+      "previous_target_id": "30612658"
     },
     "15114": {
       "attempts": [],
@@ -427405,5 +427401,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T19:21:49.871328+00:00"
+  "updated_at": "2026-11-04T19:21:57.177715+00:00"
 }
