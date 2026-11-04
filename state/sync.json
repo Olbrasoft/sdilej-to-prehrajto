@@ -143492,13 +143492,6 @@
     "9225": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "14854645",
-          "reason": "Request failed for https://sdilej.cz/14854645/casino.sk-2019-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T13:47:08.441746+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "14854645",
@@ -143511,6 +143504,13 @@
           "target_video_id": "30681069",
           "permanent": false,
           "attempted_at": "2026-10-31T23:57:07.620238+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14854645",
+          "target_video_id": "30681069",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:46:51.539138+00:00"
         }
       ],
       "last_plan": {
@@ -143796,16 +143796,10 @@
           "attempted_at": "2026-10-31T23:59:58.074506+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29910381",
-        "display_name": "Velké manévry (1955) SD CZ Dabing",
-        "planned_at": "2026-11-04T07:39:06.023465+00:00"
-      },
       "previous_target_id": "30681122",
-      "prepared": {
+      "upload": {
         "target_video_id": "30681122",
-        "size_bytes": 1468522496,
-        "prepared_at": "2026-10-31T23:57:34.939174+00:00"
+        "uploaded_at": "2026-11-04T07:46:53.353614+00:00"
       }
     },
     "10016": {
@@ -428451,5 +428445,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:46:45.573635+00:00"
+  "updated_at": "2026-11-04T07:46:53.353631+00:00"
 }
