@@ -84584,13 +84584,6 @@
     "24523": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33710167",
-          "reason": "Request failed for https://sdilej.cz/33710167/sikana-bully-2001-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T21:39:41.911550+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "33710167",
@@ -84603,18 +84596,19 @@
           "source_id": "33710167",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:49:03.347890+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33710167",
+          "target_video_id": "30780320",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:03:11.715108+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33710167",
         "display_name": "Šikana (2001) SD CZ Dabing",
         "planned_at": "2026-11-04T04:24:43.440689+00:00"
-      },
-      "claim": {
-        "worker_id": "5956a904a2574acfa57e97135d237f89-shard-0",
-        "claimed_at": "2026-11-04T05:49:58.463256+00:00",
-        "lease_expires_at": "2026-11-04T11:49:58.463256+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30780320",
       "prepared": {
@@ -428589,5 +428583,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T05:50:02.219720+00:00"
+  "updated_at": "2026-11-04T06:03:11.715124+00:00"
 }
