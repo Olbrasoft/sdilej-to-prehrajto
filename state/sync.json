@@ -89215,13 +89215,6 @@
     "11519": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26117612",
-          "reason": "Request failed for https://sdilej.cz/26117612/jak-basnici-prichazeji-o-iluze-1985-2160p-hdr-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T00:37:20.123155+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26117612",
@@ -89234,18 +89227,19 @@
           "source_id": "26117612",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T22:01:42.459372+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26117612",
+          "target_video_id": "30781224",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:24:10.416641+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26117612",
         "display_name": "Jak básníci přicházejí o iluze (1985) 4K CZ Dabing",
         "planned_at": "2026-11-04T06:14:49.859285+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T07:05:41.933618+00:00",
-        "lease_expires_at": "2026-11-04T13:05:41.933618+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781224",
       "prepared": {
@@ -428524,5 +428518,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:05:45.437527+00:00"
+  "updated_at": "2026-11-04T07:24:10.416658+00:00"
 }
