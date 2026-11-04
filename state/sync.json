@@ -113675,13 +113675,6 @@
     "3016": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34488867",
-          "reason": "Request failed for https://sdilej.cz/34488867/2014-kundo-cas-pomsty-dobrodruzny-historicky-akcni.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T10:02:51.405887+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34488867",
@@ -113694,18 +113687,19 @@
           "reason": "Request failed for https://sdilej.cz/34488867/2014-kundo-cas-pomsty-dobrodruzny-historicky-akcni.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T22:39:30.460275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34488867",
+          "target_video_id": "30781608",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:38:24.831078+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34488867",
         "display_name": "Kundo: Čas pomsty (2014) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:14:58.103410+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T07:35:35.631970+00:00",
-        "lease_expires_at": "2026-11-04T13:35:35.631970+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781608",
       "prepared": {
@@ -428508,5 +428502,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:35:39.500760+00:00"
+  "updated_at": "2026-11-04T07:38:24.831094+00:00"
 }
