@@ -84151,13 +84151,6 @@
     "20388": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "5540797",
-          "reason": "Request failed for https://sdilej.cz/5540797/slow-west-2015-hc.titulky.cz.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T21:17:20.555128+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "5540797",
@@ -84170,18 +84163,19 @@
           "source_id": "5540797",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:42:12.464408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5540797",
+          "target_video_id": "30780258",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:49:38.878414+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5540797",
         "display_name": "Slow West (2015) SD CZ Titulky",
         "planned_at": "2026-11-04T04:24:41.492608+00:00"
-      },
-      "claim": {
-        "worker_id": "5956a904a2574acfa57e97135d237f89-shard-0",
-        "claimed_at": "2026-11-04T05:46:24.011910+00:00",
-        "lease_expires_at": "2026-11-04T11:46:24.011910+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30780258",
       "prepared": {
@@ -428607,5 +428601,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T05:46:27.991435+00:00"
+  "updated_at": "2026-11-04T05:49:38.878431+00:00"
 }
