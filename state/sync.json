@@ -306761,13 +306761,6 @@
     "7242": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "19844204",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-18T18:51:00.659078+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "19844204",
           "target_video_id": "30616259",
@@ -306781,6 +306774,14 @@
           "target_video_id": "30616259",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T19:45:02.204174+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "19844204",
+          "target_video_id": "30616259",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:04:01.486987+00:00"
         }
       ],
       "last_plan": {
@@ -306788,12 +306789,7 @@
         "display_name": "100% vlk (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:21:54.397657+00:00"
       },
-      "previous_target_id": "30616259",
-      "prepared": {
-        "target_video_id": "30616259",
-        "size_bytes": 2359049003,
-        "prepared_at": "2026-10-29T18:20:23.182398+00:00"
-      }
+      "previous_target_id": "30616259"
     },
     "7588": {
       "attempts": [
@@ -427314,5 +427310,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T23:03:55.411599+00:00"
+  "updated_at": "2026-11-04T23:04:01.487007+00:00"
 }
