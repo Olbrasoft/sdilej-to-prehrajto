@@ -219628,13 +219628,6 @@
           "permanent": false,
           "source_id": "31823061",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T19:33:26.717546+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31823061",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T21:01:11.156523+00:00"
         },
         {
@@ -219643,6 +219636,14 @@
           "target_video_id": "30716372",
           "permanent": false,
           "attempted_at": "2026-11-02T04:23:06.883755+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31823061",
+          "target_video_id": "30716372",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:13:27.256558+00:00"
         }
       ],
       "last_plan": {
@@ -219650,12 +219651,7 @@
         "display_name": "Swiped (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-04T18:03:32.690512+00:00"
       },
-      "previous_target_id": "30716372",
-      "prepared": {
-        "target_video_id": "30716372",
-        "size_bytes": 2463391583,
-        "prepared_at": "2026-11-02T04:20:17.713657+00:00"
-      }
+      "previous_target_id": "30716372"
     },
     "27553": {
       "attempts": []
@@ -427949,5 +427945,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:13:20.868965+00:00"
+  "updated_at": "2026-11-04T18:13:27.256584+00:00"
 }
