@@ -194830,13 +194830,6 @@
     "26070": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34024151",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-11T19:35:42.222983+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34024151",
           "reason": "Request failed for https://sdilej.cz/34024151/loupeni-jehnatek-2007-can-gb-mysteriozny-drama.avi (HTTP None)",
@@ -194849,18 +194842,19 @@
           "source_id": "34024151",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T16:54:36.350318+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34024151",
+          "target_video_id": "30784075",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:51:20.844213+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34024151",
         "display_name": "Loupení jehňátek (2007) SD CZ Dabing",
         "planned_at": "2026-11-04T10:17:26.695045+00:00"
-      },
-      "claim": {
-        "worker_id": "ced7f455839b4cbcb20f33fb22f7bb73-shard-0",
-        "claimed_at": "2026-11-04T10:49:25.873748+00:00",
-        "lease_expires_at": "2026-11-04T16:49:25.873748+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30784075",
       "prepared": {
@@ -428231,5 +428225,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T10:49:30.169613+00:00"
+  "updated_at": "2026-11-04T10:51:20.844231+00:00"
 }
