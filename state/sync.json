@@ -179660,13 +179660,6 @@
           "permanent": false,
           "source_id": "7012173",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-10T18:54:04.444909+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "7012173",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T19:41:55.193289+00:00"
         },
         {
@@ -179675,18 +179668,19 @@
           "reason": "Request failed for https://sdilej.cz/7012173/lebkouni-nedotknutelni.1996.xvid.dvb-hykr.cz.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-01T13:50:52.073338+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7012173",
+          "target_video_id": "30782458",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:43:34.469954+00:00"
         }
       ],
       "last_plan": {
         "source_id": "7012173",
         "display_name": "Lebkouni: Nedotknutelní (1996) SD CZ Dabing",
         "planned_at": "2026-11-04T08:06:32.298519+00:00"
-      },
-      "claim": {
-        "worker_id": "9970fa9009d24cd58b2ee088bae86969-shard-0",
-        "claimed_at": "2026-11-04T08:41:18.123794+00:00",
-        "lease_expires_at": "2026-11-04T14:41:18.123794+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30782458",
       "prepared": {
@@ -428290,5 +428284,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T08:41:21.421883+00:00"
+  "updated_at": "2026-11-04T08:43:34.469970+00:00"
 }
