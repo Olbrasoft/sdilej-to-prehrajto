@@ -292533,13 +292533,6 @@
     "5353": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "29568687",
-          "target_video_id": "29998287",
-          "permanent": false,
-          "attempted_at": "2026-10-04T20:32:08.721371+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "29568687",
@@ -292552,6 +292545,14 @@
           "source_id": "29568687",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:50:19.541880+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29568687",
+          "target_video_id": "29998287",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:25:30.138863+00:00"
         }
       ],
       "last_plan": {
@@ -292559,12 +292560,7 @@
         "display_name": "Bob Marley: One Love (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-04T00:03:01.750388+00:00"
       },
-      "previous_target_id": "29998287",
-      "prepared": {
-        "target_video_id": "29998287",
-        "size_bytes": 2336478423,
-        "prepared_at": "2026-10-04T20:26:59.260350+00:00"
-      }
+      "previous_target_id": "29998287"
     },
     "15770": {
       "attempts": [
@@ -429361,5 +429357,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T00:25:24.040916+00:00"
+  "updated_at": "2026-11-04T00:25:30.138881+00:00"
 }
