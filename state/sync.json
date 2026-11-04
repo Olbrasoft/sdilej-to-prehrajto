@@ -217293,13 +217293,6 @@
           "permanent": false,
           "source_id": "18733551",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T19:19:44.737091+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "18733551",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:42:26.829262+00:00"
         },
         {
@@ -217308,6 +217301,14 @@
           "target_video_id": "30710784",
           "permanent": false,
           "attempted_at": "2026-11-02T00:15:20.204243+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "18733551",
+          "target_video_id": "30710784",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:04:24.623295+00:00"
         }
       ],
       "last_plan": {
@@ -217315,12 +217316,7 @@
         "display_name": "Sugar Daddy (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-04T18:03:17.382017+00:00"
       },
-      "previous_target_id": "30710784",
-      "prepared": {
-        "target_video_id": "30710784",
-        "size_bytes": 4022358960,
-        "prepared_at": "2026-11-02T00:07:07.358477+00:00"
-      }
+      "previous_target_id": "30710784"
     },
     "9089": {
       "attempts": []
@@ -428148,5 +428144,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:04:16.555512+00:00"
+  "updated_at": "2026-11-04T18:04:24.623315+00:00"
 }
