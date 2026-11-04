@@ -82244,13 +82244,6 @@
     "2671": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "19704370",
-          "reason": "Request failed for https://sdilej.cz/19704370/sekretarka-secretary.2002.1080p.bluray.h264.dd.5.1.cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T19:19:09.062470+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "19704370",
@@ -82263,18 +82256,19 @@
           "source_id": "19704370",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:02:29.966458+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19704370",
+          "target_video_id": "30779334",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:46:26.743849+00:00"
         }
       ],
       "last_plan": {
         "source_id": "19704370",
         "display_name": "Sekretářka (2002) 1080p CZ Dabing",
         "planned_at": "2026-11-04T04:24:29.007897+00:00"
-      },
-      "claim": {
-        "worker_id": "5956a904a2574acfa57e97135d237f89-shard-0",
-        "claimed_at": "2026-11-04T04:43:34.179770+00:00",
-        "lease_expires_at": "2026-11-04T10:43:34.179770+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30779334",
       "prepared": {
@@ -428683,5 +428677,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T04:43:38.046397+00:00"
+  "updated_at": "2026-11-04T04:46:26.743865+00:00"
 }
