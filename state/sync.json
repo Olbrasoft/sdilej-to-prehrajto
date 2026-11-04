@@ -31534,13 +31534,6 @@
     "27321": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "11183496",
-          "reason": "Request failed for https://sdilej.cz/11183496/restrepo-2010-cz.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-04T21:22:36.353570+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "11183496",
@@ -31553,18 +31546,19 @@
           "source_id": "11183496",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:54:39.076867+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11183496",
+          "target_video_id": "30775850",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:29:29.500903+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11183496",
         "display_name": "Restrepo (2010) SD CZ Dabing",
         "planned_at": "2026-11-04T00:03:05.440089+00:00"
-      },
-      "claim": {
-        "worker_id": "3d5242429ad4440f96553a876d5a7212-shard-0",
-        "claimed_at": "2026-11-04T00:28:16.881111+00:00",
-        "lease_expires_at": "2026-11-04T06:28:16.881111+00:00",
-        "run_id": "41729860614"
       },
       "previous_target_id": "30775850",
       "prepared": {
@@ -429327,5 +429321,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T00:28:20.380278+00:00"
+  "updated_at": "2026-11-04T00:29:29.500921+00:00"
 }
