@@ -209127,13 +209127,6 @@
     "4043": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34593614",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T17:27:43.753817+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34593614",
           "reason": "Source detail has no authenticated download link; source_id=34593614",
@@ -209146,18 +209139,19 @@
           "source_id": "34593614",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:01:04.982134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34593614",
+          "target_video_id": "30785118",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:15:30.224328+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34593614",
         "display_name": "Air Force One (1997) 4K CZ Dabing",
         "planned_at": "2026-11-04T11:32:23.993428+00:00"
-      },
-      "claim": {
-        "worker_id": "5a46a381f44e4cf6a09b179ca28857db-shard-0",
-        "claimed_at": "2026-11-04T12:04:31.580772+00:00",
-        "lease_expires_at": "2026-11-04T18:04:31.580772+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30785118",
       "prepared": {
@@ -428062,5 +428056,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T12:04:35.734421+00:00"
+  "updated_at": "2026-11-04T12:15:30.224345+00:00"
 }
