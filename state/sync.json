@@ -210578,13 +210578,6 @@
     "14736": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31182225",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T17:39:11.417932+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "31182225",
           "reason": "Request failed for https://sdilej.cz/31182225/zlaty-kolovratok-1995-sk-tvrip-720p.mp4 (HTTP None)",
@@ -210597,18 +210590,19 @@
           "source_id": "31182225",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:31:37.597477+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31182225",
+          "target_video_id": "30785356",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:21:34.760651+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31182225",
         "display_name": "Zlatý kolovrátok (1995) 720p SK Dabing",
         "planned_at": "2026-11-04T11:32:29.430585+00:00"
-      },
-      "claim": {
-        "worker_id": "5a46a381f44e4cf6a09b179ca28857db-shard-0",
-        "claimed_at": "2026-11-04T12:19:58.867340+00:00",
-        "lease_expires_at": "2026-11-04T18:19:58.867340+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30785356",
       "prepared": {
@@ -428004,5 +427998,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T12:20:02.966755+00:00"
+  "updated_at": "2026-11-04T12:21:34.760668+00:00"
 }
