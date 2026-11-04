@@ -215831,13 +215831,6 @@
           "permanent": false,
           "source_id": "31773209",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T18:58:15.857344+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31773209",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:03:34.507907+00:00"
         },
         {
@@ -215846,6 +215839,13 @@
           "target_video_id": "30708188",
           "permanent": false,
           "attempted_at": "2026-11-01T22:08:20.243526+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31773209",
+          "target_video_id": "30708188",
+          "permanent": false,
+          "attempted_at": "2026-11-04T17:59:57.096099+00:00"
         }
       ],
       "last_plan": {
@@ -215867,13 +215867,6 @@
           "permanent": false,
           "source_id": "30472537",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T18:58:36.685582+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30472537",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:03:55.427441+00:00"
         },
         {
@@ -215882,6 +215875,14 @@
           "target_video_id": "30708398",
           "permanent": false,
           "attempted_at": "2026-11-01T22:18:28.155236+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30472537",
+          "target_video_id": "30708398",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-04T18:01:16.848476+00:00"
         }
       ],
       "last_plan": {
@@ -428193,5 +428194,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T17:58:41.887355+00:00"
+  "updated_at": "2026-11-04T18:01:16.848496+00:00"
 }
