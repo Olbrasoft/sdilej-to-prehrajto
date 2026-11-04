@@ -92035,13 +92035,6 @@
     "14577": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "25757579",
-          "reason": "Request failed for https://sdilej.cz/25757579/holcici-film-girl.picture.2022.1080p.hmax.web-dl.dd2.0.h.265-cz-fin-audio-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T02:28:03.809127+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "25757579",
@@ -92054,18 +92047,19 @@
           "reason": "Request failed for https://sdilej.cz/25757579/holcici-film-girl.picture.2022.1080p.hmax.web-dl.dd2.0.h.265-cz-fin-audio-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T22:06:42.137741+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25757579",
+          "target_video_id": "30781558",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:35:00.517012+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25757579",
         "display_name": "Holčičí film (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:14:54.555024+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T07:31:42.961535+00:00",
-        "lease_expires_at": "2026-11-04T13:31:42.961535+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781558",
       "prepared": {
@@ -428512,5 +428506,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:31:47.041302+00:00"
+  "updated_at": "2026-11-04T07:35:00.517029+00:00"
 }
