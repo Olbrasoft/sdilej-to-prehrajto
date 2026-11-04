@@ -194492,13 +194492,6 @@
     "16298": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32661436",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-11T18:55:09.199087+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32661436",
           "reason": "Request failed for https://sdilej.cz/32661436/vanoce-na-hrebiku-2024-romanticky-usa-czdab-1080p.mkv (HTTP None)",
@@ -194511,18 +194504,19 @@
           "source_id": "32661436",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T16:49:37.464125+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32661436",
+          "target_video_id": "30783982",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:48:38.769403+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32661436",
         "display_name": "Vánoce na hřebíku (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:17:25.222621+00:00"
-      },
-      "claim": {
-        "worker_id": "ced7f455839b4cbcb20f33fb22f7bb73-shard-0",
-        "claimed_at": "2026-11-04T10:41:45.659255+00:00",
-        "lease_expires_at": "2026-11-04T16:41:45.659255+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30783982",
       "prepared": {
@@ -428243,5 +428237,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T10:41:49.584972+00:00"
+  "updated_at": "2026-11-04T10:48:38.769422+00:00"
 }
