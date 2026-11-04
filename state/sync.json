@@ -215910,13 +215910,6 @@
           "permanent": false,
           "source_id": "30135052",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T18:58:57.512826+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30135052",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:04:16.319838+00:00"
         },
         {
@@ -215925,6 +215918,13 @@
           "reason": "Source detail has no authenticated download link; source_id=30135052",
           "permanent": false,
           "attempted_at": "2026-11-01T22:18:37.283725+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30135052",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-04T18:01:41.383074+00:00"
         }
       ],
       "last_plan": {
@@ -215952,13 +215952,6 @@
           "permanent": false,
           "source_id": "13426463",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T18:59:18.338333+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13426463",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:04:37.233539+00:00"
         },
         {
@@ -215967,6 +215960,14 @@
           "target_video_id": "30708593",
           "permanent": false,
           "attempted_at": "2026-11-01T22:30:23.483801+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "13426463",
+          "target_video_id": "30708593",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-04T18:02:54.512332+00:00"
         }
       ],
       "last_plan": {
@@ -428194,5 +428195,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:01:16.848496+00:00"
+  "updated_at": "2026-11-04T18:02:54.512352+00:00"
 }
