@@ -71133,13 +71133,6 @@
     "27785": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "20148574",
-          "reason": "Request failed for https://sdilej.cz/20148574/andelsky-podil-the-angels-share-2012-velka-britanie-rezie-ken-loach-komedie-drama-en-cz-tit.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T06:16:21.401041+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "20148574",
@@ -71152,18 +71145,19 @@
           "source_id": "20148574",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:33:05.811669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20148574",
+          "target_video_id": "30777361",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:15:38.634346+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20148574",
         "display_name": "Andělský podíl (2012) SD CZ Titulky",
         "planned_at": "2026-11-04T01:57:38.022659+00:00"
-      },
-      "claim": {
-        "worker_id": "377ac0eca58442c48926e24f28d322af-shard-0",
-        "claimed_at": "2026-11-04T02:13:20.861627+00:00",
-        "lease_expires_at": "2026-11-04T08:13:20.861627+00:00",
-        "run_id": "41729860614"
       },
       "previous_target_id": "30777361",
       "prepared": {
@@ -428733,5 +428727,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T02:13:24.750850+00:00"
+  "updated_at": "2026-11-04T02:15:38.634365+00:00"
 }
