@@ -253595,13 +253595,6 @@
     "4764": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35183608",
-          "reason": "Request failed for https://sdilej.cz/35183608/v-mysli-vraha-2015-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-16T13:01:25.744249+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35183608",
@@ -253614,6 +253607,13 @@
           "target_video_id": "30726089",
           "permanent": false,
           "attempted_at": "2026-11-02T11:41:31.223815+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35183608",
+          "target_video_id": "30726089",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:23:15.777080+00:00"
         }
       ],
       "last_plan": {
@@ -253908,16 +253908,10 @@
           "attempted_at": "2026-11-02T11:43:37.535439+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27520660",
-        "display_name": "Dítě číslo 44 (2015) SD CZ Dabing",
-        "planned_at": "2026-11-04T18:22:19.302953+00:00"
-      },
       "previous_target_id": "30726696",
-      "prepared": {
+      "upload": {
         "target_video_id": "30726696",
-        "size_bytes": 1612300262,
-        "prepared_at": "2026-11-02T11:41:47.210607+00:00"
+        "uploaded_at": "2026-11-04T18:23:17.569439+00:00"
       }
     },
     "17311": {
@@ -427741,5 +427735,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:23:08.591224+00:00"
+  "updated_at": "2026-11-04T18:23:17.569457+00:00"
 }
