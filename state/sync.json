@@ -49214,13 +49214,6 @@
     "1643": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32598535",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-05T21:22:52.964036+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32598535",
           "target_video_id": "30496151",
@@ -49233,6 +49226,14 @@
           "source_id": "32598535",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T19:57:38.143922+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32598535",
+          "target_video_id": "30496151",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:55:46.929040+00:00"
         }
       ],
       "last_plan": {
@@ -49240,12 +49241,7 @@
         "display_name": "Minamata (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-04T00:52:55.608884+00:00"
       },
-      "previous_target_id": "30496151",
-      "prepared": {
-        "target_video_id": "30496151",
-        "size_bytes": 2621568794,
-        "prepared_at": "2026-10-25T11:15:53.988951+00:00"
-      }
+      "previous_target_id": "30496151"
     },
     "32964": {
       "attempts": []
@@ -428836,5 +428832,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T00:55:40.561980+00:00"
+  "updated_at": "2026-11-04T00:55:46.929059+00:00"
 }
