@@ -31680,13 +31680,6 @@
     "1093": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "32331445",
-          "target_video_id": "30001544",
-          "permanent": false,
-          "attempted_at": "2026-10-04T21:31:41.986457+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32331445",
@@ -31699,6 +31692,14 @@
           "source_id": "32331445",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:55:20.820362+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32331445",
+          "target_video_id": "30001544",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:29:40.929219+00:00"
         }
       ],
       "last_plan": {
@@ -31706,12 +31707,7 @@
         "display_name": "Andělé mezi námi (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-04T00:03:06.192055+00:00"
       },
-      "previous_target_id": "30001544",
-      "prepared": {
-        "target_video_id": "30001544",
-        "size_bytes": 3516727586,
-        "prepared_at": "2026-10-04T21:23:40.459834+00:00"
-      }
+      "previous_target_id": "30001544"
     },
     "1140": {
       "attempts": [
@@ -429315,5 +429311,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T00:29:34.102821+00:00"
+  "updated_at": "2026-11-04T00:29:40.929236+00:00"
 }
