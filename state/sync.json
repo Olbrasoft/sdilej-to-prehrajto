@@ -91707,13 +91707,6 @@
     "12357": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34880197",
-          "reason": "Request failed for https://sdilej.cz/34880197/hrac.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T02:04:34.715772+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34880197",
@@ -91726,18 +91719,19 @@
           "source_id": "34880197",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T22:05:32.204093+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34880197",
+          "target_video_id": "30781530",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:31:36.894344+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34880197",
         "display_name": "Hrbáč (1997) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:14:54.161581+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T07:29:34.053888+00:00",
-        "lease_expires_at": "2026-11-04T13:29:34.053888+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781530",
       "prepared": {
@@ -428506,5 +428500,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:29:37.677184+00:00"
+  "updated_at": "2026-11-04T07:31:36.894360+00:00"
 }
