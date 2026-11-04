@@ -81470,13 +81470,6 @@
           "permanent": false,
           "source_id": "34963921",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-06T18:41:00.769801+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34963921",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-25T17:36:29.753246+00:00"
         },
         {
@@ -81485,18 +81478,19 @@
           "source_id": "34963921",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:58:40.317631+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34963921",
+          "target_video_id": "30778467",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:40:10.381445+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34963921",
         "display_name": "Babe (1995) 1080p CZ Dabing",
         "planned_at": "2026-11-04T02:24:25.534058+00:00"
-      },
-      "claim": {
-        "worker_id": "c668317be6084d2a94e81d75fb63bd73-shard-0",
-        "claimed_at": "2026-11-04T03:35:02.163563+00:00",
-        "lease_expires_at": "2026-11-04T09:35:02.163563+00:00",
-        "run_id": "41729860614"
       },
       "previous_target_id": "30778467",
       "prepared": {
@@ -428609,5 +428603,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T03:35:06.339322+00:00"
+  "updated_at": "2026-11-04T03:40:10.381463+00:00"
 }
