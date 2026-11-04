@@ -291602,13 +291602,6 @@
     "5446": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35098198",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-17T20:50:00.662166+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "35098198",
           "reason": "Request failed for https://sdilej.cz/35098198/v-oblezeni-2021-cz-dabing-1080p-fhd.mp4 (HTTP None)",
@@ -291621,6 +291614,13 @@
           "target_video_id": "30737213",
           "permanent": false,
           "attempted_at": "2026-11-02T17:09:24.067366+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35098198",
+          "target_video_id": "30737213",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:04:32.889757+00:00"
         }
       ],
       "last_plan": {
@@ -291721,16 +291721,10 @@
           "attempted_at": "2026-11-02T17:16:56.308784+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24056770",
-        "display_name": "Drsný město (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T18:52:50.091735+00:00"
-      },
       "previous_target_id": "30737276",
-      "prepared": {
+      "upload": {
         "target_video_id": "30737276",
-        "size_bytes": 3873910694,
-        "prepared_at": "2026-11-02T17:09:37.299200+00:00"
+        "uploaded_at": "2026-11-04T19:04:34.542067+00:00"
       }
     },
     "34332": {
@@ -427473,5 +427467,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T19:04:26.677286+00:00"
+  "updated_at": "2026-11-04T19:04:34.542084+00:00"
 }
