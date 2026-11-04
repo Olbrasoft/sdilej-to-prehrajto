@@ -211569,13 +211569,6 @@
     "14209": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25405323",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T17:47:03.390250+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25405323",
           "reason": "Request failed for https://sdilej.cz/25405323/nez.prijde.pan.bojangles.2021.1080p.bluray.cz.dab.mkv (HTTP None)",
@@ -211588,18 +211581,19 @@
           "source_id": "25405323",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:49:59.676593+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25405323",
+          "target_video_id": "30786121",
+          "permanent": false,
+          "attempted_at": "2026-11-04T13:25:55.087578+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25405323",
         "display_name": "Než přijde pan Bojangles (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-04T13:06:26.752482+00:00"
-      },
-      "claim": {
-        "worker_id": "482dd7f75a274f4b8ac19ffb5e45c978-shard-0",
-        "claimed_at": "2026-11-04T13:06:44.793345+00:00",
-        "lease_expires_at": "2026-11-04T19:06:44.793345+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30786121",
       "prepared": {
@@ -427994,5 +427988,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T13:06:49.435387+00:00"
+  "updated_at": "2026-11-04T13:25:55.087597+00:00"
 }
