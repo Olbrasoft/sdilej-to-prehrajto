@@ -162486,13 +162486,6 @@
     "20981": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "24925283",
-          "reason": "Request failed for https://sdilej.cz/24925283/in.from.the.side-2022-cztit-v-obraze-1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-09T06:24:02.552153+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "24925283",
           "target_video_id": "30527906",
@@ -162505,6 +162498,13 @@
           "target_video_id": "30527906",
           "permanent": false,
           "attempted_at": "2026-11-01T02:49:04.904750+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24925283",
+          "target_video_id": "30527906",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:56:50.351377+00:00"
         }
       ],
       "last_plan": {
@@ -162731,13 +162731,6 @@
           "source_id": "30069430",
           "reason": "Request failed for https://sdilej.cz/30069430/rok.lisky.web-dl.cz.en.2023.1080p.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-10-09T06:51:35.731753+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "30069430",
-          "reason": "Request failed for https://sdilej.cz/30069430/rok.lisky.web-dl.cz.en.2023.1080p.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-10-26T10:25:03.716956+00:00"
         },
         {
@@ -162746,6 +162739,13 @@
           "target_video_id": "30683129",
           "permanent": false,
           "attempted_at": "2026-11-01T02:59:45.053497+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30069430",
+          "target_video_id": "30683129",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:56:53.986595+00:00"
         }
       ],
       "last_plan": {
@@ -163000,13 +163000,6 @@
           "source_id": "12938278",
           "target_video_id": "30118343",
           "permanent": false,
-          "attempted_at": "2026-10-09T07:12:18.832750+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12938278",
-          "target_video_id": "30118343",
-          "permanent": false,
           "attempted_at": "2026-10-26T10:27:46.841594+00:00"
         },
         {
@@ -163015,6 +163008,13 @@
           "target_video_id": "30118343",
           "permanent": false,
           "attempted_at": "2026-11-01T02:59:56.567865+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12938278",
+          "target_video_id": "30118343",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:56:57.503344+00:00"
         }
       ],
       "last_plan": {
@@ -163140,13 +163140,6 @@
     "11160": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "12139621",
-          "reason": "Request failed for https://sdilej.cz/12139621/breakheartsky-prusmyk.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-09T07:24:08.018432+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12139621",
           "target_video_id": "30528483",
@@ -163159,6 +163152,13 @@
           "target_video_id": "30528483",
           "permanent": false,
           "attempted_at": "2026-11-01T02:59:58.557567+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12139621",
+          "target_video_id": "30528483",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:57:01.112311+00:00"
         }
       ],
       "last_plan": {
@@ -163224,13 +163224,6 @@
           "source_id": "26536436",
           "target_video_id": "30118666",
           "permanent": false,
-          "attempted_at": "2026-10-09T07:34:11.440430+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26536436",
-          "target_video_id": "30118666",
-          "permanent": false,
           "attempted_at": "2026-10-26T10:38:58.216889+00:00"
         },
         {
@@ -163239,6 +163232,13 @@
           "target_video_id": "30118666",
           "permanent": false,
           "attempted_at": "2026-11-01T03:00:01.663870+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26536436",
+          "target_video_id": "30118666",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:57:05.150171+00:00"
         }
       ],
       "last_plan": {
@@ -163384,6 +163384,18 @@
         "source_id": "29700583",
         "display_name": "Šimon a Matouš jedou na Riviéru (1975) 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:53:01.075154+00:00"
+      },
+      "claim": {
+        "worker_id": "8343233605d14087b8c988a4245ff1f6-shard-0",
+        "claimed_at": "2026-11-04T07:57:05.547634+00:00",
+        "lease_expires_at": "2026-11-04T13:57:05.547634+00:00",
+        "run_id": "41772733523"
+      },
+      "previous_target_id": "30781870",
+      "prepared": {
+        "target_video_id": "30781870",
+        "size_bytes": 1694793487,
+        "prepared_at": "2026-11-04T07:57:09.070143+00:00"
       }
     },
     "27918": {
@@ -428416,5 +428428,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:56:43.605124+00:00"
+  "updated_at": "2026-11-04T07:57:09.070157+00:00"
 }
