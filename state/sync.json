@@ -82483,13 +82483,6 @@
     "23597": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29912214",
-          "reason": "Request failed for https://sdilej.cz/29912214/john-travolta-chytte-ho-get-shorty-1995-cz.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-06T19:36:44.949104+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "29912214",
@@ -82502,18 +82495,19 @@
           "source_id": "29912214",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:04:14.371140+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912214",
+          "target_video_id": "30779480",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:56:24.963888+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29912214",
         "display_name": "Chyťte ho! (1995) SD CZ Dabing",
         "planned_at": "2026-11-04T04:24:30.985584+00:00"
-      },
-      "claim": {
-        "worker_id": "5956a904a2574acfa57e97135d237f89-shard-0",
-        "claimed_at": "2026-11-04T04:54:20.787501+00:00",
-        "lease_expires_at": "2026-11-04T10:54:20.787501+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30779480",
       "prepared": {
@@ -428677,5 +428671,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T04:54:24.428392+00:00"
+  "updated_at": "2026-11-04T04:56:24.963904+00:00"
 }
