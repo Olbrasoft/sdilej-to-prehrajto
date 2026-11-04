@@ -168957,13 +168957,6 @@
     "3198": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30232774",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-09T19:47:00.482993+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30232774",
           "reason": "Request failed for https://sdilej.cz/30232774/the.six.triple.eight.web-dl.cz.5.1.en.5.1.2024.1080p.mkv (HTTP None)",
@@ -168976,6 +168969,13 @@
           "target_video_id": "30684108",
           "permanent": false,
           "attempted_at": "2026-11-01T04:30:26.437726+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30232774",
+          "target_video_id": "30684108",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:05:16.134723+00:00"
         }
       ],
       "last_plan": {
@@ -169067,16 +169067,10 @@
           "attempted_at": "2026-11-01T04:55:37.551914+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34086556",
-        "display_name": "Cypher (2002) 1080p CZ Titulky",
-        "planned_at": "2026-11-04T07:53:11.214044+00:00"
-      },
       "previous_target_id": "30684326",
-      "prepared": {
+      "upload": {
         "target_video_id": "30684326",
-        "size_bytes": 7362002690,
-        "prepared_at": "2026-11-01T04:30:41.491478+00:00"
+        "uploaded_at": "2026-11-04T08:05:18.273822+00:00"
       }
     },
     "21448": {
@@ -428406,5 +428400,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T08:05:10.281288+00:00"
+  "updated_at": "2026-11-04T08:05:18.273837+00:00"
 }
