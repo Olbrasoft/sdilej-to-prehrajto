@@ -300948,13 +300948,6 @@
     "25653": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35075194",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-18T17:39:02.736228+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "35075194",
           "reason": "Request failed for https://sdilej.cz/35075194/velke-dobrodruzstvi.avi (HTTP None)",
@@ -300967,6 +300960,13 @@
           "reason": "Request failed for https://sdilej.cz/35075194/velke-dobrodruzstvi.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-02T18:08:30.680521+00:00"
+        },
+        {
+          "status": "source_premium_required",
+          "source_id": "35075194",
+          "reason": "Authenticated fast download link is unavailable; premium login is required",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:06:19.106906+00:00"
         }
       ],
       "last_plan": {
@@ -427457,5 +427457,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T19:06:12.676849+00:00"
+  "updated_at": "2026-11-04T19:06:19.106922+00:00"
 }
