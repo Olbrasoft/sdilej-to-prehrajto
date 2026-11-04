@@ -176831,13 +176831,6 @@
           "permanent": false,
           "source_id": "34721697",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-10T15:48:33.677536+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34721697",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T18:59:38.974874+00:00"
         },
         {
@@ -176846,6 +176839,14 @@
           "target_video_id": "30688608",
           "permanent": false,
           "attempted_at": "2026-11-01T07:56:47.360538+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34721697",
+          "target_video_id": "30688608",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:07:59.546839+00:00"
         }
       ],
       "last_plan": {
@@ -176853,12 +176854,7 @@
         "display_name": "Láska z nebes (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-04T08:06:21.383799+00:00"
       },
-      "previous_target_id": "30688608",
-      "prepared": {
-        "target_video_id": "30688608",
-        "size_bytes": 3046477900,
-        "prepared_at": "2026-11-01T07:40:46.232581+00:00"
-      }
+      "previous_target_id": "30688608"
     },
     "15937": {
       "attempts": []
@@ -428334,5 +428330,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T08:07:53.881960+00:00"
+  "updated_at": "2026-11-04T08:07:59.546857+00:00"
 }
