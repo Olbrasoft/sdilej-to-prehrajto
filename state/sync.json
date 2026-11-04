@@ -302510,13 +302510,6 @@
     "8389": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32069167",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-18T17:52:38.418294+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32069167",
           "reason": "Request failed for https://sdilej.cz/32069167/machr-na-30-dnu-2-rychle-a-nemozne-2023-hraji-tarek-boudali-full-hd-cz-dab.mkv (HTTP None)",
@@ -302529,6 +302522,14 @@
           "target_video_id": "30738997",
           "permanent": false,
           "attempted_at": "2026-11-02T18:26:21.040548+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32069167",
+          "target_video_id": "30738997",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:21:18.222584+00:00"
         }
       ],
       "last_plan": {
@@ -302536,12 +302537,7 @@
         "display_name": "Rychle a nemožně (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-04T19:20:40.123978+00:00"
       },
-      "previous_target_id": "30738997",
-      "prepared": {
-        "target_video_id": "30738997",
-        "size_bytes": 3736864249,
-        "prepared_at": "2026-11-02T18:22:04.488535+00:00"
-      }
+      "previous_target_id": "30738997"
     },
     "24855": {
       "attempts": []
@@ -427439,5 +427435,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T19:21:11.325792+00:00"
+  "updated_at": "2026-11-04T19:21:18.222603+00:00"
 }
