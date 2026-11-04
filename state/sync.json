@@ -297571,13 +297571,6 @@
           "source_id": "31062422",
           "target_video_id": "30330506",
           "permanent": false,
-          "attempted_at": "2026-10-18T11:35:56.959655+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31062422",
-          "target_video_id": "30330506",
-          "permanent": false,
           "attempted_at": "2026-10-29T07:35:26.420097+00:00"
         },
         {
@@ -297586,6 +297579,13 @@
           "target_video_id": "30330506",
           "permanent": false,
           "attempted_at": "2026-11-02T17:38:36.102875+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31062422",
+          "target_video_id": "30330506",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:05:31.268599+00:00"
         }
       ],
       "last_plan": {
@@ -297974,13 +297974,6 @@
           "source_id": "12998986",
           "reason": "Request failed for https://sdilej.cz/12998986/974.terminator-temny-osud-akcni-dobrodruzny-sci-fi-2019-cz-dab..mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-10-18T11:53:22.256510+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "12998986",
-          "reason": "Request failed for https://sdilej.cz/12998986/974.terminator-temny-osud-akcni-dobrodruzny-sci-fi-2019-cz-dab..mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-10-29T07:36:23.269181+00:00"
         },
         {
@@ -297989,6 +297982,14 @@
           "target_video_id": "30738054",
           "permanent": false,
           "attempted_at": "2026-11-02T17:42:26.808253+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "12998986",
+          "target_video_id": "30738054",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:05:35.089772+00:00"
         }
       ],
       "last_plan": {
@@ -297996,12 +297997,7 @@
         "display_name": "Terminátor: Temný osud (2019) 1080p CZ Dabing",
         "planned_at": "2026-11-04T18:52:55.527756+00:00"
       },
-      "previous_target_id": "30738054",
-      "prepared": {
-        "target_video_id": "30738054",
-        "size_bytes": 2765129923,
-        "prepared_at": "2026-11-02T17:38:41.030600+00:00"
-      }
+      "previous_target_id": "30738054"
     },
     "5709": {
       "attempts": [],
@@ -427484,5 +427480,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T19:05:24.612104+00:00"
+  "updated_at": "2026-11-04T19:05:35.089792+00:00"
 }
