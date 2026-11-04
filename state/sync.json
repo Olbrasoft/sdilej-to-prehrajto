@@ -269094,13 +269094,6 @@
     "37294": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "31891916",
-          "target_video_id": "30297132",
-          "permanent": false,
-          "attempted_at": "2026-10-17T02:52:57.135901+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "31891916",
@@ -269114,6 +269107,14 @@
           "target_video_id": "30297132",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T16:02:45.914189+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31891916",
+          "target_video_id": "30297132",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:28:45.203063+00:00"
         }
       ],
       "last_plan": {
@@ -269121,12 +269122,7 @@
         "display_name": "Normal (2026) SD CZ Dabing",
         "planned_at": "2026-11-04T18:27:03.754647+00:00"
       },
-      "previous_target_id": "30297132",
-      "prepared": {
-        "target_video_id": "30297132",
-        "size_bytes": 1364110438,
-        "prepared_at": "2026-10-17T02:47:35.017579+00:00"
-      }
+      "previous_target_id": "30297132"
     },
     "6305": {
       "attempts": [
@@ -427456,5 +427452,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:28:37.630242+00:00"
+  "updated_at": "2026-11-04T18:28:45.203088+00:00"
 }
