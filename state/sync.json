@@ -89083,13 +89083,6 @@
     "2584": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32569995",
-          "reason": "Request failed for https://sdilej.cz/32569995/dotek-medusy-1978-fhd-cz-en.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T00:28:15.433765+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32569995",
@@ -89102,18 +89095,19 @@
           "source_id": "32569995",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T22:01:00.685896+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32569995",
+          "target_video_id": "30781162",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:05:31.168060+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32569995",
         "display_name": "Dotek Medúzy (1978) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:14:49.076638+00:00"
-      },
-      "claim": {
-        "worker_id": "a52346b812d8404ea3e65d739bcfe1c8-shard-0",
-        "claimed_at": "2026-11-04T07:01:54.297299+00:00",
-        "lease_expires_at": "2026-11-04T13:01:54.297299+00:00",
-        "run_id": "41772733523"
       },
       "previous_target_id": "30781162",
       "prepared": {
@@ -428524,5 +428518,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:01:57.958997+00:00"
+  "updated_at": "2026-11-04T07:05:31.168076+00:00"
 }
