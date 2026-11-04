@@ -200503,13 +200503,6 @@
     "10236": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31624554",
-          "reason": "Request failed for https://sdilej.cz/31624554/andilek-na-nervy-2015-rodinny-komedie.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-12T09:36:51.109347+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "31624554",
           "reason": "PrehrajtoError",
@@ -200523,6 +200516,14 @@
           "source_id": "31624554",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T17:50:03.052989+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "31624554",
+          "target_video_id": "30555604",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-04T11:24:12.022534+00:00"
         }
       ],
       "last_plan": {
@@ -200662,16 +200663,10 @@
           "attempted_at": "2026-11-01T17:51:15.305038+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24336801",
-        "display_name": "Na úrovni (1973) 720p CZ Dabing",
-        "planned_at": "2026-11-04T11:10:49.481105+00:00"
-      },
       "previous_target_id": "30555752",
-      "prepared": {
+      "upload": {
         "target_video_id": "30555752",
-        "size_bytes": 3331175986,
-        "prepared_at": "2026-10-27T07:27:26.170780+00:00"
+        "uploaded_at": "2026-11-04T11:24:13.780964+00:00"
       }
     },
     "23244": {
@@ -428204,5 +428199,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T11:24:07.978039+00:00"
+  "updated_at": "2026-11-04T11:24:13.780982+00:00"
 }
