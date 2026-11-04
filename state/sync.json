@@ -217464,13 +217464,6 @@
           "permanent": false,
           "source_id": "31501302",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T19:21:06.966058+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31501302",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-27T20:43:50.455649+00:00"
         },
         {
@@ -217480,6 +217473,14 @@
           "permanent": false,
           "target_video_id": "30711476",
           "attempted_at": "2026-11-02T01:01:12.188774+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "31501302",
+          "target_video_id": "30711476",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-04T18:04:45.485388+00:00"
         }
       ],
       "last_plan": {
@@ -217562,16 +217563,10 @@
           "attempted_at": "2026-11-02T01:06:01.589957+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34150766",
-        "display_name": "Drak z chrámu Šaolin 1: Bojovníci ze Šaolinu (1978) SD CZ Dabing",
-        "planned_at": "2026-11-04T18:03:19.338698+00:00"
-      },
       "previous_target_id": "30711625",
-      "prepared": {
+      "upload": {
         "target_video_id": "30711625",
-        "size_bytes": 1354767725,
-        "prepared_at": "2026-11-02T01:01:23.550908+00:00"
+        "uploaded_at": "2026-11-04T18:04:47.283495+00:00"
       }
     },
     "5919": {
@@ -428126,5 +428121,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:04:40.261519+00:00"
+  "updated_at": "2026-11-04T18:04:47.283511+00:00"
 }
