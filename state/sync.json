@@ -210391,13 +210391,6 @@
     "14777": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32205733",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-12T17:37:27.227613+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32205733",
           "target_video_id": "30569049",
@@ -210411,6 +210404,14 @@
           "target_video_id": "30569049",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-01T19:26:48.271968+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32205733",
+          "target_video_id": "30569049",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:16:23.733555+00:00"
         }
       ],
       "last_plan": {
@@ -210418,12 +210419,7 @@
         "display_name": "Ulovit miliardáře (2009) 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:32:27.625244+00:00"
       },
-      "previous_target_id": "30569049",
-      "prepared": {
-        "target_video_id": "30569049",
-        "size_bytes": 3124924218,
-        "prepared_at": "2026-10-27T17:42:38.343254+00:00"
-      }
+      "previous_target_id": "30569049"
     },
     "17504": {
       "attempts": [],
@@ -428008,5 +428004,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T12:16:17.433921+00:00"
+  "updated_at": "2026-11-04T12:16:23.733574+00:00"
 }
