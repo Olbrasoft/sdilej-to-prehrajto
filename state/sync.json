@@ -291426,13 +291426,6 @@
     "17003": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34695493",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-17T20:49:19.067111+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34695493",
           "reason": "Request failed for https://sdilej.cz/34695493/outlaws-2017-cz.mp4 (HTTP None)",
@@ -291446,6 +291439,14 @@
           "target_video_id": "30737080",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T17:04:32.929429+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34695493",
+          "target_video_id": "30737080",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-04T19:03:39.700837+00:00"
         }
       ],
       "last_plan": {
@@ -427478,5 +427479,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T19:02:24.278797+00:00"
+  "updated_at": "2026-11-04T19:03:39.700854+00:00"
 }
