@@ -198519,13 +198519,6 @@
           "source_id": "19025291",
           "reason": "Request failed for https://sdilej.cz/19025291/respect.2021.1080p.bluray-cz-dabing.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-10-12T01:22:18.574494+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "19025291",
-          "reason": "Request failed for https://sdilej.cz/19025291/respect.2021.1080p.bluray-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-10-27T07:01:48.427283+00:00"
         },
         {
@@ -198534,18 +198527,19 @@
           "source_id": "19025291",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T17:38:09.956831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19025291",
+          "target_video_id": "30784415",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:20:32.219685+00:00"
         }
       ],
       "last_plan": {
         "source_id": "19025291",
         "display_name": "Respect (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:10:45.115532+00:00"
-      },
-      "claim": {
-        "worker_id": "e23fa04b027f4d13a13c66a281ab1028-shard-0",
-        "claimed_at": "2026-11-04T11:16:19.571731+00:00",
-        "lease_expires_at": "2026-11-04T17:16:19.571731+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30784415",
       "prepared": {
@@ -428214,5 +428208,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T11:16:23.538167+00:00"
+  "updated_at": "2026-11-04T11:20:32.219703+00:00"
 }
