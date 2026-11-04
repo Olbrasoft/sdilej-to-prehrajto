@@ -278235,13 +278235,6 @@
     "5266": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26558168",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-17T17:58:49.956325+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "26558168",
           "reason": "Request failed for https://sdilej.cz/26558168/nocni.rande.webrip.2010.1080p.cz..mkv (HTTP None)",
@@ -278254,6 +278247,14 @@
           "target_video_id": "30736053",
           "permanent": false,
           "attempted_at": "2026-11-02T16:19:52.812312+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "26558168",
+          "target_video_id": "30736053",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-04T18:41:57.510163+00:00"
         }
       ],
       "last_plan": {
@@ -427471,5 +427472,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:40:41.328535+00:00"
+  "updated_at": "2026-11-04T18:41:57.510182+00:00"
 }
