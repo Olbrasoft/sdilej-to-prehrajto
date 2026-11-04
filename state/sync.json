@@ -81242,13 +81242,6 @@
     "2648": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "30571383",
-          "target_video_id": "30057970",
-          "permanent": false,
-          "attempted_at": "2026-10-06T18:23:05.547113+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "30571383",
@@ -81261,6 +81254,14 @@
           "source_id": "30571383",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:56:24.224910+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "30571383",
+          "target_video_id": "30057970",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:26:51.641152+00:00"
         }
       ],
       "last_plan": {
@@ -81268,12 +81269,7 @@
         "display_name": "Firma (1993) 1080p CZ Dabing",
         "planned_at": "2026-11-04T02:24:23.754953+00:00"
       },
-      "previous_target_id": "30057970",
-      "prepared": {
-        "target_video_id": "30057970",
-        "size_bytes": 3530989283,
-        "prepared_at": "2026-10-06T18:12:24.948173+00:00"
-      }
+      "previous_target_id": "30057970"
     },
     "2605": {
       "attempts": [
@@ -428601,5 +428597,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T03:26:45.613223+00:00"
+  "updated_at": "2026-11-04T03:26:51.641172+00:00"
 }
