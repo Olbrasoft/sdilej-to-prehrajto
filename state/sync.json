@@ -248482,13 +248482,6 @@
     "4923": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33840814",
-          "reason": "Request failed for https://sdilej.cz/33840814/kralovnin-gambit-2023-firebrand-1080p.-x264-ac3-5.1-en-ac3-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-16T01:25:18.069994+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "33840814",
@@ -248501,6 +248494,14 @@
           "target_video_id": "30721800",
           "permanent": false,
           "attempted_at": "2026-11-02T08:25:11.472818+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "33840814",
+          "target_video_id": "30721800",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:20:13.759656+00:00"
         }
       ],
       "last_plan": {
@@ -248508,12 +248509,7 @@
         "display_name": "Královnin gambit (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-04T18:18:04.805700+00:00"
       },
-      "previous_target_id": "30721800",
-      "prepared": {
-        "target_video_id": "30721800",
-        "size_bytes": 2791804182,
-        "prepared_at": "2026-11-02T08:22:03.710299+00:00"
-      }
+      "previous_target_id": "30721800"
     },
     "11913": {
       "attempts": []
@@ -427863,5 +427859,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:20:07.527796+00:00"
+  "updated_at": "2026-11-04T18:20:13.759673+00:00"
 }
