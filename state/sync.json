@@ -83319,13 +83319,6 @@
     "34326": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "35167211",
-          "target_video_id": "30060118",
-          "permanent": false,
-          "attempted_at": "2026-10-06T20:30:39.366423+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35167211",
@@ -83338,6 +83331,14 @@
           "source_id": "35167211",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T21:39:46.320075+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "35167211",
+          "target_video_id": "30060118",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:15:24.686234+00:00"
         }
       ],
       "last_plan": {
@@ -83345,12 +83346,7 @@
         "display_name": "V řetězech (2006) 1080p CZ Dabing",
         "planned_at": "2026-11-04T04:24:38.768999+00:00"
       },
-      "previous_target_id": "30060118",
-      "prepared": {
-        "target_video_id": "30060118",
-        "size_bytes": 5287768269,
-        "prepared_at": "2026-10-06T20:18:21.106772+00:00"
-      }
+      "previous_target_id": "30060118"
     },
     "17961": {
       "attempts": [
@@ -428611,5 +428607,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T05:15:18.803256+00:00"
+  "updated_at": "2026-11-04T05:15:24.686250+00:00"
 }
