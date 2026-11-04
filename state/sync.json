@@ -178082,13 +178082,6 @@
           "permanent": false,
           "source_id": "34889085",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-10T18:01:49.773833+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34889085",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T19:31:45.074418+00:00"
         },
         {
@@ -178097,6 +178090,13 @@
           "target_video_id": "30691095",
           "permanent": false,
           "attempted_at": "2026-11-01T10:03:32.436540+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34889085",
+          "target_video_id": "30691095",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:08:48.684751+00:00"
         }
       ],
       "last_plan": {
@@ -178210,13 +178210,6 @@
           "permanent": false,
           "source_id": "32331212",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-10T18:02:10.568850+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32331212",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-26T19:32:05.924544+00:00"
         },
         {
@@ -178226,6 +178219,14 @@
           "target_video_id": "30691717",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-01T13:01:58.831896+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32331212",
+          "target_video_id": "30691717",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:08:51.939746+00:00"
         }
       ],
       "last_plan": {
@@ -178233,12 +178234,7 @@
         "display_name": "Jak přežít svého muže (2023) 4K CZ Dabing",
         "planned_at": "2026-11-04T08:06:26.064138+00:00"
       },
-      "previous_target_id": "30691717",
-      "prepared": {
-        "target_video_id": "30691717",
-        "size_bytes": 54411322972,
-        "prepared_at": "2026-11-01T10:03:40.280541+00:00"
-      }
+      "previous_target_id": "30691717"
     },
     "32883": {
       "attempts": []
@@ -428276,5 +428272,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T08:08:42.126573+00:00"
+  "updated_at": "2026-11-04T08:08:51.939764+00:00"
 }
