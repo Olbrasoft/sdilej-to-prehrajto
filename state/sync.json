@@ -195028,13 +195028,6 @@
     "22060": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "24777557",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-11T19:37:04.496657+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "24777557",
           "reason": "Request failed for https://sdilej.cz/24777557/apartma-v-hotelu-plaza-1971-cz.avi (HTTP None)",
@@ -195047,18 +195040,19 @@
           "source_id": "24777557",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T16:58:44.919632+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24777557",
+          "target_video_id": "30784106",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:53:53.730446+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24777557",
         "display_name": "Apartmá v hotelu Plaza (1971) SD CZ Dabing",
         "planned_at": "2026-11-04T10:17:28.150034+00:00"
-      },
-      "claim": {
-        "worker_id": "ced7f455839b4cbcb20f33fb22f7bb73-shard-0",
-        "claimed_at": "2026-11-04T10:52:16.717415+00:00",
-        "lease_expires_at": "2026-11-04T16:52:16.717415+00:00",
-        "run_id": "41806766517"
       },
       "previous_target_id": "30784106",
       "prepared": {
@@ -428219,5 +428213,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T10:52:20.297020+00:00"
+  "updated_at": "2026-11-04T10:53:53.730465+00:00"
 }
