@@ -289844,13 +289844,6 @@
     "29943": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23601671",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-17T19:55:22.186384+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "23601671",
           "reason": "Request failed for https://sdilej.cz/23601671/20-000-mil-pod-morem.avi (HTTP None)",
@@ -289863,6 +289856,13 @@
           "source_id": "23601671",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T16:54:56.990682+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23601671",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-04T18:59:49.440513+00:00"
         }
       ],
       "last_plan": {
@@ -291369,13 +291369,6 @@
     "34233": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29472136",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-17T20:43:37.230132+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29472136",
           "target_video_id": "30595222",
@@ -291389,6 +291382,13 @@
           "target_video_id": "30595222",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T16:56:09.806709+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29472136",
+          "target_video_id": "30595222",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:01:08.836104+00:00"
         }
       ],
       "last_plan": {
@@ -427470,5 +427470,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T18:59:25.998373+00:00"
+  "updated_at": "2026-11-04T19:01:08.836120+00:00"
 }
