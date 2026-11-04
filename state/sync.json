@@ -307448,13 +307448,6 @@
           "permanent": false,
           "source_id": "34665091",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-18T19:44:14.272123+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34665091",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-29T18:50:19.806470+00:00"
         },
         {
@@ -307463,18 +307456,19 @@
           "source_id": "34665091",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T19:53:50.736594+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34665091",
+          "target_video_id": "30797097",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:39:19.597442+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34665091",
         "display_name": "Průsek (2026) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:21:58.737920+00:00"
-      },
-      "claim": {
-        "worker_id": "695e00db56d240ba9ed00dc020a50566-shard-0",
-        "claimed_at": "2026-11-04T23:32:31.792748+00:00",
-        "lease_expires_at": "2026-11-05T05:32:31.792748+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30797097",
       "prepared": {
@@ -427334,5 +427328,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T23:32:35.626732+00:00"
+  "updated_at": "2026-11-04T23:39:19.597460+00:00"
 }
