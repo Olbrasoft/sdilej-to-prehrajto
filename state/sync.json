@@ -130530,13 +130530,6 @@
     "4902": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32108116",
-          "reason": "Request failed for https://sdilej.cz/32108116/svetylka-hraji-mia-banko-2024-cz-1-.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-07T11:58:14.584876+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32108116",
@@ -130549,6 +130542,14 @@
           "target_video_id": "30680663",
           "permanent": false,
           "attempted_at": "2026-10-31T23:25:50.750489+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32108116",
+          "target_video_id": "30680663",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:44:43.220730+00:00"
         }
       ],
       "last_plan": {
@@ -130556,12 +130557,7 @@
         "display_name": "Světýlka (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:39:02.934984+00:00"
       },
-      "previous_target_id": "30680663",
-      "prepared": {
-        "target_video_id": "30680663",
-        "size_bytes": 3430932705,
-        "prepared_at": "2026-10-31T23:18:15.819773+00:00"
-      }
+      "previous_target_id": "30680663"
     },
     "26150": {
       "attempts": [],
@@ -428467,5 +428463,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:44:36.694961+00:00"
+  "updated_at": "2026-11-04T07:44:43.220748+00:00"
 }
