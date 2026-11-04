@@ -307724,13 +307724,6 @@
     "6217": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33874998",
-          "reason": "Request failed for https://sdilej.cz/33874998/zombie-2018-cz-dab-1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-18T20:04:58.840722+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "33874998",
@@ -307743,18 +307736,19 @@
           "source_id": "33874998",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T19:55:42.950127+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33874998",
+          "target_video_id": "30797299",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:51:45.523119+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33874998",
         "display_name": "Zombie (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:21:59.828251+00:00"
-      },
-      "claim": {
-        "worker_id": "695e00db56d240ba9ed00dc020a50566-shard-0",
-        "claimed_at": "2026-11-04T23:48:10.816453+00:00",
-        "lease_expires_at": "2026-11-05T05:48:10.816453+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30797299",
       "prepared": {
@@ -427352,5 +427346,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T23:48:16.136833+00:00"
+  "updated_at": "2026-11-04T23:51:45.523138+00:00"
 }
