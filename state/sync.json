@@ -165907,13 +165907,6 @@
     "3345": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35185503",
-          "reason": "Request failed for https://sdilej.cz/35185503/valka-svetu-zkaza-zeme-2021-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-09T13:16:05.474832+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "35185503",
           "target_video_id": "30531346",
@@ -165926,6 +165919,13 @@
           "target_video_id": "30531346",
           "permanent": false,
           "attempted_at": "2026-11-01T03:25:50.629014+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35185503",
+          "target_video_id": "30531346",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:59:04.474234+00:00"
         }
       ],
       "last_plan": {
@@ -166018,6 +166018,18 @@
         "source_id": "31691443",
         "display_name": "Vlk a beránek (1980) 720p CZ Dabing",
         "planned_at": "2026-11-04T07:53:05.745198+00:00"
+      },
+      "claim": {
+        "worker_id": "8343233605d14087b8c988a4245ff1f6-shard-0",
+        "claimed_at": "2026-11-04T07:59:04.874538+00:00",
+        "lease_expires_at": "2026-11-04T13:59:04.874538+00:00",
+        "run_id": "41772733523"
+      },
+      "previous_target_id": "30781896",
+      "prepared": {
+        "target_video_id": "30781896",
+        "size_bytes": 3620559328,
+        "prepared_at": "2026-11-04T07:59:08.386364+00:00"
       }
     },
     "26783": {
@@ -428411,5 +428423,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T07:58:58.626350+00:00"
+  "updated_at": "2026-11-04T07:59:08.386380+00:00"
 }
