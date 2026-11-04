@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T14:31:32.698825+00:00
+Poslední aktualizace (UTC): 2026-11-04T14:31:43.671204+00:00
 
 Zkontrolováno videí: 2713. Další stránka kontroly: 0.
 
@@ -2179,7 +2179,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 3. Důvod
 | [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | target_unavailable | 2026-11-04T14:28:10.266784+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-11-04T14:27:12.514408+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-11-04T14:28:01.422653+00:00 |
-| [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-11-04T08:29:09.433758+00:00 |
+| [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-11-04T14:31:43.671132+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | source_unavailable | 2026-11-04T14:31:03.061937+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-11-04T08:29:25.411346+00:00 |
 | [Weird: The Al Yankovic Story (2022) 1080p CZ Titulky](https://prehraj.to/weird-the-al-yankovic-story-2022-1080p-cz-titulky-mp4/742c39132a56d98c) (ID 29747622) | [Sdílej 31812137](https://sdilej.cz/31812137/weird-the-al-yankovic-story-2022-.mp4) | target_unavailable | 2026-11-04T14:27:08.578416+00:00 |
