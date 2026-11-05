@@ -421833,13 +421833,6 @@
     "10046": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26233269",
-          "reason": "Source detail has no authenticated download link; source_id=26233269",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:24:10.856191+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26233269",
@@ -421852,6 +421845,14 @@
           "target_video_id": "30761266",
           "permanent": false,
           "attempted_at": "2026-11-03T13:02:10.903422+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "26233269",
+          "target_video_id": "30761266",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:43:36.287909+00:00"
         }
       ],
       "last_plan": {
@@ -421859,12 +421860,7 @@
         "display_name": "Ďábel v těle (2012) 1080p CZ Dabing",
         "planned_at": "2026-11-05T03:40:48.395889+00:00"
       },
-      "previous_target_id": "30761266",
-      "prepared": {
-        "target_video_id": "30761266",
-        "size_bytes": 1806939375,
-        "prepared_at": "2026-11-03T12:58:20.262823+00:00"
-      }
+      "previous_target_id": "30761266"
     },
     "10125": {
       "attempts": [
@@ -426599,5 +426595,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:43:30.451983+00:00"
+  "updated_at": "2026-11-05T03:43:36.287927+00:00"
 }
