@@ -179523,13 +179523,6 @@
     "31643": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32999469",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-01T13:51:36.176374+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "32999469",
           "reason": "Request failed for https://sdilej.cz/32999469/utes-smrti-vrazedne-vody.mp4 (HTTP None)",
@@ -179542,6 +179535,13 @@
           "target_video_id": "30808000",
           "permanent": false,
           "attempted_at": "2026-11-05T07:08:42.162280+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32999469",
+          "target_video_id": "30808000",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:56:59.094354+00:00"
         }
       ],
       "last_plan": {
@@ -179648,16 +179648,10 @@
           "attempted_at": "2026-11-05T07:11:40.123481+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "4239731",
-        "display_name": "Průvodce ženatého muže (1967) SD CZ Dabing",
-        "planned_at": "2026-11-05T12:53:38.449988+00:00"
-      },
       "previous_target_id": "30808074",
-      "prepared": {
+      "upload": {
         "target_video_id": "30808074",
-        "size_bytes": 1470365696,
-        "prepared_at": "2026-11-05T07:09:27.479735+00:00"
+        "uploaded_at": "2026-11-05T12:57:00.800814+00:00"
       }
     },
     "13606": {
@@ -425243,5 +425237,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T12:56:52.042371+00:00"
+  "updated_at": "2026-11-05T12:57:00.800832+00:00"
 }
