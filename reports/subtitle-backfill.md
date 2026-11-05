@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:31:25.937493+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:31:33.808078+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -331,7 +331,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Cirque du Soleil: Toruk - The First Flight (2016) 4K CZ Titulky](https://prehraj.to/cirque-du-soleil-toruk-the-first-flight-2016-4k-cz-titulky-mp4/4dc543dbc6d43038) (ID 30076676) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.938690+00:00 |
 | [Citizen Vigilante (2026) 1080p CZ Titulky](https://prehraj.to/citizen-vigilante-2026-1080p-cz-titulky-mkv/d80aedba9c3ceac1) (ID 30469562) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.945132+00:00 |
 | [Citová hodnota (2025) 1080p CZ Titulky](https://prehraj.to/citova-hodnota-2025-1080p-cz-titulky-mkv/fcc0c54a241aa6a7) (ID 29396122) | [Sdílej 32756240](https://sdilej.cz/32756240/citova-hodnota-2025-cztit-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:03.640720+00:00 |
-| [Civil War (Or, Who Do We Think We Are) (2021) 1080p CZ Titulky](https://prehraj.to/civil-war-or-who-do-we-think-we-are-2021-1080p-cz-titulky-mp4/493af690f593ded3) (ID 29257379) | [Sdílej 34773002](https://sdilej.cz/34773002/civil-war-or-who-do-we-think-we-are-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:30:10.895908+00:00 |
+| [Civil War (Or, Who Do We Think We Are) (2021) 1080p CZ Titulky](https://prehraj.to/civil-war-or-who-do-we-think-we-are-2021-1080p-cz-titulky-mp4/493af690f593ded3) (ID 29257379) | [Sdílej 34773002](https://sdilej.cz/34773002/civil-war-or-who-do-we-think-we-are-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:31:33.807952+00:00 |
 | [Cizinci: Kapitola 2 (2025) 1440p CZ Titulky](https://prehraj.to/cizinci-kapitola-2-2025-1440p-cz-titulky-mkv/799853065218dd27) (ID 30417160) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.944160+00:00 |
 | [Cizí oči (1981) 1080p CZ Titulky](https://prehraj.to/cizi-oci-1981-1080p-cz-titulky-mkv/ad6fae4b71b4b32e) (ID 29578873) | [Sdílej 28527253](https://sdilej.cz/28527253/cizi-oci-eyes-of-a-stranger-1981-fhd-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:04:44.878981+00:00 |
 | [Clara (2018) SD CZ Titulky](https://prehraj.to/clara-2018-sd-cz-titulky-mkv/e34b2249266f3b5d) (ID 29631340) | [Sdílej 12083199](https://sdilej.cz/12083199/clara-2018-web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:35.689513+00:00 |
