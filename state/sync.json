@@ -214777,13 +214777,6 @@
           "permanent": false,
           "source_id": "31385283",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-01T21:38:04.614090+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31385283",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-04T17:55:04.466721+00:00"
         },
         {
@@ -214792,6 +214785,13 @@
           "target_video_id": "30811430",
           "permanent": false,
           "attempted_at": "2026-11-05T08:53:47.852088+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31385283",
+          "target_video_id": "30811430",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:03:48.468788+00:00"
         }
       ],
       "last_plan": {
@@ -214975,16 +214975,10 @@
           "attempted_at": "2026-11-05T08:55:07.866613+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "10573969",
-        "display_name": "4% muž v akci (1994) SD CZ Dabing",
-        "planned_at": "2026-11-05T13:01:45.553925+00:00"
-      },
       "previous_target_id": "30811647",
-      "prepared": {
+      "upload": {
         "target_video_id": "30811647",
-        "size_bytes": 863444450,
-        "prepared_at": "2026-11-05T08:54:03.194035+00:00"
+        "uploaded_at": "2026-11-05T13:03:50.207258+00:00"
       }
     },
     "17158": {
@@ -425127,5 +425121,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T13:03:41.405564+00:00"
+  "updated_at": "2026-11-05T13:03:50.207279+00:00"
 }
