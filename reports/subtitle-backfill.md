@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:32:53.257913+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:33:01.317887+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -272,7 +272,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Brimstone Incorporated (2021) 1080p CZ Titulky](https://prehraj.to/brimstone-incorporated-2021-1080p-cz-titulky-mp4/d56cf1f00031bc6e) (ID 30572883) | [Sdílej 34773042](https://sdilej.cz/34773042/brimstone-incorporated-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-03T22:33:43.393820+00:00 |
 | [Broken Contract (2018) SD CZ Titulky](https://prehraj.to/broken-contract-2018-sd-cz-titulky-avi/49f2ef4135a66748) (ID 30191328) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.940385+00:00 |
 | [Bros Before Hos (2013) SD CZ Titulky](https://prehraj.to/bros-before-hos-2013-sd-cz-titulky-mp4/9e9bcbc8f6370168) (ID 30242923) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.941206+00:00 |
-| [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:31:32.455931+00:00 |
+| [Brotherhood (2010) SD CZ Titulky](https://prehraj.to/brotherhood-2010-sd-cz-titulky-mp4/deed6f1ab30e2613) (ID 29269524) | [Sdílej 34780698](https://sdilej.cz/34780698/brotherhood-2010-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:33:01.317754+00:00 |
 | [Brána do záhrobí (1981) SD CZ Titulky](https://prehraj.to/brana-do-zahrobi-1981-sd-cz-titulky-avi/8cd1f70d5174eeee) (ID 29240551) | [Sdílej 33652395](https://sdilej.cz/33652395/the-beyond-brana-do-zahrobi-1981-horor-usa-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:29:29.481839+00:00 |
 | [Bráška (2019) 1080p CZ Titulky](https://prehraj.to/braska-2019-1080p-cz-titulky-mkv/984563bed19f01cc) (ID 29721471) | [Sdílej 12666589](https://sdilej.cz/12666589/mon-frere-brother.2019.french.1080p.webrip.x264-sp0utn1k-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:22.026712+00:00 |
 | [Buffalo Boys (2018) SD CZ Titulky](https://prehraj.to/buffalo-boys-2018-sd-cz-titulky-avi/7c13973e672a94d2) (ID 30729789) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.948055+00:00 |
