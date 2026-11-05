@@ -357281,13 +357281,6 @@
           "permanent": false,
           "source_id": "32706028",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-23T18:56:39.539354+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32706028",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T15:41:29.863779+00:00"
         },
         {
@@ -357296,6 +357289,13 @@
           "target_video_id": "29930959",
           "permanent": false,
           "attempted_at": "2026-11-03T20:14:59.899708+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32706028",
+          "target_video_id": "29930959",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:03:30.757757+00:00"
         }
       ],
       "last_plan": {
@@ -357747,16 +357747,10 @@
           "attempted_at": "2026-11-03T20:18:03.590921+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26229190",
-        "display_name": "Saw 5 (2008) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T04:54:25.409349+00:00"
-      },
       "previous_target_id": "30772179",
-      "prepared": {
+      "upload": {
         "target_video_id": "30772179",
-        "size_bytes": 2129279216,
-        "prepared_at": "2026-11-03T20:15:18.042612+00:00"
+        "uploaded_at": "2026-11-05T05:03:32.505289+00:00"
       }
     },
     "7054": {
@@ -426460,5 +426454,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:03:23.911927+00:00"
+  "updated_at": "2026-11-05T05:03:32.505308+00:00"
 }
