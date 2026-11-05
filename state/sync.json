@@ -278128,13 +278128,6 @@
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "31964927",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-28T20:55:18.301116+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31964927",
           "target_video_id": "30736525",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T16:39:33.390895+00:00"
@@ -278146,6 +278139,14 @@
           "target_video_id": "30736525",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-04T18:44:34.348003+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31964927",
+          "target_video_id": "30736525",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:02:27.579268+00:00"
         }
       ],
       "last_plan": {
@@ -278153,12 +278154,7 @@
         "display_name": "Nic ve zlým (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-05T09:02:00.624090+00:00"
       },
-      "previous_target_id": "30736525",
-      "prepared": {
-        "target_video_id": "30736525",
-        "size_bytes": 1966741280,
-        "prepared_at": "2026-11-02T16:33:46.906212+00:00"
-      }
+      "previous_target_id": "30736525"
     },
     "5256": {
       "attempts": [
@@ -425341,5 +425337,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T09:02:21.123344+00:00"
+  "updated_at": "2026-11-05T09:02:27.579287+00:00"
 }
