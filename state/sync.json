@@ -73870,13 +73870,6 @@
           "permanent": false,
           "source_id": "34727257",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-25T14:04:14.932017+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34727257",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:41:35.010950+00:00"
         },
         {
@@ -73885,6 +73878,13 @@
           "target_video_id": "30047329",
           "permanent": false,
           "attempted_at": "2026-11-04T02:23:47.905785+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34727257",
+          "target_video_id": "30047329",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:02:21.595949+00:00"
         }
       ],
       "last_plan": {
@@ -76326,13 +76326,6 @@
           "permanent": false,
           "source_id": "31439276",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-25T15:00:30.164276+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31439276",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T20:45:45.476044+00:00"
         },
         {
@@ -76341,6 +76334,13 @@
           "target_video_id": "30048834",
           "permanent": false,
           "attempted_at": "2026-11-04T02:25:12.051074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31439276",
+          "target_video_id": "30048834",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:02:25.471756+00:00"
         }
       ],
       "last_plan": {
@@ -76662,16 +76662,10 @@
           "attempted_at": "2026-11-04T02:28:18.931552+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24537061",
-        "display_name": "Pelé (2021) 1080p CZ Titulky",
-        "planned_at": "2026-11-05T06:01:35.905374+00:00"
-      },
       "previous_target_id": "30777522",
-      "prepared": {
+      "upload": {
         "target_video_id": "30777522",
-        "size_bytes": 2539078658,
-        "prepared_at": "2026-11-04T02:25:22.989047+00:00"
+        "uploaded_at": "2026-11-05T06:02:27.360085+00:00"
       }
     },
     "2074": {
@@ -426051,5 +426045,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T06:02:15.086199+00:00"
+  "updated_at": "2026-11-05T06:02:27.360101+00:00"
 }
