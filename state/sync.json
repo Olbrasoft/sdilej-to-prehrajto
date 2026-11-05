@@ -420450,13 +420450,6 @@
     "14295": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35185407",
-          "reason": "Source detail has no authenticated download link; source_id=35185407",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:14:53.245014+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35185407",
@@ -420469,6 +420462,13 @@
           "target_video_id": "30758092",
           "permanent": false,
           "attempted_at": "2026-11-03T09:46:53.175893+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35185407",
+          "target_video_id": "30758092",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:40:19.390911+00:00"
         }
       ],
       "last_plan": {
@@ -426796,5 +426796,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:40:13.520577+00:00"
+  "updated_at": "2026-11-05T03:40:19.390926+00:00"
 }
