@@ -373235,13 +373235,6 @@
     "36908": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32182358",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-23T18:38:37.866114+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32182358",
           "target_video_id": "30669540",
@@ -373255,6 +373248,14 @@
           "target_video_id": "30669540",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-03T18:53:57.293803+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32182358",
+          "target_video_id": "30669540",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:02:36.393473+00:00"
         }
       ],
       "last_plan": {
@@ -373262,12 +373263,7 @@
         "display_name": "Sniper: Rogue Mission (2022) 1080p CZ Titulky",
         "planned_at": "2026-11-05T04:54:20.346504+00:00"
       },
-      "previous_target_id": "30669540",
-      "prepared": {
-        "target_video_id": "30669540",
-        "size_bytes": 1961009266,
-        "prepared_at": "2026-10-31T14:25:24.163243+00:00"
-      }
+      "previous_target_id": "30669540"
     },
     "16282": {
       "attempts": [],
@@ -426530,5 +426526,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:02:30.254290+00:00"
+  "updated_at": "2026-11-05T05:02:36.393493+00:00"
 }
