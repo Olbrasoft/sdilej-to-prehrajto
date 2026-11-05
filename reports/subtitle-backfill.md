@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:33:42.886867+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:34:13.563967+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -909,7 +909,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Joe Prvý (2025) 1080p CZ Titulky](https://prehraj.to/joe-prvy-2025-1080p-cz-titulky-mkv/6edeac9723e0b978) (ID 29629848) | [Sdílej 34890319](https://sdilej.cz/34890319/joe-the-first-2025-sk-dabing-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:04:16.542154+00:00 |
 | [John Mulaney a parta svačinářů (2019) 1080p CZ Titulky](https://prehraj.to/john-mulaney-a-parta-svacinaru-2019-1080p-cz-titulky-mp4/eaad09f317dd6e25) (ID 29352289) | [Sdílej 34734252](https://sdilej.cz/34734252/john-mulaney-a-parta-svacinaru-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T10:27:01.529140+00:00 |
 | [John and the Hole (2021) 1080p CZ Titulky](https://prehraj.to/john-and-the-hole-2021-1080p-cz-titulky-mkv/6160fc63321e42d1) (ID 30373987) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347756+00:00 |
-| [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:28:39.275163+00:00 |
+| [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:34:13.563856+00:00 |
 | [Jonas Brothers Family Roast (2021) 1080p CZ Titulky](https://prehraj.to/jonas-brothers-family-roast-2021-1080p-cz-titulky-mp4/09ec0f4b8ab593fa) (ID 29639336) | [Sdílej 34772886](https://sdilej.cz/34772886/jonas-brothers-family-roast-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:21:46.775628+00:00 |
 | [Jonathan (2018) 1080p CZ Titulky](https://prehraj.to/jonathan-2018-1080p-cz-titulky-mkv/737365bffba18ce1) (ID 30347611) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347387+00:00 |
 | [Journey to the West: Demon Chapter (2017) SD CZ Titulky](https://prehraj.to/journey-to-the-west-demon-chapter-2017-sd-cz-titulky-mp4/6ba85bdd5bf019a6) (ID 29938773) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.344592+00:00 |
