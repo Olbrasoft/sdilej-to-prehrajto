@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T21:30:36.164174+00:00
+Poslední aktualizace (UTC): 2026-11-05T21:30:50.385964+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -884,7 +884,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Jako malé děti (2006) 1080p CZ Titulky](https://prehraj.to/jako-male-deti-2006-1080p-cz-titulky-mkv/028d4da3cd230799) (ID 29786978) | [Sdílej 29549390](https://sdilej.cz/29549390/little-children-2006-1080p-amzn-web-dl-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:37:21.687767+00:00 |
 | [Jaký otec, takový syn (2013) 1080p CZ Titulky](https://prehraj.to/jaky-otec-takovy-syn-2013-1080p-cz-titulky-mp4/ee47f5378f3f2999) (ID 29320755) | [Sdílej 33466273](https://sdilej.cz/33466273/jaky-otec-takovy-syn-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:29:21.944527+00:00 |
 | [Jakša: Nekompromisní operace (2022) 1080p CZ Titulky](https://prehraj.to/jaksa-nekompromisni-operace-2022-1080p-cz-titulky-mkv/9bbea2c5940043c1) (ID 30451207) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.901831+00:00 |
-| [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T20:35:01.533911+00:00 |
+| [Jamesy Boy (2014) SD CZ Titulky](https://prehraj.to/jamesy-boy-2014-sd-cz-titulky-avi/1fe7836dcfc6b146) (ID 29222680) | [Sdílej 34575081](https://sdilej.cz/34575081/jamesy-boy-2014-cz-titulky-vlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T21:30:50.385842+00:00 |
 | [Janička z Arku (2019) 1080p CZ Titulky](https://prehraj.to/janicka-z-arku-2019-1080p-cz-titulky-mkv/7aa4670675bb359c) (ID 30578693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.902541+00:00 |
 | [Je ne suis pas un homme facile (2018) 1080p CZ Titulky](https://prehraj.to/je-ne-suis-pas-un-homme-facile-2018-1080p-cz-titulky-mkv/265c940fa2240f75) (ID 29271998) | [Sdílej 11763794](https://sdilej.cz/11763794/je-ne-suis-pas-un-homme-facile-i-am-not-an-easy-man-2018-sk-titulky-1080pwebrip-x264-dd5.1-1-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:31:48.542771+00:00 |
 | [Je to jen konec sveta (2016) 1080p CZ Titulky](https://prehraj.to/je-to-jen-konec-sveta-2016-1080p-cz-titulky-mp4/3eaaa5216aaee4c8) (ID 29443232) | [Sdílej 30611907](https://sdilej.cz/30611907/je-to-jen-konec-sveta-2016-fr-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:40:41.291749+00:00 |
