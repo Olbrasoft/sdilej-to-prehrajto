@@ -223311,13 +223311,6 @@
     "29053": {
       "attempts": [
         {
-          "status": "source_discovery_failed",
-          "permanent": false,
-          "selection_policy": "compact-quality-v13",
-          "reason": "Unrecognized search response; refusing empty result; title='Nekdo To Rad V Plzni 2026 online | Sdilej.cz'; bytes=189547; notice=Kvalita Vše 4K 1080p+ 720p+",
-          "attempted_at": "2026-09-30T08:05:51.362340+00:00"
-        },
-        {
           "status": "no_acceptable_source",
           "permanent": false,
           "discovery_complete": true,
@@ -223334,6 +223327,13 @@
           "selection_policy": "compact-quality-v13",
           "reason": "No identity-, language-, and quality-verified source",
           "attempted_at": "2026-10-03T11:53:40.394119+00:00"
+        },
+        {
+          "status": "source_deep_scan_needed",
+          "permanent": true,
+          "selection_policy": "compact-quality-v13",
+          "reason": "A preferred quality tier could not be fully verified",
+          "attempted_at": "2026-11-05T15:54:39.560570+00:00"
         }
       ]
     },
@@ -722748,5 +722748,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-05T15:50:14.986091+00:00"
+  "updated_at": "2026-11-05T15:54:39.560589+00:00"
 }
