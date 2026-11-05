@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:41:49.851151+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:41:59.621484+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -1839,7 +1839,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [The Dark (2018) 4K CZ Titulky](https://prehraj.to/the-dark-2018-4k-cz-titulky-mkv/4ec95b593d9c0936) (ID 29924355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.343927+00:00 |
 | [The Dark and the Wicked (2020) 1080p CZ Titulky](https://prehraj.to/the-dark-and-the-wicked-2020-1080p-cz-titulky-mkv/b2ba9b08af8deb84) (ID 30740614) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349898+00:00 |
 | [The Dawn (2019) 1080p CZ Titulky](https://prehraj.to/the-dawn-2019-1080p-cz-titulky-mp4/46b6a19323059a3e) (ID 30758818) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349991+00:00 |
-| [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:37:50.283503+00:00 |
+| [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:41:59.621369+00:00 |
 | [The Death of Superman (2018) SD CZ Titulky](https://prehraj.to/the-death-of-superman-2018-sd-cz-titulky-mkv/0925d62c1003e89e) (ID 30491330) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348714+00:00 |
 | [The Den (2013) SD CZ Titulky](https://prehraj.to/the-den-2013-sd-cz-titulky-avi/ed587265a2987826) (ID 29642468) | [Sdílej 34453340](https://sdilej.cz/34453340/the-den.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:23:05.166571+00:00 |
 | [The Discovery (2017) 1080p CZ Titulky](https://prehraj.to/the-discovery-2017-1080p-cz-titulky-mkv/dac97060aa7df167) (ID 30309670) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347111+00:00 |
