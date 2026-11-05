@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:31:41.887290+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:31:49.612058+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -442,7 +442,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Dokonalost (2018) 1080p CZ Titulky](https://prehraj.to/dokonalost-2018-1080p-cz-titulky-mkv/aacd345360985794) (ID 30314945) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.942482+00:00 |
 | [Dokonalý džentlmen (1992) SD CZ Titulky](https://prehraj.to/dokonaly-dzentlmen-1992-sd-cz-titulky-avi/12bf9562f2037222) (ID 29651304) | [Sdílej 29910183](https://sdilej.cz/29910183/eddie-murphy-dokonaly-dzentlmen-the-distinguished-gentleman-1992-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:27:50.807838+00:00 |
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:31.676491+00:00 |
-| [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:30:25.911441+00:00 |
+| [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:31:49.611928+00:00 |
 | [Dokud nás vražda nerozdělí (2020) 1080p CZ Titulky](https://prehraj.to/dokud-nas-vrazda-nerozdeli-2020-1080p-cz-titulky-mkv/b9e617e7b9e099d8) (ID 30740233) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.948225+00:00 |
 | [Dokud se tančí (2019) 1080p CZ Titulky](https://prehraj.to/dokud-se-tanci-2019-1080p-cz-titulky-mp4/54645d6125d9cfe5) (ID 29886077) | [Sdílej 34647076](https://sdilej.cz/34647076/dokud-se-tanci-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:42:33.668603+00:00 |
 | [Dolly (2025) 1080p CZ Titulky](https://prehraj.to/dolly-2025-1080p-cz-titulky-mp4/bcb6cb2c8eff9328) (ID 30467869) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.945108+00:00 |
