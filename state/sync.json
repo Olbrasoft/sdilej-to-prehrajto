@@ -211651,13 +211651,6 @@
           "permanent": false,
           "source_id": "34147599",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T18:35:37.151485+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34147599",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:54:52.751471+00:00"
         },
         {
@@ -211666,6 +211659,14 @@
           "target_video_id": "30787784",
           "permanent": false,
           "attempted_at": "2026-11-04T14:35:50.598942+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34147599",
+          "target_video_id": "30787784",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:42:59.726566+00:00"
         }
       ],
       "last_plan": {
@@ -211673,12 +211674,7 @@
         "display_name": "Marsupilami (2026) 1080p CZ Dabing",
         "planned_at": "2026-11-05T07:38:43.159700+00:00"
       },
-      "previous_target_id": "30787784",
-      "prepared": {
-        "target_video_id": "30787784",
-        "size_bytes": 2124633090,
-        "prepared_at": "2026-11-04T14:27:29.232447+00:00"
-      }
+      "previous_target_id": "30787784"
     },
     "17500": {
       "attempts": [],
@@ -425496,5 +425492,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:42:53.571562+00:00"
+  "updated_at": "2026-11-05T07:42:59.726585+00:00"
 }
