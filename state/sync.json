@@ -308395,13 +308395,6 @@
     "6439": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29920168",
-          "reason": "Request failed for https://sdilej.cz/29920168/new-kids-nitro-2011-480p-ac3-sk-komedia.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-18T22:01:24.782683+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "29920168",
@@ -308414,18 +308407,19 @@
           "source_id": "29920168",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T20:04:43.913620+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29920168",
+          "target_video_id": "30797819",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:20:36.878371+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29920168",
         "display_name": "New Kids Nitro (2011) SD SK Dabing",
         "planned_at": "2026-11-04T22:22:03.458718+00:00"
-      },
-      "claim": {
-        "worker_id": "695e00db56d240ba9ed00dc020a50566-shard-0",
-        "claimed_at": "2026-11-05T00:18:49.959902+00:00",
-        "lease_expires_at": "2026-11-05T06:18:49.959902+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30797819",
       "prepared": {
@@ -427359,5 +427353,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T00:18:53.379758+00:00"
+  "updated_at": "2026-11-05T00:20:36.878407+00:00"
 }
