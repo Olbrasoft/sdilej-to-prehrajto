@@ -284996,13 +284996,6 @@
     "5408": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32702682",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-31T17:55:16.354950+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32702682",
           "target_video_id": "30774469",
@@ -285015,6 +285008,13 @@
           "target_video_id": "30774469",
           "permanent": false,
           "attempted_at": "2026-11-05T05:19:39.715765+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32702682",
+          "target_video_id": "30774469",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:47:22.616357+00:00"
         }
       ],
       "last_plan": {
@@ -285505,13 +285505,6 @@
     "5427": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29300113",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-31T17:59:38.253472+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29300113",
           "reason": "Request failed for https://sdilej.cz/29300113/prokleti-the.cursed-aka-eight.for.silver-2021-1080p.hevc.czdab.mkv (HTTP None)",
@@ -285524,6 +285517,13 @@
           "target_video_id": "30805140",
           "permanent": false,
           "attempted_at": "2026-11-05T05:23:08.217107+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29300113",
+          "target_video_id": "30805140",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:47:26.799088+00:00"
         }
       ],
       "last_plan": {
@@ -286060,16 +286060,10 @@
           "attempted_at": "2026-11-05T05:32:22.934143+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33875615",
-        "display_name": "Jarmark marnosti (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:44:22.398009+00:00"
-      },
       "previous_target_id": "30805231",
-      "prepared": {
+      "upload": {
         "target_video_id": "30805231",
-        "size_bytes": 3033910798,
-        "prepared_at": "2026-11-05T05:23:45.407698+00:00"
+        "uploaded_at": "2026-11-05T12:47:28.564100+00:00"
       }
     },
     "33481": {
@@ -425283,5 +425277,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T12:47:11.659186+00:00"
+  "updated_at": "2026-11-05T12:47:28.564134+00:00"
 }
