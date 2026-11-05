@@ -179305,13 +179305,6 @@
           "permanent": false,
           "source_id": "29875935",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-26T19:41:34.352981+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29875935",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T13:49:46.001526+00:00"
         },
         {
@@ -179320,18 +179313,19 @@
           "reason": "Request failed for https://sdilej.cz/29875935/buck-a-kazatel-1972-cz-western.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T08:41:15.105550+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29875935",
+          "target_video_id": "30807768",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:06:24.435202+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29875935",
         "display_name": "Buck a kazatel (1972) SD CZ Dabing",
         "planned_at": "2026-11-05T06:56:18.951335+00:00"
-      },
-      "claim": {
-        "worker_id": "94add75691b945c5b544ee1a6320349f-shard-0",
-        "claimed_at": "2026-11-05T06:59:21.922743+00:00",
-        "lease_expires_at": "2026-11-05T12:59:21.922743+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30807768",
       "prepared": {
@@ -425765,5 +425759,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T06:59:25.894486+00:00"
+  "updated_at": "2026-11-05T07:06:24.435217+00:00"
 }
