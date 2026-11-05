@@ -419605,13 +419605,6 @@
     "13255": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34419605",
-          "reason": "Source detail has no authenticated download link; source_id=34419605",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:10:15.760367+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34419605",
@@ -419624,6 +419617,13 @@
           "target_video_id": "30754750",
           "permanent": false,
           "attempted_at": "2026-11-03T06:55:54.242331+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34419605",
+          "target_video_id": "30754750",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:38:29.093634+00:00"
         }
       ],
       "last_plan": {
@@ -419665,16 +419665,10 @@
           "attempted_at": "2026-11-03T06:57:17.930793+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29856287",
-        "display_name": "Pán kouzel - Ďáblův kámen (2001) SD CZ Dabing",
-        "planned_at": "2026-11-05T03:36:39.629569+00:00"
-      },
       "previous_target_id": "30754836",
-      "prepared": {
+      "upload": {
         "target_video_id": "30754836",
-        "size_bytes": 1058024796,
-        "prepared_at": "2026-11-03T06:56:01.108086+00:00"
+        "uploaded_at": "2026-11-05T03:38:30.662554+00:00"
       }
     },
     "35734": {
@@ -426928,5 +426922,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:38:23.059884+00:00"
+  "updated_at": "2026-11-05T03:38:30.662573+00:00"
 }
