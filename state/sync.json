@@ -214182,14 +214182,6 @@
     "16688": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14038186",
-          "target_video_id": "30571154",
-          "reason": "Target reconciliation unavailable; retry deferred",
-          "attempted_at": "2026-10-27T19:48:21.099943+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "14038186",
           "target_video_id": "30571154",
@@ -214202,6 +214194,13 @@
           "target_video_id": "30571154",
           "permanent": false,
           "attempted_at": "2026-11-04T17:05:52.987384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14038186",
+          "target_video_id": "30571154",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:28:46.712304+00:00"
         }
       ],
       "last_plan": {
@@ -214361,13 +214360,6 @@
     "17033": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "22896311",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T19:49:07.167680+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "22896311",
           "target_video_id": "30707513",
@@ -214380,6 +214372,13 @@
           "target_video_id": "30707513",
           "permanent": false,
           "attempted_at": "2026-11-04T17:05:57.299410+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22896311",
+          "target_video_id": "30707513",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:28:50.451673+00:00"
         }
       ],
       "last_plan": {
@@ -214481,16 +214480,10 @@
           "attempted_at": "2026-11-04T17:10:47.720491+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "25338904",
-        "display_name": "Nicky Larson: Agent amatér (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T08:20:45.508359+00:00"
-      },
       "previous_target_id": "30790107",
-      "prepared": {
+      "upload": {
         "target_video_id": "30790107",
-        "size_bytes": 2152975178,
-        "prepared_at": "2026-11-04T17:06:07.432687+00:00"
+        "uploaded_at": "2026-11-05T08:28:52.142255+00:00"
       }
     },
     "29483": {
@@ -425374,5 +425367,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T08:28:39.942762+00:00"
+  "updated_at": "2026-11-05T08:28:52.142273+00:00"
 }
