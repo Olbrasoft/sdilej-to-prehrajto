@@ -89977,13 +89977,6 @@
     "2469": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33882322",
-          "reason": "Request failed for https://sdilej.cz/33882322/blaznive-2025-romant.komedie-italie-czdab.1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-25T18:23:05.967976+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "33882322",
@@ -89996,18 +89989,19 @@
           "reason": "Request failed for https://sdilej.cz/33882322/blaznive-2025-romant.komedie-italie-czdab.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T07:25:14.077395+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33882322",
+          "target_video_id": "30807300",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:53:00.602513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33882322",
         "display_name": "Bláznivě (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-05T06:40:38.434913+00:00"
-      },
-      "claim": {
-        "worker_id": "7accfed1e620408ca5e0f55cfe5d8cf3-shard-0",
-        "claimed_at": "2026-11-05T06:41:31.553931+00:00",
-        "lease_expires_at": "2026-11-05T12:41:31.553931+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30807300",
       "prepared": {
@@ -425866,5 +425860,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T06:41:35.462360+00:00"
+  "updated_at": "2026-11-05T06:53:00.602561+00:00"
 }
