@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T19:29:56.700389+00:00
+Poslední aktualizace (UTC): 2026-11-05T19:30:06.348351+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -1553,7 +1553,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Rok, kdy jsem začala masturbovat (2022) 1080p CZ Titulky](https://prehraj.to/rok-kdy-jsem-zacala-masturbovat-2022-1080p-cz-titulky-mp4/bbdfbd2beaa38b58) (ID 29722723) | [Sdílej 34726868](https://sdilej.cz/34726868/rok-kdy-jsem-zacala-masturbovat-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:51:26.202807+00:00 |
 | [Ronaldo (2015) SD CZ Titulky](https://prehraj.to/ronaldo-2015-sd-cz-titulky-mkv/646469ea143ffed3) (ID 30293318) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.916482+00:00 |
 | [Ronaldo vs. Messi: Face Off! (2017) 1080p CZ Titulky](https://prehraj.to/ronaldo-vs-messi-face-off-2017-1080p-cz-titulky-mp4/57adab814b4959b1) (ID 30578004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.921102+00:00 |
-| [Ronnie Coleman: Relentless (2007) SD CZ Titulky](https://prehraj.to/ronnie-coleman-relentless-2007-sd-cz-titulky-mp4/b9a3d5e37c0ec05c) (ID 29214549) | [Sdílej 34781462](https://sdilej.cz/34781462/ronnie-coleman-relentless-2007-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:25:36.832124+00:00 |
+| [Ronnie Coleman: Relentless (2007) SD CZ Titulky](https://prehraj.to/ronnie-coleman-relentless-2007-sd-cz-titulky-mp4/b9a3d5e37c0ec05c) (ID 29214549) | [Sdílej 34781462](https://sdilej.cz/34781462/ronnie-coleman-relentless-2007-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T19:30:06.348249+00:00 |
 | [Ronnie Coleman: The King (2018) 1080p CZ Titulky](https://prehraj.to/ronnie-coleman-the-king-2018-1080p-cz-titulky-mp4/965cef32ee3ad9bf) (ID 30050630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.913599+00:00 |
 | [Room for Rent (2019) 1080p CZ Titulky](https://prehraj.to/room-for-rent-2019-1080p-cz-titulky-mp4/a0264f33b207020a) (ID 29719978) | [Sdílej 34773611](https://sdilej.cz/34773611/room-for-rent-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:49:19.063865+00:00 |
 | [Rooney (2022) 720p CZ Titulky](https://prehraj.to/rooney-2022-720p-cz-titulky-mp4/fe1bc46caa543d17) (ID 29216763) | [Sdílej 34726946](https://sdilej.cz/34726946/rooney-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:26:10.754544+00:00 |
