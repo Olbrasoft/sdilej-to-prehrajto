@@ -211307,13 +211307,6 @@
           "permanent": false,
           "source_id": "33677735",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T18:32:18.228553+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33677735",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:52:05.272142+00:00"
         },
         {
@@ -211322,6 +211315,13 @@
           "target_video_id": "30787146",
           "permanent": false,
           "attempted_at": "2026-11-04T13:59:12.242356+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33677735",
+          "target_video_id": "30787146",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:39:10.192298+00:00"
         }
       ],
       "last_plan": {
@@ -211360,16 +211360,10 @@
           "attempted_at": "2026-11-04T14:01:59.663328+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "15101322",
-        "display_name": "Příliv (2020) 720p CZ Dabing",
-        "planned_at": "2026-11-05T07:38:40.428500+00:00"
-      },
       "previous_target_id": "30787191",
-      "prepared": {
+      "upload": {
         "target_video_id": "30787191",
-        "size_bytes": 2080996272,
-        "prepared_at": "2026-11-04T13:59:22.862596+00:00"
+        "uploaded_at": "2026-11-05T07:39:11.999537+00:00"
       }
     },
     "12861": {
@@ -425526,5 +425520,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:39:04.322082+00:00"
+  "updated_at": "2026-11-05T07:39:11.999554+00:00"
 }
