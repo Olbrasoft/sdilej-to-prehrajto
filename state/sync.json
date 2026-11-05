@@ -215367,13 +215367,6 @@
     "14350": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26136325",
-          "reason": "Request failed for https://sdilej.cz/26136325/32-finale.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-27T20:07:37.990983+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26136325",
           "target_video_id": "30709228",
@@ -215386,6 +215379,13 @@
           "target_video_id": "30709228",
           "permanent": false,
           "attempted_at": "2026-11-04T18:03:40.078096+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26136325",
+          "target_video_id": "30709228",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:55:38.598163+00:00"
         }
       ],
       "last_plan": {
@@ -216849,13 +216849,6 @@
     "23187": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34704089",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T20:44:32.283349+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34704089",
           "target_video_id": "30711721",
@@ -216868,6 +216861,13 @@
           "target_video_id": "30711721",
           "permanent": false,
           "attempted_at": "2026-11-04T18:04:55.312757+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34704089",
+          "target_video_id": "30711721",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:55:42.684818+00:00"
         }
       ],
       "last_plan": {
@@ -217615,16 +217615,10 @@
           "attempted_at": "2026-11-04T18:11:45.502709+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11740263",
-        "display_name": "Paterno (2018) SD CZ Dabing",
-        "planned_at": "2026-11-05T08:20:52.142389+00:00"
-      },
       "previous_target_id": "30791032",
-      "prepared": {
+      "upload": {
         "target_video_id": "30791032",
-        "size_bytes": 1491062784,
-        "prepared_at": "2026-11-04T18:06:04.669960+00:00"
+        "uploaded_at": "2026-11-05T08:55:44.696172+00:00"
       }
     },
     "23055": {
@@ -425331,5 +425325,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T08:55:32.480118+00:00"
+  "updated_at": "2026-11-05T08:55:44.696190+00:00"
 }
