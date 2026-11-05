@@ -214795,13 +214795,6 @@
           "permanent": false,
           "source_id": "31385283",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T19:52:15.518855+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31385283",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T21:38:04.614090+00:00"
         },
         {
@@ -214810,18 +214803,19 @@
           "source_id": "31385283",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-04T17:55:04.466721+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31385283",
+          "target_video_id": "30811430",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:53:47.852088+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31385283",
         "display_name": "Life After Fighting (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-05T08:20:48.247429+00:00"
-      },
-      "claim": {
-        "worker_id": "20033519b66f4ac6843b08d433ba72ba-shard-0",
-        "claimed_at": "2026-11-05T08:48:43.448891+00:00",
-        "lease_expires_at": "2026-11-05T14:48:43.448891+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30811430",
       "prepared": {
@@ -425355,5 +425349,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T08:48:48.136719+00:00"
+  "updated_at": "2026-11-05T08:53:47.852106+00:00"
 }
