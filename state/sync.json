@@ -82399,13 +82399,6 @@
     "11417": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34379157",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-31T21:04:56.123932+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34379157",
           "target_video_id": "30779509",
@@ -82418,6 +82411,13 @@
           "target_video_id": "30779509",
           "permanent": false,
           "attempted_at": "2026-11-05T06:09:33.055943+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34379157",
+          "target_video_id": "30779509",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:51:08.475477+00:00"
         }
       ],
       "last_plan": {
@@ -82845,16 +82845,10 @@
           "attempted_at": "2026-11-05T06:39:34.583269+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29053537",
-        "display_name": "Zlouni (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-05T12:49:25.520463+00:00"
-      },
       "previous_target_id": "30806542",
-      "prepared": {
+      "upload": {
         "target_video_id": "30806542",
-        "size_bytes": 12216670379,
-        "prepared_at": "2026-11-05T06:09:45.920699+00:00"
+        "uploaded_at": "2026-11-05T12:51:10.276274+00:00"
       }
     },
     "16088": {
@@ -425254,5 +425248,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T12:51:01.094489+00:00"
+  "updated_at": "2026-11-05T12:51:10.276295+00:00"
 }
