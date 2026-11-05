@@ -307135,13 +307135,6 @@
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34640929",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-29T18:54:09.162737+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34640929",
           "target_video_id": "30341748",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T20:01:22.872475+00:00"
@@ -307152,6 +307145,13 @@
           "target_video_id": "30341748",
           "permanent": false,
           "attempted_at": "2026-11-05T00:07:02.670789+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34640929",
+          "target_video_id": "30341748",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:20:33.753191+00:00"
         }
       ],
       "last_plan": {
@@ -307193,16 +307193,10 @@
           "attempted_at": "2026-11-05T00:18:33.644171+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28608771",
-        "display_name": "Chceš pěstí? (2013) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T11:15:39.152410+00:00"
-      },
       "previous_target_id": "30797608",
-      "prepared": {
+      "upload": {
         "target_video_id": "30797608",
-        "size_bytes": 3517649408,
-        "prepared_at": "2026-11-05T00:07:09.469526+00:00"
+        "uploaded_at": "2026-11-05T11:20:35.601601+00:00"
       }
     },
     "16443": {
@@ -425334,5 +425328,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T11:20:27.066831+00:00"
+  "updated_at": "2026-11-05T11:20:35.601621+00:00"
 }
