@@ -89343,13 +89343,6 @@
     "2620": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "35139959",
-          "target_video_id": "30064488",
-          "permanent": false,
-          "attempted_at": "2026-10-25T18:06:26.983992+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35139959",
@@ -89362,6 +89355,13 @@
           "target_video_id": "30064488",
           "permanent": false,
           "attempted_at": "2026-11-04T07:24:20.695237+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35139959",
+          "target_video_id": "30064488",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:41:31.153674+00:00"
         }
       ],
       "last_plan": {
@@ -90002,6 +90002,18 @@
         "source_id": "33882322",
         "display_name": "Bláznivě (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-05T06:40:38.434913+00:00"
+      },
+      "claim": {
+        "worker_id": "7accfed1e620408ca5e0f55cfe5d8cf3-shard-0",
+        "claimed_at": "2026-11-05T06:41:31.553931+00:00",
+        "lease_expires_at": "2026-11-05T12:41:31.553931+00:00",
+        "run_id": "41961167342"
+      },
+      "previous_target_id": "30807300",
+      "prepared": {
+        "target_video_id": "30807300",
+        "size_bytes": 2265896772,
+        "prepared_at": "2026-11-05T06:41:35.462342+00:00"
       }
     },
     "11294": {
@@ -425854,5 +425866,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T06:41:24.497398+00:00"
+  "updated_at": "2026-11-05T06:41:35.462360+00:00"
 }
