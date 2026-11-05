@@ -424995,13 +424995,6 @@
     "12318": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34401052",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-22T17:04:36.127620+00:00"
-        },
-        {
           "status": "upload_failed",
           "source_id": "34401052",
           "reason": "HTTPError",
@@ -425015,6 +425008,13 @@
           "target_video_id": "30765715",
           "permanent": false,
           "attempted_at": "2026-11-03T15:26:06.595856+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34401052",
+          "target_video_id": "30765715",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:45:53.201310+00:00"
         }
       ],
       "last_plan": {
@@ -425131,13 +425131,6 @@
           "source_id": "23137056",
           "target_video_id": "30442112",
           "permanent": false,
-          "attempted_at": "2026-10-22T17:06:10.798458+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23137056",
-          "target_video_id": "30442112",
-          "permanent": false,
           "attempted_at": "2026-10-30T23:44:31.250775+00:00"
         },
         {
@@ -425146,6 +425139,13 @@
           "target_video_id": "30442112",
           "permanent": false,
           "attempted_at": "2026-11-03T15:26:44.488405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23137056",
+          "target_video_id": "30442112",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:45:57.133878+00:00"
         }
       ],
       "last_plan": {
@@ -425234,13 +425234,6 @@
           "source_id": "26254015",
           "target_video_id": "30442240",
           "permanent": false,
-          "attempted_at": "2026-10-22T17:19:38.942716+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26254015",
-          "target_video_id": "30442240",
-          "permanent": false,
           "attempted_at": "2026-10-30T23:44:48.731137+00:00"
         },
         {
@@ -425249,6 +425242,13 @@
           "target_video_id": "30442240",
           "permanent": false,
           "attempted_at": "2026-11-03T15:26:48.497319+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26254015",
+          "target_video_id": "30442240",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:46:00.763989+00:00"
         }
       ],
       "last_plan": {
@@ -425363,13 +425363,6 @@
     "13349": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32817967",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-22T17:47:20.307135+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "32817967",
           "target_video_id": "30648990",
@@ -425382,6 +425375,13 @@
           "target_video_id": "30648990",
           "permanent": false,
           "attempted_at": "2026-11-03T15:27:07.150164+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32817967",
+          "target_video_id": "30648990",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:46:04.084191+00:00"
         }
       ],
       "last_plan": {
@@ -425474,13 +425474,6 @@
     "28682": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34900276",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-22T17:48:23.036341+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34900276",
           "reason": "Source detail has no authenticated download link; source_id=34900276",
@@ -425493,6 +425486,13 @@
           "reason": "Source detail has no authenticated download link; source_id=34900276",
           "permanent": false,
           "attempted_at": "2026-11-03T15:28:16.483608+00:00"
+        },
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34900276",
+          "reason": "Source detail has no authenticated download link; source_id=34900276",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:46:06.254727+00:00"
         }
       ],
       "last_plan": {
@@ -426551,5 +426551,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:45:47.213794+00:00"
+  "updated_at": "2026-11-05T03:46:06.254744+00:00"
 }
