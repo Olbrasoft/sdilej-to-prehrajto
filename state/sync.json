@@ -211414,13 +211414,6 @@
           "permanent": false,
           "source_id": "26684346",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T18:33:32.130297+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26684346",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:52:47.138747+00:00"
         },
         {
@@ -211429,18 +211422,19 @@
           "reason": "Request failed for https://sdilej.cz/26684346/lego-disney-princezny-dobrodruzstvi-na-zamku-lego-disney-princess-the-castle-quest-2023-webrip-720p-cz-dabing.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T14:02:04.218260+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26684346",
+          "target_video_id": "30808963",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:42:31.469356+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26684346",
         "display_name": "LEGO Disney Princezny: Dobrodružství na zámku (2023) 720p CZ Dabing",
         "planned_at": "2026-11-05T07:38:40.816918+00:00"
-      },
-      "claim": {
-        "worker_id": "c28ff8ac2d9148929ca9d605ed7fca91-shard-0",
-        "claimed_at": "2026-11-05T07:39:14.834546+00:00",
-        "lease_expires_at": "2026-11-05T13:39:14.834546+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30808963",
       "prepared": {
@@ -425532,5 +425526,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:39:18.527395+00:00"
+  "updated_at": "2026-11-05T07:42:31.469372+00:00"
 }
