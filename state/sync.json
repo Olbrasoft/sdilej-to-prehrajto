@@ -179766,13 +179766,6 @@
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32763810",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-26T19:49:53.059272+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32763810",
           "target_video_id": "30157328",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-01T13:58:30.699962+00:00"
@@ -179783,6 +179776,13 @@
           "target_video_id": "30157328",
           "permanent": false,
           "attempted_at": "2026-11-04T09:09:27.811422+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32763810",
+          "target_video_id": "30157328",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:11:53.316302+00:00"
         }
       ],
       "last_plan": {
@@ -179860,16 +179860,10 @@
           "attempted_at": "2026-11-04T09:18:27.402083+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34528495",
-        "display_name": "Špindl 2 (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T07:09:00.542737+00:00"
-      },
       "previous_target_id": "30782882",
-      "prepared": {
+      "upload": {
         "target_video_id": "30782882",
-        "size_bytes": 4773655736,
-        "prepared_at": "2026-11-04T09:09:34.281714+00:00"
+        "uploaded_at": "2026-11-05T07:11:55.038390+00:00"
       }
     },
     "4602": {
@@ -425749,5 +425743,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:11:46.499986+00:00"
+  "updated_at": "2026-11-05T07:11:55.038408+00:00"
 }
