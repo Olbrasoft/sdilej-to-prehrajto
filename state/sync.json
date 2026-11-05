@@ -116466,13 +116466,6 @@
           "permanent": false,
           "source_id": "30420191",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-25T18:56:52.429025+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30420191",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T22:46:12.458092+00:00"
         },
         {
@@ -116481,6 +116474,13 @@
           "target_video_id": "30070953",
           "permanent": false,
           "attempted_at": "2026-11-04T07:38:38.164983+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30420191",
+          "target_video_id": "30070953",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:53:46.115446+00:00"
         }
       ],
       "last_plan": {
@@ -263331,16 +263331,10 @@
           "attempted_at": "2026-11-04T07:42:40.775193+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35433424",
-        "display_name": "Henry & June (1990) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T06:40:42.750049+00:00"
-      },
       "previous_target_id": "30781646",
-      "prepared": {
+      "upload": {
         "target_video_id": "30781646",
-        "size_bytes": 5132599623,
-        "prepared_at": "2026-11-04T07:39:22.336524+00:00"
+        "uploaded_at": "2026-11-05T06:53:47.845358+00:00"
       }
     },
     "27710": {
@@ -425830,5 +425824,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T06:53:39.979832+00:00"
+  "updated_at": "2026-11-05T06:53:47.845375+00:00"
 }
