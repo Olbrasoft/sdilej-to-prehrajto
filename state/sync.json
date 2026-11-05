@@ -420282,13 +420282,6 @@
     "9879": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32251502",
-          "reason": "Source detail has no authenticated download link; source_id=32251502",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:13:59.869356+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32251502",
@@ -420301,6 +420294,14 @@
           "target_video_id": "30757919",
           "permanent": false,
           "attempted_at": "2026-11-03T09:32:10.366221+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32251502",
+          "target_video_id": "30757919",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:39:55.416559+00:00"
         }
       ],
       "last_plan": {
@@ -420308,12 +420309,7 @@
         "display_name": "Příběh Popelky (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-05T03:36:46.199667+00:00"
       },
-      "previous_target_id": "30757919",
-      "prepared": {
-        "target_video_id": "30757919",
-        "size_bytes": 2446018811,
-        "prepared_at": "2026-11-03T09:29:09.480894+00:00"
-      }
+      "previous_target_id": "30757919"
     },
     "36799": {
       "attempts": []
@@ -426824,5 +426820,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:39:49.673914+00:00"
+  "updated_at": "2026-11-05T03:39:55.416576+00:00"
 }
