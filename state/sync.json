@@ -420563,13 +420563,6 @@
     "10174": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "10927604",
-          "reason": "Source detail has no authenticated download link; source_id=10927604",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:15:29.015808+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "10927604",
@@ -420582,6 +420575,13 @@
           "target_video_id": "30758411",
           "permanent": false,
           "attempted_at": "2026-11-03T10:04:24.981838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10927604",
+          "target_video_id": "30758411",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:41:07.267974+00:00"
         }
       ],
       "last_plan": {
@@ -420629,16 +420629,10 @@
           "attempted_at": "2026-11-03T10:08:26.210793+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32494628",
-        "display_name": "Jezero vs. Anakonda (2015) SD CZ Dabing",
-        "planned_at": "2026-11-05T03:40:36.379448+00:00"
-      },
       "previous_target_id": "30758472",
-      "prepared": {
+      "upload": {
         "target_video_id": "30758472",
-        "size_bytes": 1433486595,
-        "prepared_at": "2026-11-03T10:04:34.515331+00:00"
+        "uploaded_at": "2026-11-05T03:41:09.035166+00:00"
       }
     },
     "20667": {
@@ -426791,5 +426785,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:41:01.284920+00:00"
+  "updated_at": "2026-11-05T03:41:09.035182+00:00"
 }
