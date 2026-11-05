@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:32:35.214723+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:32:43.288028+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -809,7 +809,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Hra o trůny: Poslední hlídka (2019) 1080p CZ Titulky](https://prehraj.to/hra-o-truny-posledni-hlidka-2019-1080p-cz-titulky-mkv/19009545bf36ba5d) (ID 30497439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.945593+00:00 |
 | [Hranice ovládání (2009) 720p CZ Titulky](https://prehraj.to/hranice-ovladani-2009-720p-cz-titulky-mp4/1e44c7b60b432cb3) (ID 29996684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.937099+00:00 |
 | [Hrdina až do konce (2017) 1080p CZ Titulky](https://prehraj.to/hrdina-az-do-konce-2017-1080p-cz-titulky-mkv/b6bb0961fc13412a) (ID 30574121) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.946265+00:00 |
-| [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:31:15.685430+00:00 |
+| [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:32:43.287922+00:00 |
 | [Hunger Games: Úsvit sklizně (2026) 1080p CZ Titulky](https://prehraj.to/hunger-games-usvit-sklizne-2026-1080p-cz-titulky-mp4/2a3d8b715e2f8786) (ID 30816083) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.949694+00:00 |
 | [Hunt (2022) 1080p CZ Titulky](https://prehraj.to/hunt-2022-1080p-cz-titulky-mp4/4594b30c9cf761e2) (ID 30523897) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.945701+00:00 |
 | [Hunted (2020) 1080p CZ Titulky](https://prehraj.to/hunted-2020-1080p-cz-titulky-mkv/0f07ff8c28da87c9) (ID 29434313) | [Sdílej 16064242](https://sdilej.cz/16064242/hunted-akcni-horor-thriller-2020.1080p.webrip.2.0.x264.bez.titulku.66-.sten.ok.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:36.599075+00:00 |
