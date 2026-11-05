@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:41:40.687868+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:41:49.851151+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -1780,7 +1780,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Tales of Halloween (2015) SD CZ Titulky](https://prehraj.to/tales-of-halloween-2015-sd-cz-titulky-mp4/cc836cc47e762493) (ID 29736454) | [Sdílej 13554704](https://sdilej.cz/13554704/tales.of.halloween.2015.web-dl.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:03:06.196357+00:00 |
 | [Tallulah (2016) 720p CZ Titulky](https://prehraj.to/tallulah-2016-720p-cz-titulky-mkv/26692e31a3b5f805) (ID 30533248) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348814+00:00 |
 | [Tamasha (2015) SD CZ Titulky](https://prehraj.to/tamasha-2015-sd-cz-titulky-mp4/e11ceddd4b37b21a) (ID 30481928) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348650+00:00 |
-| [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:37:40.071806+00:00 |
+| [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:41:49.851029+00:00 |
 | [Tanec s vášní: Rozbal to! (2008) 1080p CZ Titulky](https://prehraj.to/tanec-s-vasni-rozbal-to-2008-1080p-cz-titulky-mp4/c1fb415aa63333fe) (ID 30582208) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349056+00:00 |
 | [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:38:05.849600+00:00 |
 | [Tarka the Otter (1979) SD CZ Titulky](https://prehraj.to/tarka-the-otter-1979-sd-cz-titulky-mp4/a623af7368961f52) (ID 30070924) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.345514+00:00 |
