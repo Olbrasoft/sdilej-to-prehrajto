@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:30:40.959731+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:30:49.155062+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -323,7 +323,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Chlapec a jeho pes (1975) SD CZ Titulky](https://prehraj.to/chlapec-a-jeho-pes-1975-sd-cz-titulky-mkv/4ba7ed7d2b73c128) (ID 29229723) | [Sdílej 34831485](https://sdilej.cz/34831485/a-boy-and-his-dog-1975-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:30.588622+00:00 |
 | [Chlapec, krtek, liška a kůň (2022) 1080p CZ Titulky](https://prehraj.to/chlapec-krtek-liska-a-kun-2022-1080p-cz-titulky-mp4/d62b51508d0385fe) (ID 29325376) | [Sdílej 34646835](https://sdilej.cz/34646835/chlapec-krtek-liska-a-kun-2022-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T08:30:39.763113+00:00 |
 | [Chlast (2020) 1080p CZ Titulky](https://prehraj.to/chlast-2020-1080p-cz-titulky-mp4/2af5d83c1c35af4a) (ID 29321672) | [Sdílej 32655241](https://sdilej.cz/32655241/chlast-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:29:38.225736+00:00 |
-| [Christmas in Tune (2021) 1080p CZ Titulky](https://prehraj.to/christmas-in-tune-2021-1080p-cz-titulky-mp4/e09325e7e40da953) (ID 29256609) | [Sdílej 34773020](https://sdilej.cz/34773020/christmas-in-tune-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:29:13.636855+00:00 |
+| [Christmas in Tune (2021) 1080p CZ Titulky](https://prehraj.to/christmas-in-tune-2021-1080p-cz-titulky-mp4/e09325e7e40da953) (ID 29256609) | [Sdílej 34773020](https://sdilej.cz/34773020/christmas-in-tune-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:49.154938+00:00 |
 | [Chuckův život (2024) 4K CZ Titulky](https://prehraj.to/chuckuv-zivot-2024-4k-cz-titulky-mkv/8b725145c79404be) (ID 30026756) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.937501+00:00 |
 | [Chum (2026) 1080p CZ Titulky](https://prehraj.to/chum-2026-1080p-cz-titulky-mkv/f776d9ad1711e741) (ID 29088573) | [Sdílej 34473094](https://sdilej.cz/34473094/chum-2026-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:43.732448+00:00 |
 | [Chyba v Matrixu (2021) 1080p CZ Titulky](https://prehraj.to/chyba-v-matrixu-2021-1080p-cz-titulky-mp4/38e549b6c8448b20) (ID 29650917) | [Sdílej 26322552](https://sdilej.cz/26322552/a-glitch-in-the-matrix-2021-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:27:35.030649+00:00 |
