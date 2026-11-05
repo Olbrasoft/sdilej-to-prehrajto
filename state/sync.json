@@ -420250,13 +420250,6 @@
     "10377": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "32105220",
-          "reason": "Source detail has no authenticated download link; source_id=32105220",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:13:50.575703+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32105220",
@@ -420269,6 +420262,14 @@
           "target_video_id": "30757833",
           "permanent": false,
           "attempted_at": "2026-11-03T09:28:58.698974+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32105220",
+          "target_video_id": "30757833",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:39:49.673896+00:00"
         }
       ],
       "last_plan": {
@@ -420276,12 +420277,7 @@
         "display_name": "12 hodin na odplatu (2022) 720p CZ Dabing",
         "planned_at": "2026-11-05T03:36:45.852843+00:00"
       },
-      "previous_target_id": "30757833",
-      "prepared": {
-        "target_video_id": "30757833",
-        "size_bytes": 2591025688,
-        "prepared_at": "2026-11-03T09:24:20.055726+00:00"
-      }
+      "previous_target_id": "30757833"
     },
     "9879": {
       "attempts": [
@@ -426828,5 +426824,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:39:43.627485+00:00"
+  "updated_at": "2026-11-05T03:39:49.673914+00:00"
 }
