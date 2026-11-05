@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:40:34.191542+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:40:45.273688+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -1543,7 +1543,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Roadrunner: Film o Anthonym Bourdainovi (2021) 1080p CZ Titulky](https://prehraj.to/roadrunner-film-o-anthonym-bourdainovi-2021-1080p-cz-titulky-mp4/8f39ffccc8497830) (ID 29559554) | [Sdílej 34772730](https://sdilej.cz/34772730/roadrunner-film-o-anthonym-bourdainovi-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:55:18.649909+00:00 |
 | [Robert the Bruce (2019) 720p CZ Titulky](https://prehraj.to/robert-the-bruce-2019-720p-cz-titulky-mp4/db1e6f5556e9487c) (ID 29912743) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.343345+00:00 |
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.343129+00:00 |
-| [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:36:25.071165+00:00 |
+| [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:40:45.273579+00:00 |
 | [Rodinný krb (1970) SD CZ Titulky](https://prehraj.to/rodinny-krb-1970-sd-cz-titulky-mp4/eca664652afc269e) (ID 30486498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348687+00:00 |
 | [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:43:25.102759+00:00 |
 | [Rogue Hostage (2021) SD CZ Titulky](https://prehraj.to/rogue-hostage-2021-sd-cz-titulky-mkv/f1f67d27465998cc) (ID 30633004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349550+00:00 |
