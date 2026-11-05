@@ -421061,13 +421061,6 @@
     "9923": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35072687",
-          "reason": "Source detail has no authenticated download link; source_id=35072687",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:19:00.509597+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35072687",
@@ -421080,6 +421073,13 @@
           "target_video_id": "30759678",
           "permanent": false,
           "attempted_at": "2026-11-03T11:13:22.539571+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072687",
+          "target_video_id": "30759678",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:42:10.088082+00:00"
         }
       ],
       "last_plan": {
@@ -421121,16 +421121,10 @@
           "attempted_at": "2026-11-03T11:15:04.835340+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "4947409",
-        "display_name": "Pan Magor (1997) SD CZ Dabing",
-        "planned_at": "2026-11-05T03:40:41.540612+00:00"
-      },
       "previous_target_id": "30759695",
-      "prepared": {
+      "upload": {
         "target_video_id": "30759695",
-        "size_bytes": 1046188666,
-        "prepared_at": "2026-11-03T11:13:30.320091+00:00"
+        "uploaded_at": "2026-11-05T03:42:11.732434+00:00"
       }
     },
     "16510": {
@@ -426707,5 +426701,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:42:03.766337+00:00"
+  "updated_at": "2026-11-05T03:42:11.732452+00:00"
 }
