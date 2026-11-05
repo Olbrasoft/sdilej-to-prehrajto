@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T21:32:08.737490+00:00
+Poslední aktualizace (UTC): 2026-11-05T21:32:17.990993+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -506,7 +506,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Elitní jednotka 2: Vnitřní nepřítel (2010) 1080p CZ Titulky](https://prehraj.to/elitni-jednotka-2-vnitrni-nepritel-2010-1080p-cz-titulky-mkv/2edf16744908e288) (ID 29178613) | [Sdílej 26776202](https://sdilej.cz/26776202/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-titulky-vlozeny.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:41:40.687752+00:00 |
 | [Elizabeth Taylor: Ztracené nahrávky (2024) 1080p CZ Titulky](https://prehraj.to/elizabeth-taylor-ztracene-nahravky-2024-1080p-cz-titulky-mp4/62c39813e89e7b1c) (ID 29440774) | [Sdílej 34725065](https://sdilej.cz/34725065/elizabeth-taylor-ztracene-nahravky-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:40:22.438602+00:00 |
 | [Ella McCay (2025) 1080p CZ Titulky](https://prehraj.to/ella-mccay-2025-1080p-cz-titulky-mkv/70def997c20f290d) (ID 30368292) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.900369+00:00 |
-| [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T20:36:29.464257+00:00 |
+| [Elon Musk: The Real Life Iron Man (2018) 1080p CZ Titulky](https://prehraj.to/elon-musk-the-real-life-iron-man-2018-1080p-cz-titulky-mp4/025ec2ed320d6e8d) (ID 29234125) | [Sdílej 34737048](https://sdilej.cz/34737048/elon-musk-the-real-life-iron-man-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T21:32:17.990884+00:00 |
 | [Emanuelle e gli ultimi cannibali (1977) SD CZ Titulky](https://prehraj.to/emanuelle-e-gli-ultimi-cannibali-1977-sd-cz-titulky-mp4/71072ef62e57ce57) (ID 29904303) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.893674+00:00 |
 | [Emergency Declaration (2022) 1080p CZ Titulky](https://prehraj.to/emergency-declaration-2022-1080p-cz-titulky-mp4/d39527d39f10afc0) (ID 30680111) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.903119+00:00 |
 | [Emergo (2011) SD CZ Titulky](https://prehraj.to/emergo-2011-sd-cz-titulky-avi/599cab8aee7bbe96) (ID 30401101) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.901005+00:00 |
