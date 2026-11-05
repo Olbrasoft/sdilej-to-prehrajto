@@ -182241,13 +182241,6 @@
           "permanent": false,
           "source_id": "12043020",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-26T20:00:07.707640+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12043020",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T15:48:18.984390+00:00"
         },
         {
@@ -182256,18 +182249,19 @@
           "reason": "Request failed for https://sdilej.cz/12043020/blaze.2018.480p.bluray.cz.dabing.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T10:05:50.080644+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12043020",
+          "target_video_id": "30808627",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:27:25.233206+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12043020",
         "display_name": "Blaze (2018) SD CZ Dabing",
         "planned_at": "2026-11-05T07:09:05.493169+00:00"
-      },
-      "claim": {
-        "worker_id": "b83879a3efdb4557aa707b42b261ce8f-shard-0",
-        "claimed_at": "2026-11-05T07:25:48.546681+00:00",
-        "lease_expires_at": "2026-11-05T13:25:48.546681+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30808627",
       "prepared": {
@@ -425719,5 +425713,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:25:52.123296+00:00"
+  "updated_at": "2026-11-05T07:27:25.233224+00:00"
 }
