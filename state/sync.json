@@ -372378,13 +372378,6 @@
     "7809": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30548022",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-23T18:35:33.300589+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "30548022",
           "reason": "Request failed for https://sdilej.cz/30548022/sympatie-k-dablu-sympathy-for-the-devil-1080p-bluray-x264-dts-en-eac3-cz-2023.mkv (HTTP None)",
@@ -372397,18 +372390,19 @@
           "source_id": "30548022",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-03T18:51:20.387358+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30548022",
+          "target_video_id": "30804474",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:02:24.036002+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30548022",
         "display_name": "Sympatie k ďáblu (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-05T04:54:19.563931+00:00"
-      },
-      "claim": {
-        "worker_id": "306f248a37e74d40954236059936a56f-shard-0",
-        "claimed_at": "2026-11-05T04:56:02.195332+00:00",
-        "lease_expires_at": "2026-11-05T10:56:02.195332+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30804474",
       "prepared": {
@@ -426536,5 +426530,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T04:56:05.773503+00:00"
+  "updated_at": "2026-11-05T05:02:24.036022+00:00"
 }
