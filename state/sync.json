@@ -388073,13 +388073,6 @@
           "permanent": false,
           "source_id": "27999054",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-05T16:13:00.038307+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27999054",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-05T18:28:46.872881+00:00"
         },
         {
@@ -388088,18 +388081,19 @@
           "reason": "Request failed for https://sdilej.cz/27999054/i.s.s.2023.1080p.amzn.web-dl.ddp5.1.h.264-flux.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-05T21:27:49.531648+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27999054",
+          "target_video_id": "30833947",
+          "permanent": false,
+          "attempted_at": "2026-11-05T23:10:09.445313+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27999054",
         "display_name": "I.S.S. (2023) 1080p CZ Titulky",
         "planned_at": "2026-11-05T22:05:27.216516+00:00"
-      },
-      "claim": {
-        "worker_id": "b5938e124d95458c87604d93baba9c18-shard-0",
-        "claimed_at": "2026-11-05T22:05:39.237278+00:00",
-        "lease_expires_at": "2026-11-06T04:05:39.237278+00:00",
-        "run_id": "42111255263"
       },
       "previous_target_id": "30833947",
       "prepared": {
@@ -425138,5 +425132,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T22:06:42.137497+00:00"
+  "updated_at": "2026-11-05T23:10:09.445332+00:00"
 }
