@@ -286707,13 +286707,6 @@
           "permanent": false,
           "source_id": "33875615",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-24T18:42:41.483718+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33875615",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:02:25.272422+00:00"
         },
         {
@@ -286722,18 +286715,19 @@
           "reason": "Request failed for https://sdilej.cz/33875615/jarmark-marnosti-2004-romant.drama-reese-witherspoon-czdab.1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T23:19:26.155847+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33875615",
+          "target_video_id": "30805231",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:32:22.934143+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33875615",
         "display_name": "Jarmark marnosti (2004) 1080p CZ Dabing",
         "planned_at": "2026-11-05T05:16:42.333077+00:00"
-      },
-      "claim": {
-        "worker_id": "cd2ca9db1c0f4a9a848f70326ae64e59-shard-0",
-        "claimed_at": "2026-11-05T05:23:41.578397+00:00",
-        "lease_expires_at": "2026-11-05T11:23:41.578397+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30805231",
       "prepared": {
@@ -426229,5 +426223,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:23:45.407716+00:00"
+  "updated_at": "2026-11-05T05:32:22.934161+00:00"
 }
