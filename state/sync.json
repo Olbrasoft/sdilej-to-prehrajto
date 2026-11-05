@@ -414241,13 +414241,6 @@
     "10000": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33768760",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-30T18:56:47.091309+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33768760",
           "target_video_id": "30420338",
@@ -414260,6 +414253,13 @@
           "target_video_id": "30420338",
           "permanent": false,
           "attempted_at": "2026-11-05T02:09:20.364906+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33768760",
+          "target_video_id": "30420338",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:26:51.169053+00:00"
         }
       ],
       "last_plan": {
@@ -414346,16 +414346,10 @@
           "attempted_at": "2026-11-05T02:18:23.839713+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "23614378",
-        "display_name": "Highlander 4: Zúčtování (2000) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T11:24:08.430798+00:00"
-      },
       "previous_target_id": "30800309",
-      "prepared": {
+      "upload": {
         "target_video_id": "30800309",
-        "size_bytes": 2066994084,
-        "prepared_at": "2026-11-05T02:09:24.193220+00:00"
+        "uploaded_at": "2026-11-05T11:26:53.321744+00:00"
       }
     },
     "31046": {
@@ -425262,5 +425256,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T11:26:43.876340+00:00"
+  "updated_at": "2026-11-05T11:26:53.321765+00:00"
 }
