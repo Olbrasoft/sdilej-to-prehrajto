@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:42:39.606773+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:42:52.591870+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -1695,7 +1695,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Soukromá síť: Kdo zabil Manuela Buendíu? (2021) 1080p CZ Titulky](https://prehraj.to/soukroma-sit-kdo-zabil-manuela-buendiu-2021-1080p-cz-titulky-mp4/905654ccedbc1731) (ID 29649266) | [Sdílej 34728765](https://sdilej.cz/34728765/soukroma-sit-kdo-zabil-manuela-buendiu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:26:43.965822+00:00 |
 | [Soukromý život (2025) 1080p CZ Titulky](https://prehraj.to/soukromy-zivot-2025-1080p-cz-titulky-mkv/56b00ead2a271b34) (ID 30350525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347437+00:00 |
 | [Soulm8te (2026) 1440p CZ Titulky](https://prehraj.to/soulm8te-2026-1440p-cz-titulky-mkv/50c0dedad110bb7f) (ID 29911136) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.343137+00:00 |
-| [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:38:48.867243+00:00 |
+| [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:42:52.591593+00:00 |
 | [South Beach Love (2021) 1080p CZ Titulky](https://prehraj.to/south-beach-love-2021-1080p-cz-titulky-mp4/94665adec81e0283) (ID 30212588) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.346209+00:00 |
 | [Southbound (2015) 1080p CZ Titulky](https://prehraj.to/southbound-2015-1080p-cz-titulky-mp4/270d142bfbf9f0f8) (ID 29919146) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.343725+00:00 |
 | [Space Battleship Yamato (2010) 1080p CZ Titulky](https://prehraj.to/space-battleship-yamato-2010-1080p-cz-titulky-mkv/28d1dfb668eaa74d) (ID 30596591) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349177+00:00 |
