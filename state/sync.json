@@ -210701,13 +210701,6 @@
           "permanent": false,
           "source_id": "33507609",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-27T18:04:27.699805+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33507609",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T19:39:32.583666+00:00"
         },
         {
@@ -210717,6 +210710,14 @@
           "permanent": false,
           "target_video_id": "30785821",
           "attempted_at": "2026-11-04T13:05:30.133979+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "33507609",
+          "target_video_id": "30785821",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-05T07:38:07.566952+00:00"
         }
       ],
       "last_plan": {
@@ -210912,13 +210913,6 @@
     "29096": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "5965772",
-          "target_video_id": "30569577",
-          "permanent": false,
-          "attempted_at": "2026-10-27T18:22:29.626373+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "5965772",
@@ -210932,6 +210926,13 @@
           "target_video_id": "30569577",
           "permanent": false,
           "attempted_at": "2026-11-04T13:05:59.629821+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5965772",
+          "target_video_id": "30569577",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:38:11.236279+00:00"
         }
       ],
       "last_plan": {
@@ -211076,16 +211077,10 @@
           "attempted_at": "2026-11-04T13:25:55.087578+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "25405323",
-        "display_name": "Než přijde pan Bojangles (2021) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T07:31:10.462858+00:00"
-      },
       "previous_target_id": "30786121",
-      "prepared": {
+      "upload": {
         "target_video_id": "30786121",
-        "size_bytes": 4225048372,
-        "prepared_at": "2026-11-04T13:06:49.435371+00:00"
+        "uploaded_at": "2026-11-05T07:38:13.011624+00:00"
       }
     },
     "11639": {
@@ -425561,5 +425556,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:38:03.405680+00:00"
+  "updated_at": "2026-11-05T07:38:13.011642+00:00"
 }
