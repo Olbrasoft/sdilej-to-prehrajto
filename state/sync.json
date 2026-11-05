@@ -304876,13 +304876,6 @@
           "permanent": false,
           "source_id": "20756485",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-29T17:46:02.692662+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20756485",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T18:56:20.211734+00:00"
         },
         {
@@ -304891,18 +304884,19 @@
           "reason": "Authenticated fast download link is unavailable; premium login is required",
           "permanent": false,
           "attempted_at": "2026-11-04T21:21:08.871851+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20756485",
+          "target_video_id": "30815168",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:12:57.491836+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20756485",
         "display_name": "Ninja z New Yorku (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-05T09:52:36.968278+00:00"
-      },
-      "claim": {
-        "worker_id": "d6a340dda7bb4731af95eb668995a986-shard-0",
-        "claimed_at": "2026-11-05T10:56:36.370744+00:00",
-        "lease_expires_at": "2026-11-05T16:56:36.370744+00:00",
-        "run_id": "42001749981"
       },
       "previous_target_id": "30815168",
       "prepared": {
@@ -425423,5 +425417,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T10:56:40.248952+00:00"
+  "updated_at": "2026-11-05T11:12:57.491856+00:00"
 }
