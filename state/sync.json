@@ -398449,13 +398449,6 @@
     "8766": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35183173",
-          "reason": "Request failed for https://sdilej.cz/35183173/neprofesionalove-2013-cz-dabing-1080p-fhd.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-20T22:37:51.489844+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "35183173",
           "target_video_id": "30628058",
@@ -398468,6 +398461,13 @@
           "target_video_id": "30628058",
           "permanent": false,
           "attempted_at": "2026-11-03T02:08:35.762546+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35183173",
+          "target_video_id": "30628058",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:23:17.785350+00:00"
         }
       ],
       "last_plan": {
@@ -398543,13 +398543,6 @@
           "source_id": "35264744",
           "reason": "Request failed for https://sdilej.cz/35264744/the-visitor-cz-dabing-2022-.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-10-20T22:43:29.905461+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "35264744",
-          "reason": "Request failed for https://sdilej.cz/35264744/the-visitor-cz-dabing-2022-.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-10-30T06:45:44.262982+00:00"
         },
         {
@@ -398558,6 +398551,14 @@
           "target_video_id": "30747942",
           "permanent": false,
           "attempted_at": "2026-11-03T02:14:27.338909+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "35264744",
+          "target_video_id": "30747942",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:23:21.088234+00:00"
         }
       ],
       "last_plan": {
@@ -398565,12 +398566,7 @@
         "display_name": "The Visitor (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:01:32.784234+00:00"
       },
-      "previous_target_id": "30747942",
-      "prepared": {
-        "target_video_id": "30747942",
-        "size_bytes": 3272738029,
-        "prepared_at": "2026-11-03T02:08:40.262943+00:00"
-      }
+      "previous_target_id": "30747942"
     },
     "8537": {
       "attempts": [
@@ -427089,5 +427085,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T01:23:10.957869+00:00"
+  "updated_at": "2026-11-05T01:23:21.088254+00:00"
 }
