@@ -414971,13 +414971,6 @@
           "permanent": false,
           "source_id": "29401933",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-21T19:02:52.796322+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29401933",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-30T18:50:36.160164+00:00"
         },
         {
@@ -414986,18 +414979,19 @@
           "reason": "Request failed for https://sdilej.cz/29401933/elitni-zabijaci-1080p-.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T03:34:46.244187+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29401933",
+          "target_video_id": "30800042",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:05:55.879348+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29401933",
         "display_name": "Elitní zabiják (2014) 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:24:30.879036+00:00"
-      },
-      "claim": {
-        "worker_id": "434cd67277044cd89fcc792d8520fdaa-shard-0",
-        "claimed_at": "2026-11-05T01:59:00.259896+00:00",
-        "lease_expires_at": "2026-11-05T07:59:00.259896+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30800042",
       "prepared": {
@@ -427033,5 +427027,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T01:59:03.960245+00:00"
+  "updated_at": "2026-11-05T02:05:55.879366+00:00"
 }
