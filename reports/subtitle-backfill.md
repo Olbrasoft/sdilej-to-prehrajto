@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T19:30:25.945007+00:00
+Poslední aktualizace (UTC): 2026-11-05T19:30:34.426007+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -1612,7 +1612,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Sesterstvo (2023) 1080p CZ Titulky](https://prehraj.to/sesterstvo-2023-1080p-cz-titulky-mkv/9abdaa1b63752508) (ID 30691408) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.921762+00:00 |
 | [Sestry na startovní čáře (2021) 1080p CZ Titulky](https://prehraj.to/sestry-na-startovni-care-2021-1080p-cz-titulky-mp4/0d5bddb05f3166f3) (ID 29789058) | [Sdílej 34772803](https://sdilej.cz/34772803/sestry-na-startovni-care-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:37:46.213192+00:00 |
 | [Settlers (2021) 1080p CZ Titulky](https://prehraj.to/settlers-2021-1080p-cz-titulky-mkv/c9b2af009f9e7dfa) (ID 30397967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.918576+00:00 |
-| [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T19:26:02.290426+00:00 |
+| [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T19:30:34.425888+00:00 |
 | [Seuwingkijeu (2018) 1080p CZ Titulky](https://prehraj.to/seuwingkijeu-2018-1080p-cz-titulky-mp4/0d9607ec07742737) (ID 30103692) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.914130+00:00 |
 | [Seven Cemeteries (2024) 720p CZ Titulky](https://prehraj.to/seven-cemeteries-2024-720p-cz-titulky-mp4/901851601b55d93d) (ID 29595112) | [Sdílej 34758438](https://sdilej.cz/34758438/seven-cemeteries-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:08:18.624699+00:00 |
 | [Seven Snipers (2026) 4K CZ Titulky](https://prehraj.to/seven-snipers-2026-4k-cz-titulky-mkv/77c58c61b7178ddc) (ID 30380722) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T19:29:31.918236+00:00 |
