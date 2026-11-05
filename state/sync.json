@@ -396633,13 +396633,6 @@
     "8718": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13635676",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-20T20:03:17.305263+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "13635676",
           "reason": "Request failed for https://sdilej.cz/13635676/pad-londyna-london-has-fallen-2016-usa-akcni-cz-dab-hd.avi (HTTP None)",
@@ -396652,18 +396645,19 @@
           "reason": "Request failed for https://sdilej.cz/13635676/pad-londyna-london-has-fallen-2016-usa-akcni-cz-dab-hd.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T01:59:05.137722+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13635676",
+          "target_video_id": "30798918",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:22:58.612313+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13635676",
         "display_name": "Pád (2016) 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:01:31.039814+00:00"
-      },
-      "claim": {
-        "worker_id": "d3bcaca666b14b3b99b6ce20e69f02ea-shard-0",
-        "claimed_at": "2026-11-05T01:12:38.626262+00:00",
-        "lease_expires_at": "2026-11-05T07:12:38.626262+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30798918",
       "prepared": {
@@ -427107,5 +427101,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T01:12:54.771235+00:00"
+  "updated_at": "2026-11-05T01:22:58.612332+00:00"
 }
