@@ -421905,13 +421905,6 @@
     "17380": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "12349065",
-          "reason": "Source detail has no authenticated download link; source_id=12349065",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:24:36.432655+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "12349065",
@@ -421924,6 +421917,13 @@
           "target_video_id": "30761388",
           "permanent": false,
           "attempted_at": "2026-11-03T13:11:30.346547+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12349065",
+          "target_video_id": "30761388",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:43:46.731988+00:00"
         }
       ],
       "last_plan": {
@@ -421962,16 +421962,10 @@
           "attempted_at": "2026-11-03T13:14:15.030329+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "4467631",
-        "display_name": "Pach krve 5: Krvavý masakr (2012) SD SK Dabing",
-        "planned_at": "2026-11-05T03:40:49.417998+00:00"
-      },
       "previous_target_id": "30761582",
-      "prepared": {
+      "upload": {
         "target_video_id": "30761582",
-        "size_bytes": 1471235626,
-        "prepared_at": "2026-11-03T13:11:39.868257+00:00"
+        "uploaded_at": "2026-11-05T03:43:48.341917+00:00"
       }
     },
     "15304": {
@@ -426589,5 +426583,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:43:40.429449+00:00"
+  "updated_at": "2026-11-05T03:43:48.341933+00:00"
 }
