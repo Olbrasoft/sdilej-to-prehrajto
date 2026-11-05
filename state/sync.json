@@ -279186,13 +279186,6 @@
     "5276": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "22156724",
-          "reason": "Request failed for https://sdilej.cz/22156724/spider-man-3-2007-1080p-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-28T20:58:50.903620+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "22156724",
@@ -279205,6 +279198,13 @@
           "source_id": "22156724",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-04T18:50:11.772514+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22156724",
+          "target_video_id": "30812419",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:03:37.228892+00:00"
         }
       ],
       "last_plan": {
@@ -425387,5 +425387,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T10:03:30.363460+00:00"
+  "updated_at": "2026-11-05T10:03:37.228913+00:00"
 }
