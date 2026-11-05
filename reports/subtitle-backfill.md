@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:37:07.971345+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:37:12.472461+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_provenance_missing`: 1278, `source_unavailable`: 17, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_provenance_missing`: 1278, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -1028,7 +1028,6 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Level 16 (2018) 1080p CZ Titulky](https://prehraj.to/level-16-2018-1080p-cz-titulky-mp4/86cc6cb07514ccbe) (ID 30608250) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349264+00:00 |
 | [Liam Gallagher: As It Was (2019) 720p CZ Titulky](https://prehraj.to/liam-gallagher-as-it-was-2019-720p-cz-titulky-mp4/210fb84a887059b2) (ID 29576760) | [Sdílej 34734179](https://sdilej.cz/34734179/liam-gallagher-as-it-was-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:04:15.038284+00:00 |
 | [Lidská stonožka (2009) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2009-sd-cz-titulky-avi/e76cf2ba04d86a04) (ID 30759568) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349999+00:00 |
-| [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:32:20.774534+00:00 |
 | [Lidská stonožka 3 (2015) 1080p CZ Titulky](https://prehraj.to/lidska-stonozka-3-2015-1080p-cz-titulky-mp4/78b7639c091505f3) (ID 29090222) | [Sdílej 33435537](https://sdilej.cz/33435537/lidska-stonoz-ka-3.-2015-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:32:32.866158+00:00 |
 | [Lidé (2021) SD CZ Titulky](https://prehraj.to/lide-2021-sd-cz-titulky-avi/88036e90944f7eda) (ID 29528307) | [Sdílej 34447683](https://sdilej.cz/34447683/life.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:49:34.137380+00:00 |
 | [Life After Beth (2014) SD CZ Titulky](https://prehraj.to/life-after-beth-2014-sd-cz-titulky-avi/70e04e2402a204a1) (ID 29721145) | [Sdílej 3743477](https://sdilej.cz/3743477/life-after-beth-2014-360p-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:50:36.614726+00:00 |
@@ -2293,6 +2292,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-11-05T15:29:01.638418+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-11-05T15:28:21.394144+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-11-05T15:28:08.917357+00:00 |
+| [Lidská stonožka 2 (2011) SD CZ Titulky](https://prehraj.to/lidska-stonozka-2-2011-sd-cz-titulky-mp4/fa3ed319b20166f9) (ID 29089857) | [Sdílej 33435525](https://sdilej.cz/33435525/lidska-stonoz-ka-2.-2011-cz-title.mp4) | source_unavailable | 2026-11-05T15:37:12.472441+00:00 |
 | [Milost (2025) 1080p CZ Titulky](https://prehraj.to/milost-2025-1080p-cz-titulky-mkv/75a7a8b8d8b74824) (ID 29308222) | [Sdílej 33161300](https://sdilej.cz/33161300/la.grazia.2025.vostfr.1080p.web.h264-lactel.mkv) | target_unavailable | 2026-11-05T15:27:47.424789+00:00 |
 | [Mutilator 2 (2023) 1080p CZ Titulky](https://prehraj.to/mutilator-2-2023-1080p-cz-titulky-mkv/b257cdb0cdb2648c) (ID 29270312) | [Sdílej 33882380](https://sdilej.cz/33882380/mutilator.2.2023.1080p.webrip.ddp.2.0.10bit.h.265-ivy.mkv) | source_unavailable | 2026-11-05T10:27:28.753847+00:00 |
 | [Neboj, daleko neuteče (2018) 1080p CZ Titulky](https://prehraj.to/neboj-daleko-neutece-2018-1080p-cz-titulky-mkv/e404de5b1fb7b6f6) (ID 29676474) | [Sdílej 33852329](https://sdilej.cz/33852329/don-t-worry-he-won-t-get-far-on-foot-2018-1080p-fr-en-x264-ac3-mhdgz.mkv) | source_unavailable | 2026-11-05T10:27:09.737737+00:00 |
