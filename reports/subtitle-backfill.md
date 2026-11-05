@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T21:31:54.699252+00:00
+Poslední aktualizace (UTC): 2026-11-05T21:32:08.737490+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -488,7 +488,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Earth to Echo (2014) SD CZ Titulky](https://prehraj.to/earth-to-echo-2014-sd-cz-titulky-mp4/54f815491411b324) (ID 29721032) | [Sdílej 34738450](https://sdilej.cz/34738450/earth-to-echo-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:50:02.390032+00:00 |
 | [Ebigejl (2019) 1080p CZ Titulky.mp4](https://prehraj.to/ebigejl-2019-1080p-cz-titulky-mp4/b6eeb5696e202457) (ID 29939326) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.896007+00:00 |
 | [Eddington (2025) 1080p CZ Titulky](https://prehraj.to/eddington-2025-1080p-cz-titulky-mkv/fd1541c444495b52) (ID 30557934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.902377+00:00 |
-| [Eden (2012) SD CZ Titulky](https://prehraj.to/eden-2012-sd-cz-titulky-avi/54f69e6d0ef48458) (ID 29234056) | [Sdílej 14579749](https://sdilej.cz/14579749/eden-drama-thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T20:36:21.073290+00:00 |
+| [Eden (2012) SD CZ Titulky](https://prehraj.to/eden-2012-sd-cz-titulky-avi/54f69e6d0ef48458) (ID 29234056) | [Sdílej 14579749](https://sdilej.cz/14579749/eden-drama-thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T21:32:08.737390+00:00 |
 | [Edge of Winter (2016) SD CZ Titulky](https://prehraj.to/edge-of-winter-2016-sd-cz-titulky-avi/c3436dd3a0fc4ed6) (ID 29709716) | [Sdílej 35042758](https://sdilej.cz/35042758/edge-of-winter-cz.titulky-2016-thriller.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:44:52.917255+00:00 |
 | [Eenie Meanie (2025) 1080p CZ Titulky](https://prehraj.to/eenie-meanie-2025-1080p-cz-titulky-mkv/d743f4fd5e84441d) (ID 29907790) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T21:30:25.893855+00:00 |
 | [Ek Villain (2014) 720p CZ Titulky](https://prehraj.to/ek-villain-2014-720p-cz-titulky-mp4/4b09ae3a08f98378) (ID 29230526) | [Sdílej 34738457](https://sdilej.cz/34738457/ek-villain-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T21:31:24.079940+00:00 |
