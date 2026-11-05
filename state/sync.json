@@ -395892,13 +395892,6 @@
     "9221": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "15223481",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-20T19:01:16.747999+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "15223481",
           "target_video_id": "30626553",
@@ -395911,6 +395904,13 @@
           "target_video_id": "30626553",
           "permanent": false,
           "attempted_at": "2026-11-03T01:52:17.517049+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15223481",
+          "target_video_id": "30626553",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:12:27.345138+00:00"
         }
       ],
       "last_plan": {
@@ -396182,13 +396182,6 @@
           "source_id": "26100089",
           "target_video_id": "30390481",
           "permanent": false,
-          "attempted_at": "2026-10-20T19:23:56.384698+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26100089",
-          "target_video_id": "30390481",
-          "permanent": false,
           "attempted_at": "2026-10-30T05:31:16.446091+00:00"
         },
         {
@@ -396197,6 +396190,13 @@
           "target_video_id": "30390481",
           "permanent": false,
           "attempted_at": "2026-11-03T01:52:31.039067+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26100089",
+          "target_video_id": "30390481",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:12:31.004685+00:00"
         }
       ],
       "last_plan": {
@@ -396450,6 +396450,13 @@
           "target_video_id": "30391162",
           "permanent": false,
           "attempted_at": "2026-11-03T01:52:35.226024+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30623324",
+          "target_video_id": "30391162",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:12:34.640739+00:00"
         }
       ],
       "last_plan": {
@@ -396509,13 +396516,6 @@
     "8870": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34737359",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-20T20:02:36.028861+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34737359",
           "reason": "Request failed for https://sdilej.cz/34737359/uveznena-ve-vlastnim-tele-fhd-hevc.mkv (HTTP None)",
@@ -396528,6 +396528,13 @@
           "target_video_id": "30747555",
           "permanent": false,
           "attempted_at": "2026-11-03T01:58:44.695743+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34737359",
+          "target_video_id": "30747555",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:12:38.147453+00:00"
         }
       ],
       "last_plan": {
@@ -396651,6 +396658,18 @@
         "source_id": "13635676",
         "display_name": "Pád (2016) 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:01:31.039814+00:00"
+      },
+      "claim": {
+        "worker_id": "d3bcaca666b14b3b99b6ce20e69f02ea-shard-0",
+        "claimed_at": "2026-11-05T01:12:38.626262+00:00",
+        "lease_expires_at": "2026-11-05T07:12:38.626262+00:00",
+        "run_id": "41924443950"
+      },
+      "previous_target_id": "30798918",
+      "prepared": {
+        "target_video_id": "30798918",
+        "size_bytes": 2439161797,
+        "prepared_at": "2026-11-05T01:12:54.771219+00:00"
       }
     },
     "17890": {
@@ -427088,5 +427107,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T01:12:20.868792+00:00"
+  "updated_at": "2026-11-05T01:12:54.771235+00:00"
 }
