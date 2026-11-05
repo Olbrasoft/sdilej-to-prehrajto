@@ -309747,13 +309747,6 @@
     "20226": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "9902276",
-          "reason": "Request failed for https://sdilej.cz/9902276/flower.2017.1080p.amzn.web-dl.x.264.cz.titulky.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-18T23:31:02.765884+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "9902276",
@@ -309766,18 +309759,19 @@
           "source_id": "9902276",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T20:38:45.187388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9902276",
+          "target_video_id": "30797865",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:40:33.444441+00:00"
         }
       ],
       "last_plan": {
         "source_id": "9902276",
         "display_name": "Flower (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-05T00:21:23.141262+00:00"
-      },
-      "claim": {
-        "worker_id": "63c9c79359a14a10a5cc261b7937eed3-shard-0",
-        "claimed_at": "2026-11-05T00:21:40.474366+00:00",
-        "lease_expires_at": "2026-11-05T06:21:40.474366+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30797865",
       "prepared": {
@@ -427323,5 +427317,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T00:21:44.380987+00:00"
+  "updated_at": "2026-11-05T00:40:33.444458+00:00"
 }
