@@ -288979,13 +288979,6 @@
     "29943": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "23601671",
-          "reason": "Request failed for https://sdilej.cz/23601671/20-000-mil-pod-morem.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-28T21:18:10.982995+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "23601671",
@@ -288998,18 +288991,19 @@
           "source_id": "23601671",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-04T18:59:49.440513+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23601671",
+          "target_video_id": "30814723",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:43:38.855144+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23601671",
         "display_name": "20.000 mil pod mořem (1997) SD CZ Dabing",
         "planned_at": "2026-11-05T09:52:28.451439+00:00"
-      },
-      "claim": {
-        "worker_id": "d6a340dda7bb4731af95eb668995a986-shard-0",
-        "claimed_at": "2026-11-05T10:41:45.488203+00:00",
-        "lease_expires_at": "2026-11-05T16:41:45.488203+00:00",
-        "run_id": "42001749981"
       },
       "previous_target_id": "30814723",
       "prepared": {
@@ -425411,5 +425405,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T10:41:49.741412+00:00"
+  "updated_at": "2026-11-05T10:43:38.855166+00:00"
 }
