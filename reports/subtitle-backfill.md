@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:30:16.551591+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:30:24.354620+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -864,7 +864,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Iron Sky (2012) 1080p CZ Titulky](https://prehraj.to/iron-sky-2012-1080p-cz-titulky-mp4/70fc71db9141d6f2) (ID 29912564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.932540+00:00 |
 | [Irčan v rozhovorech (2019) 1080p CZ Titulky](https://prehraj.to/ircan-v-rozhovorech-2019-1080p-cz-titulky-mp4/2a1c4ff91d77e010) (ID 29833818) | [Sdílej 34734267](https://sdilej.cz/34734267/ircan-v-rozhovorech-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:40:12.561896+00:00 |
 | [Is That Black Enough for You (2022) 1080p CZ Titulky.mp4](https://prehraj.to/is-that-black-enough-for-you-2022-1080p-cz-titulky-mp4/143cef4bfc972ff7) (ID 30047329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.938131+00:00 |
-| [Isi a Ossi (2020) 1080p CZ Titulky](https://prehraj.to/isi-a-ossi-2020-1080p-cz-titulky-mp4/9a1e759aa7b8d101) (ID 29252432) | [Sdílej 34733122](https://sdilej.cz/34733122/isi-a-ossi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:28:43.324909+00:00 |
+| [Isi a Ossi (2020) 1080p CZ Titulky](https://prehraj.to/isi-a-ossi-2020-1080p-cz-titulky-mp4/9a1e759aa7b8d101) (ID 29252432) | [Sdílej 34733122](https://sdilej.cz/34733122/isi-a-ossi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:24.354487+00:00 |
 | [It Ends (2025) 4K CZ Titulky](https://prehraj.to/it-ends-2025-4k-cz-titulky-mkv/1d4d2d4fa720094b) (ID 29922480) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.933960+00:00 |
 | [It Feeds (2025) 1080p CZ Titulky](https://prehraj.to/it-feeds-2025-1080p-cz-titulky-mp4/58877782a9a1ce54) (ID 29912767) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.932653+00:00 |
 | [It Stains the Sands Red (2016) 1080p CZ Titulky](https://prehraj.to/it-stains-the-sands-red-2016-1080p-cz-titulky-mkv/2e9e34d391c06ab8) (ID 29969350) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.936461+00:00 |
