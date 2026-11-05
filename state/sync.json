@@ -308134,13 +308134,6 @@
     "15222": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "28608771",
-          "reason": "Request failed for https://sdilej.cz/28608771/chces-pesti-welcome-to-the-punch-2013-1080p-bluray-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-18T21:13:15.245908+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "28608771",
@@ -308153,18 +308146,19 @@
           "source_id": "28608771",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T20:01:50.223293+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28608771",
+          "target_video_id": "30797608",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:18:33.644171+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28608771",
         "display_name": "Chceš pěstí? (2013) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:22:02.393833+00:00"
-      },
-      "claim": {
-        "worker_id": "695e00db56d240ba9ed00dc020a50566-shard-0",
-        "claimed_at": "2026-11-05T00:07:05.708559+00:00",
-        "lease_expires_at": "2026-11-05T06:07:05.708559+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30797608",
       "prepared": {
@@ -427352,5 +427346,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T00:07:09.469542+00:00"
+  "updated_at": "2026-11-05T00:18:33.644189+00:00"
 }
