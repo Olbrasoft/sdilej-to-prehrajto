@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T23:31:05.088541+00:00
+Poslední aktualizace (UTC): 2026-11-05T23:31:13.246526+00:00
 
 Zkontrolováno videí: 2848. Další stránka kontroly: 0.
 
@@ -407,7 +407,7 @@ Kontrol: 37; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Decibel (2024) 1080p CZ Titulky](https://prehraj.to/decibel-2024-1080p-cz-titulky-mkv/bd6d8644226f43c4) (ID 30108426) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.939204+00:00 |
 | [Deep Water (2026) 1080p CZ Titulky](https://prehraj.to/deep-water-2026-1080p-cz-titulky-mkv/ee4c3ba43bc9177a) (ID 30660289) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.947479+00:00 |
 | [Def Leppard - Viva! Hysteria (2013) 1080p CZ Titulky](https://prehraj.to/def-leppard-viva-hysteria-2013-1080p-cz-titulky-mp4/8538c3e884985d39) (ID 30064630) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.938424+00:00 |
-| [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T23:29:48.311524+00:00 |
+| [Dejte jim trávu (2018) 1080p CZ Titulky](https://prehraj.to/dejte-jim-travu-2018-1080p-cz-titulky-mp4/7abe298ea4aeca27) (ID 29256811) | [Sdílej 34774353](https://sdilej.cz/34774353/dejte-jim-travu-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:31:13.246422+00:00 |
 | [Delikatesy (1991) SD CZ Titulky](https://prehraj.to/delikatesy-1991-sd-cz-titulky-avi/9ab408ce43071f2a) (ID 30108768) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.939226+00:00 |
 | [Dementia 13 (2017) SD CZ Titulky](https://prehraj.to/dementia-13-2017-sd-cz-titulky-avi/2e95f28c76e8cae3) (ID 29648315) | [Sdílej 8505109](https://sdilej.cz/8505109/dementia-13-thriller-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:25:26.906681+00:00 |
 | [Demigod (2021) SD CZ Titulky](https://prehraj.to/demigod-2021-sd-cz-titulky-mp4/89a41e67ced5e151) (ID 30629316) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T23:28:14.947152+00:00 |
