@@ -179644,13 +179644,6 @@
           "permanent": false,
           "source_id": "29426504",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-26T19:48:50.511087+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29426504",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T13:55:07.990387+00:00"
         },
         {
@@ -179659,6 +179652,14 @@
           "target_video_id": "30782845",
           "permanent": false,
           "attempted_at": "2026-11-04T09:09:14.280102+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "29426504",
+          "target_video_id": "30782845",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:11:46.499968+00:00"
         }
       ],
       "last_plan": {
@@ -179666,12 +179667,7 @@
         "display_name": "Ženy v běhu (2019) 1080p CZ Dabing",
         "planned_at": "2026-11-05T07:08:59.718813+00:00"
       },
-      "previous_target_id": "30782845",
-      "prepared": {
-        "target_video_id": "30782845",
-        "size_bytes": 1944610344,
-        "prepared_at": "2026-11-04T09:06:19.299413+00:00"
-      }
+      "previous_target_id": "30782845"
     },
     "21657": {
       "attempts": [
@@ -425753,5 +425749,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:11:40.123497+00:00"
+  "updated_at": "2026-11-05T07:11:46.499986+00:00"
 }
