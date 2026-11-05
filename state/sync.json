@@ -414883,13 +414883,6 @@
           "permanent": false,
           "source_id": "13850978",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-21T19:02:11.524655+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13850978",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-30T17:54:47.822929+00:00"
         },
         {
@@ -414898,18 +414891,19 @@
           "reason": "Request failed for https://sdilej.cz/13850978/puls-pulse-2006-cz.m4v (HTTP 520)",
           "permanent": false,
           "attempted_at": "2026-11-03T03:32:58.435476+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13850978",
+          "target_video_id": "30800022",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:58:57.746363+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13850978",
         "display_name": "Puls (2006) SD CZ Dabing",
         "planned_at": "2026-11-05T01:24:30.538165+00:00"
-      },
-      "claim": {
-        "worker_id": "434cd67277044cd89fcc792d8520fdaa-shard-0",
-        "claimed_at": "2026-11-05T01:57:50.755023+00:00",
-        "lease_expires_at": "2026-11-05T07:57:50.755023+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30800022",
       "prepared": {
@@ -427027,5 +427021,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T01:57:54.217853+00:00"
+  "updated_at": "2026-11-05T01:58:57.746380+00:00"
 }
