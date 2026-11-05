@@ -415639,13 +415639,6 @@
           "permanent": false,
           "source_id": "35185069",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-21T19:52:06.853050+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35185069",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-30T18:57:48.950331+00:00"
         },
         {
@@ -415654,18 +415647,19 @@
           "source_id": "35185069",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-03T03:52:23.536158+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35185069",
+          "target_video_id": "30800539",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:24:01.443628+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35185069",
         "display_name": "Zmetci (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:24:33.344473+00:00"
-      },
-      "claim": {
-        "worker_id": "434cd67277044cd89fcc792d8520fdaa-shard-0",
-        "claimed_at": "2026-11-05T02:18:30.223574+00:00",
-        "lease_expires_at": "2026-11-05T08:18:30.223574+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30800539",
       "prepared": {
@@ -427033,5 +427027,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T02:18:34.112690+00:00"
+  "updated_at": "2026-11-05T02:24:01.443646+00:00"
 }
