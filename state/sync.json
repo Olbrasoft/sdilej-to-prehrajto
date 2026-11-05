@@ -307301,13 +307301,6 @@
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "32202333",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-29T18:54:51.063177+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32202333",
           "target_video_id": "30342297",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T20:03:03.239590+00:00"
@@ -307318,6 +307311,13 @@
           "target_video_id": "30342297",
           "permanent": false,
           "attempted_at": "2026-11-05T00:18:43.512539+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32202333",
+          "target_video_id": "30342297",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:20:42.515064+00:00"
         }
       ],
       "last_plan": {
@@ -307454,16 +307454,10 @@
           "attempted_at": "2026-11-05T00:20:36.878371+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29920168",
-        "display_name": "New Kids Nitro (2011) SD SK Dabing",
-        "planned_at": "2026-11-05T11:15:39.879171+00:00"
-      },
       "previous_target_id": "30797819",
-      "prepared": {
+      "upload": {
         "target_video_id": "30797819",
-        "size_bytes": 1529499648,
-        "prepared_at": "2026-11-05T00:18:53.379742+00:00"
+        "uploaded_at": "2026-11-05T11:20:44.546449+00:00"
       }
     },
     "33587": {
@@ -425328,5 +425322,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T11:20:35.601621+00:00"
+  "updated_at": "2026-11-05T11:20:44.546470+00:00"
 }
