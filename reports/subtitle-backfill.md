@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:44:19.570678+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:44:35.591957+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -846,7 +846,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [In the Grey (2026) 4K CZ Titulky](https://prehraj.to/in-the-grey-2026-4k-cz-titulky-mkv/8ea3447923a9f9d4) (ID 30299033) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347009+00:00 |
 | [In the Trap (2019) SD CZ Titulky](https://prehraj.to/in-the-trap-2019-sd-cz-titulky-avi/176a356be83090e4) (ID 29646475) | [Sdílej 13633864](https://sdilej.cz/13633864/in.the.trap.2019.hdrip.xvid.ac3-evo.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:23:44.193190+00:00 |
 | [Incarnation (2022) 1080p CZ Titulky](https://prehraj.to/incarnation-2022-1080p-cz-titulky-mkv/fb41f6c527202ea5) (ID 30633216) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.349556+00:00 |
-| [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:40:53.852574+00:00 |
+| [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:44:35.591841+00:00 |
 | [Influencer (2022) 1080p CZ Titulky](https://prehraj.to/influencer-2022-1080p-cz-titulky-mp4/57384e4efbd1dad0) (ID 30484875) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348662+00:00 |
 | [Influencers (2025) 1080p CZ Titulky](https://prehraj.to/influencers-2025-1080p-cz-titulky-mp4/a8a8a88edb523208) (ID 30340147) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347287+00:00 |
 | [Ingeborg Bachmannová - Cesta do pouště (2023) 1080p CZ Titulky](https://prehraj.to/ingeborg-bachmannova-cesta-do-pouste-2023-1080p-cz-titulky-mkv/684a5de9ee706a14) (ID 30784162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.350146+00:00 |
