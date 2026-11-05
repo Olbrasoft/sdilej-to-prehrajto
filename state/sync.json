@@ -368217,13 +368217,6 @@
           "permanent": false,
           "source_id": "34024116",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-23T19:59:56.720879+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34024116",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T16:00:14.023967+00:00"
         },
         {
@@ -368233,6 +368226,13 @@
           "target_video_id": "29932078",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-03T20:42:59.767319+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34024116",
+          "target_video_id": "29932078",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:04:12.846261+00:00"
         }
       ],
       "last_plan": {
@@ -426412,5 +426412,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:04:06.641284+00:00"
+  "updated_at": "2026-11-05T05:04:12.846278+00:00"
 }
