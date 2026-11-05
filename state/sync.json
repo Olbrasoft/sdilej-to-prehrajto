@@ -288813,13 +288813,6 @@
           "permanent": false,
           "source_id": "27602130",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-24T19:04:26.694076+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27602130",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:41:58.330138+00:00"
         },
         {
@@ -288828,18 +288821,19 @@
           "reason": "Request failed for https://sdilej.cz/27602130/neni-kam-utect.cz.2011.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T00:02:40.064694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27602130",
+          "target_video_id": "30805554",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:36:42.865375+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27602130",
         "display_name": "Není kam utéct (2011) SD CZ Dabing",
         "planned_at": "2026-11-05T05:35:00.627725+00:00"
-      },
-      "claim": {
-        "worker_id": "0e6e186da06c4fe4be901806e88db2ed-shard-0",
-        "claimed_at": "2026-11-05T05:35:45.035024+00:00",
-        "lease_expires_at": "2026-11-05T11:35:45.035024+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30805554",
       "prepared": {
@@ -426159,5 +426153,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:35:49.139978+00:00"
+  "updated_at": "2026-11-05T05:36:42.865392+00:00"
 }
