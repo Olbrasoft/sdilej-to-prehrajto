@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T15:37:34.430298+00:00
+Poslední aktualizace (UTC): 2026-11-05T15:37:42.023404+00:00
 
 Zkontrolováno videí: 2846. Další stránka kontroly: 0.
 
@@ -426,7 +426,7 @@ Kontrol: 36; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Die Alone (2024) 1080p CZ Titulky](https://prehraj.to/die-alone-2024-1080p-cz-titulky-mkv/28c3f5c171327eea) (ID 30353074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347472+00:00 |
 | [Die Hart: The Movie (2023) 1080p CZ Titulky](https://prehraj.to/die-hart-the-movie-2023-1080p-cz-titulky-mp4/769f40cacab6dd70) (ID 30351257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347463+00:00 |
 | [Die My Love (2025) 1440p CZ Titulky](https://prehraj.to/die-my-love-2025-1440p-cz-titulky-mkv/eddcf82a5ecab212) (ID 30451780) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348514+00:00 |
-| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:32:53.620042+00:00 |
+| [Diktátor (1940) 4K CZ Titulky](https://prehraj.to/diktator-1940-4k-cz-titulky-mkv/24a34a53814986ef) (ID 29113554) | [Sdílej 23143444](https://sdilej.cz/23143444/diktator.1940.1080p.hd.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:37:42.023263+00:00 |
 | [Dirty Angels (2024) 1080p CZ Titulky](https://prehraj.to/dirty-angels-2024-1080p-cz-titulky-mkv/fa6c335e2f8da21f) (ID 30413288) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.348208+00:00 |
 | [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:09:47.324067+00:00 |
 | [Divoký Stomp (2007) SD CZ Titulky](https://prehraj.to/divoky-stomp-2007-sd-cz-titulky-mkv/a4de82efb97e641b) (ID 30367917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-05T15:33:19.347621+00:00 |
