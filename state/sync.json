@@ -310603,13 +310603,6 @@
     "17322": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "14277595",
-          "reason": "Request failed for https://sdilej.cz/14277595/stiny-vlku-akcni-dobrodruzny-thriller-2019-cz.dabing-novinky.avi (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-19T01:46:35.029335+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "14277595",
@@ -310622,18 +310615,19 @@
           "source_id": "14277595",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T20:57:40.306926+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14277595",
+          "target_video_id": "30798259",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:51:01.815206+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14277595",
         "display_name": "Stíny vlků (2019) SD CZ Dabing",
         "planned_at": "2026-11-05T00:21:27.310877+00:00"
-      },
-      "claim": {
-        "worker_id": "63c9c79359a14a10a5cc261b7937eed3-shard-0",
-        "claimed_at": "2026-11-05T00:43:59.354380+00:00",
-        "lease_expires_at": "2026-11-05T06:43:59.354380+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30798259",
       "prepared": {
@@ -427289,5 +427283,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T00:44:02.744509+00:00"
+  "updated_at": "2026-11-05T00:51:01.815224+00:00"
 }
