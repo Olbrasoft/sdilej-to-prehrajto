@@ -287687,13 +287687,6 @@
           "permanent": false,
           "source_id": "33238300",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-24T18:59:17.030888+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33238300",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T18:35:43.622184+00:00"
         },
         {
@@ -287702,6 +287695,14 @@
           "target_video_id": "30775195",
           "permanent": false,
           "attempted_at": "2026-11-03T23:51:15.848265+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "33238300",
+          "target_video_id": "30775195",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:35:25.730487+00:00"
         }
       ],
       "last_plan": {
@@ -287709,12 +287710,7 @@
         "display_name": "Spící hrozba (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-05T05:34:58.687650+00:00"
       },
-      "previous_target_id": "30775195",
-      "prepared": {
-        "target_video_id": "30775195",
-        "size_bytes": 3222695697,
-        "prepared_at": "2026-11-03T23:44:44.621093+00:00"
-      }
+      "previous_target_id": "30775195"
     },
     "5511": {
       "attempts": [
@@ -426175,5 +426171,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:35:19.439835+00:00"
+  "updated_at": "2026-11-05T05:35:25.730506+00:00"
 }
