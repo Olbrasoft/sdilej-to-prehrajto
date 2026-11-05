@@ -47,6 +47,8 @@ class Response:
 
 
 @pytest.mark.parametrize("wanted,visible,query", [
+    ('200% Vlk (2024) 1080p CZ Dabing', '200 Vlk (2024) 1080p.mkv', 'Vlk'),
+    ('100% blond (2005) 720p CZ Dabing', '100 blond (2005) SD.avi', 'blond'),
     ('Z (2019) 720p CZ Dabing', 'Z (2019) 1080p.mkv', '2019'),
     ('V/H/S (2012) SD CZ Titulky', 'VHS (2012) SD.avi', '2012'),
     ('LADY NINJA ～青い影～ (2018) 1080p CZ Dabing', 'LADY NINJA (2018) 1080p CZ Dabing.mp4', 'LADY NINJA'),
@@ -70,6 +72,27 @@ def test_lookup_checks_later_search_pages():
                 return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-777">Film (2000) 4K.mkv</h3>')
             return Response(text='<h3>Film (2001) 4K</h3><a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
     assert uploaded_video_id_by_name(Session(), 'Film (2000) 4K') == '777'
+
+
+def test_year_lookup_allows_complete_scan_beyond_one_minute(monkeypatch):
+    ticks = iter([0, 0, 61])
+    monkeypatch.setattr('sdilej_to_prehrajto.prehrajto.time.monotonic', lambda: next(ticks))
+    class Session:
+        def get(self, _url, **kwargs):
+            if kwargs['params'].get('uploadedVideoListing-visualPaginator-page') == '2':
+                return Response(text='<h3 id="snippet-uploadedVideoListing-videoName-777">I.S.S. (2023) 4K.mkv</h3>')
+            return Response(text='<a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
+    assert uploaded_video_id_by_name(Session(), 'I.S.S. (2023) 1080p') == '777'
+
+
+def test_explicit_year_lookup_deadline_still_fails_closed(monkeypatch):
+    ticks = iter([0, 0, 61])
+    monkeypatch.setattr('sdilej_to_prehrajto.prehrajto.time.monotonic', lambda: next(ticks))
+    class Session:
+        def get(self, _url, **kwargs):
+            return Response(text='<a href="?uploadedVideoListing-visualPaginator-page=2">2</a>')
+    with pytest.raises(PrehrajtoError, match='deadline exceeded'):
+        uploaded_video_id_by_name(Session(), 'I.S.S. (2023) 1080p', lookup_timeout_seconds=60)
 
 
 def test_target_lookup_deadline_never_reports_false_absence(monkeypatch):

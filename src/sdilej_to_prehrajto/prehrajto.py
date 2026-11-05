@@ -308,20 +308,31 @@ def _uploaded_video_id_from_html(
 
 def uploaded_video_id_by_name(
     session: requests.Session, display_name: str, *, include_processing: bool = True,
-    lookup_timeout_seconds: float = 60,
+    lookup_timeout_seconds: float | None = None,
 ) -> str | None:
     """Search punctuation-tolerantly, then compare complete normalized names."""
     title = re.split(r"\s*\(\d{4}\)", display_name, maxsplit=1)[0]
     fragments = re.findall(r"[\w\s]+", title)
-    query = max((part.strip() for part in fragments), key=len, default="")
+    # Numeric fragments (for example "200" in "200% Vlk") match years,
+    # resolutions and many unrelated films. Prefer a meaningful word fragment;
+    # it is still required by every matching film identity.
+    words = [part.strip() for part in fragments
+             if sum(character.isalpha() for character in part) >= 3]
+    query = max(words or [part.strip() for part in fragments], key=len, default="")
     if not query:
         raise PrehrajtoError("Cannot safely search for existing target")
     year = re.search(r"\((\d{4})\)", display_name)
-    if len(query) < 3 and year:
+    year_fallback = len(query) < 3 and year is not None
+    if year_fallback:
         # One-letter fragments (Z, V/H/S) match hundreds of listing pages.
         # Film identity already requires this year, so searching by year keeps
         # every possible match while avoiding the broad-query pagination cap.
         query = year.group(1)
+    if lookup_timeout_seconds is None:
+        # Punctuation-only acronyms need a complete year scan to prove absence.
+        # Large accounts can have 75+ pages per year; retain the page cap and
+        # fail closed on timeout rather than accepting an incomplete search.
+        lookup_timeout_seconds = 180 if year_fallback else 60
     page_key = "uploadedVideoListing-visualPaginator-page"
     page = 1
     deadline = time.monotonic() + lookup_timeout_seconds

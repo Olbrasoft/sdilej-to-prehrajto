@@ -497,6 +497,12 @@ def test_continuous_queue_rotates_retries_behind_unvisited_films(tmp_path) -> No
     )
     plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
     assert [row["film"]["cr_film_id"] for row in plan] == [3, 4]
+    # A retryable lookup failure on a fresh transfer still precedes old target
+    # reconciliation, even though its timestamp is more recent.
+    state.film(3)["attempts"] = [{"status": "target_lookup_failed", "source_id": "3",
+                                  "attempted_at": "2001-01-01T00:00:00+00:00"}]
+    plan = pipeline.build_plan(films, 2, max_scan=2, verified_only=True)
+    assert [row["film"]["cr_film_id"] for row in plan] == [4, 3]
     # Once fresh work has been visited, the oldest reconciliation gets a turn.
     for film_id in (3, 4):
         state.record_target_processing(film_id, video_id=str(100 + film_id),

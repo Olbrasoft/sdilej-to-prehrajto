@@ -133,10 +133,16 @@ class SyncPipeline:
             # ones. A fixed backlog order lets thousands of processing checks
             # become eligible again before workers ever reach fresh uploads.
             # Stable sorting preserves catalog priority within each group.
-            def last_transfer_visit(film: Film) -> str:
+            def last_transfer_visit(film: Film) -> tuple[bool, str]:
                 checkpoint = self.state.snapshot(film.cr_film_id)
                 attempts = checkpoint.get("attempts") or []
-                return (
+                # Retrying a new transfer must not wait behind thousands of
+                # old processing IDs just because its first lookup failed.
+                # Keep all target IDs and reconciliation guards intact.
+                has_target = bool(checkpoint.get("prepared") or
+                                  checkpoint.get("previous_target_id") or
+                                  any(attempt.get("target_video_id") for attempt in attempts))
+                return has_target, (
                     attempts[-1].get("attempted_at", "") if attempts else
                     checkpoint.get("prepared", {}).get("prepared_at", "")
                 )
@@ -212,6 +218,11 @@ class SyncPipeline:
             self.state.record_plan(film.cr_film_id, row)
             if len(plan) >= limit:
                 break
+        if verified_only:
+            pending_targets = sum(self.state.pending_prepared(row["film"]["cr_film_id"])
+                                  for row in plan)
+            print(f"transfer_plan={len(plan)} pending_target_checks={pending_targets} "
+                  f"new_transfer_candidates={len(plan) - pending_targets}", flush=True)
         return plan
 
     def prepare_sources(
