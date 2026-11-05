@@ -179527,13 +179527,6 @@
           "permanent": false,
           "source_id": "4239731",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-26T19:48:08.819990+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "4239731",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T13:53:32.618378+00:00"
         },
         {
@@ -179542,18 +179535,19 @@
           "reason": "Request failed for https://sdilej.cz/4239731/-komedie-pruvodce-zenateho-muze-komedie-1967.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T09:06:07.400084+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "4239731",
+          "target_video_id": "30808074",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:11:40.123481+00:00"
         }
       ],
       "last_plan": {
         "source_id": "4239731",
         "display_name": "Průvodce ženatého muže (1967) SD CZ Dabing",
         "planned_at": "2026-11-05T07:08:59.307874+00:00"
-      },
-      "claim": {
-        "worker_id": "b83879a3efdb4557aa707b42b261ce8f-shard-0",
-        "claimed_at": "2026-11-05T07:09:24.053158+00:00",
-        "lease_expires_at": "2026-11-05T13:09:24.053158+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30808074",
       "prepared": {
@@ -425759,5 +425753,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:09:27.479753+00:00"
+  "updated_at": "2026-11-05T07:11:40.123497+00:00"
 }
