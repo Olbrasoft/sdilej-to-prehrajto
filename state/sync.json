@@ -309516,13 +309516,6 @@
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "28409980",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-29T19:36:57.432769+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28409980",
           "target_video_id": "30346558",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T20:55:58.145432+00:00"
@@ -309533,6 +309526,13 @@
           "target_video_id": "30346558",
           "permanent": false,
           "attempted_at": "2026-11-05T00:43:50.815833+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28409980",
+          "target_video_id": "30346558",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:21:06.175132+00:00"
         }
       ],
       "last_plan": {
@@ -309553,13 +309553,6 @@
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "26411379",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-29T19:37:18.361413+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26411379",
           "target_video_id": "30347100",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T20:57:17.048398+00:00"
@@ -309570,6 +309563,13 @@
           "target_video_id": "30347100",
           "permanent": false,
           "attempted_at": "2026-11-05T00:43:56.844868+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26411379",
+          "target_video_id": "30347100",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:21:10.717989+00:00"
         }
       ],
       "last_plan": {
@@ -309644,16 +309644,10 @@
           "attempted_at": "2026-11-05T00:51:01.815206+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "14277595",
-        "display_name": "Stíny vlků (2019) SD CZ Dabing",
-        "planned_at": "2026-11-05T11:15:42.040742+00:00"
-      },
       "previous_target_id": "30798259",
-      "prepared": {
+      "upload": {
         "target_video_id": "30798259",
-        "size_bytes": 1310446566,
-        "prepared_at": "2026-11-05T00:44:02.744492+00:00"
+        "uploaded_at": "2026-11-05T11:21:12.792705+00:00"
       }
     },
     "30565": {
@@ -425310,5 +425304,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T11:20:59.367801+00:00"
+  "updated_at": "2026-11-05T11:21:12.792725+00:00"
 }
