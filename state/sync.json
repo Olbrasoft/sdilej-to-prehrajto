@@ -310437,13 +310437,6 @@
     "5300": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "34449446",
-          "target_video_id": "30346107",
-          "permanent": false,
-          "attempted_at": "2026-10-19T00:39:03.270713+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34449446",
@@ -310457,6 +310450,14 @@
           "target_video_id": "30346107",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-02T20:54:19.417033+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34449446",
+          "target_video_id": "30346107",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:43:40.413162+00:00"
         }
       ],
       "last_plan": {
@@ -310464,12 +310465,7 @@
         "display_name": "V úkrytu (2026) 1080p CZ Dabing",
         "planned_at": "2026-11-05T00:21:26.268761+00:00"
       },
-      "previous_target_id": "30346107",
-      "prepared": {
-        "target_video_id": "30346107",
-        "size_bytes": 2415236045,
-        "prepared_at": "2026-10-19T00:32:10.454055+00:00"
-      }
+      "previous_target_id": "30346107"
     },
     "31409": {
       "attempts": [
@@ -427281,5 +427277,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T00:43:33.583280+00:00"
+  "updated_at": "2026-11-05T00:43:40.413180+00:00"
 }
