@@ -286179,13 +286179,6 @@
           "permanent": false,
           "source_id": "29300113",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-24T18:39:56.370907+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29300113",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-10-31T17:59:38.253472+00:00"
         },
         {
@@ -286194,18 +286187,19 @@
           "reason": "Request failed for https://sdilej.cz/29300113/prokleti-the.cursed-aka-eight.for.silver-2021-1080p.hevc.czdab.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T22:54:55.294570+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29300113",
+          "target_video_id": "30805140",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:23:08.217107+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29300113",
         "display_name": "Prokletí (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-05T05:16:39.222403+00:00"
-      },
-      "claim": {
-        "worker_id": "cd2ca9db1c0f4a9a848f70326ae64e59-shard-0",
-        "claimed_at": "2026-11-05T05:19:48.320590+00:00",
-        "lease_expires_at": "2026-11-05T11:19:48.320590+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30805140",
       "prepared": {
@@ -426265,5 +426259,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T05:19:53.177335+00:00"
+  "updated_at": "2026-11-05T05:23:08.217124+00:00"
 }
