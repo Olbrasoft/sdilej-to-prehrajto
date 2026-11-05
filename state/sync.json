@@ -304694,13 +304694,6 @@
     "6243": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23740349",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-02T18:55:59.544120+00:00"
-        },
-        {
           "status": "source_premium_required",
           "source_id": "23740349",
           "reason": "Authenticated fast download link is unavailable; premium login is required",
@@ -304713,6 +304706,13 @@
           "target_video_id": "30815092",
           "permanent": false,
           "attempted_at": "2026-11-05T10:56:33.405898+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23740349",
+          "target_video_id": "30815092",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:20:24.893479+00:00"
         }
       ],
       "last_plan": {
@@ -304730,13 +304730,6 @@
     "19874": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "20756485",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-02T18:56:20.211734+00:00"
-        },
-        {
           "status": "source_premium_required",
           "source_id": "20756485",
           "reason": "Authenticated fast download link is unavailable; premium login is required",
@@ -304749,6 +304742,13 @@
           "target_video_id": "30815168",
           "permanent": false,
           "attempted_at": "2026-11-05T11:12:57.491836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20756485",
+          "target_video_id": "30815168",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:20:29.823861+00:00"
         }
       ],
       "last_plan": {
@@ -305827,16 +305827,10 @@
           "attempted_at": "2026-11-05T11:14:54.507093+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34607082",
-        "display_name": "Labyrint smrti (2006) SD CZ Dabing",
-        "planned_at": "2026-11-05T13:17:25.583187+00:00"
-      },
       "previous_target_id": "30815609",
-      "prepared": {
+      "upload": {
         "target_video_id": "30815609",
-        "size_bytes": 1194451884,
-        "prepared_at": "2026-11-05T11:13:35.728655+00:00"
+        "uploaded_at": "2026-11-05T13:20:31.654690+00:00"
       }
     },
     "28429": {
@@ -425093,5 +425087,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T13:20:17.025486+00:00"
+  "updated_at": "2026-11-05T13:20:31.654713+00:00"
 }
