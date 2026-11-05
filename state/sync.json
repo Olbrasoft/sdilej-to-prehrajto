@@ -308058,13 +308058,6 @@
     "5977": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "10614076",
-          "reason": "Request failed for https://sdilej.cz/10614076/damsky-klub.book.club.2018.1080p.brrip.cz..mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-18T20:40:44.975979+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "10614076",
@@ -308077,18 +308070,19 @@
           "source_id": "10614076",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-02T20:00:08.932177+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10614076",
+          "target_video_id": "30797407",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:06:56.730214+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10614076",
         "display_name": "Dámský klub (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:22:01.653716+00:00"
-      },
-      "claim": {
-        "worker_id": "695e00db56d240ba9ed00dc020a50566-shard-0",
-        "claimed_at": "2026-11-04T23:55:59.869454+00:00",
-        "lease_expires_at": "2026-11-05T05:55:59.869454+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30797407",
       "prepared": {
@@ -427346,5 +427340,5 @@
       }
     }
   },
-  "updated_at": "2026-11-04T23:56:03.695355+00:00"
+  "updated_at": "2026-11-05T00:06:56.730231+00:00"
 }
