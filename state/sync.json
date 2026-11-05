@@ -419833,13 +419833,6 @@
     "12915": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34736699",
-          "reason": "Source detail has no authenticated download link; source_id=34736699",
-          "permanent": false,
-          "attempted_at": "2026-10-22T06:11:29.754523+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "34736699",
@@ -419852,6 +419845,13 @@
           "target_video_id": "30755445",
           "permanent": false,
           "attempted_at": "2026-11-03T07:41:51.027886+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34736699",
+          "target_video_id": "30755445",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:38:57.724364+00:00"
         }
       ],
       "last_plan": {
@@ -419890,16 +419890,10 @@
           "attempted_at": "2026-11-03T07:43:31.237000+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34402466",
-        "display_name": "Pravá blondýnka 3 (2009) SD CZ Dabing",
-        "planned_at": "2026-11-05T03:36:42.051558+00:00"
-      },
       "previous_target_id": "30755566",
-      "prepared": {
+      "upload": {
         "target_video_id": "30755566",
-        "size_bytes": 971173260,
-        "prepared_at": "2026-11-03T07:42:03.184129+00:00"
+        "uploaded_at": "2026-11-05T03:38:59.854275+00:00"
       }
     },
     "17431": {
@@ -426892,5 +426886,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T03:38:51.232135+00:00"
+  "updated_at": "2026-11-05T03:38:59.854292+00:00"
 }
