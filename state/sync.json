@@ -179423,13 +179423,6 @@
           "permanent": false,
           "source_id": "32999469",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-26T19:42:36.877857+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "32999469",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-01T13:51:36.176374+00:00"
         },
         {
@@ -179438,18 +179431,19 @@
           "reason": "Request failed for https://sdilej.cz/32999469/utes-smrti-vrazedne-vody.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-04T08:55:12.809603+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32999469",
+          "target_video_id": "30808000",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:08:42.162280+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32999469",
         "display_name": "Vražedné svody (2021) SD CZ Dabing",
         "planned_at": "2026-11-05T06:56:20.136005+00:00"
-      },
-      "claim": {
-        "worker_id": "94add75691b945c5b544ee1a6320349f-shard-0",
-        "claimed_at": "2026-11-05T07:06:35.595109+00:00",
-        "lease_expires_at": "2026-11-05T13:06:35.595109+00:00",
-        "run_id": "41961167342"
       },
       "previous_target_id": "30808000",
       "prepared": {
@@ -425759,5 +425753,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T07:06:40.440639+00:00"
+  "updated_at": "2026-11-05T07:08:42.162298+00:00"
 }
