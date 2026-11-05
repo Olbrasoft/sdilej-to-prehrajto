@@ -394550,13 +394550,6 @@
     "30930": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12236976",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-20T18:46:18.734877+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "12236976",
           "reason": "Request failed for https://sdilej.cz/12236976/the.mummy.rebirth.2019.1080p.web-dl.dd5.1.h264-fgt-cz-tit.mkv (HTTP None)",
@@ -394569,18 +394562,19 @@
           "reason": "Request failed for https://sdilej.cz/12236976/the.mummy.rebirth.2019.1080p.web-dl.dd5.1.h264-fgt-cz-tit.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T01:46:04.255311+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12236976",
+          "target_video_id": "30798721",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:11:55.482322+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12236976",
         "display_name": "The Mummy: Rebirth (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-05T01:01:27.240943+00:00"
-      },
-      "claim": {
-        "worker_id": "d3bcaca666b14b3b99b6ce20e69f02ea-shard-0",
-        "claimed_at": "2026-11-05T01:03:05.460693+00:00",
-        "lease_expires_at": "2026-11-05T07:03:05.460693+00:00",
-        "run_id": "41924443950"
       },
       "previous_target_id": "30798721",
       "prepared": {
@@ -427120,5 +427114,5 @@
       }
     }
   },
-  "updated_at": "2026-11-05T01:03:09.241054+00:00"
+  "updated_at": "2026-11-05T01:11:55.482339+00:00"
 }
