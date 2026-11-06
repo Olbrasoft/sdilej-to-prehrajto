@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:55:00.161539+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:55:08.945239+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -91,7 +91,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Alpha (2025) 720p CZ Titulky](https://prehraj.to/alpha-2025-720p-cz-titulky-mp4/ae249296a73cf993) (ID 30737970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567180+00:00 |
 | [Alpha Rift (2021) 720p CZ Titulky](https://prehraj.to/alpha-rift-2021-720p-cz-titulky-mp4/02e83edbc35871a1) (ID 29723911) | [Sdílej 34731662](https://sdilej.cz/34731662/alpha-rift-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:53:09.451683+00:00 |
 | [Amandla (2022) 1080p CZ Titulky](https://prehraj.to/amandla-2022-1080p-cz-titulky-mkv/87d445432af21800) (ID 30565379) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.566136+00:00 |
-| [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:54:17.654478+00:00 |
+| [American Hero (2015) SD CZ Titulky](https://prehraj.to/american-hero-2015-sd-cz-titulky-mp4/71b9375dfb28cc09) (ID 29732275) | [Sdílej 34776116](https://sdilej.cz/34776116/american-hero-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:55:08.945120+00:00 |
 | [American Satan (2017) SD CZ Titulky](https://prehraj.to/american-satan-2017-sd-cz-titulky-avi/df146b915e883159) (ID 29911940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560251+00:00 |
 | [Amigo (2010) SD CZ Titulky](https://prehraj.to/amigo-2010-sd-cz-titulky-mkv/cdcc06bdec23cb74) (ID 30782248) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567561+00:00 |
 | [Amityville Exorcism (2017) SD CZ Titulky](https://prehraj.to/amityville-exorcism-2017-sd-cz-titulky-avi/74a844e7a6088ffc) (ID 30421546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.565026+00:00 |
