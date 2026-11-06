@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:12:21.582978+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:12:31.152391+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2253,7 +2253,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Ďáblové v oblacích (1955) 1080p CZ Titulky](https://prehraj.to/dablove-v-oblacich-1955-1080p-cz-titulky-mkv/e0ba45a9b07047e5) (ID 30796109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717809+00:00 |
 | [Řbitov zvířátek: Pokrevní linie (2023) 1080p CZ Titulky](https://prehraj.to/rbitov-zviratek-pokrevni-linie-2023-1080p-cz-titulky-mkv/2d32f1f493ecab33) (ID 30635549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716506+00:00 |
 | [Říše zvířat (2023) 720p CZ Titulky.mp4](https://prehraj.to/rise-zvirat-2023-720p-cz-titulky-mp4/ef1471bd90be42e3) (ID 30163327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712550+00:00 |
-| [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:18:21.881203+00:00 |
+| [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:12:31.152255+00:00 |
 | [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:31:07.947542+00:00 |
 | [Šingeki no kjodžin (2015) 1080p CZ Titulky](https://prehraj.to/singeki-no-kjodzin-2015-1080p-cz-titulky-avi/4cd38c26c0cded08) (ID 29734090) | [Sdílej 8458716](https://sdilej.cz/8458716/shingeki-no-kyojin-attack-on-titan.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:56:55.458399+00:00 |
 | [Šišanje (2010) 720p CZ Titulky](https://prehraj.to/sisanje-2010-720p-cz-titulky-mkv/53b0812152564bfe) (ID 30581535) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.715897+00:00 |
