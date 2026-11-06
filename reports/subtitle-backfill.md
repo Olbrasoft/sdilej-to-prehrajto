@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:30:08.470576+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:30:19.732750+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1135,7 +1135,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Milfs vs. Zombies (2015) SD CZ Titulky](https://prehraj.to/milfs-vs-zombies-2015-sd-cz-titulky-mkv/2ebc8b57b29b02ae) (ID 29904306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.710975+00:00 |
 | [Milion mil daleko (2023) 4K CZ Titulky](https://prehraj.to/milion-mil-daleko-2023-4k-cz-titulky-mkv/e38dd91c3a134f04) (ID 30489394) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.715183+00:00 |
 | [Milovaná (2010) 1080p CZ Titulky](https://prehraj.to/milovana-2010-1080p-cz-titulky-mkv/b85d1bd0fef86acf) (ID 29382058) | [Sdílej 20917147](https://sdilej.cz/20917147/till.det.som.ar.vackert.2010.1080p.web-dl.dd5.1.h.264-pfxcpi.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:31:45.401895+00:00 |
-| [Ministranti (2025) 1080p CZ Titulky](https://prehraj.to/ministranti-2025-1080p-cz-titulky-mkv/80d3be75247f9c94) (ID 29676188) | [Sdílej 33479712](https://sdilej.cz/33479712/ministranci-2025-1080p-web-dl-x264-odkaz-na-titulky.mkv.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:35:19.226596+00:00 |
+| [Ministranti (2025) 1080p CZ Titulky](https://prehraj.to/ministranti-2025-1080p-cz-titulky-mkv/80d3be75247f9c94) (ID 29676188) | [Sdílej 33479712](https://sdilej.cz/33479712/ministranci-2025-1080p-web-dl-x264-odkaz-na-titulky.mkv.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:30:19.732629+00:00 |
 | [Mira (2022) 1080p CZ Titulky](https://prehraj.to/mira-2022-1080p-cz-titulky-mp4/053bb76d5cd15089) (ID 30606658) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716151+00:00 |
 | [Miss Baek (2018) 1080p CZ Titulky](https://prehraj.to/miss-baek-2018-1080p-cz-titulky-mp4/cbb922ab795ad0dd) (ID 30070857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712328+00:00 |
 | [Mistr jinu a jangu (2021) 1080p CZ Titulky](https://prehraj.to/mistr-jinu-a-jangu-2021-1080p-cz-titulky-mp4/57e9101388736bd0) (ID 30716253) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716940+00:00 |
