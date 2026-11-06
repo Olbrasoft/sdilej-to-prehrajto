@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:15:20.566990+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:15:31.857914+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1461,7 +1461,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Proti přírodě (2014) 1080p CZ Titulky](https://prehraj.to/proti-prirode-2014-1080p-cz-titulky-mp4/66fd2542e287a0b8) (ID 30066066) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712305+00:00 |
 | [Provokatéři (2024) 4K CZ Titulky](https://prehraj.to/provokateri-2024-4k-cz-titulky-mkv/d41d2a9be63b447f) (ID 30595222) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716059+00:00 |
 | [Proximity (2020) SD CZ Titulky](https://prehraj.to/proximity-2020-sd-cz-titulky-avi/9dcf14f03dc9cd80) (ID 30406609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714116+00:00 |
-| [Proč jsem se jen ženil (2007) 1080p CZ Titulky](https://prehraj.to/proc-jsem-se-jen-zenil-2007-1080p-cz-titulky-mp4/d00c4f2fc10b53ee) (ID 29638103) | [Sdílej 32449354](https://sdilej.cz/32449354/why-did-i-get-married-2007-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:21:02.137455+00:00 |
+| [Proč jsem se jen ženil (2007) 1080p CZ Titulky](https://prehraj.to/proc-jsem-se-jen-zenil-2007-1080p-cz-titulky-mp4/d00c4f2fc10b53ee) (ID 29638103) | [Sdílej 32449354](https://sdilej.cz/32449354/why-did-i-get-married-2007-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:15:31.857780+00:00 |
 | [První muži na měsíci (1964) 1080p CZ Titulky](https://prehraj.to/prvni-muzi-na-mesici-1964-1080p-cz-titulky-mkv/971b9b08e0730c2e) (ID 29366588) | [Sdílej 17636997](https://sdilej.cz/17636997/first.men.in.the.moon.1964.remastered.1080p.bluray.dd5.1.hevc.x265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:32:23.907961+00:00 |
 | [Prvotní světlo (2018) 1080p CZ Titulky](https://prehraj.to/prvotni-svetlo-2018-1080p-cz-titulky-mkv/378f69152a622a74) (ID 30447140) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714721+00:00 |
 | [Présumé coupable (2011) 720p CZ Titulky](https://prehraj.to/presume-coupable-2011-720p-cz-titulky-avi/565a6e3b27656485) (ID 29440619) | [Sdílej 15151822](https://sdilej.cz/15151822/obvineny-presume-coupable-guilty-2011-.-bdrip.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:36:01.922811+00:00 |
