@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:45:39.064012+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:45:47.655594+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -653,7 +653,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Florencino knihkupectví (2017) SD CZ Titulky](https://prehraj.to/florencino-knihkupectvi-2017-sd-cz-titulky-avi/2f92c3ce50031ab5) (ID 30217813) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563020+00:00 |
 | [Flower (2017) 1080p CZ Titulky](https://prehraj.to/flower-2017-1080p-cz-titulky-mkv/8b50350b02a93bb4) (ID 30797865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567648+00:00 |
 | [Flykten till framtiden (2016) SD CZ Titulky](https://prehraj.to/flykten-till-framtiden-2016-sd-cz-titulky-mp4/aeb3efd64a388143) (ID 29317371) | [Sdílej 34770386](https://sdilej.cz/34770386/flykten-till-framtiden-2016-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:31:12.364137+00:00 |
-| [Followed (2018) 1080p CZ Titulky](https://prehraj.to/followed-2018-1080p-cz-titulky-mp4/91e5ef8083cbbf6d) (ID 29711077) | [Sdílej 34737041](https://sdilej.cz/34737041/followed-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:45:01.663191+00:00 |
+| [Followed (2018) 1080p CZ Titulky](https://prehraj.to/followed-2018-1080p-cz-titulky-mp4/91e5ef8083cbbf6d) (ID 29711077) | [Sdílej 34737041](https://sdilej.cz/34737041/followed-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:45:47.655456+00:00 |
 | [Forbidden Fruits (2026) 1080p CZ Titulky](https://prehraj.to/forbidden-fruits-2026-1080p-cz-titulky-mkv/fbd9c5bb664538dd) (ID 30367386) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564257+00:00 |
 | [Forgotten (2017) 720p CZ Titulky](https://prehraj.to/forgotten-2017-720p-cz-titulky-mkv/4e6decadabf8dc16) (ID 29900926) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.559859+00:00 |
 | [Fortress (2021) 720p CZ Titulky](https://prehraj.to/fortress-2021-720p-cz-titulky-mp4/1030ed0b570abb9c) (ID 30433535) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.565139+00:00 |
