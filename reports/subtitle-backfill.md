@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:47:27.490015+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:48:02.556228+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1045,7 +1045,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Lone Samurai (2025) 720p CZ Titulky](https://prehraj.to/lone-samurai-2025-720p-cz-titulky-mp4/55361b1df0c856b9) (ID 29979781) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561639+00:00 |
 | [Long Distance (2024) 4K CZ Titulky](https://prehraj.to/long-distance-2024-4k-cz-titulky-mkv/f94ce08c3465a866) (ID 29919150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560646+00:00 |
 | [Lookout (2025) 1080p CZ Titulky](https://prehraj.to/lookout-2025-1080p-cz-titulky-mkv/17fde015094aae2b) (ID 30773821) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567438+00:00 |
-| [Lord of the Dance: Dangerous Games (2014) 1080p CZ Titulky](https://prehraj.to/lord-of-the-dance-dangerous-games-2014-1080p-cz-titulky-avi/b13d52a7e0a9faba) (ID 29717316) | [Sdílej 27726623](https://sdilej.cz/27726623/lord-of-the-dance-dangerous-games-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:47:19.647047+00:00 |
+| [Lord of the Dance: Dangerous Games (2014) 1080p CZ Titulky](https://prehraj.to/lord-of-the-dance-dangerous-games-2014-1080p-cz-titulky-avi/b13d52a7e0a9faba) (ID 29717316) | [Sdílej 27726623](https://sdilej.cz/27726623/lord-of-the-dance-dangerous-games-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:48:02.556116+00:00 |
 | [Lost Girls & Love Hotels (2020) 1080p CZ Titulky](https://prehraj.to/lost-girls-love-hotels-2020-1080p-cz-titulky-mkv/59d52c558f8844a9) (ID 30404232) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564769+00:00 |
 | [Lovci bájných relikvií (2013) SD CZ Titulky](https://prehraj.to/lovci-bajnych-relikvii-2013-sd-cz-titulky-avi/edf599abc67d5112) (ID 30375319) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564397+00:00 |
 | [Love Reset (2023) 1080p CZ Titulky](https://prehraj.to/love-reset-2023-1080p-cz-titulky-mp4/5de9660bffda9818) (ID 30096836) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.562351+00:00 |
