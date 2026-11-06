@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T02:30:17.766044+00:00
+Poslední aktualizace (UTC): 2026-11-06T02:30:25.848483+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -851,7 +851,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Influencer (2022) 1080p CZ Titulky](https://prehraj.to/influencer-2022-1080p-cz-titulky-mp4/57384e4efbd1dad0) (ID 30484875) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.570614+00:00 |
 | [Influencers (2025) 1080p CZ Titulky](https://prehraj.to/influencers-2025-1080p-cz-titulky-mp4/a8a8a88edb523208) (ID 30340147) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.567092+00:00 |
 | [Ingeborg Bachmannová - Cesta do pouště (2023) 1080p CZ Titulky](https://prehraj.to/ingeborg-bachmannova-cesta-do-pouste-2023-1080p-cz-titulky-mkv/684a5de9ee706a14) (ID 30784162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.574377+00:00 |
-| [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:30:41.935839+00:00 |
+| [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:30:25.848362+00:00 |
 | [Inkarnace (2016) 1080p CZ Titulky](https://prehraj.to/inkarnace-2016-1080p-cz-titulky-mkv/052ecc538b3641a6) (ID 30379261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.568087+00:00 |
 | [Inner Demons (2014) SD CZ Titulky](https://prehraj.to/inner-demons-2014-sd-cz-titulky-avi/49e73732dbab1b79) (ID 29679619) | [Sdílej 34447135](https://sdilej.cz/34447135/inner-demons.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:37:43.114627+00:00 |
 | [Internet Famous (2016) SD CZ Titulky](https://prehraj.to/internet-famous-2016-sd-cz-titulky-mp4/14f9f8f47b2fcc8e) (ID 29751947) | [Sdílej 34737763](https://sdilej.cz/34737763/internet-famous-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:35:09.267466+00:00 |
