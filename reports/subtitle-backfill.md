@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:14:40.853768+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:14:51.788334+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2094,7 +2094,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Vykopávky (2021) 1080p CZ Titulky](https://prehraj.to/vykopavky-2021-1080p-cz-titulky-mp4/a65a47006859bdd8) (ID 29408437) | [Sdílej 34728109](https://sdilej.cz/34728109/vykopavky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:30:25.792903+00:00 |
 | [Vymahač (2016) 720p CZ Titulky](https://prehraj.to/vymahac-2016-720p-cz-titulky-avi/222857be29a41454) (ID 30138959) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712492+00:00 |
 | [Vzplanutí na Rye Lane (2023) 1080p CZ Titulky](https://prehraj.to/vzplanuti-na-rye-lane-2023-1080p-cz-titulky-mkv/66fb072f3c0169cb) (ID 29339891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.709393+00:00 |
-| [Vzpomínka na Benátky (2018) 1080p CZ Titulky](https://prehraj.to/vzpominka-na-benatky-2018-1080p-cz-titulky-mp4/a9ddb00de5c628fc) (ID 29636691) | [Sdílej 34487542](https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:20:22.304335+00:00 |
+| [Vzpomínka na Benátky (2018) 1080p CZ Titulky](https://prehraj.to/vzpominka-na-benatky-2018-1080p-cz-titulky-mp4/a9ddb00de5c628fc) (ID 29636691) | [Sdílej 34487542](https://sdilej.cz/34487542/head.full.of.honey.2018.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:14:51.788206+00:00 |
 | [Vzpoura (1967) SD CZ Titulky](https://prehraj.to/vzpoura-1967-sd-cz-titulky-avi/c16fa85f4bc2e976) (ID 29122069) | [Sdílej 32744263](https://sdilej.cz/32744263/vzpoura-1967-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:38:31.052219+00:00 |
 | [Vábení sirén (2015) 1080p CZ Titulky](https://prehraj.to/vabeni-siren-2015-1080p-cz-titulky-mp4/839f1ed77a0a2e7d) (ID 29585630) | [Sdílej 34737935](https://sdilej.cz/34737935/vabeni-siren-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:00:56.617196+00:00 |
 | [Válečný zajatec (2025) 1080p CZ Titulky](https://prehraj.to/valecny-zajatec-2025-1080p-cz-titulky-mkv/a7738d3e09893989) (ID 30449531) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714774+00:00 |
