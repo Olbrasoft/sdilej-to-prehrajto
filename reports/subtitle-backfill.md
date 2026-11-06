@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:26:03.115126+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:26:13.300731+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1186,7 +1186,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [México bárbaro (2014) 1080p CZ Titulky.mp4](https://prehraj.to/mexico-barbaro-2014-1080p-cz-titulky-mp4/137c28ec8289ecbf) (ID 29635798) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.811128+00:00 |
 | [Místo splněných přání (2017) SD CZ Titulky](https://prehraj.to/misto-splnenych-prani-2017-sd-cz-titulky-avi/188ebabb7f6d33cd) (ID 29505925) | [Sdílej 9037924](https://sdilej.cz/9037924/misto-splnenych-prani-the-place-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:47:11.367314+00:00 |
 | [Městečko South Park: Po Covidu (2021) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-po-covidu-2021-1080p-cz-titulky-mkv/a323377d5bcb9e45) (ID 29633357) | [Sdílej 18974609](https://sdilej.cz/18974609/south-park-post-covid-2021-1080p-cztit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:39.928012+00:00 |
-| [Městečko South Park: Vstup do světa patolízalů (2023) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-vstup-do-sveta-patolizalu-2023-1080p-cz-titulky-mp4/d89545ae8635af6a) (ID 29396144) | [Sdílej 27260067](https://sdilej.cz/27260067/south-park-joining-the-panderverse-2023-web-dl-full-hd-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:29:56.416215+00:00 |
+| [Městečko South Park: Vstup do světa patolízalů (2023) 1080p CZ Titulky](https://prehraj.to/mestecko-south-park-vstup-do-sveta-patolizalu-2023-1080p-cz-titulky-mp4/d89545ae8635af6a) (ID 29396144) | [Sdílej 27260067](https://sdilej.cz/27260067/south-park-joining-the-panderverse-2023-web-dl-full-hd-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:26:13.300603+00:00 |
 | [Město na ostří nože (2020) 720p CZ Titulky](https://prehraj.to/mesto-na-ostri-noze-2020-720p-cz-titulky-mp4/3a5060f134a7bed7) (ID 30362060) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.819012+00:00 |
 | [Můj král (2015) SD CZ Titulky](https://prehraj.to/muj-kral-2015-sd-cz-titulky-avi/b0309e1fd2265c5c) (ID 29212827) | [Sdílej 8877241](https://sdilej.cz/8877241/muj-kral-mon-roi-2015-hc.titulky.cz-720p.hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:45:11.298174+00:00 |
 | [Na Vánoce žádný zázrak (2020) 1080p CZ Titulky](https://prehraj.to/na-vanoce-zadny-zazrak-2020-1080p-cz-titulky-mp4/f56d9c6df66b9089) (ID 29240420) | [Sdílej 34732936](https://sdilej.cz/34732936/na-vanoce-zadny-zazrak-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:29:00.800333+00:00 |
