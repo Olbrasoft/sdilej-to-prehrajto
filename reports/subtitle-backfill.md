@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:08:25.415234+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:08:29.223121+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2287,7 +2287,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Dův
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-11-06T13:28:58.346067+00:00 |
 | [Buzíci (1974) 720p CZ Titulky](https://prehraj.to/buzici-1974-720p-cz-titulky-mkv/d201314d3c8b9a52) (ID 29444563) | [Sdílej 24869171](https://sdilej.cz/24869171/buzici-les-valseuses-1974-komedie-fr.-cz-titulky.mkv) | source_unavailable | 2026-11-06T16:37:01.208475+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-06T18:08:17.611605+00:00 |
-| [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-06T14:29:51.364746+00:00 |
+| [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-06T18:08:29.223078+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-11-06T18:07:57.745259+00:00 |
 | [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | source_unavailable | 2026-11-06T16:28:12.185665+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-11-06T14:30:02.614199+00:00 |
