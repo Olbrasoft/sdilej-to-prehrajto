@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:27:32.759462+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:27:46.364879+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -798,7 +798,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Hotel Mumbai (2018) 720p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29558577) | [Sdílej 31885956](https://sdilej.cz/31885956/hotel-mumbai-2018-czdab-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-06T14:28:50.283482+00:00 |
 | [Hounded (2022) 1080p CZ Titulky.mkv](https://prehraj.to/hounded-2022-1080p-cz-titulky-mkv/9fc9e9a943eb6578) (ID 29651252) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.710542+00:00 |
 | [House Party (1990) SD CZ Titulky](https://prehraj.to/house-party-1990-sd-cz-titulky-avi/8f529e8448700e37) (ID 30216844) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712691+00:00 |
-| [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:32:59.919423+00:00 |
+| [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:27:46.364752+00:00 |
 | [How It Ends (2018) 1080p CZ Titulky](https://prehraj.to/how-it-ends-2018-1080p-cz-titulky-mkv/685892b5e3f5feff) (ID 30413217) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714202+00:00 |
 | [Howl (2015) SD CZ Titulky](https://prehraj.to/howl-2015-sd-cz-titulky-mp4/6545d2a2b65bd6f2) (ID 30620169) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716321+00:00 |
 | [Hořící nebesa (1997) SD CZ Titulky](https://prehraj.to/horici-nebesa-1997-sd-cz-titulky-avi/fc11c7b4743e80d0) (ID 30814483) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717911+00:00 |
