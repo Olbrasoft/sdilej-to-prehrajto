@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:53:17.263485+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:53:21.082300+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2282,7 +2282,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [3 Idioti (2009) 1080p CZ Titulky](https://prehraj.to/3-idioti-2009-1080p-cz-titulky-mkv/3a764e265186ea8a) (ID 28925211) | [Sdílej 26558986](https://sdilej.cz/26558986/3-idiots-tri-idioti-cztit-2009-.mkv) | target_unavailable | 2026-11-06T18:07:45.702458+00:00 |
+| [3 Idioti (2009) 1080p CZ Titulky](https://prehraj.to/3-idioti-2009-1080p-cz-titulky-mkv/3a764e265186ea8a) (ID 28925211) | [Sdílej 26558986](https://sdilej.cz/26558986/3-idiots-tri-idioti-cztit-2009-.mkv) | target_unavailable | 2026-11-06T19:53:21.082234+00:00 |
 | [3-Iron (2004) 1080p CZ Titulky](https://prehraj.to/3-iron-2004-1080p-cz-titulky-mkv/69231660aa56eea2) (ID 29209297) | [Sdílej 33870824](https://sdilej.cz/33870824/3.iron.2004.1080p.amzn.web-dl.ddp5.1.x264-blutonium.mkv) | source_unavailable | 2026-11-06T15:25:38.251182+00:00 |
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-11-06T19:52:01.332056+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-11-06T19:52:21.364297+00:00 |
