@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:27:24.381125+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:27:33.411159+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2108,7 +2108,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Vánoční setkání (2020) 1080p CZ Titulky](https://prehraj.to/vanocni-setkani-2020-1080p-cz-titulky-mp4/9c0a1fc4b9051990) (ID 29612782) | [Sdílej 34731850](https://sdilej.cz/34731850/vanocni-setkani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:14:19.911311+00:00 |
 | [Vášnivý tanec (1998) 1080p CZ Titulky](https://prehraj.to/vasnivy-tanec-1998-1080p-cz-titulky-mkv/0260781a43cc9671) (ID 30467621) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820014+00:00 |
 | [Vážený občan (2016) 1080p CZ Titulky.mp4](https://prehraj.to/vazeny-obcan-2016-1080p-cz-titulky-mp4/9c7b2e66853ad588) (ID 29751541) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.811675+00:00 |
-| [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:31:12.795026+00:00 |
+| [Víkendový trapas (2023) 720p CZ Titulky](https://prehraj.to/vikendovy-trapas-2023-720p-cz-titulky-mp4/f9a967202d5e011a) (ID 29398207) | [Sdílej 34725261](https://sdilej.cz/34725261/vikendovy-trapas-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:27:33.411018+00:00 |
 | [Vítej doma (2018) SD CZ Titulky](https://prehraj.to/vitej-doma-2018-sd-cz-titulky-avi/ac384bc9687afc30) (ID 30370191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.819098+00:00 |
 | [Vítězové a poražení (1999) 1080p CZ Titulky](https://prehraj.to/vitezove-a-porazeni-1999-1080p-cz-titulky-mkv/cb14f71fd3a8778f) (ID 29240141) | [Sdílej 25959295](https://sdilej.cz/25959295/any-given-sunday-1999-vitazovia-a-porazeni-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:39.155601+00:00 |
 | [Výheň (2011) SD CZ Titulky](https://prehraj.to/vyhen-2011-sd-cz-titulky-avi/355cca1c01d64405) (ID 29916356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.813157+00:00 |
