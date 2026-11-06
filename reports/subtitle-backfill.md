@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T09:30:51.556451+00:00
+Poslední aktualizace (UTC): 2026-11-06T09:31:00.142965+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1745,7 +1745,7 @@ Kontrol: 49; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:40:11.016193+00:00 |
 | [Střed světa (2001) SD CZ Titulky](https://prehraj.to/stred-sveta-2001-sd-cz-titulky-avi/79acd4b2c9241474) (ID 29640156) | [Sdílej 23104985](https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:22:33.139927+00:00 |
 | [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:33:09.077646+00:00 |
-| [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:29:50.184030+00:00 |
+| [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:31:00.142850+00:00 |
 | [Suburban Gothic (2014) 720p CZ Titulky](https://prehraj.to/suburban-gothic-2014-720p-cz-titulky-mkv/2003e064355c0546) (ID 29947165) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.073428+00:00 |
 | [Suicide Forest Village (2021) 720p CZ Titulky](https://prehraj.to/suicide-forest-village-2021-720p-cz-titulky-mkv/e6cfb495d6fb9e97) (ID 30303192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.077219+00:00 |
 | [Suite Française (2015) SD CZ Titulky](https://prehraj.to/suite-francaise-2015-sd-cz-titulky-mp4/d1684521361ec087) (ID 29427034) | [Sdílej 34737967](https://sdilej.cz/34737967/suite-fran-aise-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:37:50.640178+00:00 |
