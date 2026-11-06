@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:07:38.061411+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:07:51.200627+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -914,7 +914,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Journey to the West: Demon Chapter (2017) SD CZ Titulky](https://prehraj.to/journey-to-the-west-demon-chapter-2017-sd-cz-titulky-mp4/6ba85bdd5bf019a6) (ID 29938773) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.888913+00:00 |
 | [Jsem s tebou (2004) SD CZ Titulky](https://prehraj.to/jsem-s-tebou-2004-sd-cz-titulky-mp4/8fbc9f39ecdcba67) (ID 29261675) | [Sdílej 34751375](https://sdilej.cz/34751375/jsem-s-tebou-2004-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:31:57.642164+00:00 |
 | [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:01:28.653004+00:00 |
-| [Just Before Dawn (1981) SD CZ Titulky](https://prehraj.to/just-before-dawn-1981-sd-cz-titulky-avi/0ffe576723da5bce) (ID 29612468) | [Sdílej 6227474](https://sdilej.cz/6227474/just-before-dawn-horor.thriller-1981-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:13:48.532466+00:00 |
+| [Just Before Dawn (1981) SD CZ Titulky](https://prehraj.to/just-before-dawn-1981-sd-cz-titulky-avi/0ffe576723da5bce) (ID 29612468) | [Sdílej 6227474](https://sdilej.cz/6227474/just-before-dawn-horor.thriller-1981-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:07:51.200504+00:00 |
 | [Justice League vs. the Fatal Five (2019) 1080p CZ Titulky](https://prehraj.to/justice-league-vs-the-fatal-five-2019-1080p-cz-titulky-mp4/a479e0605888bef7) (ID 30576111) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.897854+00:00 |
 | [Justice Society: World War II (2021) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29269710) | [Sdílej 16889647](https://sdilej.cz/16889647/justice.society.world.war.ii.2021.1080p.webrip.dd5.1.x264.cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-06T14:28:22.988658+00:00 |
 | [Já a můj terapeut (2024) 720p CZ Titulky](https://prehraj.to/ja-a-muj-terapeut-2024-720p-cz-titulky-mp4/44c8713a06a38bee) (ID 29616776) | [Sdílej 34724968](https://sdilej.cz/34724968/ja-a-muj-terapeut-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:16:36.998781+00:00 |
