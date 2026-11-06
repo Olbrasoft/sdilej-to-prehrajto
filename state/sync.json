@@ -118618,7 +118618,15 @@
       "attempts": []
     },
     "16476": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35080468",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T19:30:12.011861+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35080468",
         "display_name": "Polská krev (1979) SD CZ Dabing",
@@ -135805,6 +135813,18 @@
         "source_id": "35210758",
         "display_name": "Prokletí domu Hajnů (1989) 1080p CZ Dabing",
         "planned_at": "2026-11-06T19:06:41.115985+00:00"
+      },
+      "claim": {
+        "worker_id": "1dfafba2dbbe40f9a93bf9e262e970b3-shard-0",
+        "claimed_at": "2026-11-06T19:30:12.407545+00:00",
+        "lease_expires_at": "2026-11-07T01:30:12.407545+00:00",
+        "run_id": "42233091012"
+      },
+      "previous_target_id": "30867425",
+      "prepared": {
+        "target_video_id": "30867425",
+        "size_bytes": 4920066337,
+        "prepared_at": "2026-11-06T19:30:35.425230+00:00"
       }
     },
     "32162": {
@@ -426182,5 +426202,5 @@
       }
     }
   },
-  "updated_at": "2026-11-06T19:29:46.279005+00:00"
+  "updated_at": "2026-11-06T19:30:35.425247+00:00"
 }
