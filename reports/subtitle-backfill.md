@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:41:33.799480+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:41:42.112794+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -837,7 +837,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ida (2013) 720p CZ Titulky](https://prehraj.to/ida-2013-720p-cz-titulky-mp4/487c2cd46e0b073c) (ID 29634738) | [Sdílej 33614636](https://sdilej.cz/33614636/ida-2013-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:19:35.809627+00:00 |
 | [Ideální domov (2018) 1080p CZ Titulky](https://prehraj.to/idealni-domov-2018-1080p-cz-titulky-mkv/80427d1871691e6a) (ID 30254872) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.817691+00:00 |
 | [Idioti (1998) 1080p CZ Titulky](https://prehraj.to/idioti-1998-1080p-cz-titulky-mkv/08ad89ca9eb8ecfe) (ID 30540162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820385+00:00 |
-| [Il filo invisibile (2022) 1080p CZ Titulky](https://prehraj.to/il-filo-invisibile-2022-1080p-cz-titulky-mp4/bedcce1c23ecb1ee) (ID 29486927) | [Sdílej 34727277](https://sdilej.cz/34727277/il-filo-invisibile-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:45:27.780725+00:00 |
+| [Il filo invisibile (2022) 1080p CZ Titulky](https://prehraj.to/il-filo-invisibile-2022-1080p-cz-titulky-mp4/bedcce1c23ecb1ee) (ID 29486927) | [Sdílej 34727277](https://sdilej.cz/34727277/il-filo-invisibile-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:41:42.112669+00:00 |
 | [Imaginární lásky (2010) SD CZ Titulky](https://prehraj.to/imaginarni-lasky-2010-sd-cz-titulky-mkv/90110a39fb1d89ea) (ID 29628654) | [Sdílej 7223331](https://sdilej.cz/7223331/imaginarni-lasky-les-amours-imaginaires-2010-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:27.405059+00:00 |
 | [Immanence (2022) 1080p CZ Titulky](https://prehraj.to/immanence-2022-1080p-cz-titulky-mp4/3698c678aa15f46b) (ID 30369784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.819081+00:00 |
 | [In Praise of Older Women (1978) SD CZ Titulky](https://prehraj.to/in-praise-of-older-women-1978-sd-cz-titulky-avi/deec8f83f528ca0c) (ID 29372496) | [Sdílej 25839274](https://sdilej.cz/25839274/in-praise-of-older-women-1978-can-drama.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:29:35.089549+00:00 |
