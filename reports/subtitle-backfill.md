@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:38:08.004115+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:38:16.528027+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1961,7 +1961,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Walking Deceased (2015) SD CZ Titulky](https://prehraj.to/the-walking-deceased-2015-sd-cz-titulky-mkv/834c07b33f9138c7) (ID 29909456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.981519+00:00 |
 | [The Wall (2017) 1080p CZ Titulky](https://prehraj.to/the-wall-2017-1080p-cz-titulky-mkv/389fb9d0de53a3c7) (ID 30775554) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.996634+00:00 |
 | [The Wall: Climb for Gold (2022) 1080p CZ Titulky](https://prehraj.to/the-wall-climb-for-gold-2022-1080p-cz-titulky-mp4/1e4065788c84354b) (ID 29589919) | [Sdílej 34772168](https://sdilej.cz/34772168/the-wall-climb-for-gold-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:06:11.399790+00:00 |
-| [The Week Of (2018) 1080p CZ Titulky](https://prehraj.to/the-week-of-2018-1080p-cz-titulky-mp4/f144495061bb07b8) (ID 29753494) | [Sdílej 34735288](https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:36:10.310895+00:00 |
+| [The Week Of (2018) 1080p CZ Titulky](https://prehraj.to/the-week-of-2018-1080p-cz-titulky-mp4/f144495061bb07b8) (ID 29753494) | [Sdílej 34735288](https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:38:16.527906+00:00 |
 | [The Well (2023) 1080p CZ Titulky](https://prehraj.to/the-well-2023-1080p-cz-titulky-mp4/65861bbd3bd73da0) (ID 29934372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.983906+00:00 |
 | [The Wind (2018) 1080p CZ Titulky](https://prehraj.to/the-wind-2018-1080p-cz-titulky-mp4/93b62986f7146902) (ID 29925459) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.983164+00:00 |
 | [The Windigo (2024) 1080p CZ Titulky](https://prehraj.to/the-windigo-2024-1080p-cz-titulky-mp4/c536969876db52b2) (ID 29607776) | [Sdílej 34724644](https://sdilej.cz/34724644/the-windigo-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:04:10.242936+00:00 |
