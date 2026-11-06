@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:40:03.873709+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:40:18.538156+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1723,7 +1723,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Stalker (2022) 1080p CZ Titulky](https://prehraj.to/stalker-2022-1080p-cz-titulky-mp4/8531b68e8c1f363e) (ID 29917499) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.982589+00:00 |
 | [Standoff (2016) SD CZ Titulky](https://prehraj.to/standoff-2016-sd-cz-titulky-avi/dd81ab5922dd6445) (ID 29608331) | [Sdílej 5503777](https://sdilej.cz/5503777/standoff-2016-sk-titulky-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:06:25.924379+00:00 |
 | [Star Trek: Horizon (2016) SD CZ Titulky](https://prehraj.to/star-trek-horizon-2016-sd-cz-titulky-avi/888c2a40c24c3966) (ID 30576009) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.994087+00:00 |
-| [Star Trek: Renegades (2015) SD CZ Titulky](https://prehraj.to/star-trek-renegades-2015-sd-cz-titulky-avi/8c149b7ff9b0ec67) (ID 29793115) | [Sdílej 27485360](https://sdilej.cz/27485360/star-trek-renegades-2015-cz-tit.akc.sci-fi-dobrodr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:37:58.986734+00:00 |
+| [Star Trek: Renegades (2015) SD CZ Titulky](https://prehraj.to/star-trek-renegades-2015-sd-cz-titulky-avi/8c149b7ff9b0ec67) (ID 29793115) | [Sdílej 27485360](https://sdilej.cz/27485360/star-trek-renegades-2015-cz-tit.akc.sci-fi-dobrodr.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:40:18.538019+00:00 |
 | [Starlet (2012) SD CZ Titulky](https://prehraj.to/starlet-2012-sd-cz-titulky-mp4/96755751c1141fd8) (ID 30047833) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.985802+00:00 |
 | [Stillwater (2018) 1080p CZ Titulky](https://prehraj.to/stillwater-2018-1080p-cz-titulky-mkv/878eb44c804d5384) (ID 30591018) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.994453+00:00 |
 | [Sting (2024) 1080p CZ Titulky](https://prehraj.to/sting-2024-1080p-cz-titulky-mkv/5c01b96b6e677206) (ID 29925491) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.983194+00:00 |
