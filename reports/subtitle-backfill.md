@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T05:28:48.717132+00:00
+Poslední aktualizace (UTC): 2026-11-06T05:29:00.665454+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -109,7 +109,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Angliština Engliština (2012) SD CZ Titulky](https://prehraj.to/anglistina-englistina-2012-sd-cz-titulky-avi/6a43bddcdd6fb3d7) (ID 30548725) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.437063+00:00 |
 | [Anna a apokalypsa (2017) SD CZ Titulky](https://prehraj.to/anna-a-apokalypsa-2017-sd-cz-titulky-mkv/1537a8f97d3c34d0) (ID 30607220) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.438150+00:00 |
 | [Annette (2021) 1080p CZ Titulky](https://prehraj.to/annette-2021-1080p-cz-titulky-mp4/8f5e9a5d77385877) (ID 29977154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.427064+00:00 |
-| [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:27:50.116395+00:00 |
+| [Annibale (1959) SD CZ Titulky](https://prehraj.to/annibale-1959-sd-cz-titulky-avi/8a8a85f8351c4d72) (ID 29299547) | [Sdílej 20371535](https://sdilej.cz/20371535/01.-1959-annibale.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:29:00.665280+00:00 |
 | [Anon (2018) 1080p CZ Titulky](https://prehraj.to/anon-2018-1080p-cz-titulky-mkv/de048aebe6f6e686) (ID 30348710) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.432960+00:00 |
 | [Another Time (2018) SD CZ Titulky](https://prehraj.to/another-time-2018-sd-cz-titulky-avi/c49c40380972a8a0) (ID 30353621) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.433084+00:00 |
 | [Antidote (2018) 1080p CZ Titulky](https://prehraj.to/antidote-2018-1080p-cz-titulky-mp4/454cf6f45d4b0ccd) (ID 29608713) | [Sdílej 34774428](https://sdilej.cz/34774428/antidote-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:10:50.843145+00:00 |
