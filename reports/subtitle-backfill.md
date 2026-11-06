@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:56:16.474067+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:56:25.701040+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -228,7 +228,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Bleed (2016) SD CZ Titulky](https://prehraj.to/bleed-2016-sd-cz-titulky-avi/492b2e2fc66bb83f) (ID 29748826) | [Sdílej 35027400](https://sdilej.cz/35027400/bleed-horor.thriller-2016-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:33:13.823451+00:00 |
 | [Blind (2019) 720p CZ Titulky](https://prehraj.to/blind-2019-720p-cz-titulky-mp4/e5e3924ccd6ac3be) (ID 29732972) | [Sdílej 34734539](https://sdilej.cz/34734539/curse-of-the-blind-dead-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:55:24.306399+00:00 |
 | [Bliss (2019) 1080p CZ Titulky](https://prehraj.to/bliss-2019-1080p-cz-titulky-mkv/926638cd8d41ad37) (ID 29617027) | [Sdílej 12353725](https://sdilej.cz/12353725/bliss.2019.1080p.amzn.web-dl.ddp5.1.h.264.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:14.005103+00:00 |
-| [Blood Bags (2018) SD CZ Titulky](https://prehraj.to/blood-bags-2018-sd-cz-titulky-mkv/86be779f40539a79) (ID 29571581) | [Sdílej 12741441](https://sdilej.cz/12741441/blood.bags.2018.sk.sub.hdrip.ac3.x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:02:04.551945+00:00 |
+| [Blood Bags (2018) SD CZ Titulky](https://prehraj.to/blood-bags-2018-sd-cz-titulky-mkv/86be779f40539a79) (ID 29571581) | [Sdílej 12741441](https://sdilej.cz/12741441/blood.bags.2018.sk.sub.hdrip.ac3.x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:56:25.700919+00:00 |
 | [Blood Bound (2019) 1080p CZ Titulky](https://prehraj.to/blood-bound-2019-1080p-cz-titulky-avi/bbf71258af7b2e49) (ID 30294830) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.893462+00:00 |
 | [Blood Fest (2018) SD CZ Titulky](https://prehraj.to/blood-fest-2018-sd-cz-titulky-avi/e65f5bcfb37dab75) (ID 30459984) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.896182+00:00 |
 | [Blood Is Blood (2016) SD CZ Titulky](https://prehraj.to/blood-is-blood-2016-sd-cz-titulky-mp4/372fc0d943c961bc) (ID 29392783) | [Sdílej 34737840](https://sdilej.cz/34737840/blood-is-blood-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T14:27:19.224959+00:00 |
