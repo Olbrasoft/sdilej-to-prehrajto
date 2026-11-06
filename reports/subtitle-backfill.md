@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:12:12.874429+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:12:21.582978+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1116,7 +1116,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [McVeigh (2024) 1080p CZ Titulky](https://prehraj.to/mcveigh-2024-1080p-cz-titulky-mp4/1252bd8f1345d642) (ID 30343501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.713236+00:00 |
 | [Me and Orson Welles (2008) SD CZ Titulky](https://prehraj.to/me-and-orson-welles-2008-sd-cz-titulky-mp4/00363538c6a98264) (ID 29316661) | [Sdílej 34716296](https://sdilej.cz/34716296/me-and-orson-welles-2008-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:31:03.572511+00:00 |
 | [Mechanický pomeranč (1971) 4K CZ Titulky](https://prehraj.to/mechanicky-pomeranc-1971-4k-cz-titulky-mkv/341e040018d2f368) (ID 29112582) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T15:37:34.430193+00:00 |
-| [Med v hlavě (2014) SD CZ Titulky](https://prehraj.to/med-v-hlave-2014-sd-cz-titulky-mp4/4d2b0d80bcfe2251) (ID 29631487) | [Sdílej 34711238](https://sdilej.cz/34711238/med-v-hlave-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:18:13.576715+00:00 |
+| [Med v hlavě (2014) SD CZ Titulky](https://prehraj.to/med-v-hlave-2014-sd-cz-titulky-mp4/4d2b0d80bcfe2251) (ID 29631487) | [Sdílej 34711238](https://sdilej.cz/34711238/med-v-hlave-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:12:21.582858+00:00 |
 | [Medea (1989) SD CZ Titulky](https://prehraj.to/medea-1989-sd-cz-titulky-mp4/227e04f115e4f30a) (ID 29628691) | [Sdílej 34754626](https://sdilej.cz/34754626/medea-1989-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:10:55.017338+00:00 |
 | [Medvídek Pú: Krev a med (2023) 1080p CZ Titulky](https://prehraj.to/medvidek-pu-krev-a-med-2023-1080p-cz-titulky-mkv/8d9ea43a8c824374) (ID 30648469) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716586+00:00 |
 | [Megalopolis (2024) 4K CZ Titulky](https://prehraj.to/megalopolis-2024-4k-cz-titulky-mkv/49208ade004602f4) (ID 30751427) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717337+00:00 |
