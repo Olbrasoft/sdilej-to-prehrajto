@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:25:35.632459+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:25:44.098966+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1879,7 +1879,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Lair (2022) SD CZ Titulky](https://prehraj.to/the-lair-2022-sd-cz-titulky-avi/0de11181a2934f7f) (ID 29908784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711092+00:00 |
 | [The Last Boy (2019) 1080p CZ Titulky](https://prehraj.to/the-last-boy-2019-1080p-cz-titulky-mp4/a41e2a1010f61dfa) (ID 30414012) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714239+00:00 |
 | [The Last Kumite (2024) 1080p CZ Titulky](https://prehraj.to/the-last-kumite-2024-1080p-cz-titulky-mp4/2f4b4cbc5b4211c8) (ID 30463088) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714902+00:00 |
-| [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:30:55.872183+00:00 |
+| [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:25:44.098831+00:00 |
 | [The Legend of La Llorona (2022) 1080p CZ Titulky](https://prehraj.to/the-legend-of-la-llorona-2022-1080p-cz-titulky-mp4/c86c0ea379abb5bf) (ID 29905435) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711006+00:00 |
 | [The Lifeguard (2013) SD CZ Titulky](https://prehraj.to/the-lifeguard-2013-sd-cz-titulky-mp4/3c101905423f8abf) (ID 30449490) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714765+00:00 |
 | [The Limehouse Golem (2016) SD CZ Titulky](https://prehraj.to/the-limehouse-golem-2016-sd-cz-titulky-mp4/a353585be7b9a51d) (ID 29573805) | [Sdílej 26970210](https://sdilej.cz/26970210/the-limehouse-golem-2016-web-dl-x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:57:23.994168+00:00 |
