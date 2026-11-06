@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:00:30.960966+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:00:39.564205+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1231,7 +1231,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Nesmrtelná Leyla (2020) 1080p CZ Titulky](https://prehraj.to/nesmrtelna-leyla-2020-1080p-cz-titulky-mp4/093cd1986adbc14d) (ID 30644792) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.898959+00:00 |
 | [Nesmírný (2024) 1080p CZ Titulky](https://prehraj.to/nesmirny-2024-1080p-cz-titulky-mkv/68253df2a7abfb63) (ID 30739693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.899728+00:00 |
 | [Netflix Tudum 2025 (2025) 1080p CZ Titulky.mp4](https://prehraj.to/netflix-tudum-2025-2025-1080p-cz-titulky-mp4/20f7e242897cbae1) (ID 29675466) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.886277+00:00 |
-| [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:06:17.888387+00:00 |
+| [Neuvěřitelný zmenšující se muž (1957) 720p CZ Titulky](https://prehraj.to/neuveritelny-zmensujici-se-muz-1957-720p-cz-titulky-mp4/3b1479295ee32602) (ID 29585002) | [Sdílej 34788767](https://sdilej.cz/34788767/neuveritelny-zmensujici-se-muz-1957-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:00:39.564059+00:00 |
 | [Neverknock (2017) SD CZ Titulky](https://prehraj.to/neverknock-2017-sd-cz-titulky-mkv/3f332352175d82eb) (ID 29647017) | [Sdílej 34852655](https://sdilej.cz/34852655/neverknock-2017-cztitulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:00.679392+00:00 |
 | [Neveselé Vánoce (2022) 1080p CZ Titulky](https://prehraj.to/nevesele-vanoce-2022-1080p-cz-titulky-mp4/db93fd8ad4f8c5ba) (ID 29615990) | [Sdílej 34727004](https://sdilej.cz/34727004/nevesele-vanoce-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:16:20.258622+00:00 |
 | [Neviditelná (2011) SD CZ Titulky](https://prehraj.to/neviditelna-2011-sd-cz-titulky-mp4/a2ffaf9ac906bcee) (ID 29561549) | [Sdílej 34747118](https://sdilej.cz/34747118/neviditelna-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:52:12.708290+00:00 |
