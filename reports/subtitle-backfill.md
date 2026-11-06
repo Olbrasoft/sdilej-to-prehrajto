@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:50:58.125832+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:51:12.190074+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1805,7 +1805,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [The Act of Reading (2021) 1080p CZ Titulky](https://prehraj.to/the-act-of-reading-2021-1080p-cz-titulky-mp4/70ed6c4107403ab8) (ID 29587600) | [Sdílej 34772666](https://sdilej.cz/34772666/the-act-of-reading-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:01:58.369871+00:00 |
 | [The Alpinist (2021) 1080p CZ Titulky](https://prehraj.to/the-alpinist-2021-1080p-cz-titulky-mkv/5eb14da44aa5aaef) (ID 29316522) | [Sdílej 18646868](https://sdilej.cz/18646868/the.alpinist.2021.1080p.web-dl.dd5.1.h.264-tepes.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:10.545312+00:00 |
 | [The American (2023) 1080p CZ Titulky](https://prehraj.to/the-american-2023-1080p-cz-titulky-mkv/09eb607b014ed38c) (ID 29482020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.558611+00:00 |
-| [The Angriest Man in Brooklyn (2014) SD CZ Titulky](https://prehraj.to/the-angriest-man-in-brooklyn-2014-sd-cz-titulky-avi/af31faef6cd41137) (ID 29721122) | [Sdílej 28343869](https://sdilej.cz/28343869/the-angriest-man-in-brooklyn-2014-komedie-ceske-titulky-vlozeny-ve-filmu.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:50:24.640682+00:00 |
+| [The Angriest Man in Brooklyn (2014) SD CZ Titulky](https://prehraj.to/the-angriest-man-in-brooklyn-2014-sd-cz-titulky-avi/af31faef6cd41137) (ID 29721122) | [Sdílej 28343869](https://sdilej.cz/28343869/the-angriest-man-in-brooklyn-2014-komedie-ceske-titulky-vlozeny-ve-filmu.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:51:12.189949+00:00 |
 | [The Appearance (2018) 1080p CZ Titulky](https://prehraj.to/the-appearance-2018-1080p-cz-titulky-mkv/5c7e6911dc2f41e1) (ID 29918173) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560622+00:00 |
 | [The Ashram (2018) SD CZ Titulky](https://prehraj.to/the-ashram-2018-sd-cz-titulky-mkv/4c3de05e4c1b410b) (ID 30295263) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563647+00:00 |
 | [The Assessment (2024) 1080p CZ Titulky](https://prehraj.to/the-assessment-2024-1080p-cz-titulky-mp4/a8019bcd124d6dcc) (ID 29221488) | [Sdílej 34724745](https://sdilej.cz/34724745/the-assessment-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:44:43.734288+00:00 |
