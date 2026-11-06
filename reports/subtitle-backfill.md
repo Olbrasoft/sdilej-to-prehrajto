@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T02:52:04.163298+00:00
+Poslední aktualizace (UTC): 2026-11-06T02:52:11.399400+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -515,7 +515,7 @@ Kontrol: 49; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Envoy: Shark Cull (2021) 1080p CZ Titulky](https://prehraj.to/envoy-shark-cull-2021-1080p-cz-titulky-mp4/1498b88eb6f864f1) (ID 30678675) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:51:32.745022+00:00 |
 | [Eradication (2022) 1080p CZ Titulky](https://prehraj.to/eradication-2022-1080p-cz-titulky-avi/69d22a5aaf077898) (ID 29908086) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:51:32.735197+00:00 |
 | [Errementari (2017) 1080p CZ Titulky](https://prehraj.to/errementari-2017-1080p-cz-titulky-mkv/2b6afc56c8e100e1) (ID 30718845) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:51:32.745454+00:00 |
-| [Escaping the Madhouse: The Nellie Bly Story (2019) 1080p CZ Titulky](https://prehraj.to/escaping-the-madhouse-the-nellie-bly-story-2019-1080p-cz-titulky-mp4/a055023ac112fad2) (ID 29282757) | [Sdílej 34734438](https://sdilej.cz/34734438/escaping-the-madhouse-the-nellie-bly-story-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T02:32:38.331293+00:00 |
+| [Escaping the Madhouse: The Nellie Bly Story (2019) 1080p CZ Titulky](https://prehraj.to/escaping-the-madhouse-the-nellie-bly-story-2019-1080p-cz-titulky-mp4/a055023ac112fad2) (ID 29282757) | [Sdílej 34734438](https://sdilej.cz/34734438/escaping-the-madhouse-the-nellie-bly-story-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:52:11.399294+00:00 |
 | [Eso v rukávu (1951) 1080p CZ Titulky](https://prehraj.to/eso-v-rukavu-1951-1080p-cz-titulky-avi/2d1f34e82e7b61d6) (ID 29179195) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:51:32.731556+00:00 |
 | [Evelyn (2018) 720p CZ Titulky](https://prehraj.to/evelyn-2018-720p-cz-titulky-mp4/92cc3c33854521ab) (ID 29432186) | [Sdílej 34737111](https://sdilej.cz/34737111/evelyn-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:39:01.329271+00:00 |
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/75ea323d8e35160d) (ID 29355261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:51:32.732198+00:00 |
