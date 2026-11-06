@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:43:08.357375+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:43:20.046530+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -774,7 +774,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Hold the Dark (2018) 4K CZ Titulky](https://prehraj.to/hold-the-dark-2018-4k-cz-titulky-mkv/18dad8b5e46b2fa0) (ID 30364250) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564209+00:00 |
 | [Holka od koní (2020) 1080p CZ Titulky](https://prehraj.to/holka-od-koni-2020-1080p-cz-titulky-mp4/22b1f3a93a7f419c) (ID 29911915) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560245+00:00 |
 | [Holka ve žluté mikině (2020) 1080p CZ Titulky](https://prehraj.to/holka-ve-zlute-mikine-2020-1080p-cz-titulky-mp4/44b4bf0f223a454e) (ID 30270043) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563356+00:00 |
-| [Hollywoodské rajdy s motorovými pilami (1988) 1080p CZ Titulky](https://prehraj.to/hollywoodske-rajdy-s-motorovymi-pilami-1988-1080p-cz-titulky-mp4/58b415d109fc643f) (ID 29706678) | [Sdílej 32513560](https://sdilej.cz/32513560/hollywood-chainsaw-hookers-1988-legendado-1080p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:42:32.593821+00:00 |
+| [Hollywoodské rajdy s motorovými pilami (1988) 1080p CZ Titulky](https://prehraj.to/hollywoodske-rajdy-s-motorovymi-pilami-1988-1080p-cz-titulky-mp4/58b415d109fc643f) (ID 29706678) | [Sdílej 32513560](https://sdilej.cz/32513560/hollywood-chainsaw-hookers-1988-legendado-1080p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:43:20.046405+00:00 |
 | [Hologram pro krále (2016) 1080p CZ Titulky](https://prehraj.to/hologram-pro-krale-2016-1080p-cz-titulky-mkv/03c9891658774b80) (ID 30347884) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564059+00:00 |
 | [Holubice (1960) 1080p CZ Titulky](https://prehraj.to/holubice-1960-1080p-cz-titulky-mkv/cf777fcb281c04ca) (ID 29459191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.558471+00:00 |
 | [Holy Days (2026) 1080p CZ Titulky](https://prehraj.to/holy-days-2026-1080p-cz-titulky-mkv/e249791f797dffe0) (ID 29219519) | [Sdílej 34131053](https://sdilej.cz/34131053/holy-days-2026-1080p-web-dl-x264-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:43:58.333019+00:00 |
