@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T05:26:30.341222+00:00
+Poslední aktualizace (UTC): 2026-11-06T05:26:37.975181+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1536,7 +1536,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Resident Evil (2026) 4K CZ Titulky](https://prehraj.to/resident-evil-2026-4k-cz-titulky-mp4/2ceefa9483751649) (ID 30649578) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.438769+00:00 |
 | [Restart the Earth (2021) 1080p CZ Titulky](https://prehraj.to/restart-the-earth-2021-1080p-cz-titulky-mp4/df634c0923fbfc12) (ID 30345573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.432853+00:00 |
 | [Revolt (2017) SD CZ Titulky](https://prehraj.to/revolt-2017-sd-cz-titulky-avi/2e38fbed2726da1d) (ID 30371729) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.433537+00:00 |
-| [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:29:27.147544+00:00 |
+| [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:26:37.975061+00:00 |
 | [Ride On (2023) 1080p CZ Titulky](https://prehraj.to/ride-on-2023-1080p-cz-titulky-mp4/cb860af57d0ce99d) (ID 30280693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.431798+00:00 |
 | [Riphagen (2016) SD CZ Titulky](https://prehraj.to/riphagen-2016-sd-cz-titulky-avi/4911e8cc5d09fdb5) (ID 29444576) | [Sdílej 6804762](https://sdilej.cz/6804762/riphagen-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:41:32.860690+00:00 |
 | [Rise of the Footsoldier Origins - The Tony Tucker Story (2021) 1080p CZ Titulky](https://prehraj.to/rise-of-the-footsoldier-origins-the-tony-tucker-story-2021-1080p-cz-titulky-mkv/d2fe1a48ebdcef76) (ID 30738717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.439705+00:00 |
