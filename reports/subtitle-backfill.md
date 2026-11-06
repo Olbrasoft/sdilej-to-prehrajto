@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T11:30:26.587969+00:00
+Poslední aktualizace (UTC): 2026-11-06T11:30:34.226354+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1438,7 +1438,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Potichu (2019) 1080p CZ Titulky](https://prehraj.to/potichu-2019-1080p-cz-titulky-mkv/6a7ceddec2c82489) (ID 30388158) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.007727+00:00 |
 | [Potopa (2024) 1080p CZ Titulky](https://prehraj.to/potopa-2024-1080p-cz-titulky-mkv/5609321acff1d912) (ID 30137991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.002216+00:00 |
 | [Potulný samuraj Kenšin: Konec legendy (2014) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-legendy-2014-1080p-cz-titulky-mkv/8c2cd881bea8f7d9) (ID 30214106) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.003295+00:00 |
-| [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:27:37.227420+00:00 |
+| [Potulný samuraj Kenšin: Zrození (2012) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titulky-mkv/d3b8455581db91bd) (ID 29376096) | [Sdílej 17308773](https://sdilej.cz/17308773/potulny-samuraj-kensin-zrozeni-2012-1080p-cz-titl.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:30:34.226215+00:00 |
 | [Pouť za štěstím (1939) SD CZ Titulky](https://prehraj.to/pout-za-stestim-1939-sd-cz-titulky-mp4/6bce416158810883) (ID 29611281) | [Sdílej 34756215](https://sdilej.cz/34756215/pout-za-stestim-1939-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:12:48.287516+00:00 |
 | [Povedení strýčkové (1963) 720p CZ Titulky](https://prehraj.to/povedeni-stryckove-1963-720p-cz-titulky-mp4/7e57d63be522d6f1) (ID 29825249) | [Sdílej 34756035](https://sdilej.cz/34756035/povedeni-stryckove-1963-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:39:41.213735+00:00 |
 | [Povolání: kaskadér (1977) SD CZ Titulky](https://prehraj.to/povolani-kaskader-1977-sd-cz-titulky-avi/d94f4bccc8128dbf) (ID 30250322) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.003992+00:00 |
