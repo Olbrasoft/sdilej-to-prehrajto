@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:50:45.294335+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:50:59.254777+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -177,7 +177,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Balada o Busteru Scruggsovi (2018) 1080p CZ Titulky](https://prehraj.to/balada-o-busteru-scruggsovi-2018-1080p-cz-titulky-mkv/61f1549d8091eeea) (ID 29409756) | [Sdílej 10816367](https://sdilej.cz/10816367/the-ballad-of-buster-scruggs-2018-1080p.-titul.cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:20.154347+00:00 |
 | [Ballistic (2025) 1080p CZ Titulky](https://prehraj.to/ballistic-2025-1080p-cz-titulky-mkv/191c56cdd9034502) (ID 29479941) | [Sdílej 34602718](https://sdilej.cz/34602718/ballistic-2025-web-dl-1080p-latino.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:45.119940+00:00 |
 | [Banana Split (2018) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 28999060) | [Sdílej 13831999](https://sdilej.cz/13831999/banana-split-en-vlozene-titulky-2018-komedie-1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-06T14:30:13.898059+00:00 |
-| [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:56:23.876286+00:00 |
+| [Banderovci (2011) SD CZ Titulky](https://prehraj.to/banderovci-2011-sd-cz-titulky-avi/f3c40697e5f7d124) (ID 29560814) | [Sdílej 33822298](https://sdilej.cz/33822298/banderovci-dokument-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:50:59.254665+00:00 |
 | [Bang Bang! (2014) 1080p CZ Titulky](https://prehraj.to/bang-bang-2014-1080p-cz-titulky-mp4/822669eb9921d6c4) (ID 29926327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.888322+00:00 |
 | [Bangkok na hraně: Nebe i peklo (2024) 1080p CZ Titulky](https://prehraj.to/bangkok-na-hrane-nebe-i-peklo-2024-1080p-cz-titulky-mkv/a7874ceff2c6ea64) (ID 30572511) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.897679+00:00 |
 | [Bankéř (2020) 1080p CZ Titulky](https://prehraj.to/banker-2020-1080p-cz-titulky-mkv/7b79e977e8faabd4) (ID 30030662) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.889887+00:00 |
