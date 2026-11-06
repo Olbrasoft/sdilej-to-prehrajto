@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:44:46.162675+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:44:55.296604+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -607,7 +607,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/1a11e1f5999e5f5e) (ID 29513744) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.810685+00:00 |
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/c8640accd124b2bf) (ID 29515860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.810701+00:00 |
 | [Everybody Wants Some (2016) 1080p CZ Titulky.mkv](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/a1357595f75aca49) (ID 29522215) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.810720+00:00 |
-| [Everybody Wants Some!! (2016) 1080p CZ Titulky](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/4c388411cd8cf20d) (ID 29524679) | [Sdílej 6365016](https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:48:54.514372+00:00 |
+| [Everybody Wants Some!! (2016) 1080p CZ Titulky](https://prehraj.to/everybody-wants-some-2016-1080p-cz-titulky-mkv/4c388411cd8cf20d) (ID 29524679) | [Sdílej 6365016](https://sdilej.cz/6365016/everybody-wants-some-2016-1080p-bluray-x264-dts-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:44:55.296491+00:00 |
 | [Evil Eye (2020) 1080p CZ Titulky](https://prehraj.to/evil-eye-2020-1080p-cz-titulky-mkv/12971da73dea41f4) (ID 29748405) | [Sdílej 17164570](https://sdilej.cz/17164570/evil.eye.2020.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:08.281495+00:00 |
 | [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T19:31:14.291984+00:00 |
 | [Evita (1996) 1080p CZ Titulky](https://prehraj.to/evita-1996-1080p-cz-titulky-mkv/ff0300fef542f3d8) (ID 30299464) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.818591+00:00 |
