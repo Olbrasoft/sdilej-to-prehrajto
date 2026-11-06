@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:24:40.962129+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:24:49.878856+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -295,7 +295,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:45:28.880615+00:00 |
 | [Cannibal Troll (2021) SD CZ Titulky](https://prehraj.to/cannibal-troll-2021-sd-cz-titulky-mp4/4d20b53c6ecf49c3) (ID 29609349) | [Sdílej 34761592](https://sdilej.cz/34761592/cannibal-troll-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:05:28.514576+00:00 |
 | [Cargo (2017) 720p CZ Titulky](https://prehraj.to/cargo-2017-720p-cz-titulky-mkv/4f18dd41129a501f) (ID 30302934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.713064+00:00 |
-| [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:30:05.468010+00:00 |
+| [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:24:49.878722+00:00 |
 | [Carrie Pilby (2017) 1080p CZ Titulky](https://prehraj.to/carrie-pilby-2017-1080p-cz-titulky-mp4/3d8283cf15969e3e) (ID 30123501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712444+00:00 |
 | [Catwoman: Hunted (2022) 1080p CZ Titulky](https://prehraj.to/catwoman-hunted-2022-1080p-cz-titulky-avi/d8b8c42e1840faf5) (ID 29922442) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711492+00:00 |
 | [Caught by Love (2026) 1080p CZ Titulky](https://prehraj.to/caught-by-love-2026-1080p-cz-titulky-mp4/727410f48a81c6b3) (ID 30163112) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712543+00:00 |
