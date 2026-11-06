@@ -408356,17 +408356,20 @@
       }
     },
     "9604": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33290120",
+          "target_video_id": "30865928",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-06T18:51:22.397345+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33290120",
         "display_name": "Afterburn (2025) 4K CZ Dabing",
         "planned_at": "2026-11-06T14:24:01.254092+00:00"
-      },
-      "claim": {
-        "worker_id": "5ff2652a6cbd49b7b74bb85bfb7763ba-shard-0",
-        "claimed_at": "2026-11-06T18:08:50.056558+00:00",
-        "lease_expires_at": "2026-11-07T00:08:50.056558+00:00",
-        "run_id": "42233091012"
       },
       "previous_target_id": "30865928",
       "prepared": {
@@ -425814,5 +425817,5 @@
       }
     }
   },
-  "updated_at": "2026-11-06T18:08:53.659371+00:00"
+  "updated_at": "2026-11-06T18:51:22.397364+00:00"
 }
