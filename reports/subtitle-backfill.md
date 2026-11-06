@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:42:23.084221+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:42:36.226329+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -197,7 +197,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Beast of War (2025) 1080p CZ Titulky](https://prehraj.to/beast-of-war-2025-1080p-cz-titulky-mkv/8cb50dbc9d5472b3) (ID 29912694) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.812827+00:00 |
 | [Beautifully Broken (2018) SD CZ Titulky](https://prehraj.to/beautifully-broken-2018-sd-cz-titulky-avi/b32ce45729bd4871) (ID 30549589) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820441+00:00 |
 | [Becoming (2020) 1080p CZ Titulky](https://prehraj.to/becoming-2020-1080p-cz-titulky-mkv/37fc72f0e44640c7) (ID 29917921) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.813336+00:00 |
-| [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:46:19.004417+00:00 |
+| [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:42:36.226219+00:00 |
 | [Becoming Warren Buffett (2017) 1080p CZ Titulky](https://prehraj.to/becoming-warren-buffett-2017-1080p-cz-titulky-avi/11404215fbc3706a) (ID 30035020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.815359+00:00 |
 | [Before the Fire (2020) SD CZ Titulky](https://prehraj.to/before-the-fire-2020-sd-cz-titulky-avi/424c149d6f91b6f7) (ID 29731607) | [Sdílej 27602574](https://sdilej.cz/27602574/before.the.fire.2020.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:53:23.061431+00:00 |
 | [Beim Jodeln juckt die Lederhose (1974) SD CZ Titulky](https://prehraj.to/beim-jodeln-juckt-die-lederhose-1974-sd-cz-titulky-mkv/b8bdbf72d1463ce1) (ID 30552705) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820458+00:00 |
