@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:43:47.779287+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:43:56.743191+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1711,7 +1711,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Splašené srdce (2017) 1080p CZ Titulky](https://prehraj.to/splasene-srdce-2017-1080p-cz-titulky-mp4/4f86d844b3bf0d36) (ID 30689529) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821353+00:00 |
 | [Splitsville (2025) 4K CZ Titulky](https://prehraj.to/splitsville-2025-4k-cz-titulky-mkv/2e2ddd64ac2783a6) (ID 30589588) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820775+00:00 |
 | [Spolu nespolu (2021) 1080p CZ Titulky](https://prehraj.to/spolu-nespolu-2021-1080p-cz-titulky-mkv/5bd76ac6f67332e4) (ID 30250371) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.817567+00:00 |
-| [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:47:40.192288+00:00 |
+| [Spoorloos (1988) 1080p CZ Titulky](https://prehraj.to/spoorloos-1988-1080p-cz-titulky-mkv/f3871ecfd0de991b) (ID 29509324) | [Sdílej 27486053](https://sdilej.cz/27486053/the-vanishing-1988-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:43:56.743057+00:00 |
 | [Spravedlnost podle Spensera (2020) 1080p CZ Titulky](https://prehraj.to/spravedlnost-podle-spensera-2020-1080p-cz-titulky-mp4/fa5a6940b9db7bbd) (ID 30325739) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.818791+00:00 |
 | [Spring (2014) 1080p CZ Titulky](https://prehraj.to/spring-2014-1080p-cz-titulky-mp4/a4035e46beb397f0) (ID 30539837) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820375+00:00 |
 | [Spring (2021) 720p CZ Titulky](https://prehraj.to/spring-2021-720p-cz-titulky-mkv/648812789eb4b12f) (ID 30171050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.816648+00:00 |
