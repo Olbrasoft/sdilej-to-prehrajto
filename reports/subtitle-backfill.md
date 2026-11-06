@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T11:28:26.366770+00:00
+Poslední aktualizace (UTC): 2026-11-06T11:28:44.750555+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1767,7 +1767,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Syn (2019) SD CZ Titulky](https://prehraj.to/syn-2019-sd-cz-titulky-mkv/5b0b1f88e314fd41) (ID 29921282) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:03.996875+00:00 |
 | [Syn Boží (2014) SD CZ Titulky](https://prehraj.to/syn-bozi-2014-sd-cz-titulky-avi/755a8747c84bf683) (ID 29947059) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:03.999184+00:00 |
 | [Sám v temnotě 2 (2008) SD CZ Titulky](https://prehraj.to/sam-v-temnote-2-2008-sd-cz-titulky-avi/84cb46cf435dcb75) (ID 30438408) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.008904+00:00 |
-| [Sázka na teambuilding (2022) 1080p CZ Titulky](https://prehraj.to/sazka-na-teambuilding-2022-1080p-cz-titulky-avi/84764a32ef1bb9ce) (ID 29366691) | [Sdílej 24604399](https://sdilej.cz/24604399/sazka-na-teambuilding-teambuilding-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T11:25:53.001478+00:00 |
+| [Sázka na teambuilding (2022) 1080p CZ Titulky](https://prehraj.to/sazka-na-teambuilding-2022-1080p-cz-titulky-avi/84764a32ef1bb9ce) (ID 29366691) | [Sdílej 24604399](https://sdilej.cz/24604399/sazka-na-teambuilding-teambuilding-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:28:44.750439+00:00 |
 | [Síla ducha (2020) 1080p CZ Titulky](https://prehraj.to/sila-ducha-2020-1080p-cz-titulky-mp4/79f724d71ece0579) (ID 30098639) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.001601+00:00 |
 | [Sůl Země (2014) 1080p CZ Titulky](https://prehraj.to/sul-zeme-2014-1080p-cz-titulky-mp4/ba9d51cf1c6730e4) (ID 29212321) | [Sdílej 34738271](https://sdilej.cz/34738271/sul-zeme-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:44:00.145787+00:00 |
 | [T11 Incomplete (2020) 1080p CZ Titulky](https://prehraj.to/t11-incomplete-2020-1080p-cz-titulky-mkv/dadaecf58198b4ed) (ID 30215459) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T11:28:04.003338+00:00 |
