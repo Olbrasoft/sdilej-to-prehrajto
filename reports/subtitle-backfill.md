@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:22:24.854035+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:22:40.421870+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -438,7 +438,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Dobrý Sam (2019) 1080p CZ Titulky](https://prehraj.to/dobry-sam-2019-1080p-cz-titulky-mp4/6f1496b01a29e5df) (ID 29610544) | [Sdílej 34734506](https://sdilej.cz/34734506/dobry-sam-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:06:23.123738+00:00 |
 | [Dokjeon (2018) 1080p CZ Titulky](https://prehraj.to/dokjeon-2018-1080p-cz-titulky-mp4/66f75fcfc7765a88) (ID 30164040) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712558+00:00 |
 | [Dokonalost (2018) 1080p CZ Titulky](https://prehraj.to/dokonalost-2018-1080p-cz-titulky-mkv/aacd345360985794) (ID 30314945) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.713125+00:00 |
-| [Dokonalý džentlmen (1992) SD CZ Titulky](https://prehraj.to/dokonaly-dzentlmen-1992-sd-cz-titulky-avi/12bf9562f2037222) (ID 29651304) | [Sdílej 29910183](https://sdilej.cz/29910183/eddie-murphy-dokonaly-dzentlmen-the-distinguished-gentleman-1992-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:27:50.807838+00:00 |
+| [Dokonalý džentlmen (1992) SD CZ Titulky](https://prehraj.to/dokonaly-dzentlmen-1992-sd-cz-titulky-avi/12bf9562f2037222) (ID 29651304) | [Sdílej 29910183](https://sdilej.cz/29910183/eddie-murphy-dokonaly-dzentlmen-the-distinguished-gentleman-1992-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:22:40.421749+00:00 |
 | [Dokonalý pacient (2019) 1080p CZ Titulky](https://prehraj.to/dokonaly-pacient-2019-1080p-cz-titulky-mkv/6d0519cb168bdb70) (ID 29566856) | [Sdílej 13084550](https://sdilej.cz/13084550/quick.2019.nordic.1080p.web-dl.h.264.dd5.1-twa.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:31.676491+00:00 |
 | [Dokud budu žít (2012) SD CZ Titulky](https://prehraj.to/dokud-budu-zit-2012-sd-cz-titulky-mp4/5587b99081c4a661) (ID 29258833) | [Sdílej 34780119](https://sdilej.cz/34780119/dokud-budu-zit-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:31:49.611928+00:00 |
 | [Dokud nás vražda nerozdělí (2020) 1080p CZ Titulky](https://prehraj.to/dokud-nas-vrazda-nerozdeli-2020-1080p-cz-titulky-mkv/b9e617e7b9e099d8) (ID 30740233) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717184+00:00 |
