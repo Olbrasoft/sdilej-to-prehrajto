@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:47:04.853254+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:47:18.875394+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2205,7 +2205,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Zombie Hunter (2013) SD CZ Titulky](https://prehraj.to/zombie-hunter-2013-sd-cz-titulky-avi/1d4bf98178006eee) (ID 29736101) | [Sdílej 30456953](https://sdilej.cz/30456953/zombie-hunter.2013.brrip.-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:58:43.331946+00:00 |
 | [Zombie Tidal Wave (2019) 1080p CZ Titulky](https://prehraj.to/zombie-tidal-wave-2019-1080p-cz-titulky-mkv/0c8019f9dee83826) (ID 30376804) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564419+00:00 |
 | [Zombies (2016) 1080p CZ Titulky](https://prehraj.to/zombies-2016-1080p-cz-titulky-mkv/8aa4398537b03492) (ID 29971372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561575+00:00 |
-| [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:46:41.453609+00:00 |
+| [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:47:18.875266+00:00 |
 | [Zombrex: Dead Rising Sun (2010) SD CZ Titulky](https://prehraj.to/zombrex-dead-rising-sun-2010-sd-cz-titulky-mp4/40bd54b956d32a6c) (ID 30684708) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.566960+00:00 |
 | [Zpátky na frontě 2 (2010) SD CZ Titulky](https://prehraj.to/zpatky-na-fronte-2-2010-sd-cz-titulky-mp4/961f8e4bbb45bdcb) (ID 29639527) | [Sdílej 34709953](https://sdilej.cz/34709953/zpatky-na-fronte-2-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:16:35.294763+00:00 |
 | [Zpívej: Thriller (2024) 1080p CZ Titulky](https://prehraj.to/zpivej-thriller-2024-1080p-cz-titulky-mkv/643d241d03150a97) (ID 30699058) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567006+00:00 |
