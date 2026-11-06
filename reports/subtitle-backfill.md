@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:34:12.498040+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:34:21.581706+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1738,7 +1738,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Stranded (2013) SD CZ Titulky](https://prehraj.to/stranded-2013-sd-cz-titulky-mp4/176f0b59a5346caa) (ID 30421682) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.991739+00:00 |
 | [Strange but True (2019) 1080p CZ Titulky](https://prehraj.to/strange-but-true-2019-1080p-cz-titulky-mp4/86c8798f39d6ddcc) (ID 30343665) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.989582+00:00 |
 | [Student Body (2022) SD CZ Titulky](https://prehraj.to/student-body-2022-sd-cz-titulky-avi/8a7501229949c698) (ID 29750052) | [Sdílej 23913108](https://sdilej.cz/23913108/student.body.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:34:03.893771+00:00 |
-| [Student of the Year (2012) 720p CZ Titulky](https://prehraj.to/student-of-the-year-2012-720p-cz-titulky-mp4/36e9d39ef221fa54) (ID 29748769) | [Sdílej 34743904](https://sdilej.cz/34743904/student-of-the-year-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:32:45.912517+00:00 |
+| [Student of the Year (2012) 720p CZ Titulky](https://prehraj.to/student-of-the-year-2012-720p-cz-titulky-mp4/36e9d39ef221fa54) (ID 29748769) | [Sdílej 34743904](https://sdilej.cz/34743904/student-of-the-year-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:34:21.581573+00:00 |
 | [Studená válka (2018) SD CZ Titulky](https://prehraj.to/studena-valka-2018-sd-cz-titulky-avi/801f812db310fa53) (ID 29886969) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.980731+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:05.351976+00:00 |
 | [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:36:11.811827+00:00 |
