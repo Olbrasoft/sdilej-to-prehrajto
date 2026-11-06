@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:48:12.637665+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:48:22.422127+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -420,7 +420,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Detective Dee: Čtyři nebeští králové (2018) SD CZ Titulky](https://prehraj.to/detective-dee-ctyri-nebesti-kralove-2018-sd-cz-titulky-mp4/c093e78374290137) (ID 29251837) | [Sdílej 34713642](https://sdilej.cz/34713642/detective-dee-ctyri-nebesti-kralove-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:16.551470+00:00 |
 | [Detention (2011) SD CZ Titulky](https://prehraj.to/detention-2011-sd-cz-titulky-mp4/ff932bdfed1d8a14) (ID 29936501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.888757+00:00 |
 | [Di Ambang Kematian (2023) 1080p CZ Titulky](https://prehraj.to/di-ambang-kematian-2023-1080p-cz-titulky-mkv/39fc63ab2479d794) (ID 30705515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.899383+00:00 |
-| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:53:22.662046+00:00 |
+| [Diana: Muzikál (2021) 1080p CZ Titulky](https://prehraj.to/diana-muzikal-2021-1080p-cz-titulky-mp4/2b96150ec0d52356) (ID 29538176) | [Sdílej 34730953](https://sdilej.cz/34730953/diana-muzikal-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:48:22.421984+00:00 |
 | [Die Alone (2024) 1080p CZ Titulky](https://prehraj.to/die-alone-2024-1080p-cz-titulky-mkv/28c3f5c171327eea) (ID 30353074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.894454+00:00 |
 | [Die Hart: The Movie (2023) 1080p CZ Titulky](https://prehraj.to/die-hart-the-movie-2023-1080p-cz-titulky-mp4/769f40cacab6dd70) (ID 30351257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.894439+00:00 |
 | [Die My Love (2025) 1440p CZ Titulky](https://prehraj.to/die-my-love-2025-1440p-cz-titulky-mkv/eddcf82a5ecab212) (ID 30451780) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.896080+00:00 |
