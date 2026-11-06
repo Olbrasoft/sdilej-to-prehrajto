@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T09:31:09.134739+00:00
+Poslední aktualizace (UTC): 2026-11-06T09:31:35.177845+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -451,7 +451,7 @@ Kontrol: 49; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Don Verdean (2015) SD CZ Titulky](https://prehraj.to/don-verdean-2015-sd-cz-titulky-avi/23a98b886389d0b7) (ID 30446307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.078646+00:00 |
 | [Donekonečna (2017) 1080p CZ Titulky](https://prehraj.to/donekonecna-2017-1080p-cz-titulky-mkv/5b6ece7e519dcce8) (ID 30230117) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.076132+00:00 |
 | [Door Lock (2018) 720p CZ Titulky](https://prehraj.to/door-lock-2018-720p-cz-titulky-mkv/7f65376892824fc1) (ID 30212338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.075839+00:00 |
-| [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:30:30.386532+00:00 |
+| [Dopraváci (2013) 1080p CZ Titulky](https://prehraj.to/dopravaci-2013-1080p-cz-titulky-avi/32f01f2f0d90c122) (ID 29341911) | [Sdílej 12232297](https://sdilej.cz/12232297/dopravaci-drogowka-2013-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:31:35.177725+00:00 |
 | [Dora a pátrání po Sol Doradu (2025) 1080p CZ Titulky](https://prehraj.to/dora-a-patrani-po-sol-doradu-2025-1080p-cz-titulky-mp4/ca2af3500bbdd550) (ID 30314599) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.077360+00:00 |
 | [Doupě bílého červa (1988) 1080p CZ Titulky](https://prehraj.to/doupe-bileho-cerva-1988-1080p-cz-titulky-mp4/0dc94d5acce7c7af) (ID 30738585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.080407+00:00 |
 | [Downrange (2018) SD CZ Titulky](https://prehraj.to/downrange-2018-sd-cz-titulky-mp4/91c531ae05b32ae5) (ID 29720076) | [Sdílej 34774302](https://sdilej.cz/34774302/downrange-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:49:28.438428+00:00 |
