@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:56:20.360697+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:56:31.217079+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -124,7 +124,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Apokalypsa Z: Začátek konce (2024) 4K CZ Titulky](https://prehraj.to/apokalypsa-z-zacatek-konce-2024-4k-cz-titulky-mkv/19d7c8787d1bd9f4) (ID 30612770) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.566547+00:00 |
 | [Apollo 11 (2019) 4K CZ Titulky](https://prehraj.to/apollo-11-2019-4k-cz-titulky-mkv/1f9727305c011995) (ID 29207536) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.557164+00:00 |
 | [Aporia (2023) SD CZ Titulky](https://prehraj.to/aporia-2023-sd-cz-titulky-avi/974fede927b423ce) (ID 29614082) | [Sdílej 27826016](https://sdilej.cz/27826016/aporia.2023.pl.480p.bdrip.xvid.dd5.1-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:27:13.296671+00:00 |
-| [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:55:34.836470+00:00 |
+| [Ardennes Fury (2014) SD CZ Titulky](https://prehraj.to/ardennes-fury-2014-sd-cz-titulky-mp4/b06fefe3afa317d3) (ID 29733215) | [Sdílej 34711665](https://sdilej.cz/34711665/ardennes-fury-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:56:31.216963+00:00 |
 | [Argylle: Tajný agent (2024) 4K CZ Titulky](https://prehraj.to/argylle-tajny-agent-2024-4k-cz-titulky-mkv/1753966117d652be) (ID 29928077) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560980+00:00 |
 | [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:06:03.874393+00:00 |
 | [Army of One (2020) 1080p CZ Titulky](https://prehraj.to/army-of-one-2020-1080p-cz-titulky-mkv/7c794c1907357b10) (ID 30415303) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564914+00:00 |
