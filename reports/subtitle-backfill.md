@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:25:26.123433+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:25:35.632459+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1016,7 +1016,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Legenda o Kolovratovi (2017) SD CZ Titulky](https://prehraj.to/legenda-o-kolovratovi-2017-sd-cz-titulky-avi/8ee9af5470ee5efc) (ID 30293487) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712998+00:00 |
 | [Legenda o vraždícím strašákovi (2013) SD CZ Titulky](https://prehraj.to/legenda-o-vrazdicim-strasakovi-2013-sd-cz-titulky-avi/28def9c9157d7f0e) (ID 30747393) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717288+00:00 |
 | [Lego Jurassic World: Double Trouble (2020) 720p CZ Titulky](https://prehraj.to/lego-jurassic-world-double-trouble-2020-720p-cz-titulky-mp4/686b38f9f6e0b5b8) (ID 29276107) | [Sdílej 34733047](https://sdilej.cz/34733047/lego-jurassic-world-double-trouble-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:29:54.492292+00:00 |
-| [Leibstandarte: My Honor Was Loyalty (2015) 720p CZ Titulky](https://prehraj.to/leibstandarte-my-honor-was-loyalty-2015-720p-cz-titulky-mp4/0f0947074b9bc7f7) (ID 29658136) | [Sdílej 34738035](https://sdilej.cz/34738035/leibstandarte-my-honor-was-loyalty-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:30:47.948145+00:00 |
+| [Leibstandarte: My Honor Was Loyalty (2015) 720p CZ Titulky](https://prehraj.to/leibstandarte-my-honor-was-loyalty-2015-720p-cz-titulky-mp4/0f0947074b9bc7f7) (ID 29658136) | [Sdílej 34738035](https://sdilej.cz/34738035/leibstandarte-my-honor-was-loyalty-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:25:35.632345+00:00 |
 | [Lemmy (2010) SD CZ Titulky](https://prehraj.to/lemmy-2010-sd-cz-titulky-avi/fa9e7a12e72859c4) (ID 29469522) | [Sdílej 6632545](https://sdilej.cz/6632545/lemmy-dokument-cz-sub-2010-avi.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:41:24.956484+00:00 |
 | [Leprechaun Returns (2018) 1080p CZ Titulky](https://prehraj.to/leprechaun-returns-2018-1080p-cz-titulky-mkv/234c548e1492679f) (ID 29932416) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711704+00:00 |
 | [Les Amours d’Anaïs (2021) SD CZ Titulky](https://prehraj.to/les-amours-d-anais-2021-sd-cz-titulky-avi/f7f221a7f4260800) (ID 29353903) | [Sdílej 22809669](https://sdilej.cz/22809669/les.amours.d.anais.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:31:06.246013+00:00 |
