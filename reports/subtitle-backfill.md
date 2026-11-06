@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:25:43.588547+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:25:51.218744+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1486,7 +1486,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Písečný ptáček (1965) SD CZ Titulky](https://prehraj.to/pisecny-ptacek-1965-sd-cz-titulky-mkv/fcecd8e81eed14f0) (ID 30478947) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820086+00:00 |
 | [Pět ďáblů (2022) 1080p CZ Titulky](https://prehraj.to/pet-dablu-2022-1080p-cz-titulky-mp4/db4dbd4d052184b6) (ID 29564106) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.810825+00:00 |
 | [Přebytečná zátěž (2018) SD CZ Titulky](https://prehraj.to/prebytecna-zatez-2018-sd-cz-titulky-avi/3485a5f944b6aecf) (ID 30749254) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821669+00:00 |
-| [Přední linie (2011) SD CZ Titulky](https://prehraj.to/predni-linie-2011-sd-cz-titulky-mp4/c87757728860c807) (ID 29394657) | [Sdílej 34710405](https://sdilej.cz/34710405/predni-linie-2011-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:29:33.665924+00:00 |
+| [Přední linie (2011) SD CZ Titulky](https://prehraj.to/predni-linie-2011-sd-cz-titulky-mp4/c87757728860c807) (ID 29394657) | [Sdílej 34710405](https://sdilej.cz/34710405/predni-linie-2011-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:25:51.218615+00:00 |
 | [Přešlapy z lásky (2025) 1080p CZ Titulky](https://prehraj.to/preslapy-z-lasky-2025-1080p-cz-titulky-mp4/96b06dc5a1bf5412) (ID 30441898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.819820+00:00 |
 | [Přežít může jen jeden (1995) SD CZ Titulky](https://prehraj.to/prezit-muze-jen-jeden-1995-sd-cz-titulky-mkv/5da02756873b830e) (ID 30621759) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820990+00:00 |
 | [Příběh Rudého zla (2008) SD CZ Titulky](https://prehraj.to/pribeh-rudeho-zla-2008-sd-cz-titulky-mp4/a1e981fb5247c199) (ID 29564996) | [Sdílej 34781192](https://sdilej.cz/34781192/pribeh-rudeho-zla-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:59:45.360165+00:00 |
