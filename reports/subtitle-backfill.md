@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:41:03.326918+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:41:12.301508+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -52,7 +52,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [A Tale of Two Sisters (2003) 1080p CZ Titulky](https://prehraj.to/a-tale-of-two-sisters-2003-1080p-cz-titulky-mp4/58cd01dd7d22aa69) (ID 29347293) | [Sdílej 34751427](https://sdilej.cz/34751427/a-tale-of-two-sisters-2003-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:32:04.449308+00:00 |
 | [A Thursday (2022) 1080p CZ Titulky](https://prehraj.to/a-thursday-2022-1080p-cz-titulky-mp4/3a105b2b69da9af2) (ID 29581823) | [Sdílej 34727718](https://sdilej.cz/34727718/a-thursday-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:59:40.468836+00:00 |
 | [A Walk in the Woods (2015) 1080p CZ Titulky](https://prehraj.to/a-walk-in-the-woods-2015-1080p-cz-titulky-mkv/237e61ce5949dcf7) (ID 30278438) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563436+00:00 |
-| [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:40:27.389811+00:00 |
+| [A Wounded Fawn (2022) 1080p CZ Titulky](https://prehraj.to/a-wounded-fawn-2022-1080p-cz-titulky-mp4/acd130887ad7079b) (ID 29697077) | [Sdílej 34772398](https://sdilej.cz/34772398/a-wounded-fawn-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:41:12.301392+00:00 |
 | [A teď něco úplně jiného (1971) 1080p CZ Titulky](https://prehraj.to/a-ted-neco-uplne-jineho-1971-1080p-cz-titulky-mkv/a2c18bbe287f3f2c) (ID 30519296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.565858+00:00 |
 | [A.X.L. (2018) SD CZ Titulky](https://prehraj.to/a-x-l-2018-sd-cz-titulky-avi/8f1bc00b0cae419f) (ID 29931436) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561092+00:00 |
 | [Abandoned (2022) 1080p CZ Titulky](https://prehraj.to/abandoned-2022-1080p-cz-titulky-mp4/804468d5d5c69649) (ID 30420008) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564981+00:00 |
