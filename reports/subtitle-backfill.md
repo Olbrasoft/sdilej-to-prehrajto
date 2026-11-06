@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:03:23.324992+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:03:31.179416+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1070,7 +1070,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky](https://prehraj.to/m-a-s-h-the-comedy-that-changed-television-2024-1080p-cz-titulky-mp4/a7f840407213d02d) (ID 29460944) | [Sdílej 34724940](https://sdilej.cz/34724940/m-a-s-h-the-comedy-that-changed-television-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:38:55.807585+00:00 |
 | [MK Ultra (2022) SD CZ Titulky](https://prehraj.to/mk-ultra-2022-sd-cz-titulky-avi/83e88126c67202fb) (ID 30390057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564543+00:00 |
 | [MaXXXine (2024) 1440p CZ Titulky](https://prehraj.to/maxxxine-2024-1440p-cz-titulky-mkv/c61a3a58156ba47b) (ID 30322177) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563874+00:00 |
-| [Macbeth (2015) 1080p CZ Titulky](https://prehraj.to/macbeth-2015-1080p-cz-titulky-mkv/43b3019f4d881089) (ID 29632880) | [Sdílej 32362491](https://sdilej.cz/32362491/macbeth-drama.histor.vb.fr.us.2015.tvrip.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:04:23.462246+00:00 |
+| [Macbeth (2015) 1080p CZ Titulky](https://prehraj.to/macbeth-2015-1080p-cz-titulky-mkv/43b3019f4d881089) (ID 29632880) | [Sdílej 32362491](https://sdilej.cz/32362491/macbeth-drama.histor.vb.fr.us.2015.tvrip.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:03:31.179293+00:00 |
 | [Mad Heidi (2022) SD CZ Titulky](https://prehraj.to/mad-heidi-2022-sd-cz-titulky-avi/802e752d0e467d18) (ID 29913511) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560351+00:00 |
 | [MadS (2024) 1080p CZ Titulky](https://prehraj.to/mads-2024-1080p-cz-titulky-mkv/cdd04212ee1fd91a) (ID 30733634) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567155+00:00 |
 | [Madness in the Method (2019) 1080p CZ Titulky](https://prehraj.to/madness-in-the-method-2019-1080p-cz-titulky-mkv/90d3d6b63c8d2cc9) (ID 29637021) | [Sdílej 12217793](https://sdilej.cz/12217793/madness.in.the.method.2019.1080p.web-dl.h264.ac3-evo-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:56.411537+00:00 |
