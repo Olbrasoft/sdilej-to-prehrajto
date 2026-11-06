@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:30:19.732750+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:30:29.556706+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1813,7 +1813,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Ballad of Wallis Island (2025) 4K CZ Titulky](https://prehraj.to/the-ballad-of-wallis-island-2025-4k-cz-titulky-mkv/3ac8f439c7105805) (ID 30483546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.715091+00:00 |
 | [The Bang Bang Club (2011) SD CZ Titulky](https://prehraj.to/the-bang-bang-club-2011-sd-cz-titulky-mp4/990662b079481eac) (ID 29356049) | [Sdílej 34780245](https://sdilej.cz/34780245/the-bang-bang-club-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:31:32.766536+00:00 |
 | [The Battery (2012) SD CZ Titulky](https://prehraj.to/the-battery-2012-sd-cz-titulky-mp4/56fd8ee2543587c8) (ID 29985690) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712002+00:00 |
-| [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:35:27.424107+00:00 |
+| [The Battle at Lake Changjin (2021) SD CZ Titulky](https://prehraj.to/the-battle-at-lake-changjin-2021-sd-cz-titulky-mp4/3192249b4b63b4e0) (ID 29678356) | [Sdílej 30543734](https://sdilej.cz/30543734/the-battle-at-lake-changjin-chosin-2021-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:30:29.556573+00:00 |
 | [The Bay (2012) 1080p CZ Titulky](https://prehraj.to/the-bay-2012-1080p-cz-titulky-mp4/f1e92022a69444bc) (ID 29926794) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711595+00:00 |
 | [The Beast Within (2024) 1080p CZ Titulky](https://prehraj.to/the-beast-within-2024-1080p-cz-titulky-mkv/ef87f9c1d738bfb1) (ID 30417586) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.714290+00:00 |
 | [The Beta Test (2021) 1080p CZ Titulky](https://prehraj.to/the-beta-test-2021-1080p-cz-titulky-mp4/a5779b40ccdaeff3) (ID 29607672) | [Sdílej 34772650](https://sdilej.cz/34772650/the-beta-test-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:03:52.719732+00:00 |
