@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:53:45.866153+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:53:58.917555+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1039,7 +1039,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Lisztomania (1975) SD CZ Titulky](https://prehraj.to/lisztomania-1975-sd-cz-titulky-mp4/4e5497aab17eb703) (ID 29242713) | [Sdílej 34787708](https://sdilej.cz/34787708/lisztomania-1975-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:29:47.474983+00:00 |
 | [Little Evil (2017) 720p CZ Titulky](https://prehraj.to/little-evil-2017-720p-cz-titulky-mkv/254b95fa1f1ce54e) (ID 29721068) | [Sdílej 7794278](https://sdilej.cz/7794278/little.evil.2017.720p.webrip.x264-strife.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:09.605459+00:00 |
 | [Little Monsters (2019) 1080p CZ Titulky](https://prehraj.to/little-monsters-2019-1080p-cz-titulky-mkv/cbf224a5801474bc) (ID 29976822) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561605+00:00 |
-| [Locked Up (2017) SD CZ Titulky](https://prehraj.to/locked-up-2017-sd-cz-titulky-avi/1613fe3976f1ea40) (ID 29731440) | [Sdílej 10190664](https://sdilej.cz/10190664/locked-up-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:53:08.031515+00:00 |
+| [Locked Up (2017) SD CZ Titulky](https://prehraj.to/locked-up-2017-sd-cz-titulky-avi/1613fe3976f1ea40) (ID 29731440) | [Sdílej 10190664](https://sdilej.cz/10190664/locked-up-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:53:58.917438+00:00 |
 | [Lola (2019) 1080p CZ Titulky](https://prehraj.to/lola-2019-1080p-cz-titulky-mp4/27e25501dfe4af0c) (ID 29630740) | [Sdílej 34734181](https://sdilej.cz/34734181/lola-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:11:36.157227+00:00 |
 | [Lola Versus (2012) SD CZ Titulky](https://prehraj.to/lola-versus-2012-sd-cz-titulky-mp4/1459c0199f11857d) (ID 29723282) | [Sdílej 34780036](https://sdilej.cz/34780036/lola-versus-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:52:23.639788+00:00 |
 | [Lone Samurai (2025) 720p CZ Titulky](https://prehraj.to/lone-samurai-2025-720p-cz-titulky-mp4/55361b1df0c856b9) (ID 29979781) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561639+00:00 |
