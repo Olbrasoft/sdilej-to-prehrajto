@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:04:27.522411+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:04:36.289161+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -65,7 +65,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Adopt a Highway (2019) 1080p CZ Titulky](https://prehraj.to/adopt-a-highway-2019-1080p-cz-titulky-mkv/5b3429b58dd775d0) (ID 30267970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.892817+00:00 |
 | [Adopted (2021) 1080p CZ Titulky](https://prehraj.to/adopted-2021-1080p-cz-titulky-mp4/110850d7e057bc81) (ID 30104538) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.890926+00:00 |
 | [Ae Dil Hai Mushkil (2016) 720p CZ Titulky](https://prehraj.to/ae-dil-hai-mushkil-2016-720p-cz-titulky-mp4/7e78d8ac8d8afe19) (ID 29921424) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.888062+00:00 |
-| [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:10:32.700094+00:00 |
+| [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:04:36.289035+00:00 |
 | [After Maria (2019) 1080p CZ Titulky](https://prehraj.to/after-maria-2019-1080p-cz-titulky-mp4/1311e1051ea4c88b) (ID 30245377) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.892391+00:00 |
 | [After Masks (2021) 1080p CZ Titulky](https://prehraj.to/after-masks-2021-1080p-cz-titulky-mp4/c6d2b358506601c9) (ID 30398515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.895218+00:00 |
 | [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:56:44.785084+00:00 |
