@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:46:23.912631+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:46:35.394067+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -61,7 +61,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Absťák (2019) 720p CZ Titulky](https://prehraj.to/abstak-2019-720p-cz-titulky-mp4/065cce4cc652c433) (ID 29310844) | [Sdílej 34734874](https://sdilej.cz/34734874/abstak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:29:43.358639+00:00 |
 | [Ach, Ramono! (2019) 1080p CZ Titulky](https://prehraj.to/ach-ramono-2019-1080p-cz-titulky-mp4/be1ab69f4982a5e8) (ID 30411945) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.991378+00:00 |
 | [Adagio (2023) 1080p CZ Titulky](https://prehraj.to/adagio-2023-1080p-cz-titulky-mp4/9e2f8c8329bff41a) (ID 30783031) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.996805+00:00 |
-| [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:43:10.131818+00:00 |
+| [Adele: Live at the Royal Albert Hall (2011) 720p CZ Titulky](https://prehraj.to/adele-live-at-the-royal-albert-hall-2011-720p-cz-titulky-mp4/75f13f27d0c10e7d) (ID 29902307) | [Sdílej 34780408](https://sdilej.cz/34780408/adele-live-at-the-royal-albert-hall-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:46:35.393948+00:00 |
 | [Adopt a Highway (2019) 1080p CZ Titulky](https://prehraj.to/adopt-a-highway-2019-1080p-cz-titulky-mkv/5b3429b58dd775d0) (ID 30267970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.988239+00:00 |
 | [Adopted (2021) 1080p CZ Titulky](https://prehraj.to/adopted-2021-1080p-cz-titulky-mp4/110850d7e057bc81) (ID 30104538) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.986407+00:00 |
 | [Ae Dil Hai Mushkil (2016) 720p CZ Titulky](https://prehraj.to/ae-dil-hai-mushkil-2016-720p-cz-titulky-mp4/7e78d8ac8d8afe19) (ID 29921424) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.982838+00:00 |
