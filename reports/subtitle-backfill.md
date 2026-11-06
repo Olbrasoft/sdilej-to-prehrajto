@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:05:28.514699+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:05:40.699234+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1755,7 +1755,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Survival Island (2002) SD CZ Titulky](https://prehraj.to/survival-island-2002-sd-cz-titulky-mp4/36919cab50332d5c) (ID 30437296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.895834+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.887137+00:00 |
 | [Svaha: Šestý prst (2019) 1080p CZ Titulky](https://prehraj.to/svaha-sesty-prst-2019-1080p-cz-titulky-avi/f2f4fe56402a4daf) (ID 30272804) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.892929+00:00 |
-| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:11:36.934432+00:00 |
+| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:05:40.699109+00:00 |
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:42:51.276077+00:00 |
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T20:30:25.027102+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.887338+00:00 |
