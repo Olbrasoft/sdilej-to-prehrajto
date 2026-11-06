@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:49:36.111699+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:49:45.066415+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -238,7 +238,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Bloodline (2018) 1080p CZ Titulky](https://prehraj.to/bloodline-2018-1080p-cz-titulky-mkv/09cfc6a9a319def3) (ID 30795420) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567619+00:00 |
 | [Bloody Hell (2020) SD CZ Titulky](https://prehraj.to/bloody-hell-2020-sd-cz-titulky-avi/eb38c65601117f68) (ID 30551479) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.566041+00:00 |
 | [Blue Bayou (2021) 1080p CZ Titulky](https://prehraj.to/blue-bayou-2021-1080p-cz-titulky-mp4/c0e62c30ff25a742) (ID 29415797) | [Sdílej 34773049](https://sdilej.cz/34773049/blue-bayou-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:33:13.866242+00:00 |
-| [Blue Mountain State: The Rise of Thadland (2016) SD CZ Titulky](https://prehraj.to/blue-mountain-state-the-rise-of-thadland-2016-sd-cz-titulky-mp4/b6a01e7282922aca) (ID 29719125) | [Sdílej 34775362](https://sdilej.cz/34775362/blue-mountain-state-the-rise-of-thadland-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:48:59.316289+00:00 |
+| [Blue Mountain State: The Rise of Thadland (2016) SD CZ Titulky](https://prehraj.to/blue-mountain-state-the-rise-of-thadland-2016-sd-cz-titulky-mp4/b6a01e7282922aca) (ID 29719125) | [Sdílej 34775362](https://sdilej.cz/34775362/blue-mountain-state-the-rise-of-thadland-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:49:45.066296+00:00 |
 | [Blutgletscher (2013) SD CZ Titulky](https://prehraj.to/blutgletscher-2013-sd-cz-titulky-avi/0f3554087f7cb179) (ID 29706180) | [Sdílej 27467306](https://sdilej.cz/27467306/blutgletscher-2013-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:42:03.368028+00:00 |
 | [Bláznivé mládí (2013) SD CZ Titulky](https://prehraj.to/blaznive-mladi-2013-sd-cz-titulky-mp4/53ec2d4a06415fe0) (ID 30028750) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561924+00:00 |
 | [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:32:01.494778+00:00 |
