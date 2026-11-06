@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:24:22.451923+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:24:31.490840+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1926,7 +1926,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Resort (2021) 720p CZ Titulky](https://prehraj.to/the-resort-2021-720p-cz-titulky-mp4/184690553b6354a2) (ID 30761083) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717416+00:00 |
 | [The Return of the King (1980) SD CZ Titulky](https://prehraj.to/the-return-of-the-king-1980-sd-cz-titulky-mp4/f8b5adf3ac88c4ed) (ID 29648738) | [Sdílej 34787060](https://sdilej.cz/34787060/the-return-of-the-king-1980-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:21:05.533508+00:00 |
 | [The Rezort (2015) SD CZ Titulky](https://prehraj.to/the-rezort-2015-sd-cz-titulky-avi/29cb01f86c02cc48) (ID 30665740) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716678+00:00 |
-| [The River Why (2010) SD CZ Titulky](https://prehraj.to/the-river-why-2010-sd-cz-titulky-mp4/358e6dd85d40e45d) (ID 29656392) | [Sdílej 34749257](https://sdilej.cz/34749257/the-river-why-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:29:47.130104+00:00 |
+| [The River Why (2010) SD CZ Titulky](https://prehraj.to/the-river-why-2010-sd-cz-titulky-mp4/358e6dd85d40e45d) (ID 29656392) | [Sdílej 34749257](https://sdilej.cz/34749257/the-river-why-2010-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:24:31.490596+00:00 |
 | [The Rooster (2023) 1080p CZ Titulky](https://prehraj.to/the-rooster-2023-1080p-cz-titulky-mkv/328afdd441d07a27) (ID 30480151) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.715033+00:00 |
 | [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-02T19:33:02.868082+00:00 |
 | [The Sadness (2021) 1080p CZ Titulky](https://prehraj.to/the-sadness-2021-1080p-cz-titulky-mkv/279e4a5cd83ef44b) (ID 30223823) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712721+00:00 |
