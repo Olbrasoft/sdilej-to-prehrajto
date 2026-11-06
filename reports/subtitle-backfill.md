@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:55:48.658206+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:55:59.710600+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -118,7 +118,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Antropocén: Epocha člověka (2018) 720p CZ Titulky](https://prehraj.to/antropocen-epocha-cloveka-2018-720p-cz-titulky-mp4/41fa081a25f124d9) (ID 30695344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.899340+00:00 |
 | [Anything for Jackson (2020) 1080p CZ Titulky](https://prehraj.to/anything-for-jackson-2020-1080p-cz-titulky-mp4/dbb349b8cccbaf89) (ID 30733891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.899654+00:00 |
 | [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:21:29.898085+00:00 |
-| [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:01:39.083929+00:00 |
+| [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:55:59.710489+00:00 |
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.887964+00:00 |
 | [Aplikace (2019) 1080p CZ Titulky](https://prehraj.to/aplikace-2019-1080p-cz-titulky-mp4/d85ea4d04c6ab69a) (ID 30404271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.895351+00:00 |
 | [Apokalypsa Z: Začátek konce (2024) 4K CZ Titulky](https://prehraj.to/apokalypsa-z-zacatek-konce-2024-4k-cz-titulky-mkv/19d7c8787d1bd9f4) (ID 30612770) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.898547+00:00 |
