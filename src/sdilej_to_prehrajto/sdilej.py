@@ -329,10 +329,14 @@ class SdilejProvider:
             return None
         language, probability = self.language_detector.detect(detail.sample_url)
         hint = audio_language_hint(detail.filename)
+        low_confidence = probability < self.minimum_language_probability
         resampled = False
-        if hint and language_tier(language) != language_tier(hint):
+        if low_confidence or (hint and language_tier(language) != language_tier(hint)):
             consensus = getattr(self.language_detector, "detect_consensus", None)
             if consensus:
+                # An intro with little speech is not evidence that the entire
+                # film is unverifiable. Sample dispersed sections just as for
+                # filename conflicts, retaining the same confidence threshold.
                 resampled = True
                 language, probability = consensus(
                     detail.sample_url,
@@ -343,10 +347,14 @@ class SdilejProvider:
         detail.audio_language = language
         detail.language_probability = probability
         detail.language_evidence = (
-            "whisper_multisample_filename_conflict"
-            if resampled
-            else "whisper_remote_sample"
+            ("whisper_multisample_low_confidence" if low_confidence
+             else "whisper_multisample_filename_conflict")
+            if resampled else "whisper_remote_sample"
         )
+        if resampled:
+            print(f"source_language_resampled film_id={film.cr_film_id} "
+                  f"source_id={candidate.source_id} evidence={detail.language_evidence} "
+                  f"confidence={probability:.3f}", flush=True)
         if probability < self.minimum_language_probability:
             # An uncertain language sample is not proof that a higher-resolution
             # source is unsuitable. Treat it as retryable so discovery never

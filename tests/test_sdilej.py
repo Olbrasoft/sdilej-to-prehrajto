@@ -368,6 +368,46 @@ def test_discovery_resamples_explicit_czech_source_on_whisper_conflict() -> None
     assert discovered[0].language_evidence == "whisper_multisample_filename_conflict"
 
 
+@pytest.mark.parametrize('confidence', [0.96, 0.45])
+def test_low_confidence_intro_resamples_without_filename_hint(confidence):
+    class Detector:
+        def detect(self, _url):
+            return 'en', 0.33
+
+        def detect_consensus(self, _url, duration, **kwargs):
+            assert duration == 6000
+            assert kwargs == {'initial': ('en', 0.33), 'preferred_language': None}
+            return 'cs', confidence
+
+    provider = SdilejProvider(FakeSession(), Detector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {})
+    film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
+    candidate = Candidate('20', 'https://sdilej.cz/20/film.mkv', 'Film (2000)', size_bytes=2_000_000_000)
+    if confidence < .65:
+        with pytest.raises(LanguageDetectionError, match='confidence is too low'):
+            provider._verify_candidate(film, candidate)
+    else:
+        detail = provider._verify_candidate(film, candidate)
+        assert detail.language_tier == LanguageTier.CZECH_AUDIO
+        assert detail.language_evidence == 'whisper_multisample_low_confidence'
+        assert detail.language_probability == confidence
+
+
+def test_confident_language_without_filename_conflict_is_not_resampled():
+    class Detector:
+        def detect(self, _url):
+            return 'en', .99
+
+        def detect_consensus(self, *_args, **_kwargs):
+            pytest.fail('Confident speech does not require extra media reads')
+
+    provider = SdilejProvider(FakeSession(), Detector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {})
+    detail = provider._verify_candidate(Film(1, 'film', 'Film', None, 2000, 100, 'en'),
+                                        Candidate('20', 'https://sdilej.cz/20/film.mkv', 'Film (2000)', size_bytes=2_000_000_000))
+    assert detail.language_evidence == 'whisper_remote_sample'
+
+
 def test_discovery_uses_probed_original_media_metadata() -> None:
     seen_urls: list[str | None] = []
 
