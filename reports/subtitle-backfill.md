@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:50:13.316432+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:50:21.578096+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1197,7 +1197,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Naked Soldier (2012) 720p CZ Titulky](https://prehraj.to/naked-soldier-2012-720p-cz-titulky-mp4/11450c72f4c04eb8) (ID 29575110) | [Sdílej 31961981](https://sdilej.cz/31961981/naked-soldier-tit-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:03:49.214102+00:00 |
 | [Nalijme si čistého vína (2020) 1080p CZ Titulky](https://prehraj.to/nalijme-si-cisteho-vina-2020-1080p-cz-titulky-mp4/825d76a87813fa42) (ID 30584015) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.898165+00:00 |
 | [Naneživo (2017) 1080p CZ Titulky](https://prehraj.to/nanezivo-2017-1080p-cz-titulky-avi/83270e62569f7115) (ID 29559289) | [Sdílej 32272446](https://sdilej.cz/32272446/nanezivo-kamera-o-tomeru-na-2017-komedie-horor-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:49:47.501000+00:00 |
-| [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:55:41.949149+00:00 |
+| [Nanking! Nanking! (2009) 720p CZ Titulky](https://prehraj.to/nanking-nanking-2009-720p-cz-titulky-mp4/84a412e89dc0ac37) (ID 29560066) | [Sdílej 34698292](https://sdilej.cz/34698292/nanking-nanking-2009-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:50:21.577977+00:00 |
 | [Naprostí cizinci (2016) 720p CZ Titulky](https://prehraj.to/naprosti-cizinci-2016-720p-cz-titulky-mp4/0beaa73b6807cef9) (ID 29363411) | [Sdílej 34449418](https://sdilej.cz/34449418/2016-naprosti-cizinci-komedie-drama-83-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:31:45.458978+00:00 |
 | [Naprostý zabiják (2023) 1080p CZ Titulky](https://prehraj.to/naprosty-zabijak-2023-1080p-cz-titulky-mp4/ee8c425f3af8b067) (ID 30582985) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.898150+00:00 |
 | [Napříč vesmírem (2007) 1080p CZ Titulky.mkv](https://prehraj.to/napric-vesmirem-2007-1080p-cz-titulky-mkv/f69ac99a0f336d30) (ID 30021825) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.889762+00:00 |
