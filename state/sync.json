@@ -378856,7 +378856,15 @@
       "attempts": []
     },
     "28742": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34737957",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T21:55:22.822644+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34737957",
         "display_name": "The Burning Dead (2015) SD CZ Titulky",
@@ -382123,7 +382131,15 @@
       }
     },
     "9218": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "16006452",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T21:55:43.451993+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16006452",
         "display_name": "The Reckoning (2020) 1080p CZ Titulky",
@@ -382397,6 +382413,18 @@
         "source_id": "6588118",
         "display_name": "The Call Up (2016) SD CZ Titulky",
         "planned_at": "2026-11-06T20:14:48.895314+00:00"
+      },
+      "claim": {
+        "worker_id": "cb76a43df01c455ea11511b54612772e-shard-0",
+        "claimed_at": "2026-11-06T21:55:43.720919+00:00",
+        "lease_expires_at": "2026-11-07T03:55:43.720919+00:00",
+        "run_id": "42278707786"
+      },
+      "previous_target_id": "30870703",
+      "prepared": {
+        "target_video_id": "30870703",
+        "size_bytes": 1033993608,
+        "prepared_at": "2026-11-06T21:56:07.185376+00:00"
       }
     },
     "8753": {
@@ -427023,5 +427051,5 @@
       }
     }
   },
-  "updated_at": "2026-11-06T21:54:56.563083+00:00"
+  "updated_at": "2026-11-06T21:56:07.185395+00:00"
 }
