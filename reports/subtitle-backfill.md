@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T14:27:27.200535+00:00
+Poslední aktualizace (UTC): 2026-11-06T14:27:34.266333+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1936,7 +1936,7 @@ Kontrol: 16; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Sadness (2021) 1080p CZ Titulky](https://prehraj.to/the-sadness-2021-1080p-cz-titulky-mkv/279e4a5cd83ef44b) (ID 30223823) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T14:26:14.887438+00:00 |
 | [The Shift (2023) 1080p CZ Titulky](https://prehraj.to/the-shift-2023-1080p-cz-titulky-mkv/351dc9d961aa5e5e) (ID 29687346) | [Sdílej 28048191](https://sdilej.cz/28048191/the.shift.2023.1080p.webrip.ddp5.1.x265.10bit-galaxyrg265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:38:31.654275+00:00 |
 | [The Siege at Red River (1954) 1080p CZ Titulky](https://prehraj.to/the-siege-at-red-river-1954-1080p-cz-titulky-mp4/65ad4b84ba75aff3) (ID 30571520) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T14:26:14.892923+00:00 |
-| [The Siege of Jadotville (2016) 1080p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-2016-1080p-cz-titulky-mkv/f25496c787ff5a51) (ID 29393179) | [Sdílej 11755217](https://sdilej.cz/11755217/the.siege.of.jadotville.2016.1080p.webrip.dd5.1.x264-sh0w.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:31:27.522230+00:00 |
+| [The Siege of Jadotville (2016) 1080p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-2016-1080p-cz-titulky-mkv/f25496c787ff5a51) (ID 29393179) | [Sdílej 11755217](https://sdilej.cz/11755217/the.siege.of.jadotville.2016.1080p.webrip.dd5.1.x264-sh0w.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T14:27:34.266218+00:00 |
 | [The Spore (2021) 1080p CZ Titulky](https://prehraj.to/the-spore-2021-1080p-cz-titulky-mp4/6ae3362cb2443923) (ID 29922905) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T14:26:14.883508+00:00 |
 | [The Stalker (2020) 1080p CZ Titulky](https://prehraj.to/the-stalker-2020-1080p-cz-titulky-mkv/e02d7d2a31aff5a4) (ID 29706464) | [Sdílej 14019948](https://sdilej.cz/14019948/the.stalker.2020.1080p.amzn.web-dl.ddp2.0.h.264-ntg.cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:48.533772+00:00 |
 | [The Starving Games (2013) 720p CZ Titulky](https://prehraj.to/the-starving-games-2013-720p-cz-titulky-mkv/7da0cb5e424b9b83) (ID 30765324) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T14:26:14.895560+00:00 |
