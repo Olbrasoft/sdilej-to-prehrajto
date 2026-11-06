@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:06:03.087902+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:06:11.399893+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1957,7 +1957,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Dův
 | [The Virtuoso (2021) 1080p CZ Titulky](https://prehraj.to/the-virtuoso-2021-1080p-cz-titulky-mkv/1505dd49d8986cee) (ID 30396348) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.193065+00:00 |
 | [The Walking Deceased (2015) SD CZ Titulky](https://prehraj.to/the-walking-deceased-2015-sd-cz-titulky-mkv/834c07b33f9138c7) (ID 29909456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.180373+00:00 |
 | [The Wall (2017) 1080p CZ Titulky](https://prehraj.to/the-wall-2017-1080p-cz-titulky-mkv/389fb9d0de53a3c7) (ID 30775554) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.196954+00:00 |
-| [The Wall: Climb for Gold (2022) 1080p CZ Titulky](https://prehraj.to/the-wall-climb-for-gold-2022-1080p-cz-titulky-mp4/1e4065788c84354b) (ID 29589919) | [Sdílej 34772168](https://sdilej.cz/34772168/the-wall-climb-for-gold-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:08:44.243286+00:00 |
+| [The Wall: Climb for Gold (2022) 1080p CZ Titulky](https://prehraj.to/the-wall-climb-for-gold-2022-1080p-cz-titulky-mp4/1e4065788c84354b) (ID 29589919) | [Sdílej 34772168](https://sdilej.cz/34772168/the-wall-climb-for-gold-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:06:11.399790+00:00 |
 | [The Week Of (2018) 1080p CZ Titulky](https://prehraj.to/the-week-of-2018-1080p-cz-titulky-mp4/f144495061bb07b8) (ID 29753494) | [Sdílej 34735288](https://sdilej.cz/34735288/the-week-of-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:36:10.310895+00:00 |
 | [The Well (2023) 1080p CZ Titulky](https://prehraj.to/the-well-2023-1080p-cz-titulky-mp4/65861bbd3bd73da0) (ID 29934372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.183893+00:00 |
 | [The Wind (2018) 1080p CZ Titulky](https://prehraj.to/the-wind-2018-1080p-cz-titulky-mp4/93b62986f7146902) (ID 29925459) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.182769+00:00 |
