@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:59:09.302141+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:59:20.535903+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1768,7 +1768,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Sůl Země (2014) 1080p CZ Titulky](https://prehraj.to/sul-zeme-2014-1080p-cz-titulky-mp4/ba9d51cf1c6730e4) (ID 29212321) | [Sdílej 34738271](https://sdilej.cz/34738271/sul-zeme-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:44:00.145787+00:00 |
 | [T11 Incomplete (2020) 1080p CZ Titulky](https://prehraj.to/t11-incomplete-2020-1080p-cz-titulky-mkv/dadaecf58198b4ed) (ID 30215459) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.562976+00:00 |
 | [THE QUEST: Nepal (2022) 1080p CZ Titulky](https://prehraj.to/the-quest-nepal-2022-1080p-cz-titulky-mp4/3f24e892e871053d) (ID 29667862) | [Sdílej 34726723](https://sdilej.cz/34726723/the-quest-nepal-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:28:07.683372+00:00 |
-| [THX 1138 (1971) 1080p CZ Titulky](https://prehraj.to/thx-1138-1971-1080p-cz-titulky-mp4/2d2a75fdc8a528a3) (ID 29735516) | [Sdílej 34577993](https://sdilej.cz/34577993/thx.1138.1971.dc.1080p.bluray.x264.dts-fgt-cztit.converted.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:58:19.021318+00:00 |
+| [THX 1138 (1971) 1080p CZ Titulky](https://prehraj.to/thx-1138-1971-1080p-cz-titulky-mp4/2d2a75fdc8a528a3) (ID 29735516) | [Sdílej 34577993](https://sdilej.cz/34577993/thx.1138.1971.dc.1080p.bluray.x264.dts-fgt-cztit.converted.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:59:20.535786+00:00 |
 | [Ta druhá (2020) 1080p CZ Titulky](https://prehraj.to/ta-druha-2020-1080p-cz-titulky-mp4/7debe7f0d4c2c277) (ID 30446183) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.565318+00:00 |
 | [Ta druhá (2025) 1080p CZ Titulky](https://prehraj.to/ta-druha-2025-1080p-cz-titulky-mp4/6904d9c4cb05e26a) (ID 29404171) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.558076+00:00 |
 | [Ta druhá Zoey (2023) 1080p CZ Titulky](https://prehraj.to/ta-druha-zoey-2023-1080p-cz-titulky-mp4/e555e8664ff0f4a1) (ID 29916050) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560489+00:00 |
