@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:34:55.988033+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:35:08.940003+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -946,7 +946,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kill Switch (2017) 1080p CZ Titulky](https://prehraj.to/kill-switch-2017-1080p-cz-titulky-mkv/4d8f8822f267124f) (ID 30413382) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.991422+00:00 |
 | [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:42:25.692256+00:00 |
 | [King Kong vs. Godzilla (1962) SD CZ Titulky](https://prehraj.to/king-kong-vs-godzilla-1962-sd-cz-titulky-avi/70d5085ad0d3920e) (ID 30257880) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.988151+00:00 |
-| [Kingdom (2019) 1080p CZ Titulky](https://prehraj.to/kingdom-2019-1080p-cz-titulky-mp4/9df35e3b2fab324f) (ID 29749185) | [Sdílej 34904048](https://sdilej.cz/34904048/kingdom-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:33:25.616573+00:00 |
+| [Kingdom (2019) 1080p CZ Titulky](https://prehraj.to/kingdom-2019-1080p-cz-titulky-mp4/9df35e3b2fab324f) (ID 29749185) | [Sdílej 34904048](https://sdilej.cz/34904048/kingdom-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:35:08.939876+00:00 |
 | [Klasický horor (2021) 1080p CZ Titulky](https://prehraj.to/klasicky-horor-2021-1080p-cz-titulky-mp4/ae505b6015551aee) (ID 29914742) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.982275+00:00 |
 | [Klaun k popukání (2012) 720p CZ Titulky](https://prehraj.to/klaun-k-popukani-2012-720p-cz-titulky-mp4/f653d07eac11a655) (ID 29706336) | [Sdílej 33856460](https://sdilej.cz/33856460/stitches.cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:42:14.515506+00:00 |
 | [Klondike (2022) 1080p CZ Titulky](https://prehraj.to/klondike-2022-1080p-cz-titulky-mkv/a6add9704ae9ee77) (ID 29883168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.980629+00:00 |
