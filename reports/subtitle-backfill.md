@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:09:55.139862+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:10:05.232471+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 18, `target_detail_url_missing`: 16, `target_unavailable`: 22
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 17, `target_detail_url_missing`: 16, `target_unavailable`: 22
 
 ## Poslední dávka
 
@@ -277,6 +277,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Dův
 | [Buffalo Boys (2018) SD CZ Titulky](https://prehraj.to/buffalo-boys-2018-sd-cz-titulky-avi/7c13973e672a94d2) (ID 30729789) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.196369+00:00 |
 | [Bulvár (2014) 1080p CZ Titulky](https://prehraj.to/bulvar-2014-1080p-cz-titulky-mkv/ca8643b86aa8b7cf) (ID 29652778) | [Sdílej 34871761](https://sdilej.cz/34871761/bulvar-drama-usa-robin-williams-2014-cztit.1080p.bluray.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-06T17:23:00.073529+00:00 |
 | [Buranský masakr (2011) 1080p CZ Titulky.mp4](https://prehraj.to/buransky-masakr-2011-1080p-cz-titulky-mp4/c4b74d422275b483) (ID 29938675) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.184550+00:00 |
+| [Buzíci (1974) 720p CZ Titulky](https://prehraj.to/buzici-1974-720p-cz-titulky-mkv/d201314d3c8b9a52) (ID 29444563) | [Sdílej 24869171](https://sdilej.cz/24869171/buzici-les-valseuses-1974-komedie-fr.-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:10:05.232363+00:00 |
 | [Byl jsem lynčován (1936) SD CZ Titulky](https://prehraj.to/byl-jsem-lyncovan-1936-sd-cz-titulky-avi/98fd95b8bc1ca5b9) (ID 29396870) | [Sdílej 32305152](https://sdilej.cz/32305152/byl-jsem-lyncovan-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:26:46.248544+00:00 |
 | [Bídníci (2012) 1080p CZ Titulky](https://prehraj.to/bidnici-2012-1080p-cz-titulky-mp4/5a004ba7d7fa860f) (ID 29651861) | [Sdílej 34853378](https://sdilej.cz/34853378/bidnici-2012-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:22:50.839449+00:00 |
 | [Bídníci (2019) 1080p CZ Titulky](https://prehraj.to/bidnici-2019-1080p-cz-titulky-mkv/c9fb98c2140cd65c) (ID 29555708) | [Sdílej 13352602](https://sdilej.cz/13352602/les.miserables.2019.bdrip.1080p-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:10.809366+00:00 |
@@ -2287,7 +2288,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Dův
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-11-06T13:29:18.544553+00:00 |
 | [Bastard (2023) 1080p CZ Titulky](https://prehraj.to/bastard-2023-1080p-cz-titulky-mkv/0878f436cbf0562b) (ID 29509680) | [Sdílej 31415631](https://sdilej.cz/31415631/bastard-bastarden-the-promise-land-2023-dk-1080p.mkv) | source_unavailable | 2026-11-06T16:44:08.990665+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-11-06T13:28:58.346067+00:00 |
-| [Buzíci (1974) 720p CZ Titulky](https://prehraj.to/buzici-1974-720p-cz-titulky-mkv/d201314d3c8b9a52) (ID 29444563) | [Sdílej 24869171](https://sdilej.cz/24869171/buzici-les-valseuses-1974-komedie-fr.-cz-titulky.mkv) | source_unavailable | 2026-11-06T16:37:01.208475+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-06T18:08:17.611605+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-06T18:08:29.223078+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-11-06T18:07:57.745259+00:00 |
