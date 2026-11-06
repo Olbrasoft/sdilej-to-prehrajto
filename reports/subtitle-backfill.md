@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:40:47.545863+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:40:56.314398+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1228,7 +1228,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Nepoužitelní (2012) SD CZ Titulky](https://prehraj.to/nepouzitelni-2012-sd-cz-titulky-avi/e45aef931c33e8ac) (ID 29646431) | [Sdílej 9530991](https://sdilej.cz/9530991/nepouzitelni-2012-titulky-richieall-sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:18:05.872226+00:00 |
 | [Nepřivolávej nic zlého (2022) 720p CZ Titulky](https://prehraj.to/neprivolavej-nic-zleho-2022-720p-cz-titulky-mkv/06ca86c144bcaa76) (ID 30138842) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.986701+00:00 |
 | [Nepřátelé (2025) 1080p CZ Titulky](https://prehraj.to/nepratele-2025-1080p-cz-titulky-mp4/91c652c6c1dbe4c7) (ID 29468794) | [Sdílej 31685263](https://sdilej.cz/31685263/enemigos.2025.1080p.amzn.web-dl.ddp5.1.h.264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:41:11.731252+00:00 |
-| [Nepříjemné pokračování: Nebát se říct pravdu (2017) 1080p CZ Titulky](https://prehraj.to/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-1080p-cz-titulky-mp4/f749b8d1545c4666) (ID 29804420) | [Sdílej 34774582](https://sdilej.cz/34774582/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:38:30.769020+00:00 |
+| [Nepříjemné pokračování: Nebát se říct pravdu (2017) 1080p CZ Titulky](https://prehraj.to/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-1080p-cz-titulky-mp4/f749b8d1545c4666) (ID 29804420) | [Sdílej 34774582](https://sdilej.cz/34774582/neprijemne-pokracovani-nebat-se-rict-pravdu-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:40:56.314278+00:00 |
 | [Neslýchané: Palácová potyčka (2021) 1080p CZ Titulky](https://prehraj.to/neslychane-palacova-potycka-2021-1080p-cz-titulky-mp4/0094fccaf4c5d7d9) (ID 29999215) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.985159+00:00 |
 | [Neslýchané: Smlouva s ďáblem (2021) 1080p CZ Titulky](https://prehraj.to/neslychane-smlouva-s-dablem-2021-1080p-cz-titulky-mp4/5f5b009115bfb1ac) (ID 30038888) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.985651+00:00 |
 | [Nesmrtelná Leyla (2020) 1080p CZ Titulky](https://prehraj.to/nesmrtelna-leyla-2020-1080p-cz-titulky-mp4/093cd1986adbc14d) (ID 30644792) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995155+00:00 |
