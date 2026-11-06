@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:00:00.739616+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:00:11.123723+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1831,7 +1831,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [The Clearing (2020) 1080p CZ Titulky](https://prehraj.to/the-clearing-2020-1080p-cz-titulky-mkv/eef420d28463e011) (ID 29915070) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560450+00:00 |
 | [The Clovehitch Killer (2018) SD CZ Titulky](https://prehraj.to/the-clovehitch-killer-2018-sd-cz-titulky-avi/7f908ff2189264d1) (ID 29372397) | [Sdílej 11007687](https://sdilej.cz/11007687/the-clovehitch-killer-2018-cz-titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:29:10.232573+00:00 |
 | [The Cloverfield Paradox (2018) 1080p CZ Titulky](https://prehraj.to/the-cloverfield-paradox-2018-1080p-cz-titulky-mkv/5079d9a2d05b6d6d) (ID 29931322) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561084+00:00 |
-| [The Collective (2023) 1080p CZ Titulky](https://prehraj.to/the-collective-2023-1080p-cz-titulky-mp4/ae8b59bb61190f7f) (ID 29736148) | [Sdílej 34725353](https://sdilej.cz/34725353/the-collective-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:59:02.128573+00:00 |
+| [The Collective (2023) 1080p CZ Titulky](https://prehraj.to/the-collective-2023-1080p-cz-titulky-mp4/ae8b59bb61190f7f) (ID 29736148) | [Sdílej 34725353](https://sdilej.cz/34725353/the-collective-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:00:11.123591+00:00 |
 | [The Coven (2022) 1080p CZ Titulky](https://prehraj.to/the-coven-2022-1080p-cz-titulky-mp4/72c6e94e2ba75cc1) (ID 30400902) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564740+00:00 |
 | [The Crucifixion (2017) 720p CZ Titulky](https://prehraj.to/the-crucifixion-2017-720p-cz-titulky-avi/b3109d415409b807) (ID 30747109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567275+00:00 |
 | [The Cure (2020) 720p CZ Titulky](https://prehraj.to/the-cure-2020-720p-cz-titulky-mp4/1acf95ccc927b216) (ID 29649258) | [Sdílej 34732000](https://sdilej.cz/34732000/the-cure-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:21:21.584726+00:00 |
