@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:48:03.771043+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:48:15.043369+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1305,7 +1305,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:47.490665+00:00 |
 | [Om Shanti Om (2007) 720p CZ Titulky](https://prehraj.to/om-shanti-om-2007-720p-cz-titulky-mp4/13bb7cb924f661f1) (ID 29314549) | [Sdílej 34751266](https://sdilej.cz/34751266/om-shanti-om-2007-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:30:45.394062+00:00 |
 | [Omlouvám se! (2013) SD CZ Titulky](https://prehraj.to/omlouvam-se-2013-sd-cz-titulky-mp4/0f6afaebd2838e33) (ID 30695444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995588+00:00 |
-| [Omukade (2026) 1080p CZ Titulky](https://prehraj.to/omukade-2026-1080p-cz-titulky-mp4/d314a1788a35b7ca) (ID 29221022) | [Sdílej 34909938](https://sdilej.cz/34909938/omukade-2026-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:44:33.613764+00:00 |
+| [Omukade (2026) 1080p CZ Titulky](https://prehraj.to/omukade-2026-1080p-cz-titulky-mp4/d314a1788a35b7ca) (ID 29221022) | [Sdílej 34909938](https://sdilej.cz/34909938/omukade-2026-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:48:15.043217+00:00 |
 | [One Mile: Chapter One (2026) 1080p CZ Titulky](https://prehraj.to/one-mile-chapter-one-2026-1080p-cz-titulky-mkv/f1452b33771916cb) (ID 30617797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.994797+00:00 |
 | [One More Shot (2024) 720p CZ Titulky](https://prehraj.to/one-more-shot-2024-720p-cz-titulky-mkv/e9c2f44e9819bced) (ID 29967909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.984559+00:00 |
 | [One Night in Paris (2021) 1080p CZ Titulky](https://prehraj.to/one-night-in-paris-2021-1080p-cz-titulky-mp4/b797ec7aeaf5750e) (ID 30686539) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995530+00:00 |
