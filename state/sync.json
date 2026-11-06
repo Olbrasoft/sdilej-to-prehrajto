@@ -168160,13 +168160,6 @@
           "source_id": "33254580",
           "target_video_id": "29262591",
           "permanent": false,
-          "attempted_at": "2026-11-06T05:57:06.373688+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33254580",
-          "target_video_id": "29262591",
-          "permanent": false,
           "attempted_at": "2026-11-06T07:47:45.658579+00:00"
         },
         {
@@ -168175,6 +168168,14 @@
           "target_video_id": "29262591",
           "permanent": false,
           "attempted_at": "2026-11-06T09:17:45.527289+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33254580",
+          "target_video_id": "29262591",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-06T18:55:29.009388+00:00"
         }
       ],
       "last_plan": {
@@ -410092,7 +410093,15 @@
       "attempts": []
     },
     "10305": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "23261727",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:51:50.480088+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23261727",
         "display_name": "Nix (2022) 1080p CZ Titulky",
@@ -412484,7 +412493,15 @@
       }
     },
     "33572": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34787478",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:52:11.367891+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34787478",
         "display_name": "Snuff (1976) SD CZ Titulky",
@@ -413403,7 +413420,15 @@
       "attempts": []
     },
     "35357": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35043955",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:52:32.243539+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35043955",
         "display_name": "Ash (2025) 1080p CZ Titulky",
@@ -415532,7 +415557,15 @@
       }
     },
     "9496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32970463",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:52:53.118017+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32970463",
         "display_name": "Freddyho smrt – Poslední noční můra (1991) 4K CZ Dabing",
@@ -417471,7 +417504,15 @@
       }
     },
     "18125": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "18619417",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:53:14.008112+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18619417",
         "display_name": "Dnes v noci v lese nikdo nespí 2 (2021) 1080p CZ Titulky",
@@ -418438,7 +418479,15 @@
       }
     },
     "10028": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29279918",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:53:34.887339+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29279918",
         "display_name": "The Exorcism (2024) 1080p CZ Titulky",
@@ -424843,7 +424892,15 @@
       "attempts": []
     },
     "31464": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34724824",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:53:55.773936+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34724824",
         "display_name": "Ronda Rousey: More than a Fighter Home (2024) 720p CZ Titulky",
@@ -425277,7 +425334,15 @@
       "attempts": []
     },
     "31290": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35286089",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T18:54:16.656562+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35286089",
         "display_name": "Unos (2017) 1080p CZ Dabing",
@@ -425817,5 +425882,5 @@
       }
     }
   },
-  "updated_at": "2026-11-06T18:51:22.397364+00:00"
+  "updated_at": "2026-11-06T18:55:29.009408+00:00"
 }
