@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:36:34.454132+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:36:47.616779+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1991,7 +1991,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:09:55.139716+00:00 |
 | [Touhy žen (2025) 1080p CZ Titulky](https://prehraj.to/touhy-zen-2025-1080p-cz-titulky-mkv/7910e6c5035210c9) (ID 30102893) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.986317+00:00 |
 | [Toxický mstitel (1984) 1080p CZ Titulky](https://prehraj.to/toxicky-mstitel-1984-1080p-cz-titulky-mkv/2b33ba9e7565fd93) (ID 30775640) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.996658+00:00 |
-| [Traded (2016) SD CZ Titulky](https://prehraj.to/traded-2016-sd-cz-titulky-avi/2f2e2f16c81cc25f) (ID 29751271) | [Sdílej 34776246](https://sdilej.cz/34776246/western-cz-dab-traded-2016-hc.titulky.cz-western.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:34:54.228993+00:00 |
+| [Traded (2016) SD CZ Titulky](https://prehraj.to/traded-2016-sd-cz-titulky-avi/2f2e2f16c81cc25f) (ID 29751271) | [Sdílej 34776246](https://sdilej.cz/34776246/western-cz-dab-traded-2016-hc.titulky.cz-western.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:36:47.616672+00:00 |
 | [Traffik (2018) 1080p CZ Titulky](https://prehraj.to/traffik-2018-1080p-cz-titulky-mkv/e34bab284e25e196) (ID 30450653) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.992478+00:00 |
 | [Transdarinka (2015) SD CZ Titulky](https://prehraj.to/transdarinka-2015-sd-cz-titulky-mp4/f2cb0e1590430288) (ID 30677038) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995417+00:00 |
 | [Traumfrauen (2015) 720p CZ Titulky](https://prehraj.to/traumfrauen-2015-720p-cz-titulky-mkv/6cd0970920d69774) (ID 29648576) | [Sdílej 11544703](https://sdilej.cz/11544703/traumfrauen.2015.720p.bluray.dd5.1.x264-crisc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:20:49.070959+00:00 |
