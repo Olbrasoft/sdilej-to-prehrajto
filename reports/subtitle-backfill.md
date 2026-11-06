@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:13:07.104579+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:13:20.970788+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2139,7 +2139,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [White Girl Apokalypse (2021) 1080p CZ Titulky](https://prehraj.to/white-girl-apokalypse-2021-1080p-cz-titulky-mp4/dcac5428deb73bb1) (ID 30144975) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712504+00:00 |
 | [White Snake (2019) SD CZ Titulky](https://prehraj.to/white-snake-2019-sd-cz-titulky-mp4/5974bf55b217e800) (ID 30682613) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716772+00:00 |
 | [Whitney: Být sama sebou (2017) SD CZ Titulky](https://prehraj.to/whitney-byt-sama-sebou-2017-sd-cz-titulky-mp4/32b4e64c7034fe55) (ID 30070747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712324+00:00 |
-| [Who am I - žádný systém není bezpečný (2014) SD CZ Titulky](https://prehraj.to/who-am-i-zadny-system-neni-bezpecny-2014-sd-cz-titulky-avi/e37446b594b3d25d) (ID 29633458) | [Sdílej 8425095](https://sdilej.cz/8425095/who-am-i-kein-system-ist-sicher.2014.german.ac3.webrip.xvid-srt.sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:19:09.322909+00:00 |
+| [Who am I - žádný systém není bezpečný (2014) SD CZ Titulky](https://prehraj.to/who-am-i-zadny-system-neni-bezpecny-2014-sd-cz-titulky-avi/e37446b594b3d25d) (ID 29633458) | [Sdílej 8425095](https://sdilej.cz/8425095/who-am-i-kein-system-ist-sicher.2014.german.ac3.webrip.xvid-srt.sk.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:13:20.970655+00:00 |
 | [Willow Creek (2013) 1080p CZ Titulky](https://prehraj.to/willow-creek-2013-1080p-cz-titulky-mp4/67bcb4c0ff26609e) (ID 30394873) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.713907+00:00 |
 | [Wish Man (2019) 1080p CZ Titulky](https://prehraj.to/wish-man-2019-1080p-cz-titulky-mkv/bb569f9f8471b517) (ID 30053343) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712278+00:00 |
 | [Witch Hunter (2024) SD CZ Titulky](https://prehraj.to/witch-hunter-2024-sd-cz-titulky-mp4/62e2f31c0847a8b6) (ID 30579606) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.715855+00:00 |
