@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T07:31:39.653108+00:00
+Poslední aktualizace (UTC): 2026-11-06T07:31:50.667613+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1132,7 +1132,7 @@ Kontrol: 52; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Metallica: Through the Never (2013) 1080p CZ Titulky](https://prehraj.to/metallica-through-the-never-2013-1080p-cz-titulky-mp4/f1ebcfe158f2165a) (ID 29464033) | [Sdílej 33285707](https://sdilej.cz/33285707/metallica-throught-the-never-2013-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:39.140197+00:00 |
 | [Mexicali (2026) 4K CZ Titulky](https://prehraj.to/mexicali-2026-4k-cz-titulky-mp4/93465c1b9d1ea0b6) (ID 30574782) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.020101+00:00 |
 | [Mezi námi děvčaty 2 (2025) 1080p CZ Titulky](https://prehraj.to/mezi-nami-devcaty-2-2025-1080p-cz-titulky-mkv/791341b7f48dd299) (ID 30310186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.016743+00:00 |
-| [Michael Jackson's This Is It (2009) 1080p CZ Titulky](https://prehraj.to/michael-jackson-s-this-is-it-2009-1080p-cz-titulky-mp4/bfc6a17dd54a987d) (ID 29319034) | [Sdílej 28787638](https://sdilej.cz/28787638/michael-jackson-s-this-is-it-2009-titulky-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:28:53.882825+00:00 |
+| [Michael Jackson's This Is It (2009) 1080p CZ Titulky](https://prehraj.to/michael-jackson-s-this-is-it-2009-1080p-cz-titulky-mp4/bfc6a17dd54a987d) (ID 29319034) | [Sdílej 28787638](https://sdilej.cz/28787638/michael-jackson-s-this-is-it-2009-titulky-720p.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:31:50.667484+00:00 |
 | [Milarepa (2006) SD CZ Titulky](https://prehraj.to/milarepa-2006-sd-cz-titulky-mkv/b1b91b6782e17473) (ID 30065192) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.014016+00:00 |
 | [Miles Davis – Zrod cool-jazzu (2019) 1080p CZ Titulky](https://prehraj.to/miles-davis-zrod-cool-jazzu-2019-1080p-cz-titulky-mp4/a6f5ec5657b5ba40) (ID 30037177) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.013665+00:00 |
 | [Milfs vs. Zombies (2015) SD CZ Titulky](https://prehraj.to/milfs-vs-zombies-2015-sd-cz-titulky-mkv/2ebc8b57b29b02ae) (ID 29904306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.009746+00:00 |
