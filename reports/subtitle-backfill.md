@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:49:16.873480+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:49:36.111699+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1274,7 +1274,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Nájemník v mém sklepě (2025) 1080p CZ Titulky](https://prehraj.to/najemnik-v-mem-sklepe-2025-1080p-cz-titulky-mkv/c2ce5f3a69472975) (ID 29748479) | [Sdílej 32130546](https://sdilej.cz/32130546/the.man.in.my.basement-2025-cztit-v-obraze-1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:04.133389+00:00 |
 | [Následky (2026) 4K CZ Titulky](https://prehraj.to/nasledky-2026-4k-cz-titulky-mkv/386fb5c5748700fc) (ID 30419137) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564975+00:00 |
 | [Následky lásky (2004) 720p CZ Titulky](https://prehraj.to/nasledky-lasky-2004-720p-cz-titulky-mkv/70551b30d793850e) (ID 30328450) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563920+00:00 |
-| [Náš domov (2010) SD CZ Titulky](https://prehraj.to/nas-domov-2010-sd-cz-titulky-avi/bfc5250265c6bf4b) (ID 29718314) | [Sdílej 15647793](https://sdilej.cz/15647793/nas-domov-drama-cz-tit.-2010-beri.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:48:50.943683+00:00 |
+| [Náš domov (2010) SD CZ Titulky](https://prehraj.to/nas-domov-2010-sd-cz-titulky-avi/bfc5250265c6bf4b) (ID 29718314) | [Sdílej 15647793](https://sdilej.cz/15647793/nas-domov-drama-cz-tit.-2010-beri.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:49:36.111575+00:00 |
 | [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:29:05.340415+00:00 |
 | [Něco z Alenky (1988) SD CZ Titulky](https://prehraj.to/neco-z-alenky-1988-sd-cz-titulky-avi/e947df236f26ecfa) (ID 29411861) | [Sdílej 25735969](https://sdilej.cz/25735969/alice.darling.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:31:32.523497+00:00 |
 | [Někdo skvělý (2019) 1080p CZ Titulky](https://prehraj.to/nekdo-skvely-2019-1080p-cz-titulky-mp4/8f8c30fe265567e3) (ID 30485321) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.565687+00:00 |
