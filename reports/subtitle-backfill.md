@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:28:37.432484+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:28:50.703457+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1400,7 +1400,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:40.959615+00:00 |
 | [Podnik na Pigalle (2018) SD CZ Titulky](https://prehraj.to/podnik-na-pigalle-2018-sd-cz-titulky-avi/67934651d5b8bfc3) (ID 30733086) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717087+00:00 |
 | [Pohotovost (2022) 1080p CZ Titulky](https://prehraj.to/pohotovost-2022-1080p-cz-titulky-mp4/9733d1faac99634d) (ID 29983579) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711993+00:00 |
-| [Pohoří smrti (1971) SD CZ Titulky](https://prehraj.to/pohori-smrti-1971-sd-cz-titulky-avi/19fcfffd442d6741) (ID 29674507) | [Sdílej 31350916](https://sdilej.cz/31350916/pohori-smrti-19-djevojaka-i-mornar-1971-czt-valecny-a-v.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:34:02.011818+00:00 |
+| [Pohoří smrti (1971) SD CZ Titulky](https://prehraj.to/pohori-smrti-1971-sd-cz-titulky-avi/19fcfffd442d6741) (ID 29674507) | [Sdílej 31350916](https://sdilej.cz/31350916/pohori-smrti-19-djevojaka-i-mornar-1971-czt-valecny-a-v.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:28:50.703342+00:00 |
 | [Pohrdání (1963) 1080p CZ Titulky](https://prehraj.to/pohrdani-1963-1080p-cz-titulky-mp4/297f345486230feb) (ID 29998390) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712069+00:00 |
 | [Pohádka pohádek (2015) SD CZ Titulky](https://prehraj.to/pohadka-pohadek-2015-sd-cz-titulky-avi/1492309bd3576c91) (ID 30278696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712918+00:00 |
 | [Pohřeb (2023) 1080p CZ Titulky](https://prehraj.to/pohreb-2023-1080p-cz-titulky-mp4/2b2baad9716c8f4e) (ID 30038509) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.712205+00:00 |
