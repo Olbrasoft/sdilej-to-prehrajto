@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:42:42.301626+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:42:52.804550+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1598,7 +1598,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sebeobrana: Příběh Cyntoie Brown (2020) 1080p CZ Titulky](https://prehraj.to/sebeobrana-pribeh-cyntoie-brown-2020-1080p-cz-titulky-mp4/8efdf1725b704e4f) (ID 30572076) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.993969+00:00 |
 | [Secret Weapon (2019) SD CZ Titulky](https://prehraj.to/secret-weapon-2019-sd-cz-titulky-mp4/d075d73605a09888) (ID 30455246) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.992540+00:00 |
 | [Secrets in the Sky: The Untold Story of Skunk Works (2019) 1080p CZ Titulky](https://prehraj.to/secrets-in-the-sky-the-untold-story-of-skunk-works-2019-1080p-cz-titulky-mp4/d97cb97bc77e91f8) (ID 30064235) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.985969+00:00 |
-| [Sedlák (2019) 720p CZ Titulky](https://prehraj.to/sedlak-2019-720p-cz-titulky-mp4/6b72ee4f346efa22) (ID 29828988) | [Sdílej 34733869](https://sdilej.cz/34733869/sedlak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:40:04.659384+00:00 |
+| [Sedlák (2019) 720p CZ Titulky](https://prehraj.to/sedlak-2019-720p-cz-titulky-mp4/6b72ee4f346efa22) (ID 29828988) | [Sdílej 34733869](https://sdilej.cz/34733869/sedlak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:42:52.804415+00:00 |
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.980432+00:00 |
 | [Sedm pěstí (1978) 1080p CZ Titulky](https://prehraj.to/sedm-pesti-1978-1080p-cz-titulky-mkv/c830aa8c67c51290) (ID 30309238) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.989145+00:00 |
 | [Sedm smrtelných hříchů: Prokletí světlem (2021) 1080p CZ Titulky](https://prehraj.to/sedm-smrtelnych-hrichu-prokleti-svetlem-2021-1080p-cz-titulky-mp4/8261d569e8071c61) (ID 29923294) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.983009+00:00 |
