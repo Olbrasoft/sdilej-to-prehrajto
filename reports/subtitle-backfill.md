@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:33:38.758954+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:33:51.986096+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -140,7 +140,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Asylum (1972) 720p CZ Titulky](https://prehraj.to/asylum-1972-720p-cz-titulky-mp4/7259bca26a5d32e4) (ID 30716577) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995702+00:00 |
 | [Aterrados (2017) 1080p CZ Titulky](https://prehraj.to/aterrados-2017-1080p-cz-titulky-avi/16e4b387bb85239f) (ID 30580909) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.994237+00:00 |
 | [Atletka A (2020) 1080p CZ Titulky](https://prehraj.to/atletka-a-2020-1080p-cz-titulky-mp4/1710e7b2ccc77015) (ID 29788237) | [Sdílej 34733422](https://sdilej.cz/34733422/atletka-a-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:37:38.606722+00:00 |
-| [Atomica (2017) SD CZ Titulky](https://prehraj.to/atomica-2017-sd-cz-titulky-avi/39b65aa72bf79f7c) (ID 29748370) | [Sdílej 8005043](https://sdilej.cz/8005043/deep-burial-atomica-2017-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:32:20.701738+00:00 |
+| [Atomica (2017) SD CZ Titulky](https://prehraj.to/atomica-2017-sd-cz-titulky-avi/39b65aa72bf79f7c) (ID 29748370) | [Sdílej 8005043](https://sdilej.cz/8005043/deep-burial-atomica-2017-hc.titulky.cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:33:51.985994+00:00 |
 | [Attack of the Unknown (2020) 1080p CZ Titulky](https://prehraj.to/attack-of-the-unknown-2020-1080p-cz-titulky-mkv/4c86eca955e14e84) (ID 30435735) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.991994+00:00 |
 | [Audrey (2020) 1080p CZ Titulky](https://prehraj.to/audrey-2020-1080p-cz-titulky-mp4/51f86a89be6d8216) (ID 29429913) | [Sdílej 34773457](https://sdilej.cz/34773457/audrey-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:34:33.327927+00:00 |
 | [August Underground (2001) SD CZ Titulky](https://prehraj.to/august-underground-2001-sd-cz-titulky-avi/c15c5e6661882aa6) (ID 30426154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.991828+00:00 |
