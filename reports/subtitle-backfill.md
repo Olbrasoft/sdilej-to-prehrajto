@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T02:30:09.971577+00:00
+Poslední aktualizace (UTC): 2026-11-06T02:30:17.766044+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1594,7 +1594,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Scorched Earth (2018) 1080p CZ Titulky](https://prehraj.to/scorched-earth-2018-1080p-cz-titulky-mkv/a0187b848a2488da) (ID 30398191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.568492+00:00 |
 | [Screwball (2018) 1080p CZ Titulky](https://prehraj.to/screwball-2018-1080p-cz-titulky-mp4/d26abda79658771c) (ID 29464990) | [Sdílej 34736814](https://sdilej.cz/34736814/screwball-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:43:47.664043+00:00 |
 | [Se min kjole (2009) 1080p CZ Titulky](https://prehraj.to/se-min-kjole-2009-1080p-cz-titulky-mp4/1121be52ba5134ec) (ID 30154744) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.564457+00:00 |
-| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:30:32.832578+00:00 |
+| [Seaspiracy: Pravá tvář udržitelného rybolovu (2021) 720p CZ Titulky](https://prehraj.to/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-720p-cz-titulky-mp4/9024bad222d351b4) (ID 29278983) | [Sdílej 34728689](https://sdilej.cz/34728689/seaspiracy-prava-tvar-udrzitelneho-rybolovu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:30:17.765934+00:00 |
 | [Sebastian (2024) 1080p CZ Titulky](https://prehraj.to/sebastian-2024-1080p-cz-titulky-mkv/8873a3986b8be1da) (ID 29604868) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.557123+00:00 |
 | [Sebeobrana: Příběh Cyntoie Brown (2020) 1080p CZ Titulky](https://prehraj.to/sebeobrana-pribeh-cyntoie-brown-2020-1080p-cz-titulky-mp4/8efdf1725b704e4f) (ID 30572076) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.571633+00:00 |
 | [Secret Weapon (2019) SD CZ Titulky](https://prehraj.to/secret-weapon-2019-sd-cz-titulky-mp4/d075d73605a09888) (ID 30455246) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.570070+00:00 |
