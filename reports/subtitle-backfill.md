@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:58:18.466930+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:58:26.371906+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2043,7 +2043,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [V bezvědomí (2024) 1080p CZ Titulky](https://prehraj.to/v-bezvedomi-2024-1080p-cz-titulky-mkv/7f74f2459bd3b9e6) (ID 30670911) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.899148+00:00 |
 | [V kapradí: Film (2019) 720p CZ Titulky](https://prehraj.to/v-kapradi-film-2019-720p-cz-titulky-mkv/f0e3c3408128805f) (ID 30344502) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.894206+00:00 |
 | [V kraji vína (2019) 1080p CZ Titulky](https://prehraj.to/v-kraji-vina-2019-1080p-cz-titulky-mkv/38d7a468ee8a7756) (ID 30368186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.894769+00:00 |
-| [V kuchyni (2024) 1080p CZ Titulky](https://prehraj.to/v-kuchyni-2024-1080p-cz-titulky-mkv/f62964fbf7b5264a) (ID 29576745) | [Sdílej 30627533](https://sdilej.cz/30627533/la-cocina-alonso-ruizpalacios-2024-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:04:06.090449+00:00 |
+| [V kuchyni (2024) 1080p CZ Titulky](https://prehraj.to/v-kuchyni-2024-1080p-cz-titulky-mkv/f62964fbf7b5264a) (ID 29576745) | [Sdílej 30627533](https://sdilej.cz/30627533/la-cocina-alonso-ruizpalacios-2024-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:58:26.371794+00:00 |
 | [V lásce a válce (2018) 720p CZ Titulky](https://prehraj.to/v-lasce-a-valce-2018-720p-cz-titulky-mkv/641bc8a9880f1272) (ID 30157444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.891417+00:00 |
 | [V objetí ďábla (2015) 720p CZ Titulky](https://prehraj.to/v-objeti-dabla-2015-720p-cz-titulky-avi/fc067476341c44b4) (ID 29043938) | [Sdílej 5581518](https://sdilej.cz/5581518/regression-2015-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:25.014864+00:00 |
 | [V ringu smrti (2008) SD CZ Titulky](https://prehraj.to/v-ringu-smrti-2008-sd-cz-titulky-mkv/d4c75b88d301cf49) (ID 29612532) | [Sdílej 34837133](https://sdilej.cz/34837133/ring-of-death-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:05.565219+00:00 |
