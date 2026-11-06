@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:42:23.707956+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:42:32.827066+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2251,7 +2251,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Člověk ze Západu (1940) 1080p CZ Titulky](https://prehraj.to/clovek-ze-zapadu-1940-1080p-cz-titulky-mkv/77644b1949622c67) (ID 29327215) | [Sdílej 29216985](https://sdilej.cz/29216985/the.westerner.1940.eng.fra.1080p.webrip.x264.aac-rht-sksub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T08:35:36.645115+00:00 |
 | [Čmuchalky (1999) 720p CZ Titulky](https://prehraj.to/cmuchalky-1999-720p-cz-titulky-mkv/666e6f0e7cb31557) (ID 30814394) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.997073+00:00 |
 | [Čokoládový dortík (2022) SD CZ Titulky](https://prehraj.to/cokoladovy-dortik-2022-sd-cz-titulky-avi/7c77e44c74b91ff3) (ID 29606406) | [Sdílej 24428260](https://sdilej.cz/24428260/cokoladovy-dortik-sachertorte-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:03:41.898331+00:00 |
-| [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:39:48.506413+00:00 |
+| [Ďábel (2020) 1080p CZ Titulky](https://prehraj.to/dabel-2020-1080p-cz-titulky-mp4/a52735d97e7f186b) (ID 29827585) | [Sdílej 34648374](https://sdilej.cz/34648374/dabel-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:42:32.826953+00:00 |
 | [Ďáblové (1971) 720p CZ Titulky](https://prehraj.to/dablove-1971-720p-cz-titulky-mkv/8d81cc1f190864ef) (ID 29396498) | [Sdílej 29291619](https://sdilej.cz/29291619/dablove-1971-the-devils-eng..mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:07.821783+00:00 |
 | [Ďáblové v oblacích (1955) 1080p CZ Titulky](https://prehraj.to/dablove-v-oblacich-1955-1080p-cz-titulky-mkv/e0ba45a9b07047e5) (ID 30796109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.996940+00:00 |
 | [Řbitov zvířátek: Pokrevní linie (2023) 1080p CZ Titulky](https://prehraj.to/rbitov-zviratek-pokrevni-linie-2023-1080p-cz-titulky-mkv/2d32f1f493ecab33) (ID 30635549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995085+00:00 |
