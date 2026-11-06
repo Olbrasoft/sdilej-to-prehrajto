@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:44:05.230243+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:44:08.990705+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 19, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 842, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 20, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -188,7 +188,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Barvy času (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29199078) | [Sdílej 32851452](https://sdilej.cz/32851452/la-venue-de-l-avenir-colours-of-time-2025-1080p-bluray-x265-odkaz-na-titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-06T14:30:27.609801+00:00 |
 | [Basket v San Quentin (2019) 1080p CZ Titulky](https://prehraj.to/basket-v-san-quentin-2019-1080p-cz-titulky-mp4/ccaef308c47df9ca) (ID 29634880) | [Sdílej 34902727](https://sdilej.cz/34902727/basket-v-san-quentin-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T21:39:12.659128+00:00 |
 | [Basquiat (1996) 1080p CZ Titulky](https://prehraj.to/basquiat-1996-1080p-cz-titulky-mp4/d1061d3c8aba0d9e) (ID 29640928) | [Sdílej 34959733](https://sdilej.cz/34959733/1996-basquiat-zivotopisny-78-jeffrey-wright.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:22:43.178772+00:00 |
-| [Bastard (2023) 1080p CZ Titulky](https://prehraj.to/bastard-2023-1080p-cz-titulky-mkv/0878f436cbf0562b) (ID 29509680) | [Sdílej 31415631](https://sdilej.cz/31415631/bastard-bastarden-the-promise-land-2023-dk-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:48:03.041385+00:00 |
 | [Batman: Gotham by Gaslight (2018) SD CZ Titulky](https://prehraj.to/batman-gotham-by-gaslight-2018-sd-cz-titulky-mkv/668d0941f260a979) (ID 30683528) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821324+00:00 |
 | [Battle in Space: The Armada Attacks (2021) 1080p CZ Titulky](https://prehraj.to/battle-in-space-the-armada-attacks-2021-1080p-cz-titulky-mkv/a3375308d91903d4) (ID 29610349) | [Sdílej 15433815](https://sdilej.cz/15433815/battle.in.space.the.armada.attacks.2021.1080p.amzn.web-dl.ddp2.0.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:11:47.337478+00:00 |
 | [Battlefield: Fall of the World (2022) 720p CZ Titulky](https://prehraj.to/battlefield-fall-of-the-world-2022-720p-cz-titulky-mp4/83b7bcbb32cc36ea) (ID 30725212) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821496+00:00 |
@@ -2286,6 +2285,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Abracadabra (2017) 1080p CZ Titulky](https://prehraj.to/abracadabra-2017-1080p-cz-titulky-mkv/7efe374ac3054fef) (ID 29609377) | [Sdílej 30707980](https://sdilej.cz/30707980/abracadabra-2017-1080p-bluray-spanish-dts-x264-descargasmix.mkv) | source_unavailable | 2026-11-06T13:28:48.213460+00:00 |
 | [Alice, Darling (2022) 1080p CZ Titulky](https://prehraj.to/alice-darling-2022-1080p-cz-titulky-avi/d36c0b21958d17ac) (ID 29540125) | [Sdílej 25293811](https://sdilej.cz/25293811/alice-darling-webrip-hd-cz-titulky-2022.avi) | source_unavailable | 2026-11-06T13:29:08.258921+00:00 |
 | [Apatykář Melchior: Tajemství tallinského vězně (2022) SD CZ Titulky](https://prehraj.to/apatykar-melchior-tajemstvi-tallinskeho-vezne-2022-sd-cz-titulky-mkv/10c20fb482ae660a) (ID 29070182) | [Sdílej 25511238](https://sdilej.cz/25511238/apteeker-melchior-2022--estonsky-vondruska.mkv) | source_unavailable | 2026-11-06T13:29:18.544553+00:00 |
+| [Bastard (2023) 1080p CZ Titulky](https://prehraj.to/bastard-2023-1080p-cz-titulky-mkv/0878f436cbf0562b) (ID 29509680) | [Sdílej 31415631](https://sdilej.cz/31415631/bastard-bastarden-the-promise-land-2023-dk-1080p.mkv) | source_unavailable | 2026-11-06T16:44:08.990665+00:00 |
 | [Bez zvláštních znamení (2020) SD CZ Titulky](https://prehraj.to/bez-zvlastnich-znameni-2020-sd-cz-titulky-avi/70512ba7f1011cf5) (ID 29333570) | [Sdílej 33750073](https://sdilej.cz/33750073/bez-zvlastnich-znameni-dokumentarny-2020-hdtvrip.-cs-subtitles.avi) | source_unavailable | 2026-11-06T13:28:58.346067+00:00 |
 | [Buzíci (1974) 720p CZ Titulky](https://prehraj.to/buzici-1974-720p-cz-titulky-mkv/d201314d3c8b9a52) (ID 29444563) | [Sdílej 24869171](https://sdilej.cz/24869171/buzici-les-valseuses-1974-komedie-fr.-cz-titulky.mkv) | source_unavailable | 2026-11-06T16:37:01.208475+00:00 |
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-06T14:29:38.548932+00:00 |
