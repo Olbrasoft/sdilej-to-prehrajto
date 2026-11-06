@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:51:25.224325+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:51:34.222412+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1817,7 +1817,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [The Bay (2012) 1080p CZ Titulky](https://prehraj.to/the-bay-2012-1080p-cz-titulky-mp4/f1e92022a69444bc) (ID 29926794) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560932+00:00 |
 | [The Beast Within (2024) 1080p CZ Titulky](https://prehraj.to/the-beast-within-2024-1080p-cz-titulky-mkv/ef87f9c1d738bfb1) (ID 30417586) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564946+00:00 |
 | [The Beta Test (2021) 1080p CZ Titulky](https://prehraj.to/the-beta-test-2021-1080p-cz-titulky-mp4/a5779b40ccdaeff3) (ID 29607672) | [Sdílej 34772650](https://sdilej.cz/34772650/the-beta-test-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:03:52.719732+00:00 |
-| [The Binge (2020) 1080p CZ Titulky](https://prehraj.to/the-binge-2020-1080p-cz-titulky-mp4/c2b7dfe6d9f80258) (ID 29721157) | [Sdílej 34773234](https://sdilej.cz/34773234/the-binge-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:50:45.111147+00:00 |
+| [The Binge (2020) 1080p CZ Titulky](https://prehraj.to/the-binge-2020-1080p-cz-titulky-mp4/c2b7dfe6d9f80258) (ID 29721157) | [Sdílej 34773234](https://sdilej.cz/34773234/the-binge-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:51:34.222294+00:00 |
 | [The Bombing of Wall Street (2018) SD CZ Titulky](https://prehraj.to/the-bombing-of-wall-street-2018-sd-cz-titulky-mp4/c5a1153aa4e4f050) (ID 29562079) | [Sdílej 34736187](https://sdilej.cz/34736187/the-bombing-of-wall-street-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:52:23.059725+00:00 |
 | [The Calm Beyond (2020) 1080p CZ Titulky](https://prehraj.to/the-calm-beyond-2020-1080p-cz-titulky-mkv/44e46165cad25c2d) (ID 30718770) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567088+00:00 |
 | [The Canal (2014) 720p CZ Titulky](https://prehraj.to/the-canal-2014-720p-cz-titulky-avi/57082c185b1c03a7) (ID 29912355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560293+00:00 |
