@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:38:16.528027+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:38:25.081846+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1370,7 +1370,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pekelné bingo (2021) 720p CZ Titulky](https://prehraj.to/pekelne-bingo-2021-720p-cz-titulky-mp4/96a4d5e2d81c0aab) (ID 29940510) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.984480+00:00 |
 | [Peklo v podzemí (2006) SD CZ Titulky](https://prehraj.to/peklo-v-podzemi-2006-sd-cz-titulky-avi/de05004db9e546a6) (ID 30249718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.987953+00:00 |
 | [Pelé (2021) 1080p CZ Titulky](https://prehraj.to/pele-2021-1080p-cz-titulky-mkv/5c5e89d87a7f7ec9) (ID 30777522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.996694+00:00 |
-| [Penance Lane (2020) 720p CZ Titulky](https://prehraj.to/penance-lane-2020-720p-cz-titulky-mp4/bcc21aa1d43a2b09) (ID 29754929) | [Sdílej 34732214](https://sdilej.cz/34732214/penance-lane-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:36:18.010245+00:00 |
+| [Penance Lane (2020) 720p CZ Titulky](https://prehraj.to/penance-lane-2020-720p-cz-titulky-mp4/bcc21aa1d43a2b09) (ID 29754929) | [Sdílej 34732214](https://sdilej.cz/34732214/penance-lane-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:38:25.081727+00:00 |
 | [Perfect Blue (1997) 4K CZ Titulky](https://prehraj.to/perfect-blue-1997-4k-cz-titulky-mkv/3daac9cd95a0456d) (ID 29219736) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.976501+00:00 |
 | [Perný den (1964) 1080p CZ Titulky](https://prehraj.to/perny-den-1964-1080p-cz-titulky-mkv/175850ab70b2d561) (ID 29882993) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.980597+00:00 |
 | [Perské lekce (2020) 1080p CZ Titulky](https://prehraj.to/perske-lekce-2020-1080p-cz-titulky-avi/0843aef1dbf1be0b) (ID 29845499) | [Sdílej 22268660](https://sdilej.cz/22268660/perske-lekce-2020-juraison-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:40:21.848308+00:00 |
