@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:46:46.705247+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:47:04.853254+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -977,7 +977,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:27:19.871850+00:00 |
 | [Krvavé housle (1998) 1080p CZ Titulky](https://prehraj.to/krvave-housle-1998-1080p-cz-titulky-mp4/f40a18ddb5e19ef4) (ID 29559302) | [Sdílej 33219259](https://sdilej.cz/33219259/the-red-violin-1998-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:59:13.366797+00:00 |
 | [Krystal (2017) SD CZ Titulky](https://prehraj.to/krystal-2017-sd-cz-titulky-avi/eec4393e55f96908) (ID 30775617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.567491+00:00 |
-| [Král Kobra (2016) SD CZ Titulky](https://prehraj.to/kral-kobra-2016-sd-cz-titulky-avi/624ec9fa66264b17) (ID 29714249) | [Sdílej 11544620](https://sdilej.cz/11544620/king-cobra-2016-cz-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:46:28.139242+00:00 |
+| [Král Kobra (2016) SD CZ Titulky](https://prehraj.to/kral-kobra-2016-sd-cz-titulky-avi/624ec9fa66264b17) (ID 29714249) | [Sdílej 11544620](https://sdilej.cz/11544620/king-cobra-2016-cz-v-obraze.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:47:04.853125+00:00 |
 | [Král psanec (2018) 1080p CZ Titulky](https://prehraj.to/kral-psanec-2018-1080p-cz-titulky-mp4/53bd48e5c110bd89) (ID 29400578) | [Sdílej 25113745](https://sdilej.cz/25113745/kral-psanec-2018.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:29:11.727824+00:00 |
 | [Král Škorpion 2 - Vzestup říše (2008) 1080p CZ Titulky](https://prehraj.to/kral-skorpion-2-vzestup-rise-2008-1080p-cz-titulky-mkv/843320655f2159e3) (ID 30435346) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.565164+00:00 |
 | [Královna banditů (1994) SD CZ Titulky](https://prehraj.to/kralovna-banditu-1994-sd-cz-titulky-mp4/d515b251f4b3718b) (ID 30016219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561881+00:00 |
