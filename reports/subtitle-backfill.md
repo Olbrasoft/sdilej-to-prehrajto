@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:44:41.995929+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:44:50.422784+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -464,7 +464,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Drobná nehoda (2025) 720p CZ Titulky](https://prehraj.to/drobna-nehoda-2025-720p-cz-titulky-mkv/7ec8c316f2644c9d) (ID 30548938) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.566019+00:00 |
 | [Druhá šance (2023) 720p CZ Titulky](https://prehraj.to/druha-sance-2023-720p-cz-titulky-mp4/9f7ad6a579a2e448) (ID 29400378) | [Sdílej 34725805](https://sdilej.cz/34725805/druha-sance-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:00:39.066533+00:00 |
 | [Dune Drifter (2020) 720p CZ Titulky](https://prehraj.to/dune-drifter-2020-720p-cz-titulky-mp4/d8e692d1379181aa) (ID 30380597) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564463+00:00 |
-| [Dune World (2021) 1080p CZ Titulky](https://prehraj.to/dune-world-2021-1080p-cz-titulky-mp4/9b10d8a8e4bf3945) (ID 29709431) | [Sdílej 34772958](https://sdilej.cz/34772958/dune-world-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:44:01.927308+00:00 |
+| [Dune World (2021) 1080p CZ Titulky](https://prehraj.to/dune-world-2021-1080p-cz-titulky-mp4/9b10d8a8e4bf3945) (ID 29709431) | [Sdílej 34772958](https://sdilej.cz/34772958/dune-world-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:44:50.422643+00:00 |
 | [Dva neznámí z parku (2026) 1080p CZ Titulky](https://prehraj.to/dva-neznami-z-parku-2026-1080p-cz-titulky-mp4/3e072fd9b8eea3a2) (ID 30138369) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.562592+00:00 |
 | [Dveře v podlaze (2004) 1080p CZ Titulky](https://prehraj.to/dvere-v-podlaze-2004-1080p-cz-titulky-mp4/a455ab9b4269d98a) (ID 30184168) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.562836+00:00 |
 | [Dvojitý milenec (2017) SD CZ Titulky](https://prehraj.to/dvojity-milenec-2017-sd-cz-titulky-avi/ca730e0fead0c614) (ID 29992396) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.561729+00:00 |
