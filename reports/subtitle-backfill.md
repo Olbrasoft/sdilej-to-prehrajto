@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:34:21.581706+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:34:41.198321+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1886,7 +1886,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Legend of La Llorona (2022) 1080p CZ Titulky](https://prehraj.to/the-legend-of-la-llorona-2022-1080p-cz-titulky-mp4/c86c0ea379abb5bf) (ID 29905435) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.981092+00:00 |
 | [The Lifeguard (2013) SD CZ Titulky](https://prehraj.to/the-lifeguard-2013-sd-cz-titulky-mp4/3c101905423f8abf) (ID 30449490) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.992430+00:00 |
 | [The Limehouse Golem (2016) SD CZ Titulky](https://prehraj.to/the-limehouse-golem-2016-sd-cz-titulky-mp4/a353585be7b9a51d) (ID 29573805) | [Sdílej 26970210](https://sdilej.cz/26970210/the-limehouse-golem-2016-web-dl-x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:57:23.994168+00:00 |
-| [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:33:02.052253+00:00 |
+| [The Lodgers (2017) SD CZ Titulky](https://prehraj.to/the-lodgers-2017-sd-cz-titulky-avi/91dc82b5daf82a4f) (ID 29748797) | [Sdílej 10807215](https://sdilej.cz/10807215/the-lovers-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:34:41.198178+00:00 |
 | [The Maestro (2018) SD CZ Titulky](https://prehraj.to/the-maestro-2018-sd-cz-titulky-avi/03c1a3ede0e1b6dd) (ID 29218312) | [Sdílej 12342158](https://sdilej.cz/12342158/the-maestro-2018-pl.480p.web-dl.xvid.ac3-mors.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T19:31:28.430046+00:00 |
 | [The Maid (2020) 1080p CZ Titulky](https://prehraj.to/the-maid-2020-1080p-cz-titulky-mkv/b1fbd7b7041e30ef) (ID 30734852) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995950+00:00 |
 | [The Man from Earth: Holocene (2017) 1080p CZ Titulky](https://prehraj.to/the-man-from-earth-holocene-2017-1080p-cz-titulky-mkv/215184d64ce9ebc3) (ID 30382665) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.990605+00:00 |
