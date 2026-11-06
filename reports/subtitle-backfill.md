@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:23:44.896432+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:23:49.012750+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 841, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 20, `target_detail_url_missing`: 16, `target_unavailable`: 21
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 840, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 20, `target_detail_url_missing`: 16, `target_unavailable`: 22
 
 ## Poslední dávka
 
@@ -1943,7 +1943,6 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:30:09.756317+00:00 |
 | [The Thinning (2016) 720p CZ Titulky](https://prehraj.to/the-thinning-2016-720p-cz-titulky-mkv/05d1529cf2e7249f) (ID 30372039) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.713635+00:00 |
 | [The Thinning: New World Order (2018) 720p CZ Titulky](https://prehraj.to/the-thinning-new-world-order-2018-720p-cz-titulky-mkv/42e2842ce41af980) (ID 30390971) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.713860+00:00 |
-| [The Thundermans Return (2024) 1080p CZ Titulky](https://prehraj.to/the-thundermans-return-2024-1080p-cz-titulky-mp4/4c23216bcf1c4d73) (ID 29654246) | [Sdílej 34904138](https://sdilej.cz/34904138/the-thundermans-return-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:29:07.528704+00:00 |
 | [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-06T14:30:17.270784+00:00 |
 | [The Timber (2015) 1080p CZ Titulky](https://prehraj.to/the-timber-2015-1080p-cz-titulky-mkv/06127d5d1a067ce2) (ID 29708325) | [Sdílej 6773323](https://sdilej.cz/6773323/the-timber.2015.1080p.bluray.h264.aac-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:52.663398+00:00 |
 | [The Titan (2018) 1080p CZ Titulky](https://prehraj.to/the-titan-2018-1080p-cz-titulky-mkv/2b3f9ccfa5221b19) (ID 30634227) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716497+00:00 |
@@ -2313,6 +2312,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Superžena (2022) 1080p CZ Titulky](https://prehraj.to/superzena-2022-1080p-cz-titulky-mkv/46a525bba7fb115b) (ID 29811385) | [Sdílej 26248725](https://sdilej.cz/26248725/superzena-2022-webrip-slovensky-dabing.mkv) | target_unavailable | 2026-11-06T14:29:55.023613+00:00 |
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-11-06T14:29:02.116082+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-11-06T14:29:47.561148+00:00 |
+| [The Thundermans Return (2024) 1080p CZ Titulky](https://prehraj.to/the-thundermans-return-2024-1080p-cz-titulky-mp4/4c23216bcf1c4d73) (ID 29654246) | [Sdílej 34904138](https://sdilej.cz/34904138/the-thundermans-return-2024-sk-titulky.mp4) | target_unavailable | 2026-11-06T17:23:49.012707+00:00 |
 | [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | source_media_timeout | 2026-11-06T13:27:58.149406+00:00 |
 | [Touha po životě (2015) SD CZ Titulky](https://prehraj.to/touha-po-zivote-2015-sd-cz-titulky-mp4/4dc83bc924b81ed7) (ID 29411882) | [Sdílej 34697611](https://sdilej.cz/34697611/touha-po-zivote-2015-cz.mp4) | source_unavailable | 2026-11-06T16:32:06.109463+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-11-06T13:28:38.221607+00:00 |
