@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T09:30:43.910478+00:00
+Poslední aktualizace (UTC): 2026-11-06T09:30:51.556451+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1283,7 +1283,7 @@ Kontrol: 49; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Někdo skvělý (2019) 1080p CZ Titulky](https://prehraj.to/nekdo-skvely-2019-1080p-cz-titulky-mp4/8f8c30fe265567e3) (ID 30485321) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.078964+00:00 |
 | [Něsokrušimyj (2018) 1080p CZ Titulky](https://prehraj.to/nesokrusimyj-2018-1080p-cz-titulky-avi/848291d0c4a7d73d) (ID 30485484) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.078971+00:00 |
 | [Nůž ve vodě (1962) SD CZ Titulky](https://prehraj.to/nuz-ve-vode-1962-sd-cz-titulky-mp4/f5abe3c2b754b43c) (ID 29502555) | [Sdílej 34699986](https://sdilej.cz/34699986/nuz-ve-vode-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:46:27.056885+00:00 |
-| [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T09:29:40.819688+00:00 |
+| [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:30:51.556323+00:00 |
 | [OBEX (2025) 1080p CZ Titulky](https://prehraj.to/obex-2025-1080p-cz-titulky-mkv/b72f44f271a39fa1) (ID 30254537) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.076398+00:00 |
 | [ONE PIECE FILM Z (2012) 1080p CZ Titulky](https://prehraj.to/one-piece-film-z-2012-1080p-cz-titulky-mp4/e9336830ca086ff3) (ID 29559540) | [Sdílej 34744081](https://sdilej.cz/34744081/one-piece-film-z-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:55:08.895457+00:00 |
 | [ONE PIECE STAMPEDE (2019) SD CZ Titulky](https://prehraj.to/one-piece-stampede-2019-sd-cz-titulky-mkv/3d846d84c01258fb) (ID 29901446) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T09:30:19.070468+00:00 |
