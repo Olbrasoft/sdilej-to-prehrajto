@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:42:58.357209+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:43:08.357375+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1702,7 +1702,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Space Buddies (2009) 720p CZ Titulky](https://prehraj.to/space-buddies-2009-720p-cz-titulky-mkv/4e7a090626908843) (ID 29088612) | [Sdílej 15088025](https://sdilej.cz/15088025/space.buddies.2009.720p.bluray.x264-x0r.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:52.542983+00:00 |
 | [Sparkle: A Unicorn Tale (2023) 1080p CZ Titulky](https://prehraj.to/sparkle-a-unicorn-tale-2023-1080p-cz-titulky-mp4/a343955c780de9ac) (ID 29680774) | [Sdílej 34771929](https://sdilej.cz/34771929/sparkle-a-unicorn-tale-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:31:47.987635+00:00 |
 | [Speed Demon (2026) 1080p CZ Titulky](https://prehraj.to/speed-demon-2026-1080p-cz-titulky-avi/dea50e1ad1b68c20) (ID 30606214) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.566480+00:00 |
-| [Speed Faster (2026) SD CZ Titulky](https://prehraj.to/speed-faster-2026-sd-cz-titulky-mp4/8dc4af08129b5e65) (ID 29706671) | [Sdílej 34770840](https://sdilej.cz/34770840/speed-faster-2026-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:42:22.016091+00:00 |
+| [Speed Faster (2026) SD CZ Titulky](https://prehraj.to/speed-faster-2026-sd-cz-titulky-mp4/8dc4af08129b5e65) (ID 29706671) | [Sdílej 34770840](https://sdilej.cz/34770840/speed-faster-2026-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:43:08.357257+00:00 |
 | [Spellbound (2011) 1080p CZ Titulky](https://prehraj.to/spellbound-2011-1080p-cz-titulky-mkv/af5d98de34bbf928) (ID 29883036) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.559699+00:00 |
 | [Spirit (2001) 4K CZ Titulky](https://prehraj.to/spirit-2001-4k-cz-titulky-mkv/3c9b4d38844fb6d1) (ID 30259616) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563311+00:00 |
 | [Spitfire (2018) 720p CZ Titulky](https://prehraj.to/spitfire-2018-720p-cz-titulky-mp4/18a7066584eda70c) (ID 29415714) | [Sdílej 34736579](https://sdilej.cz/34736579/spitfire-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:33:05.500497+00:00 |
