@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:46:43.811039+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:46:53.387683+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1548,7 +1548,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.981614+00:00 |
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:40:45.273579+00:00 |
 | [Rodinný krb (1970) SD CZ Titulky](https://prehraj.to/rodinny-krb-1970-sd-cz-titulky-mp4/eca664652afc269e) (ID 30486498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.993200+00:00 |
-| [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:43:25.102759+00:00 |
+| [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:46:53.387561+00:00 |
 | [Rogue Hostage (2021) SD CZ Titulky](https://prehraj.to/rogue-hostage-2021-sd-cz-titulky-mkv/f1f67d27465998cc) (ID 30633004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.995051+00:00 |
 | [Rok, kdy jsem začala masturbovat (2022) 1080p CZ Titulky](https://prehraj.to/rok-kdy-jsem-zacala-masturbovat-2022-1080p-cz-titulky-mp4/bbdfbd2beaa38b58) (ID 29722723) | [Sdílej 34726868](https://sdilej.cz/34726868/rok-kdy-jsem-zacala-masturbovat-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:52:15.313512+00:00 |
 | [Ronaldo (2015) SD CZ Titulky](https://prehraj.to/ronaldo-2015-sd-cz-titulky-mkv/646469ea143ffed3) (ID 30293318) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.988752+00:00 |
