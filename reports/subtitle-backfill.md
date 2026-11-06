@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:49:00.843000+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:49:13.576766+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2088,7 +2088,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 317. Dů
 | [Vleesdag (2025) 1080p CZ Titulky](https://prehraj.to/vleesdag-2025-1080p-cz-titulky-mkv/91778d541297e094) (ID 29975235) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.889088+00:00 |
 | [Vnitřní démoni (1972) 1080p CZ Titulky](https://prehraj.to/vnitrni-demoni-1972-1080p-cz-titulky-mp4/aef1558cb487e231) (ID 29646520) | [Sdílej 34755959](https://sdilej.cz/34755959/vnitrni-demoni-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:23:52.363408+00:00 |
 | [Vojenská pilotka (2020) 1080p CZ Titulky](https://prehraj.to/vojenska-pilotka-2020-1080p-cz-titulky-mkv/e9a641dad95db8ab) (ID 30363622) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.894627+00:00 |
-| [Vojákova dívka (2003) SD CZ Titulky](https://prehraj.to/vojakova-divka-2003-sd-cz-titulky-avi/12f0862fd05bddb6) (ID 29558973) | [Sdílej 26715144](https://sdilej.cz/26715144/vojakova-divka-romanticke-drama-2003-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:54:20.932957+00:00 |
+| [Vojákova dívka (2003) SD CZ Titulky](https://prehraj.to/vojakova-divka-2003-sd-cz-titulky-avi/12f0862fd05bddb6) (ID 29558973) | [Sdílej 26715144](https://sdilej.cz/26715144/vojakova-divka-romanticke-drama-2003-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:49:13.576658+00:00 |
 | [Volition (2019) 1080p CZ Titulky](https://prehraj.to/volition-2019-1080p-cz-titulky-mkv/4ee9631d3684bc71) (ID 30337291) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.894049+00:00 |
 | [Vražedná zátoka (2018) SD CZ Titulky](https://prehraj.to/vrazedna-zatoka-2018-sd-cz-titulky-mp4/6ee70895af3072ef) (ID 30421162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:47:52.895629+00:00 |
 | [Vražedné utkání (1982) SD CZ Titulky](https://prehraj.to/vrazedne-utkani-1982-sd-cz-titulky-mkv/93b1d2b81987a7b7) (ID 28976232) | [Sdílej 26126750](https://sdilej.cz/26126750/deadly.encounter.1982.dvdrip.x264-e411-cg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:34:49.990987+00:00 |
