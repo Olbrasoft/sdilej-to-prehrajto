@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T07:31:20.950225+00:00
+Poslední aktualizace (UTC): 2026-11-06T07:31:30.423412+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -339,7 +339,7 @@ Kontrol: 52; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:23:14.272047+00:00 |
 | [Clown (2019) 1080p CZ Titulky](https://prehraj.to/clown-2019-1080p-cz-titulky-mkv/81e7716c4c9f3b0e) (ID 30448522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.019407+00:00 |
 | [Co jsme udělali slepicím (1978) 1080p CZ Titulky](https://prehraj.to/co-jsme-udelali-slepicim-1978-1080p-cz-titulky-mp4/dc53c0177d7d54d7) (ID 30476717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.019611+00:00 |
-| [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T07:28:37.022397+00:00 |
+| [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:31:30.423293+00:00 |
 | [Co tě drží naživu (2018) 1080p CZ Titulky](https://prehraj.to/co-te-drzi-nazivu-2018-1080p-cz-titulky-avi/8d39960c23efb3e0) (ID 29914193) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.010749+00:00 |
 | [Cocaine Godmother (2017) 1080p CZ Titulky](https://prehraj.to/cocaine-godmother-2017-1080p-cz-titulky-mp4/ac462843c1036ca3) (ID 30615594) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T07:29:08.020497+00:00 |
 | [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:34:26.927812+00:00 |
