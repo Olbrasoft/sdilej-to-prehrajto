@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T19:41:18.300032+00:00
+Poslední aktualizace (UTC): 2026-11-06T19:41:25.209803+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1664,7 +1664,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Smrt a dívka (1994) 1080p CZ Titulky](https://prehraj.to/smrt-a-divka-1994-1080p-cz-titulky-mkv/8381c7a2fc383951) (ID 30495431) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.993337+00:00 |
 | [Smrt do roku 2020 (2020) 1080p CZ Titulky](https://prehraj.to/smrt-do-roku-2020-2020-1080p-cz-titulky-avi/94fe54d6492c94af) (ID 29747667) | [Sdílej 22458495](https://sdilej.cz/22458495/smrt-do-roku-2020-death-to-2020-2020-komedie-dokument-1920x1080p.-en-ct-title.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:33:19.605171+00:00 |
 | [Smrt roku 2021! (2021) 1080p CZ Titulky](https://prehraj.to/smrt-roku-2021-2021-1080p-cz-titulky-avi/212688a30e86f589) (ID 29976229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T19:31:12.984717+00:00 |
-| [Smrt za oponou (1967) 1080p CZ Titulky](https://prehraj.to/smrt-za-oponou-1967-1080p-cz-titulky-mkv/ab1104ce142dbcfe) (ID 29806237) | [Sdílej 34922724](https://sdilej.cz/34922724/smrt-za-oponou-1967-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:38:51.311254+00:00 |
+| [Smrt za oponou (1967) 1080p CZ Titulky](https://prehraj.to/smrt-za-oponou-1967-1080p-cz-titulky-mkv/ab1104ce142dbcfe) (ID 29806237) | [Sdílej 34922724](https://sdilej.cz/34922724/smrt-za-oponou-1967-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:41:25.209682+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T08:35:55.788477+00:00 |
 | [Smyk (1960) SD CZ Titulky](https://prehraj.to/smyk-1960-sd-cz-titulky-avi/a710d8e22203f86d) (ID 29820103) | [Sdílej 12537063](https://sdilej.cz/12537063/smyk-1960-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:39:15.469212+00:00 |
 | [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:56:36.397226+00:00 |
