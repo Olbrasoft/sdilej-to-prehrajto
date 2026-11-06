@@ -64086,17 +64086,20 @@
       }
     },
     "28598": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11408775",
+          "target_video_id": "30867285",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-06T19:29:46.278987+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11408775",
         "display_name": "Diplomacie (2014) SD CZ Titulky",
         "planned_at": "2026-11-06T19:06:40.335914+00:00"
-      },
-      "claim": {
-        "worker_id": "1dfafba2dbbe40f9a93bf9e262e970b3-shard-0",
-        "claimed_at": "2026-11-06T19:22:40.794056+00:00",
-        "lease_expires_at": "2026-11-07T01:22:40.794056+00:00",
-        "run_id": "42233091012"
       },
       "previous_target_id": "30867285",
       "prepared": {
@@ -426179,5 +426182,5 @@
       }
     }
   },
-  "updated_at": "2026-11-06T19:22:44.125109+00:00"
+  "updated_at": "2026-11-06T19:29:46.279005+00:00"
 }
