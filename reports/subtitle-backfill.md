@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:19:10.210930+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:19:28.963921+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1090,7 +1090,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 280. Dů
 | [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T03:32:39.028233+00:00 |
 | [Malý mluvka (2021) 720p CZ Titulky](https://prehraj.to/maly-mluvka-2021-720p-cz-titulky-mp4/f364c788c835f9f2) (ID 30809271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.717867+00:00 |
 | [Man Down (2015) 1080p CZ Titulky](https://prehraj.to/man-down-2015-1080p-cz-titulky-mkv/f519cad1c42580be) (ID 30617145) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716281+00:00 |
-| [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:24:52.005007+00:00 |
+| [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:19:28.963812+00:00 |
 | [Maneater (2022) SD CZ Titulky](https://prehraj.to/maneater-2022-sd-cz-titulky-avi/a32df1b386b14f61) (ID 30636959) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.716516+00:00 |
 | [Manhunt (2017) SD CZ Titulky](https://prehraj.to/manhunt-2017-sd-cz-titulky-mp4/492e172d52bf5783) (ID 29968850) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:10:10.711924+00:00 |
 | [Manjhi: The Mountain Man (2015) SD CZ Titulky](https://prehraj.to/manjhi-the-mountain-man-2015-sd-cz-titulky-mp4/3a69b793febdcf32) (ID 29296437) | [Sdílej 34775915](https://sdilej.cz/34775915/manjhi-the-mountain-man-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:27:44.025381+00:00 |
