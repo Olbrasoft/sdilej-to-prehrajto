@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T17:48:32.835929+00:00
+Poslední aktualizace (UTC): 2026-11-06T17:48:46.307078+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -988,7 +988,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Dů
 | [Kufr - uvězněná (2023) 1080p CZ Titulky](https://prehraj.to/kufr-uveznena-2023-1080p-cz-titulky-mkv/d1cebfb6b6a4a1de) (ID 30346264) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.564028+00:00 |
 | [Kulky Spravedlnosti (2019) 1080p CZ Titulky](https://prehraj.to/kulky-spravedlnosti-2019-1080p-cz-titulky-mp4/929d935b71e6db53) (ID 29911357) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.560201+00:00 |
 | [Kuwaresma (2019) 1080p CZ Titulky](https://prehraj.to/kuwaresma-2019-1080p-cz-titulky-mp4/ce64f8d0f9b55b2d) (ID 29850998) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.559654+00:00 |
-| [Kuře melancholik (1999) SD CZ Titulky](https://prehraj.to/kure-melancholik-1999-sd-cz-titulky-avi/44ec618802772a13) (ID 29717529) | [Sdílej 35068780](https://sdilej.cz/35068780/kure-melancholik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:47:59.731062+00:00 |
+| [Kuře melancholik (1999) SD CZ Titulky](https://prehraj.to/kure-melancholik-1999-sd-cz-titulky-avi/44ec618802772a13) (ID 29717529) | [Sdílej 35068780](https://sdilej.cz/35068780/kure-melancholik.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:48:46.306944+00:00 |
 | [Kyberpeklo: Jak odhalit zneužívání na internetu (2022) SD CZ Titulky](https://prehraj.to/kyberpeklo-jak-odhalit-zneuzivani-na-internetu-2022-sd-cz-titulky-mkv/f39fd4b8ee0d38a5) (ID 29262983) | [Sdílej 34842907](https://sdilej.cz/34842907/cyber-hell-exposing-an-internet-horror-2022-dokumentarni-krimi-jizni-korea-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:25.100494+00:00 |
 | [Kámoši (2022) 1080p CZ Titulky](https://prehraj.to/kamosi-2022-1080p-cz-titulky-mp4/be3ea61bf549d42a) (ID 30299617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563715+00:00 |
 | [Kúkai (2017) 720p CZ Titulky](https://prehraj.to/kukai-2017-720p-cz-titulky-mp4/edbd3081c0824da9) (ID 30261884) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T17:39:20.563335+00:00 |
