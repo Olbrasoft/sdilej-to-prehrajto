@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:36:49.156343+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:36:57.135362+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1365,7 +1365,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pathaan (2023) 720p CZ Titulky](https://prehraj.to/pathaan-2023-720p-cz-titulky-mp4/342efbade08b3f90) (ID 30356674) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.819007+00:00 |
 | [Pavouci (2013) SD CZ Titulky](https://prehraj.to/pavouci-2013-sd-cz-titulky-avi/581901deade946b8) (ID 30644429) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821158+00:00 |
 | [Pařba všech pařeb: Poslední kocovina (2014) SD CZ Titulky](https://prehraj.to/parba-vsech-pareb-posledni-kocovina-2014-sd-cz-titulky-avi/4c0285b2622868d1) (ID 30439091) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.819793+00:00 |
-| [Peccato che sia una canaglia (1954) SD CZ Titulky](https://prehraj.to/peccato-che-sia-una-canaglia-1954-sd-cz-titulky-mp4/9ea3995d4e766e60) (ID 29443620) | [Sdílej 34715750](https://sdilej.cz/34715750/peccato-che-sia-una-canaglia-1954-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:40:58.162293+00:00 |
+| [Peccato che sia una canaglia (1954) SD CZ Titulky](https://prehraj.to/peccato-che-sia-una-canaglia-1954-sd-cz-titulky-mp4/9ea3995d4e766e60) (ID 29443620) | [Sdílej 34715750](https://sdilej.cz/34715750/peccato-che-sia-una-canaglia-1954-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:36:57.135248+00:00 |
 | [Pejsci z vesmíru (2010) 1080p CZ Titulky.mkv](https://prehraj.to/pejsci-z-vesmiru-2010-1080p-cz-titulky-mkv/2ab948c49e0137d7) (ID 29644155) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.811198+00:00 |
 | [Pekelné bingo (2021) 720p CZ Titulky](https://prehraj.to/pekelne-bingo-2021-720p-cz-titulky-mp4/96a4d5e2d81c0aab) (ID 29940510) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.814607+00:00 |
 | [Peklo v podzemí (2006) SD CZ Titulky](https://prehraj.to/peklo-v-podzemi-2006-sd-cz-titulky-avi/de05004db9e546a6) (ID 30249718) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.817537+00:00 |
