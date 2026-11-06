@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:05:39.627781+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:05:47.985203+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1571,7 +1571,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Dův
 | [Safe House (2025) 4K CZ Titulky](https://prehraj.to/safe-house-2025-4k-cz-titulky-mkv/bfe7003c2cc4a380) (ID 30608690) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.195643+00:00 |
 | [Saint-Exupéry (2024) 1080p CZ Titulky](https://prehraj.to/saint-exupery-2024-1080p-cz-titulky-mkv/aa56e28664b9ed6e) (ID 30732553) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.196383+00:00 |
 | [Saja (2019) 1080p CZ Titulky](https://prehraj.to/saja-2019-1080p-cz-titulky-mkv/324e0eea7e005435) (ID 30260721) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.190113+00:00 |
-| [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:08:23.535391+00:00 |
+| [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:05:47.985093+00:00 |
 | [Samantha Darko (2009) 1080p CZ Titulky](https://prehraj.to/samantha-darko-2009-1080p-cz-titulky-mkv/51acfcf77594b9cc) (ID 30524195) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.194971+00:00 |
 | [Samurai Marathon (2019) SD CZ Titulky](https://prehraj.to/samurai-marathon-2019-sd-cz-titulky-mp4/46e18343a6a9b2d8) (ID 30478898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T18:05:29.194541+00:00 |
 | [Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky](https://prehraj.to/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-sd-cz-titulky-mp4/aed7498ebad752ae) (ID 29846766) | [Sdílej 34756127](https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T18:40:29.334566+00:00 |
