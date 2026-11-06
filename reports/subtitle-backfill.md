@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T05:29:42.463411+00:00
+Poslední aktualizace (UTC): 2026-11-06T05:29:53.238944+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -2148,7 +2148,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Willow Creek (2013) 1080p CZ Titulky](https://prehraj.to/willow-creek-2013-1080p-cz-titulky-mp4/67bcb4c0ff26609e) (ID 30394873) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.434086+00:00 |
 | [Wish Man (2019) 1080p CZ Titulky](https://prehraj.to/wish-man-2019-1080p-cz-titulky-mkv/bb569f9f8471b517) (ID 30053343) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.428499+00:00 |
 | [Witch Hunter (2024) SD CZ Titulky](https://prehraj.to/witch-hunter-2024-sd-cz-titulky-mp4/62e2f31c0847a8b6) (ID 30579606) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.437733+00:00 |
-| [Wither (2012) SD CZ Titulky](https://prehraj.to/wither-2012-sd-cz-titulky-mp4/41d842cf6f7fc279) (ID 29306068) | [Sdílej 34779874](https://sdilej.cz/34779874/wither-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:28:39.331656+00:00 |
+| [Wither (2012) SD CZ Titulky](https://prehraj.to/wither-2012-sd-cz-titulky-mp4/41d842cf6f7fc279) (ID 29306068) | [Sdílej 34779874](https://sdilej.cz/34779874/wither-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:29:53.238792+00:00 |
 | [Witte Wieven (2024) 1080p CZ Titulky](https://prehraj.to/witte-wieven-2024-1080p-cz-titulky-mp4/0f84a7ce134aa98d) (ID 30785385) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.440741+00:00 |
 | [Wolf Warrior (2015) 1080p CZ Titulky](https://prehraj.to/wolf-warrior-2015-1080p-cz-titulky-avi/554a1c6257b8b333) (ID 30473401) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.436094+00:00 |
 | [Wolves: Power of the Pack (2022) 720p CZ Titulky](https://prehraj.to/wolves-power-of-the-pack-2022-720p-cz-titulky-mp4/ff73879b8e4bfc82) (ID 30651582) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T05:26:20.438793+00:00 |
