@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T02:28:48.480159+00:00
+Poslední aktualizace (UTC): 2026-11-06T02:29:05.340524+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1278,7 +1278,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Následky (2026) 4K CZ Titulky](https://prehraj.to/nasledky-2026-4k-cz-titulky-mkv/386fb5c5748700fc) (ID 30419137) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.569152+00:00 |
 | [Následky lásky (2004) 720p CZ Titulky](https://prehraj.to/nasledky-lasky-2004-720p-cz-titulky-mkv/70551b30d793850e) (ID 30328450) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.567015+00:00 |
 | [Náš domov (2010) SD CZ Titulky](https://prehraj.to/nas-domov-2010-sd-cz-titulky-avi/bfc5250265c6bf4b) (ID 29718314) | [Sdílej 15647793](https://sdilej.cz/15647793/nas-domov-drama-cz-tit.-2010-beri.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:48:50.943683+00:00 |
-| [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:29:16.198049+00:00 |
+| [Něco od Tiffanyho (2022) 1080p CZ Titulky](https://prehraj.to/neco-od-tiffanyho-2022-1080p-cz-titulky-avi/3929068598012db0) (ID 29272997) | [Sdílej 24211455](https://sdilej.cz/24211455/neco-od-tiffanyho-something-from-tiffanys-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:29:05.340415+00:00 |
 | [Něco z Alenky (1988) SD CZ Titulky](https://prehraj.to/neco-z-alenky-1988-sd-cz-titulky-avi/e947df236f26ecfa) (ID 29411861) | [Sdílej 25735969](https://sdilej.cz/25735969/alice.darling.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:35:24.299415+00:00 |
 | [Někdo skvělý (2019) 1080p CZ Titulky](https://prehraj.to/nekdo-skvely-2019-1080p-cz-titulky-mp4/8f8c30fe265567e3) (ID 30485321) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.570630+00:00 |
 | [Něsokrušimyj (2018) 1080p CZ Titulky](https://prehraj.to/nesokrusimyj-2018-1080p-cz-titulky-avi/848291d0c4a7d73d) (ID 30485484) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T02:28:39.570645+00:00 |
