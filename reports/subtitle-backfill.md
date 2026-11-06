@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:30:25.793016+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:30:35.066359+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -342,7 +342,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Co tomu řeknou lidi (2017) SD CZ Titulky](https://prehraj.to/co-tomu-reknou-lidi-2017-sd-cz-titulky-avi/d273b2314a3dfbe5) (ID 29318908) | [Sdílej 23210602](https://sdilej.cz/23210602/co-tomu-reknou-lidi-2017-sk-titulky-vlozene.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:31:30.423293+00:00 |
 | [Co tě drží naživu (2018) 1080p CZ Titulky](https://prehraj.to/co-te-drzi-nazivu-2018-1080p-cz-titulky-avi/8d39960c23efb3e0) (ID 29914193) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.812931+00:00 |
 | [Cocaine Godmother (2017) 1080p CZ Titulky](https://prehraj.to/cocaine-godmother-2017-1080p-cz-titulky-mp4/ac462843c1036ca3) (ID 30615594) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820931+00:00 |
-| [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:34:26.927812+00:00 |
+| [Code 3 (2025) 1080p CZ Titulky](https://prehraj.to/code-3-2025-1080p-cz-titulky-mkv/9551d43f76ecfff4) (ID 29409331) | [Sdílej 32098593](https://sdilej.cz/32098593/code-3-2025-1080p-web-dl-x265--.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:30:35.066241+00:00 |
 | [Coffee & Kareem (2020) 1080p CZ Titulky](https://prehraj.to/coffee-kareem-2020-1080p-cz-titulky-mkv/fc0f314f4ff05e5d) (ID 30625703) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821027+00:00 |
 | [Cold Meat (2023) 1080p CZ Titulky](https://prehraj.to/cold-meat-2023-1080p-cz-titulky-mp4/cd345aa685724de7) (ID 29912376) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.812781+00:00 |
 | [Conjuring Tapes (2025) 1080p CZ Titulky](https://prehraj.to/conjuring-tapes-2025-1080p-cz-titulky-mp4/7319491f33ec346d) (ID 29643307) | [Sdílej 34771256](https://sdilej.cz/34771256/conjuring-tapes-2025-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:23:23.095777+00:00 |
