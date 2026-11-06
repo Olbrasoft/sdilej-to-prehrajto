@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:27:53.561250+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:28:12.185710+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 846, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 20
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 17, `target_detail_url_missing`: 16, `target_unavailable`: 20
 
 ## Poslední dávka
 
@@ -648,7 +648,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Final Fantasy VII: Advent Children (2005) 1080p CZ Titulky](https://prehraj.to/final-fantasy-vii-advent-children-2005-1080p-cz-titulky-mkv/af53cf83e22694a7) (ID 29460915) | [Sdílej 19680256](https://sdilej.cz/19680256/final.fantasy.vii.advent.children.complete.2005.-cz-titulky-japanese.1080p.bluray.h264.aac-vxt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:42:42.604754+00:00 |
 | [Finch (2021) 1080p CZ Titulky](https://prehraj.to/finch-2021-1080p-cz-titulky-mkv/dc79840f5c0de001) (ID 30806404) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.822016+00:00 |
 | [Fire and Ice: The Dragon Chronicles (2008) SD CZ Titulky](https://prehraj.to/fire-and-ice-the-dragon-chronicles-2008-sd-cz-titulky-mkv/64f89d65bab96d9a) (ID 29933125) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.814115+00:00 |
-| [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:32:04.597266+00:00 |
 | [Fitzcarraldo (1982) 1080p CZ Titulky](https://prehraj.to/fitzcarraldo-1982-1080p-cz-titulky-mkv/1946528ffc83f284) (ID 29290571) | [Sdílej 31003775](https://sdilej.cz/31003775/fitzcarraldo-1982-bluray-1080p-h264-en-dub-sk-subtitles.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T03:33:55.028814+00:00 |
 | [Five More Minutes (2021) 720p CZ Titulky](https://prehraj.to/five-more-minutes-2021-720p-cz-titulky-mkv/ef1293adaaa23221) (ID 29264769) | [Sdílej 18897937](https://sdilej.cz/18897937/five.more.minutes.2021.720p.hdtv.x264-crimson.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:32:35.214603+00:00 |
 | [Flamin' Hot: Koření úspěchu (2023) SD CZ Titulky](https://prehraj.to/flamin-hot-koreni-uspechu-2023-sd-cz-titulky-avi/3e52bb6f59445a44) (ID 29680006) | [Sdílej 26288113](https://sdilej.cz/26288113/flamin.hot.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:37:56.627741+00:00 |
@@ -2293,6 +2292,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Christy (2025) 1080p CZ Titulky](https://prehraj.to/christy-2025-1080p-cz-titulky-mp4/392d8d247001a908) (ID 29718202) | [Sdílej 34177305](https://sdilej.cz/34177305/christy-2025-cz-tit-1080p.mp4) | target_unavailable | 2026-11-06T14:29:38.548932+00:00 |
 | [Das Verschwinden des Josef Mengele (2025) 1080p CZ Titulky](https://prehraj.to/das-verschwinden-des-josef-mengele-2025-1080p-cz-titulky-mkv/4112a0a52bcd9c24) (ID 29561753) | [Sdílej 34151561](https://sdilej.cz/34151561/das-verschwinden-des-josef-mengele-2025-1080p-bluray-hevc-odkaz-na-titulky.mkv) | target_unavailable | 2026-11-06T14:29:51.364746+00:00 |
 | [Doctor Who: The Day of the Doctor (2013) SD CZ Titulky](https://prehraj.to/doctor-who-the-day-of-the-doctor-2013-sd-cz-titulky-avi/c8a5127006335b52) (ID 28908324) | [Sdílej 2535613](https://sdilej.cz/2535613/doctor-who-the-day-of-the-doctor-2013-cz-titulky.avi) | target_unavailable | 2026-11-06T14:29:17.734949+00:00 |
+| [First Moon (2025) 1080p CZ Titulky](https://prehraj.to/first-moon-2025-1080p-cz-titulky-avi/0cbdf352b48a14da) (ID 29399689) | [Sdílej 32999153](https://sdilej.cz/32999153/first-moon-horor-2025-cz-tit.avi) | source_unavailable | 2026-11-06T16:28:12.185665+00:00 |
 | [Justice League Dark: Apokolips War (2020) 1080p CZ Titulky](https://prehraj.to/justice-league-dark-apokolips-war-2020-1080p-cz-titulky-mkv/e50e445023e54a8e) (ID 29397082) | [Sdílej 13433444](https://sdilej.cz/13433444/justice.league.dark.apokolips.war.2020.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-11-06T14:30:02.614199+00:00 |
 | [Karavan (2025) 1080p CZ Titulky](https://prehraj.to/karavan-2025-1080p-cz-titulky-mkv/cc622d78b3e8342f) (ID 29674320) | [Sdílej 33564935](https://sdilej.cz/33564935/karavan-2025-1080p-aac-cz-drama.mkv) | target_unavailable | 2026-11-06T14:29:26.078399+00:00 |
 | [Kdo to tam zpívá (1980) SD CZ Titulky](https://prehraj.to/kdo-to-tam-zpiva-1980-sd-cz-titulky-avi/6158338b1b67f364) (ID 28921368) | [Sdílej 32327533](https://sdilej.cz/32327533/kdo-to-tam-zpiva-1980-cz-dab.avi) | target_unavailable | 2026-11-06T14:29:13.646837+00:00 |
