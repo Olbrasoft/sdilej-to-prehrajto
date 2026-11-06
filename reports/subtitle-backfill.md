@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:27:33.411159+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:27:41.623691+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -1973,7 +1973,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [This Is Not a Test (2025) 1080p CZ Titulky](https://prehraj.to/this-is-not-a-test-2025-1080p-cz-titulky-mp4/1abd66a735cc783a) (ID 30621109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820984+00:00 |
 | [This Much I Know to Be True (2022) 1080p CZ Titulky](https://prehraj.to/this-much-i-know-to-be-true-2022-1080p-cz-titulky-mp4/d13ee44fe630ca9e) (ID 30495626) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820245+00:00 |
 | [Thor: God of Thunder (2022) 720p CZ Titulky](https://prehraj.to/thor-god-of-thunder-2022-720p-cz-titulky-mp4/d100c5e80baf1538) (ID 29648483) | [Sdílej 34772159](https://sdilej.cz/34772159/thor-god-of-thunder-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T16:25:53.132229+00:00 |
-| [Thriller - drsný film (1973) 1080p CZ Titulky](https://prehraj.to/thriller-drsny-film-1973-1080p-cz-titulky-mp4/d3b318601405ea7e) (ID 29398262) | [Sdílej 34755870](https://sdilej.cz/34755870/thriller-drsny-film-1973-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:31:22.818576+00:00 |
+| [Thriller - drsný film (1973) 1080p CZ Titulky](https://prehraj.to/thriller-drsny-film-1973-1080p-cz-titulky-mp4/d3b318601405ea7e) (ID 29398262) | [Sdílej 34755870](https://sdilej.cz/34755870/thriller-drsny-film-1973-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:27:41.623578+00:00 |
 | [Ticho na zemi (1985) 1080p CZ Titulky](https://prehraj.to/ticho-na-zemi-1985-1080p-cz-titulky-mkv/4e9ea2a2acaf6f32) (ID 30537898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820358+00:00 |
 | [Tichá noc, krvavá noc (2025) 1080p CZ Titulky](https://prehraj.to/ticha-noc-krvava-noc-2025-1080p-cz-titulky-mkv/cc8fc5bf92c84cf9) (ID 29994597) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.815002+00:00 |
 | [Tichý běh (1972) 1080p CZ Titulky](https://prehraj.to/tichy-beh-1972-1080p-cz-titulky-mp4/60ef3ab70f1617cf) (ID 29221635) | [Sdílej 28261434](https://sdilej.cz/28261434/tichy-beh-1972-sci-fi-cztit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T22:36:54.218003+00:00 |
