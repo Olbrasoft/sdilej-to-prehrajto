@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:44:08.990705+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:44:17.173457+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -308,7 +308,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Cesta válečníka (2018) 1080p CZ Titulky](https://prehraj.to/cesta-valecnika-2018-1080p-cz-titulky-mkv/45805109373ac7a7) (ID 29917549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.813291+00:00 |
 | [Cesta za smířením (2021) 1080p CZ Titulky](https://prehraj.to/cesta-za-smirenim-2021-1080p-cz-titulky-mp4/90613c81cd979e69) (ID 30780545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.821902+00:00 |
 | [Charlieho země (2013) SD CZ Titulky](https://prehraj.to/charlieho-zeme-2013-sd-cz-titulky-mkv/1b38b8f36805aa08) (ID 29340785) | [Sdílej 26530590](https://sdilej.cz/26530590/charlieho-zeme-2013-juraison-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:31:09.134617+00:00 |
-| [Chasing Coral (2017) SD CZ Titulky](https://prehraj.to/chasing-coral-2017-sd-cz-titulky-mp4/d49affc0a7ed1301) (ID 29510434) | [Sdílej 34770336](https://sdilej.cz/34770336/chasing-coral-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T15:48:12.009692+00:00 |
+| [Chasing Coral (2017) SD CZ Titulky](https://prehraj.to/chasing-coral-2017-sd-cz-titulky-mp4/d49affc0a7ed1301) (ID 29510434) | [Sdílej 34770336](https://sdilej.cz/34770336/chasing-coral-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:44:17.173341+00:00 |
 | [Chasing the Dragon (2017) SD CZ Titulky](https://prehraj.to/chasing-the-dragon-2017-sd-cz-titulky-mp4/328e929fee5a2ddd) (ID 30100738) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.815891+00:00 |
 | [Chernobyl: The Lost Tapes (2022) 1080p CZ Titulky](https://prehraj.to/chernobyl-the-lost-tapes-2022-1080p-cz-titulky-avi/3b6d930d871292a7) (ID 30481765) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820121+00:00 |
 | [Cherry (2021) 720p CZ Titulky](https://prehraj.to/cherry-2021-720p-cz-titulky-mkv/6e4e24fe338f823b) (ID 30556117) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-06T16:25:40.820480+00:00 |
