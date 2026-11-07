@@ -158554,17 +158554,20 @@
       }
     },
     "14519": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34686485",
+          "target_video_id": "30893938",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-07T15:59:00.332167+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34686485",
         "display_name": "Vánoční přesčas (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:49:34.841497+00:00"
-      },
-      "claim": {
-        "worker_id": "8a4032c08df9479794d56bb6520241a8-shard-0",
-        "claimed_at": "2026-11-07T15:54:23.263784+00:00",
-        "lease_expires_at": "2026-11-07T21:54:23.263784+00:00",
-        "run_id": "42376483153"
       },
       "previous_target_id": "30893938",
       "prepared": {
@@ -430452,5 +430455,5 @@
       }
     }
   },
-  "updated_at": "2026-11-07T15:54:47.492198+00:00"
+  "updated_at": "2026-11-07T15:59:00.332184+00:00"
 }
