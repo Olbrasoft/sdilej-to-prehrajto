@@ -123703,17 +123703,20 @@
       "attempts": []
     },
     "12765": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30256948",
+          "target_video_id": "30892733",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-07T14:41:55.011857+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30256948",
         "display_name": "Tvár v okne (1963) SD CZ Dabing",
         "planned_at": "2026-11-07T13:47:32.531130+00:00"
-      },
-      "claim": {
-        "worker_id": "af734220d8434c98a95fca1cc9aea6c8-shard-0",
-        "claimed_at": "2026-11-07T14:37:02.079802+00:00",
-        "lease_expires_at": "2026-11-07T20:37:02.079802+00:00",
-        "run_id": "42376483153"
       },
       "previous_target_id": "30892733",
       "prepared": {
@@ -429580,5 +429583,5 @@
       }
     }
   },
-  "updated_at": "2026-11-07T14:37:25.361497+00:00"
+  "updated_at": "2026-11-07T14:41:55.011876+00:00"
 }
