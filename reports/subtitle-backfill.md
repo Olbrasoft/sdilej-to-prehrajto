@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T00:41:43.398498+00:00
+Poslední aktualizace (UTC): 2026-11-07T00:41:49.373764+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
@@ -971,7 +971,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kos (2024) 1080p CZ Titulky](https://prehraj.to/kos-2024-1080p-cz-titulky-mp4/7f0b9a563faa7a1e) (ID 30504257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-07T00:41:40.724563+00:00 |
 | [Kosh SD CZ Titulky](https://prehraj.to/kosh-sd-cz-titulky-mp4/f034feea2465f1a1) (ID 30442829) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-07T00:41:40.723626+00:00 |
 | [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:31:15.907834+00:00 |
-| [Kočičky (2020) 1080p CZ Titulky](https://prehraj.to/kocicky-2020-1080p-cz-titulky-mp4/020b6904a7b0311c) (ID 30647101) | [Sdílej 34712572](https://sdilej.cz/34712572/kocicky-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T23:28:30.427344+00:00 |
+| [Kočičky (2020) 1080p CZ Titulky](https://prehraj.to/kocicky-2020-1080p-cz-titulky-mp4/020b6904a7b0311c) (ID 30647101) | [Sdílej 34712572](https://sdilej.cz/34712572/kocicky-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-07T00:41:49.373658+00:00 |
 | [Kraj světa (2019) 1080p CZ Titulky](https://prehraj.to/kraj-sveta-2019-1080p-cz-titulky-mkv/9f6d9430b261e90b) (ID 30625517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-07T00:41:40.725752+00:00 |
 | [Kraken (2025) 1080p CZ Titulky](https://prehraj.to/kraken-2025-1080p-cz-titulky-mkv/007438b1eb79ac22) (ID 29915927) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-07T00:41:40.715589+00:00 |
 | [Krev zmizelého (2005) SD CZ Titulky](https://prehraj.to/krev-zmizeleho-2005-sd-cz-titulky-mkv/798e41df1dae9b0a) (ID 29717465) | [Sdílej 35085090](https://sdilej.cz/35085090/krev-zmizeleho.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:48:12.325251+00:00 |
