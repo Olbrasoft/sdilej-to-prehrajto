@@ -351652,17 +351652,20 @@
       }
     },
     "6926": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34794282",
+          "target_video_id": "30895846",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-07T18:21:20.447033+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34794282",
         "display_name": "Pojď si hrát (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-07T17:58:40.078591+00:00"
-      },
-      "claim": {
-        "worker_id": "14875de5557b4185969d408762182b05-shard-0",
-        "claimed_at": "2026-11-07T18:06:31.684080+00:00",
-        "lease_expires_at": "2026-11-08T00:06:31.684080+00:00",
-        "run_id": "42376483153"
       },
       "previous_target_id": "30895846",
       "prepared": {
@@ -432808,5 +432811,5 @@
       }
     }
   },
-  "updated_at": "2026-11-07T18:06:36.624968+00:00"
+  "updated_at": "2026-11-07T18:21:20.447051+00:00"
 }
