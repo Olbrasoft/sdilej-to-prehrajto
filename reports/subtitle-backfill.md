@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T16:26:30.666622+00:00
+Poslední aktualizace (UTC): 2026-11-08T16:26:34.369721+00:00
 
 Zkontrolováno videí: 2850. Další stránka kontroly: 0.
 
@@ -2303,7 +2303,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Noc v New Yorku (2014) 1080p CZ Titulky](https://prehraj.to/noc-v-new-yorku-2014-1080p-cz-titulky-mp4/969ed265e9f762da) (ID 29637479) | [Sdílej 33219207](https://sdilej.cz/33219207/before-we-go-2014-eng1080p-.mp4) | target_unavailable | 2026-11-08T14:28:31.765982+00:00 |
 | [Once Upon a Deadpool (2018) 1080p CZ Titulky](https://prehraj.to/once-upon-a-deadpool-2018-1080p-cz-titulky-mkv/dcab2c01cd73f62d) (ID 29563187) | [Sdílej 11074487](https://sdilej.cz/11074487/once.upon.a.deadpool.2018.1080p.web-dl.h264.ac3-evo.mkv) | target_unavailable | 2026-11-08T14:29:22.661372+00:00 |
 | [Organ Trail (2023) SD CZ Titulky](https://prehraj.to/organ-trail-2023-sd-cz-titulky-avi/fce736dd590b7d22) (ID 29653440) | [Sdílej 27404612](https://sdilej.cz/27404612/organ.trail.2023.pl.480p.web-dl.xvid.dd5.1-k83.avi) | target_unavailable | 2026-11-08T14:28:55.020253+00:00 |
-| [Osvícení (1980) 1080p CZ Titulky](https://prehraj.to/osviceni-1980-1080p-cz-titulky-mkv/243d05562981a3e8) (ID 28924994) | [Sdílej 31182551](https://sdilej.cz/31182551/osviceni-the-shining-1980-.mkv) | target_unavailable | 2026-11-08T14:28:01.020738+00:00 |
+| [Osvícení (1980) 1080p CZ Titulky](https://prehraj.to/osviceni-1980-1080p-cz-titulky-mkv/243d05562981a3e8) (ID 28924994) | [Sdílej 31182551](https://sdilej.cz/31182551/osviceni-the-shining-1980-.mkv) | target_unavailable | 2026-11-08T16:26:34.369660+00:00 |
 | [Persepolis (2007) 1080p CZ Titulky](https://prehraj.to/persepolis-2007-1080p-cz-titulky-mkv/e3a7a4ff7f96ee23) (ID 29282111) | [Sdílej 30210303](https://sdilej.cz/30210303/persepolis-2007-en-fr-fullhd-hevc-.mkv) | target_unavailable | 2026-11-08T14:28:20.187225+00:00 |
 | [Potulný samuraj Kenšin: Konec (2021) 1080p CZ Titulky](https://prehraj.to/potulny-samuraj-kensin-konec-2021-1080p-cz-titulky-mp4/04355bfc74f6fc1d) (ID 29358418) | [Sdílej 34697415](https://sdilej.cz/34697415/potulny-samuraj-kensin-konec-2021-cz.mp4) | target_unavailable | 2026-11-08T14:28:47.237146+00:00 |
 | [Potvora (2017) 1080p CZ Titulky](https://prehraj.to/potvora-2017-1080p-cz-titulky-mkv/3b146ea8753086f1) (ID 29785219) | [Sdílej 13351305](https://sdilej.cz/13351305/en-frygtelig-kvinde-potvora-2017-.1080p.dansk-czsub.mkv) | source_unavailable | 2026-11-08T11:24:49.580904+00:00 |
