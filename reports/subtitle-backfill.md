@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T04:30:25.805484+00:00
+Poslední aktualizace (UTC): 2026-11-08T04:31:48.495025+00:00
 
 Zkontrolováno videí: 2849. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 1281, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 22
+Stavy: `already_has_czech`: 526, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 845, `source_provenance_missing`: 1281, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 22
 
 ## Poslední dávka
 
@@ -1968,6 +1968,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Windmill Massacre (2016) SD CZ Titulky](https://prehraj.to/the-windmill-massacre-2016-sd-cz-titulky-avi/fd1771d31bd1e516) (ID 30378835) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-08T04:30:23.099390+00:00 |
 | [The World Will Tremble (2025) 1080p CZ Titulky](https://prehraj.to/the-world-will-tremble-2025-1080p-cz-titulky-mp4/6dae944ac1f66667) (ID 29468514) | [Sdílej 30991221](https://sdilej.cz/30991221/the-world-will-tremble-2025-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:41:00.895043+00:00 |
 | [The Wrath of God (1972) SD CZ Titulky](https://prehraj.to/the-wrath-of-god-1972-sd-cz-titulky-mkv/b78a34e87d55488c) (ID 29329370) | [Sdílej 34797245](https://sdilej.cz/34797245/western-cz-tit-the-wrath-of-god-1972-brrip-oldies-dual-audio.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:36.257742+00:00 |
+| [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-08T04:31:48.494919+00:00 |
 | [This Is Not a Test (2025) 1080p CZ Titulky](https://prehraj.to/this-is-not-a-test-2025-1080p-cz-titulky-mp4/1abd66a735cc783a) (ID 30621109) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-08T04:30:23.102475+00:00 |
 | [This Much I Know to Be True (2022) 1080p CZ Titulky](https://prehraj.to/this-much-i-know-to-be-true-2022-1080p-cz-titulky-mp4/d13ee44fe630ca9e) (ID 30495626) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-08T04:30:23.101310+00:00 |
 | [Thor: God of Thunder (2022) 720p CZ Titulky](https://prehraj.to/thor-god-of-thunder-2022-720p-cz-titulky-mp4/d100c5e80baf1538) (ID 29648483) | [Sdílej 34772159](https://sdilej.cz/34772159/thor-god-of-thunder-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:20:39.207186+00:00 |
@@ -2314,7 +2315,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-11-08T02:29:13.079718+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-11-08T02:29:52.906603+00:00 |
 | [The Thundermans Return (2024) 1080p CZ Titulky](https://prehraj.to/the-thundermans-return-2024-1080p-cz-titulky-mp4/4c23216bcf1c4d73) (ID 29654246) | [Sdílej 34904138](https://sdilej.cz/34904138/the-thundermans-return-2024-sk-titulky.mp4) | target_unavailable | 2026-11-08T02:30:49.930615+00:00 |
-| [They Live in the Grey (2022) 720p CZ Titulky](https://prehraj.to/they-live-in-the-grey-2022-720p-cz-titulky-avi/2eeaa226c57bdf78) (ID 29613932) | [Sdílej 22528197](https://sdilej.cz/22528197/they.live.in.the.grey.avi) | source_media_timeout | 2026-11-07T21:31:22.123395+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-11-07T21:31:58.979769+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | source_unavailable | 2026-11-07T21:31:27.260616+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-11-07T21:32:13.328507+00:00 |
