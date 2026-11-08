@@ -238409,18 +238409,20 @@
           "source_id": "15954430",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T15:39:27.497171+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "15954430",
+          "target_video_id": "30926259",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T21:41:06.117636+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15954430",
         "display_name": "Made in China (2019) 1080p SK Dabing",
         "planned_at": "2026-11-08T20:39:38.164531+00:00"
-      },
-      "claim": {
-        "worker_id": "04aeca1d5dc64e06a079862b4c1fb2e8-shard-0",
-        "claimed_at": "2026-11-08T21:33:17.934791+00:00",
-        "lease_expires_at": "2026-11-09T03:33:17.934791+00:00",
-        "run_id": "42509470959"
       },
       "previous_target_id": "30926259",
       "prepared": {
@@ -440297,5 +440299,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T21:33:40.483710+00:00"
+  "updated_at": "2026-11-08T21:41:06.117657+00:00"
 }
