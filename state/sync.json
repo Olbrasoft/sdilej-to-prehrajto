@@ -190351,18 +190351,20 @@
           "source_id": "35376399",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T17:59:53.439411+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35376399",
+          "target_video_id": "30922313",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T16:56:59.017190+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35376399",
         "display_name": "Válka rozumu a cti (2006) 1080p CZ Dabing",
         "planned_at": "2026-11-08T16:41:38.924472+00:00"
-      },
-      "claim": {
-        "worker_id": "8a6e5ee8d9d349a491cf4cdfe86e458c-shard-0",
-        "claimed_at": "2026-11-08T16:49:07.150759+00:00",
-        "lease_expires_at": "2026-11-08T22:49:07.150759+00:00",
-        "run_id": "42479987810"
       },
       "previous_target_id": "30922313",
       "prepared": {
@@ -437714,5 +437716,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T16:49:29.956888+00:00"
+  "updated_at": "2026-11-08T16:56:59.017210+00:00"
 }
