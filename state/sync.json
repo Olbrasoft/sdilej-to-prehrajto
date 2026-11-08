@@ -148907,18 +148907,20 @@
           "source_id": "34787341",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T13:42:15.283482+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34787341",
+          "target_video_id": "30925759",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T21:04:04.958878+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34787341",
         "display_name": "Osada Havranů (1978) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:39:30.393799+00:00"
-      },
-      "claim": {
-        "worker_id": "04aeca1d5dc64e06a079862b4c1fb2e8-shard-0",
-        "claimed_at": "2026-11-08T21:00:00.338734+00:00",
-        "lease_expires_at": "2026-11-09T03:00:00.338734+00:00",
-        "run_id": "42509470959"
       },
       "previous_target_id": "30925759",
       "prepared": {
@@ -440086,5 +440088,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T21:00:29.566562+00:00"
+  "updated_at": "2026-11-08T21:04:04.958897+00:00"
 }
