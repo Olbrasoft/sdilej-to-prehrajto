@@ -321553,18 +321553,20 @@
           "source_id": "34621576",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T17:57:14.916794+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34621576",
+          "target_video_id": "30921827",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T16:40:34.133069+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34621576",
         "display_name": "Věznice (1987) SD CZ Titulky",
         "planned_at": "2026-11-08T15:38:02.950475+00:00"
-      },
-      "claim": {
-        "worker_id": "bed405a441274f698044cce84f9cb07f-shard-0",
-        "claimed_at": "2026-11-08T16:23:36.468849+00:00",
-        "lease_expires_at": "2026-11-08T22:23:36.468849+00:00",
-        "run_id": "42479987810"
       },
       "previous_target_id": "30921827",
       "prepared": {
@@ -437633,5 +437635,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T16:23:41.234608+00:00"
+  "updated_at": "2026-11-08T16:40:34.133089+00:00"
 }
