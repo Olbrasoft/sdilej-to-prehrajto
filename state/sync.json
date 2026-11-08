@@ -416317,18 +416317,20 @@
           "source_id": "30417510",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:44:43.792295+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30417510",
+          "target_video_id": "30924630",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T19:23:15.036111+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30417510",
         "display_name": "Emmanuelle (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-08T18:58:07.210327+00:00"
-      },
-      "claim": {
-        "worker_id": "002c2352f14b42b38caa10728669037d-shard-0",
-        "claimed_at": "2026-11-08T19:16:58.724245+00:00",
-        "lease_expires_at": "2026-11-09T01:16:58.724245+00:00",
-        "run_id": "42509470959"
       },
       "previous_target_id": "30924630",
       "prepared": {
@@ -439012,5 +439014,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T19:17:03.029442+00:00"
+  "updated_at": "2026-11-08T19:23:15.036130+00:00"
 }
