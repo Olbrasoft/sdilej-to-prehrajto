@@ -140605,18 +140605,20 @@
           "source_id": "33200893",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T13:40:51.290844+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33200893",
+          "target_video_id": "30925603",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T20:52:52.972816+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33200893",
         "display_name": "Zatykač na královnu (1974) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:39:29.103151+00:00"
-      },
-      "claim": {
-        "worker_id": "04aeca1d5dc64e06a079862b4c1fb2e8-shard-0",
-        "claimed_at": "2026-11-08T20:45:12.195079+00:00",
-        "lease_expires_at": "2026-11-09T02:45:12.195079+00:00",
-        "run_id": "42509470959"
       },
       "previous_target_id": "30925603",
       "prepared": {
@@ -440044,5 +440046,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T20:45:36.435779+00:00"
+  "updated_at": "2026-11-08T20:52:52.972836+00:00"
 }
