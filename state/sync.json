@@ -261358,17 +261358,20 @@
       }
     },
     "18241": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "7400706",
+          "target_video_id": "30926381",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T21:55:15.347867+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7400706",
         "display_name": "Before I Fall (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-08T21:43:08.484368+00:00"
-      },
-      "claim": {
-        "worker_id": "02d2c7c135f44da999e37c3660e3d4bf-shard-0",
-        "claimed_at": "2026-11-08T21:43:44.581619+00:00",
-        "lease_expires_at": "2026-11-09T03:43:44.581619+00:00",
-        "run_id": "42509470959"
       },
       "previous_target_id": "30926381",
       "prepared": {
@@ -440379,5 +440382,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T21:44:07.621276+00:00"
+  "updated_at": "2026-11-08T21:55:15.347889+00:00"
 }
