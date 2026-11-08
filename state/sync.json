@@ -117004,18 +117004,20 @@
           "source_id": "11975908",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:49:15.141817+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11975908",
+          "target_video_id": "30924739",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T19:34:40.729867+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11975908",
         "display_name": "Sibel (2018) 720p CZ Titulky",
         "planned_at": "2026-11-08T18:58:11.150813+00:00"
-      },
-      "claim": {
-        "worker_id": "002c2352f14b42b38caa10728669037d-shard-0",
-        "claimed_at": "2026-11-08T19:27:30.546675+00:00",
-        "lease_expires_at": "2026-11-09T01:27:30.546675+00:00",
-        "run_id": "42509470959"
       },
       "previous_target_id": "30924739",
       "prepared": {
@@ -439110,5 +439112,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T19:27:54.306576+00:00"
+  "updated_at": "2026-11-08T19:34:40.729886+00:00"
 }
