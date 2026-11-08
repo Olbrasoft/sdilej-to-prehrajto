@@ -153671,17 +153671,20 @@
       "attempts": []
     },
     "14095": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32443812",
+          "target_video_id": "30918586",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-08T13:51:26.594458+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32443812",
         "display_name": "Osudové léto v Algarve (2019) 1080p SK Dabing",
         "planned_at": "2026-11-08T13:09:43.779249+00:00"
-      },
-      "claim": {
-        "worker_id": "a509e6644cf64246a7e649b4ffa7ec69-shard-0",
-        "claimed_at": "2026-11-08T13:42:57.590110+00:00",
-        "lease_expires_at": "2026-11-08T19:42:57.590110+00:00",
-        "run_id": "42479987810"
       },
       "previous_target_id": "30918586",
       "prepared": {
@@ -436970,5 +436973,5 @@
       }
     }
   },
-  "updated_at": "2026-11-08T13:43:21.200050+00:00"
+  "updated_at": "2026-11-08T13:51:26.594478+00:00"
 }
