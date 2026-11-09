@@ -126813,13 +126813,6 @@
           "permanent": false,
           "source_id": "3044853",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T14:43:00.321940+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "3044853",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:57:07.737359+00:00"
         },
         {
@@ -126828,18 +126821,20 @@
           "source_id": "3044853",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:43:10.322610+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "3044853",
+          "target_video_id": "30952890",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T19:36:38.122157+00:00"
         }
       ],
       "last_plan": {
         "source_id": "3044853",
         "display_name": "Z mého života (1955) SD CZ Dabing",
         "planned_at": "2026-11-09T19:01:54.094163+00:00"
-      },
-      "claim": {
-        "worker_id": "be4aabf2ae1c43e1b428acfc51d8caf3-shard-0",
-        "claimed_at": "2026-11-09T19:32:06.627241+00:00",
-        "lease_expires_at": "2026-11-10T01:32:06.627241+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30952890",
       "prepared": {
@@ -442160,5 +442155,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T19:32:30.074740+00:00"
+  "updated_at": "2026-11-09T19:36:38.122175+00:00"
 }
