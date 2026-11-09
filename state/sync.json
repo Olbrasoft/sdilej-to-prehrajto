@@ -381744,13 +381744,6 @@
           "permanent": false,
           "source_id": "34733279",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T21:45:32.657934+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34733279",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:25:05.288600+00:00"
         },
         {
@@ -381759,18 +381752,20 @@
           "source_id": "34733279",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T18:50:01.941399+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34733279",
+          "target_video_id": "30951876",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T18:43:01.829674+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34733279",
         "display_name": "Další  jehňátko (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-09T18:16:30.877028+00:00"
-      },
-      "claim": {
-        "worker_id": "e1fffd83b3a4491b89f5f07baa804971-shard-0",
-        "claimed_at": "2026-11-09T18:36:29.598111+00:00",
-        "lease_expires_at": "2026-11-10T00:36:29.598111+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30951876",
       "prepared": {
@@ -441972,5 +441967,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T18:36:53.919824+00:00"
+  "updated_at": "2026-11-09T18:43:01.829722+00:00"
 }
