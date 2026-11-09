@@ -311784,13 +311784,6 @@
           "permanent": false,
           "source_id": "26887025",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T20:54:04.388528+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26887025",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:03:26.376564+00:00"
         },
         {
@@ -311799,18 +311792,19 @@
           "source_id": "26887025",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T18:46:32.470124+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26887025",
+          "target_video_id": "30950914",
+          "permanent": false,
+          "attempted_at": "2026-11-09T18:10:57.373887+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26887025",
         "display_name": "The Channel (2023) 1080p CZ Titulky",
         "planned_at": "2026-11-09T12:36:56.412744+00:00"
-      },
-      "claim": {
-        "worker_id": "c6c1d210461b496fb9451bc362cf93c9-shard-0",
-        "claimed_at": "2026-11-09T17:50:44.000675+00:00",
-        "lease_expires_at": "2026-11-09T23:50:44.000675+00:00",
-        "run_id": "42617042402"
       },
       "previous_target_id": "30950914",
       "prepared": {
@@ -441927,5 +441921,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T17:51:07.317418+00:00"
+  "updated_at": "2026-11-09T18:10:57.373902+00:00"
 }
