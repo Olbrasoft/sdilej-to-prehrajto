@@ -297382,13 +297382,6 @@
           "permanent": false,
           "source_id": "33101208",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T19:54:07.120364+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33101208",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T18:47:32.946808+00:00"
         },
         {
@@ -297397,18 +297390,20 @@
           "source_id": "33101208",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T18:04:37.360685+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33101208",
+          "target_video_id": "30949446",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T16:54:52.533259+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33101208",
         "display_name": "Kanibal (2013) SD CZ Dabing",
         "planned_at": "2026-11-09T12:36:49.058798+00:00"
-      },
-      "claim": {
-        "worker_id": "c6c1d210461b496fb9451bc362cf93c9-shard-0",
-        "claimed_at": "2026-11-09T16:50:13.864173+00:00",
-        "lease_expires_at": "2026-11-09T22:50:13.864173+00:00",
-        "run_id": "42617042402"
       },
       "previous_target_id": "30949446",
       "prepared": {
@@ -441900,5 +441895,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T16:50:37.619402+00:00"
+  "updated_at": "2026-11-09T16:54:52.533276+00:00"
 }
