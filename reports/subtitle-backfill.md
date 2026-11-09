@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T20:31:55.522750+00:00
+Poslední aktualizace (UTC): 2026-11-09T20:32:07.600108+00:00
 
 Zkontrolováno videí: 2850. Další stránka kontroly: 0.
 
@@ -618,7 +618,7 @@ Kontrol: 54; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Exhuma (2024) 1080p CZ Titulky](https://prehraj.to/exhuma-2024-1080p-cz-titulky-mp4/c36f77206ad1e442) (ID 30526189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-09T20:29:56.441696+00:00 |
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-09T20:29:56.430284+00:00 |
 | [Exit 8 (2025) 1080p CZ Titulky](https://prehraj.to/exit-8-2025-1080p-cz-titulky-mkv/1e1b86c2c83b2bca) (ID 30581157) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-09T20:29:56.442448+00:00 |
-| [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-02T19:32:52.911292+00:00 |
+| [Explózia (1982) 1080p CZ Titulky](https://prehraj.to/explozia-1982-1080p-cz-titulky-mkv/4cafe2e1cfa0dd0b) (ID 29314306) | [Sdílej 31367729](https://sdilej.cz/31367729/explozia-1982-hdtv-1080i.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-09T20:32:07.599980+00:00 |
 | [Extraterrestrial (2014) 720p CZ Titulky](https://prehraj.to/extraterrestrial-2014-720p-cz-titulky-mkv/78ce759ddab7ca46) (ID 30410520) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-09T20:29:56.440019+00:00 |
 | [Eye for an Eye (2022) 720p CZ Titulky](https://prehraj.to/eye-for-an-eye-2022-720p-cz-titulky-mp4/9cbd587088b02ba8) (ID 30101219) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-09T20:29:56.433453+00:00 |
 | [F.R.E.D.I. (2018) 720p CZ Titulky](https://prehraj.to/f-r-e-d-i-2018-720p-cz-titulky-mp4/a919152a57d11685) (ID 29528318) | [Sdílej 34716635](https://sdilej.cz/34716635/f.r.e.d.i.-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:45:51.554418+00:00 |
