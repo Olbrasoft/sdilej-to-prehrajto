@@ -144123,13 +144123,6 @@
           "permanent": false,
           "source_id": "17930910",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T14:58:17.969259+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "17930910",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T20:37:33.227664+00:00"
         },
         {
@@ -144138,18 +144131,20 @@
           "source_id": "17930910",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:55:57.110627+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "17930910",
+          "target_video_id": "30953480",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T20:27:33.790567+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17930910",
         "display_name": "Le temps d'Anna (2016) 1080p SK Dabing",
         "planned_at": "2026-11-09T20:00:32.676970+00:00"
-      },
-      "claim": {
-        "worker_id": "5473e5b5049a4db7a53f7232d4a6e818-shard-0",
-        "claimed_at": "2026-11-09T20:16:05.124473+00:00",
-        "lease_expires_at": "2026-11-10T02:16:05.124473+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30953480",
       "prepared": {
@@ -442187,5 +442182,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T20:16:09.172984+00:00"
+  "updated_at": "2026-11-09T20:27:33.790586+00:00"
 }
