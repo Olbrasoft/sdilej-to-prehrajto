@@ -122091,13 +122091,6 @@
           "permanent": false,
           "source_id": "35080468",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T19:30:12.011861+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35080468",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T18:41:36.917918+00:00"
         },
         {
@@ -122106,18 +122099,19 @@
           "source_id": "35080468",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T17:58:40.758819+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35080468",
+          "target_video_id": "30947587",
+          "permanent": false,
+          "attempted_at": "2026-11-09T15:10:33.891680+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35080468",
         "display_name": "Polská krev (1979) SD CZ Dabing",
         "planned_at": "2026-11-09T12:36:43.088938+00:00"
-      },
-      "claim": {
-        "worker_id": "c6c1d210461b496fb9451bc362cf93c9-shard-0",
-        "claimed_at": "2026-11-09T14:57:50.487405+00:00",
-        "lease_expires_at": "2026-11-09T20:57:50.487405+00:00",
-        "run_id": "42617042402"
       },
       "previous_target_id": "30947587",
       "prepared": {
@@ -441875,5 +441869,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T14:57:55.825749+00:00"
+  "updated_at": "2026-11-09T15:10:33.891697+00:00"
 }
