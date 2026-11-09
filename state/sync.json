@@ -428944,13 +428944,6 @@
           "permanent": false,
           "source_id": "35043955",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T18:52:32.243539+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35043955",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T18:39:31.281072+00:00"
         },
         {
@@ -428959,18 +428952,19 @@
           "source_id": "35043955",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T17:56:34.966874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35043955",
+          "target_video_id": "30946524",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:39:57.304561+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35043955",
         "display_name": "Ash (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-09T12:36:40.964216+00:00"
-      },
-      "claim": {
-        "worker_id": "c6c1d210461b496fb9451bc362cf93c9-shard-0",
-        "claimed_at": "2026-11-09T13:28:13.333455+00:00",
-        "lease_expires_at": "2026-11-09T19:28:13.333455+00:00",
-        "run_id": "42617042402"
       },
       "previous_target_id": "30946524",
       "prepared": {
@@ -441839,5 +441833,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T13:28:19.680829+00:00"
+  "updated_at": "2026-11-09T13:39:57.304582+00:00"
 }
