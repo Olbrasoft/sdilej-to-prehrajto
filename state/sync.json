@@ -399008,13 +399008,6 @@
           "permanent": false,
           "source_id": "28432333",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T22:01:09.711118+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28432333",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:41:15.023072+00:00"
         },
         {
@@ -399023,18 +399016,20 @@
           "source_id": "28432333",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:03:25.630702+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28432333",
+          "target_video_id": "30952169",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T18:56:32.600753+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28432333",
         "display_name": "Dvojitý úder (1992) SD CZ Dabing",
         "planned_at": "2026-11-09T18:16:40.169667+00:00"
-      },
-      "claim": {
-        "worker_id": "e1fffd83b3a4491b89f5f07baa804971-shard-0",
-        "claimed_at": "2026-11-09T18:51:50.294543+00:00",
-        "lease_expires_at": "2026-11-10T00:51:50.294543+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30952169",
       "prepared": {
@@ -442063,5 +442058,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T18:52:15.241039+00:00"
+  "updated_at": "2026-11-09T18:56:32.600772+00:00"
 }
