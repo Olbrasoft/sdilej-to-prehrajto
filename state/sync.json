@@ -48155,13 +48155,6 @@
           "permanent": false,
           "source_id": "34821361",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T20:41:36.764489+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34821361",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:01:20.620442+00:00"
         },
         {
@@ -48170,18 +48163,20 @@
           "source_id": "34821361",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T18:44:26.549485+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34821361",
+          "target_video_id": "30949957",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T17:48:53.328259+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34821361",
         "display_name": "Světla páteční noci (2004) 1080p CZ Titulky",
         "planned_at": "2026-11-09T12:36:54.306508+00:00"
-      },
-      "claim": {
-        "worker_id": "c6c1d210461b496fb9451bc362cf93c9-shard-0",
-        "claimed_at": "2026-11-09T17:14:32.037963+00:00",
-        "lease_expires_at": "2026-11-09T23:14:32.037963+00:00",
-        "run_id": "42617042402"
       },
       "previous_target_id": "30949957",
       "prepared": {
@@ -441920,5 +441915,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T17:14:37.400557+00:00"
+  "updated_at": "2026-11-09T17:48:53.328278+00:00"
 }
