@@ -315805,13 +315805,6 @@
           "permanent": false,
           "source_id": "14227014",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T20:54:45.595359+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "14227014",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:04:08.295449+00:00"
         },
         {
@@ -315820,18 +315813,20 @@
           "source_id": "14227014",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T18:47:14.317193+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "14227014",
+          "target_video_id": "30951576",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T18:28:18.668299+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14227014",
         "display_name": "Sebelum Iblis Menjemput (2018) 1080p CZ Titulky",
         "planned_at": "2026-11-09T18:16:27.715786+00:00"
-      },
-      "claim": {
-        "worker_id": "e1fffd83b3a4491b89f5f07baa804971-shard-0",
-        "claimed_at": "2026-11-09T18:21:31.393624+00:00",
-        "lease_expires_at": "2026-11-10T00:21:31.393624+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30951576",
       "prepared": {
@@ -441958,5 +441953,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T18:21:36.490698+00:00"
+  "updated_at": "2026-11-09T18:28:18.668318+00:00"
 }
