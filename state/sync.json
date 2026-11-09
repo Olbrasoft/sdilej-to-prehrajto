@@ -16673,18 +16673,20 @@
           "source_id": "32534985",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T20:37:23.358350+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32534985",
+          "target_video_id": "30953848",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T20:54:37.919265+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32534985",
         "display_name": "Ponyo z útesu nad mořem (2008) 1080p CZ Titulky",
         "planned_at": "2026-11-09T20:39:49.885607+00:00"
-      },
-      "claim": {
-        "worker_id": "e9d1cdb11e9e412a911f0a1d368f1032-shard-0",
-        "claimed_at": "2026-11-09T20:43:56.698803+00:00",
-        "lease_expires_at": "2026-11-10T02:43:56.698803+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30953848",
       "prepared": {
@@ -442264,5 +442266,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T20:44:21.637528+00:00"
+  "updated_at": "2026-11-09T20:54:37.919283+00:00"
 }
