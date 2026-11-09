@@ -207461,13 +207461,6 @@
           "permanent": false,
           "source_id": "34771966",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T16:51:57.174204+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34771966",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T13:52:32.100794+00:00"
         },
         {
@@ -207476,18 +207469,19 @@
           "reason": "Request failed for https://sdilej.cz/34771966/osudova-laska-2023-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-08T21:07:49.697612+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34771966",
+          "target_video_id": "30956629",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:40:38.314558+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34771966",
         "display_name": "Osudová láska (2023) 1080p SK Dabing",
         "planned_at": "2026-11-09T20:40:00.761713+00:00"
-      },
-      "claim": {
-        "worker_id": "e9d1cdb11e9e412a911f0a1d368f1032-shard-0",
-        "claimed_at": "2026-11-09T23:36:47.073406+00:00",
-        "lease_expires_at": "2026-11-10T05:36:47.073406+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30956629",
       "prepared": {
@@ -442576,5 +442570,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T23:36:51.358199+00:00"
+  "updated_at": "2026-11-09T23:40:38.314575+00:00"
 }
