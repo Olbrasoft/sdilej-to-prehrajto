@@ -441282,13 +441282,6 @@
           "permanent": false,
           "source_id": "35286089",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-06T18:54:16.656562+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35286089",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T18:41:15.975294+00:00"
         },
         {
@@ -441297,18 +441290,19 @@
           "source_id": "35286089",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T17:58:19.773375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35286089",
+          "target_video_id": "30947309",
+          "permanent": false,
+          "attempted_at": "2026-11-09T14:57:44.949489+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35286089",
         "display_name": "Unos (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-09T12:36:42.739612+00:00"
-      },
-      "claim": {
-        "worker_id": "c6c1d210461b496fb9451bc362cf93c9-shard-0",
-        "claimed_at": "2026-11-09T14:34:47.732773+00:00",
-        "lease_expires_at": "2026-11-09T20:34:47.732773+00:00",
-        "run_id": "42617042402"
       },
       "previous_target_id": "30947309",
       "prepared": {
@@ -441869,5 +441863,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T14:34:53.663241+00:00"
+  "updated_at": "2026-11-09T14:57:44.949507+00:00"
 }
