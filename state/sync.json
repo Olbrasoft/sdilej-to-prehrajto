@@ -127003,13 +127003,6 @@
           "permanent": false,
           "source_id": "35286913",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T14:49:55.783940+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35286913",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T20:03:24.251322+00:00"
         },
         {
@@ -127018,18 +127011,20 @@
           "source_id": "35286913",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:49:23.586104+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35286913",
+          "target_video_id": "30953148",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-09T19:58:51.791592+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35286913",
         "display_name": "Jarní vody (1968) 1080p CZ Dabing",
         "planned_at": "2026-11-09T19:02:01.330379+00:00"
-      },
-      "claim": {
-        "worker_id": "be4aabf2ae1c43e1b428acfc51d8caf3-shard-0",
-        "claimed_at": "2026-11-09T19:48:14.727537+00:00",
-        "lease_expires_at": "2026-11-10T01:48:14.727537+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30953148",
       "prepared": {
@@ -442174,5 +442169,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T19:48:38.744970+00:00"
+  "updated_at": "2026-11-09T19:58:51.791611+00:00"
 }
