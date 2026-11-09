@@ -123627,13 +123627,6 @@
           "permanent": false,
           "source_id": "29186186",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T14:35:16.954416+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29186186",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-07T19:52:44.073400+00:00"
         },
         {
@@ -123642,18 +123635,19 @@
           "source_id": "29186186",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:38:14.277182+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29186186",
+          "target_video_id": "30952755",
+          "permanent": false,
+          "attempted_at": "2026-11-09T19:27:10.509918+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29186186",
         "display_name": "Past (1950) SD CZ Dabing",
         "planned_at": "2026-11-09T19:01:48.904218+00:00"
-      },
-      "claim": {
-        "worker_id": "be4aabf2ae1c43e1b428acfc51d8caf3-shard-0",
-        "claimed_at": "2026-11-09T19:24:48.018587+00:00",
-        "lease_expires_at": "2026-11-10T01:24:48.018587+00:00",
-        "run_id": "42663553444"
       },
       "previous_target_id": "30952755",
       "prepared": {
@@ -442119,5 +442113,5 @@
       }
     }
   },
-  "updated_at": "2026-11-09T19:24:56.974437+00:00"
+  "updated_at": "2026-11-09T19:27:10.509938+00:00"
 }
