@@ -250347,6 +250347,14 @@
           "target_video_id": "30900320",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-07T23:03:23.359844+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "31916798",
+          "target_video_id": "30900320",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:20:35.612772+00:00"
         }
       ],
       "last_plan": {
@@ -250354,12 +250362,7 @@
         "display_name": "Galerie zlomených srdcí (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-10T22:17:09.589827+00:00"
       },
-      "previous_target_id": "30900320",
-      "prepared": {
-        "target_video_id": "30900320",
-        "size_bytes": 7050438988,
-        "prepared_at": "2026-11-07T22:38:23.514912+00:00"
-      }
+      "previous_target_id": "30900320"
     },
     "16000": {
       "attempts": [],
@@ -443326,5 +443329,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T22:20:29.252101+00:00"
+  "updated_at": "2026-11-10T22:20:35.612790+00:00"
 }
