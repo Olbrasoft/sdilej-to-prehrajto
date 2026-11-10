@@ -389466,13 +389466,6 @@
     "10103": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29720612",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:45:32.355710+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29720612",
           "reason": "Source detail has no authenticated download link; source_id=29720612",
@@ -389486,6 +389479,13 @@
           "target_video_id": "30984566",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-10T16:54:39.607195+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29720612",
+          "target_video_id": "30984566",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:17:45.582116+00:00"
         }
       ],
       "last_plan": {
@@ -441244,5 +441244,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T23:17:38.443647+00:00"
+  "updated_at": "2026-11-10T23:17:45.582132+00:00"
 }
