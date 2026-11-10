@@ -400428,13 +400428,6 @@
     "9870": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "22900604",
-          "reason": "Source detail has no authenticated download link; source_id=22900604",
-          "permanent": false,
-          "attempted_at": "2026-11-10T09:31:47.295835+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "22900604",
@@ -400447,18 +400440,19 @@
           "reason": "Request failed for https://sdilej.cz/22900604/deus-the-dark-sphere-webrip-hd-cz-titulky-2022.avi (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-10T17:40:59.124397+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22900604",
+          "target_video_id": "30984946",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:16:39.427140+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22900604",
         "display_name": "Deus (2022) 1080p CZ Titulky",
         "planned_at": "2026-11-10T18:15:31.691250+00:00"
-      },
-      "claim": {
-        "worker_id": "2cc269a529a64735a7c7f6d7e052750a-shard-0",
-        "claimed_at": "2026-11-10T18:15:52.396993+00:00",
-        "lease_expires_at": "2026-11-11T00:15:52.396993+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984946",
       "prepared": {
@@ -444000,5 +443994,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T18:15:56.361265+00:00"
+  "updated_at": "2026-11-10T18:16:39.427158+00:00"
 }
