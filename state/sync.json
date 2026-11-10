@@ -20431,13 +20431,6 @@
           "permanent": false,
           "source_id": "30408223",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-08T20:38:04.857476+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "30408223",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T20:55:26.366278+00:00"
         },
         {
@@ -20446,18 +20439,19 @@
           "reason": "Request failed for https://sdilej.cz/30408223/silvestr-1978-silvestr-hravy-a-dravy-1978-1080p-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-10T16:30:25.812966+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30408223",
+          "target_video_id": "30984625",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:08:23.845230+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30408223",
         "display_name": "Silvestr 1978 (1978) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:05:27.728250+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:07:32.980308+00:00",
-        "lease_expires_at": "2026-11-10T23:07:32.980308+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984625",
       "prepared": {
@@ -443757,5 +443751,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:07:38.552954+00:00"
+  "updated_at": "2026-11-10T17:08:23.845250+00:00"
 }
