@@ -124413,13 +124413,6 @@
           "permanent": false,
           "source_id": "31648494",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T19:53:25.778338+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31648494",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:38:55.710401+00:00"
         },
         {
@@ -124428,18 +124421,19 @@
           "source_id": "31648494",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T19:28:36.735896+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31648494",
+          "target_video_id": "30983258",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:57:36.218057+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31648494",
         "display_name": "Městečko na dlani (1942) 720p CZ Dabing",
         "planned_at": "2026-11-10T10:22:13.836078+00:00"
-      },
-      "claim": {
-        "worker_id": "e65c052465ae437b91209464cf23b410-shard-0",
-        "claimed_at": "2026-11-10T13:56:22.609154+00:00",
-        "lease_expires_at": "2026-11-10T19:56:22.609154+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30983258",
       "prepared": {
@@ -443199,5 +443193,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T13:56:26.825568+00:00"
+  "updated_at": "2026-11-10T13:57:36.218074+00:00"
 }
