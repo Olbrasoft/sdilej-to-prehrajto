@@ -387733,13 +387733,6 @@
     "23070": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28104418",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:44:50.241539+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "28104418",
           "reason": "Source detail has no authenticated download link; source_id=28104418",
@@ -387752,18 +387745,19 @@
           "source_id": "28104418",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:49:07.784743+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28104418",
+          "target_video_id": "30984686",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:18:39.457419+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28104418",
         "display_name": "Mistr loutkář (1989) SD CZ Dabing",
         "planned_at": "2026-11-10T17:05:32.725484+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:17:54.308849+00:00",
-        "lease_expires_at": "2026-11-10T23:17:54.308849+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984686",
       "prepared": {
@@ -443823,5 +443817,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:17:59.067375+00:00"
+  "updated_at": "2026-11-10T17:18:39.457437+00:00"
 }
