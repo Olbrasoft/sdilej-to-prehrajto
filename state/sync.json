@@ -235535,6 +235535,14 @@
           "target_video_id": "30920623",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-08T15:37:05.478303+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34909172",
+          "target_video_id": "30920623",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:29:02.631325+00:00"
         }
       ],
       "last_plan": {
@@ -235542,12 +235550,7 @@
         "display_name": "Cloud クラウド (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-10T22:25:57.266382+00:00"
       },
-      "previous_target_id": "30920623",
-      "prepared": {
-        "target_video_id": "30920623",
-        "size_bytes": 3471632147,
-        "prepared_at": "2026-11-08T15:24:54.882119+00:00"
-      }
+      "previous_target_id": "30920623"
     },
     "4029": {
       "attempts": [
@@ -442826,5 +442829,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T22:28:56.703579+00:00"
+  "updated_at": "2026-11-10T22:29:02.631342+00:00"
 }
