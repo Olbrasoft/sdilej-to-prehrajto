@@ -296205,13 +296205,6 @@
     "27672": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "29700196",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T17:50:22.769123+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "29700196",
           "reason": "Request failed for https://sdilej.cz/29700196/tajemstvi-westerplatte-tajemnica-westerplatte-2013-czt-valecny-a-v.mkv (HTTP 522)",
@@ -296224,18 +296217,19 @@
           "source_id": "29700196",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:40:08.023173+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29700196",
+          "target_video_id": "30984628",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:09:38.495945+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29700196",
         "display_name": "Tajemnica Westerplatte (2013) SD CZ Titulky",
         "planned_at": "2026-11-10T17:05:28.206570+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:08:27.837141+00:00",
-        "lease_expires_at": "2026-11-10T23:08:27.837141+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984628",
       "prepared": {
@@ -443763,5 +443757,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:08:31.615653+00:00"
+  "updated_at": "2026-11-10T17:09:38.495964+00:00"
 }
