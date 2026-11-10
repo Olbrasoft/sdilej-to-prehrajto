@@ -180318,13 +180318,6 @@
     "20362": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35004172",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:48:41.387235+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "35004172",
           "reason": "Source detail has no authenticated download link; source_id=35004172",
@@ -180337,18 +180330,19 @@
           "source_id": "35004172",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:58:38.933197+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35004172",
+          "target_video_id": "30984736",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:29:15.184229+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35004172",
         "display_name": "Together (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:05:36.474714+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:28:32.468984+00:00",
-        "lease_expires_at": "2026-11-10T23:28:32.468984+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984736",
       "prepared": {
@@ -443877,5 +443871,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:28:36.516681+00:00"
+  "updated_at": "2026-11-10T17:29:15.184247+00:00"
 }
