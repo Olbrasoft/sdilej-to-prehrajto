@@ -403691,13 +403691,6 @@
           "permanent": false,
           "source_id": "16587122",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T19:42:17.771315+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "16587122",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:04:27.781776+00:00"
         },
         {
@@ -403706,18 +403699,19 @@
           "source_id": "16587122",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T18:57:38.358436+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16587122",
+          "target_video_id": "30976214",
+          "permanent": false,
+          "attempted_at": "2026-11-10T11:10:28.182857+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16587122",
         "display_name": "The Banishing (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-10T10:22:05.547841+00:00"
-      },
-      "claim": {
-        "worker_id": "e65c052465ae437b91209464cf23b410-shard-0",
-        "claimed_at": "2026-11-10T10:53:45.405070+00:00",
-        "lease_expires_at": "2026-11-10T16:53:45.405070+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30976214",
       "prepared": {
@@ -443060,5 +443054,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T10:53:49.664999+00:00"
+  "updated_at": "2026-11-10T11:10:28.182875+00:00"
 }
