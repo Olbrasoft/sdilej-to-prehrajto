@@ -52887,13 +52887,6 @@
           "permanent": false,
           "source_id": "33925241",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T20:59:07.426364+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33925241",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T20:30:49.144767+00:00"
         },
         {
@@ -52902,18 +52895,19 @@
           "source_id": "33925241",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T20:37:01.107701+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33925241",
+          "target_video_id": "30984077",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:25:14.442409+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33925241",
         "display_name": "Resurrection (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-10T14:37:31.657361+00:00"
-      },
-      "claim": {
-        "worker_id": "9283a4dd73cc4e58b272c89e947ddd33-shard-0",
-        "claimed_at": "2026-11-10T15:24:30.171154+00:00",
-        "lease_expires_at": "2026-11-10T21:24:30.171154+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30984077",
       "prepared": {
@@ -443611,5 +443605,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T15:24:34.461547+00:00"
+  "updated_at": "2026-11-10T15:25:14.442426+00:00"
 }
