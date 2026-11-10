@@ -91764,13 +91764,6 @@
           "permanent": false,
           "source_id": "31670445",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T19:45:04.643142+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "31670445",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:23:42.298965+00:00"
         },
         {
@@ -91779,18 +91772,19 @@
           "source_id": "31670445",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T18:59:23.169478+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31670445",
+          "target_video_id": "30977752",
+          "permanent": false,
+          "attempted_at": "2026-11-10T11:44:39.773771+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31670445",
         "display_name": "Vermiglio (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-10T10:22:07.393596+00:00"
-      },
-      "claim": {
-        "worker_id": "e65c052465ae437b91209464cf23b410-shard-0",
-        "claimed_at": "2026-11-10T11:34:53.758560+00:00",
-        "lease_expires_at": "2026-11-10T17:34:53.758560+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30977752",
       "prepared": {
@@ -443090,5 +443084,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T11:34:58.316206+00:00"
+  "updated_at": "2026-11-10T11:44:39.773789+00:00"
 }
