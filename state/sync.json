@@ -376125,13 +376125,6 @@
           "permanent": false,
           "source_id": "35372930",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-08T18:48:38.261244+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35372930",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T18:35:26.071090+00:00"
         },
         {
@@ -376140,18 +376133,20 @@
           "reason": "Source detail has no authenticated download link; source_id=35372930",
           "permanent": false,
           "attempted_at": "2026-11-10T09:29:27.792738+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35372930",
+          "target_video_id": "30984525",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-10T16:46:17.262246+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35372930",
         "display_name": "Plush (2013) 720p SK Dabing",
         "planned_at": "2026-11-10T16:12:27.601484+00:00"
-      },
-      "claim": {
-        "worker_id": "4b738ba2890547b5b5d7122f3b2bfa3e-shard-0",
-        "claimed_at": "2026-11-10T16:41:11.294405+00:00",
-        "lease_expires_at": "2026-11-10T22:41:11.294405+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984525",
       "prepared": {
@@ -443737,5 +443732,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T16:41:34.480910+00:00"
+  "updated_at": "2026-11-10T16:46:17.262264+00:00"
 }
