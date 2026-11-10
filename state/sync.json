@@ -14665,13 +14665,6 @@
           "permanent": false,
           "source_id": "34751105",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-08T20:37:02.603991+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34751105",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T20:43:56.290321+00:00"
         },
         {
@@ -14680,18 +14673,19 @@
           "reason": "Request failed for https://sdilej.cz/34751105/magadheera-2009-cz-titulky.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-10T16:19:48.926976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751105",
+          "target_video_id": "30984617",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:07:27.517464+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34751105",
         "display_name": "Magadheera (2009) SD CZ Titulky",
         "planned_at": "2026-11-10T17:05:27.311529+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:05:48.040785+00:00",
-        "lease_expires_at": "2026-11-10T23:05:48.040785+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984617",
       "prepared": {
@@ -443751,5 +443745,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:05:52.416432+00:00"
+  "updated_at": "2026-11-10T17:07:27.517484+00:00"
 }
