@@ -250979,13 +250979,6 @@
     "17189": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "13336049",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:49:23.444773+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "13336049",
           "reason": "Source detail has no authenticated download link; source_id=13336049",
@@ -250998,18 +250991,19 @@
           "source_id": "13336049",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:59:20.829326+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13336049",
+          "target_video_id": "30984741",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:31:16.126683+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13336049",
         "display_name": "Dědictví kostí (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-10T17:05:37.304331+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:30:32.406412+00:00",
-        "lease_expires_at": "2026-11-10T23:30:32.406412+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984741",
       "prepared": {
@@ -443889,5 +443883,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:30:36.235814+00:00"
+  "updated_at": "2026-11-10T17:31:16.126701+00:00"
 }
