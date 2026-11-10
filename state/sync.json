@@ -20290,13 +20290,6 @@
           "permanent": false,
           "source_id": "28624112",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T20:28:59.665784+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "28624112",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T14:58:12.029936+00:00"
         },
         {
@@ -20305,6 +20298,13 @@
           "source_id": "28624112",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T17:03:11.350282+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "28624112",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-10T17:45:51.220340+00:00"
         }
       ],
       "last_plan": {
@@ -24064,6 +24064,18 @@
         "source_id": "32445048",
         "display_name": "Victoria (2015) 1080p CZ Titulky",
         "planned_at": "2026-11-10T17:36:36.820633+00:00"
+      },
+      "claim": {
+        "worker_id": "3dd89145f74b4fc3a5c496a1103d95a8-shard-0",
+        "claimed_at": "2026-11-10T17:45:51.639538+00:00",
+        "lease_expires_at": "2026-11-10T23:45:51.639538+00:00",
+        "run_id": "42843244438"
+      },
+      "previous_target_id": "30984827",
+      "prepared": {
+        "target_video_id": "30984827",
+        "size_bytes": 3750543518,
+        "prepared_at": "2026-11-10T17:46:15.189502+00:00"
       }
     },
     "932": {
@@ -443944,5 +443956,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:45:27.763877+00:00"
+  "updated_at": "2026-11-10T17:46:15.189518+00:00"
 }
