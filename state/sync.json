@@ -3738,13 +3738,6 @@
     "185": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34933523",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:47:37.870789+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34933523",
           "reason": "Source detail has no authenticated download link; source_id=34933523",
@@ -3757,18 +3750,19 @@
           "source_id": "34933523",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:57:36.100464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34933523",
+          "target_video_id": "30984718",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:24:03.972214+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34933523",
         "display_name": "Nenávist (1995) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:05:35.242505+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:23:21.209585+00:00",
-        "lease_expires_at": "2026-11-10T23:23:21.209585+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984718",
       "prepared": {
@@ -443859,5 +443853,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:23:25.610750+00:00"
+  "updated_at": "2026-11-10T17:24:03.972232+00:00"
 }
