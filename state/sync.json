@@ -141235,13 +141235,6 @@
           "permanent": false,
           "source_id": "34788180",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T20:35:27.555437+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34788180",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:53:52.834804+00:00"
         },
         {
@@ -141250,18 +141243,19 @@
           "source_id": "34788180",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T20:04:14.525504+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788180",
+          "target_video_id": "30983805",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:51:14.365386+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34788180",
         "display_name": "Výšiny (1968) 1080p SK Dabing",
         "planned_at": "2026-11-10T14:37:20.389237+00:00"
-      },
-      "claim": {
-        "worker_id": "9283a4dd73cc4e58b272c89e947ddd33-shard-0",
-        "claimed_at": "2026-11-10T14:50:29.464343+00:00",
-        "lease_expires_at": "2026-11-10T20:50:29.464343+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30983805",
       "prepared": {
@@ -443466,5 +443460,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T14:50:33.804414+00:00"
+  "updated_at": "2026-11-10T14:51:14.365402+00:00"
 }
