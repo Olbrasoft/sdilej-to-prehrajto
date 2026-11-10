@@ -245570,13 +245570,6 @@
           "permanent": false,
           "source_id": "34283412",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T17:06:32.771633+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34283412",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T15:48:14.572099+00:00"
         },
         {
@@ -245585,18 +245578,19 @@
           "source_id": "34283412",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T22:04:35.349626+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34283412",
+          "target_video_id": "30959672",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:40:00.631080+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34283412",
         "display_name": "Coma (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-10T00:06:46.046456+00:00"
-      },
-      "claim": {
-        "worker_id": "6dbe52fff5a74b0bb487c526cdf63381-shard-0",
-        "claimed_at": "2026-11-10T02:31:43.129539+00:00",
-        "lease_expires_at": "2026-11-10T08:31:43.129539+00:00",
-        "run_id": "42719568981"
       },
       "previous_target_id": "30959672",
       "prepared": {
@@ -442824,5 +442818,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T02:31:47.270024+00:00"
+  "updated_at": "2026-11-10T02:40:00.631098+00:00"
 }
