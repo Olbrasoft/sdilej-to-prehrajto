@@ -274595,13 +274595,6 @@
     "24675": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34372802",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:50:47.049505+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34372802",
           "reason": "Source detail has no authenticated download link; source_id=34372802",
@@ -274614,18 +274607,19 @@
           "source_id": "34372802",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T17:00:44.662708+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34372802",
+          "target_video_id": "30984776",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:39:22.406618+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34372802",
         "display_name": "Ararat (2002) SD CZ Dabing",
         "planned_at": "2026-11-10T17:36:33.521944+00:00"
-      },
-      "claim": {
-        "worker_id": "3dd89145f74b4fc3a5c496a1103d95a8-shard-0",
-        "claimed_at": "2026-11-10T17:38:39.597103+00:00",
-        "lease_expires_at": "2026-11-10T23:38:39.597103+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984776",
       "prepared": {
@@ -443919,5 +443913,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:38:43.654383+00:00"
+  "updated_at": "2026-11-10T17:39:22.406637+00:00"
 }
