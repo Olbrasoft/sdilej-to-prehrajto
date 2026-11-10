@@ -373343,13 +373343,6 @@
     "30980": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34733772",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:35:05.143987+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34733772",
           "reason": "Source detail has no authenticated download link; source_id=34733772",
@@ -373362,18 +373355,19 @@
           "source_id": "34733772",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:41:10.876694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34733772",
+          "target_video_id": "30984642",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:12:31.450000+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34733772",
         "display_name": "The Great War (2019) 720p CZ Titulky",
         "planned_at": "2026-11-10T17:05:29.439112+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:11:48.596783+00:00",
-        "lease_expires_at": "2026-11-10T23:11:48.596783+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984642",
       "prepared": {
@@ -443781,5 +443775,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:11:52.292942+00:00"
+  "updated_at": "2026-11-10T17:12:31.450017+00:00"
 }
