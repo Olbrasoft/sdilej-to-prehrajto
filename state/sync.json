@@ -270587,13 +270587,6 @@
     "17302": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34756823",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:50:26.156010+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34756823",
           "reason": "Source detail has no authenticated download link; source_id=34756823",
@@ -270606,18 +270599,19 @@
           "source_id": "34756823",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T17:00:23.692469+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34756823",
+          "target_video_id": "30984752",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:34:40.238448+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34756823",
         "display_name": "Christmas Perfection (2018) 1080p SK Dabing",
         "planned_at": "2026-11-10T17:05:38.538236+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:33:57.276192+00:00",
-        "lease_expires_at": "2026-11-10T23:33:57.276192+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984752",
       "prepared": {
@@ -443907,5 +443901,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:34:00.934171+00:00"
+  "updated_at": "2026-11-10T17:34:40.238466+00:00"
 }
