@@ -399051,13 +399051,6 @@
     "33080": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12117524",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:46:56.097254+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "12117524",
           "reason": "Source detail has no authenticated download link; source_id=12117524",
@@ -399070,18 +399063,19 @@
           "reason": "Request failed for https://sdilej.cz/12117524/mute.2018.1080p.nf.webrip.dd5.1.x264-ntb.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-10T16:56:51.479719+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12117524",
+          "target_video_id": "30984761",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:38:36.105550+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12117524",
         "display_name": "Mute (2018) 1080p CZ Titulky",
         "planned_at": "2026-11-10T17:36:33.107229+00:00"
-      },
-      "claim": {
-        "worker_id": "3dd89145f74b4fc3a5c496a1103d95a8-shard-0",
-        "claimed_at": "2026-11-10T17:36:53.582575+00:00",
-        "lease_expires_at": "2026-11-10T23:36:53.582575+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984761",
       "prepared": {
@@ -443913,5 +443907,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:36:58.915698+00:00"
+  "updated_at": "2026-11-10T17:38:36.105569+00:00"
 }
