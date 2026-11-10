@@ -126024,13 +126024,6 @@
           "permanent": false,
           "source_id": "27909373",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T19:56:46.898760+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27909373",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:42:49.594416+00:00"
         },
         {
@@ -126039,18 +126032,19 @@
           "source_id": "27909373",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T19:32:06.263418+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27909373",
+          "target_video_id": "30983519",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:16:12.964846+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27909373",
         "display_name": "Vražda po našem (1967) SD CZ Dabing",
         "planned_at": "2026-11-10T10:22:17.522742+00:00"
-      },
-      "claim": {
-        "worker_id": "e65c052465ae437b91209464cf23b410-shard-0",
-        "claimed_at": "2026-11-10T14:14:52.719573+00:00",
-        "lease_expires_at": "2026-11-10T20:14:52.719573+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30983519",
       "prepared": {
@@ -443273,5 +443267,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T14:14:57.245279+00:00"
+  "updated_at": "2026-11-10T14:16:12.964865+00:00"
 }
