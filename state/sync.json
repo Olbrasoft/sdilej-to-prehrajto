@@ -211613,13 +211613,6 @@
           "permanent": false,
           "source_id": "34904039",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T16:53:00.030619+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34904039",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T13:53:35.081385+00:00"
         },
         {
@@ -211628,6 +211621,13 @@
           "target_video_id": "30926008",
           "permanent": false,
           "attempted_at": "2026-11-08T21:22:14.951312+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34904039",
+          "target_video_id": "30926008",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:32:19.853557+00:00"
         }
       ],
       "last_plan": {
@@ -223269,16 +223269,10 @@
           "attempted_at": "2026-11-08T21:24:09.977062+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32070658",
-        "display_name": "Smrt pistolníka (1969) SD CZ Dabing",
-        "planned_at": "2026-11-10T22:30:25.211474+00:00"
-      },
       "previous_target_id": "30926071",
-      "prepared": {
+      "upload": {
         "target_video_id": "30926071",
-        "size_bytes": 1408106548,
-        "prepared_at": "2026-11-08T21:22:21.537416+00:00"
+        "uploaded_at": "2026-11-10T22:32:21.903110+00:00"
       }
     },
     "15513": {
@@ -442651,5 +442645,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T22:32:13.669004+00:00"
+  "updated_at": "2026-11-10T22:32:21.903126+00:00"
 }
