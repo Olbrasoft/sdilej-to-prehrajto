@@ -399855,13 +399855,6 @@
     "14673": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "25532478",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:47:16.982062+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "25532478",
           "reason": "Source detail has no authenticated download link; source_id=25532478",
@@ -399874,18 +399867,19 @@
           "source_id": "25532478",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T16:57:15.161408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25532478",
+          "target_video_id": "30984706",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:23:18.109841+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25532478",
         "display_name": "The Ward (2010) SD CZ Titulky",
         "planned_at": "2026-11-10T17:05:34.828972+00:00"
-      },
-      "claim": {
-        "worker_id": "882385cfce5d4b77945d947bddf9dea7-shard-0",
-        "claimed_at": "2026-11-10T17:22:33.955936+00:00",
-        "lease_expires_at": "2026-11-10T23:22:33.955936+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984706",
       "prepared": {
@@ -443853,5 +443847,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:22:38.893642+00:00"
+  "updated_at": "2026-11-10T17:23:18.109857+00:00"
 }
