@@ -241912,13 +241912,6 @@
           "permanent": false,
           "source_id": "34177286",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T18:35:20.053102+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34177286",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T17:52:23.378822+00:00"
         },
         {
@@ -241927,6 +241920,14 @@
           "target_video_id": "30943724",
           "permanent": false,
           "attempted_at": "2026-11-09T10:50:46.288445+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "34177286",
+          "target_video_id": "30943724",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:43:49.512815+00:00"
         }
       ],
       "last_plan": {
@@ -241934,12 +241935,7 @@
         "display_name": "Mimoni 2: Padouch přichází (2022) 4K CZ Dabing",
         "planned_at": "2026-11-10T22:41:43.582715+00:00"
       },
-      "previous_target_id": "30943724",
-      "prepared": {
-        "target_video_id": "30943724",
-        "size_bytes": 4559150391,
-        "prepared_at": "2026-11-09T10:38:10.466761+00:00"
-      }
+      "previous_target_id": "30943724"
     },
     "4183": {
       "attempts": [
@@ -442093,5 +442089,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T22:43:42.995850+00:00"
+  "updated_at": "2026-11-10T22:43:49.512834+00:00"
 }
