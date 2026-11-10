@@ -275552,13 +275552,6 @@
           "permanent": false,
           "source_id": "34771031",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T17:47:49.181984+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34771031",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T15:56:57.140927+00:00"
         },
         {
@@ -275567,18 +275560,19 @@
           "reason": "Request failed for https://sdilej.cz/34771031/savage-hunt-2025-.mp4 (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-08T22:19:39.640998+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34771031",
+          "target_video_id": "30960032",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:53:49.687999+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34771031",
         "display_name": "Savage Hunt (2025) 720p CZ Titulky",
         "planned_at": "2026-11-10T00:06:46.541089+00:00"
-      },
-      "claim": {
-        "worker_id": "6dbe52fff5a74b0bb487c526cdf63381-shard-0",
-        "claimed_at": "2026-11-10T02:48:00.829547+00:00",
-        "lease_expires_at": "2026-11-10T08:48:00.829547+00:00",
-        "run_id": "42719568981"
       },
       "previous_target_id": "30960032",
       "prepared": {
@@ -442836,5 +442830,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T02:48:05.026032+00:00"
+  "updated_at": "2026-11-10T02:53:49.688017+00:00"
 }
