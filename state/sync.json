@@ -136262,13 +136262,6 @@
           "permanent": false,
           "source_id": "33436521",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-07T20:04:47.890762+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "33436521",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-08T19:50:46.412750+00:00"
         },
         {
@@ -136277,18 +136270,19 @@
           "source_id": "33436521",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T20:01:06.073017+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33436521",
+          "target_video_id": "30983749",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:43:37.058325+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33436521",
         "display_name": "Velké trápení (1975) SD CZ Dabing",
         "planned_at": "2026-11-10T14:37:17.112226+00:00"
-      },
-      "claim": {
-        "worker_id": "9283a4dd73cc4e58b272c89e947ddd33-shard-0",
-        "claimed_at": "2026-11-10T14:42:24.648136+00:00",
-        "lease_expires_at": "2026-11-10T20:42:24.648136+00:00",
-        "run_id": "42798325436"
       },
       "previous_target_id": "30983749",
       "prepared": {
@@ -443412,5 +443406,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T14:42:29.107897+00:00"
+  "updated_at": "2026-11-10T14:43:37.058342+00:00"
 }
