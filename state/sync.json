@@ -426791,13 +426791,6 @@
     "19217": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "34799030",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-09T18:51:28.824257+00:00"
-        },
-        {
           "status": "source_refresh_failed",
           "source_id": "34799030",
           "reason": "Source detail has no authenticated download link; source_id=34799030",
@@ -426810,18 +426803,19 @@
           "source_id": "34799030",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-10T17:01:26.568683+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34799030",
+          "target_video_id": "30984790",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:40:54.735521+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34799030",
         "display_name": "Baaghi 2 (2018) 1080p CZ Titulky",
         "planned_at": "2026-11-10T17:36:34.367241+00:00"
-      },
-      "claim": {
-        "worker_id": "3dd89145f74b4fc3a5c496a1103d95a8-shard-0",
-        "claimed_at": "2026-11-10T17:40:11.627692+00:00",
-        "lease_expires_at": "2026-11-10T23:40:11.627692+00:00",
-        "run_id": "42843244438"
       },
       "previous_target_id": "30984790",
       "prepared": {
@@ -443931,5 +443925,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T17:40:15.661855+00:00"
+  "updated_at": "2026-11-10T17:40:54.735540+00:00"
 }
