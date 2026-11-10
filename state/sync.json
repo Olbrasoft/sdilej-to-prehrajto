@@ -125031,13 +125031,6 @@
           "permanent": false,
           "source_id": "35124356",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-08T18:44:47.508841+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "35124356",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-09T17:49:20.119254+00:00"
         },
         {
@@ -125046,6 +125039,13 @@
           "target_video_id": "30973173",
           "permanent": false,
           "attempted_at": "2026-11-10T09:26:36.949959+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35124356",
+          "target_video_id": "30973173",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:07:40.678332+00:00"
         }
       ],
       "last_plan": {
@@ -400700,16 +400700,10 @@
           "attempted_at": "2026-11-10T10:35:10.464113+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35002660",
-        "display_name": "Shortcut (2020) 1080p CZ Titulky",
-        "planned_at": "2026-11-10T22:55:57.398815+00:00"
-      },
       "previous_target_id": "30975137",
-      "prepared": {
+      "upload": {
         "target_video_id": "30975137",
-        "size_bytes": 3160099150,
-        "prepared_at": "2026-11-10T10:22:27.367951+00:00"
+        "uploaded_at": "2026-11-10T23:07:42.519283+00:00"
       }
     },
     "35754": {
@@ -441345,5 +441339,5 @@
       }
     }
   },
-  "updated_at": "2026-11-10T23:07:30.813441+00:00"
+  "updated_at": "2026-11-10T23:07:42.519298+00:00"
 }
