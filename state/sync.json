@@ -140003,13 +140003,6 @@
           "source_id": "35174211",
           "reason": "Source detail has no authenticated download link; source_id=35174211",
           "permanent": false,
-          "attempted_at": "2026-11-05T12:52:04.421434+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "35174211",
-          "reason": "Source detail has no authenticated download link; source_id=35174211",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:41:45.854508+00:00"
         },
         {
@@ -140018,18 +140011,20 @@
           "source_id": "35291987",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-11T19:30:49.119673+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35291987",
+          "target_video_id": "30993693",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-11T20:43:14.232412+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35291987",
         "display_name": "Někdo to rád v Plzni (2026) 1080p CZ Dabing",
         "planned_at": "2026-11-11T20:09:26.849297+00:00"
-      },
-      "claim": {
-        "worker_id": "c097450cd4ee40b3b287e89a44445229-shard-0",
-        "claimed_at": "2026-11-11T20:22:48.210057+00:00",
-        "lease_expires_at": "2026-11-12T02:22:48.210057+00:00",
-        "run_id": "43086244832"
       },
       "previous_target_id": "30993693",
       "prepared": {
@@ -441476,5 +441471,5 @@
       }
     }
   },
-  "updated_at": "2026-11-11T20:22:51.650990+00:00"
+  "updated_at": "2026-11-11T20:43:14.232432+00:00"
 }
