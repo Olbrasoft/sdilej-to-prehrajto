@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T06:34:00.834026+00:00
+Poslední aktualizace (UTC): 2026-11-11T06:34:04.310397+00:00
 
 Zkontrolováno videí: 3130. Další stránka kontroly: 0.
 
@@ -2185,7 +2185,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Thing About Harry (2020) 1080p CZ Titulky](https://prehraj.to/the-thing-about-harry-2020-1080p-cz-titulky-mp4/7341127c06376772) (ID 29312064) | [Sdílej 34731938](https://sdilej.cz/34731938/the-thing-about-harry-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:30:09.756317+00:00 |
 | [The Thinning (2016) 720p CZ Titulky](https://prehraj.to/the-thinning-2016-720p-cz-titulky-mkv/05d1529cf2e7249f) (ID 30372039) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-11T06:33:46.533908+00:00 |
 | [The Thinning: New World Order (2018) 720p CZ Titulky](https://prehraj.to/the-thinning-new-world-order-2018-720p-cz-titulky-mkv/42e2842ce41af980) (ID 30390971) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-11T06:33:46.534077+00:00 |
-| [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-11T04:35:03.413847+00:00 |
+| [The Tiger's Apprentice (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29014670) | [Sdílej 31010185](https://sdilej.cz/31010185/the.tiger-s.apprentice.web-dl.en.5.1.titulky.cz.sk.2024.1080p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-11T06:34:04.310319+00:00 |
 | [The Timber (2015) 1080p CZ Titulky](https://prehraj.to/the-timber-2015-1080p-cz-titulky-mkv/06127d5d1a067ce2) (ID 29708325) | [Sdílej 6773323](https://sdilej.cz/6773323/the-timber.2015.1080p.bluray.h264.aac-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:52.663398+00:00 |
 | [The Titan (2018) 1080p CZ Titulky](https://prehraj.to/the-titan-2018-1080p-cz-titulky-mkv/2b3f9ccfa5221b19) (ID 30634227) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-11T06:33:46.535987+00:00 |
 | [The Tunnel (2011) 720p CZ Titulky](https://prehraj.to/the-tunnel-2011-720p-cz-titulky-avi/e965e218fcb71e32) (ID 30972696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-11T06:33:46.538657+00:00 |
