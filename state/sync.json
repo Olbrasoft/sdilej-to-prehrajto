@@ -139996,13 +139996,6 @@
           "source_id": "35174211",
           "reason": "Source detail has no authenticated download link; source_id=35174211",
           "permanent": false,
-          "attempted_at": "2026-11-05T06:53:58.062495+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "35174211",
-          "reason": "Source detail has no authenticated download link; source_id=35174211",
-          "permanent": false,
           "attempted_at": "2026-11-05T12:52:04.421434+00:00"
         },
         {
@@ -140011,6 +140004,13 @@
           "reason": "Source detail has no authenticated download link; source_id=35174211",
           "permanent": false,
           "attempted_at": "2026-11-05T14:41:45.854508+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35291987",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T19:30:49.119673+00:00"
         }
       ],
       "last_plan": {
@@ -184405,13 +184405,6 @@
           "source_id": "25834193",
           "target_video_id": "29180229",
           "permanent": false,
-          "attempted_at": "2026-11-11T11:27:53.077410+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25834193",
-          "target_video_id": "29180229",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:29:07.210497+00:00"
         },
         {
@@ -184421,6 +184414,14 @@
           "target_video_id": "29180229",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-11T16:00:41.603574+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "25834193",
+          "target_video_id": "29180229",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-11T19:32:01.200154+00:00"
         }
       ],
       "last_plan": {
@@ -236329,7 +236330,15 @@
       }
     },
     "6802": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "30854254",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T19:30:28.242912+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30854254",
         "display_name": "Vynálezce (2023) 720p CZ Dabing",
@@ -441416,5 +441425,5 @@
       }
     }
   },
-  "updated_at": "2026-11-11T19:30:00.489752+00:00"
+  "updated_at": "2026-11-11T19:32:01.200172+00:00"
 }
