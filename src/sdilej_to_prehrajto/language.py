@@ -14,6 +14,10 @@ class LanguageDetectionError(RuntimeError):
     pass
 
 
+class AudioSampleError(LanguageDetectionError):
+    """The media endpoint could not supply a usable audio sample."""
+
+
 def _whisper_worker(connection: Connection, settings: dict[str, object]) -> None:
     """Keep Whisper isolated so a stuck native inference can be terminated."""
     try:
@@ -211,11 +215,11 @@ class WhisperLanguageDetector:
             except subprocess.TimeoutExpired:
                 # Discovery handles this as a failed candidate. Suppress the
                 # original exception, whose command contains a session URL.
-                raise LanguageDetectionError(
+                raise AudioSampleError(
                     f"ffmpeg audio sampling timed out after {ffmpeg_timeout} seconds"
                 ) from None
             if result.returncode != 0 or not sample.exists() or sample.stat().st_size == 0:
-                raise LanguageDetectionError("ffmpeg could not create an audio sample")
+                raise AudioSampleError("ffmpeg could not create an audio sample")
             language, probability = self._transcribe(sample)
             if not language:
                 raise LanguageDetectionError("Whisper returned no language")

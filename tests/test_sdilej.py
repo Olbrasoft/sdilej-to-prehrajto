@@ -2,7 +2,7 @@ import pytest
 import requests
 import traceback
 
-from sdilej_to_prehrajto.language import LanguageDetectionError
+from sdilej_to_prehrajto.language import AudioSampleError, LanguageDetectionError
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
@@ -218,6 +218,48 @@ class FakeDetector:
     def detect(self, url: str) -> tuple[str, float]:
         self.seen.append(url)
         return ("cs", 0.99) if "id=20" in url else ("en", 0.99)
+
+
+@pytest.mark.parametrize('original_confidence', [.99, .2])
+def test_broken_player_samples_original_and_retains_confidence_floor(original_confidence):
+    seen = []
+
+    class Detector:
+        def detect(self, url):
+            seen.append(url)
+            if 'stream2.' in url:
+                raise AudioSampleError('ffmpeg could not create an audio sample')
+            return 'cs', original_confidence
+
+    provider = SdilejProvider(FakeSession(), Detector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {})
+    film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
+    candidate = Candidate('20', 'https://sdilej.cz/20/film.mkv', 'Film (2000)', size_bytes=2_000_000_000)
+    if original_confidence < .65:
+        with pytest.raises(LanguageDetectionError, match='confidence is too low'):
+            provider._verify_candidate(film, candidate)
+    else:
+        result = provider._verify_candidate(film, candidate)
+        assert result.language_tier == LanguageTier.CZECH_AUDIO
+        assert result.sample_url == result.download_url
+    assert seen == ['https://stream2.sdilej.cz/sdilej_profi.php?id=20&stream=1',
+                    'https://data.sdilej.cz/sdilej_profi.php?id=20']
+
+
+def test_inference_failure_does_not_retry_another_media_endpoint():
+    seen = []
+
+    class Detector:
+        def detect(self, url):
+            seen.append(url)
+            raise LanguageDetectionError('Whisper inference timed out')
+
+    provider = SdilejProvider(FakeSession(), Detector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {})
+    with pytest.raises(LanguageDetectionError, match='inference timed out'):
+        provider._verify_candidate(Film(1, 'film', 'Film', None, 2000, 100, 'en'),
+                                   Candidate('20', 'https://sdilej.cz/20/film.mkv', 'Film (2000)', size_bytes=2_000_000_000))
+    assert len(seen) == 1
 
 
 def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:

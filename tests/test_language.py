@@ -6,6 +6,7 @@ import traceback
 import pytest
 
 from sdilej_to_prehrajto.language import (
+    AudioSampleError,
     LanguageDetectionError,
     WhisperLanguageDetector,
 )
@@ -91,7 +92,7 @@ def test_ffmpeg_timeout_is_recoverable_and_does_not_expose_session(monkeypatch):
     monkeypatch.delenv("WHISPER_FFMPEG_TIMEOUT_SECONDS", raising=False)
     detector = WhisperLanguageDetector(seconds=75)
     media_url = "https://source.example/video?session=private-token"
-    with pytest.raises(LanguageDetectionError, match="timed out after 120 seconds") as caught:
+    with pytest.raises(AudioSampleError, match="timed out after 120 seconds") as caught:
         detector.detect(media_url)
 
     diagnostic = "".join(traceback.format_exception(caught.value))

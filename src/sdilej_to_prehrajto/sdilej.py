@@ -24,7 +24,7 @@ from .ranking import (
     resolution_rank,
 )
 from .security import redact, safe_url
-from .language import LanguageDetectionError
+from .language import AudioSampleError, LanguageDetectionError
 
 
 BASE_URL = "https://sdilej.cz"
@@ -327,7 +327,17 @@ class SdilejProvider:
             return None
         if not quality_acceptable(detail):
             return None
-        language, probability = self.language_detector.detect(detail.sample_url)
+        try:
+            language, probability = self.language_detector.detect(detail.sample_url)
+        except AudioSampleError:
+            if not detail.download_url or detail.sample_url == detail.download_url:
+                raise
+            # A broken browser rendition does not invalidate the downloadable
+            # original. Keep the same bounded sampling and confidence checks.
+            print(f"source_audio_fallback film_id={film.cr_film_id} "
+                  f"source_id={candidate.source_id} endpoint=original", flush=True)
+            detail.sample_url = detail.download_url
+            language, probability = self.language_detector.detect(detail.sample_url)
         hint = audio_language_hint(detail.filename)
         low_confidence = probability < self.minimum_language_probability
         resampled = False
