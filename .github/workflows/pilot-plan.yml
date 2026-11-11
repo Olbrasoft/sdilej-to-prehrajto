@@ -41,10 +41,12 @@ jobs:
         with:
           path: ${{ env.HF_HOME }}
           key: whisper-small-${{ runner.os }}-v1
+      - name: Verify or install media runtime
+        timeout-minutes: 12
+        run: python3 scripts/ensure_media_runtime.py
       - name: Install runtime
+        timeout-minutes: 10
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
           pip install ".[whisper]"
       - name: Configure durable source checkpoints
         run: |

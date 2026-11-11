@@ -19,7 +19,7 @@ jobs:
 
   whisper-runtime:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
     env:
       HF_HOME: /tmp/huggingface
       WHISPER_CPU_THREADS: "1"
@@ -34,5 +34,9 @@ jobs:
         with:
           path: ${{ env.HF_HOME }}
           key: whisper-small-${{ runner.os }}-v1
+      - name: Verify or install media runtime
+        timeout-minutes: 12
+        run: python3 scripts/ensure_media_runtime.py
       - run: pip install ".[whisper]"
+        timeout-minutes: 10
       - run: python scripts/check_whisper_runtime.py

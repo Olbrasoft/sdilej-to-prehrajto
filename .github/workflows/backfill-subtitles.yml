@@ -39,12 +39,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install subtitle extraction runtime
+      - name: Verify or install media runtime
         timeout-minutes: 12
+        run: python3 scripts/ensure_media_runtime.py
+      - name: Install subtitle extraction runtime
+        timeout-minutes: 10
         run: |
-          sudo python3 scripts/configure_ubuntu_mirrors.py
-          sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 update
-          sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 install -y --no-install-recommends ffmpeg
           pip install .
       - name: Configure checkpoint author
         run: |
