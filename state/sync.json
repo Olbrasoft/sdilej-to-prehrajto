@@ -149866,13 +149866,6 @@
           "source_id": "35097266",
           "target_video_id": "30983935",
           "permanent": false,
-          "attempted_at": "2026-11-11T11:40:42.308500+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35097266",
-          "target_video_id": "30983935",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:37:26.783318+00:00"
         },
         {
@@ -149881,6 +149874,13 @@
           "target_video_id": "30983935",
           "permanent": false,
           "attempted_at": "2026-11-11T16:11:40.541138+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35097266",
+          "target_video_id": "30983935",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:02:27.871519+00:00"
         }
       ],
       "last_plan": {
@@ -151114,13 +151114,6 @@
           "source_id": "35433459",
           "target_video_id": "30983948",
           "permanent": false,
-          "attempted_at": "2026-11-11T11:40:46.574167+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35433459",
-          "target_video_id": "30983948",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:37:31.247034+00:00"
         },
         {
@@ -151129,6 +151122,14 @@
           "target_video_id": "30983948",
           "permanent": false,
           "attempted_at": "2026-11-11T16:11:44.616104+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35433459",
+          "target_video_id": "30983948",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-11T22:03:40.519849+00:00"
         }
       ],
       "last_plan": {
@@ -165258,7 +165259,15 @@
       }
     },
     "6796": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29716454",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T22:00:13.203800+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29716454",
         "display_name": "Zármutek (2023) 720p CZ Dabing",
@@ -198129,7 +198138,15 @@
       "attempts": []
     },
     "12605": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32145778",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T22:00:34.092290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32145778",
         "display_name": "Situace je vážná, nikoli však zoufalá (1976) 1080p CZ Dabing",
@@ -230034,7 +230051,15 @@
       "attempts": []
     },
     "12607": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "19714367",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T22:00:55.009840+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19714367",
         "display_name": "32. srpen na Zemi (1998) 1080p CZ Dabing",
@@ -237029,7 +237054,15 @@
       "attempts": []
     },
     "17486": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "31072107",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T22:01:15.909516+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31072107",
         "display_name": "Patsy Lee a strážci 5 království (2023) 1080p CZ Dabing",
@@ -441541,5 +441574,5 @@
       }
     }
   },
-  "updated_at": "2026-11-11T21:59:44.544510+00:00"
+  "updated_at": "2026-11-11T22:03:40.519869+00:00"
 }
