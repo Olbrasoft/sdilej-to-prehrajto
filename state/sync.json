@@ -339121,17 +339121,20 @@
       }
     },
     "9316": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32927222",
+          "target_video_id": "30992865",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-11T18:52:55.422750+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32927222",
         "display_name": "Touha (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-11T18:31:45.365903+00:00"
-      },
-      "claim": {
-        "worker_id": "4b62a56f61bc44e594a76990bf036fef-shard-0",
-        "claimed_at": "2026-11-11T18:32:03.807691+00:00",
-        "lease_expires_at": "2026-11-12T00:32:03.807691+00:00",
-        "run_id": "43037505304"
       },
       "previous_target_id": "30992865",
       "prepared": {
@@ -441379,5 +441382,5 @@
       }
     }
   },
-  "updated_at": "2026-11-11T18:32:09.962307+00:00"
+  "updated_at": "2026-11-11T18:52:55.422768+00:00"
 }
