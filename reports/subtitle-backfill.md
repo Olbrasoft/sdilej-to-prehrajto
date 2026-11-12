@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:50:22.419494+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:50:37.805557+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -947,7 +947,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [In the Grey (2026) 4K CZ Titulky](https://prehraj.to/in-the-grey-2026-4k-cz-titulky-mkv/8ea3447923a9f9d4) (ID 30299033) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.824832+00:00 |
 | [In the Trap (2019) SD CZ Titulky](https://prehraj.to/in-the-trap-2019-sd-cz-titulky-avi/176a356be83090e4) (ID 29646475) | [Sdílej 13633864](https://sdilej.cz/13633864/in.the.trap.2019.hdrip.xvid.ac3-evo.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:18:15.349180+00:00 |
 | [Incarnation (2022) 1080p CZ Titulky](https://prehraj.to/incarnation-2022-1080p-cz-titulky-mkv/fb41f6c527202ea5) (ID 30633216) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827771+00:00 |
-| [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:44:35.591841+00:00 |
+| [Indian Horse (2017) SD CZ Titulky](https://prehraj.to/indian-horse-2017-sd-cz-titulky-avi/c70366bf1cc2a43f) (ID 29212639) | [Sdílej 10726588](https://sdilej.cz/10726588/indian-horse-2017-cz-titulky-bluray-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:50:37.805437+00:00 |
 | [Infección (2019) SD CZ Titulky](https://prehraj.to/infeccion-2019-sd-cz-titulky-mp4/c4375e33831fab58) (ID 30930350) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831252+00:00 |
 | [Influencer (2022) 1080p CZ Titulky](https://prehraj.to/influencer-2022-1080p-cz-titulky-mp4/57384e4efbd1dad0) (ID 30484875) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.826665+00:00 |
 | [Influencers (2025) 1080p CZ Titulky](https://prehraj.to/influencers-2025-1080p-cz-titulky-mp4/a8a8a88edb523208) (ID 30340147) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.825064+00:00 |
