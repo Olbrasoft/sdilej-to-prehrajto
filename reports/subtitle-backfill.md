@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:40:35.452145+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:40:46.378041+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -367,7 +367,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Christmas in Tune (2021) 1080p CZ Titulky](https://prehraj.to/christmas-in-tune-2021-1080p-cz-titulky-mp4/e09325e7e40da953) (ID 29256609) | [Sdílej 34773020](https://sdilej.cz/34773020/christmas-in-tune-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:49.154938+00:00 |
 | [Chuckyho kult (2017) 1080p CZ Titulky](https://prehraj.to/chuckyho-kult-2017-1080p-cz-titulky-mkv/be8b95f49425ab2e) (ID 30937957) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831611+00:00 |
 | [Chuckův život (2024) 4K CZ Titulky](https://prehraj.to/chuckuv-zivot-2024-4k-cz-titulky-mkv/8b725145c79404be) (ID 30026756) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.822321+00:00 |
-| [Chum (2026) 1080p CZ Titulky](https://prehraj.to/chum-2026-1080p-cz-titulky-mkv/f776d9ad1711e741) (ID 29088573) | [Sdílej 34473094](https://sdilej.cz/34473094/chum-2026-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:43.732448+00:00 |
+| [Chum (2026) 1080p CZ Titulky](https://prehraj.to/chum-2026-1080p-cz-titulky-mkv/f776d9ad1711e741) (ID 29088573) | [Sdílej 34473094](https://sdilej.cz/34473094/chum-2026-cz-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:40:46.377935+00:00 |
 | [Chuť třešní (1997) 1080p CZ Titulky](https://prehraj.to/chut-tresni-1997-1080p-cz-titulky-mkv/6af7ab6090aab3f0) (ID 30858319) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.829287+00:00 |
 | [Chyba v Matrixu (2021) 1080p CZ Titulky](https://prehraj.to/chyba-v-matrixu-2021-1080p-cz-titulky-mp4/38e549b6c8448b20) (ID 29650917) | [Sdílej 26322552](https://sdilej.cz/26322552/a-glitch-in-the-matrix-2021-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:22:24.853908+00:00 |
 | [Chůze. Jízda. Rodeo. (2019) 1080p CZ Titulky.mp4](https://prehraj.to/chuze-jizda-rodeo-2019-1080p-cz-titulky-mp4/58bcd1e626ea1b7d) (ID 30182737) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.824012+00:00 |
