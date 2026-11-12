@@ -431303,17 +431303,20 @@
       }
     },
     "31701": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32490798",
+          "target_video_id": "31004727",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-12T18:34:31.441011+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32490798",
         "display_name": "Megan Is Missing (2011) 1080p CZ Titulky",
         "planned_at": "2026-11-12T13:43:26.551384+00:00"
-      },
-      "claim": {
-        "worker_id": "1d0c345904dd41f987ea674b4f2d2a56-shard-0",
-        "claimed_at": "2026-11-12T18:03:41.477134+00:00",
-        "lease_expires_at": "2026-11-13T00:03:41.477134+00:00",
-        "run_id": "43226395657"
       },
       "previous_target_id": "31004727",
       "prepared": {
@@ -442949,5 +442952,5 @@
       }
     }
   },
-  "updated_at": "2026-11-12T18:03:45.963832+00:00"
+  "updated_at": "2026-11-12T18:34:31.441031+00:00"
 }
