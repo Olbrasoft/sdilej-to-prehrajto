@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:40:30.247538+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:40:35.452145+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 844, `source_media_timeout`: 1, `source_provenance_missing`: 1564, `source_unavailable`: 16, `target_detail_url_missing`: 16, `target_unavailable`: 22
+Stavy: `already_has_czech`: 527, `attached_verified`: 23, `existing_tracks_uncertain`: 116, `source_czech_full_text_unsupported`: 4, `source_czech_text_missing`: 843, `source_media_timeout`: 1, `source_provenance_missing`: 1564, `source_unavailable`: 17, `target_detail_url_missing`: 16, `target_unavailable`: 22
 
 ## Poslední dávka
 
@@ -2255,7 +2255,6 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:05:17.907492+00:00 |
 | [Turist (2021) 1080p CZ Titulky](https://prehraj.to/turist-2021-1080p-cz-titulky-mp4/127bc69bed16c563) (ID 30716859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.828153+00:00 |
 | [Tušení (2020) SD CZ Titulky](https://prehraj.to/tuseni-2020-sd-cz-titulky-avi/3134ed9adf8ea04a) (ID 29638596) | [Sdílej 13829355](https://sdilej.cz/13829355/tuseni-2020-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:15:51.646585+00:00 |
-| [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:34.091042+00:00 |
 | [Two Of Us (2020) SD CZ Titulky](https://prehraj.to/two-of-us-2020-sd-cz-titulky-mkv/62483b40eab53616) (ID 30952427) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.832276+00:00 |
 | [Tygr a drak: Meč osudu (2016) 1080p CZ Titulky](https://prehraj.to/tygr-a-drak-mec-osudu-2016-1080p-cz-titulky-mkv/4e2800cb1ff8a0b5) (ID 30929583) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831238+00:00 |
 | [Tygr lidožrout (2007) SD CZ Titulky](https://prehraj.to/tygr-lidozrout-2007-sd-cz-titulky-avi/3744b085a3f3ed2e) (ID 29664192) | [Sdílej 23245687](https://sdilej.cz/23245687/maneater.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:27:32.759347+00:00 |
@@ -2598,6 +2597,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Suzume (2022) 1080p CZ Titulky](https://prehraj.to/suzume-2022-1080p-cz-titulky-mkv/c7ae03c1aa5ebca0) (ID 29881013) | [Sdílej 27358645](https://sdilej.cz/27358645/suzume-no-tojimari-2022-.mkv) | target_unavailable | 2026-11-12T15:34:16.585717+00:00 |
 | [The King of Kings (2025) 1080p CZ Titulky](https://prehraj.to/the-king-of-kings-2025-1080p-cz-titulky-mp4/30bce62b06534df2) (ID 29443444) | [Sdílej 31276592](https://sdilej.cz/31276592/the-king-of-kings-2025-cz-titulky-v-obraze.mp4) | target_unavailable | 2026-11-12T15:35:00.951093+00:00 |
 | [The Thundermans Return (2024) 1080p CZ Titulky](https://prehraj.to/the-thundermans-return-2024-1080p-cz-titulky-mp4/4c23216bcf1c4d73) (ID 29654246) | [Sdílej 34904138](https://sdilej.cz/34904138/the-thundermans-return-2024-sk-titulky.mp4) | target_unavailable | 2026-11-12T15:33:27.587925+00:00 |
+| [Twentynine Palms (2003) SD CZ Titulky](https://prehraj.to/twentynine-palms-2003-sd-cz-titulky-mkv/ea42ea20ee51d54d) (ID 29044783) | [Sdílej 18283543](https://sdilej.cz/18283543/twentynine.palms.2003.www.rapidmoviez.com.mkv) | source_unavailable | 2026-11-12T15:40:35.452067+00:00 |
 | [Viva Maria! (1965) 1080p CZ Titulky](https://prehraj.to/viva-maria-1965-1080p-cz-titulky-mkv/dea8370655d648a6) (ID 29269635) | [Sdílej 29562186](https://sdilej.cz/29562186/viva-maria-1965-fra..mkv) | source_unavailable | 2026-11-12T14:28:17.639037+00:00 |
 | [Vánoce prince a chuďase (2022) 1080p CZ Titulky](https://prehraj.to/vanoce-prince-a-chudase-2022-1080p-cz-titulky-mkv/7a9e5e2e002906ad) (ID 29343828) | [Sdílej 30132799](https://sdilej.cz/30132799/vanoce-prince-a-chudase-a-prince-and-pauper-christmas-usa-2022-komedie-cz-dab-edit.mkv) | source_unavailable | 2026-11-12T14:27:46.145464+00:00 |
 | [Vánoční zázrak pro Daisy (2021) 1080p CZ Titulky](https://prehraj.to/vanocni-zazrak-pro-daisy-2021-1080p-cz-titulky-mp4/5820200093c44821) (ID 29273121) | [Sdílej 34728079](https://sdilej.cz/34728079/vanocni-zazrak-pro-daisy-2021-cz-titulky.mp4) | source_unavailable | 2026-11-12T14:28:32.475040+00:00 |
