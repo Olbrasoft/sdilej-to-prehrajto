@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:43:48.074428+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:44:05.391516+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2525,7 +2525,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:29:30.238726+00:00 |
 | [Černý medvěd (2020) 1080p CZ Titulky](https://prehraj.to/cerny-medved-2020-1080p-cz-titulky-mkv/a731f555ebcb4abf) (ID 30216779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.824184+00:00 |
 | [Černý ostrov (2021) 1080p CZ Titulky](https://prehraj.to/cerny-ostrov-2021-1080p-cz-titulky-mp4/815922ba340a8c4d) (ID 29925375) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.819440+00:00 |
-| [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:38:49.558641+00:00 |
+| [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:44:05.391389+00:00 |
 | [Čističi vesmíru (2021) 1080p CZ Titulky](https://prehraj.to/cistici-vesmiru-2021-1080p-cz-titulky-mkv/25855bda5cdedace) (ID 30580749) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827272+00:00 |
 | [Čivava z Beverly Hills 3 (2012) 720p CZ Titulky](https://prehraj.to/civava-z-beverly-hills-3-2012-720p-cz-titulky-mkv/0972991fd01125cb) (ID 30378915) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.825512+00:00 |
 | [Člověk ze Západu (1940) 1080p CZ Titulky](https://prehraj.to/clovek-ze-zapadu-1940-1080p-cz-titulky-mkv/77644b1949622c67) (ID 29327215) | [Sdílej 29216985](https://sdilej.cz/29216985/the.westerner.1940.eng.fra.1080p.webrip.x264.aac-rht-sksub.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T08:35:36.645115+00:00 |
