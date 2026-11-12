@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T20:26:40.078644+00:00
+Poslední aktualizace (UTC): 2026-11-12T20:26:47.455831+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2398,7 +2398,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [West of the Pecos (1945) SD CZ Titulky](https://prehraj.to/west-of-the-pecos-1945-sd-cz-titulky-mp4/0570f621e63a8474) (ID 29706821) | [Sdílej 34770688](https://sdilej.cz/34770688/west-of-the-pecos-1945-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:43:29.590158+00:00 |
 | [What Is a Woman? (2022) 1080p CZ Titulky](https://prehraj.to/what-is-a-woman-2022-1080p-cz-titulky-mp4/94ebd49186b4a081) (ID 29212546) | [Sdílej 34726466](https://sdilej.cz/34726466/what-is-a-woman-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T18:30:59.133198+00:00 |
 | [Wheelman (2017) 720p CZ Titulky](https://prehraj.to/wheelman-2017-720p-cz-titulky-avi/7f6436b5f02c49db) (ID 30932611) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.633568+00:00 |
-| [When Love Comes Knocking (2021) 1080p CZ Titulky](https://prehraj.to/when-love-comes-knocking-2021-1080p-cz-titulky-mp4/4b77e4614f18b346) (ID 29216889) | [Sdílej 34728038](https://sdilej.cz/34728038/when-love-comes-knocking-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T19:30:51.223162+00:00 |
+| [When Love Comes Knocking (2021) 1080p CZ Titulky](https://prehraj.to/when-love-comes-knocking-2021-1080p-cz-titulky-mp4/4b77e4614f18b346) (ID 29216889) | [Sdílej 34728038](https://sdilej.cz/34728038/when-love-comes-knocking-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:26:47.455696+00:00 |
 | [When We First Met (2018) SD CZ Titulky](https://prehraj.to/when-we-first-met-2018-sd-cz-titulky-avi/14a974c9e8bddcbc) (ID 30282576) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.619762+00:00 |
 | [When the Lights Went Out (2012) SD CZ Titulky](https://prehraj.to/when-the-lights-went-out-2012-sd-cz-titulky-avi/8d328ff80349e2fa) (ID 29750671) | [Sdílej 26715369](https://sdilej.cz/26715369/when-the-lights-went-out-kdyz-jsou-svetla-mimo-horor.thriller-2012-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:36:25.944736+00:00 |
 | [Whiskey zloděj (2017) SD CZ Titulky](https://prehraj.to/whiskey-zlodej-2017-sd-cz-titulky-mkv/6627ffd9aaf7733d) (ID 29308502) | [Sdílej 12073116](https://sdilej.cz/12073116/a-viszkis-the-whiskey-bandit-bdrip.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:50.223039+00:00 |
