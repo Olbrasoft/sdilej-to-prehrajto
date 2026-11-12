@@ -4481,6 +4481,14 @@
           "target_video_id": "29123959",
           "permanent": false,
           "attempted_at": "2026-09-05T07:21:54.467603+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33222813",
+          "target_video_id": "29123959",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-12T18:37:15.827173+00:00"
         }
       ],
       "last_plan": {
@@ -4492,7 +4500,8 @@
         "target_video_id": "29123959",
         "size_bytes": 5695422414,
         "prepared_at": "2026-09-05T06:58:12.072733+00:00"
-      }
+      },
+      "previous_target_id": "29123959"
     },
     "303": {
       "attempts": [],
@@ -434550,7 +434559,15 @@
       }
     },
     "15484": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34849104",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-12T18:34:59.920706+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34849104",
         "display_name": "Manta Manta - Zwoter Teil (2023) 1080p CZ Dabing",
@@ -437417,7 +437434,15 @@
       }
     },
     "22794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "24550889",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-12T18:35:20.896942+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24550889",
         "display_name": "Kvílení vlkodlaků II (1985) SD CZ Dabing",
@@ -440043,7 +440068,15 @@
       }
     },
     "14561": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34060652",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-12T18:35:41.875305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34060652",
         "display_name": "Vrcholný predátor (2021) 1080p CZ Dabing",
@@ -441092,7 +441125,15 @@
       "attempts": []
     },
     "14220": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "32276763",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-12T18:36:02.849961+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32276763",
         "display_name": "Ztraceni na moři (2022) 1080p SK Dabing",
@@ -442952,5 +442993,5 @@
       }
     }
   },
-  "updated_at": "2026-11-12T18:34:31.441031+00:00"
+  "updated_at": "2026-11-12T18:37:15.827190+00:00"
 }
