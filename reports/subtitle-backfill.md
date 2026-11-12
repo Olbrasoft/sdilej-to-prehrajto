@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:39:56.004962+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:40:07.346024+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2114,7 +2114,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [The Internship (2026) 1080p CZ Titulky](https://prehraj.to/the-internship-2026-1080p-cz-titulky-mp4/f201e2c9c0de01ac) (ID 29706666) | [Sdílej 32909953](https://sdilej.cz/32909953/the-internship-2026-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:42:58.357087+00:00 |
 | [The Invitation (2015) 1080p CZ Titulky](https://prehraj.to/the-invitation-2015-1080p-cz-titulky-mkv/07a15e57029bb93d) (ID 30279229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.824632+00:00 |
 | [The Italians (2025) 1080p CZ Titulky](https://prehraj.to/the-italians-2025-1080p-cz-titulky-mp4/351bb8bcc1843ff3) (ID 30576734) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827224+00:00 |
-| [The Jester 2 (2025) 1080p CZ Titulky](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:05.023746+00:00 |
+| [The Jester 2 (2025) 1080p CZ Titulky](https://prehraj.to/the-jester-2-2025-1080p-cz-titulky-mkv/7241aa835fef2207) (ID 29026504) | [Sdílej 33466950](https://sdilej.cz/33466950/the.jester.2.2025.hd1080.sk.ru.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:40:07.345905+00:00 |
 | [The Killer (2024) 1080p CZ Titulky](https://prehraj.to/the-killer-2024-1080p-cz-titulky-mkv/90877fd635390653) (ID 30654798) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827884+00:00 |
 | [The Lair (2022) SD CZ Titulky](https://prehraj.to/the-lair-2022-sd-cz-titulky-avi/0de11181a2934f7f) (ID 29908784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.817130+00:00 |
 | [The Last Boy (2019) 1080p CZ Titulky](https://prehraj.to/the-last-boy-2019-1080p-cz-titulky-mp4/a41e2a1010f61dfa) (ID 30414012) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.825921+00:00 |
