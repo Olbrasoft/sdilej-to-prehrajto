@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:47:59.987035+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:48:20.654527+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1288,7 +1288,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Mob Town (2019) 1080p CZ Titulky](https://prehraj.to/mob-town-2019-1080p-cz-titulky-mkv/7f8cdbb765879ad1) (ID 29634038) | [Sdílej 12783098](https://sdilej.cz/12783098/mob.town.2019.1080p.web-dl.dd5.1.h264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:13:30.482223+00:00 |
 | [Model House (2024) 1080p CZ Titulky](https://prehraj.to/model-house-2024-1080p-cz-titulky-mkv/10b7df99e8ef40db) (ID 29707140) | [Sdílej 34076738](https://sdilej.cz/34076738/model-house-a-morte-segue-voc-.2024.1080p.web-dl.x264.dual.5.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:24:56.863586+00:00 |
 | [Moderní Popelka: Vánoční přání (2019) 1080p CZ Titulky](https://prehraj.to/moderni-popelka-vanocni-prani-2019-1080p-cz-titulky-mkv/6094ab3a525eae88) (ID 29732055) | [Sdílej 14725414](https://sdilej.cz/14725414/a-cinderella-story-christmas-wish-fantasy-2019-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:26.226803+00:00 |
-| [Moderní doba (1936) SD CZ Titulky](https://prehraj.to/moderni-doba-1936-sd-cz-titulky-avi/8a537b90fc61ac83) (ID 29188864) | [Sdílej 32220611](https://sdilej.cz/32220611/moderni-doba-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:42:30.417774+00:00 |
+| [Moderní doba (1936) SD CZ Titulky](https://prehraj.to/moderni-doba-1936-sd-cz-titulky-avi/8a537b90fc61ac83) (ID 29188864) | [Sdílej 32220611](https://sdilej.cz/32220611/moderni-doba-1936-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:48:20.654408+00:00 |
 | [Modrou stezkou (2025) 1080p CZ Titulky](https://prehraj.to/modrou-stezkou-2025-1080p-cz-titulky-mkv/1aaac91bb821fe7a) (ID 30887902) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.830520+00:00 |
 | [Mohabbatein (2000) SD CZ Titulky](https://prehraj.to/mohabbatein-2000-sd-cz-titulky-mp4/596b2a114e81325a) (ID 29263611) | [Sdílej 34751508](https://sdilej.cz/34751508/mohabbatein-2000-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:32:17.874483+00:00 |
 | [Mohenjo Daro (2016) SD CZ Titulky](https://prehraj.to/mohenjo-daro-2016-sd-cz-titulky-mp4/f4d5b3bceac2651e) (ID 30929467) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831231+00:00 |
