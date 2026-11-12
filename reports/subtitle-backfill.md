@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:41:30.889329+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:41:38.688605+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1625,7 +1625,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Pramen panny (1960) 1080p CZ Titulky](https://prehraj.to/pramen-panny-1960-1080p-cz-titulky-mkv/7e1ce4846d09ed3a) (ID 29179268) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.812043+00:00 |
 | [Pravidla hry (1994) SD CZ Titulky](https://prehraj.to/pravidla-hry-1994-sd-cz-titulky-mkv/2dd4a800cc65992d) (ID 29890273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.816332+00:00 |
 | [Pravědnik (2023) 1080p CZ Titulky](https://prehraj.to/pravednik-2023-1080p-cz-titulky-mkv/0386d8339e2d9545) (ID 29897546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.816416+00:00 |
-| [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:36:29.072763+00:00 |
+| [Prci, prci, prcičky: Holky sobě (2020) 1080p CZ Titulky](https://prehraj.to/prci-prci-prcicky-holky-sobe-2020-1080p-cz-titulky-mkv/07ee1b82bcbc62f5) (ID 29089486) | [Sdílej 17372185](https://sdilej.cz/17372185/american-pie-presents-girls-rules-2020-full-hd-eng-unrated.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:41:38.688477+00:00 |
 | [Presence (2024) 1080p CZ Titulky](https://prehraj.to/presence-2024-1080p-cz-titulky-mp4/a01699e8b2743b7d) (ID 30345696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.825119+00:00 |
 | [Pretty Guardian Sailor Moon Eternal The Movie: 2. část (2023) 1080p CZ Titulky](https://prehraj.to/pretty-guardian-sailor-moon-eternal-the-movie-2-cast-2023-1080p-cz-titulky-mp4/99b448b527daca12) (ID 29311259) | [Sdílej 34904096](https://sdilej.cz/34904096/pretty-guardian-sailor-moon-eternal-the-movie-2.-cast-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:29:53.818774+00:00 |
 | [Priceless (2016) 1080p CZ Titulky](https://prehraj.to/priceless-2016-1080p-cz-titulky-mkv/3273602e94115c87) (ID 30294546) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.824778+00:00 |
