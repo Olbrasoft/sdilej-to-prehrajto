@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T20:26:47.455831+00:00
+Poslední aktualizace (UTC): 2026-11-12T20:26:57.746328+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1086,7 +1086,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Konec zločinu v Americe (2020) 1080p CZ Titulky](https://prehraj.to/konec-zlocinu-v-americe-2020-1080p-cz-titulky-avi/3cc10a095acbf30f) (ID 30433751) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.622206+00:00 |
 | [Konvert (2017) SD CZ Titulky](https://prehraj.to/konvert-2017-sd-cz-titulky-mkv/a2e998aac1ad808d) (ID 30220143) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.618941+00:00 |
 | [Konvoj do Murmanska (1943) SD CZ Titulky.mkv](https://prehraj.to/konvoj-do-murmanska-1943-sd-cz-titulky-mkv/4e7bc2b5b5a3630d) (ID 29576776) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.611741+00:00 |
-| [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T19:31:02.180010+00:00 |
+| [Korengal (2014) SD CZ Titulky](https://prehraj.to/korengal-2014-sd-cz-titulky-mp4/18b3908270a40011) (ID 29217603) | [Sdílej 34711277](https://sdilej.cz/34711277/korengal-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:26:57.746192+00:00 |
 | [Kos (2024) 1080p CZ Titulky](https://prehraj.to/kos-2024-1080p-cz-titulky-mp4/7f0b9a563faa7a1e) (ID 30504257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.623962+00:00 |
 | [Kosh SD CZ Titulky](https://prehraj.to/kosh-sd-cz-titulky-mp4/f034feea2465f1a1) (ID 30442829) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:25:39.622561+00:00 |
 | [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:31:15.907834+00:00 |
