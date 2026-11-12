@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T20:31:55.155450+00:00
+Poslední aktualizace (UTC): 2026-11-12T20:32:02.833011+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1983,7 +1983,7 @@ Kontrol: 50; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:43:39.355774+00:00 |
 | [Světla páteční noci (2004) 1080p CZ Titulky](https://prehraj.to/svetla-patecni-noci-2004-1080p-cz-titulky-mkv/85fd296b21b6d483) (ID 30949957) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:30:48.531690+00:00 |
 | [Svůdce (2017) SD CZ Titulky](https://prehraj.to/svudce-2017-sd-cz-titulky-mkv/ee2ece5afb3c945f) (ID 30925834) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:30:48.530031+00:00 |
-| [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T20:30:25.027102+00:00 |
+| [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:32:02.832898+00:00 |
 | [Sweet Home (2015) SD CZ Titulky](https://prehraj.to/sweet-home-2015-sd-cz-titulky-avi/c3fc72fb2779159f) (ID 30863281) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:30:48.526655+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T20:30:48.511345+00:00 |
 | [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:54:20.977926+00:00 |
