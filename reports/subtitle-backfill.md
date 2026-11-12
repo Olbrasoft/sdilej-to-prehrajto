@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:42:50.278482+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:43:25.714089+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2293,7 +2293,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Untouchable (2019) 1080p CZ Titulky](https://prehraj.to/untouchable-2019-1080p-cz-titulky-mkv/1855a4aceb49edbc) (ID 30095289) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.823469+00:00 |
 | [Upíři v Bronxu (2020) 1080p CZ Titulky](https://prehraj.to/upiri-v-bronxu-2020-1080p-cz-titulky-mkv/2f9c6f81613fdb38) (ID 30654246) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827877+00:00 |
 | [Urban Explorer (2011) SD CZ Titulky](https://prehraj.to/urban-explorer-2011-sd-cz-titulky-avi/3d242cb94b64687c) (ID 30656082) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827891+00:00 |
-| [Uri: The Surgical Strike (2019) 1080p CZ Titulky](https://prehraj.to/uri-the-surgical-strike-2019-1080p-cz-titulky-avi/49f71f232d7277cb) (ID 29116528) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:38:11.609121+00:00 |
+| [Uri: The Surgical Strike (2019) 1080p CZ Titulky](https://prehraj.to/uri-the-surgical-strike-2019-1080p-cz-titulky-avi/49f71f232d7277cb) (ID 29116528) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:43:25.713963+00:00 |
 | [Uspávač (2017) 720p CZ Titulky](https://prehraj.to/uspavac-2017-720p-cz-titulky-mkv/798165dc920bacd7) (ID 29818775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.815790+00:00 |
 | [V bezvědomí (2024) 1080p CZ Titulky](https://prehraj.to/v-bezvedomi-2024-1080p-cz-titulky-mkv/7f74f2459bd3b9e6) (ID 30670911) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827939+00:00 |
 | [V hlubinách (2013) SD CZ Titulky](https://prehraj.to/v-hlubinach-2013-sd-cz-titulky-avi/f51bce32341a5a50) (ID 30927873) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831204+00:00 |
