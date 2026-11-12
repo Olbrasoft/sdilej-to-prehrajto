@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:47:43.790033+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:47:59.987035+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2011,7 +2011,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Tamasha (2015) SD CZ Titulky](https://prehraj.to/tamasha-2015-sd-cz-titulky-mp4/e11ceddd4b37b21a) (ID 30481928) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.826645+00:00 |
 | [Tanec s vlky (1990) 1080p CZ Titulky](https://prehraj.to/tanec-s-vlky-1990-1080p-cz-titulky-mkv/7db493d40ae81eff) (ID 29181024) | [Sdílej 24747285](https://sdilej.cz/24747285/tanec-s-vlky-1990-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:47:33.491441+00:00 |
 | [Tanec s vášní: Rozbal to! (2008) 1080p CZ Titulky](https://prehraj.to/tanec-s-vasni-rozbal-to-2008-1080p-cz-titulky-mp4/c1fb415aa63333fe) (ID 30582208) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827299+00:00 |
-| [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:42:13.106205+00:00 |
+| [Tanec v temnotách (2000) SD CZ Titulky](https://prehraj.to/tanec-v-temnotach-2000-sd-cz-titulky-avi/85ee678592491076) (ID 29182720) | [Sdílej 11741516](https://sdilej.cz/11741516/tanec-v-temnotach-deneuve-2000-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:47:59.986904+00:00 |
 | [Tanki (2018) 720p CZ Titulky](https://prehraj.to/tanki-2018-720p-cz-titulky-mkv/a76b365e67195443) (ID 30966460) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.832989+00:00 |
 | [Tarka the Otter (1979) SD CZ Titulky](https://prehraj.to/tarka-the-otter-1979-sd-cz-titulky-mp4/a623af7368961f52) (ID 30070924) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.823407+00:00 |
 | [Tarzan, opičí muž (1981) 1080p CZ Titulky](https://prehraj.to/tarzan-opici-muz-1981-1080p-cz-titulky-mp4/1e2517bf4666bfb2) (ID 30644989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827833+00:00 |
