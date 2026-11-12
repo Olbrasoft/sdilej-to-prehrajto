@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:49:10.141377+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:49:38.340446+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -138,7 +138,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Armand (2024) 720p CZ Titulky](https://prehraj.to/armand-2024-720p-cz-titulky-mkv/9a1cf26471a8fefb) (ID 30869159) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.829912+00:00 |
 | [Armed (2018) SD CZ Titulky](https://prehraj.to/armed-2018-sd-cz-titulky-avi/c8c9f57781494782) (ID 29610479) | [Sdílej 26010890](https://sdilej.cz/26010890/arved.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:06:03.874393+00:00 |
 | [Army of One (2020) 1080p CZ Titulky](https://prehraj.to/army-of-one-2020-1080p-cz-titulky-mkv/7c794c1907357b10) (ID 30415303) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.825935+00:00 |
-| [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:43:41.444376+00:00 |
+| [Armáda stínů (1969) SD CZ Titulky](https://prehraj.to/armada-stinu-1969-sd-cz-titulky-avi/5d0edee41f51cb39) (ID 29207537) | [Sdílej 31451349](https://sdilej.cz/31451349/armada.stinu-drama-valecny-1969-l.ventura-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:49:38.340304+00:00 |
 | [Artik (2019) 1080p CZ Titulky](https://prehraj.to/artik-2019-1080p-cz-titulky-mkv/5ba62f267fd2d1b9) (ID 30861244) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.829569+00:00 |
 | [Asedio (2023) 1080p CZ Titulky](https://prehraj.to/asedio-2023-1080p-cz-titulky-mkv/fc640f56c94d7a1f) (ID 29278532) | [Sdílej 27828721](https://sdilej.cz/27828721/oblezeni-asedio-2023-hd-5.1-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:33.478045+00:00 |
 | [Ash (2025) 1080p CZ Titulky](https://prehraj.to/ash-2025-1080p-cz-titulky-mp4/5b6a225a7b67d24d) (ID 30946524) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.832045+00:00 |
