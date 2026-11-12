@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T22:29:38.191872+00:00
+Poslední aktualizace (UTC): 2026-11-12T22:29:50.369623+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -562,7 +562,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Eden (2014) SD CZ Titulky](https://prehraj.to/eden-2014-sd-cz-titulky-mkv/d7da7119be51173e) (ID 30958455) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T22:28:50.582759+00:00 |
 | [Edge of Winter (2016) SD CZ Titulky](https://prehraj.to/edge-of-winter-2016-sd-cz-titulky-avi/c3436dd3a0fc4ed6) (ID 29709716) | [Sdílej 35042758](https://sdilej.cz/35042758/edge-of-winter-cz.titulky-2016-thriller.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:45:39.063889+00:00 |
 | [Eenie Meanie (2025) 1080p CZ Titulky](https://prehraj.to/eenie-meanie-2025-1080p-cz-titulky-mkv/d743f4fd5e84441d) (ID 29907790) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T22:28:50.561161+00:00 |
-| [Ek Villain (2014) 720p CZ Titulky](https://prehraj.to/ek-villain-2014-720p-cz-titulky-mp4/4b09ae3a08f98378) (ID 29230526) | [Sdílej 34738457](https://sdilej.cz/34738457/ek-villain-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T21:31:24.079940+00:00 |
+| [Ek Villain (2014) 720p CZ Titulky](https://prehraj.to/ek-villain-2014-720p-cz-titulky-mp4/4b09ae3a08f98378) (ID 29230526) | [Sdílej 34738457](https://sdilej.cz/34738457/ek-villain-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T22:29:50.369494+00:00 |
 | [Ek Villain Returns (2022) 1080p CZ Titulky](https://prehraj.to/ek-villain-returns-2022-1080p-cz-titulky-mp4/622c278aba302d0a) (ID 30423412) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T22:28:50.570428+00:00 |
 | [Eksiteu (2019) 1080p CZ Titulky](https://prehraj.to/eksiteu-2019-1080p-cz-titulky-mp4/8ea312b8ebc8d52a) (ID 30048029) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T22:28:50.565704+00:00 |
 | [El Gringo (2012) 720p CZ Titulky](https://prehraj.to/el-gringo-2012-720p-cz-titulky-mp4/607e6579f3e90132) (ID 29725165) | [Sdílej 34780122](https://sdilej.cz/34780122/el-gringo-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:53:25.795381+00:00 |
