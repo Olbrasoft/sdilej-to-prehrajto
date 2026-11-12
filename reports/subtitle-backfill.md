@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:40:46.378041+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:40:56.785586+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1917,7 +1917,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Southbound (2015) 1080p CZ Titulky](https://prehraj.to/southbound-2015-1080p-cz-titulky-mp4/270d142bfbf9f0f8) (ID 29919146) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.818859+00:00 |
 | [Soví houkání (2006) 1080p CZ Titulky](https://prehraj.to/sovi-houkani-2006-1080p-cz-titulky-mkv/8c6be3d0c9115fac) (ID 30859121) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.829421+00:00 |
 | [Space Battleship Yamato (2010) 1080p CZ Titulky](https://prehraj.to/space-battleship-yamato-2010-1080p-cz-titulky-mkv/28d1dfb668eaa74d) (ID 30596591) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827445+00:00 |
-| [Space Buddies (2009) 720p CZ Titulky](https://prehraj.to/space-buddies-2009-720p-cz-titulky-mkv/4e7a090626908843) (ID 29088612) | [Sdílej 15088025](https://sdilej.cz/15088025/space.buddies.2009.720p.bluray.x264-x0r.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:35:52.542983+00:00 |
+| [Space Buddies (2009) 720p CZ Titulky](https://prehraj.to/space-buddies-2009-720p-cz-titulky-mkv/4e7a090626908843) (ID 29088612) | [Sdílej 15088025](https://sdilej.cz/15088025/space.buddies.2009.720p.bluray.x264-x0r.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:40:56.785480+00:00 |
 | [Spare Parts (2020) 1080p CZ Titulky](https://prehraj.to/spare-parts-2020-1080p-cz-titulky-mkv/9e2f56bbafe99a18) (ID 30941823) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831754+00:00 |
 | [Sparkle: A Unicorn Tale (2023) 1080p CZ Titulky](https://prehraj.to/sparkle-a-unicorn-tale-2023-1080p-cz-titulky-mp4/a343955c780de9ac) (ID 29680774) | [Sdílej 34771929](https://sdilej.cz/34771929/sparkle-a-unicorn-tale-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:31:47.987635+00:00 |
 | [Speed Demon (2026) 1080p CZ Titulky](https://prehraj.to/speed-demon-2026-1080p-cz-titulky-avi/dea50e1ad1b68c20) (ID 30606214) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.827489+00:00 |
