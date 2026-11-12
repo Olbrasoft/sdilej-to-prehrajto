@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:49:38.340446+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:49:50.467478+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2269,7 +2269,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Tři na cestě (2018) SD CZ Titulky](https://prehraj.to/tri-na-ceste-2018-sd-cz-titulky-avi/78f6439dfd16a49c) (ID 30923517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.831052+00:00 |
 | [Tři přání (1995) SD CZ Titulky](https://prehraj.to/tri-prani-1995-sd-cz-titulky-avi/cca230356167ece3) (ID 29567240) | [Sdílej 22107099](https://sdilej.cz/22107099/tre.piani.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:55:03.365834+00:00 |
 | [Tři z pekla (2019) 1080p CZ Titulky](https://prehraj.to/tri-z-pekla-2019-1080p-cz-titulky-mkv/cebca21b81961bd6) (ID 30373660) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.825458+00:00 |
-| [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:43:52.044267+00:00 |
+| [Tři zločinci ve skryté pevnosti (1958) SD CZ Titulky](https://prehraj.to/tri-zlocinci-ve-skryte-pevnosti-1958-sd-cz-titulky-mp4/438153736a76150b) (ID 29207633) | [Sdílej 29131983](https://sdilej.cz/29131983/the.hidden.fortress.1958.japanese.1080p.bluray.x265-vxt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:49:50.467325+00:00 |
 | [Třídní sraz 2 - Pohřeb (2014) SD CZ Titulky](https://prehraj.to/tridni-sraz-2-pohreb-2014-sd-cz-titulky-mp4/cbcc5f0231c71ee9) (ID 29599614) | [Sdílej 34711194](https://sdilej.cz/34711194/tridni-sraz-2-pohreb-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:02:54.417319+00:00 |
 | [U Zlaté rukavice (2019) SD CZ Titulky](https://prehraj.to/u-zlate-rukavice-2019-sd-cz-titulky-mp4/f4900cd7b669e226) (ID 30128747) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.823773+00:00 |
 | [U brány věčnosti (2018) 1080p CZ Titulky](https://prehraj.to/u-brany-vecnosti-2018-1080p-cz-titulky-avi/d12b33ec67ef2a7c) (ID 29434266) | [Sdílej 24585680](https://sdilej.cz/24585680/u-brany-vecnosti-2018-zivotopisny-drama-bdrip.-en-cz-titlevlozeny.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:35:40.430694+00:00 |
