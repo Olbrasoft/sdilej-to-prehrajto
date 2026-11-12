@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:50:12.193569+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:50:22.419494+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -318,7 +318,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod
 | [Bílá odvaha (2024) 1080p CZ Titulky](https://prehraj.to/bila-odvaha-2024-1080p-cz-titulky-mkv/580fd5d7eceff25f) (ID 30902819) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.830664+00:00 |
 | [Bílá vrána (2018) 1080p CZ Titulky](https://prehraj.to/bila-vrana-2018-1080p-cz-titulky-mkv/12b66300926a393b) (ID 29805290) | [Sdílej 12786760](https://sdilej.cz/12786760/bila-vrana-the-white-crow-2018-1080p-x264-cz-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:41:04.509459+00:00 |
 | [Bílý tygr (2021) 1080p CZ Titulky](https://prehraj.to/bily-tygr-2021-1080p-cz-titulky-mp4/66f66a35b222fcfd) (ID 30037338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.822676+00:00 |
-| [Být či nebýt (1942) 1080p CZ Titulky](https://prehraj.to/byt-ci-nebyt-1942-1080p-cz-titulky-mkv/ede885353090d3eb) (ID 29212505) | [Sdílej 34501012](https://sdilej.cz/34501012/byt-ci-nebyt-1942-cz-titulky-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T15:44:19.570557+00:00 |
+| [Být či nebýt (1942) 1080p CZ Titulky](https://prehraj.to/byt-ci-nebyt-1942-1080p-cz-titulky-mkv/ede885353090d3eb) (ID 29212505) | [Sdílej 34501012](https://sdilej.cz/34501012/byt-ci-nebyt-1942-cz-titulky-1080p-fhd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:50:22.419363+00:00 |
 | [Bělyj tigr (2012) 720p CZ Titulky](https://prehraj.to/belyj-tigr-2012-720p-cz-titulky-mp4/4ae43e0bf7fe3242) (ID 29981131) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.821613+00:00 |
 | [CUBE (2021) 1080p CZ Titulky](https://prehraj.to/cube-2021-1080p-cz-titulky-mkv/ed60260e5cf3ce9c) (ID 30466134) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.826500+00:00 |
 | [Cabin Fever (2016) 720p CZ Titulky](https://prehraj.to/cabin-fever-2016-720p-cz-titulky-mkv/7bea019354ada034) (ID 30433338) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-12T15:38:07.826131+00:00 |
