@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:34:48.243507+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:34:56.541896+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1880,7 +1880,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Slovo (1955) 1080p CZ Titulky](https://prehraj.to/slovo-1955-1080p-cz-titulky-mkv/0e31ea7f5165701f) (ID 30904172) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532721+00:00 |
 | [Slow West (2015) SD CZ Titulky](https://prehraj.to/slow-west-2015-sd-cz-titulky-avi/fb2ebde34b586b6b) (ID 30780258) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.531137+00:00 |
 | [Slumber (2017) SD CZ Titulky](https://prehraj.to/slumber-2017-sd-cz-titulky-avi/ab5957a5a7c36f40) (ID 30468620) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.528478+00:00 |
-| [Slumber Party Massacre (2021) 1080p CZ Titulky](https://prehraj.to/slumber-party-massacre-2021-1080p-cz-titulky-mp4/e0c008b04d1089e9) (ID 29753180) | [Sdílej 34761202](https://sdilej.cz/34761202/slumber-party-massacre-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:37:42.200038+00:00 |
+| [Slumber Party Massacre (2021) 1080p CZ Titulky](https://prehraj.to/slumber-party-massacre-2021-1080p-cz-titulky-mp4/e0c008b04d1089e9) (ID 29753180) | [Sdílej 34761202](https://sdilej.cz/34761202/slumber-party-massacre-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:56.541786+00:00 |
 | [Slunovrat (2019) 4K CZ Titulky](https://prehraj.to/slunovrat-2019-4k-cz-titulky-mkv/8cb2b29211d71182) (ID 29407919) | [Sdílej 34845805](https://sdilej.cz/34845805/midsommar.2019.dc.2160p.uhd.bluray.x265.10bit.hdr.ddp5.1-rarbg.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:15.919084+00:00 |
 | [Smartass (2017) SD CZ Titulky](https://prehraj.to/smartass-2017-sd-cz-titulky-avi/99ddd73eee53afca) (ID 30962181) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.534486+00:00 |
 | [Smrt a dívka (1994) 1080p CZ Titulky](https://prehraj.to/smrt-a-divka-1994-1080p-cz-titulky-mkv/8381c7a2fc383951) (ID 30495431) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.528757+00:00 |
