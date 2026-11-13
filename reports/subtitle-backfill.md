@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:56:15.273287+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:56:23.444181+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1138,7 +1138,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Late Phases (2014) SD CZ Titulky](https://prehraj.to/late-phases-2014-sd-cz-titulky-avi/afb7d6cb6496b349) (ID 30611359) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249792+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:42:24.510708+00:00 |
 | [Lazareth (2024) 1080p CZ Titulky](https://prehraj.to/lazareth-2024-1080p-cz-titulky-mkv/e966860eeb115cee) (ID 30457688) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248895+00:00 |
-| [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:53:17.888689+00:00 |
+| [Lazer Team (2016) SD CZ Titulky](https://prehraj.to/lazer-team-2016-sd-cz-titulky-mp4/9eaf7f52a73ad220) (ID 29724204) | [Sdílej 34775189](https://sdilej.cz/34775189/lazer-team-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:56:23.444078+00:00 |
 | [Le Petit Poucet (1972) SD CZ Titulky](https://prehraj.to/le-petit-poucet-1972-sd-cz-titulky-mp4/759257904a1288b2) (ID 30096693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246461+00:00 |
 | [Le Visiteur du futur (2022) 1080p CZ Titulky](https://prehraj.to/le-visiteur-du-futur-2022-1080p-cz-titulky-mkv/d4ee748d9a099e73) (ID 30298757) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247546+00:00 |
 | [Le assaggiatrici (2025) 1080p CZ Titulky](https://prehraj.to/le-assaggiatrici-2025-1080p-cz-titulky-mkv/eb50986de7744f2c) (ID 30708188) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.250241+00:00 |
