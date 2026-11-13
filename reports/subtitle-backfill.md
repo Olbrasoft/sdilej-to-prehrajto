@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:55:23.266816+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:55:31.710584+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1175,7 +1175,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Locked Up (2017) SD CZ Titulky](https://prehraj.to/locked-up-2017-sd-cz-titulky-avi/1613fe3976f1ea40) (ID 29731440) | [Sdílej 10190664](https://sdilej.cz/10190664/locked-up-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:53:58.917438+00:00 |
 | [Loft (2008) 1080p CZ Titulky](https://prehraj.to/loft-2008-1080p-cz-titulky-mp4/7b3df3279cabfe1d) (ID 30871930) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251206+00:00 |
 | [Lola (2019) 1080p CZ Titulky](https://prehraj.to/lola-2019-1080p-cz-titulky-mp4/27e25501dfe4af0c) (ID 29630740) | [Sdílej 34734181](https://sdilej.cz/34734181/lola-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:16:37.919853+00:00 |
-| [Lola Versus (2012) SD CZ Titulky](https://prehraj.to/lola-versus-2012-sd-cz-titulky-mp4/1459c0199f11857d) (ID 29723282) | [Sdílej 34780036](https://sdilej.cz/34780036/lola-versus-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:52:23.639788+00:00 |
+| [Lola Versus (2012) SD CZ Titulky](https://prehraj.to/lola-versus-2012-sd-cz-titulky-mp4/1459c0199f11857d) (ID 29723282) | [Sdílej 34780036](https://sdilej.cz/34780036/lola-versus-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:55:31.710443+00:00 |
 | [Lone Samurai (2025) 720p CZ Titulky](https://prehraj.to/lone-samurai-2025-720p-cz-titulky-mp4/55361b1df0c856b9) (ID 29979781) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245797+00:00 |
 | [Long Distance (2024) 4K CZ Titulky](https://prehraj.to/long-distance-2024-4k-cz-titulky-mkv/f94ce08c3465a866) (ID 29919150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244817+00:00 |
 | [Lookout (2025) 1080p CZ Titulky](https://prehraj.to/lookout-2025-1080p-cz-titulky-mkv/17fde015094aae2b) (ID 30773821) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.250663+00:00 |
