@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:57:02.580784+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:57:11.357662+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -831,7 +831,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Harold a Maude (1971) 1080p CZ Titulky](https://prehraj.to/harold-a-maude-1971-1080p-cz-titulky-mkv/3f925d20214ae1d5) (ID 30765164) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.914200+00:00 |
 | [Harpoon (2019) 1080p CZ Titulky](https://prehraj.to/harpoon-2019-1080p-cz-titulky-mkv/1bf2db896994fdeb) (ID 30740972) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.913858+00:00 |
 | [Harriet (2019) SD CZ Titulky](https://prehraj.to/harriet-2019-sd-cz-titulky-mp4/a5baaee104411b2a) (ID 29672979) | [Sdílej 34695153](https://sdilej.cz/34695153/harriet-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:28:18.852227+00:00 |
-| [Hasee Toh Phasee (2014) SD CZ Titulky](https://prehraj.to/hasee-toh-phasee-2014-sd-cz-titulky-mp4/d94a50c1052b78a2) (ID 29562725) | [Sdílej 34776933](https://sdilej.cz/34776933/hasee-toh-phasee-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:52:54.884304+00:00 |
+| [Hasee Toh Phasee (2014) SD CZ Titulky](https://prehraj.to/hasee-toh-phasee-2014-sd-cz-titulky-mp4/d94a50c1052b78a2) (ID 29562725) | [Sdílej 34776933](https://sdilej.cz/34776933/hasee-toh-phasee-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:57:11.357547+00:00 |
 | [Hatched (2021) 1080p CZ Titulky](https://prehraj.to/hatched-2021-1080p-cz-titulky-mkv/c15f08673a97d610) (ID 29914981) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901662+00:00 |
 | [Hatchet (2006) SD CZ Titulky](https://prehraj.to/hatchet-2006-sd-cz-titulky-mp4/ed511f0ec0d40fe3) (ID 29916659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901820+00:00 |
 | [Haunt (2013) SD CZ Titulky](https://prehraj.to/haunt-2013-sd-cz-titulky-avi/2ebf6f74d95b09a8) (ID 29933256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.903111+00:00 |
