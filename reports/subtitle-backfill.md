@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:30:06.878949+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:30:15.651914+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -333,7 +333,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:46:16.479353+00:00 |
 | [Cannibal Troll (2021) SD CZ Titulky](https://prehraj.to/cannibal-troll-2021-sd-cz-titulky-mp4/4d20b53c6ecf49c3) (ID 29609349) | [Sdílej 34761592](https://sdilej.cz/34761592/cannibal-troll-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:10:11.793031+00:00 |
 | [Cargo (2017) 720p CZ Titulky](https://prehraj.to/cargo-2017-720p-cz-titulky-mkv/4f18dd41129a501f) (ID 30302934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653886+00:00 |
-| [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:24:49.878722+00:00 |
+| [Carnaval (2021) 1080p CZ Titulky](https://prehraj.to/carnaval-2021-1080p-cz-titulky-mp4/8f3c8f810b229479) (ID 29656573) | [Sdílej 34731482](https://sdilej.cz/34731482/carnaval-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:30:15.651805+00:00 |
 | [Carnifex (2022) 1080p CZ Titulky](https://prehraj.to/carnifex-2022-1080p-cz-titulky-mkv/5b7276964a06c83c) (ID 30959587) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.664166+00:00 |
 | [Carrie Pilby (2017) 1080p CZ Titulky](https://prehraj.to/carrie-pilby-2017-1080p-cz-titulky-mp4/3d8283cf15969e3e) (ID 30123501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.652790+00:00 |
 | [Casanova '70 (1965) 1080p CZ Titulky](https://prehraj.to/casanova-70-1965-1080p-cz-titulky-mp4/82dd2846efd41eb7) (ID 30916731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.661544+00:00 |
