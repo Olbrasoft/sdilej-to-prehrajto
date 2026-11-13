@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T05:30:55.283564+00:00
+Poslední aktualizace (UTC): 2026-11-13T05:31:03.838307+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1681,7 +1681,7 @@ Kontrol: 40; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [Příští stanice Greenwich Village (1976) 720p CZ Titulky.mkv](https://prehraj.to/pristi-stanice-greenwich-village-1976-720p-cz-titulky-mkv/ca77c438e0b44152) (ID 29586797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.102091+00:00 |
 | [Půlnoc v zahradě dobra a zla (1997) 720p CZ Titulky.mkv](https://prehraj.to/pulnoc-v-zahrade-dobra-a-zla-1997-720p-cz-titulky-mkv/88e48b9c8217baf5) (ID 29675454) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.102562+00:00 |
 | [Původ neznámý (2020) 1080p CZ Titulky](https://prehraj.to/puvod-neznamy-2020-1080p-cz-titulky-mp4/f79721e2e79f41c8) (ID 30774302) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.115352+00:00 |
-| [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:27:04.296972+00:00 |
+| [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:03.838177+00:00 |
 | [Que Dios nos perdone (2016) SD CZ Titulky](https://prehraj.to/que-dios-nos-perdone-2016-sd-cz-titulky-avi/c0a87f748dac40c0) (ID 30039913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.109318+00:00 |
 | [REC 3: Počátek (2012) SD CZ Titulky](https://prehraj.to/rec-3-pocatek-2012-sd-cz-titulky-avi/a3bceb45afe895bc) (ID 30630452) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.113712+00:00 |
 | [Ra.One (2011) SD CZ Titulky](https://prehraj.to/ra-one-2011-sd-cz-titulky-mp4/7734dccf7f2e3e3b) (ID 29753011) | [Sdílej 34747028](https://sdilej.cz/34747028/ra.one-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:37:33.533314+00:00 |
