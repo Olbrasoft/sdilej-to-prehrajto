@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T02:32:26.752190+00:00
+Poslední aktualizace (UTC): 2026-11-13T02:32:33.546510+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2469,7 +2469,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:28:18.677852+00:00 |
 | [Zlatá cihla (2023) 720p CZ Titulky](https://prehraj.to/zlata-cihla-2023-720p-cz-titulky-mp4/cbbf28f01577c309) (ID 30277961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.176726+00:00 |
 | [Zloději aut (2025) 1080p CZ Titulky](https://prehraj.to/zlodeji-aut-2025-1080p-cz-titulky-mkv/1ac38c370498a447) (ID 29917167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.172845+00:00 |
-| [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:30:09.971441+00:00 |
+| [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T02:32:33.546405+00:00 |
 | [Zločin v rodině (2020) SD CZ Titulky](https://prehraj.to/zlocin-v-rodine-2020-sd-cz-titulky-mkv/054c8a0ba5db3d46) (ID 30898628) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.182523+00:00 |
 | [Zločiny budoucnosti (2022) 1080p CZ Titulky](https://prehraj.to/zlociny-budoucnosti-2022-1080p-cz-titulky-mkv/9f7721c0319bfab5) (ID 30863648) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.182083+00:00 |
 | [Znamení voodoo (2020) 1080p CZ Titulky](https://prehraj.to/znameni-voodoo-2020-1080p-cz-titulky-avi/4f390f64c2c7f833) (ID 29936659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.174832+00:00 |
