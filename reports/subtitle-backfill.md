@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:35:10.517744+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:35:20.169486+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -544,7 +544,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dárek do cely č.7 (2013) SD CZ Titulky](https://prehraj.to/darek-do-cely-c-7-2013-sd-cz-titulky-mp4/36cd0be6d58aeac3) (ID 29219731) | [Sdílej 34710882](https://sdilej.cz/34710882/darek-do-cely-c.7-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:47:45.900721+00:00 |
 | [Dávné rituály (2021) 1080p CZ Titulky](https://prehraj.to/davne-ritualy-2021-1080p-cz-titulky-avi/8b466b49d748f701) (ID 29755108) | [Sdílej 32107662](https://sdilej.cz/32107662/davne-ritualy-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:39:03.332202+00:00 |
 | [Démon (2015) SD CZ Titulky](https://prehraj.to/demon-2015-sd-cz-titulky-avi/bd799696a307af42) (ID 29991498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.145200+00:00 |
-| [Dítě džungle (2011) SD CZ Titulky](https://prehraj.to/dite-dzungle-2011-sd-cz-titulky-mp4/092db7b7d3b66961) (ID 29432566) | [Sdílej 34780351](https://sdilej.cz/34780351/dite-dzungle-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:35:09.022112+00:00 |
+| [Dítě džungle (2011) SD CZ Titulky](https://prehraj.to/dite-dzungle-2011-sd-cz-titulky-mp4/092db7b7d3b66961) (ID 29432566) | [Sdílej 34780351](https://sdilej.cz/34780351/dite-dzungle-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:35:20.169341+00:00 |
 | [Dítě z Parku jehel (2020) 1080p CZ Titulky](https://prehraj.to/dite-z-parku-jehel-2020-1080p-cz-titulky-mp4/611f638e526a25b6) (ID 30370003) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.150032+00:00 |
 | [Dívka s jehlicí (2024) 1080p CZ Titulky](https://prehraj.to/divka-s-jehlici-2024-1080p-cz-titulky-avi/5459fb1724e16197) (ID 29887887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.142032+00:00 |
 | [Dívka se zlatýma rukama (2021) 1080p CZ Titulky](https://prehraj.to/divka-se-zlatyma-rukama-2021-1080p-cz-titulky-mkv/be81d5e8b5382949) (ID 30898918) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157609+00:00 |
