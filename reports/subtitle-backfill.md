@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:22:30.482855+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:22:39.081836+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -380,7 +380,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Cizí oči (1981) 1080p CZ Titulky](https://prehraj.to/cizi-oci-1981-1080p-cz-titulky-mkv/ad6fae4b71b4b32e) (ID 29578873) | [Sdílej 28527253](https://sdilej.cz/28527253/cizi-oci-eyes-of-a-stranger-1981-fhd-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:03:36.126732+00:00 |
 | [Clara (2018) SD CZ Titulky](https://prehraj.to/clara-2018-sd-cz-titulky-mkv/e34b2249266f3b5d) (ID 29631340) | [Sdílej 12083199](https://sdilej.cz/12083199/clara-2018-web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:35.689513+00:00 |
 | [Clear Cut (2024) 720p CZ Titulky](https://prehraj.to/clear-cut-2024-720p-cz-titulky-mp4/ab83a817a6c97c2e) (ID 29904826) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.646182+00:00 |
-| [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:17:43.644204+00:00 |
+| [Clementine (2019) SD CZ Titulky](https://prehraj.to/clementine-2019-sd-cz-titulky-mp4/b6498d84ba059ae3) (ID 29642593) | [Sdílej 13852261](https://sdilej.cz/13852261/clementine.2019.web-dl.x264-fgt.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:22:39.081712+00:00 |
 | [Cloclo (2012) SD CZ Titulky](https://prehraj.to/cloclo-2012-sd-cz-titulky-mp4/4684cc43b2258c02) (ID 30889627) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.660351+00:00 |
 | [Clown (2019) 1080p CZ Titulky](https://prehraj.to/clown-2019-1080p-cz-titulky-mkv/81e7716c4c9f3b0e) (ID 30448522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655379+00:00 |
 | [Co jsme udělali slepicím (1978) 1080p CZ Titulky](https://prehraj.to/co-jsme-udelali-slepicim-1978-1080p-cz-titulky-mp4/dc53c0177d7d54d7) (ID 30476717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655595+00:00 |
