@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:45:53.529175+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:46:16.987706+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1487,7 +1487,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [One-Armed Boxer (1972) SD CZ Titulky](https://prehraj.to/one-armed-boxer-1972-sd-cz-titulky-mp4/8d41005671e4be1f) (ID 29680194) | [Sdílej 34755878](https://sdilej.cz/34755878/one-armed-boxer-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:31:37.557794+00:00 |
 | [One-Eyed Jacks (1961) SD CZ Titulky](https://prehraj.to/one-eyed-jacks-1961-sd-cz-titulky-mkv/dc379f14dd58488d) (ID 29174940) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.137823+00:00 |
 | [Only for One Night (2016) 1080p CZ Titulky](https://prehraj.to/only-for-one-night-2016-1080p-cz-titulky-mp4/d68892f623b81df3) (ID 29611864) | [Sdílej 34775081](https://sdilej.cz/34775081/only-for-one-night-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:07:29.086684+00:00 |
-| [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:45:23.301471+00:00 |
+| [Ono (2022) 1080p CZ Titulky](https://prehraj.to/ono-2022-1080p-cz-titulky-avi/1d8eed4750975295) (ID 29527939) | [Sdílej 25971488](https://sdilej.cz/25971488/hatching-pahanhautoja-webrip-hd-sk-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:46:16.987582+00:00 |
 | [Open 24 Hours (2018) 1080p CZ Titulky](https://prehraj.to/open-24-hours-2018-1080p-cz-titulky-mkv/d9508402315fc510) (ID 29968991) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144960+00:00 |
 | [Open Grave (2013) SD CZ Titulky](https://prehraj.to/open-grave-2013-sd-cz-titulky-mp4/d683debde23e65f8) (ID 30929764) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158680+00:00 |
 | [Operace Brothers (2019) 1080p CZ Titulky](https://prehraj.to/operace-brothers-2019-1080p-cz-titulky-mp4/5c338c24cf2dc0b9) (ID 29735386) | [Sdílej 12061134](https://sdilej.cz/12061134/the.red.sea.diving.resort.2019.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:59:00.263077+00:00 |
