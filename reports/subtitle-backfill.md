@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:03:48.923809+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:03:58.503421+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2246,7 +2246,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Tlusťoch a Chlapeček (1989) 720p CZ Titulky](https://prehraj.to/tlustoch-a-chlapecek-1989-720p-cz-titulky-mp4/02f8d1af4de394a8) (ID 29240489) | [Sdílej 34786161](https://sdilej.cz/34786161/tlustoch-a-chlapecek-1989-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:43:47.382891+00:00 |
 | [Tobol (2019) SD CZ Titulky](https://prehraj.to/tobol-2019-sd-cz-titulky-mp4/793c7f85b112419e) (ID 29287806) | [Sdílej 34853793](https://sdilej.cz/34853793/tobol-the-conquest-of-siberia-2019-titulky.sk.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:28:37.398455+00:00 |
 | [Tobruk (1967) SD CZ Titulky](https://prehraj.to/tobruk-1967-sd-cz-titulky-mkv/b786d14c68055d5d) (ID 30576044) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249516+00:00 |
-| [Toc Toc (2017) 720p CZ Titulky](https://prehraj.to/toc-toc-2017-720p-cz-titulky-mkv/b351d189c132acd8) (ID 29569899) | [Sdílej 14550282](https://sdilej.cz/14550282/toc.toc.2017.bluray.720p.x264.sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:01:00.730572+00:00 |
+| [Toc Toc (2017) 720p CZ Titulky](https://prehraj.to/toc-toc-2017-720p-cz-titulky-mkv/b351d189c132acd8) (ID 29569899) | [Sdílej 14550282](https://sdilej.cz/14550282/toc.toc.2017.bluray.720p.x264.sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:03:58.503306+00:00 |
 | [Tomyho zápisník (2020) 1080p CZ Titulky](https://prehraj.to/tomyho-zapisnik-2020-1080p-cz-titulky-mkv/191cfb38e9e0d127) (ID 30539232) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249267+00:00 |
 | [Tormento (2025) 1080p CZ Titulky](https://prehraj.to/tormento-2025-1080p-cz-titulky-mkv/705c0f60a3e4149c) (ID 30253861) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247204+00:00 |
 | [Touha (2024) 1080p CZ Titulky](https://prehraj.to/touha-2024-1080p-cz-titulky-mkv/e852f0b12670fb5c) (ID 30992865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252811+00:00 |
