@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:22:16.988344+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:22:30.482855+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2095,7 +2095,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [The Dawn Wall (2017) 720p CZ Titulky](https://prehraj.to/the-dawn-wall-2017-720p-cz-titulky-mkv/8de58cc0281cb6c9) (ID 29181025) | [Sdílej 10898857](https://sdilej.cz/10898857/the.dawn.wall.2017.720p.bluray.x264-cadaver.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:47:43.789907+00:00 |
 | [The Dawnseeker (2018) SD CZ Titulky](https://prehraj.to/the-dawnseeker-2018-sd-cz-titulky-avi/421d7bdc1b9b79a7) (ID 30911664) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.661267+00:00 |
 | [The Death of Superman (2018) SD CZ Titulky](https://prehraj.to/the-death-of-superman-2018-sd-cz-titulky-mkv/0925d62c1003e89e) (ID 30491330) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655760+00:00 |
-| [The Den (2013) SD CZ Titulky](https://prehraj.to/the-den-2013-sd-cz-titulky-avi/ed587265a2987826) (ID 29642468) | [Sdílej 34453340](https://sdilej.cz/34453340/the-den.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:17:35.617898+00:00 |
+| [The Den (2013) SD CZ Titulky](https://prehraj.to/the-den-2013-sd-cz-titulky-avi/ed587265a2987826) (ID 29642468) | [Sdílej 34453340](https://sdilej.cz/34453340/the-den.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:22:30.482724+00:00 |
 | [The Discovery (2017) 1080p CZ Titulky](https://prehraj.to/the-discovery-2017-1080p-cz-titulky-mkv/dac97060aa7df167) (ID 30309670) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653932+00:00 |
 | [The Dreadful (2026) 4K CZ Titulky](https://prehraj.to/the-dreadful-2026-4k-cz-titulky-mkv/b9b8ed7ae1ba673e) (ID 30393249) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654696+00:00 |
 | [The Engineer (2023) 1080p CZ Titulky](https://prehraj.to/the-engineer-2023-1080p-cz-titulky-mkv/bbf93480adf4f2a6) (ID 29737979) | [Sdílej 34393567](https://sdilej.cz/34393567/the-engineer-2023-1080p-amzn-web-dl-ddp5-1-h-264-flux.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:55.721895+00:00 |
