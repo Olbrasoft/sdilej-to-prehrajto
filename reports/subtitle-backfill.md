@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:47:45.825525+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:48:16.743675+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1060,7 +1060,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kesari (2019) 1080p CZ Titulky](https://prehraj.to/kesari-2019-1080p-cz-titulky-mp4/7d6ff763167ba819) (ID 30102560) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.146279+00:00 |
 | [Kevin Hart: Irresponsible (2019) 1080p CZ Titulky](https://prehraj.to/kevin-hart-irresponsible-2019-1080p-cz-titulky-mp4/c0a9a1ceffee349c) (ID 30545498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152721+00:00 |
 | [Kevin Hart: What Now? (2016) 1080p CZ Titulky](https://prehraj.to/kevin-hart-what-now-2016-1080p-cz-titulky-mkv/9461846f718826b8) (ID 29614983) | [Sdílej 6918441](https://sdilej.cz/6918441/kevin-hart-what-now-2016-1080p-bluray-cyro.se-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:18.007826+00:00 |
-| [Kick (2014) SD CZ Titulky](https://prehraj.to/kick-2014-sd-cz-titulky-mp4/249429b27658a2a4) (ID 29536732) | [Sdílej 34776445](https://sdilej.cz/34776445/kick-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:48:03.353704+00:00 |
+| [Kick (2014) SD CZ Titulky](https://prehraj.to/kick-2014-sd-cz-titulky-mp4/249429b27658a2a4) (ID 29536732) | [Sdílej 34776445](https://sdilej.cz/34776445/kick-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:48:16.743547+00:00 |
 | [Kickboxer: Vengeance (2016) 1080p CZ Titulky](https://prehraj.to/kickboxer-vengeance-2016-1080p-cz-titulky-mkv/6382705ca596135c) (ID 30411655) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.150907+00:00 |
 | [Kill Switch (2017) 1080p CZ Titulky](https://prehraj.to/kill-switch-2017-1080p-cz-titulky-mkv/4d8f8822f267124f) (ID 30413382) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.150951+00:00 |
 | [Killer Toon (2013) SD CZ Titulky](https://prehraj.to/killer-toon-2013-sd-cz-titulky-avi/1a2558792cd17f7e) (ID 30926548) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158527+00:00 |
