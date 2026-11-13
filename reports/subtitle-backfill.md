@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:13:03.317738+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:13:11.733496+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -168,7 +168,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Awaken the Shadowman (2017) SD CZ Titulky](https://prehraj.to/awaken-the-shadowman-2017-sd-cz-titulky-mkv/781806e2ded2c4ac) (ID 30424004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909957+00:00 |
 | [Azrael (2024) 1080p CZ Titulky](https://prehraj.to/azrael-2024-1080p-cz-titulky-mkv/2fc5a3ce9a9588db) (ID 30379469) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.908985+00:00 |
 | [Ašoka (2001) SD CZ Titulky](https://prehraj.to/asoka-2001-sd-cz-titulky-mp4/3ae647b318928418) (ID 29236389) | [Sdílej 34903495](https://sdilej.cz/34903495/asoka-2001-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:43:19.044569+00:00 |
-| [Až do poslední smrti (2019) 1080p CZ Titulky](https://prehraj.to/az-do-posledni-smrti-2019-1080p-cz-titulky-mp4/4937041ca14a46a2) (ID 29613447) | [Sdílej 34764110](https://sdilej.cz/34764110/az-do-posledni-smrti-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:08:36.013407+00:00 |
+| [Až do poslední smrti (2019) 1080p CZ Titulky](https://prehraj.to/az-do-posledni-smrti-2019-1080p-cz-titulky-mp4/4937041ca14a46a2) (ID 29613447) | [Sdílej 34764110](https://sdilej.cz/34764110/az-do-posledni-smrti-2019-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:13:11.733375+00:00 |
 | [Až na dno (2025) 1080p CZ Titulky](https://prehraj.to/az-na-dno-2025-1080p-cz-titulky-mkv/16ccc5474b623425) (ID 30371141) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.908787+00:00 |
 | [Až na vrchol (2015) SD CZ Titulky](https://prehraj.to/az-na-vrchol-2015-sd-cz-titulky-avi/d6ad0819f6bcb762) (ID 30931000) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.917898+00:00 |
 | [Až na věky (2024) 1080p CZ Titulky](https://prehraj.to/az-na-veky-2024-1080p-cz-titulky-mp4/b8e0b025dbc56392) (ID 30030557) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.904654+00:00 |
