@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:34:25.485903+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:34:34.493042+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2333,7 +2333,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ve stínu slunce (2005) SD CZ Titulky](https://prehraj.to/ve-stinu-slunce-2005-sd-cz-titulky-avi/8b05856545c28484) (ID 30161046) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.147000+00:00 |
 | [Vejdi do prázdna (2010) 720p CZ Titulky](https://prehraj.to/vejdi-do-prazdna-2010-720p-cz-titulky-mp4/236752636350f502) (ID 29327049) | [Sdílej 34716777](https://sdilej.cz/34716777/vejdi-do-prazdna-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:36:27.599245+00:00 |
 | [Velká nádhera (2013) 720p CZ Titulky](https://prehraj.to/velka-nadhera-2013-720p-cz-titulky-mp4/8ad44efd5cb5ba9f) (ID 30906094) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157738+00:00 |
-| [Velká žranice (1973) SD CZ Titulky](https://prehraj.to/velka-zranice-1973-sd-cz-titulky-mkv/698806e8257de552) (ID 29429778) | [Sdílej 28396506](https://sdilej.cz/28396506/velka-zranice-grandebouffe-la-tvrip-ford.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:34:25.211219+00:00 |
+| [Velká žranice (1973) SD CZ Titulky](https://prehraj.to/velka-zranice-1973-sd-cz-titulky-mkv/698806e8257de552) (ID 29429778) | [Sdílej 28396506](https://sdilej.cz/28396506/velka-zranice-grandebouffe-la-tvrip-ford.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:34:34.492921+00:00 |
 | [Velký hack (2019) 1080p CZ Titulky](https://prehraj.to/velky-hack-2019-1080p-cz-titulky-mkv/15aeba51db1050a8) (ID 30777394) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.155896+00:00 |
 | [Velký závod (2013) SD CZ Titulky](https://prehraj.to/velky-zavod-2013-sd-cz-titulky-avi/331243de988c7ffd) (ID 30190229) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.147516+00:00 |
 | [Velvet Buzzsaw (2019) 4K CZ Titulky](https://prehraj.to/velvet-buzzsaw-2019-4k-cz-titulky-mkv/f586c85084c93422) (ID 29937754) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144711+00:00 |
