@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:30:15.651914+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:30:25.053182+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2450,7 +2450,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [You, Me and the Christmas Trees (2021) 1080p CZ Titulky](https://prehraj.to/you-me-and-the-christmas-trees-2021-1080p-cz-titulky-mp4/c8b6dde219495c5b) (ID 30567392) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.656112+00:00 |
 | [Your Host (2025) 1080p CZ Titulky](https://prehraj.to/your-host-2025-1080p-cz-titulky-mkv/7ca17c9b86029012) (ID 29917725) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.648449+00:00 |
 | [Yummy (2019) SD CZ Titulky](https://prehraj.to/yummy-2019-sd-cz-titulky-mp4/fae4c70858e512ae) (ID 30349713) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654231+00:00 |
-| [Z lásky (2025) 1080p CZ Titulky](https://prehraj.to/z-lasky-2025-1080p-cz-titulky-mp4/d3c7fa077288224d) (ID 29656881) | [Sdílej 34717900](https://sdilej.cz/34717900/preslapy-z-lasky-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:24:58.422551+00:00 |
+| [Z lásky (2025) 1080p CZ Titulky](https://prehraj.to/z-lasky-2025-1080p-cz-titulky-mp4/d3c7fa077288224d) (ID 29656881) | [Sdílej 34717900](https://sdilej.cz/34717900/preslapy-z-lasky-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:30:25.053055+00:00 |
 | [Za hranicí strachu (2007) SD CZ Titulky](https://prehraj.to/za-hranici-strachu-2007-sd-cz-titulky-avi/8209afc211328529) (ID 29931688) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.649887+00:00 |
 | [Za každou cenu přežít (2020) 720p CZ Titulky](https://prehraj.to/za-kazdou-cenu-prezit-2020-720p-cz-titulky-mkv/66506f38ff477b55) (ID 30796544) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.658240+00:00 |
 | [Za lepším světem (2021) 720p CZ Titulky](https://prehraj.to/za-lepsim-svetem-2021-720p-cz-titulky-mkv/7988d0cf08a9831f) (ID 30785463) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.658009+00:00 |
