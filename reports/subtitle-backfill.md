@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:29:26.581750+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:29:35.757301+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2170,7 +2170,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Party (2017) SD CZ Titulky](https://prehraj.to/the-party-2017-sd-cz-titulky-avi/6b3de1f55a53c012) (ID 29230183) | [Sdílej 26648027](https://sdilej.cz/26648027/the-party-2017-cztit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T22:29:38.191761+00:00 |
 | [The Passenger (2023) 1080p CZ Titulky](https://prehraj.to/the-passenger-2023-1080p-cz-titulky-mkv/c29252746e0b7504) (ID 30258644) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148554+00:00 |
 | [The People in the Walls (2024) 1080p CZ Titulky](https://prehraj.to/the-people-in-the-walls-2024-1080p-cz-titulky-mkv/466bf3a916775d48) (ID 30717304) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154771+00:00 |
-| [The Phenomenon (2020) 1080p CZ Titulky](https://prehraj.to/the-phenomenon-2020-1080p-cz-titulky-mp4/ee7b751c3eb235a6) (ID 29407497) | [Sdílej 34731975](https://sdilej.cz/34731975/the-phenomenon-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:29:56.334728+00:00 |
+| [The Phenomenon (2020) 1080p CZ Titulky](https://prehraj.to/the-phenomenon-2020-1080p-cz-titulky-mp4/ee7b751c3eb235a6) (ID 29407497) | [Sdílej 34731975](https://sdilej.cz/34731975/the-phenomenon-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:29:35.757179+00:00 |
 | [The Plague (2025) 1080p CZ Titulky](https://prehraj.to/the-plague-2025-1080p-cz-titulky-mp4/e0df06c266418738) (ID 30245983) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148299+00:00 |
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:17.863506+00:00 |
 | [The Prosecutor (2024) 4K CZ Titulky](https://prehraj.to/the-prosecutor-2024-4k-cz-titulky-mkv/dabcef86e47a5beb) (ID 30568777) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153011+00:00 |
