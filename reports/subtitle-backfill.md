@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:21:46.096460+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:21:58.642974+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1972,7 +1972,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Studená válka (2018) SD CZ Titulky](https://prehraj.to/studena-valka-2018-sd-cz-titulky-avi/801f812db310fa53) (ID 29886969) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.645705+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:05.351976+00:00 |
 | [Střed mého světa (2016) SD CZ Titulky](https://prehraj.to/stred-meho-sveta-2016-sd-cz-titulky-mp4/a8b7b72c677d9c69) (ID 29440729) | [Sdílej 34737736](https://sdilej.cz/34737736/stred-meho-sveta-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:36:33.149629+00:00 |
-| [Střed světa (2001) SD CZ Titulky](https://prehraj.to/stred-sveta-2001-sd-cz-titulky-avi/79acd4b2c9241474) (ID 29640156) | [Sdílej 23104985](https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:17:02.126002+00:00 |
+| [Střed světa (2001) SD CZ Titulky](https://prehraj.to/stred-sveta-2001-sd-cz-titulky-avi/79acd4b2c9241474) (ID 29640156) | [Sdílej 23104985](https://sdilej.cz/23104985/the.center.of.the.world.2001.dvdrip.xvid-bito.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:21:58.642839+00:00 |
 | [Střela (1996) SD CZ Titulky](https://prehraj.to/strela-1996-sd-cz-titulky-mp4/1bdfb98dc8204f62) (ID 29269553) | [Sdílej 34784621](https://sdilej.cz/34784621/strela-1996-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:47:13.768180+00:00 |
 | [Střídavá péče (2017) 720p CZ Titulky](https://prehraj.to/stridava-pece-2017-720p-cz-titulky-mkv/bcd7e6d59a5da4b9) (ID 30995891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.664844+00:00 |
 | [Stůl č. 21 (2013) SD CZ Titulky](https://prehraj.to/stul-c-21-2013-sd-cz-titulky-mp4/d1a87b5acb4c7ab3) (ID 29340118) | [Sdílej 34698683](https://sdilej.cz/34698683/stul-c.-21-2013-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:27:01.046946+00:00 |
