@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:08:53.609657+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:09:07.459464+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1587,7 +1587,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Pohrdání (1963) 1080p CZ Titulky](https://prehraj.to/pohrdani-1963-1080p-cz-titulky-mp4/297f345486230feb) (ID 29998390) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.904403+00:00 |
 | [Pohádka pohádek (2015) SD CZ Titulky](https://prehraj.to/pohadka-pohadek-2015-sd-cz-titulky-avi/1492309bd3576c91) (ID 30278696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.907463+00:00 |
 | [Pohřeb (2023) 1080p CZ Titulky](https://prehraj.to/pohreb-2023-1080p-cz-titulky-mp4/2b2baad9716c8f4e) (ID 30038509) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.904848+00:00 |
-| [Pole v Anglii (festivalový název) (2013) SD CZ Titulky](https://prehraj.to/pole-v-anglii-festivalovy-nazev-2013-sd-cz-titulky-mp4/fd4388f47bc21a07) (ID 29608213) | [Sdílej 34779586](https://sdilej.cz/34779586/pole-v-anglii-festivalovy-nazev-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:04:27.522281+00:00 |
+| [Pole v Anglii (festivalový název) (2013) SD CZ Titulky](https://prehraj.to/pole-v-anglii-festivalovy-nazev-2013-sd-cz-titulky-mp4/fd4388f47bc21a07) (ID 29608213) | [Sdílej 34779586](https://sdilej.cz/34779586/pole-v-anglii-festivalovy-nazev-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:09:07.459329+00:00 |
 | [Polibek pavoučí ženy (2025) 1440p CZ Titulky.mkv](https://prehraj.to/polibek-pavouci-zeny-2025-1440p-cz-titulky-mkv/cde4bfbeed5e4abc) (ID 29912310) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901283+00:00 |
 | [Polityka (2019) SD CZ Titulky](https://prehraj.to/polityka-2019-sd-cz-titulky-avi/afa2d101685054e0) (ID 29731711) | [Sdílej 12855322](https://sdilej.cz/12855322/polityka-2019-pl.dvdrip.xvid-klio.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:54:28.672787+00:00 |
 | [Polycarp (2015) SD CZ Titulky](https://prehraj.to/polycarp-2015-sd-cz-titulky-mkv/23c49061d09c85c0) (ID 30144568) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.905936+00:00 |
