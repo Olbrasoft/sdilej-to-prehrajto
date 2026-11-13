@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:34:21.097988+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:34:29.013836+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1963,7 +1963,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:29:46.479133+00:00 |
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.521457+00:00 |
 | [Stovky bobrů (2022) 1080p CZ Titulky](https://prehraj.to/stovky-bobru-2022-1080p-cz-titulky-mp4/e6dfada040fc7670) (ID 29583192) | [Sdílej 30207144](https://sdilej.cz/30207144/hundreds-of-beavers-stovky-bobru-2022-czsubbed-1080p-web-dl-aac2.0-h.264-nogrp.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:04:51.695360+00:00 |
-| [Strach a touha (1952) 720p CZ Titulky](https://prehraj.to/strach-a-touha-1952-720p-cz-titulky-mp4/dab547de861fffb3) (ID 29752311) | [Sdílej 34756169](https://sdilej.cz/34756169/strach-a-touha-1952-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:37:14.396481+00:00 |
+| [Strach a touha (1952) 720p CZ Titulky](https://prehraj.to/strach-a-touha-1952-720p-cz-titulky-mp4/dab547de861fffb3) (ID 29752311) | [Sdílej 34756169](https://sdilej.cz/34756169/strach-a-touha-1952-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:29.013726+00:00 |
 | [Stranded (2013) SD CZ Titulky](https://prehraj.to/stranded-2013-sd-cz-titulky-mp4/176f0b59a5346caa) (ID 30421682) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.527950+00:00 |
 | [Strange but True (2019) 1080p CZ Titulky](https://prehraj.to/strange-but-true-2019-1080p-cz-titulky-mp4/86c8798f39d6ddcc) (ID 30343665) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.526796+00:00 |
 | [Stud (2011) 1080p CZ Titulky](https://prehraj.to/stud-2011-1080p-cz-titulky-mkv/90503a9606536460) (ID 30871349) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532124+00:00 |
