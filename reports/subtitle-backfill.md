@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:44:11.959859+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:44:31.653370+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -144,7 +144,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Asedio (2023) 1080p CZ Titulky](https://prehraj.to/asedio-2023-1080p-cz-titulky-mkv/fc640f56c94d7a1f) (ID 29278532) | [Sdílej 27828721](https://sdilej.cz/27828721/oblezeni-asedio-2023-hd-5.1-cz-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:33.478045+00:00 |
 | [Ash (2025) 1080p CZ Titulky](https://prehraj.to/ash-2025-1080p-cz-titulky-mp4/5b6a225a7b67d24d) (ID 30946524) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.534034+00:00 |
 | [Ashes in the Snow (2018) SD CZ Titulky](https://prehraj.to/ashes-in-the-snow-2018-sd-cz-titulky-avi/24a1ca39a4e5d88a) (ID 30173308) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.525508+00:00 |
-| [Asi se zblázním (2021) SD CZ Titulky](https://prehraj.to/asi-se-zblaznim-2021-sd-cz-titulky-avi/975d6ac95e668e22) (ID 29219191) | [Sdílej 16134173](https://sdilej.cz/16134173/asi-se-zblaznim-2021-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:47:26.500077+00:00 |
+| [Asi se zblázním (2021) SD CZ Titulky](https://prehraj.to/asi-se-zblaznim-2021-sd-cz-titulky-avi/975d6ac95e668e22) (ID 29219191) | [Sdílej 16134173](https://sdilej.cz/16134173/asi-se-zblaznim-2021-cz-titulky-novinka.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:44:31.653236+00:00 |
 | [Asi to ukončím (2020) 1080p CZ Titulky](https://prehraj.to/asi-to-ukoncim-2020-1080p-cz-titulky-mp4/30902fc304e68e5d) (ID 30235220) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.525861+00:00 |
 | [Asmodexia (2014) SD CZ Titulky](https://prehraj.to/asmodexia-2014-sd-cz-titulky-avi/619773939104fe48) (ID 30742902) | [Sdílej 35026136](https://sdilej.cz/35026136/asmodexia-horor-2014-sk.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-09T22:30:00.237434+00:00 |
 | [Assassin (2015) SD CZ Titulky](https://prehraj.to/assassin-2015-sd-cz-titulky-avi/2d69b723f1e7a4c3) (ID 30293714) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.526409+00:00 |
