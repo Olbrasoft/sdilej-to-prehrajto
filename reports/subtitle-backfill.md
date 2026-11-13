@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:58:24.544510+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:58:32.290117+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2000,7 +2000,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Swannova láska (1984) 1080p CZ Titulky](https://prehraj.to/swannova-laska-1984-1080p-cz-titulky-mp4/dfb4fc447336e490) (ID 29219295) | [Sdílej 34755529](https://sdilej.cz/34755529/swannova-laska-1984-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:32:02.832898+00:00 |
 | [Sweet Home (2015) SD CZ Titulky](https://prehraj.to/sweet-home-2015-sd-cz-titulky-avi/c3fc72fb2779159f) (ID 30863281) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915412+00:00 |
 | [Sweetheart (2019) 720p CZ Titulky](https://prehraj.to/sweetheart-2019-720p-cz-titulky-mp4/fc8d34ce98c0dae4) (ID 29909865) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900924+00:00 |
-| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:54:20.977926+00:00 |
+| [Sword Art Online: Extra Edition (2013) 1080p CZ Titulky](https://prehraj.to/sword-art-online-extra-edition-2013-1080p-cz-titulky-mkv/1b4c7e2e2f3e2bc4) (ID 29565053) | [Sdílej 35057302](https://sdilej.cz/35057302/sword-art-online-extra-edition-sk-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:58:32.289984+00:00 |
 | [Syn (2019) SD CZ Titulky](https://prehraj.to/syn-2019-sd-cz-titulky-mkv/5b0b1f88e314fd41) (ID 29921282) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.902162+00:00 |
 | [Syn Boží (2014) SD CZ Titulky](https://prehraj.to/syn-bozi-2014-sd-cz-titulky-avi/755a8747c84bf683) (ID 29947059) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.903793+00:00 |
 | [Synchronic (2019) 1080p CZ Titulky](https://prehraj.to/synchronic-2019-1080p-cz-titulky-mkv/82907149a635b3ba) (ID 30928331) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.917792+00:00 |
