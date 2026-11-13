@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:01:51.041190+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:02:03.478125+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2525,7 +2525,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [(Cargo) (2018) 1080p CZ Titulky](https://prehraj.to/cargo-2018-1080p-cz-titulky-mkv/d0bdad5f0e0b5f5e) (ID 30604970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249722+00:00 |
 | [Ánimas (2018) 1080p CZ Titulky](https://prehraj.to/animas-2018-1080p-cz-titulky-mkv/9661c7794d8b1c8a) (ID 29648131) | [Sdílej 11262471](https://sdilej.cz/11262471/animas-2018.1080p.x264-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:13.450097+00:00 |
 | [Élisa (1995) 1080p CZ Titulky](https://prehraj.to/elisa-1995-1080p-cz-titulky-mp4/4bfd07acb13de50f) (ID 30954557) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252475+00:00 |
-| [Úder 2 (2006) SD CZ Titulky](https://prehraj.to/uder-2-2006-sd-cz-titulky-mp4/f8392ff67765953f) (ID 29735371) | [Sdílej 34751522](https://sdilej.cz/34751522/uder-2-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:58:49.783017+00:00 |
+| [Úder 2 (2006) SD CZ Titulky](https://prehraj.to/uder-2-2006-sd-cz-titulky-mp4/f8392ff67765953f) (ID 29735371) | [Sdílej 34751522](https://sdilej.cz/34751522/uder-2-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:02:03.478002+00:00 |
 | [Úder 3 (2013) SD CZ Titulky](https://prehraj.to/uder-3-2013-sd-cz-titulky-mp4/df937ee19c17889a) (ID 30864841) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251114+00:00 |
 | [Úder otevřenou dlaní (1983) SD CZ Titulky](https://prehraj.to/uder-otevrenou-dlani-1983-sd-cz-titulky-mp4/bb96401c0a68cff0) (ID 30900205) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251489+00:00 |
 | [Úkryt (2011) SD CZ Titulky](https://prehraj.to/ukryt-2011-sd-cz-titulky-avi/65f99a61ff732dfe) (ID 30022150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246038+00:00 |
