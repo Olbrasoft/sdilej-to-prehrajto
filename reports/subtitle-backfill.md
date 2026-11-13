@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:36:04.110068+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:36:28.103719+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -842,7 +842,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Hedda (2025) 1080p CZ Titulky](https://prehraj.to/hedda-2025-1080p-cz-titulky-mkv/e95f30483f724d65) (ID 30869717) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.659349+00:00 |
 | [Heidi (2005) 1080p CZ Titulky](https://prehraj.to/heidi-2005-1080p-cz-titulky-mkv/e49d6c92c5079efb) (ID 30902766) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.660648+00:00 |
 | [Hejno kobylek (2021) 1080p CZ Titulky](https://prehraj.to/hejno-kobylek-2021-1080p-cz-titulky-mkv/0e7164b3e77fa6f5) (ID 30367228) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654376+00:00 |
-| [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:30:49.714911+00:00 |
+| [Held (2020) SD CZ Titulky](https://prehraj.to/held-2020-sd-cz-titulky-avi/86062cc7dd90efce) (ID 29678819) | [Sdílej 30529555](https://sdilej.cz/30529555/help-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:36:28.103598+00:00 |
 | [Hell Hath No Fury (2021) 720p CZ Titulky](https://prehraj.to/hell-hath-no-fury-2021-720p-cz-titulky-mp4/3acd263fa5940b45) (ID 30458958) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655483+00:00 |
 | [Hell House LLC (2015) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-2015-1080p-cz-titulky-mp4/5235dbbab65e5c55) (ID 30279022) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653647+00:00 |
 | [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:02:19.350388+00:00 |
