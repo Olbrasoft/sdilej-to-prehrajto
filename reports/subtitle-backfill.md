@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:29:35.757301+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:29:44.695634+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1327,7 +1327,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Musíme si promluvit o Kevinovi (2011) 1080p CZ Titulky](https://prehraj.to/musime-si-promluvit-o-kevinovi-2011-1080p-cz-titulky-avi/653c6602f84a02d7) (ID 30906948) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157772+00:00 |
 | [Muž na laně (2008) SD CZ Titulky](https://prehraj.to/muz-na-lane-2008-sd-cz-titulky-mkv/77ee22cc91114f02) (ID 30942696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159087+00:00 |
 | [Muž, který spadl na Zemi (1976) SD CZ Titulky](https://prehraj.to/muz-ktery-spadl-na-zemi-1976-sd-cz-titulky-mp4/1222786e55e245e2) (ID 29269257) | [Sdílej 29361887](https://sdilej.cz/29361887/the-man-who-fell-to-eart-1976-muz-ktery-spadl-na-zemi.david-bowie-candy-clark-eng.-cz-ttl..mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:46:59.484900+00:00 |
-| [My All American (2015) 720p CZ Titulky](https://prehraj.to/my-all-american-2015-720p-cz-titulky-mp4/271a4c43350a84ed) (ID 29407734) | [Sdílej 34775916](https://sdilej.cz/34775916/my-all-american-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:30:04.958346+00:00 |
+| [My All American (2015) 720p CZ Titulky](https://prehraj.to/my-all-american-2015-720p-cz-titulky-mp4/271a4c43350a84ed) (ID 29407734) | [Sdílej 34775916](https://sdilej.cz/34775916/my-all-american-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:29:44.695497+00:00 |
 | [My Bodyguard (1980) SD CZ Titulky](https://prehraj.to/my-bodyguard-1980-sd-cz-titulky-mp4/c3be1ac8d9ba7487) (ID 29445263) | [Sdílej 34755746](https://sdilej.cz/34755746/my-bodyguard-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:37:51.164216+00:00 |
 | [My Friend Dahmer (2017) SD CZ Titulky](https://prehraj.to/my-friend-dahmer-2017-sd-cz-titulky-mp4/5791f5124e269ee0) (ID 30674958) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154380+00:00 |
 | [My Mistress (2014) SD CZ Titulky](https://prehraj.to/my-mistress-2014-sd-cz-titulky-avi/42e5a0668484c4bb) (ID 30618204) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153847+00:00 |
