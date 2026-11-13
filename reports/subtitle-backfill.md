@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:26:23.596088+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:26:31.789199+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1986,7 +1986,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Superman: Man of Tomorrow (2020) 1080p CZ Titulky](https://prehraj.to/superman-man-of-tomorrow-2020-1080p-cz-titulky-mkv/ecd7af06b2513455) (ID 30573691) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153093+00:00 |
 | [Superman: Red Son (2020) 1080p CZ Titulky](https://prehraj.to/superman-red-son-2020-1080p-cz-titulky-mkv/91008632a6708e5d) (ID 30271391) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148653+00:00 |
 | [Superpříšerky: Bylo nebylo (2021) 1080p CZ Titulky](https://prehraj.to/superpriserky-bylo-nebylo-2021-1080p-cz-titulky-mp4/f79c9c286954461c) (ID 29552556) | [Sdílej 34728605](https://sdilej.cz/34728605/superpriserky-bylo-nebylo-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:48:52.371098+00:00 |
-| [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:26:54.835288+00:00 |
+| [Supersonic (2016) SD CZ Titulky](https://prehraj.to/supersonic-2016-sd-cz-titulky-mp4/28f5f0c0022d63f0) (ID 29396886) | [Sdílej 34774951](https://sdilej.cz/34774951/supersonic-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:26:31.789072+00:00 |
 | [Survival Island (2002) SD CZ Titulky](https://prehraj.to/survival-island-2002-sd-cz-titulky-mp4/36919cab50332d5c) (ID 30437296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151449+00:00 |
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.142318+00:00 |
 | [Suspiria (1977) SD CZ Titulky](https://prehraj.to/suspiria-1977-sd-cz-titulky-mkv/0d59baa805280089) (ID 30876633) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157139+00:00 |
