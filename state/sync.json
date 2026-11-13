@@ -4489,17 +4489,20 @@
           "target_video_id": "29123959",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-12T18:37:15.827173+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "33222813",
+          "target_video_id": "29123959",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:19:34.189185+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33222813",
         "display_name": "Strážci Galaxie (2014) 4K CZ Dabing",
         "planned_at": "2026-11-13T17:17:56.751408+00:00"
-      },
-      "prepared": {
-        "target_video_id": "29123959",
-        "size_bytes": 5695422414,
-        "prepared_at": "2026-09-05T06:58:12.072733+00:00"
       },
       "previous_target_id": "29123959"
     },
@@ -443716,5 +443719,5 @@
       }
     }
   },
-  "updated_at": "2026-11-13T17:19:27.266649+00:00"
+  "updated_at": "2026-11-13T17:19:34.189202+00:00"
 }
