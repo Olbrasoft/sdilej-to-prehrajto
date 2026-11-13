@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T10:27:01.047052+00:00
+Poslední aktualizace (UTC): 2026-11-13T10:27:09.948589+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -349,7 +349,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Cesta válečníka (2018) 1080p CZ Titulky](https://prehraj.to/cesta-valecnika-2018-1080p-cz-titulky-mkv/45805109373ac7a7) (ID 29917549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.557895+00:00 |
 | [Cesta za smířením (2021) 1080p CZ Titulky](https://prehraj.to/cesta-za-smirenim-2021-1080p-cz-titulky-mp4/90613c81cd979e69) (ID 30780545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.572092+00:00 |
 | [Cesta časem (2017) 1080p CZ Titulky](https://prehraj.to/cesta-casem-2017-1080p-cz-titulky-mkv/6d5d94d25ab85efe) (ID 30895302) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.573950+00:00 |
-| [Charlieho země (2013) SD CZ Titulky](https://prehraj.to/charlieho-zeme-2013-sd-cz-titulky-mkv/1b38b8f36805aa08) (ID 29340785) | [Sdílej 26530590](https://sdilej.cz/26530590/charlieho-zeme-2013-juraison-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:31:09.134617+00:00 |
+| [Charlieho země (2013) SD CZ Titulky](https://prehraj.to/charlieho-zeme-2013-sd-cz-titulky-mkv/1b38b8f36805aa08) (ID 29340785) | [Sdílej 26530590](https://sdilej.cz/26530590/charlieho-zeme-2013-juraison-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:27:09.948476+00:00 |
 | [Chasing Coral (2017) SD CZ Titulky](https://prehraj.to/chasing-coral-2017-sd-cz-titulky-mp4/d49affc0a7ed1301) (ID 29510434) | [Sdílej 34770336](https://sdilej.cz/34770336/chasing-coral-2017-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:44:17.173341+00:00 |
 | [Chasing the Dragon (2017) SD CZ Titulky](https://prehraj.to/chasing-the-dragon-2017-sd-cz-titulky-mp4/328e929fee5a2ddd) (ID 30100738) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.560575+00:00 |
 | [Cheap Thrills (2013) 1080p CZ Titulky](https://prehraj.to/cheap-thrills-2013-1080p-cz-titulky-mp4/90ede256e47c44bc) (ID 30921034) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.574839+00:00 |
