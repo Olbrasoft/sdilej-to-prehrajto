@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:59:05.114864+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:59:14.087134+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -400,7 +400,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Cool Daddy (2021) 1080p CZ Titulky](https://prehraj.to/cool-daddy-2021-1080p-cz-titulky-mp4/e3340bbffefc4188) (ID 29715960) | [Sdílej 34772995](https://sdilej.cz/34772995/cool-daddy-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:50:38.843931+00:00 |
 | [Cooties (2014) SD CZ Titulky](https://prehraj.to/cooties-2014-sd-cz-titulky-mp4/5a6cf14239463ea5) (ID 29915713) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244640+00:00 |
 | [Cordelia (2019) SD CZ Titulky](https://prehraj.to/cordelia-2019-sd-cz-titulky-avi/d8aa47427933f630) (ID 29943997) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245652+00:00 |
-| [Corona Zombies (2020) 1080p CZ Titulky](https://prehraj.to/corona-zombies-2020-1080p-cz-titulky-mp4/9d35e6e0be115c80) (ID 29732755) | [Sdílej 34773399](https://sdilej.cz/34773399/corona-zombies-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:56:11.417277+00:00 |
+| [Corona Zombies (2020) 1080p CZ Titulky](https://prehraj.to/corona-zombies-2020-1080p-cz-titulky-mp4/9d35e6e0be115c80) (ID 29732755) | [Sdílej 34773399](https://sdilej.cz/34773399/corona-zombies-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:59:14.087019+00:00 |
 | [Corpus Christi (2019) 1080p CZ Titulky](https://prehraj.to/corpus-christi-2019-1080p-cz-titulky-mp4/02c245d06ac8493d) (ID 29396360) | [Sdílej 31626440](https://sdilej.cz/31626440/corpus-christi-2019-pl-cs-subtitles-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:26:09.514824+00:00 |
 | [Corti circuiti erotici Vol.1 (1998) 1080p CZ Titulky](https://prehraj.to/corti-circuiti-erotici-vol-1-1998-1080p-cz-titulky-mp4/ac16d53173d3c4ab) (ID 30248807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247158+00:00 |
 | [Cosmos (2019) 1080p CZ Titulky](https://prehraj.to/cosmos-2019-1080p-cz-titulky-mkv/2450afb452fd0aa6) (ID 30605856) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249729+00:00 |
