@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:40:50.231106+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:40:59.570972+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -765,7 +765,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Gatillero (2025) 720p CZ Titulky](https://prehraj.to/gatillero-2025-720p-cz-titulky-mp4/a293dc02414e0f3f) (ID 30955815) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159431+00:00 |
 | [Gaua (2025) 1080p CZ Titulky](https://prehraj.to/gaua-2025-1080p-cz-titulky-mkv/c1cad02e0cadbbd8) (ID 30923824) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158365+00:00 |
 | [Generace Zombies (2023) SD CZ Titulky](https://prehraj.to/generace-zombies-2023-sd-cz-titulky-mkv/b60fb85abd91b918) (ID 30619023) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153858+00:00 |
-| [Geomgaek (2020) 1080p CZ Titulky](https://prehraj.to/geomgaek-2020-1080p-cz-titulky-mkv/3923dd4af370e51a) (ID 29468294) | [Sdílej 15095618](https://sdilej.cz/15095618/geomgaek.2020-the.swordsman.sktit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:40:27.890723+00:00 |
+| [Geomgaek (2020) 1080p CZ Titulky](https://prehraj.to/geomgaek-2020-1080p-cz-titulky-mkv/3923dd4af370e51a) (ID 29468294) | [Sdílej 15095618](https://sdilej.cz/15095618/geomgaek.2020-the.swordsman.sktit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:40:59.570846+00:00 |
 | [George Michael: Freedom (2017) 1080p CZ Titulky](https://prehraj.to/george-michael-freedom-2017-1080p-cz-titulky-mp4/a9afcb03560f32b0) (ID 29394134) | [Sdílej 34774695](https://sdilej.cz/34774695/george-michael-freedom-2017-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T15:29:09.932920+00:00 |
 | [Get Away (2024) 1080p CZ Titulky](https://prehraj.to/get-away-2024-1080p-cz-titulky-mkv/64c67ecc692ed9ad) (ID 30372447) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.150132+00:00 |
 | [Ghost House (2017) 720p CZ Titulky](https://prehraj.to/ghost-house-2017-720p-cz-titulky-avi/5119888048f2d797) (ID 30390114) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.150444+00:00 |
