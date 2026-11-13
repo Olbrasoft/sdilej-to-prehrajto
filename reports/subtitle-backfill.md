@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:44:12.883409+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:44:34.992154+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2276,7 +2276,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Tátův drak (2022) SD CZ Titulky](https://prehraj.to/tatuv-drak-2022-sd-cz-titulky-mp4/a0a9443b4118a26a) (ID 30556214) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152895+00:00 |
 | [Téměř dokonalý (2012) 720p CZ Titulky](https://prehraj.to/temer-dokonaly-2012-720p-cz-titulky-mp4/2794f7a09bfe893c) (ID 29289240) | [Sdílej 34965884](https://sdilej.cz/34965884/temer-dokonaly-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T04:27:30.159323+00:00 |
 | [Tísňové volání (2018) 1080p CZ Titulky](https://prehraj.to/tisnove-volani-2018-1080p-cz-titulky-mkv/9b663ed89380f9b3) (ID 29824745) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.141770+00:00 |
-| [Tělo (2012) 720p CZ Titulky](https://prehraj.to/telo-2012-720p-cz-titulky-avi/72574bc6fc81e930) (ID 29509182) | [Sdílej 21997721](https://sdilej.cz/21997721/el-cuerpo-telo-2012-esp-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:43:47.779179+00:00 |
+| [Tělo (2012) 720p CZ Titulky](https://prehraj.to/telo-2012-720p-cz-titulky-avi/72574bc6fc81e930) (ID 29509182) | [Sdílej 21997721](https://sdilej.cz/21997721/el-cuerpo-telo-2012-esp-cz-titulky-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:44:34.992041+00:00 |
 | [Třetí poločas (2012) SD CZ Titulky](https://prehraj.to/treti-polocas-2012-sd-cz-titulky-mkv/a7604740782d512f) (ID 29376136) | [Sdílej 34816306](https://sdilej.cz/34816306/the.third.half.2012.dvdrip.x264.ac-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:52.181405+00:00 |
 | [Tři muži v negližé (1995) 1080p CZ Titulky](https://prehraj.to/tri-muzi-v-neglize-1995-1080p-cz-titulky-mkv/e17f1cc34be27650) (ID 30872498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157040+00:00 |
 | [Tři na cestě (2018) SD CZ Titulky](https://prehraj.to/tri-na-ceste-2018-sd-cz-titulky-avi/78f6439dfd16a49c) (ID 30923517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158305+00:00 |
