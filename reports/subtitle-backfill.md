@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T08:36:10.925524+00:00
+Poslední aktualizace (UTC): 2026-11-13T08:36:18.320358+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1013,7 +1013,7 @@ Kontrol: 61; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Jersey Shore Massacre (2014) SD CZ Titulky](https://prehraj.to/jersey-shore-massacre-2014-sd-cz-titulky-avi/280c97fac5e29970) (ID 30399898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.575749+00:00 |
 | [Jexi: Láska z mobilu (2019) 1080p CZ Titulky](https://prehraj.to/jexi-laska-z-mobilu-2019-1080p-cz-titulky-mkv/d600502c74896b63) (ID 29917533) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.571106+00:00 |
 | [Jezero Mungo (2008) 1080p CZ Titulky](https://prehraj.to/jezero-mungo-2008-1080p-cz-titulky-mp4/ae1665bd588e655b) (ID 29998178) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.572535+00:00 |
-| [Jim Jefferies: Intolerance (2020) 1080p CZ Titulky](https://prehraj.to/jim-jefferies-intolerance-2020-1080p-cz-titulky-mp4/d59bb7f1d708870d) (ID 29326703) | [Sdílej 34733091](https://sdilej.cz/34733091/jim-jefferies-intolerance-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T08:35:17.271834+00:00 |
+| [Jim Jefferies: Intolerance (2020) 1080p CZ Titulky](https://prehraj.to/jim-jefferies-intolerance-2020-1080p-cz-titulky-mp4/d59bb7f1d708870d) (ID 29326703) | [Sdílej 34733091](https://sdilej.cz/34733091/jim-jefferies-intolerance-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:36:18.320230+00:00 |
 | [Jižní vítr (2018) 720p CZ Titulky](https://prehraj.to/jizni-vitr-2018-720p-cz-titulky-mkv/c467fd29ece9e008) (ID 29397063) | [Sdílej 12930446](https://sdilej.cz/12930446/juzni.vetar.2018.srbian.webrip.hevc.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:27:24.381000+00:00 |
 | [Jméno (2012) SD CZ Titulky](https://prehraj.to/jmeno-2012-sd-cz-titulky-avi/fc24098a5dcb98ad) (ID 29387731) | [Sdílej 14483600](https://sdilej.cz/14483600/jmeno-le-prenom-2012-kome-drama-fr-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T14:26:32.879656+00:00 |
 | [Jodhaa Akbar (2008) SD CZ Titulky](https://prehraj.to/jodhaa-akbar-2008-sd-cz-titulky-mp4/e97cd7eb29a39e91) (ID 29883714) | [Sdílej 34751215](https://sdilej.cz/34751215/jodhaa-akbar-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:45:23.323115+00:00 |
