@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:31:45.698336+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:31:59.272263+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1904,7 +1904,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Snowden (2016) 1080p CZ Titulky](https://prehraj.to/snowden-2016-1080p-cz-titulky-mp4/c2cc21626046f0d3) (ID 30014660) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.145458+00:00 |
 | [Snowtown (2011) 1080p CZ Titulky](https://prehraj.to/snowtown-2011-1080p-cz-titulky-mkv/a3fe86757f3f854e) (ID 30220580) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148124+00:00 |
 | [Snuff (1976) SD CZ Titulky](https://prehraj.to/snuff-1976-sd-cz-titulky-mp4/837d4940c557a0d3) (ID 30946488) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159194+00:00 |
-| [Sněhový dort (2006) 1080p CZ Titulky](https://prehraj.to/snehovy-dort-2006-1080p-cz-titulky-mp4/f8d92e68fc7f6b8b) (ID 29411865) | [Sdílej 33173672](https://sdilej.cz/33173672/snow-cake-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:32:01.750069+00:00 |
+| [Sněhový dort (2006) 1080p CZ Titulky](https://prehraj.to/snehovy-dort-2006-1080p-cz-titulky-mp4/f8d92e68fc7f6b8b) (ID 29411865) | [Sdílej 33173672](https://sdilej.cz/33173672/snow-cake-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:31:59.272159+00:00 |
 | [Sobibor (2018) SD CZ Titulky](https://prehraj.to/sobibor-2018-sd-cz-titulky-avi/15603bd4cba7590c) (ID 30229240) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148213+00:00 |
 | [Sociální dilema (2020) 1080p CZ Titulky](https://prehraj.to/socialni-dilema-2020-1080p-cz-titulky-mp4/a86bd82a6ccf9b9f) (ID 29558320) | [Sdílej 34647118](https://sdilej.cz/34647118/socialni-dilema-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:49:00.842873+00:00 |
 | [Socky na vzestupu (2025) 1080p CZ Titulky](https://prehraj.to/socky-na-vzestupu-2025-1080p-cz-titulky-mp4/61016ea660f228cb) (ID 29299340) | [Sdílej 34723497](https://sdilej.cz/34723497/socky-na-vzestupu-2025-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:32:46.586909+00:00 |
