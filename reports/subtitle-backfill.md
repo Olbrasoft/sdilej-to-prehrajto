@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:39:58.547791+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:40:09.481837+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1807,7 +1807,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sebevražedný oddíl: Rozpoutané peklo (2018) SD CZ Titulky](https://prehraj.to/sebevrazedny-oddil-rozpoutane-peklo-2018-sd-cz-titulky-avi/a1443e558f0b4543) (ID 30887521) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532460+00:00 |
 | [Secret Weapon (2019) SD CZ Titulky](https://prehraj.to/secret-weapon-2019-sd-cz-titulky-mp4/d075d73605a09888) (ID 30455246) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.528367+00:00 |
 | [Secrets in the Sky: The Untold Story of Skunk Works (2019) 1080p CZ Titulky](https://prehraj.to/secrets-in-the-sky-the-untold-story-of-skunk-works-2019-1080p-cz-titulky-mp4/d97cb97bc77e91f8) (ID 30064235) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.524495+00:00 |
-| [Sedlák (2019) 720p CZ Titulky](https://prehraj.to/sedlak-2019-720p-cz-titulky-mp4/6b72ee4f346efa22) (ID 29828988) | [Sdílej 34733869](https://sdilej.cz/34733869/sedlak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:42:52.804415+00:00 |
+| [Sedlák (2019) 720p CZ Titulky](https://prehraj.to/sedlak-2019-720p-cz-titulky-mp4/6b72ee4f346efa22) (ID 29828988) | [Sdílej 34733869](https://sdilej.cz/34733869/sedlak-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:40:09.481725+00:00 |
 | [Sedm dní odplaty (2010) 1080p CZ Titulky](https://prehraj.to/sedm-dni-odplaty-2010-1080p-cz-titulky-mkv/ec78df6dc0b4d8ad) (ID 29819976) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.520990+00:00 |
 | [Sedm pěstí (1978) 1080p CZ Titulky](https://prehraj.to/sedm-pesti-1978-1080p-cz-titulky-mkv/c830aa8c67c51290) (ID 30309238) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.526578+00:00 |
 | [Sedm samurajů (1954) SD CZ Titulky](https://prehraj.to/sedm-samuraju-1954-sd-cz-titulky-avi/4053412073e3d4a0) (ID 30910800) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532896+00:00 |
