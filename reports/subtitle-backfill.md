@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:44:55.813329+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:45:02.875074+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1571,7 +1571,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pod bodem mrazu (2021) SD CZ Titulky](https://prehraj.to/pod-bodem-mrazu-2021-sd-cz-titulky-mkv/8f0560206e8cf5ef) (ID 30772275) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.658379+00:00 |
 | [Pod vlivem (2019) 1080p CZ Titulky](https://prehraj.to/pod-vlivem-2019-1080p-cz-titulky-mkv/d5a71e8b13fabdb6) (ID 30392014) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.651907+00:00 |
 | [Pod širým nebem (2019) SD CZ Titulky](https://prehraj.to/pod-sirym-nebem-2019-sd-cz-titulky-mkv/4b915cd8222f8e71) (ID 29578023) | [Sdílej 13249667](https://sdilej.cz/13249667/intemperie-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:39.930187+00:00 |
-| [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:40.959615+00:00 |
+| [Podmáznuté přijímačky (2021) 1080p CZ Titulky](https://prehraj.to/podmaznute-prijimacky-2021-1080p-cz-titulky-mp4/d2ce80d741cfcea3) (ID 29256445) | [Sdílej 34728871](https://sdilej.cz/34728871/podmaznute-prijimacky-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:45:02.874955+00:00 |
 | [Podnik na Pigalle (2018) SD CZ Titulky](https://prehraj.to/podnik-na-pigalle-2018-sd-cz-titulky-avi/67934651d5b8bfc3) (ID 30733086) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.657687+00:00 |
 | [Pohotovost (2022) 1080p CZ Titulky](https://prehraj.to/pohotovost-2022-1080p-cz-titulky-mp4/9733d1faac99634d) (ID 29983579) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.646235+00:00 |
 | [Pohoří smrti (1971) SD CZ Titulky](https://prehraj.to/pohori-smrti-1971-sd-cz-titulky-avi/19fcfffd442d6741) (ID 29674507) | [Sdílej 31350916](https://sdilej.cz/31350916/pohori-smrti-19-djevojaka-i-mornar-1971-czt-valecny-a-v.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:28:50.703342+00:00 |
