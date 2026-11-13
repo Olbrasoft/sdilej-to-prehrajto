@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:54:13.236030+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:54:25.863835+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1738,7 +1738,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Rituální zabiják (2023) 1080p CZ Titulky](https://prehraj.to/ritualni-zabijak-2023-1080p-cz-titulky-mp4/2ef56b31ce04736e) (ID 29910439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900970+00:00 |
 | [River of Blood (2024) 1080p CZ Titulky](https://prehraj.to/river-of-blood-2024-1080p-cz-titulky-mp4/c14474b49678bb7e) (ID 30911311) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.916904+00:00 |
 | [Road (2014) SD CZ Titulky](https://prehraj.to/road-2014-sd-cz-titulky-mp4/8a0d713a54896a3b) (ID 29307195) | [Sdílej 34776260](https://sdilej.cz/34776260/road-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:27:24.418467+00:00 |
-| [Roadrunner: Film o Anthonym Bourdainovi (2021) 1080p CZ Titulky](https://prehraj.to/roadrunner-film-o-anthonym-bourdainovi-2021-1080p-cz-titulky-mp4/8f39ffccc8497830) (ID 29559554) | [Sdílej 34772730](https://sdilej.cz/34772730/roadrunner-film-o-anthonym-bourdainovi-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:50:05.041681+00:00 |
+| [Roadrunner: Film o Anthonym Bourdainovi (2021) 1080p CZ Titulky](https://prehraj.to/roadrunner-film-o-anthonym-bourdainovi-2021-1080p-cz-titulky-mp4/8f39ffccc8497830) (ID 29559554) | [Sdílej 34772730](https://sdilej.cz/34772730/roadrunner-film-o-anthonym-bourdainovi-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:54:25.863702+00:00 |
 | [Robert the Bruce (2019) 720p CZ Titulky](https://prehraj.to/robert-the-bruce-2019-720p-cz-titulky-mp4/db1e6f5556e9487c) (ID 29912743) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901392+00:00 |
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900999+00:00 |
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:46:19.834159+00:00 |
