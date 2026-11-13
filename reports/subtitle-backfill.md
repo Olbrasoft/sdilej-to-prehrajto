@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:43:02.114260+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:43:12.982032+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -214,7 +214,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Beast of War (2025) 1080p CZ Titulky](https://prehraj.to/beast-of-war-2025-1080p-cz-titulky-mkv/8cb50dbc9d5472b3) (ID 29912694) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.142947+00:00 |
 | [Beautifully Broken (2018) SD CZ Titulky](https://prehraj.to/beautifully-broken-2018-sd-cz-titulky-avi/b32ce45729bd4871) (ID 30549589) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152794+00:00 |
 | [Becoming (2020) 1080p CZ Titulky](https://prehraj.to/becoming-2020-1080p-cz-titulky-mkv/37fc72f0e44640c7) (ID 29917921) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.143480+00:00 |
-| [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:42:36.226219+00:00 |
+| [Becoming Led Zeppelin (2025) 1080p CZ Titulky](https://prehraj.to/becoming-led-zeppelin-2025-1080p-cz-titulky-mp4/5ebdbb3669a7da86) (ID 29502455) | [Sdílej 34906628](https://sdilej.cz/34906628/becoming-led-zeppelin-2025-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:43:12.981921+00:00 |
 | [Becoming Warren Buffett (2017) 1080p CZ Titulky](https://prehraj.to/becoming-warren-buffett-2017-1080p-cz-titulky-avi/11404215fbc3706a) (ID 30035020) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.145657+00:00 |
 | [Before I Fall (2017) 1080p CZ Titulky](https://prehraj.to/before-i-fall-2017-1080p-cz-titulky-mkv/94035ae55e63a2f4) (ID 30926381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158503+00:00 |
 | [Before the Fire (2020) SD CZ Titulky](https://prehraj.to/before-the-fire-2020-sd-cz-titulky-avi/424c149d6f91b6f7) (ID 29731607) | [Sdílej 27602574](https://sdilej.cz/27602574/before.the.fire.2020.pl.480p.bdrip.xvid.dd2.0-k83.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:54:14.264895+00:00 |
