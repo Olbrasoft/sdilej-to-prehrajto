@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T11:30:28.175209+00:00
+Poslední aktualizace (UTC): 2026-11-13T11:30:38.818386+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1599,7 +1599,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Poslední Viking (2025) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29212781) | [Sdílej 33265909](https://sdilej.cz/33265909/2025-posledni-viking-komedie-drama-79-dansko-cz-tit..mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T10:29:05.062116+00:00 |
 | [Poslední autobus (2021) 1080p CZ Titulky](https://prehraj.to/posledni-autobus-2021-1080p-cz-titulky-mkv/afcb372bb516f3e6) (ID 29631425) | [Sdílej 31679567](https://sdilej.cz/31679567/the-last-bus-2021-1080p-bluray-x264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:12:03.893513+00:00 |
 | [Poslední kanibalové (1977) SD CZ Titulky](https://prehraj.to/posledni-kanibalove-1977-sd-cz-titulky-mp4/e308f8e7f537ac42) (ID 30324239) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.165181+00:00 |
-| [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:29:22.576023+00:00 |
+| [Poslední kolo (1994) SD CZ Titulky](https://prehraj.to/posledni-kolo-1994-sd-cz-titulky-avi/3ef0234b197b9786) (ID 29372400) | [Sdílej 30210881](https://sdilej.cz/30210881/posledni-kolo-1994-dobrodruzny-czdab.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:30:38.818248+00:00 |
 | [Poslední loupež (2001) 1080p CZ Titulky](https://prehraj.to/posledni-loupez-2001-1080p-cz-titulky-mp4/5c07bbf48e5080cb) (ID 30779152) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.171808+00:00 |
 | [Poslední léto (2019) 1080p CZ Titulky](https://prehraj.to/posledni-leto-2019-1080p-cz-titulky-mp4/24f569fb0ca5f002) (ID 30459572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.169596+00:00 |
 | [Poslední rytíři (2015) 1080p CZ Titulky](https://prehraj.to/posledni-rytiri-2015-1080p-cz-titulky-mkv/d6a9311ce19cb138) (ID 30313478) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.164948+00:00 |
