@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:59:16.510897+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:59:27.504089+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -83,7 +83,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Al di là della legge (1968) SD CZ Titulky](https://prehraj.to/al-di-la-della-legge-1968-sd-cz-titulky-mkv/cc65e5323db8a2fc) (ID 29270176) | [Sdílej 34780009](https://sdilej.cz/34780009/western-cz-tit-beyond-the-law-al-di-l-della-legge-1968-dvdrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:16:29.255132+00:00 |
 | [Albion: The Enchanted Stallion (2016) SD CZ Titulky](https://prehraj.to/albion-the-enchanted-stallion-2016-sd-cz-titulky-mp4/66b6a5053a0b641c) (ID 29611924) | [Sdílej 34737873](https://sdilej.cz/34737873/albion-the-enchanted-stallion-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:07:38.061295+00:00 |
 | [Alexander Něvský (1938) SD CZ Titulky](https://prehraj.to/alexander-nevsky-1938-sd-cz-titulky-mp4/2b993025d1e3e6e6) (ID 29411883) | [Sdílej 34699493](https://sdilej.cz/34699493/alexander-nevsky-1938-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:32:08.882673+00:00 |
-| [Alien Apocalypse (2023) SD CZ Titulky](https://prehraj.to/alien-apocalypse-2023-sd-cz-titulky-mp4/15f5bcc46c9fbc77) (ID 29567475) | [Sdílej 34772109](https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:55:13.751947+00:00 |
+| [Alien Apocalypse (2023) SD CZ Titulky](https://prehraj.to/alien-apocalypse-2023-sd-cz-titulky-mp4/15f5bcc46c9fbc77) (ID 29567475) | [Sdílej 34772109](https://sdilej.cz/34772109/alien-apocalypse-2023-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:59:27.503944+00:00 |
 | [Alien Predator (2018) 1080p CZ Titulky](https://prehraj.to/alien-predator-2018-1080p-cz-titulky-mkv/8f763956a4cabb07) (ID 29909034) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900865+00:00 |
 | [Alien: Rubicon (2024) SD CZ Titulky](https://prehraj.to/alien-rubicon-2024-sd-cz-titulky-mp4/2c7d04392aac83ab) (ID 30399669) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909318+00:00 |
 | [Alive (2018) 1080p CZ Titulky](https://prehraj.to/alive-2018-1080p-cz-titulky-avi/e336e8f3761ddd07) (ID 29911781) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901131+00:00 |
