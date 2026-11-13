@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T02:32:41.047157+00:00
+Poslední aktualizace (UTC): 2026-11-13T02:32:49.072770+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -952,7 +952,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Influencer (2022) 1080p CZ Titulky](https://prehraj.to/influencer-2022-1080p-cz-titulky-mp4/57384e4efbd1dad0) (ID 30484875) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.178741+00:00 |
 | [Influencers (2025) 1080p CZ Titulky](https://prehraj.to/influencers-2025-1080p-cz-titulky-mp4/a8a8a88edb523208) (ID 30340147) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.177185+00:00 |
 | [Ingeborg Bachmannová - Cesta do pouště (2023) 1080p CZ Titulky](https://prehraj.to/ingeborg-bachmannova-cesta-do-pouste-2023-1080p-cz-titulky-mkv/684a5de9ee706a14) (ID 30784162) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.181646+00:00 |
-| [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:30:25.848362+00:00 |
+| [Injustice (2021) 720p CZ Titulky](https://prehraj.to/injustice-2021-720p-cz-titulky-mkv/ffb5bc712c4a71b6) (ID 29268748) | [Sdílej 18465092](https://sdilej.cz/18465092/injustice.2021.720p.bluray.x264.dts-mt.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T02:32:49.072638+00:00 |
 | [Inkarnace (2016) 1080p CZ Titulky](https://prehraj.to/inkarnace-2016-1080p-cz-titulky-mkv/052ecc538b3641a6) (ID 30379261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.177615+00:00 |
 | [Inner Demons (2014) SD CZ Titulky](https://prehraj.to/inner-demons-2014-sd-cz-titulky-avi/49e73732dbab1b79) (ID 29679619) | [Sdílej 34447135](https://sdilej.cz/34447135/inner-demons.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:31:14.877381+00:00 |
 | [InterReflections (2020) 1080p CZ Titulky](https://prehraj.to/interreflections-2020-1080p-cz-titulky-mp4/9788ac60f6d7dd56) (ID 30933782) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.184420+00:00 |
