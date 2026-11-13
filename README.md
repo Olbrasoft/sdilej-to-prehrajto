@@ -14,15 +14,16 @@ přepošle do multipart uploadu Přehraj.to. Celý film se na runner neukládá.
 5. Nech workflow `prepare-sources` průběžně plnit frontu ověřených zdrojů.
 6. Teprve po obou úspěšných pilotech nastav repository variable
    `CONTINUOUS_ENABLED=true`. Volitelná `CONTINUOUS_BATCH_SIZE` může být 1–50,
-   výchozí dílčí dávka je 25 filmů.
+   výchozí dílčí dávka je 5 filmů. Krátká dávka umožní načíst nové zdroje
+   i při pomalých kontrolách dříve odeslaných videí.
 
 Příprava a upload jsou dva nezávislé dlouhodobé procesy. Producer opakuje
 vyhledávání a jazykové ověřování po dobu až 330 minut jednoho runneru a může
-postupně připravit celý backlog. Pět rychlých přípravných workerů kontroluje jen
+postupně připravit celý backlog. Tři rychlé přípravné workery kontrolují jen
 první tři kandidáty jednoho filmu. Kandidátsky náročný film pak uloží do trvalé
-hluboké fronty, kterou souběžně zpracovává šestý worker bez omezení počtu
-kandidátů. Uploader po stejnou dobu opakovaně odebírá připravené dávky nejvýše po třech
-přenosech současně. Pokud je fronta krátce prázdná, čeká 30 sekund a znovu
+hluboké fronty, kterou souběžně zpracovávají další tři workery bez omezení počtu
+kandidátů. Uploader po stejnou dobu opakovaně odebírá připravené dávky s jediným
+přenosem současně. Pokud je fronta krátce prázdná, čeká 30 sekund a znovu
 načte nové checkpointy produceru. Oba hodinové triggery se díky vlastním
 concurrency skupinám průběžně střídají bez vzájemného blokování.
 
