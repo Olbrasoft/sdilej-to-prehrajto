@@ -140548,13 +140548,6 @@
     "29053": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35174211",
-          "reason": "Source detail has no authenticated download link; source_id=35174211",
-          "permanent": false,
-          "attempted_at": "2026-11-05T14:41:45.854508+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "35291987",
@@ -140568,6 +140561,13 @@
           "target_video_id": "30993693",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-11-11T20:43:14.232412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35291987",
+          "target_video_id": "30993693",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:50:02.378036+00:00"
         }
       ],
       "last_plan": {
@@ -443929,5 +443929,5 @@
       }
     }
   },
-  "updated_at": "2026-11-13T16:49:54.609658+00:00"
+  "updated_at": "2026-11-13T16:50:02.378054+00:00"
 }
