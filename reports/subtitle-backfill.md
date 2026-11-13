@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:34:00.746802+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:34:12.051334+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1379,7 +1379,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Neklid na lůžku (2023) 1080p CZ Titulky](https://prehraj.to/neklid-na-luzku-2023-1080p-cz-titulky-mp4/14b5f8bd30fe3d67) (ID 30942019) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.533882+00:00 |
 | [Neklidná mysl (2015) SD CZ Titulky](https://prehraj.to/neklidna-mysl-2015-sd-cz-titulky-avi/f4d4c48aaac1798c) (ID 30587800) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529493+00:00 |
 | [Nekonečná cesta (2017) 1080p CZ Titulky](https://prehraj.to/nekonecna-cesta-2017-1080p-cz-titulky-mkv/16875fb3e5f80dfe) (ID 29633019) | [Sdílej 10615882](https://sdilej.cz/10615882/nekonecna-cesta-ikitie-2017.1080p.bluray.finn.dts-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:43.879423+00:00 |
-| [Nekonečná smyčka (2022) 1080p CZ Titulky](https://prehraj.to/nekonecna-smycka-2022-1080p-cz-titulky-mp4/0b2ea40299ea8b7b) (ID 29751340) | [Sdílej 34727038](https://sdilej.cz/34727038/nekonecna-smycka-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:36:56.526276+00:00 |
+| [Nekonečná smyčka (2022) 1080p CZ Titulky](https://prehraj.to/nekonecna-smycka-2022-1080p-cz-titulky-mp4/0b2ea40299ea8b7b) (ID 29751340) | [Sdílej 34727038](https://sdilej.cz/34727038/nekonecna-smycka-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:12.051217+00:00 |
 | [Nekrotronic (2018) 1080p CZ Titulky](https://prehraj.to/nekrotronic-2018-1080p-cz-titulky-mp4/f6a79f93d3dfff7e) (ID 29918788) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.522276+00:00 |
 | [Neloučení (2022) 720p CZ Titulky](https://prehraj.to/nelouceni-2022-720p-cz-titulky-avi/20b59060e8623092) (ID 30337572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.526739+00:00 |
 | [Nemesis (1992) 1080p CZ Titulky](https://prehraj.to/nemesis-1992-1080p-cz-titulky-mp4/c3ceebce1960c2d1) (ID 29931759) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.522817+00:00 |
