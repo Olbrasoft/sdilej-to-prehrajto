@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:44:42.374738+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:44:49.056419+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -969,7 +969,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ironclad 2: Battle for Blood (2014) SD CZ Titulky](https://prehraj.to/ironclad-2-battle-for-blood-2014-sd-cz-titulky-avi/cc6bd6886da5efa2) (ID 30937711) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.662320+00:00 |
 | [Irčan v rozhovorech (2019) 1080p CZ Titulky](https://prehraj.to/ircan-v-rozhovorech-2019-1080p-cz-titulky-mp4/2a1c4ff91d77e010) (ID 29833818) | [Sdílej 34734267](https://sdilej.cz/34734267/ircan-v-rozhovorech-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:43:01.078866+00:00 |
 | [Is That Black Enough for You (2022) 1080p CZ Titulky.mp4](https://prehraj.to/is-that-black-enough-for-you-2022-1080p-cz-titulky-mp4/143cef4bfc972ff7) (ID 30047329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.646947+00:00 |
-| [Isi a Ossi (2020) 1080p CZ Titulky](https://prehraj.to/isi-a-ossi-2020-1080p-cz-titulky-mp4/9a1e759aa7b8d101) (ID 29252432) | [Sdílej 34733122](https://sdilej.cz/34733122/isi-a-ossi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:30:24.354487+00:00 |
+| [Isi a Ossi (2020) 1080p CZ Titulky](https://prehraj.to/isi-a-ossi-2020-1080p-cz-titulky-mp4/9a1e759aa7b8d101) (ID 29252432) | [Sdílej 34733122](https://sdilej.cz/34733122/isi-a-ossi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:44:49.056308+00:00 |
 | [Island of Lemurs: Madagascar (2014) 1080p CZ Titulky](https://prehraj.to/island-of-lemurs-madagascar-2014-1080p-cz-titulky-mp4/203d7c62e6b558c7) (ID 30889529) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.660432+00:00 |
 | [It Ends (2025) 4K CZ Titulky](https://prehraj.to/it-ends-2025-4k-cz-titulky-mkv/1d4d2d4fa720094b) (ID 29922480) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.645501+00:00 |
 | [It Feeds (2025) 1080p CZ Titulky](https://prehraj.to/it-feeds-2025-1080p-cz-titulky-mp4/58877782a9a1ce54) (ID 29912767) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.644960+00:00 |
