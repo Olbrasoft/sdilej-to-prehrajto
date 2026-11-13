@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:43:12.982032+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:43:24.428435+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1450,7 +1450,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Něco z Alenky (1988) SD CZ Titulky](https://prehraj.to/neco-z-alenky-1988-sd-cz-titulky-avi/e947df236f26ecfa) (ID 29411861) | [Sdílej 25735969](https://sdilej.cz/25735969/alice.darling.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:31:24.369018+00:00 |
 | [Někdo skvělý (2019) 1080p CZ Titulky](https://prehraj.to/nekdo-skvely-2019-1080p-cz-titulky-mp4/8f8c30fe265567e3) (ID 30485321) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152246+00:00 |
 | [Něsokrušimyj (2018) 1080p CZ Titulky](https://prehraj.to/nesokrusimyj-2018-1080p-cz-titulky-avi/848291d0c4a7d73d) (ID 30485484) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152258+00:00 |
-| [Nůž ve vodě (1962) SD CZ Titulky](https://prehraj.to/nuz-ve-vode-1962-sd-cz-titulky-mp4/f5abe3c2b754b43c) (ID 29502555) | [Sdílej 34699986](https://sdilej.cz/34699986/nuz-ve-vode-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:42:44.404369+00:00 |
+| [Nůž ve vodě (1962) SD CZ Titulky](https://prehraj.to/nuz-ve-vode-1962-sd-cz-titulky-mp4/f5abe3c2b754b43c) (ID 29502555) | [Sdílej 34699986](https://sdilej.cz/34699986/nuz-ve-vode-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:43:24.428302+00:00 |
 | [O bozích a lidech (2010) SD CZ Titulky](https://prehraj.to/o-bozich-a-lidech-2010-sd-cz-titulky-mp4/6e63f513f0d8adc3) (ID 29340001) | [Sdílej 34709942](https://sdilej.cz/34709942/o-bozich-a-lidech-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:26:52.147703+00:00 |
 | [O osudu (2022) 1080p CZ Titulky](https://prehraj.to/o-osudu-2022-1080p-cz-titulky-mkv/11ecb2f003a143dd) (ID 30943919) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159133+00:00 |
 | [OBEX (2025) 1080p CZ Titulky](https://prehraj.to/obex-2025-1080p-cz-titulky-mkv/b72f44f271a39fa1) (ID 30254537) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148498+00:00 |
