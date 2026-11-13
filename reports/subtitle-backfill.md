@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T08:27:24.418572+00:00
+Poslední aktualizace (UTC): 2026-11-13T08:27:33.230785+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -857,7 +857,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [High-Rise (2015) 1080p CZ Titulky](https://prehraj.to/high-rise-2015-1080p-cz-titulky-mkv/ce6430b057c50b3a) (ID 30937018) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.476391+00:00 |
 | [Higher Power (2018) 1080p CZ Titulky.mkv](https://prehraj.to/higher-power-2018-1080p-cz-titulky-mkv/89151ca96103d63f) (ID 29932986) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.469109+00:00 |
 | [Highlander III (1994) 1080p CZ Titulky](https://prehraj.to/highlander-iii-1994-1080p-cz-titulky-mkv/e113dd7a75c58624) (ID 30422917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.472554+00:00 |
-| [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:29:34.808162+00:00 |
+| [Hilary a Jackie (1998) SD CZ Titulky](https://prehraj.to/hilary-a-jackie-1998-sd-cz-titulky-mp4/adafbeb60af3c7d7) (ID 29308111) | [Sdílej 34751551](https://sdilej.cz/34751551/hilary-a-jackie-1998-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:27:33.230670+00:00 |
 | [Hinsdale House (2019) 1080p CZ Titulky](https://prehraj.to/hinsdale-house-2019-1080p-cz-titulky-mkv/e0e00ae53dba7aeb) (ID 30428174) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.472584+00:00 |
 | [History of the World: Part I (1981) 720p CZ Titulky](https://prehraj.to/history-of-the-world-part-i-1981-720p-cz-titulky-mkv/37d95f7bcbd876da) (ID 29315006) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.465255+00:00 |
 | [Hitman: Agent Jun (2020) 1080p CZ Titulky](https://prehraj.to/hitman-agent-jun-2020-1080p-cz-titulky-mp4/81fc11118bbd4bab) (ID 30788216) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.474906+00:00 |
