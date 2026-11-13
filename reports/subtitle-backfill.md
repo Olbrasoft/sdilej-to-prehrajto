@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:05:17.572537+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:05:25.557100+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2439,7 +2439,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Worry Dolls (2016) SD CZ Titulky](https://prehraj.to/worry-dolls-2016-sd-cz-titulky-avi/0a5a845933d96e9f) (ID 30863875) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251089+00:00 |
 | [Wražda (2021) 1080p CZ Titulky](https://prehraj.to/wrazda-2021-1080p-cz-titulky-mp4/6f5fa4bd404b0c02) (ID 29911307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244271+00:00 |
 | [Wrecker (2015) SD CZ Titulky](https://prehraj.to/wrecker-2015-sd-cz-titulky-mp4/e12af80b0fc965c1) (ID 29750574) | [Sdílej 34737903](https://sdilej.cz/34737903/wrecker-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:36:12.753295+00:00 |
-| [Wunderland (2018) SD CZ Titulky](https://prehraj.to/wunderland-2018-sd-cz-titulky-mp4/07eb74af3d9ffaa6) (ID 29738759) | [Sdílej 34716591](https://sdilej.cz/34716591/wunderland-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:02:28.106067+00:00 |
+| [Wunderland (2018) SD CZ Titulky](https://prehraj.to/wunderland-2018-sd-cz-titulky-mp4/07eb74af3d9ffaa6) (ID 29738759) | [Sdílej 34716591](https://sdilej.cz/34716591/wunderland-2018-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:05:25.556989+00:00 |
 | [Xtreme (2021) 1080p CZ Titulky](https://prehraj.to/xtreme-2021-1080p-cz-titulky-mp4/5a83197136ae94a8) (ID 29911838) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244329+00:00 |
 | [Yaara (2020) 720p CZ Titulky](https://prehraj.to/yaara-2020-720p-cz-titulky-mp4/f14a0fac92ab531a) (ID 29936917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245521+00:00 |
 | [Yakuza Princess (2021) 1080p CZ Titulky](https://prehraj.to/yakuza-princess-2021-1080p-cz-titulky-mp4/2b9a55d943aab8a1) (ID 30957440) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252538+00:00 |
