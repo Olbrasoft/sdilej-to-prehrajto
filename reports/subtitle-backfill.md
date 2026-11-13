@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:02:42.940697+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:02:57.382325+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2496,7 +2496,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Zombeavers (2014) 1080p CZ Titulky](https://prehraj.to/zombeavers-2014-1080p-cz-titulky-mp4/43fafd36e9c5ae44) (ID 29907381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244042+00:00 |
 | [Zombi 2 (1979) SD CZ Titulky](https://prehraj.to/zombi-2-1979-sd-cz-titulky-mkv/2e7d4ae6be28c721) (ID 30069703) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246389+00:00 |
 | [Zombi 3 (1988) 720p CZ Titulky](https://prehraj.to/zombi-3-1988-720p-cz-titulky-mkv/1444b50ee3044878) (ID 29933340) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245327+00:00 |
-| [Zombie Hunter (2013) SD CZ Titulky](https://prehraj.to/zombie-hunter-2013-sd-cz-titulky-avi/1d4bf98178006eee) (ID 29736101) | [Sdílej 30456953](https://sdilej.cz/30456953/zombie-hunter.2013.brrip.-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:59:49.382932+00:00 |
+| [Zombie Hunter (2013) SD CZ Titulky](https://prehraj.to/zombie-hunter-2013-sd-cz-titulky-avi/1d4bf98178006eee) (ID 29736101) | [Sdílej 30456953](https://sdilej.cz/30456953/zombie-hunter.2013.brrip.-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:02:57.382204+00:00 |
 | [Zombie Tidal Wave (2019) 1080p CZ Titulky](https://prehraj.to/zombie-tidal-wave-2019-1080p-cz-titulky-mkv/0c8019f9dee83826) (ID 30376804) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248100+00:00 |
 | [Zombies (2016) 1080p CZ Titulky](https://prehraj.to/zombies-2016-1080p-cz-titulky-mkv/8aa4398537b03492) (ID 29971372) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245732+00:00 |
 | [Zombieworld (2015) SD CZ Titulky](https://prehraj.to/zombieworld-2015-sd-cz-titulky-avi/d6ca90acfe758070) (ID 29714898) | [Sdílej 4364671](https://sdilej.cz/4364671/zombieworld-2015-cz-titulky-horor.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:50:28.545995+00:00 |
