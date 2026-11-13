@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:04:21.205699+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:04:31.499775+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -230,7 +230,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Betonová past (2019) 1080p CZ Titulky](https://prehraj.to/betonova-past-2019-1080p-cz-titulky-mkv/23c84cd876df10a3) (ID 29089422) | [Sdílej 13193514](https://sdilej.cz/13193514/trauma-center-2019-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:37.956207+00:00 |
 | [Betonový kovboj (2020) 1080p CZ Titulky](https://prehraj.to/betonovy-kovboj-2020-1080p-cz-titulky-mp4/f577b5f901334c34) (ID 29567536) | [Sdílej 34733416](https://sdilej.cz/34733416/betonovy-kovboj-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:00:51.210097+00:00 |
 | [Betonrauš (2020) 1080p CZ Titulky](https://prehraj.to/betonraus-2020-1080p-cz-titulky-mkv/47a04ec254b17672) (ID 30313587) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.908008+00:00 |
-| [Beware the Slenderman (2016) 1080p CZ Titulky](https://prehraj.to/beware-the-slenderman-2016-1080p-cz-titulky-mp4/67dcb00c4ef57b3f) (ID 29582153) | [Sdílej 34737859](https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:59:59.758683+00:00 |
+| [Beware the Slenderman (2016) 1080p CZ Titulky](https://prehraj.to/beware-the-slenderman-2016-1080p-cz-titulky-mp4/67dcb00c4ef57b3f) (ID 29582153) | [Sdílej 34737859](https://sdilej.cz/34737859/beware-the-slenderman-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:04:31.499658+00:00 |
 | [Beyond Skyline (2017) 1080p CZ Titulky](https://prehraj.to/beyond-skyline-2017-1080p-cz-titulky-mkv/c2d7166174733ba3) (ID 30624602) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912666+00:00 |
 | [Bez přestání (2022) 1080p CZ Titulky](https://prehraj.to/bez-prestani-2022-1080p-cz-titulky-mkv/de0455c061e99b43) (ID 30614843) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912507+00:00 |
 | [Bezpečí (2021) 1080p CZ Titulky](https://prehraj.to/bezpeci-2021-1080p-cz-titulky-mp4/0427bfd5d0103bff) (ID 30858806) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915207+00:00 |
