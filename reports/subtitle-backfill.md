@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T15:27:34.566797+00:00
+Poslední aktualizace (UTC): 2026-11-13T15:27:43.242293+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2459,7 +2459,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zelený had (2021) 1080p CZ Titulky](https://prehraj.to/zeleny-had-2021-1080p-cz-titulky-mp4/3d45635b0e18bbba) (ID 29460364) | [Sdílej 34727964](https://sdilej.cz/34727964/zeleny-had-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:38:35.410350+00:00 |
 | [Zelený lučištník (1961) 1080p CZ Titulky](https://prehraj.to/zeleny-lucistnik-1961-1080p-cz-titulky-mkv/337918ac4eccbeff) (ID 30215002) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.097820+00:00 |
 | [Země a krev (2020) 1080p CZ Titulky](https://prehraj.to/zeme-a-krev-2020-1080p-cz-titulky-avi/ccaf5f003ba8df8d) (ID 29913573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.093475+00:00 |
-| [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T14:26:54.160104+00:00 |
+| [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T15:27:43.242174+00:00 |
 | [Země kůlů (2010) 1080p CZ Titulky](https://prehraj.to/zeme-kulu-2010-1080p-cz-titulky-mkv/e3fce2bb4d5b167f) (ID 30280807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.098432+00:00 |
 | [Země na scestí (2019) 1080p CZ Titulky](https://prehraj.to/zeme-na-scesti-2019-1080p-cz-titulky-mkv/c54ce521b58304ad) (ID 30743293) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.103000+00:00 |
 | [Zemětřesení (2018) SD CZ Titulky](https://prehraj.to/zemetreseni-2018-sd-cz-titulky-avi/bf9dc1b755088deb) (ID 29993413) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.096482+00:00 |
