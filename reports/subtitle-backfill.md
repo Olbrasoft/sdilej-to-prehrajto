@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:54:51.558896+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:54:58.724541+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1536,7 +1536,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Paradox (2016) 1080p CZ Titulky](https://prehraj.to/paradox-2016-1080p-cz-titulky-mp4/bb4a8e887841423f) (ID 29733276) | [Sdílej 34737704](https://sdilej.cz/34737704/paradox-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:56:41.876278+00:00 |
 | [Paranormal Activity: Next of Kin (2021) 1080p CZ Titulky](https://prehraj.to/paranormal-activity-next-of-kin-2021-1080p-cz-titulky-mp4/b2d59477e5d385c0) (ID 30387383) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909073+00:00 |
 | [Parazit z chlaďáku (2026) 4K CZ Titulky](https://prehraj.to/parazit-z-chladaku-2026-4k-cz-titulky-mkv/08036b151de6ef92) (ID 29911970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901194+00:00 |
-| [Pardon, nezastihli jsme vás (2019) 720p CZ Titulky](https://prehraj.to/pardon-nezastihli-jsme-vas-2019-720p-cz-titulky-mkv/9eb618883236ecba) (ID 29560434) | [Sdílej 34176971](https://sdilej.cz/34176971/2019-pardon-nezastihli-jsme-vas-drama-76-cztit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:50:36.956057+00:00 |
+| [Pardon, nezastihli jsme vás (2019) 720p CZ Titulky](https://prehraj.to/pardon-nezastihli-jsme-vas-2019-720p-cz-titulky-mkv/9eb618883236ecba) (ID 29560434) | [Sdílej 34176971](https://sdilej.cz/34176971/2019-pardon-nezastihli-jsme-vas-drama-76-cztit..mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:54:58.724406+00:00 |
 | [Partyzánka (2024) 1080p CZ Titulky](https://prehraj.to/partyzanka-2024-1080p-cz-titulky-mkv/30ce887351bb1d8f) (ID 30276454) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.907406+00:00 |
 | [Patema nohama vzhůru (2013) 720p CZ Titulky](https://prehraj.to/patema-nohama-vzhuru-2013-720p-cz-titulky-mkv/31d0fabae6052c17) (ID 30880159) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915971+00:00 |
 | [Paterson (2016) SD CZ Titulky](https://prehraj.to/paterson-2016-sd-cz-titulky-mkv/14feaa2a0f273f3d) (ID 30024191) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.904581+00:00 |
