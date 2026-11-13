@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:29:58.457156+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:30:06.878949+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2358,7 +2358,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Violence Action (2022) 1080p CZ Titulky](https://prehraj.to/violence-action-2022-1080p-cz-titulky-mp4/d69a8bbc173eb1b8) (ID 29611154) | [Sdílej 34726508](https://sdilej.cz/34726508/violence-action-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:11:24.032338+00:00 |
 | [Violet (2021) SD CZ Titulky](https://prehraj.to/violet-2021-sd-cz-titulky-avi/3bb7c21ecd5a93e5) (ID 30254388) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653473+00:00 |
 | [Virus (2019) 720p CZ Titulky](https://prehraj.to/virus-2019-720p-cz-titulky-mp4/7a98ea5b0d03bd98) (ID 29887510) | [Sdílej 34733658](https://sdilej.cz/34733658/virus-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:45:59.738800+00:00 |
-| [Virus Shark (2021) 1080p CZ Titulky](https://prehraj.to/virus-shark-2021-1080p-cz-titulky-mp4/4a92737f8ae2afca) (ID 29656500) | [Sdílej 34728190](https://sdilej.cz/34728190/virus-shark-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:24:40.962005+00:00 |
+| [Virus Shark (2021) 1080p CZ Titulky](https://prehraj.to/virus-shark-2021-1080p-cz-titulky-mp4/4a92737f8ae2afca) (ID 29656500) | [Sdílej 34728190](https://sdilej.cz/34728190/virus-shark-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:30:06.878835+00:00 |
 | [Vlci (2024) 4K CZ Titulky](https://prehraj.to/vlci-2024-4k-cz-titulky-mkv/f8292792c901c99d) (ID 30233355) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653348+00:00 |
 | [Vleesdag (2025) 1080p CZ Titulky](https://prehraj.to/vleesdag-2025-1080p-cz-titulky-mkv/91778d541297e094) (ID 29975235) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.651398+00:00 |
 | [Vnitřní démoni (1972) 1080p CZ Titulky](https://prehraj.to/vnitrni-demoni-1972-1080p-cz-titulky-mp4/aef1558cb487e231) (ID 29646520) | [Sdílej 34755959](https://sdilej.cz/34755959/vnitrni-demoni-1972-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:23:23.018096+00:00 |
