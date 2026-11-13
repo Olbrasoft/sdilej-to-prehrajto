@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:21:05.712486+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:21:14.312899+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1024,7 +1024,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [John Mulaney a parta svačinářů (2019) 1080p CZ Titulky](https://prehraj.to/john-mulaney-a-parta-svacinaru-2019-1080p-cz-titulky-mp4/eaad09f317dd6e25) (ID 29352289) | [Sdílej 34734252](https://sdilej.cz/34734252/john-mulaney-a-parta-svacinaru-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:32:25.806502+00:00 |
 | [John and the Hole (2021) 1080p CZ Titulky](https://prehraj.to/john-and-the-hole-2021-1080p-cz-titulky-mkv/6160fc63321e42d1) (ID 30373987) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654508+00:00 |
 | [Johnny Got His Gun (1971) 1080p CZ Titulky](https://prehraj.to/johnny-got-his-gun-1971-1080p-cz-titulky-avi/355a3069968ca3f1) (ID 28947971) | [Sdílej 29346916](https://sdilej.cz/29346916/johnny-si-vzal-pusku-1971-johnny-got-his-gun-marhs-hunt-timothy-bottoms-eng.-cz-ttl..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:39:14.257254+00:00 |
-| [Jonas Brothers Family Roast (2021) 1080p CZ Titulky](https://prehraj.to/jonas-brothers-family-roast-2021-1080p-cz-titulky-mp4/09ec0f4b8ab593fa) (ID 29639336) | [Sdílej 34772886](https://sdilej.cz/34772886/jonas-brothers-family-roast-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:16:17.357967+00:00 |
+| [Jonas Brothers Family Roast (2021) 1080p CZ Titulky](https://prehraj.to/jonas-brothers-family-roast-2021-1080p-cz-titulky-mp4/09ec0f4b8ab593fa) (ID 29639336) | [Sdílej 34772886](https://sdilej.cz/34772886/jonas-brothers-family-roast-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:21:14.312788+00:00 |
 | [Jonathan (2018) 1080p CZ Titulky](https://prehraj.to/jonathan-2018-1080p-cz-titulky-mkv/737365bffba18ce1) (ID 30347611) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654205+00:00 |
 | [Journey to the West: Demon Chapter (2017) SD CZ Titulky](https://prehraj.to/journey-to-the-west-demon-chapter-2017-sd-cz-titulky-mp4/6ba85bdd5bf019a6) (ID 29938773) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.650881+00:00 |
 | [Jsem s tebou (2004) SD CZ Titulky](https://prehraj.to/jsem-s-tebou-2004-sd-cz-titulky-mp4/8fbc9f39ecdcba67) (ID 29261675) | [Sdílej 34751375](https://sdilej.cz/34751375/jsem-s-tebou-2004-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:46:11.247088+00:00 |
