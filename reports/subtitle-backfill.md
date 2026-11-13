@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:03:36.126879+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:03:44.583860+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2031,7 +2031,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Tarzan, opičí muž (1981) 1080p CZ Titulky](https://prehraj.to/tarzan-opici-muz-1981-1080p-cz-titulky-mp4/1e2517bf4666bfb2) (ID 30644989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912929+00:00 |
 | [Tatami (2023) 1080p CZ Titulky](https://prehraj.to/tatami-2023-1080p-cz-titulky-avi/f31f0e845a7d55ea) (ID 30880669) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.916002+00:00 |
 | [Tau (2018) SD CZ Titulky](https://prehraj.to/tau-2018-sd-cz-titulky-avi/39aebab17d5de972) (ID 29912807) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901423+00:00 |
-| [Technoboys (2024) 1080p CZ Titulky](https://prehraj.to/technoboys-2024-1080p-cz-titulky-mp4/1d64604afe1ff2ca) (ID 29578891) | [Sdílej 34724763](https://sdilej.cz/34724763/technoboys-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:59:12.824400+00:00 |
+| [Technoboys (2024) 1080p CZ Titulky](https://prehraj.to/technoboys-2024-1080p-cz-titulky-mp4/1d64604afe1ff2ca) (ID 29578891) | [Sdílej 34724763](https://sdilej.cz/34724763/technoboys-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:03:44.583739+00:00 |
 | [Ted K (2021) 1080p CZ Titulky](https://prehraj.to/ted-k-2021-1080p-cz-titulky-mkv/2f2de72e894447ad) (ID 30875482) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915837+00:00 |
 | [Teefa in Trouble (2018) 1080p CZ Titulky](https://prehraj.to/teefa-in-trouble-2018-1080p-cz-titulky-mp4/695366ab12d765c6) (ID 29372882) | [Sdílej 34735790](https://sdilej.cz/34735790/teefa-in-trouble-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:31:05.664455+00:00 |
 | [Telekinez (2023) 1080p CZ Titulky](https://prehraj.to/telekinez-2023-1080p-cz-titulky-avi/5ac496b1a4a55857) (ID 30518841) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.911225+00:00 |
