@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:40:28.744841+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:40:42.862240+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1778,7 +1778,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sam Smith: Love Goes – Live at Abbey Road Studios (2021) 720p CZ Titulky](https://prehraj.to/sam-smith-love-goes-live-at-abbey-road-studios-2021-720p-cz-titulky-mp4/f9db90a1cb195855) (ID 29476203) | [Sdílej 34728701](https://sdilej.cz/34728701/sam-smith-love-goes-live-at-abbey-road-studios-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:06:47.637551+00:00 |
 | [Samantha Darko (2009) 1080p CZ Titulky](https://prehraj.to/samantha-darko-2009-1080p-cz-titulky-mkv/51acfcf77594b9cc) (ID 30524195) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.528871+00:00 |
 | [Samurai Marathon (2019) SD CZ Titulky](https://prehraj.to/samurai-marathon-2019-sd-cz-titulky-mp4/46e18343a6a9b2d8) (ID 30478898) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.528558+00:00 |
-| [Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky](https://prehraj.to/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-sd-cz-titulky-mp4/aed7498ebad752ae) (ID 29846766) | [Sdílej 34756127](https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:43:30.549144+00:00 |
+| [Samuraj - Musaši Mijamoto: Souboj na ostrově Ganrjú (1956) SD CZ Titulky](https://prehraj.to/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-sd-cz-titulky-mp4/aed7498ebad752ae) (ID 29846766) | [Sdílej 34756127](https://sdilej.cz/34756127/samuraj-musasi-mijamoto-souboj-na-ostrove-ganrju-1956-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:40:42.862121+00:00 |
 | [Sanam Re (2016) SD CZ Titulky](https://prehraj.to/sanam-re-2016-sd-cz-titulky-mp4/8fc18c80b2bdb916) (ID 30911420) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532925+00:00 |
 | [Sandy Wexler (2017) SD CZ Titulky](https://prehraj.to/sandy-wexler-2017-sd-cz-titulky-mp4/024c43829f549150) (ID 30387240) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.527372+00:00 |
 | [Sang Krasue (2019) 1080p CZ Titulky](https://prehraj.to/sang-krasue-2019-1080p-cz-titulky-mkv/6eb6563a8102dab9) (ID 30567510) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529166+00:00 |
