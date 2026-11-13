@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:55:24.838991+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:55:38.701509+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -296,7 +296,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Breakdown Lane (2017) SD CZ Titulky](https://prehraj.to/breakdown-lane-2017-sd-cz-titulky-mkv/bf91a3292885f16f) (ID 29658008) | [Sdílej 34798204](https://sdilej.cz/34798204/breakdown.lane.2017.720p.bluray.x264-getit.sk.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:39.948736+00:00 |
 | [Breeder (2020) 1080p CZ Titulky](https://prehraj.to/breeder-2020-1080p-cz-titulky-mkv/205b001c0a9a5374) (ID 29912189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901270+00:00 |
 | [Brestská pevnost (2010) 720p CZ Titulky](https://prehraj.to/brestska-pevnost-2010-720p-cz-titulky-avi/8eb183c5b0821a97) (ID 30103403) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.905573+00:00 |
-| [Brian Banks (2018) SD CZ Titulky](https://prehraj.to/brian-banks-2018-sd-cz-titulky-avi/a24a7f611603d7d6) (ID 29560923) | [Sdílej 14043585](https://sdilej.cz/14043585/brian.banks.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:51:22.025922+00:00 |
+| [Brian Banks (2018) SD CZ Titulky](https://prehraj.to/brian-banks-2018-sd-cz-titulky-avi/a24a7f611603d7d6) (ID 29560923) | [Sdílej 14043585](https://sdilej.cz/14043585/brian.banks.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:55:38.701363+00:00 |
 | [Brimstone (2016) 1080p CZ Titulky](https://prehraj.to/brimstone-2016-1080p-cz-titulky-mkv/2956b0c605fba62a) (ID 29428108) | [Sdílej 30615192](https://sdilej.cz/30615192/brimstone.2016.1080p.web-dl.x264-fgt-en-dub-sk-subtitles.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:32.368764+00:00 |
 | [Brimstone Incorporated (2021) 1080p CZ Titulky](https://prehraj.to/brimstone-incorporated-2021-1080p-cz-titulky-mp4/d56cf1f00031bc6e) (ID 30572883) | [Sdílej 34773042](https://sdilej.cz/34773042/brimstone-incorporated-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-10T22:36:17.363154+00:00 |
 | [Broken Contract (2018) SD CZ Titulky](https://prehraj.to/broken-contract-2018-sd-cz-titulky-avi/49f2ef4135a66748) (ID 30191328) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.906490+00:00 |
