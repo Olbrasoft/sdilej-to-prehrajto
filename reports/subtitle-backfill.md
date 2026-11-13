@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:44:45.349674+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:44:54.151216+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -882,7 +882,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Holá sebeúcta (2021) 1080p CZ Titulky](https://prehraj.to/hola-sebeucta-2021-1080p-cz-titulky-mp4/ce3168e938c731d5) (ID 29332800) | [Sdílej 34730773](https://sdilej.cz/34730773/hola-sebeucta-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:37:28.562589+00:00 |
 | [Home Invasion (2016) SD CZ Titulky](https://prehraj.to/home-invasion-2016-sd-cz-titulky-avi/3d433bbe8dcb9fc9) (ID 29905333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.142236+00:00 |
 | [Hon za pravdou: Dezinformace a cena falešných zpráv (2020) SD CZ Titulky](https://prehraj.to/hon-za-pravdou-dezinformace-a-cena-falesnych-zprav-2020-sd-cz-titulky-mp4/0c76ad881e356508) (ID 29215629) | [Sdílej 27388940](https://sdilej.cz/27388940/after-truth-disinformation-and-the-cost-of-fake-news-2020-cz-sub.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:37:48.211817+00:00 |
-| [Horalka (1960) SD CZ Titulky](https://prehraj.to/horalka-1960-sd-cz-titulky-mp4/c59d241b2441a3f5) (ID 29509328) | [Sdílej 34756075](https://sdilej.cz/34756075/horalka-1960-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:44:05.230127+00:00 |
+| [Horalka (1960) SD CZ Titulky](https://prehraj.to/horalka-1960-sd-cz-titulky-mp4/c59d241b2441a3f5) (ID 29509328) | [Sdílej 34756075](https://sdilej.cz/34756075/horalka-1960-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:44:54.151114+00:00 |
 | [Horizont poznání (2020) 1080p CZ Titulky](https://prehraj.to/horizont-poznani-2020-1080p-cz-titulky-mp4/b445f944067e66c3) (ID 29650591) | [Sdílej 34733154](https://sdilej.cz/34733154/horizont-poznani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:22:13.904885+00:00 |
 | [Horror in the High Desert 2: Minerva (2023) 1080p CZ Titulky](https://prehraj.to/horror-in-the-high-desert-2-minerva-2023-1080p-cz-titulky-mp4/e4738cdeae1465ef) (ID 29647142) | [Sdílej 34725654](https://sdilej.cz/34725654/horror-in-the-high-desert-2-minerva-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:18:49.557037+00:00 |
 | [Horror in the High Desert 3: Firewatch (2024) 1080p CZ Titulky](https://prehraj.to/horror-in-the-high-desert-3-firewatch-2024-1080p-cz-titulky-mkv/448e22062d60f216) (ID 30731863) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154901+00:00 |
