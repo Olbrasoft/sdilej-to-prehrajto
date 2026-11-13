@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:28:56.187543+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:29:07.100254+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2537,7 +2537,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Černá pláž (2020) 1080p CZ Titulky](https://prehraj.to/cerna-plaz-2020-1080p-cz-titulky-mkv/f85182ebf24bd13a) (ID 30962522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159722+00:00 |
 | [Černá vdova (2012) 1080p CZ Titulky](https://prehraj.to/cerna-vdova-2012-1080p-cz-titulky-mp4/ced008d34bece1b4) (ID 30040903) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.145823+00:00 |
 | [Černé Vánoce (2019) 720p CZ Titulky](https://prehraj.to/cerne-vanoce-2019-720p-cz-titulky-avi/77c30f743daf337c) (ID 30439237) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151497+00:00 |
-| [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:29:30.238726+00:00 |
+| [Černí muži umějí skákat (1996) 1080p CZ Titulky](https://prehraj.to/cerni-muzi-umeji-skakat-1996-1080p-cz-titulky-mp4/98d1afbaa5f9c17c) (ID 29402448) | [Sdílej 30806721](https://sdilej.cz/30806721/sunset.park.1996.1080p.webrip.x264.aac5.1-yts.mx-czech-subtitles-watermark.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:29:07.100136+00:00 |
 | [Černý medvěd (2020) 1080p CZ Titulky](https://prehraj.to/cerny-medved-2020-1080p-cz-titulky-mkv/a731f555ebcb4abf) (ID 30216779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.147958+00:00 |
 | [Černý ostrov (2021) 1080p CZ Titulky](https://prehraj.to/cerny-ostrov-2021-1080p-cz-titulky-mp4/815922ba340a8c4d) (ID 29925375) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.143842+00:00 |
 | [Černý zabiják (2013) SD CZ Titulky](https://prehraj.to/cerny-zabijak-2013-sd-cz-titulky-avi/8d1efa936c403289) (ID 29123423) | [Sdílej 11473540](https://sdilej.cz/11473540/erny-zabijak-kosatky-blackfish-dokument-2013-en-cz-tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:44:05.391389+00:00 |
