@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:45:50.001535+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:45:56.828114+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1081,7 +1081,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kolonisté (2024) 1080p CZ Titulky](https://prehraj.to/koloniste-2024-1080p-cz-titulky-mp4/1e8ecc9837431984) (ID 30908634) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.660925+00:00 |
 | [Kolíska (1964) 1080p CZ Titulky](https://prehraj.to/koliska-1964-1080p-cz-titulky-mp4/492915f44a5f75e5) (ID 29516246) | [Sdílej 34758296](https://sdilej.cz/34758296/koliska-1964-sk-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:44:37.563014+00:00 |
 | [Komando postradatelných (2012) SD CZ Titulky](https://prehraj.to/komando-postradatelnych-2012-sd-cz-titulky-avi/dc45ab4bbb0ccbe7) (ID 30638146) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.656680+00:00 |
-| [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:31:41.887157+00:00 |
+| [Komplic (2020) 1080p CZ Titulky](https://prehraj.to/komplic-2020-1080p-cz-titulky-mp4/94284e0ee73a4aa2) (ID 29257529) | [Sdílej 34733076](https://sdilej.cz/34733076/komplic-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:45:56.827998+00:00 |
 | [Kompromat (2022) 1080p CZ Titulky](https://prehraj.to/kompromat-2022-1080p-cz-titulky-mkv/82e169bd742a763d) (ID 30573501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.655260+00:00 |
 | [Konec zločinu v Americe (2020) 1080p CZ Titulky](https://prehraj.to/konec-zlocinu-v-americe-2020-1080p-cz-titulky-avi/3cc10a095acbf30f) (ID 30433751) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.653072+00:00 |
 | [Konvert (2017) SD CZ Titulky](https://prehraj.to/konvert-2017-sd-cz-titulky-mkv/a2e998aac1ad808d) (ID 30220143) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.648818+00:00 |
