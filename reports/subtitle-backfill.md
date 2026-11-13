@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T11:28:57.973797+00:00
+Poslední aktualizace (UTC): 2026-11-13T11:29:09.151454+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1363,7 +1363,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Navalny (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29314819) | [Sdílej 25780265](https://sdilej.cz/25780265/navalny-2022-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T10:29:29.718385+00:00 |
 | [Navěky silný (2008) 720p CZ Titulky](https://prehraj.to/naveky-silny-2008-720p-cz-titulky-mkv/d74fea3035bc04f2) (ID 30886361) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.172533+00:00 |
 | [Ne Zha 2 (2025) 1080p CZ Titulky](https://prehraj.to/ne-zha-2-2025-1080p-cz-titulky-mkv/8068e93351748100) (ID 29204256) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:48:50.183295+00:00 |
-| [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:42:00.117270+00:00 |
+| [Nebe nad Berlínem (1987) 1080p CZ Titulky](https://prehraj.to/nebe-nad-berlinem-1987-1080p-cz-titulky-mkv/1d94e43fc063223a) (ID 29208949) | [Sdílej 27805226](https://sdilej.cz/27805226/wings-of-desire-1987-criterion-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:29:09.151315+00:00 |
 | [Nebezpečné lži (2020) 1080p CZ Titulky](https://prehraj.to/nebezpecne-lzi-2020-1080p-cz-titulky-mkv/da5032c855d433e7) (ID 30373521) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.166573+00:00 |
 | [Nedívej se (2018) 1080p CZ Titulky](https://prehraj.to/nedivej-se-2018-1080p-cz-titulky-mkv/3fad82c89e15c14f) (ID 30972456) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.173928+00:00 |
 | [Neighborhood Watch (2025) 1080p CZ Titulky](https://prehraj.to/neighborhood-watch-2025-1080p-cz-titulky-mkv/12a8008e8e7f5752) (ID 29985086) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.158985+00:00 |
