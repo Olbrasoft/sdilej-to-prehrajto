@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:45:21.953496+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:45:34.329237+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1641,7 +1641,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Primitive War (2025) 4K CZ Titulky](https://prehraj.to/primitive-war-2025-4k-cz-titulky-mkv/370daf1fa2823664) (ID 29929207) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245182+00:00 |
 | [Private Peaceful (2012) SD CZ Titulky](https://prehraj.to/private-peaceful-2012-sd-cz-titulky-mkv/4b545e0cb8705b71) (ID 30215727) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247002+00:00 |
 | [Pro větší slávu (2012) SD CZ Titulky](https://prehraj.to/pro-vetsi-slavu-2012-sd-cz-titulky-mp4/86d956f0e834f95d) (ID 30164453) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246822+00:00 |
-| [Probudím se zase včera (2014) SD CZ Titulky](https://prehraj.to/probudim-se-zase-vcera-2014-sd-cz-titulky-avi/22baabe5d878315d) (ID 29706459) | [Sdílej 28108196](https://sdilej.cz/28108196/premature-cz-tit.v-obraze-komedie-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:42:28.252179+00:00 |
+| [Probudím se zase včera (2014) SD CZ Titulky](https://prehraj.to/probudim-se-zase-vcera-2014-sd-cz-titulky-avi/22baabe5d878315d) (ID 29706459) | [Sdílej 28108196](https://sdilej.cz/28108196/premature-cz-tit.v-obraze-komedie-2014.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:45:34.329135+00:00 |
 | [Prokletý dům (2014) SD CZ Titulky](https://prehraj.to/proklety-dum-2014-sd-cz-titulky-avi/05d14b5038434206) (ID 30937572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252190+00:00 |
 | [Prolomit hranice: Naše planeta je věda (2021) 720p CZ Titulky](https://prehraj.to/prolomit-hranice-nase-planeta-je-veda-2021-720p-cz-titulky-mp4/99891ff1be3da01b) (ID 29901922) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.243926+00:00 |
 | [Promare (2019) 1080p CZ Titulky](https://prehraj.to/promare-2019-1080p-cz-titulky-mp4/8bc2366ed4ebf464) (ID 30049000) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246271+00:00 |
