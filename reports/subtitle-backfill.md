@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T04:26:23.913177+00:00
+Poslední aktualizace (UTC): 2026-11-13T04:26:32.393839+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1225,7 +1225,7 @@ Kontrol: 48; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Malá Anastázie (2020) 720p CZ Titulky](https://prehraj.to/mala-anastazie-2020-720p-cz-titulky-avi/df972dec42d5cbcb) (ID 30658901) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T04:26:20.579910+00:00 |
 | [Malé oslavy (2008) 1080p CZ Titulky](https://prehraj.to/male-oslavy-2008-1080p-cz-titulky-mp4/623a3a1744fe702a) (ID 29721574) | [Sdílej 34781269](https://sdilej.cz/34781269/male-oslavy-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:51:53.100353+00:00 |
 | [Malí muži (2016) 1080p CZ Titulky](https://prehraj.to/mali-muzi-2016-1080p-cz-titulky-mkv/9523294f745f3bde) (ID 30108261) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T04:26:20.575598+00:00 |
-| [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T03:32:39.028233+00:00 |
+| [Malí obři (1994) 1080p CZ Titulky](https://prehraj.to/mali-obri-1994-1080p-cz-titulky-mkv/a3ff041932b0d07f) (ID 29285452) | [Sdílej 27881060](https://sdilej.cz/27881060/mali-obri-1994-little-giants-web-dl-1080p-h.264-2xcz-en.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T04:26:32.393712+00:00 |
 | [Malý mluvka (2021) 720p CZ Titulky](https://prehraj.to/maly-mluvka-2021-720p-cz-titulky-mp4/f364c788c835f9f2) (ID 30809271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T04:26:20.580879+00:00 |
 | [Man Down (2015) 1080p CZ Titulky](https://prehraj.to/man-down-2015-1080p-cz-titulky-mkv/f519cad1c42580be) (ID 30617145) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T04:26:20.579620+00:00 |
 | [Mandrake (2022) 1080p CZ Titulky](https://prehraj.to/mandrake-2022-1080p-cz-titulky-avi/2d6ad139543d96e3) (ID 29648019) | [Sdílej 24246046](https://sdilej.cz/24246046/mandrake-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:19:28.963812+00:00 |
