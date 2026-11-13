@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:27:40.045986+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:27:54.223977+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1872,7 +1872,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Skylines (2020) 1080p CZ Titulky](https://prehraj.to/skylines-2020-1080p-cz-titulky-avi/81741f7678263e4b) (ID 30799214) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.156236+00:00 |
 | [Sladké dětství (2020) SD CZ Titulky](https://prehraj.to/sladke-detstvi-2020-sd-cz-titulky-mp4/c7e1de765dc3ea79) (ID 29256766) | [Sdílej 34732105](https://sdilej.cz/34732105/sladke-detstvi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:45:17.605749+00:00 |
 | [Slet čarodějnic (2020) 1080p CZ Titulky](https://prehraj.to/slet-carodejnic-2020-1080p-cz-titulky-mp4/8f5d25a168b918cf) (ID 30582623) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153353+00:00 |
-| [Slib (2014) SD CZ Titulky](https://prehraj.to/slib-2014-sd-cz-titulky-avi/06e40acfb4af1b6c) (ID 29399692) | [Sdílej 28142034](https://sdilej.cz/28142034/slib-obietnica-2014-titulky-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:28:24.282430+00:00 |
+| [Slib (2014) SD CZ Titulky](https://prehraj.to/slib-2014-sd-cz-titulky-avi/06e40acfb4af1b6c) (ID 29399692) | [Sdílej 28142034](https://sdilej.cz/28142034/slib-obietnica-2014-titulky-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:27:54.223864+00:00 |
 | [Slon (2003) SD CZ Titulky](https://prehraj.to/slon-2003-sd-cz-titulky-avi/82c06f9529911a1b) (ID 29178314) | [Sdílej 21156263](https://sdilej.cz/21156263/slon-elephant-2003-cz-dabing.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:47:14.324775+00:00 |
 | [Sloní královna (2018) 720p CZ Titulky](https://prehraj.to/sloni-kralovna-2018-720p-cz-titulky-mp4/f7a3690b7107d7d7) (ID 29559803) | [Sdílej 34736665](https://sdilej.cz/34736665/sloni-kralovna-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:50:13.316308+00:00 |
 | [Slovo (1955) 1080p CZ Titulky](https://prehraj.to/slovo-1955-1080p-cz-titulky-mkv/0e31ea7f5165701f) (ID 30904172) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157703+00:00 |
