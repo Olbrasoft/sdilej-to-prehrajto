@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:08:16.795073+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:08:25.802521+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -489,7 +489,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Dirty Angels (2024) 1080p CZ Titulky](https://prehraj.to/dirty-angels-2024-1080p-cz-titulky-mkv/fa6c335e2f8da21f) (ID 30413288) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909644+00:00 |
 | [Dirty Hands (2026) 1080p CZ Titulky](https://prehraj.to/dirty-hands-2026-1080p-cz-titulky-mkv/69936e343df5c46a) (ID 30959010) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.919001+00:00 |
 | [Disturbing the Peace (2020) 1080p CZ Titulky](https://prehraj.to/disturbing-the-peace-2020-1080p-cz-titulky-mkv/bab780f889282e1e) (ID 30857585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915131+00:00 |
-| [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:04:01.697308+00:00 |
+| [Divoký Paňdžáb (2024) 720p CZ Titulky](https://prehraj.to/divoky-pandzab-2024-720p-cz-titulky-mp4/0f27d43c2e71b0ca) (ID 29607761) | [Sdílej 34725084](https://sdilej.cz/34725084/divoky-pandzab-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:08:25.802372+00:00 |
 | [Divoký Stomp (2007) SD CZ Titulky](https://prehraj.to/divoky-stomp-2007-sd-cz-titulky-mkv/a4de82efb97e641b) (ID 30367917) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.908698+00:00 |
 | [Dnes v noci v lese nikdo nespí (2020) 1080p CZ Titulky](https://prehraj.to/dnes-v-noci-v-lese-nikdo-nespi-2020-1080p-cz-titulky-mkv/8dbbca61b8229dd3) (ID 30930693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.917883+00:00 |
 | [Dnes v noci v lese nikdo nespí 2 (2021) 1080p CZ Titulky](https://prehraj.to/dnes-v-noci-v-lese-nikdo-nespi-2-2021-1080p-cz-titulky-mkv/0a27bec82d89a140) (ID 30946805) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.918562+00:00 |
