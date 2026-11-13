@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:00:49.915809+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:01:00.201655+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1891,7 +1891,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Smrtonosné přeludy (2021) 1080p CZ Titulky](https://prehraj.to/smrtonosne-preludy-2021-1080p-cz-titulky-mkv/6e7367e3846972b2) (ID 30954433) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.918760+00:00 |
 | [Smukke Dreng (1993) SD CZ Titulky](https://prehraj.to/smukke-dreng-1993-sd-cz-titulky-mp4/0f51bf4ada20684d) (ID 29327594) | [Sdílej 34785522](https://sdilej.cz/34785522/smukke-dreng-1993-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:36:55.490034+00:00 |
 | [Smyk (1960) SD CZ Titulky](https://prehraj.to/smyk-1960-sd-cz-titulky-avi/a710d8e22203f86d) (ID 29820103) | [Sdílej 12537063](https://sdilej.cz/12537063/smyk-1960-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:41:53.727887+00:00 |
-| [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:56:36.397226+00:00 |
+| [Smysl života (2020) SD CZ Titulky](https://prehraj.to/smysl-zivota-2020-sd-cz-titulky-mp4/f60de73f5b6bdfee) (ID 29571652) | [Sdílej 26045287](https://sdilej.cz/26045287/smysl-zivota-was-wir-wollten-2020.hdrip.-vlozene-tit.cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:01:00.201525+00:00 |
 | [Smyčka (2014) 1080p CZ Titulky](https://prehraj.to/smycka-2014-1080p-cz-titulky-mkv/3303bf26211ee6da) (ID 29306244) | [Sdílej 34335089](https://sdilej.cz/34335089/the.incident.2014.spanish.1080p.web-dl.x264.aac-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:34:28.901608+00:00 |
 | [Směr Země (1980) SD CZ Titulky](https://prehraj.to/smer-zeme-1980-sd-cz-titulky-mp4/4c3fcea1bd91ef3a) (ID 29563642) | [Sdílej 34755724](https://sdilej.cz/34755724/smer-zeme-1980-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:58:15.602332+00:00 |
 | [Snadný prachy (2010) SD CZ Titulky](https://prehraj.to/snadny-prachy-2010-sd-cz-titulky-mp4/4169c43a8e39c051) (ID 30127797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.905769+00:00 |
