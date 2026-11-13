@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:33:41.028963+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:33:49.354511+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -345,7 +345,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Celý můj život (2020) 1080p CZ Titulky](https://prehraj.to/cely-muj-zivot-2020-1080p-cz-titulky-mkv/09d17be6d47aff84) (ID 30722625) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154863+00:00 |
 | [Centigrade (2020) 1080p CZ Titulky](https://prehraj.to/centigrade-2020-1080p-cz-titulky-avi/c8e79aa0c38e40c0) (ID 30401345) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.150737+00:00 |
 | [Cesta divočinou (2017) 720p CZ Titulky](https://prehraj.to/cesta-divocinou-2017-720p-cz-titulky-mp4/c0d02031adf2b7e0) (ID 29922369) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.143637+00:00 |
-| [Cesta do Romy (2020) 1080p CZ Titulky](https://prehraj.to/cesta-do-romy-2020-1080p-cz-titulky-mp4/270f35fcfe6cb80d) (ID 29426061) | [Sdílej 34733320](https://sdilej.cz/34733320/cesta-do-romy-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:33:47.428768+00:00 |
+| [Cesta do Romy (2020) 1080p CZ Titulky](https://prehraj.to/cesta-do-romy-2020-1080p-cz-titulky-mp4/270f35fcfe6cb80d) (ID 29426061) | [Sdílej 34733320](https://sdilej.cz/34733320/cesta-do-romy-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:33:49.354344+00:00 |
 | [Cesta válečníka (2018) 1080p CZ Titulky](https://prehraj.to/cesta-valecnika-2018-1080p-cz-titulky-mkv/45805109373ac7a7) (ID 29917549) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.143434+00:00 |
 | [Cesta za smířením (2021) 1080p CZ Titulky](https://prehraj.to/cesta-za-smirenim-2021-1080p-cz-titulky-mp4/90613c81cd979e69) (ID 30780545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.155987+00:00 |
 | [Cesta časem (2017) 1080p CZ Titulky](https://prehraj.to/cesta-casem-2017-1080p-cz-titulky-mkv/6d5d94d25ab85efe) (ID 30895302) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.157563+00:00 |
