@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:21:14.312899+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:21:23.964763+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -984,7 +984,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [JJ+E (2021) 1080p CZ Titulky](https://prehraj.to/jj-e-2021-1080p-cz-titulky-mp4/83ba8445d2caaced) (ID 29911428) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.647114+00:00 |
 | [Jaat (2025) 720p CZ Titulky](https://prehraj.to/jaat-2025-720p-cz-titulky-mp4/cf3ce58d81e4e0b9) (ID 30921696) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.661823+00:00 |
 | [Jack a Jill (2011) 1080p CZ Titulky](https://prehraj.to/jack-a-jill-2011-1080p-cz-titulky-mkv/ee4345dd64249d2b) (ID 29090134) | [Sdílej 20584395](https://sdilej.cz/20584395/jack-and-jill-2011-jack-a-jill-brip-cz-eng-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:33.789843+00:00 |
-| [Jack in Time for Christmas (2024) 1080p CZ Titulky](https://prehraj.to/jack-in-time-for-christmas-2024-1080p-cz-titulky-mp4/12d77989edb428cb) (ID 29639441) | [Sdílej 34771771](https://sdilej.cz/34771771/jack-in-time-for-christmas-2024-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:16:26.914398+00:00 |
+| [Jack in Time for Christmas (2024) 1080p CZ Titulky](https://prehraj.to/jack-in-time-for-christmas-2024-1080p-cz-titulky-mp4/12d77989edb428cb) (ID 29639441) | [Sdílej 34771771](https://sdilej.cz/34771771/jack-in-time-for-christmas-2024-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:21:23.964652+00:00 |
 | [Jackass 3.5 (2011) SD CZ Titulky](https://prehraj.to/jackass-3-5-2011-sd-cz-titulky-avi/84250fec238b032c) (ID 30823564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.658597+00:00 |
 | [Jackdaw (2023) 4K CZ Titulky](https://prehraj.to/jackdaw-2023-4k-cz-titulky-mkv/9458759efe3db7e3) (ID 30485715) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655706+00:00 |
 | [Jagga Jasoos (2017) SD CZ Titulky](https://prehraj.to/jagga-jasoos-2017-sd-cz-titulky-mp4/f1ab7ddc1615a2da) (ID 30932423) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.662680+00:00 |
