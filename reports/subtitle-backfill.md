@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:42:42.628434+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:42:51.678605+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1065,7 +1065,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kill Switch (2017) 1080p CZ Titulky](https://prehraj.to/kill-switch-2017-1080p-cz-titulky-mkv/4d8f8822f267124f) (ID 30413382) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.527780+00:00 |
 | [Killer Toon (2013) SD CZ Titulky](https://prehraj.to/killer-toon-2013-sd-cz-titulky-avi/1a2558792cd17f7e) (ID 30926548) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.533380+00:00 |
 | [Kimi no na wa. (2016) 1080p CZ Titulky](https://prehraj.to/kimi-no-na-wa-2016-1080p-cz-titulky-mkv/d454f60dc1906f70) (ID 30857855) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.531546+00:00 |
-| [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:45:41.471289+00:00 |
+| [Kimči drifteři (2009) SD CZ Titulky](https://prehraj.to/kimci-drifteri-2009-sd-cz-titulky-mp4/85534b6ffb24d3d9) (ID 29884710) | [Sdílej 34751077](https://sdilej.cz/34751077/kimci-drifteri-2009-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:42:51.678507+00:00 |
 | [King Ivory (2024) 1080p CZ Titulky](https://prehraj.to/king-ivory-2024-1080p-cz-titulky-mp4/d42a705922dcf638) (ID 30958501) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.534373+00:00 |
 | [King Kong vs. Godzilla (1962) SD CZ Titulky](https://prehraj.to/king-kong-vs-godzilla-1962-sd-cz-titulky-avi/70d5085ad0d3920e) (ID 30257880) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.526046+00:00 |
 | [Kingdom (2019) 1080p CZ Titulky](https://prehraj.to/kingdom-2019-1080p-cz-titulky-mp4/9df35e3b2fab324f) (ID 29749185) | [Sdílej 34904048](https://sdilej.cz/34904048/kingdom-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:32:16.984687+00:00 |
