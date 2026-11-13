@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T08:28:50.222142+00:00
+Poslední aktualizace (UTC): 2026-11-13T08:28:59.240446+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -511,7 +511,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Dokud se tančí (2019) 1080p CZ Titulky](https://prehraj.to/dokud-se-tanci-2019-1080p-cz-titulky-mp4/54645d6125d9cfe5) (ID 29886077) | [Sdílej 34647076](https://sdilej.cz/34647076/dokud-se-tanci-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:45:50.760206+00:00 |
 | [Dolly (2025) 1080p CZ Titulky](https://prehraj.to/dolly-2025-1080p-cz-titulky-mp4/bcb6cb2c8eff9328) (ID 30467869) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.472919+00:00 |
 | [Dolphin Reef (2018) 720p CZ Titulky](https://prehraj.to/dolphin-reef-2018-720p-cz-titulky-mp4/a82632e299708527) (ID 29749298) | [Sdílej 34774320](https://sdilej.cz/34774320/dolphin-reef-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:35:17.536162+00:00 |
-| [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:30:54.404346+00:00 |
+| [Dom dobry (2025) 1080p CZ Titulky](https://prehraj.to/dom-dobry-2025-1080p-cz-titulky-mkv/7cb3005a81644f75) (ID 29315676) | [Sdílej 34821668](https://sdilej.cz/34821668/dom-dobry-2025-1080p-web-dl-hevc-odkaz-na-titulky.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:28:59.240327+00:00 |
 | [Dominique (2024) 1080p CZ Titulky](https://prehraj.to/dominique-2024-1080p-cz-titulky-mp4/426833fd8f07199d) (ID 30933390) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.476257+00:00 |
 | [Don Verdean (2015) SD CZ Titulky](https://prehraj.to/don-verdean-2015-sd-cz-titulky-avi/23a98b886389d0b7) (ID 30446307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.472769+00:00 |
 | [Donekonečna (2017) 1080p CZ Titulky](https://prehraj.to/donekonecna-2017-1080p-cz-titulky-mkv/5b6ece7e519dcce8) (ID 30230117) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.470953+00:00 |
