@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T10:32:25.806619+00:00
+Poslední aktualizace (UTC): 2026-11-13T10:32:45.538218+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -91,7 +91,7 @@ Kontrol: 50; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 2. Důvod
 | [All Inclusive (2014) SD CZ Titulky](https://prehraj.to/all-inclusive-2014-sd-cz-titulky-mp4/7cebad1158d16e16) (ID 30589416) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.963246+00:00 |
 | [Alone (2020) SD CZ Titulky](https://prehraj.to/alone-2020-sd-cz-titulky-avi/11c7bfd92fe396de) (ID 29997873) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.958027+00:00 |
 | [Along Came the Devil (2018) SD CZ Titulky](https://prehraj.to/along-came-the-devil-2018-sd-cz-titulky-avi/c01267d5135fbb3f) (ID 30747475) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.965397+00:00 |
-| [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:30:53.106557+00:00 |
+| [Along With the Gods: The Two Worlds (2017) SD CZ Titulky](https://prehraj.to/along-with-the-gods-the-two-worlds-2017-sd-cz-titulky-avi/f300a494193e50c3) (ID 29352487) | [Sdílej 11490013](https://sdilej.cz/11490013/along-with-the-gods-the-two-worlds-2017-cz-tit.v-obraze-super.xvd-fantasy.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:32:45.538103+00:00 |
 | [Along with the Gods: The Last 49 Days (2018) 1080p CZ Titulky](https://prehraj.to/along-with-the-gods-the-last-49-days-2018-1080p-cz-titulky-mkv/7906af4bfd0cc448) (ID 29323499) | [Sdílej 11562320](https://sdilej.cz/11562320/along.with.the.gods-the.last.49.days.2018.1080p.fhdrip.h264.aac-nondrm-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:27.574932+00:00 |
 | [Alpha (2025) 720p CZ Titulky](https://prehraj.to/alpha-2025-720p-cz-titulky-mp4/ae249296a73cf993) (ID 30737970) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.965133+00:00 |
 | [Alpha Rift (2021) 720p CZ Titulky](https://prehraj.to/alpha-rift-2021-720p-cz-titulky-mp4/02e83edbc35871a1) (ID 29723911) | [Sdílej 34731662](https://sdilej.cz/34731662/alpha-rift-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:53:09.451683+00:00 |
