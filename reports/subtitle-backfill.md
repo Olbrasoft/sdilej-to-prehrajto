@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:33:12.768882+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:33:24.787798+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -899,7 +899,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Hotel pro psy (2009) 1080p CZ Titulky](https://prehraj.to/hotel-pro-psy-2009-1080p-cz-titulky-mp4/65788211393d862b) (ID 30859980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.658860+00:00 |
 | [Hounded (2022) 1080p CZ Titulky.mkv](https://prehraj.to/hounded-2022-1080p-cz-titulky-mkv/9fc9e9a943eb6578) (ID 29651252) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.644727+00:00 |
 | [House Party (1990) SD CZ Titulky](https://prehraj.to/house-party-1990-sd-cz-titulky-avi/8f529e8448700e37) (ID 30216844) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653251+00:00 |
-| [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:27:46.364752+00:00 |
+| [Housewife (2017) SD CZ Titulky](https://prehraj.to/housewife-2017-sd-cz-titulky-avi/7f066d99a7053c94) (ID 29666059) | [Sdílej 11221819](https://sdilej.cz/11221819/housewife-ev-kad-n-2017-cz-titulky-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:33:24.787675+00:00 |
 | [How It Ends (2018) 1080p CZ Titulky](https://prehraj.to/how-it-ends-2018-1080p-cz-titulky-mkv/685892b5e3f5feff) (ID 30413217) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654935+00:00 |
 | [How You Look at Me (2019) 720p CZ Titulky](https://prehraj.to/how-you-look-at-me-2019-720p-cz-titulky-mp4/71c0a571c42fc349) (ID 30914362) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.661418+00:00 |
 | [Howl (2015) SD CZ Titulky](https://prehraj.to/howl-2015-sd-cz-titulky-mp4/6545d2a2b65bd6f2) (ID 30620169) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.656620+00:00 |
