@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:57:11.357662+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:57:31.164044+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -445,7 +445,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Dawn Rider (2012) SD CZ Titulky](https://prehraj.to/dawn-rider-2012-sd-cz-titulky-avi/f41ab185bfceddd8) (ID 30972976) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.919319+00:00 |
 | [Day Zero (2022) 1080p CZ Titulky](https://prehraj.to/day-zero-2022-1080p-cz-titulky-mkv/28d0db07251cea9c) (ID 30593216) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912266+00:00 |
 | [Dcera divočiny (2023) 1080p CZ Titulky](https://prehraj.to/dcera-divociny-2023-1080p-cz-titulky-mkv/81bfcd0064fe51ae) (ID 29911608) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901116+00:00 |
-| [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:53:15.692408+00:00 |
+| [De Oost (2020) SD CZ Titulky](https://prehraj.to/de-oost-2020-sd-cz-titulky-avi/98ec095b1980694f) (ID 29562778) | [Sdílej 18247962](https://sdilej.cz/18247962/de-oost-2020-sk.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:57:31.163913+00:00 |
 | [Dead Again in Tombstone (2017) SD CZ Titulky](https://prehraj.to/dead-again-in-tombstone-2017-sd-cz-titulky-avi/0c5ed532f0cbd9b9) (ID 30445521) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.910337+00:00 |
 | [Dead Awake (2016) 1080p CZ Titulky](https://prehraj.to/dead-awake-2016-1080p-cz-titulky-mkv/60b1be0afe07a039) (ID 29753488) | [Sdílej 7419503](https://sdilej.cz/7419503/dead-awake.2016.1080p.web-dl.h264.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:29.141133+00:00 |
 | [Dead Sea (2024) 1080p CZ Titulky](https://prehraj.to/dead-sea-2024-1080p-cz-titulky-mp4/e39bbd3b8ac221e4) (ID 30870550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915640+00:00 |
