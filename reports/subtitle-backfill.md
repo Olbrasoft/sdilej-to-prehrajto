@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T08:36:55.490172+00:00
+Poslední aktualizace (UTC): 2026-11-13T08:37:02.290061+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1283,7 +1283,7 @@ Kontrol: 61; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Mira (2022) 1080p CZ Titulky](https://prehraj.to/mira-2022-1080p-cz-titulky-mp4/053bb76d5cd15089) (ID 30606658) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.577950+00:00 |
 | [Miss Baek (2018) 1080p CZ Titulky](https://prehraj.to/miss-baek-2018-1080p-cz-titulky-mp4/cbb922ab795ad0dd) (ID 30070857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.573067+00:00 |
 | [Mistr jinu a jangu (2021) 1080p CZ Titulky](https://prehraj.to/mistr-jinu-a-jangu-2021-1080p-cz-titulky-mp4/57e9101388736bd0) (ID 30716253) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.578785+00:00 |
-| [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T08:36:06.622521+00:00 |
+| [Mladé pušky II (1990) 1080p CZ Titulky](https://prehraj.to/mlade-pusky-ii-1990-1080p-cz-titulky-mkv/30bedb98874ec12d) (ID 29328488) | [Sdílej 29717590](https://sdilej.cz/29717590/young-guns-ii-mlade-pusky-2-1990-1080p-bluray-x264-slovak-subtitles-sade26.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:37:02.289937+00:00 |
 | [Mladé vlny (2019) 1080p CZ Titulky](https://prehraj.to/mlade-vlny-2019-1080p-cz-titulky-mkv/11d70be862608dfb) (ID 28962930) | [Sdílej 13070049](https://sdilej.cz/13070049/waves.2019.1080p.bluray.h264.aac-rarbg.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:16.462931+00:00 |
 | [Mladý Billy Young (1969) SD CZ Titulky](https://prehraj.to/mlady-billy-young-1969-sd-cz-titulky-avi/b8512296105ed474) (ID 30295882) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:35:59.574636+00:00 |
 | [Mob Town (2019) 1080p CZ Titulky](https://prehraj.to/mob-town-2019-1080p-cz-titulky-mkv/7f8cdbb765879ad1) (ID 29634038) | [Sdílej 12783098](https://sdilej.cz/12783098/mob.town.2019.1080p.web-dl.dd5.1.h264.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:13:30.482223+00:00 |
