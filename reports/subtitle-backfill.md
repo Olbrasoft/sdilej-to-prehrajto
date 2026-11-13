@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:29:44.695634+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:29:53.770609+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -815,7 +815,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hacker: Trust No One (2022) 1080p CZ Titulky](https://prehraj.to/hacker-trust-no-one-2022-1080p-cz-titulky-mp4/b7be2c90a59625b0) (ID 29682579) | [Sdílej 34772313](https://sdilej.cz/34772313/hacker-trust-no-one-2022-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:32:01.312186+00:00 |
 | [Hadí vejce (1977) SD CZ Titulky.mkv](https://prehraj.to/hadi-vejce-1977-sd-cz-titulky-mkv/61408a89d590b055) (ID 29675311) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.141253+00:00 |
 | [Hafan hasičem (2007) 1080p CZ Titulky](https://prehraj.to/hafan-hasicem-2007-1080p-cz-titulky-mp4/2aca0c9ea9047267) (ID 29930732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144157+00:00 |
-| [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:30:17.058599+00:00 |
+| [Half Nelson (2006) 1080p CZ Titulky](https://prehraj.to/half-nelson-2006-1080p-cz-titulky-mp4/1a7302c5a8bd984d) (ID 29408409) | [Sdílej 34867470](https://sdilej.cz/34867470/half-nelson-2006-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:29:53.770482+00:00 |
 | [Hallow Road (2025) 1440p CZ Titulky](https://prehraj.to/hallow-road-2025-1440p-cz-titulky-mkv/2644ea0a24cd85dd) (ID 30923932) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158377+00:00 |
 | [Halloweenský lov (2019) 1080p CZ Titulky](https://prehraj.to/halloweensky-lov-2019-1080p-cz-titulky-mkv/b8b27493c2a2f07f) (ID 30301837) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.149164+00:00 |
 | [Halušky: Dobrodružství s psychedeliky (2020) 1080p CZ Titulky](https://prehraj.to/halusky-dobrodruzstvi-s-psychedeliky-2020-1080p-cz-titulky-mp4/4082b7676326cc0f) (ID 29443389) | [Sdílej 34733180](https://sdilej.cz/34733180/halusky-dobrodruzstvi-s-psychedeliky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:36:49.156223+00:00 |
