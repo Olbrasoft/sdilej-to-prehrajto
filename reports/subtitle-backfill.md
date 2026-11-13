@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:26:44.607541+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:26:57.940408+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1921,7 +1921,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Sorop (2024) 720p CZ Titulky](https://prehraj.to/sorop-2024-720p-cz-titulky-mp4/80b2f8a51236d463) (ID 30919433) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.661650+00:00 |
 | [Sorry, Baby (2025) 1080p CZ Titulky](https://prehraj.to/sorry-baby-2025-1080p-cz-titulky-mkv/fd6a7ea8e2f236d4) (ID 29199838) | [Sdílej 34559320](https://sdilej.cz/34559320/sorry-baby-2025-czsub.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:11.850574+00:00 |
 | [Souboj s Antikristem (2013) 720p CZ Titulky](https://prehraj.to/souboj-s-antikristem-2013-720p-cz-titulky-mp4/be47ae41a4b4bb93) (ID 29748645) | [Sdílej 34779538](https://sdilej.cz/34779538/souboj-s-antikristem-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:34:12.497909+00:00 |
-| [Soukromá síť: Kdo zabil Manuela Buendíu? (2021) 1080p CZ Titulky](https://prehraj.to/soukroma-sit-kdo-zabil-manuela-buendiu-2021-1080p-cz-titulky-mp4/905654ccedbc1731) (ID 29649266) | [Sdílej 34728765](https://sdilej.cz/34728765/soukroma-sit-kdo-zabil-manuela-buendiu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:21:30.585636+00:00 |
+| [Soukromá síť: Kdo zabil Manuela Buendíu? (2021) 1080p CZ Titulky](https://prehraj.to/soukroma-sit-kdo-zabil-manuela-buendiu-2021-1080p-cz-titulky-mp4/905654ccedbc1731) (ID 29649266) | [Sdílej 34728765](https://sdilej.cz/34728765/soukroma-sit-kdo-zabil-manuela-buendiu-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:26:57.940298+00:00 |
 | [Soukromý život (2025) 1080p CZ Titulky](https://prehraj.to/soukromy-zivot-2025-1080p-cz-titulky-mkv/56b00ead2a271b34) (ID 30350525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654245+00:00 |
 | [Soulm8te (2026) 1440p CZ Titulky](https://prehraj.to/soulm8te-2026-1440p-cz-titulky-mkv/50c0dedad110bb7f) (ID 29911136) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.646986+00:00 |
 | [Soumrak (2002) 1080p CZ Titulky](https://prehraj.to/soumrak-2002-1080p-cz-titulky-mkv/eecdb03054d37333) (ID 29200808) | [Sdílej 29104198](https://sdilej.cz/29104198/the.twilight.samurai.2002.bluray.1080p.x265.10bit-minihd.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:48:42.602995+00:00 |
