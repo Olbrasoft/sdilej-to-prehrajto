@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:03:58.503421+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:04:10.496355+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2467,7 +2467,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:28:21.770262+00:00 |
 | [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:32:08.161180+00:00 |
 | [Zase Vánoce (2020) 1080p CZ Titulky](https://prehraj.to/zase-vanoce-2020-1080p-cz-titulky-mp4/7615732878acdbb8) (ID 30522659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249211+00:00 |
-| [Zastávka v Kansasu (1956) SD CZ Titulky](https://prehraj.to/zastavka-v-kansasu-1956-sd-cz-titulky-mp4/249bce8493be1eae) (ID 29572293) | [Sdílej 34699745](https://sdilej.cz/34699745/zastavka-v-kansasu-1956-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:01:11.636679+00:00 |
+| [Zastávka v Kansasu (1956) SD CZ Titulky](https://prehraj.to/zastavka-v-kansasu-1956-sd-cz-titulky-mp4/249bce8493be1eae) (ID 29572293) | [Sdílej 34699745](https://sdilej.cz/34699745/zastavka-v-kansasu-1956-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:04:10.496237+00:00 |
 | [Zatoulaný (2018) SD CZ Titulky](https://prehraj.to/zatoulany-2018-sd-cz-titulky-avi/ee32f1fd1bf7eafb) (ID 29412317) | [Sdílej 11160214](https://sdilej.cz/11160214/zatoulany-drama-cz-titulky-2018-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:32:49.233613+00:00 |
 | [Zatímco spíš (2011) 720p CZ Titulky](https://prehraj.to/zatimco-spis-2011-720p-cz-titulky-mkv/d5979cdf93425aea) (ID 30957103) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252520+00:00 |
 | [Zazie dans le métro (1960) SD CZ Titulky](https://prehraj.to/zazie-dans-le-metro-1960-sd-cz-titulky-mp4/a56f88f9ee076962) (ID 29256773) | [Sdílej 34715255](https://sdilej.cz/34715255/zazie-dans-le-metro-1960-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:45:24.978610+00:00 |
