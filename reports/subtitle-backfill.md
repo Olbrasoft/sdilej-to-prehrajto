@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:13:11.733496+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:13:20.242764+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1202,7 +1202,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Léto 85 (2020) 720p CZ Titulky](https://prehraj.to/leto-85-2020-720p-cz-titulky-avi/8f498b0623140179) (ID 29749358) | [Sdílej 15347014](https://sdilej.cz/15347014/leto-85.-2020-cz.titl.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:35:36.720062+00:00 |
 | [Léto v Kreuzbergu (2020) 720p CZ Titulky](https://prehraj.to/leto-v-kreuzbergu-2020-720p-cz-titulky-mkv/9df2f084186b140f) (ID 29680835) | [Sdílej 16820738](https://sdilej.cz/16820738/leto-v-kreuzbergu-2020-cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:21:56.679132+00:00 |
 | [Líbej mě až k smrti (1955) 1080p CZ Titulky](https://prehraj.to/libej-me-az-k-smrti-1955-1080p-cz-titulky-mp4/0b8c05c94a606273) (ID 29886646) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900102+00:00 |
-| [Líbánky s mámou (2022) 720p CZ Titulky](https://prehraj.to/libanky-s-mamou-2022-720p-cz-titulky-mp4/70291b8f8feabd58) (ID 29613931) | [Sdílej 34727109](https://sdilej.cz/34727109/libanky-s-mamou-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:08:44.488266+00:00 |
+| [Líbánky s mámou (2022) 720p CZ Titulky](https://prehraj.to/libanky-s-mamou-2022-720p-cz-titulky-mp4/70291b8f8feabd58) (ID 29613931) | [Sdílej 34727109](https://sdilej.cz/34727109/libanky-s-mamou-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:13:20.242644+00:00 |
 | [M*A*S*H: The Comedy That Changed Television (2024) 1080p CZ Titulky](https://prehraj.to/m-a-s-h-the-comedy-that-changed-television-2024-1080p-cz-titulky-mp4/a7f840407213d02d) (ID 29460944) | [Sdílej 34724940](https://sdilej.cz/34724940/m-a-s-h-the-comedy-that-changed-television-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:39:29.262304+00:00 |
 | [MK Ultra (2022) SD CZ Titulky](https://prehraj.to/mk-ultra-2022-sd-cz-titulky-avi/83e88126c67202fb) (ID 30390057) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909118+00:00 |
 | [Ma Ma (2015) 1080p CZ Titulky](https://prehraj.to/ma-ma-2015-1080p-cz-titulky-mkv/1db91b0fd0e586b8) (ID 30958166) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.918940+00:00 |
