@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:46:51.316973+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:47:00.427436+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1841,7 +1841,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Shelby Oaks (2024) 1080p CZ Titulky](https://prehraj.to/shelby-oaks-2024-1080p-cz-titulky-mkv/6ef2aef2076ba5bb) (ID 29748440) | [Sdílej 32452776](https://sdilej.cz/32452776/shelby-oaks-2024-1080p.-sk.tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:34:01.456301+00:00 |
 | [Shelter in Place (2021) 1080p CZ Titulky](https://prehraj.to/shelter-in-place-2021-1080p-cz-titulky-avi/67592324b432883c) (ID 30944617) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159157+00:00 |
 | [Shin Godzilla (2016) SD CZ Titulky](https://prehraj.to/shin-godzilla-2016-sd-cz-titulky-mkv/ab9c6558d5220783) (ID 29884840) | [Sdílej 34823880](https://sdilej.cz/34823880/shin.godzilla.2016.japanese.720p.brri-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:26:33.831714+00:00 |
-| [Shirley (2020) 1080p CZ Titulky](https://prehraj.to/shirley-2020-1080p-cz-titulky-mkv/1cf529a63914c19b) (ID 29530075) | [Sdílej 13635231](https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:46:11.862192+00:00 |
+| [Shirley (2020) 1080p CZ Titulky](https://prehraj.to/shirley-2020-1080p-cz-titulky-mkv/1cf529a63914c19b) (ID 29530075) | [Sdílej 13635231](https://sdilej.cz/13635231/shirley.2020.1080p.web-dl.h264.ac3-evo.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:47:00.427286+00:00 |
 | [Shoah (1985) SD CZ Titulky](https://prehraj.to/shoah-1985-sd-cz-titulky-avi/2f1e581129222123) (ID 28926274) | [Sdílej 19964679](https://sdilej.cz/19964679/soa-shoah-1985-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:38:36.389607+00:00 |
 | [Shorta (2020) 1080p CZ Titulky](https://prehraj.to/shorta-2020-1080p-cz-titulky-mkv/b30c1f06fe8c9538) (ID 30712049) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154677+00:00 |
 | [Shortcut (2020) 1080p CZ Titulky](https://prehraj.to/shortcut-2020-1080p-cz-titulky-avi/32b1e0dc1cca35ce) (ID 30975137) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159827+00:00 |
