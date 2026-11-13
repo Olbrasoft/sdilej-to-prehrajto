@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:34:39.865701+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:34:52.391024+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -827,7 +827,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Happier Than Ever: A Love Letter to Los Angeles (2021) 1080p CZ Titulky](https://prehraj.to/happier-than-ever-a-love-letter-to-los-angeles-2021-1080p-cz-titulky-mp4/67d36acb44ffdd03) (ID 29441313) | [Sdílej 34772911](https://sdilej.cz/34772911/happier-than-ever-a-love-letter-to-los-angeles-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:36:57.411273+00:00 |
 | [Happily (2021) 1080p CZ Titulky](https://prehraj.to/happily-2021-1080p-cz-titulky-mkv/6ccd9041f76c97f7) (ID 29720642) | [Sdílej 16891054](https://sdilej.cz/16891054/happily-2021-cz-titulky-novinka.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:13.802778+00:00 |
 | [Happy Hunting (2017) 720p CZ Titulky](https://prehraj.to/happy-hunting-2017-720p-cz-titulky-avi/4c871748cdb5f2e9) (ID 29707832) | [Sdílej 10569086](https://sdilej.cz/10569086/happy-hunting-horor-2017-cz.titulky-novinky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:44:01.241506+00:00 |
-| [Hardcore Never Dies (2023) 1080p CZ Titulky](https://prehraj.to/hardcore-never-dies-2023-1080p-cz-titulky-mp4/8441ee55ed9068ac) (ID 29674776) | [Sdílej 34725933](https://sdilej.cz/34725933/hardcore-never-dies-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:29:19.175118+00:00 |
+| [Hardcore Never Dies (2023) 1080p CZ Titulky](https://prehraj.to/hardcore-never-dies-2023-1080p-cz-titulky-mp4/8441ee55ed9068ac) (ID 29674776) | [Sdílej 34725933](https://sdilej.cz/34725933/hardcore-never-dies-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:34:52.390891+00:00 |
 | [Harold a Maude (1971) 1080p CZ Titulky](https://prehraj.to/harold-a-maude-1971-1080p-cz-titulky-mkv/3f925d20214ae1d5) (ID 30765164) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.657533+00:00 |
 | [Harpoon (2019) 1080p CZ Titulky](https://prehraj.to/harpoon-2019-1080p-cz-titulky-mkv/1bf2db896994fdeb) (ID 30740972) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.657364+00:00 |
 | [Harriet (2019) SD CZ Titulky](https://prehraj.to/harriet-2019-sd-cz-titulky-mp4/a5baaee104411b2a) (ID 29672979) | [Sdílej 34695153](https://sdilej.cz/34695153/harriet-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:33:56.661575+00:00 |
