@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:47:55.310817+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:48:06.462291+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2530,7 +2530,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Úder otevřenou dlaní (1983) SD CZ Titulky](https://prehraj.to/uder-otevrenou-dlani-1983-sd-cz-titulky-mp4/bb96401c0a68cff0) (ID 30900205) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251489+00:00 |
 | [Úkryt (2011) SD CZ Titulky](https://prehraj.to/ukryt-2011-sd-cz-titulky-avi/65f99a61ff732dfe) (ID 30022150) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246038+00:00 |
 | [Úniková cesta (2016) 720p CZ Titulky](https://prehraj.to/unikova-cesta-2016-720p-cz-titulky-avi/f231757960d6becc) (ID 29709428) | [Sdílej 9549271](https://sdilej.cz/9549271/term-life-2016-cz-tit..avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:47:47.231400+00:00 |
-| [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:45:02.032041+00:00 |
+| [Únos 93 (2024) 1080p CZ Titulky](https://prehraj.to/unos-93-2024-1080p-cz-titulky-mp4/48e6a394838655aa) (ID 29709533) | [Sdílej 34724519](https://sdilej.cz/34724519/unos-93-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:48:06.462162+00:00 |
 | [Únos Stelly (2019) 1080p CZ Titulky](https://prehraj.to/unos-stelly-2019-1080p-cz-titulky-mkv/037ecf6c55937e65) (ID 30910225) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251640+00:00 |
 | [Útěk z Hašimy (2017) SD CZ Titulky](https://prehraj.to/utek-z-hasimy-2017-sd-cz-titulky-mp4/3abef9c9d988f277) (ID 29444573) | [Sdílej 34697822](https://sdilej.cz/34697822/utek-z-hasimy-2017-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:37:33.722977+00:00 |
 | [Čarovný les (2014) 1080p CZ Titulky](https://prehraj.to/carovny-les-2014-1080p-cz-titulky-mkv/48ef178fccd7e71c) (ID 29935980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245417+00:00 |
