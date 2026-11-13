@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:07:41.172550+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:07:49.258421+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1040,7 +1040,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Jízda života (2022) 720p CZ Titulky](https://prehraj.to/jizda-zivota-2022-720p-cz-titulky-mkv/24b5e64f77800155) (ID 29237320) | [Sdílej 34704949](https://sdilej.cz/34704949/joyride.2022.720p.hmax.web-dl.dd5.1.h.264.hun-no1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:43.399033+00:00 |
 | [K smrti odsouzený uprchl (1956) SD CZ Titulky](https://prehraj.to/k-smrti-odsouzeny-uprchl-1956-sd-cz-titulky-avi/4ea43a9f8ed6c06b) (ID 30905007) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.916620+00:00 |
 | [Kaali (2018) SD CZ Titulky](https://prehraj.to/kaali-2018-sd-cz-titulky-mp4/39e8f029fd6b159d) (ID 30871009) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915671+00:00 |
-| [Kadosh (1999) SD CZ Titulky](https://prehraj.to/kadosh-1999-sd-cz-titulky-mp4/bbdd665d9affcd2f) (ID 29606377) | [Sdílej 34789327](https://sdilej.cz/34789327/kosh.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:03:21.183988+00:00 |
+| [Kadosh (1999) SD CZ Titulky](https://prehraj.to/kadosh-1999-sd-cz-titulky-mp4/bbdd665d9affcd2f) (ID 29606377) | [Sdílej 34789327](https://sdilej.cz/34789327/kosh.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:07:49.258299+00:00 |
 | [Kadáver (2020) 720p CZ Titulky](https://prehraj.to/kadaver-2020-720p-cz-titulky-mkv/c5ef788a7ccc1d4a) (ID 29939984) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.903719+00:00 |
 | [Kafarnaum (2018) 720p CZ Titulky](https://prehraj.to/kafarnaum-2018-720p-cz-titulky-mkv/35687f18418ecdf8) (ID 30903860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.916576+00:00 |
 | [Kalank (2019) SD CZ Titulky](https://prehraj.to/kalank-2019-sd-cz-titulky-mp4/48001a261668da4d) (ID 30436635) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.910139+00:00 |
