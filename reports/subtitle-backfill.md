@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T08:30:05.236452+00:00
+Poslední aktualizace (UTC): 2026-11-13T08:30:15.656661+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2500,7 +2500,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Záhada Silver Lake (2018) 1080p CZ Titulky](https://prehraj.to/zahada-silver-lake-2018-1080p-cz-titulky-mkv/6ef30de450795ac7) (ID 30582830) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.473626+00:00 |
 | [Záhadná bouře (2018) 1080p CZ Titulky](https://prehraj.to/zahadna-boure-2018-1080p-cz-titulky-mp4/26c7c9d938a5f0fd) (ID 29629764) | [Sdílej 34851162](https://sdilej.cz/34851162/zahadna-boure-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:11:17.309381+00:00 |
 | [Zákeřná setkání (2020) 1080p CZ Titulky](https://prehraj.to/zakerna-setkani-2020-1080p-cz-titulky-mp4/139f13f80336e6c7) (ID 30409980) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.472377+00:00 |
-| [Zásadní změna (2018) SD CZ Titulky](https://prehraj.to/zasadni-zmena-2018-sd-cz-titulky-mp4/239bc12ee388fce7) (ID 29319501) | [Sdílej 13048286](https://sdilej.cz/13048286/the-game-changers-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:32:11.735268+00:00 |
+| [Zásadní změna (2018) SD CZ Titulky](https://prehraj.to/zasadni-zmena-2018-sd-cz-titulky-mp4/239bc12ee388fce7) (ID 29319501) | [Sdílej 13048286](https://sdilej.cz/13048286/the-game-changers-cz-title.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:30:15.656536+00:00 |
 | [Zátopek (2021) 1080p CZ Titulky](https://prehraj.to/zatopek-2021-1080p-cz-titulky-mp4/0f86a21db8f0145e) (ID 30777857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.474820+00:00 |
 | [Zázračné houby (2019) 1080p CZ Titulky](https://prehraj.to/zazracne-houby-2019-1080p-cz-titulky-mp4/68dfcf2e53cd834f) (ID 29411891) | [Sdílej 34733558](https://sdilej.cz/34733558/zazracne-houby-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:32:23.127931+00:00 |
 | [Záře (1996) 720p CZ Titulky](https://prehraj.to/zare-1996-720p-cz-titulky-mkv/188d8dda0e2b6921) (ID 29510085) | [Sdílej 32869545](https://sdilej.cz/32869545/shine-1996-1080p-fr-en-x264-ac3-mhdgz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:19:02.155621+00:00 |
