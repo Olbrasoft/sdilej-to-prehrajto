@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:37:43.303796+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:37:51.192026+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2188,7 +2188,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [The Ruse (2024) 1080p CZ Titulky](https://prehraj.to/the-ruse-2024-1080p-cz-titulky-mkv/03fb8d931cafbb5e) (ID 29650913) | [Sdílej 32756280](https://sdilej.cz/32756280/the.ruse.2024.1080p.web.h264-betty.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-09T20:32:17.663776+00:00 |
 | [The Sadness (2021) 1080p CZ Titulky](https://prehraj.to/the-sadness-2021-1080p-cz-titulky-mkv/279e4a5cd83ef44b) (ID 30223823) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653303+00:00 |
 | [The Sailor (2021) 1080p CZ Titulky](https://prehraj.to/the-sailor-2021-1080p-cz-titulky-mp4/cf8a7c70cc250430) (ID 30890333) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.660394+00:00 |
-| [The Shift (2023) 1080p CZ Titulky](https://prehraj.to/the-shift-2023-1080p-cz-titulky-mkv/351dc9d961aa5e5e) (ID 29687346) | [Sdílej 28048191](https://sdilej.cz/28048191/the.shift.2023.1080p.webrip.ddp5.1.x265.10bit-galaxyrg265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:32:09.945519+00:00 |
+| [The Shift (2023) 1080p CZ Titulky](https://prehraj.to/the-shift-2023-1080p-cz-titulky-mkv/351dc9d961aa5e5e) (ID 29687346) | [Sdílej 28048191](https://sdilej.cz/28048191/the.shift.2023.1080p.webrip.ddp5.1.x265.10bit-galaxyrg265.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:37:51.191879+00:00 |
 | [The Siege at Red River (1954) 1080p CZ Titulky](https://prehraj.to/the-siege-at-red-river-1954-1080p-cz-titulky-mp4/65ad4b84ba75aff3) (ID 30571520) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.656132+00:00 |
 | [The Siege of Jadotville (2016) 1080p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-2016-1080p-cz-titulky-mkv/f25496c787ff5a51) (ID 29393179) | [Sdílej 11755217](https://sdilej.cz/11755217/the.siege.of.jadotville.2016.1080p.webrip.dd5.1.x264-sh0w.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T15:28:27.037370+00:00 |
 | [The Spore (2021) 1080p CZ Titulky](https://prehraj.to/the-spore-2021-1080p-cz-titulky-mp4/6ae3362cb2443923) (ID 29922905) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.648851+00:00 |
