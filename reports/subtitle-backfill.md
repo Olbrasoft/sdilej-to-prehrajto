@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:27:06.362029+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:27:14.294628+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2162,7 +2162,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [The Old Way (2023) 1080p CZ Titulky](https://prehraj.to/the-old-way-2023-1080p-cz-titulky-avi/b2c9c7a791c2a853) (ID 29936176) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.650436+00:00 |
 | [The Only Living Boy in New York (2017) 1080p CZ Titulky](https://prehraj.to/the-only-living-boy-in-new-york-2017-1080p-cz-titulky-mkv/01229e68f957ea01) (ID 30719306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.657224+00:00 |
 | [The Orphan Killer (2011) SD CZ Titulky](https://prehraj.to/the-orphan-killer-2011-sd-cz-titulky-mp4/2012452475b525db) (ID 29748318) | [Sdílej 34745875](https://sdilej.cz/34745875/the-orphan-killer-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:33:38.758847+00:00 |
-| [The Other (2025) 1080p CZ Titulky](https://prehraj.to/the-other-2025-1080p-cz-titulky-mkv/da3c92b1164cead0) (ID 29649805) | [Sdílej 31430379](https://sdilej.cz/31430379/the-other-2025-1080p-eng-tit-by-pefto-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:21:47.642729+00:00 |
+| [The Other (2025) 1080p CZ Titulky](https://prehraj.to/the-other-2025-1080p-cz-titulky-mkv/da3c92b1164cead0) (ID 29649805) | [Sdílej 31430379](https://sdilej.cz/31430379/the-other-2025-1080p-eng-tit-by-pefto-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:27:14.294505+00:00 |
 | [The Other Side of the Wind (2018) 1080p CZ Titulky](https://prehraj.to/the-other-side-of-the-wind-2018-1080p-cz-titulky-mp4/064978af3d4b292e) (ID 30178487) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653069+00:00 |
 | [The Outsider (2018) SD CZ Titulky](https://prehraj.to/the-outsider-2018-sd-cz-titulky-avi/f5a64c7d68da122c) (ID 30926860) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.662339+00:00 |
 | [The Outwaters (2023) SD CZ Titulky](https://prehraj.to/the-outwaters-2023-sd-cz-titulky-avi/c8de7ec0ed3c10c6) (ID 30642852) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.656786+00:00 |
