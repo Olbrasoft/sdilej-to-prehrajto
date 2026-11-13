@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:45:58.323922+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:46:07.272346+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -441,7 +441,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dark Nuns (2025) 1080p CZ Titulky](https://prehraj.to/dark-nuns-2025-1080p-cz-titulky-mp4/0ea55a8a69cf529d) (ID 30743198) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.530717+00:00 |
 | [Darkland (2017) SD CZ Titulky](https://prehraj.to/darkland-2017-sd-cz-titulky-avi/a036c70847703bce) (ID 30926093) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.533346+00:00 |
 | [Dashcam (2021) 1080p CZ Titulky](https://prehraj.to/dashcam-2021-1080p-cz-titulky-mp4/0459afc4e8afde30) (ID 29588938) | [Sdílej 34731562](https://sdilej.cz/34731562/dashcam-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:06:42.320980+00:00 |
-| [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:48:56.721698+00:00 |
+| [Dawn Breaks Behind the Eyes (2021) 1080p CZ Titulky](https://prehraj.to/dawn-breaks-behind-the-eyes-2021-1080p-cz-titulky-mp4/b347989444e56516) (ID 29665328) | [Sdílej 34903875](https://sdilej.cz/34903875/dawn-breaks-behind-the-eyes-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:46:07.272212+00:00 |
 | [Dawn Rider (2012) SD CZ Titulky](https://prehraj.to/dawn-rider-2012-sd-cz-titulky-avi/f41ab185bfceddd8) (ID 30972976) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.534624+00:00 |
 | [Day Zero (2022) 1080p CZ Titulky](https://prehraj.to/day-zero-2022-1080p-cz-titulky-mkv/28d0db07251cea9c) (ID 30593216) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529559+00:00 |
 | [Dcera divočiny (2023) 1080p CZ Titulky](https://prehraj.to/dcera-divociny-2023-1080p-cz-titulky-mkv/81bfcd0064fe51ae) (ID 29911608) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.521741+00:00 |
