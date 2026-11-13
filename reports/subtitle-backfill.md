@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:55:31.710584+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:55:42.283993+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1557,7 +1557,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Peter Tatchell: Láska a nenávist (2021) 1080p CZ Titulky](https://prehraj.to/peter-tatchell-laska-a-nenavist-2021-1080p-cz-titulky-mp4/eb751ad3a4245d76) (ID 29461088) | [Sdílej 34728984](https://sdilej.cz/34728984/peter-tatchell-laska-a-nenavist-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:39:38.785173+00:00 |
 | [Petr a vlk (2006) 1080p CZ Titulky](https://prehraj.to/petr-a-vlk-2006-1080p-cz-titulky-mp4/d1b3a4e499824982) (ID 30033532) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246109+00:00 |
 | [Pečovatel (2014) 1080p CZ Titulky](https://prehraj.to/pecovatel-2014-1080p-cz-titulky-mkv/9a5e8f6437c03b70) (ID 30886560) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251357+00:00 |
-| [Phantasm IV: Oblivion (1998) 1080p CZ Titulky](https://prehraj.to/phantasm-iv-oblivion-1998-1080p-cz-titulky-mp4/5262582f0b422e54) (ID 29723303) | [Sdílej 34783709](https://sdilej.cz/34783709/phantasm-iv-oblivion-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:52:35.405065+00:00 |
+| [Phantasm IV: Oblivion (1998) 1080p CZ Titulky](https://prehraj.to/phantasm-iv-oblivion-1998-1080p-cz-titulky-mp4/5262582f0b422e54) (ID 29723303) | [Sdílej 34783709](https://sdilej.cz/34783709/phantasm-iv-oblivion-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:55:42.283874+00:00 |
 | [Phantom (2013) 4K CZ Titulky.mkv](https://prehraj.to/phantom-2013-4k-cz-titulky-mkv/17f3cd9d6cf104e1) (ID 29650273) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.243282+00:00 |
 | [Phantom (2015) SD CZ Titulky](https://prehraj.to/phantom-2015-sd-cz-titulky-mp4/9097442586fc0a3b) (ID 29615023) | [Sdílej 34775805](https://sdilej.cz/34775805/phantom-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:13:55.544371+00:00 |
 | [Phenomena (1985) 1080p CZ Titulky](https://prehraj.to/phenomena-1985-1080p-cz-titulky-mkv/66c204110bb4b76b) (ID 30900890) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251495+00:00 |
