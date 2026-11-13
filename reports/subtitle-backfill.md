@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:25:45.644781+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:25:58.991824+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -282,7 +282,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Bojovka (2017) 1080p CZ Titulky](https://prehraj.to/bojovka-2017-1080p-cz-titulky-avi/5bd0ac6ceb448c54) (ID 30445731) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151633+00:00 |
 | [Bojová pouta (2023) SD CZ Titulky](https://prehraj.to/bojova-pouta-2023-sd-cz-titulky-avi/ba5f373ba5794da4) (ID 29940451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144842+00:00 |
 | [Bokeh (2017) 1080p CZ Titulky](https://prehraj.to/bokeh-2017-1080p-cz-titulky-mkv/7f34a68e62e3f655) (ID 29935106) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144486+00:00 |
-| [Boku no Hero Academia the Movie 2: Heroes:Rising (2019) 1080p CZ Titulky](https://prehraj.to/boku-no-hero-academia-the-movie-2-heroes-rising-2019-1080p-cz-titulky-mp4/a5a45a86a114992e) (ID 29396179) | [Sdílej 34734691](https://sdilej.cz/34734691/boku-no-hero-academia-the-movie-2-heroes-rising-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:26:21.470180+00:00 |
+| [Boku no Hero Academia the Movie 2: Heroes:Rising (2019) 1080p CZ Titulky](https://prehraj.to/boku-no-hero-academia-the-movie-2-heroes-rising-2019-1080p-cz-titulky-mp4/a5a45a86a114992e) (ID 29396179) | [Sdílej 34734691](https://sdilej.cz/34734691/boku-no-hero-academia-the-movie-2-heroes-rising-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:25:58.991707+00:00 |
 | [Bone Lake (2024) 1080p CZ Titulky](https://prehraj.to/bone-lake-2024-1080p-cz-titulky-mkv/cc1f4554dc84f793) (ID 29936209) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144556+00:00 |
 | [Bonnie Scotland (1935) SD CZ Titulky](https://prehraj.to/bonnie-scotland-1935-sd-cz-titulky-mp4/057331bbde356d58) (ID 30508114) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152478+00:00 |
 | [Boo! A Madea Halloween (2016) SD CZ Titulky](https://prehraj.to/boo-a-madea-halloween-2016-sd-cz-titulky-avi/ff67cb591d505106) (ID 30444098) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151586+00:00 |
