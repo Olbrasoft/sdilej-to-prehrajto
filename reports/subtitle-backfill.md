@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:06:52.937859+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:07:06.811983+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1825,7 +1825,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Settlers (2021) 1080p CZ Titulky](https://prehraj.to/settlers-2021-1080p-cz-titulky-mkv/c9b2af009f9e7dfa) (ID 30397967) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909272+00:00 |
 | [Seumool (2015) SD CZ Titulky](https://prehraj.to/seumool-2015-sd-cz-titulky-mp4/08a7d46319db0a6a) (ID 29216734) | [Sdílej 34775615](https://sdilej.cz/34775615/seumool-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:26:32.423339+00:00 |
 | [Seuwingkijeu (2018) 1080p CZ Titulky](https://prehraj.to/seuwingkijeu-2018-1080p-cz-titulky-mp4/0d9607ec07742737) (ID 30103692) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.905585+00:00 |
-| [Seven Cemeteries (2024) 720p CZ Titulky](https://prehraj.to/seven-cemeteries-2024-720p-cz-titulky-mp4/901851601b55d93d) (ID 29595112) | [Sdílej 34758438](https://sdilej.cz/34758438/seven-cemeteries-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:02:37.923160+00:00 |
+| [Seven Cemeteries (2024) 720p CZ Titulky](https://prehraj.to/seven-cemeteries-2024-720p-cz-titulky-mp4/901851601b55d93d) (ID 29595112) | [Sdílej 34758438](https://sdilej.cz/34758438/seven-cemeteries-2024-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:07:06.811850+00:00 |
 | [Seven Snipers (2026) 4K CZ Titulky](https://prehraj.to/seven-snipers-2026-4k-cz-titulky-mkv/77c58c61b7178ddc) (ID 30380722) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909007+00:00 |
 | [Shaandaar (2015) SD CZ Titulky](https://prehraj.to/shaandaar-2015-sd-cz-titulky-mp4/45555a241daa5f9c) (ID 30898335) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.916442+00:00 |
 | [Shadows (2024) 1080p CZ Titulky](https://prehraj.to/shadows-2024-1080p-cz-titulky-mkv/1f14c8312d3af211) (ID 30650391) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912966+00:00 |
