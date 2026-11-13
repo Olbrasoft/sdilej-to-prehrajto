@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:32:45.073787+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:33:02.829564+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1967,7 +1967,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Stranded (2013) SD CZ Titulky](https://prehraj.to/stranded-2013-sd-cz-titulky-mp4/176f0b59a5346caa) (ID 30421682) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.527950+00:00 |
 | [Strange but True (2019) 1080p CZ Titulky](https://prehraj.to/strange-but-true-2019-1080p-cz-titulky-mp4/86c8798f39d6ddcc) (ID 30343665) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.526796+00:00 |
 | [Stud (2011) 1080p CZ Titulky](https://prehraj.to/stud-2011-1080p-cz-titulky-mkv/90503a9606536460) (ID 30871349) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532124+00:00 |
-| [Student Body (2022) SD CZ Titulky](https://prehraj.to/student-body-2022-sd-cz-titulky-avi/8a7501229949c698) (ID 29750052) | [Sdílej 23913108](https://sdilej.cz/23913108/student.body.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:35:51.029343+00:00 |
+| [Student Body (2022) SD CZ Titulky](https://prehraj.to/student-body-2022-sd-cz-titulky-avi/8a7501229949c698) (ID 29750052) | [Sdílej 23913108](https://sdilej.cz/23913108/student.body.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:33:02.829450+00:00 |
 | [Student of the Year (2012) 720p CZ Titulky](https://prehraj.to/student-of-the-year-2012-720p-cz-titulky-mp4/36e9d39ef221fa54) (ID 29748769) | [Sdílej 34743904](https://sdilej.cz/34743904/student-of-the-year-2012-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:31:33.013727+00:00 |
 | [Studená válka (2018) SD CZ Titulky](https://prehraj.to/studena-valka-2018-sd-cz-titulky-avi/801f812db310fa53) (ID 29886969) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.521162+00:00 |
 | [Styx (2018) SD CZ Titulky](https://prehraj.to/styx-2018-sd-cz-titulky-mkv/3ff4f94e81d50485) (ID 29718275) | [Sdílej 12020046](https://sdilej.cz/12020046/styx.2018.web-dlrip-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:05.351976+00:00 |
