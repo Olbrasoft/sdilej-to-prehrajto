@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:55:10.793433+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:55:23.266816+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1746,7 +1746,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Rodná zem (1954) SD CZ Titulky](https://prehraj.to/rodna-zem-1954-sd-cz-titulky-avi/a2359d7c9edf66f2) (ID 30891074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251444+00:00 |
 | [Rogue Hostage (2021) SD CZ Titulky](https://prehraj.to/rogue-hostage-2021-sd-cz-titulky-mkv/f1f67d27465998cc) (ID 30633004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249963+00:00 |
 | [Rogue Warfare (2019) SD CZ Titulky](https://prehraj.to/rogue-warfare-2019-sd-cz-titulky-mp4/29ec98d00f164275) (ID 30939366) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252220+00:00 |
-| [Rok, kdy jsem začala masturbovat (2022) 1080p CZ Titulky](https://prehraj.to/rok-kdy-jsem-zacala-masturbovat-2022-1080p-cz-titulky-mp4/bbdfbd2beaa38b58) (ID 29722723) | [Sdílej 34726868](https://sdilej.cz/34726868/rok-kdy-jsem-zacala-masturbovat-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:52:15.313512+00:00 |
+| [Rok, kdy jsem začala masturbovat (2022) 1080p CZ Titulky](https://prehraj.to/rok-kdy-jsem-zacala-masturbovat-2022-1080p-cz-titulky-mp4/bbdfbd2beaa38b58) (ID 29722723) | [Sdílej 34726868](https://sdilej.cz/34726868/rok-kdy-jsem-zacala-masturbovat-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:55:23.266693+00:00 |
 | [Ronaldo (2015) SD CZ Titulky](https://prehraj.to/ronaldo-2015-sd-cz-titulky-mkv/646469ea143ffed3) (ID 30293318) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247460+00:00 |
 | [Ronaldo vs. Messi: Face Off! (2017) 1080p CZ Titulky](https://prehraj.to/ronaldo-vs-messi-face-off-2017-1080p-cz-titulky-mp4/57adab814b4959b1) (ID 30578004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249549+00:00 |
 | [Ronda Rousey: More than a Fighter Home (2024) 720p CZ Titulky](https://prehraj.to/ronda-rousey-more-than-a-fighter-home-2024-720p-cz-titulky-mp4/20b228303d5f8e64) (ID 30947073) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252387+00:00 |
