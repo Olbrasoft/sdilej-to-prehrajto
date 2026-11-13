@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:29:07.100254+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:29:15.599962+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -1863,7 +1863,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Skate Kitchen (2018) 1080p CZ Titulky](https://prehraj.to/skate-kitchen-2018-1080p-cz-titulky-avi/0a3ca241dde6d605) (ID 29562810) | [Sdílej 11486609](https://sdilej.cz/11486609/skate-kitchen-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:53:41.624005+00:00 |
 | [Skif (2018) 1080p CZ Titulky](https://prehraj.to/skif-2018-1080p-cz-titulky-mkv/9a048ef3f2b928bb) (ID 30253451) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148443+00:00 |
 | [Skin Walker (2019) 1080p CZ Titulky](https://prehraj.to/skin-walker-2019-1080p-cz-titulky-mkv/91e9b137013da82a) (ID 29734666) | [Sdílej 14016315](https://sdilej.cz/14016315/skin.walker.2019.1080p.sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:47.137232+00:00 |
-| [Skinwalker (2021) 720p CZ Titulky](https://prehraj.to/skinwalker-2021-720p-cz-titulky-mp4/0a33d370a6ac740e) (ID 29403790) | [Sdílej 34772693](https://sdilej.cz/34772693/skinwalker-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:29:37.858188+00:00 |
+| [Skinwalker (2021) 720p CZ Titulky](https://prehraj.to/skinwalker-2021-720p-cz-titulky-mp4/0a33d370a6ac740e) (ID 29403790) | [Sdílej 34772693](https://sdilej.cz/34772693/skinwalker-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:29:15.599832+00:00 |
 | [Skleněná past (2002) SD CZ Titulky](https://prehraj.to/sklenena-past-2002-sd-cz-titulky-avi/147124cf4bccc0dc) (ID 30930674) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158703+00:00 |
 | [Sklízení duší (2019) 1080p CZ Titulky](https://prehraj.to/sklizeni-dusi-2019-1080p-cz-titulky-mkv/e410af12642741f6) (ID 29721179) | [Sdílej 18068680](https://sdilej.cz/18068680/soul.reaper.2019.1080p.nf.web-dl.ddp5.1.x264-titulky-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:51:44.285816+00:00 |
 | [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:32:16.155114+00:00 |
