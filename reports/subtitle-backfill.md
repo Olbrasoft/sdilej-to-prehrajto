@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:00:09.747657+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:00:40.920283+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -848,7 +848,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Hell House LLC II: The Abaddon Hotel (2018) 1080p CZ Titulky](https://prehraj.to/hell-house-llc-ii-the-abaddon-hotel-2018-1080p-cz-titulky-mkv/4627970acc90313e) (ID 29736560) | [Sdílej 29835047](https://sdilej.cz/29835047/hell.house.llc.ii.the.abaddon.hotel.2018.1080p.web.h264-edith.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:02:19.350388+00:00 |
 | [Hellfire (2026) 4K CZ Titulky](https://prehraj.to/hellfire-2026-4k-cz-titulky-mkv/d2ad46d7f873b54d) (ID 30471129) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248964+00:00 |
 | [Hello World (2019) 1080p CZ Titulky](https://prehraj.to/hello-world-2019-1080p-cz-titulky-mp4/ef8e68a8310e045a) (ID 30102963) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246532+00:00 |
-| [Helloween (2025) 1080p CZ Titulky](https://prehraj.to/helloween-2025-1080p-cz-titulky-avi/289eb6e92cf9dd41) (ID 29734063) | [Sdílej 32212844](https://sdilej.cz/32212844/helloween-2025-cz-titulky-vlozeny-ac-3-5.1-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:57:30.018422+00:00 |
+| [Helloween (2025) 1080p CZ Titulky](https://prehraj.to/helloween-2025-1080p-cz-titulky-avi/289eb6e92cf9dd41) (ID 29734063) | [Sdílej 32212844](https://sdilej.cz/32212844/helloween-2025-cz-titulky-vlozeny-ac-3-5.1-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:00:40.920169+00:00 |
 | [Hellraiser II: Svázaný s peklem (1988) 1080p CZ Titulky](https://prehraj.to/hellraiser-ii-svazany-s-peklem-1988-1080p-cz-titulky-mp4/bb1050c9309cfac8) (ID 30283634) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247433+00:00 |
 | [Hellraiser: Revelations (2011) 1080p CZ Titulky](https://prehraj.to/hellraiser-revelations-2011-1080p-cz-titulky-mp4/9ca63fa436a9a820) (ID 30765620) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.250617+00:00 |
 | [Herečka tisíciletí (2001) 1080p CZ Titulky](https://prehraj.to/herecka-tisicileti-2001-1080p-cz-titulky-mp4/6e431c596b5f2608) (ID 30923761) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251889+00:00 |
