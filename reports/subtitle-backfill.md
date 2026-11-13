@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:17:47.814670+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:18:02.936508+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1246,7 +1246,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Marlina, vražedkyně ve čtyřech aktech (2017) SD CZ Titulky](https://prehraj.to/marlina-vrazedkyne-ve-ctyrech-aktech-2017-sd-cz-titulky-avi/3ef241ec526d9034) (ID 29561541) | [Sdílej 11235817](https://sdilej.cz/11235817/marlina-vrazedkyne-ve-ctyrech-aktech-marlina-the-murderer-in-four-acts-2017-cz-titulky-brdrip-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:56:15.867876+00:00 |
 | [Marodi (2014) SD CZ Titulky](https://prehraj.to/marodi-2014-sd-cz-titulky-avi/5812ed209de92094) (ID 30526545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655884+00:00 |
 | [Marshall (2017) 1080p CZ Titulky](https://prehraj.to/marshall-2017-1080p-cz-titulky-avi/3c1b9446cb286944) (ID 30489167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655733+00:00 |
-| [Martyrs Lane (2021) SD CZ Titulky](https://prehraj.to/martyrs-lane-2021-sd-cz-titulky-avi/35ac025199364fdf) (ID 29632570) | [Sdílej 24430252](https://sdilej.cz/24430252/martyrs.lane.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:12:58.858676+00:00 |
+| [Martyrs Lane (2021) SD CZ Titulky](https://prehraj.to/martyrs-lane-2021-sd-cz-titulky-avi/35ac025199364fdf) (ID 29632570) | [Sdílej 24430252](https://sdilej.cz/24430252/martyrs.lane.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:18:02.936385+00:00 |
 | [Masaryk (2016) SD CZ Titulky](https://prehraj.to/masaryk-2016-sd-cz-titulky-avi/df63a430e5e3839f) (ID 29717479) | [Sdílej 23085369](https://sdilej.cz/23085369/masaryk-2016-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:48:32.835799+00:00 |
 | [Masquerade (2021) 1080p CZ Titulky](https://prehraj.to/masquerade-2021-1080p-cz-titulky-avi/b0f50eb5832f2359) (ID 29916775) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.648206+00:00 |
 | [Mass (2021) 1080p CZ Titulky](https://prehraj.to/mass-2021-1080p-cz-titulky-mp4/0ad233c411a240fa) (ID 29895547) | [Sdílej 19343713](https://sdilej.cz/19343713/mass.2021.1080p.webrip.x264-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:46:10.569810+00:00 |
