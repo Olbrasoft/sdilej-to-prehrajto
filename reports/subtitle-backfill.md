@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:43:53.450994+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:44:02.292472+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1742,7 +1742,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Robin Hood: The Rebellion (2018) 720p CZ Titulky](https://prehraj.to/robin-hood-the-rebellion-2018-720p-cz-titulky-mp4/588a326395314f49) (ID 29910820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.521671+00:00 |
 | [Rodinná oslava (1998) 720p CZ Titulky](https://prehraj.to/rodinna-oslava-1998-720p-cz-titulky-mp4/3765dffa23fc26a0) (ID 29175650) | [Sdílej 34579511](https://sdilej.cz/34579511/rodinna-oslava-1998-cz-titulky-1080p-fhd.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:46:19.834159+00:00 |
 | [Rodinný krb (1970) SD CZ Titulky](https://prehraj.to/rodinny-krb-1970-sd-cz-titulky-mp4/eca664652afc269e) (ID 30486498) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.528699+00:00 |
-| [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:46:53.387561+00:00 |
+| [Rodinný sraz na Vánoce (2019) 1080p CZ Titulky](https://prehraj.to/rodinny-sraz-na-vanoce-2019-1080p-cz-titulky-mp4/7345ddbe4c143bcf) (ID 29218934) | [Sdílej 34733897](https://sdilej.cz/34733897/rodinny-sraz-na-vanoce-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:44:02.292349+00:00 |
 | [Rodná zem (1954) SD CZ Titulky](https://prehraj.to/rodna-zem-1954-sd-cz-titulky-avi/a2359d7c9edf66f2) (ID 30891074) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532576+00:00 |
 | [Rogue Hostage (2021) SD CZ Titulky](https://prehraj.to/rogue-hostage-2021-sd-cz-titulky-mkv/f1f67d27465998cc) (ID 30633004) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529958+00:00 |
 | [Rogue Warfare (2019) SD CZ Titulky](https://prehraj.to/rogue-warfare-2019-sd-cz-titulky-mp4/29ec98d00f164275) (ID 30939366) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.533812+00:00 |
