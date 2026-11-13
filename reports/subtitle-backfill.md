@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:55:38.701509+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:55:58.093349+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2458,7 +2458,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Zabijáci z maloměsta (2017) 720p CZ Titulky](https://prehraj.to/zabijaci-z-malomesta-2017-720p-cz-titulky-avi/a27b7a3d3dd6356a) (ID 29912184) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901253+00:00 |
 | [Zachránit Leningrad (2019) 1080p CZ Titulky](https://prehraj.to/zachranit-leningrad-2019-1080p-cz-titulky-mkv/bebd525c372cab25) (ID 29987922) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.904159+00:00 |
 | [Zajatci horského tunelu (2019) SD CZ Titulky](https://prehraj.to/zajatci-horskeho-tunelu-2019-sd-cz-titulky-avi/13a5d932d5b58254) (ID 30606444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912371+00:00 |
-| [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:51:42.294925+00:00 |
+| [Zakázaný majetek (1966) SD CZ Titulky](https://prehraj.to/zakazany-majetek-1966-sd-cz-titulky-avi/2a6161e253ab3df4) (ID 29561341) | [Sdílej 34674165](https://sdilej.cz/34674165/1966-zakazany-majetek-drama-romanticky-75-jean-louis-trintignant-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:55:58.093194+00:00 |
 | [Zakódované předsudky (2020) 1080p CZ Titulky](https://prehraj.to/zakodovane-predsudky-2020-1080p-cz-titulky-mp4/5082add70e242a8f) (ID 29673975) | [Sdílej 34731804](https://sdilej.cz/34731804/zakodovane-predsudky-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:28:37.432367+00:00 |
 | [Zamilovaní (2011) 1080p CZ Titulky](https://prehraj.to/zamilovani-2011-1080p-cz-titulky-mp4/07911c77d47db60b) (ID 30202942) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.906554+00:00 |
 | [Zamrzlá země (2005) SD CZ Titulky](https://prehraj.to/zamrzla-zeme-2005-sd-cz-titulky-mkv/5f7bdd9a99d6f89e) (ID 30034906) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.904744+00:00 |
