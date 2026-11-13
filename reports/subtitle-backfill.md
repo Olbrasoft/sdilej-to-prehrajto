@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:12:18.149775+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:12:30.847710+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1031,7 +1031,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Jsme jedné krve: Malcolm X a Muhammad Ali (2021) 1080p CZ Titulky](https://prehraj.to/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-1080p-cz-titulky-mp4/3ddd0b6f5abaca0f) (ID 29586922) | [Sdílej 34730700](https://sdilej.cz/34730700/jsme-jedne-krve-malcolm-x-a-muhammad-ali-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:05:57.949069+00:00 |
 | [Jurassic Shark 2: Aquapocalypse (2021) 1080p CZ Titulky](https://prehraj.to/jurassic-shark-2-aquapocalypse-2021-1080p-cz-titulky-mp4/29a6f051738fa3c9) (ID 30863041) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915397+00:00 |
 | [Jurassic Triangle (2024) 1080p CZ Titulky](https://prehraj.to/jurassic-triangle-2024-1080p-cz-titulky-mp4/4a4836b8dc6100cc) (ID 30927962) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.917762+00:00 |
-| [Just Before Dawn (1981) SD CZ Titulky](https://prehraj.to/just-before-dawn-1981-sd-cz-titulky-avi/0ffe576723da5bce) (ID 29612468) | [Sdílej 6227474](https://sdilej.cz/6227474/just-before-dawn-horor.thriller-1981-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:07:51.200504+00:00 |
+| [Just Before Dawn (1981) SD CZ Titulky](https://prehraj.to/just-before-dawn-1981-sd-cz-titulky-avi/0ffe576723da5bce) (ID 29612468) | [Sdílej 6227474](https://sdilej.cz/6227474/just-before-dawn-horor.thriller-1981-cz.titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:12:30.847573+00:00 |
 | [Justice League vs. the Fatal Five (2019) 1080p CZ Titulky](https://prehraj.to/justice-league-vs-the-fatal-five-2019-1080p-cz-titulky-mp4/a479e0605888bef7) (ID 30576111) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.911907+00:00 |
 | [Justice Society: World War II (2021) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29269710) | [Sdílej 16889647](https://sdilej.cz/16889647/justice.society.world.war.ii.2021.1080p.webrip.dd5.1.x264.cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T15:31:10.597686+00:00 |
 | [Justin Bieber: Náš svět (2021) 720p CZ Titulky](https://prehraj.to/justin-bieber-nas-svet-2021-720p-cz-titulky-mp4/7cf7cec94fcdb58b) (ID 30962239) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.919148+00:00 |
