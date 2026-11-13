@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:31:05.710732+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:31:13.681154+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2133,7 +2133,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [The Lair (2022) SD CZ Titulky](https://prehraj.to/the-lair-2022-sd-cz-titulky-avi/0de11181a2934f7f) (ID 29908784) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.646719+00:00 |
 | [The Last Boy (2019) 1080p CZ Titulky](https://prehraj.to/the-last-boy-2019-1080p-cz-titulky-mp4/a41e2a1010f61dfa) (ID 30414012) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654961+00:00 |
 | [The Last Kumite (2024) 1080p CZ Titulky](https://prehraj.to/the-last-kumite-2024-1080p-cz-titulky-mp4/2f4b4cbc5b4211c8) (ID 30463088) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655515+00:00 |
-| [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:25:44.098831+00:00 |
+| [The Legacy of a Whitetail Deer Hunter (2018) SD CZ Titulky](https://prehraj.to/the-legacy-of-a-whitetail-deer-hunter-2018-sd-cz-titulky-mp4/76ff9dbe01c2703b) (ID 29658546) | [Sdílej 34735597](https://sdilej.cz/34735597/the-legacy-of-a-whitetail-deer-hunter-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:31:13.681008+00:00 |
 | [The Legend of La Llorona (2022) 1080p CZ Titulky](https://prehraj.to/the-legend-of-la-llorona-2022-1080p-cz-titulky-mp4/c86c0ea379abb5bf) (ID 29905435) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.646250+00:00 |
 | [The Legend of the 7 Golden Vampires (1974) SD CZ Titulky](https://prehraj.to/the-legend-of-the-7-golden-vampires-1974-sd-cz-titulky-mp4/5bdb6775403403e4) (ID 30908275) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.660946+00:00 |
 | [The Legion (2020) SD CZ Titulky](https://prehraj.to/the-legion-2020-sd-cz-titulky-avi/28109e82ad0423d6) (ID 30864042) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.659133+00:00 |
