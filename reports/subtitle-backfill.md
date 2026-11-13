@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T10:33:34.789023+00:00
+Poslední aktualizace (UTC): 2026-11-13T10:33:41.580925+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2552,7 +2552,7 @@ Kontrol: 50; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 2. Důvod
 | [Šéf Šanghaje (2012) SD CZ Titulky](https://prehraj.to/sef-sanghaje-2012-sd-cz-titulky-mp4/177081a5f639257a) (ID 30168307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.959107+00:00 |
 | [Šíleně šťastná (2016) SD CZ Titulky](https://prehraj.to/silene-stastna-2016-sd-cz-titulky-mp4/fca4fbf57f67f8ec) (ID 29418973) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.952018+00:00 |
 | [Šťastný Lazzaro (2018) 1080p CZ Titulky](https://prehraj.to/stastny-lazzaro-2018-1080p-cz-titulky-mp4/df76be4cbe7979cf) (ID 29887528) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.954417+00:00 |
-| [Žaluji! (2019) 1080p CZ Titulky](https://prehraj.to/zaluji-2019-1080p-cz-titulky-mkv/a468d1ba2275760b) (ID 29364803) | [Sdílej 13347965](https://sdilej.cz/13347965/l-ufficiale-e-la-spia-j-accuse-2019-ita-fre-ac3-5.1-bdrip-1080p-h264-armor-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T10:31:52.588353+00:00 |
+| [Žaluji! (2019) 1080p CZ Titulky](https://prehraj.to/zaluji-2019-1080p-cz-titulky-mkv/a468d1ba2275760b) (ID 29364803) | [Sdílej 13347965](https://sdilej.cz/13347965/l-ufficiale-e-la-spia-j-accuse-2019-ita-fre-ac3-5.1-bdrip-1080p-h264-armor-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:33:41.580813+00:00 |
 | [Žena na válečné stezce (2018) 1080p CZ Titulky](https://prehraj.to/zena-na-valecne-stezce-2018-1080p-cz-titulky-mkv/5caeb8d6077e034f) (ID 30876445) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.967267+00:00 |
 | [Ženou z boží vůle (2017) 1080p CZ Titulky](https://prehraj.to/zenou-z-bozi-vule-2017-1080p-cz-titulky-mp4/392137080c07342c) (ID 29213453) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.950364+00:00 |
 | [Ženy mafiánů (2018) 1080p CZ Titulky](https://prehraj.to/zeny-mafianu-2018-1080p-cz-titulky-mkv/29527dd81cdf48ae) (ID 29912656) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:32:15.955610+00:00 |
