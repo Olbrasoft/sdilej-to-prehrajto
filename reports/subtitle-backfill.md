@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:13:28.909653+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:13:38.251953+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1472,7 +1472,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Odstřelovač - Poslední vzdor (2025) 1080p CZ Titulky](https://prehraj.to/odstrelovac-posledni-vzdor-2025-1080p-cz-titulky-mp4/b5462d3f3dfd6afd) (ID 30773054) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.914322+00:00 |
 | [Office Uprising (2018) 1080p CZ Titulky](https://prehraj.to/office-uprising-2018-1080p-cz-titulky-avi/91a24a218d1fa87f) (ID 29908148) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900713+00:00 |
 | [Oidipus král (1967) SD CZ Titulky](https://prehraj.to/oidipus-kral-1967-sd-cz-titulky-mp4/c4d43158115f6a39) (ID 30882365) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.916017+00:00 |
-| [Okamžitá smrt (2017) SD CZ Titulky](https://prehraj.to/okamzita-smrt-2017-sd-cz-titulky-mkv/e2827c7657fb2f16) (ID 29614071) | [Sdílej 11243558](https://sdilej.cz/11243558/instant-death-2017-cztitulky-by-becker.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:09:02.749508+00:00 |
+| [Okamžitá smrt (2017) SD CZ Titulky](https://prehraj.to/okamzita-smrt-2017-sd-cz-titulky-mkv/e2827c7657fb2f16) (ID 29614071) | [Sdílej 11243558](https://sdilej.cz/11243558/instant-death-2017-cztitulky-by-becker.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:13:38.251834+00:00 |
 | [Okolo futbola (2013) SD CZ Titulky](https://prehraj.to/okolo-futbola-2013-sd-cz-titulky-avi/c6045945f9e0f029) (ID 30786600) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.914723+00:00 |
 | [Oktoberfest (2006) SD CZ Titulky](https://prehraj.to/oktoberfest-2006-sd-cz-titulky-mkv/be440d34137bd7af) (ID 29579307) | [Sdílej 20584458](https://sdilej.cz/20584458/beerfest.2006.dvdrip.x264.ac3.bgaudio-siso.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:03:53.966898+00:00 |
 | [Old Henry (2021) 1080p CZ Titulky](https://prehraj.to/old-henry-2021-1080p-cz-titulky-mkv/c70047c191ae72ed) (ID 29371614) | [Sdílej 18912474](https://sdilej.cz/18912474/old.henry.-2021-.1080p.webrip.dd5.1.cz.titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:47.490665+00:00 |
