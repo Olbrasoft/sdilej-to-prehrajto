@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T11:29:27.439227+00:00
+Poslední aktualizace (UTC): 2026-11-13T11:29:39.437192+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2467,7 +2467,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Zesil to! (1990) 1080p CZ Titulky](https://prehraj.to/zesil-to-1990-1080p-cz-titulky-mp4/e2e900f297ebfd59) (ID 29393286) | [Sdílej 32451615](https://sdilej.cz/32451615/pump-up-the-volume-1990-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T14:27:44.037860+00:00 |
 | [Zeta (2026) 1080p CZ Titulky](https://prehraj.to/zeta-2026-1080p-cz-titulky-mkv/9159d711195b9791) (ID 30337722) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.165331+00:00 |
 | [Zhan lang 2 (2017) 720p CZ Titulky](https://prehraj.to/zhan-lang-2-2017-720p-cz-titulky-mp4/287868bc3830f8d9) (ID 29911336) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.157577+00:00 |
-| [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:28:18.677852+00:00 |
+| [Zjevení (2018) SD CZ Titulky](https://prehraj.to/zjeveni-2018-sd-cz-titulky-avi/36503d6ecd78c4c6) (ID 29366594) | [Sdílej 11096242](https://sdilej.cz/11096242/l.apparition.2018.pl.brrip.xvid-gr4pe.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:29:39.437077+00:00 |
 | [Zlatá cihla (2023) 720p CZ Titulky](https://prehraj.to/zlata-cihla-2023-720p-cz-titulky-mp4/cbbf28f01577c309) (ID 30277961) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.163854+00:00 |
 | [Zloději aut (2025) 1080p CZ Titulky](https://prehraj.to/zlodeji-aut-2025-1080p-cz-titulky-mkv/1ac38c370498a447) (ID 29917167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.157964+00:00 |
 | [Zloději kol (1948) 720p CZ Titulky](https://prehraj.to/zlodeji-kol-1948-720p-cz-titulky-mp4/26173adc1a2311ce) (ID 29278980) | [Sdílej 34756184](https://sdilej.cz/34756184/zlodeji-kol-1948-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T02:32:33.546405+00:00 |
