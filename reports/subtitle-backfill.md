@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:20:43.537654+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:20:53.089153+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -127,7 +127,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-07T00:42:51.852485+00:00 |
 | [Antropocén: Epocha člověka (2018) 720p CZ Titulky](https://prehraj.to/antropocen-epocha-cloveka-2018-720p-cz-titulky-mp4/41fa081a25f124d9) (ID 30695344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.657028+00:00 |
 | [Anything for Jackson (2020) 1080p CZ Titulky](https://prehraj.to/anything-for-jackson-2020-1080p-cz-titulky-mp4/dbb349b8cccbaf89) (ID 30733891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.657291+00:00 |
-| [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:16:00.273568+00:00 |
+| [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:20:53.089005+00:00 |
 | [Apaches (2023) 1080p CZ Titulky](https://prehraj.to/apaches-2023-1080p-cz-titulky-mp4/661bc562ebe217bc) (ID 29567722) | [Sdílej 26562939](https://sdilej.cz/26562939/apaches-2023.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:00:11.415012+00:00 |
 | [Apartment 7A (2024) 1080p CZ Titulky](https://prehraj.to/apartment-7a-2024-1080p-cz-titulky-mkv/7d165860baab27a5) (ID 29917896) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.648470+00:00 |
 | [Aplikace (2019) 1080p CZ Titulky](https://prehraj.to/aplikace-2019-1080p-cz-titulky-mp4/d85ea4d04c6ab69a) (ID 30404271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.654850+00:00 |
