@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:35:44.370111+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:35:55.314397+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1282,7 +1282,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Milion mil daleko (2023) 4K CZ Titulky](https://prehraj.to/milion-mil-daleko-2023-4k-cz-titulky-mkv/e38dd91c3a134f04) (ID 30489394) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.655739+00:00 |
 | [Milovaná (2010) 1080p CZ Titulky](https://prehraj.to/milovana-2010-1080p-cz-titulky-mkv/b85d1bd0fef86acf) (ID 29382058) | [Sdílej 20917147](https://sdilej.cz/20917147/till.det.som.ar.vackert.2010.1080p.web-dl.dd5.1.h.264-pfxcpi.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:32:50.876393+00:00 |
 | [Miluju Tě, blbečku (2020) 1080p CZ Titulky](https://prehraj.to/miluju-te-blbecku-2020-1080p-cz-titulky-mkv/4bae9c92a5099505) (ID 30923578) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.661933+00:00 |
-| [Ministranti (2025) 1080p CZ Titulky](https://prehraj.to/ministranti-2025-1080p-cz-titulky-mkv/80d3be75247f9c94) (ID 29676188) | [Sdílej 33479712](https://sdilej.cz/33479712/ministranci-2025-1080p-web-dl-x264-odkaz-na-titulky.mkv.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:30:19.732629+00:00 |
+| [Ministranti (2025) 1080p CZ Titulky](https://prehraj.to/ministranti-2025-1080p-cz-titulky-mkv/80d3be75247f9c94) (ID 29676188) | [Sdílej 33479712](https://sdilej.cz/33479712/ministranci-2025-1080p-web-dl-x264-odkaz-na-titulky.mkv.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:35:55.314287+00:00 |
 | [Minutes to Midnight (2018) SD CZ Titulky](https://prehraj.to/minutes-to-midnight-2018-sd-cz-titulky-avi/3fc43378026ec179) (ID 30908368) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.660968+00:00 |
 | [Mira (2022) 1080p CZ Titulky](https://prehraj.to/mira-2022-1080p-cz-titulky-mp4/053bb76d5cd15089) (ID 30606658) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.656488+00:00 |
 | [Miss Baek (2018) 1080p CZ Titulky](https://prehraj.to/miss-baek-2018-1080p-cz-titulky-mp4/cbb922ab795ad0dd) (ID 30070857) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.652592+00:00 |
