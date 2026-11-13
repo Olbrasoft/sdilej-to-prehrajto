@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:10:11.793159+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:10:23.047909+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1993,7 +1993,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Survival of the Dead (2009) 1080p CZ Titulky](https://prehraj.to/survival-of-the-dead-2009-1080p-cz-titulky-mp4/b226a5824cb95207) (ID 29907417) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.900587+00:00 |
 | [Suspiria (1977) SD CZ Titulky](https://prehraj.to/suspiria-1977-sd-cz-titulky-mkv/0d59baa805280089) (ID 30876633) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.915897+00:00 |
 | [Svaha: Šestý prst (2019) 1080p CZ Titulky](https://prehraj.to/svaha-sesty-prst-2019-1080p-cz-titulky-avi/f2f4fe56402a4daf) (ID 30272804) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.907384+00:00 |
-| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:05:40.699109+00:00 |
+| [Svatba (2021) 1080p CZ Titulky](https://prehraj.to/svatba-2021-1080p-cz-titulky-mp4/7133dab942c1b644) (ID 29609988) | [Sdílej 26498869](https://sdilej.cz/26498869/svatba-wesele-2021-pl-sktit-tvrip-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:10:23.047798+00:00 |
 | [Svátky na návsi s Dolly Parton (2020) 1080p CZ Titulky](https://prehraj.to/svatky-na-navsi-s-dolly-parton-2020-1080p-cz-titulky-mp4/e54627938dcf2687) (ID 29707261) | [Sdílej 34709164](https://sdilej.cz/34709164/svatky-na-navsi-s-dolly-parton-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:43:39.355774+00:00 |
 | [Světla páteční noci (2004) 1080p CZ Titulky](https://prehraj.to/svetla-patecni-noci-2004-1080p-cz-titulky-mkv/85fd296b21b6d483) (ID 30949957) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.918640+00:00 |
 | [Svůdce (2017) SD CZ Titulky](https://prehraj.to/svudce-2017-sd-cz-titulky-mkv/ee2ece5afb3c945f) (ID 30925834) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.917552+00:00 |
