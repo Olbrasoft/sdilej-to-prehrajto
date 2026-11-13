@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:46:43.780433+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:46:50.931741+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -906,7 +906,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Hranice ovládání (2009) 720p CZ Titulky](https://prehraj.to/hranice-ovladani-2009-720p-cz-titulky-mp4/1e44c7b60b432cb3) (ID 29996684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.646311+00:00 |
 | [Hrdina (2021) 720p CZ Titulky](https://prehraj.to/hrdina-2021-720p-cz-titulky-mkv/2a3d35fb16a29fad) (ID 30906748) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.660821+00:00 |
 | [Hrdina až do konce (2017) 1080p CZ Titulky](https://prehraj.to/hrdina-az-do-konce-2017-1080p-cz-titulky-mkv/b6bb0961fc13412a) (ID 30574121) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.655306+00:00 |
-| [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:32:43.287922+00:00 |
+| [Hrdličky (2011) SD CZ Titulky](https://prehraj.to/hrdlicky-2011-sd-cz-titulky-mp4/58281b70d9a99805) (ID 29267930) | [Sdílej 34780331](https://sdilej.cz/34780331/hrdlicky-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:46:50.931622+00:00 |
 | [Hrob světlušek (1988) 1080p CZ Titulky](https://prehraj.to/hrob-svetlusek-1988-1080p-cz-titulky-mkv/95955240bbd53d9c) (ID 30903774) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.660699+00:00 |
 | [Hunger Games: Úsvit sklizně (2026) 1080p CZ Titulky](https://prehraj.to/hunger-games-usvit-sklizne-2026-1080p-cz-titulky-mp4/2a3d8b715e2f8786) (ID 30816083) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.659182+00:00 |
 | [Hunt (2022) 1080p CZ Titulky](https://prehraj.to/hunt-2022-1080p-cz-titulky-mp4/4594b30c9cf761e2) (ID 30523897) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.654574+00:00 |
