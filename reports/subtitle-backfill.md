@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:52:48.724565+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:52:56.804665+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -468,7 +468,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Demigod (2021) SD CZ Titulky](https://prehraj.to/demigod-2021-sd-cz-titulky-mp4/89a41e67ced5e151) (ID 30629316) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249923+00:00 |
 | [Demon Slayer: Kimetsu no Yaiba-Infinity Castle (2025) 4K CZ Titulky](https://prehraj.to/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-4k-cz-titulky-mkv/91e88fa3606d69e9) (ID 28925354) | [Sdílej 31786002](https://sdilej.cz/31786002/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-ac-3-5.1-jap.-2160p-hevc-cz-titulky-v-obraze.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:38:17.942688+00:00 |
 | [Demonic (2015) SD CZ Titulky](https://prehraj.to/demonic-2015-sd-cz-titulky-avi/1f13aafb4602f312) (ID 30382169) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248145+00:00 |
-| [Demony wojny wg Goi (1998) SD CZ Titulky](https://prehraj.to/demony-wojny-wg-goi-1998-sd-cz-titulky-mp4/42bf8d5180a87ad4) (ID 29719575) | [Sdílej 34784059](https://sdilej.cz/34784059/demony-wojny-wg-goi-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:49:53.853034+00:00 |
+| [Demony wojny wg Goi (1998) SD CZ Titulky](https://prehraj.to/demony-wojny-wg-goi-1998-sd-cz-titulky-mp4/42bf8d5180a87ad4) (ID 29719575) | [Sdílej 34784059](https://sdilej.cz/34784059/demony-wojny-wg-goi-1998-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:52:56.804555+00:00 |
 | [Den Páně (2020) 1080p CZ Titulky](https://prehraj.to/den-pane-2020-1080p-cz-titulky-mkv/573b92bb012c7fb9) (ID 30740296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.250433+00:00 |
 | [Depeche Mode: M (2025) 1080p CZ Titulky](https://prehraj.to/depeche-mode-m-2025-1080p-cz-titulky-mp4/ae8a95e138d4b1b2) (ID 29444344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.242570+00:00 |
 | [Der Hauptmann (2017) 1080p CZ Titulky](https://prehraj.to/der-hauptmann-2017-1080p-cz-titulky-mkv/2d00419b76ae23d2) (ID 30878138) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251277+00:00 |
