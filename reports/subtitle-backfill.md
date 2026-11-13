@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:44:53.484107+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:45:03.085735+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1529,7 +1529,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pan Nepolapitelný (2022) 1080p CZ Titulky](https://prehraj.to/pan-nepolapitelny-2022-1080p-cz-titulky-mkv/6b27c2e42306e4f9) (ID 30216884) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.525741+00:00 |
 | [Paní Harrisová jede do Paříže (2022) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29333337) | [Sdílej 24609620](https://sdilej.cz/24609620/mrs-harris-goes-to-paris-2022-cztitulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T19:13:14.510867+00:00 |
 | [Paprika (2006) 1080p CZ Titulky](https://prehraj.to/paprika-2006-1080p-cz-titulky-mp4/2ae77b094846078d) (ID 29395850) | [Sdílej 6792821](https://sdilej.cz/6792821/paprika-2006-1080p-jpn-5.1-eng-5.1-blu-ray.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:25:19.012796+00:00 |
-| [Papírový život (2021) 1080p CZ Titulky](https://prehraj.to/papirovy-zivot-2021-1080p-cz-titulky-mp4/f9f8a72792f7a411) (ID 29220346) | [Sdílej 34729011](https://sdilej.cz/34729011/papirovy-zivot-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:47:54.650043+00:00 |
+| [Papírový život (2021) 1080p CZ Titulky](https://prehraj.to/papirovy-zivot-2021-1080p-cz-titulky-mp4/f9f8a72792f7a411) (ID 29220346) | [Sdílej 34729011](https://sdilej.cz/34729011/papirovy-zivot-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:45:03.085632+00:00 |
 | [Paradise City (2019) SD CZ Titulky](https://prehraj.to/paradise-city-2019-sd-cz-titulky-avi/a3960111d027f033) (ID 29818623) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.520973+00:00 |
 | [Paradise v plamenech (2019) 1080p CZ Titulky](https://prehraj.to/paradise-v-plamenech-2019-1080p-cz-titulky-mp4/ff885716a15d5121) (ID 30040420) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.524218+00:00 |
 | [Paradox (2016) 1080p CZ Titulky](https://prehraj.to/paradox-2016-1080p-cz-titulky-mp4/bb4a8e887841423f) (ID 29733276) | [Sdílej 34737704](https://sdilej.cz/34737704/paradox-2016-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:59:44.371260+00:00 |
