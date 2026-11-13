@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:42:35.202567+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:43:02.114260+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2236,7 +2236,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Tides (2021) 1080p CZ Titulky](https://prehraj.to/tides-2021-1080p-cz-titulky-mkv/bef4e05509b1c7f9) (ID 30864179) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.156769+00:00 |
 | [Tiger 3 (2023) 720p CZ Titulky](https://prehraj.to/tiger-3-2023-720p-cz-titulky-mp4/1ec6dcddc853fcf1) (ID 29547184) | [Sdílej 34725287](https://sdilej.cz/34725287/tiger-3-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:48:43.898027+00:00 |
 | [Tiger Zinda Hai (2017) 720p CZ Titulky](https://prehraj.to/tiger-zinda-hai-2017-720p-cz-titulky-mp4/e2b89efad4149c80) (ID 29659164) | [Sdílej 34737260](https://sdilej.cz/34737260/tiger-zinda-hai-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:26:06.259752+00:00 |
-| [Tina a Vore (2018) 1080p CZ Titulky](https://prehraj.to/tina-a-vore-2018-1080p-cz-titulky-avi/2eed4247752c5d6c) (ID 29490691) | [Sdílej 11294620](https://sdilej.cz/11294620/border-tina-a-vore-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:42:23.084091+00:00 |
+| [Tina a Vore (2018) 1080p CZ Titulky](https://prehraj.to/tina-a-vore-2018-1080p-cz-titulky-avi/2eed4247752c5d6c) (ID 29490691) | [Sdílej 11294620](https://sdilej.cz/11294620/border-tina-a-vore-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:43:02.114157+00:00 |
 | [Titan (2021) 1080p CZ Titulky](https://prehraj.to/titan-2021-1080p-cz-titulky-mkv/6ade23cf8a345579) (ID 29602740) | [Sdílej 27451283](https://sdilej.cz/27451283/titane-2021-1080p-bluray-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:03:12.755768+00:00 |
 | [Titanic 666 (2022) 720p CZ Titulky](https://prehraj.to/titanic-666-2022-720p-cz-titulky-avi/5b8b35892352f156) (ID 30758356) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.155346+00:00 |
 | [Tiësto in Concert (2003) 1080p CZ Titulky](https://prehraj.to/tiesto-in-concert-2003-1080p-cz-titulky-mkv/bd42be7fefd01f67) (ID 30553581) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152844+00:00 |
