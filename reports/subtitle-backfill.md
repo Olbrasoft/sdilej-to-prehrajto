@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:11:33.176196+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:11:41.620133+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -497,7 +497,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Do hajzlu! (2022) 1080p CZ Titulky](https://prehraj.to/do-hajzlu-2022-1080p-cz-titulky-mp4/2faef56fea6a75a4) (ID 30943508) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.918440+00:00 |
 | [Doba ledová: Surviving Sid (2008) 1080p CZ Titulky](https://prehraj.to/doba-ledova-surviving-sid-2008-1080p-cz-titulky-mp4/ba1ff18b757e228f) (ID 29218752) | [Sdílej 34781327](https://sdilej.cz/34781327/doba-ledova-surviving-sid-2008-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:27:25.801961+00:00 |
 | [Dobrodruzi (2017) SD CZ Titulky](https://prehraj.to/dobrodruzi-2017-sd-cz-titulky-mkv/082e111ddb1eec4e) (ID 29917102) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901893+00:00 |
-| [Dobrodružství Hedi a Koksáka (2021) 1080p CZ Titulky](https://prehraj.to/dobrodruzstvi-hedi-a-koksaka-2021-1080p-cz-titulky-mp4/8e1c76afaa3d9b54) (ID 29611354) | [Sdílej 34670770](https://sdilej.cz/34670770/dobrodruzstvi-hedi-a-koksaka-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:07:00.607481+00:00 |
+| [Dobrodružství Hedi a Koksáka (2021) 1080p CZ Titulky](https://prehraj.to/dobrodruzstvi-hedi-a-koksaka-2021-1080p-cz-titulky-mp4/8e1c76afaa3d9b54) (ID 29611354) | [Sdílej 34670770](https://sdilej.cz/34670770/dobrodruzstvi-hedi-a-koksaka-2021-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:11:41.619991+00:00 |
 | [Dobrodružství knihomolky (2024) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29284085) | [Sdílej 32859647](https://sdilej.cz/32859647/bookworm-2024-cz-titulky.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T15:31:17.893267+00:00 |
 | [Dobrou noc, mami (2022) 1080p CZ Titulky](https://prehraj.to/dobrou-noc-mami-2022-1080p-cz-titulky-avi/238300d9e92eeb3f) (ID 29925531) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.902557+00:00 |
 | [Dobrá země (2018) SD CZ Titulky](https://prehraj.to/dobra-zeme-2018-sd-cz-titulky-mp4/1831c8491d580e2b) (ID 30096642) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.905443+00:00 |
