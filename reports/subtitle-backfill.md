@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:28:13.484052+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:28:21.770365+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2462,7 +2462,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zamrzlá země (2005) SD CZ Titulky](https://prehraj.to/zamrzla-zeme-2005-sd-cz-titulky-mkv/5f7bdd9a99d6f89e) (ID 30034906) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.145645+00:00 |
 | [Zapadnout bolí (2023) 720p CZ Titulky](https://prehraj.to/zapadnout-boli-2023-720p-cz-titulky-mkv/f661937c23b46882) (ID 30218638) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148077+00:00 |
 | [Zapomeň na UFO (2022) 1080p CZ Titulky](https://prehraj.to/zapomen-na-ufo-2022-1080p-cz-titulky-mp4/cb7a6747d3998502) (ID 29657050) | [Sdílej 25788673](https://sdilej.cz/25788673/ufo-2022-1080p-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:25:09.074087+00:00 |
-| [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:28:51.529495+00:00 |
+| [Zappa (2020) 1080p CZ Titulky](https://prehraj.to/zappa-2020-1080p-cz-titulky-mp4/2da994e9f8c0f936) (ID 29399767) | [Sdílej 34762067](https://sdilej.cz/34762067/zappa-2020-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:28:21.770262+00:00 |
 | [Zas a znova (2023) 1080p CZ Titulky](https://prehraj.to/zas-a-znova-2023-1080p-cz-titulky-mp4/fa28e76abf6201f8) (ID 29296577) | [Sdílej 34725231](https://sdilej.cz/34725231/zas-a-znova-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:32:08.161180+00:00 |
 | [Zase Vánoce (2020) 1080p CZ Titulky](https://prehraj.to/zase-vanoce-2020-1080p-cz-titulky-mp4/7615732878acdbb8) (ID 30522659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152550+00:00 |
 | [Zastávka v Kansasu (1956) SD CZ Titulky](https://prehraj.to/zastavka-v-kansasu-1956-sd-cz-titulky-mp4/249bce8493be1eae) (ID 29572293) | [Sdílej 34699745](https://sdilej.cz/34699745/zastavka-v-kansasu-1956-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:01:11.636679+00:00 |
