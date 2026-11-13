@@ -256458,13 +256458,6 @@
     "12164": {
       "attempts": [
         {
-          "status": "target_processing",
-          "source_id": "33081977",
-          "target_video_id": "30983463",
-          "permanent": false,
-          "attempted_at": "2026-11-11T16:08:15.768297+00:00"
-        },
-        {
           "status": "target_lookup_failed",
           "permanent": false,
           "source_id": "33081977",
@@ -256478,6 +256471,14 @@
           "target_video_id": "30983463",
           "permanent": false,
           "attempted_at": "2026-11-13T16:50:42.818993+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33081977",
+          "target_video_id": "30983463",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-13T20:32:29.281283+00:00"
         }
       ],
       "last_plan": {
@@ -443582,5 +443583,5 @@
       }
     }
   },
-  "updated_at": "2026-11-13T20:31:11.029368+00:00"
+  "updated_at": "2026-11-13T20:32:29.281300+00:00"
 }
