@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:02:32.462020+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:02:42.940697+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1958,7 +1958,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Sting (2024) 1080p CZ Titulky](https://prehraj.to/sting-2024-1080p-cz-titulky-mkv/5c01b96b6e677206) (ID 29925491) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245042+00:00 |
 | [Sto krvavých akrů (2012) SD CZ Titulky](https://prehraj.to/sto-krvavych-akru-2012-sd-cz-titulky-mp4/841d1b68f5de6bf4) (ID 29607800) | [Sdílej 34710625](https://sdilej.cz/34710625/sto-krvavych-akru-2012-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:08:53.609545+00:00 |
 | [Stone Cold Fox (2025) 4K CZ Titulky](https://prehraj.to/stone-cold-fox-2025-4k-cz-titulky-mkv/5c237b6bf4f963d3) (ID 30449820) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248843+00:00 |
-| [Stopa vraha (2024) 1080p CZ Titulky](https://prehraj.to/stopa-vraha-2024-1080p-cz-titulky-mp4/2715d7a9263f33cf) (ID 29735549) | [Sdílej 28644925](https://sdilej.cz/28644925/damaged-2024-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:59:32.814786+00:00 |
+| [Stopa vraha (2024) 1080p CZ Titulky](https://prehraj.to/stopa-vraha-2024-1080p-cz-titulky-mp4/2715d7a9263f33cf) (ID 29735549) | [Sdílej 28644925](https://sdilej.cz/28644925/damaged-2024-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:02:42.940575+00:00 |
 | [Stopy (2013) 720p CZ Titulky](https://prehraj.to/stopy-2013-720p-cz-titulky-mp4/efd06708ad320b80) (ID 29333413) | [Sdílej 34779528](https://sdilej.cz/34779528/stopy-2013-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:37:37.746530+00:00 |
 | [Storia di Piera (1983) 1080p CZ Titulky](https://prehraj.to/storia-di-piera-1983-1080p-cz-titulky-mp4/7607a3121172a917) (ID 29366669) | [Sdílej 34786821](https://sdilej.cz/34786821/storia-di-piera-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:29:46.479133+00:00 |
 | [Storm Rider: Legend of Hammerhead (2026) 1080p CZ Titulky](https://prehraj.to/storm-rider-legend-of-hammerhead-2026-1080p-cz-titulky-mp4/9831bebe0e5b7447) (ID 29907779) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244063+00:00 |
