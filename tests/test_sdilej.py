@@ -2,7 +2,7 @@ import pytest
 import requests
 import traceback
 
-from sdilej_to_prehrajto.language import AudioSampleError, LanguageDetectionError
+from sdilej_to_prehrajto.language import AudioSampleError, LanguageDetectionError, WhisperLanguageDetector
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier
 from sdilej_to_prehrajto.ranking import rank_candidates
 from sdilej_to_prehrajto.sdilej import (
@@ -218,6 +218,25 @@ class FakeDetector:
     def detect(self, url: str) -> tuple[str, float]:
         self.seen.append(url)
         return ("cs", 0.99) if "id=20" in url else ("en", 0.99)
+
+
+@pytest.mark.parametrize('strongest', [.730, .640])
+def test_unanimous_language_sections_still_require_a_qualified_audio_sample(monkeypatch, strongest):
+    detector = WhisperLanguageDetector()
+    samples = iter([('es', .473), ('es', strongest), ('es', .456), ('es', .501)])
+    monkeypatch.setattr(detector, '_detect_at', lambda *_args: next(samples))
+    provider = SdilejProvider(FakeSession(), detector, request_gap_seconds=0,
+                              media_probe=lambda _url: {})
+    film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
+    candidate = Candidate('20', 'https://sdilej.cz/20/film.mkv', 'Film (2000)', size_bytes=2_000_000_000)
+    if strongest < .65:
+        with pytest.raises(LanguageDetectionError, match='confidence is too low'):
+            provider._verify_candidate(film, candidate)
+    else:
+        result = provider._verify_candidate(film, candidate)
+        assert result.audio_language == 'es'
+        assert result.language_probability == strongest
+        assert result.language_tier == LanguageTier.FOREIGN_AUDIO
 
 
 @pytest.mark.parametrize('original_confidence', [.99, .2])

@@ -247,6 +247,15 @@ class WhisperLanguageDetector:
         grouped: dict[str, list[float]] = defaultdict(list)
         for language, probability in samples:
             grouped[language.lower()].append(float(probability))
+        if len(grouped) == 1 and len(samples) >= 3:
+            # Independent sections that all identify the same language support
+            # the clearest sample. Averaging weak sections into that score can
+            # reject speech that passes the normal single-sample threshold,
+            # even though every additional section corroborates its language.
+            # Never boost the score: the caller still applies its confidence
+            # floor to a probability actually observed in one audio sample.
+            language, probabilities = next(iter(grouped.items()))
+            return language, max(probabilities)
         preferred = (preferred_language or "").lower()
         if preferred in grouped and max(grouped[preferred]) >= 0.55:
             probabilities = grouped[preferred]

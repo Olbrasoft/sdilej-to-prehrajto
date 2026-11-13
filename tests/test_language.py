@@ -99,3 +99,44 @@ def test_ffmpeg_timeout_is_recoverable_and_does_not_expose_session(monkeypatch):
     assert "private-token" not in diagnostic
     assert "source.example" not in diagnostic
     assert not sample_paths[0].parent.exists()
+
+
+@pytest.mark.parametrize('probabilities', [
+    [.473, .730, .456, .501],
+    [.334, .334, .334, .334],
+    [.50, .64, .60, .55],
+])
+def test_unanimous_sections_preserve_the_strongest_observed_confidence(monkeypatch, probabilities):
+    detector = WhisperLanguageDetector()
+    remaining = iter(probabilities[1:])
+    offsets = []
+
+    def detect_at(_url, offset):
+        offsets.append(offset)
+        return 'es', next(remaining)
+
+    monkeypatch.setattr(detector, '_detect_at', detect_at)
+    language, confidence = detector.detect_consensus('media', 6000, initial=('es', probabilities[0]))
+    assert language == 'es'
+    assert confidence == max(probabilities)
+    assert offsets == [1500, 3000, 4500]
+    # Unanimous weak guesses cannot manufacture confidence above the floor.
+    assert (confidence >= .65) == any(value >= .65 for value in probabilities)
+
+
+def test_conflicting_sections_do_not_use_the_single_strongest_sample(monkeypatch):
+    detector = WhisperLanguageDetector()
+    samples = iter([('es', .97), ('en', .45), ('en', .49)])
+    monkeypatch.setattr(detector, '_detect_at', lambda *_args: next(samples))
+    language, confidence = detector.detect_consensus('media', 6000, initial=('es', .3))
+    assert language == 'es'
+    assert confidence == pytest.approx((.3 + .97) / 2)
+    assert confidence < .65
+
+
+def test_unanimous_speech_overrides_an_unconfirmed_filename_hint(monkeypatch):
+    detector = WhisperLanguageDetector()
+    samples = iter([('es', .73), ('es', .46), ('es', .50)])
+    monkeypatch.setattr(detector, '_detect_at', lambda *_args: next(samples))
+    assert detector.detect_consensus('media', 6000, initial=('es', .47),
+                                     preferred_language='cs') == ('es', .73)
