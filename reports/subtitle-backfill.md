@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:30:24.745210+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:30:57.903011+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2553,7 +2553,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Řeka velkého krokodýla (1979) SD CZ Titulky](https://prehraj.to/reka-velkeho-krokodyla-1979-sd-cz-titulky-mp4/0b4416913754dcf9) (ID 30934525) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.158889+00:00 |
 | [Říše zvířat (2023) 720p CZ Titulky.mp4](https://prehraj.to/rise-zvirat-2023-720p-cz-titulky-mp4/ef1471bd90be42e3) (ID 30163327) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.147069+00:00 |
 | [Šachová partie (2020) 1080p CZ Titulky](https://prehraj.to/sachova-partie-2020-1080p-cz-titulky-mkv/ef50b803ef5087f0) (ID 29631543) | [Sdílej 16623414](https://sdilej.cz/16623414/critical.thinking.2020.1080p.amzn.web-dl.ddp5.1.h.264-paai.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:12:31.152255+00:00 |
-| [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:31:07.947542+00:00 |
+| [Šampióni (2018) 1080p CZ Titulky](https://prehraj.to/sampioni-2018-1080p-cz-titulky-avi/5628d2afc17fc1ae) (ID 29409845) | [Sdílej 11293360](https://sdilej.cz/11293360/campeones-champions-sampioni-2018-hc.titulky.cz-1080p.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:30:57.902894+00:00 |
 | [Šingeki no kjodžin (2015) 1080p CZ Titulky](https://prehraj.to/singeki-no-kjodzin-2015-1080p-cz-titulky-avi/4cd38c26c0cded08) (ID 29734090) | [Sdílej 8458716](https://sdilej.cz/8458716/shingeki-no-kyojin-attack-on-titan.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:57:55.394047+00:00 |
 | [Šišanje (2010) 720p CZ Titulky](https://prehraj.to/sisanje-2010-720p-cz-titulky-mkv/53b0812152564bfe) (ID 30581535) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153319+00:00 |
 | [Šlápni na to! (2020) 1080p CZ Titulky](https://prehraj.to/slapni-na-to-2020-1080p-cz-titulky-mp4/594cd284d5c37161) (ID 29695375) | [Sdílej 34731712](https://sdilej.cz/34731712/slapni-na-to-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:41:03.326789+00:00 |
