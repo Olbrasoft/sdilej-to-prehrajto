@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:40:04.819384+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:40:15.189907+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2501,7 +2501,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zombrex: Dead Rising Sun (2010) SD CZ Titulky](https://prehraj.to/zombrex-dead-rising-sun-2010-sd-cz-titulky-mp4/40bd54b956d32a6c) (ID 30684708) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154523+00:00 |
 | [Zpátky na frontě 2 (2010) SD CZ Titulky](https://prehraj.to/zpatky-na-fronte-2-2010-sd-cz-titulky-mp4/961f8e4bbb45bdcb) (ID 29639527) | [Sdílej 34709953](https://sdilej.cz/34709953/zpatky-na-fronte-2-2010-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:16:35.294763+00:00 |
 | [Zpívej: Thriller (2024) 1080p CZ Titulky](https://prehraj.to/zpivej-thriller-2024-1080p-cz-titulky-mkv/643d241d03150a97) (ID 30699058) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.154615+00:00 |
-| [Zrodila se hvězda (1937) SD CZ Titulky](https://prehraj.to/zrodila-se-hvezda-1937-sd-cz-titulky-mp4/59422715b7eacd5c) (ID 29463817) | [Sdílej 34789216](https://sdilej.cz/34789216/zrodila-se-hvezda-1937-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:39:42.202670+00:00 |
+| [Zrodila se hvězda (1937) SD CZ Titulky](https://prehraj.to/zrodila-se-hvezda-1937-sd-cz-titulky-mp4/59422715b7eacd5c) (ID 29463817) | [Sdílej 34789216](https://sdilej.cz/34789216/zrodila-se-hvezda-1937-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:40:15.189785+00:00 |
 | [Zrodila se legenda (2014) 1080p CZ Titulky](https://prehraj.to/zrodila-se-legenda-2014-1080p-cz-titulky-mkv/64330f96f68dbdde) (ID 30457400) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151856+00:00 |
 | [Zrádce mezi námi (2016) 720p CZ Titulky](https://prehraj.to/zradce-mezi-nami-2016-720p-cz-titulky-mkv/65e92b666a5e1e59) (ID 30296147) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.149087+00:00 |
 | [Zrůdy (1932) 1080p CZ Titulky](https://prehraj.to/zrudy-1932-1080p-cz-titulky-mkv/290650a68b697bed) (ID 29320943) | [Sdílej 34963214](https://sdilej.cz/34963214/freaks.1932.1080p.amzn.webrip.ddp2.0.x264-sbr.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:18.997468+00:00 |
