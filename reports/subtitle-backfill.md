@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:51:06.934971+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:51:16.450951+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1099,7 +1099,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Kraken (2025) 1080p CZ Titulky](https://prehraj.to/kraken-2025-1080p-cz-titulky-mkv/007438b1eb79ac22) (ID 29915927) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244647+00:00 |
 | [Kraken (2026) 1080p CZ Titulky](https://prehraj.to/kraken-2026-1080p-cz-titulky-mkv/68a4b77aecf514e5) (ID 30864572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251108+00:00 |
 | [Krev z hrobky mumie (1971) 1080p CZ Titulky](https://prehraj.to/krev-z-hrobky-mumie-1971-1080p-cz-titulky-mp4/bbef59c9a38a48f7) (ID 30908800) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251622+00:00 |
-| [Krev zmizelého (2005) SD CZ Titulky](https://prehraj.to/krev-zmizeleho-2005-sd-cz-titulky-mkv/798e41df1dae9b0a) (ID 29717465) | [Sdílej 35085090](https://sdilej.cz/35085090/krev-zmizeleho.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:48:12.325251+00:00 |
+| [Krev zmizelého (2005) SD CZ Titulky](https://prehraj.to/krev-zmizeleho-2005-sd-cz-titulky-mkv/798e41df1dae9b0a) (ID 29717465) | [Sdílej 35085090](https://sdilej.cz/35085090/krev-zmizeleho.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:51:16.450843+00:00 |
 | [Kripl kemp: Revoluce na kolečkách (2020) 1080p CZ Titulky](https://prehraj.to/kripl-kemp-revoluce-na-koleckach-2020-1080p-cz-titulky-mp4/503affdb39de17b1) (ID 29581930) | [Sdílej 34696167](https://sdilej.cz/34696167/kripl-kemp-revoluce-na-koleckach-2020-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:04:21.205586+00:00 |
 | [Krrish (2006) SD CZ Titulky](https://prehraj.to/krrish-2006-sd-cz-titulky-mp4/67cfe535e2d1b5ae) (ID 29234994) | [Sdílej 34751293](https://sdilej.cz/34751293/krrish-2006-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T22:31:04.590679+00:00 |
 | [Krvavá hra (1990) 1080p CZ Titulky](https://prehraj.to/krvava-hra-1990-1080p-cz-titulky-mp4/a09a2587697790f2) (ID 29295752) | [Sdílej 13703472](https://sdilej.cz/13703472/blood.games.1990.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:21.466481+00:00 |
