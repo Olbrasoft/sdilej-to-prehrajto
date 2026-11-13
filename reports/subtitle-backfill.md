@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:23:23.018226+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:23:36.969848+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1787,7 +1787,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Savage Hunt (1980) 720p CZ Titulky](https://prehraj.to/savage-hunt-1980-720p-cz-titulky-mp4/eafc98a2afd23ca4) (ID 30943227) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.663318+00:00 |
 | [Savage Hunt (2025) 720p CZ Titulky](https://prehraj.to/savage-hunt-2025-720p-cz-titulky-mp4/b124495799b4a30a) (ID 30960032) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.664230+00:00 |
 | [Savaged (2013) SD CZ Titulky](https://prehraj.to/savaged-2013-sd-cz-titulky-mp4/ddda40894ef768d2) (ID 30934500) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.662874+00:00 |
-| [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:18:32.898315+00:00 |
+| [Sayen (2023) 720p CZ Titulky](https://prehraj.to/sayen-2023-720p-cz-titulky-mp4/88dd47d442a703b9) (ID 29646864) | [Sdílej 25581701](https://sdilej.cz/25581701/sayen-akcni-2023-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:23:36.969740+00:00 |
 | [Sbohem, synu (2019) 1080p CZ Titulky](https://prehraj.to/sbohem-synu-2019-1080p-cz-titulky-mp4/fa644cbcbcd46510) (ID 29887468) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.645751+00:00 |
 | [Scaramouche (1952) 1080p CZ Titulky](https://prehraj.to/scaramouche-1952-1080p-cz-titulky-mkv/4204b49ede8f2f63) (ID 29845680) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.645399+00:00 |
 | [Scare Campaign (2016) 720p CZ Titulky](https://prehraj.to/scare-campaign-2016-720p-cz-titulky-mkv/a7b69d5133d273bc) (ID 29609224) | [Sdílej 34470083](https://sdilej.cz/34470083/scare-campaign.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:09:43.323449+00:00 |
