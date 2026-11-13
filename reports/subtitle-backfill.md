@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:40:42.309447+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:40:50.231106+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2118,7 +2118,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Heretics (2017) 720p CZ Titulky](https://prehraj.to/the-heretics-2017-720p-cz-titulky-avi/76ff84dc24807a84) (ID 29713257) | [Sdílej 10214515](https://sdilej.cz/10214515/the-heretics-horor-cz-titulky-2017-jad.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:46:36.957433+00:00 |
 | [The Hive (2015) SD CZ Titulky](https://prehraj.to/the-hive-2015-sd-cz-titulky-mp4/7a9d0a9fc0655f0c) (ID 29657646) | [Sdílej 34775489](https://sdilej.cz/34775489/the-hive-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:25:17.584076+00:00 |
 | [The Hole in the Ground (2019) SD CZ Titulky](https://prehraj.to/the-hole-in-the-ground-2019-sd-cz-titulky-avi/2b46d032759b17a7) (ID 29926239) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.143922+00:00 |
-| [The Human Voice (2020) 1080p CZ Titulky](https://prehraj.to/the-human-voice-2020-1080p-cz-titulky-mp4/7d6e575a85d83642) (ID 29468199) | [Sdílej 34731984](https://sdilej.cz/34731984/the-human-voice-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:40:18.738764+00:00 |
+| [The Human Voice (2020) 1080p CZ Titulky](https://prehraj.to/the-human-voice-2020-1080p-cz-titulky-mp4/7d6e575a85d83642) (ID 29468199) | [Sdílej 34731984](https://sdilej.cz/34731984/the-human-voice-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:40:50.231003+00:00 |
 | [The Huntsman (2026) 1080p CZ Titulky](https://prehraj.to/the-huntsman-2026-1080p-cz-titulky-mkv/e3f26e4cb46f2d2f) (ID 30741257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.155108+00:00 |
 | [The Iceman (2012) SD CZ Titulky](https://prehraj.to/the-iceman-2012-sd-cz-titulky-avi/7bfaf2c147e1b3f2) (ID 29635298) | [Sdílej 23107484](https://sdilej.cz/23107484/the-iceman.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:14:17.652409+00:00 |
 | [The Immaculate Room (2022) 1080p CZ Titulky](https://prehraj.to/the-immaculate-room-2022-1080p-cz-titulky-mkv/1f8d1d109dbb522c) (ID 29733364) | [Sdílej 22604827](https://sdilej.cz/22604827/the.immaculate.room.2022.cz.titulky.1080p.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:34.983782+00:00 |
