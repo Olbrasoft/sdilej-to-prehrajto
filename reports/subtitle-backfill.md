@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T11:32:34.312738+00:00
+Poslední aktualizace (UTC): 2026-11-13T11:32:42.732101+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1139,7 +1139,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Le Petit Poucet (1972) SD CZ Titulky](https://prehraj.to/le-petit-poucet-1972-sd-cz-titulky-mp4/759257904a1288b2) (ID 30096693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.160677+00:00 |
 | [Le Visiteur du futur (2022) 1080p CZ Titulky](https://prehraj.to/le-visiteur-du-futur-2022-1080p-cz-titulky-mkv/d4ee748d9a099e73) (ID 30298757) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.164607+00:00 |
 | [Le assaggiatrici (2025) 1080p CZ Titulky](https://prehraj.to/le-assaggiatrici-2025-1080p-cz-titulky-mkv/eb50986de7744f2c) (ID 30708188) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.171219+00:00 |
-| [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:31:36.935713+00:00 |
+| [Lea (1996) 1080p CZ Titulky](https://prehraj.to/lea-1996-1080p-cz-titulky-mkv/860e1def965fa532) (ID 29382016) | [Sdílej 26387163](https://sdilej.cz/26387163/lea.sk.1996.1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:32:42.731979+00:00 |
 | [Leave the World Behind (2014) SD CZ Titulky](https://prehraj.to/leave-the-world-behind-2014-sd-cz-titulky-mp4/2d3fd96d784cd743) (ID 29505113) | [Sdílej 34776328](https://sdilej.cz/34776328/leave-the-world-behind-2014-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:43:16.807375+00:00 |
 | [Legenda o Kolovratovi (2017) SD CZ Titulky](https://prehraj.to/legenda-o-kolovratovi-2017-sd-cz-titulky-avi/8ee9af5470ee5efc) (ID 30293487) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.164372+00:00 |
 | [Legenda o vraždícím strašákovi (2013) SD CZ Titulky](https://prehraj.to/legenda-o-vrazdicim-strasakovi-2013-sd-cz-titulky-avi/28def9c9157d7f0e) (ID 30747393) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.171527+00:00 |
