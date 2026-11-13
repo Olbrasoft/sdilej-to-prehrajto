@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T05:33:54.617421+00:00
+Poslední aktualizace (UTC): 2026-11-13T05:34:02.758331+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2313,7 +2313,7 @@ Kontrol: 40; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [V/H/S/99 (2022) 1080p CZ Titulky.mkv](https://prehraj.to/v-h-s-99-2022-1080p-cz-titulky-mkv/9eb4d712ce67dd6b) (ID 29932930) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.107348+00:00 |
 | [V/H/S/Halloween (2025) 1080p CZ Titulky](https://prehraj.to/v-h-s-halloween-2025-1080p-cz-titulky-mkv/dd87328f82296aa7) (ID 29913569) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.105103+00:00 |
 | [V/H/S: Viral (2014) 720p CZ Titulky](https://prehraj.to/v-h-s-viral-2014-720p-cz-titulky-avi/7df93cfdff8d5f8e) (ID 30759439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.115044+00:00 |
-| [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:29:35.263343+00:00 |
+| [VFW (2019) 1080p CZ Titulky](https://prehraj.to/vfw-2019-1080p-cz-titulky-mp4/fdbf7e5952fee5fd) (ID 29301480) | [Sdílej 34733685](https://sdilej.cz/34733685/vfw-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:34:02.758227+00:00 |
 | [Val (2021) 1080p CZ Titulky](https://prehraj.to/val-2021-1080p-cz-titulky-mp4/e05bdc539ad567c4) (ID 29685630) | [Sdílej 34772593](https://sdilej.cz/34772593/val-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:48:47.838416+00:00 |
 | [Valley Uprising (2014) SD CZ Titulky](https://prehraj.to/valley-uprising-2014-sd-cz-titulky-mp4/a0e162db3dbea734) (ID 29337462) | [Sdílej 34720334](https://sdilej.cz/34720334/valley-uprising-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:30:27.931345+00:00 |
 | [Vampyres (2015) 1080p CZ Titulky](https://prehraj.to/vampyres-2015-1080p-cz-titulky-mkv/b0aa2071d62178d8) (ID 30860349) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.116488+00:00 |
