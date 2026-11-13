@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:40:09.481837+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:40:18.202397+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -971,7 +971,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T19:12:27.535164+00:00 |
 | [Iron Sky (2012) 1080p CZ Titulky](https://prehraj.to/iron-sky-2012-1080p-cz-titulky-mp4/70fc71db9141d6f2) (ID 29912564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.521865+00:00 |
 | [Ironclad 2: Battle for Blood (2014) SD CZ Titulky](https://prehraj.to/ironclad-2-battle-for-blood-2014-sd-cz-titulky-avi/cc6bd6886da5efa2) (ID 30937711) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.533776+00:00 |
-| [Irčan v rozhovorech (2019) 1080p CZ Titulky](https://prehraj.to/ircan-v-rozhovorech-2019-1080p-cz-titulky-mp4/2a1c4ff91d77e010) (ID 29833818) | [Sdílej 34734267](https://sdilej.cz/34734267/ircan-v-rozhovorech-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:43:01.078866+00:00 |
+| [Irčan v rozhovorech (2019) 1080p CZ Titulky](https://prehraj.to/ircan-v-rozhovorech-2019-1080p-cz-titulky-mp4/2a1c4ff91d77e010) (ID 29833818) | [Sdílej 34734267](https://sdilej.cz/34734267/ircan-v-rozhovorech-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:40:18.202283+00:00 |
 | [Is That Black Enough for You (2022) 1080p CZ Titulky.mp4](https://prehraj.to/is-that-black-enough-for-you-2022-1080p-cz-titulky-mp4/143cef4bfc972ff7) (ID 30047329) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.524307+00:00 |
 | [Isi a Ossi (2020) 1080p CZ Titulky](https://prehraj.to/isi-a-ossi-2020-1080p-cz-titulky-mp4/9a1e759aa7b8d101) (ID 29252432) | [Sdílej 34733122](https://sdilej.cz/34733122/isi-a-ossi-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:44:49.056308+00:00 |
 | [Island of Lemurs: Madagascar (2014) 1080p CZ Titulky](https://prehraj.to/island-of-lemurs-madagascar-2014-1080p-cz-titulky-mp4/203d7c62e6b558c7) (ID 30889529) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.532531+00:00 |
