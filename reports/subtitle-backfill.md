@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T15:28:35.538606+00:00
+Poslední aktualizace (UTC): 2026-11-13T15:28:44.627162+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -2336,7 +2336,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Vezmi mě na Měsíc (2024) 4K CZ Titulky](https://prehraj.to/vezmi-me-na-mesic-2024-4k-cz-titulky-mkv/a4edce9a6a219b20) (ID 30557659) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.101320+00:00 |
 | [Večeře po americku (2020) 720p CZ Titulky](https://prehraj.to/vecere-po-americku-2020-720p-cz-titulky-mp4/182d5e4324e28145) (ID 29888517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.092591+00:00 |
 | [Veřejný dům hrůzy (2012) 1080p CZ Titulky](https://prehraj.to/verejny-dum-hruzy-2012-1080p-cz-titulky-mkv/e712c5a315cf68ae) (ID 30323410) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.098832+00:00 |
-| [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T14:27:55.416802+00:00 |
+| [Vichřice (2003) 1080p CZ Titulky](https://prehraj.to/vichrice-2003-1080p-cz-titulky-mp4/c9345a1fc064dce0) (ID 29393291) | [Sdílej 34478929](https://sdilej.cz/34478929/a.mighty.wind.2003.1080p.nf.web-dl.ddp5.1.h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T15:28:44.627030+00:00 |
 | [Vicious Fun (2020) 1080p CZ Titulky](https://prehraj.to/vicious-fun-2020-1080p-cz-titulky-mp4/29f815b815f08983) (ID 30716702) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T15:27:03.102700+00:00 |
 | [Vidíš měsíc, Danieli (2019) 1080p CZ Titulky](https://prehraj.to/vidis-mesic-danieli-2019-1080p-cz-titulky-mkv/366024272a4ad479) (ID 29502172) | [Sdílej 13336140](https://sdilej.cz/13336140/ser.du.maanen.daniel.2019.nordic.1080p.web-dl.h.264-rapidcows-sk-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:18:49.571086+00:00 |
 | [Viking: The Berserkers (2014) SD CZ Titulky](https://prehraj.to/viking-the-berserkers-2014-sd-cz-titulky-mkv/1648f165f1694a06) (ID 29565059) | [Sdílej 35032461](https://sdilej.cz/35032461/viking-the-berserkers.2014.brrip.x264.ac3-srt.cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:54:30.042545+00:00 |
