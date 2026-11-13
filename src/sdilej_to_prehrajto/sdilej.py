@@ -488,6 +488,18 @@ class SdilejProvider:
                         rank = resolution_rank(candidate.width, candidate.height)
                         matched_by_rank.setdefault(rank, []).append(candidate)
 
+        def finish_verification_deadline() -> list[Candidate]:
+            # The deep lane explicitly permits a verified fallback when some
+            # candidates remain unresolved. Its deadline must not discard all
+            # previously verified sources and repeat the same scan forever.
+            # Fast scans still defer to the deep lane, and empty scans fail.
+            if self.allow_unresolved_fallback and self.max_candidates is None and resolved:
+                print(f"source_discovery_partial film_id={film.cr_film_id} "
+                      f"reason=deadline verified_candidates={len(resolved)}", flush=True)
+                return resolved
+            error_type = DeepScanRequired if self.max_candidates is not None else SdilejError
+            raise error_type("Discovery deadline expired before verification completed")
+
         for minimum_tier_rank in sorted(matched_by_rank, reverse=True):
             ordered = sorted(
                 matched_by_rank[minimum_tier_rank],
@@ -499,14 +511,7 @@ class SdilejProvider:
             unresolved_in_tier = False
             for candidate in ordered:
                 if time.monotonic() >= deadline:
-                    error_type = (
-                        DeepScanRequired
-                        if self.max_candidates is not None
-                        else SdilejError
-                    )
-                    raise error_type(
-                        "Discovery deadline expired before verification completed"
-                    )
+                    return finish_verification_deadline()
                 if self.max_candidates is not None and inspected >= self.max_candidates:
                     # A partial result is not safe to upload: an unchecked
                     # candidate may still have Czech audio or better quality.
@@ -521,17 +526,7 @@ class SdilejProvider:
                 # preparation for tens of minutes on the same candidate.
                 for _attempt in range(2):
                     if time.monotonic() >= deadline:
-                        # An expired verification is not proof that no source
-                        # exists. Let the caller record a short retry instead
-                        # of incorrectly deferring this film for 30 days.
-                        error_type = (
-                            DeepScanRequired
-                            if self.max_candidates is not None
-                            else SdilejError
-                        )
-                        raise error_type(
-                            "Discovery deadline expired before verification completed"
-                        )
+                        return finish_verification_deadline()
                     try:
                         detail = self._verify_candidate(film, candidate)
                         verification_completed = True

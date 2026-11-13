@@ -281,6 +281,58 @@ def test_inference_failure_does_not_retry_another_media_endpoint():
     assert len(seen) == 1
 
 
+@pytest.mark.parametrize('fallback', [True, False])
+@pytest.mark.parametrize('during_retry', [True, False])
+@pytest.mark.parametrize('first_verified', [True, False])
+def test_verification_deadline_retains_only_verified_deep_fallbacks(monkeypatch, fallback, during_retry, first_verified):
+    clock = [0.0]
+    monkeypatch.setattr('sdilej_to_prehrajto.sdilej.time.monotonic', lambda: clock[0])
+    provider = SdilejProvider(FakeSession(), FakeDetector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {}, discovery_timeout_seconds=10,
+                              allow_unresolved_fallback=fallback)
+    verify = provider._verify_candidate
+    inspected = []
+
+    def verify_with_deadline(film, candidate):
+        inspected.append(candidate.source_id)
+        if len(inspected) == 1:
+            result = verify(film, candidate) if first_verified else None
+            if not during_retry:
+                clock[0] = 11
+            return result
+        clock[0] = 11
+        raise LanguageDetectionError('Temporary sample failure')
+
+    monkeypatch.setattr(provider, '_verify_candidate', verify_with_deadline)
+    film = Film(1, 'film', 'Film', None, 2000, 100, 'en')
+    if fallback and first_verified:
+        discovered = provider.discover(film)
+        assert [candidate.source_id for candidate in discovered] == ['10']
+        assert rank_candidates(discovered) == discovered
+    else:
+        with pytest.raises(SdilejError, match='deadline expired'):
+            provider.discover(film)
+    assert inspected == (['10', '20'] if during_retry else ['10'])
+
+
+def test_fast_scan_deadline_still_requires_deep_scan_with_verified_candidate(monkeypatch):
+    clock = [0.0]
+    monkeypatch.setattr('sdilej_to_prehrajto.sdilej.time.monotonic', lambda: clock[0])
+    provider = SdilejProvider(FakeSession(), FakeDetector(), request_gap_seconds=0,
+                              media_probe=lambda _url: {}, discovery_timeout_seconds=10,
+                              max_candidates=2, allow_unresolved_fallback=True)
+    verify = provider._verify_candidate
+
+    def verify_with_deadline(film, candidate):
+        result = verify(film, candidate)
+        clock[0] = 11
+        return result
+
+    monkeypatch.setattr(provider, '_verify_candidate', verify_with_deadline)
+    with pytest.raises(DeepScanRequired, match='deadline expired'):
+        provider.discover(Film(1, 'film', 'Film', None, 2000, 100, 'en'))
+
+
 def test_discovery_does_not_drop_lower_quality_czech_audio() -> None:
     detector = FakeDetector()
     provider = SdilejProvider(
