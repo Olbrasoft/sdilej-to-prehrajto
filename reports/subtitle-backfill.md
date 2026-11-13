@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:53:54.937709+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:54:03.447879+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -329,7 +329,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Cam (2018) SD CZ Titulky](https://prehraj.to/cam-2018-sd-cz-titulky-avi/b82ffd846e166717) (ID 29536599) | [Sdílej 10930071](https://sdilej.cz/10930071/cam-2018-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:47:45.825355+00:00 |
 | [Camp X-ray (2014) SD CZ Titulky](https://prehraj.to/camp-x-ray-2014-sd-cz-titulky-avi/d4b52a9c868e852f) (ID 30991307) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252805+00:00 |
 | [Candy Corn (2019) 1080p CZ Titulky.mkv](https://prehraj.to/candy-corn-2019-1080p-cz-titulky-mkv/8c96c1c5cfe58167) (ID 29736310) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.243567+00:00 |
-| [Candy Land (2022) 720p CZ Titulky](https://prehraj.to/candy-land-2022-720p-cz-titulky-mp4/b70ec660d8a4ea7a) (ID 29721061) | [Sdílej 25002521](https://sdilej.cz/25002521/candy-land-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:50:58.125690+00:00 |
+| [Candy Land (2022) 720p CZ Titulky](https://prehraj.to/candy-land-2022-720p-cz-titulky-mp4/b70ec660d8a4ea7a) (ID 29721061) | [Sdílej 25002521](https://sdilej.cz/25002521/candy-land-2022-cz-titulky-v-obraze.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:54:03.447758+00:00 |
 | [Cannibal Diner (2012) SD CZ Titulky](https://prehraj.to/cannibal-diner-2012-sd-cz-titulky-mp4/7167a7ce00ce3385) (ID 29712651) | [Sdílej 34780137](https://sdilej.cz/34780137/cannibal-diner-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:49:28.751582+00:00 |
 | [Cannibal Troll (2021) SD CZ Titulky](https://prehraj.to/cannibal-troll-2021-sd-cz-titulky-mp4/4d20b53c6ecf49c3) (ID 29609349) | [Sdílej 34761592](https://sdilej.cz/34761592/cannibal-troll-2021-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:10:11.793031+00:00 |
 | [Cargo (2017) 720p CZ Titulky](https://prehraj.to/cargo-2017-720p-cz-titulky-mkv/4f18dd41129a501f) (ID 30302934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247583+00:00 |
