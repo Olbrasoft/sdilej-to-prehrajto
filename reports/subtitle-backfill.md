@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T05:34:02.758331+00:00
+Poslední aktualizace (UTC): 2026-11-13T05:34:11.390663+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1332,7 +1332,7 @@ Kontrol: 40; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [My Way (2011) 720p CZ Titulky](https://prehraj.to/my-way-2011-720p-cz-titulky-mp4/3a8e3777d5629552) (ID 29883530) | [Sdílej 34780492](https://sdilej.cz/34780492/my-way-2011-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:45:13.844087+00:00 |
 | [Mylène Farmer: Timeless  - Le Film (2014) SD CZ Titulky](https://prehraj.to/mylene-farmer-timeless-le-film-2014-sd-cz-titulky-mp4/2acafb362579651d) (ID 30888987) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.117496+00:00 |
 | [Májové hvězdy (1959) 1080p CZ Titulky](https://prehraj.to/majove-hvezdy-1959-1080p-cz-titulky-mkv/82f7991c0b09dc6f) (ID 29697994) | [Sdílej 34751185](https://sdilej.cz/34751185/majove-hvezdy-1959-pro-pametniky-valecny-povidkovy-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:41:20.707443+00:00 |
-| [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:29:42.463287+00:00 |
+| [Máme hlas (2020) 1080p CZ Titulky](https://prehraj.to/mame-hlas-2020-1080p-cz-titulky-mp4/083728def9b5757a) (ID 29302313) | [Sdílej 34732954](https://sdilej.cz/34732954/mame-hlas-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:34:11.390553+00:00 |
 | [Máslo (2012) SD CZ Titulky](https://prehraj.to/maslo-2012-sd-cz-titulky-mp4/1d08dab2ac613ca1) (ID 29296572) | [Sdílej 34779909](https://sdilej.cz/34779909/the-battery-2012-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:58.278843+00:00 |
 | [México bárbaro (2014) 1080p CZ Titulky.mp4](https://prehraj.to/mexico-barbaro-2014-1080p-cz-titulky-mp4/137c28ec8289ecbf) (ID 29635798) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.102271+00:00 |
 | [Místo splněných přání (2017) SD CZ Titulky](https://prehraj.to/misto-splnenych-prani-2017-sd-cz-titulky-avi/188ebabb7f6d33cd) (ID 29505925) | [Sdílej 9037924](https://sdilej.cz/9037924/misto-splnenych-prani-the-place-2017-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:43:28.854151+00:00 |
