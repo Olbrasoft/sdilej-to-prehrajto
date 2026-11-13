@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T19:01:07.789941+00:00
+Poslední aktualizace (UTC): 2026-11-13T19:01:20.478483+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -692,7 +692,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Evin Adam: Kreslený živák (2022) 1080p CZ Titulky](https://prehraj.to/evin-adam-kresleny-zivak-2022-1080p-cz-titulky-mp4/2925048d87330672) (ID 29218213) | [Sdílej 34727402](https://sdilej.cz/34727402/evin-adam-kresleny-zivak-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:27:06.228392+00:00 |
 | [Evita (1996) 1080p CZ Titulky](https://prehraj.to/evita-1996-1080p-cz-titulky-mkv/ff0300fef542f3d8) (ID 30299464) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247559+00:00 |
 | [Evropa (1991) SD CZ Titulky](https://prehraj.to/evropa-1991-sd-cz-titulky-mp4/b84a567761e71627) (ID 29895545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.243886+00:00 |
-| [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:58:10.135419+00:00 |
+| [Exeter (2015) SD CZ Titulky](https://prehraj.to/exeter-2015-sd-cz-titulky-avi/01664c3a68b2c73a) (ID 29734597) | [Sdílej 31584412](https://sdilej.cz/31584412/exeter-2015-cz.tit.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T19:01:20.478365+00:00 |
 | [Exhuma (2024) 1080p CZ Titulky](https://prehraj.to/exhuma-2024-1080p-cz-titulky-mp4/c36f77206ad1e442) (ID 30526189) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249233+00:00 |
 | [Exists (2014) SD CZ Titulky](https://prehraj.to/exists-2014-sd-cz-titulky-avi/848aac33da862a1b) (ID 29936887) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245514+00:00 |
 | [Exit 8 (2025) 1080p CZ Titulky](https://prehraj.to/exit-8-2025-1080p-cz-titulky-mkv/1e1b86c2c83b2bca) (ID 30581157) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249590+00:00 |
