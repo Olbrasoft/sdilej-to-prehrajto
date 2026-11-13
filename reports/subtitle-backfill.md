@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:32:35.632593+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:32:45.938704+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -421,7 +421,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Curse of the Blind Dead (2019) 720p CZ Titulky](https://prehraj.to/curse-of-the-blind-dead-2019-720p-cz-titulky-mp4/849b6586e04c66df) (ID 30774402) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.657634+00:00 |
 | [Cuties (2020) 1080p CZ Titulky](https://prehraj.to/cuties-2020-1080p-cz-titulky-mp4/84a4010eac43a26d) (ID 29907805) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.646451+00:00 |
 | [Cypher (2002) 1080p CZ Titulky](https://prehraj.to/cypher-2002-1080p-cz-titulky-mkv/ea6e2823fd11a302) (ID 30684326) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.656988+00:00 |
-| [Císařův slavík (1949) SD CZ Titulky](https://prehraj.to/cisaruv-slavik-1949-sd-cz-titulky-mp4/1bfe5bf8b71885f4) (ID 29663448) | [Sdílej 34714597](https://sdilej.cz/34714597/cisaruv-slavik-1949-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:27:05.816702+00:00 |
+| [Císařův slavík (1949) SD CZ Titulky](https://prehraj.to/cisaruv-slavik-1949-sd-cz-titulky-mp4/1bfe5bf8b71885f4) (ID 29663448) | [Sdílej 34714597](https://sdilej.cz/34714597/cisaruv-slavik-1949-cz-dabing.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:32:45.938576+00:00 |
 | [DOORS (2021) 1080p CZ Titulky](https://prehraj.to/doors-2021-1080p-cz-titulky-mkv/c0981b8eef3c1202) (ID 30246427) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653382+00:00 |
 | [DRAGN (2025) 1080p CZ Titulky](https://prehraj.to/dragn-2025-1080p-cz-titulky-mkv/23fe64f50b840817) (ID 30278585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653634+00:00 |
 | [Daaaaaalí! (2023) 1080p CZ Titulky](https://prehraj.to/daaaaaali-2023-1080p-cz-titulky-mp4/00721f8e39597eb8) (ID 30158609) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.652939+00:00 |
