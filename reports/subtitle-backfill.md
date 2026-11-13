@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T02:31:34.243456+00:00
+Poslední aktualizace (UTC): 2026-11-13T02:31:41.250612+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1772,7 +1772,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Sandy Wexler (2017) SD CZ Titulky](https://prehraj.to/sandy-wexler-2017-sd-cz-titulky-mp4/024c43829f549150) (ID 30387240) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.177667+00:00 |
 | [Sang Krasue (2019) 1080p CZ Titulky](https://prehraj.to/sang-krasue-2019-1080p-cz-titulky-mkv/6eb6563a8102dab9) (ID 30567510) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.179164+00:00 |
 | [Sappho (2008) 720p CZ Titulky](https://prehraj.to/sappho-2008-720p-cz-titulky-mkv/d29101256d19a53d) (ID 30909171) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.182687+00:00 |
-| [Sauna (2008) SD CZ Titulky](https://prehraj.to/sauna-2008-sd-cz-titulky-mp4/51917e3b9d5cd615) (ID 29273025) | [Sdílej 34751153](https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:29:12.718343+00:00 |
+| [Sauna (2008) SD CZ Titulky](https://prehraj.to/sauna-2008-sd-cz-titulky-mp4/51917e3b9d5cd615) (ID 29273025) | [Sdílej 34751153](https://sdilej.cz/34751153/sauna-2008-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T02:31:41.250500+00:00 |
 | [Savage Hunt (1980) 720p CZ Titulky](https://prehraj.to/savage-hunt-1980-720p-cz-titulky-mp4/eafc98a2afd23ca4) (ID 30943227) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.184962+00:00 |
 | [Savage Hunt (2025) 720p CZ Titulky](https://prehraj.to/savage-hunt-2025-720p-cz-titulky-mp4/b124495799b4a30a) (ID 30960032) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.185853+00:00 |
 | [Savaged (2013) SD CZ Titulky](https://prehraj.to/savaged-2013-sd-cz-titulky-mp4/ddda40894ef768d2) (ID 30934500) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T02:31:09.184523+00:00 |
