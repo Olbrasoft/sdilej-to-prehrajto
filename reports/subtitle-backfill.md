@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:34:39.399738+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:34:48.243507+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1693,7 +1693,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Qi man dun jia (2017) SD CZ Titulky](https://prehraj.to/qi-man-dun-jia-2017-sd-cz-titulky-mp4/cf305f21d3c9278f) (ID 29294728) | [Sdílej 34737324](https://sdilej.cz/34737324/qi-man-dun-jia-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:31:03.838177+00:00 |
 | [Que Dios nos perdone (2016) SD CZ Titulky](https://prehraj.to/que-dios-nos-perdone-2016-sd-cz-titulky-avi/c0a87f748dac40c0) (ID 30039913) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.524186+00:00 |
 | [REC 3: Počátek (2012) SD CZ Titulky](https://prehraj.to/rec-3-pocatek-2012-sd-cz-titulky-avi/a3bceb45afe895bc) (ID 30630452) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529924+00:00 |
-| [Ra.One (2011) SD CZ Titulky](https://prehraj.to/ra-one-2011-sd-cz-titulky-mp4/7734dccf7f2e3e3b) (ID 29753011) | [Sdílej 34747028](https://sdilej.cz/34747028/ra.one-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:37:33.533314+00:00 |
+| [Ra.One (2011) SD CZ Titulky](https://prehraj.to/ra-one-2011-sd-cz-titulky-mp4/7734dccf7f2e3e3b) (ID 29753011) | [Sdílej 34747028](https://sdilej.cz/34747028/ra.one-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:34:48.243383+00:00 |
 | [Rabid (2019) SD CZ Titulky](https://prehraj.to/rabid-2019-sd-cz-titulky-mkv/bfcd5f70f8fb6d23) (ID 29929068) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.522705+00:00 |
 | [Rabín a zloděj (1979) 1080p CZ Titulky](https://prehraj.to/rabin-a-zlodej-1979-1080p-cz-titulky-mp4/17aabbed629f7e88) (ID 30588522) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529501+00:00 |
 | [Radioflash (2019) 1080p CZ Titulky](https://prehraj.to/radioflash-2019-1080p-cz-titulky-mkv/3220e788df28846f) (ID 30627132) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.529881+00:00 |
