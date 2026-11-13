@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:46:23.401460+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:46:31.779033+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2412,7 +2412,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Welcome to Sudden Death (2020) 1080p CZ Titulky](https://prehraj.to/welcome-to-sudden-death-2020-1080p-cz-titulky-mp4/a452cf3251efdb88) (ID 30400684) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248318+00:00 |
 | [Welcome to the Show (2021) 720p CZ Titulky](https://prehraj.to/welcome-to-the-show-2021-720p-cz-titulky-mp4/25cffb75227a4407) (ID 29631148) | [Sdílej 34772433](https://sdilej.cz/34772433/welcome-to-the-show-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:06:54.181107+00:00 |
 | [Welp (2014) SD CZ Titulky](https://prehraj.to/welp-2014-sd-cz-titulky-avi/48ffd0777ee06443) (ID 29632189) | [Sdílej 34454026](https://sdilej.cz/34454026/welp.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:17:47.814537+00:00 |
-| [West of the Pecos (1945) SD CZ Titulky](https://prehraj.to/west-of-the-pecos-1945-sd-cz-titulky-mp4/0570f621e63a8474) (ID 29706821) | [Sdílej 34770688](https://sdilej.cz/34770688/west-of-the-pecos-1945-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:43:29.590158+00:00 |
+| [West of the Pecos (1945) SD CZ Titulky](https://prehraj.to/west-of-the-pecos-1945-sd-cz-titulky-mp4/0570f621e63a8474) (ID 29706821) | [Sdílej 34770688](https://sdilej.cz/34770688/west-of-the-pecos-1945-sk-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:46:31.778920+00:00 |
 | [What Is a Woman? (2022) 1080p CZ Titulky](https://prehraj.to/what-is-a-woman-2022-1080p-cz-titulky-mp4/94ebd49186b4a081) (ID 29212546) | [Sdílej 34726466](https://sdilej.cz/34726466/what-is-a-woman-2022-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T18:30:59.133198+00:00 |
 | [Wheelman (2017) 720p CZ Titulky](https://prehraj.to/wheelman-2017-720p-cz-titulky-avi/7f6436b5f02c49db) (ID 30932611) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.252090+00:00 |
 | [When Love Comes Knocking (2021) 1080p CZ Titulky](https://prehraj.to/when-love-comes-knocking-2021-1080p-cz-titulky-mp4/4b77e4614f18b346) (ID 29216889) | [Sdílej 34728038](https://sdilej.cz/34728038/when-love-comes-knocking-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:26:47.455696+00:00 |
