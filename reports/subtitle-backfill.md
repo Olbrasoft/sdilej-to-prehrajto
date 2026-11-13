@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:46:11.247224+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:46:19.829294+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1238,7 +1238,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Marat/Sade (1967) SD CZ Titulky](https://prehraj.to/marat-sade-1967-sd-cz-titulky-mkv/25d9e8d8982ca6e7) (ID 29161741) | [Sdílej 24812425](https://sdilej.cz/24812425/marat-sade-1967-glenda-jackson-cz-tit-zdeno791.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:45:24.985413+00:00 |
 | [Mardaani 2 (2019) 1080p CZ Titulky](https://prehraj.to/mardaani-2-2019-1080p-cz-titulky-mp4/161344f2866a3af7) (ID 29306854) | [Sdílej 34711873](https://sdilej.cz/34711873/mardaani-2-2019-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:29:17.486002+00:00 |
 | [Margrete – královna severu (2021) 1080p CZ Titulky](https://prehraj.to/margrete-kralovna-severu-2021-1080p-cz-titulky-mkv/4375553db53a847b) (ID 29803586) | [Sdílej 20710494](https://sdilej.cz/20710494/margrete-kralovna-severu-2021-1080p-bdrip-x264-titulky-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:40:38.486074+00:00 |
-| [Marie-Octobre (1959) 720p CZ Titulky](https://prehraj.to/marie-octobre-1959-720p-cz-titulky-mp4/f86671e2cf85d19d) (ID 29261777) | [Sdílej 32217300](https://sdilej.cz/32217300/marie-octobre-1959-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T23:32:07.306681+00:00 |
+| [Marie-Octobre (1959) 720p CZ Titulky](https://prehraj.to/marie-octobre-1959-720p-cz-titulky-mp4/f86671e2cf85d19d) (ID 29261777) | [Sdílej 32217300](https://sdilej.cz/32217300/marie-octobre-1959-cz-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:46:19.829161+00:00 |
 | [Marlina, vražedkyně ve čtyřech aktech (2017) SD CZ Titulky](https://prehraj.to/marlina-vrazedkyne-ve-ctyrech-aktech-2017-sd-cz-titulky-avi/3ef241ec526d9034) (ID 29561541) | [Sdílej 11235817](https://sdilej.cz/11235817/marlina-vrazedkyne-ve-ctyrech-aktech-marlina-the-murderer-in-four-acts-2017-cz-titulky-brdrip-xvid-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:52:04.011194+00:00 |
 | [Marodi (2014) SD CZ Titulky](https://prehraj.to/marodi-2014-sd-cz-titulky-avi/5812ed209de92094) (ID 30526545) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.654634+00:00 |
 | [Marshall (2017) 1080p CZ Titulky](https://prehraj.to/marshall-2017-1080p-cz-titulky-avi/3c1b9446cb286944) (ID 30489167) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T00:43:08.654281+00:00 |
