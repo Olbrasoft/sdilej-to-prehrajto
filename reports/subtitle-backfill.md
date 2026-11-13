@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T10:28:05.664223+00:00
+Poslední aktualizace (UTC): 2026-11-13T10:28:15.304645+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1047,7 +1047,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Karbala (2015) SD CZ Titulky](https://prehraj.to/karbala-2015-sd-cz-titulky-avi/deed1811ae281696) (ID 30225674) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.562053+00:00 |
 | [Kawaki (2014) SD CZ Titulky](https://prehraj.to/kawaki-2014-sd-cz-titulky-mp4/e6d89c700d6e259b) (ID 29924956) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.558222+00:00 |
 | [Kde jsem doma (2020) 1080p CZ Titulky](https://prehraj.to/kde-jsem-doma-2020-1080p-cz-titulky-mkv/b9d03cfd389aa7fd) (ID 30273180) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.562741+00:00 |
-| [Kdyby ulice Beale mohla mluvit (2018) 1080p CZ Titulky](https://prehraj.to/kdyby-ulice-beale-mohla-mluvit-2018-1080p-cz-titulky-mkv/6ea348ff9fee93f5) (ID 29347838) | [Sdílej 12514136](https://sdilej.cz/12514136/if.beale.street.could.talk.2018.1080p.bluray.x264.dts-hd.ma.cz.eng.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T09:32:13.810125+00:00 |
+| [Kdyby ulice Beale mohla mluvit (2018) 1080p CZ Titulky](https://prehraj.to/kdyby-ulice-beale-mohla-mluvit-2018-1080p-cz-titulky-mkv/6ea348ff9fee93f5) (ID 29347838) | [Sdílej 12514136](https://sdilej.cz/12514136/if.beale.street.could.talk.2018.1080p.bluray.x264.dts-hd.ma.cz.eng.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:28:15.304539+00:00 |
 | [Kdybych měla nohy, tak ti nakopu (2025) 1080p CZ Titulky](https://prehraj.to/kdybych-mela-nohy-tak-ti-nakopu-2025-1080p-cz-titulky-mkv/030bb40d979625c8) (ID 30200443) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.561642+00:00 |
 | [Když Nietzsche plakal (2007) 1080p CZ Titulky](https://prehraj.to/kdyz-nietzsche-plakal-2007-1080p-cz-titulky-mkv/1e390d618b88a804) (ID 30579847) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.568867+00:00 |
 | [Když se vrací vlci (2024) 1080p CZ Titulky](https://prehraj.to/kdyz-se-vraci-vlci-2024-1080p-cz-titulky-mkv/2153bb98f79f1959) (ID 29925461) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T10:26:13.558247+00:00 |
