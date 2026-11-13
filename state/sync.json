@@ -118804,13 +118804,6 @@
           "permanent": false,
           "source_id": "26097672",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-12T19:03:58.095431+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "26097672",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-12T19:45:53.480740+00:00"
         },
         {
@@ -118819,6 +118812,13 @@
           "target_video_id": "31010310",
           "permanent": false,
           "attempted_at": "2026-11-13T08:01:03.689031+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26097672",
+          "target_video_id": "31010310",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:24:29.622254+00:00"
         }
       ],
       "last_plan": {
@@ -118902,16 +118902,10 @@
           "attempted_at": "2026-11-13T08:35:19.325042+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27533878",
-        "display_name": "Poblouzněný Vincent (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:23:13.309023+00:00"
-      },
       "previous_target_id": "31010456",
-      "prepared": {
+      "upload": {
         "target_video_id": "31010456",
-        "size_bytes": 4230987838,
-        "prepared_at": "2026-11-13T08:01:15.003310+00:00"
+        "uploaded_at": "2026-11-13T17:24:31.306513+00:00"
       }
     },
     "25185": {
@@ -443595,5 +443589,5 @@
       }
     }
   },
-  "updated_at": "2026-11-13T17:24:19.265513+00:00"
+  "updated_at": "2026-11-13T17:24:31.306529+00:00"
 }
