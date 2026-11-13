@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:01:00.201655+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:01:08.610402+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -72,7 +72,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [African Kung-Fu Nazis (2019) 1080p CZ Titulky](https://prehraj.to/african-kung-fu-nazis-2019-1080p-cz-titulky-mp4/bf0abb67963e0a40) (ID 29608480) | [Sdílej 34734858](https://sdilej.cz/34734858/african-kung-fu-nazis-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:04:36.289035+00:00 |
 | [After Maria (2019) 1080p CZ Titulky](https://prehraj.to/after-maria-2019-1080p-cz-titulky-mp4/1311e1051ea4c88b) (ID 30245377) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.906986+00:00 |
 | [After Masks (2021) 1080p CZ Titulky](https://prehraj.to/after-masks-2021-1080p-cz-titulky-mp4/c6d2b358506601c9) (ID 30398515) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.909295+00:00 |
-| [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:56:44.785084+00:00 |
+| [After We Leave (2019) 720p CZ Titulky](https://prehraj.to/after-we-leave-2019-720p-cz-titulky-mp4/eba52f02b8676c13) (ID 29572616) | [Sdílej 34734835](https://sdilej.cz/34734835/after-we-leave-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:01:08.610273+00:00 |
 | [Agatha a půlnoční vraždy (2020) 1080p CZ Titulky](https://prehraj.to/agatha-a-pulnocni-vrazdy-2020-1080p-cz-titulky-mkv/7874a76382fc42e3) (ID 30616410) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.912541+00:00 |
 | [Agent Game (2022) 1080p CZ Titulky](https://prehraj.to/agent-game-2022-1080p-cz-titulky-avi/d9f07e78ab834281) (ID 29734967) | [Sdílej 23674241](https://sdilej.cz/23674241/agent-game-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:58:40.951595+00:00 |
 | [Aguirre, hněv Boží (1972) SD CZ Titulky](https://prehraj.to/aguirre-hnev-bozi-1972-sd-cz-titulky-mp4/13b99af3c13dad1c) (ID 29320765) | [Sdílej 34700707](https://sdilej.cz/34700707/aguirre-hnev-bozi-1972-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:30:37.848809+00:00 |
