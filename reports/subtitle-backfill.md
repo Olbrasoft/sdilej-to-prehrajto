@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:38:18.231774+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:38:28.231387+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -159,7 +159,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Audrey (2020) 1080p CZ Titulky](https://prehraj.to/audrey-2020-1080p-cz-titulky-mp4/51f86a89be6d8216) (ID 29429913) | [Sdílej 34773457](https://sdilej.cz/34773457/audrey-2020-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:34:42.816101+00:00 |
 | [August Underground (2001) SD CZ Titulky](https://prehraj.to/august-underground-2001-sd-cz-titulky-avi/c15c5e6661882aa6) (ID 30426154) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151252+00:00 |
 | [Aurora (2019) 1080p CZ Titulky](https://prehraj.to/aurora-2019-1080p-cz-titulky-mkv/7c2178b015ccb9d4) (ID 29214765) | [Sdílej 12389464](https://sdilej.cz/12389464/aurora.2019.1080p.bluray.x264-fico.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T20:26:13.964509+00:00 |
-| [Aurore (2005) 720p CZ Titulky](https://prehraj.to/aurore-2005-720p-cz-titulky-mkv/0973e010b35e7f9e) (ID 29445306) | [Sdílej 32454300](https://sdilej.cz/32454300/aurore-2005-cz-tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:38:00.589982+00:00 |
+| [Aurore (2005) 720p CZ Titulky](https://prehraj.to/aurore-2005-720p-cz-titulky-mkv/0973e010b35e7f9e) (ID 29445306) | [Sdílej 32454300](https://sdilej.cz/32454300/aurore-2005-cz-tit.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:38:28.231249+00:00 |
 | [Autobus naděje (2025) 1080p CZ Titulky](https://prehraj.to/autobus-nadeje-2025-1080p-cz-titulky-mp4/f3ce1551f0d8d612) (ID 30069637) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.146069+00:00 |
 | [Automat na lásku (2000) SD CZ Titulky](https://prehraj.to/automat-na-lasku-2000-sd-cz-titulky-avi/572bb107c93d78c7) (ID 29648180) | [Sdílej 28492278](https://sdilej.cz/28492278/levottomat-aka-restless-2000-lq-dvdrip.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:19:46.393905+00:00 |
 | [Avanpost (2019) SD CZ Titulky](https://prehraj.to/avanpost-2019-sd-cz-titulky-avi/64ca33986c8ae30d) (ID 30347838) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.149678+00:00 |
