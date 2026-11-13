@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:12:51.251886+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:13:03.317738+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2378,7 +2378,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Válečný zajatec (2025) 1080p CZ Titulky](https://prehraj.to/valecny-zajatec-2025-1080p-cz-titulky-mkv/a7738d3e09893989) (ID 30449531) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.910460+00:00 |
 | [Válka světů (2025) 4K CZ Titulky](https://prehraj.to/valka-svetu-2025-4k-cz-titulky-mkv/4bfece5400f061df) (ID 30442296) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.910284+00:00 |
 | [Vánoce s vůní máty (2021) 1080p CZ Titulky](https://prehraj.to/vanoce-s-vuni-maty-2021-1080p-cz-titulky-mp4/6435dfae930e7710) (ID 29242109) | [Sdílej 34772685](https://sdilej.cz/34772685/vanoce-s-vuni-maty-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:44:11.609724+00:00 |
-| [Vánoční setkání (2020) 1080p CZ Titulky](https://prehraj.to/vanocni-setkani-2020-1080p-cz-titulky-mp4/9c0a1fc4b9051990) (ID 29612782) | [Sdílej 34731850](https://sdilej.cz/34731850/vanocni-setkani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:08:27.315268+00:00 |
+| [Vánoční setkání (2020) 1080p CZ Titulky](https://prehraj.to/vanocni-setkani-2020-1080p-cz-titulky-mp4/9c0a1fc4b9051990) (ID 29612782) | [Sdílej 34731850](https://sdilej.cz/34731850/vanocni-setkani-2020-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:13:03.317601+00:00 |
 | [Vášeň v tanci (2006) 1080p CZ Titulky](https://prehraj.to/vasen-v-tanci-2006-1080p-cz-titulky-mp4/44dbcf97f1938115) (ID 30971989) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.919273+00:00 |
 | [Vášnivý tanec (1998) 1080p CZ Titulky](https://prehraj.to/vasnivy-tanec-1998-1080p-cz-titulky-mkv/0260781a43cc9671) (ID 30467621) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.910670+00:00 |
 | [Vážený občan (2016) 1080p CZ Titulky.mp4](https://prehraj.to/vazeny-obcan-2016-1080p-cz-titulky-mp4/9c7b2e66853ad588) (ID 29751541) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.899694+00:00 |
