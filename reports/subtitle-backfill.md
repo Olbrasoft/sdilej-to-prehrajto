@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T05:32:08.161289+00:00
+Poslední aktualizace (UTC): 2026-11-13T05:32:16.155249+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1857,7 +1857,7 @@ Kontrol: 40; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [Skinwalker (2021) 720p CZ Titulky](https://prehraj.to/skinwalker-2021-720p-cz-titulky-mp4/0a33d370a6ac740e) (ID 29403790) | [Sdílej 34772693](https://sdilej.cz/34772693/skinwalker-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:29:37.858188+00:00 |
 | [Skleněná past (2002) SD CZ Titulky](https://prehraj.to/sklenena-past-2002-sd-cz-titulky-avi/147124cf4bccc0dc) (ID 30930674) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.119254+00:00 |
 | [Sklízení duší (2019) 1080p CZ Titulky](https://prehraj.to/sklizeni-dusi-2019-1080p-cz-titulky-mkv/e410af12642741f6) (ID 29721179) | [Sdílej 18068680](https://sdilej.cz/18068680/soul.reaper.2019.1080p.nf.web-dl.ddp5.1.x264-titulky-cz.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:51:44.285816+00:00 |
-| [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:28:08.836392+00:00 |
+| [Skore - Hokejový muzikál (2010) SD CZ Titulky](https://prehraj.to/skore-hokejovy-muzikal-2010-sd-cz-titulky-mkv/c82bb5f458f36c07) (ID 29296744) | [Sdílej 25436875](https://sdilej.cz/25436875/skore-hokejovy-muzikal-score-a-hockey-musical-2010-czdab.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:32:16.155114+00:00 |
 | [Skutečná cena (2015) 1080p CZ Titulky](https://prehraj.to/skutecna-cena-2015-1080p-cz-titulky-mp4/7be209ade69a9187) (ID 29888439) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.103418+00:00 |
 | [Sky Sharks (2020) 720p CZ Titulky](https://prehraj.to/sky-sharks-2020-720p-cz-titulky-avi/2f93327dc917ef65) (ID 30400523) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.111733+00:00 |
 | [Skylines (2020) 1080p CZ Titulky](https://prehraj.to/skylines-2020-1080p-cz-titulky-avi/81741f7678263e4b) (ID 30799214) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.116083+00:00 |
