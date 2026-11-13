@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T11:31:45.908980+00:00
+Poslední aktualizace (UTC): 2026-11-13T11:32:00.992149+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -521,7 +521,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Dospěláci v místnosti (2019) SD CZ Titulky](https://prehraj.to/dospelaci-v-mistnosti-2019-sd-cz-titulky-mp4/a8ad22e678b9463b) (ID 30875969) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.172402+00:00 |
 | [Doupě bílého červa (1988) 1080p CZ Titulky](https://prehraj.to/doupe-bileho-cerva-1988-1080p-cz-titulky-mp4/0dc94d5acce7c7af) (ID 30738585) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.171417+00:00 |
 | [Downrange (2018) SD CZ Titulky](https://prehraj.to/downrange-2018-sd-cz-titulky-mp4/91c531ae05b32ae5) (ID 29720076) | [Sdílej 34774302](https://sdilej.cz/34774302/downrange-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:50:14.814548+00:00 |
-| [Dracula (1931) SD CZ Titulky](https://prehraj.to/dracula-1931-sd-cz-titulky-avi/9ec9f4e02cbafdfb) (ID 29377121) | [Sdílej 32585697](https://sdilej.cz/32585697/dracula-1931-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T11:30:51.031110+00:00 |
+| [Dracula (1931) SD CZ Titulky](https://prehraj.to/dracula-1931-sd-cz-titulky-avi/9ec9f4e02cbafdfb) (ID 29377121) | [Sdílej 32585697](https://sdilej.cz/32585697/dracula-1931-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:32:00.992008+00:00 |
 | [Dracula 2: Vzkříšení (2003) 1080p CZ Titulky](https://prehraj.to/dracula-2-vzkriseni-2003-1080p-cz-titulky-mp4/b8db91d7c18d32f9) (ID 30400782) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.167592+00:00 |
 | [Dragon Ball Super: Broly (2018) 720p CZ Titulky](https://prehraj.to/dragon-ball-super-broly-2018-720p-cz-titulky-mp4/61f5d2a382919ad5) (ID 29396899) | [Sdílej 13724972](https://sdilej.cz/13724972/dragon-ball-super-movie-broly-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:27:03.855207+00:00 |
 | [Dragon Ball Z: Bardock - The Father of Goku (1990) 1080p CZ Titulky](https://prehraj.to/dragon-ball-z-bardock-the-father-of-goku-1990-1080p-cz-titulky-mp4/536f172a4a8cc246) (ID 29559509) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T11:27:45.156154+00:00 |
