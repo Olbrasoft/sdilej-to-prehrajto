@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:38:57.218360+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:39:05.878157+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -2470,7 +2470,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Zatímco spíš (2011) 720p CZ Titulky](https://prehraj.to/zatimco-spis-2011-720p-cz-titulky-mkv/d5979cdf93425aea) (ID 30957103) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.159468+00:00 |
 | [Zazie dans le métro (1960) SD CZ Titulky](https://prehraj.to/zazie-dans-le-metro-1960-sd-cz-titulky-mp4/a56f88f9ee076962) (ID 29256773) | [Sdílej 34715255](https://sdilej.cz/34715255/zazie-dans-le-metro-1960-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:45:24.978610+00:00 |
 | [Zdravotník (2020) SD CZ Titulky](https://prehraj.to/zdravotnik-2020-sd-cz-titulky-avi/32ae42bc8cf17274) (ID 30868018) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.156857+00:00 |
-| [Zelený had (2021) 1080p CZ Titulky](https://prehraj.to/zeleny-had-2021-1080p-cz-titulky-mp4/3d45635b0e18bbba) (ID 29460364) | [Sdílej 34727964](https://sdilej.cz/34727964/zeleny-had-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:38:35.410350+00:00 |
+| [Zelený had (2021) 1080p CZ Titulky](https://prehraj.to/zeleny-had-2021-1080p-cz-titulky-mp4/3d45635b0e18bbba) (ID 29460364) | [Sdílej 34727964](https://sdilej.cz/34727964/zeleny-had-2021-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:39:05.878053+00:00 |
 | [Zelený lučištník (1961) 1080p CZ Titulky](https://prehraj.to/zeleny-lucistnik-1961-1080p-cz-titulky-mkv/337918ac4eccbeff) (ID 30215002) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.147863+00:00 |
 | [Země a krev (2020) 1080p CZ Titulky](https://prehraj.to/zeme-a-krev-2020-1080p-cz-titulky-avi/ccaf5f003ba8df8d) (ID 29913573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.143022+00:00 |
 | [Země kartelů (2015) SD CZ Titulky](https://prehraj.to/zeme-kartelu-2015-sd-cz-titulky-mp4/bc52406fd49b70cc) (ID 29388156) | [Sdílej 34737892](https://sdilej.cz/34737892/zeme-kartelu-2015-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T15:27:43.242174+00:00 |
