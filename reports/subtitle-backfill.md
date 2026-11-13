@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:41:09.216699+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:41:17.915050+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -786,7 +786,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Goebbels (2024) 1080p CZ Titulky](https://prehraj.to/goebbels-2024-1080p-cz-titulky-mkv/3f99d10a82bfbf15) (ID 30514542) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.152489+00:00 |
 | [Gogol. Strashnaya mest (2018) SD CZ Titulky](https://prehraj.to/gogol-strashnaya-mest-2018-sd-cz-titulky-mkv/1006e5b4a70ee06a) (ID 30575950) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.153141+00:00 |
 | [Gogol. Viy (2018) 1080p CZ Titulky](https://prehraj.to/gogol-viy-2018-1080p-cz-titulky-mp4/198253c026309bd1) (ID 30281304) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.148879+00:00 |
-| [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:40:48.137318+00:00 |
+| [Golgo 13: The Professional (1983) SD CZ Titulky](https://prehraj.to/golgo-13-the-professional-1983-sd-cz-titulky-mp4/3677bd024032f959) (ID 29468434) | [Sdílej 34786864](https://sdilej.cz/34786864/golgo-13-the-professional-1983-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:41:17.914916+00:00 |
 | [Gonjiam (2018) 1080p CZ Titulky](https://prehraj.to/gonjiam-2018-1080p-cz-titulky-mp4/537b563c84f8d10b) (ID 29234856) | [Sdílej 34737020](https://sdilej.cz/34737020/gonjiam-2018-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T22:30:55.144095+00:00 |
 | [Good Boys for Life (2021) 720p CZ Titulky](https://prehraj.to/good-boys-for-life-2021-720p-cz-titulky-mp4/f76f1401a33e85df) (ID 29821305) | [Sdílej 34772914](https://sdilej.cz/34772914/good-boys-for-life-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:42:02.670861+00:00 |
 | [Good Mourning (2022) 1080p CZ Titulky](https://prehraj.to/good-mourning-2022-1080p-cz-titulky-mkv/d885da73a9e7ff22) (ID 29910271) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.142626+00:00 |
