@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:43:41.709600+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:43:50.128027+00:00
 
 Zkontrolováno videí: 3147. Další stránka kontroly: 0.
 
@@ -361,7 +361,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Child Eater (2016) SD CZ Titulky](https://prehraj.to/child-eater-2016-sd-cz-titulky-avi/0f60ac44d2be3784) (ID 29666095) | [Sdílej 11004288](https://sdilej.cz/11004288/child-eater-2016-cz-titulky-bluray.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:27:58.769821+00:00 |
 | [Children of the Corn (2020) 720p CZ Titulky](https://prehraj.to/children-of-the-corn-2020-720p-cz-titulky-mp4/c56a91316c505b3c) (ID 30422843) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.151196+00:00 |
 | [Chimera Strain (2018) 1080p CZ Titulky.mkv](https://prehraj.to/chimera-strain-2018-1080p-cz-titulky-mkv/548ab677f3aca8f2) (ID 29927662) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:24:33.144015+00:00 |
-| [Chiméra (2023) 1080p CZ Titulky](https://prehraj.to/chimera-2023-1080p-cz-titulky-mp4/6f0f5a90948d8851) (ID 29505036) | [Sdílej 34713787](https://sdilej.cz/34713787/chimera-2023-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:43:08.750052+00:00 |
+| [Chiméra (2023) 1080p CZ Titulky](https://prehraj.to/chimera-2023-1080p-cz-titulky-mp4/6f0f5a90948d8851) (ID 29505036) | [Sdílej 34713787](https://sdilej.cz/34713787/chimera-2023-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:43:50.127911+00:00 |
 | [Chlapci ze sousedství (1991) 4K CZ Titulky](https://prehraj.to/chlapci-ze-sousedstvi-1991-4k-cz-titulky-mkv/294b7d2ae8062ccb) (ID 29317507) | [Sdílej 23258862](https://sdilej.cz/23258862/boyz-n-the-hood-1991-2160p-uhd-bluray-x265-iamable.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:17:14.793856+00:00 |
 | [Chlapec a jeho pes (1975) SD CZ Titulky](https://prehraj.to/chlapec-a-jeho-pes-1975-sd-cz-titulky-mkv/4ba7ed7d2b73c128) (ID 29229723) | [Sdílej 34831485](https://sdilej.cz/34831485/a-boy-and-his-dog-1975-cz-tit.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:15:30.588622+00:00 |
 | [Chlapec, krtek, liška a kůň (2022) 1080p CZ Titulky](https://prehraj.to/chlapec-krtek-liska-a-kun-2022-1080p-cz-titulky-mp4/d62b51508d0385fe) (ID 29325376) | [Sdílej 34646835](https://sdilej.cz/34646835/chlapec-krtek-liska-a-kun-2022-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:36:10.925423+00:00 |
