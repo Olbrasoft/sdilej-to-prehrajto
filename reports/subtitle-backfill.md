@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T05:30:21.387032+00:00
+Poslední aktualizace (UTC): 2026-11-13T05:30:33.066352+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -1716,7 +1716,7 @@ Kontrol: 40; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [Resident Evil (2026) 4K CZ Titulky](https://prehraj.to/resident-evil-2026-4k-cz-titulky-mp4/2ceefa9483751649) (ID 30649578) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.113826+00:00 |
 | [Restart the Earth (2021) 1080p CZ Titulky](https://prehraj.to/restart-the-earth-2021-1080p-cz-titulky-mp4/df634c0923fbfc12) (ID 30345573) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.111082+00:00 |
 | [Revolt (2017) SD CZ Titulky](https://prehraj.to/revolt-2017-sd-cz-titulky-avi/2e38fbed2726da1d) (ID 30371729) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.111402+00:00 |
-| [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:26:37.975061+00:00 |
+| [Rezavý meč (2015) SD CZ Titulky](https://prehraj.to/rezavy-mec-2015-sd-cz-titulky-mp4/9501e8789b9156e8) (ID 29293973) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T05:30:33.066248+00:00 |
 | [Richard III (1995) 1080p CZ Titulky](https://prehraj.to/richard-iii-1995-1080p-cz-titulky-mkv/c5789cf4a38c5554) (ID 30871204) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.116892+00:00 |
 | [Ride On (2023) 1080p CZ Titulky](https://prehraj.to/ride-on-2023-1080p-cz-titulky-mp4/cb860af57d0ce99d) (ID 30280693) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.110630+00:00 |
 | [Ringo del Nebraska (1966) SD CZ Titulky](https://prehraj.to/ringo-del-nebraska-1966-sd-cz-titulky-mp4/e58f3fa17d28c48f) (ID 30914844) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T05:30:07.118397+00:00 |
