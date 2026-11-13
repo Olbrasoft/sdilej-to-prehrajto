@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:59:49.467064+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:59:58.487519+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2176,7 +2176,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [The Plague (2025) 1080p CZ Titulky](https://prehraj.to/the-plague-2025-1080p-cz-titulky-mp4/e0df06c266418738) (ID 30245983) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.906998+00:00 |
 | [The Possession Experiment (2016) SD CZ Titulky](https://prehraj.to/the-possession-experiment-2016-sd-cz-titulky-mkv/194ebae41837e749) (ID 29721844) | [Sdílej 6895721](https://sdilej.cz/6895721/the-possession-experiment.2016.hdrip.xvid.ac3-slovenske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:17.863506+00:00 |
 | [The Prosecutor (2024) 4K CZ Titulky](https://prehraj.to/the-prosecutor-2024-4k-cz-titulky-mkv/dabcef86e47a5beb) (ID 30568777) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.911744+00:00 |
-| [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T16:55:48.658068+00:00 |
+| [The Protector (2019) 1080p CZ Titulky](https://prehraj.to/the-protector-2019-1080p-cz-titulky-mp4/2b48a369530a848a) (ID 29567691) | [Sdílej 34773541](https://sdilej.cz/34773541/the-protector-2019-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:59:58.487395+00:00 |
 | [The Real Right Stuff (2020) 1080p CZ Titulky.mp4](https://prehraj.to/the-real-right-stuff-2020-1080p-cz-titulky-mp4/19b92d8636074dd1) (ID 29576943) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.898748+00:00 |
 | [The Red Tide Massacre (2022) 1080p CZ Titulky](https://prehraj.to/the-red-tide-massacre-2022-1080p-cz-titulky-mkv/734977416655fa19) (ID 30714797) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.913454+00:00 |
 | [The Rental (2020) 1080p CZ Titulky](https://prehraj.to/the-rental-2020-1080p-cz-titulky-mkv/ae447861aa3528da) (ID 29916859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.901848+00:00 |
