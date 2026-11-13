@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:38:33.358686+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:38:44.897567+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2297,7 +2297,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 284. Dů
 | [Un hipster en la España vacía (2024) 720p CZ Titulky](https://prehraj.to/un-hipster-en-la-espana-vacia-2024-720p-cz-titulky-mp4/ec0634a4118036c7) (ID 29575065) | [Sdílej 34724603](https://sdilej.cz/34724603/un-hipster-en-la-espa-a-vacia-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:02:26.273597+00:00 |
 | [Un moment d'égarement (2015) 1080p CZ Titulky](https://prehraj.to/un-moment-d-egarement-2015-1080p-cz-titulky-mkv/d1404c4af4942d54) (ID 29010356) | [Sdílej 17665210](https://sdilej.cz/17665210/un.moment.d-egarement.2015.1080p.x264.aac5.1-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:14:20.542454+00:00 |
 | [Unacknowledged (2017) 1080p CZ Titulky](https://prehraj.to/unacknowledged-2017-1080p-cz-titulky-mkv/df5daf294c594bec) (ID 29631739) | [Sdílej 7661428](https://sdilej.cz/7661428/unacknowledged-2017-.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:31.459887+00:00 |
-| [Uncle Drew (2018) 1080p CZ Titulky](https://prehraj.to/uncle-drew-2018-1080p-cz-titulky-mp4/7c603d364972af24) (ID 29688963) | [Sdílej 29032600](https://sdilej.cz/29032600/uncle-drew-2018-1080p-nf-web-dl-ddp5-1-h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:40:15.634098+00:00 |
+| [Uncle Drew (2018) 1080p CZ Titulky](https://prehraj.to/uncle-drew-2018-1080p-cz-titulky-mp4/7c603d364972af24) (ID 29688963) | [Sdílej 29032600](https://sdilej.cz/29032600/uncle-drew-2018-1080p-nf-web-dl-ddp5-1-h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:38:44.897459+00:00 |
 | [Under the Christmas Tree (2021) 1080p CZ Titulky](https://prehraj.to/under-the-christmas-tree-2021-1080p-cz-titulky-mp4/862a600451156830) (ID 30253769) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.653454+00:00 |
 | [Under the Tonto Rim (1947) SD CZ Titulky](https://prehraj.to/under-the-tonto-rim-1947-sd-cz-titulky-mp4/46e36da60a5d8cac) (ID 29718135) | [Sdílej 34789130](https://sdilej.cz/34789130/under-the-tonto-rim-1947-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:49:16.873362+00:00 |
 | [Undertone (2025) 1440p CZ Titulky](https://prehraj.to/undertone-2025-1440p-cz-titulky-mp4/f930559d3cec1c79) (ID 29923547) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:15:56.649066+00:00 |
