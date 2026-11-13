@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:10:23.047909+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:10:32.394288+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -206,7 +206,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 320. Dů
 | [Basquiat (1996) 1080p CZ Titulky](https://prehraj.to/basquiat-1996-1080p-cz-titulky-mp4/d1061d3c8aba0d9e) (ID 29640928) | [Sdílej 34959733](https://sdilej.cz/34959733/1996-basquiat-zivotopisny-78-jeffrey-wright.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:17:13.217724+00:00 |
 | [Bastard (2023) 1080p CZ Titulky](https://prehraj.to/bastard-2023-1080p-cz-titulky-mkv/0878f436cbf0562b) (ID 29509680) | [Sdílej 31415631](https://sdilej.cz/31415631/bastard-bastarden-the-promise-land-2023-dk-1080p.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:10:15.490975+00:00 |
 | [Batman: Gotham by Gaslight (2018) SD CZ Titulky](https://prehraj.to/batman-gotham-by-gaslight-2018-sd-cz-titulky-mkv/668d0941f260a979) (ID 30683528) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.913243+00:00 |
-| [Battle in Space: The Armada Attacks (2021) 1080p CZ Titulky](https://prehraj.to/battle-in-space-the-armada-attacks-2021-1080p-cz-titulky-mkv/a3375308d91903d4) (ID 29610349) | [Sdílej 15433815](https://sdilej.cz/15433815/battle.in.space.the.armada.attacks.2021.1080p.amzn.web-dl.ddp2.0.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:05:50.077463+00:00 |
+| [Battle in Space: The Armada Attacks (2021) 1080p CZ Titulky](https://prehraj.to/battle-in-space-the-armada-attacks-2021-1080p-cz-titulky-mkv/a3375308d91903d4) (ID 29610349) | [Sdílej 15433815](https://sdilej.cz/15433815/battle.in.space.the.armada.attacks.2021.1080p.amzn.web-dl.ddp2.0.h.264-ntg.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:10:32.394138+00:00 |
 | [Battlefield: Fall of the World (2022) 720p CZ Titulky](https://prehraj.to/battlefield-fall-of-the-world-2022-720p-cz-titulky-mp4/83b7bcbb32cc36ea) (ID 30725212) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T17:51:07.913638+00:00 |
 | [Battlestar Galactica: Plán (2009) 1080p CZ Titulky](https://prehraj.to/battlestar-galactica-plan-2009-1080p-cz-titulky-mp4/c7fd5b1914f6e432) (ID 29429444) | [Sdílej 32444722](https://sdilej.cz/32444722/battlestar-galactica-the-plan-2009-eng1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:34:25.485781+00:00 |
 | [Be with you (2018) SD CZ Titulky](https://prehraj.to/be-with-you-2018-sd-cz-titulky-avi/fbda9cc4f0957a44) (ID 29585958) | [Sdílej 10928825](https://sdilej.cz/10928825/jigeum-mannaleo-gabnida-be-with-you-2018-bluray-cz-titulky.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:05:45.251094+00:00 |
