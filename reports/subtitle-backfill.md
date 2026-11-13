@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:53:44.568803+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:53:54.937709+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -556,7 +556,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Dům běsů (2023) 1080p CZ Titulky](https://prehraj.to/dum-besu-2023-1080p-cz-titulky-mp4/efbbe4005a9be74f) (ID 30160550) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.246784+00:00 |
 | [EPiC: Elvis Presley in Concert (2026) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29319498) | [Sdílej 33941520](https://sdilej.cz/33941520/epic-elvis-presley-in-concert-2026-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-13T15:31:25.204724+00:00 |
 | [EVA (2011) SD CZ Titulky](https://prehraj.to/eva-2011-sd-cz-titulky-mp4/7f4eb9b66b6f1907) (ID 30917186) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251767+00:00 |
-| [Earth to Echo (2014) SD CZ Titulky](https://prehraj.to/earth-to-echo-2014-sd-cz-titulky-mp4/54f815491411b324) (ID 29721032) | [Sdílej 34738450](https://sdilej.cz/34738450/earth-to-echo-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:50:49.702206+00:00 |
+| [Earth to Echo (2014) SD CZ Titulky](https://prehraj.to/earth-to-echo-2014-sd-cz-titulky-mp4/54f815491411b324) (ID 29721032) | [Sdílej 34738450](https://sdilej.cz/34738450/earth-to-echo-2014-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:53:54.937590+00:00 |
 | [Ebigejl (2019) 1080p CZ Titulky.mp4](https://prehraj.to/ebigejl-2019-1080p-cz-titulky-mp4/b6eeb5696e202457) (ID 29939326) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.245606+00:00 |
 | [Ed Gein: The Real Psycho (2021) 1080p CZ Titulky](https://prehraj.to/ed-gein-the-real-psycho-2021-1080p-cz-titulky-mp4/d6d0f10f7a682156) (ID 30912958) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.251692+00:00 |
 | [Eddington (2025) 1080p CZ Titulky](https://prehraj.to/eddington-2025-1080p-cz-titulky-mkv/fd1541c444495b52) (ID 30557934) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.249384+00:00 |
