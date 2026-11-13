@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T08:29:53.808716+00:00
+Poslední aktualizace (UTC): 2026-11-13T08:30:05.236452+00:00
 
 Zkontrolováno videí: 3133. Další stránka kontroly: 0.
 
@@ -269,7 +269,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Blue Mountain State: The Rise of Thadland (2016) SD CZ Titulky](https://prehraj.to/blue-mountain-state-the-rise-of-thadland-2016-sd-cz-titulky-mp4/b6a01e7282922aca) (ID 29719125) | [Sdílej 34775362](https://sdilej.cz/34775362/blue-mountain-state-the-rise-of-thadland-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:49:45.066296+00:00 |
 | [Blutgletscher (2013) SD CZ Titulky](https://prehraj.to/blutgletscher-2013-sd-cz-titulky-avi/0f3554087f7cb179) (ID 29706180) | [Sdílej 27467306](https://sdilej.cz/27467306/blutgletscher-2013-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:42:03.368028+00:00 |
 | [Bláznivé mládí (2013) SD CZ Titulky](https://prehraj.to/blaznive-mladi-2013-sd-cz-titulky-mp4/53ec2d4a06415fe0) (ID 30028750) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.469934+00:00 |
-| [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T07:32:01.494778+00:00 |
+| [Blízko (2022) 1080p CZ Titulky](https://prehraj.to/blizko-2022-1080p-cz-titulky-mp4/d1e5878ebc9a893a) (ID 29319130) | [Sdílej 29957955](https://sdilej.cz/29957955/blizko-2022-cs-1080p-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T08:30:05.236336+00:00 |
 | [Blücher (2025) 4K CZ Titulky](https://prehraj.to/bluecher-2025-4k-cz-titulky-mkv/91148b44d0e97e8d) (ID 30052306) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.470194+00:00 |
 | [Boar (2017) 1080p CZ Titulky](https://prehraj.to/boar-2017-1080p-cz-titulky-mkv/d688df7425ac660c) (ID 30935648) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T08:27:03.476378+00:00 |
 | [Bob Ross: Šťastné náhody, zrada a chamtivost (2021) 1080p CZ Titulky](https://prehraj.to/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-1080p-cz-titulky-mp4/6376b023be19998c) (ID 29566506) | [Sdílej 34773043](https://sdilej.cz/34773043/bob-ross-stastne-nahody-zrada-a-chamtivost-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T18:00:42.178788+00:00 |
