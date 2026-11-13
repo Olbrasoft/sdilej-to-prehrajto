@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T20:36:17.060924+00:00
+Poslední aktualizace (UTC): 2026-11-13T20:36:25.646246+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1855,7 +1855,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sidonie v Japonsku (2023) 1080p CZ Titulky](https://prehraj.to/sidonie-v-japonsku-2023-1080p-cz-titulky-mkv/8a25727f0a4fbddf) (ID 31009142) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.534934+00:00 |
 | [Silent Night (2012) SD CZ Titulky](https://prehraj.to/silent-night-2012-sd-cz-titulky-avi/091dae5a510c34cb) (ID 30371256) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.527163+00:00 |
 | [Silent Zone (2025) 720p CZ Titulky](https://prehraj.to/silent-zone-2025-720p-cz-titulky-mp4/1e0f5037874d682f) (ID 29968119) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.523376+00:00 |
-| [Simona Kossak (2024) 1080p CZ Titulky](https://prehraj.to/simona-kossak-2024-1080p-cz-titulky-mp4/b4efffee36781655) (ID 29755186) | [Sdílej 34724782](https://sdilej.cz/34724782/simona-kossak-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T19:39:12.304219+00:00 |
+| [Simona Kossak (2024) 1080p CZ Titulky](https://prehraj.to/simona-kossak-2024-1080p-cz-titulky-mp4/b4efffee36781655) (ID 29755186) | [Sdílej 34724782](https://sdilej.cz/34724782/simona-kossak-2024-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:36:25.646123+00:00 |
 | [Simple Plan: The Kids in the Crowd (2025) 1080p CZ Titulky](https://prehraj.to/simple-plan-the-kids-in-the-crowd-2025-1080p-cz-titulky-mp4/eca73ecc69f92e3a) (ID 30051803) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T20:28:23.524416+00:00 |
 | [Sing Street (2016) SD CZ Titulky](https://prehraj.to/sing-street-2016-sd-cz-titulky-mp4/c3894a4ddc1e027f) (ID 29290332) | [Sdílej 34774971](https://sdilej.cz/34774971/sing-street-2016-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T04:27:38.367789+00:00 |
 | [Singham (2011) SD CZ Titulky](https://prehraj.to/singham-2011-sd-cz-titulky-mp4/9a63edd9bd9cea5e) (ID 29445959) | [Sdílej 34746723](https://sdilej.cz/34746723/singham-2011-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:38:36.795096+00:00 |
