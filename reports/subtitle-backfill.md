@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:52:10.119436+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:52:20.335121+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2299,7 +2299,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Unacknowledged (2017) 1080p CZ Titulky](https://prehraj.to/unacknowledged-2017-1080p-cz-titulky-mkv/df5daf294c594bec) (ID 29631739) | [Sdílej 7661428](https://sdilej.cz/7661428/unacknowledged-2017-.1080p-ceske-titulky.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:20:31.459887+00:00 |
 | [Uncle Drew (2018) 1080p CZ Titulky](https://prehraj.to/uncle-drew-2018-1080p-cz-titulky-mp4/7c603d364972af24) (ID 29688963) | [Sdílej 29032600](https://sdilej.cz/29032600/uncle-drew-2018-1080p-nf-web-dl-ddp5-1-h264-sprite.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:38:44.897459+00:00 |
 | [Under the Christmas Tree (2021) 1080p CZ Titulky](https://prehraj.to/under-the-christmas-tree-2021-1080p-cz-titulky-mp4/862a600451156830) (ID 30253769) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.247198+00:00 |
-| [Under the Tonto Rim (1947) SD CZ Titulky](https://prehraj.to/under-the-tonto-rim-1947-sd-cz-titulky-mp4/46e36da60a5d8cac) (ID 29718135) | [Sdílej 34789130](https://sdilej.cz/34789130/under-the-tonto-rim-1947-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:49:16.873362+00:00 |
+| [Under the Tonto Rim (1947) SD CZ Titulky](https://prehraj.to/under-the-tonto-rim-1947-sd-cz-titulky-mp4/46e36da60a5d8cac) (ID 29718135) | [Sdílej 34789130](https://sdilej.cz/34789130/under-the-tonto-rim-1947-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:52:20.335002+00:00 |
 | [Undertone (2025) 1440p CZ Titulky](https://prehraj.to/undertone-2025-1440p-cz-titulky-mp4/f930559d3cec1c79) (ID 29923547) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.244982+00:00 |
 | [Unfriend (2016) SD CZ Titulky](https://prehraj.to/unfriend-2016-sd-cz-titulky-avi/e3c3cff865638b50) (ID 29089305) | [Sdílej 12685980](https://sdilej.cz/12685980/unfriend-2016-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T15:41:30.889203+00:00 |
 | [Union Pacific (1939) SD CZ Titulky](https://prehraj.to/union-pacific-1939-sd-cz-titulky-mp4/70aea526d4f259a5) (ID 29373289) | [Sdílej 34756217](https://sdilej.cz/34756217/union-pacific-1939-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T11:31:14.833806+00:00 |
