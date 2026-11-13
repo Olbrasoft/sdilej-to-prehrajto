@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T18:53:19.233873+00:00
+Poslední aktualizace (UTC): 2026-11-13T18:53:33.115661+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -2265,7 +2265,7 @@ Kontrol: 120; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Dů
 | [Trigger Point (2021) 1080p CZ Titulky](https://prehraj.to/trigger-point-2021-1080p-cz-titulky-mkv/903310252fa23478) (ID 30857396) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.250960+00:00 |
 | [Triggered (2020) 1080p CZ Titulky](https://prehraj.to/triggered-2020-1080p-cz-titulky-mkv/af23ac86b1933f66) (ID 30409381) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248397+00:00 |
 | [True: Zimní přání (2019) 1080p CZ Titulky](https://prehraj.to/true-zimni-prani-2019-1080p-cz-titulky-mp4/846581e6f4658021) (ID 29587566) | [Sdílej 34733680](https://sdilej.cz/34733680/true-zimni-prani-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:06:17.010738+00:00 |
-| [Truth or Dare (2012) SD CZ Titulky](https://prehraj.to/truth-or-dare-2012-sd-cz-titulky-avi/c702cdbdf3fcc441) (ID 29720100) | [Sdílej 34453140](https://sdilej.cz/34453140/truth-or-dare.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:50:28.819524+00:00 |
+| [Truth or Dare (2012) SD CZ Titulky](https://prehraj.to/truth-or-dare-2012-sd-cz-titulky-avi/c702cdbdf3fcc441) (ID 29720100) | [Sdílej 34453140](https://sdilej.cz/34453140/truth-or-dare.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:53:33.115538+00:00 |
 | [Tubelight (2017) SD CZ Titulky](https://prehraj.to/tubelight-2017-sd-cz-titulky-mp4/cb5b768f2adec8ba) (ID 30434280) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.248663+00:00 |
 | [Tucet špinavců III: Smrtelná mise (1987) SD CZ Titulky](https://prehraj.to/tucet-spinavcu-iii-smrtelna-mise-1987-sd-cz-titulky-avi/7c37d9bf78409503) (ID 29609316) | [Sdílej 12223322](https://sdilej.cz/12223322/tucet-spinavcu-3-smrtelna-mise-the-dirty-dozen-the-deadly-mission-1987-cz.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:09:59.469640+00:00 |
 | [Turist (2021) 1080p CZ Titulky](https://prehraj.to/turist-2021-1080p-cz-titulky-mp4/127bc69bed16c563) (ID 30716859) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-13T18:42:24.250287+00:00 |
