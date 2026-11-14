@@ -416517,7 +416517,15 @@
       }
     },
     "20663": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11071307",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-14T17:39:55.111172+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11071307",
         "display_name": "Astral (2018) 1080p CZ Titulky",
@@ -418079,7 +418087,15 @@
       }
     },
     "17122": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12456058",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-14T17:40:15.972144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12456058",
         "display_name": "Legenda o Matce temné noci (2019) 720p CZ Titulky",
@@ -418473,6 +418489,18 @@
         "source_id": "11715605",
         "display_name": "Iron Sky: The Coming Race (2019) 1080p CZ Titulky",
         "planned_at": "2026-11-14T17:32:08.671831+00:00"
+      },
+      "claim": {
+        "worker_id": "76a127d4b0044cc9ae69158f541cfc4b-shard-0",
+        "claimed_at": "2026-11-14T17:40:16.370250+00:00",
+        "lease_expires_at": "2026-11-14T23:40:16.370250+00:00",
+        "run_id": "43609605630"
+      },
+      "previous_target_id": "31035783",
+      "prepared": {
+        "target_video_id": "31035783",
+        "size_bytes": 2096167319,
+        "prepared_at": "2026-11-14T17:40:39.004049+00:00"
       }
     },
     "27038": {
@@ -445343,5 +445371,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T17:39:27.360338+00:00"
+  "updated_at": "2026-11-14T17:40:39.004068+00:00"
 }
