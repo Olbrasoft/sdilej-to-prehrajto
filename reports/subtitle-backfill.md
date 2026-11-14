@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T09:26:59.175000+00:00
+Poslední aktualizace (UTC): 2026-11-14T09:27:02.568556+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -965,7 +965,7 @@ Kontrol: 38; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Into the Ashes (2019) 1080p CZ Titulky](https://prehraj.to/into-the-ashes-2019-1080p-cz-titulky-mkv/0d20a038c2f1901a) (ID 29927444) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T09:26:21.906238+00:00 |
 | [Into the Deep (2022) SD CZ Titulky](https://prehraj.to/into-the-deep-2022-sd-cz-titulky-avi/5afa7a5d4507fb2b) (ID 30951732) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T09:26:21.930368+00:00 |
 | [Invasive (2024) 1080p CZ Titulky](https://prehraj.to/invasive-2024-1080p-cz-titulky-mkv/7ed94b4bc897c4a0) (ID 30254116) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T09:26:21.910708+00:00 |
-| [Invaze: Operace Mincemeat (2021) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29222250) | [Sdílej 29331445](https://sdilej.cz/29331445/operation.mincemeat-2021-cztit-v-obraze.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T08:26:46.300739+00:00 |
+| [Invaze: Operace Mincemeat (2021) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29222250) | [Sdílej 29331445](https://sdilej.cz/29331445/operation.mincemeat-2021-cztit-v-obraze.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T09:27:02.568492+00:00 |
 | [Ip Man: Kung Fu Master (2019) 720p CZ Titulky](https://prehraj.to/ip-man-kung-fu-master-2019-720p-cz-titulky-mp4/49337b2327af4462) (ID 29649588) | [Sdílej 34734418](https://sdilej.cz/34734418/ip-man-kung-fu-master-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:27:06.361914+00:00 |
 | [Iron Lung (2026) 1080p CZ Titulky](https://prehraj.to/iron-lung-2026-1080p-cz-titulky-mkv/83a4b601101ae9f6) (ID 30448670) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T09:26:21.916583+00:00 |
 | [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T09:26:44.485924+00:00 |
