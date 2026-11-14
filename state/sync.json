@@ -420470,17 +420470,20 @@
       }
     },
     "9449": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "17418863",
+          "target_video_id": "31037441",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-14T19:30:52.983138+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17418863",
         "display_name": "Stíny z podkroví (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-14T19:17:17.955615+00:00"
-      },
-      "claim": {
-        "worker_id": "d54e9f6a5680407896fea4f1c73dca21-shard-0",
-        "claimed_at": "2026-11-14T19:17:19.780879+00:00",
-        "lease_expires_at": "2026-11-15T01:17:19.780879+00:00",
-        "run_id": "43609605630"
       },
       "previous_target_id": "31037441",
       "prepared": {
@@ -446023,5 +446026,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T19:17:23.465229+00:00"
+  "updated_at": "2026-11-14T19:30:52.983156+00:00"
 }
