@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T11:26:04.304348+00:00
+Poslední aktualizace (UTC): 2026-11-14T11:26:07.807112+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -968,7 +968,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Invaze: Operace Mincemeat (2021) SD CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29222250) | [Sdílej 29331445](https://sdilej.cz/29331445/operation.mincemeat-2021-cztit-v-obraze.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T09:27:02.568492+00:00 |
 | [Ip Man: Kung Fu Master (2019) 720p CZ Titulky](https://prehraj.to/ip-man-kung-fu-master-2019-720p-cz-titulky-mp4/49337b2327af4462) (ID 29649588) | [Sdílej 34734418](https://sdilej.cz/34734418/ip-man-kung-fu-master-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:27:06.361914+00:00 |
 | [Iron Lung (2026) 1080p CZ Titulky](https://prehraj.to/iron-lung-2026-1080p-cz-titulky-mkv/83a4b601101ae9f6) (ID 30448670) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T11:24:25.845203+00:00 |
-| [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T09:26:44.485924+00:00 |
+| [Iron Maiden: Burning Ambition (2026) 4K CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29198520) | [Sdílej 34679657](https://sdilej.cz/34679657/iron.maiden.burning.ambition.2026.2160p.4k.web.x265.10bit.aac5.1.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T11:26:07.807018+00:00 |
 | [Iron Sky (2012) 1080p CZ Titulky](https://prehraj.to/iron-sky-2012-1080p-cz-titulky-mp4/70fc71db9141d6f2) (ID 29912564) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T11:24:25.838900+00:00 |
 | [Ironclad 2: Battle for Blood (2014) SD CZ Titulky](https://prehraj.to/ironclad-2-battle-for-blood-2014-sd-cz-titulky-avi/cc6bd6886da5efa2) (ID 30937711) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T11:24:25.850468+00:00 |
 | [Irčan v rozhovorech (2019) 1080p CZ Titulky](https://prehraj.to/ircan-v-rozhovorech-2019-1080p-cz-titulky-mp4/2a1c4ff91d77e010) (ID 29833818) | [Sdílej 34734267](https://sdilej.cz/34734267/ircan-v-rozhovorech-2019-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T20:40:18.202283+00:00 |
