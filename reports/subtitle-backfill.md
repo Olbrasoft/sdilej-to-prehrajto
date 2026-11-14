@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T00:47:55.895446+00:00
+Poslední aktualizace (UTC): 2026-11-14T00:48:02.989558+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1094,7 +1094,7 @@ Kontrol: 39; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 2. Důvod
 | [Kos (2024) 1080p CZ Titulky](https://prehraj.to/kos-2024-1080p-cz-titulky-mp4/7f0b9a563faa7a1e) (ID 30504257) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.202978+00:00 |
 | [Kosh SD CZ Titulky](https://prehraj.to/kosh-sd-cz-titulky-mp4/f034feea2465f1a1) (ID 30442829) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.202396+00:00 |
 | [Kozara (1962) SD CZ Titulky](https://prehraj.to/kozara-1962-sd-cz-titulky-mp4/5bdc5ef801e8d00d) (ID 29355142) | [Sdílej 34699946](https://sdilej.cz/34699946/kozara-1962-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T10:33:07.156379+00:00 |
-| [Kočičky (2020) 1080p CZ Titulky](https://prehraj.to/kocicky-2020-1080p-cz-titulky-mp4/020b6904a7b0311c) (ID 30647101) | [Sdílej 34712572](https://sdilej.cz/34712572/kocicky-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-07T00:41:49.373658+00:00 |
+| [Kočičky (2020) 1080p CZ Titulky](https://prehraj.to/kocicky-2020-1080p-cz-titulky-mp4/020b6904a7b0311c) (ID 30647101) | [Sdílej 34712572](https://sdilej.cz/34712572/kocicky-2020-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-14T00:48:02.989426+00:00 |
 | [Kraj světa (2019) 1080p CZ Titulky](https://prehraj.to/kraj-sveta-2019-1080p-cz-titulky-mkv/9f6d9430b261e90b) (ID 30625517) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.204039+00:00 |
 | [Kraken (2025) 1080p CZ Titulky](https://prehraj.to/kraken-2025-1080p-cz-titulky-mkv/007438b1eb79ac22) (ID 29915927) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.196995+00:00 |
 | [Kraken (2026) 1080p CZ Titulky](https://prehraj.to/kraken-2026-1080p-cz-titulky-mkv/68a4b77aecf514e5) (ID 30864572) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.205869+00:00 |
