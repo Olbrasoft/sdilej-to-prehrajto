@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T00:48:02.989558+00:00
+Poslední aktualizace (UTC): 2026-11-14T00:49:16.715447+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -124,7 +124,7 @@ Kontrol: 39; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 2. Důvod
 | [Another Time (2018) SD CZ Titulky](https://prehraj.to/another-time-2018-sd-cz-titulky-avi/c49c40380972a8a0) (ID 30353621) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.201111+00:00 |
 | [Antidote (2018) 1080p CZ Titulky](https://prehraj.to/antidote-2018-1080p-cz-titulky-mp4/454cf6f45d4b0ccd) (ID 29608713) | [Sdílej 34774428](https://sdilej.cz/34774428/antidote-2018-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:09:34.811317+00:00 |
 | [Antifascisterna (2017) 720p CZ Titulky](https://prehraj.to/antifascisterna-2017-720p-cz-titulky-mp4/17d81d0240e36f98) (ID 29630910) | [Sdílej 34737533](https://sdilej.cz/34737533/antifascisterna-2017-cz-titulky.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:16:58.048291+00:00 |
-| [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-07T00:42:51.852485+00:00 |
+| [Antiviral (2012) SD CZ Titulky](https://prehraj.to/antiviral-2012-sd-cz-titulky-avi/c9e0b418ed75e7ca) (ID 29713319) | [Sdílej 34442818](https://sdilej.cz/34442818/antiviral-2012-.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-14T00:49:16.715324+00:00 |
 | [Antropocén: Epocha člověka (2018) 720p CZ Titulky](https://prehraj.to/antropocen-epocha-cloveka-2018-720p-cz-titulky-mp4/41fa081a25f124d9) (ID 30695344) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.204525+00:00 |
 | [Anything for Jackson (2020) 1080p CZ Titulky](https://prehraj.to/anything-for-jackson-2020-1080p-cz-titulky-mp4/dbb349b8cccbaf89) (ID 30733891) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T00:47:53.204771+00:00 |
 | [Apache Junction (2021) 720p CZ Titulky](https://prehraj.to/apache-junction-2021-720p-cz-titulky-mp4/c56348699fda513c) (ID 29639155) | [Sdílej 34773078](https://sdilej.cz/34773078/apache-junction-2021-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:20:53.089005+00:00 |
