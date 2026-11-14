@@ -297142,13 +297142,6 @@
           "permanent": false,
           "source_id": "27907327",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-14T17:55:29.940688+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "27907327",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-14T18:59:56.368038+00:00"
         },
         {
@@ -297157,18 +297150,20 @@
           "source_id": "27907327",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-14T20:47:04.711903+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27907327",
+          "target_video_id": "31039304",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-14T21:34:26.539998+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27907327",
         "display_name": "Hellhound (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-14T21:05:05.651039+00:00"
-      },
-      "claim": {
-        "worker_id": "1555ad54e5a941efa0284ddab423fd5b-shard-0",
-        "claimed_at": "2026-11-14T21:22:43.154960+00:00",
-        "lease_expires_at": "2026-11-15T03:22:43.154960+00:00",
-        "run_id": "43609605630"
       },
       "previous_target_id": "31039304",
       "prepared": {
@@ -446216,5 +446211,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T21:22:47.474538+00:00"
+  "updated_at": "2026-11-14T21:34:26.540016+00:00"
 }
