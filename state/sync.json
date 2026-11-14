@@ -101193,7 +101193,15 @@
       "attempts": []
     },
     "35644": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "35065815",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-14T13:49:24.156466+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35065815",
         "display_name": "Roxette: Live Travelling the World (2013) 1080p CZ Titulky",
@@ -101236,6 +101244,18 @@
         "source_id": "27507619",
         "display_name": "Def Leppard - Best of the Videos (2004) SD CZ Titulky",
         "planned_at": "2026-11-14T12:04:18.716334+00:00"
+      },
+      "claim": {
+        "worker_id": "168167ea0b7c4c45b91d6cdea70ebee5-shard-0",
+        "claimed_at": "2026-11-14T13:49:24.524123+00:00",
+        "lease_expires_at": "2026-11-14T19:49:24.524123+00:00",
+        "run_id": "43584782157"
+      },
+      "previous_target_id": "31030944",
+      "prepared": {
+        "target_video_id": "31030944",
+        "size_bytes": 2148933520,
+        "prepared_at": "2026-11-14T13:49:46.926330+00:00"
       }
     },
     "26105": {
@@ -444371,5 +444391,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T13:48:55.982424+00:00"
+  "updated_at": "2026-11-14T13:49:46.926347+00:00"
 }
