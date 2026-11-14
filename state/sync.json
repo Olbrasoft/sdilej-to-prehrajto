@@ -287502,13 +287502,6 @@
           "permanent": false,
           "source_id": "23572166",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-14T18:58:19.236495+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "23572166",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-14T20:45:41.430435+00:00"
         },
         {
@@ -287517,18 +287510,19 @@
           "source_id": "23572166",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-14T21:04:52.358524+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23572166",
+          "target_video_id": "31041716",
+          "permanent": false,
+          "attempted_at": "2026-11-14T23:33:28.369666+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23572166",
         "display_name": "Spectral (2016) 1080p CZ Titulky",
         "planned_at": "2026-11-14T23:04:25.025456+00:00"
-      },
-      "claim": {
-        "worker_id": "52eb273292994253a5e99c880d26d58f-shard-0",
-        "claimed_at": "2026-11-14T23:21:21.751644+00:00",
-        "lease_expires_at": "2026-11-15T05:21:21.751644+00:00",
-        "run_id": "43642228434"
       },
       "previous_target_id": "31041716",
       "prepared": {
@@ -446322,5 +446316,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T23:21:25.694505+00:00"
+  "updated_at": "2026-11-14T23:33:28.369686+00:00"
 }
