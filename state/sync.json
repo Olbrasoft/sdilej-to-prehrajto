@@ -244929,13 +244929,6 @@
           "permanent": false,
           "source_id": "11398075",
           "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-11-14T16:51:31.970673+00:00"
-        },
-        {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "11398075",
-          "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-14T17:51:55.169770+00:00"
         },
         {
@@ -244944,18 +244937,20 @@
           "source_id": "11398075",
           "reason": "Existing target lookup failed; upload deferred",
           "attempted_at": "2026-11-14T18:56:17.719581+00:00"
+        },
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "11398075",
+          "target_video_id": "31037742",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-14T20:42:39.840291+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11398075",
         "display_name": "Trojí hranice (2019) 4K CZ Titulky",
         "planned_at": "2026-11-14T19:38:35.608025+00:00"
-      },
-      "claim": {
-        "worker_id": "eb244f50d62349929ae966f9c65784f7-shard-0",
-        "claimed_at": "2026-11-14T19:39:38.821037+00:00",
-        "lease_expires_at": "2026-11-15T01:39:38.821037+00:00",
-        "run_id": "43609605630"
       },
       "previous_target_id": "31037742",
       "prepared": {
@@ -446136,5 +446131,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T19:40:01.405031+00:00"
+  "updated_at": "2026-11-14T20:42:39.840309+00:00"
 }
