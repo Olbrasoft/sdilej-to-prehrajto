@@ -415879,17 +415879,20 @@
       }
     },
     "31071": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "15177488",
+          "target_video_id": "31035624",
+          "reason": "Target reconciliation unavailable; retry deferred",
+          "attempted_at": "2026-11-14T17:39:27.360320+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15177488",
         "display_name": "Heks (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-14T17:32:07.545142+00:00"
-      },
-      "claim": {
-        "worker_id": "76a127d4b0044cc9ae69158f541cfc4b-shard-0",
-        "claimed_at": "2026-11-14T17:32:29.963795+00:00",
-        "lease_expires_at": "2026-11-14T23:32:29.963795+00:00",
-        "run_id": "43609605630"
       },
       "previous_target_id": "31035624",
       "prepared": {
@@ -445340,5 +445343,5 @@
       }
     }
   },
-  "updated_at": "2026-11-14T17:32:52.104478+00:00"
+  "updated_at": "2026-11-14T17:39:27.360338+00:00"
 }
