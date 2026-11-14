@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T02:29:19.972449+00:00
+Poslední aktualizace (UTC): 2026-11-14T02:29:23.441246+00:00
 
 Zkontrolováno videí: 3151. Další stránka kontroly: 0.
 
@@ -1134,7 +1134,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Last Radio Call (2022) 1080p CZ Titulky](https://prehraj.to/last-radio-call-2022-1080p-cz-titulky-avi/3010ce71359a4470) (ID 29648411) | [Sdílej 21709810](https://sdilej.cz/21709810/last-radio-call-webrip-hd-cz-titulky-2022.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T18:25:52.684070+00:00 |
 | [Last Sentinel (2023) SD CZ Titulky](https://prehraj.to/last-sentinel-2023-sd-cz-titulky-avi/134282292586006b) (ID 30400063) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T02:28:16.003534+00:00 |
 | [Last Straw (2023) 1080p CZ Titulky](https://prehraj.to/last-straw-2023-1080p-cz-titulky-mkv/203de5218c5f9692) (ID 29720485) | [Sdílej 29855453](https://sdilej.cz/29855453/last.straw.2023.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subssk-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-12T18:25:01.033048+00:00 |
-| [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T00:42:58.089911+00:00 |
+| [Late Night with the Devil (2023) 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 29491175) | [Sdílej 28718234](https://sdilej.cz/28718234/late.night.with.the.devil.2023.1080p.10bit.webrip.6ch.x265.hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-14T02:29:23.441178+00:00 |
 | [Late Phases (2014) SD CZ Titulky](https://prehraj.to/late-phases-2014-sd-cz-titulky-avi/afb7d6cb6496b349) (ID 30611359) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T02:28:16.006903+00:00 |
 | [Lawn Dogs (1997) SD CZ Titulky](https://prehraj.to/lawn-dogs-1997-sd-cz-titulky-mp4/1eff6ba83026b251) (ID 29489351) | [Sdílej 34784474](https://sdilej.cz/34784474/lawn-dogs-1997-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:42:24.510708+00:00 |
 | [Lazareth (2024) 1080p CZ Titulky](https://prehraj.to/lazareth-2024-1080p-cz-titulky-mkv/e966860eeb115cee) (ID 30457688) | Nedoložen | Chybí spolehlivé spojení tohoto uploadu s původním zdrojem. | 2026-11-14T02:28:16.004860+00:00 |
